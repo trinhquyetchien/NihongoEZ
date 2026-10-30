@@ -205,7 +205,7 @@ class SentenceAnalyzer(private val context: Context) {
                     val item = vArr.optJSONObject(i) ?: continue
                     val word = item.optString("word", "")
                     if (word == surface || word == baseForm) {
-                        return item.optString("meaning", null)
+                        return if (item.has("meaning") && !item.isNull("meaning")) item.getString("meaning") else null
                     }
                 }
             }

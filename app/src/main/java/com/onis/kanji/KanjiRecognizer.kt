@@ -59,17 +59,18 @@ class KanjiRecognizer(private val context: Context) {
 
     private fun loadLabelMap() {
         try {
-            val reader = BufferedReader(InputStreamReader(context.assets.open("label_map.csv")))
+            val reader = BufferedReader(InputStreamReader(context.assets.open("label_map.csv"), Charsets.UTF_8))
             // Skip header if exists
             var isFirstLine = true
             reader.forEachLine { line ->
+                val cleanLine = line.trimStart('\uFEFF')
                 if (isFirstLine) {
                     isFirstLine = false
                     return@forEachLine
                 }
-                val parts = line.split(",")
+                val parts = cleanLine.split(",")
                 if (parts.size >= 2) {
-                    val kanjiChar = parts[0]
+                    val kanjiChar = parts[0].trim()
                     val labelId = parts[1].trim().toIntOrNull()
                     if (labelId != null) {
                         labelMap[labelId] = kanjiChar
@@ -152,7 +153,7 @@ class KanjiRecognizer(private val context: Context) {
             val kunReadings = mutableListOf<String>()
             var amHan: String? = null
             if (reading != null) {
-                amHan = reading.optString("am_han", null)
+                amHan = if (reading.has("am_han") && !reading.isNull("am_han")) reading.getString("am_han") else null
                 val onArr = reading.optJSONArray("on")
                 if (onArr != null) {
                     for (i in 0 until onArr.length()) onReadings.add(onArr.getString(i))
@@ -167,8 +168,8 @@ class KanjiRecognizer(private val context: Context) {
             var meaningVi: String? = null
             var meaningEn: String? = null
             if (meaning != null) {
-                meaningVi = meaning.optString("vi", null)
-                meaningEn = meaning.optString("en", null)
+                meaningVi = if (meaning.has("vi") && !meaning.isNull("vi")) meaning.getString("vi") else null
+                meaningEn = if (meaning.has("en") && !meaning.isNull("en")) meaning.getString("en") else null
             }
 
             val stroke = json.optJSONObject("stroke")
@@ -193,9 +194,9 @@ class KanjiRecognizer(private val context: Context) {
                     if (vObj != null) {
                         val word = vObj.optString("word", "")
                         val reading = vObj.optString("reading", "")
-                        val meaning = vObj.optString("meaning", "")
+                        val meaningStr = vObj.optString("meaning", "")
                         if (word.isNotBlank()) {
-                            vocabList.add(KanjiVocab(word = word, reading = reading, meaning = meaning))
+                            vocabList.add(KanjiVocab(word = word, reading = reading, meaning = meaningStr))
                         }
                     }
                 }
@@ -204,7 +205,7 @@ class KanjiRecognizer(private val context: Context) {
             var explanation: String? = null
             val expObj = json.optJSONObject("explanation")
             if (expObj != null) {
-                explanation = expObj.optString("text", null)
+                explanation = if (expObj.has("text") && !expObj.isNull("text")) expObj.getString("text") else null
             }
 
             val imageUrls = mutableListOf<String>()
