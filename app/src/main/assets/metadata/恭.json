@@ -1,0 +1,131 @@
+{
+  "kanji": "恭",
+  "meta": {
+    "weight": 968,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "うやうや.しい"
+    ],
+    "am_han": "CUNG"
+  },
+  "meaning": {
+    "vi": "tôn trọng, tôn kính",
+    "en": "respect, reverent"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恭.svg"
+  },
+  "frequency": 1737,
+  "examples": [],
+  "explanation": {
+    "id": "1667",
+    "text": "恭 (đọc là \"kyou\") có nghĩa là \"kính trọng\", \"tôn kính\", thường chỉ thái độ lễ phép, tôn trọng trong giao tiếp và hành xử."
+  },
+  "comments": [
+    {
+      "id": "153584",
+      "lang": "vi",
+      "content_html": "<p>ở nơi công cộng nhỏ này phải biết cung kính người già...</p>",
+      "content_text": "ở nơi công cộng nhỏ này phải biết cung kính người già...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153585",
+      "lang": "vi",
+      "content_html": "<p>CUNG bằng cả con TIM là CUNG kính</p>",
+      "content_text": "CUNG bằng cả con TIM là CUNG kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153586",
+      "lang": "vi",
+      "content_html": "<p>tâm心 lớn大 cùng nhau共 cung thuận chung thành</p>",
+      "content_text": "tâm心 lớn大 cùng nhau共 cung thuận chung thành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "恭順",
+      "reading": "きょうじゅん",
+      "meaning": "lòng trung thành"
+    },
+    {
+      "word": "恭謙",
+      "reading": "きょうけん",
+      "meaning": "khiêm tốn"
+    },
+    {
+      "word": "恭敬",
+      "reading": "きょうけい",
+      "meaning": "sự tôn kính"
+    },
+    {
+      "word": "恭倹",
+      "reading": "きょうけん",
+      "meaning": "sự tôn trọng"
+    },
+    {
+      "word": "恭賀",
+      "reading": "きょうが",
+      "meaning": "những lời chúc mừng kính trọng"
+    },
+    {
+      "word": "允恭",
+      "reading": "いんぎょう",
+      "meaning": "sự lịch sự"
+    },
+    {
+      "word": "恭しい",
+      "reading": "うやうやしい",
+      "meaning": "tôn kính"
+    },
+    {
+      "word": "恭しく",
+      "reading": "うやうやしく",
+      "meaning": "tỏ vẻ tôn kính"
+    },
+    {
+      "word": "恭賀新年",
+      "reading": "きょうがしんねん",
+      "meaning": "chúc mừng năm mới"
+    }
+  ]
+}

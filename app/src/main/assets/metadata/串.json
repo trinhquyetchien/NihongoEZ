@@ -1,0 +1,144 @@
+{
+  "kanji": "串",
+  "meta": {
+    "weight": 90,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン",
+      "セン"
+    ],
+    "kun": [
+      "くし",
+      "つらぬ.く"
+    ],
+    "am_han": "XUYẾN"
+  },
+  "meaning": {
+    "vi": "nhổ, xiên",
+    "en": "spit, skewer"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/串.svg"
+  },
+  "frequency": 2139,
+  "examples": [
+    "串",
+    "串焼き",
+    "串カツ",
+    "串刺し"
+  ],
+  "explanation": {
+    "id": "1859",
+    "text": "串 (đọc là \"kushi\") có nghĩa là \"xiên\", \"mảnh dọc\" dùng để chỉ những thứ được xâu hoặc xiên lại với nhau, thường là thực phẩm."
+  },
+  "comments": [
+    {
+      "id": "151427",
+      "lang": "vi",
+      "content_html": "<p>Quán Xuyến xiên hai cái bánh</p>",
+      "content_text": "Quán Xuyến xiên hai cái bánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151428",
+      "lang": "vi",
+      "content_html": "<p>2 thằng trung quốc đáng quán xuyến cái xiên</p>",
+      "content_text": "2 thằng trung quốc đáng quán xuyến cái xiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151429",
+      "lang": "vi",
+      "content_html": "<p>2 cái MỒM bị  --  XIÊN bằng CÂY XIÊN</p>",
+      "content_text": "2 cái MỒM bị  --  XIÊN bằng CÂY XIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "串",
+      "reading": "くし",
+      "meaning": "cái xiên"
+    },
+    {
+      "word": "祓串",
+      "reading": "はらえぐし",
+      "meaning": "cành cây sử dụng cho nghi lễ thanh tẩy tại đền ise"
+    },
+    {
+      "word": "串カツ",
+      "reading": "くしカツ",
+      "meaning": "món thịt lợn và củ hành xỏ xen kẽ vào xiên tre và chiên lên"
+    },
+    {
+      "word": "金串",
+      "reading": "かなぐし",
+      "meaning": "cái thanh que dùng để xiên đồ nướng"
+    },
+    {
+      "word": "幣串",
+      "reading": "へいぐし",
+      "meaning": "dụng cụ thanh tẩy trong thần đạo"
+    },
+    {
+      "word": "竹串",
+      "reading": "たけぐし",
+      "meaning": "cái xiên tre"
+    },
+    {
+      "word": "串柿",
+      "reading": "くしがき",
+      "meaning": "quả hồng khô xiên que"
+    },
+    {
+      "word": "玉串",
+      "reading": "たまぐし",
+      "meaning": "cành cây sakachi được cho là linh thiêng trước đền thờ thần đạo"
+    },
+    {
+      "word": "目串",
+      "reading": "めぐし",
+      "meaning": "linh cảm"
+    },
+    {
+      "word": "牛串",
+      "reading": "ぎゅうくし",
+      "meaning": "thịt xiên"
+    }
+  ]
+}

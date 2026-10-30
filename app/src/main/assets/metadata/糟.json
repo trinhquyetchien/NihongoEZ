@@ -1,0 +1,85 @@
+{
+  "kanji": "糟",
+  "meta": {
+    "weight": 2041,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ソウ"
+    ],
+    "kun": [
+      "ぬか"
+    ],
+    "am_han": "TAO"
+  },
+  "meaning": {
+    "vi": "cặn, trầm tích, đất",
+    "en": "dregs, sediment, grounds"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/糟.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4740",
+    "text": "糟 (đọc là \"sō\") có nghĩa là \"bã\", thường chỉ phần còn lại sau khi đã chế biến, ví dụ như bã rượu."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "糟鮫",
+      "reading": "かすざめ",
+      "meaning": "cá nhám dẹt nhật bản"
+    },
+    {
+      "word": "糟毛",
+      "reading": "かすげ",
+      "meaning": "rắc đốm phấn trắng"
+    },
+    {
+      "word": "糟糠",
+      "reading": "そうこう",
+      "meaning": "phàn nàn thức ăn"
+    },
+    {
+      "word": "油糟",
+      "reading": "あぶらかす",
+      "meaning": "bánh khô dầu"
+    },
+    {
+      "word": "糟漬",
+      "reading": "かすづけ",
+      "meaning": "dầm giấm"
+    },
+    {
+      "word": "酒糟",
+      "reading": "さけかす",
+      "meaning": "bã rượu"
+    },
+    {
+      "word": "糟粕",
+      "reading": "そうはく",
+      "meaning": "cặn rượu sake"
+    },
+    {
+      "word": "糟酢",
+      "reading": "かすず",
+      "meaning": "giấm làm từ rượu sake"
+    },
+    {
+      "word": "糟汁",
+      "reading": "かすじる",
+      "meaning": "xúp làm bằng bã rượu"
+    },
+    {
+      "word": "糟取り",
+      "reading": "かすとり",
+      "meaning": "rượu hạng xấu"
+    }
+  ]
+}

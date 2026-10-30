@@ -1,0 +1,119 @@
+{
+  "kanji": "楓",
+  "meta": {
+    "weight": 1392,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フウ"
+    ],
+    "kun": [
+      "かえで"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "cây phong",
+    "en": "maple"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楓.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6882",
+    "text": "楓 (đọc là \"fū\") có nghĩa là \"cây phong\", thường chỉ về loại cây có lá hình bàn tay và màu sắc đẹp vào mùa thu."
+  },
+  "comments": [
+    {
+      "id": "219838",
+      "lang": "vi",
+      "content_html": "<p>Cây chịu đc phong ba bão táp là cây PHONG</p>",
+      "content_text": "Cây chịu đc phong ba bão táp là cây PHONG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219839",
+      "lang": "vi",
+      "content_html": "<p>CÔN TRÙNG trốn gió 風</p>",
+      "content_text": "CÔN TRÙNG trốn gió 風",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "楓",
+      "reading": "かえで",
+      "meaning": "cây phong"
+    },
+    {
+      "word": "楓鳥",
+      "reading": "かえでちょう",
+      "meaning": "chim estrilda troglodytes"
+    },
+    {
+      "word": "唐楓",
+      "reading": "とうかえで",
+      "meaning": "phong đinh ba"
+    },
+    {
+      "word": "楓葉",
+      "reading": "ふうよう",
+      "meaning": "lá phong"
+    },
+    {
+      "word": "松楓",
+      "reading": "しょうふう",
+      "meaning": "cây thích"
+    },
+    {
+      "word": "楓糖",
+      "reading": "かえでとう",
+      "meaning": "gỗ thích bọc đường"
+    },
+    {
+      "word": "観楓",
+      "reading": "かんぷう",
+      "meaning": "việc ngắm lá đỏ"
+    },
+    {
+      "word": "楓属",
+      "reading": "ふうぞく",
+      "meaning": "giống liquidambar"
+    },
+    {
+      "word": "楓林",
+      "reading": "ふうりん",
+      "meaning": "rừng cây thích"
+    },
+    {
+      "word": "三手楓",
+      "reading": "みつでかえで",
+      "meaning": "cây phong lá thường xuân"
+    }
+  ]
+}

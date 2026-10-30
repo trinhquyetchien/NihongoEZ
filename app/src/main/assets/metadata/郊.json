@@ -1,0 +1,137 @@
+{
+  "kanji": "郊",
+  "meta": {
+    "weight": 2701,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "GIAO"
+  },
+  "meaning": {
+    "vi": "ngoại ô",
+    "en": "outskirts, suburbs, rural area"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/郊.svg"
+  },
+  "frequency": 1304,
+  "examples": [
+    "郊外",
+    "近郊"
+  ],
+  "explanation": {
+    "id": "2565",
+    "text": "郊 (đọc là \"kō\") có nghĩa là \"vùng ngoại ô\", \"ngoại thành\" để chỉ các khu vực nằm ngoài trung tâm thành phố."
+  },
+  "comments": [
+    {
+      "id": "157439",
+      "lang": "vi",
+      "content_html": "<p>Giao nhau giữa bức tường thành là vùng ngoại ô</p>",
+      "content_text": "Giao nhau giữa bức tường thành là vùng ngoại ô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157440",
+      "lang": "vi",
+      "content_html": "<p>Đi giao bò.</p>",
+      "content_text": "Đi giao bò.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157441",
+      "lang": "vi",
+      "content_html": "<p>bố đi giao lưu vùng ngoại ô</p>",
+      "content_text": "bố đi giao lưu vùng ngoại ô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "ngoại ô"
+    },
+    {
+      "word": "郊野",
+      "reading": "こうの",
+      "meaning": "ngoại ô"
+    },
+    {
+      "word": "西郊",
+      "reading": "せいこう",
+      "meaning": "vùng ngoại ô phương tây"
+    },
+    {
+      "word": "東郊",
+      "reading": "とうこう",
+      "meaning": "vùng ngoại ô phía đông"
+    },
+    {
+      "word": "南郊",
+      "reading": "なんこう",
+      "meaning": "vùng ngoại ô ở phía nam"
+    },
+    {
+      "word": "北郊",
+      "reading": "ほっこう",
+      "meaning": "về hướng bắc"
+    },
+    {
+      "word": "近郊",
+      "reading": "きんこう",
+      "meaning": "ngoại ô"
+    },
+    {
+      "word": "春郊",
+      "reading": "しゅんこう",
+      "meaning": "vùng ngoại ô vào mùa xuân"
+    },
+    {
+      "word": "遠郊",
+      "reading": "えんこう",
+      "meaning": "vùng xa thành phố"
+    },
+    {
+      "word": "近郊農業",
+      "reading": "きんこうのうぎょう",
+      "meaning": "nông nghiệp trong những vùng gần thành thị"
+    }
+  ]
+}

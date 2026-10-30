@@ -1,0 +1,48 @@
+{
+  "kanji": "枇",
+  "meta": {
+    "weight": 1305,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ",
+      "ヒ"
+    ],
+    "kun": [],
+    "am_han": "TÌ"
+  },
+  "meaning": {
+    "vi": "loquat, thìa",
+    "en": "loquat, spoon"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枇.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6625",
+    "text": "枇 (đọc là \"hi\") có nghĩa là \"quả mơ\" để chỉ loại quả hoặc cây."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "枇杷",
+      "reading": "びわ",
+      "meaning": "cây sơn trà nhật"
+    },
+    {
+      "word": "山枇杷",
+      "reading": "やまびわ",
+      "meaning": "một loài cây gỗ mọc ở vùng núi"
+    },
+    {
+      "word": "犬枇杷",
+      "reading": "いぬびわ",
+      "meaning": "họ moraceae"
+    }
+  ]
+}

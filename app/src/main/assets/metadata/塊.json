@@ -1,0 +1,142 @@
+{
+  "kanji": "塊",
+  "meta": {
+    "weight": 584,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケ"
+    ],
+    "kun": [
+      "かたまり",
+      "つちくれ"
+    ],
+    "am_han": "KHỐI"
+  },
+  "meaning": {
+    "vi": "vón cục, cục, khối, cục máu đông, khối lượng",
+    "en": "clod, lump, chunk, clot, mass"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塊.svg"
+  },
+  "frequency": 1800,
+  "examples": [
+    "団塊",
+    "塊",
+    "金塊"
+  ],
+  "explanation": {
+    "id": "754",
+    "text": "塊 (đọc là \"kai\" hoặc \"塊\" với âm On là \"かい\") có nghĩa là \"khối\", \"miếng\" để chỉ một khối lượng hoặc mảnh vật gì đó."
+  },
+  "comments": [
+    {
+      "id": "152642",
+      "lang": "vi",
+      "content_html": "<p>Bản chất ma quỷ chỉ là khối đất mà ra</p>",
+      "content_text": "Bản chất ma quỷ chỉ là khối đất mà ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152643",
+      "lang": "vi",
+      "content_html": "<p>Con QUỶ 鬼 từ đất 土 chui ra biến thành KHỐI đá 塊</p>",
+      "content_text": "Con QUỶ 鬼 từ đất 土 chui ra biến thành KHỐI đá 塊",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152644",
+      "lang": "vi",
+      "content_html": "<p>Con ma bị khối đá đè trên đất</p>",
+      "content_text": "Con ma bị khối đá đè trên đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "塊",
+      "reading": "かたまり",
+      "meaning": "cục"
+    },
+    {
+      "word": "塊炭",
+      "reading": "かいたん",
+      "meaning": "khối than"
+    },
+    {
+      "word": "酸塊",
+      "reading": "すぐり",
+      "meaning": "cây lý gai"
+    },
+    {
+      "word": "凝塊",
+      "reading": "ぎょうかい",
+      "meaning": "đóng cục"
+    },
+    {
+      "word": "地塊",
+      "reading": "ちかい",
+      "meaning": "landmass"
+    },
+    {
+      "word": "岩塊",
+      "reading": "がんかい",
+      "meaning": "đá tảng"
+    },
+    {
+      "word": "塊然",
+      "reading": "かいぜん",
+      "meaning": "chắc chắn"
+    },
+    {
+      "word": "松塊",
+      "reading": "まつほど",
+      "meaning": "nấm phục linh"
+    },
+    {
+      "word": "鋳塊",
+      "reading": "ちゅうかい",
+      "meaning": "thỏi"
+    },
+    {
+      "word": "塊状",
+      "reading": "かいじょう",
+      "meaning": "dạng khối"
+    }
+  ]
+}

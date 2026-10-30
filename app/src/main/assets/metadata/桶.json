@@ -1,0 +1,123 @@
+{
+  "kanji": "桶",
+  "meta": {
+    "weight": 1359,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "トウ"
+    ],
+    "kun": [
+      "おけ"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "bồn tắm, xô",
+    "en": "tub, bucket"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/桶.svg"
+  },
+  "frequency": 2210,
+  "examples": [
+    "桶",
+    "棺桶"
+  ],
+  "explanation": {
+    "id": "573",
+    "text": "桶 (đọc là \"おけ\" - oke) có nghĩa là \"thùng\", \"chậu\" để chỉ các dụng cụ chứa đựng chất lỏng hoặc vật liệu rời."
+  },
+  "comments": [
+    {
+      "id": "221838",
+      "lang": "vi",
+      "content_html": "<p><strong>Mộc 木 + 用</strong> (Tượng hình của<strong> Thùng</strong>, xem trong giải thích hán tự <strong>用</strong>). Thì là<strong> bồn tắm, vật chứa nước, xô.</strong></p>",
+      "content_text": "Mộc 木 + 用\n(Tượng hình của\nThùng\n, xem trong giải thích hán tự\n用\n). Thì là\nbồn tắm, vật chứa nước, xô.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "154524",
+      "lang": "vi",
+      "content_html": "<p>mấy Cây Dũng mạnh lấy làm thùng nước</p>",
+      "content_text": "mấy Cây Dũng mạnh lấy làm thùng nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桶",
+      "reading": "おけ",
+      "meaning": "cái xô"
+    },
+    {
+      "word": "空桶",
+      "reading": "からおけ",
+      "meaning": "chơi chữ của chữ karaoke"
+    },
+    {
+      "word": "湯桶",
+      "reading": "ゆとう",
+      "meaning": "ca nước nóng bằng gỗ"
+    },
+    {
+      "word": "棺桶",
+      "reading": "かんおけ",
+      "meaning": "quan tài"
+    },
+    {
+      "word": "水桶",
+      "reading": "みずおけ",
+      "meaning": "thùng"
+    },
+    {
+      "word": "留桶",
+      "reading": "とめおけ",
+      "meaning": "xô nước"
+    },
+    {
+      "word": "桶屋",
+      "reading": "おけや",
+      "meaning": "một ngôi nhà sản xuất"
+    },
+    {
+      "word": "小桶",
+      "reading": "こおけ",
+      "meaning": "xô nhỏ"
+    },
+    {
+      "word": "糞桶",
+      "reading": "くそおけ",
+      "meaning": "xô đựng phân"
+    },
+    {
+      "word": "肥桶",
+      "reading": "こえおけ",
+      "meaning": "thùng đựng phân"
+    }
+  ]
+}

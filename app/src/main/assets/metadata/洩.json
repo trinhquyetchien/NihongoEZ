@@ -1,0 +1,105 @@
+{
+  "kanji": "洩",
+  "meta": {
+    "weight": 1530,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ",
+      "セツ"
+    ],
+    "kun": [
+      "も.らす",
+      "の.びる",
+      "も.れる"
+    ],
+    "am_han": "DUỆ, TIẾT"
+  },
+  "meaning": {
+    "vi": "rò rỉ, trốn thoát",
+    "en": "leak, escape"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "386",
+    "text": "洩 (đọc là \"しょつ\" hoặc \"もれ\") có nghĩa là \"rò rỉ\", \"tiết lộ\" để chỉ các hành động liên quan đến việc thoát ra hoặc không giữ kín thông tin."
+  },
+  "comments": [
+    {
+      "id": "219931",
+      "lang": "vi",
+      "content_html": "<p>Nghịch nước  氵hậu DUỆ của mặt trời日 bị quất cho 10 (x) roi</p>",
+      "content_text": "Nghịch nước  氵hậu DUỆ của mặt trời日 bị quất cho 10 (x) roi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "漏洩",
+      "reading": "ろうえい",
+      "meaning": "sự tiết lộ"
+    },
+    {
+      "word": "洩る",
+      "reading": "もる",
+      "meaning": "rỉ"
+    },
+    {
+      "word": "洩れる",
+      "reading": "もれる",
+      "meaning": "rò rỉ ra ngoài"
+    },
+    {
+      "word": "洩らす",
+      "reading": "もらす",
+      "meaning": "làm rò rỉ"
+    },
+    {
+      "word": "漏洩電流",
+      "reading": "ろうえいでんりゅう",
+      "meaning": "dòng điện rò rỉ"
+    },
+    {
+      "word": "木洩れ陽",
+      "reading": "こもれび",
+      "meaning": "ánh sáng mặt trời xuyên qua tán cây"
+    },
+    {
+      "word": "木洩れ日",
+      "reading": "こもれび",
+      "meaning": "ánh sáng mặt trời xuyên qua tán cây"
+    },
+    {
+      "word": "秘密漏洩",
+      "reading": "ひみつろうえい",
+      "meaning": "sự tiết lộ bí mật"
+    },
+    {
+      "word": "機密漏洩",
+      "reading": "きみつろうえい",
+      "meaning": "sự tiết lộ bí mật"
+    },
+    {
+      "word": "葉洩れ日",
+      "reading": "はもれび",
+      "meaning": "nắng xuyên qua kẽ lá"
+    }
+  ]
+}

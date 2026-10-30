@@ -1,0 +1,140 @@
+{
+  "kanji": "伯",
+  "meta": {
+    "weight": 160,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [],
+    "am_han": "BÁ"
+  },
+  "meaning": {
+    "vi": "trưởng, đếm, bá tước, chú, Brazil",
+    "en": "chief, count, earl, uncle, Brazil"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伯.svg"
+  },
+  "frequency": 1741,
+  "examples": [
+    "伯",
+    "伯爵",
+    "伯父",
+    "伯母",
+    "画伯"
+  ],
+  "explanation": {
+    "id": "6315",
+    "text": "伯 (đọc là \"haku\" hoặc \"baku\") có nghĩa là \"cô, cậu\", chỉ về người anh, người lớn tuổi hơn trong gia đình, hoặc một vị trí cao hơn."
+  },
+  "comments": [
+    {
+      "id": "151594",
+      "lang": "vi",
+      "content_html": "<p>Người bạc trắng là bác</p>",
+      "content_text": "Người bạc trắng là bác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151595",
+      "lang": "vi",
+      "content_html": "<p>con NGƯỜI BẠCH tuyết thật BÁ đạo</p>",
+      "content_text": "con NGƯỜI BẠCH tuyết thật BÁ đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151596",
+      "lang": "vi",
+      "content_html": "<p>Người (イ) Râu Trắng (白) kia là Bác, Bá thúc của tôi ( One Piece)</p>",
+      "content_text": "Người (イ) Râu Trắng (白) kia là Bác, Bá thúc của tôi ( One Piece)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "伯",
+      "reading": "はく",
+      "meaning": "bác"
+    },
+    {
+      "word": "宗伯",
+      "reading": "そうはく",
+      "meaning": "thượng thư bộ lễ"
+    },
+    {
+      "word": "画伯",
+      "reading": "がはく",
+      "meaning": "họa sĩ"
+    },
+    {
+      "word": "医伯",
+      "reading": "いはく",
+      "meaning": "săn sóc"
+    },
+    {
+      "word": "伯叔",
+      "reading": "はくしゅく",
+      "meaning": "anh em"
+    },
+    {
+      "word": "伯兄",
+      "reading": "はっけい",
+      "meaning": "con trai eldest"
+    },
+    {
+      "word": "伯爵",
+      "reading": "はくしゃく",
+      "meaning": "bá tước"
+    },
+    {
+      "word": "侯伯",
+      "reading": "こうはく",
+      "meaning": "người quý tộc"
+    },
+    {
+      "word": "伯林",
+      "reading": "ベルリン",
+      "meaning": "berlin"
+    },
+    {
+      "word": "伯楽",
+      "reading": "ばくろう",
+      "meaning": "người có khả năng xét đoán tốt về ngựa hoặc thú nuôi"
+    }
+  ]
+}

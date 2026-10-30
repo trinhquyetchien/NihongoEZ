@@ -1,0 +1,143 @@
+{
+  "kanji": "奴",
+  "meta": {
+    "weight": 643,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド"
+    ],
+    "kun": [
+      "やつ",
+      "やっこ"
+    ],
+    "am_han": "NÔ"
+  },
+  "meaning": {
+    "vi": "anh chàng, nô lệ, manservant, đồng nghiệp",
+    "en": "guy, slave, manservant, fellow"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/奴.svg"
+  },
+  "frequency": 1932,
+  "examples": [
+    "奴",
+    "奴隷",
+    "奴ら",
+    "奴等",
+    "売国奴"
+  ],
+  "explanation": {
+    "id": "5754",
+    "text": "奴 (đọc là \"do\") có nghĩa là \"nô lệ\" hoặc \"người hầu\", thường chỉ những người bị áp bức hoặc trong tình trạng phục vụ cho người khác."
+  },
+  "comments": [
+    {
+      "id": "152779",
+      "lang": "vi",
+      "content_html": "<p>người phụ nữ đứng khép 2 chân lại <br>là nô tì</p>",
+      "content_text": "người phụ nữ đứng khép 2 chân lại\nlà nô tì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152780",
+      "lang": "vi",
+      "content_html": "<p>người phụ nữ lại là nô tì</p>",
+      "content_text": "người phụ nữ lại là nô tì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152781",
+      "lang": "vi",
+      "content_html": "<p>Còn có nghĩa là “loại”<br>Loại nhỏ 小さいやつ<br>Cái loại(người)đó あの奴</p>",
+      "content_text": "Còn có nghĩa là “loại”\nLoại nhỏ 小さいやつ\nCái loại(người)đó あの奴",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奴",
+      "reading": "やつ",
+      "meaning": "gã ấy"
+    },
+    {
+      "word": "何奴も此奴も",
+      "reading": "どいつもこいつも",
+      "meaning": "mọi người cuối cùng"
+    },
+    {
+      "word": "冷奴",
+      "reading": "ひややっこ",
+      "meaning": "tofu lạnh"
+    },
+    {
+      "word": "奴隷",
+      "reading": "どれい",
+      "meaning": "nô lệ"
+    },
+    {
+      "word": "奴婢",
+      "reading": "ぬひ",
+      "meaning": "nàng hầu"
+    },
+    {
+      "word": "彼奴",
+      "reading": "あいつ",
+      "meaning": "anh ta"
+    },
+    {
+      "word": "御奴",
+      "reading": "みやつこ",
+      "meaning": "người hầu cận"
+    },
+    {
+      "word": "奴頭",
+      "reading": "やっこあたま",
+      "meaning": "kiểu tóc hình lưỡi liềm"
+    },
+    {
+      "word": "黒奴",
+      "reading": "こくど",
+      "meaning": "người đen"
+    },
+    {
+      "word": "奴輩",
+      "reading": "どはい",
+      "meaning": "gã đó"
+    }
+  ]
+}

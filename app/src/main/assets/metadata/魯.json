@@ -1,0 +1,66 @@
+{
+  "kanji": "魯",
+  "meta": {
+    "weight": 2973,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "おろか"
+    ],
+    "am_han": "LỖ"
+  },
+  "meaning": {
+    "vi": "ngu ngốc, nga",
+    "en": "foolish, Russia"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/魯.svg"
+  },
+  "frequency": 2153,
+  "examples": [
+    "魯"
+  ],
+  "explanation": {
+    "id": "8304",
+    "text": "魯 (đọc là \"ro\") có nghĩa là \"ngớ ngẩn\", \"khờ dại\", thường chỉ sự thiếu hiểu biết hoặc kém thông minh."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "魯鈍",
+      "reading": "ろどん",
+      "meaning": "sự khờ dại"
+    },
+    {
+      "word": "魯国",
+      "reading": "ろこく",
+      "meaning": "nước nga"
+    },
+    {
+      "word": "普魯西",
+      "reading": "プロシア",
+      "meaning": "prussia"
+    },
+    {
+      "word": "魯肉飯",
+      "reading": "ルーローハン",
+      "meaning": "cơm thịt băm"
+    },
+    {
+      "word": "烏焉魯魚",
+      "reading": "うえんろぎょ",
+      "meaning": "lỗi dùng sai chữ hán"
+    },
+    {
+      "word": "魯魚の誤り",
+      "reading": "ろぎょのあやまり",
+      "meaning": "viết sai một từ"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "kanji": "浦",
+  "meta": {
+    "weight": 1539,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ"
+    ],
+    "kun": [
+      "うら"
+    ],
+    "am_han": "PHỔ, PHỐ"
+  },
+  "meaning": {
+    "vi": "vịnh, creek, inlet, gulf, beach, seacoast",
+    "en": "bay, creek, inlet, gulf, beach, seacoast"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浦.svg"
+  },
+  "frequency": 977,
+  "examples": [
+    "浦",
+    "津々浦々"
+  ],
+  "explanation": {
+    "id": "334",
+    "text": "浦 (đọc là \"ura\") có nghĩa là \"bờ biển\", \"vùng ven biển\" để chỉ các khu vực gần nước, như biển hoặc sông."
+  },
+  "comments": [
+    {
+      "id": "154899",
+      "lang": "vi",
+      "content_html": "<p>hợp phố - trung quốc :trận chiến giữa hai bà trưng và mã viện tại hợp phố trung quốc năm 40-43.</p>",
+      "content_text": "hợp phố - trung quốc :trận chiến giữa hai bà trưng và mã viện tại hợp phố trung quốc năm 40-43.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154900",
+      "lang": "vi",
+      "content_html": "<p>Phổ biến lập Phủ ở bến sông để thờ cúng.</p>",
+      "content_text": "Phổ biến lập Phủ ở bến sông để thờ cúng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154901",
+      "lang": "vi",
+      "content_html": "<p>Thủy ( 氵) đc Phổ biến rằng, bờ sông này mỗi người chỉ đc sử Dụng (用) 10 (十) lần .</p>",
+      "content_text": "Thủy ( 氵) đc Phổ biến rằng, bờ sông này mỗi người chỉ đc sử Dụng (用) 10 (十) lần .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "浦",
+      "reading": "うら",
+      "meaning": "cái vịnh nhỏ"
+    },
+    {
+      "word": "津津浦浦",
+      "reading": "つつうらうら",
+      "meaning": "mọi nơi mọi chỗ"
+    },
+    {
+      "word": "全国津津浦浦",
+      "reading": "ぜんこくつつうらうら",
+      "meaning": "tất cả qua nước"
+    },
+    {
+      "word": "浦波",
+      "reading": "うらなみ",
+      "meaning": "sóng bên bờ biển"
+    },
+    {
+      "word": "浦辺",
+      "reading": "うらべ",
+      "meaning": "bờ biển"
+    },
+    {
+      "word": "浦里",
+      "reading": "うらざと",
+      "meaning": "làng ven biển"
+    },
+    {
+      "word": "曲浦",
+      "reading": "きょくほ",
+      "meaning": "cuốn bờ biển"
+    },
+    {
+      "word": "浦回",
+      "reading": "うらみ",
+      "meaning": "việc chèo thuyền vòng quanh một vịnh"
+    },
+    {
+      "word": "浦曲",
+      "reading": "うらみ",
+      "meaning": "bờ biển gồ ghề"
+    },
+    {
+      "word": "浦人",
+      "reading": "うらびと",
+      "meaning": "người cư trú"
+    }
+  ]
+}

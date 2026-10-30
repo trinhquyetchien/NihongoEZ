@@ -1,0 +1,141 @@
+{
+  "kanji": "朱",
+  "meta": {
+    "weight": 1282,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "あけ"
+    ],
+    "am_han": "CHU"
+  },
+  "meaning": {
+    "vi": "đỏ son, chu sa, đỏ tươi, đỏ, đẫm máu",
+    "en": "vermilion, cinnabar, scarlet, red, bloody"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/朱.svg"
+  },
+  "frequency": 1788,
+  "examples": [
+    "朱",
+    "朱雀",
+    "朱色",
+    "朱鷺"
+  ],
+  "explanation": {
+    "id": "3415",
+    "text": "朱 (đọc là \"shu\" hoặc \"aka\") có nghĩa là \"màu đỏ\" để chỉ các sắc thái màu sắc, đặc biệt là màu đỏ tươi."
+  },
+  "comments": [
+    {
+      "id": "154364",
+      "lang": "vi",
+      "content_html": "<p>CHU sa có MÙI VỊ tanh như máu ĐỎ tươi.</p>",
+      "content_text": "CHU sa có MÙI VỊ tanh như máu ĐỎ tươi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154365",
+      "lang": "vi",
+      "content_html": "<p>Trẻ VỊ thành niên hay CHU môi ĐỎ tự sướng.</p>",
+      "content_text": "Trẻ VỊ thành niên hay CHU môi ĐỎ tự sướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154366",
+      "lang": "vi",
+      "content_html": "<p>Nằm lên cây CHU cái môi đỏ lên chụp ảnh</p>",
+      "content_text": "Nằm lên cây CHU cái môi đỏ lên chụp ảnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "朱",
+      "reading": "しゅ",
+      "meaning": "đỏ hơi vàng"
+    },
+    {
+      "word": "朱肉/朱肉補充液",
+      "reading": "しゅにく/しゅにくほじゅうえき",
+      "meaning": "these terms refer to red ink used for traditional japanese carpentry markings.)"
+    },
+    {
+      "word": "朱肉",
+      "reading": "しゅにく",
+      "meaning": "hộp mực đỏ dùng cho dấu cao su"
+    },
+    {
+      "word": "朱鳥",
+      "reading": "しゅちょう",
+      "meaning": "shuchou era"
+    },
+    {
+      "word": "朱雀",
+      "reading": "すざく",
+      "meaning": "chu tước"
+    },
+    {
+      "word": "丹朱",
+      "reading": "たんしゅ",
+      "meaning": "màu son"
+    },
+    {
+      "word": "朱唇",
+      "reading": "しゅしん",
+      "meaning": "đôi môi đỏ"
+    },
+    {
+      "word": "朱塗",
+      "reading": "しゅぬり",
+      "meaning": "màu đỏ"
+    },
+    {
+      "word": "朱鞘",
+      "reading": "しゅざや",
+      "meaning": "vỏ sơn màu đỏ son"
+    },
+    {
+      "word": "朱筆",
+      "reading": "しゅひつ",
+      "meaning": "bút lông mực đỏ"
+    }
+  ]
+}

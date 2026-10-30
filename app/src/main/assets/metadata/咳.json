@@ -1,0 +1,140 @@
+{
+  "kanji": "咳",
+  "meta": {
+    "weight": 481,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ガイ"
+    ],
+    "kun": [
+      "せ.く",
+      "しわぶ.く",
+      "せき",
+      "しわぶき"
+    ],
+    "am_han": "KHÁI"
+  },
+  "meaning": {
+    "vi": "ho, hắng giọng",
+    "en": "cough, clear throat"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/咳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "831",
+    "text": "咳 (đọc là \"kaki\" hoặc \"seki\") có nghĩa là \"ho\", chỉ hành động ho hoặc các vấn đề liên quan đến đường hô hấp."
+  },
+  "comments": [
+    {
+      "id": "219105",
+      "lang": "vi",
+      "content_html": "<p>4 người thi nhau há mồm ra ho</p>",
+      "content_text": "4 người thi nhau há mồm ra ho",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219107",
+      "lang": "vi",
+      "content_html": "<p>KHÁI quát về bệnh HO khang do ăn Mõm Heo.</p>",
+      "content_text": "KHÁI quát về bệnh HO khang do ăn Mõm Heo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219106",
+      "lang": "vi",
+      "content_html": "<p>MỒM ăn đầu HỢI  --  nên HO</p>",
+      "content_text": "MỒM ăn đầu HỢI  --  nên HO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "咳",
+      "reading": "せき",
+      "meaning": "bệnh ho"
+    },
+    {
+      "word": "咳嗽",
+      "reading": "がいそう",
+      "meaning": "sự ho"
+    },
+    {
+      "word": "乾咳",
+      "reading": "からぜき",
+      "meaning": "chứng ho khan"
+    },
+    {
+      "word": "咳く",
+      "reading": "しわぶく",
+      "meaning": "để ho"
+    },
+    {
+      "word": "謦咳",
+      "reading": "けいがい",
+      "meaning": "vui lòng gặp gỡ"
+    },
+    {
+      "word": "空咳",
+      "reading": "からせき",
+      "meaning": "chứng ho khan"
+    },
+    {
+      "word": "労咳",
+      "reading": "ろうがい",
+      "meaning": "bệnh lao phổi"
+    },
+    {
+      "word": "咳薬",
+      "reading": "せきぐすり",
+      "meaning": "thuốc ho"
+    },
+    {
+      "word": "鎮咳薬",
+      "reading": "ちんがいやく",
+      "meaning": "thuốc ho"
+    },
+    {
+      "word": "鎮咳剤",
+      "reading": "ちんがいざい",
+      "meaning": "chất chống ho"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "樺",
+  "meta": {
+    "weight": 1425,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "かば",
+      "かんば"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "bạch dương, đỏ sẫm",
+    "en": "birch, dark red"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/樺.svg"
+  },
+  "frequency": 1982,
+  "examples": [
+    "白樺",
+    "樺太",
+    "樺"
+  ],
+  "explanation": {
+    "id": "1011",
+    "text": "樺 (đọc là \"kaba\") có nghĩa là \"cây bạch dương\", thường chỉ đến loại cây có vỏ trắng và lá xanh."
+  },
+  "comments": [
+    {
+      "id": "154621",
+      "lang": "vi",
+      "content_html": "<p>Cái CÂY có HOA nên gọi là cây hoa</p>",
+      "content_text": "Cái CÂY có HOA nên gọi là cây hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "樺",
+      "reading": "かば",
+      "meaning": "cây hương bồ"
+    },
+    {
+      "word": "樺桜",
+      "reading": "かばざくら",
+      "meaning": "anh đào kabazakura"
+    },
+    {
+      "word": "樺太",
+      "reading": "からふと",
+      "meaning": "đảo sakhalin"
+    },
+    {
+      "word": "岳樺",
+      "reading": "だけかんば",
+      "meaning": "betula ermanii"
+    },
+    {
+      "word": "樺色",
+      "reading": "かばいろ",
+      "meaning": "màu nâu đỏ"
+    },
+    {
+      "word": "白樺",
+      "reading": "しらかば",
+      "meaning": "cây phong trắng"
+    },
+    {
+      "word": "大樺斑",
+      "reading": "おおかばまだら",
+      "meaning": "bướm vua"
+    },
+    {
+      "word": "白樺油",
+      "reading": "しらかばゆ",
+      "meaning": "dầu cây bạch dương"
+    },
+    {
+      "word": "樺の木",
+      "reading": "かばのき",
+      "meaning": "chi cáng lò"
+    },
+    {
+      "word": "樺太梟",
+      "reading": "からふとふくろう",
+      "meaning": "hù xám lớn"
+    }
+  ]
+}

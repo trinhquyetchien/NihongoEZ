@@ -1,0 +1,107 @@
+{
+  "kanji": "悉",
+  "meta": {
+    "weight": 972,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シチ"
+    ],
+    "kun": [
+      "つ.きる",
+      "ことごと",
+      "ことごと.く",
+      "つ.くす",
+      "つぶさ.に"
+    ],
+    "am_han": "TẤT"
+  },
+  "meaning": {
+    "vi": "tất cả, hoàn toàn, sử dụng hết, hết, cạn kiệt, kết bạn, phục vụ",
+    "en": "all, entirely, altogether, completely, use up, run out of, exhaust, befriend, serve"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/悉.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3278",
+    "text": "悉 (đọc là \"shitsu\") có nghĩa là \"toàn bộ\", \"tất cả\" để chỉ việc làm rõ hoặc trình bày một cách chi tiết, đầy đủ."
+  },
+  "comments": [
+    {
+      "id": "219502",
+      "lang": "vi",
+      "content_html": "<p>TẤT niên Lúa về trong Tâm</p>",
+      "content_text": "TẤT niên Lúa về trong Tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "悉曇",
+      "reading": "しったん",
+      "meaning": "chữ siddham"
+    },
+    {
+      "word": "悉く",
+      "reading": "ことごとく",
+      "meaning": "tất cả"
+    },
+    {
+      "word": "不悉",
+      "reading": "ふしつ",
+      "meaning": "rất chân thành là của bạn"
+    },
+    {
+      "word": "悉に",
+      "reading": "つぶさに",
+      "meaning": "hoàn toàn"
+    },
+    {
+      "word": "知悉",
+      "reading": "ちしつ",
+      "meaning": "kiến thức hoàn thiện"
+    },
+    {
+      "word": "悉皆",
+      "reading": "しっかい",
+      "meaning": "mọi thứ"
+    },
+    {
+      "word": "悉曇学",
+      "reading": "しったんがく",
+      "meaning": "ngành nghiên cứu về chữ siddhaṃ"
+    },
+    {
+      "word": "悉無律",
+      "reading": "しつむりつ",
+      "meaning": "thắng ăn cả"
+    },
+    {
+      "word": "蘇悉地経",
+      "reading": "そしつじきょう",
+      "meaning": "một trong những kinh điển"
+    },
+    {
+      "word": "悉皆成仏",
+      "reading": "しっかいじょうぶつ",
+      "meaning": "tất cả mọi sinh vật đều có thể được tạo thành phật quả"
+    }
+  ]
+}

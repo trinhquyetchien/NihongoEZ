@@ -1,0 +1,140 @@
+{
+  "kanji": "捉",
+  "meta": {
+    "weight": 1099,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク",
+      "サク"
+    ],
+    "kun": [
+      "とら.える"
+    ],
+    "am_han": "TRÓC"
+  },
+  "meaning": {
+    "vi": "bắt",
+    "en": "catch, capture"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/捉.svg"
+  },
+  "frequency": 1976,
+  "examples": [
+    "捉える",
+    "捕捉"
+  ],
+  "explanation": {
+    "id": "4796",
+    "text": "捉 (đọc là \"saku\" hoặc \"toru\") có nghĩa là \"nắm bắt\", \"bắt lấy\" để chỉ các hành động liên quan đến việc bắt giữ hoặc quản lý cái gì đó."
+  },
+  "comments": [
+    {
+      "id": "153925",
+      "lang": "vi",
+      "content_html": "<p>Bắt thì còng tay chân lại mới ko chạy đc</p>",
+      "content_text": "Bắt thì còng tay chân lại mới ko chạy đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153926",
+      "lang": "vi",
+      "content_html": "<p>CÁI TAY CÁI TAY CÁI TAY BẮT LẤY CÁI CHÂN</p>",
+      "content_text": "CÁI TAY CÁI TAY CÁI TAY BẮT LẤY CÁI CHÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153927",
+      "lang": "vi",
+      "content_html": "<p>chân của tôi đã bị bàn tay nào đó chiếm lấy quyền kiểm soát không chạy được</p>",
+      "content_text": "chân của tôi đã bị bàn tay nào đó chiếm lấy quyền kiểm soát không chạy được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "捕捉",
+      "reading": "ほそく",
+      "meaning": "bắt"
+    },
+    {
+      "word": "把捉",
+      "reading": "はそく",
+      "meaning": "nắm chặt"
+    },
+    {
+      "word": "捉まる",
+      "reading": "つかまる",
+      "meaning": "nắm"
+    },
+    {
+      "word": "捉える",
+      "reading": "とらえる",
+      "meaning": "bắt"
+    },
+    {
+      "word": "択捉島",
+      "reading": "えとろふとう",
+      "meaning": "một hòng đảo thuộc 千島 phía bắc nhật bản"
+    },
+    {
+      "word": "捉え直す",
+      "reading": "とらえなおす",
+      "meaning": "nhìn nhận lại"
+    },
+    {
+      "word": "捉まえる",
+      "reading": "つかまえる",
+      "meaning": "chộp"
+    },
+    {
+      "word": "心を捉える",
+      "reading": "こころをとらえる",
+      "meaning": "gây ấn tượng"
+    },
+    {
+      "word": "意味を捉える",
+      "reading": "いみをとらえる",
+      "meaning": "nắm bắt ý nghĩa"
+    },
+    {
+      "word": "捉え所のない",
+      "reading": "とらえどころのない",
+      "meaning": "tinh tế"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "kanji": "奇",
+  "meta": {
+    "weight": 631,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "く.しき",
+      "あや.しい",
+      "くし",
+      "めずら.しい"
+    ],
+    "am_han": "KÌ, CƠ"
+  },
+  "meaning": {
+    "vi": "kỳ lạ, tò mò",
+    "en": "strange, strangeness, curiosity"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/奇.svg"
+  },
+  "frequency": 1367,
+  "examples": [
+    "奇跡",
+    "奇妙",
+    "好奇",
+    "奇",
+    "怪奇"
+  ],
+  "explanation": {
+    "id": "1265",
+    "text": "奇 (đọc là \"ki\") có nghĩa là \"kỳ lạ\", \"kỳ quái\" để chỉ những điều khác thường, không bình thường."
+  },
+  "comments": [
+    {
+      "id": "152748",
+      "lang": "vi",
+      "content_html": "<p>Cái gì to mà khả dụng thì rất là kì diệu</p>",
+      "content_text": "Cái gì to mà khả dụng thì rất là kì diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152749",
+      "lang": "vi",
+      "content_html": "<p>anh ĐẠI có Khả năng làm những điều Kỳ lạ</p>",
+      "content_text": "anh ĐẠI có Khả năng làm những điều Kỳ lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152750",
+      "lang": "vi",
+      "content_html": "<p>có Khả 可 năng To 大 ra 1 cách Kì lạ</p>",
+      "content_text": "có Khả 可 năng To 大 ra 1 cách Kì lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "奇",
+      "reading": "き",
+      "meaning": "kì lạ"
+    },
+    {
+      "word": "奇奇怪怪",
+      "reading": "ききかいかい",
+      "meaning": "kỳ quái"
+    },
+    {
+      "word": "奇数",
+      "reading": "きすう",
+      "meaning": "số lẻ"
+    },
+    {
+      "word": "数奇",
+      "reading": "すうき",
+      "meaning": "khác nhau"
+    },
+    {
+      "word": "奇蹟",
+      "reading": "きせき",
+      "meaning": "sự kỳ diệu"
+    },
+    {
+      "word": "奇声",
+      "reading": "きせい",
+      "meaning": "giong nói chói tai"
+    },
+    {
+      "word": "好奇",
+      "reading": "こうき",
+      "meaning": "sự tò mò"
+    },
+    {
+      "word": "奇行",
+      "reading": "きこう",
+      "meaning": "tính lập dị"
+    },
+    {
+      "word": "奇祭",
+      "reading": "きさい",
+      "meaning": "lễ hội kỳ lạ"
+    },
+    {
+      "word": "奇特",
+      "reading": "きとく",
+      "meaning": "đáng khen ngời"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "寓",
+  "meta": {
+    "weight": 739,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グウ",
+      "グ",
+      "ドウ"
+    ],
+    "kun": [
+      "ぐう.する",
+      "かこつ.ける",
+      "よ.せる",
+      "よ.る",
+      "かりずまい"
+    ],
+    "am_han": "NGỤ"
+  },
+  "meaning": {
+    "vi": "nơi ở tạm thời, ngụ ý, đề nghị",
+    "en": "temporary abode, imply, suggest"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/寓.svg"
+  },
+  "frequency": 2330,
+  "examples": [
+    "寓話"
+  ],
+  "explanation": {
+    "id": "1854",
+    "text": "寓 (đọc là \"yuu\") có nghĩa là \"trú ngụ\", \"nơi ở tạm\" để chỉ các khái niệm liên quan đến chỗ ở, nơi sinh sống hoặc ý nghĩa sâu xa trong văn hóa."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "寓話",
+      "reading": "ぐうわ",
+      "meaning": "truyện ngụ ngôn"
+    },
+    {
+      "word": "寓意",
+      "reading": "ぐうい",
+      "meaning": "ngụ ý"
+    },
+    {
+      "word": "仮寓",
+      "reading": "かぐう",
+      "meaning": "nơi ở tạm thời"
+    },
+    {
+      "word": "寄寓",
+      "reading": "きぐう",
+      "meaning": "tạm thời cư ngụ"
+    },
+    {
+      "word": "寓目",
+      "reading": "ぐうもく",
+      "meaning": "dán chặt mắt vào"
+    },
+    {
+      "word": "寓言",
+      "reading": "ぐうげん",
+      "meaning": "ngụ ngôn"
+    },
+    {
+      "word": "寓居",
+      "reading": "ぐうきょ",
+      "meaning": "nơi ở tạm thời"
+    },
+    {
+      "word": "寓意的",
+      "reading": "ぐういてき",
+      "meaning": "xem allegoric"
+    },
+    {
+      "word": "寓意劇",
+      "reading": "ぐういげき",
+      "meaning": "đạo đức chơi"
+    },
+    {
+      "word": "寓する",
+      "reading": "ぐうする",
+      "meaning": "ngụ ý"
+    }
+  ]
+}

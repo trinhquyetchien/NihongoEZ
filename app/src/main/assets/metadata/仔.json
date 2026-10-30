@@ -1,0 +1,85 @@
+{
+  "kanji": "仔",
+  "meta": {
+    "weight": 138,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "こ",
+      "た.える"
+    ],
+    "am_han": "TỬ, TỂ"
+  },
+  "meaning": {
+    "vi": "con (động vật), chi tiết, tốt",
+    "en": "offspring (animal), detailed, fine"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/仔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3041",
+    "text": "仔 (đọc là \"shi\", \"ko\") có nghĩa là \"con\" hoặc \"nhỏ\", thường chỉ những vật nhỏ, trẻ con hoặc đồ vật có kích thước nhỏ."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "仔",
+      "reading": "こ",
+      "meaning": "con vật"
+    },
+    {
+      "word": "仔虫",
+      "reading": "しちゅう",
+      "meaning": "ấu trùng"
+    },
+    {
+      "word": "胎仔",
+      "reading": "たいじ",
+      "meaning": "thai nhi"
+    },
+    {
+      "word": "仔羊",
+      "reading": "こひつじ",
+      "meaning": "cừu non"
+    },
+    {
+      "word": "仔猫",
+      "reading": "こねこ",
+      "meaning": "mèo con"
+    },
+    {
+      "word": "仔細",
+      "reading": "しさい",
+      "meaning": "suy luận"
+    },
+    {
+      "word": "仔犬",
+      "reading": "こいぬ",
+      "meaning": "con chó con"
+    },
+    {
+      "word": "仔牛",
+      "reading": "こうし",
+      "meaning": "con bê"
+    },
+    {
+      "word": "同腹仔",
+      "reading": "どうふくし",
+      "meaning": "xả rác"
+    },
+    {
+      "word": "ウシ胎仔トリコモナス",
+      "reading": "ウシたいしトリコモナス",
+      "meaning": "ký sinh trùng tritrichomonas foetus"
+    }
+  ]
+}

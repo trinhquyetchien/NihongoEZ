@@ -1,0 +1,84 @@
+{
+  "kanji": "糠",
+  "meta": {
+    "weight": 2042,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ぬか"
+    ],
+    "am_han": "KHANG"
+  },
+  "meaning": {
+    "vi": "cám gạo",
+    "en": "rice bran"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/糠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2514",
+    "text": "糠 (đọc là \"kō\") có nghĩa là \"cám\" hay \"vỏ gạo\", chỉ phần lõi bên ngoài của hạt gạo hoặc ngũ cốc sau khi đã xay xát."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "糠",
+      "reading": "ぬか",
+      "meaning": "cám gạo"
+    },
+    {
+      "word": "糠蚊",
+      "reading": "ぬかか",
+      "meaning": "muỗi chích nghiến"
+    },
+    {
+      "word": "糠子",
+      "reading": "ぬかご",
+      "meaning": "củ con của cây khoai núi"
+    },
+    {
+      "word": "糠蝿",
+      "reading": "ぬかばえ",
+      "meaning": "ruồi cám"
+    },
+    {
+      "word": "糠雨",
+      "reading": "ぬかあめ",
+      "meaning": "mưa lất phất"
+    },
+    {
+      "word": "糟糠",
+      "reading": "そうこう",
+      "meaning": "phàn nàn thức ăn"
+    },
+    {
+      "word": "糠油",
+      "reading": "ぬかあぶら",
+      "meaning": "loại dầu làm từ cám gạo"
+    },
+    {
+      "word": "粉糠",
+      "reading": "こぬか",
+      "meaning": "cám gạo"
+    },
+    {
+      "word": "小糠",
+      "reading": "こぬか",
+      "meaning": "cám gạo"
+    },
+    {
+      "word": "米糠",
+      "reading": "こめぬか",
+      "meaning": "cám gạo"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "kanji": "太",
+  "meta": {
+    "weight": 625,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "タ"
+    ],
+    "kun": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "am_han": "THÁI"
+  },
+  "meaning": {
+    "vi": "dày, thái dương",
+    "en": "plump, thick, big around"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/太.svg"
+  },
+  "frequency": 552,
+  "examples": [
+    "太陽",
+    "太",
+    "太平洋",
+    "太鼓",
+    "皇太子"
+  ],
+  "explanation": {
+    "id": "4873",
+    "text": "太 (đọc là \"tai\" hoặc \"futai\") có nghĩa là \"to\", \"mập\", chỉ sự lớn lao, vượt trội về kích thước hoặc mức độ."
+  },
+  "comments": [
+    {
+      "id": "1048",
+      "lang": "vi",
+      "content_html": "<p>Nhảy lên khúc gỗ <strong>dày</strong>.</p>",
+      "content_text": "Nhảy lên khúc gỗ\ndày\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1fa5ae08fd.jpg",
+      "image_path": "assets/images/太_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152734",
+      "lang": "vi",
+      "content_html": "<p>Đại 大 diện cho Chủ 丶 nhân phải là người thông THÁI 太</p>",
+      "content_text": "Đại 大 diện cho Chủ 丶 nhân phải là người thông THÁI 太",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152735",
+      "lang": "vi",
+      "content_html": "<p>Thằng thái béo ăn phở bằng tô rự</p>",
+      "content_text": "Thằng thái béo ăn phở bằng tô rự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "太",
+      "reading": "ふと",
+      "meaning": "béo"
+    },
+    {
+      "word": "太皇太后",
+      "reading": "たいこうたいごう",
+      "meaning": "thái hoàng thái hậu"
+    },
+    {
+      "word": "太陰太陽暦",
+      "reading": "たいいんたいようれき",
+      "meaning": "lịch âm lịch"
+    },
+    {
+      "word": "根太ようせっちゃくざい",
+      "reading": "根太用接着剤",
+      "meaning": "keo dán dầm"
+    },
+    {
+      "word": "太郎",
+      "reading": "たろう",
+      "meaning": "tên gọi đàn ông nhật"
+    },
+    {
+      "word": "太る",
+      "reading": "ふとる",
+      "meaning": "béo"
+    },
+    {
+      "word": "太監",
+      "reading": "たいかん",
+      "meaning": "grand eunuch"
+    },
+    {
+      "word": "太陰",
+      "reading": "たいいん",
+      "meaning": "mặt trăng"
+    },
+    {
+      "word": "肉太",
+      "reading": "にくぶと",
+      "meaning": "kiểu chữ nét đậm"
+    },
+    {
+      "word": "太枠",
+      "reading": "ふとわく",
+      "meaning": "hộp hoặc bảng có viền dày"
+    }
+  ]
+}

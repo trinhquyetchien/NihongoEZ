@@ -1,0 +1,161 @@
+{
+  "kanji": "易",
+  "meta": {
+    "weight": 1223,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ",
+      "イ"
+    ],
+    "kun": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "am_han": "DỊCH, DỊ"
+  },
+  "meaning": {
+    "vi": "dễ dàng",
+    "en": "easy, ready to, simple, fortune-telling, divination"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/易.svg"
+  },
+  "frequency": 571,
+  "examples": [
+    "貿易",
+    "容易",
+    "安易",
+    "簡易",
+    "易い"
+  ],
+  "explanation": {
+    "id": "149",
+    "text": "易 (đọc là \"eki\" hoặc \"yasu\") có nghĩa là \"dễ dàng\", \"thay đổi\", thường chỉ sự đơn giản hoặc tính linh hoạt trong các tình huống."
+  },
+  "comments": [
+    {
+      "id": "154210",
+      "lang": "vi",
+      "content_html": "<p>Động vật lúc có mặt trời thì dịch chuyển dễ dàng</p>",
+      "content_text": "Động vật lúc có mặt trời thì dịch chuyển dễ dàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190670",
+      "lang": "vi",
+      "content_html": "<p>mặt Trời lên động vật mới Di chuyển dễ dàng</p>",
+      "content_text": "mặt Trời lên động vật mới Di chuyển dễ dàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154211",
+      "lang": "vi",
+      "content_html": "<p>mỗi NGÀY các con VẬT phải DỊCH chuyển để kiếm thức ăn...</p>",
+      "content_text": "mỗi NGÀY các con VẬT phải DỊCH chuyển để kiếm thức ăn...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154212",
+      "lang": "vi",
+      "content_html": "<p>một NGÀY vất vả với việc DỊCH chuyển cái VẬT này để mua bán.</p>",
+      "content_text": "một NGÀY vất vả với việc DỊCH chuyển cái VẬT này để mua bán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "易",
+      "reading": "えき",
+      "meaning": "thiết lập"
+    },
+    {
+      "word": "易易",
+      "reading": "やすやす",
+      "meaning": "chính dễ"
+    },
+    {
+      "word": "安易",
+      "reading": "あんい",
+      "meaning": "dễ dàng"
+    },
+    {
+      "word": "易簀",
+      "reading": "えきさく",
+      "meaning": "sự qua đời"
+    },
+    {
+      "word": "三易",
+      "reading": "さんえき",
+      "meaning": "tam dịch"
+    },
+    {
+      "word": "易経",
+      "reading": "えききょう",
+      "meaning": "tôi ching"
+    },
+    {
+      "word": "易学",
+      "reading": "えきがく",
+      "meaning": "dịch học"
+    },
+    {
+      "word": "難易",
+      "reading": "なんい",
+      "meaning": "sự khó khăn"
+    },
+    {
+      "word": "不易",
+      "reading": "ふえき",
+      "meaning": "sự không thay đổi"
+    },
+    {
+      "word": "周易",
+      "reading": "しゅうえき",
+      "meaning": "bói toán"
+    }
+  ]
+}

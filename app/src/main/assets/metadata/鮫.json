@@ -1,0 +1,105 @@
+{
+  "kanji": "鮫",
+  "meta": {
+    "weight": 2977,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "さめ",
+      "みずち"
+    ],
+    "am_han": "GIAO"
+  },
+  "meaning": {
+    "vi": "cá mập",
+    "en": "shark"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鮫.svg"
+  },
+  "frequency": 2244,
+  "examples": [
+    "鮫"
+  ],
+  "explanation": {
+    "id": "2967",
+    "text": "鮫 (đọc là \"same\") có nghĩa là \"cá mập\", chỉ các loại cá thuộc họ cá mập."
+  },
+  "comments": [
+    {
+      "id": "158040",
+      "lang": "vi",
+      "content_html": "<p>cá giao là cá mập</p>",
+      "content_text": "cá giao là cá mập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鮫",
+      "reading": "さめ",
+      "meaning": "cá đao"
+    },
+    {
+      "word": "姥鮫",
+      "reading": "うばざめ",
+      "meaning": "cá nhám phơi nắng"
+    },
+    {
+      "word": "藍鮫",
+      "reading": "あいざめ",
+      "meaning": "cá mập da chàm"
+    },
+    {
+      "word": "星鮫",
+      "reading": "ほしざめ",
+      "meaning": "cá nhám điểm sao"
+    },
+    {
+      "word": "鼬鮫",
+      "reading": "いたちざめ",
+      "meaning": "cá mập báo"
+    },
+    {
+      "word": "糟鮫",
+      "reading": "かすざめ",
+      "meaning": "cá nhám dẹt nhật bản"
+    },
+    {
+      "word": "銀鮫",
+      "reading": "ぎんざめ",
+      "meaning": "chimaera bạc"
+    },
+    {
+      "word": "鮫鞘",
+      "reading": "さめざや",
+      "meaning": "bao kiếm da cá mập"
+    },
+    {
+      "word": "油鮫",
+      "reading": "あぶらざめ",
+      "meaning": "cá nhám gai"
+    },
+    {
+      "word": "猫鮫",
+      "reading": "ねこざめ",
+      "meaning": "cá mập đầu bò nhật bản"
+    }
+  ]
+}

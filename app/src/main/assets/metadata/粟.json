@@ -1,0 +1,124 @@
+{
+  "kanji": "粟",
+  "meta": {
+    "weight": 2033,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク",
+      "ショク",
+      "ソク"
+    ],
+    "kun": [
+      "あわ",
+      "もみ"
+    ],
+    "am_han": "TÚC"
+  },
+  "meaning": {
+    "vi": "cây kê",
+    "en": "millet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/粟.svg"
+  },
+  "frequency": 2146,
+  "examples": [
+    "粟"
+  ],
+  "explanation": {
+    "id": "84",
+    "text": "粟 (đọc là \"soku\" hoặc \"awa\") có nghĩa là \"gạo nếp\", \"hạt kê\" để chỉ các loại hạt ngũ cốc nhỏ, đặc biệt là kê và các loại ngũ cốc khác."
+  },
+  "comments": [
+    {
+      "id": "155946",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà có một trăm người</p>",
+      "content_text": "Trong nhà có một trăm người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155947",
+      "lang": "vi",
+      "content_html": "<p>người phương Tây không ăn gạo mà ăn hạt kê và uống Aqua (あわ)</p>",
+      "content_text": "người phương Tây không ăn gạo mà ăn hạt kê và uống Aqua (あわ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "粟",
+      "reading": "あわ",
+      "meaning": "hạt kê"
+    },
+    {
+      "word": "粟餅",
+      "reading": "あわもち",
+      "meaning": "bánh gạo hạt kê"
+    },
+    {
+      "word": "罌粟",
+      "reading": "けし",
+      "meaning": "cây thuốc phiện"
+    },
+    {
+      "word": "粟粒",
+      "reading": "あわつぶ",
+      "meaning": "hạt kê"
+    },
+    {
+      "word": "粳粟",
+      "reading": "うるあわ",
+      "meaning": "cây kê"
+    },
+    {
+      "word": "粟飯",
+      "reading": "あわめし",
+      "meaning": "cơm kê"
+    },
+    {
+      "word": "糯粟",
+      "reading": "もちあわ",
+      "meaning": "hạt kê nếp"
+    },
+    {
+      "word": "雛罌粟",
+      "reading": "ひなげし",
+      "meaning": "cây thuốc phiện đỏ"
+    },
+    {
+      "word": "大粟反",
+      "reading": "おおあわがえり",
+      "meaning": "cỏ timothy"
+    },
+    {
+      "word": "粟立つ",
+      "reading": "あわだつ",
+      "meaning": "nổi da gà"
+    }
+  ]
+}

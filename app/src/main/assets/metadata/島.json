@@ -1,0 +1,142 @@
+{
+  "kanji": "島",
+  "meta": {
+    "weight": 801,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "しま"
+    ],
+    "am_han": "ĐẢO"
+  },
+  "meaning": {
+    "vi": "đảo",
+    "en": "island"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/島.svg"
+  },
+  "frequency": 245,
+  "examples": [
+    "島",
+    "広島",
+    "福島",
+    "鹿児島",
+    "中島"
+  ],
+  "explanation": {
+    "id": "5787",
+    "text": "島 (đọc là \"shima\" hoặc \"tou\") có nghĩa là \"hòn đảo\", chỉ các vùng đất nhỏ được bao quanh bởi nước."
+  },
+  "comments": [
+    {
+      "id": "190990",
+      "lang": "vi",
+      "content_html": "<p><strong>đảo</strong></p>",
+      "content_text": "đảo",
+      "image_url": "https://jpdictionary.com/upload/images/648a7f5750447.jpg",
+      "image_path": "assets/images/島_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37304",
+      "lang": "vi",
+      "content_html": "<p>Con chim (鳥) đang nghỉ trên ngọn núi (山) ở <strong>đảo</strong>.</p>",
+      "content_text": "Con chim (鳥) đang nghỉ trên ngọn núi (山) ở\nđảo\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe250f2c27.jpg",
+      "image_path": "assets/images/島_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153164",
+      "lang": "vi",
+      "content_html": "<p>ĐẢO là những quả NÚI nhỏ giữa biển, nới k có con người mà chỉ có CHIM sinh sống</p>",
+      "content_text": "ĐẢO là những quả NÚI nhỏ giữa biển, nới k có con người mà chỉ có CHIM sinh sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "島",
+      "reading": "しま",
+      "meaning": "đảo"
+    },
+    {
+      "word": "島島",
+      "reading": "しまじま",
+      "meaning": "những hòn đảo"
+    },
+    {
+      "word": "千島列島",
+      "reading": "ちしまれっとう",
+      "meaning": "những hòn đảo kurile"
+    },
+    {
+      "word": "陸島",
+      "reading": "りくとう",
+      "meaning": "đảo nối"
+    },
+    {
+      "word": "諸島",
+      "reading": "しょとう",
+      "meaning": "quần đảo"
+    },
+    {
+      "word": "小島",
+      "reading": "こじま",
+      "meaning": "hòn đảo nhỏ"
+    },
+    {
+      "word": "孤島",
+      "reading": "ことう",
+      "meaning": "hòn đảo chơ vơ"
+    },
+    {
+      "word": "広島",
+      "reading": "ひろしま",
+      "meaning": "thành phố hiroshima"
+    },
+    {
+      "word": "イースター島",
+      "reading": "イースターとう",
+      "meaning": "đảo easter"
+    },
+    {
+      "word": "オノコロ島",
+      "reading": "おのころじま",
+      "meaning": "onogoro island"
+    }
+  ]
+}

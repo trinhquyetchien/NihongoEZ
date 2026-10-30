@@ -1,0 +1,142 @@
+{
+  "kanji": "借",
+  "meta": {
+    "weight": 214,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク"
+    ],
+    "kun": [
+      "か.りる"
+    ],
+    "am_han": "TÁ"
+  },
+  "meaning": {
+    "vi": "vay, mượn",
+    "en": "borrow, rent"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/借.svg"
+  },
+  "frequency": 932,
+  "examples": [
+    "借り",
+    "借金",
+    "借りる",
+    "借入金",
+    "借家"
+  ],
+  "explanation": {
+    "id": "3366",
+    "text": "借 (đọc là \"shaku\" hoặc \"kariru\") có nghĩa là \"mượn\" để chỉ hành động vay mượn hoặc nhận cái gì đó từ người khác."
+  },
+  "comments": [
+    {
+      "id": "36903",
+      "lang": "vi",
+      "content_html": "<p>Khi xưa (昔) tôi đã <strong>mượn </strong>từ một ai đó.</p>",
+      "content_text": "Khi xưa (昔) tôi đã\nmượn\ntừ một ai đó.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc283a20bdf.jpg",
+      "image_path": "assets/images/借_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158589",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>借りる (かりる): mượn</p>",
+      "content_text": "JLPT N4\n借りる (かりる): mượn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151727",
+      "lang": "vi",
+      "content_html": "<p>MƯỢN MỘT NGƯỜI HAI MỐT NGÀY</p>",
+      "content_text": "MƯỢN MỘT NGƯỜI HAI MỐT NGÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "借",
+      "reading": "か",
+      "meaning": "sự vay mượn"
+    },
+    {
+      "word": "借る",
+      "reading": "かる",
+      "meaning": "vay"
+    },
+    {
+      "word": "借り",
+      "reading": "かり",
+      "meaning": "giấy vay nợ"
+    },
+    {
+      "word": "貸借",
+      "reading": "たいしゃく",
+      "meaning": "cho vay và đi vay"
+    },
+    {
+      "word": "借款",
+      "reading": "しゃっかん",
+      "meaning": "khoản vay"
+    },
+    {
+      "word": "借用",
+      "reading": "しゃくよう",
+      "meaning": "mượn"
+    },
+    {
+      "word": "借財",
+      "reading": "しゃくざい",
+      "meaning": "sự vay tiền"
+    },
+    {
+      "word": "借金",
+      "reading": "しゃっきん",
+      "meaning": "khoản nợ"
+    },
+    {
+      "word": "借入",
+      "reading": "かりいれ",
+      "meaning": "vay"
+    },
+    {
+      "word": "借家",
+      "reading": "しゃくや",
+      "meaning": "nhà cho thuê"
+    }
+  ]
+}

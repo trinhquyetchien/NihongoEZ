@@ -1,0 +1,49 @@
+{
+  "kanji": "箭",
+  "meta": {
+    "weight": 2006,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "や"
+    ],
+    "am_han": "TIẾN"
+  },
+  "meaning": {
+    "vi": "mũi tên",
+    "en": "arrow"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/箭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4534",
+    "text": "箭 (đọc là \"sen\") có nghĩa là \"mũi tên\", chỉ các vật dụng dùng để bắn hoặc chỉ định một hướng, mục tiêu."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "弓箭",
+      "reading": "ゆみや",
+      "meaning": "cung và tên"
+    },
+    {
+      "word": "火箭",
+      "reading": "ひや",
+      "meaning": "tên lửa"
+    },
+    {
+      "word": "銀箭",
+      "reading": "ぎんせん",
+      "meaning": "mũi tên bạc"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "kanji": "蕃",
+  "meta": {
+    "weight": 2340,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン",
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "PHIỀN"
+  },
+  "meaning": {
+    "vi": "phát triển sang trọng",
+    "en": "grow luxuriously"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕃.svg"
+  },
+  "frequency": 2361,
+  "examples": [],
+  "explanation": {
+    "id": "6522",
+    "text": "蕃 (đọc là \"ban\") có nghĩa là \"người nước ngoài\" hoặc chỉ các vùng đất xa lạ, thường được dùng để chỉ các quốc gia hoặc dân tộc không phải Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "156602",
+      "lang": "vi",
+      "content_html": "<p>Mua Cỏ mà phải đợi luân Phiên, Phiền quá đi</p>",
+      "content_text": "Mua Cỏ mà phải đợi luân Phiên, Phiền quá đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蕃別",
+      "reading": "ばんべつ",
+      "meaning": "các thị tộc được cho là có nguồn gốc từ dòng dõi nước ngoài"
+    },
+    {
+      "word": "諸蕃",
+      "reading": "しょばん",
+      "meaning": "các thị tộc được cho là có nguồn gốc từ dòng dõi nước ngoài"
+    },
+    {
+      "word": "蕃椒",
+      "reading": "とうがらし",
+      "meaning": "cây ớt"
+    },
+    {
+      "word": "蕃主",
+      "reading": "はんしゅ",
+      "meaning": "phong kiến khống chế"
+    },
+    {
+      "word": "蕃社",
+      "reading": "ばんしゃ",
+      "meaning": "làng người bản địa"
+    },
+    {
+      "word": "蕃夷",
+      "reading": "ばんい",
+      "meaning": "người tàn bạo"
+    },
+    {
+      "word": "蕃殖",
+      "reading": "はんしょく",
+      "meaning": "sinh sản"
+    },
+    {
+      "word": "生蕃",
+      "reading": "せいばん",
+      "meaning": "bộ tộc hoang dã"
+    },
+    {
+      "word": "蕃族",
+      "reading": "ばんぞく",
+      "meaning": "bộ lạc dã man"
+    },
+    {
+      "word": "蕃書",
+      "reading": "ばんしょ",
+      "meaning": "nước ngoài viết"
+    }
+  ]
+}

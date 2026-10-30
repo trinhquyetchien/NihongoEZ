@@ -1,0 +1,103 @@
+{
+  "kanji": "蘭",
+  "meta": {
+    "weight": 2365,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン",
+      "ラ"
+    ],
+    "kun": [],
+    "am_han": "LAN"
+  },
+  "meaning": {
+    "vi": "phong lan, hà lan",
+    "en": "orchid, Holland"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/蘭.svg"
+  },
+  "frequency": 1886,
+  "examples": [
+    "蘭"
+  ],
+  "explanation": {
+    "id": "7990",
+    "text": "蘭 (đọc là \"ran\") có nghĩa là \"hoa lan,\" thường dùng để chỉ các loại hoa lan hoặc biểu tượng cho vẻ đẹp, sự thanh nhã."
+  },
+  "comments": [
+    {
+      "id": "156642",
+      "lang": "vi",
+      "content_html": "<p>Hoa trồng trên cổng phía đông là hoa phong LAN</p>",
+      "content_text": "Hoa trồng trên cổng phía đông là hoa phong LAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蘭",
+      "reading": "らん",
+      "meaning": "cây phong lan"
+    },
+    {
+      "word": "愛蘭",
+      "reading": "アイルランド",
+      "meaning": "ai-len"
+    },
+    {
+      "word": "絹蘭",
+      "reading": "きぬらん",
+      "meaning": "cây hoa lan lụa"
+    },
+    {
+      "word": "糸蘭",
+      "reading": "いとらん",
+      "meaning": "cây lan chỉ"
+    },
+    {
+      "word": "蘭語",
+      "reading": "らんご",
+      "meaning": "tiếng hà lan"
+    },
+    {
+      "word": "芬蘭",
+      "reading": "フィンランド",
+      "meaning": "nước phần lan"
+    },
+    {
+      "word": "波蘭",
+      "reading": "ポーランド",
+      "meaning": "nước ba lan"
+    },
+    {
+      "word": "葉蘭",
+      "reading": "はらん",
+      "meaning": "cây tỏi rừng"
+    },
+    {
+      "word": "洋蘭",
+      "reading": "ようらん",
+      "meaning": "cây phong lan gốc phương tây"
+    },
+    {
+      "word": "蘭鋳",
+      "reading": "らんちゅう",
+      "meaning": "cá vàng"
+    }
+  ]
+}

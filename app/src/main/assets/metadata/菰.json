@@ -1,0 +1,45 @@
+{
+  "kanji": "菰",
+  "meta": {
+    "weight": 2299,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "こも",
+      "まこも"
+    ],
+    "am_han": "CÔ"
+  },
+  "meaning": {
+    "vi": "lau sậy được sử dụng để làm thảm",
+    "en": "reed used for matting"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/菰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2301",
+    "text": "菰 (đọc là \"gō\") có nghĩa là \"cây cỏ\" hoặc \"thực vật thủy sinh\", thường chỉ những loại thực vật sống trong nước."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "菰蓆",
+      "reading": "こもむしろ",
+      "meaning": "chiếu lá lúa"
+    },
+    {
+      "word": "真菰",
+      "reading": "まこも",
+      "meaning": "một loại lúa nước"
+    }
+  ]
+}

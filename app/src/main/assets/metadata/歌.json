@@ -1,0 +1,143 @@
+{
+  "kanji": "歌",
+  "meta": {
+    "weight": 1447,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "うた",
+      "うた.う"
+    ],
+    "am_han": "CA"
+  },
+  "meaning": {
+    "vi": "ca hát",
+    "en": "song, sing"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/歌.svg"
+  },
+  "frequency": 519,
+  "examples": [
+    "歌",
+    "歌う",
+    "歌詞",
+    "歌手",
+    "国歌"
+  ],
+  "explanation": {
+    "id": "654",
+    "text": "歌 (đọc là \"ka\" hoặc \"uta\") có nghĩa là \"bài hát\" hoặc \"ca khúc\", chỉ các hình thức âm nhạc liên quan đến việc hát."
+  },
+  "comments": [
+    {
+      "id": "191075",
+      "lang": "vi",
+      "content_html": "<p><strong>ca hát</strong></p>",
+      "content_text": "ca hát",
+      "image_url": "https://jpdictionary.com/upload/images/648a95278294c.jpg",
+      "image_path": "assets/images/歌_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "900",
+      "lang": "vi",
+      "content_html": "<p>Mọi người (人) đang mở to miệng (口) <strong>hát </strong>(歌).</p>",
+      "content_text": "Mọi người (人) đang mở to miệng (口)\nhát\n(歌).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b14560d37.jpg",
+      "image_path": "assets/images/歌_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 1,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154663",
+      "lang": "vi",
+      "content_html": "<p>Cuộc sống sẽ rất buồn chán nếu Thiếu 欠 Khả Năng 可 Ca, Hát 歌.</p>",
+      "content_text": "Cuộc sống sẽ rất buồn chán nếu Thiếu 欠 Khả Năng 可 Ca, Hát 歌.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "歌",
+      "reading": "うた",
+      "meaning": "bài hát"
+    },
+    {
+      "word": "演歌歌手",
+      "reading": "えんかかしゅ",
+      "meaning": "ca sĩ enka"
+    },
+    {
+      "word": "国歌",
+      "reading": "こっか",
+      "meaning": "quốc ca"
+    },
+    {
+      "word": "校歌",
+      "reading": "こうか",
+      "meaning": "bài hát của trường"
+    },
+    {
+      "word": "詩歌",
+      "reading": "しいか",
+      "meaning": "thơ ca"
+    },
+    {
+      "word": "歌う",
+      "reading": "うたう",
+      "meaning": "ca"
+    },
+    {
+      "word": "本歌",
+      "reading": "ほんか",
+      "meaning": "bài hát này"
+    },
+    {
+      "word": "譚歌",
+      "reading": "たんか",
+      "meaning": "nhạc ballad"
+    },
+    {
+      "word": "歌物",
+      "reading": "うたもの",
+      "meaning": "bài hát có lời"
+    },
+    {
+      "word": "演歌",
+      "reading": "えんか",
+      "meaning": "bài hát nhật theo kiểu truyền thống rất nổi tiếng"
+    }
+  ]
+}

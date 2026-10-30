@@ -1,0 +1,77 @@
+{
+  "kanji": "鉾",
+  "meta": {
+    "weight": 2754,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ム"
+    ],
+    "kun": [
+      "ほこ"
+    ],
+    "am_han": "MÂU"
+  },
+  "meaning": {
+    "vi": "dây, cánh tay, lễ hội phao",
+    "en": "halberd, arms, festival float"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鉾.svg"
+  },
+  "frequency": 2453,
+  "examples": [
+    "鉾"
+  ],
+  "explanation": {
+    "id": "7303",
+    "text": "鉾 (đọc là \"hoko\") có nghĩa là \"cây giáo\", \"mũi giáo\", thường chỉ các loại vũ khí hoặc biểu tượng liên quan đến chiến tranh, lễ hội."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鉾",
+      "reading": "ほこ",
+      "meaning": "cây kích"
+    },
+    {
+      "word": "山鉾",
+      "reading": "やまぼこ",
+      "meaning": "liên hoan thả nổi được gắn vào với một cây kích trang trí"
+    },
+    {
+      "word": "蒲鉾",
+      "reading": "かまぼこ",
+      "meaning": "một loại chả cá của nhật bản"
+    },
+    {
+      "word": "筋蒲鉾",
+      "reading": "すじかまぼこ",
+      "meaning": "món chả cá kamaboko được làm bằng cách trộn cơ cá với thịt"
+    },
+    {
+      "word": "長刀鉾",
+      "reading": "なぎなたぼこ",
+      "meaning": "kiệu rước có chóp nhọn dài trong lễ hội gion ở kyoto"
+    },
+    {
+      "word": "揚げ蒲鉾",
+      "reading": "あげかまぼこ",
+      "meaning": "deep-fried kamaboko"
+    },
+    {
+      "word": "蒲鉾兵舎",
+      "reading": "かまぼこへいしゃ",
+      "meaning": "quonset cho ở lều"
+    },
+    {
+      "word": "鯱鉾立ち",
+      "reading": "さっちょこだち",
+      "meaning": "sự chổng ngược người lên"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "堀",
+  "meta": {
+    "weight": 570,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クツ"
+    ],
+    "kun": [
+      "ほり"
+    ],
+    "am_han": "QUẬT"
+  },
+  "meaning": {
+    "vi": "mương, hào, kênh",
+    "en": "ditch, moat, canal"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/堀.svg"
+  },
+  "frequency": 1285,
+  "examples": [
+    "堀江",
+    "堀",
+    "堀川",
+    "内堀",
+    "外堀"
+  ],
+  "explanation": {
+    "id": "7350",
+    "text": "堀 (đọc là \"horu\") có nghĩa là \"hào\" hoặc \"kênh\", chỉ một cấu trúc thủy lợi hoặc hệ thống phòng thủ."
+  },
+  "comments": [
+    {
+      "id": "152608",
+      "lang": "vi",
+      "content_html": "<p>có vùng đất bị che Khuất, khai Quật lên thì ra là kênh đào</p>",
+      "content_text": "có vùng đất bị che Khuất, khai Quật lên thì ra là kênh đào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152609",
+      "lang": "vi",
+      "content_html": "<p>Khai Quật được chỗ đất trên núi có cửa vào hang động thây ma</p>",
+      "content_text": "Khai Quật được chỗ đất trên núi có cửa vào hang động thây ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152610",
+      "lang": "vi",
+      "content_html": "<p>khai Quật(堀） là đưa THi(尸） thể Xuất（出） ra khỏi lòng Đất（土）</p>",
+      "content_text": "khai Quật(堀） là đưa THi(尸） thể Xuất（出） ra khỏi lòng Đất（土）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "堀",
+      "reading": "ほり",
+      "meaning": "hào"
+    },
+    {
+      "word": "根堀り葉堀り",
+      "reading": "ねほりはほり",
+      "meaning": "sự kỹ càng"
+    },
+    {
+      "word": "外堀",
+      "reading": "そとぼり",
+      "meaning": "hào bên ngoài thành"
+    },
+    {
+      "word": "堀川",
+      "reading": "ほりかわ",
+      "meaning": "kênh"
+    },
+    {
+      "word": "空堀",
+      "reading": "からぼり",
+      "meaning": "đường hào khô ráo"
+    },
+    {
+      "word": "内堀",
+      "reading": "うちぼり",
+      "meaning": "hào bên trong"
+    },
+    {
+      "word": "堀江",
+      "reading": "ほりえ",
+      "meaning": "kênh"
+    },
+    {
+      "word": "堀端",
+      "reading": "ほりばた",
+      "meaning": "ủng hộ một hào"
+    },
+    {
+      "word": "釣堀",
+      "reading": "つりぼり",
+      "meaning": "ao cá"
+    },
+    {
+      "word": "横堀",
+      "reading": "よこぼり",
+      "meaning": "hào ngang"
+    }
+  ]
+}

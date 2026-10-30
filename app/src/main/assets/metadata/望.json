@@ -1,0 +1,144 @@
+{
+  "kanji": "望",
+  "meta": {
+    "weight": 1274,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "のぞ.む",
+      "もち"
+    ],
+    "am_han": "VỌNG"
+  },
+  "meaning": {
+    "vi": "nguyện vọng",
+    "en": "ambition, full moon, hope, desire, aspire to, expect"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/望.svg"
+  },
+  "frequency": 470,
+  "examples": [
+    "希望",
+    "要望",
+    "望む",
+    "展望",
+    "望ましい"
+  ],
+  "explanation": {
+    "id": "7273",
+    "text": "望 (đọc là \"bou\" hoặc \"nozo.mu\") có nghĩa là \"hy vọng\", \"mong đợi\" hoặc \"nhìn xa\". Nó thường chỉ những điều mà người ta khao khát hoặc mong ước xảy ra."
+  },
+  "comments": [
+    {
+      "id": "154340",
+      "lang": "vi",
+      "content_html": "<p>Hi vọng vua sẽ tìm thấy ánh trăng bị mất</p>",
+      "content_text": "Hi vọng vua sẽ tìm thấy ánh trăng bị mất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154341",
+      "lang": "vi",
+      "content_html": "<p>Được CHẾT dưới ánh TRĂNG là nguyện vọng của vị VUA trẻ</p>",
+      "content_text": "Được CHẾT dưới ánh TRĂNG là nguyện vọng của vị VUA trẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154342",
+      "lang": "vi",
+      "content_html": "<p>Nguyện VỌNG望 của Đắc Kỷ là đòi Trụ VƯƠNG王 xây cho đài vọng NGUYỆT月 quá tốn kém dẫn đến VONG亡 quốc.</p>",
+      "content_text": "Nguyện VỌNG望 của Đắc Kỷ là đòi Trụ VƯƠNG王 xây cho đài vọng NGUYỆT月 quá tốn kém dẫn đến VONG亡 quốc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "望",
+      "reading": "もち",
+      "meaning": "trăng rằm"
+    },
+    {
+      "word": "望み通り",
+      "reading": "のぞみどおり",
+      "meaning": "đúng như mong muốn vd: 望みどおりの品が手に入る. có được món hàng đúng như mong muốn"
+    },
+    {
+      "word": "怨望",
+      "reading": "えんぼう",
+      "meaning": "sự tức giận"
+    },
+    {
+      "word": "嘱望",
+      "reading": "しょくぼう",
+      "meaning": "sự kỳ vọng"
+    },
+    {
+      "word": "信望",
+      "reading": "しんぼう",
+      "meaning": "sự tin cậy"
+    },
+    {
+      "word": "志望",
+      "reading": "しぼう",
+      "meaning": "ước muốn"
+    },
+    {
+      "word": "朔望",
+      "reading": "さくぼう",
+      "meaning": "ngày mùng 1 và ngày rằm trong lịch âm"
+    },
+    {
+      "word": "遠望",
+      "reading": "えんぼう",
+      "meaning": "cảnh từ xa"
+    },
+    {
+      "word": "凝望",
+      "reading": "ぎょうぼう",
+      "meaning": "sự nhìn chằm chằm"
+    },
+    {
+      "word": "懇望",
+      "reading": "こんもう",
+      "meaning": "lời cầu xin"
+    }
+  ]
+}

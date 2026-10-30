@@ -1,0 +1,108 @@
+{
+  "kanji": "厨",
+  "meta": {
+    "weight": 411,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ズ",
+      "チュ",
+      "チュウ"
+    ],
+    "kun": [
+      "くりや"
+    ],
+    "am_han": "TRÙ, CHÙ, CHÙA, SÙ"
+  },
+  "meaning": {
+    "vi": "phòng bếp",
+    "en": "kitchen"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/厨.svg"
+  },
+  "frequency": 2425,
+  "examples": [
+    "厨房",
+    "厨"
+  ],
+  "explanation": {
+    "id": "4197",
+    "text": "厨 (đọc là \"chu\") có nghĩa là \"nhà bếp\" hoặc \"người đầu bếp\", chỉ không gian và hoạt động liên quan đến việc nấu ăn."
+  },
+  "comments": [
+    {
+      "id": "152225",
+      "lang": "vi",
+      "content_html": "<p>trù phòng (ngự thiện phòng) là nơi 1 tấc đậu hũ cũng phải làm thành món ngon</p>",
+      "content_text": "trù phòng (ngự thiện phòng) là nơi 1 tấc đậu hũ cũng phải làm thành món ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "厨",
+      "reading": "くりや",
+      "meaning": "nhà bếp"
+    },
+    {
+      "word": "庖厨",
+      "reading": "ほうちゅう",
+      "meaning": "phòng bếp"
+    },
+    {
+      "word": "厨子",
+      "reading": "ずし",
+      "meaning": "vẽ thu nhỏ miếu thờ trong một miếu"
+    },
+    {
+      "word": "厨房",
+      "reading": "ちゅうぼう",
+      "meaning": "phòng bếp"
+    },
+    {
+      "word": "厨宰",
+      "reading": "ちゅうさい",
+      "meaning": "đầu bếp"
+    },
+    {
+      "word": "厨人",
+      "reading": "ちゅうじん",
+      "meaning": "đầu bếp"
+    },
+    {
+      "word": "厨芥",
+      "reading": "ちゅうかい",
+      "meaning": "rác thải nhà bếp"
+    },
+    {
+      "word": "切断厨",
+      "reading": "せつだんちゅう",
+      "meaning": "người hay ngắt kết nối trong khi chơi game online"
+    },
+    {
+      "word": "厨子甕",
+      "reading": "ずしがめ",
+      "meaning": "hộp gốm"
+    },
+    {
+      "word": "硬派厨",
+      "reading": "こうはちゅう",
+      "meaning": "internet tough guy"
+    }
+  ]
+}

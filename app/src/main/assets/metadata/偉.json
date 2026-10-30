@@ -1,0 +1,142 @@
+{
+  "kanji": "偉",
+  "meta": {
+    "weight": 222,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "えら.い"
+    ],
+    "am_han": "VĨ"
+  },
+  "meaning": {
+    "vi": "vĩ đại",
+    "en": "admirable, greatness, remarkable, conceited, famous, excellent"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/偉.svg"
+  },
+  "frequency": 1639,
+  "examples": [
+    "偉大",
+    "偉い",
+    "偉",
+    "偉人",
+    "偉業"
+  ],
+  "explanation": {
+    "id": "122",
+    "text": "偉 (đọc là \"i\") có nghĩa là \"vĩ đại\", \"kiệt xuất\" để chỉ sự vĩ đại, nổi bật hoặc đáng kính trọng."
+  },
+  "comments": [
+    {
+      "id": "151743",
+      "lang": "vi",
+      "content_html": "<p>Vi thêm nhân là vĩ nhân</p>",
+      "content_text": "Vi thêm nhân là vĩ nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151744",
+      "lang": "vi",
+      "content_html": "<p>VĨ NHÂN nên sẽ khác (違） người thường</p>",
+      "content_text": "VĨ NHÂN nên sẽ khác (違） người thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151745",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI VĨ đại là người không VI phạm luật pháp</p>",
+      "content_text": "NGƯỜI VĨ đại là người không VI phạm luật pháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "偉",
+      "reading": "い",
+      "meaning": "sự to lớn"
+    },
+    {
+      "word": "魁偉",
+      "reading": "かいい",
+      "meaning": "khỏe mạnh"
+    },
+    {
+      "word": "偉挙",
+      "reading": "いきょ",
+      "meaning": "tuyệt vời chứng nhượng"
+    },
+    {
+      "word": "偉烈",
+      "reading": "いれつ",
+      "meaning": "thành tích lớn"
+    },
+    {
+      "word": "偉勲",
+      "reading": "いくん",
+      "meaning": "thành công vĩ đại"
+    },
+    {
+      "word": "偉功",
+      "reading": "いこう",
+      "meaning": "kỳ công"
+    },
+    {
+      "word": "偉観",
+      "reading": "いかん",
+      "meaning": "cảnh quan tuyệt vời"
+    },
+    {
+      "word": "偉効",
+      "reading": "いこう",
+      "meaning": "hiệu ứng lớn"
+    },
+    {
+      "word": "偉績",
+      "reading": "いせき",
+      "meaning": "những thành tích vinh quang"
+    },
+    {
+      "word": "偉徳",
+      "reading": "いとく",
+      "meaning": "sự trinh tiết nổi bật"
+    }
+  ]
+}

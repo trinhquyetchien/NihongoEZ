@@ -1,0 +1,104 @@
+{
+  "kanji": "淘",
+  "meta": {
+    "weight": 1558,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "よな.げる"
+    ],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "lựa chọn",
+    "en": "select"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淘.svg"
+  },
+  "frequency": 2410,
+  "examples": [
+    "淘汰"
+  ],
+  "explanation": {
+    "id": "5817",
+    "text": "淘 (đọc là \"とう\" - \"tō\") có nghĩa là \"lọc\", \"tách\" để chỉ các hành động liên quan đến việc lọc bỏ, làm sạch hoặc tìm kiếm cái tốt nhất từ những thứ hỗn độn."
+  },
+  "comments": [
+    {
+      "id": "154938",
+      "lang": "vi",
+      "content_html": "<p>Nước bao quanh cái lon bò húc bị ĐÀO thải</p>",
+      "content_text": "Nước bao quanh cái lon bò húc bị ĐÀO thải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "淘汰",
+      "reading": "とうた",
+      "meaning": "sự chọn lọc"
+    },
+    {
+      "word": "性淘汰",
+      "reading": "せいとうた",
+      "meaning": "sự chọn lọc giới tính"
+    },
+    {
+      "word": "整理淘汰",
+      "reading": "せいりとうた",
+      "meaning": "việc sắp xếp và loại bỏ những thứ không cần thiết"
+    },
+    {
+      "word": "社会淘汰",
+      "reading": "しゃかいとうた",
+      "meaning": "sự chọn lọc mang tính xã hội"
+    },
+    {
+      "word": "血縁淘汰",
+      "reading": "けつえんとうた",
+      "meaning": "sự chọn lọc theo dòng dõi"
+    },
+    {
+      "word": "人為淘汰",
+      "reading": "じんいとうた",
+      "meaning": "sự chọn lọc nhân tạo"
+    },
+    {
+      "word": "人員淘汰",
+      "reading": "じんいんとうた",
+      "meaning": "sự giảm nhân sự"
+    },
+    {
+      "word": "自然淘汰",
+      "reading": "しぜんとうた",
+      "meaning": "sự chọn lọc tự nhiên"
+    },
+    {
+      "word": "雌雄淘汰",
+      "reading": "しゆうとうた",
+      "meaning": "sự chọn lọc giới tính"
+    },
+    {
+      "word": "淘汰作用",
+      "reading": "とうたさよう",
+      "meaning": "sàng lọc"
+    }
+  ]
+}

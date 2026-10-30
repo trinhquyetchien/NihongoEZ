@@ -1,0 +1,142 @@
+{
+  "kanji": "履",
+  "meta": {
+    "weight": 785,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "は.く"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "biểu diễn, hoàn thành, giày dép, giày, ủng, mang vào (bàn chân)",
+    "en": "perform, complete, footgear, shoes, boots, put on (the feet)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/履.svg"
+  },
+  "frequency": 1619,
+  "examples": [
+    "履歴",
+    "履修",
+    "履行",
+    "不履行",
+    "履く"
+  ],
+  "explanation": {
+    "id": "8003",
+    "text": "履 (đọc là \"ri\") có nghĩa là \"giày\", \"dép\" để chỉ các loại vật dụng đi lại trên chân."
+  },
+  "comments": [
+    {
+      "id": "153127",
+      "lang": "vi",
+      "content_html": "<p>Phục Hồi lại LÍ lịch để đi THI</p>",
+      "content_text": "Phục Hồi lại LÍ lịch để đi THI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153128",
+      "lang": "vi",
+      "content_html": "<p>XÁC CHẾT tự hồi PHỤC lại thật là vô LÍ...</p>",
+      "content_text": "XÁC CHẾT tự hồi PHỤC lại thật là vô LÍ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153129",
+      "lang": "vi",
+      "content_html": "<p>Thi 尸 thể người chết tự dưng phục hồi 回復 và có thể tự đi giầy 履く</p>",
+      "content_text": "Thi 尸 thể người chết tự dưng phục hồi 回復 và có thể tự đi giầy 履く",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "履修",
+      "reading": "りしゅう",
+      "meaning": "sự tham gia học hành"
+    },
+    {
+      "word": "履く",
+      "reading": "はく",
+      "meaning": "đi"
+    },
+    {
+      "word": "履帯",
+      "reading": "りたい",
+      "meaning": "loại bánh xích"
+    },
+    {
+      "word": "弊履",
+      "reading": "へいり",
+      "meaning": "giày dép rách"
+    },
+    {
+      "word": "草履",
+      "reading": "ぞうり",
+      "meaning": "dép bằng cỏ"
+    },
+    {
+      "word": "上履",
+      "reading": "うわばき",
+      "meaning": "dép lê"
+    },
+    {
+      "word": "木履",
+      "reading": "ぽっくり",
+      "meaning": "làm bằng gỗ quét sơn cô gái nghẹt"
+    },
+    {
+      "word": "履物",
+      "reading": "はきもの",
+      "meaning": "giày dép"
+    },
+    {
+      "word": "履歴",
+      "reading": "りれき",
+      "meaning": "lịch sử"
+    },
+    {
+      "word": "履行",
+      "reading": "りこう",
+      "meaning": "sự thực hiện"
+    }
+  ]
+}

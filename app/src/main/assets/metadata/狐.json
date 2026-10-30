@@ -1,0 +1,121 @@
+{
+  "kanji": "狐",
+  "meta": {
+    "weight": 1708,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "きつね"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "cáo",
+    "en": "fox"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/狐.svg"
+  },
+  "frequency": 2185,
+  "examples": [
+    "狐"
+  ],
+  "explanation": {
+    "id": "2287",
+    "text": "狐 (đọc là \"kitsune\") có nghĩa là \"cáo\", chỉ loài động vật cáo, thường liên quan đến các yếu tố thần thoại và văn hóa trong Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "155267",
+      "lang": "vi",
+      "content_html": "<p>con VẬT có tính đa NGHI là con cáo (HỒ LY)</p>",
+      "content_text": "con VẬT có tính đa NGHI là con cáo (HỒ LY)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155268",
+      "lang": "vi",
+      "content_html": "<p>chó ăn dưa sẽ biến thành cáo ( hồ li)</p>",
+      "content_text": "chó ăn dưa sẽ biến thành cáo ( hồ li)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "狐",
+      "reading": "きつね",
+      "meaning": "cáo"
+    },
+    {
+      "word": "狐薊",
+      "reading": "きつねあざみ",
+      "meaning": "hemisteptia lyrata"
+    },
+    {
+      "word": "悪狐",
+      "reading": "あっこ",
+      "meaning": "bad fox"
+    },
+    {
+      "word": "善狐",
+      "reading": "ぜんこ",
+      "meaning": "con cáo tốt"
+    },
+    {
+      "word": "赤狐",
+      "reading": "あかぎつね",
+      "meaning": "cáo đỏ"
+    },
+    {
+      "word": "銀狐",
+      "reading": "ぎんぎつね",
+      "meaning": "cáo xám bạc"
+    },
+    {
+      "word": "古狐",
+      "reading": "ふるきつね",
+      "meaning": "dân kỳ cựu"
+    },
+    {
+      "word": "天狐",
+      "reading": "てんこ",
+      "meaning": "thiên hồ"
+    },
+    {
+      "word": "北狐",
+      "reading": "きたきつね",
+      "meaning": "ezo red fox"
+    },
+    {
+      "word": "子狐",
+      "reading": "こぎつね",
+      "meaning": "con cáo con"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "容",
+  "meta": {
+    "weight": 731,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "い.れる"
+    ],
+    "am_han": "DUNG"
+  },
+  "meaning": {
+    "vi": "chứa, nội dung",
+    "en": "contain, form, looks"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/容.svg"
+  },
+  "frequency": 264,
+  "examples": [
+    "内容",
+    "容疑",
+    "容易",
+    "美容",
+    "容量"
+  ],
+  "explanation": {
+    "id": "7848",
+    "text": "容 (đọc là \"yō\" hoặc \"naru\") có nghĩa là \"chấp nhận\", \"sự rộng lượng\" hoặc \"hình thức, dung mạo\". Nó thường chỉ các khía cạnh liên quan đến sự chấp thuận, tôn trọng hoặc bề ngoài."
+  },
+  "comments": [
+    {
+      "id": "152983",
+      "lang": "vi",
+      "content_html": "<p>Bài thơ viết thung lũng dưới mái nhà có nội DUNG hay</p>",
+      "content_text": "Bài thơ viết thung lũng dưới mái nhà có nội DUNG hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152984",
+      "lang": "vi",
+      "content_html": "<p>CỐC trong NHÀ chứa DUNG dịch</p>",
+      "content_text": "CỐC trong NHÀ chứa DUNG dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152985",
+      "lang": "vi",
+      "content_html": "<p>Cái NHÀ mà chứa được cả THUNG LŨNG(CỐC) thì thật là bao DUNG</p>",
+      "content_text": "Cái NHÀ mà chứa được cả THUNG LŨNG(CỐC) thì thật là bao DUNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "形容",
+      "reading": "けいよう",
+      "meaning": "hình dáng"
+    },
+    {
+      "word": "収容",
+      "reading": "しゅうよう",
+      "meaning": "sự chứa"
+    },
+    {
+      "word": "許容",
+      "reading": "きょよう",
+      "meaning": "sự cho phép"
+    },
+    {
+      "word": "音容",
+      "reading": "おんよう",
+      "meaning": "mặt"
+    },
+    {
+      "word": "温容",
+      "reading": "おんよう",
+      "meaning": "mặt"
+    },
+    {
+      "word": "軍容",
+      "reading": "ぐんよう",
+      "meaning": "quân đội accouterments"
+    },
+    {
+      "word": "厳容",
+      "reading": "げんよう",
+      "meaning": "biểu thức nghiêm khắc"
+    },
+    {
+      "word": "容体",
+      "reading": "ようだい",
+      "meaning": "tình trạng cơ thể"
+    },
+    {
+      "word": "尊容",
+      "reading": "そんよう",
+      "meaning": "sắc diện bạn"
+    },
+    {
+      "word": "陣容",
+      "reading": "じんよう",
+      "meaning": "hàng ngũ chiến đấu"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "伏",
+  "meta": {
+    "weight": 155,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "ふ.せる",
+      "ふ.す"
+    ],
+    "am_han": "PHỤC"
+  },
+  "meaning": {
+    "vi": "phủ phục, cúi xuống, cúi đầu, che, nằm (ống dẫn)",
+    "en": "prostrated, bend down, bow, cover, lay (pipes)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伏.svg"
+  },
+  "frequency": 1604,
+  "examples": [
+    "伏線",
+    "降伏",
+    "起伏",
+    "潜伏",
+    "待ち伏せ"
+  ],
+  "explanation": {
+    "id": "6895",
+    "text": "伏 (đọc là \"fuku\") có nghĩa là \"phục tùng\", \"nằm phục\", chỉ các hành động liên quan đến việc cúi đầu, nằm xuống hoặc ẩn mình."
+  },
+  "comments": [
+    {
+      "id": "151579",
+      "lang": "vi",
+      "content_html": "<p>Phục kích người trộm chó</p>",
+      "content_text": "Phục kích người trộm chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151580",
+      "lang": "vi",
+      "content_html": "<p>chú chó nằm phục trước một người</p>",
+      "content_text": "chú chó nằm phục trước một người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151581",
+      "lang": "vi",
+      "content_html": "<p>Chú chó cúi đầu xuống chào chủ về</p>",
+      "content_text": "Chú chó cúi đầu xuống chào chủ về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "伏",
+      "reading": "ふく",
+      "meaning": "cúi"
+    },
+    {
+      "word": "懾伏",
+      "reading": "しょうふく",
+      "meaning": "cúi đầu vì sợ hãi"
+    },
+    {
+      "word": "起伏",
+      "reading": "きふく",
+      "meaning": "nhấp nhô"
+    },
+    {
+      "word": "降伏",
+      "reading": "こうふく",
+      "meaning": "sự đầu hàng"
+    },
+    {
+      "word": "山伏",
+      "reading": "やまぶし",
+      "meaning": "thầy tu trên núi"
+    },
+    {
+      "word": "雌伏",
+      "reading": "しふく",
+      "meaning": "phần bị che khuất"
+    },
+    {
+      "word": "倒伏",
+      "reading": "とうふく",
+      "meaning": "sự đổ ngã"
+    },
+    {
+      "word": "野伏",
+      "reading": "のぶし",
+      "meaning": "ẩn sỹ"
+    },
+    {
+      "word": "伏在",
+      "reading": "ふくざい",
+      "meaning": "nằm được giấu"
+    },
+    {
+      "word": "伏奏",
+      "reading": "ふくそう",
+      "meaning": "sự hội tụ"
+    }
+  ]
+}

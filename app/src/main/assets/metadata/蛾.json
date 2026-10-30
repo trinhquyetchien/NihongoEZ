@@ -1,0 +1,85 @@
+{
+  "kanji": "蛾",
+  "meta": {
+    "weight": 2386,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "ガ"
+    ],
+    "kun": [
+      "ひむし"
+    ],
+    "am_han": "NGA, NGHĨ"
+  },
+  "meaning": {
+    "vi": "bướm đêm",
+    "en": "moth"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蛾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "735",
+    "text": "蛾 (đọc là \"ga\") có nghĩa là \"bướm đêm\" để chỉ các loài côn trùng thuộc họ bướm, thường hoạt động vào ban đêm."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "蛾",
+      "reading": "が",
+      "meaning": "bướm đêm"
+    },
+    {
+      "word": "雀蛾",
+      "reading": "すずめが",
+      "meaning": "sphingidae"
+    },
+    {
+      "word": "尺蛾",
+      "reading": "しゃくが",
+      "meaning": "bướm đêm"
+    },
+    {
+      "word": "蚕蛾",
+      "reading": "かいこが",
+      "meaning": "bướm tằm"
+    },
+    {
+      "word": "衣蛾",
+      "reading": "いが",
+      "meaning": "con rệp cắn quần áo"
+    },
+    {
+      "word": "螟蛾",
+      "reading": "めいが",
+      "meaning": "kiệt tác"
+    },
+    {
+      "word": "夜蛾",
+      "reading": "やが",
+      "meaning": "bướm đêm"
+    },
+    {
+      "word": "毒蛾",
+      "reading": "どくが",
+      "meaning": "bướm độc"
+    },
+    {
+      "word": "刺蛾",
+      "reading": "いらが",
+      "meaning": "bướm đêm có lông gây kích ứng"
+    },
+    {
+      "word": "紅天蛾",
+      "reading": "べにすずめ",
+      "meaning": "deilephila elpenor"
+    }
+  ]
+}

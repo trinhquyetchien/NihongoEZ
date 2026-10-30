@@ -1,0 +1,142 @@
+{
+  "kanji": "睦",
+  "meta": {
+    "weight": 1852,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "むつ.まじい",
+      "むつ.む",
+      "むつ.ぶ"
+    ],
+    "am_han": "MỤC"
+  },
+  "meaning": {
+    "vi": "gần gũi, thân thiện, hài hòa",
+    "en": "intimate, friendly, harmonious"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/睦.svg"
+  },
+  "frequency": 1993,
+  "examples": [
+    "親睦",
+    "睦月"
+  ],
+  "explanation": {
+    "id": "7334",
+    "text": "睦 (đọc là \"muku\" hoặc \"boku\") có nghĩa là \"hòa thuận\", để chỉ sự thân thiện và hòa hợp giữa mọi người."
+  },
+  "comments": [
+    {
+      "id": "155590",
+      "lang": "vi",
+      "content_html": "<p>Con mắt thân thiện hoà giả đi từ vùng đất này qua vùng đất khác</p>",
+      "content_text": "Con mắt thân thiện hoà giả đi từ vùng đất này qua vùng đất khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155591",
+      "lang": "vi",
+      "content_html": "<p>đi từ vùng đất này sang vùng đất khác mắt MỤC sư thấy ai đánh nhau cũng lao vào hòa giải</p>",
+      "content_text": "đi từ vùng đất này sang vùng đất khác mắt MỤC sư thấy ai đánh nhau cũng lao vào hòa giải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155592",
+      "lang": "vi",
+      "content_html": "<p>Dân du mục là ng thân thiện hoà nhã mắt nhìn chân đi từ vùng đất này đến vùng đất khác</p>",
+      "content_text": "Dân du mục là ng thân thiện hoà nhã mắt nhìn chân đi từ vùng đất này đến vùng đất khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "親睦",
+      "reading": "しんぼく",
+      "meaning": "sự thân thiết"
+    },
+    {
+      "word": "睦む",
+      "reading": "むつむ",
+      "meaning": "hòa hợp"
+    },
+    {
+      "word": "睦ぶ",
+      "reading": "むつぶ",
+      "meaning": "hòa thuận"
+    },
+    {
+      "word": "睦月",
+      "reading": "むつき",
+      "meaning": "tháng giêng theo âm lịch"
+    },
+    {
+      "word": "睦言",
+      "reading": "むつごと",
+      "meaning": "cuộc trò chuyện những người yêu"
+    },
+    {
+      "word": "惇睦",
+      "reading": "とんぼく",
+      "meaning": "thân thiện và chân thành"
+    },
+    {
+      "word": "和睦",
+      "reading": "わぼく",
+      "meaning": "hòa bình"
+    },
+    {
+      "word": "敦睦",
+      "reading": "とんぼく",
+      "meaning": "thân thiện và chân thành"
+    },
+    {
+      "word": "親睦会",
+      "reading": "しんぼくかい",
+      "meaning": "buổi họp mặt thân mật không hình thức tụ lại"
+    },
+    {
+      "word": "睦まじい",
+      "reading": "むつまじい",
+      "meaning": "hòa thuận"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "kanji": "捨",
+  "meta": {
+    "weight": 1105,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "す.てる"
+    ],
+    "am_han": "XÁ"
+  },
+  "meaning": {
+    "vi": "vứt bỏ, xả rác",
+    "en": "discard, throw away, abandon, resign, reject, sacrifice"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/捨.svg"
+  },
+  "frequency": 1266,
+  "examples": [
+    "捨てる",
+    "切り捨て",
+    "使い捨て",
+    "取捨選択",
+    "切り捨てる"
+  ],
+  "explanation": {
+    "id": "3330",
+    "text": "捨 (đọc là \"sha\" hoặc \"sute\") có nghĩa là \"vứt bỏ\", \"bỏ đi\" để chỉ hành động từ bỏ hoặc loại bỏ vật gì đó không còn cần thiết."
+  },
+  "comments": [
+    {
+      "id": "37352",
+      "lang": "vi",
+      "content_html": "<p><strong>Vứt </strong>rác vào thứ bảy (土).</p>",
+      "content_text": "Vứt\nrác vào thứ bảy (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe9e2f1f4f.jpg",
+      "image_path": "assets/images/捨_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153935",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay xả rác trong phố xá</p>",
+      "content_text": "Dùng tay xả rác trong phố xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153936",
+      "lang": "vi",
+      "content_html": "<p>tay làm, miệng nói cùng dọn Rác dưới mái nhà.</p>",
+      "content_text": "tay làm, miệng nói cùng dọn Rác dưới mái nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153937",
+      "lang": "vi",
+      "content_html": "<p>1tay 扌 quản Xá舎..khó, bỏ luôn 捨XÁ</p>",
+      "content_text": "1tay 扌 quản Xá舎..khó, bỏ luôn 捨XÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "捨てゼリフ",
+      "reading": "すてぜりふ",
+      "meaning": "１ 演劇、特に歌舞伎で、俳優が脚本に書いてないのにその場の雰囲気に応じて即興的に言う短いせりふ。 ２ 立ち去ろうとするとき、相手の返答を求めないで一方的に言い放つ言葉。捨て言葉。"
+    },
+    {
+      "word": "4捨5いり",
+      "reading": "4捨5入",
+      "meaning": "làm tròn"
+    },
+    {
+      "word": "喜捨",
+      "reading": "きしゃ",
+      "meaning": "sự bố thí"
+    },
+    {
+      "word": "捨象",
+      "reading": "しゃしょう",
+      "meaning": "sự trừu tượng hóa"
+    },
+    {
+      "word": "取捨",
+      "reading": "しゅしゃ",
+      "meaning": "sự chọn lọc"
+    },
+    {
+      "word": "捨身",
+      "reading": "すてみ",
+      "meaning": "việc từ bỏ thịt để trở thành sư"
+    },
+    {
+      "word": "用捨",
+      "reading": "ようしゃ",
+      "meaning": "sự tiếp nhận hoặc rejection"
+    },
+    {
+      "word": "捨場",
+      "reading": "すてば",
+      "meaning": "đổ xuống nền"
+    },
+    {
+      "word": "捨鉢",
+      "reading": "すてばち",
+      "meaning": "sự liều lĩnh tuyệt vọng"
+    },
+    {
+      "word": "捨子",
+      "reading": "すてご",
+      "meaning": "đứa trẻ bị bỏ rơi"
+    }
+  ]
+}

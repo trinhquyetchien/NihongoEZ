@@ -1,0 +1,145 @@
+{
+  "kanji": "成",
+  "meta": {
+    "weight": 1030,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "am_han": "THÀNH"
+  },
+  "meaning": {
+    "vi": "trở thành, thành công",
+    "en": "turn into, become, get, grow, elapse, reach"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/成.svg"
+  },
+  "frequency": 116,
+  "examples": [
+    "平成",
+    "成功",
+    "作成",
+    "成長",
+    "構成"
+  ],
+  "explanation": {
+    "id": "4303",
+    "text": "成 (đọc là \"sei\" hoặc \"naru\") có nghĩa là \"trở thành\", \"hoàn thành\" để chỉ các hành động liên quan đến việc đạt được trạng thái hoặc kết quả nào đó."
+  },
+  "comments": [
+    {
+      "id": "191028",
+      "lang": "vi",
+      "content_html": "<p><strong>hoàn thành</strong></p>",
+      "content_text": "hoàn thành",
+      "image_url": "https://jpdictionary.com/upload/images/648a8fff02fd5.jpg",
+      "image_path": "assets/images/成_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37256",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>hoàn thành </strong>sứ mệnh bằng việc sử dụng vũ khí.</p>",
+      "content_text": "Tôi\nhoàn thành\nsứ mệnh bằng việc sử dụng vũ khí.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdab22f840.jpg",
+      "image_path": "assets/images/成_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153742",
+      "lang": "vi",
+      "content_html": "<p>có vượt QUA được muôn VẠN khó khăn thì mới THÀNH công được</p>",
+      "content_text": "có vượt QUA được muôn VẠN khó khăn thì mới THÀNH công được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "構成成分",
+      "reading": "こうせいせいぶん",
+      "meaning": "thành phần cấu tạo"
+    },
+    {
+      "word": "アミノアシルティーアールエヌエー合成酵素",
+      "reading": "アミノアシルtRNA合成酵素",
+      "meaning": "amino acyl-trna synthetase"
+    },
+    {
+      "word": "成形",
+      "reading": "せいけい",
+      "meaning": "đúc"
+    },
+    {
+      "word": "偕成",
+      "reading": "かいせい",
+      "meaning": "kaisei"
+    },
+    {
+      "word": "合成",
+      "reading": "ごうせい",
+      "meaning": "sự tổng hợp"
+    },
+    {
+      "word": "行成",
+      "reading": "いきなり",
+      "meaning": "bất ngờ"
+    },
+    {
+      "word": "京成",
+      "reading": "けいせい",
+      "meaning": "huấn luyện hàng tokyo - narita"
+    },
+    {
+      "word": "構成",
+      "reading": "こうせい",
+      "meaning": "cấu thành"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "thành tích"
+    },
+    {
+      "word": "成就",
+      "reading": "じょうじゅ",
+      "meaning": "thành tựu"
+    }
+  ]
+}

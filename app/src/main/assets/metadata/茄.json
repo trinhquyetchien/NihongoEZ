@@ -1,0 +1,134 @@
+{
+  "kanji": "茄",
+  "meta": {
+    "weight": 2273,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "GIA"
+  },
+  "meaning": {
+    "vi": "cà tím",
+    "en": "eggplant"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/茄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "682",
+    "text": "茄 (đọc là \"ka\") có nghĩa là \"cà\" để chỉ cây cà tím hoặc các loại rau củ khác trong họ cà."
+  },
+  "comments": [
+    {
+      "id": "220520",
+      "lang": "vi",
+      "content_html": "<p>Tham gia trồng cà dưới cỏ</p>",
+      "content_text": "Tham gia trồng cà dưới cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220521",
+      "lang": "vi",
+      "content_html": "<p>gia hoa không ngừng tới khi lụi tàn chết đi là cây cà</p>",
+      "content_text": "gia hoa không ngừng tới khi lụi tàn chết đi là cây cà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220522",
+      "lang": "vi",
+      "content_html": "<p>Gia trong gia công, thêm bộ Thảo =&#62; Gia trong cà tím 茄子</p>",
+      "content_text": "Gia trong gia công, thêm bộ Thảo => Gia trong cà tím 茄子",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "茄子",
+      "reading": "なす",
+      "meaning": "cà"
+    },
+    {
+      "word": "蕃茄",
+      "reading": "ばんか",
+      "meaning": "cây cà chua"
+    },
+    {
+      "word": "小茄子",
+      "reading": "こなすび",
+      "meaning": "cà tím nhỏ"
+    },
+    {
+      "word": "悪茄子",
+      "reading": "わるなすび",
+      "meaning": "tầm ma carolina"
+    },
+    {
+      "word": "唐茄子",
+      "reading": "とうなす",
+      "meaning": "bí"
+    },
+    {
+      "word": "赤茄子",
+      "reading": "あかなす",
+      "meaning": "cây cà chua"
+    },
+    {
+      "word": "浜茄子",
+      "reading": "はまなす",
+      "meaning": "bụi gai kẹo"
+    },
+    {
+      "word": "角茄子",
+      "reading": "つのなす",
+      "meaning": "solanum mammosum là loài thực vật có hoa trong họ cà"
+    },
+    {
+      "word": "秋茄子",
+      "reading": "あきなす",
+      "meaning": "cà tím mùa thu"
+    },
+    {
+      "word": "水茄子",
+      "reading": "みずなす",
+      "meaning": "cá tím nước"
+    }
+  ]
+}

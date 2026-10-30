@@ -1,0 +1,152 @@
+{
+  "kanji": "切",
+  "meta": {
+    "weight": 312,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "サイ"
+    ],
+    "kun": [
+      "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
+    ],
+    "am_han": "THIẾT"
+  },
+  "meaning": {
+    "vi": "cắt",
+    "en": "cut, cutoff, be sharp"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/切.svg"
+  },
+  "frequency": 324,
+  "examples": [
+    "大切",
+    "適切",
+    "切れ",
+    "一切",
+    "切り"
+  ],
+  "explanation": {
+    "id": "4430",
+    "text": "切 (đọc là \"setsu\" hoặc \"kiri\") có nghĩa là \"cắt\", \"ngắt\" để chỉ các hành động liên quan đến việc cắt đứt hoặc phân tách."
+  },
+  "comments": [
+    {
+      "id": "887",
+      "lang": "vi",
+      "content_html": "<p>Bảy (七) võ sĩ đạo <strong>cắt </strong>bằng kiếm (刀) của họ.</p>",
+      "content_text": "Bảy (七) võ sĩ đạo\ncắt\nbằng kiếm (刀) của họ.",
+      "image_url": "https://jpdictionary.com/upload/images/6298a0d375f6b.jpg",
+      "image_path": "assets/images/切_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151974",
+      "lang": "vi",
+      "content_html": "<p>điều cần Thiết bây giờ là có Bảy thanh Đao</p>",
+      "content_text": "điều cần Thiết bây giờ là có Bảy thanh Đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158479",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>切る (きる): cắt</p><p>切手 (きって): con tem<br>切符 (きっぷ): vé<br>大切 (たいせつ): quan trọng<br>親切 (しんせつ): tốt bụng<br>しめ切り (しめきり): hạn chót<br>切れる (きれる): đứt, hết</p>",
+      "content_text": "JLPT N4\n切る (きる): cắt\n切手 (きって): con tem\n切符 (きっぷ): vé\n大切 (たいせつ): quan trọng\n親切 (しんせつ): tốt bụng\nしめ切り (しめきり): hạn chót\n切れる (きれる): đứt, hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "切",
+      "reading": "きり",
+      "meaning": "cắt"
+    },
+    {
+      "word": "〆切",
+      "reading": "しめきり",
+      "meaning": "(cách viết khác: 締め切り、閉切り） 1. sự đóng cửa. vd: 部屋を閉切りにする. đóng cửa phòng 2. sự hết hạn"
+    },
+    {
+      "word": "切切",
+      "reading": "せつせつ",
+      "meaning": "sự lễ phép"
+    },
+    {
+      "word": "切れ切れ",
+      "reading": "きれぎれ",
+      "meaning": "những mảnh"
+    },
+    {
+      "word": "切符切り",
+      "reading": "きっぷきり",
+      "meaning": "việc bấm lỗ vé"
+    },
+    {
+      "word": "一切合切",
+      "reading": "いっさいがっさい",
+      "meaning": "bất kỳ nào và mỗi thứ"
+    },
+    {
+      "word": "切断/切削",
+      "reading": "せつだん/せっさく",
+      "meaning": "cắt / gia công cắt"
+    },
+    {
+      "word": "切符を切る",
+      "reading": "きっぷをきる",
+      "meaning": "xé vé"
+    },
+    {
+      "word": "切掛",
+      "reading": "きっかけ",
+      "meaning": "cớ"
+    },
+    {
+      "word": "切替",
+      "reading": "きりかえ",
+      "meaning": "chuyển đổi"
+    }
+  ]
+}

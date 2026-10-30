@@ -1,0 +1,105 @@
+{
+  "kanji": "狸",
+  "meta": {
+    "weight": 1715,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ",
+      "ライ"
+    ],
+    "kun": [
+      "たぬき"
+    ],
+    "am_han": "LI"
+  },
+  "meaning": {
+    "vi": "tanuki, gấu trúc",
+    "en": "tanuki, raccoon"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/狸.svg"
+  },
+  "frequency": 2498,
+  "examples": [
+    "狸"
+  ],
+  "explanation": {
+    "id": "5102",
+    "text": "狸 (đọc là \"rō\") có nghĩa là \"gấu trúc\", thường chỉ loài thú có hình dáng giống như chó, thuộc họ chồn."
+  },
+  "comments": [
+    {
+      "id": "155278",
+      "lang": "vi",
+      "content_html": "<p>hồ li</p>",
+      "content_text": "hồ li",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "狸",
+      "reading": "たぬき",
+      "meaning": "con lửng"
+    },
+    {
+      "word": "屈狸",
+      "reading": "くずり",
+      "meaning": "wolverine"
+    },
+    {
+      "word": "海狸",
+      "reading": "かいり",
+      "meaning": "hải ly"
+    },
+    {
+      "word": "古狸",
+      "reading": "ふるだぬき",
+      "meaning": "con cáo già"
+    },
+    {
+      "word": "狐狸",
+      "reading": "こり",
+      "meaning": "hồ ly"
+    },
+    {
+      "word": "狸爺",
+      "reading": "たぬきじじい",
+      "meaning": "ông già xảo quyệt"
+    },
+    {
+      "word": "狸藻",
+      "reading": "たぬきも",
+      "meaning": "cây rong li"
+    },
+    {
+      "word": "狸汁",
+      "reading": "たぬきじる",
+      "meaning": "xúp con chó giống thú ăn thịt"
+    },
+    {
+      "word": "岩狸",
+      "reading": "いわだぬき",
+      "meaning": "hyrax"
+    },
+    {
+      "word": "狸蕎麦",
+      "reading": "たぬきそば",
+      "meaning": "soba với bột bánh tempura"
+    }
+  ]
+}

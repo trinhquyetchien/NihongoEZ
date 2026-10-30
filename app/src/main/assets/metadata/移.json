@@ -1,0 +1,143 @@
+{
+  "kanji": "移",
+  "meta": {
+    "weight": 1934,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "うつ.る",
+      "うつ.す"
+    ],
+    "am_han": "DI"
+  },
+  "meaning": {
+    "vi": "di chuyển, di động",
+    "en": "shift, move, change, drift, catch (cold, fire), pass into"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/移.svg"
+  },
+  "frequency": 448,
+  "examples": [
+    "移動",
+    "移行",
+    "移転",
+    "移民",
+    "移住"
+  ],
+  "explanation": {
+    "id": "164",
+    "text": "移 (đọc là \"i\") có nghĩa là \"di chuyển\", \"chuyển\" để chỉ các hành động liên quan đến việc thay đổi vị trí hoặc tình trạng."
+  },
+  "comments": [
+    {
+      "id": "155754",
+      "lang": "vi",
+      "content_html": "<p>Hoà dọn nhiều đồ đi</p>",
+      "content_text": "Hoà dọn nhiều đồ đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155755",
+      "lang": "vi",
+      "content_html": "<p>Nhiều cây lúa biết DI chuyển</p>",
+      "content_text": "Nhiều cây lúa biết DI chuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155756",
+      "lang": "vi",
+      "content_html": "<p>muốn HÒA bình HAI TA phải RA(DI) đi</p>",
+      "content_text": "muốn HÒA bình HAI TA phải RA(DI) đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "移植",
+      "reading": "いしょく",
+      "meaning": "việc mang cây đi trồng chỗ khác"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaning": "sự di trú"
+    },
+    {
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "di chuyển"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "sự di chuyển"
+    },
+    {
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "di"
+    },
+    {
+      "word": "移民",
+      "reading": "いみん",
+      "meaning": "dân di cư"
+    },
+    {
+      "word": "移り",
+      "reading": "うつり",
+      "meaning": "sự di chuyển"
+    },
+    {
+      "word": "移築",
+      "reading": "いちく",
+      "meaning": "tháo dỡ một tòa nhà lịch sử và xây dựng lại nó ở nơi khác"
+    },
+    {
+      "word": "移入",
+      "reading": "いにゅう",
+      "meaning": "nhập cư"
+    },
+    {
+      "word": "移牒",
+      "reading": "いちょう",
+      "meaning": "thông báo cho chính quyền"
+    }
+  ]
+}

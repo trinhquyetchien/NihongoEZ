@@ -1,0 +1,159 @@
+{
+  "kanji": "房",
+  "meta": {
+    "weight": 1041,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "ふさ"
+    ],
+    "am_han": "PHÒNG, BÀNG"
+  },
+  "meaning": {
+    "vi": "tua, búi, chùm, khóa (tóc), đoạn (cam), nhà, phòng",
+    "en": "tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/房.svg"
+  },
+  "frequency": 808,
+  "examples": [
+    "官房",
+    "工房",
+    "書房",
+    "暖房",
+    "房"
+  ],
+  "explanation": {
+    "id": "7267",
+    "text": "房 (đọc là \"bō\" hoặc \"fū\") có nghĩa là \"phòng\", \"nhà cửa\", đề chỉ các không gian sống hoặc nơi ở."
+  },
+  "comments": [
+    {
+      "id": "153769",
+      "lang": "vi",
+      "content_html": "<p>HỘ PHƯƠNG mở cửa PHÒNG</p>",
+      "content_text": "HỘ PHƯƠNG mở cửa PHÒNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153770",
+      "lang": "vi",
+      "content_html": "<p>Nhờ Phương mở hộ cánh cửa phòng</p>",
+      "content_text": "Nhờ Phương mở hộ cánh cửa phòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153771",
+      "lang": "vi",
+      "content_html": "<p>Chị Phương đang ở dưới cửa Phòng</p>",
+      "content_text": "Chị Phương đang ở dưới cửa Phòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222107",
+      "lang": "vi",
+      "content_html": "<p>Thật sự tra hán tự theo âm hán việt rất khó chịu. Vì có rất nhiều hán tự trùng âm hán việt. Mà app chỉ hiện ra 1 chữ.&nbsp;</p>",
+      "content_text": "Thật sự tra hán tự theo âm hán việt rất khó chịu. Vì có rất nhiều hán tự trùng âm hán việt. Mà app chỉ hiện ra 1 chữ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "8099",
+        "name": "Nguyễn Văn Thuyến",
+        "image_url": "https://jpdictionary.com/upload/images/6880c33072db8.png"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "房",
+      "reading": "ふさ",
+      "meaning": "phòng"
+    },
+    {
+      "word": "房房",
+      "reading": "ふさふさ",
+      "meaning": "trạng thái thành bụi"
+    },
+    {
+      "word": "房房した",
+      "reading": "ふさふさした",
+      "meaning": "thành bụi"
+    },
+    {
+      "word": "女房",
+      "reading": "にょうぼう",
+      "meaning": "vợ"
+    },
+    {
+      "word": "白房",
+      "reading": "しろぶさ",
+      "meaning": "tua trắng treo phía trên góc tây nam của vòng tròn thi đấu"
+    },
+    {
+      "word": "房水",
+      "reading": "ぼうすい",
+      "meaning": "aqueous humor"
+    },
+    {
+      "word": "工房",
+      "reading": "こうぼう",
+      "meaning": "nơi làm việc của họa sĩ"
+    },
+    {
+      "word": "青房",
+      "reading": "あおぶさ",
+      "meaning": "tua màu xanh lá cây treo phía trên góc đông bắc của mái nhà treo trên sàn đấu"
+    },
+    {
+      "word": "茶房",
+      "reading": "さぼう",
+      "meaning": "phòng trà"
+    },
+    {
+      "word": "四房",
+      "reading": "しぶさ",
+      "meaning": "bốn cái bó được treo ở bốn góc của chiếc mái nhà treo trên võ đài"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "袋",
+  "meta": {
+    "weight": 2414,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "ダイ"
+    ],
+    "kun": [
+      "ふくろ"
+    ],
+    "am_han": "ĐẠI"
+  },
+  "meaning": {
+    "vi": "bao, túi",
+    "en": "sack, bag, pouch"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袋.svg"
+  },
+  "frequency": 1125,
+  "examples": [
+    "袋",
+    "手袋",
+    "紙袋",
+    "胃袋",
+    "福袋"
+  ],
+  "explanation": {
+    "id": "4974",
+    "text": "袋 (đọc là \"tai\" hoặc \"fukuro\") có nghĩa là \"túi\", để chỉ các vật chứa đựng, thường dùng để đựng đồ vật."
+  },
+  "comments": [
+    {
+      "id": "156729",
+      "lang": "vi",
+      "content_html": "<p>Y phục thời đại này nhìn cứ như cái túi</p>",
+      "content_text": "Y phục thời đại này nhìn cứ như cái túi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156730",
+      "lang": "vi",
+      "content_html": "<p>Y phục hiện \u001dĐẠI thì phải có túi đựng</p>",
+      "content_text": "Y phục hiện \u001dĐẠI thì phải có túi đựng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156731",
+      "lang": "vi",
+      "content_html": "<p>Thời ĐẠI này mà Mẹ mặc Y phục như cái Túi</p>",
+      "content_text": "Thời ĐẠI này mà Mẹ mặc Y phục như cái Túi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "袋",
+      "reading": "ふくろ",
+      "meaning": "túi bọc"
+    },
+    {
+      "word": "透明袋/OPP袋",
+      "reading": "とうめいふくろ/OPPふくろ",
+      "meaning": "\"透明袋/opp袋\" in vietnamese is \"túi trong suốt/ túi opp\""
+    },
+    {
+      "word": "ポリエチレン袋(ポリ袋規格袋)",
+      "reading": "ポリエチレンふくろ(ポリふくろきかくふくろ)",
+      "meaning": "túi nhựa polyetylen"
+    },
+    {
+      "word": "ポリ袋(ゴミ袋)",
+      "reading": "ポリふくろ(ゴミふくろ)",
+      "meaning": "túi nhựa"
+    },
+    {
+      "word": "手袋用手袋",
+      "reading": "けんさようてぶくろ",
+      "meaning": "găng tay để đeo găng tay"
+    },
+    {
+      "word": "防曇袋(ボードン袋)",
+      "reading": "ぼうどんふくろ(ボードンふくろ)",
+      "meaning": "túi chống sương mù"
+    },
+    {
+      "word": "角底袋/マチ付き袋",
+      "reading": "かくそこふくろ/マチつきふくろ",
+      "meaning": "túi đáy góc/ túi có miệng"
+    },
+    {
+      "word": "インナー手袋 クリーンルーム用手袋",
+      "reading": "インナーてぶくろ",
+      "meaning": "găng tay lót trong dùng trong phòng sạch"
+    },
+    {
+      "word": "手袋ケース 絶縁手袋",
+      "reading": "てぶくろケース",
+      "meaning": "thùng đựng găng tay"
+    },
+    {
+      "word": "ポリエステル手袋 制電手袋",
+      "reading": "ポリエステルてぶくろ",
+      "meaning": "găng tay polyester"
+    }
+  ]
+}

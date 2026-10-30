@@ -1,0 +1,140 @@
+{
+  "kanji": "塚",
+  "meta": {
+    "weight": 590,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "つか",
+      "-づか"
+    ],
+    "am_han": "TRỦNG"
+  },
+  "meaning": {
+    "vi": "gò đồi, gò đất",
+    "en": "hillock, mound"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/塚.svg"
+  },
+  "frequency": 869,
+  "examples": [
+    "塚",
+    "貝塚"
+  ],
+  "explanation": {
+    "id": "20281",
+    "text": "塚 (đọc là \"tsuka\") có nghĩa là \"mộ\" hoặc \"nơi chôn cất\", thường chỉ đến các địa điểm liên quan đến việc an táng."
+  },
+  "comments": [
+    {
+      "id": "152651",
+      "lang": "vi",
+      "content_html": "<p>Tiêm Chủng cho con lợn đang nằm trên mô đất</p>",
+      "content_text": "Tiêm Chủng cho con lợn đang nằm trên mô đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152652",
+      "lang": "vi",
+      "content_html": "<p>trong Nhà có nuôi Heo, nó ủi Đất tạo ra một mô đất Trủng</p>",
+      "content_text": "trong Nhà có nuôi Heo, nó ủi Đất tạo ra một mô đất Trủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152653",
+      "lang": "vi",
+      "content_html": "<p>Nuôi lơn ở ụ đất cao</p>",
+      "content_text": "Nuôi lơn ở ụ đất cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "塚",
+      "reading": "つか",
+      "meaning": "ụ"
+    },
+    {
+      "word": "首塚",
+      "reading": "くびづか",
+      "meaning": "gò đất chôn vùi cái cổ của kẻ bại trận và cái cổ của tội nhân"
+    },
+    {
+      "word": "円塚",
+      "reading": "まるづか",
+      "meaning": "gò mộ tròn"
+    },
+    {
+      "word": "塵塚",
+      "reading": "ちりづか",
+      "meaning": "bãi rác"
+    },
+    {
+      "word": "宝塚",
+      "reading": "たからづか",
+      "meaning": "cosplay"
+    },
+    {
+      "word": "塚穴",
+      "reading": "つかあな",
+      "meaning": "khắc"
+    },
+    {
+      "word": "蟻塚",
+      "reading": "ありづか",
+      "meaning": "ụ kiến"
+    },
+    {
+      "word": "貝塚",
+      "reading": "かいづか",
+      "meaning": "đống rác bếp"
+    },
+    {
+      "word": "筆塚",
+      "reading": "ふでづか",
+      "meaning": "đống đất bao trùm cũ chôn tôn kính quét"
+    },
+    {
+      "word": "耳塚",
+      "reading": "みみづか",
+      "meaning": "gò tai"
+    }
+  ]
+}

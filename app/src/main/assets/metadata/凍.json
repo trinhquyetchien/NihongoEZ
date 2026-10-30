@@ -1,0 +1,146 @@
+{
+  "kanji": "凍",
+  "meta": {
+    "weight": 297,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "こお.る",
+      "こご.える",
+      "こご.る",
+      "い.てる",
+      "し.みる"
+    ],
+    "am_han": "ĐÔNG"
+  },
+  "meaning": {
+    "vi": "đông lạnh",
+    "en": "frozen, congeal, refrigerate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/凍.svg"
+  },
+  "frequency": 1284,
+  "examples": [
+    "冷凍",
+    "凍結",
+    "解凍",
+    "冷凍庫",
+    "凍る"
+  ],
+  "explanation": {
+    "id": "5769",
+    "text": "凍 (đọc là \"tō\") có nghĩa là \"đông lạnh\", \"đóng băng\" để chỉ trạng thái đông cứng của nước hoặc các vật chất khác do nhiệt độ thấp."
+  },
+  "comments": [
+    {
+      "id": "151936",
+      "lang": "vi",
+      "content_html": "<p>Phía đông đóng băng thành đống</p>",
+      "content_text": "Phía đông đóng băng thành đống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151937",
+      "lang": "vi",
+      "content_html": "<p>Băng Đông lại thành Đống</p>",
+      "content_text": "Băng Đông lại thành Đống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151938",
+      "lang": "vi",
+      "content_html": "<p>Phía ĐÔNG lạnh nên nước hay bị ĐÓNG BĂNG, ĐÔNG cứng lại</p>",
+      "content_text": "Phía ĐÔNG lạnh nên nước hay bị ĐÓNG BĂNG, ĐÔNG cứng lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "凍",
+      "reading": "こお",
+      "meaning": "đóng băng"
+    },
+    {
+      "word": "凍港",
+      "reading": "とうこう",
+      "meaning": "cảng đóng băng"
+    },
+    {
+      "word": "凍肉",
+      "reading": "とうにく",
+      "meaning": "thịt đông lạnh"
+    },
+    {
+      "word": "凍害",
+      "reading": "とうがい",
+      "meaning": "sự thiệt hại do sương giá"
+    },
+    {
+      "word": "凍原",
+      "reading": "とうげん",
+      "meaning": "tunđra"
+    },
+    {
+      "word": "凍土",
+      "reading": "とうど",
+      "meaning": "đất bị đông cứng"
+    },
+    {
+      "word": "凍雨",
+      "reading": "とうう",
+      "meaning": "mưa mùa đông"
+    },
+    {
+      "word": "解凍",
+      "reading": "かいとう",
+      "meaning": "sự rã đông"
+    },
+    {
+      "word": "凍寒",
+      "reading": "とうかん",
+      "meaning": "sự buốt giá"
+    },
+    {
+      "word": "凍瘡",
+      "reading": "とうそう",
+      "meaning": "chứng cước ở chân tay"
+    }
+  ]
+}

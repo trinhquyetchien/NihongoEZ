@@ -1,0 +1,140 @@
+{
+  "kanji": "洋",
+  "meta": {
+    "weight": 1525,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "đại dương",
+    "en": "ocean, sea, foreign, Western style"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洋.svg"
+  },
+  "frequency": 763,
+  "examples": [
+    "西洋",
+    "海洋",
+    "東洋",
+    "太平洋",
+    "洋"
+  ],
+  "explanation": {
+    "id": "7872",
+    "text": "洋 (đọc là \"yō\") có nghĩa là \"thế giới phương Tây\" hoặc \"nước ngoài\", thường chỉ những thứ liên quan đến văn hóa phương Tây hoặc các yếu tố nước ngoài."
+  },
+  "comments": [
+    {
+      "id": "191091",
+      "lang": "vi",
+      "content_html": "<p><strong>đại dương</strong></p>",
+      "content_text": "đại dương",
+      "image_url": "https://jpdictionary.com/upload/images/648abed336093.jpg",
+      "image_path": "assets/images/洋_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "922",
+      "lang": "vi",
+      "content_html": "<p>Con cừu (羊) đã băng qua <strong>biển </strong>đến Nhật.</p>",
+      "content_text": "Con cừu (羊) đã băng qua\nbiển\nđến Nhật.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b5c78a682.jpg",
+      "image_path": "assets/images/洋_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154859",
+      "lang": "vi",
+      "content_html": "<p>Con cừu tắm dưới đại Dương</p>",
+      "content_text": "Con cừu tắm dưới đại Dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "洋",
+      "reading": "よう",
+      "meaning": "phương tây và phương đông"
+    },
+    {
+      "word": "洋洋",
+      "reading": "ようよう",
+      "meaning": "rộng"
+    },
+    {
+      "word": "前途洋洋",
+      "reading": "ぜんとようよう",
+      "meaning": "tương lai rộng mở"
+    },
+    {
+      "word": "洋洋たる",
+      "reading": "ようようたる",
+      "meaning": "bao la"
+    },
+    {
+      "word": "インド洋",
+      "reading": "インドよう",
+      "meaning": "ấn độ dương"
+    },
+    {
+      "word": "洋字",
+      "reading": "ようじ",
+      "meaning": "bảng chữ cái latinh"
+    },
+    {
+      "word": "洋灯",
+      "reading": "ようとう",
+      "meaning": "lamp"
+    },
+    {
+      "word": "洋妾",
+      "reading": "ようしょう",
+      "meaning": "nhân tình của người phương tây"
+    },
+    {
+      "word": "洋酒",
+      "reading": "ようしゅ",
+      "meaning": "rượu tây"
+    },
+    {
+      "word": "洋間",
+      "reading": "ようま",
+      "meaning": "phòng kiểu châu âu"
+    }
+  ]
+}

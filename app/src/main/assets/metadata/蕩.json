@@ -1,0 +1,104 @@
+{
+  "kanji": "蕩",
+  "meta": {
+    "weight": 2346,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "とろ.かす",
+      "とろ.ける",
+      "うご.く"
+    ],
+    "am_han": "ĐÃNG, ĐẢNG"
+  },
+  "meaning": {
+    "vi": "tan chảy, bị quyến rũ, say đắm",
+    "en": "melt, be charmed, captivated"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5858",
+    "text": "蕩 (đọc là \"tō\" hoặc \"dō\") có nghĩa là \"tiêu tan\", \"tan biến\", thường chỉ trạng thái bị xóa bỏ hoặc sự thả lỏng."
+  },
+  "comments": [
+    {
+      "id": "220579",
+      "lang": "vi",
+      "content_html": "<p>Phóng túng cho bản thân hưởng thụ tắm trong bồn hoa 艹 và nước nóng 湯</p>",
+      "content_text": "Phóng túng cho bản thân hưởng thụ tắm trong bồn hoa 艹 và nước nóng 湯",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蕩蕩",
+      "reading": "とうとう",
+      "meaning": "rộng lớn"
+    },
+    {
+      "word": "掃蕩",
+      "reading": "そうとう",
+      "meaning": "quét hoặc thu dọn"
+    },
+    {
+      "word": "淫蕩",
+      "reading": "いんとう",
+      "meaning": "dậm dật"
+    },
+    {
+      "word": "蕩児",
+      "reading": "とうじ",
+      "meaning": "kẻ phóng túng"
+    },
+    {
+      "word": "蕩尽",
+      "reading": "とうじん",
+      "meaning": "sự hoang phí"
+    },
+    {
+      "word": "駘蕩",
+      "reading": "たいとう",
+      "meaning": "sự điềm tĩnh và hòa bình"
+    },
+    {
+      "word": "放蕩",
+      "reading": "ほうとう",
+      "meaning": "sự phóng đãng"
+    },
+    {
+      "word": "遊蕩",
+      "reading": "ゆうとう",
+      "meaning": "du đãng"
+    },
+    {
+      "word": "揺蕩",
+      "reading": "ようとう",
+      "meaning": "bồng bềnh"
+    },
+    {
+      "word": "放蕩者",
+      "reading": "ほうとうもの",
+      "meaning": "người cư xử hành động theo như những gì mình muốn"
+    }
+  ]
+}

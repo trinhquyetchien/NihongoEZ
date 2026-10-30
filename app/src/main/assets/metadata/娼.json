@@ -1,0 +1,104 @@
+{
+  "kanji": "娼",
+  "meta": {
+    "weight": 677,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "あそびめ"
+    ],
+    "am_han": "XƯỚNG"
+  },
+  "meaning": {
+    "vi": "gái điếm",
+    "en": "prostitute"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/娼.svg"
+  },
+  "frequency": 2242,
+  "examples": [
+    "娼婦"
+  ],
+  "explanation": {
+    "id": "3779",
+    "text": "娼 (đọc là \"shō\") có nghĩa là \"gái mại dâm\" hoặc \"người hành nghề mại dâm\"."
+  },
+  "comments": [
+    {
+      "id": "152854",
+      "lang": "vi",
+      "content_html": "<p>ngày ngày có gái thì xướng.</p>",
+      "content_text": "ngày ngày có gái thì xướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "男娼",
+      "reading": "だんしょう",
+      "meaning": "đĩ đực"
+    },
+    {
+      "word": "街娼",
+      "reading": "がいしょう",
+      "meaning": "gái điếm"
+    },
+    {
+      "word": "娼妓",
+      "reading": "しょうぎ",
+      "meaning": "gái bán hoa"
+    },
+    {
+      "word": "公娼",
+      "reading": "こうしょう",
+      "meaning": "gái mại dâm có giấy phép hành nghề"
+    },
+    {
+      "word": "私娼",
+      "reading": "ししょう",
+      "meaning": "gái mại dâm không có giấy phép hành nghề"
+    },
+    {
+      "word": "娼家",
+      "reading": "しょうか",
+      "meaning": "nhà chứa"
+    },
+    {
+      "word": "娼婦",
+      "reading": "しょうふ",
+      "meaning": "gái bán hoa"
+    },
+    {
+      "word": "娼楼",
+      "reading": "しょうろう",
+      "meaning": "nhà thổ"
+    },
+    {
+      "word": "廃娼",
+      "reading": "はいしょう",
+      "meaning": "cấm mại dâm"
+    },
+    {
+      "word": "娼館",
+      "reading": "しょうかん",
+      "meaning": "brothel"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "膨",
+  "meta": {
+    "weight": 2215,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "ふく.らむ",
+      "ふく.れる"
+    ],
+    "am_han": "BÀNH"
+  },
+  "meaning": {
+    "vi": "sưng lên, béo lên, dày lên",
+    "en": "swell, get fat, thick"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/膨.svg"
+  },
+  "frequency": 1293,
+  "examples": [
+    "膨大",
+    "膨張",
+    "膨れ",
+    "膨らむ",
+    "膨らみ"
+  ],
+  "explanation": {
+    "id": "7291",
+    "text": "膨 (đọc là \"bō\") có nghĩa là \"phình ra\", \"to lên\" để chỉ sự gia tăng kích thước hoặc thể tích của một thứ gì đó."
+  },
+  "comments": [
+    {
+      "id": "156377",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh trăng, trong lòng đất, hạt đậu đang mọc rễ dài ra và lan rộng bành trướng ra xung quanh</p>",
+      "content_text": "Dưới ánh trăng, trong lòng đất, hạt đậu đang mọc rễ dài ra và lan rộng bành trướng ra xung quanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156378",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh TRĂNG, nằm dưới mặt ĐẤT, hạt ĐẬU đang mọc TÓC và BÀNH trướng và to lớn ra.</p>",
+      "content_text": "Dưới ánh TRĂNG, nằm dưới mặt ĐẤT, hạt ĐẬU đang mọc TÓC và BÀNH trướng và to lớn ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156379",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt 月 thổi gió làm đất, đá 土 phồng lên</p>",
+      "content_text": "chị Nguyệt 月 thổi gió làm đất, đá 土 phồng lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "膨満",
+      "reading": "ぼうまん",
+      "meaning": "sự căng phồng"
+    },
+    {
+      "word": "膨脹",
+      "reading": "ぼうちょう",
+      "meaning": "sự mở rộng"
+    },
+    {
+      "word": "海膨",
+      "reading": "かいぼう",
+      "meaning": "sự lên"
+    },
+    {
+      "word": "膨隆",
+      "reading": "ぼうりゅう",
+      "meaning": "làm phình lên lên trên"
+    },
+    {
+      "word": "膨張",
+      "reading": "ぼうちょう",
+      "meaning": "sự bành trướng"
+    },
+    {
+      "word": "膨大",
+      "reading": "ぼうだい",
+      "meaning": "lớn lên"
+    },
+    {
+      "word": "膨れ",
+      "reading": "ふくれ",
+      "meaning": "sưng tấy"
+    },
+    {
+      "word": "膨潤",
+      "reading": "ぼうじゅん",
+      "meaning": "sưng"
+    },
+    {
+      "word": "膨圧",
+      "reading": "ぼうあつ",
+      "meaning": "áp suất turgor"
+    },
+    {
+      "word": "膨疹",
+      "reading": "ぼーしん",
+      "meaning": "nốt phỏng"
+    }
+  ]
+}

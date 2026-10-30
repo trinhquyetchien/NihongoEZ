@@ -1,0 +1,145 @@
+{
+  "kanji": "芸",
+  "meta": {
+    "weight": 2258,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲイ",
+      "ウン"
+    ],
+    "kun": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "am_han": "NGHỆ"
+  },
+  "meaning": {
+    "vi": "nghệ thuật, nghệ nhân",
+    "en": "technique, art, craft, performance, acting, trick, stunt"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芸.svg"
+  },
+  "frequency": 719,
+  "examples": [
+    "芸術",
+    "芸能",
+    "芸",
+    "芸術家",
+    "芸能人"
+  ],
+  "explanation": {
+    "id": "2039",
+    "text": "芸 (đọc là \"gei\" hoặc \"ugi\") có nghĩa là \"nghệ thuật\", thường chỉ các loại hình nghệ thuật biểu diễn hoặc kỹ năng."
+  },
+  "comments": [
+    {
+      "id": "156476",
+      "lang": "vi",
+      "content_html": "<p>Thảo vân làm trong ngành nghệ thuật</p>",
+      "content_text": "Thảo vân làm trong ngành nghệ thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156477",
+      "lang": "vi",
+      "content_html": "<p>Nghệ  thuật làm cô giáo thảo phê lên tận mây</p>",
+      "content_text": "Nghệ  thuật làm cô giáo thảo phê lên tận mây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156478",
+      "lang": "vi",
+      "content_html": "<p>Geisha (tiếng Nhật) 藝[芸]者 - Nghệ giả trần duy hưng 150k</p>",
+      "content_text": "Geisha (tiếng Nhật) 藝[芸]者 - Nghệ giả trần duy hưng 150k",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "芸",
+      "reading": "げい",
+      "meaning": "nghệ thuật"
+    },
+    {
+      "word": "多芸は無芸",
+      "reading": "たげいはむげい",
+      "meaning": "một nghề cho chín còn hơn chín nghề"
+    },
+    {
+      "word": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "nghệ thuật"
+    },
+    {
+      "word": "手芸",
+      "reading": "しゅげい",
+      "meaning": "những nghề thủ công"
+    },
+    {
+      "word": "芸人",
+      "reading": "げいにん",
+      "meaning": "nghệ nhân"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaning": "nghề thủ công"
+    },
+    {
+      "word": "一芸",
+      "reading": "いちげい",
+      "meaning": "nghệ thuật"
+    },
+    {
+      "word": "芸当",
+      "reading": "げいとう",
+      "meaning": "ngón nghề điêu luyện"
+    },
+    {
+      "word": "芸道",
+      "reading": "げいどう",
+      "meaning": "tài nghệ"
+    },
+    {
+      "word": "芸歴",
+      "reading": "げいれき",
+      "meaning": "sự nghiệp"
+    }
+  ]
+}

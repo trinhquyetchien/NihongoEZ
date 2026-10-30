@@ -1,0 +1,86 @@
+{
+  "kanji": "壷",
+  "meta": {
+    "weight": 614,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "つぼ"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "cái lọ, cái nồi, bản lề knuckle, mục đích của một người",
+    "en": "jar, pot, hinge knuckle, one's aim"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/壷.svg"
+  },
+  "frequency": 2197,
+  "examples": [
+    "壷"
+  ],
+  "explanation": {
+    "id": "5503",
+    "text": "壷 (đọc là \"tsubo\") có nghĩa là \"bình\", \"chậu\" để chỉ các loại dụng cụ chứa đựng, thường là bằng gốm sứ hoặc thủy tinh."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "壷",
+      "reading": "つぼ",
+      "meaning": "cái bình"
+    },
+    {
+      "word": "クラインの壷(内側も外側もない壷)",
+      "reading": "クラインのつぼ(うちがわもそとがわもないつぼ)",
+      "meaning": "chai klein"
+    },
+    {
+      "word": "壷黴",
+      "reading": "つぼかび",
+      "meaning": "nấm chytridiomycota"
+    },
+    {
+      "word": "唾壷",
+      "reading": "だこ",
+      "meaning": "ống nhổ"
+    },
+    {
+      "word": "滝壷",
+      "reading": "たきつぼ",
+      "meaning": "chân thác"
+    },
+    {
+      "word": "墨壷",
+      "reading": "すみつぼ",
+      "meaning": "đánh dấu mực chai"
+    },
+    {
+      "word": "油壷",
+      "reading": "あぶらつぼ",
+      "meaning": "thùng dầu"
+    },
+    {
+      "word": "骨壷",
+      "reading": "こつつぼ",
+      "meaning": "cái lư funerary"
+    },
+    {
+      "word": "蛸壷",
+      "reading": "たこつぼ",
+      "meaning": "bẫy bắt bạch tuộc"
+    },
+    {
+      "word": "壷洗い",
+      "reading": "つぼあらい",
+      "meaning": "rửa bát"
+    }
+  ]
+}

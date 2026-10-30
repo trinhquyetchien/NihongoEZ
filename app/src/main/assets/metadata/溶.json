@@ -1,0 +1,144 @@
+{
+  "kanji": "溶",
+  "meta": {
+    "weight": 1596,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "と.ける",
+      "と.かす",
+      "と.く"
+    ],
+    "am_han": "DUNG"
+  },
+  "meaning": {
+    "vi": "tan chảy",
+    "en": "melt, dissolve, thaw"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溶.svg"
+  },
+  "frequency": 1364,
+  "examples": [
+    "溶接",
+    "溶解",
+    "溶剤",
+    "溶液",
+    "溶ける"
+  ],
+  "explanation": {
+    "id": "7875",
+    "text": "溶 (đọc là \"yō\") có nghĩa là \"tan chảy\", chỉ các hành động liên quan đến việc làm cho một chất nào đó hòa tan hoặc bị biến đổi trạng thái thành lỏng."
+  },
+  "comments": [
+    {
+      "id": "155034",
+      "lang": "vi",
+      "content_html": "<p>Tuyết tan ra thành nước chảy xuyên từ mái nhà xuống thung lũng</p>",
+      "content_text": "Tuyết tan ra thành nước chảy xuyên từ mái nhà xuống thung lũng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155035",
+      "lang": "vi",
+      "content_html": "<p>Dung dịch thì bằng dung môi cộng vs nước</p>",
+      "content_text": "Dung dịch thì bằng dung môi cộng vs nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155036",
+      "lang": "vi",
+      "content_html": "<p>Dung dịch chảy từ mái nhà xuống cái cốc</p>",
+      "content_text": "Dung dịch chảy từ mái nhà xuống cái cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "せんいそよーかいけー|せん溶系",
+      "reading": "線維素溶解系|線溶系",
+      "meaning": "hệ thống tiêu sợi huyết"
+    },
+    {
+      "word": "溶溶",
+      "reading": "ようよう",
+      "meaning": "bao la"
+    },
+    {
+      "word": "溶溶たる",
+      "reading": "ようようたる",
+      "meaning": "rộng lớn"
+    },
+    {
+      "word": "溶接溶断セット",
+      "reading": "ようせつようだんセット",
+      "meaning": "bộ hàn nung chảy"
+    },
+    {
+      "word": "溶射",
+      "reading": "ようしゃ",
+      "meaning": "phun phủ"
+    },
+    {
+      "word": "溶性",
+      "reading": "ようせい",
+      "meaning": "độ hoà tan"
+    },
+    {
+      "word": "溶暗",
+      "reading": "ようあん",
+      "meaning": "bóng tối sau khi tắt đèn để xem phim"
+    },
+    {
+      "word": "溶滓",
+      "reading": "ようさい",
+      "meaning": "xỉ"
+    },
+    {
+      "word": "溶着",
+      "reading": "ようちゃく",
+      "meaning": "hàn nhiệt"
+    },
+    {
+      "word": "溶存",
+      "reading": "ようぞん",
+      "meaning": "sự hòa tan"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "kanji": "射",
+  "meta": {
+    "weight": 754,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "い.る",
+      "さ.す",
+      "う.つ"
+    ],
+    "am_han": "XẠ, DẠ, DỊCH"
+  },
+  "meaning": {
+    "vi": "bắn, chiếu vào, vào, bắn cung",
+    "en": "shoot, shine into, onto, archery"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/射.svg"
+  },
+  "frequency": 937,
+  "examples": [
+    "発射",
+    "反射",
+    "注射",
+    "放射",
+    "放射線"
+  ],
+  "explanation": {
+    "id": "3328",
+    "text": "射 (đọc là \"sha\") có nghĩa là \"bắn\" hoặc \"bắn trúng\", thường chỉ các hành động liên quan đến việc sử dụng vũ khí hoặc bắn mục tiêu."
+  },
+  "comments": [
+    {
+      "id": "153046",
+      "lang": "vi",
+      "content_html": "<p>Phóng Xạ trúng bản THÂN thì thật THỐN</p>",
+      "content_text": "Phóng Xạ trúng bản THÂN thì thật THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153047",
+      "lang": "vi",
+      "content_html": "<p>Thân thể rất Thốn khi bị Xạ trị</p>",
+      "content_text": "Thân thể rất Thốn khi bị Xạ trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153048",
+      "lang": "vi",
+      "content_html": "<p>Xạ thủ mà bắn vào thân thì rất thốn</p>",
+      "content_text": "Xạ thủ mà bắn vào thân thì rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "射",
+      "reading": "しゃ",
+      "meaning": "ánh xạ"
+    },
+    {
+      "word": "ふく射(放射)",
+      "reading": "ふくしゃ(ほーしゃ)",
+      "meaning": "sự bức xạ"
+    },
+    {
+      "word": "熱放射（ふく射）",
+      "reading": "ねつほーしゃ（ふくしゃ）",
+      "meaning": "bức xạ nhiệt"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "sự bắn tên"
+    },
+    {
+      "word": "溶射",
+      "reading": "ようしゃ",
+      "meaning": "phun phủ"
+    },
+    {
+      "word": "射殺",
+      "reading": "しゃさつ",
+      "meaning": "sự bắn chết"
+    },
+    {
+      "word": "射る",
+      "reading": "いる",
+      "meaning": "bắn trúng"
+    },
+    {
+      "word": "顔射",
+      "reading": "がんしゃ",
+      "meaning": "xuất tinh lên mặt của đối tác"
+    },
+    {
+      "word": "射創",
+      "reading": "しゃそう",
+      "meaning": "vết thương do đạn bắn"
+    },
+    {
+      "word": "無射",
+      "reading": "ぶえき",
+      "meaning": "một trong mười hai âm luật của âm nhạc trung quốc"
+    }
+  ]
+}

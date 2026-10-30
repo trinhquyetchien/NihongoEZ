@@ -1,0 +1,84 @@
+{
+  "kanji": "樫",
+  "meta": {
+    "weight": 1422,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "かし"
+    ],
+    "am_han": "KIỆN"
+  },
+  "meaning": {
+    "vi": "sồi thường xanh, (kokuji)",
+    "en": "evergreen oak, (kokuji)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/樫.svg"
+  },
+  "frequency": 2297,
+  "examples": [
+    "樫"
+  ],
+  "explanation": {
+    "id": "961",
+    "text": "樫 (đọc là \"kashi\") có nghĩa là \"cây sồi,\" thường chỉ đến loại cây sồi cứng và chắc chắn, được dùng trong xây dựng và chế biến gỗ."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "樫",
+      "reading": "かし",
+      "meaning": "sồi"
+    },
+    {
+      "word": "粗樫",
+      "reading": "あらかし",
+      "meaning": "quercus glauca"
+    },
+    {
+      "word": "白樫",
+      "reading": "しらかし",
+      "meaning": "cây sồi trắng"
+    },
+    {
+      "word": "樫粉",
+      "reading": "かしご",
+      "meaning": "bột gỗ sồi"
+    },
+    {
+      "word": "黒樫",
+      "reading": "くろがし",
+      "meaning": "cây sồi đen"
+    },
+    {
+      "word": "コルク樫",
+      "reading": "コルクがし",
+      "meaning": "cây sồi nút bần"
+    },
+    {
+      "word": "赤樫",
+      "reading": "あかがし",
+      "meaning": "cây sồi"
+    },
+    {
+      "word": "熊樫",
+      "reading": "くまがし",
+      "meaning": "cây sồi xanh"
+    },
+    {
+      "word": "姥目樫",
+      "reading": "うばめがし",
+      "meaning": "quercus phillyreoides"
+    },
+    {
+      "word": "今芽樫",
+      "reading": "いまめがし",
+      "meaning": "ubame oak"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "kanji": "硫",
+  "meta": {
+    "weight": 1876,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "lưu huỳnh",
+    "en": "sulphur"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/硫.svg"
+  },
+  "frequency": 1867,
+  "examples": [
+    "硫黄",
+    "硫酸",
+    "硫化",
+    "硫安"
+  ],
+  "explanation": {
+    "id": "8062",
+    "text": "硫 (đọc là \"ryū\") có nghĩa là \"lưu huỳnh\", một nguyên tố hóa học quan trọng trong tự nhiên và công nghiệp."
+  },
+  "comments": [
+    {
+      "id": "155642",
+      "lang": "vi",
+      "content_html": "<p>Đá LƯU huỳnh</p>",
+      "content_text": "Đá LƯU huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155643",
+      "lang": "vi",
+      "content_html": "<p>Lưu thêm đá là lưu huỳnh</p>",
+      "content_text": "Lưu thêm đá là lưu huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155644",
+      "lang": "vi",
+      "content_html": "<p>Đá ở đầu nguồn có thể làm thành LƯU huỳnh</p>",
+      "content_text": "Đá ở đầu nguồn có thể làm thành LƯU huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "硫酸",
+      "reading": "りゅうさん",
+      "meaning": "a-xít sulfuric"
+    },
+    {
+      "word": "加硫",
+      "reading": "かりゅう",
+      "meaning": "sự lưu hoá"
+    },
+    {
+      "word": "硫安",
+      "reading": "りゅうあん",
+      "meaning": "chất amoni sunfat"
+    },
+    {
+      "word": "脱硫",
+      "reading": "だつりゅう",
+      "meaning": "sự khử lưu huỳnh"
+    },
+    {
+      "word": "硫化",
+      "reading": "りゅうか",
+      "meaning": "sự cho ngấm lưu huỳnh"
+    },
+    {
+      "word": "硫黄",
+      "reading": "いおう",
+      "meaning": "diêm sinh"
+    },
+    {
+      "word": "硫酸化",
+      "reading": "りゅうさんか",
+      "meaning": "sulfat hóa"
+    },
+    {
+      "word": "硫酸バリウム",
+      "reading": "りゅうさんバリウム",
+      "meaning": "barium sulfate"
+    },
+    {
+      "word": "硫化カドミウム",
+      "reading": "りゅうかカドミウム",
+      "meaning": "cadmi sulfide"
+    },
+    {
+      "word": "硫酸カルシウム",
+      "reading": "りゅうさんカルシウム",
+      "meaning": "canxi sunfat"
+    }
+  ]
+}

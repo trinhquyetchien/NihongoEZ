@@ -1,0 +1,136 @@
+{
+  "kanji": "褐",
+  "meta": {
+    "weight": 2432,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [],
+    "am_han": "HẠT, CÁT"
+  },
+  "meaning": {
+    "vi": "kimono len màu nâu",
+    "en": "brown, woollen kimono"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/褐.svg"
+  },
+  "frequency": 2186,
+  "examples": [
+    "褐色"
+  ],
+  "explanation": {
+    "id": "20344",
+    "text": "Chữ Hán 褐 (đọc là \"kan\") có nghĩa là \"mạch\" hoặc \"dòng chảy\", thường liên quan đến các khái niệm về năng lượng hoặc dòng chảy tự nhiên."
+  },
+  "comments": [
+    {
+      "id": "156769",
+      "lang": "vi",
+      "content_html": "<p>Ngửi Mùi là biết Quả Thị có HẠT màu NÂU</p>",
+      "content_text": "Ngửi Mùi là biết Quả Thị có HẠT màu NÂU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156770",
+      "lang": "vi",
+      "content_html": "<p>Anh hạt mặc chiếc áo màu nâu đã bảy ngày rồi</p>",
+      "content_text": "Anh hạt mặc chiếc áo màu nâu đã bảy ngày rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156771",
+      "lang": "vi",
+      "content_html": "<p>Áo bẩn đổi màu nâu ám mùi suốt ngày</p>",
+      "content_text": "Áo bẩn đổi màu nâu ám mùi suốt ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "褐藻",
+      "reading": "かっそう",
+      "meaning": "các loại tảo nâu"
+    },
+    {
+      "word": "褐炭",
+      "reading": "かったん",
+      "meaning": "than bùn"
+    },
+    {
+      "word": "褐色",
+      "reading": "かっしょく",
+      "meaning": "màu nâu"
+    },
+    {
+      "word": "青褐",
+      "reading": "あおかち",
+      "meaning": "màu chàm đậm nhuốm màu xanh lam sáng hơn"
+    },
+    {
+      "word": "褐変",
+      "reading": "かっぺん",
+      "meaning": "chuyển hóa thành màu nâu"
+    },
+    {
+      "word": "茶褐色",
+      "reading": "ちゃかっしょく",
+      "meaning": "màu nâu vàng"
+    },
+    {
+      "word": "黄褐色",
+      "reading": "おうかっしょく",
+      "meaning": "màu hạt dẻ"
+    },
+    {
+      "word": "暗褐色",
+      "reading": "あんかっしょく",
+      "meaning": "màu nâu đậm"
+    },
+    {
+      "word": "濃褐色",
+      "reading": "のうかっしょく",
+      "meaning": "màu thẫm"
+    },
+    {
+      "word": "赤褐色",
+      "reading": "せっかっしょく",
+      "meaning": "sắc nâu đỏ"
+    }
+  ]
+}

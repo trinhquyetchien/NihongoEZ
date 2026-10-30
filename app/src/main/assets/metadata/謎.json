@@ -1,0 +1,129 @@
+{
+  "kanji": "謎",
+  "meta": {
+    "weight": 2519,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ベイ"
+    ],
+    "kun": [
+      "なぞ"
+    ],
+    "am_han": "MÊ"
+  },
+  "meaning": {
+    "vi": "câu đố, bí ẩn, gợi ý, mẹo",
+    "en": "riddle, puzzle, enigma, hint, tip"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/謎.svg"
+  },
+  "frequency": 2021,
+  "examples": [
+    "謎"
+  ],
+  "explanation": {
+    "id": "6051",
+    "text": "謎 (đọc là \"nazo\") có nghĩa là \"điều bí ẩn\", \"câu đố\" để chỉ những điều không rõ ràng hoặc cần được giải thích."
+  },
+  "comments": [
+    {
+      "id": "156984",
+      "lang": "vi",
+      "content_html": "<p>khi mê nói sảng hạt gạo đi lạc ngoài đường</p>",
+      "content_text": "khi mê nói sảng hạt gạo đi lạc ngoài đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156985",
+      "lang": "vi",
+      "content_html": "<p>NÓI MÊ những điều bí ẩn</p>",
+      "content_text": "NÓI MÊ những điều bí ẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156986",
+      "lang": "vi",
+      "content_html": "<p>nói về con đường tới mê cung gạo thì vẫn còn là 1 bí ẩn</p>",
+      "content_text": "nói về con đường tới mê cung gạo thì vẫn còn là 1 bí ẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "謎",
+      "reading": "なぞ",
+      "meaning": "điều bí ẩn"
+    },
+    {
+      "word": "謎謎",
+      "reading": "なぞなぞ",
+      "meaning": "câu đố"
+    },
+    {
+      "word": "謎々",
+      "reading": "なぞなぞ",
+      "meaning": "câu đố"
+    },
+    {
+      "word": "謎かけ",
+      "reading": "なぞかけ",
+      "meaning": "một loại câu đố đặc biệt"
+    },
+    {
+      "word": "謎めく",
+      "reading": "なぞめく",
+      "meaning": "bí ẩn hoặc khó hiểu"
+    },
+    {
+      "word": "謎解き",
+      "reading": "なぞとき",
+      "meaning": "lời giải đố"
+    },
+    {
+      "word": "謎を解く",
+      "reading": "なぞをとく",
+      "meaning": "hóa giải bí ẩn"
+    },
+    {
+      "word": "謎を掛ける",
+      "reading": "なぞをかける",
+      "meaning": "đưa ra câu đố"
+    }
+  ]
+}

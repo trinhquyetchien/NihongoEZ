@@ -1,0 +1,163 @@
+{
+  "kanji": "着",
+  "meta": {
+    "weight": 1849,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チャク",
+      "ジャク"
+    ],
+    "kun": [
+      "き.る",
+      "き.せる",
+      "つ.く",
+      "つ.ける"
+    ],
+    "am_han": "TRƯỚC"
+  },
+  "meaning": {
+    "vi": "đến",
+    "en": "don, arrive, wear, counter for suits of clothing"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/着.svg"
+  },
+  "frequency": 376,
+  "examples": [
+    "着",
+    "到着",
+    "定着",
+    "着く",
+    "新着"
+  ],
+  "explanation": {
+    "id": "5265",
+    "text": "着 (đọc là \"chaku\" hoặc \"zhuó\") có nghĩa là \"đến\", \"mặc vào\" để chỉ các hành động liên quan đến việc mặc quần áo hoặc sự xuất hiện, đến nơi nào đó."
+  },
+  "comments": [
+    {
+      "id": "927",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã thấy con cừu (羊) <strong>mặc </strong>áo len.</p>",
+      "content_text": "Tôi đã thấy con cừu (羊)\nmặc\náo len.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b6a135b43.jpg",
+      "image_path": "assets/images/着_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155581",
+      "lang": "vi",
+      "content_html": "<p>NHÌN THẤY 目 ÔNG VUA BỊ CẮM SỪNG ngay TRƯỚC mặt!</p>",
+      "content_text": "NHÌN THẤY 目 ÔNG VUA BỊ CẮM SỪNG ngay TRƯỚC mặt!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158486",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>着る (きる): mặc</p><p>着物 (きもの): kimono</p><p>上着 (うわぎ): áo khoác</p><p>下着 (したぎ): đồ lót<br>着く (つく): đến<br>到着 (とうちゃく): đến nơi</p>",
+      "content_text": "JLPT N4\n着る (きる): mặc\n着物 (きもの): kimono\n上着 (うわぎ): áo khoác\n下着 (したぎ): đồ lót\n着く (つく): đến\n到着 (とうちゃく): đến nơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158884",
+      "lang": "vi",
+      "content_html": "<p>肌着(はだぎ): áo lót mỏng mặc bên trong</p><p>水着(みずぎ): Đồ bơi</p>",
+      "content_text": "肌着(はだぎ): áo lót mỏng mặc bên trong\n水着(みずぎ): Đồ bơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "着",
+      "reading": "ちゃく",
+      "meaning": "bộ"
+    },
+    {
+      "word": "着着",
+      "reading": "ちゃくちゃく",
+      "meaning": "đều đều"
+    },
+    {
+      "word": "着る",
+      "reading": "きる",
+      "meaning": "mặc"
+    },
+    {
+      "word": "先着",
+      "reading": "せんちゃく",
+      "meaning": "sự đến trước"
+    },
+    {
+      "word": "着払",
+      "reading": "ちゃくばらい",
+      "meaning": "thanh toán khi nhận hàng"
+    },
+    {
+      "word": "古着",
+      "reading": "ふるぎ",
+      "meaning": "quần áo cũ"
+    },
+    {
+      "word": "新着",
+      "reading": "しんちゃく",
+      "meaning": "sự vừa mới được giao đến"
+    },
+    {
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "quần áo lót"
+    },
+    {
+      "word": "厚着",
+      "reading": "あつぎ",
+      "meaning": "quần áo dày"
+    },
+    {
+      "word": "着弾",
+      "reading": "ちゃくだん",
+      "meaning": "đụng chạm một vật phóng ra)"
+    }
+  ]
+}

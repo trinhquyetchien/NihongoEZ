@@ -1,0 +1,142 @@
+{
+  "kanji": "革",
+  "meta": {
+    "weight": 2883,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "am_han": "CÁCH"
+  },
+  "meaning": {
+    "vi": "da",
+    "en": "leather, skin, reform, become serious"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/革.svg"
+  },
+  "frequency": 249,
+  "examples": [
+    "改革",
+    "革命",
+    "革新",
+    "変革",
+    "革"
+  ],
+  "explanation": {
+    "id": "937",
+    "text": "革 (đọc là \"kaku\") có nghĩa là \"da\", \"cách mạng\" để chỉ các khái niệm liên quan đến vật liệu da hoặc sự thay đổi, cải cách."
+  },
+  "comments": [
+    {
+      "id": "157844",
+      "lang": "vi",
+      "content_html": "<p>10 thằng TQ dùng Cỏ là CÁCH bẫy thú lấy Da</p>",
+      "content_text": "10 thằng TQ dùng Cỏ là CÁCH bẫy thú lấy Da",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157845",
+      "lang": "vi",
+      "content_html": "<p>CÁCH tìm ra số TRUNG bình giữa 10 (THẬP) và 20 (NHẬP)</p>",
+      "content_text": "CÁCH tìm ra số TRUNG bình giữa 10 (THẬP) và 20 (NHẬP)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157846",
+      "lang": "vi",
+      "content_html": "<p>10 thằng truc quốc tìm cách hái cỏ thuốc</p>",
+      "content_text": "10 thằng truc quốc tìm cách hái cỏ thuốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "革",
+      "reading": "かわ",
+      "meaning": "da"
+    },
+    {
+      "word": "革テープ/革コード",
+      "reading": "かわテープ/かわコード",
+      "meaning": "dây da / dây thừng da"
+    },
+    {
+      "word": "改革",
+      "reading": "かいかく",
+      "meaning": "cải cách"
+    },
+    {
+      "word": "革製",
+      "reading": "かわせい",
+      "meaning": "da thuộc"
+    },
+    {
+      "word": "革運",
+      "reading": "かくうん",
+      "meaning": "năm boshin"
+    },
+    {
+      "word": "革令",
+      "reading": "かくれい",
+      "meaning": "năm đầu tiên của chu kỳ sinh dục"
+    },
+    {
+      "word": "沿革",
+      "reading": "えんかく",
+      "meaning": "sự đổi thay"
+    },
+    {
+      "word": "行革",
+      "reading": "ぎょうかく",
+      "meaning": "sự cải cách hành chính"
+    },
+    {
+      "word": "鼎革",
+      "reading": "ていかく",
+      "meaning": "sự thay đổi triều đại"
+    },
+    {
+      "word": "底革",
+      "reading": "そこがわ",
+      "meaning": "da để đóng đế giày da"
+    }
+  ]
+}

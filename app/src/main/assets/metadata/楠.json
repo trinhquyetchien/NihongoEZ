@@ -1,0 +1,98 @@
+{
+  "kanji": "楠",
+  "meta": {
+    "weight": 1395,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン",
+      "ダン",
+      "ゼン",
+      "ネン"
+    ],
+    "kun": [
+      "くす",
+      "くすのき"
+    ],
+    "am_han": "NAM"
+  },
+  "meaning": {
+    "vi": "cây long não",
+    "en": "camphor tree"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楠.svg"
+  },
+  "frequency": 1927,
+  "examples": [
+    "楠"
+  ],
+  "explanation": {
+    "id": "6076",
+    "text": "楠 (đọc là \"nan\") có nghĩa là \"cây hương sơn\", chỉ loại cây gỗ cứng, thường được sử dụng trong xây dựng và sản xuất đồ nội thất."
+  },
+  "comments": [
+    {
+      "id": "154576",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc phía NAM là cây long não</p>",
+      "content_text": "Cây mọc phía NAM là cây long não",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "楠",
+      "reading": "くすのき",
+      "meaning": "cây long não"
+    },
+    {
+      "word": "石楠花",
+      "reading": "しゃくなげ",
+      "meaning": "giống cây đỗ quyên"
+    },
+    {
+      "word": "楠の木",
+      "reading": "くすのき",
+      "meaning": "cây long não"
+    },
+    {
+      "word": "東石楠花",
+      "reading": "あずましゃくなげ",
+      "meaning": "azuma rhododendron"
+    },
+    {
+      "word": "本石楠花",
+      "reading": "ほんしゃくなげ",
+      "meaning": "rhododendron metternichii"
+    },
+    {
+      "word": "黄花石楠花",
+      "reading": "きばなしゃくなげ",
+      "meaning": "rhododendron aureum"
+    },
+    {
+      "word": "筑紫石楠花",
+      "reading": "つくししゃくなげ",
+      "meaning": "tsukushi rhododendron"
+    },
+    {
+      "word": "白山石楠花",
+      "reading": "はくさんしゃくなげ",
+      "meaning": "hakusan rhododendron"
+    }
+  ]
+}

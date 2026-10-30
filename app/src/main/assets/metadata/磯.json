@@ -1,0 +1,104 @@
+{
+  "kanji": "磯",
+  "meta": {
+    "weight": 1893,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "いそ"
+    ],
+    "am_han": "KI"
+  },
+  "meaning": {
+    "vi": "bờ biển, bãi biển",
+    "en": "seashore, beach"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/磯.svg"
+  },
+  "frequency": 1444,
+  "examples": [
+    "磯"
+  ],
+  "explanation": {
+    "id": "209",
+    "text": "磯 (đọc là \"iso\") có nghĩa là \"bãi đá\" hoặc \"bờ biển\" để chỉ những vùng đất ven biển có nhiều đá hoặc bãi cát."
+  },
+  "comments": [
+    {
+      "id": "155667",
+      "lang": "vi",
+      "content_html": "<p>Trên bờ biển thì có biết bao nhiêu 幾 là những viên<br>đá (nhỏ) (cát là đá nhỏ).</p>",
+      "content_text": "Trên bờ biển thì có biết bao nhiêu 幾 là những viên\nđá (nhỏ) (cát là đá nhỏ).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "磯",
+      "reading": "いそ",
+      "meaning": "bờ biển có nhiều đá"
+    },
+    {
+      "word": "磯蟹",
+      "reading": "いそがに",
+      "meaning": "cua hemigrapsus sanguineus"
+    },
+    {
+      "word": "磯辺",
+      "reading": "いそべ",
+      "meaning": "bờ biển"
+    },
+    {
+      "word": "荒磯",
+      "reading": "あらいそ",
+      "meaning": "bờ biển đầy đá ngầm"
+    },
+    {
+      "word": "磯鵯",
+      "reading": "いそひよどり",
+      "meaning": "rockthrush xanh"
+    },
+    {
+      "word": "磯釣",
+      "reading": "いそづり",
+      "meaning": "sự câu cá ở bờ biển"
+    },
+    {
+      "word": "磯鷸",
+      "reading": "いそしぎ",
+      "meaning": "chim nhỏ sống ở gần những nơi có cát ướt gần các dòng sông"
+    },
+    {
+      "word": "磯波",
+      "reading": "いそなみ",
+      "meaning": "sóng nhào"
+    },
+    {
+      "word": "磯魚",
+      "reading": "いそうお",
+      "meaning": "cá ven bờ"
+    },
+    {
+      "word": "磯笛",
+      "reading": "いそぶえ",
+      "meaning": "tiếng thở mạnh của những phụ nữ lặn hái sò"
+    }
+  ]
+}

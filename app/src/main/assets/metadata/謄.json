@@ -1,0 +1,131 @@
+{
+  "kanji": "謄",
+  "meta": {
+    "weight": 2518,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐẰNG"
+  },
+  "meaning": {
+    "vi": "người viết kịch bản, sao chép",
+    "en": "mimeograph, copy"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/謄.svg"
+  },
+  "frequency": 2295,
+  "examples": [
+    "謄本"
+  ],
+  "explanation": {
+    "id": "5867",
+    "text": "謄 (đọc là \"tō\") có nghĩa là \"sao chép\", \"phô bày\" để chỉ hành động sao chép văn bản hoặc tài liệu."
+  },
+  "comments": [
+    {
+      "id": "156981",
+      "lang": "vi",
+      "content_html": "<p>NGÔN từ TRẪM nói ra ĐẰNG ấy phải SAO CHÉP vào</p>",
+      "content_text": "NGÔN từ TRẪM nói ra ĐẰNG ấy phải SAO CHÉP vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156982",
+      "lang": "vi",
+      "content_html": "<p>Chị nguyệt nói coppy bị ngược chữ ¥ rồi</p>",
+      "content_text": "Chị nguyệt nói coppy bị ngược chữ ¥ rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156983",
+      "lang": "vi",
+      "content_html": "<p>nguyệt 月 nói 言 1 đằng chồng 夫 sao chép 1 kiểu</p>",
+      "content_text": "nguyệt 月 nói 言 1 đằng chồng 夫 sao chép 1 kiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "謄本",
+      "reading": "とうほん",
+      "meaning": "mẫu"
+    },
+    {
+      "word": "謄写",
+      "reading": "とうしゃ",
+      "meaning": "sự sao chép"
+    },
+    {
+      "word": "謄写器",
+      "reading": "とうしゃき",
+      "meaning": "máy photocopy"
+    },
+    {
+      "word": "謄写版",
+      "reading": "とうしゃばん",
+      "meaning": "khuôn in"
+    },
+    {
+      "word": "証明謄本",
+      "reading": "しょうめいとうほん",
+      "meaning": "bản sao công chứng"
+    },
+    {
+      "word": "戸籍謄本",
+      "reading": "こせきとうほん",
+      "meaning": "bản sao đăng ký hộ khẩu gia đình"
+    },
+    {
+      "word": "住民謄本",
+      "reading": "じゅうみんとうほん",
+      "meaning": "chứng minh nhân dân"
+    },
+    {
+      "word": "謄写する",
+      "reading": "とうしゃ",
+      "meaning": "sao chép"
+    },
+    {
+      "word": "登記簿謄本",
+      "reading": "とうきぼとうほん",
+      "meaning": "bản sao giấy chứng nhận đăng ký"
+    }
+  ]
+}

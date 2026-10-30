@@ -1,0 +1,138 @@
+{
+  "kanji": "蛙",
+  "meta": {
+    "weight": 2381,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア",
+      "ワ"
+    ],
+    "kun": [
+      "かえる",
+      "かわず"
+    ],
+    "am_han": "OA"
+  },
+  "meaning": {
+    "vi": "con ếch",
+    "en": "frog"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/蛙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "873",
+    "text": "蛙 (đọc là \"kaeru\" hoặc \"gawa\") có nghĩa là \"ếch\", thường dùng để chỉ loài động vật lưỡng cư này."
+  },
+  "comments": [
+    {
+      "id": "220604",
+      "lang": "vi",
+      "content_html": "<p>Ếch ăn côn trùng cả trên và dưới mặt đất</p>",
+      "content_text": "Ếch ăn côn trùng cả trên và dưới mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220605",
+      "lang": "vi",
+      "content_html": "<p>côn trùng 虫 sống trên mặt đất　土　 và dưới đất　土　 ( nước) là con ẾCH</p>",
+      "content_text": "côn trùng 虫 sống trên mặt đất　土　 và dưới đất　土　 ( nước) là con ẾCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220606",
+      "lang": "vi",
+      "content_html": "<p>ẾCH tiến hóa từ loài côn TRÙNG sống dưới 2 lớp ĐẤT</p>",
+      "content_text": "ẾCH tiến hóa từ loài côn TRÙNG sống dưới 2 lớp ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蛙",
+      "reading": "かえる",
+      "meaning": "con ếch"
+    },
+    {
+      "word": "蛙の子は蛙",
+      "reading": "かえるのこはかえる",
+      "meaning": "` như cha"
+    },
+    {
+      "word": "疣蛙",
+      "reading": "いぼがえる",
+      "meaning": "con cóc"
+    },
+    {
+      "word": "土蛙",
+      "reading": "つちがえる",
+      "meaning": "ếch đất"
+    },
+    {
+      "word": "雨蛙",
+      "reading": "あまがえる",
+      "meaning": "ếch"
+    },
+    {
+      "word": "蛙黽",
+      "reading": "あぼう",
+      "meaning": "bắt frog trốn lên cây"
+    },
+    {
+      "word": "赤蛙",
+      "reading": "あかがえる",
+      "meaning": "con ếch"
+    },
+    {
+      "word": "牛蛙",
+      "reading": "うしがえる",
+      "meaning": "<động> ễnh ương"
+    },
+    {
+      "word": "角蛙",
+      "reading": "つのがえる",
+      "meaning": "loài ếch có sừng"
+    },
+    {
+      "word": "蛙股",
+      "reading": "かえるまた",
+      "meaning": "uốn cong làm bằng gỗ hỗ trợ ở trên chùm chính một cái nhà"
+    }
+  ]
+}

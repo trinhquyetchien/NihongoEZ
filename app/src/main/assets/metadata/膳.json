@@ -1,0 +1,125 @@
+{
+  "kanji": "膳",
+  "meta": {
+    "weight": 2216,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン",
+      "セン"
+    ],
+    "kun": [
+      "かしわ",
+      "すす.める",
+      "そな.える"
+    ],
+    "am_han": "THIỆN"
+  },
+  "meaning": {
+    "vi": "bàn thấp nhỏ, khay",
+    "en": "small low table, tray"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/膳.svg"
+  },
+  "frequency": 2120,
+  "examples": [
+    "膳",
+    "お膳立て"
+  ],
+  "explanation": {
+    "id": "4604",
+    "text": "膳 (đọc là \"zen\") có nghĩa là \"bữa ăn\", thường chỉ đến các món ăn phục vụ trong bữa cơm, đặc biệt là trong văn hóa Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "156380",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt muốn cải Thiện món ăn bằng thịt Dê</p>",
+      "content_text": "Chị Nguyệt muốn cải Thiện món ăn bằng thịt Dê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156381",
+      "lang": "vi",
+      "content_html": "<p>THỊT THÀ được bày biện KHÉO LÉO THIỆN LÀNH  --»  là CỖ ĂN trên cái KHAY</p>",
+      "content_text": "THỊT THÀ được bày biện KHÉO LÉO THIỆN LÀNH  --»  là CỖ ĂN trên cái KHAY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "膳",
+      "reading": "ぜん",
+      "meaning": "khay thức ăn"
+    },
+    {
+      "word": "上げ膳据え膳",
+      "reading": "あげぜんすえぜん",
+      "meaning": "<span style=\"background-color: rgb"
+    },
+    {
+      "word": "大膳",
+      "reading": "だいぜん",
+      "meaning": "chim choi choi xám"
+    },
+    {
+      "word": "陰膳",
+      "reading": "かげぜん",
+      "meaning": "thức ăn cầu xin cho người vắng mặt được bình an vô sự"
+    },
+    {
+      "word": "本膳",
+      "reading": "ほんぜん",
+      "meaning": "bữa ăn tối bình thường"
+    },
+    {
+      "word": "お膳",
+      "reading": "おぜん",
+      "meaning": "khay bốn chân"
+    },
+    {
+      "word": "膳部",
+      "reading": "ぜんぶ",
+      "meaning": "đặt lên bàn"
+    },
+    {
+      "word": "食膳",
+      "reading": "しょくぜん",
+      "meaning": "đãi tiệc bảng"
+    },
+    {
+      "word": "配膳",
+      "reading": "はいぜん",
+      "meaning": "phân phát bữa ăn trước mặt khách hàng"
+    },
+    {
+      "word": "客膳",
+      "reading": "きゃくぜん",
+      "meaning": "thức ăn cho thực khách"
+    }
+  ]
+}

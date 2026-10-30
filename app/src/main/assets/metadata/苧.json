@@ -1,0 +1,46 @@
+{
+  "kanji": "苧",
+  "meta": {
+    "weight": 2269,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "お",
+      "からんし",
+      "からむし"
+    ],
+    "am_han": "TRỮ"
+  },
+  "meaning": {
+    "vi": "cây gai dầu, cây lanh",
+    "en": "hemp, flax"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5315",
+    "text": "苧 (đọc là \"cho\") có nghĩa là \"cây lanh\", chỉ loại cây được sử dụng để làm sợi và vải."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "苧",
+      "reading": "お",
+      "meaning": "lá gai"
+    },
+    {
+      "word": "苧環",
+      "reading": "おだまき",
+      "meaning": "cây lâu năm thuộc họ buttercup. được trau dồi và cải tiến từ miyama aquilegia"
+    }
+  ]
+}

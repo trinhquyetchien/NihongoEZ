@@ -1,0 +1,149 @@
+{
+  "kanji": "極",
+  "meta": {
+    "weight": 1400,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョク",
+      "ゴク"
+    ],
+    "kun": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "am_han": "CỰC"
+  },
+  "meaning": {
+    "vi": "cực, cùng cực",
+    "en": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/極.svg"
+  },
+  "frequency": 460,
+  "examples": [
+    "積極",
+    "極めて",
+    "極端",
+    "究極",
+    "極"
+  ],
+  "explanation": {
+    "id": "1732",
+    "text": "極 (đọc là \"kyoku\") có nghĩa là \"cực điểm\", \"tột cùng\", chỉ trạng thái hoặc mức độ cao nhất của một cái gì đó."
+  },
+  "comments": [
+    {
+      "id": "154580",
+      "lang": "vi",
+      "content_html": "<p>1bàn tay nuôi 5 cái miệng với một cái cây thì thật khổ cực</p>",
+      "content_text": "1bàn tay nuôi 5 cái miệng với một cái cây thì thật khổ cực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154581",
+      "lang": "vi",
+      "content_html": "<p>Một Cây Lại nuôi 5 Miệng thì rất cùng Cực.</p>",
+      "content_text": "Một Cây Lại nuôi 5 Miệng thì rất cùng Cực.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154582",
+      "lang": "vi",
+      "content_html": "<p>Nhìn ra 057 thì IQ vô CỰC</p>",
+      "content_text": "Nhìn ra 057 thì IQ vô CỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "極",
+      "reading": "ごく",
+      "meaning": "rất"
+    },
+    {
+      "word": "絶対極値(極大値と極小値)",
+      "reading": "ぜったいきょくち(きょくだいちときょくしょうち)",
+      "meaning": "giá trị cực trị tuyệt đối"
+    },
+    {
+      "word": "極極",
+      "reading": "ごくごく",
+      "meaning": "vô cùng"
+    },
+    {
+      "word": "極楽極楽",
+      "reading": "ごくらくごくらく",
+      "meaning": "cảm giác cực kỳ dễ chịu"
+    },
+    {
+      "word": "消極",
+      "reading": "しょうきょく",
+      "meaning": "tiêu cực"
+    },
+    {
+      "word": "二極",
+      "reading": "にきょく",
+      "meaning": "lưỡng cực"
+    },
+    {
+      "word": "極盛",
+      "reading": "きょくせい",
+      "meaning": "điểm cao nhất"
+    },
+    {
+      "word": "極密",
+      "reading": "ごくみつ",
+      "meaning": "tuyệt mật"
+    },
+    {
+      "word": "月極",
+      "reading": "つきぎめ",
+      "meaning": "thuê theo tháng"
+    },
+    {
+      "word": "極値",
+      "reading": "きょくち",
+      "meaning": "điểm cực trị"
+    }
+  ]
+}

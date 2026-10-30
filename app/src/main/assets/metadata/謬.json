@@ -1,0 +1,121 @@
+{
+  "kanji": "謬",
+  "meta": {
+    "weight": 2524,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビュウ",
+      "ビョウ",
+      "ミュウ"
+    ],
+    "kun": [
+      "あやま.る"
+    ],
+    "am_han": "MẬU"
+  },
+  "meaning": {
+    "vi": "sai lầm, điều sai, ngộ nhận",
+    "en": "mistake"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/謬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6691",
+    "text": "謬 (đọc là \"byū\") có nghĩa là \"sai lầm\", \"nhầm lẫn\" để chỉ các tình huống hoặc ý kiến không chính xác."
+  },
+  "comments": [
+    {
+      "id": "220723",
+      "lang": "vi",
+      "content_html": "<p>Nói trên trời dưới biển...</p>",
+      "content_text": "Nói trên trời dưới biển...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220724",
+      "lang": "vi",
+      "content_html": "<p>NÓI 2 cánh chim dính nhau như SAM là nói Tầm Bậy</p>",
+      "content_text": "NÓI 2 cánh chim dính nhau như SAM là nói Tầm Bậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "謬",
+      "reading": "あやまり",
+      "meaning": "sai lầm"
+    },
+    {
+      "word": "謬伝",
+      "reading": "びゅうでん",
+      "meaning": "báo cáo sai"
+    },
+    {
+      "word": "謬説",
+      "reading": "びゅうせつ",
+      "meaning": "học thuyết nguỵ biện"
+    },
+    {
+      "word": "謬見",
+      "reading": "びゅうけん",
+      "meaning": "ảo tưởng"
+    },
+    {
+      "word": "謬論",
+      "reading": "びゅうろん",
+      "meaning": "ảo tưởng"
+    },
+    {
+      "word": "誤謬",
+      "reading": "ごびゅう",
+      "meaning": "sai lầm"
+    },
+    {
+      "word": "謬妄",
+      "reading": "びゅうもう",
+      "meaning": "ngụy biện"
+    },
+    {
+      "word": "無謬",
+      "reading": "むびゅう",
+      "meaning": "không thể sai lầm"
+    },
+    {
+      "word": "帰謬法",
+      "reading": "きびゅうほう",
+      "meaning": "phương pháp phản chứng"
+    },
+    {
+      "word": "不謬性",
+      "reading": "ふびゅうせい",
+      "meaning": "tính không thể sai lầm được giáo hoàng"
+    }
+  ]
+}

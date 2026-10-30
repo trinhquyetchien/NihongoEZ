@@ -1,0 +1,147 @@
+{
+  "kanji": "質",
+  "meta": {
+    "weight": 2575,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "kun": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "am_han": "CHẤT"
+  },
+  "meaning": {
+    "vi": "chất lượng",
+    "en": "substance, quality, matter, temperament"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/質.svg"
+  },
+  "frequency": 389,
+  "examples": [
+    "質問",
+    "質",
+    "物質",
+    "本質",
+    "品質"
+  ],
+  "explanation": {
+    "id": "3292",
+    "text": "質 (đọc là \"shitsu\" hoặc \"shichi\") có nghĩa là \"chất\", \"tính chất\", để chỉ đặc điểm, phẩm chất của một vật thể hay ý tưởng."
+  },
+  "comments": [
+    {
+      "id": "1020",
+      "lang": "vi",
+      "content_html": "<p>Chặt vỏ sò (貝) bằng 2 cái rìu để kiểm tra <strong>chất lượng</strong> của nó.</p>",
+      "content_text": "Chặt vỏ sò (貝) bằng 2 cái rìu để kiểm tra\nchất lượng\ncủa nó.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a76e0c76f.jpg",
+      "image_path": "assets/images/質_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158489",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>質問 (しつもん): câu hỏi</p>",
+      "content_text": "JLPT N4\n質問 (しつもん): câu hỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157127",
+      "lang": "vi",
+      "content_html": "<p>Dùng 2 cái Búa gõ vào con Sò để kiểm tra Chất lượng.</p>",
+      "content_text": "Dùng 2 cái Búa gõ vào con Sò để kiểm tra Chất lượng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "質",
+      "reading": "しつ",
+      "meaning": "chất lượng"
+    },
+    {
+      "word": "エナメル質タンパク質",
+      "reading": "エナメルしつタンパクしつ",
+      "meaning": "protein men răng"
+    },
+    {
+      "word": "細胞質基質",
+      "reading": "さいぼうしつきしつ",
+      "meaning": "chất lỏng nội bào"
+    },
+    {
+      "word": "タンパク質",
+      "reading": "たんぱくしつ",
+      "meaning": "chất đạm"
+    },
+    {
+      "word": "資質",
+      "reading": "ししつ",
+      "meaning": "bản tính"
+    },
+    {
+      "word": "質屋",
+      "reading": "しちや",
+      "meaning": "tiệm cầm đồ"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "câu hỏi"
+    },
+    {
+      "word": "言質",
+      "reading": "げんち",
+      "meaning": "vật đặt cược hoặc lời hứa"
+    },
+    {
+      "word": "音質",
+      "reading": "おんしつ",
+      "meaning": "chất lượng âm thanh và giọng nói"
+    },
+    {
+      "word": "実質",
+      "reading": "じっしつ",
+      "meaning": "thực chất"
+    }
+  ]
+}

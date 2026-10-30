@@ -1,0 +1,147 @@
+{
+  "kanji": "溜",
+  "meta": {
+    "weight": 1593,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [
+      "た.まる",
+      "たま.る",
+      "た.める",
+      "したた.る",
+      "たまり",
+      "ため"
+    ],
+    "am_han": "LỰU, LƯU, RƯỢU"
+  },
+  "meaning": {
+    "vi": "thu thập, tập hợp, bị truy thu",
+    "en": "collect, gather, be in arrears"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溜.svg"
+  },
+  "frequency": 2451,
+  "examples": [
+    "溜め",
+    "溜まり",
+    "溜息",
+    "溜まる",
+    "溜り"
+  ],
+  "explanation": {
+    "id": "8053",
+    "text": "溜 (đọc là \"ryū\") có nghĩa là \"chảy\", \"trôi\" hoặc \"tích tụ nước\". Nó thường được sử dụng để chỉ những hoạt động liên quan đến nước hoặc sự tích tụ."
+  },
+  "comments": [
+    {
+      "id": "155022",
+      "lang": "vi",
+      "content_html": "<p>nước động lưu lại trên quả lựu</p>",
+      "content_text": "nước động lưu lại trên quả lựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155023",
+      "lang": "vi",
+      "content_html": "<p>Nước còn lưu lại trên ruộng LỰU</p>",
+      "content_text": "Nước còn lưu lại trên ruộng LỰU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155024",
+      "lang": "vi",
+      "content_html": "<p>Tụi Lưu học sinh trá hình còn “đọng” lại ở trong Nước ngày nào như Lựu mìn nổ chậm ngày đấy</p>",
+      "content_text": "Tụi Lưu học sinh trá hình còn “đọng” lại ở trong Nước ngày nào như Lựu mìn nổ chậm ngày đấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "溜る",
+      "reading": "たまる",
+      "meaning": "tích tụ lại"
+    },
+    {
+      "word": "溜息",
+      "reading": "ためいき",
+      "meaning": "sợ thở dài"
+    },
+    {
+      "word": "溜池",
+      "reading": "ためいけ",
+      "meaning": "kho chứa"
+    },
+    {
+      "word": "溜め",
+      "reading": "ため",
+      "meaning": "hầm chứa phân"
+    },
+    {
+      "word": "液溜",
+      "reading": "えきだめ",
+      "meaning": "chỗ đọng chất lỏng"
+    },
+    {
+      "word": "蒸溜",
+      "reading": "じょうりゅう",
+      "meaning": "sự cất"
+    },
+    {
+      "word": "肥溜",
+      "reading": "こえだめ",
+      "meaning": "hầm chứa phân"
+    },
+    {
+      "word": "分溜",
+      "reading": "ぶんりゅう",
+      "meaning": "rạn nứt"
+    },
+    {
+      "word": "糞溜",
+      "reading": "くそだめ",
+      "meaning": "thùng để giữ excreta"
+    },
+    {
+      "word": "溜飲",
+      "reading": "りゅういん",
+      "meaning": "trào ngược axit dạ dày"
+    }
+  ]
+}

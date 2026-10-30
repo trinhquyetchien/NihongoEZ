@@ -1,0 +1,142 @@
+{
+  "kanji": "障",
+  "meta": {
+    "weight": 2846,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "さわ.る"
+    ],
+    "am_han": "CHƯỚNG"
+  },
+  "meaning": {
+    "vi": "cản trở, làm tổn thương, làm hại",
+    "en": "hinder, hurt, harm"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/障.svg"
+  },
+  "frequency": 742,
+  "examples": [
+    "障害",
+    "保障",
+    "故障",
+    "支障",
+    "障壁"
+  ],
+  "explanation": {
+    "id": "3935",
+    "text": "障 (đọc là \"shō\") có nghĩa là \"trở ngại\", \"cản trở\" để chỉ các tình huống hoặc yếu tố gây khó khăn, cản trở trong quá trình hoặc hoạt động nào đó."
+  },
+  "comments": [
+    {
+      "id": "157742",
+      "lang": "vi",
+      "content_html": "<p>Đến sớm 早 đứng 立 chờ nhưng gặp chướng ngại vật là cái mông</p>",
+      "content_text": "Đến sớm 早 đứng 立 chờ nhưng gặp chướng ngại vật là cái mông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157743",
+      "lang": "vi",
+      "content_html": "<p>Bụng Chương nên thấy Chướng</p>",
+      "content_text": "Bụng Chương nên thấy Chướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157744",
+      "lang": "vi",
+      "content_html": "<p>Lúc công thành đứng dứoi bức tường thì vị trí đến sớm nhất lúc cũng bị gặp chướng ngại n</p>",
+      "content_text": "Lúc công thành đứng dứoi bức tường thì vị trí đến sớm nhất lúc cũng bị gặp chướng ngại n",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "障",
+      "reading": "しょう",
+      "meaning": "chướng"
+    },
+    {
+      "word": "囲障",
+      "reading": "いしょう",
+      "meaning": "hàng rào"
+    },
+    {
+      "word": "堡障",
+      "reading": "ほしょう",
+      "meaning": "phòng thủ"
+    },
+    {
+      "word": "障子",
+      "reading": "しょうじ",
+      "meaning": "vách ngăn"
+    },
+    {
+      "word": "障壁",
+      "reading": "しょうへき",
+      "meaning": "chướng ngại"
+    },
+    {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "trở ngại"
+    },
+    {
+      "word": "支障",
+      "reading": "ししょう",
+      "meaning": "trở ngại"
+    },
+    {
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "sự cố"
+    },
+    {
+      "word": "気障",
+      "reading": "きざ",
+      "meaning": "tự phụ"
+    },
+    {
+      "word": "内障",
+      "reading": "ないしょう",
+      "meaning": "rối loạn thị giác gây ra bởi một vấn đề trong mắt nói chung"
+    }
+  ]
+}

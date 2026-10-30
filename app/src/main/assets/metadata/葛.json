@@ -1,0 +1,141 @@
+{
+  "kanji": "葛",
+  "meta": {
+    "weight": 2310,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ",
+      "カチ"
+    ],
+    "kun": [
+      "つづら",
+      "くず"
+    ],
+    "am_han": "CÁT"
+  },
+  "meaning": {
+    "vi": "dong riềng, sắn dây",
+    "en": "arrowroot, kudzu"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/葛.svg"
+  },
+  "frequency": 1547,
+  "examples": [
+    "葛藤",
+    "葛"
+  ],
+  "explanation": {
+    "id": "991",
+    "text": "葛 (đọc là \"kuzu\") có nghĩa là \"cây sắn dây\", chỉ loại thực vật có thể dùng làm thực phẩm hoặc thuốc."
+  },
+  "comments": [
+    {
+      "id": "156566",
+      "lang": "vi",
+      "content_html": "<p>mặt trời chưa lên qua ngọn cỏ thì có củ sắn nằm trong bao</p>",
+      "content_text": "mặt trời chưa lên qua ngọn cỏ thì có củ sắn nằm trong bao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156567",
+      "lang": "vi",
+      "content_html": "<p>Sắn dây葛 là một loại cây艹 không mùi匂, cần ánh sáng mặt trời 日</p>",
+      "content_text": "Sắn dây葛 là một loại cây艹 không mùi匂, cần ánh sáng mặt trời 日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156568",
+      "lang": "vi",
+      "content_html": "<p>Lấy 1 Thìa CÁT bỏ vô Bao ủ suốt cả Ngày để trồng Cỏ</p>",
+      "content_text": "Lấy 1 Thìa CÁT bỏ vô Bao ủ suốt cả Ngày để trồng Cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "葛",
+      "reading": "くず",
+      "meaning": "sắn dây"
+    },
+    {
+      "word": "葛藤",
+      "reading": "かっとう",
+      "meaning": "băn khoăn"
+    },
+    {
+      "word": "葛粉",
+      "reading": "くずこ",
+      "meaning": "bột dong"
+    },
+    {
+      "word": "蔦葛",
+      "reading": "つたかずら",
+      "meaning": "cây trường xuân và những cây nho"
+    },
+    {
+      "word": "葛餅",
+      "reading": "くずもち",
+      "meaning": "bánh giống pudding"
+    },
+    {
+      "word": "葛餡",
+      "reading": "くずあん",
+      "meaning": "nước xốt kudzu"
+    },
+    {
+      "word": "葛布",
+      "reading": "くずふ",
+      "meaning": "vải làm từ kudzu sợi phíp"
+    },
+    {
+      "word": "葛湯",
+      "reading": "くずゆ",
+      "meaning": "cháo bột dong"
+    },
+    {
+      "word": "葛籠",
+      "reading": "つづら",
+      "meaning": "mây mềm mặc quần áo cái giỏ"
+    },
+    {
+      "word": "葛根",
+      "reading": "かっこん",
+      "meaning": "củ sắn dây"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "謝",
+  "meta": {
+    "weight": 2522,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "あやま.る"
+    ],
+    "am_han": "TẠ"
+  },
+  "meaning": {
+    "vi": "xin lỗi, cảm ơn, từ chối",
+    "en": "apologize, thank, refuse"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/謝.svg"
+  },
+  "frequency": 1028,
+  "examples": [
+    "感謝",
+    "謝罪",
+    "代謝",
+    "慰謝",
+    "謝る"
+  ],
+  "explanation": {
+    "id": "3351",
+    "text": "謝 (đọc là \"sha\" hoặc \"ayamaru\") có nghĩa là \"cảm ơn\", \"xin lỗi\", thường được sử dụng để diễn tả lòng biết ơn hoặc sự xin lỗi."
+  },
+  "comments": [
+    {
+      "id": "156993",
+      "lang": "vi",
+      "content_html": "<p>NÓI với bản THÂN rằng: dù có THỐN cũng phải cảm TẠ ...</p>",
+      "content_text": "NÓI với bản THÂN rằng: dù có THỐN cũng phải cảm TẠ ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156994",
+      "lang": "vi",
+      "content_html": "<p>Nói với Xạ thủ có Thân hình rất Thốn lời đa TẠ rằng: Ayamaru.</p>",
+      "content_text": "Nói với Xạ thủ có Thân hình rất Thốn lời đa TẠ rằng: Ayamaru.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156995",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ đa tạ xạ thủ</p>",
+      "content_text": "Ngôn từ đa tạ xạ thủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "謝謝",
+      "reading": "シェシェ",
+      "meaning": "cảm ơn"
+    },
+    {
+      "word": "中間代謝物|中間代謝体",
+      "reading": "ちゅうかんたいしゃぶつ|ちゅうかんたいしゃたい",
+      "meaning": "chất chuyển hóa trung gian"
+    },
+    {
+      "word": "謝意",
+      "reading": "しゃい",
+      "meaning": "lòng biết ơn"
+    },
+    {
+      "word": "謝礼",
+      "reading": "しゃれい",
+      "meaning": "lễ vật"
+    },
+    {
+      "word": "謝る",
+      "reading": "あやまる",
+      "meaning": "xin lỗi"
+    },
+    {
+      "word": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "sự tạ tội"
+    },
+    {
+      "word": "月謝",
+      "reading": "げっしゃ",
+      "meaning": "tiền học hàng tháng"
+    },
+    {
+      "word": "謝す",
+      "reading": "しゃす",
+      "meaning": "cảm tạ"
+    },
+    {
+      "word": "厚謝",
+      "reading": "こうしゃ",
+      "meaning": "biết ơn sâu sắc"
+    },
+    {
+      "word": "代謝",
+      "reading": "たいしゃ",
+      "meaning": "sự đổi mới"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "刻",
+  "meta": {
+    "weight": 326,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "きざ.む",
+      "きざ.み"
+    ],
+    "am_han": "KHẮC"
+  },
+  "meaning": {
+    "vi": "chạm khắc, thời khắc",
+    "en": "engrave, cut fine, chop, hash, mince, time, carving"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/刻.svg"
+  },
+  "frequency": 866,
+  "examples": [
+    "時刻",
+    "深刻",
+    "彫刻",
+    "遅刻",
+    "一刻"
+  ],
+  "explanation": {
+    "id": "2631",
+    "text": "刻 (đọc là \"kaku\") có nghĩa là \"khắc\", \"chạm trổ\" để chỉ các hành động liên quan đến việc cắt, khắc vào bề mặt hoặc thời gian."
+  },
+  "comments": [
+    {
+      "id": "152016",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao khắc hình 4 người đội mũ</p>",
+      "content_text": "Dùng dao khắc hình 4 người đội mũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152017",
+      "lang": "vi",
+      "content_html": "<p>Lấy đao khắc hình con hợi</p>",
+      "content_text": "Lấy đao khắc hình con hợi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152018",
+      "lang": "vi",
+      "content_html": "<p>Điêu KHẮC 刻 chữ HỢI 亥 bằng ĐAO刂<br>...........輝............</p>",
+      "content_text": "Điêu KHẮC 刻 chữ HỢI 亥 bằng ĐAO刂\n...........輝............",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "刻",
+      "reading": "きざ",
+      "meaning": "vết xước"
+    },
+    {
+      "word": "刻刻",
+      "reading": "ぎざぎざ",
+      "meaning": "chốc lát trước chốc lát"
+    },
+    {
+      "word": "刻一刻",
+      "reading": "こくいっこく",
+      "meaning": "từng khắc từng khắc"
+    },
+    {
+      "word": "刻刻に",
+      "reading": "こっこくに",
+      "meaning": "chốc lát trước chốc lát"
+    },
+    {
+      "word": "一刻一刻",
+      "reading": "いっこくいっこく",
+      "meaning": "hàng giờ"
+    },
+    {
+      "word": "時時刻刻",
+      "reading": "じじこっこく",
+      "meaning": "từ giờ này sang giờ khác"
+    },
+    {
+      "word": "刻一刻と",
+      "reading": "こくいっこくと",
+      "meaning": "từng khắc từng khắc"
+    },
+    {
+      "word": "彫刻/てん刻",
+      "reading": "ちょうこく/てんこくてんこく",
+      "meaning": "sculpture/engraving"
+    },
+    {
+      "word": "刻む",
+      "reading": "きざむ",
+      "meaning": "đục chạm"
+    },
+    {
+      "word": "深刻",
+      "reading": "しんこく",
+      "meaning": "sự nghiêm trọng"
+    }
+  ]
+}

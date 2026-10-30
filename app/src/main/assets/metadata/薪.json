@@ -1,0 +1,139 @@
+{
+  "kanji": "薪",
+  "meta": {
+    "weight": 2353,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "たきぎ",
+      "まき"
+    ],
+    "am_han": "TÂN"
+  },
+  "meaning": {
+    "vi": "nhiên liệu, củi, nung",
+    "en": "fuel, firewood, kindling"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薪.svg"
+  },
+  "frequency": 2182,
+  "examples": [
+    "薪"
+  ],
+  "explanation": {
+    "id": "4119",
+    "text": "薪 (đọc là \"shin\" hoặc \"ake\"), có nghĩa là \"lương\" hoặc \"nhân công\", thường chỉ đến tiền lương hoặc thu nhập từ công việc."
+  },
+  "comments": [
+    {
+      "id": "156614",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mới dùng làm củi</p>",
+      "content_text": "Cỏ mới dùng làm củi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156616",
+      "lang": "vi",
+      "content_html": "<p>CỎ MỚI mọc trên CỦI khô</p>",
+      "content_text": "CỎ MỚI mọc trên CỦI khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156615",
+      "lang": "vi",
+      "content_html": "<p>Năm mới đi chặt củi về cho ngày tết</p>",
+      "content_text": "Năm mới đi chặt củi về cho ngày tết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "薪",
+      "reading": "まき",
+      "meaning": "củi"
+    },
+    {
+      "word": "薪ストーブ",
+      "reading": "まきストーブ",
+      "meaning": "lò sưởi củi"
+    },
+    {
+      "word": "薪能",
+      "reading": "たきぎのう",
+      "meaning": "nhà hát được biểu diễn vào ban đêm bên đống lửa"
+    },
+    {
+      "word": "薪割",
+      "reading": "まきわり",
+      "meaning": "chặt gỗ"
+    },
+    {
+      "word": "薪水",
+      "reading": "しんすい",
+      "meaning": "củi và nước"
+    },
+    {
+      "word": "薪炭",
+      "reading": "しんたん",
+      "meaning": "than củi"
+    },
+    {
+      "word": "御薪",
+      "reading": "みかまぎ",
+      "meaning": "củi nghi lễ"
+    },
+    {
+      "word": "薪割り",
+      "reading": "まきわり",
+      "meaning": "bổ củi"
+    },
+    {
+      "word": "薪拾い",
+      "reading": "たきぎひろい",
+      "meaning": "củi tụ lại"
+    },
+    {
+      "word": "薪小屋",
+      "reading": "まきごや",
+      "meaning": "kho củi"
+    }
+  ]
+}

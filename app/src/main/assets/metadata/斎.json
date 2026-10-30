@@ -1,0 +1,145 @@
+{
+  "kanji": "斎",
+  "meta": {
+    "weight": 1187,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "とき",
+      "つつし.む",
+      "ものいみ",
+      "い.む",
+      "いわ.う",
+      "いつ.く"
+    ],
+    "am_han": "TRAI, TRƠI, CHÁI, CHAY"
+  },
+  "meaning": {
+    "vi": "thanh lọc, thực phẩm Phật giáo, phòng, thờ cúng, tránh, giống nhau",
+    "en": "purification, Buddhist food, room, worship, avoid, alike"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/斎.svg"
+  },
+  "frequency": 1155,
+  "examples": [
+    "斎",
+    "書斎",
+    "斎場"
+  ],
+  "explanation": {
+    "id": "2824",
+    "text": "斎 (đọc là \"sai\") có nghĩa là \"thanh tẩy\", \"tinh khiết\" thường liên quan đến việc làm sạch hoặc lễ nghi tôn giáo."
+  },
+  "comments": [
+    {
+      "id": "154125",
+      "lang": "vi",
+      "content_html": "<p>Anh Văn đẹp trai giao chỉ thị phải ăn chay</p>",
+      "content_text": "Anh Văn đẹp trai giao chỉ thị phải ăn chay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154126",
+      "lang": "vi",
+      "content_html": "<p>Anh Văn đẹp TRAI yêu chị Nguyệt từ Bé</p>",
+      "content_text": "Anh Văn đẹp TRAI yêu chị Nguyệt từ Bé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154127",
+      "lang": "vi",
+      "content_html": "<p>2 đứa nhỏ đang học văn trong thư phòng, đều là con Trai ( ngày xưa con gái k dc học )</p>",
+      "content_text": "2 đứa nhỏ đang học văn trong thư phòng, đều là con Trai ( ngày xưa con gái k dc học )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "斎",
+      "reading": "いみ",
+      "meaning": "sự làm sạch tôn giáo"
+    },
+    {
+      "word": "斎行",
+      "reading": "さいこう",
+      "meaning": "mai táng"
+    },
+    {
+      "word": "書斎",
+      "reading": "しょさい",
+      "meaning": "thư phòng"
+    },
+    {
+      "word": "斎む",
+      "reading": "いむ",
+      "meaning": "tránh"
+    },
+    {
+      "word": "斎宮",
+      "reading": "さいぐう",
+      "meaning": "những công chúa đế quốc cổ xưa phục vụ ở miếu thờ ise"
+    },
+    {
+      "word": "斎戒",
+      "reading": "さいかい",
+      "meaning": "sự rửa tội"
+    },
+    {
+      "word": "斎日",
+      "reading": "いみび",
+      "meaning": "ngày nhanh"
+    },
+    {
+      "word": "斎主",
+      "reading": "さいしゅ",
+      "meaning": "làm chủ những nghi lễ tôn giáo"
+    },
+    {
+      "word": "斎服",
+      "reading": "さいふく",
+      "meaning": "những lễ phục của linh mục hay nhà sư"
+    },
+    {
+      "word": "斎場",
+      "reading": "さいじょう",
+      "meaning": "nơi thờ cúng"
+    }
+  ]
+}

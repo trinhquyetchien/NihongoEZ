@@ -1,0 +1,84 @@
+{
+  "kanji": "鯵",
+  "meta": {
+    "weight": 2984,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あじ"
+    ],
+    "am_han": "THAM"
+  },
+  "meaning": {
+    "vi": "cá thu ngựa",
+    "en": "horse mackerel"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鯵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "51",
+    "text": "鯵 (đọc là \"aji\") có nghĩa là \"cá thu\", thường chỉ đến một loại cá ăn được, đặc biệt phổ biến trong ẩm thực Nhật Bản."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鯵",
+      "reading": "あじ",
+      "meaning": "cá bạc má"
+    },
+    {
+      "word": "秋鯵",
+      "reading": "あきあじ",
+      "meaning": "cá thu được đánh bắt vào mùa thu"
+    },
+    {
+      "word": "真鯵",
+      "reading": "まあじ",
+      "meaning": "cá sòng nhật bản"
+    },
+    {
+      "word": "室鯵",
+      "reading": "むろあじ",
+      "meaning": "cá nục"
+    },
+    {
+      "word": "鯵フライ",
+      "reading": "あじフライ",
+      "meaning": "cá sòng tẩm bột chiên xù"
+    },
+    {
+      "word": "開き鯵",
+      "reading": "ひらきあじ",
+      "meaning": "chia ra từng phần và làm khô saurel"
+    },
+    {
+      "word": "銀紙鯵",
+      "reading": "ぎんがめあじ",
+      "meaning": "cá khế sáu sọc hay cá háo sáu sọc"
+    },
+    {
+      "word": "浪人鯵",
+      "reading": "ろうにんあじ",
+      "meaning": "cá khế vây vàng"
+    },
+    {
+      "word": "鯵の開き",
+      "reading": "あじのひらき",
+      "meaning": "cá thu ngựa"
+    },
+    {
+      "word": "刺青蒟蒻鯵",
+      "reading": "いれずみこんにゃくあじ",
+      "meaning": "icosteus aenigmaticus"
+    }
+  ]
+}

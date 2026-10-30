@@ -1,0 +1,142 @@
+{
+  "kanji": "臓",
+  "meta": {
+    "weight": 2219,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [
+      "はらわた"
+    ],
+    "am_han": "TẠNG"
+  },
+  "meaning": {
+    "vi": "nội tạng",
+    "en": "entrails, viscera, bowels"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/臓.svg"
+  },
+  "frequency": 991,
+  "examples": [
+    "心臓",
+    "臓器",
+    "内臓",
+    "肝臓",
+    "腎臓"
+  ],
+  "explanation": {
+    "id": "4777",
+    "text": "臓 (đọc là \"zō\") có nghĩa là \"tạng\" hoặc \"nội tạng\", chỉ các cơ quan trong cơ thể."
+  },
+  "comments": [
+    {
+      "id": "156382",
+      "lang": "vi",
+      "content_html": "<p>Nội Tạng được tàg trữ 蔵 trong vòg 1 thág 月</p>",
+      "content_text": "Nội Tạng được tàg trữ 蔵 trong vòg 1 thág 月",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156383",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt tàng trữ nội tạng</p>",
+      "content_text": "Nguyệt tàng trữ nội tạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156384",
+      "lang": "vi",
+      "content_html": "<p>Kho chứa thịt là nội tạng</p>",
+      "content_text": "Kho chứa thịt là nội tạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "臓",
+      "reading": "ぞう",
+      "meaning": "nội tạng"
+    },
+    {
+      "word": "内臓",
+      "reading": "ないぞう",
+      "meaning": "lòng"
+    },
+    {
+      "word": "臓器",
+      "reading": "ぞうき",
+      "meaning": "nội tạng"
+    },
+    {
+      "word": "肺臓",
+      "reading": "はいぞう",
+      "meaning": "buồng phổi"
+    },
+    {
+      "word": "五臓",
+      "reading": "ごぞう",
+      "meaning": "ngũ tạng"
+    },
+    {
+      "word": "臓腑",
+      "reading": "ぞうふ",
+      "meaning": "ruột"
+    },
+    {
+      "word": "膵臓",
+      "reading": "すいぞう",
+      "meaning": "tụy"
+    },
+    {
+      "word": "腎臓",
+      "reading": "じんぞう",
+      "meaning": "thận"
+    },
+    {
+      "word": "臓物",
+      "reading": "ぞうもつ",
+      "meaning": "ruột"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "meaning": "trái tim"
+    }
+  ]
+}

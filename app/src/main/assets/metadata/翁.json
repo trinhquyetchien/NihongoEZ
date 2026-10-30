@@ -1,0 +1,138 @@
+{
+  "kanji": "翁",
+  "meta": {
+    "weight": 2138,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "おきな"
+    ],
+    "am_han": "ÔNG"
+  },
+  "meaning": {
+    "vi": "ông già đáng kính",
+    "en": "venerable old man"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/翁.svg"
+  },
+  "frequency": 2064,
+  "examples": [
+    "翁"
+  ],
+  "explanation": {
+    "id": "541",
+    "text": "翁 (đọc là \"おきな\" / okina) có nghĩa là \"ông lão\", thường chỉ người đàn ông lớn tuổi, khôn ngoan hoặc có kinh nghiệm."
+  },
+  "comments": [
+    {
+      "id": "156205",
+      "lang": "vi",
+      "content_html": "<p>ông già nhà tớ từng là 1 vũ công</p>",
+      "content_text": "ông già nhà tớ từng là 1 vũ công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156206",
+      "lang": "vi",
+      "content_html": "<p>Vũ 羽 công 公 là 1 nghề không giành cho ông già</p>",
+      "content_text": "Vũ 羽 công 公 là 1 nghề không giành cho ông già",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156207",
+      "lang": "vi",
+      "content_html": "<p>vũ công là nghề mà ông già tôi từng theo đuổi</p>",
+      "content_text": "vũ công là nghề mà ông già tôi từng theo đuổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "翁",
+      "reading": "おきな",
+      "meaning": "ông già"
+    },
+    {
+      "word": "阿翁",
+      "reading": "あおう",
+      "meaning": "cha chồng"
+    },
+    {
+      "word": "仙翁",
+      "reading": "せんのう",
+      "meaning": "lychnis ssp"
+    },
+    {
+      "word": "村翁",
+      "reading": "そんおう",
+      "meaning": "làng elder"
+    },
+    {
+      "word": "翁貝",
+      "reading": "おきながい",
+      "meaning": "vỏ đèn lồng"
+    },
+    {
+      "word": "玄翁",
+      "reading": "げんのう",
+      "meaning": "bushhammer"
+    },
+    {
+      "word": "老翁",
+      "reading": "ろうおう",
+      "meaning": "người đàn ông già cả"
+    },
+    {
+      "word": "白頭翁",
+      "reading": "はくとうおう",
+      "meaning": "ông già tóc bạc phơ"
+    },
+    {
+      "word": "不倒翁",
+      "reading": "ふとうおう",
+      "meaning": "con lật đật"
+    },
+    {
+      "word": "翁の面",
+      "reading": "おきなのめん",
+      "meaning": "mặt nạ những ông già"
+    }
+  ]
+}

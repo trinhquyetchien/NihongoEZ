@@ -1,0 +1,125 @@
+{
+  "kanji": "巌",
+  "meta": {
+    "weight": 812,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "いわ",
+      "いわお",
+      "けわ.しい"
+    ],
+    "am_han": "NHAM"
+  },
+  "meaning": {
+    "vi": "đá, cheo leo, đá tảng",
+    "en": "rock, crag, boulder"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/巌.svg"
+  },
+  "frequency": 1986,
+  "examples": [
+    "巌"
+  ],
+  "explanation": {
+    "id": "1210",
+    "text": "巌 (đọc là \"gan\") có nghĩa là \"đá lớn\" hoặc \"vách đá\" để chỉ những khối đá vững chắc, thường được sử dụng trong ngữ cảnh thiên nhiên hoặc khi mô tả sự kiên cố."
+  },
+  "comments": [
+    {
+      "id": "153188",
+      "lang": "vi",
+      "content_html": "<p>nghiêm cấm khai thác đá và nham thạch trên nui</p>",
+      "content_text": "nghiêm cấm khai thác đá và nham thạch trên nui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153189",
+      "lang": "vi",
+      "content_html": "<p>岩</p>",
+      "content_text": "岩",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153190",
+      "lang": "vi",
+      "content_html": "<p>Dưới núi là những tảng đá NHAM thạch nên cấm khai thác</p>",
+      "content_text": "Dưới núi là những tảng đá NHAM thạch nên cấm khai thác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "巌",
+      "reading": "いわ",
+      "meaning": "vách đá"
+    },
+    {
+      "word": "巌巌とした",
+      "reading": "がんがんとした",
+      "meaning": "lởm chởm đá"
+    },
+    {
+      "word": "巉巌",
+      "reading": "ざんがん",
+      "meaning": "vách đá dựng đứng"
+    },
+    {
+      "word": "奇巌",
+      "reading": "きがん",
+      "meaning": "những tảng đá lớn với hình thù quái dị"
+    },
+    {
+      "word": "巌頭",
+      "reading": "がんとう",
+      "meaning": "đỉnh của một tảng đá lớn"
+    },
+    {
+      "word": "巌窟",
+      "reading": "がんくつ",
+      "meaning": "hang"
+    },
+    {
+      "word": "枯木寒巌",
+      "reading": "こぼくかんがん",
+      "meaning": "lạnh nhạt"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "kanji": "擾",
+  "meta": {
+    "weight": 1165,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "みだ.れる",
+      "みだ.す",
+      "わずら.わしい"
+    ],
+    "am_han": "NHIỄU"
+  },
+  "meaning": {
+    "vi": "làm phiền, bối rối",
+    "en": "disturb, throw into confusion"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/擾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3970",
+    "text": "擾 (đọc là \"jō\") có nghĩa là \"quấy rối\", \"gây rối\" để chỉ các hành động làm phiền hoặc gây trở ngại cho người khác."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "騒擾",
+      "reading": "そうじょう",
+      "meaning": "quậy phá"
+    },
+    {
+      "word": "擾乱",
+      "reading": "じょうらん",
+      "meaning": "sự rối loạn"
+    },
+    {
+      "word": "紛擾",
+      "reading": "ふんじょう",
+      "meaning": "sự rối loạn"
+    },
+    {
+      "word": "騒擾罪",
+      "reading": "そうじょうざい",
+      "meaning": "tội gây rối trật tự nơi công cộng"
+    },
+    {
+      "word": "擾乱する",
+      "reading": "じょうらんする",
+      "meaning": "quấy rối"
+    },
+    {
+      "word": "ストライキ.暴動.騒擾危険",
+      "reading": "すとらいき．ぼうどう．そうじょうきけん",
+      "meaning": "rủi ro đình công"
+    }
+  ]
+}

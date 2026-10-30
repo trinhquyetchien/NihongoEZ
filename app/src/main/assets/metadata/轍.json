@@ -1,0 +1,105 @@
+{
+  "kanji": "轍",
+  "meta": {
+    "weight": 2623,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [
+      "わだちい",
+      "わだち"
+    ],
+    "am_han": "TRIỆT"
+  },
+  "meaning": {
+    "vi": "đường mòn, vệt bánh xe",
+    "en": "rut, wheel track"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/轍.svg"
+  },
+  "frequency": 2484,
+  "examples": [
+    "轍"
+  ],
+  "explanation": {
+    "id": "5639",
+    "text": "轍 (đọc là \"tetsu\" hoặc \"wada\") có nghĩa là \"vết bánh xe\", chỉ những dấu vết hoặc lối đi mà bánh xe để lại, thường liên quan đến đường xá hoặc hành trình."
+  },
+  "comments": [
+    {
+      "id": "157249",
+      "lang": "vi",
+      "content_html": "<p>cần triệt để xỏa bỏ những vết bánh xe đổ</p>",
+      "content_text": "cần triệt để xỏa bỏ những vết bánh xe đổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "轍",
+      "reading": "わだち",
+      "meaning": "vết bánh xe"
+    },
+    {
+      "word": "轍叉",
+      "reading": "てっさ",
+      "meaning": "đường sắt frog"
+    },
+    {
+      "word": "転轍",
+      "reading": "てんてつ",
+      "meaning": "chuyển hoặc hoãn một ô tô đường ray)"
+    },
+    {
+      "word": "轍鮒",
+      "reading": "てっぷ",
+      "meaning": "đối với một con cá diếc có nguy cơ bị khô cạn trong vết xe trên đường"
+    },
+    {
+      "word": "前轍",
+      "reading": "ぜんてつ",
+      "meaning": "vết lún bánh xe"
+    },
+    {
+      "word": "転轍手",
+      "reading": "てんてつしゅ",
+      "meaning": "người bẻ ghi"
+    },
+    {
+      "word": "転轍機",
+      "reading": "てんてつき",
+      "meaning": "chỗ bẻ lái"
+    },
+    {
+      "word": "轍を踏む",
+      "reading": "てつをふむ",
+      "meaning": "giẫm lên vết xe đổ"
+    },
+    {
+      "word": "轍鮒の急",
+      "reading": "てっぷのきゅう",
+      "meaning": "nguy hiểm sắp xảy ra"
+    },
+    {
+      "word": "前轍を踏む",
+      "reading": "ぜんてつをふむ",
+      "meaning": "lặp lại sai lầm của người khác"
+    }
+  ]
+}

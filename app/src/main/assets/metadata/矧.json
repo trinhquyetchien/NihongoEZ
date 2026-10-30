@@ -1,0 +1,42 @@
+{
+  "kanji": "矧",
+  "meta": {
+    "weight": 1860,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "は.ぐ",
+      "いわ.んや",
+      "はぐき",
+      "はぎ"
+    ],
+    "am_han": "THẨN"
+  },
+  "meaning": {
+    "vi": "lông (mũi tên)",
+    "en": "feather (arrow)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/矧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6311",
+    "text": "Chữ Hán 矧 (đọc là \"shaku\") có nghĩa là \"hợp lại\", \"nối lại\" để chỉ các hành động liên quan đến việc kết hợp, nối ghép."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "矧ぐ",
+      "reading": "はぐ",
+      "meaning": "nuôi cho đủ lông đủ cánh để bay"
+    }
+  ]
+}

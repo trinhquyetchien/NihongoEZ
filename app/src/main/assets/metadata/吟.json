@@ -1,0 +1,138 @@
+{
+  "kanji": "吟",
+  "meta": {
+    "weight": 459,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギン"
+    ],
+    "kun": [],
+    "am_han": "NGÂM"
+  },
+  "meaning": {
+    "vi": "so sánh, hát, độc tấu",
+    "en": "versify, singing, recital"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/吟.svg"
+  },
+  "frequency": 1956,
+  "examples": [
+    "吟味",
+    "吟醸",
+    "吟"
+  ],
+  "explanation": {
+    "id": "1801",
+    "text": "吟 (đọc là \"gin\") có nghĩa là \"ngâm thơ\", \"hát\" để chỉ các hoạt động liên quan đến việc thể hiện cảm xúc qua ngâm nga hoặc hát ca khúc, đặc biệt là thơ ca."
+  },
+  "comments": [
+    {
+      "id": "152337",
+      "lang": "vi",
+      "content_html": "<p>Mồm bây giờ đang ngâm thơ</p>",
+      "content_text": "Mồm bây giờ đang ngâm thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152338",
+      "lang": "vi",
+      "content_html": "<p>Bây giờ xuất khẩu ngâm thơ</p>",
+      "content_text": "Bây giờ xuất khẩu ngâm thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152339",
+      "lang": "vi",
+      "content_html": "<p>Xuất khẩu NGÂM liền thành thơ</p>",
+      "content_text": "Xuất khẩu NGÂM liền thành thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "吟味",
+      "reading": "ぎんみ",
+      "meaning": "sự nếm"
+    },
+    {
+      "word": "吟詠",
+      "reading": "ぎんえい",
+      "meaning": "sự đọc thuộc lòng bài thơ"
+    },
+    {
+      "word": "偶吟",
+      "reading": "ぐうぎん",
+      "meaning": "bài thơ tùy hứng"
+    },
+    {
+      "word": "吟唱",
+      "reading": "ぎんしょう",
+      "meaning": "sự kể lại"
+    },
+    {
+      "word": "詩吟",
+      "reading": "しぎん",
+      "meaning": "việc ngâm thơ"
+    },
+    {
+      "word": "微吟",
+      "reading": "びぎん",
+      "meaning": "ngâm nga"
+    },
+    {
+      "word": "低吟",
+      "reading": "ていぎん",
+      "meaning": "sự ngâm nga"
+    },
+    {
+      "word": "詠吟",
+      "reading": "えいぎん",
+      "meaning": "sự ngâm thơ"
+    },
+    {
+      "word": "独吟",
+      "reading": "どくぎん",
+      "meaning": "sự độc diễn kịch nô"
+    },
+    {
+      "word": "吟誦",
+      "reading": "ぎんしょう",
+      "meaning": "sự kể lại"
+    }
+  ]
+}

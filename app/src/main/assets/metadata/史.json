@@ -1,0 +1,157 @@
+{
+  "kanji": "史",
+  "meta": {
+    "weight": 441,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "SỬ"
+  },
+  "meaning": {
+    "vi": "lịch sử",
+    "en": "history, chronicle"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/史.svg"
+  },
+  "frequency": 511,
+  "examples": [
+    "歴史",
+    "史",
+    "史上",
+    "女史",
+    "史料"
+  ],
+  "explanation": {
+    "id": "3055",
+    "text": "史 (đọc là \"shi\") có nghĩa là \"lịch sử\" để chỉ các tài liệu, sự kiện liên quan đến quá khứ và ghi chép về các sự kiện quan trọng."
+  },
+  "comments": [
+    {
+      "id": "190923",
+      "lang": "vi",
+      "content_html": "<p><strong>sử sách</strong></p>",
+      "content_text": "sử sách",
+      "image_url": "https://jpdictionary.com/upload/images/648a6fd3d8c9a.jpg",
+      "image_path": "assets/images/史_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152292",
+      "lang": "vi",
+      "content_html": "<p>Lịch sử của người trung</p>",
+      "content_text": "Lịch sử của người trung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152293",
+      "lang": "vi",
+      "content_html": "<p>Con nguoi truyen mieng nhau ve lich su</p>",
+      "content_text": "Con nguoi truyen mieng nhau ve lich su",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152294",
+      "lang": "vi",
+      "content_html": "<p>dùng Khẩu Nghệ nói về lịch SỬ !</p>",
+      "content_text": "dùng Khẩu Nghệ nói về lịch SỬ !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "史",
+      "reading": "し",
+      "meaning": "lịch sử"
+    },
+    {
+      "word": "女史",
+      "reading": "じょし",
+      "meaning": "bà"
+    },
+    {
+      "word": "史的",
+      "reading": "してき",
+      "meaning": "có tính chất lịch sử"
+    },
+    {
+      "word": "史学",
+      "reading": "しがく",
+      "meaning": "sử học"
+    },
+    {
+      "word": "史書",
+      "reading": "ししょ",
+      "meaning": "sử sách"
+    },
+    {
+      "word": "史家",
+      "reading": "しか",
+      "meaning": "nhà viết sử"
+    },
+    {
+      "word": "漁史",
+      "reading": "ぎょし",
+      "meaning": "hậu tố thường được thêm sau bút danh của nhà văn"
+    },
+    {
+      "word": "偽史",
+      "reading": "ぎし",
+      "meaning": "làm giả lịch sử"
+    },
+    {
+      "word": "史実",
+      "reading": "しじつ",
+      "meaning": "sự thực lịch sử"
+    },
+    {
+      "word": "史観",
+      "reading": "しかん",
+      "meaning": "quan điểm lịch sử"
+    }
+  ]
+}

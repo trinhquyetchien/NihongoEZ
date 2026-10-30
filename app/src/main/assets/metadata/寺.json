@@ -1,0 +1,142 @@
+{
+  "kanji": "寺",
+  "meta": {
+    "weight": 749,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "てら"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "chùa",
+    "en": "Buddhist temple"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/寺.svg"
+  },
+  "frequency": 879,
+  "examples": [
+    "寺",
+    "寺院",
+    "お寺",
+    "寺子屋",
+    "国分寺"
+  ],
+  "explanation": {
+    "id": "3189",
+    "text": "寺 (đọc là \"tera\") có nghĩa là \"chùa\" hoặc \"đền\" để chỉ các nơi thờ cúng, thường liên quan đến Phật giáo."
+  },
+  "comments": [
+    {
+      "id": "190986",
+      "lang": "vi",
+      "content_html": "<p><strong>chùa</strong></p>",
+      "content_text": "chùa",
+      "image_url": "https://jpdictionary.com/upload/images/648a7eeaa13f3.jpg",
+      "image_path": "assets/images/寺_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "497",
+      "lang": "vi",
+      "content_html": "<p>Nhìn này, có ngôi <strong>chùa </strong>trên mặt <strong>đất </strong>kìa!</p>",
+      "content_text": "Nhìn này, có ngôi\nchùa\ntrên mặt\nđất\nkìa!",
+      "image_url": "https://jpdictionary.com/upload/images/629764e6eed02.jpg",
+      "image_path": "assets/images/寺_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153031",
+      "lang": "vi",
+      "content_html": "<p>đo đất xem được bao nhiêu thốn để xây chùa</p>",
+      "content_text": "đo đất xem được bao nhiêu thốn để xây chùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "寺",
+      "reading": "てら",
+      "meaning": "chùa"
+    },
+    {
+      "word": "諸寺",
+      "reading": "しょじ",
+      "meaning": "nhiều đền"
+    },
+    {
+      "word": "寺院",
+      "reading": "じいん",
+      "meaning": "chùa chiền"
+    },
+    {
+      "word": "お寺",
+      "reading": "おてら",
+      "meaning": "chùa"
+    },
+    {
+      "word": "寺格",
+      "reading": "じかく",
+      "meaning": "tình trạng một miếu tín đồ phật giáo"
+    },
+    {
+      "word": "寺中",
+      "reading": "じちゅう",
+      "meaning": "bên trong ngôi chùa"
+    },
+    {
+      "word": "脇寺",
+      "reading": "わきでら",
+      "meaning": "sub-temple"
+    },
+    {
+      "word": "入寺",
+      "reading": "にゅうじ",
+      "meaning": "vào chùa"
+    },
+    {
+      "word": "寺号",
+      "reading": "じごう",
+      "meaning": "tên của ngôi chùa"
+    },
+    {
+      "word": "寺内",
+      "reading": "じない",
+      "meaning": "bên trong ngôi chùa"
+    }
+  ]
+}

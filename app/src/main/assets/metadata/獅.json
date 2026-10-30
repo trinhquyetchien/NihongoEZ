@@ -1,0 +1,105 @@
+{
+  "kanji": "獅",
+  "meta": {
+    "weight": 1727,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "しし"
+    ],
+    "am_han": "SƯ"
+  },
+  "meaning": {
+    "vi": "sư tử",
+    "en": "lion"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/獅.svg"
+  },
+  "frequency": 1914,
+  "examples": [
+    "獅子",
+    "獅子舞"
+  ],
+  "explanation": {
+    "id": "3113",
+    "text": "獅 (đọc là \"shi\") có nghĩa là \"sư tử\", chỉ loài thú mạnh mẽ, biểu tượng cho sức mạnh và quyền lực."
+  },
+  "comments": [
+    {
+      "id": "155305",
+      "lang": "vi",
+      "content_html": "<p>Con CHÓ có SƯ phụ là con SƯ tử</p>",
+      "content_text": "Con CHÓ có SƯ phụ là con SƯ tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "獅子",
+      "reading": "しし",
+      "meaning": "sư tử"
+    },
+    {
+      "word": "獅子座",
+      "reading": "ししざ",
+      "meaning": "cung sư tử"
+    },
+    {
+      "word": "獅子舞",
+      "reading": "ししまい",
+      "meaning": "múa lân"
+    },
+    {
+      "word": "獅子猿",
+      "reading": "ししざる",
+      "meaning": "lion tamarin"
+    },
+    {
+      "word": "獅子唐",
+      "reading": "ししとう",
+      "meaning": "loại ớt xanh quả dài"
+    },
+    {
+      "word": "獅子吼",
+      "reading": "ししく",
+      "meaning": "tiếng gầm của sư tử"
+    },
+    {
+      "word": "獅子宮",
+      "reading": "ししきゅう",
+      "meaning": "cung sư t"
+    },
+    {
+      "word": "獅子頭",
+      "reading": "ししがしら",
+      "meaning": "mặt nạ sư tử"
+    },
+    {
+      "word": "獅子鼻",
+      "reading": "ししばな",
+      "meaning": "cái mũi võ sĩ"
+    },
+    {
+      "word": "唐獅子",
+      "reading": "からじし",
+      "meaning": "bức họa nghệ thuật về sư tử"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "kanji": "蝋",
+  "meta": {
+    "weight": 2391,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "みつろう",
+      "ろうそく"
+    ],
+    "am_han": "CHÁ, THỰ, TRÁC"
+  },
+  "meaning": {
+    "vi": "sáp",
+    "en": "wax"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蝋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8357",
+    "text": "蝋 (đọc là \"rō\") có nghĩa là \"sáp\" để chỉ chất liệu sáp hoặc các sản phẩm làm từ sáp."
+  },
+  "comments": [
+    {
+      "id": "220613",
+      "lang": "vi",
+      "content_html": "<p>Chính xác là chữ LẠP nha, trong tử vi tướng số có mạng BẠCH LẠP KIM, chính là chữ LẠP này, nghĩa là cây nến.</p>",
+      "content_text": "Chính xác là chữ LẠP nha, trong tử vi tướng số có mạng BẠCH LẠP KIM, chính là chữ LẠP này, nghĩa là cây nến.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220614",
+      "lang": "vi",
+      "content_html": "<p>蝋 bên hvdic là \"lạp, trá, chá, thư\"</p>",
+      "content_text": "蝋 bên hvdic là \"lạp, trá, chá, thư\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220615",
+      "lang": "vi",
+      "content_html": "<p>Dùng ngọn lửa đốt côn trùng sẽ bu vào</p>",
+      "content_text": "Dùng ngọn lửa đốt côn trùng sẽ bu vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蝋",
+      "reading": "ろう",
+      "meaning": "tròn dần"
+    },
+    {
+      "word": "水蝋蝋虫",
+      "reading": "いぼたろうむし",
+      "meaning": "côn trùng sáp nước"
+    },
+    {
+      "word": "鯨蝋",
+      "reading": "げいろう",
+      "meaning": "sáp cá nhà táng"
+    },
+    {
+      "word": "生蝋",
+      "reading": "きろう",
+      "meaning": "nhật bản thô tròn dần"
+    },
+    {
+      "word": "蝋膜",
+      "reading": "ろうまく",
+      "meaning": "màng sáp"
+    },
+    {
+      "word": "白蝋",
+      "reading": "はくろう",
+      "meaning": "sắp trắng"
+    },
+    {
+      "word": "蜜蝋",
+      "reading": "みつろう",
+      "meaning": "sáp ong"
+    },
+    {
+      "word": "木蝋",
+      "reading": "もくろう",
+      "meaning": "mỡ thực vật"
+    },
+    {
+      "word": "蝋梅",
+      "reading": "ろうばい",
+      "meaning": "tiếng nhật allspice"
+    },
+    {
+      "word": "蝋紙",
+      "reading": "ろうがみ",
+      "meaning": "giấy nến"
+    }
+  ]
+}

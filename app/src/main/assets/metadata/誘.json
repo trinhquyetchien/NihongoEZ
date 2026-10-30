@@ -1,0 +1,143 @@
+{
+  "kanji": "誘",
+  "meta": {
+    "weight": 2491,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "さそ.う",
+      "いざな.う"
+    ],
+    "am_han": "DỤ"
+  },
+  "meaning": {
+    "vi": "lôi kéo, dẫn dắt, cám dỗ, mời, yêu cầu, kêu gọi, dụ dỗ, quyến rũ",
+    "en": "entice, lead, tempt, invite, ask, call for, seduce, allure"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/誘.svg"
+  },
+  "frequency": 993,
+  "examples": [
+    "誘導",
+    "誘拐",
+    "勧誘",
+    "誘惑",
+    "誘い"
+  ],
+  "explanation": {
+    "id": "7787",
+    "text": "誘 (đọc là \"yū\") có nghĩa là \"dụ dỗ\", \"mời gọi\" để chỉ các hành động liên quan đến việc kéo người khác vào một hoạt động nào đó, thường là một cách khéo léo hoặc hấp dẫn."
+  },
+  "comments": [
+    {
+      "id": "156925",
+      "lang": "vi",
+      "content_html": "<p>Dụ em Hoà làm 13 nháy</p>",
+      "content_text": "Dụ em Hoà làm 13 nháy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156926",
+      "lang": "vi",
+      "content_html": "<p>Dùng ngôn ngữ ưu tú để dẫn dụ</p>",
+      "content_text": "Dùng ngôn ngữ ưu tú để dẫn dụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156927",
+      "lang": "vi",
+      "content_html": "<p>NÓI 13 lần mới DỤ được HÒA MỜI trà sữa</p>",
+      "content_text": "NÓI 13 lần mới DỤ được HÒA MỜI trà sữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "誘発",
+      "reading": "ゆうはつ",
+      "meaning": "gây ra"
+    },
+    {
+      "word": "誘因",
+      "reading": "ゆういん",
+      "meaning": "sự khuyến khích"
+    },
+    {
+      "word": "誘致",
+      "reading": "ゆうち",
+      "meaning": "sự hấp dẫn"
+    },
+    {
+      "word": "誘爆",
+      "reading": "ゆうばく",
+      "meaning": "sự dẫn nổ"
+    },
+    {
+      "word": "誘引",
+      "reading": "ゆういん",
+      "meaning": "sự rủ rê"
+    },
+    {
+      "word": "誘殺",
+      "reading": "ゆうさつ",
+      "meaning": "sự rủ rê giết chóc"
+    },
+    {
+      "word": "誘電",
+      "reading": "ゆうでん",
+      "meaning": "điện môi"
+    },
+    {
+      "word": "誘惑",
+      "reading": "ゆうわく",
+      "meaning": "sự quyến rũ"
+    },
+    {
+      "word": "誘う",
+      "reading": "さそう",
+      "meaning": "dụ"
+    },
+    {
+      "word": "誘い",
+      "reading": "さそい",
+      "meaning": "sự mời"
+    }
+  ]
+}

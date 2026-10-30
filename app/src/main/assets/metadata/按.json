@@ -1,0 +1,120 @@
+{
+  "kanji": "按",
+  "meta": {
+    "weight": 1089,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "おさ.える",
+      "しら.べる"
+    ],
+    "am_han": "ÁN"
+  },
+  "meaning": {
+    "vi": "giữ, xem xét, điều tra",
+    "en": "hold, consider, investigate"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/按.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "94",
+    "text": "按 (đọc là \"an\") có nghĩa là \"nhấn\", \"áp dụng\" để chỉ các hành động liên quan đến việc nhấn mạnh hoặc áp dụng một cách cụ thể."
+  },
+  "comments": [
+    {
+      "id": "219598",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ 女 trong nhà 宀 luôn tự tay 扌sắp đặt ÁN bài mọi thứ.</p>",
+      "content_text": "Phụ nữ 女 trong nhà 宀 luôn tự tay 扌sắp đặt ÁN bài mọi thứ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219599",
+      "lang": "vi",
+      "content_html": "<p>Án sai Phụ nữ 女 trong nhà 宀 luôn tự tay 扌sắp đặt Đề Án.</p>",
+      "content_text": "Án sai Phụ nữ 女 trong nhà 宀 luôn tự tay 扌sắp đặt Đề Án.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "按針",
+      "reading": "あんじん",
+      "meaning": "hoa tiêu"
+    },
+    {
+      "word": "按摩",
+      "reading": "あんま",
+      "meaning": "sự xoa bóp"
+    },
+    {
+      "word": "按手",
+      "reading": "あんしゅ",
+      "meaning": "việc đặt tay"
+    },
+    {
+      "word": "按分",
+      "reading": "あんぶん",
+      "meaning": "sự phân chia hoặc phân phối cân xứng"
+    },
+    {
+      "word": "按排",
+      "reading": "あんばい",
+      "meaning": "sự sắp đặt"
+    },
+    {
+      "word": "按腹",
+      "reading": "あんぷく",
+      "meaning": "sự xoa bóp ở bụng"
+    },
+    {
+      "word": "按配",
+      "reading": "あんばい",
+      "meaning": "sự sắp đặt"
+    },
+    {
+      "word": "按摩師",
+      "reading": "あんまし",
+      "meaning": "chuyên viên mát xa"
+    },
+    {
+      "word": "按摩膏",
+      "reading": "あんまこう",
+      "meaning": "xoa bóp thuốc cao"
+    },
+    {
+      "word": "按ずる",
+      "reading": "あんずる",
+      "meaning": "suy nghĩ"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "哨",
+  "meta": {
+    "weight": 487,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "みはり"
+    ],
+    "am_han": "TIẾU, TIÊU, SÁO"
+  },
+  "meaning": {
+    "vi": "trinh sát, lính canh",
+    "en": "scout, sentinel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/哨.svg"
+  },
+  "frequency": 1999,
+  "examples": [
+    "前哨",
+    "哨戒"
+  ],
+  "explanation": {
+    "id": "3762",
+    "text": "哨 (đọc là \"shou\") có nghĩa là \"còi\" hoặc \"trạm canh\", chỉ các hành động liên quan đến việc cảnh báo hoặc giám sát."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "哨戒",
+      "reading": "しょうかい",
+      "meaning": "đi tuần tra"
+    },
+    {
+      "word": "哨吶",
+      "reading": "チャルメラ",
+      "meaning": "kèn ống thổi truyền thống"
+    },
+    {
+      "word": "前哨",
+      "reading": "ぜんしょう",
+      "meaning": "tiền đồn"
+    },
+    {
+      "word": "哨舎",
+      "reading": "しょうしゃ",
+      "meaning": "điếm canh"
+    },
+    {
+      "word": "哨兵",
+      "reading": "しょうへい",
+      "meaning": "lính gác"
+    },
+    {
+      "word": "歩哨",
+      "reading": "ほしょう",
+      "meaning": "sự canh gác"
+    },
+    {
+      "word": "哨吶草",
+      "reading": "チャルメルそう",
+      "meaning": "cây mitella stylosa"
+    },
+    {
+      "word": "前哨線",
+      "reading": "ぜんしょうせん",
+      "meaning": "do thám hàng"
+    },
+    {
+      "word": "前哨地",
+      "reading": "ぜんしょうち",
+      "meaning": "tiền đồn"
+    },
+    {
+      "word": "前哨戦",
+      "reading": "ぜんしょうせん",
+      "meaning": "trận chiến nhỏ giữa các đơn vị tiền đồn trước trận chiến toàn diện chính"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "kanji": "榛",
+  "meta": {
+    "weight": 1407,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "ハン"
+    ],
+    "kun": [
+      "はしばみ",
+      "はり"
+    ],
+    "am_han": "TRĂN"
+  },
+  "meaning": {
+    "vi": "hạt phỉ, filbert",
+    "en": "hazelnut, filbert"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/榛.svg"
+  },
+  "frequency": 2205,
+  "examples": [
+    "榛"
+  ],
+  "explanation": {
+    "id": "4088",
+    "text": "榛 (đọc là \"hain\" hoặc \"zen\") có nghĩa là \"cây phỉ\", chỉ loại cây có quả ăn được và thường mọc trong tự nhiên."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "榛",
+      "reading": "はしばみ",
+      "meaning": "asian hazel"
+    },
+    {
+      "word": "角榛",
+      "reading": "つのはしばみ",
+      "meaning": "corylus sieboldiana"
+    },
+    {
+      "word": "西洋榛",
+      "reading": "せいようはしばみ",
+      "meaning": "hợp đồng con chó vàng"
+    },
+    {
+      "word": "榛の木",
+      "reading": "はんのき",
+      "meaning": "cây gỗ trăn đen"
+    },
+    {
+      "word": "夜糞峰榛",
+      "reading": "よぐそみねばり",
+      "meaning": "cây bulô anh đào nhật bản"
+    }
+  ]
+}

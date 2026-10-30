@@ -1,0 +1,136 @@
+{
+  "kanji": "娠",
+  "meta": {
+    "weight": 674,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "am_han": "THẦN"
+  },
+  "meaning": {
+    "vi": "với đứa trẻ, mang thai",
+    "en": "with child, pregnancy"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/娠.svg"
+  },
+  "frequency": 1623,
+  "examples": [
+    "妊娠"
+  ],
+  "explanation": {
+    "id": "4060",
+    "text": "娠 (đọc là \"shin\") có nghĩa là \"mang thai\" để chỉ trạng thái mang thai hoặc sự thụ thai."
+  },
+  "comments": [
+    {
+      "id": "152848",
+      "lang": "vi",
+      "content_html": "<p>Phụ Nữ xem đứa con MANG trong bụng như thiên THẦN</p>",
+      "content_text": "Phụ Nữ xem đứa con MANG trong bụng như thiên THẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152849",
+      "lang": "vi",
+      "content_html": "<p>phụ nữ có mang được coi như thần</p>",
+      "content_text": "phụ nữ có mang được coi như thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152850",
+      "lang": "vi",
+      "content_html": "<p>Năm Thìn 辰 cô gái女  có chửa và sinh ra đứa bé đẹp như thiên Thần</p>",
+      "content_text": "Năm Thìn 辰 cô gái女  có chửa và sinh ra đứa bé đẹp như thiên Thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "妊娠",
+      "reading": "にんしん",
+      "meaning": "bụng phệ"
+    },
+    {
+      "word": "妊娠線",
+      "reading": "にんしんせん",
+      "meaning": "vết rạn bà bầu"
+    },
+    {
+      "word": "妊娠時",
+      "reading": "にんしんじ",
+      "meaning": "thời kì mang thai"
+    },
+    {
+      "word": "偽妊娠",
+      "reading": "ぎにんしん",
+      "meaning": "tính thụ thai giả"
+    },
+    {
+      "word": "妊娠テスト",
+      "reading": "にんしんテスト",
+      "meaning": "khám thai"
+    },
+    {
+      "word": "妊娠期",
+      "reading": "にんしんき",
+      "meaning": "thời kỳ mang thai"
+    },
+    {
+      "word": "妊娠する",
+      "reading": "にんしんする",
+      "meaning": "mang thai"
+    },
+    {
+      "word": "多胎妊娠",
+      "reading": "たたいにんしん",
+      "meaning": "chữa nhiều thai"
+    },
+    {
+      "word": "妊娠検査",
+      "reading": "にんしんけんさ",
+      "meaning": "việc khám thai"
+    },
+    {
+      "word": "異常妊娠",
+      "reading": "いじょうにんしん",
+      "meaning": "hư thai"
+    }
+  ]
+}

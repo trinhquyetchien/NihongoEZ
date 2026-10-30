@@ -1,0 +1,144 @@
+{
+  "kanji": "舞",
+  "meta": {
+    "weight": 2235,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ"
+    ],
+    "kun": [
+      "ま.う",
+      "-ま.う",
+      "まい"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "nhảy, khiêu vũ",
+    "en": "dance, flit, circle, wheel"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/舞.svg"
+  },
+  "frequency": 655,
+  "examples": [
+    "舞台",
+    "舞",
+    "見舞い",
+    "振る舞い",
+    "歌舞伎"
+  ],
+  "explanation": {
+    "id": "6870",
+    "text": "舞 (đọc là \"bu\", \"mai\") có nghĩa là \"múa\", \"nhảy\" để chỉ các hành động liên quan đến việc biểu diễn nghệ thuật thông qua chuyển động cơ thể."
+  },
+  "comments": [
+    {
+      "id": "156423",
+      "lang": "vi",
+      "content_html": "<p>Chiều tối cuối năm mọi người múa sạp khiêu vũ</p>",
+      "content_text": "Chiều tối cuối năm mọi người múa sạp khiêu vũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156424",
+      "lang": "vi",
+      "content_html": "<p>Tôi vô 無 cùng sai lầm 舛  vì đã học múa 舞う quạt sai cách</p>",
+      "content_text": "Tôi vô 無 cùng sai lầm 舛  vì đã học múa 舞う quạt sai cách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156425",
+      "lang": "vi",
+      "content_html": "<p>Tuổi xế chiều không khiêu vũ</p>",
+      "content_text": "Tuổi xế chiều không khiêu vũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "舞",
+      "reading": "まい",
+      "meaning": "nhảy"
+    },
+    {
+      "word": "舞舞",
+      "reading": "まいまい",
+      "meaning": "con ốc sên"
+    },
+    {
+      "word": "舞を舞う",
+      "reading": "まいをまう",
+      "meaning": "nhảy múa"
+    },
+    {
+      "word": "歌舞伎舞踊",
+      "reading": "かぶきぶよう",
+      "meaning": "điệu nhảy trong kịch kabuki"
+    },
+    {
+      "word": "仕舞",
+      "reading": "しまい",
+      "meaning": "sự kết thúc"
+    },
+    {
+      "word": "舞代",
+      "reading": "ぶだい",
+      "meaning": "vũ đài"
+    },
+    {
+      "word": "鼓舞",
+      "reading": "こぶ",
+      "meaning": "sự cổ vũ"
+    },
+    {
+      "word": "舞人",
+      "reading": "まいびと",
+      "meaning": "vũ công"
+    },
+    {
+      "word": "舞車",
+      "reading": "まいぐるま",
+      "meaning": "festival float"
+    },
+    {
+      "word": "楽舞",
+      "reading": "がくぶ",
+      "meaning": "hát và nhảy"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "土",
+  "meta": {
+    "weight": 543,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド",
+      "ト"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "am_han": "THỔ"
+  },
+  "meaning": {
+    "vi": "đất",
+    "en": "soil, earth, ground, Turkey"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/土.svg"
+  },
+  "frequency": 307,
+  "examples": [
+    "土",
+    "土地",
+    "土曜日",
+    "国土",
+    "土産"
+  ],
+  "explanation": {
+    "id": "5751",
+    "text": "土 (đọc là \"tsuchi\" hoặc \"do\") có nghĩa là \"đất\", \"bùn\" để chỉ các khía cạnh liên quan đến đất đai, nền tảng hoặc những gì thuộc về tự nhiên."
+  },
+  "comments": [
+    {
+      "id": "487",
+      "lang": "vi",
+      "content_html": "<p>Hạt mầm đâm chồi từ mặt <strong>đất</strong></p>",
+      "content_text": "Hạt mầm đâm chồi từ mặt\nđất",
+      "image_url": "https://jpdictionary.com/upload/images/629763e56b471.jpg",
+      "image_path": "assets/images/土_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152545",
+      "lang": "vi",
+      "content_html": "<p>Đất 土 là nơi cắm cây thập giá 十</p>",
+      "content_text": "Đất 土 là nơi cắm cây thập giá 十",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158440",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>土よう日 (どようび): Thứ Bảy</p>",
+      "content_text": "JLPT N5\n土よう日 (どようび): Thứ Bảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "土",
+      "reading": "つち",
+      "meaning": "đất"
+    },
+    {
+      "word": "冥土の土産",
+      "reading": "めいどのみやげ",
+      "meaning": "hàng mã"
+    },
+    {
+      "word": "土吉",
+      "reading": "つちよし",
+      "meaning": "dạng chữ \"吉\" có kết cấu như chữ “土”"
+    },
+    {
+      "word": "土曜",
+      "reading": "どよう",
+      "meaning": "thứ bảy"
+    },
+    {
+      "word": "日土",
+      "reading": "にっと",
+      "meaning": "nhật bản và thổ nhĩ kỳ"
+    },
+    {
+      "word": "土星",
+      "reading": "どせい",
+      "meaning": "sao thổ"
+    },
+    {
+      "word": "焼土",
+      "reading": "しょうど",
+      "meaning": "đất sét nung"
+    },
+    {
+      "word": "国土",
+      "reading": "こくど",
+      "meaning": "đất đai"
+    },
+    {
+      "word": "土釜",
+      "reading": "どがま",
+      "meaning": "bếp gạo bằng đất"
+    },
+    {
+      "word": "土蛙",
+      "reading": "つちがえる",
+      "meaning": "ếch đất"
+    }
+  ]
+}

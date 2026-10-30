@@ -1,0 +1,82 @@
+{
+  "kanji": "焔",
+  "meta": {
+    "weight": 1655,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "ほのお"
+    ],
+    "am_han": "DIỄM"
+  },
+  "meaning": {
+    "vi": "ngọn lửa",
+    "en": "flame, blaze"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/焔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "467",
+    "text": "焔 (đọc là \"en\") có nghĩa là \"lửa\", thường chỉ đến ngọn lửa hoặc ánh sáng của lửa, thể hiện sức mạnh và sự tỏa sáng."
+  },
+  "comments": [
+    {
+      "id": "220020",
+      "lang": "vi",
+      "content_html": "<p>Ngon lửa (ク) Cứ cháy suốt 1 ngày</p>",
+      "content_text": "Ngon lửa (ク) Cứ cháy suốt 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "焔",
+      "reading": "ほのお",
+      "meaning": "cháy"
+    },
+    {
+      "word": "光焔",
+      "reading": "こうえん",
+      "meaning": "ngọn lửa và nhẹ"
+    },
+    {
+      "word": "焔硝",
+      "reading": "えんしょう",
+      "meaning": "thuốc súng"
+    },
+    {
+      "word": "情焔",
+      "reading": "じょうえん",
+      "meaning": "đốt cháy những cảm xúc mạnh mẽ"
+    },
+    {
+      "word": "火焔",
+      "reading": "かえん",
+      "meaning": "cháy"
+    },
+    {
+      "word": "気焔万丈",
+      "reading": "きえんばんじょう",
+      "meaning": "sự hưng phấn"
+    }
+  ]
+}

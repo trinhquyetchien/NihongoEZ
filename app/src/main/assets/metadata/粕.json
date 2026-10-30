@@ -1,0 +1,84 @@
+{
+  "kanji": "粕",
+  "meta": {
+    "weight": 2029,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "かす"
+    ],
+    "am_han": "PHÁCH"
+  },
+  "meaning": {
+    "vi": "phế liệu, phế thải",
+    "en": "scrap, waste"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粕.svg"
+  },
+  "frequency": 1905,
+  "examples": [],
+  "explanation": {
+    "id": "6337",
+    "text": "粕 (đọc là \"kasu\") có nghĩa là \"bã\", \"cặn\" để chỉ các phần còn lại sau khi chế biến, thường dùng trong ngành thực phẩm và đồ uống."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "粕",
+      "reading": "かす",
+      "meaning": "cặn bã、rác rưởi"
+    },
+    {
+      "word": "〆粕",
+      "reading": "しめかす",
+      "meaning": "bã cá"
+    },
+    {
+      "word": "豆粕",
+      "reading": "まめかす",
+      "meaning": "xác đậu nành sau khi vắt lấy dầu"
+    },
+    {
+      "word": "粕汁",
+      "reading": "かすじる",
+      "meaning": "xúp làm với mục đích những chỗ chắn gió"
+    },
+    {
+      "word": "油粕",
+      "reading": "あぶらかす",
+      "meaning": "bánh khô dầu"
+    },
+    {
+      "word": "酒粕",
+      "reading": "さけかす",
+      "meaning": "bã rượu"
+    },
+    {
+      "word": "糟粕",
+      "reading": "そうはく",
+      "meaning": "cặn rượu sake"
+    },
+    {
+      "word": "荒粕",
+      "reading": "あらかす",
+      "meaning": "phân bón cho cá"
+    },
+    {
+      "word": "鰊粕",
+      "reading": "にしんかす",
+      "meaning": "cá trích luộc khô và ép"
+    },
+    {
+      "word": "甘粕",
+      "reading": "あまかす",
+      "meaning": "rượu sake đậm"
+    }
+  ]
+}

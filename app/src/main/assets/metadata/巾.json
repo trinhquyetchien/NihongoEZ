@@ -1,0 +1,122 @@
+{
+  "kanji": "巾",
+  "meta": {
+    "weight": 828,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン",
+      "フク"
+    ],
+    "kun": [
+      "おお.い",
+      "ちきり",
+      "きれ"
+    ],
+    "am_han": "CÂN"
+  },
+  "meaning": {
+    "vi": "khăn, cuộn treo, chiều rộng, gốc vải (số 50)",
+    "en": "towel, hanging scroll, width, cloth radical (no. 50)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/巾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1751",
+    "text": "巾 (đọc là \"kin\") có nghĩa là \"khăn\" hoặc \"vải\", thường dùng để chỉ các loại vải mỏng hoặc khăn."
+  },
+  "comments": [
+    {
+      "id": "219395",
+      "lang": "vi",
+      "content_html": "<p>Đeo cái khăn rất cân đối</p>",
+      "content_text": "Đeo cái khăn rất cân đối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219396",
+      "lang": "vi",
+      "content_html": "<p>Cân thăng bằng Cái Khăn đĩa phải.</p>",
+      "content_text": "Cân thăng bằng Cái Khăn đĩa phải.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "巾",
+      "reading": "はば",
+      "meaning": "khăn ăn"
+    },
+    {
+      "word": "巾偏",
+      "reading": "はばへん",
+      "meaning": "bộ thủ cân 巾 trong chữ hán"
+    },
+    {
+      "word": "金巾",
+      "reading": "カナキン",
+      "meaning": "vải vàng"
+    },
+    {
+      "word": "手巾",
+      "reading": "しゅきん",
+      "meaning": "khăn tay"
+    },
+    {
+      "word": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "giẻ"
+    },
+    {
+      "word": "茶巾",
+      "reading": "ちゃきん",
+      "meaning": "khăn để lau tách uống trà"
+    },
+    {
+      "word": "布巾",
+      "reading": "ふきん",
+      "meaning": "khăn lau"
+    },
+    {
+      "word": "巾着",
+      "reading": "きんちゃく",
+      "meaning": "túi đựng tiền"
+    },
+    {
+      "word": "並巾",
+      "reading": "なみはば",
+      "meaning": "khổ vải có chiều rộng chuẩn"
+    },
+    {
+      "word": "肩巾",
+      "reading": "ひれ",
+      "meaning": "khăn choàng"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "kanji": "撰",
+  "meta": {
+    "weight": 1157,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "セン"
+    ],
+    "kun": [
+      "せん.する",
+      "えら.む",
+      "えら.ぶ"
+    ],
+    "am_han": "SOẠN, TUYỂN, CHUYỂN"
+  },
+  "meaning": {
+    "vi": "soạn thảo, biên tập, biên dịch, chọn lọc",
+    "en": "composing, editing, compiling, selecting"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4499",
+    "text": "撰 (đọc là \"sen\") có nghĩa là \"biên soạn\", \"chọn lọc\" để chỉ các hành động liên quan đến việc chọn lựa, biên tập hoặc viết ra tài liệu."
+  },
+  "comments": [
+    {
+      "id": "219663",
+      "lang": "vi",
+      "content_html": "<p>Hai tay cùng nhau lựa chọn.</p>",
+      "content_text": "Hai tay cùng nhau lựa chọn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219664",
+      "lang": "vi",
+      "content_html": "<p>Tay được tuyển chọn sẽ làm bộ phận biên SOẠN</p>",
+      "content_text": "Tay được tuyển chọn sẽ làm bộ phận biên SOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219665",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay TUYỂN 2 con vịt trong (共) 8 miếng đất nuôi vịt .</p>",
+      "content_text": "Dùng tay TUYỂN 2 con vịt trong (共) 8 miếng đất nuôi vịt .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "撰",
+      "reading": "せん",
+      "meaning": "tuyển tập"
+    },
+    {
+      "word": "勅撰",
+      "reading": "ちょくせん",
+      "meaning": "sự biên soạn cho hoàng đế"
+    },
+    {
+      "word": "杜撰",
+      "reading": "ずさん",
+      "meaning": "không cẩn thận"
+    },
+    {
+      "word": "修撰",
+      "reading": "しゅうせん",
+      "meaning": "biên dịch"
+    },
+    {
+      "word": "特撰",
+      "reading": "とくせん",
+      "meaning": "sự lựa chọn đặc biệt"
+    },
+    {
+      "word": "官撰",
+      "reading": "かんせん",
+      "meaning": "sự biên soạn chính phủ"
+    },
+    {
+      "word": "撰録",
+      "reading": "せんろく",
+      "meaning": "biên tập"
+    },
+    {
+      "word": "撰修",
+      "reading": "せんしゅう",
+      "meaning": "biên tập"
+    },
+    {
+      "word": "撰述",
+      "reading": "せんじゅつ",
+      "meaning": "biên tập"
+    },
+    {
+      "word": "撰者",
+      "reading": "せんじゃ",
+      "meaning": "biên tập viên"
+    }
+  ]
+}

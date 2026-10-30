@@ -1,0 +1,142 @@
+{
+  "kanji": "麦",
+  "meta": {
+    "weight": 3020,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク"
+    ],
+    "kun": [
+      "むぎ"
+    ],
+    "am_han": "MẠCH"
+  },
+  "meaning": {
+    "vi": "lúa mạch",
+    "en": "barley, wheat"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/麦.svg"
+  },
+  "frequency": 1615,
+  "examples": [
+    "蕎麦",
+    "麦",
+    "小麦",
+    "小麦粉",
+    "大麦"
+  ],
+  "explanation": {
+    "id": "6365",
+    "text": "麦 (đọc là \"baku\" hoặc \"mugi\") có nghĩa là \"lúa mì\" để chỉ các loại ngũ cốc, đặc biệt là lúa mì và các sản phẩm liên quan."
+  },
+  "comments": [
+    {
+      "id": "158091",
+      "lang": "vi",
+      "content_html": "<p>một (Nhất) bông LÚA MẠCH ở trên đất (THỔ) hạt nặng trũi ngả về phía sau (TRUY)</p>",
+      "content_text": "một (Nhất) bông LÚA MẠCH ở trên đất (THỔ) hạt nặng trũi ngả về phía sau (TRUY)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158092",
+      "lang": "vi",
+      "content_html": "<p>Bọn chủ theo sau đến lấy lúa mạch</p>",
+      "content_text": "Bọn chủ theo sau đến lấy lúa mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158093",
+      "lang": "vi",
+      "content_html": "<p>Ông vua (王) lòi đầu Truy (夂) tìm lúa Mạch (麦)</p>",
+      "content_text": "Ông vua (王) lòi đầu Truy (夂) tìm lúa Mạch (麦)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "麦",
+      "reading": "むぎ",
+      "meaning": "lúa mạch"
+    },
+    {
+      "word": "小麦",
+      "reading": "こむぎ",
+      "meaning": "lúa mì"
+    },
+    {
+      "word": "烏麦",
+      "reading": "からすむぎ",
+      "meaning": "yến mạch"
+    },
+    {
+      "word": "ライ麦",
+      "reading": "ライむぎ",
+      "meaning": "lúa mạch đen"
+    },
+    {
+      "word": "真麦",
+      "reading": "まむぎ",
+      "meaning": "cây lúa mì"
+    },
+    {
+      "word": "麦類",
+      "reading": "むぎるい",
+      "meaning": "các loại lúa mạch"
+    },
+    {
+      "word": "麦隴",
+      "reading": "ばくろう",
+      "meaning": "cánh đồng lúa mạch"
+    },
+    {
+      "word": "オート麦",
+      "reading": "オートむぎ",
+      "meaning": "yến mạch"
+    },
+    {
+      "word": "麦球",
+      "reading": "むぎきゅう",
+      "meaning": "bóng đèn mini"
+    },
+    {
+      "word": "麦汁",
+      "reading": "ばくじゅう",
+      "meaning": "một chất lỏng chứa đường mạch nha được sản xuất trong quá trình đường hóa của quá trình nấu bia"
+    }
+  ]
+}

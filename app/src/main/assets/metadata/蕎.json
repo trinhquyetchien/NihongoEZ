@@ -1,0 +1,119 @@
+{
+  "kanji": "蕎",
+  "meta": {
+    "weight": 2343,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "そば"
+    ],
+    "am_han": "KIỀU"
+  },
+  "meaning": {
+    "vi": "kiều mạch",
+    "en": "buckwheat"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1698",
+    "text": "蕎 (đọc là \"kyō\") có nghĩa là \"kiều mạch\", loại ngũ cốc thường dùng để làm mì soba trong ẩm thực Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "220576",
+      "lang": "vi",
+      "content_html": "<p>Nàng Kiều ở trên lầu cao, tay cầm cỏ và lúa</p>",
+      "content_text": "Nàng Kiều ở trên lầu cao, tay cầm cỏ và lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220577",
+      "lang": "vi",
+      "content_html": "<p>Cỏ hoa trên trời cao lấy về trồng làm lúa KIỀU mạch</p>",
+      "content_text": "Cỏ hoa trên trời cao lấy về trồng làm lúa KIỀU mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蕎麦",
+      "reading": "そば",
+      "meaning": "mỳ soba"
+    },
+    {
+      "word": "藪蕎麦",
+      "reading": "やぶそば",
+      "meaning": "mì soba được làm từ bột soba có màu xanh nhạt"
+    },
+    {
+      "word": "蕎麦殻",
+      "reading": "そばがら",
+      "meaning": "vỏ trấu của kiều mạch"
+    },
+    {
+      "word": "狸蕎麦",
+      "reading": "たぬきそば",
+      "meaning": "soba với bột bánh tempura"
+    },
+    {
+      "word": "生蕎麦",
+      "reading": "きそば",
+      "meaning": "mì sợi lúa mạch đen"
+    },
+    {
+      "word": "蕎麦粉",
+      "reading": "そばこ",
+      "meaning": "bột lúa mạch"
+    },
+    {
+      "word": "鰊蕎麦",
+      "reading": "にしんそば",
+      "meaning": "soba trong nước dùng nóng"
+    },
+    {
+      "word": "新蕎麦",
+      "reading": "しんそば",
+      "meaning": "hạt kiều mạch mới thu hoạch"
+    },
+    {
+      "word": "蕎麦屋",
+      "reading": "そばや",
+      "meaning": "nhà hàng chuyên mỳ soba"
+    },
+    {
+      "word": "蕎麦ボーロ",
+      "reading": "そばボーロ",
+      "meaning": "bánh cookie kiều mạch"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "kanji": "十",
+  "meta": {
+    "weight": 384,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ"
+    ],
+    "kun": [
+      "とお",
+      "と",
+      "そ"
+    ],
+    "am_han": "THẬP"
+  },
+  "meaning": {
+    "vi": "mười",
+    "en": "ten"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/十.svg"
+  },
+  "frequency": 8,
+  "examples": [
+    "十",
+    "十分",
+    "不十分",
+    "十月",
+    "十二月"
+  ],
+  "explanation": {
+    "id": "3553",
+    "text": "十 (đọc là \"juu\" hoặc \"to\") có nghĩa là \"mười\", dùng để chỉ số lượng hay thứ tự trong đếm."
+  },
+  "comments": [
+    {
+      "id": "460",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta hãy bó 10 que lại.</p>",
+      "content_text": "Chúng ta hãy bó 10 que lại.",
+      "image_url": "https://jpdictionary.com/upload/images/6297604a30c01.jpg",
+      "image_path": "assets/images/十_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158215",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>十 (じゅう): 10</p><p>二十歳 (はたち): 20 tuổi</p>",
+      "content_text": "JLPT N5\n十 (じゅう): 10\n二十歳 (はたち): 20 tuổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "mười"
+    },
+    {
+      "word": "十人十色",
+      "reading": "じゅうにんといろ",
+      "meaning": "mười người mười vẻ"
+    },
+    {
+      "word": "十月十日",
+      "reading": "とつきとおか",
+      "meaning": "mười tháng mười ngày"
+    },
+    {
+      "word": "十重二十重",
+      "reading": "とえはたえ",
+      "meaning": "vô số"
+    },
+    {
+      "word": "十薬",
+      "reading": "じゅうやく",
+      "meaning": "cây tắc kè"
+    },
+    {
+      "word": "十字",
+      "reading": "じゅうじ",
+      "meaning": "hình chữ thập"
+    },
+    {
+      "word": "十億",
+      "reading": "じゅうおく",
+      "meaning": "000"
+    },
+    {
+      "word": "十五",
+      "reading": "じゅうご",
+      "meaning": "mười lăm"
+    },
+    {
+      "word": "十八",
+      "reading": "じゅうはち",
+      "meaning": "mười tám"
+    },
+    {
+      "word": "十二",
+      "reading": "じゅうに",
+      "meaning": "mười hai"
+    }
+  ]
+}

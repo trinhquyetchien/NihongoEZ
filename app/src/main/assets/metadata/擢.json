@@ -1,0 +1,46 @@
+{
+  "kanji": "擢",
+  "meta": {
+    "weight": 1162,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ",
+      "タク"
+    ],
+    "kun": [
+      "ぬ.く",
+      "ぬき.んでる"
+    ],
+    "am_han": "TRẠC"
+  },
+  "meaning": {
+    "vi": "vượt trội, vượt qua, kéo ra ngoài, chọn lọc",
+    "en": "excel in, surpass, pull out, select"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/擢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5617",
+    "text": "擢 (đọc là \"taku\") có nghĩa là \"nâng cao,\" \"thăng chức\" hoặc \"bổ nhiệm.\" Chữ này thường chỉ sự thăng tiến trong công việc hoặc vị thế."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "抜擢",
+      "reading": "ばってき",
+      "meaning": "sự lựa chọn từ nhiều người ra người phù hợp cho một công việc quan trọng hay chức vụ nào đó"
+    },
+    {
+      "word": "抜擢する",
+      "reading": "ばってきする",
+      "meaning": "đề bạt"
+    }
+  ]
+}

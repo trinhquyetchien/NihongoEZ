@@ -1,0 +1,138 @@
+{
+  "kanji": "虹",
+  "meta": {
+    "weight": 2372,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "にじ"
+    ],
+    "am_han": "HỒNG"
+  },
+  "meaning": {
+    "vi": "cầu vồng",
+    "en": "rainbow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/虹.svg"
+  },
+  "frequency": 2110,
+  "examples": [
+    "虹"
+  ],
+  "explanation": {
+    "id": "6105",
+    "text": "虹 (đọc là \"niji\") có nghĩa là \"cầu vồng\", chỉ hiện tượng ánh sáng tạo ra từ nước và ánh sáng mặt trời, thường mang ý nghĩa của sắc màu và vẻ đẹp."
+  },
+  "comments": [
+    {
+      "id": "156658",
+      "lang": "vi",
+      "content_html": "<p>con Côn Trùng ở Công trường có màu Hồng như Cầu Vồng.</p>",
+      "content_text": "con Côn Trùng ở Công trường có màu Hồng như Cầu Vồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156659",
+      "lang": "vi",
+      "content_html": "<p>Con CÔN TRÙNG mầu HỒNG nhìn giống CẦU VỒNG</p>",
+      "content_text": "Con CÔN TRÙNG mầu HỒNG nhìn giống CẦU VỒNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156660",
+      "lang": "vi",
+      "content_html": "<p>欠虹: けつこう : cầu vồng khuyết ^_^</p>",
+      "content_text": "欠虹: けつこう : cầu vồng khuyết ^_^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "虹",
+      "reading": "にじ",
+      "meaning": "cầu vồng"
+    },
+    {
+      "word": "白虹",
+      "reading": "はっこう",
+      "meaning": "cầu vồng trắng"
+    },
+    {
+      "word": "虹霓",
+      "reading": "こうげい",
+      "meaning": "kỹ thuật công nghiệp"
+    },
+    {
+      "word": "虹色",
+      "reading": "にじいろ",
+      "meaning": "màu cầu vồng"
+    },
+    {
+      "word": "虹彩",
+      "reading": "こうさい",
+      "meaning": "tròng đen"
+    },
+    {
+      "word": "副虹",
+      "reading": "ふくにじ",
+      "meaning": "cầu vồng thứ nhì"
+    },
+    {
+      "word": "主虹",
+      "reading": "しゅにじ",
+      "meaning": "cầu vồng sơ cấp"
+    },
+    {
+      "word": "霧虹",
+      "reading": "きりにじ",
+      "meaning": "cầu vồng trắng"
+    },
+    {
+      "word": "月虹",
+      "reading": "げっこう",
+      "meaning": "một cầu vồng được tạo ra bởi ánh sáng của mặt trăng"
+    },
+    {
+      "word": "虹梁",
+      "reading": "こうりょう",
+      "meaning": "dầm vòm dùng trong xây dựng đền chùa"
+    }
+  ]
+}

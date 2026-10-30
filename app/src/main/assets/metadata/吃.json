@@ -1,0 +1,119 @@
+{
+  "kanji": "吃",
+  "meta": {
+    "weight": 446,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ"
+    ],
+    "kun": [
+      "ども.る"
+    ],
+    "am_han": "CẬT"
+  },
+  "meaning": {
+    "vi": "nói lắp bắp",
+    "en": "stammer"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1460",
+    "text": "吃 (đọc là \"shoku\" hoặc \"katsu\") có nghĩa là \"ăn\", chỉ các hành động liên quan đến việc tiêu thụ thực phẩm."
+  },
+  "comments": [
+    {
+      "id": "219071",
+      "lang": "vi",
+      "content_html": "<p>Không Khí vào Miệng k đều sẽ bị Nấc</p>",
+      "content_text": "Không Khí vào Miệng k đều sẽ bị Nấc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219072",
+      "lang": "vi",
+      "content_html": "<p>Miệng nằm chữ Z nói lắp bắp Cật Cật</p>",
+      "content_text": "Miệng nằm chữ Z nói lắp bắp Cật Cật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "吃",
+      "reading": "チー",
+      "meaning": "hành động lấy một quân bài đối thủ vừa đánh ra để tạo bộ ba quân liên tiếp"
+    },
+    {
+      "word": "吃り",
+      "reading": "どもり",
+      "meaning": "bệnh cà lăm"
+    },
+    {
+      "word": "吃る",
+      "reading": "どもる",
+      "meaning": "nói lắp"
+    },
+    {
+      "word": "吃音",
+      "reading": "きつおん",
+      "meaning": "sự nói lắp"
+    },
+    {
+      "word": "吃逆",
+      "reading": "しゃっくり",
+      "meaning": "sự nấc cụt"
+    },
+    {
+      "word": "吃水",
+      "reading": "きっすい",
+      "meaning": "khoảng cách từ mặt nước đến đáy thuyền"
+    },
+    {
+      "word": "吃緊",
+      "reading": "きっきん",
+      "meaning": "khẩn cấp và quan trọng"
+    },
+    {
+      "word": "吃驚",
+      "reading": "びっくり",
+      "meaning": "ngạc nhiên"
+    },
+    {
+      "word": "吃音症",
+      "reading": "きつおんしょう",
+      "meaning": "nói lắp"
+    },
+    {
+      "word": "載貨吃水",
+      "reading": "さいかきっすい",
+      "meaning": "mức cấn nước cho phép của tải trọng hàng hóa trên tàu thủy"
+    }
+  ]
+}

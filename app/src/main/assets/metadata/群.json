@@ -1,0 +1,145 @@
+{
+  "kanji": "群",
+  "meta": {
+    "weight": 2134,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "am_han": "QUẦN"
+  },
+  "meaning": {
+    "vi": "quần chúng, quần thể",
+    "en": "flock, group, crowd, herd, swarm, cluster"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/群.svg"
+  },
+  "frequency": 1012,
+  "examples": [
+    "群",
+    "症候群",
+    "抜群",
+    "群馬",
+    "群れ"
+  ],
+  "explanation": {
+    "id": "1914",
+    "text": "群 (đọc là \"gun\") có nghĩa là \"đám đông\", \"nhóm\" để chỉ sự tập hợp của nhiều cá thể hoặc vật thể."
+  },
+  "comments": [
+    {
+      "id": "156196",
+      "lang": "vi",
+      "content_html": "<p>quân lính và bầy dê là diễn viên QUẦN chúng</p>",
+      "content_text": "quân lính và bầy dê là diễn viên QUẦN chúng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156197",
+      "lang": "vi",
+      "content_html": "<p>Quần thể quân dương</p>",
+      "content_text": "Quần thể quân dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156198",
+      "lang": "vi",
+      "content_html": "<p>dê núi sống quần thể.</p>",
+      "content_text": "dê núi sống quần thể.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "群",
+      "reading": "ぐん",
+      "meaning": "nhóm"
+    },
+    {
+      "word": "蜂群崩壊症候群",
+      "reading": "ほうぐんほうかいしょうこうぐん",
+      "meaning": "chứng rối loạn sụt giảm bầy đàn"
+    },
+    {
+      "word": "半群",
+      "reading": "はんぐん",
+      "meaning": "nửa nhóm"
+    },
+    {
+      "word": "群生",
+      "reading": "ぐんせい",
+      "meaning": "nhiều người"
+    },
+    {
+      "word": "一群",
+      "reading": "いちぐん",
+      "meaning": "nhóm"
+    },
+    {
+      "word": "加群",
+      "reading": "かぐん",
+      "meaning": "nhóm cộng"
+    },
+    {
+      "word": "群書",
+      "reading": "ぐんしょ",
+      "meaning": "nhiều sách"
+    },
+    {
+      "word": "群像",
+      "reading": "ぐんぞう",
+      "meaning": "quần tượng"
+    },
+    {
+      "word": "群島",
+      "reading": "ぐんとう",
+      "meaning": "quần đảo"
+    },
+    {
+      "word": "群体",
+      "reading": "ぐんたい",
+      "meaning": "tập thể"
+    }
+  ]
+}

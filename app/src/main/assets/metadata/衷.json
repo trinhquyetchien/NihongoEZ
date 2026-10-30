@@ -1,0 +1,119 @@
+{
+  "kanji": "衷",
+  "meta": {
+    "weight": 2411,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRUNG, TRÚNG"
+  },
+  "meaning": {
+    "vi": "tận cùng, trái tim, tâm trí, bên trong",
+    "en": "inmost, heart, mind, inside"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/衷.svg"
+  },
+  "frequency": 2229,
+  "examples": [
+    "折衷"
+  ],
+  "explanation": {
+    "id": "5295",
+    "text": "衷 (đọc là \"chuu\") có nghĩa là \"trong lòng\", \"tâm tư\" để chỉ những cảm xúc, suy nghĩ bên trong của con người."
+  },
+  "comments": [
+    {
+      "id": "156724",
+      "lang": "vi",
+      "content_html": "<p>người mặc áo quan luôn TRung thành, hỏi 10 lần cũng không khai</p>",
+      "content_text": "người mặc áo quan luôn TRung thành, hỏi 10 lần cũng không khai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156725",
+      "lang": "vi",
+      "content_html": "<p>những cảm xúc trong 中 lòng được giữ ở bên trong y phục 衣 (của mình)</p>",
+      "content_text": "những cảm xúc trong 中 lòng được giữ ở bên trong y phục 衣 (của mình)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "衷心",
+      "reading": "ちゅうしん",
+      "meaning": "sự thật tâm"
+    },
+    {
+      "word": "衷情",
+      "reading": "ちゅうじょう",
+      "meaning": "sự thật tâm"
+    },
+    {
+      "word": "微衷",
+      "reading": "びちゅう",
+      "meaning": "một có những tư duy ở trong cùng"
+    },
+    {
+      "word": "苦衷",
+      "reading": "くちゅう",
+      "meaning": "sự đau lòng"
+    },
+    {
+      "word": "折衷",
+      "reading": "せっちゅう",
+      "meaning": "sự pha tạp"
+    },
+    {
+      "word": "折衷尺",
+      "reading": "せっちゅうじゃく",
+      "meaning": "thước shaku điều chỉnh"
+    },
+    {
+      "word": "折衷案",
+      "reading": "せっちゅうあん",
+      "meaning": "thỏa hiệp đề nghị"
+    },
+    {
+      "word": "雅俗折衷",
+      "reading": "がぞくせっちゅう",
+      "meaning": "phong cách kết hợp ngôn ngữ vừa thanh lịch vừa thông tục"
+    },
+    {
+      "word": "和衷協同",
+      "reading": "わちゅうきょうどう",
+      "meaning": "đồng tâm hiệp lực"
+    },
+    {
+      "word": "折衷主義",
+      "reading": "せっちゅうしゅぎ",
+      "meaning": "phép chiết trung"
+    }
+  ]
+}

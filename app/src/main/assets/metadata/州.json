@@ -1,0 +1,143 @@
+{
+  "kanji": "州",
+  "meta": {
+    "weight": 814,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ス"
+    ],
+    "kun": [
+      "す"
+    ],
+    "am_han": "CHÂU"
+  },
+  "meaning": {
+    "vi": "tiểu bang, tỉnh",
+    "en": "state, province"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/州.svg"
+  },
+  "frequency": 386,
+  "examples": [
+    "州",
+    "欧州",
+    "九州",
+    "北九州",
+    "満州"
+  ],
+  "explanation": {
+    "id": "3478",
+    "text": "州 (đọc là \"shuu\") có nghĩa là \"tỉnh\", \"bang\" hoặc \"khu vực\" để chỉ các đơn vị hành chính hoặc vùng lãnh thổ."
+  },
+  "comments": [
+    {
+      "id": "153192",
+      "lang": "vi",
+      "content_html": "<p>Những dòng SÔNG ở các CHÂU lục đều có nhiều CÁT</p>",
+      "content_text": "Những dòng SÔNG ở các CHÂU lục đều có nhiều CÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153193",
+      "lang": "vi",
+      "content_html": "<p>Các CHÂU lục lấy SÔNG làm mốc để phân chia</p>",
+      "content_text": "Các CHÂU lục lấy SÔNG làm mốc để phân chia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153194",
+      "lang": "vi",
+      "content_html": "<p>Dưới sông có 3 viên Châu báu</p>",
+      "content_text": "Dưới sông có 3 viên Châu báu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "州",
+      "reading": "しゅう",
+      "meaning": "bang"
+    },
+    {
+      "word": "州州",
+      "reading": "しゅうしゅう",
+      "meaning": "mỗi trạng thái"
+    },
+    {
+      "word": "氷州",
+      "reading": "ひょうしゅう",
+      "meaning": "nước iceland"
+    },
+    {
+      "word": "アメリカ州",
+      "reading": "アメリカしゅう",
+      "meaning": "châu mỹ"
+    },
+    {
+      "word": "広州",
+      "reading": "こうしゅう",
+      "meaning": "quảng châu"
+    },
+    {
+      "word": "九州",
+      "reading": "きゅうしゅう",
+      "meaning": "kyushyu"
+    },
+    {
+      "word": "州都",
+      "reading": "しゅうと",
+      "meaning": "thành phố của một bang"
+    },
+    {
+      "word": "八州",
+      "reading": "はっしゅう",
+      "meaning": "bổ nhiệm) nhật bản"
+    },
+    {
+      "word": "米州",
+      "reading": "べいしゅう",
+      "meaning": "châu mỹ"
+    },
+    {
+      "word": "他州",
+      "reading": "たしゅう",
+      "meaning": "quốc gia khác"
+    }
+  ]
+}

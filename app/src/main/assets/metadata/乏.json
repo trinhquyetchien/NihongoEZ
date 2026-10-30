@@ -1,0 +1,143 @@
+{
+  "kanji": "乏",
+  "meta": {
+    "weight": 99,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "とぼ.しい",
+      "とも.しい"
+    ],
+    "am_han": "PHẠP"
+  },
+  "meaning": {
+    "vi": "thiếu thốn, khan hiếm, hạn chế",
+    "en": "destitution, scarce, limited"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/乏.svg"
+  },
+  "frequency": 1646,
+  "examples": [
+    "貧乏",
+    "乏しい",
+    "貧乏人",
+    "欠乏",
+    "窮乏"
+  ],
+  "explanation": {
+    "id": "7241",
+    "text": "乏 (đọc là \"baku\" hoặc \"hō\") có nghĩa là \"thiếu thốn\", \"khan hiếm\" để chỉ trạng thái thiếu hụt hoặc không đủ."
+  },
+  "comments": [
+    {
+      "id": "151449",
+      "lang": "vi",
+      "content_html": "<p>Khốn cùng thở dài phộp phạp Zzz</p>",
+      "content_text": "Khốn cùng thở dài phộp phạp Zzz",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151450",
+      "lang": "vi",
+      "content_html": "<p>Z là chữ cuối trong bảng chữ cái tiếng anh, tôi đã đến tận cùng rồi, khốn cùng.</p>",
+      "content_text": "Z là chữ cuối trong bảng chữ cái tiếng anh, tôi đã đến tận cùng rồi, khốn cùng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151451",
+      "lang": "vi",
+      "content_html": "<p>Cứ lên tàu là bị say sóng mệt thở phộp phạp</p>",
+      "content_text": "Cứ lên tàu là bị say sóng mệt thở phộp phạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "欠乏",
+      "reading": "けつぼう",
+      "meaning": "sự thiếu hụt"
+    },
+    {
+      "word": "窮乏",
+      "reading": "きゅうぼう",
+      "meaning": "sự cùng khốn"
+    },
+    {
+      "word": "耐乏",
+      "reading": "たいぼう",
+      "meaning": "sự nhịn đói khát"
+    },
+    {
+      "word": "貧乏",
+      "reading": "びんぼう",
+      "meaning": "bần cùng"
+    },
+    {
+      "word": "乏尿",
+      "reading": "ぼうにょう",
+      "meaning": "oliguria"
+    },
+    {
+      "word": "乏しき",
+      "reading": "とぼしき",
+      "meaning": "sự nghèo khổ"
+    },
+    {
+      "word": "空乏層",
+      "reading": "くうぼうそう",
+      "meaning": "lớp suy giảm"
+    },
+    {
+      "word": "貧乏性",
+      "reading": "びんぼうしょう",
+      "meaning": "tính keo kiệt"
+    },
+    {
+      "word": "貧乏神",
+      "reading": "びんぼうがみ",
+      "meaning": "thần đói nghèo"
+    },
+    {
+      "word": "貧乏籤",
+      "reading": "びんぼうくじ",
+      "meaning": "vẽ một để trống hoặc một lot không may"
+    }
+  ]
+}

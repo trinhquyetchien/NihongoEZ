@@ -1,0 +1,144 @@
+{
+  "kanji": "塗",
+  "meta": {
+    "weight": 587,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "ぬ.る",
+      "ぬ.り",
+      "まみ.れる"
+    ],
+    "am_han": "ĐỒ"
+  },
+  "meaning": {
+    "vi": "sơn",
+    "en": "paint, plaster, daub, smear, coating"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塗.svg"
+  },
+  "frequency": 1414,
+  "examples": [
+    "塗装",
+    "塗り",
+    "塗料",
+    "塗る",
+    "塗"
+  ],
+  "explanation": {
+    "id": "5706",
+    "text": "塗 (đọc là \"to\") có nghĩa là \"sơn\", \"bôi\" để chỉ các hành động liên quan đến việc sơn, bôi hoặc phủ một lớp chất lỏng lên bề mặt."
+  },
+  "comments": [
+    {
+      "id": "152648",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa người ta thường đổ DƯ một chút NƯỚC vào ĐẤT cho nhão ra rồi đem chát, bôi vào đồ sứ để tạo mầu</p>",
+      "content_text": "Ngày xưa người ta thường đổ DƯ một chút NƯỚC vào ĐẤT cho nhão ra rồi đem chát, bôi vào đồ sứ để tạo mầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152649",
+      "lang": "vi",
+      "content_html": "<p>đất dư nước là bùn dùng bùn để đồ sơn phết.</p>",
+      "content_text": "đất dư nước là bùn dùng bùn để đồ sơn phết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152650",
+      "lang": "vi",
+      "content_html": "<p>lấy đất trộn nước đồ lên môi</p>",
+      "content_text": "lấy đất trộn nước đồ lên môi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "塗膜",
+      "reading": "とまく",
+      "meaning": "màng sơn"
+    },
+    {
+      "word": "血塗",
+      "reading": "ちみどろ",
+      "meaning": "nhuốm máu"
+    },
+    {
+      "word": "塗る",
+      "reading": "ぬる",
+      "meaning": "bôi"
+    },
+    {
+      "word": "塗れ",
+      "reading": "まみれ",
+      "meaning": "phủ đầy"
+    },
+    {
+      "word": "塗り",
+      "reading": "ぬり",
+      "meaning": "phủ sơn"
+    },
+    {
+      "word": "塗工",
+      "reading": "とこう",
+      "meaning": "họa sĩ"
+    },
+    {
+      "word": "中塗",
+      "reading": "なかぬり",
+      "meaning": "sơn lớp giữa"
+    },
+    {
+      "word": "塗炭",
+      "reading": "とたん",
+      "meaning": "cảnh nghèo khổ"
+    },
+    {
+      "word": "塗抹",
+      "reading": "とまつ",
+      "meaning": "làm mờ"
+    },
+    {
+      "word": "上塗",
+      "reading": "うわぬり",
+      "meaning": "lần cuối trát vữa áo choàng"
+    }
+  ]
+}

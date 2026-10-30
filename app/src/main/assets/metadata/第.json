@@ -1,0 +1,141 @@
+{
+  "kanji": "第",
+  "meta": {
+    "weight": 1988,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ",
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "ĐỆ"
+  },
+  "meaning": {
+    "vi": "thứ, đệ nhất, đệ nhị",
+    "en": "No., residence"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/第.svg"
+  },
+  "frequency": 160,
+  "examples": [
+    "第",
+    "次第",
+    "第三者",
+    "次第に",
+    "第一歩"
+  ],
+  "explanation": {
+    "id": "5004",
+    "text": "第 (đọc là \"dai\" hoặc \"te\") có nghĩa là \"thứ\", \"bậc\" để chỉ thứ tự trong một danh sách hoặc phân loại."
+  },
+  "comments": [
+    {
+      "id": "155864",
+      "lang": "vi",
+      "content_html": "<p>Em trai đội trúc là đệ</p>",
+      "content_text": "Em trai đội trúc là đệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155865",
+      "lang": "vi",
+      "content_html": "<p>Thằng đệ đội trúc lên đầu</p>",
+      "content_text": "Thằng đệ đội trúc lên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155866",
+      "lang": "vi",
+      "content_html": "<p>Đệ nhất chặt tre vẫn là thằng đệ</p>",
+      "content_text": "Đệ nhất chặt tre vẫn là thằng đệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "第",
+      "reading": "だい",
+      "meaning": "thứ"
+    },
+    {
+      "word": "次第次第に",
+      "reading": "しだいしだいに",
+      "meaning": "dần dần"
+    },
+    {
+      "word": "落第",
+      "reading": "らくだい",
+      "meaning": "sự trượt"
+    },
+    {
+      "word": "第七",
+      "reading": "だいなな",
+      "meaning": "thứ bảy"
+    },
+    {
+      "word": "次第",
+      "reading": "しだい",
+      "meaning": "dần dần"
+    },
+    {
+      "word": "第四",
+      "reading": "だいよん",
+      "meaning": "thứ tư"
+    },
+    {
+      "word": "登第",
+      "reading": "とうだい",
+      "meaning": "sự thi đỗ"
+    },
+    {
+      "word": "第九",
+      "reading": "だいく",
+      "meaning": "bản giao hưởng số 9"
+    },
+    {
+      "word": "第六",
+      "reading": "だいろく",
+      "meaning": "thứ sáu"
+    },
+    {
+      "word": "第五",
+      "reading": "だいご",
+      "meaning": "thứ năm"
+    }
+  ]
+}

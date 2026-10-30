@@ -1,0 +1,129 @@
+{
+  "kanji": "惣",
+  "meta": {
+    "weight": 990,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "すべ.て"
+    ],
+    "am_han": "VẬT"
+  },
+  "meaning": {
+    "vi": "tất cả",
+    "en": "all"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/惣.svg"
+  },
+  "frequency": 2211,
+  "examples": [
+    "惣菜",
+    "惣"
+  ],
+  "explanation": {
+    "id": "4697",
+    "text": "惣 (đọc là \"sō\") có nghĩa là \"tổng thể\", \"toàn bộ\" để chỉ các khía cạnh liên quan đến việc tổng hợp hoặc tập hợp."
+  },
+  "comments": [
+    {
+      "id": "153637",
+      "lang": "vi",
+      "content_html": "<p>Loài VẬT nào có Tâm mới CAI TRỊ được thế giới</p>",
+      "content_text": "Loài VẬT nào có Tâm mới CAI TRỊ được thế giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153638",
+      "lang": "vi",
+      "content_html": "<p>Trâu bò là động VẬT đc lấy tim ăn thường ngày</p>",
+      "content_text": "Trâu bò là động VẬT đc lấy tim ăn thường ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153639",
+      "lang": "vi",
+      "content_html": "<p>chữ TỔNG</p>",
+      "content_text": "chữ TỔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "惣領",
+      "reading": "そうりょう",
+      "meaning": "chính phủ"
+    },
+    {
+      "word": "惣菜",
+      "reading": "そうざい",
+      "meaning": "món ăn thường ngày"
+    },
+    {
+      "word": "惣嫁",
+      "reading": "そうか",
+      "meaning": "streetwalker"
+    },
+    {
+      "word": "惣社",
+      "reading": "そうじゃ",
+      "meaning": "miếu thờ cất giữ thánh vật vài chúa trời"
+    },
+    {
+      "word": "惣管領",
+      "reading": "そうかんりょう",
+      "meaning": ""
+    },
+    {
+      "word": "惣領制",
+      "reading": "そうりょうせい",
+      "meaning": "hệ thống soryo"
+    },
+    {
+      "word": "惣菜店",
+      "reading": "そうざいてん",
+      "meaning": "cửa hàng bán đồ chế biến sẵn"
+    },
+    {
+      "word": "調理/惣菜缶詰",
+      "reading": "ちょうり/そうざいかんづめ",
+      "meaning": "đóng hộp thực phẩm chế biến sẵn / đồ ăn đóng hộp"
+    }
+  ]
+}

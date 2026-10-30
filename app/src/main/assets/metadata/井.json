@@ -1,0 +1,143 @@
+{
+  "kanji": "井",
+  "meta": {
+    "weight": 117,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "い"
+    ],
+    "am_han": "TỈNH"
+  },
+  "meaning": {
+    "vi": "tốt, cũi giếng, thị trấn, cộng đồng",
+    "en": "well, well crib, town, community"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/井.svg"
+  },
+  "frequency": 339,
+  "examples": [
+    "福井",
+    "天井",
+    "井",
+    "井戸",
+    "筒井"
+  ],
+  "explanation": {
+    "id": "194",
+    "text": "井 (đọc là \"sei\" hoặc \"ike\") có nghĩa là \"giếng\", chỉ nơi chứa nước để lấy nước sinh hoạt."
+  },
+  "comments": [
+    {
+      "id": "151491",
+      "lang": "vi",
+      "content_html": "<p>té GIẾNG bất TỈNH</p>",
+      "content_text": "té GIẾNG bất TỈNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151492",
+      "lang": "vi",
+      "content_html": "<p>4 phương 8 hướng, Tỉnh nào mà chả có Giếng</p>",
+      "content_text": "4 phương 8 hướng, Tỉnh nào mà chả có Giếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151493",
+      "lang": "vi",
+      "content_html": "<p>Lấy 2 que ngang 2 que dọc làm thành giếng để rửa mặt cho TỈNH ngủ</p>",
+      "content_text": "Lấy 2 que ngang 2 que dọc làm thành giếng để rửa mặt cho TỈNH ngủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "井",
+      "reading": "い",
+      "meaning": "cái giếng"
+    },
+    {
+      "word": "市井",
+      "reading": "しせい",
+      "meaning": "phố"
+    },
+    {
+      "word": "井筒",
+      "reading": "いづつ",
+      "meaning": "bờ rào quanh miệng giếng"
+    },
+    {
+      "word": "井守",
+      "reading": "いもり",
+      "meaning": "động vật bơi dưới nước giống thằn lằn. cơ thể có màu đen đến nâu nâu"
+    },
+    {
+      "word": "井綱",
+      "reading": "いづな",
+      "meaning": "tốt là dây thừng"
+    },
+    {
+      "word": "井底",
+      "reading": "せいてい",
+      "meaning": "đáy giếng"
+    },
+    {
+      "word": "井桁",
+      "reading": "いげた",
+      "meaning": "thành giếng"
+    },
+    {
+      "word": "井泉",
+      "reading": "せいせん",
+      "meaning": "giếng nước"
+    },
+    {
+      "word": "雲井",
+      "reading": "くもい",
+      "meaning": "bầu trời"
+    },
+    {
+      "word": "井堰",
+      "reading": "いせき",
+      "meaning": "cửa cống"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "kanji": "蚕",
+  "meta": {
+    "weight": 2375,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "テン"
+    ],
+    "kun": [
+      "かいこ",
+      "こ"
+    ],
+    "am_han": "TÀM"
+  },
+  "meaning": {
+    "vi": "con tằm",
+    "en": "silkworm"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/蚕.svg"
+  },
+  "frequency": 2272,
+  "examples": [
+    "蚕",
+    "養蚕"
+  ],
+  "explanation": {
+    "id": "3014",
+    "text": "蚕 (đọc là \"san\") có nghĩa là \"con tằm\", chỉ loài sâu bướm dùng để sản xuất tơ tằm."
+  },
+  "comments": [
+    {
+      "id": "156664",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng của trời là con tằm</p>",
+      "content_text": "Côn trùng của trời là con tằm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156665",
+      "lang": "vi",
+      "content_html": "<p>hà nội có khu  nghi tàm :Theo cuốn “Hà Nội nghìn xưa” của tác giả Trần Quốc Vượng và Vũ Tuấn Sán thì làng Nghi Tàm xưa kia “ngàn dâu xanh ngắt một màu” chạy suốt bờ đê. Có lẽ vì vậy mà vùng đất này có tên gọi là Nghi Tàm. Chữ Nghi nghĩa là sự thích hợp và</p>",
+      "content_text": "hà nội có khu  nghi tàm :Theo cuốn “Hà Nội nghìn xưa” của tác giả Trần Quốc Vượng và Vũ Tuấn Sán thì làng Nghi Tàm xưa kia “ngàn dâu xanh ngắt một màu” chạy suốt bờ đê. Có lẽ vì vậy mà vùng đất này có tên gọi là Nghi Tàm. Chữ Nghi nghĩa là sự thích hợp và",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156666",
+      "lang": "vi",
+      "content_html": "<p>Tàm tạm nhả tơ trắng như mây Trời, Con tằm hóa Côn trùng chăm chỉ.</p>",
+      "content_text": "Tàm tạm nhả tơ trắng như mây Trời, Con tằm hóa Côn trùng chăm chỉ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蚕",
+      "reading": "かいこ",
+      "meaning": "con tằm"
+    },
+    {
+      "word": "養蚕",
+      "reading": "ようさん",
+      "meaning": "nghề nuôi tằm"
+    },
+    {
+      "word": "天蚕",
+      "reading": "やままゆ",
+      "meaning": "con tằm hoang dã"
+    },
+    {
+      "word": "蚕蛾",
+      "reading": "かいこが",
+      "meaning": "bướm tằm"
+    },
+    {
+      "word": "蚕児",
+      "reading": "さんじ",
+      "meaning": "con tằm"
+    },
+    {
+      "word": "蚕業",
+      "reading": "さんぎょう",
+      "meaning": "nghề nuôi tằm dệt vải"
+    },
+    {
+      "word": "蚕卵",
+      "reading": "さんらん",
+      "meaning": "trứng tằm"
+    },
+    {
+      "word": "蚕紙",
+      "reading": "さんし",
+      "meaning": "giấy lót tằm"
+    },
+    {
+      "word": "蚕種",
+      "reading": "さんしゅ",
+      "meaning": "trứng tằm"
+    },
+    {
+      "word": "春蚕",
+      "reading": "はるご",
+      "meaning": "vụ tằm mùa xuân"
+    }
+  ]
+}

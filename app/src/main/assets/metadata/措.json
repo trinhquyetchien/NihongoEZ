@@ -1,0 +1,139 @@
+{
+  "kanji": "措",
+  "meta": {
+    "weight": 1124,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "お.く"
+    ],
+    "am_han": "THỐ, TRÁCH"
+  },
+  "meaning": {
+    "vi": "đặt sang một bên, từ bỏ, đình chỉ, ngừng tiếp tục, ngoại trừ",
+    "en": "set aside, give up, suspend, discontinue, lay aside, except"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/措.svg"
+  },
+  "frequency": 818,
+  "examples": [
+    "措置",
+    "特措法"
+  ],
+  "explanation": {
+    "id": "4615",
+    "text": "措 (đọc là \"so\") có nghĩa là \"biện pháp\", \"hành động\" để chỉ các hành động liên quan đến việc thực hiện hoặc áp dụng biện pháp nào đó."
+  },
+  "comments": [
+    {
+      "id": "153974",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay vứt những thứ cũ ngày xưa</p>",
+      "content_text": "Dùng tay vứt những thứ cũ ngày xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153975",
+      "lang": "vi",
+      "content_html": "<p>Ngày Xưa không có Tay thì thi Thố cái giề.</p>",
+      "content_text": "Ngày Xưa không có Tay thì thi Thố cái giề.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153976",
+      "lang": "vi",
+      "content_html": "<p>＝対策</p>",
+      "content_text": "＝対策",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "措辞",
+      "reading": "そじ",
+      "meaning": "cách dùng từ và sắp xếp các cụm từ trong thơ và câu"
+    },
+    {
+      "word": "挙措",
+      "reading": "きょそ",
+      "meaning": "hành vi"
+    },
+    {
+      "word": "措く",
+      "reading": "おく",
+      "meaning": "để cho lên trên"
+    },
+    {
+      "word": "措定",
+      "reading": "そてい",
+      "meaning": "assumption"
+    },
+    {
+      "word": "措置",
+      "reading": "そち",
+      "meaning": "biện pháp"
+    },
+    {
+      "word": "特措",
+      "reading": "とくそ",
+      "meaning": "measure"
+    },
+    {
+      "word": "措止",
+      "reading": "そし",
+      "meaning": "cách xử lý"
+    },
+    {
+      "word": "措辞法",
+      "reading": "そじほう",
+      "meaning": "cú pháp"
+    },
+    {
+      "word": "窮措大",
+      "reading": "きゅうそだい",
+      "meaning": "học trò nghèo"
+    },
+    {
+      "word": "措いて",
+      "reading": "おいて",
+      "meaning": "trừ"
+    }
+  ]
+}

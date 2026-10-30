@@ -1,0 +1,122 @@
+{
+  "kanji": "菅",
+  "meta": {
+    "weight": 2290,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "すげ"
+    ],
+    "am_han": "GIAN"
+  },
+  "meaning": {
+    "vi": "cói",
+    "en": "sedge"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菅.svg"
+  },
+  "frequency": 1562,
+  "examples": [
+    "菅"
+  ],
+  "explanation": {
+    "id": "4266",
+    "text": "菅 (đọc là \"kan\") có nghĩa là \"nhà cỏ\" hoặc chỉ một loại cây cỏ dùng làm vật liệu xây dựng."
+  },
+  "comments": [
+    {
+      "id": "156532",
+      "lang": "vi",
+      "content_html": "<p>cô giáo Thảo Gian díu với quan</p>",
+      "content_text": "cô giáo Thảo Gian díu với quan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156533",
+      "lang": "vi",
+      "content_html": "<p>Quan chức chơi cỏ nên bị tóm vào đồn công an</p>",
+      "content_text": "Quan chức chơi cỏ nên bị tóm vào đồn công an",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "菅",
+      "reading": "すげ",
+      "meaning": "loài cây cói"
+    },
+    {
+      "word": "浜菅",
+      "reading": "はますげ",
+      "meaning": "củ gấu"
+    },
+    {
+      "word": "菅笠",
+      "reading": "すげがさ",
+      "meaning": "dệt lau cái mũ"
+    },
+    {
+      "word": "夕菅",
+      "reading": "ゆうすげ",
+      "meaning": "một loại cây thuộc họ cây loa kèn có hoa màu vàng chanh nở hoa vào buổi tối"
+    },
+    {
+      "word": "菅藻",
+      "reading": "すがも",
+      "meaning": "phyllospadix iwatensis"
+    },
+    {
+      "word": "丸菅",
+      "reading": "まるすげ",
+      "meaning": "cói mềm"
+    },
+    {
+      "word": "寒菅",
+      "reading": "かんすげ",
+      "meaning": "cây cói nhật"
+    },
+    {
+      "word": "白菅",
+      "reading": "しらすげ",
+      "meaning": "ống trắng"
+    },
+    {
+      "word": "菅作",
+      "reading": "かんさく",
+      "meaning": "thâm kế"
+    },
+    {
+      "word": "日光黄菅",
+      "reading": "にっこうきすげ",
+      "meaning": "hoa kim châm"
+    }
+  ]
+}

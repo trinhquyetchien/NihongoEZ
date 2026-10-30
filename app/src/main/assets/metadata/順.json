@@ -1,0 +1,140 @@
+{
+  "kanji": "順",
+  "meta": {
+    "weight": 2900,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "THUẬN"
+  },
+  "meaning": {
+    "vi": "tuân theo, thuận theo",
+    "en": "obey, order, turn, right, docility, occasion"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/順.svg"
+  },
+  "frequency": 779,
+  "examples": [
+    "順",
+    "順位",
+    "手順",
+    "順番",
+    "順調"
+  ],
+  "explanation": {
+    "id": "3676",
+    "text": "順 (đọc là \"jun\") có nghĩa là \"trật tự\", \"tuân theo\" để chỉ các hành động liên quan đến việc theo thứ tự, tuân thủ hoặc thuận theo."
+  },
+  "comments": [
+    {
+      "id": "157871",
+      "lang": "vi",
+      "content_html": "<p>Nước lúc nào cũng chẩy THUẬN chiều từ ĐẦU (thượng nguồn) dòng sông</p>",
+      "content_text": "Nước lúc nào cũng chẩy THUẬN chiều từ ĐẦU (thượng nguồn) dòng sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157872",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy đầu nguồn nên rất thuận tiện</p>",
+      "content_text": "Nước chảy đầu nguồn nên rất thuận tiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157873",
+      "lang": "vi",
+      "content_html": "<p>con sò thuận theo dòng nước trôi đi.</p>",
+      "content_text": "con sò thuận theo dòng nước trôi đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "順",
+      "reading": "じゅん",
+      "meaning": "trật tự"
+    },
+    {
+      "word": "順順",
+      "reading": "じゅんじゅん",
+      "meaning": "trong thứ tự"
+    },
+    {
+      "word": "順順に",
+      "reading": "じゅんじゅんに",
+      "meaning": "theo thứ tự"
+    },
+    {
+      "word": "順位",
+      "reading": "じゅんい",
+      "meaning": "vị trí thứ tự"
+    },
+    {
+      "word": "順応",
+      "reading": "じゅんのう",
+      "meaning": "thông cảm"
+    },
+    {
+      "word": "順々",
+      "reading": "じゅんじゅん",
+      "meaning": "trong thứ tự"
+    },
+    {
+      "word": "順守",
+      "reading": "じゅんしゅ",
+      "meaning": "tuân theo"
+    },
+    {
+      "word": "順序",
+      "reading": "じゅんじょ",
+      "meaning": "sự theo thứ tự"
+    },
+    {
+      "word": "順に",
+      "reading": "じゅんに",
+      "meaning": "trong thứ tự"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "sự thuận lợi"
+    }
+  ]
+}

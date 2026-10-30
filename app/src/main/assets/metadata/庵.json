@@ -1,0 +1,87 @@
+{
+  "kanji": "庵",
+  "meta": {
+    "weight": 872,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "いおり",
+      "いお"
+    ],
+    "am_han": "AM"
+  },
+  "meaning": {
+    "vi": "ẩn cư, rút lui",
+    "en": "hermitage, retreat"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/庵.svg"
+  },
+  "frequency": 2119,
+  "examples": [
+    "庵"
+  ],
+  "explanation": {
+    "id": "93",
+    "text": "庵 (đọc là \"an\") có nghĩa là \"tu viện nhỏ\", \"nhà tranh\" để chỉ các nơi ở hoặc tu tập đơn giản và yên tĩnh, thường liên quan đến thiền định hoặc cuộc sống tách biệt."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "庵",
+      "reading": "いおり",
+      "meaning": "nơi ẩn dật"
+    },
+    {
+      "word": "僧庵",
+      "reading": "そうあん",
+      "meaning": "nơi ẩn dật của thầy tu"
+    },
+    {
+      "word": "庵室",
+      "reading": "あんしつ",
+      "meaning": "nơi ở của ẩn sĩ"
+    },
+    {
+      "word": "庵主",
+      "reading": "あんじゅ",
+      "meaning": "chủ nhân một nơi ẩn dật"
+    },
+    {
+      "word": "桂庵",
+      "reading": "けいあん",
+      "meaning": "nơi đăng ký những người hầu"
+    },
+    {
+      "word": "草庵",
+      "reading": "そうあん",
+      "meaning": "lợp lá túp lều"
+    },
+    {
+      "word": "沢庵",
+      "reading": "たくあん",
+      "meaning": "dầm giấm củ cải daikon"
+    },
+    {
+      "word": "庵点",
+      "reading": "いおりてん",
+      "meaning": "ký hiệu chỉ báo những từ sau được cầm từ một bài hát hoặc người đó nói những từ đang cháy sém"
+    },
+    {
+      "word": "沢庵漬",
+      "reading": "たくあんづけ",
+      "meaning": "dầm giấm daikon"
+    },
+    {
+      "word": "仮庵祭",
+      "reading": "かりいおさい",
+      "meaning": "lễ lều tạm của người do thái"
+    }
+  ]
+}

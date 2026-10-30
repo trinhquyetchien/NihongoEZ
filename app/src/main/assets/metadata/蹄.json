@@ -1,0 +1,121 @@
+{
+  "kanji": "蹄",
+  "meta": {
+    "weight": 2599,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ひづめ"
+    ],
+    "am_han": "ĐỀ"
+  },
+  "meaning": {
+    "vi": "móng guốc",
+    "en": "hoof"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/蹄.svg"
+  },
+  "frequency": 2469,
+  "examples": [
+    "蹄"
+  ],
+  "explanation": {
+    "id": "5597",
+    "text": "蹄 (đọc là \"tei\") có nghĩa là \"móng guốc\" để chỉ bộ phận chân của các loại động vật như ngựa, bò hoặc lợn."
+  },
+  "comments": [
+    {
+      "id": "157192",
+      "lang": "vi",
+      "content_html": "<p>Cái Móng là phần Bọc cái Chân khi đứng</p>",
+      "content_text": "Cái Móng là phần Bọc cái Chân khi đứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157193",
+      "lang": "vi",
+      "content_html": "<p>Cho dù là Đế vương thì ở dưới Túc cũng có cái  Đề như thường dân</p>",
+      "content_text": "Cho dù là Đế vương thì ở dưới Túc cũng có cái  Đề như thường dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蹄",
+      "reading": "ひづめ",
+      "meaning": "móng vuốt"
+    },
+    {
+      "word": "腐蹄しょー",
+      "reading": "腐蹄症",
+      "meaning": "bệnh lở chân"
+    },
+    {
+      "word": "蹄叉",
+      "reading": "ていさ",
+      "meaning": "xương ức"
+    },
+    {
+      "word": "羊蹄",
+      "reading": "ぎしぎし",
+      "meaning": "rumex japonicus"
+    },
+    {
+      "word": "蹄鉄",
+      "reading": "ていてつ",
+      "meaning": "đóng đế giày"
+    },
+    {
+      "word": "双蹄",
+      "reading": "そうてい",
+      "meaning": "bàn chân cloven"
+    },
+    {
+      "word": "馬蹄",
+      "reading": "ばてい",
+      "meaning": "móng ngựa"
+    },
+    {
+      "word": "装蹄",
+      "reading": "そうてい",
+      "meaning": "sự đóng móng ngựa"
+    },
+    {
+      "word": "奇蹄目",
+      "reading": "きていもく",
+      "meaning": "guốc lẻ"
+    },
+    {
+      "word": "口蹄疫",
+      "reading": "こうていえき",
+      "meaning": "bệnh lở mồm long móng"
+    }
+  ]
+}

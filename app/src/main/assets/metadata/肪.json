@@ -1,0 +1,137 @@
+{
+  "kanji": "肪",
+  "meta": {
+    "weight": 2175,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [],
+    "am_han": "PHƯƠNG"
+  },
+  "meaning": {
+    "vi": "béo phì",
+    "en": "obese, fat"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肪.svg"
+  },
+  "frequency": 1878,
+  "examples": [
+    "脂肪",
+    "脂肪酸"
+  ],
+  "explanation": {
+    "id": "7288",
+    "text": "肪 (đọc là \"bō\") có nghĩa là \"mỡ\" để chỉ chất béo trong cơ thể hoặc thực phẩm."
+  },
+  "comments": [
+    {
+      "id": "156283",
+      "lang": "vi",
+      "content_html": "<p>Phương nhiều Mỡ nên mặt tròn như trăng</p>",
+      "content_text": "Phương nhiều Mỡ nên mặt tròn như trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156284",
+      "lang": "vi",
+      "content_html": "<p>Thịt bao quanh tứ phương là mỡ</p>",
+      "content_text": "Thịt bao quanh tứ phương là mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156285",
+      "lang": "vi",
+      "content_html": "<p>nguyệt tìm PHƯƠNG pháp hút mỡ</p>",
+      "content_text": "nguyệt tìm PHƯƠNG pháp hút mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "脂肪酸合成酵素（脂肪酸シンターゼ）",
+      "reading": "しぼうさんごうせいこうそ（しぼうさんシンターゼ）",
+      "meaning": "fatty acid synthase"
+    },
+    {
+      "word": "脂肪",
+      "reading": "しぼう",
+      "meaning": "mỡ"
+    },
+    {
+      "word": "脂肪便",
+      "reading": "しぼうべん",
+      "meaning": "chứng phân mỡ"
+    },
+    {
+      "word": "体脂肪",
+      "reading": "たいしぼう",
+      "meaning": "lượng mỡ trong cơ thể"
+    },
+    {
+      "word": "低脂肪",
+      "reading": "ていしぼう",
+      "meaning": "ít béo"
+    },
+    {
+      "word": "脂肪肝",
+      "reading": "しぼうかん",
+      "meaning": "gan nhiễm mỡ"
+    },
+    {
+      "word": "脂肪酸",
+      "reading": "しぼうさん",
+      "meaning": "a-xít béo"
+    },
+    {
+      "word": "脂肪層",
+      "reading": "しぼうそう",
+      "meaning": "lớp mỡ"
+    },
+    {
+      "word": "脂肪体",
+      "reading": "しぼうたい",
+      "meaning": "tập sao lục adiposum"
+    },
+    {
+      "word": "脂肪滴",
+      "reading": "しぼうてき",
+      "meaning": "giọt chất béo"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "隅",
+  "meta": {
+    "weight": 2837,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グウ"
+    ],
+    "kun": [
+      "すみ"
+    ],
+    "am_han": "NGUNG"
+  },
+  "meaning": {
+    "vi": "góc",
+    "en": "corner, nook"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/隅.svg"
+  },
+  "frequency": 1601,
+  "examples": [
+    "隅",
+    "片隅",
+    "隅々",
+    "隅っこ",
+    "四隅"
+  ],
+  "explanation": {
+    "id": "1857",
+    "text": "隅 (đọc là \"sumi\") có nghĩa là \"góc\" hoặc \"mép\", chỉ vị trí ở ngay các góc hoặc mép của một vật."
+  },
+  "comments": [
+    {
+      "id": "157720",
+      "lang": "vi",
+      "content_html": "<p>Mẹ chửi: \"Tiên SƯ MI(すみ) bị NGU(禺) hay sao mà đến VÙNG ĐẤT(阝) XÓ XỈNH(隅) đó!\".</p>",
+      "content_text": "Mẹ chửi: \"Tiên SƯ MI(すみ) bị NGU(禺) hay sao mà đến VÙNG ĐẤT(阝) XÓ XỈNH(隅) đó!\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157721",
+      "lang": "vi",
+      "content_html": "<p>NGU gì mà phải Lung NGUNG trong XÓ</p>",
+      "content_text": "NGU gì mà phải Lung NGUNG trong XÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157722",
+      "lang": "vi",
+      "content_html": "<p>Bạn bè mà Ngu thì cho ngồi vào Góc</p>",
+      "content_text": "Bạn bè mà Ngu thì cho ngồi vào Góc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "隅",
+      "reading": "すみ",
+      "meaning": "góc"
+    },
+    {
+      "word": "隅隅",
+      "reading": "すみずみ",
+      "meaning": "mỗi xó xỉnh và góc"
+    },
+    {
+      "word": "片隅",
+      "reading": "かたすみ",
+      "meaning": "góc"
+    },
+    {
+      "word": "隅から隅まで",
+      "reading": "すみからすみまで",
+      "meaning": "mỗi xó xỉnh và góc"
+    },
+    {
+      "word": "隅棟",
+      "reading": "すみむね",
+      "meaning": "cạnh đỉnh hồi"
+    },
+    {
+      "word": "四隅",
+      "reading": "よすみ",
+      "meaning": "bốn góc"
+    },
+    {
+      "word": "隅木",
+      "reading": "すみき",
+      "meaning": "kèo góc"
+    },
+    {
+      "word": "出隅",
+      "reading": "ですみ",
+      "meaning": "góc của hai bức tường"
+    },
+    {
+      "word": "入隅",
+      "reading": "いりすみ",
+      "meaning": "góc trong"
+    },
+    {
+      "word": "南隅",
+      "reading": "なんぐう",
+      "meaning": "góc phía nam"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "kanji": "緬",
+  "meta": {
+    "weight": 2102,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メン",
+      "ベン"
+    ],
+    "kun": [],
+    "am_han": "MIỄN, DIẾN"
+  },
+  "meaning": {
+    "vi": "sợi tốt, Miến Điện",
+    "en": "fine thread, Burma"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/緬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7580",
+    "text": "緬 (đọc là \"men\") có nghĩa là \"miến\" để chỉ sợi hoặc vải mịn, thường liên quan đến các loại chất liệu mềm mại."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "緬甸",
+      "reading": "めんでん",
+      "meaning": "myanmar"
+    },
+    {
+      "word": "縮緬",
+      "reading": "ちりめん",
+      "meaning": "tơ nhiễu"
+    },
+    {
+      "word": "訪緬",
+      "reading": "ほうめん",
+      "meaning": "chuyến thăm myanmar"
+    },
+    {
+      "word": "緬羊",
+      "reading": "めんよう",
+      "meaning": "con cừu"
+    },
+    {
+      "word": "緋縮緬",
+      "reading": "ひぢりめん",
+      "meaning": "vải lụa màu đỏ tươi"
+    },
+    {
+      "word": "縮緬紙",
+      "reading": "ちりめんがみ",
+      "meaning": "giấy kếp"
+    },
+    {
+      "word": "縮緬皺",
+      "reading": "ちりめんじわ",
+      "meaning": "nếp nhăn nhỏ và mịn"
+    },
+    {
+      "word": "唐縮緬",
+      "reading": "とうちりめん",
+      "meaning": "lụa tōchirimen"
+    },
+    {
+      "word": "絽縮緬",
+      "reading": "ろちりめん",
+      "meaning": "vải lụa lưới crepe"
+    },
+    {
+      "word": "英緬戦争",
+      "reading": "えいめんせんそう",
+      "meaning": "chiến tranh anh–miến điện"
+    }
+  ]
+}

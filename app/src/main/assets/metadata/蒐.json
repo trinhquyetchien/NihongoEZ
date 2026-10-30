@@ -1,0 +1,51 @@
+{
+  "kanji": "蒐",
+  "meta": {
+    "weight": 2319,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あかね",
+      "あつ.まる",
+      "あつ.める"
+    ],
+    "am_han": "SƯU"
+  },
+  "meaning": {
+    "vi": "tụ họp",
+    "en": "gather"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3514",
+    "text": "蒐 (đọc là \"shū\") có nghĩa là \"sưu tầm\", \"thu thập\" để chỉ hành động thu gom hoặc tích lũy đồ vật, thông tin."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "蒐荷",
+      "reading": "しゅうか",
+      "meaning": "tập hợp hàng hóa"
+    },
+    {
+      "word": "蒐集",
+      "reading": "しゅうしゅう",
+      "meaning": "tụ lại lên trên"
+    },
+    {
+      "word": "切手蒐集",
+      "reading": "きってしゅうしゅう",
+      "meaning": "sự sưu tập tem"
+    }
+  ]
+}

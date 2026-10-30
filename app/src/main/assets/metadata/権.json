@@ -1,0 +1,145 @@
+{
+  "kanji": "権",
+  "meta": {
+    "weight": 1420,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ゴン"
+    ],
+    "kun": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "am_han": "QUYỀN"
+  },
+  "meaning": {
+    "vi": "quyền lực, chính quyền",
+    "en": "authority, power, rights"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/権.svg"
+  },
+  "frequency": 156,
+  "examples": [
+    "権",
+    "権利",
+    "政権",
+    "人権",
+    "権力"
+  ],
+  "explanation": {
+    "id": "2143",
+    "text": "権 (đọc là \"ken\" hoặc \"gon\") có nghĩa là \"quyền\" để chỉ quyền lực, quyền lợi, hoặc quyền hành trong các mối quan hệ xã hội và chính trị."
+  },
+  "comments": [
+    {
+      "id": "154612",
+      "lang": "vi",
+      "content_html": "<p>Quyền của con chim là đc nằm trên cây</p>",
+      "content_text": "Quyền của con chim là đc nằm trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154613",
+      "lang": "vi",
+      "content_html": "<p>Chim có quyền sống trên cây</p>",
+      "content_text": "Chim có quyền sống trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154614",
+      "lang": "vi",
+      "content_html": "<p>Người nằm ngang đứng bên gốc cây cần chim đòi quyền lợi</p>",
+      "content_text": "Người nằm ngang đứng bên gốc cây cần chim đòi quyền lợi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "権",
+      "reading": "けん",
+      "meaning": "quyền"
+    },
+    {
+      "word": "権威",
+      "reading": "けんい",
+      "meaning": "khí thế"
+    },
+    {
+      "word": "政権",
+      "reading": "せいけん",
+      "meaning": "binh quyền"
+    },
+    {
+      "word": "権力",
+      "reading": "けんりょく",
+      "meaning": "khí thế"
+    },
+    {
+      "word": "主権",
+      "reading": "しゅけん",
+      "meaning": "chủ quyền"
+    },
+    {
+      "word": "債権",
+      "reading": "さいけん",
+      "meaning": "tiền cho vay"
+    },
+    {
+      "word": "棄権",
+      "reading": "きけん",
+      "meaning": "sự bỏ quyền"
+    },
+    {
+      "word": "権謀",
+      "reading": "けんぼう",
+      "meaning": "mưu kế"
+    },
+    {
+      "word": "権原",
+      "reading": "けんげん",
+      "meaning": "gốc quyền lợi"
+    },
+    {
+      "word": "権益",
+      "reading": "けんえき",
+      "meaning": "quyền lợi"
+    }
+  ]
+}

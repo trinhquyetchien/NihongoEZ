@@ -1,0 +1,107 @@
+{
+  "kanji": "舵",
+  "meta": {
+    "weight": 2239,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "タ"
+    ],
+    "kun": [
+      "かじ"
+    ],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "bánh lái, bánh xe",
+    "en": "rudder, helm, wheel"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/舵.svg"
+  },
+  "frequency": 2225,
+  "examples": [
+    "舵",
+    "舵取り",
+    "操舵"
+  ],
+  "explanation": {
+    "id": "4904",
+    "text": "舵 (đọc là \"da\") có nghĩa là \"bánh lái\" hay \"thiết bị điều khiển tàu bè\". Nó chỉ đến những hành động liên quan đến việc điều khiển phương tiện đường thủy."
+  },
+  "comments": [
+    {
+      "id": "156435",
+      "lang": "vi",
+      "content_html": "<p>con thuyền 舟ở trong nhà 宅 trên sông ĐÀ 舵</p>",
+      "content_text": "con thuyền 舟ở trong nhà 宅 trên sông ĐÀ 舵",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "舵",
+      "reading": "かじ",
+      "meaning": "bánh lái"
+    },
+    {
+      "word": "操舵",
+      "reading": "そうだ",
+      "meaning": "sự lái tàu"
+    },
+    {
+      "word": "面舵",
+      "reading": "おもかじ",
+      "meaning": "mạn phải"
+    },
+    {
+      "word": "舵手",
+      "reading": "だしゅ",
+      "meaning": "người lái tàu"
+    },
+    {
+      "word": "潜舵",
+      "reading": "せんだ",
+      "meaning": "cánh lặn"
+    },
+    {
+      "word": "舵柄",
+      "reading": "かじづか",
+      "meaning": "tay bánh lái"
+    },
+    {
+      "word": "舵面",
+      "reading": "だめん",
+      "meaning": "quản lý bề mặt"
+    },
+    {
+      "word": "操舵手",
+      "reading": "そうだしゅ",
+      "meaning": "người lái tàu thuỷ"
+    },
+    {
+      "word": "昇降舵",
+      "reading": "しょうこうだ",
+      "meaning": "thang máy"
+    },
+    {
+      "word": "操舵室",
+      "reading": "そうだしつ",
+      "meaning": "buồng lái"
+    }
+  ]
+}

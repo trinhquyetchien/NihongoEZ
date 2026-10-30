@@ -1,0 +1,104 @@
+{
+  "kanji": "竪",
+  "meta": {
+    "weight": 1976,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "たて",
+      "た.てる",
+      "こども"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "chiều dài, chiều cao, sợi dọc",
+    "en": "length, height, warp"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/竪.svg"
+  },
+  "frequency": 2370,
+  "examples": [],
+  "explanation": {
+    "id": "5090",
+    "text": "竪 (đọc là \"tate\" hoặc \"shuu\") có nghĩa là \"đứng thẳng\", \"dọc\" để chỉ vị trí, hướng đứng thẳng của một vật thể."
+  },
+  "comments": [
+    {
+      "id": "155843",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm khiên và đứng 1 cách ngay thẳng ( Thụ)</p>",
+      "content_text": "Tay cầm khiên và đứng 1 cách ngay thẳng ( Thụ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "竪物",
+      "reading": "たてもの",
+      "meaning": "chữ viết theo chiều dọc"
+    },
+    {
+      "word": "竪縞",
+      "reading": "たてじま",
+      "meaning": "sọc dọc"
+    },
+    {
+      "word": "竪子",
+      "reading": "じゅし",
+      "meaning": "thanh đứng"
+    },
+    {
+      "word": "竪穴",
+      "reading": "たてあな",
+      "meaning": "hố"
+    },
+    {
+      "word": "竪琴",
+      "reading": "たてごと",
+      "meaning": "đàn hạc"
+    },
+    {
+      "word": "竪框",
+      "reading": "たてがまち",
+      "meaning": "khung dọc được gắn ở hai bên trái phải của cửa"
+    },
+    {
+      "word": "竪樋",
+      "reading": "たてどい",
+      "meaning": "máng xối"
+    },
+    {
+      "word": "竪堀",
+      "reading": "たてぼり",
+      "meaning": "hào dọc"
+    },
+    {
+      "word": "竪穴住居",
+      "reading": "たてあなじゅうきょ",
+      "meaning": "nhà kiểu thổ dân"
+    },
+    {
+      "word": "竪琴海豹",
+      "reading": "たてごとあざらし",
+      "meaning": "hải cẩu greenland"
+    }
+  ]
+}

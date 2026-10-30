@@ -1,0 +1,146 @@
+{
+  "kanji": "稚",
+  "meta": {
+    "weight": 1940,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ",
+      "ジ"
+    ],
+    "kun": [
+      "いとけない",
+      "おさない",
+      "おくて",
+      "おでる"
+    ],
+    "am_han": "TRĨ"
+  },
+  "meaning": {
+    "vi": "chưa trưởng thành, trẻ",
+    "en": "immature, young"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/稚.svg"
+  },
+  "frequency": 1560,
+  "examples": [
+    "幼稚園",
+    "幼稚",
+    "稚拙",
+    "稚魚",
+    "稚"
+  ],
+  "explanation": {
+    "id": "5217",
+    "text": "稚 (đọc là \"chi\") có nghĩa là \"non nớt\", \"trẻ con\", chỉ trạng thái còn nhỏ, chưa trưởng thành."
+  },
+  "comments": [
+    {
+      "id": "155767",
+      "lang": "vi",
+      "content_html": "<p>con CHIM (隹) TRĨ (稚) đang ăn LÚA (禾) NON</p>",
+      "content_text": "con CHIM (隹) TRĨ (稚) đang ăn LÚA (禾) NON",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155768",
+      "lang": "vi",
+      "content_html": "<p>chim ăn lúa bị trĩ</p>",
+      "content_text": "chim ăn lúa bị trĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155769",
+      "lang": "vi",
+      "content_html": "<p>Chim trĩ của hoà còn non lắm</p>",
+      "content_text": "Chim trĩ của hoà còn non lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "稚",
+      "reading": "わか",
+      "meaning": "em bé"
+    },
+    {
+      "word": "稚鮎",
+      "reading": "ちあゆ",
+      "meaning": "cá ayu con"
+    },
+    {
+      "word": "稚拙",
+      "reading": "ちせつ",
+      "meaning": "kém cỏi"
+    },
+    {
+      "word": "稚気",
+      "reading": "ちき",
+      "meaning": "sự ngây thơ"
+    },
+    {
+      "word": "稚魚",
+      "reading": "ちぎょ",
+      "meaning": "cá con"
+    },
+    {
+      "word": "丁稚",
+      "reading": "でっち",
+      "meaning": "dạy nghề"
+    },
+    {
+      "word": "稚児",
+      "reading": "ちご",
+      "meaning": "đứa trẻ"
+    },
+    {
+      "word": "稚鰤",
+      "reading": "わらさ",
+      "meaning": "middled - đo cỡ yellowtail"
+    },
+    {
+      "word": "幼稚",
+      "reading": "ようち",
+      "meaning": "ấu trĩ"
+    },
+    {
+      "word": "稚内",
+      "reading": "わっかない",
+      "meaning": "tên địa danh nổi tiếng ở hokkaido"
+    }
+  ]
+}

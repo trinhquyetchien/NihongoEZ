@@ -1,0 +1,57 @@
+{
+  "kanji": "鈷",
+  "meta": {
+    "weight": 2748,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [],
+    "am_han": "CÔ, CỔ, CỖ"
+  },
+  "meaning": {
+    "vi": "coban",
+    "en": "cobalt"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鈷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2309",
+    "text": "鈷 (đọc là \"ko\") có nghĩa là \"cobalt,\" một kim loại."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "独鈷",
+      "reading": "とっこ",
+      "meaning": "một công cụ pháp lý được sử dụng trong phật giáo bí truyền"
+    },
+    {
+      "word": "雷鈷",
+      "reading": "らいこ",
+      "meaning": "raiko"
+    },
+    {
+      "word": "三鈷",
+      "reading": "さんこ",
+      "meaning": "một loại vũ khí hình thanh kiếm với những lưỡi sắc nhọn ở cả hai đầu của tay cầm và được cho là có hình dạng giống như sấm sét"
+    },
+    {
+      "word": "独鈷石",
+      "reading": "とっこいし",
+      "meaning": "đá tokko"
+    },
+    {
+      "word": "飛行の三鈷",
+      "reading": "ひぎょうのさんこ",
+      "meaning": "kim cương ba ngạnh được kukai tung ra khi trở về từ trung quốc để xác định thánh địa của phật giáo bí truyền"
+    }
+  ]
+}

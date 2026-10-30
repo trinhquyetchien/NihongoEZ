@@ -1,0 +1,103 @@
+{
+  "kanji": "托",
+  "meta": {
+    "weight": 1049,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "たく.する",
+      "たの.む"
+    ],
+    "am_han": "THÁC"
+  },
+  "meaning": {
+    "vi": "yêu cầu, giao phó, giả vờ, gợi ý",
+    "en": "requesting, entrusting with, pretend, hint"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/托.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5029",
+    "text": "托 (đọc là \"taku\") có nghĩa là \"giao phó\", \"ủy thác\" để chỉ việc giao nhiệm vụ hoặc trách nhiệm cho ai đó."
+  },
+  "comments": [
+    {
+      "id": "219578",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm mô hình nhà</p>",
+      "content_text": "Tay cầm mô hình nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "托子",
+      "reading": "たくす",
+      "meaning": "đĩa"
+    },
+    {
+      "word": "托卵",
+      "reading": "たくらん",
+      "meaning": "ký sinh trùng bố mẹ"
+    },
+    {
+      "word": "托鉢",
+      "reading": "たくはつ",
+      "meaning": "việc các thầy tu cầm bình bát đi cầu thực"
+    },
+    {
+      "word": "托葉",
+      "reading": "たくよう",
+      "meaning": "lá bẹ"
+    },
+    {
+      "word": "花托",
+      "reading": "かたく",
+      "meaning": "đài hoa"
+    },
+    {
+      "word": "茶托",
+      "reading": "ちゃたく",
+      "meaning": "đĩa để cốc chén teacup"
+    },
+    {
+      "word": "托する",
+      "reading": "たくする",
+      "meaning": "giao"
+    },
+    {
+      "word": "托鉢僧",
+      "reading": "たくはつそう",
+      "meaning": "thầy tu ăn xin"
+    },
+    {
+      "word": "種間托卵",
+      "reading": "しゅかんたくらん",
+      "meaning": "ký sinh nuôi dưỡng"
+    },
+    {
+      "word": "種内托卵",
+      "reading": "しゅないたくらん",
+      "meaning": "ký sinh trùng trong nội tạng"
+    }
+  ]
+}

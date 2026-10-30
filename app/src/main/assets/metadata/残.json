@@ -1,0 +1,163 @@
+{
+  "kanji": "残",
+  "meta": {
+    "weight": 1463,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザン",
+      "サン"
+    ],
+    "kun": [
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "am_han": "TÀN"
+  },
+  "meaning": {
+    "vi": "tàn dư, tàn tích",
+    "en": "remainder, leftover, balance"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/残.svg"
+  },
+  "frequency": 380,
+  "examples": [
+    "残念",
+    "残り",
+    "残る",
+    "残す",
+    "残業"
+  ],
+  "explanation": {
+    "id": "3035",
+    "text": "残 (đọc là \"zan\" hoặc \"noku\") có nghĩa là \"còn lại\", \"tàn dư\", chỉ những thứ còn sót lại hoặc tình trạng không hoàn chỉnh."
+  },
+  "comments": [
+    {
+      "id": "37046",
+      "lang": "vi",
+      "content_html": "<p>Ba (三) người chết (死) và chỉ<strong> còn sót lại</strong> vũ khí của họ.</p>",
+      "content_text": "Ba (三) người chết (死) và chỉ\ncòn sót lại\nvũ khí của họ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc52f609cec.jpg",
+      "image_path": "assets/images/残_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154705",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh 2 kẻ XẤU XA đấu binh khí QUA =&#62; đống tro TÀN</p>",
+      "content_text": "Hình ảnh 2 kẻ XẤU XA đấu binh khí QUA => đống tro TÀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154706",
+      "lang": "vi",
+      "content_html": "<p>Ba kẻ đánh nhau để lại một khúc xương tàn</p>",
+      "content_text": "Ba kẻ đánh nhau để lại một khúc xương tàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154707",
+      "lang": "vi",
+      "content_html": "<p>\"Qua\" tay 2 kẻ \"xấu xa\" (bộ ngạt) thì đời \"tàn\"</p>",
+      "content_text": "\"Qua\" tay 2 kẻ \"xấu xa\" (bộ ngạt) thì đời \"tàn\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "残",
+      "reading": "ざん",
+      "meaning": "phần còn lại"
+    },
+    {
+      "word": "残暑",
+      "reading": "ざんしょ",
+      "meaning": "cái nóng còn sót lại của mùa hè"
+    },
+    {
+      "word": "残数",
+      "reading": "ざんすう",
+      "meaning": "số còn lại"
+    },
+    {
+      "word": "残差",
+      "reading": "ざんさ",
+      "meaning": "số dư"
+    },
+    {
+      "word": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "sự làm thêm"
+    },
+    {
+      "word": "残飯",
+      "reading": "ざんぱん",
+      "meaning": "thức ăn thừa"
+    },
+    {
+      "word": "残る",
+      "reading": "のこる",
+      "meaning": "còn lại"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "đáng tiếc"
+    },
+    {
+      "word": "残忍",
+      "reading": "ざんにん",
+      "meaning": "nhẫn tâm"
+    },
+    {
+      "word": "残虐",
+      "reading": "ざんぎゃく",
+      "meaning": "bạo tàn"
+    }
+  ]
+}

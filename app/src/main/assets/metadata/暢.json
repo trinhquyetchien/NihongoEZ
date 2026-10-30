@@ -1,0 +1,119 @@
+{
+  "kanji": "暢",
+  "meta": {
+    "weight": 1249,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "のび.る"
+    ],
+    "am_han": "SƯỚNG"
+  },
+  "meaning": {
+    "vi": "kéo dài",
+    "en": "stretch"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/暢.svg"
+  },
+  "frequency": 2144,
+  "examples": [
+    "流暢",
+    "暢気"
+  ],
+  "explanation": {
+    "id": "5364",
+    "text": "暢 (đọc là \"chō\") có nghĩa là \"thông suốt\", \"trôi chảy\", chỉ sự lưu thông hoặc diễn đạt mạch lạc."
+  },
+  "comments": [
+    {
+      "id": "154277",
+      "lang": "vi",
+      "content_html": "<p>chơi Thân với anh Dương thì rất sướng.</p>",
+      "content_text": "chơi Thân với anh Dương thì rất sướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154279",
+      "lang": "vi",
+      "content_html": "<p>THÂN DƯƠNG v... càng to chơi càng SƯỚNG :v</p>",
+      "content_text": "THÂN DƯƠNG v... càng to chơi càng SƯỚNG :v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154278",
+      "lang": "vi",
+      "content_html": "<p>Được mặt trời soi sáng thân mình là sung sướng rồi</p>",
+      "content_text": "Được mặt trời soi sáng thân mình là sung sướng rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "流暢",
+      "reading": "りゅうちょう",
+      "meaning": "lưu loát"
+    },
+    {
+      "word": "伸暢",
+      "reading": "しんちょう",
+      "meaning": "sự mở rộng"
+    },
+    {
+      "word": "暢達",
+      "reading": "ちょうたつ",
+      "meaning": "sự lưu loát"
+    },
+    {
+      "word": "暢気",
+      "reading": "のんき",
+      "meaning": "sự vô lo"
+    },
+    {
+      "word": "流暢に読む",
+      "reading": "りゅうちょうによむ",
+      "meaning": "đọc xuôi"
+    },
+    {
+      "word": "失語症-原発性進行性非流暢型",
+      "reading": "しつごしょー-げんぱつせーしんこーせーひりゅーちょーがた",
+      "meaning": "chứng mất ngôn ngữ tiến triển nguyên phát"
+    }
+  ]
+}

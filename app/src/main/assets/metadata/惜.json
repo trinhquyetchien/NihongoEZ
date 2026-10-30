@@ -1,0 +1,143 @@
+{
+  "kanji": "惜",
+  "meta": {
+    "weight": 988,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "お.しい",
+      "お.しむ"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "thương hại, tiết kiệm, keo kiệt, hối tiếc",
+    "en": "pity, be sparing of, frugal, stingy, regret"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/惜.svg"
+  },
+  "frequency": 1641,
+  "examples": [
+    "惜しい",
+    "惜しくも",
+    "惜しむ",
+    "惜しげ",
+    "負け惜しみ"
+  ],
+  "explanation": {
+    "id": "4388",
+    "text": "惜 (đọc là \"seki\" hoặc \"oshi\") có nghĩa là \"tiếc nuối\", \"thương tiếc\", chỉ cảm giác không muốn mất đi điều gì đó quý giá hoặc đáng trân trọng."
+  },
+  "comments": [
+    {
+      "id": "153631",
+      "lang": "vi",
+      "content_html": "<p>Con tim dựng lên vì đau buồn  sự tích ngày xưa</p>",
+      "content_text": "Con tim dựng lên vì đau buồn  sự tích ngày xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153632",
+      "lang": "vi",
+      "content_html": "<p>Trái tim (心）TIẾC nhớ chuyện ngày xưa (昔).</p>",
+      "content_text": "Trái tim (心）TIẾC nhớ chuyện ngày xưa (昔).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153633",
+      "lang": "vi",
+      "content_html": "<p>Trái tim dựng đứng vì Tiếc Tích xưa</p>",
+      "content_text": "Trái tim dựng đứng vì Tiếc Tích xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "惜敗",
+      "reading": "せきはい",
+      "meaning": "thất bại đáng tiếc"
+    },
+    {
+      "word": "哀惜",
+      "reading": "あいせき",
+      "meaning": "sự đau buồn"
+    },
+    {
+      "word": "愛惜",
+      "reading": "あいせき",
+      "meaning": "sự yêu quý"
+    },
+    {
+      "word": "惜別",
+      "reading": "せきべつ",
+      "meaning": "sự lưu luyến không nỡ chia tay"
+    },
+    {
+      "word": "痛惜",
+      "reading": "つうせき",
+      "meaning": "sự đáng tiếc"
+    },
+    {
+      "word": "惜春",
+      "reading": "せきしゅん",
+      "meaning": "sự luyến tiếc mùa xuân trôi qua"
+    },
+    {
+      "word": "可惜",
+      "reading": "あたら",
+      "meaning": "chao ôi"
+    },
+    {
+      "word": "惜敗率",
+      "reading": "せきはいりつ",
+      "meaning": "tỉ lệ thất bại sát nút"
+    },
+    {
+      "word": "惜し気",
+      "reading": "おしげ",
+      "meaning": "cảm giác hối hận"
+    },
+    {
+      "word": "惜しい",
+      "reading": "おしい",
+      "meaning": "quý giá"
+    }
+  ]
+}

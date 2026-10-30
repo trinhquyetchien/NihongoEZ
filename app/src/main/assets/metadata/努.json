@@ -1,0 +1,140 @@
+{
+  "kanji": "努",
+  "meta": {
+    "weight": 348,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "am_han": "NỖ"
+  },
+  "meaning": {
+    "vi": "nỗ lực",
+    "en": "toil, diligent, as much as possible"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/努.svg"
+  },
+  "frequency": 749,
+  "examples": [
+    "努力",
+    "努める",
+    "努"
+  ],
+  "explanation": {
+    "id": "5745",
+    "text": "努 (đọc là \"do\") có nghĩa là \"nỗ lực\", \"cố gắng\" để chỉ những hành động lao động, làm việc chăm chỉ hoặc cố gắng đạt được điều gì đó."
+  },
+  "comments": [
+    {
+      "id": "152076",
+      "lang": "vi",
+      "content_html": "<p>Tay muốn có được phũ nữ thì phải nỗ lực</p>",
+      "content_text": "Tay muốn có được phũ nữ thì phải nỗ lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152077",
+      "lang": "vi",
+      "content_html": "<p>Người hầu hay còn gọi là NÔ (奴) thì làm gì cũng phải nỗ LỰC hết khả năng của mình</p>",
+      "content_text": "Người hầu hay còn gọi là NÔ (奴) thì làm gì cũng phải nỗ LỰC hết khả năng của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152078",
+      "lang": "vi",
+      "content_html": "<p>PHỤ NỮ muốn có SỨC MẠNH phải luôn NỖ LỰC.</p>",
+      "content_text": "PHỤ NỮ muốn có SỨC MẠNH phải luôn NỖ LỰC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "努",
+      "reading": "ゆめ",
+      "meaning": "nỗ lực"
+    },
+    {
+      "word": "努努",
+      "reading": "ゆめゆめ",
+      "meaning": "tuyệt đối"
+    },
+    {
+      "word": "努力",
+      "reading": "どりょく",
+      "meaning": "chí tâm"
+    },
+    {
+      "word": "努力賞",
+      "reading": "どりょくしょう",
+      "meaning": "phần thưởng cho sự nỗ lực"
+    },
+    {
+      "word": "努めて",
+      "reading": "つとめて",
+      "meaning": "làm việc chăm chỉ quá"
+    },
+    {
+      "word": "努力家",
+      "reading": "どりょくか",
+      "meaning": "người làm việc chăm chỉ"
+    },
+    {
+      "word": "努める",
+      "reading": "つとめる",
+      "meaning": "cố gắng"
+    },
+    {
+      "word": "努力する",
+      "reading": "どりょくする",
+      "meaning": "chịu khó"
+    },
+    {
+      "word": "奮闘努力",
+      "reading": "ふんとうどりょく",
+      "meaning": "sự nỗ lực hết mình"
+    },
+    {
+      "word": "自助努力",
+      "reading": "じじょどりょく",
+      "meaning": "tự mình nỗ lực"
+    }
+  ]
+}

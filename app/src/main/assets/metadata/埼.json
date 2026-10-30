@@ -1,0 +1,120 @@
+{
+  "kanji": "埼",
+  "meta": {
+    "weight": 569,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "am_han": "KÌ, KỲ"
+  },
+  "meaning": {
+    "vi": "mũi đất, mỏm đất",
+    "en": "cape, spit, promontory"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/埼.svg"
+  },
+  "frequency": 971,
+  "examples": [
+    "埼玉"
+  ],
+  "explanation": {
+    "id": "2877",
+    "text": "埼 (đọc là \"saki\") có nghĩa là \"mũi đất\" hoặc \"điểm nhô ra\", thường chỉ các khu vực ven biển."
+  },
+  "comments": [
+    {
+      "id": "152605",
+      "lang": "vi",
+      "content_html": "<p>Mũi đất này thật là kỳ diệu</p>",
+      "content_text": "Mũi đất này thật là kỳ diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152606",
+      "lang": "vi",
+      "content_html": "<p>có khả năng lớn sẽ mua đước miếng đất kỳ dị này</p>",
+      "content_text": "có khả năng lớn sẽ mua đước miếng đất kỳ dị này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152607",
+      "lang": "vi",
+      "content_html": "<p>kì mua mảnh đất bị cong</p>",
+      "content_text": "kì mua mảnh đất bị cong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "埼銀",
+      "reading": "さいぎん",
+      "meaning": "saitama đắp bờ"
+    },
+    {
+      "word": "埼玉",
+      "reading": "さいたま",
+      "meaning": "saitama"
+    },
+    {
+      "word": "ダ埼玉",
+      "reading": "ダさいたま",
+      "meaning": "saitama quê mùa"
+    },
+    {
+      "word": "埼玉県",
+      "reading": "さいたまけん",
+      "meaning": "tỉnh saitama"
+    },
+    {
+      "word": "埼玉勢",
+      "reading": "さいたまぜい",
+      "meaning": "nhóm saitama"
+    },
+    {
+      "word": "U-TOOLS (埼玉精機)(修理)",
+      "reading": "ユーツールズさいたませいきしゅうり",
+      "meaning": "máy mài khí"
+    }
+  ]
+}

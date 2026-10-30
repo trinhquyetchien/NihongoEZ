@@ -1,0 +1,143 @@
+{
+  "kanji": "霊",
+  "meta": {
+    "weight": 2873,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "リョウ"
+    ],
+    "kun": [
+      "たま"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "linh hồn",
+    "en": "spirits, soul"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/霊.svg"
+  },
+  "frequency": 1458,
+  "examples": [
+    "霊",
+    "幽霊",
+    "精霊",
+    "霊的",
+    "聖霊"
+  ],
+  "explanation": {
+    "id": "8241",
+    "text": "霊 (đọc là \"rei\" hoặc \"ryō\") có nghĩa là \"linh hồn\", \"tâm linh\" để chỉ các khía cạnh liên quan đến thế giới siêu nhiên, linh hồn của con người hoặc vật thể."
+  },
+  "comments": [
+    {
+      "id": "157816",
+      "lang": "vi",
+      "content_html": "<p>Linh hồn xếp hàng lưu lạc giữa trời mưa</p>",
+      "content_text": "Linh hồn xếp hàng lưu lạc giữa trời mưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157817",
+      "lang": "vi",
+      "content_html": "<p>Đứng Xếp Hàng Trời Mưa chỉ có LINH hồn</p>",
+      "content_text": "Đứng Xếp Hàng Trời Mưa chỉ có LINH hồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157818",
+      "lang": "vi",
+      "content_html": "<p>Mưa xuống là có 1 hàng linh hồn xuất hiện</p>",
+      "content_text": "Mưa xuống là có 1 hàng linh hồn xuất hiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "霊",
+      "reading": "れい",
+      "meaning": "linh hồn"
+    },
+    {
+      "word": "霊威",
+      "reading": "れいい",
+      "meaning": "sức mạnh bí ẩn"
+    },
+    {
+      "word": "心霊",
+      "reading": "しんれい",
+      "meaning": "tinh thần"
+    },
+    {
+      "word": "御霊",
+      "reading": "みたま",
+      "meaning": "tinh thần một người đã chết"
+    },
+    {
+      "word": "皇霊",
+      "reading": "こうれい",
+      "meaning": "linh hồn của các vị thiên hoàng trong quá khứ"
+    },
+    {
+      "word": "霊力",
+      "reading": "れいりょく",
+      "meaning": "sức mạnh tinh thần"
+    },
+    {
+      "word": "神霊",
+      "reading": "しんれい",
+      "meaning": "thần linh"
+    },
+    {
+      "word": "祖霊",
+      "reading": "それい",
+      "meaning": "linh hồn tổ tiên"
+    },
+    {
+      "word": "霊亀",
+      "reading": "れいき",
+      "meaning": "rùa thần"
+    },
+    {
+      "word": "分霊",
+      "reading": "ぶんれい",
+      "meaning": "phân thân của thần linh"
+    }
+  ]
+}

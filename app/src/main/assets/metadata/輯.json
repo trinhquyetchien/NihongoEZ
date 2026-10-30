@@ -1,0 +1,65 @@
+{
+  "kanji": "輯",
+  "meta": {
+    "weight": 2619,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あつ.める",
+      "やわ.らぐ"
+    ],
+    "am_han": "TẬP"
+  },
+  "meaning": {
+    "vi": "tập hợp, thu thập, biên dịch",
+    "en": "gather, collect, compile"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/輯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3527",
+    "text": "輯 (đọc là \"jiku\") có nghĩa là \"kết nối\", \"liên kết\" để chỉ các hành động liên quan đến việc kết hợp hoặc tổ chức thông tin."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "輯録",
+      "reading": "しゅうろく",
+      "meaning": "biên soạn"
+    },
+    {
+      "word": "集輯",
+      "reading": "しゅうしゅう",
+      "meaning": "tập hợp lại"
+    },
+    {
+      "word": "特輯",
+      "reading": "とくしゅう",
+      "meaning": "phiên bản đặc biệt"
+    },
+    {
+      "word": "編輯",
+      "reading": "へんしゅう",
+      "meaning": "sự biên soạn"
+    },
+    {
+      "word": "収輯",
+      "reading": "",
+      "meaning": "tụ lại lên trên"
+    },
+    {
+      "word": "第一輯",
+      "reading": "だいいっしゅう",
+      "meaning": "đợt đầu tiên"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "kanji": "造",
+  "meta": {
+    "weight": 2661,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "am_han": "TẠO"
+  },
+  "meaning": {
+    "vi": "tạo ra, chế tạo",
+    "en": "create, make, structure, physique"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/造.svg"
+  },
+  "frequency": 429,
+  "examples": [
+    "構造",
+    "製造",
+    "創造",
+    "改造",
+    "造り"
+  ],
+  "explanation": {
+    "id": "4784",
+    "text": "造 (đọc là \"zō\") có nghĩa là \"sáng tạo\", \"chế tạo\", thường chỉ các hành động liên quan đến việc xây dựng hoặc sản xuất."
+  },
+  "comments": [
+    {
+      "id": "157336",
+      "lang": "vi",
+      "content_html": "<p>Báo cáo đc chuyển đi để mọi người cùng chế tạo</p>",
+      "content_text": "Báo cáo đc chuyển đi để mọi người cùng chế tạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157337",
+      "lang": "vi",
+      "content_html": "<p>báo cáo đường lối chế tạo</p>",
+      "content_text": "báo cáo đường lối chế tạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157338",
+      "lang": "vi",
+      "content_html": "<p>TẠO hóa SINH ra cái MỒM để hỏi đường</p>",
+      "content_text": "TẠO hóa SINH ra cái MỒM để hỏi đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "造る",
+      "reading": "つくる",
+      "meaning": "cắt tỉa"
+    },
+    {
+      "word": "造立",
+      "reading": "ぞうりゅう",
+      "meaning": "xây dựng"
+    },
+    {
+      "word": "転造",
+      "reading": "てんぞう",
+      "meaning": "sự lăn"
+    },
+    {
+      "word": "酒造",
+      "reading": "しゅぞう",
+      "meaning": "sự chưng cất rượu"
+    },
+    {
+      "word": "建造",
+      "reading": "けんぞう",
+      "meaning": "xây dựng"
+    },
+    {
+      "word": "構造",
+      "reading": "こうぞう",
+      "meaning": "cấu trúc"
+    },
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "sự cải tạo"
+    },
+    {
+      "word": "ＲＣ造",
+      "reading": "アールシーぞう",
+      "meaning": "kết cấu bê tông cốt thép"
+    },
+    {
+      "word": "石造",
+      "reading": "せきぞう",
+      "meaning": "được làm bằng đá"
+    },
+    {
+      "word": "造園",
+      "reading": "ぞうえん",
+      "meaning": "kiến trúc phong cảnh"
+    }
+  ]
+}

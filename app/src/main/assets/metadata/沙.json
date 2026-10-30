@@ -1,0 +1,144 @@
+{
+  "kanji": "沙",
+  "meta": {
+    "weight": 1503,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "すな",
+      "よなげる"
+    ],
+    "am_han": "SA, SÁ"
+  },
+  "meaning": {
+    "vi": "cát",
+    "en": "sand"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沙.svg"
+  },
+  "frequency": 1897,
+  "examples": [
+    "ご無沙汰",
+    "沙",
+    "沙汰",
+    "音沙汰",
+    "取り沙汰"
+  ],
+  "explanation": {
+    "id": "2748",
+    "text": "沙 (đọc là \"sha\") có nghĩa là \"cát\" để chỉ các hạt nhỏ của vật liệu tự nhiên thường thấy ở bãi biển hoặc sa mạc."
+  },
+  "comments": [
+    {
+      "id": "154796",
+      "lang": "vi",
+      "content_html": "<p>SA mạc là nơi Thiếu Nước</p>",
+      "content_text": "SA mạc là nơi Thiếu Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154797",
+      "lang": "vi",
+      "content_html": "<p>nơi thiếu nước là bãi cát ( sa)</p>",
+      "content_text": "nơi thiếu nước là bãi cát ( sa)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154798",
+      "lang": "vi",
+      "content_html": "<p>nước bị thiếu chỉ có thể ở SA mạc</p>",
+      "content_text": "nước bị thiếu chỉ có thể ở SA mạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "沙",
+      "reading": "すな",
+      "meaning": "một phần trăm triệu"
+    },
+    {
+      "word": "沙丘",
+      "reading": "さきゅう",
+      "meaning": "đổ cát ngọn đồi"
+    },
+    {
+      "word": "沙汰",
+      "reading": "さた",
+      "meaning": "hành vi"
+    },
+    {
+      "word": "沙門",
+      "reading": "しゃもん",
+      "meaning": "nhà sư lang thang"
+    },
+    {
+      "word": "沙弥",
+      "reading": "しゃみ",
+      "meaning": "người tập sự tín đồ phật giáo"
+    },
+    {
+      "word": "沙羅",
+      "reading": "しゃら",
+      "meaning": "cây sa la"
+    },
+    {
+      "word": "沙虫",
+      "reading": "いさごむし",
+      "meaning": "ấu trùng của trùng cánh lông"
+    },
+    {
+      "word": "沙穀",
+      "reading": "サゴ",
+      "meaning": "sago"
+    },
+    {
+      "word": "秋沙",
+      "reading": "あいさ",
+      "meaning": "chim thuộc họ vịt"
+    },
+    {
+      "word": "沙蚕",
+      "reading": "ごかい",
+      "meaning": "giun cát"
+    }
+  ]
+}

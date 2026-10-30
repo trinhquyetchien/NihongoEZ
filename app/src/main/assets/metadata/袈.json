@@ -1,0 +1,103 @@
+{
+  "kanji": "袈",
+  "meta": {
+    "weight": 2413,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケ",
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "CA"
+  },
+  "meaning": {
+    "vi": "một con lạc đà thô",
+    "en": "a coarse camlet"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1927",
+    "text": "袈 (đọc là \"ka\") có nghĩa là \"áo cà sa\", thường chỉ trang phục của các tăng ni trong Phật giáo."
+  },
+  "comments": [
+    {
+      "id": "220643",
+      "lang": "vi",
+      "content_html": "<p>Áo của nguoi xuat Gia là ao Ca Sa</p>",
+      "content_text": "Áo của nguoi xuat Gia là ao Ca Sa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220644",
+      "lang": "vi",
+      "content_html": "<p>Xuất GIA ( 加 )mặc áo (衣) cà sa (袈裟</p>",
+      "content_text": "Xuất GIA ( 加 )mặc áo (衣) cà sa (袈裟",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "袈裟",
+      "reading": "けさ",
+      "meaning": "áo cà sa"
+    },
+    {
+      "word": "大袈裟",
+      "reading": "おおげさ",
+      "meaning": "vĩ đại"
+    },
+    {
+      "word": "輪袈裟",
+      "reading": "わげさ",
+      "meaning": "khăn choàng hình vòng"
+    },
+    {
+      "word": "袈裟切り",
+      "reading": "けさぎり",
+      "meaning": "cách chém xổ dọc từ trên xuống"
+    },
+    {
+      "word": "袈裟懸け",
+      "reading": "けさがけ",
+      "meaning": "đâm xéo từ vai"
+    },
+    {
+      "word": "袈裟固め",
+      "reading": "けさがため",
+      "meaning": "quàng cổ"
+    },
+    {
+      "word": "坊主憎けりゃ袈裟まで憎い",
+      "reading": "ぼうずにくけりゃけさまでにくい",
+      "meaning": "đốt nóng mọi thứ về một người"
+    }
+  ]
+}

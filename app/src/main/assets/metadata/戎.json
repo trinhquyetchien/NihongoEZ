@@ -1,0 +1,65 @@
+{
+  "kanji": "戎",
+  "meta": {
+    "weight": 1029,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "えびす",
+      "つわもの"
+    ],
+    "am_han": "NHUNG"
+  },
+  "meaning": {
+    "vi": "chiến binh, vũ khí, man rợ, Ainu",
+    "en": "warrior, arms, barbarian, Ainu"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/戎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3560",
+    "text": "戎 (đọc là \"eiyuu\" hoặc \"jugun\") có nghĩa là \"quân đội\", \"chiến tranh\" để chỉ các hoạt động liên quan đến quân sự, chiến đấu."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "西戎",
+      "reading": "せいじゅう",
+      "meaning": "tây nhung"
+    },
+    {
+      "word": "戎克",
+      "reading": "ジャンク",
+      "meaning": "thuyền buồm trung quốc"
+    },
+    {
+      "word": "戎葵",
+      "reading": "じゅうき",
+      "meaning": "cây thục quỳ"
+    },
+    {
+      "word": "十日戎",
+      "reading": "とおかえびす",
+      "meaning": "lễ hội toka ebisu"
+    },
+    {
+      "word": "翁戎貝",
+      "reading": "おきなえびすがい",
+      "meaning": "ốc anh vũ"
+    },
+    {
+      "word": "東夷西戎",
+      "reading": "とういせいじゅう",
+      "meaning": "các dân tộc phương đông và phương tây ngoài trung quốc"
+    }
+  ]
+}
