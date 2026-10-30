@@ -3,9 +3,12 @@ name: Android CI / CD
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    tags:
+      - 'v*'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -25,11 +28,44 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
 
-    - name: Build Debug APK
-      run: ./gradlew assembleDebug --no-daemon
+    - name: Build Release APK
+      run: ./gradlew assembleRelease --no-daemon
 
-    - name: Upload Debug APK
+    - name: Prepare APK file for Release
+      id: prepare_apk
+      run: |
+        VERSION=$(grep 'versionName =' app/build.gradle.kts | awk -F '"' '{print $2}')
+        if [ -z "$VERSION" ]; then
+          VERSION="latest"
+        fi
+        
+        # Đường dẫn file APK sau khi build
+        SOURCE_APK="app/build/outputs/apk/release/app-release.apk"
+        TARGET_APK="app/build/outputs/apk/release/OnisKanji-v${VERSION}.apk"
+        
+        cp "$SOURCE_APK" "$TARGET_APK"
+        echo "apk_path=$TARGET_APK" >> $GITHUB_OUTPUT
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+    - name: Upload APK Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: app-debug
-        path: app/build/outputs/apk/debug/app-debug.apk
+        name: OnisKanji-v${{ steps.prepare_apk.outputs.version }}
+        path: ${{ steps.prepare_apk.outputs.apk_path }}
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ github.ref_type == 'tag' && github.ref_name || format('v{0}', steps.prepare_apk.outputs.version) }}
+        name: ${{ github.ref_type == 'tag' && github.ref_name || format('Release v{0}', steps.prepare_apk.outputs.version) }}
+        body: |
+          ### Onis Kanji Release
+          - Phiên bản: `v${{ steps.prepare_apk.outputs.version }}`
+          - Ngày tạo: ${{ github.event.head_commit.timestamp || 'Manual/Auto Trigger' }}
+          - Tải trực tiếp file APK bên dưới để cài đặt.
+        files: |
+          ${{ steps.prepare_apk.outputs.apk_path }}
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
