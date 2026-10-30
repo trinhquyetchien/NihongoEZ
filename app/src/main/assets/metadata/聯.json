@@ -1,0 +1,105 @@
+{
+  "kanji": "聯",
+  "meta": {
+    "weight": 2160,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "つら.なる",
+      "つら.ねる"
+    ],
+    "am_han": "LIÊN"
+  },
+  "meaning": {
+    "vi": "đảng, băng đảng, bè phái",
+    "en": "party, gang, clique"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/聯.svg"
+  },
+  "frequency": 1967,
+  "examples": [
+    "聯合"
+  ],
+  "explanation": {
+    "id": "8289",
+    "text": "聯 (đọc là \"ren\") có nghĩa là \"liên kết\", \"gắn bó\" để chỉ các mối quan hệ hoặc sự kết nối giữa các yếu tố khác nhau."
+  },
+  "comments": [
+    {
+      "id": "156250",
+      "lang": "vi",
+      "content_html": "<p>dùng lời ngon ngọt rót vào tai e huyền ,làm e rụng trứng liên tục</p>",
+      "content_text": "dùng lời ngon ngọt rót vào tai e huyền ,làm e rụng trứng liên tục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "対聯",
+      "reading": "ついれん",
+      "meaning": "cặp câu"
+    },
+    {
+      "word": "関聯",
+      "reading": "かんれん",
+      "meaning": "mối quan hệ"
+    },
+    {
+      "word": "聯句",
+      "reading": "れんく",
+      "meaning": "cặp câu"
+    },
+    {
+      "word": "聯珠",
+      "reading": "れんじゅ",
+      "meaning": "cờ ca rô"
+    },
+    {
+      "word": "聯想",
+      "reading": "れんそう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "聯邦",
+      "reading": "れんぽう",
+      "meaning": "sự liên minh"
+    },
+    {
+      "word": "聯合",
+      "reading": "れんごう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "聯隊",
+      "reading": "れんたい",
+      "meaning": "trung đoàn"
+    },
+    {
+      "word": "聯絡",
+      "reading": "れんらく",
+      "meaning": "sự liên lạc"
+    },
+    {
+      "word": "聯立",
+      "reading": "れんりつ",
+      "meaning": "liên minh"
+    }
+  ]
+}

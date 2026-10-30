@@ -1,0 +1,139 @@
+{
+  "kanji": "巷",
+  "meta": {
+    "weight": 825,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ちまた"
+    ],
+    "am_han": "HẠNG"
+  },
+  "meaning": {
+    "vi": "ngã ba đường, cảnh, đấu trường, nhà hát",
+    "en": "fork in road, scene, arena, theater"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/巷.svg"
+  },
+  "frequency": 2415,
+  "examples": [
+    "巷",
+    "巷間"
+  ],
+  "explanation": {
+    "id": "2429",
+    "text": "巷 (đọc là \"kō\") có nghĩa là \"ngõ\", \"hẻm\", chỉ những con đường nhỏ trong khu dân cư."
+  },
+  "comments": [
+    {
+      "id": "153223",
+      "lang": "vi",
+      "content_html": "<p>Biết TỰ đi đường tắt sẽ được CỘNG thêm HẠNG trong cuộc thi</p>",
+      "content_text": "Biết TỰ đi đường tắt sẽ được CỘNG thêm HẠNG trong cuộc thi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153224",
+      "lang": "vi",
+      "content_html": "<p>cái Hạng đi tắt thì phải cộng thêm 2 vòng chạy</p>",
+      "content_text": "cái Hạng đi tắt thì phải cộng thêm 2 vòng chạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153225",
+      "lang": "vi",
+      "content_html": "<p>Tự Cộng cho Bản thân thì sẽ lên HẠNG</p>",
+      "content_text": "Tự Cộng cho Bản thân thì sẽ lên HẠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "巷",
+      "reading": "ちまた",
+      "meaning": "hẻm"
+    },
+    {
+      "word": "巷談",
+      "reading": "こうだん",
+      "meaning": "lời đồn của thiên hạ"
+    },
+    {
+      "word": "陋巷",
+      "reading": "ろうこう",
+      "meaning": "phố hẹp và bẩn thỉu"
+    },
+    {
+      "word": "巷間",
+      "reading": "こうかん",
+      "meaning": "quần chúng"
+    },
+    {
+      "word": "巷説",
+      "reading": "こうせつ",
+      "meaning": "ngồi lê mách lẻo"
+    },
+    {
+      "word": "悪の巷",
+      "reading": "あくのちまた",
+      "meaning": "thế giới tội ác ngầm"
+    },
+    {
+      "word": "柳巷花街",
+      "reading": "りゅうこうかがい",
+      "meaning": "khu phố đèn đỏ"
+    },
+    {
+      "word": "街談巷語",
+      "reading": "がいだんこうご",
+      "meaning": "những tin đồn vu vơ"
+    },
+    {
+      "word": "街談巷説",
+      "reading": "がいだんこうせつ",
+      "meaning": "những tin đồn vu vơ"
+    },
+    {
+      "word": "修羅の巷",
+      "reading": "しゅらのちまた",
+      "meaning": "cảnh sự tàn sát"
+    }
+  ]
+}

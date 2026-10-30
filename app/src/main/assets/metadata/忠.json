@@ -1,0 +1,140 @@
+{
+  "kanji": "忠",
+  "meta": {
+    "weight": 946,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRUNG"
+  },
+  "meaning": {
+    "vi": "lòng trung thành, sự chung thủy, sự trung thành",
+    "en": "loyalty, fidelity, faithfulness"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/忠.svg"
+  },
+  "frequency": 1113,
+  "examples": [
+    "忠実",
+    "忠",
+    "忠告",
+    "忠誠",
+    "忠義"
+  ],
+  "explanation": {
+    "id": "5277",
+    "text": "忠 (đọc là \"chū\") có nghĩa là \"trung thành\", \"trung thực\", thể hiện lòng trung kiên và sự tận tâm."
+  },
+  "comments": [
+    {
+      "id": "153529",
+      "lang": "vi",
+      "content_html": "<p>sự TRUNG thực xuất phát từ GIỮA trái TIM</p>",
+      "content_text": "sự TRUNG thực xuất phát từ GIỮA trái TIM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153530",
+      "lang": "vi",
+      "content_html": "<p>Trung thực ở chính giữa tâm</p>",
+      "content_text": "Trung thực ở chính giữa tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153531",
+      "lang": "vi",
+      "content_html": "<p>訓　ただ</p>",
+      "content_text": "訓　ただ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "忠",
+      "reading": "ちゅう",
+      "meaning": "việc cống hiến làm hết sức mình bằng cả trái tim"
+    },
+    {
+      "word": "忠実忠実しい",
+      "reading": "まめまめしい",
+      "meaning": "chăm chỉ"
+    },
+    {
+      "word": "忠犬",
+      "reading": "ちゅうけん",
+      "meaning": "con chó trung thành với chủ"
+    },
+    {
+      "word": "忠言",
+      "reading": "ちゅうげん",
+      "meaning": "lời khuyên tốt"
+    },
+    {
+      "word": "忠義",
+      "reading": "ちゅうぎ",
+      "meaning": "sự trung nghĩa"
+    },
+    {
+      "word": "忠孝",
+      "reading": "ちゅうこう",
+      "meaning": "trung thành và hiếu thảo"
+    },
+    {
+      "word": "不忠",
+      "reading": "ふちゅう",
+      "meaning": "bất trung"
+    },
+    {
+      "word": "忠順",
+      "reading": "ちゅうじゅん",
+      "meaning": "lòng trung thành và phục tùng"
+    },
+    {
+      "word": "誠忠",
+      "reading": "せいちゅう",
+      "meaning": "lòng trung thành"
+    },
+    {
+      "word": "忠愛",
+      "reading": "ちゅうあい",
+      "meaning": "lòng trung thành"
+    }
+  ]
+}

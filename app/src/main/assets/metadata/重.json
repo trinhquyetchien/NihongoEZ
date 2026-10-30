@@ -1,0 +1,149 @@
+{
+  "kanji": "重",
+  "meta": {
+    "weight": 2735,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kun": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "am_han": "TRỌNG"
+  },
+  "meaning": {
+    "vi": "nặng, trọng lượng",
+    "en": "heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/重.svg"
+  },
+  "frequency": 193,
+  "examples": [
+    "重要",
+    "重",
+    "貴重",
+    "重視",
+    "重大"
+  ],
+  "explanation": {
+    "id": "3576",
+    "text": "重 (đọc là \"jū\" hoặc \"omo\") có nghĩa là \"nặng\", \"trọng\" để chỉ trọng lượng, tầm quan trọng hoặc khối lượng."
+  },
+  "comments": [
+    {
+      "id": "1037",
+      "lang": "vi",
+      "content_html": "<p>Một nghìn (千) quyển sách sẽ rất <strong>nặng</strong>.</p>",
+      "content_text": "Một nghìn (千) quyển sách sẽ rất\nnặng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e14d09883.jpg",
+      "image_path": "assets/images/重_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191217",
+      "lang": "vi",
+      "content_html": "<p><strong>nặng</strong></p>",
+      "content_text": "nặng",
+      "image_url": "https://jpdictionary.com/upload/images/648add16013cb.jpg",
+      "image_path": "assets/images/重_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157513",
+      "lang": "vi",
+      "content_html": "<p>Người ta cho rằng chiếc xe ( 車 ) có thêm hai cái bánh rất quan TRỌNG ( 重い )</p>",
+      "content_text": "Người ta cho rằng chiếc xe ( 車 ) có thêm hai cái bánh rất quan TRỌNG ( 重い )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "重",
+      "reading": "おも",
+      "meaning": "lần"
+    },
+    {
+      "word": "重重",
+      "reading": "じゅうじゅう",
+      "meaning": "nhiều lần nhắc đi nhắc lại"
+    },
+    {
+      "word": "重重に",
+      "reading": "じゅうじゅうに",
+      "meaning": "vô cùng"
+    },
+    {
+      "word": "八重八重",
+      "reading": "やえやえ",
+      "meaning": "tầng tầng lớp lớp"
+    },
+    {
+      "word": "二重三重",
+      "reading": "にじゅうさんじゅう",
+      "meaning": "sự chồng chéo"
+    },
+    {
+      "word": "重重しい",
+      "reading": "おもおもしい",
+      "meaning": "thường xuyên"
+    },
+    {
+      "word": "重ね重ね",
+      "reading": "かさねがさね",
+      "meaning": "thông thường"
+    },
+    {
+      "word": "重重にも",
+      "reading": "じゅうじゅうにも",
+      "meaning": "lặp đi lặp lại nhiều lần"
+    },
+    {
+      "word": "十重二十重",
+      "reading": "とえはたえ",
+      "meaning": "vô số"
+    },
+    {
+      "word": "重解",
+      "reading": "じゅうかい",
+      "meaning": "nghiệm bội"
+    }
+  ]
+}

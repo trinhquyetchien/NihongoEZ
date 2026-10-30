@@ -1,0 +1,137 @@
+{
+  "kanji": "嘩",
+  "meta": {
+    "weight": 519,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "かまびす.しい"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "ồn ào",
+    "en": "noisy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嘩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "698",
+    "text": "嘩 (đọc là \"ka\") có nghĩa là \"ồn ào\", \"làm ầm ĩ\" để chỉ các tình huống gây ra tiếng ồn hoặc náo động."
+  },
+  "comments": [
+    {
+      "id": "219154",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG lưỡi ba HOA chích choè</p>",
+      "content_text": "MIỆNG lưỡi ba HOA chích choè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219155",
+      "lang": "vi",
+      "content_html": "<p>Hoa hay MIỆNG lưỡi ba HOA chích choè.</p>",
+      "content_text": "Hoa hay MIỆNG lưỡi ba HOA chích choè.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219156",
+      "lang": "vi",
+      "content_html": "<p>Người hoa chỉ võ mồm</p>",
+      "content_text": "Người hoa chỉ võ mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喧嘩",
+      "reading": "けんか",
+      "meaning": "cãi nhau"
+    },
+    {
+      "word": "喧嘩腰",
+      "reading": "けんかごし",
+      "meaning": "tham chiến"
+    },
+    {
+      "word": "大喧嘩",
+      "reading": "おおげんか",
+      "meaning": "cuộc cãi vã lớn"
+    },
+    {
+      "word": "口喧嘩",
+      "reading": "くちげんか",
+      "meaning": "cãi nhau"
+    },
+    {
+      "word": "水喧嘩",
+      "reading": "みずげんか",
+      "meaning": "tranh chấp về việc phân phối nước vào ruộng trong mùa hè"
+    },
+    {
+      "word": "喧嘩早い",
+      "reading": "けんかばやい",
+      "meaning": "hay câi nhau"
+    },
+    {
+      "word": "喧嘩別れ",
+      "reading": "けんかわかれ",
+      "meaning": "chia ra từng cặp đánh nhau"
+    },
+    {
+      "word": "仲間喧嘩",
+      "reading": "なかまげんか",
+      "meaning": "xung đột nội bộ"
+    },
+    {
+      "word": "喧嘩沙汰",
+      "reading": "けんかざた",
+      "meaning": "sự phát triển thành cuộc cãi vã"
+    },
+    {
+      "word": "兄妹喧嘩",
+      "reading": "きょうだいげんか",
+      "meaning": "anh chị em cãi nhau"
+    }
+  ]
+}

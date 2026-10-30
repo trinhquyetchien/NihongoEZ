@@ -1,0 +1,140 @@
+{
+  "kanji": "抽",
+  "meta": {
+    "weight": 1069,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひき-"
+    ],
+    "am_han": "TRỪU"
+  },
+  "meaning": {
+    "vi": "nhổ, kéo, giải nén, excel",
+    "en": "pluck, pull, extract, excel"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/抽.svg"
+  },
+  "frequency": 1437,
+  "examples": [
+    "抽象",
+    "抽選",
+    "抽出"
+  ],
+  "explanation": {
+    "id": "5280",
+    "text": "抽 (đọc là \"chū\") có nghĩa là \"rút ra\", \"kéo ra\" để chỉ các hành động liên quan đến việc lấy hoặc chọn cái gì đó từ một nhóm hoặc kho chứa."
+  },
+  "comments": [
+    {
+      "id": "153847",
+      "lang": "vi",
+      "content_html": "<p>giống chữ áp 押 vãi, tiếng nhật thật trừu tượng !</p>",
+      "content_text": "giống chữ áp 押 vãi, tiếng nhật thật trừu tượng !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153848",
+      "lang": "vi",
+      "content_html": "<p>Tự do là thứ rất trìu tượng, không thể nắm bắt bằng tay</p>",
+      "content_text": "Tự do là thứ rất trìu tượng, không thể nắm bắt bằng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153849",
+      "lang": "vi",
+      "content_html": "<p>(Người câm) Tay múa tự Do nhìn rất TRỪU tượng</p>",
+      "content_text": "(Người câm) Tay múa tự Do nhìn rất TRỪU tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "無作為抽出 / 任意抽出",
+      "reading": "むさくいちゅうしゅつ",
+      "meaning": "random sampling"
+    },
+    {
+      "word": "抽籤",
+      "reading": "ちゅうせん",
+      "meaning": "xổ số"
+    },
+    {
+      "word": "抽斗",
+      "reading": "ひきだし",
+      "meaning": "ngăn kéo"
+    },
+    {
+      "word": "抽選",
+      "reading": "ちゅうせん",
+      "meaning": "sự rút thăm"
+    },
+    {
+      "word": "抽象",
+      "reading": "ちゅうしょう",
+      "meaning": "sự trừu tượng"
+    },
+    {
+      "word": "抽出",
+      "reading": "ちゅうしゅつ",
+      "meaning": "trích ra"
+    },
+    {
+      "word": "抽せん",
+      "reading": "ちゅうせん",
+      "meaning": "sự quay số trúng thưởng"
+    },
+    {
+      "word": "抽象的",
+      "reading": "ちゅうしょうてき",
+      "meaning": "một cách trừu tượng"
+    },
+    {
+      "word": "抽象画",
+      "reading": "ちゅうしょうが",
+      "meaning": "tranh trừu trượng"
+    },
+    {
+      "word": "抽出モード",
+      "reading": "ちゅうしゅつモード",
+      "meaning": "chế độ chọn lọc"
+    }
+  ]
+}

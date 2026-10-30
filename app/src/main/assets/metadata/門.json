@@ -1,0 +1,126 @@
+{
+  "kanji": "門",
+  "meta": {
+    "weight": 2801,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モン"
+    ],
+    "kun": [
+      "かど",
+      "と"
+    ],
+    "am_han": "MÔN"
+  },
+  "meaning": {
+    "vi": "cổng, nhập môn",
+    "en": "gate, counter for cannons"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/門.svg"
+  },
+  "frequency": 452,
+  "examples": [
+    "専門",
+    "部門",
+    "入門",
+    "門",
+    "名門"
+  ],
+  "explanation": {
+    "id": "7660",
+    "text": "門 (đọc là \"mon\") có nghĩa là \"cửa\", \"cổng\" để chỉ các cấu trúc hoặc lối vào."
+  },
+  "comments": [
+    {
+      "id": "527",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng cánh <strong>cổng</strong></p>",
+      "content_text": "Hình dạng cánh\ncổng",
+      "image_url": "https://jpdictionary.com/upload/images/6297691793e33.jpg",
+      "image_path": "assets/images/門_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157625",
+      "lang": "vi",
+      "content_html": "<p>Tượng Hình: cánh cổng, cửa 2 cánh trong quán bar ở phim cao bồi. Bộ 169.</p>",
+      "content_text": "Tượng Hình: cánh cổng, cửa 2 cánh trong quán bar ở phim cao bồi. Bộ 169.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "門",
+      "reading": "もん",
+      "meaning": "cổng"
+    },
+    {
+      "word": "アキドバクテリウム門（アシドバクテリウム門）",
+      "reading": "アキドバクテリウムもん（アシドバクテリウムもん）",
+      "meaning": "acidobacteria"
+    },
+    {
+      "word": "蕉門",
+      "reading": "しょうもん",
+      "meaning": "hỏi"
+    },
+    {
+      "word": "廈門",
+      "reading": "アモイ",
+      "meaning": "xiamen"
+    },
+    {
+      "word": "法門",
+      "reading": "ほうもん",
+      "meaning": "pháp môn"
+    },
+    {
+      "word": "門派",
+      "reading": "もんぱ",
+      "meaning": "môn phái"
+    },
+    {
+      "word": "校門",
+      "reading": "こうもん",
+      "meaning": "cổng trường"
+    },
+    {
+      "word": "関門",
+      "reading": "かんもん",
+      "meaning": "sự đóng cửa"
+    },
+    {
+      "word": "門葉",
+      "reading": "もんよう",
+      "meaning": "gia tộc có quan hệ huyết thống"
+    },
+    {
+      "word": "気門",
+      "reading": "きもん",
+      "meaning": "lỗ thở"
+    }
+  ]
+}

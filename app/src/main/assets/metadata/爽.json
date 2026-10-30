@@ -1,0 +1,142 @@
+{
+  "kanji": "爽",
+  "meta": {
+    "weight": 1685,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あき.らか",
+      "さわ.やか",
+      "たがう"
+    ],
+    "am_han": "SẢNG"
+  },
+  "meaning": {
+    "vi": "sảng khoái, giằng co, cộng hưởng, ngọt ngào, rõ ràng",
+    "en": "refreshing, bracing, resonant, sweet, clear"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/爽.svg"
+  },
+  "frequency": 2333,
+  "examples": [
+    "爽やか",
+    "爽快",
+    "颯爽"
+  ],
+  "explanation": {
+    "id": "4689",
+    "text": "爽 (đọc là \"sō\") có nghĩa là \"dễ chịu\", \"tươi mát\" để chỉ cảm giác thoải mái hoặc sảng khoái."
+  },
+  "comments": [
+    {
+      "id": "155219",
+      "lang": "vi",
+      "content_html": "<p>người đàn ông dang tay sảng khoái vì biết mình sắp được tăng  lương  4 lần (x4)</p>",
+      "content_text": "người đàn ông dang tay sảng khoái vì biết mình sắp được tăng  lương  4 lần (x4)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155220",
+      "lang": "vi",
+      "content_html": "<p>Tẩm quất trên lưng người vẹo 4 cái x thì sảng khoải quá</p>",
+      "content_text": "Tẩm quất trên lưng người vẹo 4 cái x thì sảng khoải quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155221",
+      "lang": "vi",
+      "content_html": "<p>To大 gấp 4 lần xxxx4 nên thấy sảng khoái , dễ chịu</p>",
+      "content_text": "To大 gấp 4 lần xxxx4 nên thấy sảng khoái , dễ chịu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "爽爽として",
+      "reading": "さわさわとして",
+      "meaning": "sự xào xạc"
+    },
+    {
+      "word": "爽快",
+      "reading": "そうかい",
+      "meaning": "làm cho khoẻ khoắn"
+    },
+    {
+      "word": "豪爽",
+      "reading": "ごうそう",
+      "meaning": "phạt tiền sự xếp đặt"
+    },
+    {
+      "word": "清爽",
+      "reading": "せいそう",
+      "meaning": "sảng khoái"
+    },
+    {
+      "word": "爽凉",
+      "reading": "そうりょう",
+      "meaning": "mát và sảng khoái"
+    },
+    {
+      "word": "颯爽",
+      "reading": "さっそう",
+      "meaning": "người ga lăng"
+    },
+    {
+      "word": "爽涼",
+      "reading": "そうりょう",
+      "meaning": "mát và sự làm mới lại"
+    },
+    {
+      "word": "爽秋",
+      "reading": "そうしゅう",
+      "meaning": "mùa thu mát mẻ và dễ chịu"
+    },
+    {
+      "word": "爽々",
+      "reading": "さわさわ",
+      "meaning": "xào xạc"
+    },
+    {
+      "word": "爽やか",
+      "reading": "さわやか",
+      "meaning": "dễ chịu"
+    }
+  ]
+}

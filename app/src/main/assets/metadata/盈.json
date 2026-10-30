@@ -1,0 +1,55 @@
+{
+  "kanji": "盈",
+  "meta": {
+    "weight": 1829,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "み.たす",
+      "み.ちる"
+    ],
+    "am_han": "DOANH"
+  },
+  "meaning": {
+    "vi": "đầy đủ, đủ, tự hào, thỏa mãn",
+    "en": "fullness, enough, pride, satisfy"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/盈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "392",
+    "text": "盈 (đọc là \"ei\") có nghĩa là \"đầy\", \"tràn đầy\" để chỉ trạng thái đầy đủ hoặc sự sung túc."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "盈虧",
+      "reading": "えいき",
+      "meaning": "sự thịnh suy"
+    },
+    {
+      "word": "盈虚",
+      "reading": "えいきょ",
+      "meaning": "sự hưng thịnh và suy yếu"
+    },
+    {
+      "word": "充盈",
+      "reading": "じゅうえい",
+      "meaning": "tràn đầy"
+    },
+    {
+      "word": "盈ちる",
+      "reading": "みちる",
+      "meaning": "đầy đủ"
+    }
+  ]
+}

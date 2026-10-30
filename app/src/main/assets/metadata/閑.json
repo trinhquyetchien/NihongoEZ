@@ -1,0 +1,140 @@
+{
+  "kanji": "閑",
+  "meta": {
+    "weight": 2806,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "NHÀN"
+  },
+  "meaning": {
+    "vi": "thời gian rảnh rỗi",
+    "en": "leisure"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/閑.svg"
+  },
+  "frequency": 1994,
+  "examples": [
+    "閑話休題",
+    "閑",
+    "閑静",
+    "閑散",
+    "閑話"
+  ],
+  "explanation": {
+    "id": "1192",
+    "text": "閑 (đọc là \"kan\" hoặc \"shizuka\") có nghĩa là \"rảnh rỗi\", \"yên tĩnh\", chỉ trạng thái không bận rộn hoặc sự yên lặng."
+  },
+  "comments": [
+    {
+      "id": "157632",
+      "lang": "vi",
+      "content_html": "<p>Nhàn rỗi nên trồng cây ở cổng</p>",
+      "content_text": "Nhàn rỗi nên trồng cây ở cổng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157633",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa cảnh trước cửa có cái cây lớn nghỉ bóng mát cảm giác an nhàn</p>",
+      "content_text": "Thời xưa cảnh trước cửa có cái cây lớn nghỉ bóng mát cảm giác an nhàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157634",
+      "lang": "vi",
+      "content_html": "<p>an nhàn yên tĩnh</p>",
+      "content_text": "an nhàn yên tĩnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "閑",
+      "reading": "ひま",
+      "meaning": "thì giờ nhàn rỗi"
+    },
+    {
+      "word": "悠悠閑閑",
+      "reading": "ゆうゆうかんかん",
+      "meaning": "cuộc sống trời quang mây tạnh"
+    },
+    {
+      "word": "休閑",
+      "reading": "きゅうかん",
+      "meaning": "tình trạng hoang hoá"
+    },
+    {
+      "word": "閑寂",
+      "reading": "かんじゃく",
+      "meaning": "sự yên tĩnh"
+    },
+    {
+      "word": "閑談",
+      "reading": "かんだん",
+      "meaning": "chuyện rỗi"
+    },
+    {
+      "word": "閑居",
+      "reading": "かんきょ",
+      "meaning": "làm yên và tách biệt cuộc sống"
+    },
+    {
+      "word": "幽閑",
+      "reading": "ゆうかん",
+      "meaning": "u nhàn"
+    },
+    {
+      "word": "長閑",
+      "reading": "のどか",
+      "meaning": "thanh bình"
+    },
+    {
+      "word": "閑人",
+      "reading": "ひまじん",
+      "meaning": "người đàn ông thì giờ nhàn rỗi"
+    },
+    {
+      "word": "閑暇",
+      "reading": "かんか",
+      "meaning": "thì giờ rỗi rãi"
+    }
+  ]
+}

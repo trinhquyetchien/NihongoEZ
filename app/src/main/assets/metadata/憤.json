@@ -1,0 +1,142 @@
+{
+  "kanji": "憤",
+  "meta": {
+    "weight": 1018,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "いきどお.る"
+    ],
+    "am_han": "PHẪN, PHẤN"
+  },
+  "meaning": {
+    "vi": "kích động, phẫn nộ, tức giận",
+    "en": "aroused, resent, be indignant, anger"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/憤.svg"
+  },
+  "frequency": 1863,
+  "examples": [
+    "憤り",
+    "憤慨",
+    "鬱憤",
+    "憤怒",
+    "憤激"
+  ],
+  "explanation": {
+    "id": "6955",
+    "text": "憤 (đọc là \"fun\") có nghĩa là \"phẫn nộ\", chỉ sự tức giận hay cảm giác không hài lòng sâu sắc về một điều gì đó."
+  },
+  "comments": [
+    {
+      "id": "153712",
+      "lang": "vi",
+      "content_html": "<p>Con tim phẩn uất vì mất tiền mua 10 bông hoa</p>",
+      "content_text": "Con tim phẩn uất vì mất tiền mua 10 bông hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153713",
+      "lang": "vi",
+      "content_html": "<p>Tâm(忄) phẫn uất (憤) vì mất tiền (貝) cho 10 (十）ngọn cỏ (艹)</p>",
+      "content_text": "Tâm(忄) phẫn uất (憤) vì mất tiền (貝) cho 10 (十）ngọn cỏ (艹)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153714",
+      "lang": "vi",
+      "content_html": "<p>Nhớ này dễ hơn nè :v<br>Tim phẫn uất vì có 10 bông cỏ cũng mất tiền</p>",
+      "content_text": "Nhớ này dễ hơn nè :v\nTim phẫn uất vì có 10 bông cỏ cũng mất tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "憤り",
+      "reading": "いきどおり",
+      "meaning": "sự phẫn uất"
+    },
+    {
+      "word": "憂憤",
+      "reading": "ゆうふん",
+      "meaning": "sự đau buồn và sự giận dữ"
+    },
+    {
+      "word": "痛憤",
+      "reading": "つうふん",
+      "meaning": "sự căm phẫn mạnh mẽ"
+    },
+    {
+      "word": "憤激",
+      "reading": "ふんげき",
+      "meaning": "sự giận dữ điên cuồng"
+    },
+    {
+      "word": "憤る",
+      "reading": "いきどおる",
+      "meaning": "phẫn uất"
+    },
+    {
+      "word": "公憤",
+      "reading": "こうふん",
+      "meaning": "sự công phẫn"
+    },
+    {
+      "word": "義憤",
+      "reading": "ぎふん",
+      "meaning": "công phẫn"
+    },
+    {
+      "word": "私憤",
+      "reading": "しふん",
+      "meaning": "sự thù oán cá nhân"
+    },
+    {
+      "word": "激憤",
+      "reading": "げきふん",
+      "meaning": "sự phẫn uất"
+    },
+    {
+      "word": "憤然",
+      "reading": "ふんぜん",
+      "meaning": "chọc tức"
+    }
+  ]
+}

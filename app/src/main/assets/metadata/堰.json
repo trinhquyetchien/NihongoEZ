@@ -1,0 +1,82 @@
+{
+  "kanji": "堰",
+  "meta": {
+    "weight": 577,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "せき",
+      "せ.く"
+    ],
+    "am_han": "YỂN"
+  },
+  "meaning": {
+    "vi": "đập, ngăn chặn, dừng lại",
+    "en": "dam, prevent, stop up"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堰.svg"
+  },
+  "frequency": 1913,
+  "examples": [
+    "堰"
+  ],
+  "explanation": {
+    "id": "441",
+    "text": "堰 (đọc là \"en\") có nghĩa là \"đê\", \"bờ ngăn\" để chỉ các công trình hoặc cấu trúc ngăn nước, thường dùng trong nông nghiệp và thủy lợi."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "堰",
+      "reading": "せき",
+      "meaning": "đập nước"
+    },
+    {
+      "word": "堰堤",
+      "reading": "えんてい",
+      "meaning": "đê"
+    },
+    {
+      "word": "井堰",
+      "reading": "いせき",
+      "meaning": "cửa cống"
+    },
+    {
+      "word": "堰板",
+      "reading": "せきいた",
+      "meaning": "tấm đập"
+    },
+    {
+      "word": "堰塞",
+      "reading": "えんそく",
+      "meaning": "con đập"
+    },
+    {
+      "word": "可動堰",
+      "reading": "かどうぜき",
+      "meaning": "cửa đập kênh đào"
+    },
+    {
+      "word": "堰止湖",
+      "reading": "せきとめこ",
+      "meaning": "hồ có đập"
+    },
+    {
+      "word": "堰止め湖",
+      "reading": "せきとめこ",
+      "meaning": "đập"
+    },
+    {
+      "word": "堰き止める",
+      "reading": "せきとめる",
+      "meaning": "kiềm chế"
+    }
+  ]
+}

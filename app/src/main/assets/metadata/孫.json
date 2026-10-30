@@ -1,0 +1,142 @@
+{
+  "kanji": "孫",
+  "meta": {
+    "weight": 703,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "まご"
+    ],
+    "am_han": "TÔN"
+  },
+  "meaning": {
+    "vi": "cháu",
+    "en": "grandchild, descendants"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/孫.svg"
+  },
+  "frequency": 1388,
+  "examples": [
+    "孫",
+    "子孫",
+    "孫子",
+    "孫娘",
+    "お孫さん"
+  ],
+  "explanation": {
+    "id": "4835",
+    "text": "孫 (đọc là \"son\") có nghĩa là \"cháu\", chỉ con của con cái trong gia đình."
+  },
+  "comments": [
+    {
+      "id": "152916",
+      "lang": "vi",
+      "content_html": "<p>đứa nào có quan hệ với con mình gọi là cháu</p>",
+      "content_text": "đứa nào có quan hệ với con mình gọi là cháu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152917",
+      "lang": "vi",
+      "content_html": "<p>Liên hệ với đứa trẻ là tôn : cháu</p>",
+      "content_text": "Liên hệ với đứa trẻ là tôn : cháu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152918",
+      "lang": "vi",
+      "content_html": "<p>Tôn trong từ Tôn Ngộ Không 孫悟空</p>",
+      "content_text": "Tôn trong từ Tôn Ngộ Không 孫悟空",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "孫",
+      "reading": "まご",
+      "meaning": "cháu"
+    },
+    {
+      "word": "子子孫孫",
+      "reading": "ししそんそん",
+      "meaning": "con cháu"
+    },
+    {
+      "word": "孫子",
+      "reading": "まごこ",
+      "meaning": "con cháu"
+    },
+    {
+      "word": "昆孫",
+      "reading": "こんそん",
+      "meaning": "chắt"
+    },
+    {
+      "word": "雲孫",
+      "reading": "うんそん",
+      "meaning": "chắt"
+    },
+    {
+      "word": "姪孫",
+      "reading": "てっそん",
+      "meaning": "cháu gái"
+    },
+    {
+      "word": "孫局",
+      "reading": "まごきょく",
+      "meaning": "đài con"
+    },
+    {
+      "word": "来孫",
+      "reading": "らいそん",
+      "meaning": "chắt"
+    },
+    {
+      "word": "嫡孫",
+      "reading": "ちゃくそん",
+      "meaning": "cháu đích tôn"
+    },
+    {
+      "word": "天孫",
+      "reading": "てんそん",
+      "meaning": "thiên tôn"
+    }
+  ]
+}

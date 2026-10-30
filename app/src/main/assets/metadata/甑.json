@@ -1,0 +1,45 @@
+{
+  "kanji": "甑",
+  "meta": {
+    "weight": 1764,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "こしき"
+    ],
+    "am_han": "TẮNG"
+  },
+  "meaning": {
+    "vi": "nồi hấp cơm",
+    "en": "rice-steaming pot"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/甑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2659",
+    "text": "甑 (đọc là \"sōki\") có nghĩa là \"nồi hấp\" hoặc \"nồi cơm\" để chỉ các dụng cụ dùng trong nấu ăn, đặc biệt là hấp thực phẩm."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "甑",
+      "reading": "こしき",
+      "meaning": "nồi hấp"
+    },
+    {
+      "word": "甑炉",
+      "reading": "そうろ",
+      "meaning": "lò đúc"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "求",
+  "meta": {
+    "weight": 1486,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "グ"
+    ],
+    "kun": [
+      "もと.める"
+    ],
+    "am_han": "CẦU"
+  },
+  "meaning": {
+    "vi": "yêu cầu",
+    "en": "request, want, wish for, require, demand"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/求.svg"
+  },
+  "frequency": 220,
+  "examples": [
+    "求め",
+    "要求",
+    "求める",
+    "請求",
+    "追求"
+  ],
+  "explanation": {
+    "id": "1530",
+    "text": "求 (đọc là \"kyuu\" hoặc \"motomeru\") có nghĩa là \"yêu cầu\", \"tìm kiếm\" để chỉ các hành động liên quan đến việc yêu cầu, tìm kiếm hoặc mong mỏi điều gì đó."
+  },
+  "comments": [
+    {
+      "id": "154763",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa lập đàn cầu mưa 10 ngày mới có nước</p>",
+      "content_text": "Thời xưa lập đàn cầu mưa 10 ngày mới có nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154764",
+      "lang": "vi",
+      "content_html": "<p>cầu xin chủ  cho 10 giọt nước</p>",
+      "content_text": "cầu xin chủ  cho 10 giọt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154765",
+      "lang": "vi",
+      "content_html": "<p>Nước là yêu cầu duy nhất</p>",
+      "content_text": "Nước là yêu cầu duy nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "求め",
+      "reading": "もとめ",
+      "meaning": "yêu cầu"
+    },
+    {
+      "word": "求む",
+      "reading": "もとむ",
+      "meaning": "muốn"
+    },
+    {
+      "word": "求人",
+      "reading": "きゅうじん",
+      "meaning": "sự tuyển người làm việc"
+    },
+    {
+      "word": "求職",
+      "reading": "きゅうしょく",
+      "meaning": "sự tìm công ăn việc làm"
+    },
+    {
+      "word": "求婚",
+      "reading": "きゅうこん",
+      "meaning": "cầu hôn"
+    },
+    {
+      "word": "求肥",
+      "reading": "ぎゅうひ",
+      "meaning": "kẹo dẻo nhật"
+    },
+    {
+      "word": "求仙",
+      "reading": "きゅうせん",
+      "meaning": "cá halichoeres poecilopterus"
+    },
+    {
+      "word": "勤求",
+      "reading": "ごんぐ",
+      "meaning": "hỏi phật thích ca cách"
+    },
+    {
+      "word": "希求",
+      "reading": "ききゅう",
+      "meaning": "sự mong mỏi"
+    },
+    {
+      "word": "求償",
+      "reading": "きゅうしょう",
+      "meaning": "đòi bồi thường"
+    }
+  ]
+}

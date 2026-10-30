@@ -1,0 +1,143 @@
+{
+  "kanji": "棚",
+  "meta": {
+    "weight": 1376,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "たな",
+      "-だな"
+    ],
+    "am_han": "BẰNG"
+  },
+  "meaning": {
+    "vi": "kệ, gờ, giá đỡ, gắn kết, lớp phủ, lưới mắt cáo",
+    "en": "shelf, ledge, rack, mount, mantle, trellis"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棚.svg"
+  },
+  "frequency": 1594,
+  "examples": [
+    "棚",
+    "本棚",
+    "棚田",
+    "書棚",
+    "棚上げ"
+  ],
+  "explanation": {
+    "id": "5096",
+    "text": "棚 (đọc là \"tana\") có nghĩa là \"kệ\", \"giá\" để chỉ các vật dụng dùng để đặt đồ, thường được sử dụng trong không gian lưu trữ hoặc trang trí."
+  },
+  "comments": [
+    {
+      "id": "154548",
+      "lang": "vi",
+      "content_html": "<p>làm cái giá bằng gỗ mất 2 tháng</p>",
+      "content_text": "làm cái giá bằng gỗ mất 2 tháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154549",
+      "lang": "vi",
+      "content_html": "<p>2 cái GIÁ Gỗ BẰNG nhau</p>",
+      "content_text": "2 cái GIÁ Gỗ BẰNG nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154550",
+      "lang": "vi",
+      "content_html": "<p>2 cái giá hình cung trăng 朋 cao BẰNG  nhau được làm từ  gỗ 木</p>",
+      "content_text": "2 cái giá hình cung trăng 朋 cao BẰNG  nhau được làm từ  gỗ 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "棚",
+      "reading": "たな",
+      "meaning": "cái giá"
+    },
+    {
+      "word": "軽量棚専用棚",
+      "reading": "けいりょうたなせんようたな",
+      "meaning": "kệ chuyên dụng cho kệ nhẹ"
+    },
+    {
+      "word": "中量棚専用棚",
+      "reading": "ちゅうりょうたなせんようたな",
+      "meaning": "kệ chuyên dụng cho kệ trung tải"
+    },
+    {
+      "word": "戸棚",
+      "reading": "とだな",
+      "meaning": "giá đựng bát đĩa"
+    },
+    {
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning": "giá sách"
+    },
+    {
+      "word": "棚板",
+      "reading": "たないた",
+      "meaning": "kệ sách"
+    },
+    {
+      "word": "書棚",
+      "reading": "しょだな",
+      "meaning": "giá sách"
+    },
+    {
+      "word": "岩棚",
+      "reading": "いわだな",
+      "meaning": "một khu vực đá nhô ra bằng phẳng như một cái kệ"
+    },
+    {
+      "word": "棚氷",
+      "reading": "たなごおり",
+      "meaning": "thềm băng"
+    },
+    {
+      "word": "棚田",
+      "reading": "たなだ",
+      "meaning": "ruộng bậc thang"
+    }
+  ]
+}

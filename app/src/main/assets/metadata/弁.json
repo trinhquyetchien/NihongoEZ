@@ -1,0 +1,147 @@
+{
+  "kanji": "弁",
+  "meta": {
+    "weight": 888,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベン",
+      "ヘン"
+    ],
+    "kun": [
+      "かんむり",
+      "わきま.える",
+      "わ.ける",
+      "はなびら",
+      "あらそ.う"
+    ],
+    "am_han": "BIỆN, BIỀN, BÀN"
+  },
+  "meaning": {
+    "vi": "van, cánh hoa, bím tóc, lời nói, phương ngữ, phân biệt, vứt bỏ, nắp hình nón",
+    "en": "valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/弁.svg"
+  },
+  "frequency": 619,
+  "examples": [
+    "弁護士",
+    "答弁",
+    "弁当",
+    "弁護",
+    "弁"
+  ],
+  "explanation": {
+    "id": "7079",
+    "text": "弁 (đọc là \"ben\") có nghĩa là \"biện luận\", \"giai điệu\" hoặc \"phương tiện\". Chữ này thường liên quan đến việc nói năng, tranh luận hoặc các hình thức nghệ thuật."
+  },
+  "comments": [
+    {
+      "id": "153376",
+      "lang": "vi",
+      "content_html": "<p>chấp tay biện minh (hùng biện) cho hành đông cua mình (tư)</p>",
+      "content_text": "chấp tay biện minh (hùng biện) cho hành đông cua mình (tư)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153377",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay khư khư biện minh là mình đúng</p>",
+      "content_text": "Chắp tay khư khư biện minh là mình đúng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153378",
+      "lang": "vi",
+      "content_html": "<p>Khư khư chắp tay biện minh cho mình là đúng</p>",
+      "content_text": "Khư khư chắp tay biện minh cho mình là đúng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "弁",
+      "reading": "べん",
+      "meaning": "van"
+    },
+    {
+      "word": "さん尖弁いつだつ",
+      "reading": "三尖弁逸脱",
+      "meaning": "sa van ba lá"
+    },
+    {
+      "word": "さん尖弁きょーさくしょー",
+      "reading": "三尖弁狭窄症",
+      "meaning": "hẹp van ba lá"
+    },
+    {
+      "word": "勘弁",
+      "reading": "かんべん",
+      "meaning": "sự khoan dung"
+    },
+    {
+      "word": "思弁",
+      "reading": "しべん",
+      "meaning": "sự suy nghĩ nhận thức bằng tư duy logic thông thường"
+    },
+    {
+      "word": "抗弁",
+      "reading": "こうべん",
+      "meaning": "phản đối"
+    },
+    {
+      "word": "旗弁",
+      "reading": "きべん",
+      "meaning": "cánh cờ"
+    },
+    {
+      "word": "羽弁",
+      "reading": "うべん",
+      "meaning": "lông vũ"
+    },
+    {
+      "word": "単弁",
+      "reading": "たんべん",
+      "meaning": "một van"
+    },
+    {
+      "word": "駄弁",
+      "reading": "だべん",
+      "meaning": "lời nói vô lý"
+    }
+  ]
+}

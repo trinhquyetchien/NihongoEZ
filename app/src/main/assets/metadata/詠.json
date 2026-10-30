@@ -1,0 +1,140 @@
+{
+  "kanji": "詠",
+  "meta": {
+    "weight": 2475,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "よ.む",
+      "うた.う"
+    ],
+    "am_han": "VỊNH"
+  },
+  "meaning": {
+    "vi": "ngâm thơ, bài thơ, bài hát, sáng tác",
+    "en": "recitation, poem, song, composing"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/詠.svg"
+  },
+  "frequency": 2000,
+  "examples": [
+    "詠唱",
+    "詠"
+  ],
+  "explanation": {
+    "id": "401",
+    "text": "詠 (đọc là \"ei\") có nghĩa là \"ngâm thơ\", \"hát\" để chỉ các hành động liên quan đến việc sáng tác hoặc trình bày thơ ca."
+  },
+  "comments": [
+    {
+      "id": "156883",
+      "lang": "vi",
+      "content_html": "<p>Lời Nói 言 Vĩnh Cửu 永  là Ngâm Thơ 詠<br>Nói 言 lời Vĩnh Cửu  永 hay như Ngâm Thơ 詠</p>",
+      "content_text": "Lời Nói 言 Vĩnh Cửu 永  là Ngâm Thơ 詠\nNói 言 lời Vĩnh Cửu  永 hay như Ngâm Thơ 詠",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156884",
+      "lang": "vi",
+      "content_html": "<p>Khi chúng ta nghe đọc kinh (hay ngâm thơ) thì thấy nó dài lê thê nên có cảm tưởng đó là những lời nói kéo dài vĩnh 永 viễn ko bao giờ ngừng.</p>",
+      "content_text": "Khi chúng ta nghe đọc kinh (hay ngâm thơ) thì thấy nó dài lê thê nên có cảm tưởng đó là những lời nói kéo dài vĩnh 永 viễn ko bao giờ ngừng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156885",
+      "lang": "vi",
+      "content_html": "<p>Làm thơ là một hình thức khác của lời nói được lưu truyền vĩnh viễn</p>",
+      "content_text": "Làm thơ là một hình thức khác của lời nói được lưu truyền vĩnh viễn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "詠誦",
+      "reading": "えいしょう",
+      "meaning": "kể lại nghệ thuật thơ"
+    },
+    {
+      "word": "吟詠",
+      "reading": "ぎんえい",
+      "meaning": "sự đọc thuộc lòng bài thơ"
+    },
+    {
+      "word": "偶詠",
+      "reading": "ぐうえい",
+      "meaning": "sự ngâm thơ ngẫu hứng"
+    },
+    {
+      "word": "題詠",
+      "reading": "だいえい",
+      "meaning": "sự sáng tác thơ theo chủ đề"
+    },
+    {
+      "word": "諷詠",
+      "reading": "ふうえい",
+      "meaning": "sự sáng tác thơ"
+    },
+    {
+      "word": "詠進",
+      "reading": "えいしん",
+      "meaning": "sự biểu diễn thơ ở hoàng cung hoặc điện thờ"
+    },
+    {
+      "word": "詠唱",
+      "reading": "えいしょう",
+      "meaning": "sự niệm chú"
+    },
+    {
+      "word": "詠歌",
+      "reading": "えいか",
+      "meaning": "thơ"
+    },
+    {
+      "word": "詠吟",
+      "reading": "えいぎん",
+      "meaning": "sự ngâm thơ"
+    },
+    {
+      "word": "詠草",
+      "reading": "えいそう",
+      "meaning": "bản thảo"
+    }
+  ]
+}

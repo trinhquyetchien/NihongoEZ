@@ -1,0 +1,74 @@
+{
+  "kanji": "肱",
+  "meta": {
+    "weight": 2177,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かいな",
+      "ひじ",
+      "まるい"
+    ],
+    "am_han": "QUĂNG"
+  },
+  "meaning": {
+    "vi": "khả năng, tài năng, khuỷu tay, cánh tay",
+    "en": "ability, talent, elbow, arm"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2534",
+    "text": "肱 (đọc là \"kō\") có nghĩa là \"cánh tay\", cụ thể là phần trên cánh tay hay khuỷu tay."
+  },
+  "comments": [
+    {
+      "id": "220437",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt ナム là khuỷu tay</p>",
+      "content_text": "Nguyệt ナム là khuỷu tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "肱",
+      "reading": "ひじ",
+      "meaning": "khủy tay"
+    },
+    {
+      "word": "股肱",
+      "reading": "ここう",
+      "meaning": "người được tin cậy như cánh tay phải"
+    },
+    {
+      "word": "肱掛椅子",
+      "reading": "ひじかけいす",
+      "meaning": "chủ trì với cánh tay nghỉ ngơi"
+    },
+    {
+      "word": "肱かけ椅子",
+      "reading": "ひじかけいす",
+      "meaning": "chủ trì với cánh tay nghỉ ngơi"
+    }
+  ]
+}

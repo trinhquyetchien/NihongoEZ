@@ -1,0 +1,75 @@
+{
+  "kanji": "蚤",
+  "meta": {
+    "weight": 2376,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "のみ",
+      "はやい"
+    ],
+    "am_han": "TẢO"
+  },
+  "meaning": {
+    "vi": "bọ chét",
+    "en": "flea"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/蚤.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6215",
+    "text": "蚤 (đọc là \"sou\" hoặc \"mushi\") có nghĩa là \"bọ chét\", chỉ loài côn trùng nhỏ thường sống ký sinh."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "蚤",
+      "reading": "のみ",
+      "meaning": "con bọ chét"
+    },
+    {
+      "word": "猫蚤",
+      "reading": "ねこのみ",
+      "meaning": "bọ chét mèo"
+    },
+    {
+      "word": "砂蚤",
+      "reading": "すなのみ",
+      "meaning": "tunga penetrans"
+    },
+    {
+      "word": "蚤虫",
+      "reading": "のみむし",
+      "meaning": "bọ đuôi bật"
+    },
+    {
+      "word": "蚤蝿",
+      "reading": "のみばえ",
+      "meaning": "ruồi lưng gù"
+    },
+    {
+      "word": "蚤の市",
+      "reading": "のみのいち",
+      "meaning": "chợ trời"
+    },
+    {
+      "word": "蚤の夫婦",
+      "reading": "のみのふうふ",
+      "meaning": "một cặp vợ chồng trong đó vợ lớn hơn chồng"
+    },
+    {
+      "word": "蚤取り粉",
+      "reading": "のみとりこ",
+      "meaning": "bột bọ chét"
+    }
+  ]
+}

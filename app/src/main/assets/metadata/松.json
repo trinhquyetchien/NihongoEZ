@@ -1,0 +1,142 @@
+{
+  "kanji": "松",
+  "meta": {
+    "weight": 1303,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "まつ"
+    ],
+    "am_han": "TÙNG"
+  },
+  "meaning": {
+    "vi": "cây thông",
+    "en": "pine tree"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/松.svg"
+  },
+  "frequency": 471,
+  "examples": [
+    "松",
+    "松山",
+    "浜松",
+    "高松",
+    "小松"
+  ],
+  "explanation": {
+    "id": "3840",
+    "text": "松 (đọc là \"matsu\") có nghĩa là \"cây thông\", biểu thị hình ảnh cây thông và đôi khi liên quan đến sự bền vững, kiên cường trong văn hóa Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "154412",
+      "lang": "vi",
+      "content_html": "<p>Công viên trồng cây TÙNG</p>",
+      "content_text": "Công viên trồng cây TÙNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154413",
+      "lang": "vi",
+      "content_html": "<p>TÁM việc TƯ sẽ thành việc CÔNG, CÂY trồng nơi CÔNG CỘNG là cây TÙNG (CÂY THÔNG)</p>",
+      "content_text": "TÁM việc TƯ sẽ thành việc CÔNG, CÂY trồng nơi CÔNG CỘNG là cây TÙNG (CÂY THÔNG)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154414",
+      "lang": "vi",
+      "content_html": "<p>Cây công cộng là cây thông</p>",
+      "content_text": "Cây công cộng là cây thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "松",
+      "reading": "まつ",
+      "meaning": "cây thông"
+    },
+    {
+      "word": "松屋",
+      "reading": "まつや",
+      "meaning": "matsuya"
+    },
+    {
+      "word": "高松",
+      "reading": "たかまつ",
+      "meaning": "thành phố thuộc quận kagawa"
+    },
+    {
+      "word": "松茸",
+      "reading": "まつたけ",
+      "meaning": "nấm matsutake"
+    },
+    {
+      "word": "浜松",
+      "reading": "はままつ",
+      "meaning": "&amp"
+    },
+    {
+      "word": "黒松",
+      "reading": "くろまつ",
+      "meaning": "cây thông đen"
+    },
+    {
+      "word": "市松",
+      "reading": "いちまつ",
+      "meaning": "họa tiết ô vuông xen kẽ"
+    },
+    {
+      "word": "門松",
+      "reading": "かどまつ",
+      "meaning": "cây nêu ngày tết"
+    },
+    {
+      "word": "青松",
+      "reading": "せいしょう",
+      "meaning": "màu xanh lục héo hon"
+    },
+    {
+      "word": "アメリカ松",
+      "reading": "アメリカまつ",
+      "meaning": "linh sam douglas"
+    }
+  ]
+}

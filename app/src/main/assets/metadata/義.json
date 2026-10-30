@@ -1,0 +1,157 @@
+{
+  "kanji": "義",
+  "meta": {
+    "weight": 2136,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [],
+    "am_han": "NGHĨA"
+  },
+  "meaning": {
+    "vi": "chính nghĩa, công lý, đạo đức, danh dự, trung thành, nghĩa",
+    "en": "righteousness, justice, morality, honor, loyalty, meaning"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/義.svg"
+  },
+  "frequency": 415,
+  "examples": [
+    "主義",
+    "義務",
+    "定義",
+    "講義",
+    "意義"
+  ],
+  "explanation": {
+    "id": "1435",
+    "text": "義 (đọc là \"gi\") có nghĩa là \"nghĩa lý\", \"công bằng\", để chỉ các khái niệm liên quan đến đạo đức, sự đúng đắn và công lý."
+  },
+  "comments": [
+    {
+      "id": "37149",
+      "lang": "vi",
+      "content_html": "<p>Việc chiến đấu vì đàn cừu (羊) là <strong>chính nghĩa</strong>!</p>",
+      "content_text": "Việc chiến đấu vì đàn cừu (羊) là\nchính nghĩa\n!",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbb42bf287.jpg",
+      "image_path": "assets/images/義_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156199",
+      "lang": "vi",
+      "content_html": "<p>Con cừu vì chính nghĩa mã bị ngã</p>",
+      "content_text": "Con cừu vì chính nghĩa mã bị ngã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156200",
+      "lang": "vi",
+      "content_html": "<p>Chiến binh vì chính Nghĩa, tay手cầm thuẩn戈, đầu đội mũ lông cừu羊<br>手+戈=我<br>我+羊=義</p>",
+      "content_text": "Chiến binh vì chính Nghĩa, tay手cầm thuẩn戈, đầu đội mũ lông cừu羊\n手+戈=我\n我+羊=義",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156201",
+      "lang": "vi",
+      "content_html": "<p>(Chữ NGÃ trong tiếng TQ là tôi, tao, cũng có nghĩa là của tôi). Vậy con CỪU CỦA TÔI luôn làm việc chính NGHĨA</p>",
+      "content_text": "(Chữ NGÃ trong tiếng TQ là tôi, tao, cũng có nghĩa là của tôi). Vậy con CỪU CỦA TÔI luôn làm việc chính NGHĨA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "義",
+      "reading": "ぎ",
+      "meaning": "công lý"
+    },
+    {
+      "word": "義義",
+      "reading": "ぎぎ",
+      "meaning": "cá trê đuôi chẻ"
+    },
+    {
+      "word": "猫義義",
+      "reading": "ねこぎぎ",
+      "meaning": "cá nekogigi"
+    },
+    {
+      "word": "主義",
+      "reading": "しゅぎ",
+      "meaning": "chủ nghĩa"
+    },
+    {
+      "word": "仁義",
+      "reading": "じんぎ",
+      "meaning": "nhân nghĩa"
+    },
+    {
+      "word": "義務",
+      "reading": "ぎむ",
+      "meaning": "nghĩa vụ"
+    },
+    {
+      "word": "義兄",
+      "reading": "ぎけい",
+      "meaning": "anh em kết nghĩa"
+    },
+    {
+      "word": "教義",
+      "reading": "きょうぎ",
+      "meaning": "giáo lý"
+    },
+    {
+      "word": "講義",
+      "reading": "こうぎ",
+      "meaning": "bài giảng"
+    },
+    {
+      "word": "語義",
+      "reading": "ごぎ",
+      "meaning": "có nghĩa một từ"
+    }
+  ]
+}

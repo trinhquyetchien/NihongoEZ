@@ -1,0 +1,138 @@
+{
+  "kanji": "挨",
+  "meta": {
+    "weight": 1093,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アイ"
+    ],
+    "kun": [
+      "ひら.く"
+    ],
+    "am_han": "AI, ẢI"
+  },
+  "meaning": {
+    "vi": "tiếp cận, đến gần, đẩy mở",
+    "en": "approach, draw near, push open"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挨.svg"
+  },
+  "frequency": 2258,
+  "examples": [
+    "挨拶"
+  ],
+  "explanation": {
+    "id": "19",
+    "text": "挨 (đọc là \"ai\") có nghĩa là \"tiếp xúc\", \"gặp gỡ\" trong ngữ cảnh giao tiếp hoặc liên lạc."
+  },
+  "comments": [
+    {
+      "id": "153913",
+      "lang": "vi",
+      "content_html": "<p>Ai đó tay đang cầm mũi tên đến hỏi thăm tôi</p>",
+      "content_text": "Ai đó tay đang cầm mũi tên đến hỏi thăm tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153914",
+      "lang": "vi",
+      "content_html": "<p>Tôi (ム) bị Tên(矢)cắm vào Tay(扌) mà không AI (挨)đến Thăm hỏi. Sad sad</p>",
+      "content_text": "Tôi (ム) bị Tên(矢)cắm vào Tay(扌) mà không AI (挨)đến Thăm hỏi. Sad sad",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153915",
+      "lang": "vi",
+      "content_html": "<p>Ai đó tay cầm mũi tên đến hỏi tôi về chuyện riêng tư</p>",
+      "content_text": "Ai đó tay cầm mũi tên đến hỏi tôi về chuyện riêng tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "挨拶",
+      "reading": "あいさつ",
+      "meaning": "lời chào"
+    },
+    {
+      "word": "ご挨拶",
+      "reading": "ごあいさつ",
+      "meaning": "sự chào hỏi"
+    },
+    {
+      "word": "挨拶状",
+      "reading": "あいさつじょう",
+      "meaning": "thiệp thăm hỏi"
+    },
+    {
+      "word": "挨拶文",
+      "reading": "あいさつぶん",
+      "meaning": "câu văn chào hỏi"
+    },
+    {
+      "word": "挨拶語",
+      "reading": "あいさつご",
+      "meaning": "ngôn ngữ chào hỏi"
+    },
+    {
+      "word": "年頭挨拶",
+      "reading": "ねんとうあいさつ",
+      "meaning": "sự chào hỏi đầu năm"
+    },
+    {
+      "word": "一挨一拶",
+      "reading": "いちあいいっさつ",
+      "meaning": "cuộc vấn đáp thiền"
+    },
+    {
+      "word": "挨拶する",
+      "reading": "あいさつ",
+      "meaning": "chào"
+    },
+    {
+      "word": "挨拶まわり",
+      "reading": "あいさつまわり",
+      "meaning": "cuộc gọi điện thoại chúc mừng năm mới"
+    },
+    {
+      "word": "季節の挨拶",
+      "reading": "きせつのあいさつ",
+      "meaning": "việc gửi thiệp thăm hỏi hoặc liên lạc trong mùa hè hoặc dịp cuối năm"
+    }
+  ]
+}

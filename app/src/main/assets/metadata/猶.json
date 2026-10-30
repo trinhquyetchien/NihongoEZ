@@ -1,0 +1,139 @@
+{
+  "kanji": "猶",
+  "meta": {
+    "weight": 1723,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ユ"
+    ],
+    "kun": [
+      "なお"
+    ],
+    "am_han": "DO, DỨU"
+  },
+  "meaning": {
+    "vi": "hơn nữa, vẫn chưa",
+    "en": "furthermore, still, yet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/猶.svg"
+  },
+  "frequency": 1799,
+  "examples": [
+    "猶予"
+  ],
+  "explanation": {
+    "id": "7774",
+    "text": "猶 (đọc là \"yū\") có nghĩa là \"vẫn\", \"còn\" để chỉ trạng thái tiếp diễn hoặc sự tương tự trong một tình huống nào đó."
+  },
+  "comments": [
+    {
+      "id": "155296",
+      "lang": "vi",
+      "content_html": "<p>DO có rượu và có thịt chó nên ngồi thêm tí nữa</p>",
+      "content_text": "DO có rượu và có thịt chó nên ngồi thêm tí nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155297",
+      "lang": "vi",
+      "content_html": "<p>Do uống nhiều RƯợu nên hay TRÌ HOÃN việc đi săn</p>",
+      "content_text": "Do uống nhiều RƯợu nên hay TRÌ HOÃN việc đi săn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155298",
+      "lang": "vi",
+      "content_html": "<p>do dự k biết nên mua 8 con gà hay 1 con chó</p>",
+      "content_text": "do dự k biết nên mua 8 con gà hay 1 con chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "猶太",
+      "reading": "ユダヤ",
+      "meaning": "judea"
+    },
+    {
+      "word": "猶子",
+      "reading": "ゆうし",
+      "meaning": "cháu trai"
+    },
+    {
+      "word": "猶予",
+      "reading": "ゆうよ",
+      "meaning": "trì hoãn"
+    },
+    {
+      "word": "猶の事",
+      "reading": "なおのこと",
+      "meaning": "thêm vào đó"
+    },
+    {
+      "word": "猶良い",
+      "reading": "なおよい",
+      "meaning": "làm dịu tốt hơn"
+    },
+    {
+      "word": "猶あらじ",
+      "reading": "なおあらじ",
+      "meaning": "không thể kết thúc mọi thứ ở trạng thái hiện tại"
+    },
+    {
+      "word": "執行猶予",
+      "reading": "しっこうゆうよ",
+      "meaning": "tù treo"
+    },
+    {
+      "word": "起訴猶予",
+      "reading": "きそゆうよ",
+      "meaning": "sự ngưng buộc tội"
+    },
+    {
+      "word": "昼猶暗い",
+      "reading": "ひるなおくらい",
+      "meaning": "đêm giữa ban ngày"
+    },
+    {
+      "word": "猶予期間",
+      "reading": "ゆうよきかん",
+      "meaning": "một thời kỳ duyên dáng"
+    }
+  ]
+}

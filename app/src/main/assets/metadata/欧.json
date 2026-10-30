@@ -1,0 +1,143 @@
+{
+  "kanji": "欧",
+  "meta": {
+    "weight": 1442,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "うた.う",
+      "は.く"
+    ],
+    "am_han": "ÂU"
+  },
+  "meaning": {
+    "vi": "châu Âu",
+    "en": "Europe"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/欧.svg"
+  },
+  "frequency": 421,
+  "examples": [
+    "欧州",
+    "欧米",
+    "西欧",
+    "欧",
+    "北欧"
+  ],
+  "explanation": {
+    "id": "532",
+    "text": "欧 (đọc là \"ō\") có nghĩa là \"Âu\", thường chỉ các nước phương Tây, đặc biệt là châu Âu."
+  },
+  "comments": [
+    {
+      "id": "154649",
+      "lang": "vi",
+      "content_html": "<p>Châu Âu là KHU vực không thể THIẾU</p>",
+      "content_text": "Châu Âu là KHU vực không thể THIẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154650",
+      "lang": "vi",
+      "content_html": "<p>Bạn 厚顔 ơi, mình phục khả năng sáng tạo của bạn quá.</p>",
+      "content_text": "Bạn 厚顔 ơi, mình phục khả năng sáng tạo của bạn quá.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154651",
+      "lang": "vi",
+      "content_html": "<p>Khu (区) vực thiếu (欠) sự đoàn kết nhất đợt Covid 19 là châu Âu ( 欧 )</p>",
+      "content_text": "Khu (区) vực thiếu (欠) sự đoàn kết nhất đợt Covid 19 là châu Âu ( 欧 )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "欧風",
+      "reading": "おうふう",
+      "meaning": "âu mỹ"
+    },
+    {
+      "word": "欧字",
+      "reading": "おうじ",
+      "meaning": "theo vần chữ cái"
+    },
+    {
+      "word": "欧文",
+      "reading": "おうぶん",
+      "meaning": "văn bản viết bằng ngôn ngữ phương tây"
+    },
+    {
+      "word": "全欧",
+      "reading": "ぜんおう",
+      "meaning": "toàn châu âu"
+    },
+    {
+      "word": "中欧",
+      "reading": "ちゅうおう",
+      "meaning": "trung âu"
+    },
+    {
+      "word": "欧露",
+      "reading": "おうろ",
+      "meaning": "châu âu và nước nga"
+    },
+    {
+      "word": "欧洲",
+      "reading": "おうしゅう",
+      "meaning": "châu âu"
+    },
+    {
+      "word": "欧亜",
+      "reading": "おうあ",
+      "meaning": "âu á"
+    },
+    {
+      "word": "亜欧",
+      "reading": "あおう",
+      "meaning": "á âu"
+    },
+    {
+      "word": "南欧",
+      "reading": "なんおう",
+      "meaning": "nam âu"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "kanji": "逢",
+  "meta": {
+    "weight": 2662,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "あ.う",
+      "むか.える"
+    ],
+    "am_han": "PHÙNG"
+  },
+  "meaning": {
+    "vi": "cuộc họp, người thử, ngày, điểm hẹn",
+    "en": "meeting, tryst, date, rendezvous"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/逢.svg"
+  },
+  "frequency": 2116,
+  "examples": [
+    "出逢い",
+    "逢う"
+  ],
+  "explanation": {
+    "id": "23",
+    "text": "逢 (đọc là \"hō\") có nghĩa là \"gặp gỡ\", \"gặp\". Từ này thường chỉ việc gặp ai đó hoặc một sự kiện nào đó."
+  },
+  "comments": [
+    {
+      "id": "157339",
+      "lang": "vi",
+      "content_html": "<p>Tương PHÙNG tương ngộ Lại gặp Vua</p>",
+      "content_text": "Tương PHÙNG tương ngộ Lại gặp Vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157340",
+      "lang": "vi",
+      "content_html": "<p>Cách bước ra đi tình bõ ngõ<br>Ba năm cày cuốc sẽ tương phùng</p>",
+      "content_text": "Cách bước ra đi tình bõ ngõ\nBa năm cày cuốc sẽ tương phùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157341",
+      "lang": "vi",
+      "content_html": "<p>Đang truy tìm trương tam phong trên đường thì lại gặp rồi tương PHÙNG</p>",
+      "content_text": "Đang truy tìm trương tam phong trên đường thì lại gặp rồi tương PHÙNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "逢う",
+      "reading": "あう",
+      "meaning": "gặp gỡ"
+    },
+    {
+      "word": "逢着",
+      "reading": "ほうちゃく",
+      "meaning": "gặp"
+    },
+    {
+      "word": "逢引",
+      "reading": "あいびき",
+      "meaning": "hẹn hò lén lút của trai gái"
+    },
+    {
+      "word": "逢瀬",
+      "reading": "おうせ",
+      "meaning": "có dịp gặp nhau"
+    },
+    {
+      "word": "逢引き",
+      "reading": "あいびき",
+      "meaning": "hẹn hò lén lút của trai gái"
+    },
+    {
+      "word": "出逢う",
+      "reading": "であう",
+      "meaning": "tới sự gặp mặt bởi cơ hội"
+    },
+    {
+      "word": "愛逢月",
+      "reading": "めであいづき",
+      "meaning": "tháng 7 âm lịch"
+    },
+    {
+      "word": "逢魔が時",
+      "reading": "おうまがとき",
+      "meaning": "chạng vạng"
+    },
+    {
+      "word": "巡り逢う",
+      "reading": "めぐりあう",
+      "meaning": "tình cờ gặp gỡ"
+    },
+    {
+      "word": "逢い引き",
+      "reading": "あいびき",
+      "meaning": "hẹn hò lén lút của trai gái"
+    }
+  ]
+}

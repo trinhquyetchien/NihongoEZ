@@ -1,0 +1,105 @@
+{
+  "kanji": "斡",
+  "meta": {
+    "weight": 1193,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アツ",
+      "カン",
+      "ワツ"
+    ],
+    "kun": [
+      "めぐ.る",
+      "めぐ.らす"
+    ],
+    "am_han": "OÁT, QUẢN"
+  },
+  "meaning": {
+    "vi": "đi xung quanh, cai trị, quản lý",
+    "en": "go around, rule, administer"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/斡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "58",
+    "text": "斡 (đọc là \"atsu\") có nghĩa là \"chuyển động\", \"quản lý\" để chỉ các hành động liên quan đến việc điều hành, quản lý hoặc luân chuyển."
+  },
+  "comments": [
+    {
+      "id": "219707",
+      "lang": "vi",
+      "content_html": "<p>câu trúc được quan quản lí</p>",
+      "content_text": "câu trúc được quan quản lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "斡",
+      "reading": "",
+      "meaning": "cai trị"
+    },
+    {
+      "word": "斡旋",
+      "reading": "あっせん",
+      "meaning": "trung gian"
+    },
+    {
+      "word": "斡旋料",
+      "reading": "あっせんりょう",
+      "meaning": "đại diện có sự tích nạp"
+    },
+    {
+      "word": "斡旋者",
+      "reading": "あっせんしゃ",
+      "meaning": "người điều đình"
+    },
+    {
+      "word": "斡旋員",
+      "reading": "あっせんいん",
+      "meaning": "người hoà giải"
+    },
+    {
+      "word": "斡旋案",
+      "reading": "あっせんあん",
+      "meaning": "kế hoạch điều đình"
+    },
+    {
+      "word": "斡旋業者",
+      "reading": "あっせんぎょうしゃ",
+      "meaning": "người điều đình"
+    },
+    {
+      "word": "斡旋収賄",
+      "reading": "あっせんしゅうわい",
+      "meaning": "ảnh hưởng bán rong"
+    },
+    {
+      "word": "就職斡旋",
+      "reading": "しゅうしょくあっせん",
+      "meaning": "sắp đặt"
+    },
+    {
+      "word": "転職斡旋",
+      "reading": "てんしょくあっせん",
+      "meaning": "sự môi giới việc làm"
+    }
+  ]
+}

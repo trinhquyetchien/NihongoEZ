@@ -1,0 +1,141 @@
+{
+  "kanji": "鐘",
+  "meta": {
+    "weight": 2795,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "かね"
+    ],
+    "am_han": "CHUNG"
+  },
+  "meaning": {
+    "vi": "chuông, chiêng",
+    "en": "bell, gong, chimes"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/鐘.svg"
+  },
+  "frequency": 1681,
+  "examples": [
+    "鐘",
+    "警鐘",
+    "除夜の鐘",
+    "鐘楼"
+  ],
+  "explanation": {
+    "id": "3933",
+    "text": "鐘 (đọc là \"shō\" hoặc \"kan\") có nghĩa là \"chuông\", thường chỉ các loại chuông được dùng trong đền thờ, nhà thờ hoặc để báo hiệu thời gian."
+  },
+  "comments": [
+    {
+      "id": "157616",
+      "lang": "vi",
+      "content_html": "<p>Trẻ con nhi đồng chơi chuông kim loại</p>",
+      "content_text": "Trẻ con nhi đồng chơi chuông kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157617",
+      "lang": "vi",
+      "content_html": "<p>NHI ĐỒNG CHUNG TIỀN đúc CHUÔNG</p>",
+      "content_text": "NHI ĐỒNG CHUNG TIỀN đúc CHUÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157618",
+      "lang": "vi",
+      "content_html": "<p>Đứng trước cả làng quyên tiền để đúc chuông</p>",
+      "content_text": "Đứng trước cả làng quyên tiền để đúc chuông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鐘",
+      "reading": "かね",
+      "meaning": "chuông"
+    },
+    {
+      "word": "応鐘",
+      "reading": "おうしょう",
+      "meaning": "một trong mười hai luật âm"
+    },
+    {
+      "word": "林鐘",
+      "reading": "りんしょう",
+      "meaning": "tên gọi khác của tháng 6 âm lịch"
+    },
+    {
+      "word": "鳧鐘",
+      "reading": "ふしょう",
+      "meaning": "chuông chùa"
+    },
+    {
+      "word": "黄鐘",
+      "reading": "おうしき",
+      "meaning": "nốt thứ 8 của thang âm cổ"
+    },
+    {
+      "word": "点鐘",
+      "reading": "てんしょう",
+      "meaning": "chuông tàu"
+    },
+    {
+      "word": "編鐘",
+      "reading": "へんしょう",
+      "meaning": "bộ chuông"
+    },
+    {
+      "word": "弔鐘",
+      "reading": "ちょうしょう",
+      "meaning": "chuông lễ tang"
+    },
+    {
+      "word": "釣鐘",
+      "reading": "つりがね",
+      "meaning": "chuông phật"
+    },
+    {
+      "word": "半鐘",
+      "reading": "はんしょう",
+      "meaning": "chuông dùng để báo hỏa họan"
+    }
+  ]
+}

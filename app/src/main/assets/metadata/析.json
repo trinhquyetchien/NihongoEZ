@@ -1,0 +1,139 @@
+{
+  "kanji": "析",
+  "meta": {
+    "weight": 1306,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "chặt, chia, xé, phân tích",
+    "en": "chop, divide, tear, analyze"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/析.svg"
+  },
+  "frequency": 980,
+  "examples": [
+    "分析",
+    "解析",
+    "透析",
+    "析"
+  ],
+  "explanation": {
+    "id": "4399",
+    "text": "析 (đọc là \"saku\") có nghĩa là \"phân tích\", \"chia tách\" để chỉ các hành động liên quan đến việc phân chia hoặc phân tích thông tin, dữ liệu."
+  },
+  "comments": [
+    {
+      "id": "154418",
+      "lang": "vi",
+      "content_html": "<p>Dùng rừu bổ cây ra phân tích</p>",
+      "content_text": "Dùng rừu bổ cây ra phân tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154419",
+      "lang": "vi",
+      "content_html": "<p>Dùng rìu bổ cây ra phân tích</p>",
+      "content_text": "Dùng rìu bổ cây ra phân tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154420",
+      "lang": "vi",
+      "content_html": "<p>Phân TÍCH việc chặt CÂY bằng RÌU.</p>",
+      "content_text": "Phân TÍCH việc chặt CÂY bằng RÌU.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "透析(分析化学)",
+      "reading": "とーせき(ぶんせきかがく)",
+      "meaning": "lọc máu"
+    },
+    {
+      "word": "解析",
+      "reading": "かいせき",
+      "meaning": "sự phân tích"
+    },
+    {
+      "word": "晶析",
+      "reading": "しょうせき",
+      "meaning": "sự kết tinh"
+    },
+    {
+      "word": "析出",
+      "reading": "せきしゅつ",
+      "meaning": "tái thăng hoa"
+    },
+    {
+      "word": "透析",
+      "reading": "とうせき",
+      "meaning": "sự thẩm tách"
+    },
+    {
+      "word": "分析",
+      "reading": "ぶんせき",
+      "meaning": "sự phân tích"
+    },
+    {
+      "word": "分析者",
+      "reading": "ぶんせきしゃ",
+      "meaning": "nhà phân tích"
+    },
+    {
+      "word": "分析官",
+      "reading": "ぶんせきかん",
+      "meaning": "chuyên viên phân tích"
+    },
+    {
+      "word": "アクセス解析",
+      "reading": "アクセスかいせき",
+      "meaning": "phân tích lưu lượng"
+    },
+    {
+      "word": "マクロ分析",
+      "reading": "マクロぶんせき",
+      "meaning": "phân tích vĩ mô"
+    }
+  ]
+}

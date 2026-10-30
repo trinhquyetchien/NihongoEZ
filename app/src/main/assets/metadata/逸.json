@@ -1,0 +1,144 @@
+{
+  "kanji": "逸",
+  "meta": {
+    "weight": 2667,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イツ"
+    ],
+    "kun": [
+      "そ.れる",
+      "そ.らす",
+      "はぐ.れる"
+    ],
+    "am_han": "DẬT"
+  },
+  "meaning": {
+    "vi": "chệch hướng, nhàn rỗi, bỏ lỡ dấu ấn, trốn tránh, lẩn tránh, ngang nhiên, phân kỳ",
+    "en": "deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/逸.svg"
+  },
+  "frequency": 1524,
+  "examples": [
+    "逸脱",
+    "秀逸",
+    "逸品",
+    "逸話",
+    "逸"
+  ],
+  "explanation": {
+    "id": "20351",
+    "text": "逸 (đọc là \"chi\") có nghĩa là \"tôn kính\", \"tôn trọng\" để chỉ sự kính trọng và lòng thành kính đối với thần linh hoặc người có địa vị cao."
+  },
+  "comments": [
+    {
+      "id": "157354",
+      "lang": "vi",
+      "content_html": "<p>Để Miễn thuế phải sống Ẩn DẬT</p>",
+      "content_text": "Để Miễn thuế phải sống Ẩn DẬT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157355",
+      "lang": "vi",
+      "content_html": "<p>Miễn là ẩn dật thì chạy đường nào cũng được</p>",
+      "content_text": "Miễn là ẩn dật thì chạy đường nào cũng được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157356",
+      "lang": "vi",
+      "content_html": "<p>Những kẻ ko được miễn tội thường sống bê tha , ẩn DẬT</p>",
+      "content_text": "Những kẻ ko được miễn tội thường sống bê tha , ẩn DẬT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "逸",
+      "reading": "いっち",
+      "meaning": "xuất sắc"
+    },
+    {
+      "word": "逸品",
+      "reading": "いっぴん",
+      "meaning": "sản phẩm tuyệt vời"
+    },
+    {
+      "word": "隠逸",
+      "reading": "いんいつ",
+      "meaning": "sự ẩn dật"
+    },
+    {
+      "word": "奔逸",
+      "reading": "ほんいつ",
+      "meaning": "sự phóng nhanh"
+    },
+    {
+      "word": "飄逸",
+      "reading": "ひょういつ",
+      "meaning": "dễ tính"
+    },
+    {
+      "word": "逸出",
+      "reading": "いっしゅつ",
+      "meaning": "sự trốn thoát"
+    },
+    {
+      "word": "逸文",
+      "reading": "いつぶん",
+      "meaning": "không biết hoặc bị mất viết"
+    },
+    {
+      "word": "逸足",
+      "reading": "いっそく",
+      "meaning": "người chạy nhanh"
+    },
+    {
+      "word": "逸聞",
+      "reading": "いつぶん",
+      "meaning": "chuyện gì đó rất ít người có thể biết"
+    },
+    {
+      "word": "逸事",
+      "reading": "いつじ",
+      "meaning": "chuyện vặt"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "kanji": "芋",
+  "meta": {
+    "weight": 2249,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "いも"
+    ],
+    "am_han": "DỤ, HU"
+  },
+  "meaning": {
+    "vi": "khoai tây",
+    "en": "potato"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/芋.svg"
+  },
+  "frequency": 2418,
+  "examples": [
+    "芋",
+    "山芋",
+    "里芋",
+    "焼き芋"
+  ],
+  "explanation": {
+    "id": "230",
+    "text": "芋 (đọc là \"imo\") có nghĩa là \"khoai\" để chỉ các loại củ, đặc biệt là khoai lang hoặc khoai tây."
+  },
+  "comments": [
+    {
+      "id": "156457",
+      "lang": "vi",
+      "content_html": "<p>Chưa dụ được cô giáo Thảo nên củ khoai của thằng Can vẫn đang còn khô :))</p>",
+      "content_text": "Chưa dụ được cô giáo Thảo nên củ khoai của thằng Can vẫn đang còn khô :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156458",
+      "lang": "vi",
+      "content_html": "<p>Trên hoa dưới bốn rễ phụ một rễ cọc là củ khoai</p>",
+      "content_text": "Trên hoa dưới bốn rễ phụ một rễ cọc là củ khoai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156459",
+      "lang": "vi",
+      "content_html": "<p>KHOAI to ấm  no VŨ trụ</p>",
+      "content_text": "KHOAI to ấm  no VŨ trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "芋",
+      "reading": "いも",
+      "meaning": "khoai"
+    },
+    {
+      "word": "山の芋",
+      "reading": "やまのいも",
+      "meaning": "còn gọi là 山芋"
+    },
+    {
+      "word": "芋煮",
+      "reading": "いもに",
+      "meaning": "khoai hầm"
+    },
+    {
+      "word": "芋茎",
+      "reading": "ずいき",
+      "meaning": "taro ngăn trở"
+    },
+    {
+      "word": "菊芋",
+      "reading": "きくいも",
+      "meaning": "cây cúc vu"
+    },
+    {
+      "word": "タロ芋",
+      "reading": "タロいも",
+      "meaning": "khoai sọ"
+    },
+    {
+      "word": "ジャガタラ芋",
+      "reading": "ジャガタラいも",
+      "meaning": "khoai tây"
+    },
+    {
+      "word": "蘿芋",
+      "reading": "ががいも",
+      "meaning": "metaplexis japonica"
+    },
+    {
+      "word": "蓮芋",
+      "reading": "はすいも",
+      "meaning": "cây dọc mùng"
+    },
+    {
+      "word": "芋蔓",
+      "reading": "いもづる",
+      "meaning": "dây khoai lang"
+    }
+  ]
+}

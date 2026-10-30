@@ -1,0 +1,119 @@
+{
+  "kanji": "蝕",
+  "meta": {
+    "weight": 2392,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "むしば.む"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "nhật thực, huyền bí, bị lỗi",
+    "en": "eclipse, occultation, be defective"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蝕.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4039",
+    "text": "蝕 (đọc là \"shoku\") có nghĩa là \"suy giảm\", \"ăn mòn\" để chỉ các hành động liên quan đến việc làm hao mòn, hủy hoại hay ảnh hưởng tiêu cực đến một cái gì đó."
+  },
+  "comments": [
+    {
+      "id": "220616",
+      "lang": "vi",
+      "content_html": "<p>bị SÂU BỌ (虫:むし) GẶM ( 食む:はむ) thì là đục khoét</p>",
+      "content_text": "bị SÂU BỌ (虫:むし) GẶM ( 食む:はむ) thì là đục khoét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220617",
+      "lang": "vi",
+      "content_html": "<p>lòa sâu chuyên gặm và đục khoét</p>",
+      "content_text": "lòa sâu chuyên gặm và đục khoét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "乾蝕",
+      "reading": "かんしょく",
+      "meaning": "đồ hộp"
+    },
+    {
+      "word": "海蝕",
+      "reading": "かいしょく",
+      "meaning": "sự làm mòn biển"
+    },
+    {
+      "word": "氷蝕",
+      "reading": "ひょうしょく",
+      "meaning": "hiện tượng bị xâm thực do băng"
+    },
+    {
+      "word": "日蝕",
+      "reading": "にっしょく",
+      "meaning": "hiện tượng nhật thực"
+    },
+    {
+      "word": "侵蝕",
+      "reading": "しんしょく",
+      "meaning": "sự ăn mòn"
+    },
+    {
+      "word": "蝕む",
+      "reading": "むしばむ",
+      "meaning": "đục khoét"
+    },
+    {
+      "word": "腐蝕",
+      "reading": "ふしょく",
+      "meaning": "sự ăn mòn"
+    },
+    {
+      "word": "分蝕",
+      "reading": "ぶんしょく",
+      "meaning": "nhật thực một phần hoặc nguyệt thực một phần"
+    },
+    {
+      "word": "月蝕",
+      "reading": "げっしょく",
+      "meaning": "nguyệt thực"
+    },
+    {
+      "word": "浸蝕",
+      "reading": "しんしょく",
+      "meaning": "sự xói mòn"
+    }
+  ]
+}

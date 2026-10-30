@@ -1,0 +1,54 @@
+{
+  "kanji": "杷",
+  "meta": {
+    "weight": 1302,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "つか"
+    ],
+    "am_han": "BA, BÀ"
+  },
+  "meaning": {
+    "vi": "loại cào, loquat",
+    "en": "kind of rake, loquat"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/杷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6228",
+    "text": "Chữ Hán 杷 (đọc là \"ha\" hoặc \"hō\") có nghĩa là \"cái chày\" hoặc \"cái búa\", thường chỉ các dụng cụ dùng để đập, nghiền."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "枇杷",
+      "reading": "びわ",
+      "meaning": "cây sơn trà nhật"
+    },
+    {
+      "word": "竹杷",
+      "reading": "さらい",
+      "meaning": "cái cào của nông dân"
+    },
+    {
+      "word": "山枇杷",
+      "reading": "やまびわ",
+      "meaning": "một loài cây gỗ mọc ở vùng núi"
+    },
+    {
+      "word": "犬枇杷",
+      "reading": "いぬびわ",
+      "meaning": "họ moraceae"
+    }
+  ]
+}

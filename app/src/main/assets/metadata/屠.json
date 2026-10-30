@@ -1,0 +1,103 @@
+{
+  "kanji": "屠",
+  "meta": {
+    "weight": 782,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "チョ"
+    ],
+    "kun": [
+      "ほふ.る"
+    ],
+    "am_han": "ĐỒ, CHƯ"
+  },
+  "meaning": {
+    "vi": "giết mổ, đồ tể, giết người",
+    "en": "slaughter, butcher, slay"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/屠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5712",
+    "text": "屠 (đọc là \"to\") có nghĩa là \"giết\" hoặc \"thịt\", thường liên quan đến hành động giết mổ động vật."
+  },
+  "comments": [
+    {
+      "id": "219370",
+      "lang": "vi",
+      "content_html": "<p>sợ bị Đồ sát nên Giả làm xác chết (Thi)</p>",
+      "content_text": "sợ bị Đồ sát nên Giả làm xác chết (Thi)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "屠蘇機嫌",
+      "reading": "とそきげん",
+      "meaning": "tâm trạng vui vẻ"
+    },
+    {
+      "word": "屠腹",
+      "reading": "とふく",
+      "meaning": "harakiri"
+    },
+    {
+      "word": "浮屠",
+      "reading": "ふと",
+      "meaning": "phật"
+    },
+    {
+      "word": "屠る",
+      "reading": "ほふる",
+      "meaning": "đổ tể"
+    },
+    {
+      "word": "屠蘇",
+      "reading": "とそ",
+      "meaning": "cho gia vị vào mục đích năm mới có)"
+    },
+    {
+      "word": "屠所",
+      "reading": "としょ",
+      "meaning": "lò mổ"
+    },
+    {
+      "word": "屠場",
+      "reading": "とじょう",
+      "meaning": "lò mổ"
+    },
+    {
+      "word": "屠殺",
+      "reading": "とさつ",
+      "meaning": "sự tàn sát"
+    },
+    {
+      "word": "屠竜",
+      "reading": "とりょう",
+      "meaning": "diệt rồng"
+    },
+    {
+      "word": "お屠蘇",
+      "reading": "おとそ",
+      "meaning": "rượu khai vị đầu xuân"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "kanji": "采",
+  "meta": {
+    "weight": 2732,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "と.る",
+      "いろどり"
+    ],
+    "am_han": "THẢI, THÁI"
+  },
+  "meaning": {
+    "vi": "xúc xắc, hình thức, xuất hiện, lấy, thu thập, tô màu",
+    "en": "dice, form, appearance, take, gather, coloring"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/采.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2808",
+    "text": "采 (đọc là \"sai\" hoặc \"saku\") có nghĩa là \"thu thập\", \"chọn lựa\", thường được dùng để chỉ hành động thu thập hoặc lấy một cái gì đó từ tự nhiên hoặc trong quá trình sáng tạo."
+  },
+  "comments": [
+    {
+      "id": "220891",
+      "lang": "vi",
+      "content_html": "<p>Dùng móng tay 爪 hái 采る để hái cây 木 rau</p>",
+      "content_text": "Dùng móng tay 爪 hái 采る để hái cây 木 rau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220892",
+      "lang": "vi",
+      "content_html": "<p>Dùng móng tay thái cây rau</p>",
+      "content_text": "Dùng móng tay thái cây rau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220893",
+      "lang": "vi",
+      "content_html": "<p>thần thái ,phong thái</p>",
+      "content_text": "thần thái ,phong thái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "采",
+      "reading": "さい",
+      "meaning": "xúc xắc"
+    },
+    {
+      "word": "采配",
+      "reading": "さいはい",
+      "meaning": "gậy chỉ huy"
+    },
+    {
+      "word": "納采",
+      "reading": "のうさい",
+      "meaning": "quà tặng hứa hôn"
+    },
+    {
+      "word": "風采",
+      "reading": "ふうさい",
+      "meaning": "sự xuất hiện"
+    },
+    {
+      "word": "采女",
+      "reading": "うねめ",
+      "meaning": "người giúp việc"
+    },
+    {
+      "word": "神采",
+      "reading": "しんさい",
+      "meaning": "ngoại hình nổi trội"
+    },
+    {
+      "word": "喝采",
+      "reading": "かっさい",
+      "meaning": "sự hoan hô nhiệt liệt"
+    },
+    {
+      "word": "采振木",
+      "reading": "ざいふりぼく",
+      "meaning": "amelanchier asiatica là loài thực vật có hoa trong họ hoa hồng"
+    },
+    {
+      "word": "采女司",
+      "reading": "うねめのつかさ",
+      "meaning": "cung nữ phục vụ công việc cá nhân cho hoàng đế và hoàng hậu"
+    },
+    {
+      "word": "采女正",
+      "reading": "うねめのかみ",
+      "meaning": "giám đốc văn phòng phụ nữ tòa án"
+    }
+  ]
+}

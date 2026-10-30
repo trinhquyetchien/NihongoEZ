@@ -1,0 +1,122 @@
+{
+  "kanji": "琶",
+  "meta": {
+    "weight": 1751,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ",
+      "ベ",
+      "ワ"
+    ],
+    "kun": [],
+    "am_han": "BÀ, CẦM"
+  },
+  "meaning": {
+    "vi": "đàn nguyệt",
+    "en": "lute"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/琶.svg"
+  },
+  "frequency": 1966,
+  "examples": [
+    "琵琶湖",
+    "琵琶"
+  ],
+  "explanation": {
+    "id": "6235",
+    "text": "琶 (đọc là \"ha\") có nghĩa là \"đàn hồ cơ\" (một loại đàn dây truyền thống của Nhật Bản) để chỉ nhạc cụ hoặc âm nhạc."
+  },
+  "comments": [
+    {
+      "id": "155353",
+      "lang": "vi",
+      "content_html": "<p>2 vị vua ở trên người đàn bà có mông cong</p>",
+      "content_text": "2 vị vua ở trên người đàn bà có mông cong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155354",
+      "lang": "vi",
+      "content_html": "<p>Hai vị vua cùng nằm trên người đàn BÀ đẹp (sắc)</p>",
+      "content_text": "Hai vị vua cùng nằm trên người đàn BÀ đẹp (sắc)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "琵琶",
+      "reading": "びわ",
+      "meaning": "đàn tỳ bà"
+    },
+    {
+      "word": "琵琶笛",
+      "reading": "びやぼん",
+      "meaning": "đàn môi kiểu nhật thời edo"
+    },
+    {
+      "word": "琵琶鱒",
+      "reading": "びわます",
+      "meaning": "cá hồi biwa"
+    },
+    {
+      "word": "琵琶行",
+      "reading": "びわこう",
+      "meaning": "bài hát biwa"
+    },
+    {
+      "word": "琵琶湖",
+      "reading": "びわこ",
+      "meaning": "hồ biwa"
+    },
+    {
+      "word": "琵琶鰉",
+      "reading": "びわひがい",
+      "meaning": "cá chép biwa"
+    },
+    {
+      "word": "平家琵琶",
+      "reading": "へいけびわ",
+      "meaning": "đàn tì bà heike"
+    },
+    {
+      "word": "薩摩琵琶",
+      "reading": "さつまびわ",
+      "meaning": "đàn tát ma tì bà"
+    },
+    {
+      "word": "琵琶の琴",
+      "reading": "びわのこと",
+      "meaning": "đàn biwa"
+    },
+    {
+      "word": "琵琶湖大鯰",
+      "reading": "びわこおおなまず",
+      "meaning": "cá nheo khổng lồ hồ biwa"
+    }
+  ]
+}

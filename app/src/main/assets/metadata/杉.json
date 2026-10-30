@@ -1,0 +1,139 @@
+{
+  "kanji": "杉",
+  "meta": {
+    "weight": 1286,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "すぎ"
+    ],
+    "am_han": "SAM"
+  },
+  "meaning": {
+    "vi": "tuyết tùng, cryptomeria",
+    "en": "cedar, cryptomeria"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杉.svg"
+  },
+  "frequency": 1095,
+  "examples": [
+    "杉",
+    "小杉"
+  ],
+  "explanation": {
+    "id": "4263",
+    "text": "杉 (đọc là \"sugi\") có nghĩa là \"cây tuyết tùng\", chỉ các loại cây thuộc họ này, thường được dùng trong xây dựng và trang trí."
+  },
+  "comments": [
+    {
+      "id": "154376",
+      "lang": "vi",
+      "content_html": "<p>cây trông giống tóc đuôi SAM là cây tuyết tùng</p>",
+      "content_text": "cây trông giống tóc đuôi SAM là cây tuyết tùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154377",
+      "lang": "vi",
+      "content_html": "<p>cây + sam= cây sam ( tuyết tùng)</p>",
+      "content_text": "cây + sam= cây sam ( tuyết tùng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154378",
+      "lang": "vi",
+      "content_html": "<p>cây 木 trông giống tóc đuôi SAM彡 là cây liễu SAM (xưa gọi là cây tuyết tùng).</p>",
+      "content_text": "cây 木 trông giống tóc đuôi SAM彡 là cây liễu SAM (xưa gọi là cây tuyết tùng).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "杉",
+      "reading": "すぎ",
+      "meaning": "cây tuyết tùng nhật bản"
+    },
+    {
+      "word": "杉林",
+      "reading": "すぎばやし",
+      "meaning": "rừng cây tuyết tùng"
+    },
+    {
+      "word": "老杉",
+      "reading": "ろうさん",
+      "meaning": "cây tuyết tùng nhật già"
+    },
+    {
+      "word": "杉垣",
+      "reading": "すぎがき",
+      "meaning": "hàng rào cây tuyết tùng"
+    },
+    {
+      "word": "沼杉",
+      "reading": "ぬますぎ",
+      "meaning": "taxodium distichum"
+    },
+    {
+      "word": "米杉",
+      "reading": "べいすぎ",
+      "meaning": "tuyết tùng đỏ"
+    },
+    {
+      "word": "杉叢",
+      "reading": "すぎむら",
+      "meaning": "rừng tuyết tùng"
+    },
+    {
+      "word": "小杉",
+      "reading": "こすぎ",
+      "meaning": "cây tuyết tùng nhỏ"
+    },
+    {
+      "word": "杉材",
+      "reading": "すぎざい",
+      "meaning": "cây gỗ thông tuyết"
+    },
+    {
+      "word": "糸杉",
+      "reading": "いとすぎ",
+      "meaning": "cây bách"
+    }
+  ]
+}

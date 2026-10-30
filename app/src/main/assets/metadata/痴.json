@@ -1,0 +1,143 @@
+{
+  "kanji": "痴",
+  "meta": {
+    "weight": 1812,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "し.れる",
+      "おろか"
+    ],
+    "am_han": "SI"
+  },
+  "meaning": {
+    "vi": "ngu ngốc",
+    "en": "stupid, foolish"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/痴.svg"
+  },
+  "frequency": 1663,
+  "examples": [
+    "愚痴",
+    "痴呆",
+    "痴漢",
+    "音痴",
+    "痴"
+  ],
+  "explanation": {
+    "id": "5214",
+    "text": "痴 (đọc là \"chi\") có nghĩa là \"ngớ ngẩn\", \"đần độn\" để chỉ sự ngu dốt hoặc thiếu hiểu biết."
+  },
+  "comments": [
+    {
+      "id": "155476",
+      "lang": "vi",
+      "content_html": "<p>Người tri thức lúc bị bệnh thì dễ si đần mất trí</p>",
+      "content_text": "Người tri thức lúc bị bệnh thì dễ si đần mất trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155477",
+      "lang": "vi",
+      "content_html": "<p>Ngu si là tên của bệnh thiếu hiểu biết</p>",
+      "content_text": "Ngu si là tên của bệnh thiếu hiểu biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155478",
+      "lang": "vi",
+      "content_html": "<p>Bệnh Tri thức quá hóa ngu SI</p>",
+      "content_text": "Bệnh Tri thức quá hóa ngu SI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "痴",
+      "reading": "ち",
+      "meaning": "sự ngu ngốc"
+    },
+    {
+      "word": "運痴",
+      "reading": "うんち",
+      "meaning": "chạy chậm lại trong những sự chuyển động ai đó"
+    },
+    {
+      "word": "愚痴",
+      "reading": "ぐち",
+      "meaning": "than thở"
+    },
+    {
+      "word": "情痴",
+      "reading": "じょうち",
+      "meaning": "yêu sự khờ dại"
+    },
+    {
+      "word": "書痴",
+      "reading": "しょち",
+      "meaning": "mọt sách"
+    },
+    {
+      "word": "痴女",
+      "reading": "ちじょ",
+      "meaning": "nữ biến thái"
+    },
+    {
+      "word": "痴態",
+      "reading": "ちたい",
+      "meaning": "sự ngu ngốc"
+    },
+    {
+      "word": "痴人",
+      "reading": "ちじん",
+      "meaning": "người ngớ ngẩn"
+    },
+    {
+      "word": "痴情",
+      "reading": "ちじょう",
+      "meaning": "sự si tình"
+    },
+    {
+      "word": "痴呆",
+      "reading": "ちほう",
+      "meaning": "chứng loạn trí"
+    }
+  ]
+}

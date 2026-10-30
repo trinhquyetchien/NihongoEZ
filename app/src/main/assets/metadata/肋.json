@@ -1,0 +1,119 @@
+{
+  "kanji": "肋",
+  "meta": {
+    "weight": 2166,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "あばら"
+    ],
+    "am_han": "LẶC"
+  },
+  "meaning": {
+    "vi": "xương sườn",
+    "en": "rib"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/肋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8373",
+    "text": "肋 (đọc là \"ろく\", \"あばら\") có nghĩa là \"sườn\" để chỉ các xương sườn trong cơ thể."
+  },
+  "comments": [
+    {
+      "id": "220430",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt nhờ anh Lực nắm Xương Sườn</p>",
+      "content_text": "chị Nguyệt nhờ anh Lực nắm Xương Sườn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220431",
+      "lang": "vi",
+      "content_html": "<p>Lặc danh thế Lực xấu đánh gãy xương sườn chị Nguyệt.</p>",
+      "content_text": "Lặc danh thế Lực xấu đánh gãy xương sườn chị Nguyệt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "肋",
+      "reading": "あばら",
+      "meaning": "sườn"
+    },
+    {
+      "word": "中肋",
+      "reading": "ちゅうろく",
+      "meaning": "midrib"
+    },
+    {
+      "word": "肋凹",
+      "reading": "ろくおう",
+      "meaning": "hõm sườn"
+    },
+    {
+      "word": "肋木",
+      "reading": "ろくぼく",
+      "meaning": "thang thẳng đứng"
+    },
+    {
+      "word": "肋膜",
+      "reading": "ろくまく",
+      "meaning": "màng phổi"
+    },
+    {
+      "word": "肋肉",
+      "reading": "ばらにく",
+      "meaning": "boned thịt lợn)"
+    },
+    {
+      "word": "肋骨",
+      "reading": "あばらぼね",
+      "meaning": "xương sườn"
+    },
+    {
+      "word": "肋筋",
+      "reading": "あばらきん",
+      "meaning": "thép đai"
+    },
+    {
+      "word": "肋間",
+      "reading": "ろっかん",
+      "meaning": "ở giữa các xương sườn"
+    },
+    {
+      "word": "肋材",
+      "reading": "ろくざい",
+      "meaning": "gỗ xẻ"
+    }
+  ]
+}

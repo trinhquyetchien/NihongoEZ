@@ -1,0 +1,92 @@
+{
+  "kanji": "坦",
+  "meta": {
+    "weight": 554,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "たいら"
+    ],
+    "am_han": "THẢN"
+  },
+  "meaning": {
+    "vi": "mức độ, rộng",
+    "en": "level, wide"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/坦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5120",
+    "text": "坦 (đọc là \"tan\") có nghĩa là \"bằng phẳng\", \"trải rộng\" để chỉ sự phẳng lì hoặc không có gồ ghề, thường được dùng trong ngữ cảnh mô tả địa hình hoặc tâm trạng."
+  },
+  "comments": [
+    {
+      "id": "219199",
+      "lang": "vi",
+      "content_html": "<p>đất bình thản sáng sớm</p>",
+      "content_text": "đất bình thản sáng sớm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "坦坦",
+      "reading": "たんたん",
+      "meaning": "bình lặng"
+    },
+    {
+      "word": "坦懐",
+      "reading": "たんかい",
+      "meaning": "tính ngay thật"
+    },
+    {
+      "word": "平坦",
+      "reading": "へいたん",
+      "meaning": "bằng phẳng"
+    },
+    {
+      "word": "リスク負坦",
+      "reading": "リスクふひろし",
+      "meaning": "chấp nhận rủi ro"
+    },
+    {
+      "word": "虚心坦懐",
+      "reading": "きょしんたんかい",
+      "meaning": "vô tư"
+    },
+    {
+      "word": "平坦型ストーマ",
+      "reading": "へいたんがたストーマ",
+      "meaning": "stoma ngang bề mặt da"
+    },
+    {
+      "word": "亜富汗斯坦",
+      "reading": "アフガニスタン",
+      "meaning": "nước afghanistan"
+    },
+    {
+      "word": "平坦にする",
+      "reading": "へいたんにする",
+      "meaning": "bạt"
+    }
+  ]
+}

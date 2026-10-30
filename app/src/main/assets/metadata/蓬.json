@@ -1,0 +1,103 @@
+{
+  "kanji": "蓬",
+  "meta": {
+    "weight": 2330,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "ブ"
+    ],
+    "kun": [
+      "よもぎ"
+    ],
+    "am_han": "BỒNG"
+  },
+  "meaning": {
+    "vi": "cây xô thơm, cây ngải cứu",
+    "en": "sagebrush, wormwood, mugwort"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蓬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7211",
+    "text": "蓬 (đọc là \"hou\" hoặc \"yomogi\") có nghĩa là \"cỏ thơm\", thường chỉ đến loại cỏ có tên là yomogi, dùng trong ẩm thực và y học."
+  },
+  "comments": [
+    {
+      "id": "220567",
+      "lang": "vi",
+      "content_html": "<p>Các loại Cỏ mọc 3 tầng thẳng đứng trên đường là cỏ Bồng</p>",
+      "content_text": "Các loại Cỏ mọc 3 tầng thẳng đứng trên đường là cỏ Bồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "蓬",
+      "reading": "よもぎ",
+      "meaning": "cây ngải ấn độ"
+    },
+    {
+      "word": "蓬餅",
+      "reading": "よもぎもち",
+      "meaning": "bánh bột nếp ngải cứu nhật bản"
+    },
+    {
+      "word": "山蓬",
+      "reading": "やまよもぎ",
+      "meaning": "cây ngải cứu rừng"
+    },
+    {
+      "word": "大蓬",
+      "reading": "おおよもぎ",
+      "meaning": "artemisia montana"
+    },
+    {
+      "word": "蓬莱",
+      "reading": "ほうらい",
+      "meaning": "chốn bồng lai"
+    },
+    {
+      "word": "蓬窓",
+      "reading": "ほうそう",
+      "meaning": "cửa sổ hướng ra nơi cỏ mọc"
+    },
+    {
+      "word": "蓬髪",
+      "reading": "ほうはつ",
+      "meaning": "tóc bù xù"
+    },
+    {
+      "word": "蓬客",
+      "reading": "ほうかく",
+      "meaning": "người lang thang"
+    },
+    {
+      "word": "蓬頭",
+      "reading": "ほうとう",
+      "meaning": "đầu tóc bù xù"
+    },
+    {
+      "word": "蓬生",
+      "reading": "よもぎう",
+      "meaning": "khu vực cỏ dại mọc um tùm"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "kanji": "穆",
+  "meta": {
+    "weight": 1949,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "やわ.らぐ"
+    ],
+    "am_han": "MỤC, MẶC"
+  },
+  "meaning": {
+    "vi": "tôn trọng, ôn hòa, xinh đẹp",
+    "en": "respectful, mild, beautiful"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/穆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7337",
+    "text": "穆 (đọc là \"boku\") có nghĩa là \"nghiêm túc\", \"trang trọng\", thường dùng để chỉ sự tôn kính hoặc thanh tịnh."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "穆穆",
+      "reading": "ぼくぼく",
+      "meaning": "thân thiện và đáng yêu"
+    },
+    {
+      "word": "清穆",
+      "reading": "せいぼく",
+      "meaning": "mạnh khỏe và bình an"
+    }
+  ]
+}

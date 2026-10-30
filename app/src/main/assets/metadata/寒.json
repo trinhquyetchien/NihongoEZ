@@ -1,0 +1,142 @@
+{
+  "kanji": "寒",
+  "meta": {
+    "weight": 738,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "さむ.い"
+    ],
+    "am_han": "HÀN"
+  },
+  "meaning": {
+    "vi": "lạnh",
+    "en": "cold"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/寒.svg"
+  },
+  "frequency": 1456,
+  "examples": [
+    "寒い",
+    "寒",
+    "寒天",
+    "寒気",
+    "寒冷"
+  ],
+  "explanation": {
+    "id": "1063",
+    "text": "寒 (đọc là \"kan\") có nghĩa là \"lạnh\" để chỉ cảm giác lạnh hoặc thời tiết lạnh."
+  },
+  "comments": [
+    {
+      "id": "1034",
+      "lang": "vi",
+      "content_html": "<p>Vào những ngày <strong>lạnh</strong>, tôi đến nhà bạn và để lại những dấu chân trên tuyết.</p>",
+      "content_text": "Vào những ngày\nlạnh\n, tôi đến nhà bạn và để lại những dấu chân trên tuyết.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e0cb77cf1.png",
+      "image_path": "assets/images/寒_1.png",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190982",
+      "lang": "vi",
+      "content_html": "<p><strong>lạnh</strong></p>",
+      "content_text": "lạnh",
+      "image_url": "https://jpdictionary.com/upload/images/648a7eb043f9d.jpg",
+      "image_path": "assets/images/寒_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "153004",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà, gió Hàn vẫn lùa qua dc 3 khe cửa sổ</p>",
+      "content_text": "Dưới mái nhà, gió Hàn vẫn lùa qua dc 3 khe cửa sổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "寒",
+      "reading": "かん",
+      "meaning": "giữa mùa đông"
+    },
+    {
+      "word": "寒寒",
+      "reading": "さむざむ",
+      "meaning": "lành lạnh"
+    },
+    {
+      "word": "大寒小寒",
+      "reading": "おおさむこさむ",
+      "meaning": "bài đồng dao \"lạnh to lạnh nhỏ\""
+    },
+    {
+      "word": "寒寒した心",
+      "reading": "さむざむしたこころ",
+      "meaning": "hững hờ"
+    },
+    {
+      "word": "寒桜",
+      "reading": "かんざくら",
+      "meaning": "anh đào hoa chuông"
+    },
+    {
+      "word": "大寒",
+      "reading": "だいかん",
+      "meaning": "đại hàn"
+    },
+    {
+      "word": "寒鯛",
+      "reading": "かんだい",
+      "meaning": "cá bàng chài đầu gù"
+    },
+    {
+      "word": "極寒",
+      "reading": "ごっかん",
+      "meaning": "sự lạnh nhất"
+    },
+    {
+      "word": "寒村",
+      "reading": "かんそん",
+      "meaning": "nơi khỉ ho cò gáy"
+    },
+    {
+      "word": "向寒",
+      "reading": "こうかん",
+      "meaning": "đối mặt với giá rét"
+    }
+  ]
+}

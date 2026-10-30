@@ -1,0 +1,87 @@
+{
+  "kanji": "頚",
+  "meta": {
+    "weight": 2908,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "くび"
+    ],
+    "am_han": "CẢNH"
+  },
+  "meaning": {
+    "vi": "cổ, đầu",
+    "en": "neck, head"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/頚.svg"
+  },
+  "frequency": 2470,
+  "examples": [
+    "頚椎",
+    "頚"
+  ],
+  "explanation": {
+    "id": "2034",
+    "text": "頚 (đọc là \"kubi\") có nghĩa là \"cổ\" để chỉ bộ phận cơ thể nối giữa đầu và thân."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "頚髄",
+      "reading": "けいずい",
+      "meaning": "tủy sống cổ"
+    },
+    {
+      "word": "頚肉",
+      "reading": "けいにく",
+      "meaning": "cổ kích thích"
+    },
+    {
+      "word": "頚椎",
+      "reading": "けいつい",
+      "meaning": "các đốt sống cổ"
+    },
+    {
+      "word": "頚骨",
+      "reading": "けいこつ",
+      "meaning": "xương cổ"
+    },
+    {
+      "word": "頚部",
+      "reading": "けいぶ",
+      "meaning": "cổ"
+    },
+    {
+      "word": "刎頚",
+      "reading": "ふんけい",
+      "meaning": "sự chém đầu"
+    },
+    {
+      "word": "頚動脈",
+      "reading": "けいどうみゃく",
+      "meaning": "động mạch động mạch cảnh"
+    },
+    {
+      "word": "頚静脈",
+      "reading": "けいじょうみゃく",
+      "meaning": "tĩnh mạch cổ"
+    },
+    {
+      "word": "頚巻き",
+      "reading": "けいまき",
+      "meaning": "động mạch động mạch cảnh"
+    },
+    {
+      "word": "刎頚の友",
+      "reading": "ふんけいのとも",
+      "meaning": "bạn thân thiết"
+    }
+  ]
+}

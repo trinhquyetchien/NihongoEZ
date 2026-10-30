@@ -1,0 +1,140 @@
+{
+  "kanji": "鎌",
+  "meta": {
+    "weight": 2787,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン",
+      "ケン"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "am_han": "LIÊM"
+  },
+  "meaning": {
+    "vi": "liềm, lưỡi hái, lừa",
+    "en": "sickle, scythe, trick"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鎌.svg"
+  },
+  "frequency": 1587,
+  "examples": [
+    "鎌倉",
+    "鎌"
+  ],
+  "explanation": {
+    "id": "1028",
+    "text": "鎌 (đọc là \"kama\") có nghĩa là \"lưỡi hái\", một công cụ nông nghiệp dùng để thu hoạch cây trồng."
+  },
+  "comments": [
+    {
+      "id": "157604",
+      "lang": "vi",
+      "content_html": "<p>LIỀM làm từ KIM loại và có dùng KIÊM cho nhiều công việc</p>",
+      "content_text": "LIỀM làm từ KIM loại và có dùng KIÊM cho nhiều công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157605",
+      "lang": "vi",
+      "content_html": "<p>Đồ kim loại + với hình bàn tay cầm bó lúa 兼,<br>làm cho ta liên tưởng ngay tới cái liềm để gặt lúa bằng kim loại.</p>",
+      "content_text": "Đồ kim loại + với hình bàn tay cầm bó lúa 兼,\nlàm cho ta liên tưởng ngay tới cái liềm để gặt lúa bằng kim loại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157606",
+      "lang": "vi",
+      "content_html": "<p>ông thợ kim chuyên khau phu trach lam liềm</p>",
+      "content_text": "ông thợ kim chuyên khau phu trach lam liềm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鎌",
+      "reading": "かま",
+      "meaning": "liềm"
+    },
+    {
+      "word": "鎌柄",
+      "reading": "かまつか",
+      "meaning": "photinia villosa"
+    },
+    {
+      "word": "鉈鎌",
+      "reading": "なたがま",
+      "meaning": "hóa đơn"
+    },
+    {
+      "word": "鋸鎌",
+      "reading": "のこぎりがま",
+      "meaning": "lưỡi liềm"
+    },
+    {
+      "word": "草鎌",
+      "reading": "くさがま",
+      "meaning": "liềm cỏ"
+    },
+    {
+      "word": "鎌髭",
+      "reading": "かまひげ",
+      "meaning": "ria mép hình lưỡi liềm"
+    },
+    {
+      "word": "鎌足",
+      "reading": "かまあし",
+      "meaning": "chân vòng kiềng"
+    },
+    {
+      "word": "鎌首",
+      "reading": "かまくび",
+      "meaning": "vật cong như cổ ngỗng"
+    },
+    {
+      "word": "鎌鼬",
+      "reading": "かまいたち",
+      "meaning": "hiện tượng da bị nứt nẻ giống như vết liềm cứa vào"
+    },
+    {
+      "word": "大鎌",
+      "reading": "おおがま",
+      "meaning": "cái hái hớt cỏ"
+    }
+  ]
+}

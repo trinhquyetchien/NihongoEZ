@@ -1,0 +1,87 @@
+{
+  "kanji": "兜",
+  "meta": {
+    "weight": 267,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ト"
+    ],
+    "kun": [
+      "かぶと"
+    ],
+    "am_han": "ĐÂU"
+  },
+  "meaning": {
+    "vi": "mũ bảo hiểm, mảnh đầu",
+    "en": "helmet, head piece"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/兜.svg"
+  },
+  "frequency": 2034,
+  "examples": [
+    "兜"
+  ],
+  "explanation": {
+    "id": "1020",
+    "text": "兜 (đọc là \"to\", \"kabuto\") có nghĩa là \"mũ bảo hiểm\" hoặc \"mũ chiến\" trong văn hóa Nhật Bản, thường được sử dụng để chỉ các loại mũ truyền thống của samurai."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "兜",
+      "reading": "かぶと",
+      "meaning": "mũ giáp đội đầu của samurai"
+    },
+    {
+      "word": "角兜",
+      "reading": "つのかぶと",
+      "meaning": "bọ cánh cứng golofa"
+    },
+    {
+      "word": "兜率",
+      "reading": "とそつ",
+      "meaning": "vị thứ tư trong sáu cõi hay cõi trời của kamadhatu trong truyền thống phật giáo"
+    },
+    {
+      "word": "鉄兜",
+      "reading": "てつかぶと",
+      "meaning": "mũ sắt"
+    },
+    {
+      "word": "鳥兜",
+      "reading": "とりかぶと",
+      "meaning": "cây phụ tử"
+    },
+    {
+      "word": "兜蟹",
+      "reading": "かぶとがに",
+      "meaning": "cua bể móng ngựa"
+    },
+    {
+      "word": "兜虫",
+      "reading": "かぶとむし",
+      "meaning": "bọ cánh cứng coleoptera"
+    },
+    {
+      "word": "内兜",
+      "reading": "うちかぶと",
+      "meaning": "đội mũ sắt"
+    },
+    {
+      "word": "兜蝦",
+      "reading": "かぶとえび",
+      "meaning": "tôm nòng nọc"
+    },
+    {
+      "word": "兜魚",
+      "reading": "かぶとうお",
+      "meaning": "cá poromitra crassiceps"
+    }
+  ]
+}

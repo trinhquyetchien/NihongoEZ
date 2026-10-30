@@ -1,0 +1,90 @@
+{
+  "kanji": "埴",
+  "meta": {
+    "weight": 565,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "はに",
+      "へな"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "đất sét",
+    "en": "clay"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/埴.svg"
+  },
+  "frequency": 2150,
+  "examples": [],
+  "explanation": {
+    "id": "4006",
+    "text": "埴 (đọc là \"haku\") có nghĩa là \"đất sét\" hoặc \"bùn\", thường liên quan đến việc làm gốm hoặc chế tác."
+  },
+  "comments": [
+    {
+      "id": "152594",
+      "lang": "vi",
+      "content_html": "<p>Thực hành Trực tiếp trồng cây trên Đất.</p>",
+      "content_text": "Thực hành Trực tiếp trồng cây trên Đất.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152595",
+      "lang": "vi",
+      "content_html": "<p>trực tiếp trồng cây trên đất</p>",
+      "content_text": "trực tiếp trồng cây trên đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "埴瓮",
+      "reading": "はにべ",
+      "meaning": "đồ đựng làm từ đất sét"
+    },
+    {
+      "word": "埴輪",
+      "reading": "はにわ",
+      "meaning": "haniwa"
+    },
+    {
+      "word": "埴生",
+      "reading": "はにゅう",
+      "meaning": "đất sét"
+    },
+    {
+      "word": "埴破",
+      "reading": "はんなり",
+      "meaning": "hannari"
+    }
+  ]
+}

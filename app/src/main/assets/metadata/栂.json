@@ -1,0 +1,43 @@
+{
+  "kanji": "栂",
+  "meta": {
+    "weight": 1333,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "つが",
+      "とが"
+    ],
+    "am_han": "MẪU, MẤU"
+  },
+  "meaning": {
+    "vi": "hemlock, (kokuji)",
+    "en": "hemlock, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/栂.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5469",
+    "text": "栂 (đọc là \"tō\" hoặc \"shin\") có nghĩa là \"cây thông\" để chỉ loại cây thường xanh, đặc biệt là thông Đài Loan."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "栂",
+      "reading": "つが",
+      "meaning": "thông tsuga sieboldii"
+    },
+    {
+      "word": "栂椹",
+      "reading": "とがさわら",
+      "meaning": "thiết sam pseudotsuga japonica"
+    }
+  ]
+}

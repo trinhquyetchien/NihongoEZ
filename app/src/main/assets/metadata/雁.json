@@ -1,0 +1,105 @@
+{
+  "kanji": "雁",
+  "meta": {
+    "weight": 2853,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "かり",
+      "かりがね"
+    ],
+    "am_han": "NHẠN"
+  },
+  "meaning": {
+    "vi": "ngỗng hoang dã",
+    "en": "wild goose"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/雁.svg"
+  },
+  "frequency": 2192,
+  "examples": [
+    "雁"
+  ],
+  "explanation": {
+    "id": "1229",
+    "text": "雁 (đọc là \"gan\") có nghĩa là \"ngỗng\" để chỉ loại chim nước lớn, thường được biết đến với khả năng bay xa và sống theo bầy."
+  },
+  "comments": [
+    {
+      "id": "157761",
+      "lang": "vi",
+      "content_html": "<p>Dưới Sườn núi có Người bắt được con Chim Nhạn</p>",
+      "content_text": "Dưới Sườn núi có Người bắt được con Chim Nhạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "雁",
+      "reading": "がん",
+      "meaning": "ngỗng trời"
+    },
+    {
+      "word": "雁骨",
+      "reading": "かりがねぼね",
+      "meaning": "/s'kæpjuli:/"
+    },
+    {
+      "word": "雁木",
+      "reading": "がんぎ",
+      "meaning": "bước đi đê"
+    },
+    {
+      "word": "雁爪",
+      "reading": "がんづめ",
+      "meaning": "một người nhật cào"
+    },
+    {
+      "word": "雁首",
+      "reading": "かりくび",
+      "meaning": "vật có hình dang như cổ con ngỗng"
+    },
+    {
+      "word": "真雁",
+      "reading": "まがん",
+      "meaning": "ngỗng ngực trắng"
+    },
+    {
+      "word": "カナダ雁",
+      "reading": "カナダがん",
+      "meaning": "ngỗng canada"
+    },
+    {
+      "word": "ハワイ雁",
+      "reading": "ハワイがん",
+      "meaning": "ngỗng hawaii"
+    },
+    {
+      "word": "雁足",
+      "reading": "がんそく",
+      "meaning": "matteuccia struthiopteris"
+    },
+    {
+      "word": "雁行",
+      "reading": "がんこう",
+      "meaning": "đội hình bay geese"
+    }
+  ]
+}

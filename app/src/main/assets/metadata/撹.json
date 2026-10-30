@@ -1,0 +1,103 @@
+{
+  "kanji": "撹",
+  "meta": {
+    "weight": 1159,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "みだ.す"
+    ],
+    "am_han": "GIÁC"
+  },
+  "meaning": {
+    "vi": "làm phiền, bối rối",
+    "en": "disturb, throw into confusion"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "897",
+    "text": "撹 (đọc là \"kaku\") có nghĩa là \"khuấy\", \"làm rối\" để chỉ các hành động liên quan đến việc khuấy động hoặc làm xáo trộn một cái gì đó."
+  },
+  "comments": [
+    {
+      "id": "219666",
+      "lang": "vi",
+      "content_html": "<p>Cảm giác oto đi vào giao lộ</p>",
+      "content_text": "Cảm giác oto đi vào giao lộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "撹拌",
+      "reading": "かくはん",
+      "meaning": "khuấy"
+    },
+    {
+      "word": "撹乱",
+      "reading": "かくらん",
+      "meaning": "làm loạn"
+    },
+    {
+      "word": "撹拌機",
+      "reading": "かくはんき",
+      "meaning": "máy khuấy"
+    },
+    {
+      "word": "撹拌子",
+      "reading": "かくはんこ",
+      "meaning": "cánh khuấy"
+    },
+    {
+      "word": "撹拌棒",
+      "reading": "かくはんぼう",
+      "meaning": "thanh khuấy"
+    },
+    {
+      "word": "撹拌軸",
+      "reading": "かくはんじく",
+      "meaning": "trục khuấy"
+    },
+    {
+      "word": "撹乱戦術",
+      "reading": "かくらんせんじゅつ",
+      "meaning": "chiến thuật gây rối"
+    },
+    {
+      "word": "撹拌機器",
+      "reading": "かくはんきき",
+      "meaning": "máy khuấy"
+    },
+    {
+      "word": "撹乱戦法",
+      "reading": "かくらんせんぽう",
+      "meaning": "chiến thuật gây rối"
+    },
+    {
+      "word": "撹拌用部品",
+      "reading": "かくはんようぶひん",
+      "meaning": "bộ phận trộn"
+    }
+  ]
+}

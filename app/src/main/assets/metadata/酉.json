@@ -1,0 +1,138 @@
+{
+  "kanji": "酉",
+  "meta": {
+    "weight": 2710,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "とり"
+    ],
+    "am_han": "DẬU"
+  },
+  "meaning": {
+    "vi": "phía tây, con chim, dấu hiệu của loài chim, 5-7 giờ chiều, dấu hiệu thứ mười của hoàng đạo Trung Quốc, gốc rượu sake (số 164)",
+    "en": "west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/酉.svg"
+  },
+  "frequency": 2468,
+  "examples": [
+    "酉"
+  ],
+  "explanation": {
+    "id": "6000",
+    "text": "酉 (đọc là \"yuu\" hoặc \"tori\") có nghĩa là \"con gà\" hoặc liên quan đến giờ Dậu trong hệ thống 12 giờ của Trung Quốc, thường tượng trưng cho sự hoàn thành và thu hoạch."
+  },
+  "comments": [
+    {
+      "id": "157464",
+      "lang": "vi",
+      "content_html": "<p>Vẫn thích NHẤT (一) là gà(DẬU) KFC có biểu tượng ông già phương TÂY(西).</p>",
+      "content_text": "Vẫn thích NHẤT (一) là gà(DẬU) KFC có biểu tượng ông già phương TÂY(西).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157466",
+      "lang": "vi",
+      "content_html": "<p>uống rượu vào là hậu đậu như chị DẬU</p>",
+      "content_text": "uống rượu vào là hậu đậu như chị DẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157465",
+      "lang": "vi",
+      "content_html": "<p>phương TÂY ngon NHẤT là  --»  GÀ TÂY TURKEY (DẬU)</p>",
+      "content_text": "phương TÂY ngon NHẤT là  --»  GÀ TÂY TURKEY (DẬU)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "酉",
+      "reading": "とり",
+      "meaning": "dậu"
+    },
+    {
+      "word": "日読みの酉",
+      "reading": "ひよみのとり",
+      "meaning": "bộ thủ 酉 trong kanji"
+    },
+    {
+      "word": "辛酉",
+      "reading": "かのととり",
+      "meaning": "tân dậu"
+    },
+    {
+      "word": "丁酉",
+      "reading": "ひのととり",
+      "meaning": "đinh dậu"
+    },
+    {
+      "word": "酉偏",
+      "reading": "とりへん",
+      "meaning": "bộ dậu trong hán tự"
+    },
+    {
+      "word": "酉年",
+      "reading": "とりどし",
+      "meaning": "năm dậu"
+    },
+    {
+      "word": "癸酉",
+      "reading": "みずのととり",
+      "meaning": "năm quý dậu"
+    },
+    {
+      "word": "乙酉",
+      "reading": "きのととり",
+      "meaning": "ất dậu (kết hợp thứ 22 trong hệ thống đánh số can chi của người á đông"
+    },
+    {
+      "word": "己酉",
+      "reading": "つちのととり",
+      "meaning": "năm kỷ dậu"
+    },
+    {
+      "word": "酉の市",
+      "reading": "とりのいち",
+      "meaning": "ngày chim"
+    }
+  ]
+}

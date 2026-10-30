@@ -1,0 +1,142 @@
+{
+  "kanji": "臼",
+  "meta": {
+    "weight": 2227,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "グ"
+    ],
+    "kun": [
+      "うす",
+      "うすづ.く"
+    ],
+    "am_han": "CỮU"
+  },
+  "meaning": {
+    "vi": "cối",
+    "en": "mortar"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/臼.svg"
+  },
+  "frequency": 2048,
+  "examples": [
+    "脱臼",
+    "石臼",
+    "臼"
+  ],
+  "explanation": {
+    "id": "313",
+    "text": "臼 (đọc là \"kyū\" hoặc \"usuki\") có nghĩa là \"cối\", chỉ dụng cụ dùng để nghiền ngũ cốc hoặc gia vị."
+  },
+  "comments": [
+    {
+      "id": "156403",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh Quốc Cữu tay đan vào nhau làm thành cối đá</p>",
+      "content_text": "Hình ảnh Quốc Cữu tay đan vào nhau làm thành cối đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156405",
+      "lang": "vi",
+      "content_html": "<p>mặt trời nứt đôi vĩnh CỬU</p>",
+      "content_text": "mặt trời nứt đôi vĩnh CỬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156404",
+      "lang": "vi",
+      "content_html": "<p>giã vào Cái Cối 臼 làm Mặt Trời 日 nứt đôi vĩnh Cữu</p>",
+      "content_text": "giã vào Cái Cối 臼 làm Mặt Trời 日 nứt đôi vĩnh Cữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "臼",
+      "reading": "うす",
+      "meaning": "cối"
+    },
+    {
+      "word": "臼砲",
+      "reading": "きゅうほう",
+      "meaning": "súng tầm ngắn với nòng ngắn và góc bắn lớn"
+    },
+    {
+      "word": "臼歯",
+      "reading": "きゅうし",
+      "meaning": "răng hàm"
+    },
+    {
+      "word": "上臼",
+      "reading": "うわうす",
+      "meaning": "tảng đá cối xay ở bên trên"
+    },
+    {
+      "word": "石臼",
+      "reading": "いしうす",
+      "meaning": "cối đá"
+    },
+    {
+      "word": "平臼",
+      "reading": "ひらうす",
+      "meaning": "nằm ngang ném đá vào cối xay bàn tay"
+    },
+    {
+      "word": "厚臼",
+      "reading": "あつうす",
+      "meaning": "cối giã tay bằng đá dày"
+    },
+    {
+      "word": "唐臼",
+      "reading": "からうす",
+      "meaning": "cái cối giã thóc gạo"
+    },
+    {
+      "word": "茶臼",
+      "reading": "ちゃうす",
+      "meaning": "cái cối xay trà"
+    },
+    {
+      "word": "脱臼",
+      "reading": "だっきゅう",
+      "meaning": "trẹo"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "kanji": "湖",
+  "meta": {
+    "weight": 1582,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "みずうみ"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "hồ",
+    "en": "lake"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湖.svg"
+  },
+  "frequency": 1344,
+  "examples": [
+    "湖",
+    "琵琶湖",
+    "湖畔",
+    "湖水",
+    "湖面"
+  ],
+  "explanation": {
+    "id": "2284",
+    "text": "湖 (đọc là \"ko\") có nghĩa là \"hồ\", chỉ những vùng nước lớn hơn ao, thường nằm trong tự nhiên."
+  },
+  "comments": [
+    {
+      "id": "154997",
+      "lang": "vi",
+      "content_html": "<p>Thời cổ xưa thường ngắm trăng bên hồ nước</p>",
+      "content_text": "Thời cổ xưa thường ngắm trăng bên hồ nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190757",
+      "lang": "vi",
+      "content_html": "<p>dòng nước cũ soi bóng trăng trên mặt Hồ</p>",
+      "content_text": "dòng nước cũ soi bóng trăng trên mặt Hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154998",
+      "lang": "vi",
+      "content_html": "<p>Anh trăng chiếu xuống hồ nước thấy đồ cổ.</p>",
+      "content_text": "Anh trăng chiếu xuống hồ nước thấy đồ cổ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154999",
+      "lang": "vi",
+      "content_html": "<p>bóng trăng in mặt hồ</p>",
+      "content_text": "bóng trăng in mặt hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "湖",
+      "reading": "みずうみ",
+      "meaning": "hồ"
+    },
+    {
+      "word": "湖畔",
+      "reading": "こはん",
+      "meaning": "bờ hồ"
+    },
+    {
+      "word": "湖水",
+      "reading": "こすい",
+      "meaning": "nước hồ"
+    },
+    {
+      "word": "湖面",
+      "reading": "こめん",
+      "meaning": "mặt hồ"
+    },
+    {
+      "word": "湖上",
+      "reading": "こじょう",
+      "meaning": "trên hồ nước"
+    },
+    {
+      "word": "湖岸",
+      "reading": "こがん",
+      "meaning": "bờ hồ"
+    },
+    {
+      "word": "輪湖",
+      "reading": "りんこ",
+      "meaning": "kỷ nguyên giữa những năm 1970 do các nhà vô địch lớn wajima và kitanoumi thống trị"
+    },
+    {
+      "word": "江湖",
+      "reading": "こうこ",
+      "meaning": "sông và hồ"
+    },
+    {
+      "word": "淡湖",
+      "reading": "たんこ",
+      "meaning": "hồ nước ngọt"
+    },
+    {
+      "word": "湖心",
+      "reading": "こしん",
+      "meaning": "giữa hồ"
+    }
+  ]
+}

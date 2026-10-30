@@ -1,0 +1,145 @@
+{
+  "kanji": "儲",
+  "meta": {
+    "weight": 253,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "もう.ける",
+      "もう.かる",
+      "もうけ",
+      "たくわ.える"
+    ],
+    "am_han": "TRỮ, TRỪ, TRỪU"
+  },
+  "meaning": {
+    "vi": "có lợi nhuận, mang lại lợi nhuận",
+    "en": "be profitable, yield profit"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/儲.svg"
+  },
+  "frequency": 2442,
+  "examples": [
+    "儲け",
+    "儲かる",
+    "儲ける",
+    "金儲け",
+    "大儲け"
+  ],
+  "explanation": {
+    "id": "7619",
+    "text": "儲 (đọc là \"chou\") có nghĩa là \"tiết kiệm\", \"tích trữ\" để chỉ hành động lưu giữ hoặc tích lũy tài sản, tiền bạc."
+  },
+  "comments": [
+    {
+      "id": "151825",
+      "lang": "vi",
+      "content_html": "<p>Niềm TIN (信) của học GIẢ (者) tích TRỮ sẽ sinh lời</p>",
+      "content_text": "Niềm TIN (信) của học GIẢ (者) tích TRỮ sẽ sinh lời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151826",
+      "lang": "vi",
+      "content_html": "<p>儲ける - cho mình góp ý phần viết chữ Kanji bị sai ạ</p>",
+      "content_text": "儲ける - cho mình góp ý phần viết chữ Kanji bị sai ạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151827",
+      "lang": "vi",
+      "content_html": "<p>người ĐỨNG NÓI chuyện với học GIẢ để TRỮ tiền</p>",
+      "content_text": "người ĐỨNG NÓI chuyện với học GIẢ để TRỮ tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "儲",
+      "reading": "もうけ",
+      "meaning": "có lợi"
+    },
+    {
+      "word": "儲位",
+      "reading": "ちょい",
+      "meaning": "quyền thừa kế"
+    },
+    {
+      "word": "儲蓄",
+      "reading": "ちょちく",
+      "meaning": "sự cất giữ"
+    },
+    {
+      "word": "儲役",
+      "reading": "もうけやく",
+      "meaning": "vị trí có lợi"
+    },
+    {
+      "word": "儲口",
+      "reading": "もうけぐち",
+      "meaning": "có lợi làm việc"
+    },
+    {
+      "word": "儲け",
+      "reading": "もうけ",
+      "meaning": "lợi nhuận"
+    },
+    {
+      "word": "嫌儲",
+      "reading": "けんちょ",
+      "meaning": "thuật ngữ internet chỉ những người hoặc thái độ ghét bỏ việc sao chép"
+    },
+    {
+      "word": "儲物",
+      "reading": "もうけもの",
+      "meaning": "tốt mặc cả"
+    },
+    {
+      "word": "一儲",
+      "reading": "ひともうけ",
+      "meaning": "sự đúc tiền"
+    },
+    {
+      "word": "金儲け",
+      "reading": "かねもうけ",
+      "meaning": "kiếm tiền"
+    }
+  ]
+}

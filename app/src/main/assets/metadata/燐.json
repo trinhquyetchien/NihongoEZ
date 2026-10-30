@@ -1,0 +1,100 @@
+{
+  "kanji": "燐",
+  "meta": {
+    "weight": 1675,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [],
+    "am_han": "LÂN"
+  },
+  "meaning": {
+    "vi": "phốt pho",
+    "en": "phosphorus"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/燐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8168",
+    "text": "燐 (đọc là \"rin\") có nghĩa là \"phốt pho\", một nguyên tố hóa học quan trọng thường được sử dụng trong phân bón và hóa chất."
+  },
+  "comments": [
+    {
+      "id": "220036",
+      "lang": "vi",
+      "content_html": "<p>Hàng xóm vo gạo vào chiều cuối năm ở gần đồi</p>",
+      "content_text": "Hàng xóm vo gạo vào chiều cuối năm ở gần đồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "燐",
+      "reading": "りん",
+      "meaning": "lân tinh"
+    },
+    {
+      "word": "黄燐",
+      "reading": "おうりん",
+      "meaning": "photpho vàng"
+    },
+    {
+      "word": "燐酸",
+      "reading": "りんさん",
+      "meaning": "lân tinh"
+    },
+    {
+      "word": "燐寸",
+      "reading": "マッチ",
+      "meaning": "hợp... vừa khớp với cái gì đó"
+    },
+    {
+      "word": "燐鉱",
+      "reading": "りんこう",
+      "meaning": "quặng chứa photpho"
+    },
+    {
+      "word": "燐光",
+      "reading": "りんこう",
+      "meaning": "hiện tượng lân quang"
+    },
+    {
+      "word": "赤燐",
+      "reading": "せきりん",
+      "meaning": "phốt pho đỏ"
+    },
+    {
+      "word": "燐火",
+      "reading": "りんか",
+      "meaning": "ma trơi"
+    },
+    {
+      "word": "白燐",
+      "reading": "はくりん",
+      "meaning": "phốt pho trắng"
+    },
+    {
+      "word": "リン=燐",
+      "reading": "リン=りん",
+      "meaning": "phốt pho"
+    }
+  ]
+}

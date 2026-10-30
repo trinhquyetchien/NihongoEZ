@@ -1,0 +1,142 @@
+{
+  "kanji": "択",
+  "meta": {
+    "weight": 1063,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "えら.ぶ"
+    ],
+    "am_han": "TRẠCH, MÂN, THƯỚC, XÁCH"
+  },
+  "meaning": {
+    "vi": "chọn, bầu, thích",
+    "en": "choose, select, elect, prefer"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/択.svg"
+  },
+  "frequency": 847,
+  "examples": [
+    "選択",
+    "選択肢",
+    "採択",
+    "取捨選択",
+    "択"
+  ],
+  "explanation": {
+    "id": "5032",
+    "text": "択 (đọc là \"taku\") có nghĩa là \"lựa chọn\", \"chọn lựa\" để chỉ các hành động liên quan đến việc quyết định hoặc lựa chọn giữa nhiều khả năng khác nhau."
+  },
+  "comments": [
+    {
+      "id": "153829",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm xích để bắt con trạch</p>",
+      "content_text": "Tay cầm xích để bắt con trạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153830",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm thươc đo để lựa chọn</p>",
+      "content_text": "Tay cầm thươc đo để lựa chọn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153831",
+      "lang": "vi",
+      "content_html": "<p>Tay bị Xích lại thì ko có được Lựa chọn đâu.</p>",
+      "content_text": "Tay bị Xích lại thì ko có được Lựa chọn đâu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "択",
+      "reading": "たく",
+      "meaning": "phương án"
+    },
+    {
+      "word": "採択",
+      "reading": "さいたく",
+      "meaning": "sự lựa chọn"
+    },
+    {
+      "word": "一択",
+      "reading": "いったく",
+      "meaning": "chỉ có 1 lựa chọn"
+    },
+    {
+      "word": "択一",
+      "reading": "たくいつ",
+      "meaning": "sự lựa chọn một trong hai"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "sự lựa chọn"
+    },
+    {
+      "word": "選択者",
+      "reading": "せんたくしゃ",
+      "meaning": "người lựa chọn"
+    },
+    {
+      "word": "選択的",
+      "reading": "せんたくてき",
+      "meaning": "tính chọn lọc"
+    },
+    {
+      "word": "選択クラス",
+      "reading": "せんたくクラス",
+      "meaning": "lớp lựa chọn"
+    },
+    {
+      "word": "選択チャネル",
+      "reading": "せんたくチャネル",
+      "meaning": "bộ chọn kênh"
+    },
+    {
+      "word": "選択型",
+      "reading": "せんたくがた",
+      "meaning": "kiểu lựa chọn"
+    }
+  ]
+}

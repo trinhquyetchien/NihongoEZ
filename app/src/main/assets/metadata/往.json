@@ -1,0 +1,145 @@
+{
+  "kanji": "往",
+  "meta": {
+    "weight": 920,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "い.く",
+      "いにしえ",
+      "さき.に",
+      "ゆ.く"
+    ],
+    "am_han": "VÃNG"
+  },
+  "meaning": {
+    "vi": "hành trình, du lịch, đuổi đi, buông bỏ, đi, trước đây",
+    "en": "journey, travel, chase away, let go, going, before, formerly"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/往.svg"
+  },
+  "frequency": 1421,
+  "examples": [
+    "往復",
+    "往々",
+    "往来",
+    "右往左往",
+    "往年"
+  ],
+  "explanation": {
+    "id": "517",
+    "text": "往 (đọc là \"ō\") có nghĩa là \"đi\", \"hướng đến\" để chỉ các hành động di chuyển hoặc hướng đi."
+  },
+  "comments": [
+    {
+      "id": "153453",
+      "lang": "vi",
+      "content_html": "<p>Người chủ bước chân trái vào trong dĩ vãng</p>",
+      "content_text": "Người chủ bước chân trái vào trong dĩ vãng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153454",
+      "lang": "vi",
+      "content_html": "<p>ĐI làm CHỦ đã là dĩ VÃNG</p>",
+      "content_text": "ĐI làm CHỦ đã là dĩ VÃNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153455",
+      "lang": "vi",
+      "content_html": "<p>chú chó Hachiko đứng đợi người chủ đã chỉ còn là dĩ Vãng</p>",
+      "content_text": "chú chó Hachiko đứng đợi người chủ đã chỉ còn là dĩ Vãng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "往往",
+      "reading": "おうおう",
+      "meaning": "thường xuyên"
+    },
+    {
+      "word": "右往左往",
+      "reading": "うおうさおう",
+      "meaning": "đi ngược đi xuôi"
+    },
+    {
+      "word": "立往生",
+      "reading": "たちおうじょう",
+      "meaning": "sự đứng lại"
+    },
+    {
+      "word": "既往",
+      "reading": "きおう",
+      "meaning": "quá khứ"
+    },
+    {
+      "word": "往ぬ",
+      "reading": "いぬ",
+      "meaning": "đi mất"
+    },
+    {
+      "word": "往日",
+      "reading": "おうじつ",
+      "meaning": "thời báo cổ xưa"
+    },
+    {
+      "word": "往返",
+      "reading": "おうへん",
+      "meaning": "xung quanh đi nhẹ bước"
+    },
+    {
+      "word": "往航",
+      "reading": "おうこう",
+      "meaning": "làm lảo đảo"
+    },
+    {
+      "word": "往事",
+      "reading": "おうじ",
+      "meaning": "chuyện đã qua"
+    },
+    {
+      "word": "往代",
+      "reading": "おうだい",
+      "meaning": "thời xưa"
+    }
+  ]
+}

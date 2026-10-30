@@ -1,0 +1,143 @@
+{
+  "kanji": "架",
+  "meta": {
+    "weight": 1315,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "か.ける",
+      "か.かる"
+    ],
+    "am_han": "GIÁ"
+  },
+  "meaning": {
+    "vi": "dựng lên, khung, gắn kết, hỗ trợ, kệ, cấu trúc",
+    "en": "erect, frame, mount, support, shelf, construct"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/架.svg"
+  },
+  "frequency": 1555,
+  "examples": [
+    "架空",
+    "十字架",
+    "高架",
+    "架",
+    "架け橋"
+  ],
+  "explanation": {
+    "id": "651",
+    "text": "架 (đọc là \"ka\") có nghĩa là \"giá\", \"khung\" để chỉ các vật dụng có cấu trúc hỗ trợ hoặc các khung hình."
+  },
+  "comments": [
+    {
+      "id": "154444",
+      "lang": "vi",
+      "content_html": "<p>tham GIA trồng CÂY để góp phần làm gia tăng GIÁ trị của cuộc sống...</p>",
+      "content_text": "tham GIA trồng CÂY để góp phần làm gia tăng GIÁ trị của cuộc sống...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154445",
+      "lang": "vi",
+      "content_html": "<p>gia tăng thêm cây làm giá đỡ</p>",
+      "content_text": "gia tăng thêm cây làm giá đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154446",
+      "lang": "vi",
+      "content_html": "<p>Cái giá đc gia công từ gỗ</p>",
+      "content_text": "Cái giá đc gia công từ gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "架",
+      "reading": "たるき",
+      "meaning": "giá treo đồ vật"
+    },
+    {
+      "word": "載架",
+      "reading": "さいか",
+      "meaning": "việc đặt ngang qua để tạo thành một cây cầu"
+    },
+    {
+      "word": "書架",
+      "reading": "しょか",
+      "meaning": "giá sách"
+    },
+    {
+      "word": "閉架",
+      "reading": "へいか",
+      "meaning": "chế độ ai muốn đọc sách gì thì đăng kí rồi được lấy cho chứ thư viện ko mở cho lấy tự do"
+    },
+    {
+      "word": "高架",
+      "reading": "こうか",
+      "meaning": "giao thông trên cao"
+    },
+    {
+      "word": "架間",
+      "reading": "かかん",
+      "meaning": "giữa thiết bị"
+    },
+    {
+      "word": "懸架",
+      "reading": "けんか",
+      "meaning": "sự treo một xe ô tô)"
+    },
+    {
+      "word": "架装",
+      "reading": "かそう",
+      "meaning": "phụ kiện ô tô được gắn trực tiếp tại dây chuyền sản xuất ô tô"
+    },
+    {
+      "word": "架電",
+      "reading": "かでん",
+      "meaning": "gọi điện thoại"
+    },
+    {
+      "word": "刀架",
+      "reading": "とうか",
+      "meaning": "giá treo gươm"
+    }
+  ]
+}

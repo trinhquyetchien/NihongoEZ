@@ -1,0 +1,139 @@
+{
+  "kanji": "倹",
+  "meta": {
+    "weight": 221,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "つま.しい",
+      "つづまやか"
+    ],
+    "am_han": "KIỆM"
+  },
+  "meaning": {
+    "vi": "tiết kiệm, nền kinh tế",
+    "en": "frugal, economy, thrifty"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倹.svg"
+  },
+  "frequency": 2479,
+  "examples": [
+    "倹約"
+  ],
+  "explanation": {
+    "id": "2095",
+    "text": "倹 (đọc là \"ken\") có nghĩa là \"tiết kiệm\", chỉ các hành động liên quan đến việc tiết kiệm, quản lý chi tiêu một cách thận trọng."
+  },
+  "comments": [
+    {
+      "id": "151740",
+      "lang": "vi",
+      "content_html": "<p>chỉ cần 1 người tiết kiệm thì 10 người sẽ đc ở trong nhà</p>",
+      "content_text": "chỉ cần 1 người tiết kiệm thì 10 người sẽ đc ở trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151741",
+      "lang": "vi",
+      "content_html": "<p>Kiểm<br>倹　Kiểm là ng tiết Kiệm<br>験　rồi Kiểm đi mua Ngựa để đi học kinh Nghiệm<br>険　Kiểm lạc và Vùng đất nguy Hiểm<br>検　mà Kiểm chỉ Kiểm tra được 1 cái Cây</p>",
+      "content_text": "Kiểm\n倹　Kiểm là ng tiết Kiệm\n験　rồi Kiểm đi mua Ngựa để đi học kinh Nghiệm\n険　Kiểm lạc và Vùng đất nguy Hiểm\n検　mà Kiểm chỉ Kiểm tra được 1 cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151742",
+      "lang": "vi",
+      "content_html": "<p>Người đội nón là người biết tiết Kiệm</p>",
+      "content_text": "Người đội nón là người biết tiết Kiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "倹",
+      "reading": "けん",
+      "meaning": "kinh tế"
+    },
+    {
+      "word": "倹約",
+      "reading": "けんやく",
+      "meaning": "sự tiết kiệm"
+    },
+    {
+      "word": "勤倹",
+      "reading": "きんけん",
+      "meaning": "sự cần kiệm"
+    },
+    {
+      "word": "節倹",
+      "reading": "せっけん",
+      "meaning": "nền kinh tế"
+    },
+    {
+      "word": "倹素",
+      "reading": "けんそ",
+      "meaning": "tiết kiệm và giản dị"
+    },
+    {
+      "word": "倹吝",
+      "reading": "けんりん",
+      "meaning": "keo kiệt và tham lam"
+    },
+    {
+      "word": "恭倹",
+      "reading": "きょうけん",
+      "meaning": "sự tôn trọng"
+    },
+    {
+      "word": "倹しい",
+      "reading": "つましい",
+      "meaning": "tiết kiệm"
+    },
+    {
+      "word": "倹約家",
+      "reading": "けんやくか",
+      "meaning": "người tiết kiệm"
+    },
+    {
+      "word": "勤倹貯蓄",
+      "reading": "きんけんちょちく",
+      "meaning": "chăm chỉ và tiết kiệm"
+    }
+  ]
+}

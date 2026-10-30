@@ -1,0 +1,138 @@
+{
+  "kanji": "郡",
+  "meta": {
+    "weight": 2703,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "こおり"
+    ],
+    "am_han": "QUẬN"
+  },
+  "meaning": {
+    "vi": "Quận / Huyện",
+    "en": "county, district"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/郡.svg"
+  },
+  "frequency": 965,
+  "examples": [
+    "郡"
+  ],
+  "explanation": {
+    "id": "1920",
+    "text": "郡 (đọc là \"gun\") có nghĩa là \"huyện\" hoặc \"quận\", dùng để chỉ đơn vị hành chính nhỏ hơn tỉnh."
+  },
+  "comments": [
+    {
+      "id": "157445",
+      "lang": "vi",
+      "content_html": "<p>Nhà của cậu ( 君) ở quận 13 (阝) à?</p>",
+      "content_text": "Nhà của cậu ( 君) ở quận 13 (阝) à?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157446",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất của QUÂN CHỦ thì được phong làm QUẬN HUYỆN]</p>",
+      "content_text": "Vùng đất của QUÂN CHỦ thì được phong làm QUẬN HUYỆN]",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157447",
+      "lang": "vi",
+      "content_html": "<p>Quân có bạn ở quận 13</p>",
+      "content_text": "Quân có bạn ở quận 13",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "郡",
+      "reading": "ぐん",
+      "meaning": "huyện"
+    },
+    {
+      "word": "郡部",
+      "reading": "ぐんぶ",
+      "meaning": "vùng nông thôn"
+    },
+    {
+      "word": "郡制",
+      "reading": "ぐんせい",
+      "meaning": "hệ thống lãnh địa"
+    },
+    {
+      "word": "郡県",
+      "reading": "ぐんけん",
+      "meaning": "tỉnh và huyện"
+    },
+    {
+      "word": "郡長",
+      "reading": "ぐんちょう",
+      "meaning": "quận trưởng"
+    },
+    {
+      "word": "郡役所",
+      "reading": "ぐんやくしょ",
+      "meaning": "những văn phòng lãnh địa"
+    },
+    {
+      "word": "郡内織",
+      "reading": "ぐんないおり",
+      "meaning": "hàng dệt được sản xuất tại vùng gunnai của tỉnh yamanashi"
+    },
+    {
+      "word": "国郡里制",
+      "reading": "こくぐんりせい",
+      "meaning": "hệ thống quản lý đơn vị hành chính theo cấp quốc gia"
+    },
+    {
+      "word": "郡県制度",
+      "reading": "ぐんけんせいど",
+      "meaning": "chế độ quận huyện"
+    },
+    {
+      "word": "郡保安官",
+      "reading": "ぐんほあんかん",
+      "meaning": "quận trưởng"
+    }
+  ]
+}

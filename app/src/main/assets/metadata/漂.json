@@ -1,0 +1,141 @@
+{
+  "kanji": "漂",
+  "meta": {
+    "weight": 1605,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "ただよ.う"
+    ],
+    "am_han": "PHIÊU, PHIẾU"
+  },
+  "meaning": {
+    "vi": "trôi, trôi (trên chất lỏng)",
+    "en": "drift, float (on liquid)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漂.svg"
+  },
+  "frequency": 1492,
+  "examples": [
+    "漂う",
+    "漂流",
+    "漂着",
+    "漂白"
+  ],
+  "explanation": {
+    "id": "6706",
+    "text": "漂 (đọc là \"hyou\" hoặc \"piao\") có nghĩa là \"trôi nổi\", \"bay lượn\" để chỉ các trạng thái di chuyển không ổn định, như việc trôi dạt trên mặt nước hay bay trong không khí."
+  },
+  "comments": [
+    {
+      "id": "155058",
+      "lang": "vi",
+      "content_html": "<p>phiếu rơi tung toé lan toả khăps mặt nước</p>",
+      "content_text": "phiếu rơi tung toé lan toả khăps mặt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155059",
+      "lang": "vi",
+      "content_html": "<p>Lấy nước xoá đi dấu \"sắc\" trên chữ \"Phiếu\" =&#62; Phiêu</p>",
+      "content_text": "Lấy nước xoá đi dấu \"sắc\" trên chữ \"Phiếu\" => Phiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155060",
+      "lang": "vi",
+      "content_html": "<p>Cầm ngân PHIẾU đi du lịch khắm THỦY động.</p>",
+      "content_text": "Cầm ngân PHIẾU đi du lịch khắm THỦY động.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "漂漂",
+      "reading": "ひょうひょう",
+      "meaning": "nổi"
+    },
+    {
+      "word": "漂鳥",
+      "reading": "ひょうちょう",
+      "meaning": "loài chim di cư theo mùa"
+    },
+    {
+      "word": "漂動",
+      "reading": "ひょうどう",
+      "meaning": "sự trôi dạt"
+    },
+    {
+      "word": "漂浪",
+      "reading": "ひょうろう",
+      "meaning": "sự phiêu lãng"
+    },
+    {
+      "word": "浮漂",
+      "reading": "ふひょう",
+      "meaning": "nổi"
+    },
+    {
+      "word": "漂着",
+      "reading": "ひょうちゃく",
+      "meaning": "sự dạt vào"
+    },
+    {
+      "word": "漂白",
+      "reading": "ひょうはく",
+      "meaning": "sự tẩy trắng"
+    },
+    {
+      "word": "漂失",
+      "reading": "ひょうしつ",
+      "meaning": "trôi giạt mất"
+    },
+    {
+      "word": "漂砂",
+      "reading": "ひょうさ",
+      "meaning": "trôi dạt cát"
+    },
+    {
+      "word": "漂々",
+      "reading": "ひょうひょう",
+      "meaning": "sự thảnh thơi"
+    }
+  ]
+}

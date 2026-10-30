@@ -1,0 +1,144 @@
+{
+  "kanji": "鎮",
+  "meta": {
+    "weight": 2792,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [
+      "しず.める",
+      "しず.まる",
+      "おさえ"
+    ],
+    "am_han": "TRẤN, CHẮN, CHẬN, CHỚN, DẤN, GIẤN, SÁN, SẤN, TRỚN"
+  },
+  "meaning": {
+    "vi": "yên tĩnh, trung tâm bảo tồn hòa bình cổ đại",
+    "en": "tranquilize, ancient peace-preservation centers"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鎮.svg"
+  },
+  "frequency": 1617,
+  "examples": [
+    "鎮",
+    "鎮痛",
+    "鎮圧",
+    "鎮座",
+    "鎮静"
+  ],
+  "explanation": {
+    "id": "5435",
+    "text": "鎮 (đọc là \"chin\") có nghĩa là \"trấn an\", \"bình ổn\" để chỉ các hành động liên quan đến việc làm dịu hoặc kiểm soát tình hình."
+  },
+  "comments": [
+    {
+      "id": "157610",
+      "lang": "vi",
+      "content_html": "<p>trấn áp người chân chính bằng tiền</p>",
+      "content_text": "trấn áp người chân chính bằng tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157611",
+      "lang": "vi",
+      "content_html": "<p>Dùng đao bằng kim loại trấn áp người dân chân thật</p>",
+      "content_text": "Dùng đao bằng kim loại trấn áp người dân chân thật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157612",
+      "lang": "vi",
+      "content_html": "<p>Tiền k thể Trấn áp được người Chân chính</p>",
+      "content_text": "Tiền k thể Trấn áp được người Chân chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鎮",
+      "reading": "ちん",
+      "meaning": "đè nén bằng vật nặng"
+    },
+    {
+      "word": "鎮祭",
+      "reading": "ちんさい",
+      "meaning": "nghi lễ thờ cúng các vị thần"
+    },
+    {
+      "word": "鎮子",
+      "reading": "ちんし",
+      "meaning": "quả cân trang trí được sử dụng để giữ cho rèm cửa và những thứ tương tự không bị gió thổi tung"
+    },
+    {
+      "word": "鎮痛",
+      "reading": "ちんつう",
+      "meaning": "giảm đau"
+    },
+    {
+      "word": "鎮座",
+      "reading": "ちんざ",
+      "meaning": "sự trấn toạ của thần linh"
+    },
+    {
+      "word": "鎮守",
+      "reading": "ちんじゅ",
+      "meaning": "sự phái binh sĩ đến trấn thủ"
+    },
+    {
+      "word": "鎮魂",
+      "reading": "ちんこん",
+      "meaning": "nghỉ ngơi những linh hồn"
+    },
+    {
+      "word": "重鎮",
+      "reading": "じゅうちん",
+      "meaning": "người lãnh đạo"
+    },
+    {
+      "word": "風鎮",
+      "reading": "ふうちん",
+      "meaning": "hòn đá hay vật gì đó để chặn không cho gió làm đổ tường hay làm bay cái gì đó"
+    },
+    {
+      "word": "鎮台",
+      "reading": "ちんだい",
+      "meaning": "đóng quân"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "kanji": "綬",
+  "meta": {
+    "weight": 2085,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "ひも"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "ruy-băng",
+    "en": "ribbon"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3459",
+    "text": "綬 (đọc là \"sho\") có nghĩa là \"dải ruy băng\" hoặc \"dải lưng\", thường chỉ đến dải ruy băng được dùng làm biểu tượng cho sự thưởng, chức tước hoặc lễ hội."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "綬",
+      "reading": "じゅ",
+      "meaning": "cái dây"
+    },
+    {
+      "word": "綬章",
+      "reading": "じゅしょう",
+      "meaning": "dây ruy băng"
+    },
+    {
+      "word": "印綬",
+      "reading": "いんじゅ",
+      "meaning": "ruy băng"
+    },
+    {
+      "word": "小綬鶏",
+      "reading": "こじゅけい",
+      "meaning": "gà gô tiếng trung hoa"
+    },
+    {
+      "word": "紅綬褒章",
+      "reading": "こうじゅほうしょう",
+      "meaning": "huy chương với ruy băng đỏ"
+    },
+    {
+      "word": "紺綬褒章",
+      "reading": "こんじゅほうしょう",
+      "meaning": "huy chương với ruy băng xanh đậm"
+    },
+    {
+      "word": "紫綬褒章",
+      "reading": "しじゅほうしょう",
+      "meaning": "huân chương bảo thưởng có dải tím"
+    },
+    {
+      "word": "紫綬褒賞",
+      "reading": "しじゅほうしょう",
+      "meaning": "huy chương tặng thưởng cho thành tích uyên bác hoặc nghệ thuật)"
+    },
+    {
+      "word": "緑綬褒章",
+      "reading": "りょくじゅほうしょう",
+      "meaning": "huy chương với một ruy băng xanh lục"
+    },
+    {
+      "word": "藍綬褒章",
+      "reading": "らんじゅほうしょう",
+      "meaning": "huân chương băng xanh"
+    }
+  ]
+}

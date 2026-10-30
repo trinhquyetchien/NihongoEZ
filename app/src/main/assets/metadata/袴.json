@@ -1,0 +1,106 @@
+{
+  "kanji": "袴",
+  "meta": {
+    "weight": 2417,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "ク"
+    ],
+    "kun": [
+      "はかま",
+      "ずぼん"
+    ],
+    "am_han": "KHỐ"
+  },
+  "meaning": {
+    "vi": "váy phân chia chính thức của nam giới",
+    "en": "men's formal divided skirt"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袴.svg"
+  },
+  "frequency": 2175,
+  "examples": [
+    "袴"
+  ],
+  "explanation": {
+    "id": "2293",
+    "text": "袴 (đọc là \"hakama\") có nghĩa là \"quần truyền thống\" để chỉ loại quần được mặc trong các dịp đặc biệt, thường kết hợp với kimono."
+  },
+  "comments": [
+    {
+      "id": "156738",
+      "lang": "vi",
+      "content_html": "<p>chỉ còn có cái QUẦN đùi để mặc mà cũng KHOE khoan.</p>",
+      "content_text": "chỉ còn có cái QUẦN đùi để mặc mà cũng KHOE khoan.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "袴",
+      "reading": "はかま",
+      "meaning": "áo kimono của nam giới"
+    },
+    {
+      "word": "袴下",
+      "reading": "こした",
+      "meaning": "quần lót dài"
+    },
+    {
+      "word": "袴着",
+      "reading": "はかまぎ",
+      "meaning": "nghi lễ mặc lễ phục hakama đầu tiên cho đứa con trai đầu lòng"
+    },
+    {
+      "word": "藤袴",
+      "reading": "ふじばかま",
+      "meaning": "cây hoa trạch lan"
+    },
+    {
+      "word": "緋袴",
+      "reading": "ひばかま",
+      "meaning": "quần hakama đỏ"
+    },
+    {
+      "word": "着袴",
+      "reading": "ちゃっこ",
+      "meaning": "mặc hakama"
+    },
+    {
+      "word": "雪袴",
+      "reading": "ゆきばかま",
+      "meaning": "hakama cách tân để có thể làm việc trong tuyết"
+    },
+    {
+      "word": "袴能",
+      "reading": "はかまのう",
+      "meaning": "kịch noh biểu diễn trong trang phục bình thường"
+    },
+    {
+      "word": "山袴",
+      "reading": "やまばかま",
+      "meaning": "work hakama"
+    },
+    {
+      "word": "長袴",
+      "reading": "ながばかま",
+      "meaning": "hakama viền dài"
+    }
+  ]
+}

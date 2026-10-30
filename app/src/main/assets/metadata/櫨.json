@@ -1,0 +1,64 @@
+{
+  "kanji": "櫨",
+  "meta": {
+    "weight": 1436,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "はぜ"
+    ],
+    "am_han": "LÔ"
+  },
+  "meaning": {
+    "vi": "cây sáp, cây sơn",
+    "en": "wax tree, sumac"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/櫨.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6385",
+    "text": "櫨 (đọc là \"tochi\") có nghĩa là \"cây trăn\" hoặc \"cây ngô đồng,\" thường liên quan đến cây cối và gỗ."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "山櫨",
+      "reading": "やまはぜ",
+      "meaning": "cây sơn tra núi"
+    },
+    {
+      "word": "夏櫨",
+      "reading": "なつはぜ",
+      "meaning": "vaccinium oldhamii"
+    },
+    {
+      "word": "黄櫨",
+      "reading": "はぜのき",
+      "meaning": "cá bống"
+    },
+    {
+      "word": "櫨の木",
+      "reading": "はぜのき",
+      "meaning": "cây sơn"
+    },
+    {
+      "word": "常磐黄櫨",
+      "reading": "ときわはぜ",
+      "meaning": "cây thuộc họ sumac"
+    },
+    {
+      "word": "香櫨園川雲雀貝",
+      "reading": "こうろえんかわひばりがい",
+      "meaning": "xenostrobus securis"
+    }
+  ]
+}

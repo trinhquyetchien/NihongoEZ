@@ -1,0 +1,140 @@
+{
+  "kanji": "穂",
+  "meta": {
+    "weight": 1948,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "ほ"
+    ],
+    "am_han": "TUỆ, BÁNG"
+  },
+  "meaning": {
+    "vi": "tai, tai (hạt), đầu, mào (sóng)",
+    "en": "ear, ear (grain), head, crest (wave)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/穂.svg"
+  },
+  "frequency": 1656,
+  "examples": [
+    "穂",
+    "瑞穂",
+    "稲穂"
+  ],
+  "explanation": {
+    "id": "7111",
+    "text": "穂 (đọc là \"ho\") có nghĩa là \"bông\" hoặc \"hạt\" để chỉ những phần của cây trồng, đặc biệt là ngũ cốc, khi chúng đã chín và trở thành sản phẩm thu hoạch."
+  },
+  "comments": [
+    {
+      "id": "155790",
+      "lang": "vi",
+      "content_html": "<p>Bông LÚA  là ân HUỆ  mà trí TUỆ con người tạo ra</p>",
+      "content_text": "Bông LÚA  là ân HUỆ  mà trí TUỆ con người tạo ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155791",
+      "lang": "vi",
+      "content_html": "<p>chị hoà có ân huệ là tạo ra bông lúa</p>",
+      "content_text": "chị hoà có ân huệ là tạo ra bông lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155792",
+      "lang": "vi",
+      "content_html": "<p>anh hoà lấy chị huệ đẻ ra tuệ</p>",
+      "content_text": "anh hoà lấy chị huệ đẻ ra tuệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "穂",
+      "reading": "ほ",
+      "meaning": "bông"
+    },
+    {
+      "word": "稲穂",
+      "reading": "いなほ",
+      "meaning": "bông lúa"
+    },
+    {
+      "word": "穂木",
+      "reading": "ほぎ",
+      "meaning": "cành"
+    },
+    {
+      "word": "花穂",
+      "reading": "かすい",
+      "meaning": "nhàng hoa"
+    },
+    {
+      "word": "刈穂",
+      "reading": "かりほ",
+      "meaning": "gặt hái hạt"
+    },
+    {
+      "word": "穂先",
+      "reading": "ほさき",
+      "meaning": "bông"
+    },
+    {
+      "word": "落穂",
+      "reading": "おちぼ",
+      "meaning": "lúa mót được"
+    },
+    {
+      "word": "出穂",
+      "reading": "しゅっすい",
+      "meaning": "sự xuất hiện những cái tai hạt"
+    },
+    {
+      "word": "初穂",
+      "reading": "はつほ",
+      "meaning": "những cái tai đầu tiên gạo hoặc gieo trồng hoặc gặt hái mùa"
+    },
+    {
+      "word": "穂状",
+      "reading": "すいじょう",
+      "meaning": "có bông"
+    }
+  ]
+}

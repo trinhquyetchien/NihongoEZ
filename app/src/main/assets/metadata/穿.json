@@ -1,0 +1,137 @@
+{
+  "kanji": "穿",
+  "meta": {
+    "weight": 1959,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "うが.つ",
+      "は.く"
+    ],
+    "am_han": "XUYÊN"
+  },
+  "meaning": {
+    "vi": "đeo vào (đến chân), đào, xuyên qua, khoan",
+    "en": "put on (to the feet), dig, pierce, drill"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/穿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4531",
+    "text": "穿 (đọc là \"sen\") có nghĩa là \"mặc\", \"đeo\" để chỉ việc mặc quần áo hoặc mang đồ vật lên người."
+  },
+  "comments": [
+    {
+      "id": "220259",
+      "lang": "vi",
+      "content_html": "<p>có 8 cái răng xuyên dưới mái nhà</p>",
+      "content_text": "có 8 cái răng xuyên dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220260",
+      "lang": "vi",
+      "content_html": "<p>Lấy Răng (nha) XUYÊN phá được 1 cái Lỗ</p>",
+      "content_text": "Lấy Răng (nha) XUYÊN phá được 1 cái Lỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220261",
+      "lang": "vi",
+      "content_html": "<p>cái huyệt mà cũng bị cái răng cái xuyên thủng</p>",
+      "content_text": "cái huyệt mà cũng bị cái răng cái xuyên thủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "穿口ふたるい",
+      "reading": "穿口蓋類",
+      "meaning": "lớp hyperotreti"
+    },
+    {
+      "word": "せんとうじゅつ 穿頭じゅつ",
+      "reading": "穿頭術",
+      "meaning": "phẫu thuật khoan sọ"
+    },
+    {
+      "word": "穿く",
+      "reading": "はく",
+      "meaning": "mặc"
+    },
+    {
+      "word": "穿つ",
+      "reading": "うがつ",
+      "meaning": "khoan"
+    },
+    {
+      "word": "穿る",
+      "reading": "ほじる",
+      "meaning": "tìm kiếm"
+    },
+    {
+      "word": "穿通",
+      "reading": "せんつう",
+      "meaning": "sự thâm nhập"
+    },
+    {
+      "word": "穿刺",
+      "reading": "せんし",
+      "meaning": "chọc dò"
+    },
+    {
+      "word": "穿孔",
+      "reading": "せんこう",
+      "meaning": "dùi lỗ"
+    },
+    {
+      "word": "下穿",
+      "reading": "したばき",
+      "meaning": "quần đùi"
+    },
+    {
+      "word": "穿鑿",
+      "reading": "せんさく",
+      "meaning": "đào lỗ"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "kanji": "繍",
+  "meta": {
+    "weight": 2116,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "ぬいとり"
+    ],
+    "am_han": "TÚ"
+  },
+  "meaning": {
+    "vi": "may, vải hình",
+    "en": "sew, figured cloth"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/繍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3502",
+    "text": "繍 (đọc là \"shuu\") có nghĩa là \"thêu\" hoặc \"dệt\", chỉ các hành động liên quan đến việc trang trí vải bằng cách thêu."
+  },
+  "comments": [
+    {
+      "id": "220359",
+      "lang": "vi",
+      "content_html": "<p>Chữ này âm Hán Việt là \"Tú\"</p>",
+      "content_text": "Chữ này âm Hán Việt là \"Tú\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220360",
+      "lang": "vi",
+      "content_html": "<p>chữ này có dùng mà sao không thấy ghi nghĩa nhỉ</p>",
+      "content_text": "chữ này có dùng mà sao không thấy ghi nghĩa nhỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220361",
+      "lang": "vi",
+      "content_html": "<p>Âm Hán chữ này là gì nhỉ?</p>",
+      "content_text": "Âm Hán chữ này là gì nhỉ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "刺繍",
+      "reading": "ししゅう",
+      "meaning": "thêu dệt"
+    },
+    {
+      "word": "錦繍",
+      "reading": "きんしゅう",
+      "meaning": "vải đẹp"
+    },
+    {
+      "word": "メリヤス刺繍",
+      "reading": "メリヤスししゅう",
+      "meaning": "thêu trên vải dệt kim"
+    },
+    {
+      "word": "フランス刺繍",
+      "reading": "フランスししゅう",
+      "meaning": "đồ thêu của pháp"
+    },
+    {
+      "word": "ミシン刺繍",
+      "reading": "ミシンししゅう",
+      "meaning": "nghề thêu máy"
+    },
+    {
+      "word": "刺繍糸",
+      "reading": "ししゅういと",
+      "meaning": "chỉ thêu"
+    },
+    {
+      "word": "刺繍枠",
+      "reading": "ししゅうわく",
+      "meaning": "khung thêu"
+    },
+    {
+      "word": "コード刺繍",
+      "reading": "コードししゅう",
+      "meaning": "nghề thêu dây thừng"
+    },
+    {
+      "word": "刺繍する",
+      "reading": "ししゅうする",
+      "meaning": "thêu"
+    },
+    {
+      "word": "刺繍用針",
+      "reading": "ししゅうようはり",
+      "meaning": "kim dùng cho thêu"
+    }
+  ]
+}

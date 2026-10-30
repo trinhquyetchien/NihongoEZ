@@ -1,0 +1,176 @@
+{
+  "kanji": "梅",
+  "meta": {
+    "weight": 1361,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "うめ"
+    ],
+    "am_han": "MAI"
+  },
+  "meaning": {
+    "vi": "mận",
+    "en": "plum"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/梅.svg"
+  },
+  "frequency": 1232,
+  "examples": [
+    "梅雨",
+    "梅",
+    "梅干",
+    "梅雨入り",
+    "梅酒"
+  ],
+  "explanation": {
+    "id": "20316",
+    "text": "梅 (đọc là \"ume\") có nghĩa là \"mận\", chỉ loại cây và quả mận trong văn hóa Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "154527",
+      "lang": "vi",
+      "content_html": "<p>loài CÂY có vào MỖI dịp tết là cây MAI</p>",
+      "content_text": "loài CÂY có vào MỖI dịp tết là cây MAI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154528",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa có mỗi cây mai</p>",
+      "content_text": "Ngày xưa có mỗi cây mai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154529",
+      "lang": "vi",
+      "content_html": "<p>MỖI ngày trồng 1 cây MAI ( cây mai )</p>",
+      "content_text": "MỖI ngày trồng 1 cây MAI ( cây mai )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221901",
+      "lang": "vi",
+      "content_html": "<p>Đây là chữ hình thanh gần bộ <strong>mộc</strong> làm phần hình và phần <strong>Mai毎</strong> làm phần thanh</p>",
+      "content_text": "Đây là chữ hình thanh gần bộ\nmộc\nlàm phần hình và phần\nMai毎\nlàm phần thanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "221902",
+      "lang": "vi",
+      "content_html": "<p>Nghĩa là <strong>Mai</strong> nhưng lại là cây <strong>Mận</strong> ( Nhật không có cây Mai )</p>",
+      "content_text": "Nghĩa là\nMai\nnhưng lại là cây\nMận\n( Nhật không có cây Mai )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "梅",
+      "reading": "うめ",
+      "meaning": "cây mơ"
+    },
+    {
+      "word": "梅干",
+      "reading": "うめぼし",
+      "meaning": "ô mai"
+    },
+    {
+      "word": "梅桃",
+      "reading": "ゆすらうめ",
+      "meaning": "anh đào nam kinh"
+    },
+    {
+      "word": "紅梅",
+      "reading": "こうばい",
+      "meaning": "cây mai hồng"
+    },
+    {
+      "word": "梅肉",
+      "reading": "ばいにく",
+      "meaning": "thịt quả mơ muối"
+    },
+    {
+      "word": "梅霖",
+      "reading": "ばいりん",
+      "meaning": "mùa mưa"
+    },
+    {
+      "word": "黄梅",
+      "reading": "おうばい",
+      "meaning": "hoa mai vàng"
+    },
+    {
+      "word": "梅花",
+      "reading": "ばいか",
+      "meaning": "hoa mai"
+    },
+    {
+      "word": "梅見",
+      "reading": "うめみ",
+      "meaning": "ngắm hoa mai"
+    },
+    {
+      "word": "梅酒",
+      "reading": "うめしゅ",
+      "meaning": "rượu thanh mai"
+    }
+  ]
+}

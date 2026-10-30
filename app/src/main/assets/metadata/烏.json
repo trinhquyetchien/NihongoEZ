@@ -1,0 +1,126 @@
+{
+  "kanji": "烏",
+  "meta": {
+    "weight": 1653,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ",
+      "オ"
+    ],
+    "kun": [
+      "からす",
+      "いずくんぞ",
+      "なんぞ"
+    ],
+    "am_han": "Ô"
+  },
+  "meaning": {
+    "vi": "quạ",
+    "en": "crow, raven"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/烏.svg"
+  },
+  "frequency": 2042,
+  "examples": [
+    "烏",
+    "烏龍茶",
+    "烏丸"
+  ],
+  "explanation": {
+    "id": "288",
+    "text": "烏 (đọc là \"u\" hoặc \"karasu\") có nghĩa là \"quạ\", dùng để chỉ loài chim đen này."
+  },
+  "comments": [
+    {
+      "id": "155165",
+      "lang": "vi",
+      "content_html": "<p>Loài chim 鳥 mất 1 Ô là con quạ</p>",
+      "content_text": "Loài chim 鳥 mất 1 Ô là con quạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155166",
+      "lang": "vi",
+      "content_html": "<p>quạ là loài chim đen thùi lùi ko thấy mắt, cho nên  鳥→烏</p>",
+      "content_text": "quạ là loài chim đen thùi lùi ko thấy mắt, cho nên  鳥→烏",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "烏",
+      "reading": "からす",
+      "meaning": "quạ"
+    },
+    {
+      "word": "烏麦",
+      "reading": "からすむぎ",
+      "meaning": "yến mạch"
+    },
+    {
+      "word": "烏有",
+      "reading": "うゆう",
+      "meaning": "hoàn toàn không có"
+    },
+    {
+      "word": "烏鷺",
+      "reading": "うろ",
+      "meaning": "con quạ và con diệc"
+    },
+    {
+      "word": "星烏",
+      "reading": "ほしがらす",
+      "meaning": "quạ nucifraga caryocatactes"
+    },
+    {
+      "word": "明烏",
+      "reading": "あけがらす",
+      "meaning": "tiếng quạ kêu vào lúc bình minh"
+    },
+    {
+      "word": "海烏",
+      "reading": "うみがらす",
+      "meaning": "quạ biển"
+    },
+    {
+      "word": "烏木",
+      "reading": "うぼく",
+      "meaning": "gỗ mun"
+    },
+    {
+      "word": "烏紙",
+      "reading": "からすがみ",
+      "meaning": "giấy thô mầu nâu xỉn"
+    },
+    {
+      "word": "烏金",
+      "reading": "からすがね",
+      "meaning": "tiền vay trả lãi cao theo ngày"
+    }
+  ]
+}

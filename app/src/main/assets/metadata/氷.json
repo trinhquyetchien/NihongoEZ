@@ -1,0 +1,144 @@
+{
+  "kanji": "氷",
+  "meta": {
+    "weight": 1481,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "こおり",
+      "ひ",
+      "こお.る"
+    ],
+    "am_han": "BĂNG"
+  },
+  "meaning": {
+    "vi": "băng",
+    "en": "icicle, ice, hail, freeze, congeal"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/氷.svg"
+  },
+  "frequency": 1450,
+  "examples": [
+    "氷",
+    "氷河",
+    "氷山",
+    "流氷",
+    "氷点下"
+  ],
+  "explanation": {
+    "id": "6703",
+    "text": "氷 (đọc là \"hyo\") có nghĩa là \"băng\" để chỉ trạng thái của nước khi đông lại, hoặc các vật thể có liên quan đến băng."
+  },
+  "comments": [
+    {
+      "id": "154754",
+      "lang": "vi",
+      "content_html": "<p>Thêm 1 giọt bên trái Nước sẽ đóng thành BĂNG</p>",
+      "content_text": "Thêm 1 giọt bên trái Nước sẽ đóng thành BĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154755",
+      "lang": "vi",
+      "content_html": "<p>nước đã đóng băng thành cục</p>",
+      "content_text": "nước đã đóng băng thành cục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154756",
+      "lang": "vi",
+      "content_html": "<p>BĂNG (氷) là một cục (`) nước (水) đá。</p>",
+      "content_text": "BĂNG (氷) là một cục (`) nước (水) đá。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "氷",
+      "reading": "こおり",
+      "meaning": "băng"
+    },
+    {
+      "word": "氷州",
+      "reading": "ひょうしゅう",
+      "meaning": "nước iceland"
+    },
+    {
+      "word": "氷殻",
+      "reading": "ひょうかく",
+      "meaning": "vỏ băng"
+    },
+    {
+      "word": "氷盤",
+      "reading": "ひょうばん",
+      "meaning": "tảng băng trôi"
+    },
+    {
+      "word": "氷帽",
+      "reading": "ひょうぼう",
+      "meaning": "chỏm băng"
+    },
+    {
+      "word": "氷る",
+      "reading": "こおる",
+      "meaning": "đóng băng"
+    },
+    {
+      "word": "樹氷",
+      "reading": "じゅひょう",
+      "meaning": "cây cối phủ đầy băng"
+    },
+    {
+      "word": "棚氷",
+      "reading": "たなごおり",
+      "meaning": "thềm băng"
+    },
+    {
+      "word": "氷魚",
+      "reading": "ひうお",
+      "meaning": "cá băng"
+    },
+    {
+      "word": "氷片",
+      "reading": "ひょうへん",
+      "meaning": "mảnh băng"
+    }
+  ]
+}

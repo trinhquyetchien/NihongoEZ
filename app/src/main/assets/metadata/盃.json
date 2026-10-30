@@ -1,0 +1,84 @@
+{
+  "kanji": "盃",
+  "meta": {
+    "weight": 1827,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "さかずき"
+    ],
+    "am_han": "BÔI"
+  },
+  "meaning": {
+    "vi": "ly thủy tinh",
+    "en": "glass, cup"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/盃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6272",
+    "text": "盃 (đọc là \"hai\") có nghĩa là \"chén\", \"cốc\", thường dùng để chỉ các loại chén uống rượu hoặc đồ uống."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "銀盃",
+      "reading": "ぎんぱい",
+      "meaning": "mạ bạc cúp"
+    },
+    {
+      "word": "一盃",
+      "reading": "いっぱい",
+      "meaning": "một chén rượu"
+    },
+    {
+      "word": "寿盃",
+      "reading": "じゅはい",
+      "meaning": "sự nâng cốc chúc mừng"
+    },
+    {
+      "word": "大盃",
+      "reading": "たいはい",
+      "meaning": "cúp lớn"
+    },
+    {
+      "word": "返盃",
+      "reading": "へんぱい",
+      "meaning": "đề nghị một cúp mục đích) bên trong trở lại"
+    },
+    {
+      "word": "乾盃",
+      "reading": "かんぱい",
+      "meaning": "nâng cốc"
+    },
+    {
+      "word": "献盃",
+      "reading": "けんぱい",
+      "meaning": "đề nghị một đồ uống"
+    },
+    {
+      "word": "水盃",
+      "reading": "みずさかずき",
+      "meaning": "những tách nước chia tay"
+    },
+    {
+      "word": "天盃",
+      "reading": "てんぱい",
+      "meaning": "cúp thưởng của thiên hoàng"
+    },
+    {
+      "word": "別盃",
+      "reading": "べっぱい",
+      "meaning": "cúp chia tay"
+    }
+  ]
+}

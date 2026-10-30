@@ -1,0 +1,101 @@
+{
+  "kanji": "諜",
+  "meta": {
+    "weight": 2508,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "ちょう.ずる",
+      "うかが.う",
+      "しめ.す"
+    ],
+    "am_han": "ĐIỆP"
+  },
+  "meaning": {
+    "vi": "do thám, trinh sát",
+    "en": "spy out, reconnoiter"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/諜.svg"
+  },
+  "frequency": 2445,
+  "examples": [
+    "諜報"
+  ],
+  "explanation": {
+    "id": "5395",
+    "text": "諜 (đọc là \"chō\") có nghĩa là \"gián điệp\" hoặc \"theo dõi\", thường liên quan đến các hành động thu thập thông tin bí mật."
+  },
+  "comments": [
+    {
+      "id": "156962",
+      "lang": "vi",
+      "content_html": "<p>điệp viên dùng ngôn từ rất khéo léo</p>",
+      "content_text": "điệp viên dùng ngôn từ rất khéo léo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "諜報",
+      "reading": "ちょうほう",
+      "meaning": "thông tin bí mật"
+    },
+    {
+      "word": "間諜",
+      "reading": "かんちょう",
+      "meaning": "một gián điệp"
+    },
+    {
+      "word": "防諜",
+      "reading": "ぼうちょう",
+      "meaning": "sự ngăn chặn các hoạt động tình báo"
+    },
+    {
+      "word": "諜者",
+      "reading": "ちょうじゃ",
+      "meaning": "spy"
+    },
+    {
+      "word": "諜す",
+      "reading": "ちょうす",
+      "meaning": "do thám"
+    },
+    {
+      "word": "諜報員",
+      "reading": "ちょうほういん",
+      "meaning": "nhân viên trí tuệ"
+    },
+    {
+      "word": "諜報網",
+      "reading": "ちょうほうもう",
+      "meaning": "mạng lưới gián điệp"
+    },
+    {
+      "word": "諜報機関",
+      "reading": "ちょうほうきかん",
+      "meaning": "cơ quan tình báo"
+    },
+    {
+      "word": "対敵諜報機関",
+      "reading": "たいてきちょうほうきかん",
+      "meaning": "cơ quan tình báo chống địch"
+    }
+  ]
+}

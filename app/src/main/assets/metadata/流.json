@@ -1,0 +1,146 @@
+{
+  "kanji": "流",
+  "meta": {
+    "weight": 1535,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "ル"
+    ],
+    "kun": [
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "dòng chảy, lưu thông",
+    "en": "current, a sink, flow, forfeit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/流.svg"
+  },
+  "frequency": 280,
+  "examples": [
+    "流れ",
+    "交流",
+    "流",
+    "流通",
+    "流し"
+  ],
+  "explanation": {
+    "id": "8050",
+    "text": "流 (đọc là \"ryū\") có nghĩa là \"chảy\", \"lưu thông\" để chỉ các hành động liên quan đến việc di chuyển hoặc phân bố một cách tự nhiên, thường liên quan đến nước hoặc dòng chảy."
+  },
+  "comments": [
+    {
+      "id": "154886",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU TƯ NƯỚC đổ ra SÔNG mới LƯU thông đc dòng chảy</p>",
+      "content_text": "ĐẦU TƯ NƯỚC đổ ra SÔNG mới LƯU thông đc dòng chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154887",
+      "lang": "vi",
+      "content_html": "<p>Nước đổ lên đầu dòng sông thì với lưu thông đc</p>",
+      "content_text": "Nước đổ lên đầu dòng sông thì với lưu thông đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154888",
+      "lang": "vi",
+      "content_html": "<p>Anh LƯU đầu tư tiền nạo vét con sông cho nước chảy</p>",
+      "content_text": "Anh LƯU đầu tư tiền nạo vét con sông cho nước chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "流",
+      "reading": "りゅう",
+      "meaning": "dòng"
+    },
+    {
+      "word": "流流",
+      "reading": "りゅうりゅう",
+      "meaning": "tài nghệ"
+    },
+    {
+      "word": "交流電流",
+      "reading": "こうりゅうでんりゅう",
+      "meaning": "dòng điện xoay chiều"
+    },
+    {
+      "word": "交流電流計",
+      "reading": "こうりゅうでんりゅうけい",
+      "meaning": "đồng hồ đo dòng điện xoay chiều"
+    },
+    {
+      "word": "直流電流計",
+      "reading": "ちょくりゅうでんりゅうけい",
+      "meaning": "đồng hồ đo dòng điện một chiều"
+    },
+    {
+      "word": "流通",
+      "reading": "りゅうつう",
+      "meaning": "sự lưu thông"
+    },
+    {
+      "word": "流暢",
+      "reading": "りゅうちょう",
+      "meaning": "lưu loát"
+    },
+    {
+      "word": "限流",
+      "reading": "げんりゅう",
+      "meaning": "giới hạn dòng điện"
+    },
+    {
+      "word": "流涎",
+      "reading": "りゅうぜん",
+      "meaning": "chảy dãi"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "sự giao lưu"
+    }
+  ]
+}

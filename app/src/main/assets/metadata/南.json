@@ -1,0 +1,143 @@
+{
+  "kanji": "南",
+  "meta": {
+    "weight": 393,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン",
+      "ナ"
+    ],
+    "kun": [
+      "みなみ"
+    ],
+    "am_han": "NAM"
+  },
+  "meaning": {
+    "vi": "phía nam",
+    "en": "south"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/南.svg"
+  },
+  "frequency": 341,
+  "examples": [
+    "南",
+    "南部",
+    "東南アジア",
+    "南北",
+    "南米"
+  ],
+  "explanation": {
+    "id": "6073",
+    "text": "南 (đọc là \"nan\" hoặc \"minami\") có nghĩa là \"phía nam\", chỉ hướng hoặc vị trí địa lý phía nam."
+  },
+  "comments": [
+    {
+      "id": "535",
+      "lang": "vi",
+      "content_html": "<p>2 cây mọc trong vườn quay về hướng <strong>nam</strong>.</p>",
+      "content_text": "2 cây mọc trong vườn quay về hướng\nnam\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629769def0290.jpg",
+      "image_path": "assets/images/南_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152181",
+      "lang": "vi",
+      "content_html": "<p>Quanh hướng nam có 10 con dê cụt chân</p>",
+      "content_text": "Quanh hướng nam có 10 con dê cụt chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158446",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>南 (みなみ): phía nam</p>",
+      "content_text": "JLPT N5\n南 (みなみ): phía nam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "南",
+      "reading": "みなみ",
+      "meaning": "nam"
+    },
+    {
+      "word": "南南東",
+      "reading": "なんなんとう",
+      "meaning": "nam-đông nam"
+    },
+    {
+      "word": "南南西",
+      "reading": "なんなんせい",
+      "meaning": "nam-tây nam"
+    },
+    {
+      "word": "南画",
+      "reading": "なんが",
+      "meaning": "viết tắt của cụm từ 南宗画（なんしゅうがい-nam tôn họa). đây là một trong hai trường học hội họa nổi tiếng ở trung quốc"
+    },
+    {
+      "word": "海南",
+      "reading": "かいなん",
+      "meaning": "vùng biển phía nam"
+    },
+    {
+      "word": "指南",
+      "reading": "しなん",
+      "meaning": "sự hướng dẫn"
+    },
+    {
+      "word": "南燭",
+      "reading": "しゃしゃんぼ",
+      "meaning": "sea bilberry"
+    },
+    {
+      "word": "図南",
+      "reading": "となん",
+      "meaning": "chí lớn"
+    },
+    {
+      "word": "斗南",
+      "reading": "となん",
+      "meaning": "toàn bộ thế giới"
+    },
+    {
+      "word": "南鮮",
+      "reading": "なんせん",
+      "meaning": "nam hàn"
+    }
+  ]
+}

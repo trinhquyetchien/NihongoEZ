@@ -1,0 +1,143 @@
+{
+  "kanji": "砕",
+  "meta": {
+    "weight": 1867,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "くだ.く",
+      "くだ.ける"
+    ],
+    "am_han": "TOÁI"
+  },
+  "meaning": {
+    "vi": "đập vỡ, phá vỡ, nghiền nát, quen thuộc, phổ biến",
+    "en": "smash, break, crush, familiar, popular"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/砕.svg"
+  },
+  "frequency": 1579,
+  "examples": [
+    "粉砕",
+    "砕け",
+    "玉砕",
+    "砕く",
+    "破砕"
+  ],
+  "explanation": {
+    "id": "2816",
+    "text": "砕 (đọc là \"sai\") có nghĩa là \"nghiền nát\", \"bẻ vụn\" để chỉ hành động làm vỡ hoặc phá hủy một vật thể thành những mảnh nhỏ hơn."
+  },
+  "comments": [
+    {
+      "id": "155629",
+      "lang": "vi",
+      "content_html": "<p>Đập tan nát 9,10 cục đá phiền toái</p>",
+      "content_text": "Đập tan nát 9,10 cục đá phiền toái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155630",
+      "lang": "vi",
+      "content_html": "<p>Mười Chín người cùng PHÁ 1 tảng ĐÁ thì kiểu gì cũng xảy ra phiền TOÁI</p>",
+      "content_text": "Mười Chín người cùng PHÁ 1 tảng ĐÁ thì kiểu gì cũng xảy ra phiền TOÁI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155631",
+      "lang": "vi",
+      "content_html": "<p>Say rượu (酔) cầm 9, 10 hòn đá ném vỡ đồ người ta thì phiến toái (砕) lắm.</p>",
+      "content_text": "Say rượu (酔) cầm 9, 10 hòn đá ném vỡ đồ người ta thì phiến toái (砕) lắm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "破砕",
+      "reading": "はさい",
+      "meaning": "làm tan nát"
+    },
+    {
+      "word": "砕く",
+      "reading": "くだく",
+      "meaning": "đập nhỏ"
+    },
+    {
+      "word": "雑砕",
+      "reading": "チャプスイ",
+      "meaning": "thịt lợn"
+    },
+    {
+      "word": "砕片",
+      "reading": "さいへん",
+      "meaning": "mảnh vỡ"
+    },
+    {
+      "word": "砕石",
+      "reading": "さいせき",
+      "meaning": "đá dăm"
+    },
+    {
+      "word": "零砕",
+      "reading": "れいさい",
+      "meaning": "rất nhỏ"
+    },
+    {
+      "word": "爆砕",
+      "reading": "ばくさい",
+      "meaning": "sự làm nổ tung"
+    },
+    {
+      "word": "砕け",
+      "reading": "くだけ",
+      "meaning": "quen thuộc lời nói gọi tên)"
+    },
+    {
+      "word": "撃砕",
+      "reading": "げきさい",
+      "meaning": "nát vụn"
+    },
+    {
+      "word": "圧砕",
+      "reading": "あっさい",
+      "meaning": "làm tan nát"
+    }
+  ]
+}

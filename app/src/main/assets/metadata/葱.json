@@ -1,0 +1,136 @@
+{
+  "kanji": "葱",
+  "meta": {
+    "weight": 2315,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "ねぎ"
+    ],
+    "am_han": "THÔNG"
+  },
+  "meaning": {
+    "vi": "tỏi tây, hành tây xứ Wales",
+    "en": "stone leek, Welsh onion"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/葱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6149",
+    "text": "葱 (đọc là \"negi\") có nghĩa là \"hành lá\", chỉ loại rau củ thường được dùng trong ẩm thực Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "220560",
+      "lang": "vi",
+      "content_html": "<p>đồi THÔNG trồng CỎ chăn bò QUÈ HAI CHÂN là TÂM huyết của bố tôi!!!</p>",
+      "content_text": "đồi THÔNG trồng CỎ chăn bò QUÈ HAI CHÂN là TÂM huyết của bố tôi!!!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220561",
+      "lang": "vi",
+      "content_html": "<p>HÀNH là cây CỎ không phải là ĐỘNG VẬT có TRÁI TIM nên hãy THÔNG cảm cho nó</p>",
+      "content_text": "HÀNH là cây CỎ không phải là ĐỘNG VẬT có TRÁI TIM nên hãy THÔNG cảm cho nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220562",
+      "lang": "vi",
+      "content_html": "<p>Hành là cỏ không phải vật , có chym .</p>",
+      "content_text": "Hành là cỏ không phải vật , có chym .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "葱",
+      "reading": "ねぎ",
+      "meaning": "hành"
+    },
+    {
+      "word": "白葱",
+      "reading": "しろねぎ",
+      "meaning": "hành lá trắng"
+    },
+    {
+      "word": "海葱",
+      "reading": "かいそう",
+      "meaning": "cây hành biển"
+    },
+    {
+      "word": "玉葱",
+      "reading": "たまねぎ",
+      "meaning": "củ hành"
+    },
+    {
+      "word": "葱鮪",
+      "reading": "ねぎま",
+      "meaning": "món ăn dựa trên hành lá và cá ngừ"
+    },
+    {
+      "word": "冬葱",
+      "reading": "ふゆき",
+      "meaning": "hành lá"
+    },
+    {
+      "word": "青葱",
+      "reading": "あおねぎ",
+      "meaning": "hành lá"
+    },
+    {
+      "word": "韮葱",
+      "reading": "にらねぎ",
+      "meaning": "cây tỏi tây"
+    },
+    {
+      "word": "分葱",
+      "reading": "わけぎ",
+      "meaning": "loại cây ăn được có thân như lá hành"
+    },
+    {
+      "word": "浅葱",
+      "reading": "あさぎ",
+      "meaning": "cây hẹ tây"
+    }
+  ]
+}

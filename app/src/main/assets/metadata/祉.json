@@ -1,0 +1,136 @@
+{
+  "kanji": "祉",
+  "meta": {
+    "weight": 1902,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "phúc lợi, hạnh phúc",
+    "en": "welfare, happiness"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/祉.svg"
+  },
+  "frequency": 1063,
+  "examples": [
+    "福祉"
+  ],
+  "explanation": {
+    "id": "3116",
+    "text": "祉 (đọc là \"shi\") có nghĩa là \"phúc lợi\" hoặc \"hạnh phúc\", thường liên quan đến sự tốt đẹp, hạnh phúc trong cuộc sống."
+  },
+  "comments": [
+    {
+      "id": "155687",
+      "lang": "vi",
+      "content_html": "<p>Bị bắt dừng lại (止), chỉ thị(ネ) là hãy cầu PHÚC</p>",
+      "content_text": "Bị bắt dừng lại (止), chỉ thị(ネ) là hãy cầu PHÚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155688",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại (止) nê (ネ) na thì chỉ (祉) là cầu PHÚC thôi.</p>",
+      "content_text": "Dừng lại (止) nê (ネ) na thì chỉ (祉) là cầu PHÚC thôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155689",
+      "lang": "vi",
+      "content_html": "<p>Chỉ thị mang lại phúc lợi(chỉ)</p>",
+      "content_text": "Chỉ thị mang lại phúc lợi(chỉ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "福祉",
+      "reading": "ふくし",
+      "meaning": "phúc lợi"
+    },
+    {
+      "word": "祉福",
+      "reading": "しふく",
+      "meaning": "sự phồn thịnh"
+    },
+    {
+      "word": "社会福祉",
+      "reading": "しゃかいふくし",
+      "meaning": "phúc lợi xã hội"
+    },
+    {
+      "word": "福祉事業",
+      "reading": "ふくしじぎょう",
+      "meaning": "sự nghiệp phúc lợi"
+    },
+    {
+      "word": "福祉商法",
+      "reading": "ふくししょうほう",
+      "meaning": "lợi dụng từ thiện để trục lợi"
+    },
+    {
+      "word": "保健福祉",
+      "reading": "ほけんふくし",
+      "meaning": "sức khỏe và phúc lợi"
+    },
+    {
+      "word": "福祉国家",
+      "reading": "ふくしこっか",
+      "meaning": "nhà nước mà ở đó việc phúc lợi được phát triển mạnh và do nhà nước thực hiện"
+    },
+    {
+      "word": "福祉機器",
+      "reading": "ふくしきき",
+      "meaning": "bộ máy phúc lợi"
+    },
+    {
+      "word": "児童福祉",
+      "reading": "じどうふくし",
+      "meaning": "phúc lợi trẻ em"
+    },
+    {
+      "word": "福祉車両",
+      "reading": "ふくししゃりょう",
+      "meaning": "xe cộ cho những người tàn tật"
+    }
+  ]
+}

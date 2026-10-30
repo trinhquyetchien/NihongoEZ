@@ -1,0 +1,302 @@
+[
+  {
+    "pattern": "は",
+    "regex": "([^\\s]+)は",
+    "meaning": "Thì, là... (Trợ từ chỉ chủ đề/chủ ngữ của câu)",
+    "level": "N5"
+  },
+  {
+    "pattern": "が",
+    "regex": "([^\\s]+)が",
+    "meaning": "Trợ từ chỉ chủ ngữ cụ thể hoặc tân ngữ của tính từ/khả năng",
+    "level": "N5"
+  },
+  {
+    "pattern": "を",
+    "regex": "([^\\s]+)を",
+    "meaning": "Trợ từ chỉ đối tượng tác động trực tiếp của hành động (tân ngữ)",
+    "level": "N5"
+  },
+  {
+    "pattern": "に",
+    "regex": "([^\\s]+)に",
+    "meaning": "Vào lúc, ở tại, đến... (Trợ từ chỉ thời gian, địa điểm đến, đối tượng hướng tới)",
+    "level": "N5"
+  },
+  {
+    "pattern": "で",
+    "regex": "([^\\s]+)で",
+    "meaning": "Tại, bằng... (Trợ từ chỉ nơi diễn ra hành động, phương tiện, phương thức)",
+    "level": "N5"
+  },
+  {
+    "pattern": "へ",
+    "regex": "([^\\s]+)へ",
+    "meaning": "Hướng về, đi đến (Trợ từ chỉ phương hướng di chuyển)",
+    "level": "N5"
+  },
+  {
+    "pattern": "と",
+    "regex": "([^\\s]+)と",
+    "meaning": "Và, cùng với... (Liệt kê đầy đủ hoặc làm cùng ai đó)",
+    "level": "N5"
+  },
+  {
+    "pattern": "も",
+    "regex": "([^\\s]+)も",
+    "meaning": "Cũng, đến mức... (Trợ từ chỉ sự tương tự hoặc nhấn mạnh số lượng)",
+    "level": "N5"
+  },
+  {
+    "pattern": "から",
+    "regex": "([^\\s]+)から",
+    "meaning": "Từ... (Điểm xuất phát thời gian/không gian) hoặc 'Vì...' (Chỉ lý do)",
+    "level": "N5"
+  },
+  {
+    "pattern": "まで",
+    "regex": "([^\\s]+)まで",
+    "meaning": "Đến, cho đến... (Giới hạn điểm kết thúc thời gian/không gian)",
+    "level": "N5"
+  },
+  {
+    "pattern": "ています / ている",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)て(いる|います|いた|いました)",
+    "meaning": "Đang làm... (Hành động đang diễn ra) hoặc diễn tả trạng thái kết quả kéo dài",
+    "level": "N5"
+  },
+  {
+    "pattern": "てください",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)てください",
+    "meaning": "Xin hãy... (Yêu cầu, nhờ vả lịch sự)",
+    "level": "N5"
+  },
+  {
+    "pattern": "てもいい",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)ても(いい|よい|よろしい)",
+    "meaning": "Làm... cũng được / Có thể làm... (Cho phép)",
+    "level": "N5"
+  },
+  {
+    "pattern": "てはいけない",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)ては(いけない|いけません|だめ)",
+    "meaning": "Không được làm... (Cấm đoán)",
+    "level": "N5"
+  },
+  {
+    "pattern": "たい / たくありません",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)たい(です)?",
+    "meaning": "Muốn làm gì đó (Nguyện vọng của bản thân)",
+    "level": "N5"
+  },
+  {
+    "pattern": "ないでください",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)ないでください",
+    "meaning": "Xin đừng... (Yêu cầu không làm gì)",
+    "level": "N5"
+  },
+  {
+    "pattern": "なければならない",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)なければ(ならない|なりません|いけない)",
+    "meaning": "Phải làm gì đó (Nghĩa vụ bắt buộc)",
+    "level": "N5"
+  },
+  {
+    "pattern": "ことができる",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)こと(が|も)?(できる|できます)",
+    "meaning": "Có thể làm gì đó (Khả năng)",
+    "level": "N5"
+  },
+  {
+    "pattern": "ことがある",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)たこと(が|も)?(ある|あります)",
+    "meaning": "Đã từng làm gì đó (Trải nghiệm trong quá khứ)",
+    "level": "N5"
+  },
+  {
+    "pattern": "前に",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)まえに|前に",
+    "meaning": "Trước khi làm gì đó",
+    "level": "N5"
+  },
+  {
+    "pattern": "後で",
+    "regex": "([\\u3040-\\u309F\\u4E00-\\u9FAF]+)あとで|後で",
+    "meaning": "Sau khi làm gì đó",
+    "level": "N5"
+  },
+  {
+    "pattern": "たり〜たりする",
+    "regex": "たり",
+    "meaning": "Nào là... nào là... / Lúc thì... lúc thì... (Liệt kê hành động tiêu biểu)",
+    "level": "N5"
+  },
+  {
+    "pattern": "つもり",
+    "regex": "つもり(だ|です)",
+    "meaning": "Dự định làm gì đó",
+    "level": "N4"
+  },
+  {
+    "pattern": "予定",
+    "regex": "(よてい|予定)(だ|です)",
+    "meaning": "Kế hoạch, lịch trình...",
+    "level": "N4"
+  },
+  {
+    "pattern": "すぎる",
+    "regex": "(すぎます|すぎる|すぎた)",
+    "meaning": "Quá... (Vượt mức bình thường)",
+    "level": "N4"
+  },
+  {
+    "pattern": "やすい / にくい",
+    "regex": "(やすい|にくい)(です)?",
+    "meaning": "Dễ làm... / Khó làm...",
+    "level": "N4"
+  },
+  {
+    "pattern": "ようにする",
+    "regex": "ように(する|している|してください)",
+    "meaning": "Cố gắng làm / duy trì một thói quen",
+    "level": "N4"
+  },
+  {
+    "pattern": "ようになる",
+    "regex": "ように(なる|なりました)",
+    "meaning": "Trở nên có thể làm được gì đó (Biến đổi trạng thái)",
+    "level": "N4"
+  },
+  {
+    "pattern": "そうだ (Nghe nói)",
+    "regex": "そうだ|そうです",
+    "meaning": "Nghe nói là... (Truyền đạt lại thông tin) hoặc Có vẻ như... (Phán đoán)",
+    "level": "N4"
+  },
+  {
+    "pattern": "らしい",
+    "regex": "らしい(です)?",
+    "meaning": "Hình như, dường như là... / Đúng chất, ra dáng...",
+    "level": "N4"
+  },
+  {
+    "pattern": "かもしれない",
+    "regex": "かも(しれない|しれません)",
+    "meaning": "Có lẽ, có thể là... (Xác suất 50%)",
+    "level": "N4"
+  },
+  {
+    "pattern": "たら / なら / ば",
+    "regex": "(たら|なら|ば)",
+    "meaning": "Nếu... thì... (Câu điều kiện giả định)",
+    "level": "N4"
+  },
+  {
+    "pattern": "てしまう / ちゃう",
+    "regex": "て(しまう|しまいました)|ちゃ(う|った)",
+    "meaning": "Làm xong trọn vẹn / Lỡ, tiếc nuối khi việc gì xảy ra",
+    "level": "N4"
+  },
+  {
+    "pattern": "ておく / とく",
+    "regex": "て(おく|おきます|おいた)|と(く|いた)",
+    "meaning": "Làm sẵn việc gì đó trước / Giữ nguyên hiện trạng",
+    "level": "N4"
+  },
+  {
+    "pattern": "てみる",
+    "regex": "て(みる|みます|みた)",
+    "meaning": "Làm thử việc gì đó xem sao",
+    "level": "N4"
+  },
+  {
+    "pattern": "あげる / もらう / くれる",
+    "regex": "(あげます|あげる|もらいます|もらう|くれます|くれる)",
+    "meaning": "Cho, tặng, nhận, làm giúp cho ai đó việc gì (Quan hệ cho nhận)",
+    "level": "N4"
+  },
+  {
+    "pattern": "受身 (Bị động: られる)",
+    "regex": "(れる|られる|れました|られました)",
+    "meaning": "Bị, được... (Thể bị động)",
+    "level": "N4"
+  },
+  {
+    "pattern": "使役 (Sai khiến: させる)",
+    "regex": "(せる|させる|せました|させました)",
+    "meaning": "Bắt, cho phép ai làm gì (Thể sai khiến)",
+    "level": "N4"
+  },
+  {
+    "pattern": "はずだ",
+    "regex": "はず(だ|です|がない)",
+    "meaning": "Chắc chắn là... / Đáng lẽ ra phải...",
+    "level": "N3"
+  },
+  {
+    "pattern": "わけではない",
+    "regex": "わけ(ではない|じゃない|はありません)",
+    "meaning": "Không hẳn là, không có nghĩa là...",
+    "level": "N3"
+  },
+  {
+    "pattern": "おかげで",
+    "regex": "おかげ(で|だ)",
+    "meaning": "Nhờ có... mà (Kết quả tốt)",
+    "level": "N3"
+  },
+  {
+    "pattern": "せいで",
+    "regex": "せい(で|だ)",
+    "meaning": "Do, tại vì... (Kết quả xấu, đổ lỗi)",
+    "level": "N3"
+  },
+  {
+    "pattern": "によって / による",
+    "regex": "によって|による",
+    "meaning": "Tùy thuộc vào / Bằng cách / Do bởi...",
+    "level": "N3"
+  },
+  {
+    "pattern": "に対して",
+    "regex": "に(たいして|対して)",
+    "meaning": "Đối với... / Trái ngược với...",
+    "level": "N3"
+  },
+  {
+    "pattern": "について",
+    "regex": "について",
+    "meaning": "Về vấn đề gì đó...",
+    "level": "N3"
+  },
+  {
+    "pattern": "に関して",
+    "regex": "に(かんして|関して)",
+    "meaning": "Liên quan đến...",
+    "level": "N3"
+  },
+  {
+    "pattern": "にとって",
+    "regex": "にとって",
+    "meaning": "Đối với... (Đứng trên góc nhìn, lập trường của ai đó)",
+    "level": "N3"
+  },
+  {
+    "pattern": "としても",
+    "regex": "としても",
+    "meaning": "Dù cho là, dẫu cho...",
+    "level": "N3"
+  },
+  {
+    "pattern": "ばかり",
+    "regex": "ばかり",
+    "meaning": "Chỉ toàn là... / Vừa mới làm gì đó xong",
+    "level": "N3"
+  },
+  {
+    "pattern": "ながら",
+    "regex": "ながら",
+    "meaning": "Vừa làm cái này vừa làm cái kia (Hành động đồng thời)",
+    "level": "N5"
+  }
+]

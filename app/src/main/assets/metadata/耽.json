@@ -1,0 +1,119 @@
+{
+  "kanji": "耽",
+  "meta": {
+    "weight": 2156,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "ふけ.る"
+    ],
+    "am_han": "ĐAM"
+  },
+  "meaning": {
+    "vi": "nghiện, đắm chìm trong",
+    "en": "addicted, absorbed in"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/耽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5153",
+    "text": "耽 (đọc là \"tan\") có nghĩa là \"mê mẩn\", \"say mê\" để chỉ trạng thái đắm chìm trong một điều gì đó, thường liên quan đến sự say mê hoặc thôi thúc mạnh mẽ."
+  },
+  "comments": [
+    {
+      "id": "220413",
+      "lang": "vi",
+      "content_html": "<p>tai đang chìm đắm</p>",
+      "content_text": "tai đang chìm đắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220414",
+      "lang": "vi",
+      "content_html": "<p>trong ĐÊM,CHÂN và LỖ TAI vui sướng</p>",
+      "content_text": "trong ĐÊM,CHÂN và LỖ TAI vui sướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "耽溺",
+      "reading": "たんでき",
+      "meaning": "sự đắm đuối"
+    },
+    {
+      "word": "耽る",
+      "reading": "ふける",
+      "meaning": "buông thả mình"
+    },
+    {
+      "word": "耽読",
+      "reading": "たんどく",
+      "meaning": "sự say mê đọc sách"
+    },
+    {
+      "word": "耽美",
+      "reading": "たんび",
+      "meaning": "mỹ học"
+    },
+    {
+      "word": "耽楽",
+      "reading": "たんらく",
+      "meaning": "chìm đắm trong niềm vui"
+    },
+    {
+      "word": "耽ける",
+      "reading": "ふける",
+      "meaning": "chìm đắm vào"
+    },
+    {
+      "word": "耽美的",
+      "reading": "たんびてき",
+      "meaning": "có tính thẩm mỹ"
+    },
+    {
+      "word": "耽美派",
+      "reading": "たんびは",
+      "meaning": "trường học thẩm mỹ"
+    },
+    {
+      "word": "耽美主義",
+      "reading": "たんびしゅぎ",
+      "meaning": "chủ nghĩa thẩm mĩ"
+    },
+    {
+      "word": "読み耽る",
+      "reading": "よみふける",
+      "meaning": "say mê đọc"
+    }
+  ]
+}

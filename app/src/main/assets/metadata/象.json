@@ -1,0 +1,143 @@
+{
+  "kanji": "象",
+  "meta": {
+    "weight": 2538,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ゾウ"
+    ],
+    "kun": [
+      "かたど.る"
+    ],
+    "am_han": "TƯỢNG"
+  },
+  "meaning": {
+    "vi": "con voi",
+    "en": "elephant, pattern after, imitate, image, shape, sign (of the times)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/象.svg"
+  },
+  "frequency": 394,
+  "examples": [
+    "対象",
+    "印象",
+    "現象",
+    "象徴",
+    "抽象"
+  ],
+  "explanation": {
+    "id": "3923",
+    "text": "象 (đọc là \"shō\" hoặc \"zo\") có nghĩa là \"hình tượng\", \"biểu tượng\", thường chỉ các hình ảnh, biểu hiện của sự vật hay khái niệm. Nó cũng có thể chỉ con voi."
+  },
+  "comments": [
+    {
+      "id": "157034",
+      "lang": "vi",
+      "content_html": "<p>Đắp TƯỢNG hình đầu Muỗi thân Lợn</p>",
+      "content_text": "Đắp TƯỢNG hình đầu Muỗi thân Lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157035",
+      "lang": "vi",
+      "content_html": "<p>Con lợn có sừng và 2 cái tai to là con voi</p>",
+      "content_text": "Con lợn có sừng và 2 cái tai to là con voi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157036",
+      "lang": "vi",
+      "content_html": "<p>Cứ (katakana Ku) mặt trời nằm ngang là con lợn thành con voi</p>",
+      "content_text": "Cứ (katakana Ku) mặt trời nằm ngang là con lợn thành con voi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "象",
+      "reading": "ぞう",
+      "meaning": "con voi"
+    },
+    {
+      "word": "有象無象",
+      "reading": "うぞうむぞう",
+      "meaning": "quần chúng"
+    },
+    {
+      "word": "気象現象",
+      "reading": "きしょうげんしょう",
+      "meaning": "hiện tượng khí tượng"
+    },
+    {
+      "word": "象徴",
+      "reading": "しょうちょう",
+      "meaning": "biểu tượng"
+    },
+    {
+      "word": "事象",
+      "reading": "じしょう",
+      "meaning": "hiện tượng"
+    },
+    {
+      "word": "象牙",
+      "reading": "ぞうげ",
+      "meaning": "ngà"
+    },
+    {
+      "word": "現象",
+      "reading": "げんしょう",
+      "meaning": "hiện tượng"
+    },
+    {
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "ấn tượng"
+    },
+    {
+      "word": "四象",
+      "reading": "ししょう",
+      "meaning": "bốn hình ảnh"
+    },
+    {
+      "word": "アジア象",
+      "reading": "アジアぞう",
+      "meaning": "voi châu á"
+    }
+  ]
+}

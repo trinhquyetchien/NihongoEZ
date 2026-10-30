@@ -1,0 +1,144 @@
+{
+  "kanji": "託",
+  "meta": {
+    "weight": 2458,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "かこつ.ける",
+      "かこ.つ",
+      "かこ.つける"
+    ],
+    "am_han": "THÁC"
+  },
+  "meaning": {
+    "vi": "ký gửi, yêu cầu, ủy thác với, giả vờ, gợi ý",
+    "en": "consign, requesting, entrusting with, pretend, hint"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/託.svg"
+  },
+  "frequency": 1021,
+  "examples": [
+    "委託",
+    "信託",
+    "受託",
+    "付託",
+    "預託"
+  ],
+  "explanation": {
+    "id": "5047",
+    "text": "託 (đọc là \"taku\") có nghĩa là \"giao phó\", \"ủy thác\" để chỉ hành động giao cho ai đó làm gì hoặc tin tưởng vào ai đó để xử lý một việc."
+  },
+  "comments": [
+    {
+      "id": "156841",
+      "lang": "vi",
+      "content_html": "<p>nói 1 7 lần để ủy THÁC!</p>",
+      "content_text": "nói 1 7 lần để ủy THÁC!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156842",
+      "lang": "vi",
+      "content_html": "<p>Để ủy thác cho ai đó làm thì phải nói đến cong cả lưỡi còn chưa chắc đc</p>",
+      "content_text": "Để ủy thác cho ai đó làm thì phải nói đến cong cả lưỡi còn chưa chắc đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156843",
+      "lang": "vi",
+      "content_html": "<p>Nói xong ko mê mô ( モ ) ai mà phó THÁC việc cho</p>",
+      "content_text": "Nói xong ko mê mô ( モ ) ai mà phó THÁC việc cho",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "受託",
+      "reading": "じゅたく",
+      "meaning": "hiện thân giao phó với"
+    },
+    {
+      "word": "神託",
+      "reading": "しんたく",
+      "meaning": "lời tiên tri"
+    },
+    {
+      "word": "委託",
+      "reading": "いたく",
+      "meaning": "sự ủy thác"
+    },
+    {
+      "word": "託す",
+      "reading": "たくす",
+      "meaning": "ủy thác"
+    },
+    {
+      "word": "託児",
+      "reading": "たくじ",
+      "meaning": "sự trông trẻ"
+    },
+    {
+      "word": "仮託",
+      "reading": "かたく",
+      "meaning": "viện cớ"
+    },
+    {
+      "word": "結託",
+      "reading": "けったく",
+      "meaning": "sự câu kết"
+    },
+    {
+      "word": "屈託",
+      "reading": "くったく",
+      "meaning": "lo lắng"
+    },
+    {
+      "word": "御託",
+      "reading": "ごたく",
+      "meaning": "chán ngắt nói"
+    },
+    {
+      "word": "託言",
+      "reading": "たくげん",
+      "meaning": "viện cớ"
+    }
+  ]
+}

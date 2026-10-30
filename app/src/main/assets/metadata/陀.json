@@ -1,0 +1,89 @@
+{
+  "kanji": "陀",
+  "meta": {
+    "weight": 2820,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ",
+      "ダ",
+      "イ",
+      "チ",
+      "ジ"
+    ],
+    "kun": [
+      "けわ.しい",
+      "ななめ"
+    ],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "dốc đứng",
+    "en": "steep"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/陀.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4912",
+    "text": "陀 (đọc là \"da\") có nghĩa là \"rơi\", thường dùng để chỉ sự rơi hoặc lăn của một vật nào đó."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "仏陀",
+      "reading": "ぶっだ",
+      "meaning": "phật thích ca"
+    },
+    {
+      "word": "弥陀",
+      "reading": "みだ",
+      "meaning": "phật a di đà"
+    },
+    {
+      "word": "珍陀",
+      "reading": "チンタ",
+      "meaning": "rượu vang đỏ từ bồ đào nha"
+    },
+    {
+      "word": "吠陀",
+      "reading": "ヴェーダ",
+      "meaning": "kinh vệ-đà"
+    },
+    {
+      "word": "首陀羅",
+      "reading": "シュードラ",
+      "meaning": "sudra"
+    },
+    {
+      "word": "陀羅尼",
+      "reading": "だらに",
+      "meaning": "dharani"
+    },
+    {
+      "word": "阿弥陀",
+      "reading": "あみだ",
+      "meaning": "a di- đà phật"
+    },
+    {
+      "word": "阿蘭陀",
+      "reading": "オランダ",
+      "meaning": "vải lanh hà lan"
+    },
+    {
+      "word": "お陀仏",
+      "reading": "おだぶつ",
+      "meaning": "sự tự giết chết"
+    },
+    {
+      "word": "頭陀袋",
+      "reading": "ずだぶくろ",
+      "meaning": "đóng vào bao tải"
+    }
+  ]
+}

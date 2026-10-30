@@ -1,0 +1,119 @@
+{
+  "kanji": "絃",
+  "meta": {
+    "weight": 2070,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "いと"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "string, wire, samisen music",
+    "en": "string, cord, samisen music"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/絃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2227",
+    "text": "絃 (đọc là \"gen\") có nghĩa là \"dây\" để chỉ các loại dây, thường là dây của nhạc cụ."
+  },
+  "comments": [
+    {
+      "id": "220333",
+      "lang": "vi",
+      "content_html": "<p>Dây đàn làm bằng chỉ đen</p>",
+      "content_text": "Dây đàn làm bằng chỉ đen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220334",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ mài đen HUYỀN dùng làm dây đàn</p>",
+      "content_text": "Sợi chỉ mài đen HUYỀN dùng làm dây đàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "絃",
+      "reading": "つる",
+      "meaning": "dây đàn"
+    },
+    {
+      "word": "絃歌",
+      "reading": "げんか",
+      "meaning": "vừa đánh đàn vừa ca hát"
+    },
+    {
+      "word": "五絃",
+      "reading": "ごげん",
+      "meaning": "từ nguyên"
+    },
+    {
+      "word": "絃声",
+      "reading": "げんせい",
+      "meaning": "kêu những chuỗi"
+    },
+    {
+      "word": "絃楽",
+      "reading": "げんがく",
+      "meaning": "âm nhạc bộ dây"
+    },
+    {
+      "word": "絃線",
+      "reading": "げんせん",
+      "meaning": "dây đàn viôlông"
+    },
+    {
+      "word": "三絃",
+      "reading": "さんげん",
+      "meaning": "đàn nhật ba dây"
+    },
+    {
+      "word": "絃妓",
+      "reading": "げんぎ",
+      "meaning": "geisha"
+    },
+    {
+      "word": "管絃楽",
+      "reading": "かんげんがく",
+      "meaning": "âm nhạc hòa nhạc"
+    },
+    {
+      "word": "七絃琴",
+      "reading": "しちげんきん",
+      "meaning": "koto bảy có dây"
+    }
+  ]
+}

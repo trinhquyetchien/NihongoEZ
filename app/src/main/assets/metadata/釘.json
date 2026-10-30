@@ -1,0 +1,106 @@
+{
+  "kanji": "釘",
+  "meta": {
+    "weight": 2739,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "チョウ"
+    ],
+    "kun": [
+      "くぎ"
+    ],
+    "am_han": "ĐINH"
+  },
+  "meaning": {
+    "vi": "đinh, chốt",
+    "en": "nail, tack, peg"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/釘.svg"
+  },
+  "frequency": 2496,
+  "examples": [
+    "釘",
+    "釘付け"
+  ],
+  "explanation": {
+    "id": "5608",
+    "text": "釘 (đọc là \"dai\" hoặc \"kanzashi\") có nghĩa là \"đinh\" để chỉ các loại vật dụng kim loại dùng để gắn, cố định hoặc treo đồ vật."
+  },
+  "comments": [
+    {
+      "id": "157524",
+      "lang": "vi",
+      "content_html": "<p>cái ĐINH釘 thì được làm từ kim loại 金</p>",
+      "content_text": "cái ĐINH釘 thì được làm từ kim loại 金",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "釘",
+      "reading": "くぎ",
+      "meaning": "đanh"
+    },
+    {
+      "word": "特殊釘その他釘",
+      "reading": "とくしゅくぎそのほかくぎ",
+      "meaning": "dựng cấp đặc biệt và các loại đinh khác"
+    },
+    {
+      "word": "釘〆",
+      "reading": "くぎ〆",
+      "meaning": "this term is specific to the construction industry in japan and may not be commonly used in vietnamese construction industry)"
+    },
+    {
+      "word": "角釘",
+      "reading": "かくくぎ",
+      "meaning": "đinh vuông"
+    },
+    {
+      "word": "裏釘",
+      "reading": "うらくぎ",
+      "meaning": "cái đinh móc"
+    },
+    {
+      "word": "釘頭",
+      "reading": "ていとう",
+      "meaning": "đầu đinh"
+    },
+    {
+      "word": "犬釘",
+      "reading": "いぬくぎ",
+      "meaning": "đinh tà vẹt của đường ray"
+    },
+    {
+      "word": "釘隠",
+      "reading": "くぎかくし",
+      "meaning": "vật trang trí che đầu đinh"
+    },
+    {
+      "word": "目釘",
+      "reading": "めくぎ",
+      "meaning": "chú mục trên một chuôi kiếm thanh gươm"
+    },
+    {
+      "word": "金釘",
+      "reading": "かなくぎ",
+      "meaning": "đinh kim loại"
+    }
+  ]
+}

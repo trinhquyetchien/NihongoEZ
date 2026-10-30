@@ -1,0 +1,141 @@
+{
+  "kanji": "醸",
+  "meta": {
+    "weight": 2730,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "かも.す"
+    ],
+    "am_han": "NHƯỠNG"
+  },
+  "meaning": {
+    "vi": "ủ, nguyên nhân",
+    "en": "brew, cause"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/醸.svg"
+  },
+  "frequency": 1838,
+  "examples": [
+    "醸造",
+    "醸成",
+    "吟醸",
+    "醸し出す"
+  ],
+  "explanation": {
+    "id": "3997",
+    "text": "醸 (đọc là \"jō\") có nghĩa là \"ủ\", \"nấu\" để chỉ các hành động liên quan đến việc sản xuất đồ uống lên men, như rượu và bia."
+  },
+  "comments": [
+    {
+      "id": "157503",
+      "lang": "vi",
+      "content_html": "<p>Ủ men rượu 6 ngày dưới 2 biểu đất gộp lại</p>",
+      "content_text": "Ủ men rượu 6 ngày dưới 2 biểu đất gộp lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157504",
+      "lang": "vi",
+      "content_html": "<p>Rượu lấy từ Thổ Nhưỡng (壌) sẽ Lên men ngay!<br>(Nhậu vcl) :3</p>",
+      "content_text": "Rượu lấy từ Thổ Nhưỡng (壌) sẽ Lên men ngay!\n(Nhậu vcl) :3",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157505",
+      "lang": "vi",
+      "content_html": "<p>cô nương đang lên men rượu</p>",
+      "content_text": "cô nương đang lên men rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "醸母",
+      "reading": "じょうぼ",
+      "meaning": "men"
+    },
+    {
+      "word": "銘醸",
+      "reading": "めいじょう",
+      "meaning": "làm rượu bằng nguyên liệu đặc biệt"
+    },
+    {
+      "word": "佳醸",
+      "reading": "かじょう",
+      "meaning": "sake ngọt"
+    },
+    {
+      "word": "醸成",
+      "reading": "じょうせい",
+      "meaning": "việc lên men"
+    },
+    {
+      "word": "醸す",
+      "reading": "かもす",
+      "meaning": "làm lên men"
+    },
+    {
+      "word": "醸造",
+      "reading": "じょうぞう",
+      "meaning": "việc làm rượu bia"
+    },
+    {
+      "word": "醸造酒",
+      "reading": "じょうぞうしゅ",
+      "meaning": "rượu chưng cất"
+    },
+    {
+      "word": "醸造酢",
+      "reading": "じょうぞうす",
+      "meaning": "giấm"
+    },
+    {
+      "word": "醸造所",
+      "reading": "じょうぞうしょ",
+      "meaning": "nơi ủ rượu"
+    },
+    {
+      "word": "醸造学",
+      "reading": "じょうぞうがく",
+      "meaning": "khoa nghiên cứu sự lên men"
+    }
+  ]
+}

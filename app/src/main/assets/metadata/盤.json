@@ -1,0 +1,140 @@
+{
+  "kanji": "盤",
+  "meta": {
+    "weight": 1835,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [],
+    "am_han": "BÀN"
+  },
+  "meaning": {
+    "vi": "khay, bát cạn, đĩa, bồn tắm, bảng, đĩa hát",
+    "en": "tray, shallow bowl, platter, tub, board, phonograph record"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/盤.svg"
+  },
+  "frequency": 881,
+  "examples": [
+    "基盤",
+    "盤",
+    "中盤",
+    "終盤",
+    "地盤"
+  ],
+  "explanation": {
+    "id": "6518",
+    "text": "盤 (đọc là \"ban\") có nghĩa là \"bàn\", \"mâm\" để chỉ các vật phẳng, thường được sử dụng trong bối cảnh liên quan đến trò chơi hoặc bàn ăn."
+  },
+  "comments": [
+    {
+      "id": "155538",
+      "lang": "vi",
+      "content_html": "<p>Đặt thuyền kẻ thù lên bàn đĩa</p>",
+      "content_text": "Đặt thuyền kẻ thù lên bàn đĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155539",
+      "lang": "vi",
+      "content_html": "<p>ném cái đĩa lên thuyền rơi trúng bàn</p>",
+      "content_text": "ném cái đĩa lên thuyền rơi trúng bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155540",
+      "lang": "vi",
+      "content_html": "<p>舟 CHU 殳 THÙ 皿 MÃNH 盤 BÀN<br>vào thời nhà CHU cái BÀN dùng để đựng dĩa (mãnh) và binh khí (thù)</p>",
+      "content_text": "舟 CHU 殳 THÙ 皿 MÃNH 盤 BÀN\nvào thời nhà CHU cái BÀN dùng để đựng dĩa (mãnh) và binh khí (thù)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "盤",
+      "reading": "ばん",
+      "meaning": "đĩa"
+    },
+    {
+      "word": "旋盤/フライス盤",
+      "reading": "せんばん/フライスばん",
+      "meaning": "máy tiện / máy phay"
+    },
+    {
+      "word": "氷盤",
+      "reading": "ひょうばん",
+      "meaning": "tảng băng trôi"
+    },
+    {
+      "word": "シングル盤",
+      "reading": "シングルばん",
+      "meaning": "đĩa đơn"
+    },
+    {
+      "word": "ダライ盤",
+      "reading": "ダライばん",
+      "meaning": "bàn tiện mài"
+    },
+    {
+      "word": "ラップ盤",
+      "reading": "ラップばん",
+      "meaning": "máy mài nghiền"
+    },
+    {
+      "word": "ホブ盤",
+      "reading": "ホブばん",
+      "meaning": "máy tiện bánh răng là công cụ gia công cơ khí dùng để cắt gọt các sản phẩm như là bánh răng truyền động"
+    },
+    {
+      "word": "香盤",
+      "reading": "こうばん",
+      "meaning": "mâm nhang"
+    },
+    {
+      "word": "鍵盤",
+      "reading": "けんばん",
+      "meaning": "bàn phím"
+    },
+    {
+      "word": "終盤",
+      "reading": "しゅうばん",
+      "meaning": "endgame"
+    }
+  ]
+}

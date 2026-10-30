@@ -1,0 +1,142 @@
+{
+  "kanji": "遇",
+  "meta": {
+    "weight": 2672,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グウ"
+    ],
+    "kun": [
+      "あ.う"
+    ],
+    "am_han": "NGỘ"
+  },
+  "meaning": {
+    "vi": "gặp gỡ, phỏng vấn, điều trị, giải trí, tiếp nhận, giao dịch với",
+    "en": "meet, encounter, interview, treat, entertain, receive, deal with"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遇.svg"
+  },
+  "frequency": 1343,
+  "examples": [
+    "遭遇",
+    "優遇",
+    "待遇",
+    "処遇",
+    "境遇"
+  ],
+  "explanation": {
+    "id": "1855",
+    "text": "遇 (đọc là \"gu\") có nghĩa là \"gặp gỡ\" hoặc \"gặp phải\", thường chỉ các tình huống liên quan đến việc gặp ai đó hoặc trải nghiệm một điều gì đó."
+  },
+  "comments": [
+    {
+      "id": "157363",
+      "lang": "vi",
+      "content_html": "<p>Đi ra đường mới ngộ ra cái ngu của mình.</p>",
+      "content_text": "Đi ra đường mới ngộ ra cái ngu của mình.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157364",
+      "lang": "vi",
+      "content_html": "<p>trên đường đi gặp thằng Ngu ăn mặc NGỘ ghê</p>",
+      "content_text": "trên đường đi gặp thằng Ngu ăn mặc NGỘ ghê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157365",
+      "lang": "vi",
+      "content_html": "<p>Ngu nhiều mí  Ngộ ra con đường chân lí</p>",
+      "content_text": "Ngu nhiều mí  Ngộ ra con đường chân lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "遇不遇",
+      "reading": "ぐうふぐう",
+      "meaning": "hạnh phúc và những nỗi đau đớn"
+    },
+    {
+      "word": "遇う",
+      "reading": "あしらう",
+      "meaning": "gặp gỡ tình cờ"
+    },
+    {
+      "word": "接遇",
+      "reading": "せつぐう",
+      "meaning": "tiếp đón và phục vụ khách một cách lịch sự"
+    },
+    {
+      "word": "奇遇",
+      "reading": "きぐう",
+      "meaning": "kỳ ngộ"
+    },
+    {
+      "word": "値遇",
+      "reading": "ちぐう",
+      "meaning": "cuộc gặp"
+    },
+    {
+      "word": "知遇",
+      "reading": "ちぐう",
+      "meaning": "tri ngộ"
+    },
+    {
+      "word": "一遇",
+      "reading": "いちぐう",
+      "meaning": "một lần gặp gỡ"
+    },
+    {
+      "word": "処遇",
+      "reading": "しょぐう",
+      "meaning": "sự đối xử"
+    },
+    {
+      "word": "優遇",
+      "reading": "ゆうぐう",
+      "meaning": "kinh nghiệm"
+    },
+    {
+      "word": "厚遇",
+      "reading": "こうぐう",
+      "meaning": "sự chào đón chân thành"
+    }
+  ]
+}

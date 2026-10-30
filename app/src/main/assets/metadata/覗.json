@@ -1,0 +1,137 @@
+{
+  "kanji": "覗",
+  "meta": {
+    "weight": 2444,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "のぞ.く",
+      "うかが.う"
+    ],
+    "am_han": "TƯ, TỰ"
+  },
+  "meaning": {
+    "vi": "nhìn trộm, đến trong tầm mắt",
+    "en": "peep, peek, come in sight"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/覗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6212",
+    "text": "覗 (đọc là \"nozo\") có nghĩa là \"nhìn lén\", \"quan sát từ xa\" để chỉ hành động nhìn vào một nơi nào đó một cách bí mật hoặc kín đáo."
+  },
+  "comments": [
+    {
+      "id": "220669",
+      "lang": "vi",
+      "content_html": "<p>Nhìn trộm cấp trên</p>",
+      "content_text": "Nhìn trộm cấp trên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220670",
+      "lang": "vi",
+      "content_html": "<p>nhìn trộm TÍ mà ;)</p>",
+      "content_text": "nhìn trộm TÍ mà ;)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220671",
+      "lang": "vi",
+      "content_html": "<p>TI trong ti hí mắt lươn,nhìn qua khe nhỏ...</p>",
+      "content_text": "TI trong ti hí mắt lươn,nhìn qua khe nhỏ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "覗く",
+      "reading": "のぞく",
+      "meaning": "nhìn qua khe"
+    },
+    {
+      "word": "覗き",
+      "reading": "のぞき",
+      "meaning": "sự nhìn trộm"
+    },
+    {
+      "word": "覗魔",
+      "reading": "",
+      "meaning": "anh chàng tò mò tọc mạch"
+    },
+    {
+      "word": "覗き魔",
+      "reading": "のぞきま",
+      "meaning": "anh chàng tò mò tọc mạch"
+    },
+    {
+      "word": "覗き見",
+      "reading": "のぞきみ",
+      "meaning": "nhìn trộm"
+    },
+    {
+      "word": "覗き込む",
+      "reading": "のぞきこむ",
+      "meaning": "rướn cổ nhìn vào"
+    },
+    {
+      "word": "覗き眼鏡",
+      "reading": "のぞきめがね",
+      "meaning": "kính soi ảnh"
+    },
+    {
+      "word": "覗き機関",
+      "reading": "のぞきからくり",
+      "meaning": "thiết bị nhìn trộm"
+    },
+    {
+      "word": "差し覗く",
+      "reading": "さしのぞく",
+      "meaning": "lén nhìn"
+    },
+    {
+      "word": "管の穴から天を覗く",
+      "reading": "くだのあなからてんをのぞく",
+      "meaning": "\"nhìn trời bằng lỗ ống \""
+    }
+  ]
+}

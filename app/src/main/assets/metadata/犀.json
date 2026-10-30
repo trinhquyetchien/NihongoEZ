@@ -1,0 +1,101 @@
+{
+  "kanji": "犀",
+  "meta": {
+    "weight": 1702,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "TÊ"
+  },
+  "meaning": {
+    "vi": "tê giác",
+    "en": "rhinocerous"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/犀.svg"
+  },
+  "frequency": 2426,
+  "examples": [],
+  "explanation": {
+    "id": "2811",
+    "text": "犀 (đọc là \"sai\") có nghĩa là \"tê giác\", chỉ loài động vật lớn, mạnh mẽ với sừng trên mũi."
+  },
+  "comments": [
+    {
+      "id": "155251",
+      "lang": "vi",
+      "content_html": "<p>con TRÂU đội 2 cái XÁC trên đầu là con TÊ (giác)</p>",
+      "content_text": "con TRÂU đội 2 cái XÁC trên đầu là con TÊ (giác)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "犀",
+      "reading": "さい",
+      "meaning": "con tê giác"
+    },
+    {
+      "word": "木犀",
+      "reading": "もくせい",
+      "meaning": "cây ôliu thơm ngát"
+    },
+    {
+      "word": "白犀",
+      "reading": "しろさい",
+      "meaning": "tê giác trắng"
+    },
+    {
+      "word": "スマトラ犀",
+      "reading": "スマトラさい",
+      "meaning": "tê giác sumatra"
+    },
+    {
+      "word": "黒犀",
+      "reading": "くろさい",
+      "meaning": "tê giác đen"
+    },
+    {
+      "word": "犀角",
+      "reading": "さいかく",
+      "meaning": "sừng tê giác"
+    },
+    {
+      "word": "インド犀",
+      "reading": "インドさい",
+      "meaning": "tê giác ấn độ"
+    },
+    {
+      "word": "ジャワ犀",
+      "reading": "ジャワさい",
+      "meaning": "tê giác java"
+    },
+    {
+      "word": "犀鳥",
+      "reading": "さいちょう",
+      "meaning": "họ hồng hoàng"
+    },
+    {
+      "word": "犀皮",
+      "reading": "さいひ",
+      "meaning": "da của con tê giác"
+    }
+  ]
+}

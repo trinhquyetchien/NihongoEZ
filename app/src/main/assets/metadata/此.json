@@ -1,0 +1,141 @@
+{
+  "kanji": "此",
+  "meta": {
+    "weight": 1452,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "これ",
+      "この",
+      "ここ"
+    ],
+    "am_han": "THỬ"
+  },
+  "meaning": {
+    "vi": "điều này, hiện tại, tiếp theo, sắp tới, cuối cùng, quá khứ",
+    "en": "this, current, next, coming, last, past"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/此.svg"
+  },
+  "frequency": 2078,
+  "examples": [
+    "此",
+    "此処"
+  ],
+  "explanation": {
+    "id": "2673",
+    "text": "此 (đọc là \"shi\" hoặc \"kono\") có nghĩa là \"này\", \"đây\" để chỉ một đối tượng gần gũi với người nói hoặc trong bối cảnh cụ thể."
+  },
+  "comments": [
+    {
+      "id": "154675",
+      "lang": "vi",
+      "content_html": "<p>THỬ buộc Chỉ vào Cái Thìa NÀY</p>",
+      "content_text": "THỬ buộc Chỉ vào Cái Thìa NÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154676",
+      "lang": "vi",
+      "content_html": "<p>THỬ 1 lần Dừng lại nơi đây và Mỉm cười</p>",
+      "content_text": "THỬ 1 lần Dừng lại nơi đây và Mỉm cười",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154677",
+      "lang": "vi",
+      "content_html": "<p>DỪNG LẠI dùng cái MUỖNG --» chỉ về PHÍA NÀY</p>",
+      "content_text": "DỪNG LẠI dùng cái MUỖNG --» chỉ về PHÍA NÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "此",
+      "reading": "こん",
+      "meaning": "cái này"
+    },
+    {
+      "word": "此れ此れ",
+      "reading": "これこれ",
+      "meaning": "đây và cái đó"
+    },
+    {
+      "word": "此方",
+      "reading": "こちら",
+      "meaning": "hướng này"
+    },
+    {
+      "word": "此岸",
+      "reading": "しがん",
+      "meaning": "thế gian này"
+    },
+    {
+      "word": "此彼",
+      "reading": "これかれ",
+      "meaning": "cái này cái kia"
+    },
+    {
+      "word": "此処",
+      "reading": "ここ",
+      "meaning": "đây"
+    },
+    {
+      "word": "此間",
+      "reading": "こないだ",
+      "meaning": "một ngày khác"
+    },
+    {
+      "word": "此れ",
+      "reading": "これ",
+      "meaning": "cái này"
+    },
+    {
+      "word": "此奴",
+      "reading": "こいつ",
+      "meaning": "gã này"
+    },
+    {
+      "word": "此の",
+      "reading": "この",
+      "meaning": "này"
+    }
+  ]
+}

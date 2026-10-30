@@ -1,0 +1,135 @@
+{
+  "kanji": "瑚",
+  "meta": {
+    "weight": 1752,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "ゴ"
+    ],
+    "kun": [],
+    "am_han": "HÔ, HỒ"
+  },
+  "meaning": {
+    "vi": "thùng đựng đồ cúng tổ tiên, san hô",
+    "en": "ancestral offering receptacle, coral"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/瑚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2346",
+    "text": "瑚 (đọc là \"ko\" hoặc \"go\") có nghĩa là \"san hô\", chỉ loài sinh vật biển có hình dáng đẹp, thường được dùng trong trang sức hoặc trang trí."
+  },
+  "comments": [
+    {
+      "id": "220090",
+      "lang": "vi",
+      "content_html": "<p>San hô mọc dưới hồ của vua.</p>",
+      "content_text": "San hô mọc dưới hồ của vua.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220091",
+      "lang": "vi",
+      "content_html": "<p>Vua có hẳn hồ toàn san HÔ</p>",
+      "content_text": "Vua có hẳn hồ toàn san HÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220092",
+      "lang": "vi",
+      "content_html": "<p>VUA của CỔ NGUYỆT (của nhà HỒ)  --  là SAN HÔ</p>",
+      "content_text": "VUA của CỔ NGUYỆT (của nhà HỒ)  --  là SAN HÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "珊瑚",
+      "reading": "さんご",
+      "meaning": "san hô"
+    },
+    {
+      "word": "珊瑚礁",
+      "reading": "さんごしょう",
+      "meaning": "bãi san hô"
+    },
+    {
+      "word": "赤珊瑚",
+      "reading": "あかさんご",
+      "meaning": "san hô đỏ"
+    },
+    {
+      "word": "珊瑚樹",
+      "reading": "さんごじゅ",
+      "meaning": "cây kim ngân hoa ngọt"
+    },
+    {
+      "word": "脳珊瑚",
+      "reading": "のうさんご",
+      "meaning": "đánh vỡ đầu san hô"
+    },
+    {
+      "word": "管珊瑚",
+      "reading": "くださんご",
+      "meaning": "quản san hô"
+    },
+    {
+      "word": "珊瑚蛇",
+      "reading": "さんごへび",
+      "meaning": "rắn san hô"
+    },
+    {
+      "word": "珊瑚海",
+      "reading": "さんごかい",
+      "meaning": "biển san hô"
+    },
+    {
+      "word": "珊瑚水木",
+      "reading": "さんごみずき",
+      "meaning": "cornus alba"
+    },
+    {
+      "word": "床板珊瑚",
+      "reading": "しょうばんさんご",
+      "meaning": "san hô tabulate"
+    }
+  ]
+}

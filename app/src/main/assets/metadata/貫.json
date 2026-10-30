@@ -1,0 +1,144 @@
+{
+  "kanji": "貫",
+  "meta": {
+    "weight": 2550,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "つらぬ.く",
+      "ぬ.く",
+      "ぬき"
+    ],
+    "am_han": "QUÁN"
+  },
+  "meaning": {
+    "vi": "xỏ, 8 1 / 3lbs, xuyên qua, nẹp",
+    "en": "pierce, 8 1/3lbs, penetrate, brace"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/貫.svg"
+  },
+  "frequency": 1156,
+  "examples": [
+    "一貫",
+    "貫く",
+    "貫通",
+    "貫徹",
+    "貫"
+  ],
+  "explanation": {
+    "id": "1184",
+    "text": "貫 (đọc là \"kan\") có nghĩa là \"thông qua\", \"thực hiện\" để chỉ các hành động liên quan đến việc kết nối, đạt được hoặc thực thi một điều gì đó."
+  },
+  "comments": [
+    {
+      "id": "157064",
+      "lang": "vi",
+      "content_html": "<p>Có ruộng và tiền sẽ quán triệt được tất</p>",
+      "content_text": "Có ruộng và tiền sẽ quán triệt được tất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157065",
+      "lang": "vi",
+      "content_html": "<p>Đi Vô Quán không trả Tiền</p>",
+      "content_text": "Đi Vô Quán không trả Tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157066",
+      "lang": "vi",
+      "content_html": "<p>KHONG co TIEN thif ko cho QUA</p>",
+      "content_text": "KHONG co TIEN thif ko cho QUA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "貫",
+      "reading": "かん",
+      "meaning": "đơn vị tính khối lượng"
+    },
+    {
+      "word": "裸一貫",
+      "reading": "はだかいっかん",
+      "meaning": "sự không có cái gì"
+    },
+    {
+      "word": "貫手",
+      "reading": "ぬきて",
+      "meaning": "kỹ thuật dùng đầu ngón tay chọc vào cổ họng"
+    },
+    {
+      "word": "一貫",
+      "reading": "いっかん",
+      "meaning": "nhất quán"
+    },
+    {
+      "word": "貫流",
+      "reading": "かんりゅう",
+      "meaning": "sự chảy qua"
+    },
+    {
+      "word": "看貫",
+      "reading": "かんかん",
+      "meaning": "cân"
+    },
+    {
+      "word": "指貫",
+      "reading": "ゆびぬき",
+      "meaning": ""
+    },
+    {
+      "word": "貫目",
+      "reading": "かんめ",
+      "meaning": "đơn vị trọng lượng"
+    },
+    {
+      "word": "満貫",
+      "reading": "マンガン",
+      "meaning": "điểm \"mangan\""
+    },
+    {
+      "word": "貫首",
+      "reading": "かんじゅ",
+      "meaning": "tu viện trưởng chính một miếu tín đồ phật giáo)"
+    }
+  ]
+}

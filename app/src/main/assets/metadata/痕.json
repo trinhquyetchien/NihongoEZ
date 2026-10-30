@@ -1,0 +1,139 @@
+{
+  "kanji": "痕",
+  "meta": {
+    "weight": 1807,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "あと"
+    ],
+    "am_han": "NGÂN"
+  },
+  "meaning": {
+    "vi": "đánh dấu, in chân",
+    "en": "mark, foot print"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/痕.svg"
+  },
+  "frequency": 1958,
+  "examples": [
+    "痕跡",
+    "痕"
+  ],
+  "explanation": {
+    "id": "2712",
+    "text": "痕 (đọc là \"kon\") có nghĩa là \"dấu vết\", \"vết tích\" để chỉ các dấu hiệu còn lại sau một sự kiện hoặc quá trình nào đó."
+  },
+  "comments": [
+    {
+      "id": "155467",
+      "lang": "vi",
+      "content_html": "<p>Bệnh chuyển tốt nhưng vẫn đẻ lại sẹo</p>",
+      "content_text": "Bệnh chuyển tốt nhưng vẫn đẻ lại sẹo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155468",
+      "lang": "vi",
+      "content_html": "<p>cấn bị bệnh đến ngân hàng rút tiền chữa trị</p>",
+      "content_text": "cấn bị bệnh đến ngân hàng rút tiền chữa trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155469",
+      "lang": "vi",
+      "content_html": "<p>Bị bệnh lấn Cấn vết sẹo nên phải giải NGÂN</p>",
+      "content_text": "Bị bệnh lấn Cấn vết sẹo nên phải giải NGÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "痕",
+      "reading": "こん",
+      "meaning": "vết"
+    },
+    {
+      "word": "打痕",
+      "reading": "だこん",
+      "meaning": "móp"
+    },
+    {
+      "word": "痕跡",
+      "reading": "こんせき",
+      "meaning": "dấu tích"
+    },
+    {
+      "word": "血痕",
+      "reading": "けっこん",
+      "meaning": "vết máu"
+    },
+    {
+      "word": "痘痕",
+      "reading": "あばた",
+      "meaning": "sẹo đậu mùa"
+    },
+    {
+      "word": "擦痕",
+      "reading": "さっこん",
+      "meaning": "vân"
+    },
+    {
+      "word": "条痕",
+      "reading": "じょうこん",
+      "meaning": "tuyến tính đánh dấu"
+    },
+    {
+      "word": "聖痕",
+      "reading": "せいこん",
+      "meaning": "kỳ thị"
+    },
+    {
+      "word": "生痕",
+      "reading": "せいこん",
+      "meaning": "dấu vết"
+    },
+    {
+      "word": "刀痕",
+      "reading": "とうこん",
+      "meaning": "vết sẹo do dao gươm gây ra"
+    }
+  ]
+}

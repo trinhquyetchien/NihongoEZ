@@ -1,0 +1,141 @@
+{
+  "kanji": "唯",
+  "meta": {
+    "weight": 495,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユイ",
+      "イ"
+    ],
+    "kun": [
+      "ただ"
+    ],
+    "am_han": "DUY, DỤY"
+  },
+  "meaning": {
+    "vi": "duy nhất, đơn thuần, đơn giản",
+    "en": "solely, only, merely, simply"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/唯.svg"
+  },
+  "frequency": 1292,
+  "examples": [
+    "唯一",
+    "唯",
+    "唯物"
+  ],
+  "explanation": {
+    "id": "7734",
+    "text": "唯 (đọc là \"yui\" hoặc \"i\") có nghĩa là \"duy nhất\", \"chỉ có\" để chỉ sự độc nhất, không giống ai khác."
+  },
+  "comments": [
+    {
+      "id": "152424",
+      "lang": "vi",
+      "content_html": "<p>Mồm kêu chỉ chim của tao là duy nhất</p>",
+      "content_text": "Mồm kêu chỉ chim của tao là duy nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152425",
+      "lang": "vi",
+      "content_html": "<p>Con chim chỉ có DUY nhất một cái mồm.</p>",
+      "content_text": "Con chim chỉ có DUY nhất một cái mồm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152426",
+      "lang": "vi",
+      "content_html": "<p>Con chim (隹) là khẩu (口) súng duy nhất của tui</p>",
+      "content_text": "Con chim (隹) là khẩu (口) súng duy nhất của tui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "唯",
+      "reading": "ただ",
+      "meaning": "chỉ"
+    },
+    {
+      "word": "唯唯",
+      "reading": "いい",
+      "meaning": "ngoan ngoãn"
+    },
+    {
+      "word": "唯唯諾諾",
+      "reading": "いいだくだく",
+      "meaning": "ngoan ngoãn"
+    },
+    {
+      "word": "唯唯諾諾として",
+      "reading": "いいだくだくとして",
+      "meaning": "sẵn sàng"
+    },
+    {
+      "word": "唯今",
+      "reading": "ただいま",
+      "meaning": "hiện tại"
+    },
+    {
+      "word": "唯識",
+      "reading": "ゆいしき",
+      "meaning": "duy thức tông"
+    },
+    {
+      "word": "唯々",
+      "reading": "ただただ",
+      "meaning": "tuyệt đối"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "duy nhất"
+    },
+    {
+      "word": "唯に",
+      "reading": "ただに",
+      "meaning": "chỉ đơn giản là"
+    },
+    {
+      "word": "唯物",
+      "reading": "ゆいぶつ",
+      "meaning": "duy vật"
+    }
+  ]
+}

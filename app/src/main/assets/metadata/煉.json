@@ -1,0 +1,119 @@
+{
+  "kanji": "煉",
+  "meta": {
+    "weight": 1661,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "ね.る"
+    ],
+    "am_han": "LUYỆN"
+  },
+  "meaning": {
+    "vi": "luyện kim loại, nhào qua lửa",
+    "en": "refine metals, kneading over fire"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/煉.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8280",
+    "text": "煉 (đọc là \"ren\") có nghĩa là \"tôi luyện\", \"nấu chảy\" để chỉ các hành động liên quan đến việc làm nóng hoặc tinh chế vật liệu, đặc biệt trong nghệ thuật hay công nghiệp."
+  },
+  "comments": [
+    {
+      "id": "220025",
+      "lang": "vi",
+      "content_html": "<p>người phương Đông có câu: Lửa thử vàng gian nan thử sức</p>",
+      "content_text": "người phương Đông có câu: Lửa thử vàng gian nan thử sức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220026",
+      "lang": "vi",
+      "content_html": "<p>Rèn luyện sức chịu đựng trước ngọn lửa đang cháy</p>",
+      "content_text": "Rèn luyện sức chịu đựng trước ngọn lửa đang cháy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "試煉",
+      "reading": "しれん",
+      "meaning": "sự thử thách"
+    },
+    {
+      "word": "洗煉",
+      "reading": "せんれん",
+      "meaning": "sự tinh luyện"
+    },
+    {
+      "word": "精煉",
+      "reading": "せいれん",
+      "meaning": "tinh luyện kim loại"
+    },
+    {
+      "word": "修煉",
+      "reading": "しゅうれん",
+      "meaning": "sự huấn luyện"
+    },
+    {
+      "word": "煉炭",
+      "reading": "れんたん",
+      "meaning": "than bánh"
+    },
+    {
+      "word": "煉獄",
+      "reading": "れんごく",
+      "meaning": "nơi chuộc tội"
+    },
+    {
+      "word": "煉瓦",
+      "reading": "れんが",
+      "meaning": "gạch"
+    },
+    {
+      "word": "薬煉",
+      "reading": "くすね",
+      "meaning": "nấu thuốc"
+    },
+    {
+      "word": "煉乳",
+      "reading": "れんにゅう",
+      "meaning": "sữa đặc"
+    },
+    {
+      "word": "煉瓦塀",
+      "reading": "れんがべい",
+      "meaning": "bức tường gạch"
+    }
+  ]
+}

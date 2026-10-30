@@ -1,0 +1,70 @@
+{
+  "kanji": "淀",
+  "meta": {
+    "weight": 1555,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "デン"
+    ],
+    "kun": [
+      "よど.む"
+    ],
+    "am_han": "ĐIẾN"
+  },
+  "meaning": {
+    "vi": "hồ bơi, xoáy",
+    "en": "pool, eddy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淀.svg"
+  },
+  "frequency": 1987,
+  "examples": [],
+  "explanation": {
+    "id": "7936",
+    "text": "淀 (đọc là \"yo\") có nghĩa là \"vũng nước\", \"đầm lầy\" để chỉ các vùng nước tĩnh lặng, thường là khu vực có nước đọng."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "淀み",
+      "reading": "よどみ",
+      "meaning": "sự ứ đọng"
+    },
+    {
+      "word": "淀む",
+      "reading": "よどむ",
+      "meaning": "ứ đọng"
+    },
+    {
+      "word": "淀川",
+      "reading": "よどがわ",
+      "meaning": "sông yodo"
+    },
+    {
+      "word": "淀木瓜",
+      "reading": "よどぼけ",
+      "meaning": "mộc qua"
+    },
+    {
+      "word": "言い淀む",
+      "reading": "いいよどむ",
+      "meaning": "để do dự để nói"
+    },
+    {
+      "word": "淀み無い",
+      "reading": "よどみない",
+      "meaning": "trôi chảy"
+    },
+    {
+      "word": "淀み無く",
+      "reading": "よどみなく",
+      "meaning": "trôi chảy"
+    }
+  ]
+}

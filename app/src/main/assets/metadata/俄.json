@@ -1,0 +1,136 @@
+{
+  "kanji": "俄",
+  "meta": {
+    "weight": 197,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "にわか"
+    ],
+    "am_han": "NGA"
+  },
+  "meaning": {
+    "vi": "đột ngột, ngẫu hứng",
+    "en": "sudden, abrupt, improvised"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/俄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "716",
+    "text": "俄 (đọc là \"ga\") có nghĩa là \"Nga\" hoặc \"đột ngột\". Chữ này thường được sử dụng để chỉ đất nước Nga hoặc mang ý nghĩa liên quan đến sự bất ngờ, đột xuất."
+  },
+  "comments": [
+    {
+      "id": "218871",
+      "lang": "vi",
+      "content_html": "<p>Người Nga đột ngột ngã trong chốc lát</p>",
+      "content_text": "Người Nga đột ngột ngã trong chốc lát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218872",
+      "lang": "vi",
+      "content_html": "<p>Người ngã(我 đột ngột(俄)</p>",
+      "content_text": "Người ngã(我 đột ngột(俄)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218873",
+      "lang": "vi",
+      "content_html": "<p>con người thì bản ngã của họ là thứ không thể thay đổi trong chốc lát</p>",
+      "content_text": "con người thì bản ngã của họ là thứ không thể thay đổi trong chốc lát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "俄",
+      "reading": "にわか",
+      "meaning": "bỗng nhiên"
+    },
+    {
+      "word": "俄に",
+      "reading": "にわかに",
+      "meaning": "bỗng nhiên"
+    },
+    {
+      "word": "俄盲",
+      "reading": "にわかめくら",
+      "meaning": "sự mù thình lình"
+    },
+    {
+      "word": "俄か",
+      "reading": "にわか",
+      "meaning": "đột nhiên"
+    },
+    {
+      "word": "俄雪",
+      "reading": "にわかゆき",
+      "meaning": "tuyết rơi đột ngột rồi lại ngừng ngay"
+    },
+    {
+      "word": "俄雨",
+      "reading": "にわかあめ",
+      "meaning": "mưa rào"
+    },
+    {
+      "word": "俄然",
+      "reading": "がぜん",
+      "meaning": "bất ngờ"
+    },
+    {
+      "word": "俄勉強",
+      "reading": "にわかべんきょう",
+      "meaning": "nhồi nhét"
+    },
+    {
+      "word": "俄分限",
+      "reading": "にわかぶげん",
+      "meaning": "sự đột ngột trở nên giàu có"
+    },
+    {
+      "word": "俄造り",
+      "reading": "にわかづくり",
+      "meaning": "cái thay thế tạm thời"
+    }
+  ]
+}

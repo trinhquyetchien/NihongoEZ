@@ -1,0 +1,93 @@
+{
+  "kanji": "裳",
+  "meta": {
+    "weight": 2427,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "も",
+      "もすそ"
+    ],
+    "am_han": "THƯỜNG"
+  },
+  "meaning": {
+    "vi": "váy",
+    "en": "skirt"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/裳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3912",
+    "text": "裳 (đọc là \"shō\") có nghĩa là \"váy\" hoặc \"áo choàng\" để chỉ các loại trang phục, thường là phần dưới của trang phục truyền thống."
+  },
+  "comments": [
+    {
+      "id": "220654",
+      "lang": "vi",
+      "content_html": "<p>Y衣phụcđượcchúathượng尚trântrọnglàcáiváythường裳</p>",
+      "content_text": "Y衣phụcđượcchúathượng尚trântrọnglàcáiváythường裳",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "裳",
+      "reading": "も",
+      "meaning": "cổ"
+    },
+    {
+      "word": "裳階",
+      "reading": "もこし",
+      "meaning": "mái phụ"
+    },
+    {
+      "word": "衣裳",
+      "reading": "いしょう",
+      "meaning": "quần áo"
+    },
+    {
+      "word": "裳裾",
+      "reading": "もすそ",
+      "meaning": "gấu"
+    },
+    {
+      "word": "裳着",
+      "reading": "もぎ",
+      "meaning": "lễ trưởng thành cho bé gái thời heian"
+    },
+    {
+      "word": "花嫁衣裳",
+      "reading": "はなよめいしょう",
+      "meaning": "trang phục cô dâu"
+    },
+    {
+      "word": "借り衣裳",
+      "reading": "かりいしょう",
+      "meaning": "quần áo mượn"
+    },
+    {
+      "word": "馬子にも衣裳",
+      "reading": "まごにもいしょう",
+      "meaning": "người đẹp vì lụa"
+    }
+  ]
+}

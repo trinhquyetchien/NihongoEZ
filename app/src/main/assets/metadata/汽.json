@@ -1,0 +1,137 @@
+{
+  "kanji": "汽",
+  "meta": {
+    "weight": 1497,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "KHÍ"
+  },
+  "meaning": {
+    "vi": "hơi nước",
+    "en": "vapor, steam"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/汽.svg"
+  },
+  "frequency": 2020,
+  "examples": [
+    "汽車",
+    "汽笛"
+  ],
+  "explanation": {
+    "id": "1337",
+    "text": "汽 (đọc là \"ki\") có nghĩa là \"hơi nước\", \"khí\" để chỉ các khái niệm liên quan đến hơi nước hoặc khí."
+  },
+  "comments": [
+    {
+      "id": "154787",
+      "lang": "vi",
+      "content_html": "<p>THUỶ chuyển sang KHÍ gọi là hơi nước</p>",
+      "content_text": "THUỶ chuyển sang KHÍ gọi là hơi nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154788",
+      "lang": "vi",
+      "content_html": "<p>THỦY khiến KHÍ MẤT TÀI NGHỆ  --  là sự BỐC HƠI</p>",
+      "content_text": "THỦY khiến KHÍ MẤT TÀI NGHỆ  --  là sự BỐC HƠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154789",
+      "lang": "vi",
+      "content_html": "<p>Khí bay tạo Hơi Nước từ Thuỷ Khí.</p>",
+      "content_text": "Khí bay tạo Hơi Nước từ Thuỷ Khí.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "汽車",
+      "reading": "きしゃ",
+      "meaning": "hỏa xa"
+    },
+    {
+      "word": "汽笛",
+      "reading": "きてき",
+      "meaning": "còi xe lửa"
+    },
+    {
+      "word": "汽船",
+      "reading": "きせん",
+      "meaning": "thuyền máy"
+    },
+    {
+      "word": "汽水",
+      "reading": "きすい",
+      "meaning": "nước lợ"
+    },
+    {
+      "word": "汽罐",
+      "reading": "きかん",
+      "meaning": "nồi đun nấu"
+    },
+    {
+      "word": "汽圧",
+      "reading": "きあつ",
+      "meaning": "áp suất khí quyển"
+    },
+    {
+      "word": "汽缶",
+      "reading": "きかん",
+      "meaning": "nồi đun nấu"
+    },
+    {
+      "word": "汽艇",
+      "reading": "きてい",
+      "meaning": "sự hạ thuỷ"
+    },
+    {
+      "word": "夜汽車",
+      "reading": "よぎしゃ",
+      "meaning": "xe lửa chạy ban đêm"
+    },
+    {
+      "word": "汽車ポッポ",
+      "reading": "きしゃぽっぽ",
+      "meaning": "tàu hơi nước"
+    }
+  ]
+}

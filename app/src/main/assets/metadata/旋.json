@@ -1,0 +1,143 @@
+{
+  "kanji": "旋",
+  "meta": {
+    "weight": 1205,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "め.ぐる",
+      "いばり"
+    ],
+    "am_han": "TOÀN"
+  },
+  "meaning": {
+    "vi": "xoay, đi xung quanh",
+    "en": "rotation, go around"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/旋.svg"
+  },
+  "frequency": 1801,
+  "examples": [
+    "旋律",
+    "斡旋",
+    "旋回",
+    "凱旋",
+    "螺旋"
+  ],
+  "explanation": {
+    "id": "4528",
+    "text": "旋 (đọc là \"sen\") có nghĩa là \"xoay\", \"quay\" để chỉ các hành động liên quan đến việc xoay chuyển hoặc quay vòng."
+  },
+  "comments": [
+    {
+      "id": "154166",
+      "lang": "vi",
+      "content_html": "<p>PHƯƠNG CHÂN  NHÂN TOÀN thắng trở về</p>",
+      "content_text": "PHƯƠNG CHÂN  NHÂN TOÀN thắng trở về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154167",
+      "lang": "vi",
+      "content_html": "<p>Phương định là người chủ động quay lại với Toàn :)</p>",
+      "content_text": "Phương định là người chủ động quay lại với Toàn :)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154168",
+      "lang": "vi",
+      "content_html": "<p>TOÀN thắng cầm cờ trở lại</p>",
+      "content_text": "TOÀN thắng cầm cờ trở lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "旋回",
+      "reading": "せんかい",
+      "meaning": "sự xoay vòng"
+    },
+    {
+      "word": "旋尾せんちゅーあもく",
+      "reading": "旋尾線虫亜目",
+      "meaning": "tảo xoắn"
+    },
+    {
+      "word": "旋尾せんちゅーじょーか",
+      "reading": "旋尾線虫上科",
+      "meaning": "liên họ giun tròn spirurida"
+    },
+    {
+      "word": "旋削",
+      "reading": "せんさく",
+      "meaning": "xoay một máy tiện)"
+    },
+    {
+      "word": "旋条",
+      "reading": "せんじょう",
+      "meaning": "vơ vét"
+    },
+    {
+      "word": "呂旋",
+      "reading": "りょせん",
+      "meaning": "thang âm gagaku bảy âm của nhật bản"
+    },
+    {
+      "word": "旋法",
+      "reading": "せんぽう",
+      "meaning": "thang âm"
+    },
+    {
+      "word": "旋廻",
+      "reading": "せんかい",
+      "meaning": "cuộc cách mạng"
+    },
+    {
+      "word": "旋盤",
+      "reading": "せんばん",
+      "meaning": "máy tiện"
+    },
+    {
+      "word": "旋毛",
+      "reading": "つむじ",
+      "meaning": "xoáy tóc"
+    }
+  ]
+}

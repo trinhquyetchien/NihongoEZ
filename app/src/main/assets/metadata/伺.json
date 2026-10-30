@@ -1,0 +1,140 @@
+{
+  "kanji": "伺",
+  "meta": {
+    "weight": 164,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "うかが.う"
+    ],
+    "am_han": "TỨ"
+  },
+  "meaning": {
+    "vi": "hỏi thăm",
+    "en": "pay respects, visit, ask, inquire, question, implore"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伺.svg"
+  },
+  "frequency": 2209,
+  "examples": [
+    "伺い",
+    "伺う",
+    "伺"
+  ],
+  "explanation": {
+    "id": "3042",
+    "text": "伺 (đọc là \"shi\" hoặc \"suka\") có nghĩa là \"hỏi thăm\", \"thỉnh cầu\" để chỉ hành động lịch sự khi hỏi hoặc xin phép ai đó."
+  },
+  "comments": [
+    {
+      "id": "151603",
+      "lang": "vi",
+      "content_html": "<p>Nhân hỏi thăm chị Hà</p>",
+      "content_text": "Nhân hỏi thăm chị Hà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151604",
+      "lang": "vi",
+      "content_html": "<p>Người ở công Ti hay tình Tứ với nhau</p>",
+      "content_text": "Người ở công Ti hay tình Tứ với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151605",
+      "lang": "vi",
+      "content_html": "<p>người  trong công ti 公司 tới \"thăm hỏi\" một TÝ</p>",
+      "content_text": "người  trong công ti 公司 tới \"thăm hỏi\" một TÝ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "伺う",
+      "reading": "うかがう",
+      "meaning": "đến thăm"
+    },
+    {
+      "word": "伺い",
+      "reading": "うかがい",
+      "meaning": "sự điều tra"
+    },
+    {
+      "word": "伺候",
+      "reading": "しこう",
+      "meaning": "đợi ở trên"
+    },
+    {
+      "word": "経伺",
+      "reading": "けいし",
+      "meaning": "xin ý kiến chỉ đạo"
+    },
+    {
+      "word": "奉伺",
+      "reading": "ほうし",
+      "meaning": "sự hỏi thăm sức khoẻ"
+    },
+    {
+      "word": "お伺い",
+      "reading": "おうかがい",
+      "meaning": "thăm"
+    },
+    {
+      "word": "伺い事",
+      "reading": "うかがいごと",
+      "meaning": "sự điều tra"
+    },
+    {
+      "word": "伺い書",
+      "reading": "うかがいしょ",
+      "meaning": "tờ tường trình"
+    },
+    {
+      "word": "暑中伺い",
+      "reading": "しょちゅううかがい",
+      "meaning": "thực đơn mùa hè"
+    },
+    {
+      "word": "進退伺い",
+      "reading": "しんたいうかがい",
+      "meaning": "sự từ chức không có nghi thức"
+    }
+  ]
+}

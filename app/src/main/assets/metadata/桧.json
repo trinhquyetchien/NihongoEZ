@@ -1,0 +1,85 @@
+{
+  "kanji": "桧",
+  "meta": {
+    "weight": 1358,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "ひのき",
+      "ひ"
+    ],
+    "am_han": "CỐI, CỘI, CŨI, CỦI, CUỘI, GỐI"
+  },
+  "meaning": {
+    "vi": "Cây bách nhật",
+    "en": "Japanese cypress"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桧.svg"
+  },
+  "frequency": 2056,
+  "examples": [
+    "桧"
+  ],
+  "explanation": {
+    "id": "6676",
+    "text": "桧 (đọc là \"hi\" hoặc \"hinoki\") có nghĩa là \"cây tuyết tùng Nhật Bản\", một loại cây gỗ quý được sử dụng trong xây dựng và chế tác đồ thủ công."
+  },
+  "comments": [
+    {
+      "id": "154523",
+      "lang": "vi",
+      "content_html": "<p>tổ chức hội thi làm cối xoay gió bằng gỗ</p>",
+      "content_text": "tổ chức hội thi làm cối xoay gió bằng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桧葉",
+      "reading": "ひば",
+      "meaning": "cây hiba"
+    },
+    {
+      "word": "桧皮",
+      "reading": "ひわだ",
+      "meaning": "vỏ cây bách"
+    },
+    {
+      "word": "桧舞台",
+      "reading": "ひのきぶたい",
+      "meaning": "trình diễn làm tiếng nhật cây bách"
+    },
+    {
+      "word": "桧皮葺",
+      "reading": "ひわだぶき",
+      "meaning": "cây bách làm trầy da mái nhà"
+    },
+    {
+      "word": "桧扇貝",
+      "reading": "ひおうぎがい",
+      "meaning": "sò điệp"
+    },
+    {
+      "word": "桧葉叉",
+      "reading": "ひばまた",
+      "meaning": "rong biển bắc cực"
+    }
+  ]
+}

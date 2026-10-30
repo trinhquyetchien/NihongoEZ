@@ -1,0 +1,127 @@
+{
+  "kanji": "杜",
+  "meta": {
+    "weight": 1293,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "トウ",
+      "ズ"
+    ],
+    "kun": [
+      "もり",
+      "ふさ.ぐ",
+      "やまなし"
+    ],
+    "am_han": "ĐỖ"
+  },
+  "meaning": {
+    "vi": "rừng, lùm cây",
+    "en": "woods, grove"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杜.svg"
+  },
+  "frequency": 2062,
+  "examples": [
+    "杜",
+    "杜撰",
+    "杜氏"
+  ],
+  "explanation": {
+    "id": "5721",
+    "text": "杜 (đọc là \"to\") có nghĩa là \"cấm\", \"ngăn chặn\", thường chỉ các hành động liên quan đến việc ngăn cản hoặc không cho phép."
+  },
+  "comments": [
+    {
+      "id": "154391",
+      "lang": "vi",
+      "content_html": "<p>Cây ko cần đất là cây ĐỖ trọng</p>",
+      "content_text": "Cây ko cần đất là cây ĐỖ trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154392",
+      "lang": "vi",
+      "content_html": "<p>Chỉ số hiệu phòng.</p>",
+      "content_text": "Chỉ số hiệu phòng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "山杜鵑",
+      "reading": "やまほととぎす",
+      "meaning": "chim cuốc rừng"
+    },
+    {
+      "word": "杜宇",
+      "reading": "とう",
+      "meaning": "chim cu gáy nhỏ"
+    },
+    {
+      "word": "杜仲",
+      "reading": "とちゅう",
+      "meaning": "cây đỗ trọng"
+    },
+    {
+      "word": "杜氏",
+      "reading": "とうじ",
+      "meaning": "người ủ rượu bia chính ở một nhà máy bia mục đích nhà phát minh viện dẫn mục đích)"
+    },
+    {
+      "word": "杜松",
+      "reading": "ねず",
+      "meaning": "cây bách xù"
+    },
+    {
+      "word": "杜撰",
+      "reading": "ずさん",
+      "meaning": "không cẩn thận"
+    },
+    {
+      "word": "杜鵑",
+      "reading": "ほととぎす",
+      "meaning": "chim cu cu nhỏ"
+    },
+    {
+      "word": "杜漏",
+      "reading": "ずろう",
+      "meaning": "cẩu thả"
+    },
+    {
+      "word": "杜絶",
+      "reading": "とぜつ",
+      "meaning": "sự ngừng lại"
+    },
+    {
+      "word": "杜若",
+      "reading": "かきつばた",
+      "meaning": "mống mắt"
+    }
+  ]
+}

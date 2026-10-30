@@ -1,0 +1,62 @@
+{
+  "kanji": "鴫",
+  "meta": {
+    "weight": 3003,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "しぎ"
+    ],
+    "am_han": "DẼ"
+  },
+  "meaning": {
+    "vi": "snipe, (kokuji)",
+    "en": "snipe, (kokuji)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鴫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3249",
+    "text": "鴫 (đọc là \"shaku\") có nghĩa là \"chim bồ nông\" hoặc chỉ các loại chim nói chung, thường dùng để chỉ các loài chim nước."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鴫",
+      "reading": "しぎ",
+      "meaning": "chim dẽ giun"
+    },
+    {
+      "word": "杓鴫",
+      "reading": "しゃくしぎ",
+      "meaning": "chim choi choi mỏ cong"
+    },
+    {
+      "word": "玉鴫",
+      "reading": "たましぎ",
+      "meaning": "con chim choi choi"
+    },
+    {
+      "word": "鴫鰻",
+      "reading": "しぎうなぎ",
+      "meaning": "cá chình mỏ dẽ mảnh"
+    },
+    {
+      "word": "青足鴫",
+      "reading": "あおあししぎ",
+      "meaning": "chim nhỏ sống ở gần những nơi có cát ướt gần các dòng sông"
+    },
+    {
+      "word": "栗鴫象虫",
+      "reading": "くりしぎぞうむし",
+      "meaning": "vòi voi curculio sikkimensis"
+    }
+  ]
+}

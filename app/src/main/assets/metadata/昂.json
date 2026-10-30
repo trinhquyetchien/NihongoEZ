@@ -1,0 +1,139 @@
+{
+  "kanji": "昂",
+  "meta": {
+    "weight": 1217,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "あ.がる",
+      "たか.い",
+      "たか.ぶる"
+    ],
+    "am_han": "NGANG"
+  },
+  "meaning": {
+    "vi": "trỗi dậy",
+    "en": "rise"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昂.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2465",
+    "text": "昂 (đọc là \"kou\" hoặc \"ango\") có nghĩa là \"tăng cao\", \"ngẩng cao\", thường chỉ sự hùng mạnh hoặc phấn chấn."
+  },
+  "comments": [
+    {
+      "id": "219729",
+      "lang": "vi",
+      "content_html": "<p>hiên ngang , ngang tàn</p>",
+      "content_text": "hiên ngang , ngang tàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219730",
+      "lang": "vi",
+      "content_html": "<p>Dưới mặt trời công phượng trôg rất hiên NGANG</p>",
+      "content_text": "Dưới mặt trời công phượng trôg rất hiên NGANG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219731",
+      "lang": "vi",
+      "content_html": "<p>ban ngày ban mặt mà Ngang tàn lấy trộm cái đĩa CD</p>",
+      "content_text": "ban ngày ban mặt mà Ngang tàn lấy trộm cái đĩa CD",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "げきこう 激昂 げっこう",
+      "reading": "激昂",
+      "meaning": "kích thích"
+    },
+    {
+      "word": "昂奮",
+      "reading": "こうふん",
+      "meaning": "sự kích động"
+    },
+    {
+      "word": "昂揚",
+      "reading": "こうよう",
+      "meaning": "sự tăng cao"
+    },
+    {
+      "word": "昂騰",
+      "reading": "こうとう",
+      "meaning": "giá thình lình nhảy vọt"
+    },
+    {
+      "word": "軒昂",
+      "reading": "けんこう",
+      "meaning": "hưng phấn"
+    },
+    {
+      "word": "昂然",
+      "reading": "こうぜん",
+      "meaning": "hăng hái"
+    },
+    {
+      "word": "昂進",
+      "reading": "こうしん",
+      "meaning": "lên"
+    },
+    {
+      "word": "意気軒昂",
+      "reading": "いきけんこう",
+      "meaning": "sự phấn chấn"
+    },
+    {
+      "word": "心悸昂進",
+      "reading": "しんきこうしん",
+      "meaning": "những hồi hộp trái tim)"
+    },
+    {
+      "word": "軒昂たる",
+      "reading": "けんこうたる",
+      "meaning": "trong rượu cao"
+    }
+  ]
+}

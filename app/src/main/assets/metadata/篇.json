@@ -1,0 +1,105 @@
+{
+  "kanji": "篇",
+  "meta": {
+    "weight": 2011,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [],
+    "am_han": "THIÊN"
+  },
+  "meaning": {
+    "vi": "tập, chương, sách, biên tập, biên soạn",
+    "en": "volume, chapter, book, editing, compilation"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/篇.svg"
+  },
+  "frequency": 2076,
+  "examples": [
+    "篇",
+    "詩篇",
+    "短篇",
+    "長篇"
+  ],
+  "explanation": {
+    "id": "7055",
+    "text": "篇 (đọc là \"hen\") có nghĩa là \"bài viết\", \"mục\", chỉ các văn bản, bài báo hoặc phần của một tác phẩm."
+  },
+  "comments": [
+    {
+      "id": "155909",
+      "lang": "vi",
+      "content_html": "<p>sử dụng trúc để làm cửa thiên thơ</p>",
+      "content_text": "sử dụng trúc để làm cửa thiên thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "詩篇",
+      "reading": "しへん",
+      "meaning": "tập thơ"
+    },
+    {
+      "word": "続篇",
+      "reading": "ぞくへん",
+      "meaning": "sự tiếp tục"
+    },
+    {
+      "word": "全篇",
+      "reading": "ぜんぺん",
+      "meaning": "toàn bộ bài viết"
+    },
+    {
+      "word": "千篇",
+      "reading": "せんぺん",
+      "meaning": "nhiều thể tích"
+    },
+    {
+      "word": "後篇",
+      "reading": "こうへん",
+      "meaning": "phần sau"
+    },
+    {
+      "word": "一篇",
+      "reading": "いっぺん",
+      "meaning": "một thiên bài thơ)"
+    },
+    {
+      "word": "巨篇",
+      "reading": "きょへん",
+      "meaning": "tác phẩm lớn"
+    },
+    {
+      "word": "雄篇",
+      "reading": "ゆうへん",
+      "meaning": "kiệt tác"
+    },
+    {
+      "word": "前篇",
+      "reading": "ぜんぺん",
+      "meaning": "trước hết chia ra"
+    },
+    {
+      "word": "中篇",
+      "reading": "ちゅうへん",
+      "meaning": "ủng hộ phần"
+    }
+  ]
+}

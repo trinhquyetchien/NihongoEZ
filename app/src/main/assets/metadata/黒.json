@@ -1,0 +1,144 @@
+{
+  "kanji": "黒",
+  "meta": {
+    "weight": 3027,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "くろ",
+      "くろ.ずむ",
+      "くろ.い"
+    ],
+    "am_han": "HẮC"
+  },
+  "meaning": {
+    "vi": "màu đen, hắc ám",
+    "en": "black"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/黒.svg"
+  },
+  "frequency": 573,
+  "examples": [
+    "黒",
+    "黒い",
+    "黒人",
+    "黒字",
+    "白黒"
+  ],
+  "explanation": {
+    "id": "2647",
+    "text": "黒 (đọc là \"kuro\") có nghĩa là \"màu đen\", đại diện cho màu sắc tối tăm hoặc sự tối tăm."
+  },
+  "comments": [
+    {
+      "id": "763",
+      "lang": "vi",
+      "content_html": "<p>Ruộng (田) cháy và mặt đất (土) trở thành màu <strong>đen</strong> (黒).</p>",
+      "content_text": "Ruộng (田) cháy và mặt đất (土) trở thành màu\nđen\n(黒).",
+      "image_url": "https://jpdictionary.com/upload/images/62984d80e9315.jpg",
+      "image_path": "assets/images/黒_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158108",
+      "lang": "vi",
+      "content_html": "<p>Cả làng里 bị cháy灬 đen hết rồi</p>",
+      "content_text": "Cả làng里 bị cháy灬 đen hết rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158572",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>黒い (くろい): màu đen</p>",
+      "content_text": "JLPT N4\n黒い (くろい): màu đen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "黒",
+      "reading": "くろ",
+      "meaning": "màu đen"
+    },
+    {
+      "word": "黒黒",
+      "reading": "くろぐろ",
+      "meaning": "màu đen thẫm"
+    },
+    {
+      "word": "黒闇",
+      "reading": "こくあん",
+      "meaning": "bóng tối"
+    },
+    {
+      "word": "黒鰱",
+      "reading": "こくれん",
+      "meaning": "cá mè hoa"
+    },
+    {
+      "word": "黒ゴキブリ",
+      "reading": "くろゴキブリ",
+      "meaning": "gián nâu"
+    },
+    {
+      "word": "黒板",
+      "reading": "こくばん",
+      "meaning": "bảng"
+    },
+    {
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "đen"
+    },
+    {
+      "word": "漆黒",
+      "reading": "しっこく",
+      "meaning": "đen nhánh"
+    },
+    {
+      "word": "黒幕",
+      "reading": "くろまく",
+      "meaning": "rèm cửa màu đen"
+    },
+    {
+      "word": "黒色",
+      "reading": "くろいろ",
+      "meaning": "màu đen"
+    }
+  ]
+}

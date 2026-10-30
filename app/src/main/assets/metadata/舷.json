@@ -1,0 +1,137 @@
+{
+  "kanji": "舷",
+  "meta": {
+    "weight": 2241,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "ふなばた",
+      "ふなべり"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "gunwale",
+    "en": "gunwale"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/舷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2230",
+    "text": "舷 (đọc là \"gen\") có nghĩa là \"bờ tàu\" hoặc \"mạn tàu\", thường liên quan đến các bộ phận của tàu thuyền."
+  },
+  "comments": [
+    {
+      "id": "220499",
+      "lang": "vi",
+      "content_html": "<p>những điều huyền 玄 bí của thời chu 舟 đã được khắc lên mạng thuyền 舷</p>",
+      "content_text": "những điều huyền 玄 bí của thời chu 舟 đã được khắc lên mạng thuyền 舷",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220500",
+      "lang": "vi",
+      "content_html": "<p>Cho Huyền lên đứng ở Mạn thuyền</p>",
+      "content_text": "Cho Huyền lên đứng ở Mạn thuyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220501",
+      "lang": "vi",
+      "content_html": "<p>Thuyền sơn màu Đen bên mạn thuyền rất HUYỀN bí</p>",
+      "content_text": "Thuyền sơn màu Đen bên mạn thuyền rất HUYỀN bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "舷",
+      "reading": "ふなばた",
+      "meaning": "mạn thuyền"
+    },
+    {
+      "word": "乾舷",
+      "reading": "かんげん",
+      "meaning": "phần nổi"
+    },
+    {
+      "word": "右舷",
+      "reading": "うげん",
+      "meaning": "mạn phải"
+    },
+    {
+      "word": "舷側",
+      "reading": "げんそく",
+      "meaning": "ship có cạnh"
+    },
+    {
+      "word": "左舷",
+      "reading": "さげん",
+      "meaning": "chuyển bình)"
+    },
+    {
+      "word": "舷頭",
+      "reading": "げんとう",
+      "meaning": "mạn thuyền"
+    },
+    {
+      "word": "舷門",
+      "reading": "げんもん",
+      "meaning": "cửa ra vào được thiết kế ở mạn tàu hoặc boong trên"
+    },
+    {
+      "word": "舷梯",
+      "reading": "げんてい",
+      "meaning": "thang gắn vào mạn trái khi lên xuống tàu"
+    },
+    {
+      "word": "舷灯",
+      "reading": "げんとう",
+      "meaning": "chạy những ánh sáng"
+    },
+    {
+      "word": "舷窓",
+      "reading": "げんそう",
+      "meaning": "lỗ cửa"
+    }
+  ]
+}

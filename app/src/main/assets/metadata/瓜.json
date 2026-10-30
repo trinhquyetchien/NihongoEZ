@@ -1,0 +1,143 @@
+{
+  "kanji": "瓜",
+  "meta": {
+    "weight": 1760,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "うり"
+    ],
+    "am_han": "QUA"
+  },
+  "meaning": {
+    "vi": "dưa gang",
+    "en": "melon"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/瓜.svg"
+  },
+  "frequency": 2459,
+  "examples": [
+    "瓜",
+    "西瓜",
+    "胡瓜",
+    "冬瓜",
+    "南瓜"
+  ],
+  "explanation": {
+    "id": "337",
+    "text": "瓜 (đọc là \"uri\") có nghĩa là \"dưa\", thường chỉ các loại quả thuộc họ dưa."
+  },
+  "comments": [
+    {
+      "id": "155363",
+      "lang": "vi",
+      "content_html": "<p>lay mong tay chot vao qua dua</p>",
+      "content_text": "lay mong tay chot vao qua dua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155364",
+      "lang": "vi",
+      "content_html": "<p>quả dưa</p>",
+      "content_text": "quả dưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155365",
+      "lang": "vi",
+      "content_html": "<p>Một người dùng móng tay để hái Dưa</p>",
+      "content_text": "Một người dùng móng tay để hái Dưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "瓜",
+      "reading": "うり",
+      "meaning": "dưa"
+    },
+    {
+      "word": "瓜蝿",
+      "reading": "うりばえ",
+      "meaning": "ruồi bầu"
+    },
+    {
+      "word": "氈瓜",
+      "reading": "かもうり",
+      "meaning": "wax gourd"
+    },
+    {
+      "word": "瓜坊",
+      "reading": "うりぼう",
+      "meaning": "heo rừng"
+    },
+    {
+      "word": "糸瓜",
+      "reading": "へちま",
+      "meaning": "cây mướp"
+    },
+    {
+      "word": "苦瓜",
+      "reading": "にがうり",
+      "meaning": "mướp đắng"
+    },
+    {
+      "word": "破瓜",
+      "reading": "はか",
+      "meaning": "tuổi dậy thì"
+    },
+    {
+      "word": "木瓜",
+      "reading": "ぼけ",
+      "meaning": "cây mộc qua nhật"
+    },
+    {
+      "word": "白瓜",
+      "reading": "しろうり",
+      "meaning": "dưa chuột"
+    },
+    {
+      "word": "瓜科",
+      "reading": "うりか",
+      "meaning": "họ bầu bí"
+    }
+  ]
+}

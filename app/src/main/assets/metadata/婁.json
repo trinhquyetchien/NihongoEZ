@@ -1,0 +1,46 @@
+{
+  "kanji": "婁",
+  "meta": {
+    "weight": 678,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ル",
+      "ロウ"
+    ],
+    "kun": [
+      "つな.ぐ",
+      "ひ.く"
+    ],
+    "am_han": "LÂU, LŨ, LU"
+  },
+  "meaning": {
+    "vi": "thường xuyên, buộc",
+    "en": "frequently, tie"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/婁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8321",
+    "text": "婁 (đọc là \"ろう\" - rō) có nghĩa là \"một loại chim\", và cũng được sử dụng để chỉ một khái niệm trong hệ thống thiên văn học cổ điển của Nhật Bản."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "婁",
+      "reading": "ろう",
+      "meaning": "sao lâu"
+    },
+    {
+      "word": "離婁の明",
+      "reading": "りろうのめい",
+      "meaning": "thị lực tinh tường"
+    }
+  ]
+}

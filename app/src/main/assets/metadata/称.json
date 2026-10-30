@@ -1,0 +1,148 @@
+{
+  "kanji": "称",
+  "meta": {
+    "weight": 1933,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "たた.える",
+      "とな.える",
+      "あ.げる",
+      "かな.う",
+      "はか.り",
+      "はか.る",
+      "ほめ.る"
+    ],
+    "am_han": "XƯNG, XỨNG, HẤNG"
+  },
+  "meaning": {
+    "vi": "tên gọi, khen ngợi, ngưỡng mộ, tên, chức danh, danh tiếng",
+    "en": "appellation, praise, admire, name, title, fame"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/称.svg"
+  },
+  "frequency": 985,
+  "examples": [
+    "名称",
+    "通称",
+    "自称",
+    "呼称",
+    "総称"
+  ],
+  "explanation": {
+    "id": "3886",
+    "text": "称 (đọc là \"shō\") có nghĩa là \"gọi\", \"khen ngợi\" để chỉ hành động đặt tên hoặc ca ngợi ai đó."
+  },
+  "comments": [
+    {
+      "id": "155751",
+      "lang": "vi",
+      "content_html": "<p>Người nằm XƯNG tên là Tiểu Hòa thượng.</p>",
+      "content_text": "Người nằm XƯNG tên là Tiểu Hòa thượng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155752",
+      "lang": "vi",
+      "content_html": "<p>Câj bé nằm ngang xưng tên là hoà</p>",
+      "content_text": "Câj bé nằm ngang xưng tên là hoà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155753",
+      "lang": "vi",
+      "content_html": "<p>Bên phải là chữ Nhĩ nhé !</p>",
+      "content_text": "Bên phải là chữ Nhĩ nhé !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "称",
+      "reading": "しょう",
+      "meaning": "tên"
+    },
+    {
+      "word": "称賛",
+      "reading": "しょうさん",
+      "meaning": "khen ngợi"
+    },
+    {
+      "word": "略称",
+      "reading": "りゃくしょう",
+      "meaning": "cách gọi ngắn gọn khác không phải tên chính thức"
+    },
+    {
+      "word": "父称",
+      "reading": "ふしょう",
+      "meaning": "tên đệm"
+    },
+    {
+      "word": "呼称",
+      "reading": "こしょう",
+      "meaning": "gọi bằng tên"
+    },
+    {
+      "word": "敬称",
+      "reading": "けいしょう",
+      "meaning": "cách gọi tôn kính"
+    },
+    {
+      "word": "称号",
+      "reading": "しょうごう",
+      "meaning": "danh hiệu"
+    },
+    {
+      "word": "自称",
+      "reading": "じしょう",
+      "meaning": "muốn trở thành"
+    },
+    {
+      "word": "愛称",
+      "reading": "あいしょう",
+      "meaning": "tên gọi cho con vật cảnh"
+    },
+    {
+      "word": "全称",
+      "reading": "ぜんしょう",
+      "meaning": "phủ định toàn thể"
+    }
+  ]
+}

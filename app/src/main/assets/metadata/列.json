@@ -1,0 +1,141 @@
+{
+  "kanji": "列",
+  "meta": {
+    "weight": 316,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レツ",
+      "レ"
+    ],
+    "kun": [],
+    "am_han": "LIỆT"
+  },
+  "meaning": {
+    "vi": "cột",
+    "en": "file, row, rank, tier, column"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/列.svg"
+  },
+  "frequency": 927,
+  "examples": [
+    "列",
+    "列車",
+    "系列",
+    "行列",
+    "配列"
+  ],
+  "explanation": {
+    "id": "8256",
+    "text": "列 (đọc là \"retsu\") có nghĩa là \"dòng\", \"hàng\" để chỉ sự sắp xếp hoặc thứ tự của các đối tượng trong một chiều hướng nào đó."
+  },
+  "comments": [
+    {
+      "id": "151986",
+      "lang": "vi",
+      "content_html": "<p>Mấy thằng xấu xa ( ngạt) cầm đao (đao) nằm chết la Liệt thành một hàng.</p>",
+      "content_text": "Mấy thằng xấu xa ( ngạt) cầm đao (đao) nằm chết la Liệt thành một hàng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151987",
+      "lang": "vi",
+      "content_html": "<p>Rút gươm ra để liệt kê vị trí xếp hàng</p>",
+      "content_text": "Rút gươm ra để liệt kê vị trí xếp hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151988",
+      "lang": "vi",
+      "content_html": "<p>Xương đao nằm la liệt thành hàng</p>",
+      "content_text": "Xương đao nằm la liệt thành hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "列",
+      "reading": "れつ",
+      "meaning": "hàng"
+    },
+    {
+      "word": "縦列反復配列",
+      "reading": "じゅーれつはんぷくはいれつ",
+      "meaning": "chuỗi lặp lại song song"
+    },
+    {
+      "word": "列車",
+      "reading": "れっしゃ",
+      "meaning": "đoàn tàu"
+    },
+    {
+      "word": "コーシー列",
+      "reading": "コーシーれつ",
+      "meaning": "dãy côsi"
+    },
+    {
+      "word": "バイト列",
+      "reading": "バイトれつ",
+      "meaning": "chuỗi byte"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "hàng người"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "sự xếp thành hàng"
+    },
+    {
+      "word": "参列",
+      "reading": "さんれつ",
+      "meaning": "sự hiện diện"
+    },
+    {
+      "word": "歯列",
+      "reading": "しれつ",
+      "meaning": "hàm răng"
+    },
+    {
+      "word": "横列",
+      "reading": "おうれつ",
+      "meaning": "hàng ngang"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kanji": "蘇",
+  "meta": {
+    "weight": 2364,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ス"
+    ],
+    "kun": [
+      "よみがえ.る"
+    ],
+    "am_han": "TÔ"
+  },
+  "meaning": {
+    "vi": "được hồi sức, hồi sinh, tía tô, shiso",
+    "en": "be resuscitated, revived, perilla, shiso"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/蘇.svg"
+  },
+  "frequency": 1968,
+  "examples": [
+    "蘇る",
+    "蘇生",
+    "蘇",
+    "紫蘇",
+    "蘇り"
+  ],
+  "explanation": {
+    "id": "4652",
+    "text": "蘇 (đọc là \"so\") có nghĩa là \"hồi sinh\", \"khôi phục\" để chỉ các hành động liên quan đến việc trở lại trạng thái ban đầu hoặc sống lại."
+  },
+  "comments": [
+    {
+      "id": "156639",
+      "lang": "vi",
+      "content_html": "<p>Ăn cá với rau tía tô</p>",
+      "content_text": "Ăn cá với rau tía tô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156640",
+      "lang": "vi",
+      "content_html": "<p>Thảo và Hoà dùng bát TÔ hồi sinh con cá :))</p>",
+      "content_text": "Thảo và Hoà dùng bát TÔ hồi sinh con cá :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156641",
+      "lang": "vi",
+      "content_html": "<p>Người đã chết được cúng Cá với LÚA GẠO, Cây cỏ thì bổng nhiên SỐNG LẠI</p>",
+      "content_text": "Người đã chết được cúng Cá với LÚA GẠO, Cây cỏ thì bổng nhiên SỐNG LẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "屠蘇機嫌",
+      "reading": "とそきげん",
+      "meaning": "tâm trạng vui vẻ"
+    },
+    {
+      "word": "蘇る",
+      "reading": "よみがえる",
+      "meaning": "sống lại"
+    },
+    {
+      "word": "蘇生",
+      "reading": "そせい",
+      "meaning": "sự tái sinh"
+    },
+    {
+      "word": "蘇木",
+      "reading": "そぼく",
+      "meaning": "tô mộc"
+    },
+    {
+      "word": "紫蘇",
+      "reading": "しそ",
+      "meaning": "cây tía tô"
+    },
+    {
+      "word": "苦蘇",
+      "reading": "くっそ",
+      "meaning": "hoa hagenia"
+    },
+    {
+      "word": "蘇り",
+      "reading": "よみがえり",
+      "meaning": "sống lại"
+    },
+    {
+      "word": "中蘇",
+      "reading": "ちゅうソ",
+      "meaning": "trung quốc và liên xô"
+    },
+    {
+      "word": "屠蘇",
+      "reading": "とそ",
+      "meaning": "cho gia vị vào mục đích năm mới có)"
+    },
+    {
+      "word": "耶蘇",
+      "reading": "やそ",
+      "meaning": "tám mươi"
+    }
+  ]
+}

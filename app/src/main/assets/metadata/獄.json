@@ -1,0 +1,140 @@
+{
+  "kanji": "獄",
+  "meta": {
+    "weight": 1726,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴク"
+    ],
+    "kun": [],
+    "am_han": "NGỤC"
+  },
+  "meaning": {
+    "vi": "nhà tù",
+    "en": "prison, jail"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/獄.svg"
+  },
+  "frequency": 1529,
+  "examples": [
+    "地獄",
+    "監獄",
+    "投獄",
+    "牢獄",
+    "獄中"
+  ],
+  "explanation": {
+    "id": "2650",
+    "text": "獄 (đọc là \"goku\") có nghĩa là \"ngục\", thường chỉ đến nhà tù hoặc nơi giam giữ."
+  },
+  "comments": [
+    {
+      "id": "155302",
+      "lang": "vi",
+      "content_html": "<p>Địa NGỤC là lúc người ta NÓI nhau chẳng khác gì CHÓ với MÈO</p>",
+      "content_text": "Địa NGỤC là lúc người ta NÓI nhau chẳng khác gì CHÓ với MÈO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155303",
+      "lang": "vi",
+      "content_html": "<p>bị BẮT vào NGỤC thì chỉ có NÓI chuyện với CHÓ</p>",
+      "content_text": "bị BẮT vào NGỤC thì chỉ có NÓI chuyện với CHÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155304",
+      "lang": "vi",
+      "content_html": "<p>Khuyển+ngôn+khuyển</p>",
+      "content_text": "Khuyển+ngôn+khuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "獄",
+      "reading": "ごく",
+      "meaning": "jail"
+    },
+    {
+      "word": "出獄",
+      "reading": "しゅつごく",
+      "meaning": "sự thả"
+    },
+    {
+      "word": "獄舎",
+      "reading": "ごくしゃ",
+      "meaning": "nhà tù"
+    },
+    {
+      "word": "脱獄",
+      "reading": "だつごく",
+      "meaning": "sự vượt ngục"
+    },
+    {
+      "word": "獄囚",
+      "reading": "ごくしゅう",
+      "meaning": "tù nhân"
+    },
+    {
+      "word": "刑獄",
+      "reading": "けいごく",
+      "meaning": "nhà tù"
+    },
+    {
+      "word": "獄衣",
+      "reading": "ごくい",
+      "meaning": "đồng phục tù nhân"
+    },
+    {
+      "word": "獄死",
+      "reading": "ごくし",
+      "meaning": "sự chết trong tù"
+    },
+    {
+      "word": "獄吏",
+      "reading": "ごくり",
+      "meaning": "cai ngục"
+    },
+    {
+      "word": "獄中",
+      "reading": "ごくちゅう",
+      "meaning": "trong nhà tù"
+    }
+  ]
+}

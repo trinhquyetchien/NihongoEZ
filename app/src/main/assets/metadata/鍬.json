@@ -1,0 +1,104 @@
+{
+  "kanji": "鍬",
+  "meta": {
+    "weight": 2784,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "シュウ"
+    ],
+    "kun": [
+      "くわ",
+      "すき"
+    ],
+    "am_han": "THÂU, THIÊU, THU"
+  },
+  "meaning": {
+    "vi": "cuốc có lưỡi dài ở góc nhọn",
+    "en": "hoe with long blade at acute angle"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1899",
+    "text": "鍬 (đọc là \"kuma\") có nghĩa là \"cái cuốc\", chỉ dụng cụ nông nghiệp dùng để xới đất hoặc làm vườn."
+  },
+  "comments": [
+    {
+      "id": "220926",
+      "lang": "vi",
+      "content_html": "<p>thằng Hòa đốt Lửa Thiêu cái Quốc Vàng để thử</p>",
+      "content_text": "thằng Hòa đốt Lửa Thiêu cái Quốc Vàng để thử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鍬",
+      "reading": "くわ",
+      "meaning": "cái cuốc"
+    },
+    {
+      "word": "唐鍬",
+      "reading": "とうが",
+      "meaning": "cuốc khai hoang"
+    },
+    {
+      "word": "馬鍬",
+      "reading": "まぐわ",
+      "meaning": "cái bừa"
+    },
+    {
+      "word": "木鍬",
+      "reading": "こくわ",
+      "meaning": "bát gỗ"
+    },
+    {
+      "word": "鋤鍬",
+      "reading": "すきくわ",
+      "meaning": "nông cụ"
+    },
+    {
+      "word": "鍬形",
+      "reading": "くわがた",
+      "meaning": "bọ hung hoặc bọ cánh cứng nói chung"
+    },
+    {
+      "word": "バチ鍬",
+      "reading": "バチくわ",
+      "meaning": "cuốc lưỡi dẹt"
+    },
+    {
+      "word": "平鍬",
+      "reading": "ひらくわ",
+      "meaning": "cuốc lưỡi vuông"
+    },
+    {
+      "word": "鍬入れ",
+      "reading": "くわいれ",
+      "meaning": "lễ khởi công"
+    },
+    {
+      "word": "鍬形虫",
+      "reading": "くわがたむし",
+      "meaning": "con xén tóc"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "kanji": "主",
+  "meta": {
+    "weight": 93,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ス",
+      "シュウ"
+    ],
+    "kun": [
+      "ぬし",
+      "おも",
+      "あるじ"
+    ],
+    "am_han": "CHỦ"
+  },
+  "meaning": {
+    "vi": "chủ, ông chủ",
+    "en": "lord, chief, master, main thing, principal"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/主.svg"
+  },
+  "frequency": 95,
+  "examples": [
+    "主義",
+    "主",
+    "主張",
+    "民主",
+    "主人公"
+  ],
+  "explanation": {
+    "id": "3403",
+    "text": "主 (đọc là \"shu\" hoặc \"nushi\") có nghĩa là \"chủ\", \"người đứng đầu\" để chỉ quyền sở hữu, lãnh đạo hay người phụ trách."
+  },
+  "comments": [
+    {
+      "id": "951",
+      "lang": "vi",
+      "content_html": "<p>Người đàn ông đội nón là ông <strong>chủ</strong>.</p>",
+      "content_text": "Người đàn ông đội nón là ông\nchủ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298caae666ae.jpg",
+      "image_path": "assets/images/主_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151436",
+      "lang": "vi",
+      "content_html": "<p>vua chỉ vào đầu nói tao là CHỦ</p>",
+      "content_text": "vua chỉ vào đầu nói tao là CHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158290",
+      "lang": "vi",
+      "content_html": "<p>主に (おもに): chủ yếu</p><p>主人公 (しゅじんこう): nhân vật chính</p>",
+      "content_text": "主に (おもに): chủ yếu\n主人公 (しゅじんこう): nhân vật chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221828",
+      "lang": "vi",
+      "content_html": "<p>1 nước có nhiều <strong>Vương</strong> nhưng chỉ có 1 người làm <strong>Chủ</strong> tất cả (Hoàng đế)</p>",
+      "content_text": "1 nước có nhiều\nVương\nnhưng chỉ có 1 người làm\nChủ\ntất cả (Hoàng đế)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "主",
+      "reading": "しゅ",
+      "meaning": "chủ"
+    },
+    {
+      "word": "売主買主",
+      "reading": "うりぬしかいぬし",
+      "meaning": "người mua và người bán"
+    },
+    {
+      "word": "主観主義",
+      "reading": "しゅかんしゅぎ",
+      "meaning": "chủ nghĩa chủ quan"
+    },
+    {
+      "word": "主我主義",
+      "reading": "しゅがしゅぎ",
+      "meaning": "chủ nghĩa ích kỷ"
+    },
+    {
+      "word": "主知主義",
+      "reading": "しゅちしゅぎ",
+      "meaning": "sự say mê công việc trí óc"
+    },
+    {
+      "word": "主意主義",
+      "reading": "しゅいしゅぎ",
+      "meaning": "thuyết ý chí"
+    },
+    {
+      "word": "主情主義",
+      "reading": "しゅじょうしゅぎ",
+      "meaning": "sự đa cảm"
+    },
+    {
+      "word": "民主主義",
+      "reading": "みんしゅしゅぎ",
+      "meaning": "chủ nghĩa dân chủ"
+    },
+    {
+      "word": "主義主張",
+      "reading": "しゅぎしゅちょう",
+      "meaning": "chủ nghĩa và ý kiến riêng"
+    },
+    {
+      "word": "主要株主",
+      "reading": "しゅようかぶぬし",
+      "meaning": "cổ đông chính"
+    }
+  ]
+}

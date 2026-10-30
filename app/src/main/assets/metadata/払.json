@@ -1,0 +1,163 @@
+{
+  "kanji": "払",
+  "meta": {
+    "weight": 1048,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フツ",
+      "ヒツ",
+      "ホツ"
+    ],
+    "kun": [
+      "はら.う",
+      "-はら.い",
+      "-ばら.い"
+    ],
+    "am_han": "PHẤT"
+  },
+  "meaning": {
+    "vi": "thanh toán",
+    "en": "pay, clear out, prune, banish, dispose of"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/払.svg"
+  },
+  "frequency": 813,
+  "examples": [
+    "支払い",
+    "払う",
+    "払い",
+    "支払う",
+    "支払"
+  ],
+  "explanation": {
+    "id": "6931",
+    "text": "払 (đọc là \"harai\") có nghĩa là \"trả\", \"thanh toán\" để chỉ các hành động liên quan đến việc thanh toán tiền hoặc xóa bỏ."
+  },
+  "comments": [
+    {
+      "id": "37107",
+      "lang": "vi",
+      "content_html": "<p>Tôi sẽ <strong>trả</strong> tiền.</p>",
+      "content_text": "Tôi sẽ\ntrả\ntiền.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3a3bcb21.jpg",
+      "image_path": "assets/images/払_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153790",
+      "lang": "vi",
+      "content_html": "<p>phất tay lên cứ khư khư đòi trả tiền</p>",
+      "content_text": "phất tay lên cứ khư khư đòi trả tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153791",
+      "lang": "vi",
+      "content_html": "<p>Để tôi trả tiền</p>",
+      "content_text": "Để tôi trả tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153792",
+      "lang": "vi",
+      "content_html": "<p>tự tay trả tiền</p>",
+      "content_text": "tự tay trả tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "未払費用 みはらいひよう",
+      "reading": "未払費用",
+      "meaning": ".+ thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán"
+    },
+    {
+      "word": "着払",
+      "reading": "ちゃくばらい",
+      "meaning": "thanh toán khi nhận hàng"
+    },
+    {
+      "word": "支払",
+      "reading": "しはらい",
+      "meaning": "sự chi trả"
+    },
+    {
+      "word": "払暁",
+      "reading": "ふつぎょう",
+      "meaning": "hửng sáng"
+    },
+    {
+      "word": "払拭",
+      "reading": "ふっしょく",
+      "meaning": "lau chùi ngoài"
+    },
+    {
+      "word": "払底",
+      "reading": "ふってい",
+      "meaning": "sự thiếu sót"
+    },
+    {
+      "word": "払い",
+      "reading": "ばらい",
+      "meaning": "việc trả tiền"
+    },
+    {
+      "word": "過払",
+      "reading": "かばらい",
+      "meaning": "trả dư"
+    },
+    {
+      "word": "前払",
+      "reading": "まえばらい",
+      "meaning": "sự trả trước"
+    },
+    {
+      "word": "払う",
+      "reading": "はらう",
+      "meaning": "biểu thị"
+    }
+  ]
+}

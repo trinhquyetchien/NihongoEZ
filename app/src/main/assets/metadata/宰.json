@@ -1,0 +1,137 @@
+{
+  "kanji": "宰",
+  "meta": {
+    "weight": 726,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [],
+    "am_han": "TỂ"
+  },
+  "meaning": {
+    "vi": "giám đốc, quản lý, quy tắc",
+    "en": "superintend, manager, rule"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/宰.svg"
+  },
+  "frequency": 1597,
+  "examples": [
+    "主宰",
+    "宰相"
+  ],
+  "explanation": {
+    "id": "2791",
+    "text": "宰 (đọc là \"sai\") có nghĩa là \"chúa tể\", \"người cai quản\" để chỉ các hành động liên quan đến việc lãnh đạo hoặc quản lý."
+  },
+  "comments": [
+    {
+      "id": "152968",
+      "lang": "vi",
+      "content_html": "<p>ăn Cay nhất nhà là chúa TỂ</p>",
+      "content_text": "ăn Cay nhất nhà là chúa TỂ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152969",
+      "lang": "vi",
+      "content_html": "<p>tuy tể tướng làm việc trong nhà nhưng công việc phải ngậm đắng nuốt cay</p>",
+      "content_text": "tuy tể tướng làm việc trong nhà nhưng công việc phải ngậm đắng nuốt cay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152970",
+      "lang": "vi",
+      "content_html": "<p>Tể tướng là người ăn ớt Cay nhất cái nhà này</p>",
+      "content_text": "Tể tướng là người ăn ớt Cay nhất cái nhà này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "主宰",
+      "reading": "しゅさい",
+      "meaning": "sự chủ tọa"
+    },
+    {
+      "word": "宰相",
+      "reading": "さいしょう",
+      "meaning": "thủ tướng"
+    },
+    {
+      "word": "冢宰",
+      "reading": "ちょうさい",
+      "meaning": "bộ trưởng bộ ngoại giao"
+    },
+    {
+      "word": "宰領",
+      "reading": "さいりょう",
+      "meaning": "sự trông nom"
+    },
+    {
+      "word": "厨宰",
+      "reading": "ちゅうさい",
+      "meaning": "đầu bếp"
+    },
+    {
+      "word": "主宰者",
+      "reading": "しゅさいしゃ",
+      "meaning": "chủ tọa"
+    },
+    {
+      "word": "太宰府",
+      "reading": "だざいふ",
+      "meaning": "kyushu"
+    },
+    {
+      "word": "伴食宰相",
+      "reading": "ばんしょくさいしょう",
+      "meaning": "bộ trưởng bất tài"
+    },
+    {
+      "word": "主宰する",
+      "reading": "しゅさいする",
+      "meaning": "chủ tọa"
+    },
+    {
+      "word": "宰相の器",
+      "reading": "さいしょうのき",
+      "meaning": "người có đủ tiêu chuẩn cho bộ trưởng đầu tiên"
+    }
+  ]
+}

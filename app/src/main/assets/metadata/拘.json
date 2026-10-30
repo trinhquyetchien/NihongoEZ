@@ -1,0 +1,142 @@
+{
+  "kanji": "拘",
+  "meta": {
+    "weight": 1075,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かか.わる"
+    ],
+    "am_han": "CÂU, CÙ"
+  },
+  "meaning": {
+    "vi": "bắt giữ, chiếm giữ, quan tâm, tuân theo, bất chấp",
+    "en": "arrest, seize, concerned, adhere to, despite"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拘.svg"
+  },
+  "frequency": 1336,
+  "examples": [
+    "拘束",
+    "拘置",
+    "拘留",
+    "拘禁",
+    "拘り"
+  ],
+  "explanation": {
+    "id": "2456",
+    "text": "拘 (đọc là \"kou\") có nghĩa là \"giam giữ\", \"trói buộc\" để chỉ các hành động liên quan đến việc hạn chế tự do hoặc kiểm soát."
+  },
+  "comments": [
+    {
+      "id": "153865",
+      "lang": "vi",
+      "content_html": "<p>Câu nệ quá đấy. đã bao miệng lại còn dơ tay lm gì</p>",
+      "content_text": "Câu nệ quá đấy. đã bao miệng lại còn dơ tay lm gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153866",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG nói BAO CÂU thì TAY vẫn bị bắt</p>",
+      "content_text": "MIỆNG nói BAO CÂU thì TAY vẫn bị bắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153867",
+      "lang": "vi",
+      "content_html": "<p>Kẻ dù cho nói lời có câu cú thì tay vẫn bị bắt</p>",
+      "content_text": "Kẻ dù cho nói lời có câu cú thì tay vẫn bị bắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "拘縮",
+      "reading": "こうしゅく",
+      "meaning": "sự co cứng"
+    },
+    {
+      "word": "拘り",
+      "reading": "こだわり",
+      "meaning": "dùng cho đồ vật có nghĩa là được lựa chọn kỹ lưỡng công phu"
+    },
+    {
+      "word": "拘留",
+      "reading": "こうりゅう",
+      "meaning": "bị bắt giữ"
+    },
+    {
+      "word": "拘置",
+      "reading": "こうち",
+      "meaning": "sự bắt giam"
+    },
+    {
+      "word": "拘束",
+      "reading": "こうそく",
+      "meaning": "sự câu thúc"
+    },
+    {
+      "word": "拘泥",
+      "reading": "こうでい",
+      "meaning": "sự câu nệ"
+    },
+    {
+      "word": "拘引",
+      "reading": "こういん",
+      "meaning": "giữ"
+    },
+    {
+      "word": "拘禁",
+      "reading": "こうきん",
+      "meaning": "sự giam giữ"
+    },
+    {
+      "word": "拘置所",
+      "reading": "こうちしょ",
+      "meaning": "nhà giam"
+    },
+    {
+      "word": "拘わる",
+      "reading": "こだわる",
+      "meaning": "sự chọn lọc kỹ càng"
+    }
+  ]
+}

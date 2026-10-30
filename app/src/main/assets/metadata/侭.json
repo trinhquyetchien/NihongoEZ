@@ -1,0 +1,60 @@
+{
+  "kanji": "侭",
+  "meta": {
+    "weight": 189,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [
+      "まま",
+      "ことごとく"
+    ],
+    "am_han": "TẪN, TẬN"
+  },
+  "meaning": {
+    "vi": "như nó là, bởi vì",
+    "en": "as it is, because"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/侭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7444",
+    "text": "侭 (đọc là \"shin\") có nghĩa là \"tùy ý\", \"tự do\" để chỉ hành động làm theo ý muốn, không bị hạn chế."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "我侭",
+      "reading": "わがまま",
+      "meaning": "tính ích kỷ"
+    },
+    {
+      "word": "気侭",
+      "reading": "きまま",
+      "meaning": "cố ý"
+    },
+    {
+      "word": "我が侭",
+      "reading": "わがまま",
+      "meaning": "cứng đầu"
+    },
+    {
+      "word": "丸の侭",
+      "reading": "まるのまま",
+      "meaning": "trong toàn bộ nó"
+    },
+    {
+      "word": "気の向く侭に",
+      "reading": "きのむくままに",
+      "meaning": "cảm thấy thích"
+    }
+  ]
+}

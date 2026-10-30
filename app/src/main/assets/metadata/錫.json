@@ -1,0 +1,106 @@
+{
+  "kanji": "錫",
+  "meta": {
+    "weight": 2776,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "すず",
+      "たま.う"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "đồng, thiếc",
+    "en": "copper, tin"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錫.svg"
+  },
+  "frequency": 2095,
+  "examples": [
+    "錫"
+  ],
+  "explanation": {
+    "id": "3388",
+    "text": "錫 (đọc là \"suzu\") có nghĩa là \"chì,\" thường chỉ về một loại kim loại hoặc vật liệu liên quan đến sản xuất đồ dùng."
+  },
+  "comments": [
+    {
+      "id": "157582",
+      "lang": "vi",
+      "content_html": "<p>Thiếc đang TÍCH tụ là DỊCH chuyển từ KIM loại.</p>",
+      "content_text": "Thiếc đang TÍCH tụ là DỊCH chuyển từ KIM loại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "錫",
+      "reading": "すず",
+      "meaning": "thiếc"
+    },
+    {
+      "word": "錫石",
+      "reading": "すずいし",
+      "meaning": "cassiterite"
+    },
+    {
+      "word": "錫杖",
+      "reading": "しゃくじょう",
+      "meaning": "thiếc lá"
+    },
+    {
+      "word": "巡錫",
+      "reading": "じゅんしゃく",
+      "meaning": "thuyết giáo đi du lịch"
+    },
+    {
+      "word": "錫蘭",
+      "reading": "セイロン",
+      "meaning": "sri lanka"
+    },
+    {
+      "word": "錫ペスト",
+      "reading": "すずペスト",
+      "meaning": "sâu bọ thiếc"
+    },
+    {
+      "word": "脱錫",
+      "reading": "だっしゃく",
+      "meaning": "sự khử thiếc"
+    },
+    {
+      "word": "酸化錫",
+      "reading": "さんかすず",
+      "meaning": "thiếc oxide"
+    },
+    {
+      "word": "塩化錫",
+      "reading": "えんかすず",
+      "meaning": "thiếc clo-rua"
+    },
+    {
+      "word": "錫製品",
+      "reading": "すずせいひん",
+      "meaning": "hàng thiếc"
+    }
+  ]
+}

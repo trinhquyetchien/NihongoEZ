@@ -1,0 +1,88 @@
+{
+  "kanji": "澱",
+  "meta": {
+    "weight": 1626,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン",
+      "テン"
+    ],
+    "kun": [
+      "おり",
+      "ど.ろ",
+      "よど.み",
+      "よど.む"
+    ],
+    "am_han": "ĐIẾN"
+  },
+  "meaning": {
+    "vi": "trầm tích, đất, cặn bã, ứ đọng",
+    "en": "sediment, grounds, dregs, stagnant"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/澱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5690",
+    "text": "澱 (đọc là \"den\") có nghĩa là \"bùn\", \"cặn\" hoặc chỉ các vật thể lơ lửng trong chất lỏng, thường liên quan đến sự tích tụ của chất lỏng."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "澱",
+      "reading": "よどみ",
+      "meaning": "cặn"
+    },
+    {
+      "word": "澱粉",
+      "reading": "でんぷん",
+      "meaning": "tinh bột"
+    },
+    {
+      "word": "沈澱",
+      "reading": "ちんでん",
+      "meaning": "sự kết tủa"
+    },
+    {
+      "word": "澱む",
+      "reading": "よどむ",
+      "meaning": "do dự"
+    },
+    {
+      "word": "澱粉質",
+      "reading": "でんぷんしつ",
+      "meaning": "sự có hồ bột"
+    },
+    {
+      "word": "沈澱物",
+      "reading": "ちんでんぶつ",
+      "meaning": "cặn"
+    },
+    {
+      "word": "酒の澱",
+      "reading": "さけのおり",
+      "meaning": "cặn rượu"
+    },
+    {
+      "word": "沈澱管",
+      "reading": "ちんでんかん",
+      "meaning": "ống ly tâm đáy nhọn"
+    },
+    {
+      "word": "加工澱粉",
+      "reading": "かこうでんぷん",
+      "meaning": "tinh bột đã qua xử lý"
+    },
+    {
+      "word": "変性澱粉",
+      "reading": "へんせいでんぷん",
+      "meaning": "tinh bột biến tính"
+    }
+  ]
+}

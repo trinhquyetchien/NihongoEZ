@@ -1,0 +1,104 @@
+{
+  "kanji": "鋸",
+  "meta": {
+    "weight": 2768,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "のこ",
+      "のこぎり"
+    ],
+    "am_han": "CỨ"
+  },
+  "meaning": {
+    "vi": "cưa (cắt gỗ)",
+    "en": "saw (cuts wood)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鋸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1595",
+    "text": "鋸 (đọc là \"nokogiri\") có nghĩa là \"cưa\", một dụng cụ dùng để cắt gỗ hoặc vật liệu khác."
+  },
+  "comments": [
+    {
+      "id": "220912",
+      "lang": "vi",
+      "content_html": "<p>cứ ở chung nhà thì phải cưa tiền.</p>",
+      "content_text": "cứ ở chung nhà thì phải cưa tiền.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "鋸",
+      "reading": "のこぎり",
+      "meaning": "cưa"
+    },
+    {
+      "word": "押し切り鋸用",
+      "reading": "おしきりのこぎりよう",
+      "meaning": "đối với ngành công nghiệp xây dựng"
+    },
+    {
+      "word": "糸鋸",
+      "reading": "いとのこ",
+      "meaning": "dây cưa"
+    },
+    {
+      "word": "弓鋸",
+      "reading": "ゆみのこ",
+      "meaning": "cưa sắt"
+    },
+    {
+      "word": "大鋸",
+      "reading": "おが",
+      "meaning": "cưa lớn"
+    },
+    {
+      "word": "弦鋸",
+      "reading": "つるのこ",
+      "meaning": "cưa lưỡi mảnh"
+    },
+    {
+      "word": "鋸鎌",
+      "reading": "のこぎりがま",
+      "meaning": "lưỡi liềm"
+    },
+    {
+      "word": "鋸屑",
+      "reading": "のこくず",
+      "meaning": "mùn cưa"
+    },
+    {
+      "word": "鋸歯",
+      "reading": "きょし",
+      "meaning": "răng cưa"
+    },
+    {
+      "word": "金鋸",
+      "reading": "かねのこぎり",
+      "meaning": "cái cưa kim loại"
+    }
+  ]
+}

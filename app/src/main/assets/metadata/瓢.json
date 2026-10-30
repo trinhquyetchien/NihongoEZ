@@ -1,0 +1,85 @@
+{
+  "kanji": "瓢",
+  "meta": {
+    "weight": 1761,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "ひさご",
+      "ふくべ"
+    ],
+    "am_han": "BIỀU"
+  },
+  "meaning": {
+    "vi": "quả bầu",
+    "en": "gourd"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/瓢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6709",
+    "text": "瓢 (đọc là \"hyō\") có nghĩa là \"bầu\" hay \"bình\", thường chỉ đến loại bầu dùng để chứa nước hoặc thức ăn."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "瓢虫",
+      "reading": "てんとうむし",
+      "meaning": "con bọ rùa"
+    },
+    {
+      "word": "乾瓢",
+      "reading": "かんぴょう",
+      "meaning": "sợi bầu khô"
+    },
+    {
+      "word": "瓢箪",
+      "reading": "ひょうたん",
+      "meaning": "bầu"
+    },
+    {
+      "word": "干瓢",
+      "reading": "かんぴょう",
+      "meaning": "bầu khô"
+    },
+    {
+      "word": "一瓢",
+      "reading": "いっぴょう",
+      "meaning": "một chiếc bầu"
+    },
+    {
+      "word": "偽瓢虫",
+      "reading": "てんとうむしだまし",
+      "meaning": "bọ cánh cứng nấm đẹp"
+    },
+    {
+      "word": "瓢箪鯰",
+      "reading": "ひょうたんなまず",
+      "meaning": "tế nhị như một con lươn"
+    },
+    {
+      "word": "青瓢箪",
+      "reading": "あおびょうたん",
+      "meaning": "người ốm yếu"
+    },
+    {
+      "word": "千成瓢箪",
+      "reading": "せんなりびょうたん",
+      "meaning": "bầu hồ lô"
+    },
+    {
+      "word": "瓢箪から駒",
+      "reading": "ひょうたんからこま",
+      "meaning": "một điều rất bất ngờ"
+    }
+  ]
+}

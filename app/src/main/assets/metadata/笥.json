@@ -1,0 +1,86 @@
+{
+  "kanji": "笥",
+  "meta": {
+    "weight": 1986,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ス",
+      "シ"
+    ],
+    "kun": [
+      "け",
+      "はこ"
+    ],
+    "am_han": "TỨ"
+  },
+  "meaning": {
+    "vi": "hộp ăn trưa, tủ quần áo",
+    "en": "lunch box, clothes chest"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/笥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4185",
+    "text": "笥 (đọc là \"ki\") có nghĩa là \"hộp đựng\", thường chỉ đến các loại hộp, đặc biệt là dùng để đựng thực phẩm hoặc đồ vật."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "櫛笥",
+      "reading": "くしげ",
+      "meaning": "giá đỡ lược"
+    },
+    {
+      "word": "簞笥",
+      "reading": "たんす",
+      "meaning": "tủ"
+    },
+    {
+      "word": "箪笥",
+      "reading": "たんす",
+      "meaning": "tủ"
+    },
+    {
+      "word": "碁笥",
+      "reading": "ごけ",
+      "meaning": "đi - côngtenơ đá"
+    },
+    {
+      "word": "ベビー箪笥",
+      "reading": "ベビーだんす",
+      "meaning": "tủ đựng quần áo em bé"
+    },
+    {
+      "word": "用箪笥",
+      "reading": "ようだんす",
+      "meaning": "tủ com"
+    },
+    {
+      "word": "茶箪笥",
+      "reading": "ちゃだんす",
+      "meaning": "tủ búp phê"
+    },
+    {
+      "word": "衣装箪笥",
+      "reading": "いしょうだんす",
+      "meaning": "tủ quần áo"
+    },
+    {
+      "word": "洋服箪笥",
+      "reading": "ようふくだんす",
+      "meaning": "tủ áo quần"
+    },
+    {
+      "word": "衣類箪笥",
+      "reading": "いるいだんす",
+      "meaning": "tủ áo quần"
+    }
+  ]
+}

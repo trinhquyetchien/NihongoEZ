@@ -1,0 +1,142 @@
+{
+  "kanji": "毛",
+  "meta": {
+    "weight": 1476,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ"
+    ],
+    "kun": [
+      "け"
+    ],
+    "am_han": "MAO"
+  },
+  "meaning": {
+    "vi": "lông",
+    "en": "fur, hair, feather, down"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/毛.svg"
+  },
+  "frequency": 1179,
+  "examples": [
+    "毛",
+    "髪の毛",
+    "毛布",
+    "不毛",
+    "育毛"
+  ],
+  "explanation": {
+    "id": "7602",
+    "text": "毛 (đọc là \"mou\") có nghĩa là \"lông\", \"sợi\", chỉ các yếu tố liên quan đến lông, tóc hoặc sợi tơ."
+  },
+  "comments": [
+    {
+      "id": "154740",
+      "lang": "vi",
+      "content_html": "<p>Ngược của cái tay là cái lông hay gọi là lông MAO</p>",
+      "content_text": "Ngược của cái tay là cái lông hay gọi là lông MAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154741",
+      "lang": "vi",
+      "content_html": "<p>Mao Tay ngược thì nhiều Lông.</p>",
+      "content_text": "Mao Tay ngược thì nhiều Lông.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154742",
+      "lang": "vi",
+      "content_html": "<p>手  毛<br>THỦ  MÔ</p>",
+      "content_text": "手  毛\nTHỦ  MÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "毛",
+      "reading": "け",
+      "meaning": "lông"
+    },
+    {
+      "word": "絨毛膜絨毛",
+      "reading": "じゅうもうまくじゅうもう",
+      "meaning": "lông nhung màng đệm"
+    },
+    {
+      "word": "眉毛",
+      "reading": "まゆげ",
+      "meaning": "lông mày"
+    },
+    {
+      "word": "線毛",
+      "reading": "せんもう",
+      "meaning": "độc lực"
+    },
+    {
+      "word": "脱毛",
+      "reading": "だつもう",
+      "meaning": "rụng tóc"
+    },
+    {
+      "word": "増毛",
+      "reading": "ぞうもう",
+      "meaning": "mọc tóc"
+    },
+    {
+      "word": "立毛",
+      "reading": "りつもう",
+      "meaning": "sự dựng tóc"
+    },
+    {
+      "word": "純毛",
+      "reading": "じゅんもう",
+      "meaning": "bông nguyên chất"
+    },
+    {
+      "word": "栗毛",
+      "reading": "くりげ",
+      "meaning": "màu hạt dẻ"
+    },
+    {
+      "word": "産毛",
+      "reading": "うぶげ",
+      "meaning": "lông tơ"
+    }
+  ]
+}

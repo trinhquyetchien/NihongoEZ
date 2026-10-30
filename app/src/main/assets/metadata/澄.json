@@ -1,0 +1,140 @@
+{
+  "kanji": "澄",
+  "meta": {
+    "weight": 1624,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "す.む",
+      "す.ます",
+      "-す.ます"
+    ],
+    "am_han": "TRỪNG"
+  },
+  "meaning": {
+    "vi": "minh mẫn, rõ ràng, làm rõ, giải quyết, căng thẳng, nhìn nghiêm trọng",
+    "en": "lucidity, be clear, clear, clarify, settle, strain, look grave"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/澄.svg"
+  },
+  "frequency": 1722,
+  "examples": [
+    "澄まし"
+  ],
+  "explanation": {
+    "id": "4273",
+    "text": "澄 (đọc là \"chō\") có nghĩa là \"trong sạch\", \"rõ ràng\", thường chỉ trạng thái nước hoặc không khí trong suốt, sạch sẽ."
+  },
+  "comments": [
+    {
+      "id": "155106",
+      "lang": "vi",
+      "content_html": "<p>Thanh trừng sạch nước để đăng cai</p>",
+      "content_text": "Thanh trừng sạch nước để đăng cai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155107",
+      "lang": "vi",
+      "content_html": "<p>lên núi mới có nước trong.</p>",
+      "content_text": "lên núi mới có nước trong.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155108",
+      "lang": "vi",
+      "content_html": "<p>nước đã được đăng ký làm sạch và thanh trừng</p>",
+      "content_text": "nước đã được đăng ký làm sạch và thanh trừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "澄まし",
+      "reading": "すまし",
+      "meaning": "lạnh lùng"
+    },
+    {
+      "word": "清澄",
+      "reading": "せいちょう",
+      "meaning": "sự thanh trừng"
+    },
+    {
+      "word": "明澄",
+      "reading": "めいちょう",
+      "meaning": "sáng sủa"
+    },
+    {
+      "word": "水澄",
+      "reading": "みずすまし",
+      "meaning": "sự xoay vần nhô ra"
+    },
+    {
+      "word": "澄明",
+      "reading": "ちょうめい",
+      "meaning": "sạch sẽ và sáng sủa"
+    },
+    {
+      "word": "澄む",
+      "reading": "すむ",
+      "meaning": "trong sạch"
+    },
+    {
+      "word": "上澄み",
+      "reading": "うわずみ",
+      "meaning": "bộ phận nổi lên trên"
+    },
+    {
+      "word": "澄し汁",
+      "reading": "すましじる",
+      "meaning": "làm sạch xúp"
+    },
+    {
+      "word": "澄ます",
+      "reading": "すます",
+      "meaning": "làm sạch"
+    },
+    {
+      "word": "真澄鏡",
+      "reading": "まそかがみ",
+      "meaning": "gương trong suốt"
+    }
+  ]
+}

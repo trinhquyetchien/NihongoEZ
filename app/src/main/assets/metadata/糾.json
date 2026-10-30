@@ -1,0 +1,139 @@
+{
+  "kanji": "糾",
+  "meta": {
+    "weight": 2046,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "ただ.す"
+    ],
+    "am_han": "CỦ, KIỂU"
+  },
+  "meaning": {
+    "vi": "xoắn, hỏi, điều tra, xác minh",
+    "en": "twist, ask, investigate, verify"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/糾.svg"
+  },
+  "frequency": 1820,
+  "examples": [
+    "糾弾",
+    "紛糾"
+  ],
+  "explanation": {
+    "id": "1555",
+    "text": "糾 (đọc là \"kyū\") có nghĩa là \"kiểm tra\", \"khảo sát\" hoặc \"biện luận\" để chỉ hành động kiểm tra, xác minh hoặc tranh luận về một vấn đề nào đó."
+  },
+  "comments": [
+    {
+      "id": "155970",
+      "lang": "vi",
+      "content_html": "<p>4 sợi dây làm nên quy củ</p>",
+      "content_text": "4 sợi dây làm nên quy củ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155971",
+      "lang": "vi",
+      "content_html": "<p>sợi TƠ được bán với giá 4 CỦ</p>",
+      "content_text": "sợi TƠ được bán với giá 4 CỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155972",
+      "lang": "vi",
+      "content_html": "<p>4 cuộn Chỉ  được đặt rất quy CỦ.</p>",
+      "content_text": "4 cuộn Chỉ  được đặt rất quy CỦ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "糾う",
+      "reading": "あざなう",
+      "meaning": "xoắn"
+    },
+    {
+      "word": "紛糾",
+      "reading": "ふんきゅう",
+      "meaning": "sự hỗn loạn"
+    },
+    {
+      "word": "糾問",
+      "reading": "きゅうもん",
+      "meaning": "sự thẩm vấn"
+    },
+    {
+      "word": "糾弾",
+      "reading": "きゅうだん",
+      "meaning": "sự công kích"
+    },
+    {
+      "word": "糾合",
+      "reading": "きゅうごう",
+      "meaning": "sự tập hợp"
+    },
+    {
+      "word": "糾明",
+      "reading": "きゅうめい",
+      "meaning": "sự truy cứu"
+    },
+    {
+      "word": "罪状糾明",
+      "reading": "ざいじょうきゅうめい",
+      "meaning": "sự truy cứu tội trạng"
+    },
+    {
+      "word": "糾弾する",
+      "reading": "きゅうだんする",
+      "meaning": "công kích"
+    },
+    {
+      "word": "糾明する",
+      "reading": "きゅうめい",
+      "meaning": "truy cứu"
+    },
+    {
+      "word": "元を糾す",
+      "reading": "もとをただす",
+      "meaning": "truy xét tới cùng"
+    }
+  ]
+}

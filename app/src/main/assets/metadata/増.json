@@ -1,0 +1,145 @@
+{
+  "kanji": "増",
+  "meta": {
+    "weight": 598,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [
+      "ま.す",
+      "ま.し",
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "am_han": "TĂNG"
+  },
+  "meaning": {
+    "vi": "tăng, thêm",
+    "en": "increase, add, augment, gain, promote"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/増.svg"
+  },
+  "frequency": 231,
+  "examples": [
+    "増加",
+    "増",
+    "増える",
+    "増大",
+    "増やし"
+  ],
+  "explanation": {
+    "id": "4773",
+    "text": "増 (đọc là \"zō\") có nghĩa là \"tăng\", \"gia tăng\" để chỉ các hành động hoặc quá trình làm cho một cái gì đó nhiều hơn, lớn hơn."
+  },
+  "comments": [
+    {
+      "id": "152666",
+      "lang": "vi",
+      "content_html": "<p>曽：Tằng(そう、そ、ぞう)<br><br>層: Tằng ở nhà nhiều tầng<br>憎：Tằng giận tim dựng đứng lên<br>贈：Tằng được tặng bảo bối<br>増：Tằng mua thêm đất</p>",
+      "content_text": "曽：Tằng(そう、そ、ぞう)\n層: Tằng ở nhà nhiều tầng\n憎：Tằng giận tim dựng đứng lên\n贈：Tằng được tặng bảo bối\n増：Tằng mua thêm đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152667",
+      "lang": "vi",
+      "content_html": "<p>Tăng đất để làm ruộng 1 ngày</p>",
+      "content_text": "Tăng đất để làm ruộng 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152668",
+      "lang": "vi",
+      "content_html": "<p>Trong một ngày ruộng đất tăng giá lên</p>",
+      "content_text": "Trong một ngày ruộng đất tăng giá lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "増",
+      "reading": "ぞう",
+      "meaning": "tăng"
+    },
+    {
+      "word": "増収増益",
+      "reading": "ぞうしゅうぞうえき",
+      "meaning": "sự tăng thu nhập và lợi nhuận"
+    },
+    {
+      "word": "増加量 / 増分",
+      "reading": "ぞうかりょう",
+      "meaning": "phần tăng"
+    },
+    {
+      "word": "割増",
+      "reading": "わりまし",
+      "meaning": "phụ thu"
+    },
+    {
+      "word": "増悪",
+      "reading": "ぞうあく",
+      "meaning": "tình trạng trở nên xấu hơn"
+    },
+    {
+      "word": "増毛",
+      "reading": "ぞうもう",
+      "meaning": "mọc tóc"
+    },
+    {
+      "word": "急増",
+      "reading": "きゅうぞう",
+      "meaning": "sự tăng thêm nhanh chóng"
+    },
+    {
+      "word": "増発",
+      "reading": "ぞうはつ",
+      "meaning": "tăng thêm chuyến"
+    },
+    {
+      "word": "増額",
+      "reading": "ぞうがく",
+      "meaning": "tăng thêm số lượng"
+    },
+    {
+      "word": "増配",
+      "reading": "ぞうはい",
+      "meaning": "tăng thêm khẩu phần"
+    }
+  ]
+}

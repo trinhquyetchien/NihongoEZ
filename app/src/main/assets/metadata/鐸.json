@@ -1,0 +1,57 @@
+{
+  "kanji": "鐸",
+  "meta": {
+    "weight": 2797,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [],
+    "am_han": "ĐẠC"
+  },
+  "meaning": {
+    "vi": "chuông tay lớn",
+    "en": "large hand bell"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/鐸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5050",
+    "text": "鐸 (đọc là \"taku\") có nghĩa là \"chuông lớn\" hoặc \"chuông đồng\", thường dùng trong ngữ cảnh tôn giáo hoặc nghi lễ."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鐸",
+      "reading": "たく",
+      "meaning": "chuông trung quốc cổ đại với một cái lươi và một tay cầm dài"
+    },
+    {
+      "word": "風鐸",
+      "reading": "ふうたく",
+      "meaning": "chuông gió"
+    },
+    {
+      "word": "木鐸",
+      "reading": "ぼくたく",
+      "meaning": "cái chuông với quả lắc làm bằng gỗ"
+    },
+    {
+      "word": "銅鐸",
+      "reading": "どうたく",
+      "meaning": "làm thành màu đồng cái chuông"
+    },
+    {
+      "word": "馬鐸",
+      "reading": "ばたく",
+      "meaning": "chuông ngựa"
+    }
+  ]
+}

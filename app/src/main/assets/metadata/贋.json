@@ -1,0 +1,106 @@
+{
+  "kanji": "贋",
+  "meta": {
+    "weight": 2579,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "にせ"
+    ],
+    "am_han": "NHẠN"
+  },
+  "meaning": {
+    "vi": "giả mạo",
+    "en": "counterfeit, forgery"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/贋.svg"
+  },
+  "frequency": 2439,
+  "examples": [
+    "贋作",
+    "真贋",
+    "贋"
+  ],
+  "explanation": {
+    "id": "1226",
+    "text": "贋 (đọc là \"gan\") có nghĩa là \"giả\", \"nhái\" để chỉ các vật phẩm hoặc thông tin không phải thật, được làm giả."
+  },
+  "comments": [
+    {
+      "id": "157141",
+      "lang": "vi",
+      "content_html": "<p>Tiền(貝) không cánh mà bay như chim NHẠN(雁) nếu mua đồ giả</p>",
+      "content_text": "Tiền(貝) không cánh mà bay như chim NHẠN(雁) nếu mua đồ giả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "贋",
+      "reading": "にせ",
+      "meaning": "sự làm giả"
+    },
+    {
+      "word": "贋物",
+      "reading": "にせもの",
+      "meaning": "sự bắt chước"
+    },
+    {
+      "word": "真贋",
+      "reading": "しんがん",
+      "meaning": "xác thực và giả mạo"
+    },
+    {
+      "word": "贋印",
+      "reading": "にせいん",
+      "meaning": "con dấu giả"
+    },
+    {
+      "word": "贋首",
+      "reading": "にせくび",
+      "meaning": "đầu giả"
+    },
+    {
+      "word": "贋金",
+      "reading": "にせがね",
+      "meaning": "tiền giả"
+    },
+    {
+      "word": "贋アカシア",
+      "reading": "にせアカシア",
+      "meaning": "cây dương hòe"
+    },
+    {
+      "word": "贋者",
+      "reading": "にせもの",
+      "meaning": "kẻ nói dối"
+    },
+    {
+      "word": "贋作",
+      "reading": "がんさく",
+      "meaning": "sự làm giả"
+    },
+    {
+      "word": "贋造",
+      "reading": "がんぞう",
+      "meaning": "sự giả mạo"
+    }
+  ]
+}

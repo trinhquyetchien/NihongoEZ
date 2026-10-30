@@ -1,0 +1,138 @@
+{
+  "kanji": "艇",
+  "meta": {
+    "weight": 2243,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "ĐĨNH"
+  },
+  "meaning": {
+    "vi": "thuyền chèo, thuyền nhỏ",
+    "en": "rowboat, small boat"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/艇.svg"
+  },
+  "frequency": 1433,
+  "examples": [
+    "艇",
+    "競艇",
+    "艦艇"
+  ],
+  "explanation": {
+    "id": "5588",
+    "text": "艇 (đọc là \"tei\") có nghĩa là \"thuyền nhỏ\" hoặc \"xuồng\", chỉ các loại tàu thuyền nhỏ dùng để di chuyển trên nước."
+  },
+  "comments": [
+    {
+      "id": "156442",
+      "lang": "vi",
+      "content_html": "<p>thuyền dùng ở đình chỉ có các loại đĩnh (thuyền nhỏ )</p>",
+      "content_text": "thuyền dùng ở đình chỉ có các loại đĩnh (thuyền nhỏ )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156443",
+      "lang": "vi",
+      "content_html": "<p>cái thuyền của vua đi nhìn ĐĨNH vê lờ</p>",
+      "content_text": "cái thuyền của vua đi nhìn ĐĨNH vê lờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156444",
+      "lang": "vi",
+      "content_html": "<p>cái thuyền nhỏ của vua đi Đình ( đình làng) nhìn Đỉnh (~) vê lờ</p>",
+      "content_text": "cái thuyền nhỏ của vua đi Đình ( đình làng) nhìn Đỉnh (~) vê lờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "艇",
+      "reading": "てい",
+      "meaning": "thuyền"
+    },
+    {
+      "word": "艇庫",
+      "reading": "ていこ",
+      "meaning": "kho đặt trên tàu"
+    },
+    {
+      "word": "漕艇",
+      "reading": "そうてい",
+      "meaning": "sự chèo thuyền"
+    },
+    {
+      "word": "舟艇",
+      "reading": "しゅうてい",
+      "meaning": "tàu nhỏ"
+    },
+    {
+      "word": "艦艇",
+      "reading": "かんてい",
+      "meaning": "đoàn xe"
+    },
+    {
+      "word": "競艇",
+      "reading": "きょうてい",
+      "meaning": "cuộc đua thuyền máy"
+    },
+    {
+      "word": "汽艇",
+      "reading": "きてい",
+      "meaning": "sự hạ thuỷ"
+    },
+    {
+      "word": "短艇",
+      "reading": "たんてい",
+      "meaning": "tàu thuyền"
+    },
+    {
+      "word": "艇首",
+      "reading": "ていしゅ",
+      "meaning": "mũi thuyền"
+    },
+    {
+      "word": "艇身",
+      "reading": "ていしん",
+      "meaning": "chiều dài của tàu"
+    }
+  ]
+}

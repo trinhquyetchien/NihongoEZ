@@ -1,0 +1,85 @@
+{
+  "kanji": "篠",
+  "meta": {
+    "weight": 2013,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ",
+      "ショウ"
+    ],
+    "kun": [
+      "しの",
+      "ささ",
+      "すず"
+    ],
+    "am_han": "TIỂU"
+  },
+  "meaning": {
+    "vi": "cỏ tre",
+    "en": "bamboo grass"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/篠.svg"
+  },
+  "frequency": 1556,
+  "examples": [
+    "篠原",
+    "篠"
+  ],
+  "explanation": {
+    "id": "3300",
+    "text": "篠 (đọc là \"shou\") có nghĩa là \"cỏ mỏng\", thường chỉ những loại cỏ nhỏ, mảnh hoặc một số loại cây trồng."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "篠",
+      "reading": "ささ",
+      "meaning": "loại cây tre nhỏ và mọc thành từng cụm"
+    },
+    {
+      "word": "篠笹",
+      "reading": "しのざさ",
+      "meaning": "trúc"
+    },
+    {
+      "word": "篠竹",
+      "reading": "ささたけ",
+      "meaning": "tre sasamorpha borealis"
+    },
+    {
+      "word": "篠笛",
+      "reading": "しのぶえ",
+      "meaning": "sáo shinobue"
+    },
+    {
+      "word": "篠突く",
+      "reading": "しのつく",
+      "meaning": "đổ"
+    },
+    {
+      "word": "篠突く雨",
+      "reading": "しのつくあめ",
+      "meaning": "mưa dữ dội"
+    },
+    {
+      "word": "篠を突く",
+      "reading": "しのをつく",
+      "meaning": "rót"
+    },
+    {
+      "word": "長篠の戦い",
+      "reading": "ながしののたたかい",
+      "meaning": "trận nagashino"
+    },
+    {
+      "word": "アメリカ篠懸の木",
+      "reading": "アメリカすずかけのき",
+      "meaning": "cây sa mộc châu mỹ"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "kanji": "桂",
+  "meta": {
+    "weight": 1348,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かつら"
+    ],
+    "am_han": "QUẾ"
+  },
+  "meaning": {
+    "vi": "Cây Judas Nhật Bản, cây quế",
+    "en": "Japanese Judas-tree, cinnamon tree"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桂.svg"
+  },
+  "frequency": 1651,
+  "examples": [
+    "桂"
+  ],
+  "explanation": {
+    "id": "1988",
+    "text": "桂 (đọc là \"kei\") có nghĩa là \"cây quế\" hoặc \"cành cây\" để chỉ các loại cây có mùi thơm, thường được dùng trong ẩm thực và văn hóa."
+  },
+  "comments": [
+    {
+      "id": "154504",
+      "lang": "vi",
+      "content_html": "<p>Trong miếng đất của bác sĩ Khuê có trồng cây Quế.</p>",
+      "content_text": "Trong miếng đất của bác sĩ Khuê có trồng cây Quế.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154505",
+      "lang": "vi",
+      "content_html": "<p>trồng cây quế trên 2 mảnh đất</p>",
+      "content_text": "trồng cây quế trên 2 mảnh đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桂",
+      "reading": "かつら",
+      "meaning": "cây katsura"
+    },
+    {
+      "word": "肉桂",
+      "reading": "にっけい",
+      "meaning": "cây quế"
+    },
+    {
+      "word": "桂庵",
+      "reading": "けいあん",
+      "meaning": "nơi đăng ký những người hầu"
+    },
+    {
+      "word": "桂皮",
+      "reading": "けいひ",
+      "meaning": "quế"
+    },
+    {
+      "word": "桂冠",
+      "reading": "けいかん",
+      "meaning": "suy tôn vinh dự"
+    },
+    {
+      "word": "桂月",
+      "reading": "けいげつ",
+      "meaning": "mặt trăng"
+    },
+    {
+      "word": "桂男",
+      "reading": "かつらおとこ",
+      "meaning": "người đàn ông trong mặt trăng"
+    },
+    {
+      "word": "桂林",
+      "reading": "けいりん",
+      "meaning": "rừng quế"
+    },
+    {
+      "word": "桂馬",
+      "reading": "けいま",
+      "meaning": "hiệp sĩ"
+    },
+    {
+      "word": "月桂",
+      "reading": "げっけい",
+      "meaning": "cây nguyệt quế"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kanji": "鰍",
+  "meta": {
+    "weight": 2985,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "シュ"
+    ],
+    "kun": [
+      "かじか",
+      "いなだ",
+      "どじょう"
+    ],
+    "am_han": "THU"
+  },
+  "meaning": {
+    "vi": "đầu bò",
+    "en": "bullhead"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/鰍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "966",
+    "text": "鰍 (đọc là \"kawa-yu\") có nghĩa là \"cá trắm,\" một loại cá cả nước ngọt."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鰍",
+      "reading": "かじか",
+      "meaning": "cá bống biển"
+    }
+  ]
+}

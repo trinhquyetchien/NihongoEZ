@@ -1,0 +1,159 @@
+{
+  "kanji": "民",
+  "meta": {
+    "weight": 1478,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミン"
+    ],
+    "kun": [
+      "たみ"
+    ],
+    "am_han": "DÂN"
+  },
+  "meaning": {
+    "vi": "dân tộc",
+    "en": "people, nation, subjects"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/民.svg"
+  },
+  "frequency": 28,
+  "examples": [
+    "国民",
+    "市民",
+    "住民",
+    "民間",
+    "民族"
+  ],
+  "explanation": {
+    "id": "7506",
+    "text": "民 (đọc là \"min\") có nghĩa là \"dân\" để chỉ người dân, nhân dân hoặc cộng đồng."
+  },
+  "comments": [
+    {
+      "id": "36920",
+      "lang": "vi",
+      "content_html": "<p>Người <strong>dân </strong>đều có miệng và họ tên.</p>",
+      "content_text": "Người\ndân\nđều có miệng và họ tên.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4194b786d.jpg",
+      "image_path": "assets/images/民_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154745",
+      "lang": "vi",
+      "content_html": "<p>Người, dân gọi 口 nhau bằng họ tên 氏</p>",
+      "content_text": "Người, dân gọi 口 nhau bằng họ tên 氏",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158997",
+      "lang": "vi",
+      "content_html": "<p>Chữ 民 trong tiếng Nhật được phát âm là min. Nó có nghĩa là \"người dân\" hoặc \"dân tộc\".</p><p>Ví dụ, từ 民主 (minshu) có nghĩa là \"dân chủ\" hoặc \"chủ nghĩa dân chủ\". Chữ 民 cũng có thể xuất hiện trong các từ khác như 民族 (minzoku) có nghĩa là \"dân tộc\" hoặc 民意 (mini) có nghĩa là \"ý kiến của dân\".</p>",
+      "content_text": "Chữ 民 trong tiếng Nhật được phát âm là min. Nó có nghĩa là \"người dân\" hoặc \"dân tộc\".\nVí dụ, từ 民主 (minshu) có nghĩa là \"dân chủ\" hoặc \"chủ nghĩa dân chủ\". Chữ 民 cũng có thể xuất hiện trong các từ khác như 民族 (minzoku) có nghĩa là \"dân tộc\" hoặc 民意 (mini) có nghĩa là \"ý kiến của dân\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "154746",
+      "lang": "vi",
+      "content_html": "<p>Thị nở (氏) há Mồm ngáp (口 KHẨU) toàn Dân ngất hết.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Thị nở (氏) há Mồm ngáp (口 KHẨU) toàn Dân ngất hết.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "民",
+      "reading": "みん",
+      "meaning": "dân"
+    },
+    {
+      "word": "民民規制",
+      "reading": "みんみんきせい",
+      "meaning": "thỏa thuận giữa các công ty tư nhân"
+    },
+    {
+      "word": "民事法民法",
+      "reading": "みんじほうみんぽう",
+      "meaning": "luật dân sự"
+    },
+    {
+      "word": "民放",
+      "reading": "みんぽう",
+      "meaning": "đài truyền hình tư nhân"
+    },
+    {
+      "word": "民主人民共和国",
+      "reading": "みんしゅじんみんきょうわこく",
+      "meaning": "nước cộng hòa dân chủ nhân dân"
+    },
+    {
+      "word": "民青",
+      "reading": "みんせい",
+      "meaning": "thanh niên dân chủ liên hiệp lại nhật bản"
+    },
+    {
+      "word": "庶民",
+      "reading": "しょみん",
+      "meaning": "dân đen"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "dân gian"
+    },
+    {
+      "word": "民地",
+      "reading": "みんち",
+      "meaning": "phần đất tiếp giáp với khu dân cư"
+    },
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "thị dân"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "渠",
+  "meta": {
+    "weight": 1574,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "かれ",
+      "なんぞ",
+      "なに",
+      "みぞ",
+      "いずくんぞ"
+    ],
+    "am_han": "CỪ"
+  },
+  "meaning": {
+    "vi": "mương, kênh, âu thuyền",
+    "en": "ditch, canal, lock"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/渠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1585",
+    "text": "渠 (đọc là \"kyo\") có nghĩa là \"mương\", \"kênh\" để chỉ các hệ thống thủy lợi hoặc đường dẫn nước."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "溝渠",
+      "reading": "こうきょ",
+      "meaning": "mương rãnh"
+    },
+    {
+      "word": "函渠",
+      "reading": "かんきょ",
+      "meaning": "ống dẫn nước thải có bề mặt cắt ngang hình vuông"
+    },
+    {
+      "word": "入渠",
+      "reading": "にゅうきょ",
+      "meaning": "sự vào xưởng sửa chữa"
+    },
+    {
+      "word": "出渠",
+      "reading": "しゅっきょ",
+      "meaning": "rời bến"
+    },
+    {
+      "word": "渠魁",
+      "reading": "きょかい",
+      "meaning": "đầu sỏ"
+    },
+    {
+      "word": "暗渠",
+      "reading": "あんきょ",
+      "meaning": "ống thoát nước ngầm"
+    },
+    {
+      "word": "渠河",
+      "reading": "きょが",
+      "meaning": "dòng sông"
+    },
+    {
+      "word": "管渠",
+      "reading": "かんきょ",
+      "meaning": "ống thoát nước"
+    },
+    {
+      "word": "明渠",
+      "reading": "めいきょ",
+      "meaning": "cống thoát nước dạng hở"
+    },
+    {
+      "word": "開渠",
+      "reading": "かいきょ",
+      "meaning": "hố đào lộ thiên"
+    }
+  ]
+}

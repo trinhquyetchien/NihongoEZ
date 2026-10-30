@@ -1,0 +1,86 @@
+{
+  "kanji": "鮒",
+  "meta": {
+    "weight": 2975,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "フ",
+      "ブ"
+    ],
+    "kun": [
+      "ふな"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "cá chép",
+    "en": "carp"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鮒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6942",
+    "text": "鮒 (đọc là \"bu\") có nghĩa là \"cá chép\" hoặc \"cá nước ngọt\" để chỉ một loại cá thường gặp trong các ao, hồ ở Nhật Bản."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "鮒",
+      "reading": "ふな",
+      "meaning": "cá giếc"
+    },
+    {
+      "word": "寒鮒",
+      "reading": "かんぶな",
+      "meaning": "giống cá chép bị bắt trong giữa mùa đông"
+    },
+    {
+      "word": "金鮒",
+      "reading": "きんぶな",
+      "meaning": "carassius buergeri"
+    },
+    {
+      "word": "鮒侍",
+      "reading": "ふなざむらい",
+      "meaning": "samurai hèn nhát"
+    },
+    {
+      "word": "轍鮒",
+      "reading": "てっぷ",
+      "meaning": "đối với một con cá diếc có nguy cơ bị khô cạn trong vết xe trên đường"
+    },
+    {
+      "word": "銀鮒",
+      "reading": "ぎんぶな",
+      "meaning": "cá diếc"
+    },
+    {
+      "word": "朝鮮鮒",
+      "reading": "ちょうせんぶな",
+      "meaning": "roundtail paradisefish"
+    },
+    {
+      "word": "煮頃鮒",
+      "reading": "にごろぶな",
+      "meaning": "cá diếc luộc"
+    },
+    {
+      "word": "鮒寿司",
+      "reading": "ふなずし",
+      "meaning": "món cá funazushi"
+    },
+    {
+      "word": "轍鮒の急",
+      "reading": "てっぷのきゅう",
+      "meaning": "nguy hiểm sắp xảy ra"
+    }
+  ]
+}

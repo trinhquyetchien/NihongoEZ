@@ -1,0 +1,143 @@
+{
+  "kanji": "値",
+  "meta": {
+    "weight": 216,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "ね",
+      "あたい"
+    ],
+    "am_han": "TRỊ"
+  },
+  "meaning": {
+    "vi": "giá trị",
+    "en": "price, cost, value"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/値.svg"
+  },
+  "frequency": 518,
+  "examples": [
+    "価値",
+    "値",
+    "値段",
+    "数値",
+    "値上げ"
+  ],
+  "explanation": {
+    "id": "5193",
+    "text": "値 (đọc là \"ati\" hoặc \"chi\") có nghĩa là \"giá trị\", \"giá cả\" để chỉ sự định giá hoặc mức độ quan trọng của một cái gì đó."
+  },
+  "comments": [
+    {
+      "id": "151732",
+      "lang": "vi",
+      "content_html": "<p>Con NGƯỜI mà chính TRỰC, ngay thẳng là người có giá TRỊ</p>",
+      "content_text": "Con NGƯỜI mà chính TRỰC, ngay thẳng là người có giá TRỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151733",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI chính TRỰC mới có giá TRỊ</p>",
+      "content_text": "NGƯỜI chính TRỰC mới có giá TRỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151734",
+      "lang": "vi",
+      "content_html": "<p>1 Người đang sờ Trực tiếp vào cái bình giá TRỊ</p>",
+      "content_text": "1 Người đang sờ Trực tiếp vào cái bình giá TRỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "値",
+      "reading": "あたい",
+      "meaning": "giá trị"
+    },
+    {
+      "word": "絶対極値(極大値と極小値)",
+      "reading": "ぜったいきょくち(きょくだいちときょくしょうち)",
+      "meaning": "giá trị cực trị tuyệt đối"
+    },
+    {
+      "word": "最大値・最小値",
+      "reading": "さいだいち・さいしょうち",
+      "meaning": "giá trị cực đại-giá trị cực tiểu"
+    },
+    {
+      "word": "終値成立値幅",
+      "reading": "おわりねせいりつねはば",
+      "meaning": "phạm vi thiết lập giá đóng cửa"
+    },
+    {
+      "word": "ハッシュ値",
+      "reading": "ハッシュち",
+      "meaning": "giá trị băm"
+    },
+    {
+      "word": "値上",
+      "reading": "ねあげ",
+      "meaning": "sự tăng giá"
+    },
+    {
+      "word": "値下",
+      "reading": "ねさげ",
+      "meaning": "giá đã giảm"
+    },
+    {
+      "word": "極値",
+      "reading": "きょくち",
+      "meaning": "điểm cực trị"
+    },
+    {
+      "word": "終値",
+      "reading": "おわりね",
+      "meaning": "giá cuối ngày"
+    },
+    {
+      "word": "高値",
+      "reading": "たかね",
+      "meaning": "giá cao"
+    }
+  ]
+}

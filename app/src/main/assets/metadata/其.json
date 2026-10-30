@@ -1,0 +1,142 @@
+{
+  "kanji": "其",
+  "meta": {
+    "weight": 275,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ギ",
+      "ゴ"
+    ],
+    "kun": [
+      "それ",
+      "その"
+    ],
+    "am_han": "KÌ, KÝ, KI"
+  },
+  "meaning": {
+    "vi": "điều đó",
+    "en": "that"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/其.svg"
+  },
+  "frequency": 1930,
+  "examples": [
+    "其",
+    "其の"
+  ],
+  "explanation": {
+    "id": "4823",
+    "text": "其 (đọc là \"ki\" hoặc \"son\") có nghĩa là \"cái đó\", \"nó\", thường dùng để chỉ một đối tượng hoặc khái niệm đã được nhắc đến trước đó."
+  },
+  "comments": [
+    {
+      "id": "151880",
+      "lang": "vi",
+      "content_html": "<p>dụng CỤ gì mà KÌ quái có 2 tai (vì thừa 4 cái phẩy trên đầu chữ CỤ)</p>",
+      "content_text": "dụng CỤ gì mà KÌ quái có 2 tai (vì thừa 4 cái phẩy trên đầu chữ CỤ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151881",
+      "lang": "vi",
+      "content_html": "<p>耳 tai 具 cụ thật là kì 其</p>",
+      "content_text": "耳 tai 具 cụ thật là kì 其",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151882",
+      "lang": "vi",
+      "content_html": "<p>Kì quặc Trên người có tận Tám cái Tai.</p>",
+      "content_text": "Kì quặc Trên người có tận Tám cái Tai.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "其",
+      "reading": "そ",
+      "meaning": "cái đó"
+    },
+    {
+      "word": "其其",
+      "reading": "そそ",
+      "meaning": "mỗi"
+    },
+    {
+      "word": "其れ其れ",
+      "reading": "それぞれ",
+      "meaning": "mỗi"
+    },
+    {
+      "word": "其れも其のはず",
+      "reading": "それもそのはず",
+      "meaning": "lẽ đương nhiên"
+    },
+    {
+      "word": "其の",
+      "reading": "その",
+      "meaning": "cái đó"
+    },
+    {
+      "word": "其方",
+      "reading": "そちら",
+      "meaning": "nơi đó"
+    },
+    {
+      "word": "其奴",
+      "reading": "そいつ",
+      "meaning": "người đó"
+    },
+    {
+      "word": "其処",
+      "reading": "そこ",
+      "meaning": "chỗ đó"
+    },
+    {
+      "word": "其々",
+      "reading": "そそ",
+      "meaning": "mỗi"
+    },
+    {
+      "word": "其れ",
+      "reading": "それ",
+      "meaning": "nó"
+    }
+  ]
+}

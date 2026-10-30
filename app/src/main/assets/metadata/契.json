@@ -1,0 +1,139 @@
+{
+  "kanji": "契",
+  "meta": {
+    "weight": 635,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "ちぎ.る"
+    ],
+    "am_han": "KHẾ, TIẾT, KHIẾT, KHẤT"
+  },
+  "meaning": {
+    "vi": "cam kết, lời hứa, lời thề",
+    "en": "pledge, promise, vow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/契.svg"
+  },
+  "frequency": 898,
+  "examples": [
+    "契約",
+    "契機"
+  ],
+  "explanation": {
+    "id": "1955",
+    "text": "契 (đọc là \"ki\") có nghĩa là \"hợp đồng\", \"cam kết\" để chỉ các hành động liên quan đến việc lập thỏa thuận hoặc ký kết."
+  },
+  "comments": [
+    {
+      "id": "152760",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ cầm đao to làm Khế ước</p>",
+      "content_text": "Ông chủ cầm đao to làm Khế ước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152761",
+      "lang": "vi",
+      "content_html": "<p>Khế ước về phân chia 2 miếng đất to</p>",
+      "content_text": "Khế ước về phân chia 2 miếng đất to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152762",
+      "lang": "vi",
+      "content_html": "<p>喫 Khiết ( ăn uống ) có bộ Khẩu 口 . 契 Khiết ( hợp đồng ) không có bộ Khẩu. Cách nhớ : 契 ( hợp đồng ) của t tất nhiên không có cái mõm của mày rồi :))</p>",
+      "content_text": "喫 Khiết ( ăn uống ) có bộ Khẩu 口 . 契 Khiết ( hợp đồng ) không có bộ Khẩu. Cách nhớ : 契 ( hợp đồng ) của t tất nhiên không có cái mõm của mày rồi :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "契約",
+      "reading": "けいやく",
+      "meaning": "giao kèo"
+    },
+    {
+      "word": "印契",
+      "reading": "いんげい",
+      "meaning": "thủ ấn"
+    },
+    {
+      "word": "契印",
+      "reading": "けいいん",
+      "meaning": "đóng dấu vào hai hợp đồng"
+    },
+    {
+      "word": "契り",
+      "reading": "ちぎり",
+      "meaning": "ước định"
+    },
+    {
+      "word": "契る",
+      "reading": "ちぎる",
+      "meaning": "thề ước"
+    },
+    {
+      "word": "幽契",
+      "reading": "ゆうけい",
+      "meaning": "lời hứa bí mật"
+    },
+    {
+      "word": "契合",
+      "reading": "けいごう",
+      "meaning": "sự trùng hợp những quan điểm"
+    },
+    {
+      "word": "黙契",
+      "reading": "もっけい",
+      "meaning": "thỏa thuận ẩn"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "thời cơ"
+    },
+    {
+      "word": "契丹",
+      "reading": "きったん",
+      "meaning": "người khitan"
+    }
+  ]
+}

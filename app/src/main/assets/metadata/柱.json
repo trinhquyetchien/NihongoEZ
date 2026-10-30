@@ -1,0 +1,142 @@
+{
+  "kanji": "柱",
+  "meta": {
+    "weight": 1326,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "はしら"
+    ],
+    "am_han": "TRỤ"
+  },
+  "meaning": {
+    "vi": "trụ, trụ cột",
+    "en": "pillar, post, cylinder, support"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柱.svg"
+  },
+  "frequency": 1119,
+  "examples": [
+    "柱",
+    "電柱",
+    "支柱",
+    "円柱",
+    "大黒柱"
+  ],
+  "explanation": {
+    "id": "5286",
+    "text": "柱 (đọc là \"hashira\") có nghĩa là \"cột\" hoặc \"trụ\", chỉ các vật thể có chức năng nâng đỡ trong kiến trúc hoặc biểu tượng cho sự vững chắc."
+  },
+  "comments": [
+    {
+      "id": "154461",
+      "lang": "vi",
+      "content_html": "<p>cái cột trụ 柱 chủ 主 yếu làm từ thân cây 木</p>",
+      "content_text": "cái cột trụ 柱 chủ 主 yếu làm từ thân cây 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154462",
+      "lang": "vi",
+      "content_html": "<p>Cây chủ chốt là cái cột</p>",
+      "content_text": "Cây chủ chốt là cái cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154463",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ tôi chọn cây này làm trụ cột cho những ngày mưa,,</p>",
+      "content_text": "Ông chủ tôi chọn cây này làm trụ cột cho những ngày mưa,,",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "柱",
+      "reading": "はしら",
+      "meaning": "cột"
+    },
+    {
+      "word": "柱間",
+      "reading": "はしらま",
+      "meaning": "khoảng cách giữa các cột"
+    },
+    {
+      "word": "魂柱",
+      "reading": "こんちゅう",
+      "meaning": "kêu cái trụ"
+    },
+    {
+      "word": "支柱",
+      "reading": "しちゅう",
+      "meaning": "cột chống"
+    },
+    {
+      "word": "炭柱",
+      "reading": "たんちゅう",
+      "meaning": "cột than"
+    },
+    {
+      "word": "心柱",
+      "reading": "しんばしら",
+      "meaning": "cột trụ trung tâm"
+    },
+    {
+      "word": "袖柱",
+      "reading": "そでばしら",
+      "meaning": "trụ nhỏ để gia cố bên trái và bên phải của trụ chính"
+    },
+    {
+      "word": "肉柱",
+      "reading": "にくちゅう",
+      "meaning": "adductor muscle"
+    },
+    {
+      "word": "鷹柱",
+      "reading": "たかばしら",
+      "meaning": "nhóm chim ó"
+    },
+    {
+      "word": "茶柱",
+      "reading": "ちゃばしら",
+      "meaning": "dấu hiện điềm lành"
+    }
+  ]
+}

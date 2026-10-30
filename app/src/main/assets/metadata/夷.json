@@ -1,0 +1,109 @@
+{
+  "kanji": "夷",
+  "meta": {
+    "weight": 629,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "えびす",
+      "えみし",
+      "ころ.す",
+      "たい.らげる"
+    ],
+    "am_han": "DI"
+  },
+  "meaning": {
+    "vi": "man rợ, Ainu",
+    "en": "barbarian, savage, Ainu"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/夷.svg"
+  },
+  "frequency": 2324,
+  "examples": [
+    "夷",
+    "蝦夷",
+    "攘夷"
+  ],
+  "explanation": {
+    "id": "128",
+    "text": "夷 (đọc là \"i\") có nghĩa là \"dân tộc man di\", thường chỉ các dân tộc sống ở vùng biên giới hoặc một cách khái quát hơn là người nước ngoài, đặc biệt trong bối cảnh lịch sử Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "152746",
+      "lang": "vi",
+      "content_html": "<p>chỉ cần 1 cây cung lớn có thể san bằng mọi địa hình</p>",
+      "content_text": "chỉ cần 1 cây cung lớn có thể san bằng mọi địa hình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "夷",
+      "reading": "えびす",
+      "meaning": "người man di"
+    },
+    {
+      "word": "夷則",
+      "reading": "いそく",
+      "meaning": "nốt thứ 9 trong hệ thống âm nhạc cổ trung quốc"
+    },
+    {
+      "word": "四夷",
+      "reading": "しい",
+      "meaning": "tứ di"
+    },
+    {
+      "word": "夷草",
+      "reading": "えびすぐさ",
+      "meaning": "thảo quyết minh"
+    },
+    {
+      "word": "蝦夷",
+      "reading": "えみし",
+      "meaning": "tên&nbsp"
+    },
+    {
+      "word": "夷人",
+      "reading": "いじん",
+      "meaning": "người man rợ"
+    },
+    {
+      "word": "夷俗",
+      "reading": "いぞく",
+      "meaning": "những phong tục những người man rợ"
+    },
+    {
+      "word": "蕃夷",
+      "reading": "ばんい",
+      "meaning": "người tàn bạo"
+    },
+    {
+      "word": "蛮夷",
+      "reading": "ばんい",
+      "meaning": "hoang vu"
+    },
+    {
+      "word": "夷狄",
+      "reading": "いてき",
+      "meaning": "người tiền sử"
+    }
+  ]
+}

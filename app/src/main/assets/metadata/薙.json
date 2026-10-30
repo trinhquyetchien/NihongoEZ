@@ -1,0 +1,82 @@
+{
+  "kanji": "薙",
+  "meta": {
+    "weight": 2350,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "チ"
+    ],
+    "kun": [
+      "な.ぐ",
+      "なぎ",
+      "か.る"
+    ],
+    "am_han": "THẾ, TRĨ"
+  },
+  "meaning": {
+    "vi": "cắt giảm (kẻ thù)",
+    "en": "mow down (the enemy)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6050",
+    "text": "薙 (đọc là \"taku\" hoặc \"nagi\") có nghĩa là \"cắt đứt\" hoặc \"dọn dẹp\" để chỉ hành động cắt tỉa cây cỏ hoặc làm sạch một khu vực."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "薙ぐ",
+      "reading": "なぐ",
+      "meaning": "cạo đầu"
+    },
+    {
+      "word": "薙刀",
+      "reading": "なぎなた",
+      "meaning": "cây kích"
+    },
+    {
+      "word": "薙刀術",
+      "reading": "なぎなたじゅつ",
+      "meaning": "nghệ thuật việc sử dụng một naginata"
+    },
+    {
+      "word": "水薙鳥",
+      "reading": "みずなぎどり",
+      "meaning": "các loài chim biển thuộc họ petrel"
+    },
+    {
+      "word": "横薙ぎ",
+      "reading": "よこなぎ",
+      "meaning": "sự chém theo chiều ngang"
+    },
+    {
+      "word": "草薙の剣",
+      "reading": "くさなぎのつるぎ",
+      "meaning": "thanh kiếm kusanagi"
+    },
+    {
+      "word": "大水薙鳥",
+      "reading": "おおみずなぎどり",
+      "meaning": "chim hải âu đuôi ngắn"
+    },
+    {
+      "word": "薙ぎ倒す",
+      "reading": "なぎたおす",
+      "meaning": "làm đổ rạp xuống"
+    },
+    {
+      "word": "薙ぎ払う",
+      "reading": "なぎはらう",
+      "meaning": "chặt ngang"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "邦",
+  "meta": {
+    "weight": 2697,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "くに"
+    ],
+    "am_han": "BANG"
+  },
+  "meaning": {
+    "vi": "quê hương, đất nước, nhật bản",
+    "en": "home country, country, Japan"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/邦.svg"
+  },
+  "frequency": 654,
+  "examples": [
+    "連邦",
+    "邦人",
+    "邦訳",
+    "邦題",
+    "邦"
+  ],
+  "explanation": {
+    "id": "7227",
+    "text": "邦 (đọc là \"bō\") có nghĩa là \"quốc gia\", \"đất nước\" để chỉ các khái niệm liên quan đến tình trạng quốc gia, lãnh thổ hoặc cộng đồng."
+  },
+  "comments": [
+    {
+      "id": "157427",
+      "lang": "vi",
+      "content_html": "<p>13 bức tường tạo nên liên bang</p>",
+      "content_text": "13 bức tường tạo nên liên bang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157428",
+      "lang": "vi",
+      "content_html": "<p>13 Bộ tộc tạo thành 1 Bang( quốc gia)</p>",
+      "content_text": "13 Bộ tộc tạo thành 1 Bang( quốc gia)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157429",
+      "lang": "vi",
+      "content_html": "<p>1 Ấp đất chia ra 3 Bang</p>",
+      "content_text": "1 Ấp đất chia ra 3 Bang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "邦",
+      "reading": "くに",
+      "meaning": "nước"
+    },
+    {
+      "word": "邦船",
+      "reading": "ほうせん",
+      "meaning": "tàu nhật bản"
+    },
+    {
+      "word": "東邦",
+      "reading": "とうほう",
+      "meaning": "nước phương đông"
+    },
+    {
+      "word": "同邦",
+      "reading": "どうほう",
+      "meaning": "cùng nước đó"
+    },
+    {
+      "word": "邦題",
+      "reading": "ほうだい",
+      "meaning": "tựa đề bằng tiếng nhật cho tác phẩm nước ngoài"
+    },
+    {
+      "word": "邦人",
+      "reading": "ほうじん",
+      "meaning": "người bản quốc"
+    },
+    {
+      "word": "友邦",
+      "reading": "ゆうほう",
+      "meaning": "dân tộc thân thiện"
+    },
+    {
+      "word": "万邦",
+      "reading": "ばんぽう",
+      "meaning": "tất cả các dân tộc"
+    },
+    {
+      "word": "邦画",
+      "reading": "ほうが",
+      "meaning": "tiếng nhật quay phim"
+    },
+    {
+      "word": "邦訳",
+      "reading": "ほうやく",
+      "meaning": "bản dịch vào trong tiếng nhật"
+    }
+  ]
+}

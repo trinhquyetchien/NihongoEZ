@@ -1,0 +1,145 @@
+{
+  "kanji": "頃",
+  "meta": {
+    "weight": 2898,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "ころ",
+      "ごろ",
+      "しばら.く"
+    ],
+    "am_han": "KHOẢNH, KHUYNH, KHUỂ"
+  },
+  "meaning": {
+    "vi": "thời gian, về, hướng tới",
+    "en": "time, about, toward"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/頃.svg"
+  },
+  "frequency": 2015,
+  "examples": [
+    "頃",
+    "日頃",
+    "この頃",
+    "今頃",
+    "近頃"
+  ],
+  "explanation": {
+    "id": "2676",
+    "text": "頃 (đọc là \"koro\") có nghĩa là \"khoảng thời gian\", \"thời điểm\", thường được sử dụng để chỉ một khoảng thời gian không xác định trong quá khứ hoặc tương lai."
+  },
+  "comments": [
+    {
+      "id": "157865",
+      "lang": "vi",
+      "content_html": "<p>Khi nhìn thấy cái thìa 匕, trong đầu 頁 nhớ đến ngay Khoảnh khắc ăn uống</p>",
+      "content_text": "Khi nhìn thấy cái thìa 匕, trong đầu 頁 nhớ đến ngay Khoảnh khắc ăn uống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157866",
+      "lang": "vi",
+      "content_html": "<p>KHOẢNH khắc lúc ăn vội vàng = Thìa Giấy là KHOẢNG trưa</p>",
+      "content_text": "KHOẢNH khắc lúc ăn vội vàng = Thìa Giấy là KHOẢNG trưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157867",
+      "lang": "vi",
+      "content_html": "<p>Khoảnh khắc khi nhìn thấy cái Thìa Đầu tiên là nghĩ đến ăn uống.</p>",
+      "content_text": "Khoảnh khắc khi nhìn thấy cái Thìa Đầu tiên là nghĩ đến ăn uống.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "頃",
+      "reading": "ころ",
+      "meaning": "vào khoảng"
+    },
+    {
+      "word": "年頃日頃",
+      "reading": "としごろひごろ",
+      "meaning": "những ngày này"
+    },
+    {
+      "word": "日頃",
+      "reading": "ひごろ",
+      "meaning": "thông thường"
+    },
+    {
+      "word": "見頃",
+      "reading": "みごろ",
+      "meaning": "thời gian tốt nhất để xem"
+    },
+    {
+      "word": "近頃",
+      "reading": "ちかごろ",
+      "meaning": "gần đây"
+    },
+    {
+      "word": "月頃",
+      "reading": "つきごろ",
+      "meaning": "những tháng đã qua này"
+    },
+    {
+      "word": "一頃",
+      "reading": "ひところ",
+      "meaning": "trước kia"
+    },
+    {
+      "word": "万頃",
+      "reading": "ばんけい",
+      "meaning": "một khoảng không gian mênh mông"
+    },
+    {
+      "word": "頃刻",
+      "reading": "けいこく",
+      "meaning": "khoảnh khắc"
+    },
+    {
+      "word": "頃合",
+      "reading": "ころあい",
+      "meaning": "thời gian tốt"
+    }
+  ]
+}

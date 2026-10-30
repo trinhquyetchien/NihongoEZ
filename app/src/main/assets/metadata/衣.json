@@ -1,0 +1,145 @@
+{
+  "kanji": "衣",
+  "meta": {
+    "weight": 2408,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "エ"
+    ],
+    "kun": [
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "am_han": "Y"
+  },
+  "meaning": {
+    "vi": "y phục, quần áo",
+    "en": "garment, clothes, dressing"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/衣.svg"
+  },
+  "frequency": 1214,
+  "examples": [
+    "衣装",
+    "衣",
+    "衣服",
+    "浴衣",
+    "衣類"
+  ],
+  "explanation": {
+    "id": "179",
+    "text": "衣 (đọc là \"i\") có nghĩa là \"áo quần\", \"vải\", chỉ các vật dụng liên quan đến trang phục hoặc che chắn cơ thể."
+  },
+  "comments": [
+    {
+      "id": "156715",
+      "lang": "vi",
+      "content_html": "<p>I ngắn và Y dài thêm đầu thành Y phục</p>",
+      "content_text": "I ngắn và Y dài thêm đầu thành Y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156716",
+      "lang": "vi",
+      "content_html": "<p>Y phục của Người kia gồm mũ giày và găng tay</p>",
+      "content_text": "Y phục của Người kia gồm mũ giày và găng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156717",
+      "lang": "vi",
+      "content_html": "<p>(câu truyện bộ Y phục ma quái bắt đầu)<br><br>Cái đầu đơn giản, rồi lại... i hi<br>mọi người sinh nghi, HOÁ ra Y phục<br>亠 ĐẦU + 化 - HÓA = Y - 衣</p>",
+      "content_text": "(câu truyện bộ Y phục ma quái bắt đầu)\nCái đầu đơn giản, rồi lại... i hi\nmọi người sinh nghi, HOÁ ra Y phục\n亠 ĐẦU + 化 - HÓA = Y - 衣",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "衣",
+      "reading": "ころも",
+      "meaning": "trang phục"
+    },
+    {
+      "word": "上衣",
+      "reading": "うわぎ",
+      "meaning": "áo khoác"
+    },
+    {
+      "word": "恋衣",
+      "reading": "こいごろも",
+      "meaning": "chiếc áo gắn liền với tình yêu"
+    },
+    {
+      "word": "衣料",
+      "reading": "いりょう",
+      "meaning": "quần áo"
+    },
+    {
+      "word": "衣服",
+      "reading": "いふく",
+      "meaning": "đồ mặc"
+    },
+    {
+      "word": "布衣",
+      "reading": "ほい",
+      "meaning": "người dân thường"
+    },
+    {
+      "word": "狩衣",
+      "reading": "かりぎぬ",
+      "meaning": "kariginu"
+    },
+    {
+      "word": "衣虱",
+      "reading": "ころもじらみ",
+      "meaning": "chấy rận"
+    },
+    {
+      "word": "寛衣",
+      "reading": "かんい",
+      "meaning": "quần áo rộng rãi"
+    },
+    {
+      "word": "軍衣",
+      "reading": "ぐんい",
+      "meaning": "quần áo của binh lính trong quân đội"
+    }
+  ]
+}

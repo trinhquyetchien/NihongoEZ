@@ -1,0 +1,130 @@
+{
+  "kanji": "凱",
+  "meta": {
+    "weight": 303,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "かちどき",
+      "やわらぐ"
+    ],
+    "am_han": "KHẢI"
+  },
+  "meaning": {
+    "vi": "bài ca chiến thắng",
+    "en": "victory song"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/凱.svg"
+  },
+  "frequency": 2293,
+  "examples": [
+    "凱旋"
+  ],
+  "explanation": {
+    "id": "822",
+    "text": "凱 (đọc là \"kai\") có nghĩa là \"chiến thắng\", thường dùng để chỉ niềm vui hoặc hạnh phúc sau một cuộc chiến thắng."
+  },
+  "comments": [
+    {
+      "id": "151949",
+      "lang": "vi",
+      "content_html": "<p>nhân ngày Kỉ niệm Anh Đậu lên Núi hát \"khúc ca KHẢI hoàn\"</p>",
+      "content_text": "nhân ngày Kỉ niệm Anh Đậu lên Núi hát \"khúc ca KHẢI hoàn\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151950",
+      "lang": "vi",
+      "content_html": "<p>Quân lính thắng trận về kê bàn dưới chân núi ăn hạt đậu, tấu khúc Khải hoàn ca</p>",
+      "content_text": "Quân lính thắng trận về kê bàn dưới chân núi ăn hạt đậu, tấu khúc Khải hoàn ca",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151951",
+      "lang": "vi",
+      "content_html": "<p>Dưới núi những hạt đậu to như cái bàn nên hát khúc ca KHẢI hoàn</p>",
+      "content_text": "Dưới núi những hạt đậu to như cái bàn nên hát khúc ca KHẢI hoàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "凱",
+      "reading": "がい",
+      "meaning": "bài hát chiến thắng"
+    },
+    {
+      "word": "凱歌",
+      "reading": "がいか",
+      "meaning": "bài hát chiến thắng"
+    },
+    {
+      "word": "凱風",
+      "reading": "がいふう",
+      "meaning": "cơn gió dịu nhẹ thổi vào đầu hè"
+    },
+    {
+      "word": "凱旋",
+      "reading": "がいせん",
+      "meaning": "sự khải hoàn"
+    },
+    {
+      "word": "凱旋軍",
+      "reading": "がいせんぐん",
+      "meaning": "đoàn quân chiến thắng trở về"
+    },
+    {
+      "word": "凱旋門",
+      "reading": "がいせんもん",
+      "meaning": "cửa hoàng môn"
+    },
+    {
+      "word": "凱旋公演",
+      "reading": "がいせんこうえん",
+      "meaning": "buổi biểu diễn chiến thắng"
+    },
+    {
+      "word": "凱旋将軍",
+      "reading": "がいせんしょうぐん",
+      "meaning": "vị tướng thắng trận"
+    }
+  ]
+}

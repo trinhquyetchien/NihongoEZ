@@ -1,0 +1,75 @@
+{
+  "kanji": "疏",
+  "meta": {
+    "weight": 1798,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "あら.い",
+      "うと.い",
+      "うと.む",
+      "とお.る",
+      "とお.す",
+      "まばら"
+    ],
+    "am_han": "SƠ, SỚ"
+  },
+  "meaning": {
+    "vi": "đi qua, ghi chú, bình luận, ghẻ lạnh, thưa thớt, bỏ mặc, thâm nhập",
+    "en": "pass through, note, commentary, estrangement, sparseness, neglect, penetrate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/疏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4630",
+    "text": "疏 (đọc là \"sho\") có nghĩa là \"thưa thớt\", \"trống rỗng\" hoặc \"không chặt chẽ\", thường dùng để chỉ sự phân tán, không liên kết chặt chẽ giữa các phần."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "上疏",
+      "reading": "じょうそ",
+      "meaning": "sớ tâu vua"
+    },
+    {
+      "word": "弁疏",
+      "reading": "べんそ",
+      "meaning": "tha lỗi"
+    },
+    {
+      "word": "疏水",
+      "reading": "そすい",
+      "meaning": "kênh"
+    },
+    {
+      "word": "疏注",
+      "reading": "そちゅう",
+      "meaning": "ghi chú"
+    },
+    {
+      "word": "注疏",
+      "reading": "ちゅうそ",
+      "meaning": "sự ghi chú chi tiết"
+    },
+    {
+      "word": "註疏",
+      "reading": "ちゅうそ",
+      "meaning": "chân cột"
+    },
+    {
+      "word": "意志の疏通",
+      "reading": "いしのそつう",
+      "meaning": "lẫn nhau hiểu"
+    }
+  ]
+}

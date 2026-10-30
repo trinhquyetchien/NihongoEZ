@@ -1,0 +1,136 @@
+{
+  "kanji": "訟",
+  "meta": {
+    "weight": 2460,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TỤNG"
+  },
+  "meaning": {
+    "vi": "kiện, buộc tội",
+    "en": "sue, accuse"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/訟.svg"
+  },
+  "frequency": 1061,
+  "examples": [
+    "訴訟"
+  ],
+  "explanation": {
+    "id": "3914",
+    "text": "訟 (đọc là \"shō\") có nghĩa là \"kiện tụng\", \"tranh chấp\" để chỉ các hành động liên quan đến việc kiện cáo hoặc xử lý pháp lý."
+  },
+  "comments": [
+    {
+      "id": "156847",
+      "lang": "vi",
+      "content_html": "<p>phát NGÔN 言 bừa bại nơi CÔNG 公 cộng sẽ bị KIỆN tụng 訟 ...</p>",
+      "content_text": "phát NGÔN 言 bừa bại nơi CÔNG 公 cộng sẽ bị KIỆN tụng 訟 ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156848",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ công khai khi cãi nhau kiện tụng</p>",
+      "content_text": "Ngôn từ công khai khi cãi nhau kiện tụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156849",
+      "lang": "vi",
+      "content_html": "<p>kiện TỤNG ở Công đường</p>",
+      "content_text": "kiện TỤNG ở Công đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "訟務",
+      "reading": "しょうむ",
+      "meaning": "sự kiện tụng"
+    },
+    {
+      "word": "争訟",
+      "reading": "そうしょう",
+      "meaning": "sự tranh tụng"
+    },
+    {
+      "word": "訴訟",
+      "reading": "そしょう",
+      "meaning": "sự kiện tụng"
+    },
+    {
+      "word": "訟務部",
+      "reading": "しょうむぶ",
+      "meaning": "ban kiện tụng bộ công lý)"
+    },
+    {
+      "word": "訴訟法",
+      "reading": "そしょうほう",
+      "meaning": "luật tiến hành xét xử"
+    },
+    {
+      "word": "壁訴訟",
+      "reading": "かべそしょう",
+      "meaning": "càu nhàu hoặc nói lầm bầm một mình"
+    },
+    {
+      "word": "訴訟人",
+      "reading": "そしょうにん",
+      "meaning": "người kiện"
+    },
+    {
+      "word": "刑事訴訟",
+      "reading": "けいじそしょう",
+      "meaning": "tố tụng hình sự"
+    },
+    {
+      "word": "訴訟係属",
+      "reading": "そしょうけいぞく",
+      "meaning": "vụ án còn để treo đó"
+    },
+    {
+      "word": "訴訟指揮",
+      "reading": "そしょうしき",
+      "meaning": "quản lý cuộc xử án"
+    }
+  ]
+}

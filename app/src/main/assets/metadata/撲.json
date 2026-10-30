@@ -1,0 +1,139 @@
+{
+  "kanji": "撲",
+  "meta": {
+    "weight": 1158,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [],
+    "am_han": "PHÁC, BẠC"
+  },
+  "meaning": {
+    "vi": "tát, đình công, đánh, đánh bại, nói",
+    "en": "slap, strike, hit, beat, tell, speak"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撲.svg"
+  },
+  "frequency": 1283,
+  "examples": [
+    "相撲",
+    "撲滅",
+    "大相撲",
+    "打撲"
+  ],
+  "explanation": {
+    "id": "7325",
+    "text": "撲 (đọc là \"baku\") có nghĩa là \"đánh\", \"đập\" để chỉ các hành động liên quan đến việc tấn công hoặc va chạm."
+  },
+  "comments": [
+    {
+      "id": "154050",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm bút PHÁC hoạ lại sự NGHiệp ĐÁNH NHAU</p>",
+      "content_text": "Tay cầm bút PHÁC hoạ lại sự NGHiệp ĐÁNH NHAU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154051",
+      "lang": "vi",
+      "content_html": "<p>Đánh nhau là nghề nghiệp dùng tay</p>",
+      "content_text": "Đánh nhau là nghề nghiệp dùng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154052",
+      "lang": "vi",
+      "content_html": "<p>người chồng (phu) dùng tay không PHÁC đi đám cỏ (nét 6-11 xem như đám cỏ nhé) phía trên.</p>",
+      "content_text": "người chồng (phu) dùng tay không PHÁC đi đám cỏ (nét 6-11 xem như đám cỏ nhé) phía trên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "打撲",
+      "reading": "だぼく",
+      "meaning": "vết thâm tím"
+    },
+    {
+      "word": "撲殺",
+      "reading": "ぼくさつ",
+      "meaning": "đánh tới chết"
+    },
+    {
+      "word": "撲滅",
+      "reading": "ぼくめつ",
+      "meaning": "ngăn chặn"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "đô vật"
+    },
+    {
+      "word": "アマ相撲",
+      "reading": "アマずもう",
+      "meaning": "đô vật nghiệp dư"
+    },
+    {
+      "word": "新相撲",
+      "reading": "しんすもう",
+      "meaning": "sumo kiểu mới"
+    },
+    {
+      "word": "女相撲",
+      "reading": "おんなずもう",
+      "meaning": "đấu vật nữ"
+    },
+    {
+      "word": "紙相撲",
+      "reading": "かみずもう",
+      "meaning": "trò chơi sumo của trẻ em chơi với các đô vật cắt giấy"
+    },
+    {
+      "word": "相撲字",
+      "reading": "すもうじ",
+      "meaning": "cách viết được sử dụng để viết bảng xếp hạng"
+    },
+    {
+      "word": "大相撲",
+      "reading": "おおずもう",
+      "meaning": "trận đấu vật lớn"
+    }
+  ]
+}

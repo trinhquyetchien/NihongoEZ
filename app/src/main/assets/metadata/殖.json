@@ -1,0 +1,143 @@
+{
+  "kanji": "殖",
+  "meta": {
+    "weight": 1464,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "tăng thêm, tăng lên, nhân lên, nâng cao",
+    "en": "augment, increase, multiply, raise"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/殖.svg"
+  },
+  "frequency": 1362,
+  "examples": [
+    "増殖",
+    "繁殖",
+    "生殖",
+    "養殖",
+    "利殖"
+  ],
+  "explanation": {
+    "id": "4018",
+    "text": "殖 (đọc là \"shoku\") có nghĩa là \"sinh sản\", \"phát triển\" để chỉ các hành động liên quan đến việc tăng trưởng, sinh sôi, hoặc nhân giống."
+  },
+  "comments": [
+    {
+      "id": "154708",
+      "lang": "vi",
+      "content_html": "<p>Chính quyền thực dân trực tiếp làm tăng ngừoi chết</p>",
+      "content_text": "Chính quyền thực dân trực tiếp làm tăng ngừoi chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154709",
+      "lang": "vi",
+      "content_html": "<p>Cái chết 歹 trực tiếp 直 là do THỰC dân gây ra</p>",
+      "content_text": "Cái chết 歹 trực tiếp 直 là do THỰC dân gây ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154710",
+      "lang": "vi",
+      "content_html": "<p>một người chết đi. chính là trực tiếp cho một sự sống sinh ra</p>",
+      "content_text": "một người chết đi. chính là trực tiếp cho một sự sống sinh ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "利殖",
+      "reading": "りしょく",
+      "meaning": "sự làm giàu"
+    },
+    {
+      "word": "養殖",
+      "reading": "ようしょく",
+      "meaning": "nuôi trồng thủy sản"
+    },
+    {
+      "word": "拓殖",
+      "reading": "たくしょく",
+      "meaning": "sự khai thác"
+    },
+    {
+      "word": "増殖",
+      "reading": "ぞうしょく",
+      "meaning": "sự tăng lên"
+    },
+    {
+      "word": "殖民",
+      "reading": "しょくみん",
+      "meaning": "thực dân"
+    },
+    {
+      "word": "貨殖",
+      "reading": "かしょく",
+      "meaning": "gia tăng tài sản"
+    },
+    {
+      "word": "学殖",
+      "reading": "がくしょく",
+      "meaning": "sự học rộng"
+    },
+    {
+      "word": "蕃殖",
+      "reading": "はんしょく",
+      "meaning": "sinh sản"
+    },
+    {
+      "word": "生殖",
+      "reading": "せいしょく",
+      "meaning": "sự sinh sôi nảy nở"
+    },
+    {
+      "word": "殖財",
+      "reading": "しょくざい",
+      "meaning": "phần hợp thành"
+    }
+  ]
+}

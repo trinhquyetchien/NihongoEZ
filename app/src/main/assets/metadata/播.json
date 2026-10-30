@@ -1,0 +1,125 @@
+{
+  "kanji": "播",
+  "meta": {
+    "weight": 1155,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ",
+      "バン",
+      "ハン"
+    ],
+    "kun": [
+      "ま.く"
+    ],
+    "am_han": "BÁ, BẢ"
+  },
+  "meaning": {
+    "vi": "trồng cây, gieo hạt",
+    "en": "plant, sow"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/播.svg"
+  },
+  "frequency": 2204,
+  "examples": [
+    "伝播",
+    "播種",
+    "播磨"
+  ],
+  "explanation": {
+    "id": "6222",
+    "text": "播 (đọc là \"ha\") có nghĩa là \"gieo trồng\", \"phát sóng\" để chỉ các hành động liên quan đến việc gieo hạt hoặc truyền tải thông tin."
+  },
+  "comments": [
+    {
+      "id": "154045",
+      "lang": "vi",
+      "content_html": "<p>Bả là một Tay có Số má</p>",
+      "content_text": "Bả là một Tay có Số má",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154046",
+      "lang": "vi",
+      "content_html": "<p>Bả là người dùng Tay NÉM hạt Lúa ra cánh ĐỒNG.</p>",
+      "content_text": "Bả là người dùng Tay NÉM hạt Lúa ra cánh ĐỒNG.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "混播",
+      "reading": "こんぱ",
+      "meaning": "hạt giống hỗn hợp"
+    },
+    {
+      "word": "伝播",
+      "reading": "でんぱ",
+      "meaning": "sự truyền"
+    },
+    {
+      "word": "点播",
+      "reading": "てんぱ",
+      "meaning": "sự tra hạt"
+    },
+    {
+      "word": "播州",
+      "reading": "ばんしゅう",
+      "meaning": "tên cũ của một phần tỉnh hyogo"
+    },
+    {
+      "word": "播種",
+      "reading": "はしゅ",
+      "meaning": "gieo hạt"
+    },
+    {
+      "word": "播但線",
+      "reading": "ばんたんせん",
+      "meaning": "tuyến xe điện bantan"
+    },
+    {
+      "word": "散播き",
+      "reading": "ばらまき",
+      "meaning": "việc rải hạt giống"
+    },
+    {
+      "word": "伝播側",
+      "reading": "でんぱんそく",
+      "meaning": "quy tắc truyền"
+    },
+    {
+      "word": "粗播き",
+      "reading": "あらまき",
+      "meaning": "gieo hạt thưa thớt"
+    },
+    {
+      "word": "散播く",
+      "reading": "ばらまく",
+      "meaning": "gieo rắc"
+    }
+  ]
+}

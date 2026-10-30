@@ -1,0 +1,140 @@
+{
+  "kanji": "妃",
+  "meta": {
+    "weight": 646,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "きさき"
+    ],
+    "am_han": "PHI"
+  },
+  "meaning": {
+    "vi": "nữ hoàng, công chúa",
+    "en": "queen, princess"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/妃.svg"
+  },
+  "frequency": 1752,
+  "examples": [
+    "王妃",
+    "妃",
+    "妃殿下"
+  ],
+  "explanation": {
+    "id": "6536",
+    "text": "妃 (đọc là \"hi\") có nghĩa là \"vợ của vua\", \"nữ hoàng\", chỉ những người phụ nữ ở vị trí cao trong triều đình."
+  },
+  "comments": [
+    {
+      "id": "152788",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ tự kỉ là hoàng phi chốn hậu cung</p>",
+      "content_text": "Phụ nữ tự kỉ là hoàng phi chốn hậu cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152789",
+      "lang": "vi",
+      "content_html": "<p>phi tần là người phụ nữ thứ 2 của vua</p>",
+      "content_text": "phi tần là người phụ nữ thứ 2 của vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152790",
+      "lang": "vi",
+      "content_html": "<p>có thể bạn chưa biết: dương quí phi vốn là kỉ nữ trước khi thành 1 trong 4 đại mỹ nhân của TQ phong kiến</p>",
+      "content_text": "có thể bạn chưa biết: dương quí phi vốn là kỉ nữ trước khi thành 1 trong 4 đại mỹ nhân của TQ phong kiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "妃",
+      "reading": "きさき",
+      "meaning": "hoàng hậu"
+    },
+    {
+      "word": "皇妃",
+      "reading": "こうひ",
+      "meaning": "hoàng hậu"
+    },
+    {
+      "word": "后妃",
+      "reading": "こうひ",
+      "meaning": "nữ hoàng"
+    },
+    {
+      "word": "公妃",
+      "reading": "こうひ",
+      "meaning": "chồng"
+    },
+    {
+      "word": "王妃",
+      "reading": "おうひ",
+      "meaning": "hoàng hậu"
+    },
+    {
+      "word": "親王妃",
+      "reading": "しんのうひ",
+      "meaning": "công chúa đế quốc"
+    },
+    {
+      "word": "王太妃",
+      "reading": "おうたいひ",
+      "meaning": "hoàng thái phi"
+    },
+    {
+      "word": "妃殿下",
+      "reading": "ひでんか",
+      "meaning": "công chúa"
+    },
+    {
+      "word": "皇太子妃",
+      "reading": "こうたいしひ",
+      "meaning": "công chúa"
+    },
+    {
+      "word": "王太子妃",
+      "reading": "おうたいしひ",
+      "meaning": "vương phi"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "kanji": "軍",
+  "meta": {
+    "weight": 2607,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "いくさ"
+    ],
+    "am_han": "QUÂN"
+  },
+  "meaning": {
+    "vi": "quân đội",
+    "en": "army, force, troops, war, battle"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/軍.svg"
+  },
+  "frequency": 189,
+  "examples": [
+    "軍",
+    "軍事",
+    "軍隊",
+    "海軍",
+    "軍人"
+  ],
+  "explanation": {
+    "id": "1917",
+    "text": "軍 (đọc là \"gun\") có nghĩa là \"quân đội\", chỉ các lực lượng vũ trang hoặc các hành động liên quan đến quân sự."
+  },
+  "comments": [
+    {
+      "id": "157209",
+      "lang": "vi",
+      "content_html": "<p>Xe có phủ bên trên là xe quân đội</p>",
+      "content_text": "Xe có phủ bên trên là xe quân đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157210",
+      "lang": "vi",
+      "content_html": "<p>XE TRÙM bạt là xe QUÂN đội</p>",
+      "content_text": "XE TRÙM bạt là xe QUÂN đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157211",
+      "lang": "vi",
+      "content_html": "<p>xe quân đội bọc thép</p>",
+      "content_text": "xe quân đội bọc thép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "軍",
+      "reading": "ぐん",
+      "meaning": "quân đội"
+    },
+    {
+      "word": "将軍",
+      "reading": "しょうぐん",
+      "meaning": "tướng quân"
+    },
+    {
+      "word": "軍職",
+      "reading": "ぐんしょく",
+      "meaning": "quan chức trong quân đội"
+    },
+    {
+      "word": "軍事",
+      "reading": "ぐんじ",
+      "meaning": "binh quyền"
+    },
+    {
+      "word": "軍部",
+      "reading": "ぐんぶ",
+      "meaning": "bộ binh"
+    },
+    {
+      "word": "軍勢",
+      "reading": "ぐんぜい",
+      "meaning": "sức mạnh quân đội"
+    },
+    {
+      "word": "軍隊",
+      "reading": "ぐんたい",
+      "meaning": "binh"
+    },
+    {
+      "word": "軍団",
+      "reading": "ぐんだん",
+      "meaning": "đoàn quân"
+    },
+    {
+      "word": "軍手",
+      "reading": "ぐんて",
+      "meaning": "găng tay dùng trong lao động"
+    },
+    {
+      "word": "自軍",
+      "reading": "じぐん",
+      "meaning": "đội của riêng mình"
+    }
+  ]
+}

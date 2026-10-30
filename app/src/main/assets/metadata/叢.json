@@ -1,0 +1,90 @@
+{
+  "kanji": "叢",
+  "meta": {
+    "weight": 430,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ス"
+    ],
+    "kun": [
+      "くさむら",
+      "むら.がる",
+      "むら"
+    ],
+    "am_han": "TÙNG"
+  },
+  "meaning": {
+    "vi": "đám rối, cụm bụi cây, bụi rậm",
+    "en": "plexus, clump of bushes, thicket"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/叢.svg"
+  },
+  "frequency": 2436,
+  "examples": [
+    "叢書",
+    "叢"
+  ],
+  "explanation": {
+    "id": "4676",
+    "text": "叢 (đọc là \"そう\" - sou) có nghĩa là \"nhóm\", \"tụ tập\" hoặc \"mớ\". Chữ này thường chỉ các cụm, nhóm thực vật hoặc đồ vật."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "叢",
+      "reading": "くさむら",
+      "meaning": "bụi cây"
+    },
+    {
+      "word": "杉叢",
+      "reading": "すぎむら",
+      "meaning": "rừng tuyết tùng"
+    },
+    {
+      "word": "談叢",
+      "reading": "だんそう",
+      "meaning": "cuốn sách chứa các câu chuyện thú vị"
+    },
+    {
+      "word": "叢林",
+      "reading": "そうりん",
+      "meaning": "tu viện zen"
+    },
+    {
+      "word": "叢生",
+      "reading": "そうせい",
+      "meaning": "sự tăng trưởng dầy đặc"
+    },
+    {
+      "word": "竹叢",
+      "reading": "たかむら",
+      "meaning": "lùm cây tre"
+    },
+    {
+      "word": "稲叢",
+      "reading": "いなむら",
+      "meaning": "đống rơm rạ"
+    },
+    {
+      "word": "一叢",
+      "reading": "ひとむら",
+      "meaning": "một rừng cây nhỏ"
+    },
+    {
+      "word": "叢氷",
+      "reading": "そうひょう",
+      "meaning": "mảng băng dày"
+    },
+    {
+      "word": "叢談",
+      "reading": "そうだん",
+      "meaning": "tập hợp những câu chuyện"
+    }
+  ]
+}

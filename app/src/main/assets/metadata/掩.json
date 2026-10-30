@@ -1,0 +1,84 @@
+{
+  "kanji": "掩",
+  "meta": {
+    "weight": 1123,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "おお.う"
+    ],
+    "am_han": "YỂM"
+  },
+  "meaning": {
+    "vi": "che, che khuyết điểm",
+    "en": "cover, conceal"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "454",
+    "text": "掩 (đọc là \"en\") có nghĩa là \"che đậy\", \"bao phủ\" để chỉ các hành động liên quan đến việc che giấu hoặc bảo vệ một cái gì đó khỏi sự nhìn thấy."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "掩蓋",
+      "reading": "えんがい",
+      "meaning": "che dấu"
+    },
+    {
+      "word": "掩蔽",
+      "reading": "えんぺい",
+      "meaning": "sự che lấp"
+    },
+    {
+      "word": "掩壕",
+      "reading": "えんごう",
+      "meaning": "hào"
+    },
+    {
+      "word": "掩護",
+      "reading": "えんご",
+      "meaning": "sự yểm hộ"
+    },
+    {
+      "word": "掩撃",
+      "reading": "えんげき",
+      "meaning": "việc phục kích"
+    },
+    {
+      "word": "掩体壕",
+      "reading": "えんたいごう",
+      "meaning": "hố/hào quân sự trên chiến trường"
+    },
+    {
+      "word": "掩護射撃",
+      "reading": "えんごしゃげき",
+      "meaning": "bắn yểm trợ"
+    },
+    {
+      "word": "掩護部隊",
+      "reading": "えんごぶたい",
+      "meaning": "lực lượng yểm hộ"
+    },
+    {
+      "word": "顔を掩う",
+      "reading": "かおをおおう",
+      "meaning": "dấu mặt"
+    },
+    {
+      "word": "棺を掩う",
+      "reading": "",
+      "meaning": "đóng nắp quan tài"
+    }
+  ]
+}

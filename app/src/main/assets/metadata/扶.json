@@ -1,0 +1,139 @@
+{
+  "kanji": "扶",
+  "meta": {
+    "weight": 1052,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "PHÙ"
+  },
+  "meaning": {
+    "vi": "viện trợ, giúp đỡ, hỗ trợ",
+    "en": "aid, help, assist"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/扶.svg"
+  },
+  "frequency": 1879,
+  "examples": [
+    "扶助",
+    "扶養"
+  ],
+  "explanation": {
+    "id": "6812",
+    "text": "扶 (đọc là \"fu\") có nghĩa là \"nâng đỡ\", \"hỗ trợ\" để chỉ các hành động giúp đỡ hoặc nâng đỡ ai đó về mặt vật lý hoặc tinh thần."
+  },
+  "comments": [
+    {
+      "id": "153796",
+      "lang": "vi",
+      "content_html": "<p>chồng chắp tay mong phù hộ.</p>",
+      "content_text": "chồng chắp tay mong phù hộ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153797",
+      "lang": "vi",
+      "content_html": "<p>người chồng là cánh tay phải phù dưỡng gia đình</p>",
+      "content_text": "người chồng là cánh tay phải phù dưỡng gia đình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153798",
+      "lang": "vi",
+      "content_html": "<p>TAY của người CHỒNG PHÙ HỘ cho gia đình. hay nhầm với chữ MẠT (抹)</p>",
+      "content_text": "TAY của người CHỒNG PHÙ HỘ cho gia đình. hay nhầm với chữ MẠT (抹)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "扶育",
+      "reading": "ふいく",
+      "meaning": "việc nuôi dãy"
+    },
+    {
+      "word": "家扶",
+      "reading": "かふ",
+      "meaning": "người phục vụ"
+    },
+    {
+      "word": "扶持",
+      "reading": "ふち",
+      "meaning": "giúp đỡ"
+    },
+    {
+      "word": "扶桑",
+      "reading": "ふそう",
+      "meaning": "nhật bản"
+    },
+    {
+      "word": "扶植",
+      "reading": "ふしょく",
+      "meaning": "hỗ trợ"
+    },
+    {
+      "word": "扶翼",
+      "reading": "ふよく",
+      "meaning": "sự giúp đỡ"
+    },
+    {
+      "word": "扶助",
+      "reading": "ふじょ",
+      "meaning": "sự giúp đỡ"
+    },
+    {
+      "word": "扶養",
+      "reading": "ふよう",
+      "meaning": "sự nuôi dưỡng"
+    },
+    {
+      "word": "扶桑教",
+      "reading": "ふそうきょう",
+      "meaning": "fusokyo"
+    },
+    {
+      "word": "扶養料",
+      "reading": "ふようりょう",
+      "meaning": "tiền cấp cho vợ sau khi vợ chồng li dị"
+    }
+  ]
+}

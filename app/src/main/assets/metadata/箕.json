@@ -1,0 +1,74 @@
+{
+  "kanji": "箕",
+  "meta": {
+    "weight": 2002,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "み"
+    ],
+    "am_han": "KY, CƠ"
+  },
+  "meaning": {
+    "vi": "hiểu biết",
+    "en": "winnowing"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/箕.svg"
+  },
+  "frequency": 2023,
+  "examples": [],
+  "explanation": {
+    "id": "7481",
+    "text": "箕 (đọc là \"ki\") có nghĩa là \"cái sàng\" hoặc \"cái rổ\" dùng để sàng lọc, phân loại các loại hạt hoặc vật liệu."
+  },
+  "comments": [],
+  "vocabulary": [
+    {
+      "word": "箕",
+      "reading": "き",
+      "meaning": "cái sàng"
+    },
+    {
+      "word": "箕宿",
+      "reading": "みぼし",
+      "meaning": "chòm sao “rá sàng”"
+    },
+    {
+      "word": "唐箕",
+      "reading": "とうみ",
+      "meaning": "máy quạt thóc"
+    },
+    {
+      "word": "手箕",
+      "reading": "てみ",
+      "meaning": "cái sàng tay"
+    },
+    {
+      "word": "箕作鮫",
+      "reading": "みつくりざめ",
+      "meaning": "cá mập yêu tinh"
+    },
+    {
+      "word": "箕借り婆",
+      "reading": "みかりばば",
+      "meaning": "yêu quái mượn rổ"
+    },
+    {
+      "word": "箕作柄長提灯鮟鱇",
+      "reading": "みつくりえながちょうちんあんこう",
+      "meaning": "triplewart seadevil"
+    },
+    {
+      "word": "爪で拾って箕で零す",
+      "reading": "つめでひろってみでこぼす",
+      "meaning": "tích cóp từng đồng rồi tiêu sạch một lúc"
+    }
+  ]
+}

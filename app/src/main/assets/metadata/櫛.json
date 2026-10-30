@@ -1,0 +1,139 @@
+{
+  "kanji": "櫛",
+  "meta": {
+    "weight": 1435,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "くし",
+      "くしけず.る"
+    ],
+    "am_han": "TRẤT"
+  },
+  "meaning": {
+    "vi": "cái lược",
+    "en": "comb"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/櫛.svg"
+  },
+  "frequency": 2256,
+  "examples": [
+    "櫛"
+  ],
+  "explanation": {
+    "id": "1861",
+    "text": "櫛 (đọc là \"kushi\") có nghĩa là \"lược\" để chỉ dụng cụ dùng để chải tóc hoặc tạo kiểu tóc."
+  },
+  "comments": [
+    {
+      "id": "154634",
+      "lang": "vi",
+      "content_html": "<p>Chải tóc qua bốn mùa chỉ bằng một cây lược gỗ</p>",
+      "content_text": "Chải tóc qua bốn mùa chỉ bằng một cây lược gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154635",
+      "lang": "vi",
+      "content_html": "<p>tiết kiệm gỗ với trúc mà vẫn làm được lược thế mới trất</p>",
+      "content_text": "tiết kiệm gỗ với trúc mà vẫn làm được lược thế mới trất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154636",
+      "lang": "vi",
+      "content_html": "<p>Gỗ tiết kiệm được để làm lược</p>",
+      "content_text": "Gỗ tiết kiệm được để làm lược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "櫛",
+      "reading": "くし",
+      "meaning": "lược chải đầu"
+    },
+    {
+      "word": "櫛鱗",
+      "reading": "しつりん",
+      "meaning": "ctenoid scale"
+    },
+    {
+      "word": "櫛比",
+      "reading": "しっぴ",
+      "meaning": "kẻ lên trên"
+    },
+    {
+      "word": "櫛笥",
+      "reading": "くしげ",
+      "meaning": "giá đỡ lược"
+    },
+    {
+      "word": "櫛箱",
+      "reading": "くしばこ",
+      "meaning": "hộp lược"
+    },
+    {
+      "word": "櫛目",
+      "reading": "くしめ",
+      "meaning": "vết lược"
+    },
+    {
+      "word": "馬櫛",
+      "reading": "うまぐし",
+      "meaning": "bàn chải ngựa"
+    },
+    {
+      "word": "櫛風",
+      "reading": "しっぷう",
+      "meaning": "cơn gió mạnh"
+    },
+    {
+      "word": "櫛水母",
+      "reading": "くしくらげ",
+      "meaning": "sứa lược"
+    },
+    {
+      "word": "解き櫛",
+      "reading": "ときぐし",
+      "meaning": "cái lược răng thưa"
+    }
+  ]
+}

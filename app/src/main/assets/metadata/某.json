@@ -1,0 +1,143 @@
+{
+  "kanji": "某",
+  "meta": {
+    "weight": 1320,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "それがし",
+      "なにがし"
+    ],
+    "am_han": "MỖ"
+  },
+  "meaning": {
+    "vi": "so-and-so, một, một nhất định, người đó",
+    "en": "so-and-so, one, a certain, that person"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/某.svg"
+  },
+  "frequency": 2106,
+  "examples": [
+    "某",
+    "某所",
+    "某社",
+    "某氏",
+    "某国"
+  ],
+  "explanation": {
+    "id": "7276",
+    "text": "某 (đọc là \"bō\") có nghĩa là \"một người nào đó\" hoặc \"cái gì đó không rõ ràng\" để chỉ một cá nhân hoặc sự vật không được xác định cụ thể."
+  },
+  "comments": [
+    {
+      "id": "154451",
+      "lang": "vi",
+      "content_html": "<p>cây cam ngọt của ÔNG MỖ NÀO ĐÓ</p>",
+      "content_text": "cây cam ngọt của ÔNG MỖ NÀO ĐÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154452",
+      "lang": "vi",
+      "content_html": "<p>đang âm Mưu (謀) mà không nói (言) thì chính là anh ta (Mỗ)</p>",
+      "content_text": "đang âm Mưu (謀) mà không nói (言) thì chính là anh ta (Mỗ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154453",
+      "lang": "vi",
+      "content_html": "<p>Anh ta trèo lên cây hái quả cam thì bị chim mổ</p>",
+      "content_text": "Anh ta trèo lên cây hái quả cam thì bị chim mổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "某",
+      "reading": "ぼう",
+      "meaning": "nào đó"
+    },
+    {
+      "word": "某某",
+      "reading": "ぼうぼう",
+      "meaning": "người tưởng tượng ra"
+    },
+    {
+      "word": "某省",
+      "reading": "ぼうしょう",
+      "meaning": "một bộ nào đó trong chính phủ"
+    },
+    {
+      "word": "誰某",
+      "reading": "だれそれ",
+      "meaning": "người nào đó"
+    },
+    {
+      "word": "某所",
+      "reading": "ぼうしょ",
+      "meaning": "một nơi nào đó"
+    },
+    {
+      "word": "某日",
+      "reading": "ぼうじつ",
+      "meaning": "ngày nào đó"
+    },
+    {
+      "word": "某国",
+      "reading": "ぼうこく",
+      "meaning": "một nước nọ"
+    },
+    {
+      "word": "某月",
+      "reading": "ぼうげつ",
+      "meaning": "một tháng nào đó"
+    },
+    {
+      "word": "某誌",
+      "reading": "ぼうし",
+      "meaning": "một sự công bố nhất định"
+    },
+    {
+      "word": "某々",
+      "reading": "ぼうぼう",
+      "meaning": "ông này"
+    }
+  ]
+}
