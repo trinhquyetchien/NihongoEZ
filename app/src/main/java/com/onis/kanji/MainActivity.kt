@@ -1,6 +1,5 @@
 package com.onis.kanji
 
-import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.Paint
 import android.os.Bundle
@@ -38,7 +37,9 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.ImageLoader
@@ -61,6 +62,11 @@ enum class AppTab {
     TRANSLATE_ANALYZE
 }
 
+enum class AnalysisViewMode {
+    ALL,      // Toàn bộ
+    SENTENCE  // Từng câu
+}
+
 class KanjiViewModel : ViewModel() {
     var selectedTab by mutableStateOf(AppTab.DRAW_KANJI)
 
@@ -73,8 +79,10 @@ class KanjiViewModel : ViewModel() {
 
     // Translate & Sentence Analyzer State
     var inputText by mutableStateOf("")
-    var analysisResult by mutableStateOf<SentenceAnalysisResult?>(null)
+    var fullResult by mutableStateOf<FullAnalysisResult?>(null)
     var isAnalyzing by mutableStateOf(false)
+    var viewMode by mutableStateOf(AnalysisViewMode.ALL)
+    var selectedSentenceIndex by mutableStateOf(0)
 
     // Drawing Dialog for Input Bar
     var showDrawDialog by mutableStateOf(false)
@@ -83,7 +91,7 @@ class KanjiViewModel : ViewModel() {
     var dialogPredictions by mutableStateOf<List<KanjiPrediction>>(emptyList())
     var isDialogProcessing by mutableStateOf(false)
 
-    // Quick Kanji Detail Modal (e.g. When clicking a token)
+    // Quick Kanji Detail Modal
     var quickKanjiDetail by mutableStateOf<KanjiPrediction?>(null)
 }
 
@@ -397,6 +405,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
 // -------------------------------------------------------------------------
 // TAB 2: DỊCH & PHÂN TÍCH CÂU (NHẬP TAY HOẶC VẼ KANJI)
 // -------------------------------------------------------------------------
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun TranslateAnalyzeScreen(
     viewModel: KanjiViewModel,
@@ -431,8 +440,8 @@ fun TranslateAnalyzeScreen(
             OutlinedTextField(
                 value = viewModel.inputText,
                 onValueChange = { viewModel.inputText = it },
-                label = { Text("Nhập câu hoặc từ tiếng Nhật") },
-                placeholder = { Text("Ví dụ: 私は日本語を勉強しています") },
+                label = { Text("Nhập câu hoặc văn bản tiếng Nhật") },
+                placeholder = { Text("Ví dụ: 私は日本語を勉強しています。明日学校へ行きます。") },
                 modifier = Modifier.fillMaxWidth(),
                 trailingIcon = {
                     IconButton(onClick = {
@@ -453,11 +462,11 @@ fun TranslateAnalyzeScreen(
                 OutlinedButton(
                     onClick = {
                         viewModel.inputText = ""
-                        viewModel.analysisResult = null
+                        viewModel.fullResult = null
                     },
                     modifier = Modifier.weight(1f)
                 ) {
-                    Text("Xóa câu")
+                    Text("Xóa")
                 }
 
                 Button(
@@ -466,9 +475,10 @@ fun TranslateAnalyzeScreen(
                         viewModel.isAnalyzing = true
                         coroutineScope.launch {
                             val res = withContext(Dispatchers.Default) {
-                                analyzer.analyze(viewModel.inputText)
+                                analyzer.analyzeFull(viewModel.inputText)
                             }
-                            viewModel.analysisResult = res
+                            viewModel.fullResult = res
+                            viewModel.selectedSentenceIndex = 0
                             viewModel.isAnalyzing = false
                         }
                     },
@@ -478,15 +488,56 @@ fun TranslateAnalyzeScreen(
                     if (viewModel.isAnalyzing) {
                         CircularProgressIndicator(modifier = Modifier.size(20.dp), color = Color.White)
                     } else {
-                        Text("Phân tích câu")
+                        Text("Phân tích")
                     }
                 }
             }
-            Spacer(Modifier.height(20.dp))
+            Spacer(Modifier.height(16.dp))
         }
 
-        viewModel.analysisResult?.let { result ->
-            // Kết quả phân tích bọc trong SelectionContainer để người dùng có thể bôi đen chữ
+        viewModel.fullResult?.let { result ->
+            // Chọn Option: Dịch toàn bộ vs Dịch từng câu
+            item {
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                ) {
+                    FilterChip(
+                        selected = viewModel.viewMode == AnalysisViewMode.ALL,
+                        onClick = { viewModel.viewMode = AnalysisViewMode.ALL },
+                        label = { Text("Toàn bộ văn bản") },
+                        modifier = Modifier.weight(1f)
+                    )
+                    FilterChip(
+                        selected = viewModel.viewMode == AnalysisViewMode.SENTENCE,
+                        onClick = { viewModel.viewMode = AnalysisViewMode.SENTENCE },
+                        label = { Text("Từng câu (${result.sentences.size})") },
+                        modifier = Modifier.weight(1f)
+                    )
+                }
+                Spacer(Modifier.height(12.dp))
+            }
+
+            // Nếu chọn mode từng câu -> Hiện danh sách chọn câu
+            if (viewModel.viewMode == AnalysisViewMode.SENTENCE && result.sentences.size > 1) {
+                item {
+                    LazyRow(
+                        horizontalArrangement = Arrangement.spacedBy(8.dp),
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        items(result.sentences.indices.toList()) { idx ->
+                            InputChip(
+                                selected = viewModel.selectedSentenceIndex == idx,
+                                onClick = { viewModel.selectedSentenceIndex = idx },
+                                label = { Text("Câu ${idx + 1}") }
+                            )
+                        }
+                    }
+                    Spacer(Modifier.height(12.dp))
+                }
+            }
+
+            // Hiển thị nguyên văn kèm Furigana phía trên chữ Kanji
             item {
                 SelectionContainer {
                     Card(
@@ -496,38 +547,92 @@ fun TranslateAnalyzeScreen(
                         border = BorderStroke(1.dp, Color(0xFFE2E8F0))
                     ) {
                         Column(modifier = Modifier.padding(16.dp)) {
-                            Text("Câu đang phân tích:", style = MaterialTheme.typography.labelMedium, color = Color.Gray)
-                            Spacer(Modifier.height(4.dp))
                             Text(
-                                result.sentence,
-                                style = MaterialTheme.typography.titleMedium,
-                                fontWeight = FontWeight.SemiBold
+                                "Nguyên văn (Kèm Furigana):",
+                                style = MaterialTheme.typography.labelMedium,
+                                color = MaterialTheme.colorScheme.primary,
+                                fontWeight = FontWeight.Bold
                             )
-                            Spacer(Modifier.height(6.dp))
-                            Text(
-                                "💡 Mẹo: Bạn có thể nhấn giữ bôi đen bất kỳ chữ/từ nào ở đây để sao chép hoặc tra cứu.",
-                                style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.primary
-                            )
+                            Spacer(Modifier.height(10.dp))
+
+                            val tokensToRender = if (viewModel.viewMode == AnalysisViewMode.ALL) {
+                                result.sentences.flatMap { it.tokens }
+                            } else {
+                                result.sentences.getOrNull(viewModel.selectedSentenceIndex)?.tokens ?: emptyList()
+                            }
+
+                            // FlowRow hiển thị từng token: Kanji có Furigana nhỏ ở trên
+                            FlowRow(
+                                modifier = Modifier.fillMaxWidth(),
+                                horizontalArrangement = Arrangement.spacedBy(2.dp),
+                                verticalArrangement = Arrangement.spacedBy(6.dp)
+                            ) {
+                                tokensToRender.forEach { token ->
+                                    Column(
+                                        horizontalAlignment = Alignment.CenterHorizontally,
+                                        modifier = Modifier.padding(horizontal = 1.dp)
+                                    ) {
+                                        // Furigana
+                                        if (token.hasKanji && token.reading.isNotBlank() && token.reading != token.surface) {
+                                            Text(
+                                                text = token.reading,
+                                                fontSize = 11.sp,
+                                                color = MaterialTheme.colorScheme.primary,
+                                                lineHeight = 11.sp
+                                            )
+                                        } else {
+                                            // Khoảng trống giữ hàng ngay ngắn
+                                            Text(
+                                                text = " ",
+                                                fontSize = 11.sp,
+                                                lineHeight = 11.sp
+                                            )
+                                        }
+                                        // Surface text (Kanji / Kana)
+                                        Text(
+                                            text = token.surface,
+                                            fontSize = 17.sp,
+                                            fontWeight = if (token.hasKanji) FontWeight.Bold else FontWeight.Normal,
+                                            color = MaterialTheme.colorScheme.onSurface,
+                                            lineHeight = 18.sp
+                                        )
+                                    }
+                                }
+                            }
                         }
                     }
                 }
-                Spacer(Modifier.height(16.dp))
+                Spacer(Modifier.height(20.dp))
+            }
+
+            // Dữ liệu ngữ pháp và từ vựng hiển thị tùy theo viewMode (không trùng nhau)
+            val grammarsToShow = if (viewModel.viewMode == AnalysisViewMode.ALL) {
+                result.allUniqueGrammars
+            } else {
+                result.sentences.getOrNull(viewModel.selectedSentenceIndex)?.grammars ?: emptyList()
+            }
+
+            val tokensToShow = if (viewModel.viewMode == AnalysisViewMode.ALL) {
+                result.allUniqueTokens
+            } else {
+                result.sentences.getOrNull(viewModel.selectedSentenceIndex)?.tokens
+                    ?.filter { it.surface.isNotBlank() && !it.surface.all { c -> c in "。、！？,.!?\n\r\t " } }
+                    ?.distinctBy { "${it.baseForm}_${it.surface}" } ?: emptyList()
             }
 
             // Phần 1: Ngữ pháp tìm thấy
-            if (result.grammars.isNotEmpty()) {
+            if (grammarsToShow.isNotEmpty()) {
                 item {
                     SectionCardV2 {
                         Text(
-                            "Cấu trúc Ngữ pháp (${result.grammars.size})",
+                            "Ngữ pháp xuất hiện (${grammarsToShow.size})",
                             fontWeight = FontWeight.Bold,
                             style = MaterialTheme.typography.titleMedium,
                             color = MaterialTheme.colorScheme.primary
                         )
                         Spacer(Modifier.height(12.dp))
                         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                            result.grammars.forEach { g ->
+                            grammarsToShow.forEach { g ->
                                 Surface(
                                     modifier = Modifier.fillMaxWidth(),
                                     shape = RoundedCornerShape(10.dp),
@@ -570,77 +675,24 @@ fun TranslateAnalyzeScreen(
                 }
             }
 
-            // Phần 2: Phân tích từng từ (Tokens)
-            item {
-                SectionCardV2 {
-                    Text(
-                        "Từ vựng trong câu (${result.tokens.size})",
-                        fontWeight = FontWeight.Bold,
-                        style = MaterialTheme.typography.titleMedium,
-                        color = MaterialTheme.colorScheme.primary
-                    )
-                    Spacer(Modifier.height(12.dp))
-                    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                        result.tokens.forEach { token ->
-                            Surface(
-                                modifier = Modifier
-                                    .fillMaxWidth(),
-                                shape = RoundedCornerShape(10.dp),
-                                color = Color.White,
-                                border = BorderStroke(1.dp, Color(0xFFE5E7EB))
-                            ) {
-                                Row(
-                                    modifier = Modifier.padding(12.dp),
-                                    verticalAlignment = Alignment.CenterVertically
-                                ) {
-                                    Column(modifier = Modifier.weight(1f)) {
-                                        Row(verticalAlignment = Alignment.Bottom) {
-                                            Text(
-                                                token.surface,
-                                                fontWeight = FontWeight.Bold,
-                                                style = MaterialTheme.typography.bodyLarge
-                                            )
-                                            if (token.reading.isNotBlank() && token.reading != token.surface) {
-                                                Spacer(Modifier.width(6.dp))
-                                                Text(
-                                                    "[${token.reading}]",
-                                                    style = MaterialTheme.typography.bodyMedium,
-                                                    color = MaterialTheme.colorScheme.primary
-                                                )
-                                            }
-                                            if (token.baseForm != token.surface) {
-                                                Spacer(Modifier.width(6.dp))
-                                                Text(
-                                                    "(nguyên thể: ${token.baseForm})",
-                                                    style = MaterialTheme.typography.bodySmall,
-                                                    color = Color.Gray
-                                                )
-                                            }
-                                        }
-                                        if (!token.meaning.isNullOrBlank()) {
-                                            Spacer(Modifier.height(3.dp))
-                                            Text(
-                                                token.meaning,
-                                                style = MaterialTheme.typography.bodyMedium,
-                                                color = MaterialTheme.colorScheme.onSurfaceVariant
-                                            )
-                                        }
-                                    }
-                                    Surface(
-                                        color = Color(0xFFF1F5F9),
-                                        shape = RoundedCornerShape(6.dp)
-                                    ) {
-                                        Text(
-                                            token.partOfSpeech,
-                                            style = MaterialTheme.typography.labelSmall,
-                                            color = Color(0xFF475569),
-                                            modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
-                                        )
-                                    }
-                                }
+            // Phần 2: Từ vựng không trùng lặp (Hiển thị 1 hàng line gọn gàng)
+            if (tokensToShow.isNotEmpty()) {
+                item {
+                    SectionCardV2 {
+                        Text(
+                            "Từ vựng (${tokensToShow.size})",
+                            fontWeight = FontWeight.Bold,
+                            style = MaterialTheme.typography.titleMedium,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                        Spacer(Modifier.height(12.dp))
+                        Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                            tokensToShow.forEachIndexed { index, token ->
+                                SingleLineTokenCard(index = index + 1, token = token)
                             }
                         }
                     }
+                    Spacer(Modifier.height(24.dp))
                 }
             }
         }
@@ -790,6 +842,77 @@ fun TranslateAnalyzeScreen(
 }
 
 // -------------------------------------------------------------------------
+// COMPONENT TỪ VỰNG 1 DÒNG (SINGLE LINE)
+// -------------------------------------------------------------------------
+@Composable
+fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
+    Surface(
+        modifier = Modifier.fillMaxWidth(),
+        shape = RoundedCornerShape(8.dp),
+        color = Color.White,
+        border = BorderStroke(1.dp, Color(0xFFE5E7EB))
+    ) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(horizontal = 10.dp, vertical = 7.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                "$index.",
+                style = MaterialTheme.typography.labelMedium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.width(24.dp)
+            )
+
+            // Từ vựng + Furigana
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.weight(1f)
+            ) {
+                Text(
+                    token.surface,
+                    fontWeight = FontWeight.Bold,
+                    style = MaterialTheme.typography.bodyLarge,
+                    color = MaterialTheme.colorScheme.onSurface
+                )
+                if (token.reading.isNotBlank() && token.reading != token.surface) {
+                    Spacer(Modifier.width(6.dp))
+                    Text(
+                        "[${token.reading}]",
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+                }
+                if (!token.meaning.isNullOrBlank()) {
+                    Spacer(Modifier.width(8.dp))
+                    Text(
+                        "• ${token.meaning}",
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                }
+            }
+
+            Spacer(Modifier.width(6.dp))
+            Surface(
+                color = Color(0xFFF1F5F9),
+                shape = RoundedCornerShape(4.dp)
+            ) {
+                Text(
+                    token.partOfSpeech,
+                    style = MaterialTheme.typography.labelSmall,
+                    color = Color(0xFF475569),
+                    modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
+                )
+            }
+        }
+    }
+}
+
+// -------------------------------------------------------------------------
 // REUSABLE COMPONENTS & UTILS
 // -------------------------------------------------------------------------
 fun renderStrokesToBitmap(strokes: List<List<Offset>>): Bitmap {
@@ -915,24 +1038,31 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
         )
         Spacer(Modifier.height(8.dp))
 
-        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        // Hiển thị 1 hàng line gọn gàng
+        Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
             vocabulary.forEachIndexed { index, vocab ->
-                Row(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .clip(RoundedCornerShape(8.dp))
-                        .background(Color.White)
-                        .padding(horizontal = 10.dp, vertical = 8.dp),
-                    verticalAlignment = Alignment.CenterVertically
+                Surface(
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(8.dp),
+                    color = Color.White,
+                    border = BorderStroke(1.dp, Color(0xFFE5E7EB))
                 ) {
-                    Text(
-                        "${index + 1}.",
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.width(22.dp)
-                    )
-                    Column(modifier = Modifier.weight(1f)) {
-                        Row(verticalAlignment = Alignment.Bottom) {
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(horizontal = 10.dp, vertical = 7.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Text(
+                            "${index + 1}.",
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.width(22.dp)
+                        )
+                        Row(
+                            verticalAlignment = Alignment.CenterVertically,
+                            modifier = Modifier.weight(1f)
+                        ) {
                             Text(
                                 vocab.word,
                                 style = MaterialTheme.typography.bodyLarge,
@@ -940,21 +1070,23 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
                                 color = MaterialTheme.colorScheme.onSurface
                             )
                             if (vocab.reading.isNotBlank()) {
-                                Spacer(Modifier.width(8.dp))
+                                Spacer(Modifier.width(6.dp))
                                 Text(
                                     "[${vocab.reading}]",
                                     style = MaterialTheme.typography.bodyMedium,
                                     color = MaterialTheme.colorScheme.primary
                                 )
                             }
-                        }
-                        if (vocab.meaning.isNotBlank()) {
-                            Spacer(Modifier.height(2.dp))
-                            Text(
-                                vocab.meaning,
-                                style = MaterialTheme.typography.bodyMedium,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant
-                            )
+                            if (vocab.meaning.isNotBlank()) {
+                                Spacer(Modifier.width(8.dp))
+                                Text(
+                                    "• ${vocab.meaning}",
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                    maxLines = 1,
+                                    overflow = TextOverflow.Ellipsis
+                                )
+                            }
                         }
                     }
                 }

@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Scripts & temporary tools
+scripts/
+
+# Exclude large AI model and metadata from git tracking
+app/src/main/assets/kanji_model.ptl
+app/src/main/assets/metadata/
