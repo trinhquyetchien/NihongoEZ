@@ -41,6 +41,21 @@ class SentenceAnalyzer(private val context: Context) {
 
     init {
         loadGrammarRules()
+        loadCompactDictionary()
+    }
+
+    private fun loadCompactDictionary() {
+        try {
+            val jsonStr = context.assets.open("dictionary_compact.json").bufferedReader().use { it.readText() }
+            val obj = JSONObject(jsonStr)
+            val keys = obj.keys()
+            while (keys.hasNext()) {
+                val key = keys.next()
+                vocabCache[key] = obj.getString(key)
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
     }
 
     private fun loadGrammarRules() {
@@ -149,12 +164,16 @@ class SentenceAnalyzer(private val context: Context) {
     }
 
     private fun lookupMeaning(surface: String, baseForm: String): String? {
+        // 1. Tra cứu trực tiếp từ từ điển compact offline (ưu tiên theo surface hoặc baseForm)
+        vocabCache[surface]?.let { return it }
+        vocabCache[baseForm]?.let { return it }
+
+        // 2. Tra cứu kanji nếu là chữ đơn
         val target = if (surface.length == 1 && containsKanji(surface)) surface
                      else if (baseForm.length == 1 && containsKanji(baseForm)) baseForm
                      else null
 
         if (target != null) {
-            vocabCache[target]?.let { return it }
             val found = lookupKanjiMeaning(target)
             if (found != null) {
                 vocabCache[target] = found
@@ -162,12 +181,15 @@ class SentenceAnalyzer(private val context: Context) {
             }
         }
 
-        // Nếu là từ ghép chứa Kanji đầu tiên, thử tìm trong vocabulary của chữ Kanji đó
+        // 3. Nếu là từ ghép chứa Kanji đầu tiên, thử tìm trong vocabulary của chữ Kanji đó
         val firstKanji = surface.firstOrNull { isKanjiChar(it) } ?: baseForm.firstOrNull { isKanjiChar(it) }
         if (firstKanji != null) {
             val fkStr = firstKanji.toString()
             val vocabMeaning = lookupVocabFromKanji(fkStr, surface, baseForm)
-            if (vocabMeaning != null) return vocabMeaning
+            if (vocabMeaning != null) {
+                vocabCache[surface] = vocabMeaning
+                return vocabMeaning
+            }
         }
 
         return null
