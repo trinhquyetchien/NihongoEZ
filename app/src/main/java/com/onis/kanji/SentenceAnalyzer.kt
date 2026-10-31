@@ -34,7 +34,14 @@ data class FullAnalysisResult(
 )
 
 class SentenceAnalyzer(private val context: Context) {
-    private val tokenizer by lazy { Tokenizer() }
+    private val tokenizer by lazy {
+        try {
+            Tokenizer()
+        } catch (e: Throwable) {
+            e.printStackTrace()
+            null
+        }
+    }
     private val grammarList = mutableListOf<GrammarMatch>()
     private val grammarRegexes = mutableListOf<Pair<Regex, GrammarMatch>>()
     private val vocabCache = mutableMapOf<String, String>()
@@ -128,32 +135,45 @@ class SentenceAnalyzer(private val context: Context) {
         // 1. Phân tích ngữ pháp
         val matchedGrammars = mutableListOf<GrammarMatch>()
         for ((regex, grammar) in grammarRegexes) {
-            if (regex.containsMatchIn(sentence) || sentence.contains(grammar.pattern)) {
-                if (matchedGrammars.none { it.pattern == grammar.pattern }) {
-                    matchedGrammars.add(grammar)
+            try {
+                if (regex.containsMatchIn(sentence) || sentence.contains(grammar.pattern)) {
+                    if (matchedGrammars.none { it.pattern == grammar.pattern }) {
+                        matchedGrammars.add(grammar)
+                    }
                 }
+            } catch (e: Exception) {
+                e.printStackTrace()
             }
         }
 
         // 2. Tách từ vựng bằng Kuromoji
-        val rawTokens = tokenizer.tokenize(sentence)
-        val tokens = rawTokens.map { token ->
-            val surface = token.surface
-            val baseForm = if (token.baseForm != "*") token.baseForm else surface
-            val reading = if (token.reading != "*") katakanaToHiragana(token.reading) else ""
-            val pos = token.partOfSpeechLevel1
-            val hasKanji = containsKanji(surface)
+        val tok = tokenizer
+        val tokens = if (tok != null) {
+            try {
+                val rawTokens = tok.tokenize(sentence)
+                rawTokens.map { token ->
+                    val surface = token.surface
+                    val baseForm = if (token.baseForm != "*") token.baseForm else surface
+                    val reading = if (token.reading != "*") katakanaToHiragana(token.reading) else ""
+                    val pos = token.partOfSpeechLevel1
+                    val hasKanji = containsKanji(surface)
+                    val meaning = lookupMeaning(surface, baseForm)
 
-            val meaning = lookupMeaning(surface, baseForm)
-
-            TokenAnalysis(
-                surface = surface,
-                baseForm = baseForm,
-                reading = reading,
-                partOfSpeech = pos,
-                meaning = meaning,
-                hasKanji = hasKanji
-            )
+                    TokenAnalysis(
+                        surface = surface,
+                        baseForm = baseForm,
+                        reading = reading,
+                        partOfSpeech = pos,
+                        meaning = meaning,
+                        hasKanji = hasKanji
+                    )
+                }
+            } catch (e: Throwable) {
+                e.printStackTrace()
+                fallbackTokenize(sentence)
+            }
+        } else {
+            fallbackTokenize(sentence)
         }
 
         return SingleSentenceResult(
@@ -161,6 +181,21 @@ class SentenceAnalyzer(private val context: Context) {
             tokens = tokens,
             grammars = matchedGrammars
         )
+    }
+
+    private fun fallbackTokenize(sentence: String): List<TokenAnalysis> {
+        return sentence.map { ch ->
+            val s = ch.toString()
+            val hasK = isKanjiChar(ch)
+            TokenAnalysis(
+                surface = s,
+                baseForm = s,
+                reading = "",
+                partOfSpeech = if (hasK) "名詞" else "記号",
+                meaning = lookupMeaning(s, s),
+                hasKanji = hasK
+            )
+        }
     }
 
     private fun lookupMeaning(surface: String, baseForm: String): String? {

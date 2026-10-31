@@ -93,6 +93,9 @@ class KanjiViewModel : ViewModel() {
 
     // Quick Kanji Detail Modal
     var quickKanjiDetail by mutableStateOf<KanjiPrediction?>(null)
+
+    // Quick Token Detail Modal (khi nhấn/bôi đen từ vựng)
+    var selectedTokenForDetail by mutableStateOf<TokenAnalysis?>(null)
 }
 
 class MainActivity : ComponentActivity() {
@@ -460,13 +463,19 @@ fun TranslateAnalyzeScreen(
                     onClick = {
                         if (viewModel.inputText.isBlank()) return@Button
                         viewModel.isAnalyzing = true
+                        viewModel.selectedTokenForDetail = null
                         coroutineScope.launch {
-                            val res = withContext(Dispatchers.Default) {
-                                analyzer.analyzeFull(viewModel.inputText)
+                            try {
+                                val res = withContext(Dispatchers.Default) {
+                                    analyzer.analyzeFull(viewModel.inputText)
+                                }
+                                viewModel.fullResult = res
+                                viewModel.selectedSentenceIndex = 0
+                            } catch (e: Throwable) {
+                                e.printStackTrace()
+                            } finally {
+                                viewModel.isAnalyzing = false
                             }
-                            viewModel.fullResult = res
-                            viewModel.selectedSentenceIndex = 0
-                            viewModel.isAnalyzing = false
                         }
                     },
                     modifier = Modifier.weight(2f),
@@ -548,16 +557,24 @@ fun TranslateAnalyzeScreen(
                                 result.sentences.getOrNull(viewModel.selectedSentenceIndex)?.tokens ?: emptyList()
                             }
 
-                            // FlowRow hiển thị từng token: Kanji có Furigana nhỏ ở trên
+                            // FlowRow hiển thị từng token: Kanji có Furigana nhỏ ở trên, nhấn để xem thông tin từ
                             FlowRow(
                                 modifier = Modifier.fillMaxWidth(),
                                 horizontalArrangement = Arrangement.spacedBy(2.dp),
                                 verticalArrangement = Arrangement.spacedBy(6.dp)
                             ) {
                                 tokensToRender.forEach { token ->
+                                    val isSelected = viewModel.selectedTokenForDetail?.surface == token.surface &&
+                                            viewModel.selectedTokenForDetail?.baseForm == token.baseForm
                                     Column(
                                         horizontalAlignment = Alignment.CenterHorizontally,
-                                        modifier = Modifier.padding(horizontal = 1.dp)
+                                        modifier = Modifier
+                                            .clip(RoundedCornerShape(6.dp))
+                                            .background(if (isSelected) MaterialTheme.colorScheme.primaryContainer else Color.Transparent)
+                                            .clickable {
+                                                viewModel.selectedTokenForDetail = if (isSelected) null else token
+                                            }
+                                            .padding(horizontal = 4.dp, vertical = 2.dp)
                                     ) {
                                         // Furigana
                                         if (token.hasKanji && token.reading.isNotBlank() && token.reading != token.surface) {
@@ -580,7 +597,7 @@ fun TranslateAnalyzeScreen(
                                             text = token.surface,
                                             fontSize = 17.sp,
                                             fontWeight = if (token.hasKanji) FontWeight.Bold else FontWeight.Normal,
-                                            color = MaterialTheme.colorScheme.onSurface,
+                                            color = if (isSelected) MaterialTheme.colorScheme.onPrimaryContainer else MaterialTheme.colorScheme.onSurface,
                                             lineHeight = 18.sp
                                         )
                                     }
@@ -589,7 +606,46 @@ fun TranslateAnalyzeScreen(
                         }
                     }
                 }
-                Spacer(Modifier.height(20.dp))
+                Spacer(Modifier.height(14.dp))
+            }
+
+            // Ô thông tin từ vựng khi người dùng chọn/bôi đen từ ở đoạn văn phía trên
+            viewModel.selectedTokenForDetail?.let { selectedToken ->
+                item {
+                    Card(
+                        modifier = Modifier.fillMaxWidth(),
+                        colors = CardDefaults.cardColors(containerColor = Color(0xFFEFF6FF)),
+                        shape = RoundedCornerShape(12.dp),
+                        border = BorderStroke(1.5.dp, MaterialTheme.colorScheme.primary)
+                    ) {
+                        Column(modifier = Modifier.padding(14.dp)) {
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
+                                Text(
+                                    "Từ được chọn:",
+                                    style = MaterialTheme.typography.labelMedium,
+                                    color = MaterialTheme.colorScheme.primary,
+                                    fontWeight = FontWeight.Bold
+                                )
+                                Spacer(Modifier.weight(1f))
+                                Text(
+                                    "✕ Đóng",
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                    modifier = Modifier
+                                        .clip(RoundedCornerShape(4.dp))
+                                        .clickable { viewModel.selectedTokenForDetail = null }
+                                        .padding(4.dp)
+                                )
+                            }
+                            Spacer(Modifier.height(6.dp))
+                            SingleLineTokenCard(index = 1, token = selectedToken)
+                        }
+                    }
+                    Spacer(Modifier.height(16.dp))
+                }
             }
 
             // Dữ liệu ngữ pháp và từ vựng hiển thị tùy theo viewMode (không trùng nhau)
