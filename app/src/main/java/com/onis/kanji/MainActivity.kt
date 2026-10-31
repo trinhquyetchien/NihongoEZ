@@ -1,5 +1,6 @@
 package com.onis.kanji
 
+import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.Paint
 import android.os.Bundle
@@ -9,6 +10,7 @@ import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.layout.*
@@ -70,6 +72,10 @@ enum class AnalysisViewMode {
 class KanjiViewModel : ViewModel() {
     var selectedTab by mutableStateOf(AppTab.DRAW_KANJI)
 
+    // App Preferences: Language & Theme
+    var appLanguage by mutableStateOf(AppLanguage.VIETNAMESE)
+    var isDarkTheme by mutableStateOf(false)
+
     // Canvas State
     var points by mutableStateOf<List<List<Offset>>>(emptyList())
     var currentStroke by mutableStateOf<List<Offset>>(emptyList())
@@ -102,12 +108,13 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            KanjiTheme {
+            val viewModel: KanjiViewModel = viewModel()
+            KanjiTheme(darkTheme = viewModel.isDarkTheme) {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = Color.White
+                    color = MaterialTheme.colorScheme.background
                 ) {
-                    KanjiAppScreen()
+                    KanjiAppScreen(viewModel = viewModel)
                 }
             }
         }
@@ -120,18 +127,19 @@ fun KanjiAppScreen(viewModel: KanjiViewModel = viewModel()) {
     val context = LocalContext.current
     val recognizer = remember { KanjiRecognizer(context) }
     val analyzer = remember { SentenceAnalyzer(context) }
+    val lang = viewModel.appLanguage
 
     Scaffold(
         bottomBar = {
             NavigationBar(
-                containerColor = Color.White,
+                containerColor = MaterialTheme.colorScheme.surface,
                 tonalElevation = 8.dp
             ) {
                 NavigationBarItem(
                     selected = viewModel.selectedTab == AppTab.DRAW_KANJI,
                     onClick = { viewModel.selectedTab = AppTab.DRAW_KANJI },
-                    icon = { Icon(Icons.Default.Create, contentDescription = "Vẽ Kanji") },
-                    label = { Text("Nhận diện Kanji") },
+                    icon = { Icon(Icons.Default.Create, contentDescription = AppStrings.tabDraw(lang)) },
+                    label = { Text(AppStrings.tabDraw(lang)) },
                     colors = NavigationBarItemDefaults.colors(
                         selectedIconColor = MaterialTheme.colorScheme.primary,
                         selectedTextColor = MaterialTheme.colorScheme.primary,
@@ -141,8 +149,8 @@ fun KanjiAppScreen(viewModel: KanjiViewModel = viewModel()) {
                 NavigationBarItem(
                     selected = viewModel.selectedTab == AppTab.TRANSLATE_ANALYZE,
                     onClick = { viewModel.selectedTab = AppTab.TRANSLATE_ANALYZE },
-                    icon = { Icon(Icons.Default.Search, contentDescription = "Dịch & Phân tích") },
-                    label = { Text("Dịch & Phân tích") },
+                    icon = { Icon(Icons.Default.Search, contentDescription = AppStrings.tabAnalyze(lang)) },
+                    label = { Text(AppStrings.tabAnalyze(lang)) },
                     colors = NavigationBarItemDefaults.colors(
                         selectedIconColor = MaterialTheme.colorScheme.primary,
                         selectedTextColor = MaterialTheme.colorScheme.primary,
@@ -162,7 +170,7 @@ fun KanjiAppScreen(viewModel: KanjiViewModel = viewModel()) {
             viewModel.quickKanjiDetail?.let { candidate ->
                 ModalBottomSheet(
                     onDismissRequest = { viewModel.quickKanjiDetail = null },
-                    containerColor = Color.White
+                    containerColor = MaterialTheme.colorScheme.surface
                 ) {
                     LazyColumn(
                         modifier = Modifier
@@ -174,16 +182,80 @@ fun KanjiAppScreen(viewModel: KanjiViewModel = viewModel()) {
                             Text(
                                 candidate.kanji,
                                 style = MaterialTheme.typography.displayMedium,
-                                fontWeight = FontWeight.Bold
+                                fontWeight = FontWeight.Bold,
+                                color = MaterialTheme.colorScheme.onSurface
                             )
                             Spacer(Modifier.height(12.dp))
                         }
                         item {
-                            KanjiDetailsSection(candidate = candidate)
+                            KanjiDetailsSection(candidate = candidate, lang = viewModel.appLanguage)
                         }
                     }
                 }
             }
+        }
+    }
+}
+
+@Composable
+fun AppHeaderControls(viewModel: KanjiViewModel) {
+    val lang = viewModel.appLanguage
+    Row(
+        verticalAlignment = Alignment.CenterVertically,
+        modifier = Modifier.fillMaxWidth()
+    ) {
+        Image(
+            painter = painterResource(id = R.drawable.logo),
+            contentDescription = "Onis Logo",
+            modifier = Modifier
+                .size(36.dp)
+                .clip(RoundedCornerShape(8.dp))
+        )
+        Spacer(Modifier.width(10.dp))
+        Text(
+            AppStrings.appTitle(lang),
+            style = MaterialTheme.typography.titleLarge,
+            fontWeight = FontWeight.Bold,
+            color = MaterialTheme.colorScheme.primary
+        )
+        Spacer(Modifier.weight(1f))
+
+        // Switch Theme: Light / Dark
+        Surface(
+            shape = RoundedCornerShape(20.dp),
+            color = MaterialTheme.colorScheme.surfaceVariant,
+            modifier = Modifier
+                .clip(RoundedCornerShape(20.dp))
+                .clickable { viewModel.isDarkTheme = !viewModel.isDarkTheme }
+                .padding(horizontal = 8.dp, vertical = 4.dp)
+        ) {
+            Text(
+                if (viewModel.isDarkTheme) "🌙 Tối" else "☀️ Sáng",
+                style = MaterialTheme.typography.labelSmall,
+                fontWeight = FontWeight.Medium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+        }
+
+        Spacer(Modifier.width(6.dp))
+
+        // Switch Language: VI / EN
+        Surface(
+            shape = RoundedCornerShape(20.dp),
+            color = MaterialTheme.colorScheme.surfaceVariant,
+            modifier = Modifier
+                .clip(RoundedCornerShape(20.dp))
+                .clickable {
+                    viewModel.appLanguage = if (lang == AppLanguage.VIETNAMESE) AppLanguage.ENGLISH else AppLanguage.VIETNAMESE
+                }
+                .padding(horizontal = 8.dp, vertical = 4.dp)
+        ) {
+            Text(
+                if (lang == AppLanguage.VIETNAMESE) "🇻🇳 VI" else "🇬🇧 EN",
+                style = MaterialTheme.typography.labelSmall,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.primary
+            )
         }
     }
 }
@@ -194,6 +266,7 @@ fun KanjiAppScreen(viewModel: KanjiViewModel = viewModel()) {
 @Composable
 fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
     val coroutineScope = rememberCoroutineScope()
+    val lang = viewModel.appLanguage
 
     LazyColumn(
         modifier = Modifier
@@ -202,22 +275,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
         contentPadding = PaddingValues(20.dp)
     ) {
         item {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                Image(
-                    painter = painterResource(id = R.drawable.logo),
-                    contentDescription = "Onis Logo",
-                    modifier = Modifier
-                        .size(40.dp)
-                        .clip(RoundedCornerShape(10.dp))
-                )
-                Spacer(Modifier.width(12.dp))
-                Text(
-                    "Onis Kanji",
-                    style = MaterialTheme.typography.titleLarge,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.primary
-                )
-            }
+            AppHeaderControls(viewModel = viewModel)
             Spacer(Modifier.height(14.dp))
         }
 
@@ -304,7 +362,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                     modifier = Modifier.weight(1f),
                     enabled = viewModel.points.isNotEmpty()
                 ) {
-                    Text("Undo")
+                    Text(AppStrings.undoStroke(lang))
                 }
 
                 // Nút Xóa (Clear)
@@ -317,7 +375,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                     },
                     modifier = Modifier.weight(1f)
                 ) {
-                    Text("Xóa")
+                    Text(AppStrings.clearBtn(lang))
                 }
 
                 // Nút Nhận diện
@@ -348,7 +406,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                     if (viewModel.isProcessing) {
                         CircularProgressIndicator(modifier = Modifier.size(20.dp), color = Color.White)
                     } else {
-                        Text("Nhận diện")
+                        Text(AppStrings.recognizeBtn(lang))
                     }
                 }
             }
@@ -357,7 +415,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
         if (viewModel.predictions.isNotEmpty()) {
             item {
                 Spacer(Modifier.height(18.dp))
-                Text("Kết quả nhận diện", fontWeight = FontWeight.Bold)
+                Text(AppStrings.recognitionResult(lang), fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onBackground)
                 Spacer(Modifier.height(10.dp))
 
                 LazyRow(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
@@ -365,7 +423,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                         KanjiCandidateCard(
                             kanji = candidate.kanji,
                             confidence = candidate.confidence,
-                            meaning = candidate.details?.meaning_vi ?: "",
+                            meaning = candidate.details?.meaning(lang) ?: "",
                             selected = viewModel.selectedKanji == candidate.kanji,
                             onClick = { viewModel.selectedKanji = candidate.kanji }
                         )
@@ -381,16 +439,22 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                         Surface(
                             modifier = Modifier.fillMaxWidth(),
                             shape = RoundedCornerShape(20.dp),
-                            color = Color.White,
-                            shadowElevation = 2.dp
+                            color = MaterialTheme.colorScheme.surface,
+                            shadowElevation = 2.dp,
+                            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
                         ) {
                             Column(modifier = Modifier.padding(16.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                                Text(kanji, style = MaterialTheme.typography.displayLarge, fontWeight = FontWeight.Bold)
+                                Text(
+                                    kanji,
+                                    style = MaterialTheme.typography.displayLarge,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.onSurface
+                                )
                             }
                         }
                     }
                     item {
-                        KanjiDetailsSection(candidate = match)
+                        KanjiDetailsSection(candidate = match, lang = lang)
                     }
                 }
             }
@@ -409,6 +473,7 @@ fun TranslateAnalyzeScreen(
     analyzer: SentenceAnalyzer
 ) {
     val coroutineScope = rememberCoroutineScope()
+    val lang = viewModel.appLanguage
 
     LazyColumn(
         modifier = Modifier
@@ -417,8 +482,13 @@ fun TranslateAnalyzeScreen(
         contentPadding = PaddingValues(20.dp)
     ) {
         item {
+            AppHeaderControls(viewModel = viewModel)
+            Spacer(Modifier.height(14.dp))
+        }
+
+        item {
             Text(
-                "Phân tích Từ & Ngữ pháp",
+                AppStrings.analyzeHeader(lang),
                 style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.primary
@@ -431,7 +501,7 @@ fun TranslateAnalyzeScreen(
             OutlinedTextField(
                 value = viewModel.inputText,
                 onValueChange = { viewModel.inputText = it },
-                label = { Text("Nhập câu hoặc văn bản tiếng Nhật") },
+                label = { Text(AppStrings.inputLabel(lang)) },
                 modifier = Modifier.fillMaxWidth(),
                 trailingIcon = {
                     IconButton(onClick = {
@@ -439,7 +509,7 @@ fun TranslateAnalyzeScreen(
                         viewModel.dialogPredictions = emptyList()
                         viewModel.showDrawDialog = true
                     }) {
-                        Icon(Icons.Default.Create, contentDescription = "Vẽ Kanji để chèn vào câu", tint = MaterialTheme.colorScheme.primary)
+                        Icon(Icons.Default.Create, contentDescription = AppStrings.drawDialogTitle(lang), tint = MaterialTheme.colorScheme.primary)
                     }
                 },
                 shape = RoundedCornerShape(16.dp)
@@ -456,7 +526,7 @@ fun TranslateAnalyzeScreen(
                     },
                     modifier = Modifier.weight(1f)
                 ) {
-                    Text("Xóa")
+                    Text(AppStrings.clearBtn(lang))
                 }
 
                 Button(
@@ -484,7 +554,7 @@ fun TranslateAnalyzeScreen(
                     if (viewModel.isAnalyzing) {
                         CircularProgressIndicator(modifier = Modifier.size(20.dp), color = Color.White)
                     } else {
-                        Text("Phân tích")
+                        Text(AppStrings.analyzeBtn(lang))
                     }
                 }
             }
@@ -501,13 +571,13 @@ fun TranslateAnalyzeScreen(
                     FilterChip(
                         selected = viewModel.viewMode == AnalysisViewMode.ALL,
                         onClick = { viewModel.viewMode = AnalysisViewMode.ALL },
-                        label = { Text("Toàn bộ văn bản") },
+                        label = { Text(AppStrings.viewModeAll(lang)) },
                         modifier = Modifier.weight(1f)
                     )
                     FilterChip(
                         selected = viewModel.viewMode == AnalysisViewMode.SENTENCE,
                         onClick = { viewModel.viewMode = AnalysisViewMode.SENTENCE },
-                        label = { Text("Từng câu (${result.sentences.size})") },
+                        label = { Text(AppStrings.viewModeSentence(lang, result.sentences.size)) },
                         modifier = Modifier.weight(1f)
                     )
                 }
@@ -525,7 +595,7 @@ fun TranslateAnalyzeScreen(
                             InputChip(
                                 selected = viewModel.selectedSentenceIndex == idx,
                                 onClick = { viewModel.selectedSentenceIndex = idx },
-                                label = { Text("Câu ${idx + 1}") }
+                                label = { Text(AppStrings.sentenceChip(lang, idx + 1)) }
                             )
                         }
                     }
@@ -538,13 +608,13 @@ fun TranslateAnalyzeScreen(
                 SelectionContainer {
                     Card(
                         modifier = Modifier.fillMaxWidth(),
-                        colors = CardDefaults.cardColors(containerColor = Color(0xFFF8FAFC)),
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant),
                         shape = RoundedCornerShape(16.dp),
-                        border = BorderStroke(1.dp, Color(0xFFE2E8F0))
+                        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
                     ) {
                         Column(modifier = Modifier.padding(16.dp)) {
                             Text(
-                                "Nguyên văn (Kèm Furigana):",
+                                AppStrings.originalWithFurigana(lang),
                                 style = MaterialTheme.typography.labelMedium,
                                 color = MaterialTheme.colorScheme.primary,
                                 fontWeight = FontWeight.Bold
@@ -603,10 +673,66 @@ fun TranslateAnalyzeScreen(
                                     }
                                 }
                             }
+
+                            Spacer(Modifier.height(8.dp))
+                            Text(
+                                AppStrings.tapWordToInspect(lang),
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant
+                            )
                         }
                     }
                 }
                 Spacer(Modifier.height(14.dp))
+            }
+
+            // Bản dịch (Full text translation khi chọn ALL, hoặc Sentence translation khi chọn SENTENCE)
+            item {
+                val translationText = if (viewModel.viewMode == AnalysisViewMode.ALL) {
+                    result.fullTranslation(lang)
+                } else {
+                    result.sentences.getOrNull(viewModel.selectedSentenceIndex)?.translation(lang) ?: ""
+                }
+
+                if (translationText.isNotBlank()) {
+                    Card(
+                        modifier = Modifier.fillMaxWidth(),
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.5f)),
+                        shape = RoundedCornerShape(16.dp),
+                        border = BorderStroke(1.dp, MaterialTheme.colorScheme.primary.copy(alpha = 0.3f))
+                    ) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Text(
+                                    AppStrings.translationHeader(lang),
+                                    style = MaterialTheme.typography.labelMedium,
+                                    color = MaterialTheme.colorScheme.primary,
+                                    fontWeight = FontWeight.Bold
+                                )
+                                Spacer(Modifier.weight(1f))
+                                Surface(
+                                    color = MaterialTheme.colorScheme.primary,
+                                    shape = RoundedCornerShape(4.dp)
+                                ) {
+                                    Text(
+                                        if (lang == AppLanguage.VIETNAMESE) "Tiếng Việt" else "English",
+                                        style = MaterialTheme.typography.labelSmall,
+                                        color = MaterialTheme.colorScheme.onPrimary,
+                                        modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
+                                    )
+                                }
+                            }
+                            Spacer(Modifier.height(8.dp))
+                            Text(
+                                text = translationText,
+                                style = MaterialTheme.typography.bodyLarge,
+                                fontWeight = FontWeight.Medium,
+                                color = MaterialTheme.colorScheme.onSurface
+                            )
+                        }
+                    }
+                    Spacer(Modifier.height(14.dp))
+                }
             }
 
             // Ô thông tin từ vựng khi người dùng chọn/bôi đen từ ở đoạn văn phía trên
@@ -614,7 +740,7 @@ fun TranslateAnalyzeScreen(
                 item {
                     Card(
                         modifier = Modifier.fillMaxWidth(),
-                        colors = CardDefaults.cardColors(containerColor = Color(0xFFEFF6FF)),
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant),
                         shape = RoundedCornerShape(12.dp),
                         border = BorderStroke(1.5.dp, MaterialTheme.colorScheme.primary)
                     ) {
@@ -624,14 +750,14 @@ fun TranslateAnalyzeScreen(
                                 modifier = Modifier.fillMaxWidth()
                             ) {
                                 Text(
-                                    "Từ được chọn:",
+                                    AppStrings.selectedWordHeader(lang),
                                     style = MaterialTheme.typography.labelMedium,
                                     color = MaterialTheme.colorScheme.primary,
                                     fontWeight = FontWeight.Bold
                                 )
                                 Spacer(Modifier.weight(1f))
                                 Text(
-                                    "✕ Đóng",
+                                    AppStrings.closeBtn(lang),
                                     style = MaterialTheme.typography.labelSmall,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                                     modifier = Modifier
@@ -641,7 +767,7 @@ fun TranslateAnalyzeScreen(
                                 )
                             }
                             Spacer(Modifier.height(6.dp))
-                            SingleLineTokenCard(index = 1, token = selectedToken)
+                            SingleLineTokenCard(index = 1, token = selectedToken, lang = lang)
                         }
                     }
                     Spacer(Modifier.height(16.dp))
@@ -668,7 +794,7 @@ fun TranslateAnalyzeScreen(
                 item {
                     SectionCardV2 {
                         Text(
-                            "Ngữ pháp xuất hiện (${grammarsToShow.size})",
+                            AppStrings.grammarHeader(lang, grammarsToShow.size),
                             fontWeight = FontWeight.Bold,
                             style = MaterialTheme.typography.titleMedium,
                             color = MaterialTheme.colorScheme.primary
@@ -679,8 +805,8 @@ fun TranslateAnalyzeScreen(
                                 Surface(
                                     modifier = Modifier.fillMaxWidth(),
                                     shape = RoundedCornerShape(10.dp),
-                                    color = Color.White,
-                                    border = BorderStroke(1.dp, Color(0xFFE5E7EB))
+                                    color = MaterialTheme.colorScheme.surface,
+                                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
                                 ) {
                                     Column(modifier = Modifier.padding(12.dp)) {
                                         Row(verticalAlignment = Alignment.CenterVertically) {
@@ -700,12 +826,13 @@ fun TranslateAnalyzeScreen(
                                             Text(
                                                 g.pattern,
                                                 fontWeight = FontWeight.Bold,
-                                                style = MaterialTheme.typography.bodyLarge
+                                                style = MaterialTheme.typography.bodyLarge,
+                                                color = MaterialTheme.colorScheme.onSurface
                                             )
                                         }
                                         Spacer(Modifier.height(4.dp))
                                         Text(
-                                            g.meaning,
+                                            g.meaning(lang),
                                             style = MaterialTheme.typography.bodyMedium,
                                             color = MaterialTheme.colorScheme.onSurfaceVariant
                                         )
@@ -718,12 +845,12 @@ fun TranslateAnalyzeScreen(
                 }
             }
 
-            // Phần 2: Từ vựng không trùng lặp (Hiển thị 1 hàng line gọn gàng)
+            // Phần 2: Từ vựng không trùng lặp (Hiển thị chi tiết rõ ràng)
             if (tokensToShow.isNotEmpty()) {
                 item {
                     SectionCardV2 {
                         Text(
-                            "Từ vựng (${tokensToShow.size})",
+                            AppStrings.vocabHeader(lang, tokensToShow.size),
                             fontWeight = FontWeight.Bold,
                             style = MaterialTheme.typography.titleMedium,
                             color = MaterialTheme.colorScheme.primary
@@ -731,7 +858,7 @@ fun TranslateAnalyzeScreen(
                         Spacer(Modifier.height(12.dp))
                         Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
                             tokensToShow.forEachIndexed { index, token ->
-                                SingleLineTokenCard(index = index + 1, token = token)
+                                SingleLineTokenCard(index = index + 1, token = token, lang = lang)
                             }
                         }
                     }
@@ -745,7 +872,7 @@ fun TranslateAnalyzeScreen(
     if (viewModel.showDrawDialog) {
         AlertDialog(
             onDismissRequest = { viewModel.showDrawDialog = false },
-            title = { Text("Vẽ chữ Hán để chèn vào câu") },
+            title = { Text(AppStrings.drawDialogTitle(lang)) },
             text = {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     Surface(
@@ -819,7 +946,7 @@ fun TranslateAnalyzeScreen(
                             },
                             modifier = Modifier.weight(1f)
                         ) {
-                            Text("Xóa nét")
+                            Text(AppStrings.clearCanvas(lang))
                         }
                         Button(
                             onClick = {
@@ -839,14 +966,14 @@ fun TranslateAnalyzeScreen(
                             if (viewModel.isDialogProcessing) {
                                 CircularProgressIndicator(modifier = Modifier.size(16.dp), color = Color.White)
                             } else {
-                                Text("Nhận diện")
+                                Text(AppStrings.recognizeBtn(lang))
                             }
                         }
                     }
 
                     if (viewModel.dialogPredictions.isNotEmpty()) {
                         Spacer(Modifier.height(10.dp))
-                        Text("Chọn chữ để chèn:", style = MaterialTheme.typography.labelMedium)
+                        Text(AppStrings.tapToInsert(lang), style = MaterialTheme.typography.labelMedium)
                         Spacer(Modifier.height(6.dp))
                         LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                             items(viewModel.dialogPredictions) { pred ->
@@ -877,7 +1004,7 @@ fun TranslateAnalyzeScreen(
             confirmButton = {},
             dismissButton = {
                 TextButton(onClick = { viewModel.showDrawDialog = false }) {
-                    Text("Đóng")
+                    Text(AppStrings.closeBtn(lang))
                 }
             }
         )
@@ -885,35 +1012,36 @@ fun TranslateAnalyzeScreen(
 }
 
 // -------------------------------------------------------------------------
-// COMPONENT TỪ VỰNG (CARD LINH HOẠT XUỐNG DÒNG)
+// COMPONENT TỪ VỰNG (HIỂN THỊ CHI TIẾT TỪ VỰNG & Ý NGHĨA RÕ RÀNG)
 // -------------------------------------------------------------------------
 @Composable
-fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
+fun SingleLineTokenCard(index: Int, token: TokenAnalysis, lang: AppLanguage = AppLanguage.VIETNAMESE) {
     Surface(
         modifier = Modifier.fillMaxWidth(),
-        shape = RoundedCornerShape(8.dp),
-        color = Color.White,
-        border = BorderStroke(1.dp, Color(0xFFE5E7EB))
+        shape = RoundedCornerShape(10.dp),
+        color = MaterialTheme.colorScheme.surface,
+        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
     ) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 10.dp, vertical = 7.dp),
+                .padding(horizontal = 12.dp, vertical = 8.dp),
             verticalAlignment = Alignment.Top
         ) {
             Text(
                 "$index.",
                 style = MaterialTheme.typography.labelMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.primary,
                 modifier = Modifier
-                    .width(24.dp)
+                    .width(26.dp)
                     .padding(top = 2.dp)
             )
 
-            // Từ vựng + Furigana + Nghĩa
             Column(
                 modifier = Modifier.weight(1f)
             ) {
+                // Hàng 1: Từ (surface) + cách đọc (reading) + loại từ (POS tag)
                 Row(
                     verticalAlignment = Alignment.CenterVertically,
                     modifier = Modifier.fillMaxWidth()
@@ -921,7 +1049,7 @@ fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
                     Text(
                         token.surface,
                         fontWeight = FontWeight.Bold,
-                        style = MaterialTheme.typography.bodyLarge,
+                        style = MaterialTheme.typography.titleMedium,
                         color = MaterialTheme.colorScheme.onSurface
                     )
                     if (token.reading.isNotBlank() && token.reading != token.surface) {
@@ -929,28 +1057,54 @@ fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
                         Text(
                             "[${token.reading}]",
                             style = MaterialTheme.typography.bodyMedium,
+                            fontWeight = FontWeight.Medium,
                             color = MaterialTheme.colorScheme.primary
                         )
                     }
-                    Spacer(Modifier.weight(1f))
-                    Surface(
-                        color = Color(0xFFF1F5F9),
-                        shape = RoundedCornerShape(4.dp)
-                    ) {
+                    if (!token.amHan.isNullOrBlank()) {
+                        Spacer(Modifier.width(6.dp))
                         Text(
-                            token.partOfSpeech,
-                            style = MaterialTheme.typography.labelSmall,
-                            color = Color(0xFF475569),
-                            modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
+                            "(${token.amHan})",
+                            style = MaterialTheme.typography.bodySmall,
+                            fontWeight = FontWeight.SemiBold,
+                            color = MaterialTheme.colorScheme.tertiary
                         )
                     }
+                    Spacer(Modifier.weight(1f))
+                    val posLabel = token.pos(lang)
+                    if (posLabel.isNotBlank()) {
+                        Surface(
+                            color = MaterialTheme.colorScheme.surfaceVariant,
+                            shape = RoundedCornerShape(6.dp)
+                        ) {
+                            Text(
+                                posLabel,
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
+                            )
+                        }
+                    }
                 }
-                if (!token.meaning.isNullOrBlank()) {
+
+                // Hàng 2 (nếu có thể nguyên thể / baseForm khác surface): Base form
+                if (token.baseForm.isNotBlank() && token.baseForm != "*" && token.baseForm != token.surface) {
                     Spacer(Modifier.height(2.dp))
                     Text(
-                        token.meaning,
-                        style = MaterialTheme.typography.bodyMedium,
+                        "${AppStrings.baseForm(lang)} ${token.baseForm}",
+                        style = MaterialTheme.typography.bodySmall,
                         color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                }
+
+                // Hàng 3: Ý nghĩa từ vựng chi tiết
+                val meaningText = token.meaning(lang)
+                if (!meaningText.isNullOrBlank()) {
+                    Spacer(Modifier.height(4.dp))
+                    Text(
+                        meaningText,
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.onSurface
                     )
                 }
             }
@@ -1045,8 +1199,8 @@ fun SectionCardV2(content: @Composable ColumnScope.() -> Unit) {
     Surface(
         modifier = Modifier.fillMaxWidth(),
         shape = RoundedCornerShape(20.dp),
-        color = Color(0xFFF9FAFB),
-        border = BorderStroke(1.dp, Color(0xFFE5E7EB))
+        color = MaterialTheme.colorScheme.surfaceVariant,
+        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
     ) {
         Column(modifier = Modifier.padding(16.dp), content = content)
     }
@@ -1058,7 +1212,8 @@ fun InfoBlock(title: String, content: String) {
         modifier = Modifier
             .fillMaxWidth()
             .clip(RoundedCornerShape(12.dp))
-            .background(Color(0xFFF1F8E9))
+            .background(MaterialTheme.colorScheme.surface)
+            .border(1.dp, MaterialTheme.colorScheme.outlineVariant, RoundedCornerShape(12.dp))
             .padding(12.dp)
     ) {
         Text(title, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary, style = MaterialTheme.typography.titleSmall)
@@ -1068,16 +1223,17 @@ fun InfoBlock(title: String, content: String) {
 }
 
 @Composable
-fun VocabularySection(vocabulary: List<KanjiVocab>) {
+fun VocabularySection(vocabulary: List<KanjiVocab>, lang: AppLanguage = AppLanguage.VIETNAMESE) {
     Column(
         modifier = Modifier
             .fillMaxWidth()
             .clip(RoundedCornerShape(12.dp))
-            .background(Color(0xFFF0FDF4))
+            .background(MaterialTheme.colorScheme.surface)
+            .border(1.dp, MaterialTheme.colorScheme.outlineVariant, RoundedCornerShape(12.dp))
             .padding(12.dp)
     ) {
         Text(
-            "Từ vựng liên quan",
+            AppStrings.relatedVocab(lang),
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.primary,
             style = MaterialTheme.typography.titleSmall
@@ -1089,8 +1245,8 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
                 Surface(
                     modifier = Modifier.fillMaxWidth(),
                     shape = RoundedCornerShape(8.dp),
-                    color = Color.White,
-                    border = BorderStroke(1.dp, Color(0xFFE5E7EB))
+                    color = MaterialTheme.colorScheme.surfaceVariant,
+                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
                 ) {
                     Row(
                         modifier = Modifier
@@ -1143,35 +1299,35 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
 }
 
 @Composable
-fun KanjiDetailsSection(candidate: KanjiPrediction) {
+fun KanjiDetailsSection(candidate: KanjiPrediction, lang: AppLanguage = AppLanguage.VIETNAMESE) {
     val details = candidate.details ?: return
 
     Spacer(Modifier.height(16.dp))
     SectionCardV2 {
-        Text("Phân tích chi tiết", fontWeight = FontWeight.Bold, style = MaterialTheme.typography.titleMedium)
+        Text(AppStrings.detailsHeader(lang), fontWeight = FontWeight.Bold, style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.primary)
         Spacer(Modifier.height(16.dp))
 
         Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
-            InfoBlock("Nghĩa Hán Việt", details.am_han ?: "Chưa có dữ liệu")
-            InfoBlock("Nghĩa tiếng Việt", details.meaning_vi ?: "Chưa có dữ liệu")
+            InfoBlock(AppStrings.sinoVietnamese(lang), details.am_han ?: "-")
+            InfoBlock(AppStrings.meaningLabel(lang), details.meaning(lang) ?: "-")
 
             if (details.on_readings.isNotEmpty() || details.kun_readings.isNotEmpty()) {
                 val readings = mutableListOf<String>()
                 if (details.on_readings.isNotEmpty()) readings.add("On: ${details.on_readings.joinToString()}")
                 if (details.kun_readings.isNotEmpty()) readings.add("Kun: ${details.kun_readings.joinToString()}")
-                InfoBlock("Cách đọc", readings.joinToString("\n"))
+                InfoBlock(AppStrings.readingLabel(lang), readings.joinToString("\n"))
             }
 
             if (!details.explanation.isNullOrBlank()) {
-                InfoBlock("Giải thích chi tiết", details.explanation)
+                InfoBlock(AppStrings.detailsHeader(lang), details.explanation)
             }
 
             if (details.vocabulary.isNotEmpty()) {
-                VocabularySection(vocabulary = details.vocabulary)
+                VocabularySection(vocabulary = details.vocabulary, lang = lang)
             }
 
             if (details.mnemonic_comments.isNotEmpty()) {
-                InfoBlock("Mẹo nhớ (Mnemonic)", details.mnemonic_comments.joinToString("\n\n") { "• $it" })
+                InfoBlock(AppStrings.mnemonic(lang), details.mnemonic_comments.joinToString("\n\n") { "• $it" })
             }
         }
     }
@@ -1179,7 +1335,7 @@ fun KanjiDetailsSection(candidate: KanjiPrediction) {
     details.svg_url?.let { svgUrl ->
         Spacer(Modifier.height(16.dp))
         SectionCardV2 {
-            Text("Thứ tự nét", fontWeight = FontWeight.Bold)
+            Text(AppStrings.strokeOrder(lang), fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary)
             Spacer(Modifier.height(12.dp))
             AnimatedKanjiSvg(
                 svgUrl = svgUrl,
@@ -1194,7 +1350,7 @@ fun KanjiDetailsSection(candidate: KanjiPrediction) {
     if (details.image_urls.isNotEmpty()) {
         Spacer(Modifier.height(16.dp))
         SectionCardV2 {
-            Text("Ảnh mô tả", fontWeight = FontWeight.Bold)
+            Text(AppStrings.descImage(lang), fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary)
             Spacer(Modifier.height(12.dp))
             Column(
                 verticalArrangement = Arrangement.spacedBy(12.dp),

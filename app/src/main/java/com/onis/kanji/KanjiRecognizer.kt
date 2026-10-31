@@ -31,7 +31,13 @@ data class KanjiDetails(
     val image_urls: List<String>,
     val svg_url: String?,
     val mnemonic_comments: List<String>
-)
+) {
+    fun meaning(lang: AppLanguage): String? = if (lang == AppLanguage.ENGLISH) {
+        meaning_en ?: meaning_vi
+    } else {
+        meaning_vi ?: meaning_en
+    }
+}
 
 data class KanjiPrediction(
     val kanji: String, 

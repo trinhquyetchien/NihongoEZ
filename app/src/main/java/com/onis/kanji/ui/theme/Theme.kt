@@ -15,7 +15,18 @@ import androidx.compose.ui.platform.LocalContext
 private val DarkColorScheme = darkColorScheme(
     primary = PrimaryGreenLight,
     secondary = SecondaryGreenLight,
-    tertiary = PrimaryGreen
+    tertiary = PrimaryGreen,
+    background = Color(0xFF121212),
+    surface = Color(0xFF1E1E1E),
+    surfaceVariant = Color(0xFF2D2D2D),
+    onPrimary = Color(0xFF1B5E20),
+    onSecondary = Color(0xFF1B5E20),
+    onTertiary = Color.White,
+    onBackground = Color(0xFFE0E0E0),
+    onSurface = Color(0xFFE0E0E0),
+    onSurfaceVariant = Color(0xFFAAAAAA),
+    primaryContainer = Color(0xFF1B3B22),
+    onPrimaryContainer = PrimaryGreenLight
 )
 
 private val LightColorScheme = lightColorScheme(
@@ -24,17 +35,20 @@ private val LightColorScheme = lightColorScheme(
     tertiary = PrimaryGreenDark,
     background = Color.White,
     surface = Color.White,
+    surfaceVariant = Color(0xFFF1F5F9),
     onPrimary = Color.White,
     onSecondary = Color.White,
     onTertiary = Color.White,
     onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F)
+    onSurface = Color(0xFF1C1B1F),
+    onSurfaceVariant = Color(0xFF64748B),
+    primaryContainer = Color(0xFFDCFCE7),
+    onPrimaryContainer = Color(0xFF166534)
 )
 
 @Composable
 fun KanjiTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
-    // Dynamic color is available on Android 12+ but we disable it to enforce our custom green theme
     dynamicColor: Boolean = false,
     content: @Composable () -> Unit
 ) {
@@ -43,7 +57,6 @@ fun KanjiTheme(
             val context = LocalContext.current
             if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
         }
-
         darkTheme -> DarkColorScheme
         else -> LightColorScheme
     }

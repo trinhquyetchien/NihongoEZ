@@ -10,28 +10,55 @@ data class TokenAnalysis(
     val baseForm: String,
     val reading: String,
     val partOfSpeech: String,
-    val meaning: String? = null,
-    val hasKanji: Boolean = false
-)
+    val partOfSpeechVi: String = "",
+    val partOfSpeechEn: String = "",
+    val meaningVi: String? = null,
+    val meaningEn: String? = null,
+    val hasKanji: Boolean = false,
+    val amHan: String? = null
+) {
+    fun meaning(lang: AppLanguage): String? = if (lang == AppLanguage.ENGLISH) {
+        meaningEn ?: meaningVi
+    } else {
+        meaningVi ?: meaningEn
+    }
+
+    fun pos(lang: AppLanguage): String = if (lang == AppLanguage.ENGLISH) {
+        if (partOfSpeechEn.isNotBlank()) partOfSpeechEn else partOfSpeech
+    } else {
+        if (partOfSpeechVi.isNotBlank()) partOfSpeechVi else partOfSpeech
+    }
+}
 
 data class GrammarMatch(
     val pattern: String,
-    val meaning: String,
+    val meaningVi: String,
+    val meaningEn: String,
     val level: String
-)
+) {
+    fun meaning(lang: AppLanguage): String = if (lang == AppLanguage.ENGLISH) meaningEn else meaningVi
+}
 
 data class SingleSentenceResult(
     val sentence: String,
     val tokens: List<TokenAnalysis>,
-    val grammars: List<GrammarMatch>
-)
+    val grammars: List<GrammarMatch>,
+    val translationVi: String,
+    val translationEn: String
+) {
+    fun translation(lang: AppLanguage): String = if (lang == AppLanguage.ENGLISH) translationEn else translationVi
+}
 
 data class FullAnalysisResult(
     val fullText: String,
     val sentences: List<SingleSentenceResult>,
     val allUniqueTokens: List<TokenAnalysis>,
-    val allUniqueGrammars: List<GrammarMatch>
-)
+    val allUniqueGrammars: List<GrammarMatch>,
+    val fullTranslationVi: String,
+    val fullTranslationEn: String
+) {
+    fun fullTranslation(lang: AppLanguage): String = if (lang == AppLanguage.ENGLISH) fullTranslationEn else fullTranslationVi
+}
 
 class SentenceAnalyzer(private val context: Context) {
     private val tokenizer by lazy {
@@ -44,7 +71,8 @@ class SentenceAnalyzer(private val context: Context) {
     }
     private val grammarList = mutableListOf<GrammarMatch>()
     private val grammarRegexes = mutableListOf<Pair<Regex, GrammarMatch>>()
-    private val vocabCache = mutableMapOf<String, String>()
+    private val vocabCacheVi = mutableMapOf<String, String>()
+    private val vocabCacheEn = mutableMapOf<String, String>()
 
     init {
         loadGrammarRules()
@@ -58,7 +86,7 @@ class SentenceAnalyzer(private val context: Context) {
             val keys = obj.keys()
             while (keys.hasNext()) {
                 val key = keys.next()
-                vocabCache[key] = obj.getString(key)
+                vocabCacheVi[key] = obj.getString(key)
             }
         } catch (e: Exception) {
             e.printStackTrace()
@@ -73,9 +101,10 @@ class SentenceAnalyzer(private val context: Context) {
                 val obj = arr.getJSONObject(i)
                 val pattern = obj.getString("pattern")
                 val regexStr = obj.optString("regex", pattern)
-                val meaning = obj.getString("meaning")
+                val meaningVi = obj.getString("meaning")
+                val meaningEn = obj.optString("meaning_en", meaningVi)
                 val level = obj.optString("level", "JLPT")
-                val g = GrammarMatch(pattern, meaning, level)
+                val g = GrammarMatch(pattern, meaningVi, meaningEn, level)
                 grammarList.add(g)
                 grammarRegexes.add(Pair(Regex(regexStr), g))
             }
@@ -87,7 +116,7 @@ class SentenceAnalyzer(private val context: Context) {
     fun analyzeFull(text: String): FullAnalysisResult {
         val trimmed = text.trim()
         if (trimmed.isEmpty()) {
-            return FullAnalysisResult(text, emptyList(), emptyList(), emptyList())
+            return FullAnalysisResult(text, emptyList(), emptyList(), emptyList(), "", "")
         }
 
         // Tách thành từng câu theo dấu ngắt câu tiếng Nhật hoặc dấu chấm/xuống dòng
@@ -96,12 +125,11 @@ class SentenceAnalyzer(private val context: Context) {
 
         val sentenceResults = sentenceList.map { s -> analyzeSentence(s) }
 
-        // Gom tất cả từ vựng không trùng lặp (ưu tiên theo surface hoặc baseForm)
+        // Gom tất cả từ vựng không trùng lặp
         val seenTokens = mutableSetOf<String>()
         val uniqueTokens = mutableListOf<TokenAnalysis>()
         for (sr in sentenceResults) {
             for (t in sr.tokens) {
-                // Lọc bỏ ký hiệu / dấu câu nếu chỉ là ký tự đặc biệt
                 if (t.surface.isBlank() || t.surface.all { it in "。、！？,.!?\n\r\t " }) continue
                 val key = "${t.baseForm}_${t.surface}"
                 if (key !in seenTokens) {
@@ -123,11 +151,16 @@ class SentenceAnalyzer(private val context: Context) {
             }
         }
 
+        val fullTransVi = sentenceResults.joinToString(" ") { it.translationVi }.trim()
+        val fullTransEn = sentenceResults.joinToString(" ") { it.translationEn }.trim()
+
         return FullAnalysisResult(
             fullText = trimmed,
             sentences = sentenceResults,
             allUniqueTokens = uniqueTokens,
-            allUniqueGrammars = uniqueGrammars
+            allUniqueGrammars = uniqueGrammars,
+            fullTranslationVi = fullTransVi,
+            fullTranslationEn = fullTransEn
         )
     }
 
@@ -155,17 +188,25 @@ class SentenceAnalyzer(private val context: Context) {
                     val surface = token.surface
                     val baseForm = if (token.baseForm != "*") token.baseForm else surface
                     val reading = if (token.reading != "*") katakanaToHiragana(token.reading) else ""
-                    val pos = token.partOfSpeechLevel1
+                    val rawPos = token.partOfSpeechLevel1
                     val hasKanji = containsKanji(surface)
-                    val meaning = lookupMeaning(surface, baseForm)
+
+                    val posVi = mapPosToVietnamese(rawPos)
+                    val posEn = mapPosToEnglish(rawPos)
+
+                    val (meaningVi, meaningEn, amHan) = lookupMeanings(surface, baseForm)
 
                     TokenAnalysis(
                         surface = surface,
                         baseForm = baseForm,
                         reading = reading,
-                        partOfSpeech = pos,
-                        meaning = meaning,
-                        hasKanji = hasKanji
+                        partOfSpeech = rawPos,
+                        partOfSpeechVi = posVi,
+                        partOfSpeechEn = posEn,
+                        meaningVi = meaningVi,
+                        meaningEn = meaningEn,
+                        hasKanji = hasKanji,
+                        amHan = amHan
                     )
                 }
             } catch (e: Throwable) {
@@ -176,61 +217,108 @@ class SentenceAnalyzer(private val context: Context) {
             fallbackTokenize(sentence)
         }
 
+        // 3. Xây dựng bản dịch tự động cho câu
+        val transVi = synthesizeSentenceTranslation(sentence, tokens, matchedGrammars, isEnglish = false)
+        val transEn = synthesizeSentenceTranslation(sentence, tokens, matchedGrammars, isEnglish = true)
+
         return SingleSentenceResult(
             sentence = sentence,
             tokens = tokens,
-            grammars = matchedGrammars
+            grammars = matchedGrammars,
+            translationVi = transVi,
+            translationEn = transEn
         )
+    }
+
+    private fun synthesizeSentenceTranslation(
+        sentence: String,
+        tokens: List<TokenAnalysis>,
+        grammars: List<GrammarMatch>,
+        isEnglish: Boolean
+    ): String {
+        // Lấy nghĩa các thành phần chính (danh từ, động từ, tính từ, phó từ)
+        val meaningfulParts = tokens.filter { token ->
+            val pos = token.partOfSpeech
+            pos in listOf("名詞", "動詞", "形容詞", "形容動詞", "副詞", "連体詞", "感動詞") &&
+                    !token.surface.all { it in "。、！？,.!?\n\r\t " }
+        }.mapNotNull { token ->
+            val raw = if (isEnglish) token.meaningEn ?: token.meaningVi else token.meaningVi ?: token.meaningEn
+            cleanFirstPhrase(raw)
+        }
+
+        if (meaningfulParts.isEmpty()) {
+            return if (isEnglish) "Sentence: $sentence" else "Câu: $sentence"
+        }
+
+        // Ghép tự nhiên theo cụm nghĩa
+        val joined = meaningfulParts.distinct().joinToString(" ")
+        return if (joined.isNotBlank()) {
+            joined.replaceFirstChar { it.uppercase() } + "."
+        } else {
+            sentence
+        }
+    }
+
+    private fun cleanFirstPhrase(text: String?): String? {
+        if (text.isNullOrBlank()) return null
+        val noColon = if (text.contains(":")) text.substringAfter(":").trim() else text
+        val firstSemi = noColon.split(";")[0].trim()
+        val firstComma = firstSemi.split(",")[0].trim()
+        return firstComma.ifBlank { null }
     }
 
     private fun fallbackTokenize(sentence: String): List<TokenAnalysis> {
         return sentence.map { ch ->
             val s = ch.toString()
             val hasK = isKanjiChar(ch)
+            val (meaningVi, meaningEn, amHan) = lookupMeanings(s, s)
             TokenAnalysis(
                 surface = s,
                 baseForm = s,
                 reading = "",
                 partOfSpeech = if (hasK) "名詞" else "記号",
-                meaning = lookupMeaning(s, s),
-                hasKanji = hasK
+                partOfSpeechVi = if (hasK) "Danh từ" else "Ký hiệu",
+                partOfSpeechEn = if (hasK) "Noun" else "Symbol",
+                meaningVi = meaningVi,
+                meaningEn = meaningEn,
+                hasKanji = hasK,
+                amHan = amHan
             )
         }
     }
 
-    private fun lookupMeaning(surface: String, baseForm: String): String? {
-        // 1. Tra cứu trực tiếp từ từ điển compact offline (ưu tiên theo surface hoặc baseForm)
-        vocabCache[surface]?.let { return it }
-        vocabCache[baseForm]?.let { return it }
+    private fun lookupMeanings(surface: String, baseForm: String): Triple<String?, String?, String?> {
+        var viMeaning: String? = vocabCacheVi[surface] ?: vocabCacheVi[baseForm]
+        var enMeaning: String? = vocabCacheEn[surface] ?: vocabCacheEn[baseForm]
+        var amHanStr: String? = null
 
-        // 2. Tra cứu kanji nếu là chữ đơn
+        // Tra cứu kanji nếu là chữ đơn
         val target = if (surface.length == 1 && containsKanji(surface)) surface
-                     else if (baseForm.length == 1 && containsKanji(baseForm)) baseForm
-                     else null
+        else if (baseForm.length == 1 && containsKanji(baseForm)) baseForm
+        else null
 
         if (target != null) {
-            val found = lookupKanjiMeaning(target)
-            if (found != null) {
-                vocabCache[target] = found
-                return found
+            val (kVi, kEn, kAmHan) = lookupKanjiMetadata(target)
+            if (viMeaning == null) viMeaning = kVi
+            if (enMeaning == null) enMeaning = kEn
+            amHanStr = kAmHan
+        }
+
+        // Nếu là từ ghép chứa Kanji đầu tiên, thử tìm trong vocabulary của chữ Kanji đó
+        if (viMeaning == null || enMeaning == null) {
+            val firstKanji = surface.firstOrNull { isKanjiChar(it) } ?: baseForm.firstOrNull { isKanjiChar(it) }
+            if (firstKanji != null) {
+                val fkStr = firstKanji.toString()
+                val (vVi, vEn) = lookupVocabFromKanji(fkStr, surface, baseForm)
+                if (viMeaning == null) viMeaning = vVi
+                if (enMeaning == null) enMeaning = vEn
             }
         }
 
-        // 3. Nếu là từ ghép chứa Kanji đầu tiên, thử tìm trong vocabulary của chữ Kanji đó
-        val firstKanji = surface.firstOrNull { isKanjiChar(it) } ?: baseForm.firstOrNull { isKanjiChar(it) }
-        if (firstKanji != null) {
-            val fkStr = firstKanji.toString()
-            val vocabMeaning = lookupVocabFromKanji(fkStr, surface, baseForm)
-            if (vocabMeaning != null) {
-                vocabCache[surface] = vocabMeaning
-                return vocabMeaning
-            }
-        }
-
-        return null
+        return Triple(viMeaning, enMeaning, amHanStr)
     }
 
-    private fun lookupVocabFromKanji(kanji: String, surface: String, baseForm: String): String? {
+    private fun lookupVocabFromKanji(kanji: String, surface: String, baseForm: String): Pair<String?, String?> {
         return try {
             val jsonString = context.assets.open("metadata/$kanji.json").bufferedReader().use { it.readText() }
             val obj = JSONObject(jsonString)
@@ -240,29 +328,63 @@ class SentenceAnalyzer(private val context: Context) {
                     val item = vArr.optJSONObject(i) ?: continue
                     val word = item.optString("word", "")
                     if (word == surface || word == baseForm) {
-                        return if (item.has("meaning") && !item.isNull("meaning")) item.getString("meaning") else null
+                        val vi = if (item.has("meaning") && !item.isNull("meaning")) item.getString("meaning") else null
+                        val en = if (item.has("meaning_en") && !item.isNull("meaning_en")) item.getString("meaning_en") else null
+                        return Pair(vi, en)
                     }
                 }
             }
-            null
+            Pair(null, null)
         } catch (e: Exception) {
-            null
+            Pair(null, null)
         }
     }
 
-    private fun lookupKanjiMeaning(kanji: String): String? {
+    private fun lookupKanjiMetadata(kanji: String): Triple<String?, String?, String?> {
         return try {
             val jsonString = context.assets.open("metadata/$kanji.json").bufferedReader().use { it.readText() }
             val obj = JSONObject(jsonString)
             val amHan = obj.optJSONObject("reading")?.optString("am_han", "")
             val vi = obj.optJSONObject("meaning")?.optString("vi", "")
-            if (!amHan.isNullOrBlank() && !vi.isNullOrBlank()) "$amHan: $vi"
-            else if (!vi.isNullOrBlank()) vi
-            else if (!amHan.isNullOrBlank()) amHan
-            else null
+            val en = obj.optJSONObject("meaning")?.optString("en", "")
+            val viFull = if (!amHan.isNullOrBlank() && !vi.isNullOrBlank()) "$amHan: $vi"
+            else vi ?: amHan
+            Triple(viFull, en, amHan)
         } catch (e: Exception) {
-            null
+            Triple(null, null, null)
         }
+    }
+
+    private fun mapPosToVietnamese(pos: String): String = when (pos) {
+        "名詞" -> "Danh từ"
+        "動詞" -> "Động từ"
+        "形容詞" -> "Tính từ (i)"
+        "形容動詞" -> "Tính từ (na)"
+        "副詞" -> "Phó từ"
+        "助詞" -> "Trợ từ"
+        "助動詞" -> "Trợ động từ"
+        "接続詞" -> "Liên từ"
+        "感動詞" -> "Thán từ"
+        "連体詞" -> "Từ hạn định"
+        "接頭詞" -> "Tiền tố"
+        "記号" -> "Ký hiệu"
+        else -> pos
+    }
+
+    private fun mapPosToEnglish(pos: String): String = when (pos) {
+        "名詞" -> "Noun"
+        "動詞" -> "Verb"
+        "形容詞" -> "I-Adjective"
+        "形容動詞" -> "Na-Adjective"
+        "副詞" -> "Adverb"
+        "助詞" -> "Particle"
+        "助動詞" -> "Auxiliary Verb"
+        "接続詞" -> "Conjunction"
+        "感動詞" -> "Interjection"
+        "連体詞" -> "Adnominal"
+        "接頭詞" -> "Prefix"
+        "記号" -> "Symbol"
+        else -> pos
     }
 
     fun containsKanji(text: String): Boolean {
