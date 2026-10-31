@@ -141,6 +141,26 @@ object AppStrings {
         AppLanguage.ENGLISH -> "$count strokes"
     }
 
+    fun wordUsage(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Cách dùng & Ngữ cảnh"
+        AppLanguage.ENGLISH -> "Usage & Context"
+    }
+
+    fun exampleSentences(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Ví dụ minh họa"
+        AppLanguage.ENGLISH -> "Example Sentences"
+    }
+
+    fun onReadingsLabel(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Âm On (Katakana)"
+        AppLanguage.ENGLISH -> "On Readings (Katakana)"
+    }
+
+    fun kunReadingsLabel(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Âm Kun (Hiragana)"
+        AppLanguage.ENGLISH -> "Kun Readings (Hiragana)"
+    }
+
     fun mnemonic(lang: AppLanguage) = when (lang) {
         AppLanguage.VIETNAMESE -> "Mẹo nhớ (Mnemonic)"
         AppLanguage.ENGLISH -> "Mnemonic Tips"

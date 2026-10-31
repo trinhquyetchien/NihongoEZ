@@ -209,7 +209,7 @@ fun AppHeaderControls(viewModel: KanjiViewModel) {
             contentDescription = "Onis Logo",
             modifier = Modifier
                 .size(36.dp)
-                .clip(RoundedCornerShape(8.dp))
+                .clip(RoundedCornerShape(10.dp))
         )
         Spacer(Modifier.width(10.dp))
         Text(
@@ -220,42 +220,62 @@ fun AppHeaderControls(viewModel: KanjiViewModel) {
         )
         Spacer(Modifier.weight(1f))
 
-        // Switch Theme: Light / Dark
+        // Switch Theme: Light / Dark - Modern pill switch
         Surface(
-            shape = RoundedCornerShape(20.dp),
+            shape = RoundedCornerShape(24.dp),
             color = MaterialTheme.colorScheme.surfaceVariant,
+            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f)),
             modifier = Modifier
-                .clip(RoundedCornerShape(20.dp))
+                .clip(RoundedCornerShape(24.dp))
                 .clickable { viewModel.isDarkTheme = !viewModel.isDarkTheme }
-                .padding(horizontal = 8.dp, vertical = 4.dp)
         ) {
-            Text(
-                if (viewModel.isDarkTheme) "🌙 Tối" else "☀️ Sáng",
-                style = MaterialTheme.typography.labelSmall,
-                fontWeight = FontWeight.Medium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(horizontal = 10.dp, vertical = 6.dp)
+            ) {
+                Text(
+                    if (viewModel.isDarkTheme) "🌙" else "☀️",
+                    fontSize = 13.sp
+                )
+                Spacer(Modifier.width(4.dp))
+                Text(
+                    if (viewModel.isDarkTheme) "Tối" else "Sáng",
+                    style = MaterialTheme.typography.labelMedium,
+                    fontWeight = FontWeight.SemiBold,
+                    color = MaterialTheme.colorScheme.onSurface
+                )
+            }
         }
 
-        Spacer(Modifier.width(6.dp))
+        Spacer(Modifier.width(8.dp))
 
-        // Switch Language: VI / EN
+        // Switch Language: VI / EN - Modern pill switch
         Surface(
-            shape = RoundedCornerShape(20.dp),
-            color = MaterialTheme.colorScheme.surfaceVariant,
+            shape = RoundedCornerShape(24.dp),
+            color = MaterialTheme.colorScheme.primaryContainer,
+            border = BorderStroke(1.dp, MaterialTheme.colorScheme.primary.copy(alpha = 0.4f)),
             modifier = Modifier
-                .clip(RoundedCornerShape(20.dp))
+                .clip(RoundedCornerShape(24.dp))
                 .clickable {
                     viewModel.appLanguage = if (lang == AppLanguage.VIETNAMESE) AppLanguage.ENGLISH else AppLanguage.VIETNAMESE
                 }
-                .padding(horizontal = 8.dp, vertical = 4.dp)
         ) {
-            Text(
-                if (lang == AppLanguage.VIETNAMESE) "🇻🇳 VI" else "🇬🇧 EN",
-                style = MaterialTheme.typography.labelSmall,
-                fontWeight = FontWeight.Bold,
-                color = MaterialTheme.colorScheme.primary
-            )
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(horizontal = 10.dp, vertical = 6.dp)
+            ) {
+                Text(
+                    if (lang == AppLanguage.VIETNAMESE) "🇻🇳" else "🇬🇧",
+                    fontSize = 13.sp
+                )
+                Spacer(Modifier.width(4.dp))
+                Text(
+                    if (lang == AppLanguage.VIETNAMESE) "VI" else "EN",
+                    style = MaterialTheme.typography.labelMedium,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.primary
+                )
+            }
         }
     }
 }
@@ -351,7 +371,10 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
         }
 
         item {
-            Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+            Row(
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+                modifier = Modifier.fillMaxWidth()
+            ) {
                 // Nút Hoàn tác (Undo)
                 OutlinedButton(
                     onClick = {
@@ -360,9 +383,15 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                         }
                     },
                     modifier = Modifier.weight(1f),
+                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 8.dp),
+                    shape = RoundedCornerShape(12.dp),
                     enabled = viewModel.points.isNotEmpty()
                 ) {
-                    Text(AppStrings.undoStroke(lang))
+                    Text(
+                        AppStrings.undoStroke(lang),
+                        maxLines = 1,
+                        style = MaterialTheme.typography.labelMedium
+                    )
                 }
 
                 // Nút Xóa (Clear)
@@ -373,9 +402,15 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                         viewModel.predictions = emptyList()
                         viewModel.selectedKanji = null
                     },
-                    modifier = Modifier.weight(1f)
+                    modifier = Modifier.weight(1f),
+                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 8.dp),
+                    shape = RoundedCornerShape(12.dp)
                 ) {
-                    Text(AppStrings.clearBtn(lang))
+                    Text(
+                        AppStrings.clearBtn(lang),
+                        maxLines = 1,
+                        style = MaterialTheme.typography.labelMedium
+                    )
                 }
 
                 // Nút Nhận diện
@@ -400,13 +435,20 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                             viewModel.isProcessing = false
                         }
                     },
-                    modifier = Modifier.weight(1.5f),
+                    modifier = Modifier.weight(1.3f),
+                    contentPadding = PaddingValues(horizontal = 6.dp, vertical = 8.dp),
+                    shape = RoundedCornerShape(12.dp),
                     enabled = !viewModel.isProcessing
                 ) {
                     if (viewModel.isProcessing) {
-                        CircularProgressIndicator(modifier = Modifier.size(20.dp), color = Color.White)
+                        CircularProgressIndicator(modifier = Modifier.size(18.dp), color = Color.White)
                     } else {
-                        Text(AppStrings.recognizeBtn(lang))
+                        Text(
+                            AppStrings.recognizeBtn(lang),
+                            maxLines = 1,
+                            style = MaterialTheme.typography.labelMedium,
+                            fontWeight = FontWeight.Bold
+                        )
                     }
                 }
             }
@@ -562,26 +604,67 @@ fun TranslateAnalyzeScreen(
         }
 
         viewModel.fullResult?.let { result ->
-            // Chọn Option: Dịch toàn bộ vs Dịch từng câu
+            // Chọn Option: Dịch toàn bộ vs Dịch từng câu - Modern Segmented Control
             item {
-                Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                Surface(
+                    shape = RoundedCornerShape(14.dp),
+                    color = MaterialTheme.colorScheme.surfaceVariant,
+                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f)),
+                    modifier = Modifier.fillMaxWidth()
                 ) {
-                    FilterChip(
-                        selected = viewModel.viewMode == AnalysisViewMode.ALL,
-                        onClick = { viewModel.viewMode = AnalysisViewMode.ALL },
-                        label = { Text(AppStrings.viewModeAll(lang)) },
-                        modifier = Modifier.weight(1f)
-                    )
-                    FilterChip(
-                        selected = viewModel.viewMode == AnalysisViewMode.SENTENCE,
-                        onClick = { viewModel.viewMode = AnalysisViewMode.SENTENCE },
-                        label = { Text(AppStrings.viewModeSentence(lang, result.sentences.size)) },
-                        modifier = Modifier.weight(1f)
-                    )
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(4.dp)
+                    ) {
+                        // Nút Toàn bộ
+                        val isAllSelected = viewModel.viewMode == AnalysisViewMode.ALL
+                        Surface(
+                            modifier = Modifier
+                                .weight(1f)
+                                .clip(RoundedCornerShape(10.dp))
+                                .clickable { viewModel.viewMode = AnalysisViewMode.ALL },
+                            color = if (isAllSelected) MaterialTheme.colorScheme.surface else Color.Transparent,
+                            shadowElevation = if (isAllSelected) 2.dp else 0.dp
+                        ) {
+                            Box(
+                                contentAlignment = Alignment.Center,
+                                modifier = Modifier.padding(vertical = 10.dp, horizontal = 6.dp)
+                            ) {
+                                Text(
+                                    AppStrings.viewModeAll(lang),
+                                    style = MaterialTheme.typography.labelMedium,
+                                    fontWeight = if (isAllSelected) FontWeight.Bold else FontWeight.Medium,
+                                    color = if (isAllSelected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant
+                                )
+                            }
+                        }
+
+                        // Nút Từng câu
+                        val isSentenceSelected = viewModel.viewMode == AnalysisViewMode.SENTENCE
+                        Surface(
+                            modifier = Modifier
+                                .weight(1f)
+                                .clip(RoundedCornerShape(10.dp))
+                                .clickable { viewModel.viewMode = AnalysisViewMode.SENTENCE },
+                            color = if (isSentenceSelected) MaterialTheme.colorScheme.surface else Color.Transparent,
+                            shadowElevation = if (isSentenceSelected) 2.dp else 0.dp
+                        ) {
+                            Box(
+                                contentAlignment = Alignment.Center,
+                                modifier = Modifier.padding(vertical = 10.dp, horizontal = 6.dp)
+                            ) {
+                                Text(
+                                    AppStrings.viewModeSentence(lang, result.sentences.size),
+                                    style = MaterialTheme.typography.labelMedium,
+                                    fontWeight = if (isSentenceSelected) FontWeight.Bold else FontWeight.Medium,
+                                    color = if (isSentenceSelected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant
+                                )
+                            }
+                        }
+                    }
                 }
-                Spacer(Modifier.height(12.dp))
+                Spacer(Modifier.height(14.dp))
             }
 
             // Nếu chọn mode từng câu -> Hiện danh sách chọn câu
@@ -741,33 +824,39 @@ fun TranslateAnalyzeScreen(
                     Card(
                         modifier = Modifier.fillMaxWidth(),
                         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant),
-                        shape = RoundedCornerShape(12.dp),
+                        shape = RoundedCornerShape(16.dp),
                         border = BorderStroke(1.5.dp, MaterialTheme.colorScheme.primary)
                     ) {
-                        Column(modifier = Modifier.padding(14.dp)) {
+                        Column(modifier = Modifier.padding(16.dp)) {
                             Row(
                                 verticalAlignment = Alignment.CenterVertically,
                                 modifier = Modifier.fillMaxWidth()
                             ) {
                                 Text(
                                     AppStrings.selectedWordHeader(lang),
-                                    style = MaterialTheme.typography.labelMedium,
+                                    style = MaterialTheme.typography.titleMedium,
                                     color = MaterialTheme.colorScheme.primary,
                                     fontWeight = FontWeight.Bold
                                 )
                                 Spacer(Modifier.weight(1f))
-                                Text(
-                                    AppStrings.closeBtn(lang),
-                                    style = MaterialTheme.typography.labelSmall,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                Surface(
+                                    shape = RoundedCornerShape(20.dp),
+                                    color = MaterialTheme.colorScheme.surface,
                                     modifier = Modifier
-                                        .clip(RoundedCornerShape(4.dp))
+                                        .clip(RoundedCornerShape(20.dp))
                                         .clickable { viewModel.selectedTokenForDetail = null }
-                                        .padding(4.dp)
-                                )
+                                        .padding(horizontal = 8.dp, vertical = 4.dp)
+                                ) {
+                                    Text(
+                                        AppStrings.closeBtn(lang),
+                                        style = MaterialTheme.typography.labelSmall,
+                                        fontWeight = FontWeight.Medium,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                                    )
+                                }
                             }
-                            Spacer(Modifier.height(6.dp))
-                            SingleLineTokenCard(index = 1, token = selectedToken, lang = lang)
+                            Spacer(Modifier.height(10.dp))
+                            SingleLineTokenCard(index = 1, token = selectedToken, lang = lang, showFullDetails = true)
                         }
                     }
                     Spacer(Modifier.height(16.dp))
@@ -1012,20 +1101,25 @@ fun TranslateAnalyzeScreen(
 }
 
 // -------------------------------------------------------------------------
-// COMPONENT TỪ VỰNG (HIỂN THỊ CHI TIẾT TỪ VỰNG & Ý NGHĨA RÕ RÀNG)
+// COMPONENT TỪ VỰNG (HIỂN THỊ CHI TIẾT TỪ VỰNG, CÁCH DÙNG & VÍ DỤ MINH HỌA)
 // -------------------------------------------------------------------------
 @Composable
-fun SingleLineTokenCard(index: Int, token: TokenAnalysis, lang: AppLanguage = AppLanguage.VIETNAMESE) {
+fun SingleLineTokenCard(
+    index: Int,
+    token: TokenAnalysis,
+    lang: AppLanguage = AppLanguage.VIETNAMESE,
+    showFullDetails: Boolean = false
+) {
     Surface(
         modifier = Modifier.fillMaxWidth(),
-        shape = RoundedCornerShape(10.dp),
+        shape = RoundedCornerShape(12.dp),
         color = MaterialTheme.colorScheme.surface,
         border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant)
     ) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 12.dp, vertical = 8.dp),
+                .padding(horizontal = 14.dp, vertical = 10.dp),
             verticalAlignment = Alignment.Top
         ) {
             Text(
@@ -1106,6 +1200,82 @@ fun SingleLineTokenCard(index: Int, token: TokenAnalysis, lang: AppLanguage = Ap
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurface
                     )
+                }
+
+                // Hàng 4 & 5 (khi chạm xem chi tiết từ vựng): Cách dùng (Usage) & Câu ví dụ kèm Furigana
+                if (showFullDetails) {
+                    val usage = token.usage(lang)
+                    if (!usage.isNullOrBlank()) {
+                        Spacer(Modifier.height(8.dp))
+                        Surface(
+                            color = MaterialTheme.colorScheme.surfaceVariant,
+                            shape = RoundedCornerShape(8.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Column(modifier = Modifier.padding(10.dp)) {
+                                Text(
+                                    "💡 ${AppStrings.wordUsage(lang)}:",
+                                    style = MaterialTheme.typography.labelMedium,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.primary
+                                )
+                                Spacer(Modifier.height(2.dp))
+                                Text(
+                                    usage,
+                                    style = MaterialTheme.typography.bodySmall,
+                                    color = MaterialTheme.colorScheme.onSurface
+                                )
+                            }
+                        }
+                    }
+
+                    if (token.examples.isNotEmpty()) {
+                        Spacer(Modifier.height(8.dp))
+                        Text(
+                            "📝 ${AppStrings.exampleSentences(lang)}:",
+                            style = MaterialTheme.typography.labelMedium,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                        Spacer(Modifier.height(4.dp))
+                        Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                            token.examples.forEach { ex ->
+                                Surface(
+                                    color = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f),
+                                    shape = RoundedCornerShape(8.dp),
+                                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.4f)),
+                                    modifier = Modifier.fillMaxWidth()
+                                ) {
+                                    Column(modifier = Modifier.padding(8.dp)) {
+                                        // Câu tiếng Nhật
+                                        Text(
+                                            ex.japanese,
+                                            style = MaterialTheme.typography.bodyMedium,
+                                            fontWeight = FontWeight.Bold,
+                                            color = MaterialTheme.colorScheme.onSurface
+                                        )
+                                        // Cách đọc Hiragana
+                                        if (ex.reading.isNotBlank() && ex.reading != ex.japanese) {
+                                            Text(
+                                                "[${ex.reading}]",
+                                                style = MaterialTheme.typography.bodySmall,
+                                                color = MaterialTheme.colorScheme.primary
+                                            )
+                                        }
+                                        // Bản dịch nghĩa
+                                        val exTrans = if (lang == AppLanguage.ENGLISH) ex.translationEn else ex.translationVi
+                                        if (exTrans.isNotBlank()) {
+                                            Text(
+                                                "→ $exTrans",
+                                                style = MaterialTheme.typography.bodySmall,
+                                                color = MaterialTheme.colorScheme.onSurfaceVariant
+                                            )
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
             }
         }
@@ -1318,7 +1488,7 @@ fun KanjiDetailsSection(candidate: KanjiPrediction, lang: AppLanguage = AppLangu
                 InfoBlock(AppStrings.readingLabel(lang), readings.joinToString("\n"))
             }
 
-            if (!details.explanation.isNullOrBlank()) {
+            if (lang == AppLanguage.VIETNAMESE && !details.explanation.isNullOrBlank()) {
                 InfoBlock(AppStrings.detailsHeader(lang), details.explanation)
             }
 
@@ -1326,7 +1496,7 @@ fun KanjiDetailsSection(candidate: KanjiPrediction, lang: AppLanguage = AppLangu
                 VocabularySection(vocabulary = details.vocabulary, lang = lang)
             }
 
-            if (details.mnemonic_comments.isNotEmpty()) {
+            if (lang == AppLanguage.VIETNAMESE && details.mnemonic_comments.isNotEmpty()) {
                 InfoBlock(AppStrings.mnemonic(lang), details.mnemonic_comments.joinToString("\n\n") { "• $it" })
             }
         }

@@ -5,6 +5,13 @@ import com.atilika.kuromoji.ipadic.Tokenizer
 import org.json.JSONArray
 import org.json.JSONObject
 
+data class ExampleSentence(
+    val japanese: String,
+    val reading: String,
+    val translationVi: String,
+    val translationEn: String
+)
+
 data class TokenAnalysis(
     val surface: String,
     val baseForm: String,
@@ -15,7 +22,10 @@ data class TokenAnalysis(
     val meaningVi: String? = null,
     val meaningEn: String? = null,
     val hasKanji: Boolean = false,
-    val amHan: String? = null
+    val amHan: String? = null,
+    val usageNotesVi: String? = null,
+    val usageNotesEn: String? = null,
+    val examples: List<ExampleSentence> = emptyList()
 ) {
     fun meaning(lang: AppLanguage): String? = if (lang == AppLanguage.ENGLISH) {
         meaningEn ?: meaningVi
@@ -27,6 +37,12 @@ data class TokenAnalysis(
         if (partOfSpeechEn.isNotBlank()) partOfSpeechEn else partOfSpeech
     } else {
         if (partOfSpeechVi.isNotBlank()) partOfSpeechVi else partOfSpeech
+    }
+
+    fun usage(lang: AppLanguage): String? = if (lang == AppLanguage.ENGLISH) {
+        usageNotesEn ?: usageNotesVi
+    } else {
+        usageNotesVi ?: usageNotesEn
     }
 }
 
@@ -195,6 +211,7 @@ class SentenceAnalyzer(private val context: Context) {
                     val posEn = mapPosToEnglish(rawPos)
 
                     val (meaningVi, meaningEn, amHan) = lookupMeanings(surface, baseForm)
+                    val (usageVi, usageEn, examples) = lookupWordExtraInfo(surface, baseForm, rawPos, meaningVi)
 
                     TokenAnalysis(
                         surface = surface,
@@ -206,7 +223,10 @@ class SentenceAnalyzer(private val context: Context) {
                         meaningVi = meaningVi,
                         meaningEn = meaningEn,
                         hasKanji = hasKanji,
-                        amHan = amHan
+                        amHan = amHan,
+                        usageNotesVi = usageVi,
+                        usageNotesEn = usageEn,
+                        examples = examples
                     )
                 }
             } catch (e: Throwable) {
@@ -236,27 +256,165 @@ class SentenceAnalyzer(private val context: Context) {
         grammars: List<GrammarMatch>,
         isEnglish: Boolean
     ): String {
-        // Lấy nghĩa các thành phần chính (danh từ, động từ, tính từ, phó từ)
-        val meaningfulParts = tokens.filter { token ->
+        if (tokens.isEmpty()) return sentence
+
+        // Phân loại thành phần câu tiếng Nhật (SOV)
+        // Chủ ngữ (Topic / Subject): đi liền trước は hoặc が
+        val topicTokens = mutableListOf<String>()
+        val objectTokens = mutableListOf<String>()
+        val locationOrTimeTokens = mutableListOf<String>()
+        val verbOrAdjTokens = mutableListOf<String>()
+        val otherTokens = mutableListOf<String>()
+
+        var pendingTokens = mutableListOf<TokenAnalysis>()
+
+        for (i in tokens.indices) {
+            val token = tokens[i]
+            val surface = token.surface
             val pos = token.partOfSpeech
-            pos in listOf("名詞", "動詞", "形容詞", "形容動詞", "副詞", "連体詞", "感動詞") &&
-                    !token.surface.all { it in "。、！？,.!?\n\r\t " }
-        }.mapNotNull { token ->
-            val raw = if (isEnglish) token.meaningEn ?: token.meaningVi else token.meaningVi ?: token.meaningEn
-            cleanFirstPhrase(raw)
+
+            when (surface) {
+                "は" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) topicTokens.add(phrase)
+                    pendingTokens.clear()
+                }
+                "が" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) topicTokens.add(phrase)
+                    pendingTokens.clear()
+                }
+                "を" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) objectTokens.add(phrase)
+                    pendingTokens.clear()
+                }
+                "に", "で", "へ" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val prep = if (isEnglish) {
+                            if (surface == "で") "at/by" else if (surface == "へ") "to" else "in/at"
+                        } else {
+                            if (surface == "で") "ở/bằng" else if (surface == "へ") "đến" else "vào/ở"
+                        }
+                        locationOrTimeTokens.add("$prep $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "から" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val prep = if (isEnglish) "from" else "từ"
+                        locationOrTimeTokens.add("$prep $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "まで" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val prep = if (isEnglish) "until/to" else "đến"
+                        locationOrTimeTokens.add("$prep $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "と" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val conj = if (isEnglish) "and/with" else "và/cùng"
+                        otherTokens.add("$conj $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                else -> {
+                    if (pos in listOf("動詞", "形容詞", "形容動詞")) {
+                        val vMeaning = cleanFirstMeaning(token, isEnglish)
+                        if (!vMeaning.isNullOrBlank()) {
+                            verbOrAdjTokens.add(vMeaning)
+                        }
+                    } else if (pos in listOf("名詞", "副詞", "連体詞", "感動詞")) {
+                        pendingTokens.add(token)
+                    }
+                }
+            }
         }
 
-        if (meaningfulParts.isEmpty()) {
-            return if (isEnglish) "Sentence: $sentence" else "Câu: $sentence"
+        // Bổ sung các token danh từ còn sót chưa gặp trợ từ
+        if (pendingTokens.isNotEmpty()) {
+            val remainPhrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+            if (remainPhrase.isNotBlank()) {
+                if (topicTokens.isEmpty()) topicTokens.add(remainPhrase)
+                else objectTokens.add(remainPhrase)
+            }
         }
 
-        // Ghép tự nhiên theo cụm nghĩa
-        val joined = meaningfulParts.distinct().joinToString(" ")
-        return if (joined.isNotBlank()) {
-            joined.replaceFirstChar { it.uppercase() } + "."
+        // Kiểm tra thì/thể ngữ pháp đặc biệt
+        val sentenceStr = sentence
+        var aspectPrefix = ""
+        var aspectSuffix = ""
+        if (!isEnglish) {
+            when {
+                sentenceStr.contains("ています") || sentenceStr.contains("ている") -> aspectPrefix = "đang "
+                sentenceStr.contains("てください") -> aspectPrefix = "xin hãy "
+                sentenceStr.contains("たい") -> aspectPrefix = "muốn "
+                sentenceStr.contains("なければならない") -> aspectPrefix = "phải "
+                sentenceStr.contains("ことができる") -> aspectPrefix = "có thể "
+                sentenceStr.contains("たことがある") -> aspectPrefix = "đã từng "
+                sentenceStr.contains("ました") || sentenceStr.contains("た") -> aspectPrefix = "đã "
+                sentenceStr.contains("ない") || sentenceStr.contains("ません") -> aspectPrefix = "không "
+            }
         } else {
-            sentence
+            when {
+                sentenceStr.contains("てください") -> aspectPrefix = "please "
+                sentenceStr.contains("たい") -> aspectPrefix = "want to "
+                sentenceStr.contains("なければならない") -> aspectPrefix = "must "
+                sentenceStr.contains("ことができる") -> aspectPrefix = "can "
+                sentenceStr.contains("たことがある") -> aspectPrefix = "have experienced "
+                sentenceStr.contains("ません") || sentenceStr.contains("ない") -> aspectPrefix = "do not "
+            }
         }
+
+        val resultParts = mutableListOf<String>()
+
+        // 1. Chủ ngữ (S)
+        if (topicTokens.isNotEmpty()) {
+            resultParts.add(topicTokens.joinToString(", "))
+        }
+
+        // 2. Vị ngữ / Động từ (V) theo cấu trúc ngữ pháp Việt Nam: S + V + O
+        val verbString = verbOrAdjTokens.joinToString(", ")
+        if (verbString.isNotBlank()) {
+            resultParts.add("$aspectPrefix$verbString$aspectSuffix".trim())
+        } else if (aspectPrefix.isNotBlank()) {
+            resultParts.add(aspectPrefix.trim())
+        }
+
+        // 3. Tân ngữ (O)
+        if (objectTokens.isNotEmpty()) {
+            resultParts.add(objectTokens.joinToString(", "))
+        }
+
+        // 4. Trạng ngữ thời gian/địa điểm
+        if (locationOrTimeTokens.isNotEmpty()) {
+            resultParts.add(locationOrTimeTokens.joinToString(", "))
+        }
+
+        // 5. Thành phần bổ sung
+        if (otherTokens.isNotEmpty()) {
+            resultParts.add(otherTokens.joinToString(", "))
+        }
+
+        val joined = resultParts.filter { it.isNotBlank() }.joinToString(" ")
+        return if (joined.isNotBlank()) {
+            joined.replaceFirstChar { it.uppercase() } + if (joined.endsWith(".") || joined.endsWith("!") || joined.endsWith("?")) "" else "."
+        } else {
+            val fallback = tokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.distinct().joinToString(" ")
+            if (fallback.isNotBlank()) fallback.replaceFirstChar { it.uppercase() } + "." else sentence
+        }
+    }
+
+    private fun cleanFirstMeaning(token: TokenAnalysis, isEnglish: Boolean): String? {
+        val raw = if (isEnglish) token.meaningEn ?: token.meaningVi else token.meaningVi ?: token.meaningEn
+        return cleanFirstPhrase(raw)
     }
 
     private fun cleanFirstPhrase(text: String?): String? {
@@ -338,6 +496,119 @@ class SentenceAnalyzer(private val context: Context) {
         } catch (e: Exception) {
             Pair(null, null)
         }
+    }
+
+    private fun lookupWordExtraInfo(
+        surface: String,
+        baseForm: String,
+        pos: String,
+        meaningVi: String?
+    ): Triple<String?, String?, List<ExampleSentence>> {
+        val examples = mutableListOf<ExampleSentence>()
+        var usageVi: String? = null
+        var usageEn: String? = null
+
+        // Tạo gợi ý ngữ cảnh sử dụng dựa trên loại từ và ý nghĩa
+        when (pos) {
+            "動詞" -> {
+                usageVi = "Động từ hành động/trạng thái. Thường kết hợp với trợ từ を (chỉ tân ngữ), に/へ (chỉ đích đến), で (chỉ địa điểm/phương tiện)."
+                usageEn = "Action or state verb. Commonly used with particles を (direct object), に/へ (destination), or で (location/method)."
+            }
+            "名詞" -> {
+                usageVi = "Danh từ. Có thể làm chủ ngữ với は/が, tân ngữ với を, hoặc bổ ngữ thời gian/địa điểm với に/で."
+                usageEn = "Noun. Can act as a topic/subject with は/が, an object with を, or a time/place complement with に/で."
+            }
+            "形容詞" -> {
+                usageVi = "Tính từ đuôi い. Bổ nghĩa trực tiếp cho danh từ đứng sau, hoặc làm vị ngữ đứng cuối câu khẳng định/phủ định."
+                usageEn = "I-Adjective. Modifies the following noun directly or serves as the predicate at the end of a sentence."
+            }
+            "形容動詞" -> {
+                usageVi = "Tính từ đuôi な. Cần thêm 'な' khi bổ nghĩa cho danh từ đứng sau (VD: ...な人)."
+                usageEn = "Na-Adjective. Requires 'な' when directly modifying a following noun."
+            }
+            "副詞" -> {
+                usageVi = "Phó từ. Dùng để bổ nghĩa cho động từ, tính từ hoặc toàn bộ câu để chỉ mức độ, tần suất, cách thức."
+                usageEn = "Adverb. Modifies verbs, adjectives, or entire clauses to indicate degree, frequency, or manner."
+            }
+        }
+
+        // Tìm ví dụ từ Kanji metadata nếu từ vựng chứa Kanji
+        val firstKanji = surface.firstOrNull { isKanjiChar(it) } ?: baseForm.firstOrNull { isKanjiChar(it) }
+        if (firstKanji != null) {
+            try {
+                val jsonString = context.assets.open("metadata/$firstKanji.json").bufferedReader().use { it.readText() }
+                val obj = JSONObject(jsonString)
+                val vArr = obj.optJSONArray("vocabulary")
+                if (vArr != null) {
+                    for (i in 0 until vArr.length()) {
+                        val item = vArr.optJSONObject(i) ?: continue
+                        val word = item.optString("word", "")
+                        val r = item.optString("reading", "")
+                        val mVi = item.optString("meaning", "")
+                        val mEn = item.optString("meaning_en", "")
+
+                        // Nếu là từ liên quan khác với surface, lấy làm ví dụ
+                        if (word.isNotBlank() && word != surface && examples.size < 2) {
+                            examples.add(
+                                ExampleSentence(
+                                    japanese = word,
+                                    reading = r,
+                                    translationVi = mVi,
+                                    translationEn = if (mEn.isNotBlank()) mEn else mVi
+                                )
+                            )
+                        }
+                    }
+                }
+
+                // Nếu có explanation trong kanji, làm giàu thêm usage
+                val exp = obj.optJSONObject("explanation")?.optString("text", "")
+                if (!exp.isNullOrBlank() && (surface.length == 1 || baseForm.length == 1)) {
+                    usageVi = exp
+                }
+            } catch (e: Exception) {
+                // Ignore
+            }
+        }
+
+        // Tạo câu ví dụ mẫu ngữ cảnh nếu chưa có ví dụ
+        if (examples.isEmpty()) {
+            val cleanM = cleanFirstPhrase(meaningVi) ?: surface
+            when (pos) {
+                "動詞" -> {
+                    examples.add(
+                        ExampleSentence(
+                            japanese = "毎日${baseForm}。",
+                            reading = "まいにち${baseForm}",
+                            translationVi = "Mỗi ngày đều $cleanM.",
+                            translationEn = "I $cleanM every day."
+                        )
+                    )
+                }
+                "名詞" -> {
+                    examples.add(
+                        ExampleSentence(
+                            japanese = "これは${surface}です。",
+                            reading = "これは${surface}です",
+                            translationVi = "Đây là $cleanM.",
+                            translationEn = "This is a/an $cleanM."
+                        )
+                    )
+                }
+                "形容詞", "形容動詞" -> {
+                    examples.add(
+                        ExampleSentence(
+                            japanese = "とても${surface}です。",
+                            reading = "とても${surface}です",
+                            translationVi = "Rất $cleanM.",
+                            translationEn = "It is very $cleanM."
+                        )
+                    )
+                }
+            }
+        }
+
+        return Triple(usageVi, usageEn, examples)
     }
 
     private fun lookupKanjiMetadata(kanji: String): Triple<String?, String?, String?> {
