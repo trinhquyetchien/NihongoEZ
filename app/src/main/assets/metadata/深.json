@@ -110,29 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "深深",
-      "reading": "ふかぶか",
-      "meaning": "sâu sắc"
-    },
-    {
-      "word": "以深",
-      "reading": "いしん",
-      "meaning": "sâu hơn"
-    },
-    {
-      "word": "深田",
-      "reading": "ふかだ",
-      "meaning": "ruộng sâu"
-    },
-    {
-      "word": "深淵",
-      "reading": "しんえん",
-      "meaning": "vực sâu"
-    },
-    {
       "word": "深刻",
       "reading": "しんこく",
       "meaning": "sự nghiêm trọng"
+    },
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaning": "đêm sâu"
     },
     {
       "word": "欲深",
@@ -140,9 +125,24 @@
       "meaning": "tính tham lam"
     },
     {
-      "word": "深酒",
-      "reading": "ふかざけ",
-      "meaning": "sự uống quá chén"
+      "word": "深さ",
+      "reading": "ふかさ",
+      "meaning": "bề sâu"
+    },
+    {
+      "word": "海深",
+      "reading": "かいしん",
+      "meaning": "chiều sâu của biển"
+    },
+    {
+      "word": "深靴",
+      "reading": "ふかぐつ",
+      "meaning": "giày cao cổ"
+    },
+    {
+      "word": "深紫",
+      "reading": "ふかむらさき",
+      "meaning": "tím đậm"
     },
     {
       "word": "深皿",
@@ -150,14 +150,14 @@
       "meaning": "đĩa sâu lòng"
     },
     {
-      "word": "深緋",
-      "reading": "ふかひ",
-      "meaning": "đỏ đậm"
+      "word": "深海",
+      "reading": "しんかい",
+      "meaning": "đại dương sâu"
     },
     {
-      "word": "根深",
-      "reading": "ねぶか",
-      "meaning": "hành hoa"
+      "word": "深田",
+      "reading": "ふかだ",
+      "meaning": "ruộng sâu"
     }
   ]
 }

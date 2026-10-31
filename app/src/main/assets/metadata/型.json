@@ -95,49 +95,49 @@
       "meaning": "cách thức"
     },
     {
-      "word": "ダンベル型(バーベル型)",
-      "reading": "ダンベルがた(バーベルがた)",
-      "meaning": "hình dạng kiểu tạ tay"
-    },
-    {
-      "word": "表現型多型",
-      "reading": "ひょうげんがたたけい",
-      "meaning": "đa hình kiểu hình.sự tồn tại của nhiều quần thể có kiểu hình khác nhau trong một quần thể cùng loài"
-    },
-    {
-      "word": "中型/大型ホッチキス",
-      "reading": "ちゅうがた/おおがたホッチキス",
-      "meaning": "kìm bấm lớn/trung"
-    },
-    {
-      "word": "アセンブリ型（組立型）",
-      "reading": "アセンブリがた（くみたてがた）",
-      "meaning": "lắp ráp khuôn"
-    },
-    {
-      "word": "小型/中型パンチ",
-      "reading": "こがた/ちゅうがたパンチ",
-      "meaning": "đục nhỏ/đục trung"
-    },
-    {
-      "word": "定型",
-      "reading": "ていけい",
-      "meaning": "hình dạng cố định"
-    },
-    {
-      "word": "型キャスト",
-      "reading": "かたキャスト",
-      "meaning": "chuyển đổi kiểu"
-    },
-    {
-      "word": "歯型",
-      "reading": "はがた",
-      "meaning": "dấu răng"
+      "word": "Ａ型",
+      "reading": "エーがた",
+      "meaning": "loại a"
     },
     {
       "word": "金型",
       "reading": "かながた",
       "meaning": "khuôn"
+    },
+    {
+      "word": "Ｂ型",
+      "reading": "ビーがた",
+      "meaning": "loại b"
+    },
+    {
+      "word": "Ｃ型",
+      "reading": "シーがた",
+      "meaning": "loại c"
+    },
+    {
+      "word": "元型",
+      "reading": "げんけい",
+      "meaning": "nguyên mẫu"
+    },
+    {
+      "word": "夜型",
+      "reading": "よるがた",
+      "meaning": "về đêm"
+    },
+    {
+      "word": "Ｏ型",
+      "reading": "オーがた",
+      "meaning": "nhóm o"
+    },
+    {
+      "word": "バス型",
+      "reading": "バスがた",
+      "meaning": "cấu hình kênh"
+    },
+    {
+      "word": "多型",
+      "reading": "たけい",
+      "meaning": "đa hình"
     }
   ]
 }

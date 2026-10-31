@@ -93,14 +93,9 @@
       "meaning": "thuyền buồm"
     },
     {
-      "word": "総帆展帆",
-      "reading": "そうはんてんぱん",
-      "meaning": "việc giương tất cả buồm"
-    },
-    {
-      "word": "出帆",
-      "reading": "しゅっぱん",
-      "meaning": "sự đi thuyền"
+      "word": "主帆",
+      "reading": "しゅはん",
+      "meaning": "chính đi thuyền buồm"
     },
     {
       "word": "裏帆",
@@ -108,9 +103,24 @@
       "meaning": "cánh buồm ngược hướng gió"
     },
     {
+      "word": "横帆",
+      "reading": "おうはん",
+      "meaning": "buồm vuông"
+    },
+    {
+      "word": "帆翔",
+      "reading": "はんしょう",
+      "meaning": "bay lướt gió"
+    },
+    {
       "word": "帆立",
       "reading": "ほたて",
       "meaning": "con điệp"
+    },
+    {
+      "word": "三角帆",
+      "reading": "さんかくほ",
+      "meaning": "cánh buồm tam giác"
     },
     {
       "word": "真帆",
@@ -118,24 +128,14 @@
       "meaning": "đầy đủ đi thuyền buồm"
     },
     {
-      "word": "主帆",
-      "reading": "しゅはん",
-      "meaning": "chính đi thuyền buồm"
+      "word": "帆船",
+      "reading": "はんせん",
+      "meaning": "thuyền buồm"
     },
     {
-      "word": "孤帆",
-      "reading": "こはん",
-      "meaning": "cánh buồm trên biển"
-    },
-    {
-      "word": "帆綱",
-      "reading": "ほづな",
-      "meaning": "dây leo"
-    },
-    {
-      "word": "帆桁",
-      "reading": "ほげた",
-      "meaning": "trục căng buồm"
+      "word": "風帆船",
+      "reading": "ふうはんせん",
+      "meaning": "thuyền buồm kiểu phương tây"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "漬ける",
+      "reading": "つける",
+      "meaning": "chấm"
+    },
+    {
       "word": "漬け",
       "reading": "づけ",
       "meaning": "dưa chua"
     },
     {
-      "word": "漬く",
-      "reading": "つく",
-      "meaning": "được ngâm"
+      "word": "漬け物",
+      "reading": "つけもの",
+      "meaning": "dưa muối"
+    },
+    {
+      "word": "薬漬け",
+      "reading": "くすりづけ",
+      "meaning": "phụ thuộc vào thuốc"
+    },
+    {
+      "word": "桜漬け",
+      "reading": "さくらづけ",
+      "meaning": "hoa đào ngâm muối"
+    },
+    {
+      "word": "氷漬け",
+      "reading": "こおりづけ",
+      "meaning": "đánh nhẹ xuống trong nước đá"
+    },
+    {
+      "word": "菜漬け",
+      "reading": "なづけ",
+      "meaning": "rau muối"
+    },
+    {
+      "word": "漬け汁",
+      "reading": "つけじる",
+      "meaning": "nước dưa chua"
+    },
+    {
+      "word": "沖漬け",
+      "reading": "おきづけ",
+      "meaning": "hải sản ngâm tương"
     },
     {
       "word": "漬物",
       "reading": "つけもの",
       "meaning": "dưa"
-    },
-    {
-      "word": "浸漬",
-      "reading": "しんし",
-      "meaning": "nhúng chìm xuống"
-    },
-    {
-      "word": "茶漬",
-      "reading": "ちゃづけ",
-      "meaning": "cơm trộn nước trà"
-    },
-    {
-      "word": "糟漬",
-      "reading": "かすづけ",
-      "meaning": "dầm giấm"
-    },
-    {
-      "word": "塩漬",
-      "reading": "しおづけ",
-      "meaning": "sự ngâm trong muối"
-    },
-    {
-      "word": "新漬",
-      "reading": "しんづけ",
-      "meaning": "dưa chua tươi"
-    },
-    {
-      "word": "茎漬",
-      "reading": "くきづけ",
-      "meaning": "củ cải muối"
-    },
-    {
-      "word": "漬ける",
-      "reading": "つける",
-      "meaning": "chấm"
     }
   ]
 }

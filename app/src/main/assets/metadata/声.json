@@ -113,19 +113,29 @@
       "meaning": "tiếng"
     },
     {
-      "word": "拡声",
-      "reading": "かくせい",
-      "meaning": "sự khuếch đại âm thanh"
+      "word": "家声",
+      "reading": "かせい",
+      "meaning": "danh dự của gia đình"
     },
     {
-      "word": "大声",
-      "reading": "おおごえ",
-      "meaning": "giọng to"
+      "word": "声道",
+      "reading": "せいどう",
+      "meaning": "khoảng rộng phát âm"
     },
     {
-      "word": "銃声",
-      "reading": "じゅうせい",
-      "meaning": "phát súng"
+      "word": "声母",
+      "reading": "せいぼ",
+      "meaning": "phụ âm đầu"
+    },
+    {
+      "word": "低声",
+      "reading": "ていせい",
+      "meaning": "giọng thấp"
+    },
+    {
+      "word": "声優",
+      "reading": "せいゆう",
+      "meaning": "diễn viên kịch trên sóng phát thanh"
     },
     {
       "word": "音声",
@@ -133,19 +143,9 @@
       "meaning": "âm thanh"
     },
     {
-      "word": "奇声",
-      "reading": "きせい",
-      "meaning": "giong nói chói tai"
-    },
-    {
-      "word": "美声",
-      "reading": "びせい",
-      "meaning": "giọng nói hay"
-    },
-    {
-      "word": "小声",
-      "reading": "こごえ",
-      "meaning": "giọng nhỏ và thấp"
+      "word": "有声",
+      "reading": "ゆうせい",
+      "meaning": "sự phát ra tiếng"
     },
     {
       "word": "仮声",
@@ -153,9 +153,9 @@
       "meaning": "giọng the thé"
     },
     {
-      "word": "怨声",
-      "reading": "えんせい",
-      "meaning": "lời than phiền"
+      "word": "調声",
+      "reading": "ちょうせい",
+      "meaning": "thuộc về âm điệu đánh dấu"
     }
   ]
 }

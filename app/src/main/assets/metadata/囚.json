@@ -88,9 +88,39 @@
   ],
   "vocabulary": [
     {
+      "word": "囚われ",
+      "reading": "とらわれ",
+      "meaning": "việc bị địch bắt"
+    },
+    {
       "word": "囚人",
       "reading": "しゅうじん",
       "meaning": "tù"
+    },
+    {
+      "word": "囚人服",
+      "reading": "しゅうじんふく",
+      "meaning": "đồng phục nhà tù"
+    },
+    {
+      "word": "罪囚",
+      "reading": "ざいしゅう",
+      "meaning": "tù nhân"
+    },
+    {
+      "word": "死刑囚",
+      "reading": "しけいしゅう",
+      "meaning": "phạm nhân nhận án tử"
+    },
+    {
+      "word": "脱獄囚",
+      "reading": "だつごくしゅう",
+      "meaning": "tù nhân vượt ngục"
+    },
+    {
+      "word": "模範囚",
+      "reading": "もはんしゅう",
+      "meaning": "tù nhân lễ phép"
     },
     {
       "word": "獄囚",
@@ -105,36 +135,6 @@
     {
       "word": "累囚",
       "reading": "るいしゅう",
-      "meaning": "tù nhân"
-    },
-    {
-      "word": "免囚",
-      "reading": "めんしゅう",
-      "meaning": "sự ra tù"
-    },
-    {
-      "word": "幽囚",
-      "reading": "ゆうしゅう",
-      "meaning": "sự bỏ tù"
-    },
-    {
-      "word": "囚衣",
-      "reading": "しゅうい",
-      "meaning": "vùng phụ cận"
-    },
-    {
-      "word": "男囚",
-      "reading": "だんしゅう",
-      "meaning": "tù nhân nam"
-    },
-    {
-      "word": "囚徒",
-      "reading": "しゅうと",
-      "meaning": "tù nhân"
-    },
-    {
-      "word": "虜囚",
-      "reading": "りょしゅう",
       "meaning": "tù nhân"
     }
   ]

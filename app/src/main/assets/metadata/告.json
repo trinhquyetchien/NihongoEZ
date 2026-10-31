@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "原告対被告",
-      "reading": "げんこくたいひこく",
-      "meaning": "nguyên cáo chống lại bị kiện"
-    },
-    {
-      "word": "原告",
-      "reading": "げんこく",
-      "meaning": "bên nguyên"
+      "word": "報告",
+      "reading": "ほうこく",
+      "meaning": "báo cáo"
     },
     {
       "word": "広告",
@@ -109,34 +104,39 @@
       "meaning": "sự cảnh cáo"
     },
     {
-      "word": "告発",
-      "reading": "こくはつ",
-      "meaning": "sự khởi tố"
-    },
-    {
-      "word": "告知",
-      "reading": "こくち",
-      "meaning": "chú ý"
-    },
-    {
       "word": "告白",
       "reading": "こくはく",
       "meaning": "thổ lộ"
     },
     {
-      "word": "聖告",
-      "reading": "せいこく",
-      "meaning": "lời truyền tin"
+      "word": "申告",
+      "reading": "しんこく",
+      "meaning": "giấy khai"
     },
     {
-      "word": "再告",
-      "reading": "さいこく",
-      "meaning": "thông báo lại"
+      "word": "勧告",
+      "reading": "かんこく",
+      "meaning": "sự khuyến cáo"
     },
     {
-      "word": "告達",
-      "reading": "こくたつ",
-      "meaning": "sự báo"
+      "word": "布告",
+      "reading": "ふこく",
+      "meaning": "sắc lệnh"
+    },
+    {
+      "word": "忠告",
+      "reading": "ちゅうこく",
+      "meaning": "lời khuyên"
+    },
+    {
+      "word": "予告",
+      "reading": "よこく",
+      "meaning": "sự báo trước"
+    },
+    {
+      "word": "告知",
+      "reading": "こくち",
+      "meaning": "chú ý"
     }
   ]
 }

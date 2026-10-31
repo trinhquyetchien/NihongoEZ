@@ -87,34 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "悠悠",
+      "word": "悠々",
       "reading": "ゆうゆう",
-      "meaning": "làm yên"
-    },
-    {
-      "word": "悠悠閑閑",
-      "reading": "ゆうゆうかんかん",
-      "meaning": "cuộc sống trời quang mây tạnh"
-    },
-    {
-      "word": "悠悠自適",
-      "reading": "ゆうゆうじてき",
-      "meaning": "làm yên và sự thôi việc tiện nghi giải phóng từ thế gian những ô tô"
-    },
-    {
-      "word": "悠悠自適の生活",
-      "reading": "ゆうゆうじてきのせいかつ",
-      "meaning": "cuộc sống giải phóng từ thế gian những ô tô"
-    },
-    {
-      "word": "悠揚",
-      "reading": "ゆうよう",
-      "meaning": "bình tĩnh"
-    },
-    {
-      "word": "悠然",
-      "reading": "ゆうぜん",
-      "meaning": "bình tĩnh"
+      "meaning": "nhàn tản"
     },
     {
       "word": "悠久",
@@ -122,19 +97,44 @@
       "meaning": "mãi mãi"
     },
     {
-      "word": "悠遠",
-      "reading": "ゆうえん",
-      "meaning": "faraway"
-    },
-    {
       "word": "悠長",
       "reading": "ゆうちょう",
       "meaning": "dàn trải"
     },
     {
-      "word": "悠々",
+      "word": "悠然",
+      "reading": "ゆうぜん",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "悠悠",
       "reading": "ゆうゆう",
-      "meaning": "nhàn tản"
+      "meaning": "làm yên"
+    },
+    {
+      "word": "悠遠",
+      "reading": "ゆうえん",
+      "meaning": "faraway"
+    },
+    {
+      "word": "悠揚",
+      "reading": "ゆうよう",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "悠々自適",
+      "reading": "ゆうゆうじてき",
+      "meaning": "làm yên và sự thôi việc tiện nghi giải phóng từ thế gian những ô tô"
+    },
+    {
+      "word": "悠然として",
+      "reading": "ゆうぜんとして",
+      "meaning": "với một không khí sự bình tĩnh hoàn hảo"
+    },
+    {
+      "word": "悠悠閑閑",
+      "reading": "ゆうゆうかんかん",
+      "meaning": "cuộc sống trời quang mây tạnh"
     }
   ]
 }

@@ -56,9 +56,9 @@
       "meaning": "bụi cây"
     },
     {
-      "word": "薮蚊",
-      "reading": "やぶか",
-      "meaning": "muỗi vằn"
+      "word": "薮入り",
+      "reading": "やぶいり",
+      "meaning": "ngày lễ dành cho người hầu vào ngày 16 của tháng giêng và thứ bảy"
     },
     {
       "word": "竹薮",
@@ -66,14 +66,14 @@
       "meaning": "lùm cây tre"
     },
     {
+      "word": "薮蚊",
+      "reading": "やぶか",
+      "meaning": "muỗi vằn"
+    },
+    {
       "word": "薮蛇",
       "reading": "やぶへび",
       "meaning": "im lặng là điều cần thiết"
-    },
-    {
-      "word": "薮入り",
-      "reading": "やぶいり",
-      "meaning": "ngày lễ dành cho người hầu vào ngày 16 của tháng giêng và thứ bảy"
     },
     {
       "word": "薮蛇になる",
@@ -86,14 +86,14 @@
       "meaning": "trở nên rắc rối do hành động thừa thãi của chính mình"
     },
     {
-      "word": "八幡の薮知らず",
-      "reading": "やわたのやぶしらず",
-      "meaning": "mê cung"
-    },
-    {
       "word": "薮をつついて蛇を出す",
       "reading": "やぶをつついてへびをだす",
       "meaning": "đừng làm điều gì thừa thãi"
+    },
+    {
+      "word": "八幡の薮知らず",
+      "reading": "やわたのやぶしらず",
+      "meaning": "mê cung"
     }
   ]
 }

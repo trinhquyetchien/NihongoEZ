@@ -94,9 +94,14 @@
   ],
   "vocabulary": [
     {
-      "word": "退園",
-      "reading": "たいえん",
-      "meaning": "đi ra ngoài từ sở thú và công viên"
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "sự ra viện"
+    },
+    {
+      "word": "退治",
+      "reading": "たいじ",
+      "meaning": "sự chinh phục"
     },
     {
       "word": "退学",
@@ -104,44 +109,39 @@
       "meaning": "sự bỏ học"
     },
     {
-      "word": "減退",
-      "reading": "げんたい",
-      "meaning": "sự giảm sút"
-    },
-    {
       "word": "辞退",
       "reading": "じたい",
       "meaning": "sự khước từ"
     },
     {
-      "word": "退席",
-      "reading": "たいせき",
-      "meaning": "rời bỏ một có cái ghế"
+      "word": "退化",
+      "reading": "たいか",
+      "meaning": "thoái hoá"
     },
     {
-      "word": "退室",
-      "reading": "たいしつ",
-      "meaning": "ra khỏi phòng"
+      "word": "退く",
+      "reading": "しりぞく",
+      "meaning": "rút"
     },
     {
-      "word": "退縮",
-      "reading": "たいしゅく",
-      "meaning": "sự co lại"
+      "word": "撤退",
+      "reading": "てったい",
+      "meaning": "sự rút lui"
     },
     {
-      "word": "退勤",
-      "reading": "たいきん",
-      "meaning": "sự ra về"
+      "word": "海退",
+      "reading": "かいたい",
+      "meaning": "biển lùi hay còn gọi là biển thoái"
     },
     {
-      "word": "退耕",
-      "reading": "たいこう",
-      "meaning": "sự nghỉ hưu từ chức vụ chính phủ và tham gia vào nông nghiệp"
+      "word": "不退",
+      "reading": "ふたい",
+      "meaning": "sự xác định"
     },
     {
-      "word": "縮退",
-      "reading": "しゅくたい",
-      "meaning": "co rút"
+      "word": "退園",
+      "reading": "たいえん",
+      "meaning": "đi ra ngoài từ sở thú và công viên"
     }
   ]
 }

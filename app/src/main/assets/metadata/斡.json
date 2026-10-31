@@ -52,19 +52,9 @@
   ],
   "vocabulary": [
     {
-      "word": "斡",
-      "reading": "",
-      "meaning": "cai trị"
-    },
-    {
       "word": "斡旋",
       "reading": "あっせん",
       "meaning": "trung gian"
-    },
-    {
-      "word": "斡旋料",
-      "reading": "あっせんりょう",
-      "meaning": "đại diện có sự tích nạp"
     },
     {
       "word": "斡旋者",
@@ -77,9 +67,29 @@
       "meaning": "người hoà giải"
     },
     {
+      "word": "斡旋料",
+      "reading": "あっせんりょう",
+      "meaning": "đại diện có sự tích nạp"
+    },
+    {
       "word": "斡旋案",
       "reading": "あっせんあん",
       "meaning": "kế hoạch điều đình"
+    },
+    {
+      "word": "斡",
+      "reading": "",
+      "meaning": "cai trị"
+    },
+    {
+      "word": "斡旋する",
+      "reading": "あっせん",
+      "meaning": "làm trung gian hòa giải"
+    },
+    {
+      "word": "斡旋販売",
+      "reading": "あっせんはんばい",
+      "meaning": "tiếp thị qua trung gian"
     },
     {
       "word": "斡旋業者",
@@ -87,19 +97,9 @@
       "meaning": "người điều đình"
     },
     {
-      "word": "斡旋収賄",
-      "reading": "あっせんしゅうわい",
-      "meaning": "ảnh hưởng bán rong"
-    },
-    {
       "word": "就職斡旋",
       "reading": "しゅうしょくあっせん",
       "meaning": "sắp đặt"
-    },
-    {
-      "word": "転職斡旋",
-      "reading": "てんしょくあっせん",
-      "meaning": "sự môi giới việc làm"
     }
   ]
 }

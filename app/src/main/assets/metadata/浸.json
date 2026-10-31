@@ -91,44 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "浸る",
-      "reading": "ひたる",
-      "meaning": "bị thấm ướt"
+      "word": "浸す",
+      "reading": "ひたす",
+      "meaning": "dấn"
     },
     {
-      "word": "防浸",
-      "reading": "ぼうしん",
-      "meaning": "kín nước"
+      "word": "浸透",
+      "reading": "しんとう",
+      "meaning": "sự thẩm thấu"
     },
     {
-      "word": "浸漬",
-      "reading": "しんし",
-      "meaning": "nhúng chìm xuống"
+      "word": "浸透性",
+      "reading": "しんとうせい",
+      "meaning": "sự thấm lọc"
     },
     {
-      "word": "浸出",
-      "reading": "しんしゅつ",
-      "meaning": "sự khử kiềm"
+      "word": "浸透度",
+      "reading": "しんとうど",
+      "meaning": "độ thẩm thấu"
     },
     {
-      "word": "浸潤",
-      "reading": "しんじゅん",
-      "meaning": "sự thấm qua"
+      "word": "浸透印",
+      "reading": "しんとういん",
+      "meaning": "con dấu tự thấm mực"
     },
     {
-      "word": "浸蝕",
-      "reading": "しんしょく",
-      "meaning": "sự xói mòn"
-    },
-    {
-      "word": "浸礼",
-      "reading": "しんれい",
-      "meaning": "lễ rửa tội"
-    },
-    {
-      "word": "浸染",
-      "reading": "しんぜん",
-      "meaning": "sự nhuộm"
+      "word": "浸透圧",
+      "reading": "しんとうあつ",
+      "meaning": "áp suất chênh lệch khi thấm lọc"
     },
     {
       "word": "浸水",
@@ -136,9 +126,19 @@
       "meaning": "lễ hạ thủy"
     },
     {
-      "word": "浸透",
-      "reading": "しんとう",
-      "meaning": "sự thẩm thấu"
+      "word": "浸水足",
+      "reading": "しんすいあし",
+      "meaning": "nhúng chân"
+    },
+    {
+      "word": "浸る",
+      "reading": "ひたる",
+      "meaning": "bị thấm ướt"
+    },
+    {
+      "word": "お浸し",
+      "reading": "おひたし",
+      "meaning": "rau xanh luộc trong nước tương có vị cá ngừ"
     }
   ]
 }

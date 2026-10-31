@@ -83,9 +83,34 @@
   ],
   "vocabulary": [
     {
-      "word": "塑造",
-      "reading": "そぞう",
-      "meaning": "đúc"
+      "word": "可塑",
+      "reading": "かそ",
+      "meaning": "chất dẻo"
+    },
+    {
+      "word": "可塑物",
+      "reading": "かそぶつ",
+      "meaning": "chất dẻo"
+    },
+    {
+      "word": "可塑性",
+      "reading": "かそせい",
+      "meaning": "tính dẻo"
+    },
+    {
+      "word": "可塑剤",
+      "reading": "かそざい",
+      "meaning": "chất làm dẻo"
+    },
+    {
+      "word": "熱可塑",
+      "reading": "ねつかそ",
+      "meaning": "chất gia nhiệt"
+    },
+    {
+      "word": "可塑材",
+      "reading": "かそざい",
+      "meaning": "vật chất dẻo"
     },
     {
       "word": "塑性",
@@ -95,27 +120,7 @@
     {
       "word": "彫塑",
       "reading": "ちょうそ",
-      "meaning": "sự khắc và nặn."
-    },
-    {
-      "word": "可塑",
-      "reading": "かそ",
-      "meaning": "chất dẻo"
-    },
-    {
-      "word": "塑像",
-      "reading": "そぞう",
-      "meaning": "tượng bằng đất hoặc đất nung"
-    },
-    {
-      "word": "泥塑",
-      "reading": "でいそ",
-      "meaning": "tượng đất sét nung"
-    },
-    {
-      "word": "可塑材",
-      "reading": "かそざい",
-      "meaning": "vật chất dẻo"
+      "meaning": "sự khắc và nặn"
     },
     {
       "word": "彫塑術",
@@ -123,14 +128,9 @@
       "meaning": "nghệ thuật làm chất dẻo"
     },
     {
-      "word": "可塑剤",
-      "reading": "かそざい",
-      "meaning": "chất làm dẻo"
-    },
-    {
-      "word": "可塑物",
-      "reading": "かそぶつ",
-      "meaning": "chất dẻo"
+      "word": "塑像",
+      "reading": "そぞう",
+      "meaning": "tượng bằng đất hoặc đất nung"
     }
   ]
 }

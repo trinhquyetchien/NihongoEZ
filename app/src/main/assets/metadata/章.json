@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "bài văn"
+    },
+    {
       "word": "章",
       "reading": "しょう",
       "meaning": "chương"
     },
     {
-      "word": "腕章/帽章",
-      "reading": "わんしょう/ぼうしょう",
-      "meaning": "huy hiệu cánh tay/ huy hiệu mũ"
+      "word": "市章",
+      "reading": "ししょう",
+      "meaning": "biểu tượng của một thành phố"
+    },
+    {
+      "word": "国章",
+      "reading": "こくしょう",
+      "meaning": "quốc huy"
     },
     {
       "word": "間章",
@@ -102,29 +112,14 @@
       "meaning": "sự xen vào"
     },
     {
-      "word": "序章",
-      "reading": "じょしょう",
-      "meaning": "chương đầu"
+      "word": "次章",
+      "reading": "じしょう",
+      "meaning": "đi theo chương"
     },
     {
-      "word": "校章",
-      "reading": "こうしょう",
-      "meaning": "huy chương của trường"
-    },
-    {
-      "word": "憲章",
-      "reading": "けんしょう",
-      "meaning": "hiến chương"
-    },
-    {
-      "word": "終章",
-      "reading": "しゅうしょう",
-      "meaning": "phần kết"
-    },
-    {
-      "word": "徽章",
-      "reading": "きしょう",
-      "meaning": "huy hiệu"
+      "word": "社章",
+      "reading": "しゃしょう",
+      "meaning": "huy hiệu của công ty"
     },
     {
       "word": "胸章",
@@ -132,9 +127,14 @@
       "meaning": "huy chương"
     },
     {
-      "word": "国章",
-      "reading": "こくしょう",
-      "meaning": "quốc huy"
+      "word": "首章",
+      "reading": "しゅしょう",
+      "meaning": "chương mở đầu"
+    },
+    {
+      "word": "旧章",
+      "reading": "きゅうしょう",
+      "meaning": "luật cổ xưa"
     }
   ]
 }

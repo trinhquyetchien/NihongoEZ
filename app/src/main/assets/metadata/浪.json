@@ -87,19 +87,39 @@
   ],
   "vocabulary": [
     {
-      "word": "浪浪",
-      "reading": "ろうろう",
-      "meaning": "đi lang thang"
+      "word": "浪費",
+      "reading": "ろうひ",
+      "meaning": "sự lãng phí"
     },
     {
-      "word": "流浪",
-      "reading": "るろう",
-      "meaning": "sự lang thang"
+      "word": "一浪",
+      "reading": "いちろう",
+      "meaning": "trượt kỳ thi tuyển sinh đại học và thi lại một năm sau đó"
     },
     {
-      "word": "漂浪",
-      "reading": "ひょうろう",
-      "meaning": "sự phiêu lãng"
+      "word": "浪人",
+      "reading": "ろうにん",
+      "meaning": "lãng tử"
+    },
+    {
+      "word": "浪費者",
+      "reading": "ろうひしゃ",
+      "meaning": "lãng tử"
+    },
+    {
+      "word": "浪費家",
+      "reading": "ろうひか",
+      "meaning": "người tiêu tiền phung phí"
+    },
+    {
+      "word": "浪人生",
+      "reading": "ろうにんせい",
+      "meaning": "sinh viên thất bại trong cuộc thi tuyển đầu vào"
+    },
+    {
+      "word": "浪華",
+      "reading": "なにわ",
+      "meaning": "tên gọi cũ của vùng osaka"
     },
     {
       "word": "門浪",
@@ -107,34 +127,14 @@
       "meaning": "sóng đứng trong eo biển hẹp"
     },
     {
-      "word": "浪漫",
-      "reading": "ロマン",
-      "meaning": "lãng mạn"
+      "word": "素浪人",
+      "reading": "すろうにん",
+      "meaning": "samurai không có chủ"
     },
     {
-      "word": "浮浪",
-      "reading": "ふろう",
-      "meaning": "sự lang thang"
-    },
-    {
-      "word": "波浪",
-      "reading": "はろう",
-      "meaning": "sóng"
-    },
-    {
-      "word": "浪士",
-      "reading": "ろうし",
-      "meaning": "samurai vô chủ"
-    },
-    {
-      "word": "白浪",
-      "reading": "しらなみ",
-      "meaning": "sóng bạc đầu"
-    },
-    {
-      "word": "浪曲",
-      "reading": "ろうきょく",
-      "meaning": "sự độc tấu những câu chuyện hộ tống bởi samisen"
+      "word": "放浪",
+      "reading": "ほうろう",
+      "meaning": "đi lang thang"
     }
   ]
 }

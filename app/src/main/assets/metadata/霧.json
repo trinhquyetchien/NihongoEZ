@@ -96,34 +96,9 @@
       "meaning": "phủ sương mù"
     },
     {
-      "word": "夕霧",
-      "reading": "ゆうぎり",
-      "meaning": "sương đêm"
-    },
-    {
-      "word": "霧箱",
-      "reading": "きりばこ",
-      "meaning": "buồng mây"
-    },
-    {
-      "word": "霧状",
-      "reading": "きりじょう",
-      "meaning": "phun"
-    },
-    {
-      "word": "煙霧",
-      "reading": "えんむ",
-      "meaning": "sương mù"
-    },
-    {
-      "word": "雲霧",
-      "reading": "うんむ",
-      "meaning": "mây và sương mù"
-    },
-    {
-      "word": "氷霧",
-      "reading": "ひょうむ",
-      "meaning": "sương băng"
+      "word": "夏霧",
+      "reading": "なつぎり",
+      "meaning": "sương mùa hè"
     },
     {
       "word": "海霧",
@@ -131,14 +106,39 @@
       "meaning": "sương mù biển"
     },
     {
-      "word": "霧散",
-      "reading": "むさん",
-      "meaning": "sự biến mất"
+      "word": "山霧",
+      "reading": "やまぎり",
+      "meaning": "sương mù trên núi"
     },
     {
-      "word": "霧中",
-      "reading": "むちゅう",
-      "meaning": "trong sương mù"
+      "word": "霧箱",
+      "reading": "きりばこ",
+      "meaning": "buồng mây"
+    },
+    {
+      "word": "川霧",
+      "reading": "かわぎり",
+      "meaning": "sương mù ở sông"
+    },
+    {
+      "word": "冬霧",
+      "reading": "ふゆぎり",
+      "meaning": "sương mù mùa đông"
+    },
+    {
+      "word": "霧雪",
+      "reading": "むせつ",
+      "meaning": "sương mù tuyết"
+    },
+    {
+      "word": "霧状",
+      "reading": "きりじょう",
+      "meaning": "phun"
+    },
+    {
+      "word": "霧深い",
+      "reading": "きりぶかい",
+      "meaning": "sương mù dày đặc"
     }
   ]
 }

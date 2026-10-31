@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "移植",
-      "reading": "いしょく",
-      "meaning": "việc mang cây đi trồng chỗ khác"
+      "word": "植える",
+      "reading": "うえる",
+      "meaning": "trồng"
     },
     {
-      "word": "誤植",
-      "reading": "ごしょく",
-      "meaning": "lỗi in"
+      "word": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "cỏ cây"
     },
     {
-      "word": "仮植",
-      "reading": "かしょく",
-      "meaning": "sự trồng tạm"
+      "word": "植木",
+      "reading": "うえき",
+      "meaning": "cây trồng"
     },
     {
-      "word": "植樹",
-      "reading": "しょくじゅ",
-      "meaning": "trồng cây"
+      "word": "田植え",
+      "reading": "たうえ",
+      "meaning": "việc trồng cấy lúa"
     },
     {
-      "word": "植字",
-      "reading": "しょくじ",
-      "meaning": "xếp chữ"
+      "word": "植わる",
+      "reading": "うわる",
+      "meaning": "được trồng"
     },
     {
-      "word": "写植",
-      "reading": "しゃしょく",
-      "meaning": "xếp chữ"
+      "word": "植物学",
+      "reading": "しょくぶつがく",
+      "meaning": "thực vật học"
     },
     {
-      "word": "腐植",
-      "reading": "ふしょく",
-      "meaning": "mùn"
+      "word": "植物界",
+      "reading": "しょくぶつかい",
+      "meaning": "giới thực vật"
     },
     {
-      "word": "植栽",
-      "reading": "しょくさい",
-      "meaning": "trồng cây cỏ"
+      "word": "植物誌",
+      "reading": "しょくぶつし",
+      "meaning": "hệ thực vật"
     },
     {
-      "word": "定植",
-      "reading": "ていしょく",
-      "meaning": "sự gieo trồng thường xuyên"
+      "word": "植物相",
+      "reading": "しょくぶつそう",
+      "meaning": "hệ thực vật"
     },
     {
-      "word": "植付",
-      "reading": "うえつけ",
-      "meaning": "gieo trồng"
+      "word": "植物油",
+      "reading": "しょくぶつゆ",
+      "meaning": "dầu thảo mộc"
     }
   ]
 }

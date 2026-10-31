@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "消去",
-      "reading": "しょうきょ",
-      "meaning": "sự loại bỏ"
-    },
-    {
-      "word": "除去",
-      "reading": "じょきょ",
-      "meaning": "loại bỏ"
-    },
-    {
       "word": "去年",
       "reading": "きょねん",
       "meaning": "năm ngoái"
     },
     {
-      "word": "死去",
-      "reading": "しきょ",
-      "meaning": "cái chết"
+      "word": "過去",
+      "reading": "かこ",
+      "meaning": "quá khứ"
     },
     {
-      "word": "去月",
-      "reading": "きょげつ",
-      "meaning": "kéo dài tháng"
+      "word": "去る",
+      "reading": "さる",
+      "meaning": "cút"
     },
     {
-      "word": "抜去",
-      "reading": "ばっきょ",
-      "meaning": "nhổ bỏ"
+      "word": "消去",
+      "reading": "しょうきょ",
+      "meaning": "sự loại bỏ"
     },
     {
-      "word": "去声",
-      "reading": "きょしょう",
-      "meaning": "âm thanh nhỏ dần"
+      "word": "大過去",
+      "reading": "だいかこ",
+      "meaning": "thì quá khứ hoàn thành"
     },
     {
-      "word": "去来",
-      "reading": "きょらい",
-      "meaning": "sự đi về"
+      "word": "過去形",
+      "reading": "かこけい",
+      "meaning": "thì quá khứ"
     },
     {
-      "word": "去痰",
-      "reading": "きょたん",
-      "meaning": "sự loại bỏ đờm"
+      "word": "半過去",
+      "reading": "はんかこ",
+      "meaning": "thời quá khứ không hoàn thành"
     },
     {
-      "word": "去勢",
-      "reading": "きょせい",
-      "meaning": "sự thiến"
+      "word": "去年末",
+      "reading": "きょねんまつ",
+      "meaning": "cuối năm ngoái"
+    },
+    {
+      "word": "過去帳",
+      "reading": "かこちょう",
+      "meaning": "sổ ghi chép lai lịch về người đã qua đời trong gia đình"
+    },
+    {
+      "word": "過去問",
+      "reading": "かこもん",
+      "meaning": "các câu hỏi trước đây"
     }
   ]
 }

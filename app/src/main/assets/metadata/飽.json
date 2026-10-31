@@ -91,14 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "飽き飽き",
-      "reading": "あきあき",
-      "meaning": "chán ngắt"
-    },
-    {
-      "word": "飽く",
-      "reading": "あく",
-      "meaning": "lốp xe"
+      "word": "飽きる",
+      "reading": "あきる",
+      "meaning": "chán"
     },
     {
       "word": "飽和",
@@ -106,24 +101,19 @@
       "meaning": "sự bão hòa"
     },
     {
-      "word": "飽食",
-      "reading": "ほうしょく",
-      "meaning": "tính háu ăn"
-    },
-    {
-      "word": "飽満",
-      "reading": "ほうまん",
-      "meaning": "sự no"
-    },
-    {
       "word": "飽き",
       "reading": "あき",
       "meaning": "sự mệt mỏi"
     },
     {
-      "word": "飽く迄",
-      "reading": "あくまで",
-      "meaning": "kiên quyết tới cùng"
+      "word": "飽和点",
+      "reading": "ほうわてん",
+      "meaning": "sự bão hòa chỉ"
+    },
+    {
+      "word": "飽和色",
+      "reading": "ほうわしょく",
+      "meaning": "bão hòa màu sắc"
     },
     {
       "word": "不飽和",
@@ -131,14 +121,24 @@
       "meaning": "chưa bão hoà"
     },
     {
-      "word": "飽かぬ",
-      "reading": "あかぬ",
-      "meaning": "không biết chán"
+      "word": "飽く",
+      "reading": "あく",
+      "meaning": "lốp xe"
+    },
+    {
+      "word": "飽食",
+      "reading": "ほうしょく",
+      "meaning": "tính háu ăn"
     },
     {
       "word": "飽き性",
       "reading": "あきしょう",
       "meaning": "tính khí thất thường"
+    },
+    {
+      "word": "過飽和",
+      "reading": "かほうわ",
+      "meaning": "sự quá bão hoà"
     }
   ]
 }

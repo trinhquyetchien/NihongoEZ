@@ -37,21 +37,6 @@
       "meaning": "con đỉa"
     },
     {
-      "word": "沼蛭",
-      "reading": "ぬまびる",
-      "meaning": "helobdella stagnalis"
-    },
-    {
-      "word": "肝蛭",
-      "reading": "かんてつ",
-      "meaning": "sán lá gan"
-    },
-    {
-      "word": "蛭蓆",
-      "reading": "ひるむしろ",
-      "meaning": "potamogeton distinctus"
-    },
-    {
       "word": "馬蛭",
       "reading": "うまびる",
       "meaning": "đỉa trâu"
@@ -72,14 +57,29 @@
       "meaning": "chất khoáng bón cây"
     },
     {
-      "word": "血吸蛭",
-      "reading": "ちすいびる",
-      "meaning": "đỉa hút máu"
+      "word": "雄蛭木",
+      "reading": "おひるぎ",
+      "meaning": "vẹt dù"
+    },
+    {
+      "word": "沼蛭",
+      "reading": "ぬまびる",
+      "meaning": "helobdella stagnalis"
+    },
+    {
+      "word": "肝蛭",
+      "reading": "かんてつ",
+      "meaning": "sán lá gan"
     },
     {
       "word": "肝蛭症",
       "reading": "かんてつしょう",
       "meaning": "bệnh sán lá gan"
+    },
+    {
+      "word": "雌蛭木",
+      "reading": "めひるぎ",
+      "meaning": "cây trang"
     }
   ]
 }

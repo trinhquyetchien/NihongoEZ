@@ -95,49 +95,49 @@
       "meaning": "cách nghĩ"
     },
     {
-      "word": "気随気儘",
-      "reading": "きずいきまま",
-      "meaning": "ngang bướng"
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "tâm tình"
     },
     {
-      "word": "短気は損気",
-      "reading": "たんきはそんき",
-      "meaning": "giận quá mất khôn"
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "không khí"
     },
     {
-      "word": "気位",
-      "reading": "きぐらい",
-      "meaning": "lòng tự hào"
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "sự được đông đảo người yêu thích"
     },
     {
-      "word": "ほんの気持ちです",
-      "reading": "ほんのきもちです",
-      "meaning": "chỉ là chút lòng thành thôi"
-    },
-    {
-      "word": "排気",
-      "reading": "はいき",
-      "meaning": "thông hơi"
-    },
-    {
-      "word": "吐気",
-      "reading": "はきけ",
-      "meaning": "buồn nôn"
-    },
-    {
-      "word": "呑気",
-      "reading": "のんき",
-      "meaning": "vô tư"
-    },
-    {
-      "word": "気切",
-      "reading": "きせつ",
-      "meaning": "bất tỉnh"
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "nhiệt độ"
     },
     {
       "word": "景気",
       "reading": "けいき",
       "meaning": "tình hình"
+    },
+    {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "áp suất không khí"
+    },
+    {
+      "word": "蒸気",
+      "reading": "じょうき",
+      "meaning": "hơi nước"
+    },
+    {
+      "word": "換気",
+      "reading": "かんき",
+      "meaning": "lưu thông không khí"
+    },
+    {
+      "word": "湿気",
+      "reading": "しっけ",
+      "meaning": "hơi ẩm"
     }
   ]
 }

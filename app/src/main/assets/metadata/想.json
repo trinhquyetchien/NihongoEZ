@@ -107,34 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "想",
-      "reading": "そう",
-      "meaning": "quan niệm"
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "sự tưởng tượng"
     },
     {
-      "word": "空想",
-      "reading": "くうそう",
-      "meaning": "sự không tưởng"
-    },
-    {
-      "word": "想い",
-      "reading": "おもい",
-      "meaning": "sự từng trải"
-    },
-    {
-      "word": "想う",
-      "reading": "おもう",
-      "meaning": "suy nghĩ"
-    },
-    {
-      "word": "盲想",
-      "reading": "もうそう",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "幻想",
-      "reading": "げんそう",
-      "meaning": "ảo tưởng"
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "lý tưởng"
     },
     {
       "word": "思想",
@@ -142,19 +122,39 @@
       "meaning": "tâm ý"
     },
     {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "bóng"
+    },
+    {
       "word": "感想",
       "reading": "かんそう",
       "meaning": "cảm tưởng"
     },
     {
-      "word": "黙想",
-      "reading": "もくそう",
-      "meaning": "sự ngẫm nghĩ"
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "sáng tạo"
     },
     {
-      "word": "曲想",
-      "reading": "きょくそう",
-      "meaning": "chủ đề ca khúc"
+      "word": "空想",
+      "reading": "くうそう",
+      "meaning": "sự không tưởng"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "sự báo trước"
+    },
+    {
+      "word": "構想",
+      "reading": "こうそう",
+      "meaning": "kế hoạch"
+    },
+    {
+      "word": "愛想",
+      "reading": "あいそ",
+      "meaning": "tính hòa nhã"
     }
   ]
 }

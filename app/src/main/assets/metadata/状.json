@@ -87,24 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "状",
-      "reading": "じょう",
-      "meaning": "giấy"
-    },
-    {
-      "word": "ゼリー状 ゼリーじょう",
-      "reading": "ゼリー状",
-      "meaning": "dạng thạch"
-    },
-    {
-      "word": "矢状",
-      "reading": "しじょう",
-      "meaning": "dọc giữa"
-    },
-    {
-      "word": "糸状",
-      "reading": "しじょう",
-      "meaning": "dạng sợi"
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "trạng thái"
     },
     {
       "word": "現状",
@@ -117,24 +102,39 @@
       "meaning": "triệu chứng bệnh"
     },
     {
-      "word": "状態",
-      "reading": "じょうたい",
-      "meaning": "trạng thái"
+      "word": "状",
+      "reading": "じょう",
+      "meaning": "giấy"
     },
     {
-      "word": "罪状",
-      "reading": "ざいじょう",
-      "meaning": "hỏi giá"
+      "word": "万状",
+      "reading": "ばんじょう",
+      "meaning": "sự làm cho thành nhiều dạng"
     },
     {
-      "word": "賀状",
-      "reading": "がじょう",
-      "meaning": "thiệp chúc mừng năm mới"
+      "word": "剣状",
+      "reading": "けんじょう",
+      "meaning": "tạo dáng thanh gươm"
     },
     {
-      "word": "帯状",
-      "reading": "おびじょう",
-      "meaning": "sọc"
+      "word": "歯状",
+      "reading": "しじょう",
+      "meaning": "đường viền hình răng"
+    },
+    {
+      "word": "形状",
+      "reading": "けいじょう",
+      "meaning": "hình thù"
+    },
+    {
+      "word": "矢状",
+      "reading": "しじょう",
+      "meaning": "dọc giữa"
+    },
+    {
+      "word": "尾状",
+      "reading": "びじょう",
+      "meaning": "cái đuôi"
     }
   ]
 }

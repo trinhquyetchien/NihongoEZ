@@ -94,16 +94,6 @@
   ],
   "vocabulary": [
     {
-      "word": "織",
-      "reading": "おり",
-      "meaning": "sự dệt"
-    },
-    {
-      "word": "絽織り織",
-      "reading": "ろおり",
-      "meaning": "vải lụa dạng lưới"
-    },
-    {
       "word": "組織",
       "reading": "そしき",
       "meaning": "tổ chức"
@@ -114,34 +104,44 @@
       "meaning": "dệt"
     },
     {
-      "word": "織布",
-      "reading": "しょくふ",
+      "word": "織物",
+      "reading": "おりもの",
       "meaning": "vải dệt"
     },
     {
-      "word": "羽織",
-      "reading": "はおり",
-      "meaning": "áo khoác ngoài kiểu nhật"
+      "word": "織る",
+      "reading": "おる",
+      "meaning": "dệt"
     },
     {
-      "word": "織工",
-      "reading": "しょっこう",
-      "meaning": "người dệt vải"
+      "word": "組織的",
+      "reading": "そしきてき",
+      "meaning": "có hệ thống"
     },
     {
-      "word": "織機",
-      "reading": "しょっき",
-      "meaning": "máy dệt"
+      "word": "組織化",
+      "reading": "そしきか",
+      "meaning": "tổ chức"
     },
     {
-      "word": "織目",
-      "reading": "おりめ",
-      "meaning": "kết cấu"
+      "word": "組織体",
+      "reading": "そしきたい",
+      "meaning": "tổ chức"
     },
     {
-      "word": "染織",
-      "reading": "せんしょく",
-      "meaning": "sự nhuộm màu"
+      "word": "再組織",
+      "reading": "さいそしき",
+      "meaning": "sự tổ chức lại"
+    },
+    {
+      "word": "未組織",
+      "reading": "みそしき",
+      "meaning": "không có tổ chức"
+    },
+    {
+      "word": "脳組織",
+      "reading": "のうそしき",
+      "meaning": "mô não"
     }
   ]
 }

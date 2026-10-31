@@ -36,6 +36,26 @@
       "meaning": "đồ nhắm"
     },
     {
+      "word": "強い肴",
+      "reading": "しいざかな",
+      "meaning": "món phụ"
+    },
+    {
+      "word": "酢肴",
+      "reading": "すざかな",
+      "meaning": "món khai vị dấm"
+    },
+    {
+      "word": "珍肴",
+      "reading": "ちんこう",
+      "meaning": "của ngon vật lạ"
+    },
+    {
+      "word": "酒肴",
+      "reading": "しゅこう",
+      "meaning": "thức ăn và đồ uống"
+    },
+    {
       "word": "佳肴",
       "reading": "かこう",
       "meaning": "ngon miệng"
@@ -46,24 +66,9 @@
       "meaning": "duyên dáng"
     },
     {
-      "word": "酒肴",
-      "reading": "しゅこう",
-      "meaning": "thức ăn và đồ uống"
-    },
-    {
-      "word": "珍肴",
-      "reading": "ちんこう",
-      "meaning": "của ngon vật lạ"
-    },
-    {
-      "word": "酢肴",
-      "reading": "すざかな",
-      "meaning": "món khai vị dấm"
-    },
-    {
-      "word": "強い肴",
-      "reading": "しいざかな",
-      "meaning": "món phụ"
+      "word": "肴にする",
+      "reading": "さかなにする",
+      "meaning": "mồi nhậu làm từ cá"
     },
     {
       "word": "粗酒粗肴",
@@ -74,11 +79,6 @@
       "word": "美味佳肴",
       "reading": "びみかこう",
       "meaning": "món ăn ngon"
-    },
-    {
-      "word": "珍味佳肴",
-      "reading": "ちんみかこう",
-      "meaning": "của ngon vật lạ"
     }
   ]
 }

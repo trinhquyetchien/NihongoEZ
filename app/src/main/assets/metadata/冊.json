@@ -112,9 +112,19 @@
       "meaning": "cuốn"
     },
     {
+      "word": "一冊",
+      "reading": "いっさつ",
+      "meaning": "một quyển"
+    },
+    {
       "word": "数冊",
       "reading": "すうさつ",
       "meaning": "vài quyển"
+    },
+    {
+      "word": "手冊",
+      "reading": "しゅさつ",
+      "meaning": "notebook"
     },
     {
       "word": "冊子",
@@ -122,29 +132,19 @@
       "meaning": "quyển sách nhỏ"
     },
     {
-      "word": "冊数",
-      "reading": "さっすう",
-      "meaning": "số sách"
+      "word": "小冊子",
+      "reading": "しょうさっし",
+      "meaning": "cuốn sách nhỏ"
     },
     {
-      "word": "一冊",
-      "reading": "いっさつ",
-      "meaning": "một quyển"
+      "word": "冊封",
+      "reading": "さくほう",
+      "meaning": "sắc phong"
     },
     {
-      "word": "大冊",
-      "reading": "たいさつ",
-      "meaning": "quyển sách dầy"
-    },
-    {
-      "word": "小冊",
-      "reading": "しょうさつ",
-      "meaning": "pamfơlê"
-    },
-    {
-      "word": "短冊",
-      "reading": "たんざく",
-      "meaning": "mảnh giấy nhỏ"
+      "word": "冊封使",
+      "reading": "さくほうし",
+      "meaning": "sứ giả"
     },
     {
       "word": "別冊",
@@ -152,9 +152,9 @@
       "meaning": "tập riêng"
     },
     {
-      "word": "冊立",
-      "reading": "さくりつ",
-      "meaning": "lễ phong chức đế quốc"
+      "word": "分冊",
+      "reading": "ぶんさつ",
+      "meaning": "quyển"
     }
   ]
 }

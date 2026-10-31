@@ -77,9 +77,14 @@
       "meaning": "tôi"
     },
     {
-      "word": "爾汝",
-      "reading": "じじょ",
-      "meaning": "mày"
+      "word": "云爾",
+      "reading": "うんじ",
+      "meaning": "such như"
+    },
+    {
+      "word": "阿爾及",
+      "reading": "アルジェリア",
+      "meaning": "nước an-giê-ri"
     },
     {
       "word": "莞爾",
@@ -87,19 +92,19 @@
       "meaning": "mỉm cười"
     },
     {
-      "word": "爾後",
-      "reading": "じご",
-      "meaning": "sau đó"
-    },
-    {
       "word": "爾来",
       "reading": "じらい",
       "meaning": "kể từ đó"
     },
     {
-      "word": "云爾",
-      "reading": "うんじ",
-      "meaning": "such như"
+      "word": "爾後",
+      "reading": "じご",
+      "meaning": "sau đó"
+    },
+    {
+      "word": "爾汝",
+      "reading": "じじょ",
+      "meaning": "mày"
     },
     {
       "word": "徒爾",
@@ -115,11 +120,6 @@
       "word": "卒爾",
       "reading": "そつじ",
       "meaning": "đột ngột"
-    },
-    {
-      "word": "爾余",
-      "reading": "じよ",
-      "meaning": "ngoài ra"
     }
   ]
 }

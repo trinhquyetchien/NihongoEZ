@@ -94,36 +94,6 @@
       "meaning": "mẹ chồng"
     },
     {
-      "word": "姑息",
-      "reading": "こそく",
-      "meaning": "giấu giếm"
-    },
-    {
-      "word": "姑洗",
-      "reading": "こせん",
-      "meaning": "một trong năm nốt nhạc chính trong hệ thống ngũ cung truyền thống"
-    },
-    {
-      "word": "慈姑",
-      "reading": "くわい",
-      "meaning": "cây hoàng tinh"
-    },
-    {
-      "word": "小姑",
-      "reading": "こじゅうと",
-      "meaning": "chị dâu"
-    },
-    {
-      "word": "舅姑",
-      "reading": "きゅうこ",
-      "meaning": "cha mẹ - bên trong - pháp luật"
-    },
-    {
-      "word": "姑娘",
-      "reading": "クーニャン",
-      "meaning": "phụ nữ"
-    },
-    {
       "word": "嫁姑",
       "reading": "よめしゅうとめ",
       "meaning": "con dâu và mẹ chồng"
@@ -132,6 +102,36 @@
       "word": "麻姑",
       "reading": "まこ",
       "meaning": "ma gu"
+    },
+    {
+      "word": "姑洗",
+      "reading": "こせん",
+      "meaning": "một trong năm nốt nhạc chính trong hệ thống ngũ cung truyền thống"
+    },
+    {
+      "word": "姑息",
+      "reading": "こそく",
+      "meaning": "giấu giếm"
+    },
+    {
+      "word": "舅姑",
+      "reading": "きゅうこ",
+      "meaning": "cha mẹ - bên trong - pháp luật"
+    },
+    {
+      "word": "小姑",
+      "reading": "こじゅうと",
+      "meaning": "chị dâu"
+    },
+    {
+      "word": "姑娘",
+      "reading": "クーニャン",
+      "meaning": "phụ nữ"
+    },
+    {
+      "word": "慈姑",
+      "reading": "くわい",
+      "meaning": "cây hoàng tinh"
     },
     {
       "word": "黒慈姑",

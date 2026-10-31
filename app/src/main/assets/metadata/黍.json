@@ -88,31 +88,6 @@
       "meaning": "cây kê"
     },
     {
-      "word": "唐黍",
-      "reading": "もろこし",
-      "meaning": "ngô"
-    },
-    {
-      "word": "蜀黍",
-      "reading": "もろこし",
-      "meaning": "cây lúa miến"
-    },
-    {
-      "word": "糯黍",
-      "reading": "もちきび",
-      "meaning": "hạt kê"
-    },
-    {
-      "word": "高黍",
-      "reading": "たかきび",
-      "meaning": "cao lương"
-    },
-    {
-      "word": "玉蜀黍",
-      "reading": "とうもろこし",
-      "meaning": "ngô"
-    },
-    {
       "word": "南蛮黍",
       "reading": "なんばんきび",
       "meaning": "ngô"
@@ -123,14 +98,39 @@
       "meaning": "bánh bao bột kê"
     },
     {
-      "word": "砂糖黍",
-      "reading": "さとうきび",
-      "meaning": "mía"
+      "word": "玉蜀黍",
+      "reading": "とうもろこし",
+      "meaning": "ngô"
     },
     {
       "word": "黍魚子",
       "reading": "きびなご",
       "meaning": "thuộc họ cá trích"
+    },
+    {
+      "word": "糯黍",
+      "reading": "もちきび",
+      "meaning": "hạt kê"
+    },
+    {
+      "word": "唐黍",
+      "reading": "もろこし",
+      "meaning": "ngô"
+    },
+    {
+      "word": "蜀黍",
+      "reading": "もろこし",
+      "meaning": "cây lúa miến"
+    },
+    {
+      "word": "高黍",
+      "reading": "たかきび",
+      "meaning": "cao lương"
+    },
+    {
+      "word": "砂糖黍",
+      "reading": "さとうきび",
+      "meaning": "mía"
     }
   ]
 }

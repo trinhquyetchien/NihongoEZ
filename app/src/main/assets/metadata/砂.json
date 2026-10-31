@@ -90,24 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "砂糖",
+      "reading": "さとう",
+      "meaning": "đường"
+    },
+    {
       "word": "砂",
       "reading": "すな",
       "meaning": "cát"
     },
     {
-      "word": "砂紋",
-      "reading": "さもん",
-      "meaning": "sóng sỏi cào"
-    },
-    {
-      "word": "砂場",
-      "reading": "すなば",
-      "meaning": "bãi cát"
-    },
-    {
-      "word": "砂嵐",
-      "reading": "すなあらし",
-      "meaning": "bão cát"
+      "word": "砂漠",
+      "reading": "さばく",
+      "meaning": "sa mạc"
     },
     {
       "word": "砂利",
@@ -115,29 +110,34 @@
       "meaning": "sỏi"
     },
     {
-      "word": "砂糖",
-      "reading": "さとう",
-      "meaning": "đường"
+      "word": "生砂",
+      "reading": "きずな",
+      "meaning": "cát tự nhiên"
     },
     {
-      "word": "砂金",
-      "reading": "しゃきん",
-      "meaning": "bụi vàng"
+      "word": "海砂",
+      "reading": "うみずな",
+      "meaning": "cát biển"
     },
     {
-      "word": "砂上",
-      "reading": "さじょう",
-      "meaning": "trên cát"
+      "word": "砂土",
+      "reading": "さど",
+      "meaning": "đất cát"
+    },
+    {
+      "word": "砂袋",
+      "reading": "すなぶくろ",
+      "meaning": "bao cát"
+    },
+    {
+      "word": "油砂",
+      "reading": "ゆさ",
+      "meaning": "cát dầu"
     },
     {
       "word": "砂肝",
       "reading": "すなぎも",
       "meaning": "cái mề"
-    },
-    {
-      "word": "砂鼠",
-      "reading": "すなねずみ",
-      "meaning": "chuột nhảy mông cổ"
     }
   ]
 }

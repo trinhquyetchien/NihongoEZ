@@ -89,34 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "詞",
-      "reading": "し",
-      "meaning": "từ ngữ"
-    },
-    {
-      "word": "動詞状名詞",
-      "reading": "どうしじょうめいし",
-      "meaning": "động danh từ"
-    },
-    {
-      "word": "名詞的形容詞",
-      "reading": "めいしてきけいようし",
-      "meaning": "tính từ dạng danh từ"
-    },
-    {
       "word": "動詞",
       "reading": "どうし",
       "meaning": "động từ"
     },
     {
-      "word": "台詞",
-      "reading": "せりふ",
-      "meaning": "lời nói"
+      "word": "名詞",
+      "reading": "めいし",
+      "meaning": "danh từ"
     },
     {
-      "word": "祝詞",
-      "reading": "のりと",
-      "meaning": "cầu nguyện nghi thức shinto"
+      "word": "形容詞",
+      "reading": "けいようし",
+      "meaning": "tính từ"
+    },
+    {
+      "word": "副詞",
+      "reading": "ふくし",
+      "meaning": "phó từ"
     },
     {
       "word": "助詞",
@@ -124,19 +114,29 @@
       "meaning": "trợ từ"
     },
     {
-      "word": "作詞",
-      "reading": "さくし",
-      "meaning": "sáng tác bài hát"
+      "word": "助動詞",
+      "reading": "じょどうし",
+      "meaning": "trợ động từ"
     },
     {
-      "word": "宋詞",
-      "reading": "そうし",
-      "meaning": "nghệ thuật thơ bài hát"
+      "word": "数詞",
+      "reading": "すうし",
+      "meaning": "chữ số"
     },
     {
-      "word": "鷹詞",
-      "reading": "たかことば",
-      "meaning": "falconry term"
+      "word": "歌詞",
+      "reading": "かし",
+      "meaning": "ca từ"
+    },
+    {
+      "word": "台詞",
+      "reading": "せりふ",
+      "meaning": "lời nói"
+    },
+    {
+      "word": "名台詞",
+      "reading": "めいせりふ",
+      "meaning": "lời thoại"
     }
   ]
 }

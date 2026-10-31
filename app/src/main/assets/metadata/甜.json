@@ -50,9 +50,9 @@
   ],
   "vocabulary": [
     {
-      "word": "甜茶",
-      "reading": "てんちゃ",
-      "meaning": "chinese blackberry"
+      "word": "甜麺醤",
+      "reading": "テンメンジャン",
+      "meaning": "tương ngọt trung quốc"
     },
     {
       "word": "甜菜",
@@ -60,14 +60,14 @@
       "meaning": "củ cải đường"
     },
     {
-      "word": "甜麺醤",
-      "reading": "テンメンジャン",
-      "meaning": "tương ngọt trung quốc"
-    },
-    {
       "word": "甜菜糖",
       "reading": "てんさいとう",
       "meaning": "củ cải đường"
+    },
+    {
+      "word": "甜茶",
+      "reading": "てんちゃ",
+      "meaning": "chinese blackberry"
     }
   ]
 }

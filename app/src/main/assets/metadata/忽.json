@@ -84,11 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "忽",
-      "reading": "こつ",
-      "meaning": "khéo léo"
-    },
-    {
       "word": "忽ち",
       "reading": "たちまち",
       "meaning": "ngay lập tức"
@@ -99,6 +94,16 @@
       "meaning": "cẩu thả"
     },
     {
+      "word": "粗忽者",
+      "reading": "そこつもの",
+      "meaning": "người cẩu thả"
+    },
+    {
+      "word": "忽",
+      "reading": "こつ",
+      "meaning": "khéo léo"
+    },
+    {
       "word": "忽焉",
       "reading": "こつえん",
       "meaning": "đột ngột"
@@ -107,11 +112,6 @@
       "word": "忽然",
       "reading": "こつぜん",
       "meaning": "xem sudden"
-    },
-    {
-      "word": "粗忽者",
-      "reading": "そこつもの",
-      "meaning": "người cẩu thả"
     }
   ]
 }

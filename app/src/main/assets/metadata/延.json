@@ -109,39 +109,24 @@
   ],
   "vocabulary": [
     {
-      "word": "延延",
-      "reading": "えんえん",
-      "meaning": "uốn khúc"
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "sự trì hoãn"
     },
     {
-      "word": "延び延び",
-      "reading": "のびのび",
-      "meaning": "bị hoãn lại"
+      "word": "延べ",
+      "reading": "のべ",
+      "meaning": "những tương lai"
     },
     {
-      "word": "延延たる",
-      "reading": "えんえんたる",
-      "meaning": "dài"
-    },
-    {
-      "word": "延繞",
-      "reading": "えんにょう",
-      "meaning": "bộ thủ chữ hán 廴 dẫnduyênkiến"
-    },
-    {
-      "word": "延び延びになる",
-      "reading": "のびのびになる",
-      "meaning": "để trì hoãn"
-    },
-    {
-      "word": "順延",
-      "reading": "じゅんえん",
+      "word": "遅延",
+      "reading": "ちえん",
       "meaning": "trì hoãn"
     },
     {
-      "word": "延泊",
-      "reading": "えんぱく",
-      "meaning": "kéo dài thời gian lưu trú"
+      "word": "延年",
+      "reading": "えんねん",
+      "meaning": "sự sống lâu"
     },
     {
       "word": "延会",
@@ -149,14 +134,29 @@
       "meaning": "sự hoãn buổi họp"
     },
     {
-      "word": "延性",
-      "reading": "えんせい",
-      "meaning": "tính dễ dát mỏng"
+      "word": "延元",
+      "reading": "えんげん",
+      "meaning": "thời engen"
     },
     {
-      "word": "延髄",
-      "reading": "えんずい",
-      "meaning": "hành tuỷ"
+      "word": "延々",
+      "reading": "えんえん",
+      "meaning": "mãi mãi"
+    },
+    {
+      "word": "差延",
+      "reading": "さえん",
+      "meaning": "différance"
+    },
+    {
+      "word": "天延",
+      "reading": "てんえん",
+      "meaning": "thời tenen"
+    },
+    {
+      "word": "延文",
+      "reading": "えんぶん",
+      "meaning": "thời embun"
     }
   ]
 }

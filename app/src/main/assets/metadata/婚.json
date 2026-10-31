@@ -104,19 +104,14 @@
   ],
   "vocabulary": [
     {
-      "word": "婚",
-      "reading": "くながい",
-      "meaning": "quan hệ tình dục"
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaning": "cưới xin"
     },
     {
-      "word": "婚約と結婚",
-      "reading": "こんやくとけっこん",
-      "meaning": "cưới hỏi"
-    },
-    {
-      "word": "新婚",
-      "reading": "しんこん",
-      "meaning": "sự mới kết hôn"
+      "word": "離婚",
+      "reading": "りこん",
+      "meaning": "sự ly hôn"
     },
     {
       "word": "婚約",
@@ -124,34 +119,39 @@
       "meaning": "đính hôn"
     },
     {
-      "word": "再婚",
-      "reading": "さいこん",
-      "meaning": "cải giá"
+      "word": "新婚",
+      "reading": "しんこん",
+      "meaning": "sự mới kết hôn"
     },
     {
-      "word": "求婚",
-      "reading": "きゅうこん",
-      "meaning": "cầu hôn"
+      "word": "既婚",
+      "reading": "きこん",
+      "meaning": "đã có gia đình"
     },
     {
-      "word": "婚礼",
-      "reading": "こんれい",
-      "meaning": "hỷ sự"
+      "word": "未婚",
+      "reading": "みこん",
+      "meaning": "sự chưa kết hôn"
     },
     {
-      "word": "結婚",
-      "reading": "けっこん",
+      "word": "結婚式",
+      "reading": "けっこんしき",
       "meaning": "cưới xin"
     },
     {
-      "word": "非婚",
-      "reading": "ひこん",
-      "meaning": "chưa lập gia đình"
+      "word": "婚",
+      "reading": "くながい",
+      "meaning": "quan hệ tình dục"
     },
     {
-      "word": "金婚",
-      "reading": "きんこん",
-      "meaning": "lễ kỷ niệm 50 năm ngày cưới"
+      "word": "婚人",
+      "reading": "よばいびと",
+      "meaning": "suitor"
+    },
+    {
+      "word": "大婚",
+      "reading": "たいこん",
+      "meaning": "lễ cưới lớn"
     }
   ]
 }

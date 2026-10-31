@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "悪疫",
-      "reading": "あくえき",
-      "meaning": "bệnh ác tính"
+      "word": "免疫",
+      "reading": "めんえき",
+      "meaning": "sự miễn dịch"
+    },
+    {
+      "word": "免疫性",
+      "reading": "めんえきせい",
+      "meaning": "miễn dịch"
+    },
+    {
+      "word": "免疫化",
+      "reading": "めんえきか",
+      "meaning": "miễn dịch hóa"
+    },
+    {
+      "word": "免疫系",
+      "reading": "めんえきけい",
+      "meaning": "hệ thống miễn dịch"
+    },
+    {
+      "word": "免疫力",
+      "reading": "めんえきりょく",
+      "meaning": "khả năng miễn dịch"
+    },
+    {
+      "word": "免疫体",
+      "reading": "めんえきたい",
+      "meaning": "thể kháng"
+    },
+    {
+      "word": "免疫学",
+      "reading": "めんえきがく",
+      "meaning": "miễn dịch học"
+    },
+    {
+      "word": "免疫源",
+      "reading": "めんえきげん",
+      "meaning": "chất sinh miễn dịch"
+    },
+    {
+      "word": "免疫能",
+      "reading": "めんえきのう",
+      "meaning": "khả năng miễn dịch"
     },
     {
       "word": "疫病",
       "reading": "えきびょう",
       "meaning": "bệnh dịch"
-    },
-    {
-      "word": "疫癘",
-      "reading": "えきれい",
-      "meaning": "bệnh dịch"
-    },
-    {
-      "word": "疫学",
-      "reading": "えきがく",
-      "meaning": "khoa nghiên cứu bệnh dịch"
-    },
-    {
-      "word": "疫痢",
-      "reading": "えきり",
-      "meaning": "bệnh lỵ của trẻ em"
-    },
-    {
-      "word": "鼠疫",
-      "reading": "そえき",
-      "meaning": "dịch chuột"
-    },
-    {
-      "word": "防疫",
-      "reading": "ぼうえき",
-      "meaning": "phòng dịch"
-    },
-    {
-      "word": "検疫",
-      "reading": "けんえき",
-      "meaning": "kiểm dịch"
-    },
-    {
-      "word": "牛疫",
-      "reading": "ぎゅうえき",
-      "meaning": "bệnh dịch truyền nhiễm của thú nuôi"
-    },
-    {
-      "word": "免疫",
-      "reading": "めんえき",
-      "meaning": "sự miễn dịch"
     }
   ]
 }

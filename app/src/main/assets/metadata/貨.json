@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "通貨貨物",
-      "reading": "つうかかもつ",
-      "meaning": "hàng chuyên tải"
-    },
-    {
-      "word": "単本位貨幣制度通貨",
-      "reading": "たんほんいかへいせいどつうか",
-      "meaning": "chế độ một bản vị tiền tệ"
-    },
-    {
-      "word": "金貨",
-      "reading": "きんか",
-      "meaning": "đồng tiền vàng"
-    },
-    {
-      "word": "銀貨",
-      "reading": "ぎんか",
-      "meaning": "tiền xu"
+      "word": "硬貨",
+      "reading": "こうか",
+      "meaning": "tiền kim loại"
     },
     {
       "word": "銅貨",
@@ -114,9 +99,14 @@
       "meaning": "tiền đồng"
     },
     {
-      "word": "硬貨",
-      "reading": "こうか",
-      "meaning": "tiền kim loại"
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "tiền tệ"
+    },
+    {
+      "word": "貨物",
+      "reading": "かもつ",
+      "meaning": "hàng hóa"
     },
     {
       "word": "雑貨",
@@ -124,19 +114,29 @@
       "meaning": "hàng tạp hoá"
     },
     {
-      "word": "法貨",
-      "reading": "ほうか",
-      "meaning": "giá trị lưu thông luật định"
+      "word": "貨幣",
+      "reading": "かへい",
+      "meaning": "tiền tệ"
     },
     {
-      "word": "良貨",
-      "reading": "りょうか",
-      "meaning": "nhiều tiền"
+      "word": "外貨",
+      "reading": "がいか",
+      "meaning": "ngoại tệ"
     },
     {
-      "word": "銭貨",
-      "reading": "せんか",
-      "meaning": "đồng xu"
+      "word": "貨物車",
+      "reading": "かもつしゃ",
+      "meaning": "xe hàng"
+    },
+    {
+      "word": "貨物駅",
+      "reading": "かもつえき",
+      "meaning": "ga bốc dỡ hàng hoá"
+    },
+    {
+      "word": "貨物機",
+      "reading": "かもつき",
+      "meaning": "máy bay chở hàng"
     }
   ]
 }

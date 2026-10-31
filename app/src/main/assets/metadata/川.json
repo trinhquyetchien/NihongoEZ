@@ -94,19 +94,9 @@
       "meaning": "con sông"
     },
     {
-      "word": "ガンジス川",
-      "reading": "ガンジスがわ",
-      "meaning": "hằng hà"
-    },
-    {
-      "word": "小川",
-      "reading": "おがわ",
-      "meaning": "dòng suối"
-    },
-    {
-      "word": "川原",
-      "reading": "かわら",
-      "meaning": "lòng con sông cạn"
+      "word": "河川",
+      "reading": "かせん",
+      "meaning": "sông ngòi"
     },
     {
       "word": "川風",
@@ -114,19 +104,24 @@
       "meaning": "gió thổi trên sông"
     },
     {
-      "word": "川幅",
-      "reading": "かわはば",
-      "meaning": "chiều rộng dòng sông"
+      "word": "川魚",
+      "reading": "かわうお",
+      "meaning": "cá sông"
     },
     {
-      "word": "川底",
-      "reading": "かわぞこ",
-      "meaning": "đáy sông"
+      "word": "涙川",
+      "reading": "なみだがわ",
+      "meaning": "nước mắt chảy thành sông"
     },
     {
-      "word": "祓川",
-      "reading": "はらえがわ",
-      "meaning": "dòng sông nơi những người thờ phật thanh tẩy bản thân trước khi cầu nguyện"
+      "word": "川虫",
+      "reading": "かわむし",
+      "meaning": "côn trùng thủy sinh"
+    },
+    {
+      "word": "川崎",
+      "reading": "かわさき",
+      "meaning": "thành phố kawasaki"
     },
     {
       "word": "川蛇",
@@ -134,9 +129,14 @@
       "meaning": "rắn sông"
     },
     {
-      "word": "川鵜",
-      "reading": "かわう",
-      "meaning": "chim cốc đế"
+      "word": "小川",
+      "reading": "おがわ",
+      "meaning": "dòng suối"
+    },
+    {
+      "word": "川霧",
+      "reading": "かわぎり",
+      "meaning": "sương mù ở sông"
     }
   ]
 }

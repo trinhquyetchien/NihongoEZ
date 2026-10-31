@@ -115,34 +115,29 @@
       "meaning": "có dạng"
     },
     {
-      "word": "有形無形",
-      "reading": "ゆうけいむけい",
-      "meaning": "mơ hồ và hữu hình"
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "hình thức"
     },
     {
-      "word": "形態形成",
-      "reading": "けいたいけいせい",
-      "meaning": "morphogenesis"
+      "word": "形成",
+      "reading": "けいせい",
+      "meaning": "sự hình thành"
     },
     {
-      "word": "ディッシング（皿形成形）",
-      "reading": "ディッシング（さらがたせーけー）",
-      "meaning": "hiện tượng lõm hình đĩa"
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "hình dạng"
     },
     {
-      "word": "成形",
-      "reading": "せいけい",
-      "meaning": "đúc"
+      "word": "形勢",
+      "reading": "けいせい",
+      "meaning": "tình trạng"
     },
     {
-      "word": "形ク",
-      "reading": "けいク",
-      "meaning": "một dạng chia của tính từ"
-    },
-    {
-      "word": "概形",
-      "reading": "がいけい",
-      "meaning": "hình dạng khái quát"
+      "word": "原形",
+      "reading": "げんけい",
+      "meaning": "hình thức ban đầu"
     },
     {
       "word": "音形",
@@ -150,14 +145,19 @@
       "meaning": "mẫu âm thanh"
     },
     {
-      "word": "形容",
-      "reading": "けいよう",
-      "meaning": "hình dáng"
+      "word": "姿形",
+      "reading": "すがたかたち",
+      "meaning": "bề ngoài"
     },
     {
-      "word": "固形",
-      "reading": "こけい",
-      "meaning": "thể rắn"
+      "word": "多形",
+      "reading": "たけい",
+      "meaning": "nhiều hình"
+    },
+    {
+      "word": "共形",
+      "reading": "きょうけい",
+      "meaning": "sự đồng dạng"
     }
   ]
 }

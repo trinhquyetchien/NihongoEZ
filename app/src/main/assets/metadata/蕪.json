@@ -62,6 +62,26 @@
       "meaning": "cây cải đỏ"
     },
     {
+      "word": "蕪汁",
+      "reading": "かぶらじる",
+      "meaning": "súp miso củ cải"
+    },
+    {
+      "word": "蕪蒸し",
+      "reading": "かぶらむし",
+      "meaning": "món hấp với củ cải bào trên phi lê cá trắng"
+    },
+    {
+      "word": "蕪鮨",
+      "reading": "かぶらずし",
+      "meaning": "một loại thực phẩm lên men truyền thống của tỉnh ishikawa"
+    },
+    {
+      "word": "和布蕪",
+      "reading": "めかぶ",
+      "meaning": "lá rong biển wakame dày"
+    },
+    {
       "word": "蕪雑",
       "reading": "ぶざつ",
       "meaning": "không trau chuốt"
@@ -72,34 +92,14 @@
       "meaning": "lời nói lộn xộn"
     },
     {
-      "word": "蕪鮨",
-      "reading": "かぶらずし",
-      "meaning": "một loại thực phẩm lên men truyền thống của tỉnh ishikawa"
-    },
-    {
-      "word": "蕪汁",
-      "reading": "かぶらじる",
-      "meaning": "súp miso củ cải"
-    },
-    {
-      "word": "スウェーデン蕪",
-      "reading": "スウェーデンかぶ",
-      "meaning": "<thực> củ cải thuỵ điển"
-    },
-    {
-      "word": "和布蕪",
-      "reading": "めかぶ",
-      "meaning": "lá rong biển wakame dày"
-    },
-    {
       "word": "荒蕪地",
       "reading": "こうぶち",
       "meaning": "may rủi hạ cánh"
     },
     {
-      "word": "蕪蒸し",
-      "reading": "かぶらむし",
-      "meaning": "món hấp với củ cải bào trên phi lê cá trắng"
+      "word": "スウェーデン蕪",
+      "reading": "スウェーデンかぶ",
+      "meaning": "<thực> củ cải thuỵ điển"
     }
   ]
 }

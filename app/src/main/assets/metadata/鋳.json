@@ -106,24 +106,39 @@
   ],
   "vocabulary": [
     {
-      "word": "再鋳",
-      "reading": "さいちゅう",
-      "meaning": "đúc lại"
+      "word": "鋳造",
+      "reading": "ちゅうぞう",
+      "meaning": "sự đúc"
     },
     {
-      "word": "鋳片",
-      "reading": "ちゅうへん",
-      "meaning": "bờ"
+      "word": "鋳造所",
+      "reading": "ちゅうぞうしょ",
+      "meaning": "xưởng đúc"
     },
     {
-      "word": "鋳塊",
-      "reading": "ちゅうかい",
-      "meaning": "thỏi"
+      "word": "鋳造型",
+      "reading": "ちゅうぞうかた",
+      "meaning": "khuôn đúc"
     },
     {
-      "word": "鋳工",
-      "reading": "ちゅうこう",
+      "word": "鋳造鋼",
+      "reading": "ちゅうぞうこう",
+      "meaning": "thép đúc"
+    },
+    {
+      "word": "鋳物",
+      "reading": "いもの",
+      "meaning": "đồ đúc"
+    },
+    {
+      "word": "鋳物師",
+      "reading": "いものし",
       "meaning": "thợ đúc"
+    },
+    {
+      "word": "鋳物鍋",
+      "reading": "いものなべ",
+      "meaning": "nồi gang"
     },
     {
       "word": "鋳鉄",
@@ -131,29 +146,14 @@
       "meaning": "gang"
     },
     {
-      "word": "改鋳",
-      "reading": "かいちゅう",
-      "meaning": "sự đúc lại"
+      "word": "鋳鉄管",
+      "reading": "ちゅうてつかん",
+      "meaning": "ống gang"
     },
     {
-      "word": "電鋳",
-      "reading": "でんちゅう",
-      "meaning": "sự đúc điện"
-    },
-    {
-      "word": "蘭鋳",
-      "reading": "らんちゅう",
-      "meaning": "cá vàng"
-    },
-    {
-      "word": "鋳る",
-      "reading": "いる",
-      "meaning": "đúc"
-    },
-    {
-      "word": "鋳金",
-      "reading": "ちゅうきん",
-      "meaning": "sự đổ khuôn"
+      "word": "再鋳",
+      "reading": "さいちゅう",
+      "meaning": "đúc lại"
     }
   ]
 }

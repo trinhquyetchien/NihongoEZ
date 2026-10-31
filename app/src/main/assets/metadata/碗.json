@@ -83,19 +83,34 @@
   ],
   "vocabulary": [
     {
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "bát"
+    },
+    {
       "word": "碗",
       "reading": "わん",
       "meaning": "bát"
     },
     {
+      "word": "お茶碗",
+      "reading": "おちゃわん",
+      "meaning": "chén trà"
+    },
+    {
+      "word": "楽茶碗",
+      "reading": "らくぢゃわん",
+      "meaning": "tách trà đất nung thủ công"
+    },
+    {
+      "word": "飯茶碗",
+      "reading": "めしぢゃわん",
+      "meaning": "bát cơm"
+    },
+    {
       "word": "お碗",
       "reading": "おわん",
       "meaning": "bát đựng nước tương"
-    },
-    {
-      "word": "茶碗",
-      "reading": "ちゃわん",
-      "meaning": "bát"
     },
     {
       "word": "食碗",
@@ -108,29 +123,14 @@
       "meaning": "bát"
     },
     {
-      "word": "お茶碗",
-      "reading": "おちゃわん",
-      "meaning": "chén trà"
-    },
-    {
-      "word": "飯茶碗",
-      "reading": "めしぢゃわん",
-      "meaning": "bát cơm"
-    },
-    {
-      "word": "楽茶碗",
-      "reading": "らくぢゃわん",
-      "meaning": "tách trà đất nung thủ công"
+      "word": "むし碗",
+      "reading": "むしわん",
+      "meaning": "bát hấp"
     },
     {
       "word": "煮物碗",
       "reading": "にものわん",
       "meaning": "bát đựng món hầm"
-    },
-    {
-      "word": "むし碗",
-      "reading": "むしわん",
-      "meaning": "bát hấp"
     }
   ]
 }

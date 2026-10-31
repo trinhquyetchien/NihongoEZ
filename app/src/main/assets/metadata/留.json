@@ -111,54 +111,54 @@
   ],
   "vocabulary": [
     {
-      "word": "拘留",
-      "reading": "こうりゅう",
-      "meaning": "bị bắt giữ"
+      "word": "留守",
+      "reading": "るす",
+      "meaning": "sự vắng nhà"
     },
     {
-      "word": "在留",
-      "reading": "ざいりゅう",
-      "meaning": "sự ở lại"
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "du học"
     },
     {
-      "word": "滞留",
-      "reading": "たいりゅう",
-      "meaning": "sự trì trệ"
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "bến đỗ xe buýt"
     },
     {
-      "word": "留木",
-      "reading": "とめぎ",
-      "meaning": "hương gỗ"
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "gửi đảm bảo"
     },
     {
-      "word": "係留",
-      "reading": "けいりゅう",
-      "meaning": "buộc"
+      "word": "蒸留",
+      "reading": "じょうりゅう",
+      "meaning": "sự cất"
     },
     {
-      "word": "繋留",
-      "reading": "けいりゅう",
-      "meaning": "buộc"
+      "word": "留める",
+      "reading": "とどめる",
+      "meaning": "dừng lại"
     },
     {
-      "word": "寄留",
-      "reading": "きりゅう",
-      "meaning": "sự tạm trú"
+      "word": "留数",
+      "reading": "りゅうすう",
+      "meaning": "phần dư"
     },
     {
-      "word": "留保",
-      "reading": "りゅうほ",
-      "meaning": "bảo lưu"
+      "word": "留め",
+      "reading": "とめ",
+      "meaning": "lý lẽ vững chắc"
     },
     {
-      "word": "掛留",
-      "reading": "けいりゅう",
-      "meaning": "sự treo âm nhạc"
+      "word": "保留",
+      "reading": "ほりゅう",
+      "meaning": "sự bảo lưu"
     },
     {
-      "word": "貯留",
-      "reading": "ちょりゅう",
-      "meaning": "sự chồng chất"
+      "word": "残留",
+      "reading": "ざんりゅう",
+      "meaning": "ở lại ở sau"
     }
   ]
 }

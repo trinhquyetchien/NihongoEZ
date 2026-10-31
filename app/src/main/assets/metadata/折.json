@@ -94,34 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "折",
-      "reading": "おり",
-      "meaning": "cơ hội"
-    },
-    {
-      "word": "折折",
-      "reading": "おりおり",
-      "meaning": "thỉnh thoảng"
-    },
-    {
-      "word": "折も折",
-      "reading": "おりもおり",
-      "meaning": "ở cái đó chính chốc lát"
-    },
-    {
-      "word": "折損",
-      "reading": "せっそん",
-      "meaning": "gẫy"
-    },
-    {
-      "word": "折電",
-      "reading": "おりでん",
-      "meaning": "gọi lại"
-    },
-    {
-      "word": "左折",
-      "reading": "させつ",
-      "meaning": "quay sang trái"
+      "word": "折る",
+      "reading": "おる",
+      "meaning": "bẻ"
     },
     {
       "word": "骨折",
@@ -129,19 +104,44 @@
       "meaning": "bị gãy xương"
     },
     {
-      "word": "挫折",
-      "reading": "ざせつ",
-      "meaning": "làm thất bại"
-    },
-    {
-      "word": "折檻",
-      "reading": "せっかん",
-      "meaning": "trách mắng ác liệt"
+      "word": "時折",
+      "reading": "ときおり",
+      "meaning": "có lúc"
     },
     {
       "word": "屈折",
       "reading": "くっせつ",
       "meaning": "sự gấp khúc"
+    },
+    {
+      "word": "折衷",
+      "reading": "せっちゅう",
+      "meaning": "sự pha tạp"
+    },
+    {
+      "word": "挫折",
+      "reading": "ざせつ",
+      "meaning": "làm thất bại"
+    },
+    {
+      "word": "折",
+      "reading": "おり",
+      "meaning": "cơ hội"
+    },
+    {
+      "word": "半折",
+      "reading": "はんせつ",
+      "meaning": "một nửa đo cỡ"
+    },
+    {
+      "word": "折電",
+      "reading": "おりでん",
+      "meaning": "gọi lại"
+    },
+    {
+      "word": "腰折",
+      "reading": "こしおれ",
+      "meaning": "có hình thức cong như cái cung"
     }
   ]
 }

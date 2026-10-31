@@ -117,44 +117,14 @@
   ],
   "vocabulary": [
     {
-      "word": "立憲",
-      "reading": "りっけん",
-      "meaning": "lập hiến"
+      "word": "国立",
+      "reading": "こくりつ",
+      "meaning": "quốc lập"
     },
     {
-      "word": "立場に立つ",
-      "reading": "たちばにたつ",
-      "meaning": "đứng trên lập trường"
-    },
-    {
-      "word": "立てかける たてかける",
-      "reading": "立てかける",
-      "meaning": "dựa vào"
-    },
-    {
-      "word": "立位",
-      "reading": "りつい",
-      "meaning": "thế đứng"
-    },
-    {
-      "word": "立替",
-      "reading": "たてかえ",
-      "meaning": "chi phí ứng trước"
-    },
-    {
-      "word": "造立",
-      "reading": "ぞうりゅう",
-      "meaning": "xây dựng"
-    },
-    {
-      "word": "立項",
-      "reading": "りっこう",
-      "meaning": "lập mục từ"
-    },
-    {
-      "word": "立毛",
-      "reading": "りつもう",
-      "meaning": "sự dựng tóc"
+      "word": "私立",
+      "reading": "しりつ",
+      "meaning": "tư nhân lập ra"
     },
     {
       "word": "献立",
@@ -162,9 +132,39 @@
       "meaning": "bảng thực đơn"
     },
     {
+      "word": "自立",
+      "reading": "じりつ",
+      "meaning": "nền độc lập"
+    },
+    {
       "word": "孤立",
       "reading": "こりつ",
       "meaning": "sự cô lập"
+    },
+    {
+      "word": "樹立",
+      "reading": "じゅりつ",
+      "meaning": "sự thành lập"
+    },
+    {
+      "word": "立て",
+      "reading": "たて",
+      "meaning": "gắn nó với số bò"
+    },
+    {
+      "word": "方立",
+      "reading": "ほうだて",
+      "meaning": "đố cửa"
+    },
+    {
+      "word": "気立",
+      "reading": "きだて",
+      "meaning": "sự xếp đặt"
+    },
+    {
+      "word": "立位",
+      "reading": "りつい",
+      "meaning": "thế đứng"
     }
   ]
 }

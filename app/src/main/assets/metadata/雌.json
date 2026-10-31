@@ -93,29 +93,9 @@
       "meaning": "con cái"
     },
     {
-      "word": "雌牛",
-      "reading": "めうし",
-      "meaning": "bò cái"
-    },
-    {
-      "word": "雌伏",
-      "reading": "しふく",
-      "meaning": "phần bị che khuất"
-    },
-    {
       "word": "雌性",
       "reading": "しせい",
       "meaning": "nữ tính"
-    },
-    {
-      "word": "雌花",
-      "reading": "めばな",
-      "meaning": "hoa cái"
-    },
-    {
-      "word": "雌コネクタ",
-      "reading": "めすコネクタ",
-      "meaning": "bộ nối âm"
     },
     {
       "word": "雌犬",
@@ -123,19 +103,39 @@
       "meaning": "chó cái"
     },
     {
-      "word": "雌雄",
-      "reading": "しゆう",
-      "meaning": "giống cái và giống đực"
-    },
-    {
       "word": "雌豚",
       "reading": "めぶた",
       "meaning": "lợn cái/ heo cái"
     },
     {
-      "word": "雌滝",
-      "reading": "めだき",
-      "meaning": "dòng thác nhỏ hơn"
+      "word": "雌子牛",
+      "reading": "めすこうし",
+      "meaning": "bò con đực"
+    },
+    {
+      "word": "雌鶏",
+      "reading": "めんどり",
+      "meaning": "gà mái"
+    },
+    {
+      "word": "雌黄",
+      "reading": "しおう",
+      "meaning": "thư hoàng"
+    },
+    {
+      "word": "雌日芝",
+      "reading": "めひしば",
+      "meaning": "digitaria ciliaris"
+    },
+    {
+      "word": "雌の狐",
+      "reading": "めすのきつね",
+      "meaning": "con cáo cái"
+    },
+    {
+      "word": "雌珍々",
+      "reading": "めちんちん",
+      "meaning": "âm hộ"
     }
   ]
 }

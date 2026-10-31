@@ -83,16 +83,6 @@
   ],
   "vocabulary": [
     {
-      "word": "剖",
-      "reading": "ぼう",
-      "meaning": "sự phân tách"
-    },
-    {
-      "word": "剖検",
-      "reading": "ぼうけん",
-      "meaning": "sự mổ xẻ phân tích"
-    },
-    {
       "word": "解剖",
       "reading": "かいぼう",
       "meaning": "sự giải phẫu"
@@ -113,24 +103,34 @@
       "meaning": "phẫu tích"
     },
     {
+      "word": "剖検",
+      "reading": "ぼうけん",
+      "meaning": "sự mổ xẻ phân tích"
+    },
+    {
+      "word": "剖",
+      "reading": "ぼう",
+      "meaning": "sự phân tách"
+    },
+    {
       "word": "解剖学者",
       "reading": "かいぼうがくしゃ",
       "meaning": "giải phẫu học"
     },
     {
-      "word": "生体解剖",
-      "reading": "せいたいかいぼう",
-      "meaning": "sự giải phẫu"
+      "word": "比較解剖学",
+      "reading": "ひかくかいぼうがく",
+      "meaning": "giải phẫu so sánh"
     },
     {
-      "word": "死体解剖",
-      "reading": "したいかいぼう",
-      "meaning": "sự mổ xẻ phân tích"
+      "word": "法医解剖",
+      "reading": "ほういかいぼう",
+      "meaning": "khám nghiệm pháp y"
     },
     {
-      "word": "司法解剖",
-      "reading": "しほうかいぼう",
-      "meaning": "sự khám nghiệm tử thi theo lệnh của tòa án"
+      "word": "神経解剖学",
+      "reading": "しんけいかいぼうがく",
+      "meaning": "giải phẫu thần kinh học"
     }
   ]
 }

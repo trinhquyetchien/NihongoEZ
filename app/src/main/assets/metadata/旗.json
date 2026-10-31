@@ -94,24 +94,39 @@
       "meaning": "cờ"
     },
     {
-      "word": "国旗",
-      "reading": "こっき",
-      "meaning": "quốc kỳ"
+      "word": "三色旗",
+      "reading": "さんしょくき",
+      "meaning": "cờ ba màu"
     },
     {
-      "word": "軍旗",
-      "reading": "ぐんき",
-      "meaning": "quân kỳ"
+      "word": "酒旗",
+      "reading": "さかばた",
+      "meaning": "lá cờ được giương lên như một dấu hiệu cho một izakaya"
     },
     {
-      "word": "旗幟",
-      "reading": "きし",
-      "meaning": "cờ xí"
+      "word": "旗章",
+      "reading": "きしょう",
+      "meaning": "cờ hiệu"
     },
     {
-      "word": "校旗",
-      "reading": "こうき",
-      "meaning": "cờ của trường"
+      "word": "天皇旗",
+      "reading": "てんのうき",
+      "meaning": "lá cờ của vua"
+    },
+    {
+      "word": "旗門",
+      "reading": "きもん",
+      "meaning": "phạt không cho ra ngoài"
+    },
+    {
+      "word": "五輪旗",
+      "reading": "ごりんき",
+      "meaning": "cờ ôlimpic"
+    },
+    {
+      "word": "海賊旗",
+      "reading": "かいぞくき",
+      "meaning": "cờ hải tặc"
     },
     {
       "word": "旗弁",
@@ -119,24 +134,9 @@
       "meaning": "cánh cờ"
     },
     {
-      "word": "弔旗",
-      "reading": "ちょうき",
-      "meaning": "cờ rủ"
-    },
-    {
-      "word": "旭旗",
-      "reading": "きょっき",
-      "meaning": "cờ mặt trời mọc"
-    },
-    {
-      "word": "半旗",
-      "reading": "はんき",
-      "meaning": "yếu đi ở cờ rủ"
-    },
-    {
-      "word": "一旗",
-      "reading": "ひとはた",
-      "meaning": "một lá cờ"
+      "word": "紅旗",
+      "reading": "こうき",
+      "meaning": "cờ đỏ"
     }
   ]
 }

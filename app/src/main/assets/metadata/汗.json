@@ -94,49 +94,49 @@
       "meaning": "mồ hôi"
     },
     {
-      "word": "寝汗",
-      "reading": "ねあせ",
-      "meaning": "sự đổ mồ hôi khi đang ngủ"
+      "word": "汗する",
+      "reading": "あせする",
+      "meaning": "đổ mồ hôi"
     },
     {
-      "word": "汗水",
-      "reading": "あせみず",
+      "word": "大汗",
+      "reading": "おおあせ",
+      "meaning": "mồ hôi đầm đìa"
+    },
+    {
+      "word": "汗国",
+      "reading": "かんこく",
+      "meaning": "hãn quốc"
+    },
+    {
+      "word": "生汗",
+      "reading": "なまあせ",
       "meaning": "mồ hôi"
     },
     {
-      "word": "汗顔",
-      "reading": "かんがん",
-      "meaning": "sự xấu hổ"
+      "word": "汗止め",
+      "reading": "あせどめ",
+      "meaning": "chống đổ mồ hôi"
     },
     {
-      "word": "汗衫",
-      "reading": "かざみ",
-      "meaning": "áo thun lót"
+      "word": "制汗",
+      "reading": "せいかん",
+      "meaning": "khử mùi"
     },
     {
-      "word": "鼻汗",
-      "reading": "はなあせ",
-      "meaning": "mồ hôi mũi"
+      "word": "汗青",
+      "reading": "かんせい",
+      "meaning": "lịch sử"
     },
     {
-      "word": "油汗",
-      "reading": "あぶらあせ",
-      "meaning": "trạng thái toát mồ hôi vì bệnh hoặc sợ"
+      "word": "制汗性",
+      "reading": "せいかんせい",
+      "meaning": "tính chống mồ hôi"
     },
     {
-      "word": "脂汗",
-      "reading": "あぶらあせ",
-      "meaning": "trạng thái toát mồ hôi vì bệnh hoặc sợ"
-    },
-    {
-      "word": "汗腺",
-      "reading": "かんせん",
-      "meaning": "tuyến mồ hôi"
-    },
-    {
-      "word": "一汗",
-      "reading": "ひとあせ",
-      "meaning": "sự đổ mồ hôi do vận động"
+      "word": "汗血",
+      "reading": "かんけつ",
+      "meaning": "mồ hôi và máu"
     }
   ]
 }

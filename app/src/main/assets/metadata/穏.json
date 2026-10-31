@@ -89,6 +89,36 @@
   ],
   "vocabulary": [
     {
+      "word": "穏やか",
+      "reading": "おだやか",
+      "meaning": "yên ả"
+    },
+    {
+      "word": "平穏",
+      "reading": "へいおん",
+      "meaning": "bình ổn"
+    },
+    {
+      "word": "平穏な",
+      "reading": "へいおんな",
+      "meaning": "bình yên"
+    },
+    {
+      "word": "不穏",
+      "reading": "ふおん",
+      "meaning": "không yên"
+    },
+    {
+      "word": "穏健",
+      "reading": "おんけん",
+      "meaning": "ôn hoà"
+    },
+    {
+      "word": "穏健派",
+      "reading": "おんけんは",
+      "meaning": "có chừng mực"
+    },
+    {
       "word": "穏便",
       "reading": "おんびん",
       "meaning": "yên ổn"
@@ -99,44 +129,14 @@
       "meaning": "sự yên lặng"
     },
     {
-      "word": "穏和",
-      "reading": "おんわ",
-      "meaning": "ôn hoà"
-    },
-    {
-      "word": "不穏",
-      "reading": "ふおん",
-      "meaning": "không yên"
-    },
-    {
-      "word": "平穏",
-      "reading": "へいおん",
-      "meaning": "bình ổn"
-    },
-    {
       "word": "静穏",
       "reading": "せいおん",
       "meaning": "tĩnh lặng"
     },
     {
-      "word": "穏健",
-      "reading": "おんけん",
-      "meaning": "ôn hoà"
-    },
-    {
       "word": "穏当",
       "reading": "おんとう",
       "meaning": "ôn hoà"
-    },
-    {
-      "word": "不穏当",
-      "reading": "ふおんとう",
-      "meaning": "sự vô lý"
-    },
-    {
-      "word": "穏健派",
-      "reading": "おんけんは",
-      "meaning": "có chừng mực"
     }
   ]
 }

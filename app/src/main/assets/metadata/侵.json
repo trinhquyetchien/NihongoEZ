@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "侵す",
-      "reading": "おかす",
-      "meaning": "xâm nhập"
-    },
-    {
-      "word": "侵襲",
-      "reading": "しんしゅう",
-      "meaning": "sự xâm lược"
-    },
-    {
-      "word": "侵撃",
-      "reading": "しんげき",
-      "meaning": "sự xâm nhập vào lãnh địa của kẻ địch và tấn công"
-    },
-    {
-      "word": "侵蝕",
-      "reading": "しんしょく",
-      "meaning": "sự ăn mòn"
-    },
-    {
-      "word": "侵冦",
-      "reading": "しんこう",
-      "meaning": "xâm lược"
-    },
-    {
-      "word": "侵奪",
-      "reading": "しんだつ",
-      "meaning": "sự lấn chiếm"
-    },
-    {
-      "word": "侵攻",
-      "reading": "しんこう",
-      "meaning": "sự xâm chiếm"
-    },
-    {
-      "word": "侵掠",
-      "reading": "しんりゃく",
-      "meaning": "sự xâm lược"
-    },
-    {
       "word": "侵入",
       "reading": "しんにゅう",
       "meaning": "sự xâm nhập"
     },
     {
-      "word": "侵害",
-      "reading": "しんがい",
-      "meaning": "sự vi phạm"
+      "word": "侵略",
+      "reading": "しんりゃく",
+      "meaning": "sự xâm lược"
+    },
+    {
+      "word": "侵す",
+      "reading": "おかす",
+      "meaning": "xâm nhập"
+    },
+    {
+      "word": "侵入者",
+      "reading": "しんにゅうしゃ",
+      "meaning": "kẻ xâm nhập"
+    },
+    {
+      "word": "侵入軍",
+      "reading": "しんにゅうぐん",
+      "meaning": "quân xâm nhập"
+    },
+    {
+      "word": "侵略的",
+      "reading": "しんりゃくてき",
+      "meaning": "hiếu chiến"
+    },
+    {
+      "word": "侵略者",
+      "reading": "しんりゃくしゃ",
+      "meaning": "kẻ xâm lược"
+    },
+    {
+      "word": "侵略国",
+      "reading": "しんりゃくこく",
+      "meaning": "dân tộc kẻ xâm lược"
+    },
+    {
+      "word": "侵略軍",
+      "reading": "しんりゃくぐん",
+      "meaning": "xâm phạm quân đội"
+    },
+    {
+      "word": "不侵略",
+      "reading": "ふしんりゃく",
+      "meaning": "sự không xâm lược nước khác"
     }
   ]
 }

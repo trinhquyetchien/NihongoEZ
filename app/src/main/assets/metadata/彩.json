@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "水彩",
-      "reading": "すいさい",
-      "meaning": "màu nước"
-    },
-    {
-      "word": "精彩",
-      "reading": "せいさい",
-      "meaning": "sự sáng chói"
+      "word": "色彩",
+      "reading": "しきさい",
+      "meaning": "màu sắc"
     },
     {
       "word": "彩度",
@@ -104,39 +99,44 @@
       "meaning": "mầu sắc"
     },
     {
-      "word": "彩色",
-      "reading": "さいしき",
-      "meaning": "ngả màu"
+      "word": "着彩",
+      "reading": "ちゃくさい",
+      "meaning": "tô màu"
     },
     {
-      "word": "五彩",
-      "reading": "ごさい",
-      "meaning": "năm màu sắc: xanh"
+      "word": "星彩",
+      "reading": "せいさい",
+      "meaning": "ánh sao"
     },
     {
-      "word": "彩飾",
-      "reading": "さいしょく",
-      "meaning": "trang trí"
+      "word": "彩層",
+      "reading": "さいそう",
+      "meaning": "hiện tượng vòng tròn sáng nhiều màu bao xung quanh mặt trời"
     },
     {
-      "word": "金彩",
-      "reading": "きんだみ",
-      "meaning": "vàng lá"
+      "word": "文彩",
+      "reading": "ぶんさい",
+      "meaning": "sự diễn đạt hoa mỹ"
     },
     {
-      "word": "淡彩",
-      "reading": "たんさい",
-      "meaning": "màu nhạt"
+      "word": "彩画",
+      "reading": "さいが",
+      "meaning": "bức tranh màu"
     },
     {
-      "word": "虹彩",
-      "reading": "こうさい",
-      "meaning": "tròng đen"
+      "word": "彩なす",
+      "reading": "あやなす",
+      "meaning": "phủ đầy màu sắc"
     },
     {
-      "word": "彩り",
-      "reading": "いろどり",
-      "meaning": "sự tô màu"
+      "word": "多彩",
+      "reading": "たさい",
+      "meaning": "nhiều màu sắc"
+    },
+    {
+      "word": "迷彩",
+      "reading": "めいさい",
+      "meaning": "sự ngụy trang"
     }
   ]
 }

@@ -105,39 +105,9 @@
   ],
   "vocabulary": [
     {
-      "word": "渇",
-      "reading": "かつ",
-      "meaning": "khát nước"
-    },
-    {
-      "word": "渇仰",
-      "reading": "かつごう",
-      "meaning": "sự tôn sùng"
-    },
-    {
-      "word": "渇す",
-      "reading": "かっす",
-      "meaning": "khát nước"
-    },
-    {
-      "word": "渇水",
-      "reading": "かっすい",
-      "meaning": "sự thiếu nước"
-    },
-    {
-      "word": "飢渇",
-      "reading": "きかつ",
-      "meaning": "sư đói khát"
-    },
-    {
-      "word": "涸渇",
-      "reading": "こかつ",
-      "meaning": "cạn"
-    },
-    {
-      "word": "饑渇",
-      "reading": "きかつ",
-      "meaning": "sự đói khát"
+      "word": "渇く",
+      "reading": "かわく",
+      "meaning": "khát"
     },
     {
       "word": "枯渇",
@@ -145,14 +115,44 @@
       "meaning": "sự cạn"
     },
     {
-      "word": "渇く",
-      "reading": "かわく",
-      "meaning": "khát"
+      "word": "渇き",
+      "reading": "かわき",
+      "meaning": "sự khát"
     },
     {
-      "word": "渇愛",
-      "reading": "かつあい",
-      "meaning": "sự khao khát"
+      "word": "渇望",
+      "reading": "かつぼう",
+      "meaning": "lòng tham"
+    },
+    {
+      "word": "渇望者",
+      "reading": "かつぼうしゃ",
+      "meaning": "mong muốn người"
+    },
+    {
+      "word": "渇水",
+      "reading": "かっすい",
+      "meaning": "sự thiếu nước"
+    },
+    {
+      "word": "渇水期",
+      "reading": "かっすいき",
+      "meaning": "mùa khô"
+    },
+    {
+      "word": "渇",
+      "reading": "かつ",
+      "meaning": "khát nước"
+    },
+    {
+      "word": "止渇",
+      "reading": "しかつ",
+      "meaning": "giải khát"
+    },
+    {
+      "word": "口渇",
+      "reading": "こうかつ",
+      "meaning": "khát nước"
     }
   ]
 }

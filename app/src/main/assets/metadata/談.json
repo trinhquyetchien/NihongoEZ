@@ -104,14 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "談",
-      "reading": "だん",
-      "meaning": "cuộc nói chuyện"
-    },
-    {
-      "word": "商談",
-      "reading": "しょうだん",
-      "meaning": "sự đàm phán thương mại"
+      "word": "冗談",
+      "reading": "じょうだん",
+      "meaning": "việc nói đùa"
     },
     {
       "word": "雑談",
@@ -119,39 +114,44 @@
       "meaning": "sự nói chuyện phiếm"
     },
     {
-      "word": "歓談",
-      "reading": "かんだん",
-      "meaning": "cuộc chuyện trò vui vẻ"
-    },
-    {
-      "word": "美談",
-      "reading": "びだん",
-      "meaning": "giai thoại"
-    },
-    {
-      "word": "清談",
-      "reading": "せいだん",
-      "meaning": "tao đàn"
-    },
-    {
       "word": "縁談",
       "reading": "えんだん",
       "meaning": "bàn chuyện hôn nhân hay chuyện nhận con nuôi"
     },
     {
-      "word": "軍談",
-      "reading": "ぐんだん",
-      "meaning": "chuyện thời chiến"
+      "word": "談",
+      "reading": "だん",
+      "meaning": "cuộc nói chuyện"
     },
     {
-      "word": "劇談",
-      "reading": "げきだん",
-      "meaning": "lời thoại trong vở kịch"
+      "word": "手談",
+      "reading": "しゅだん",
+      "meaning": "tên khác của môn cờ go"
     },
     {
-      "word": "閑談",
-      "reading": "かんだん",
-      "meaning": "chuyện rỗi"
+      "word": "談語",
+      "reading": "だんご",
+      "meaning": "sự thảo luận"
+    },
+    {
+      "word": "画談",
+      "reading": "がだん",
+      "meaning": "hoạ đàm"
+    },
+    {
+      "word": "懇談",
+      "reading": "こんだん",
+      "meaning": "cuộc chuyện trò"
+    },
+    {
+      "word": "示談",
+      "reading": "じだん",
+      "meaning": "sự hòa giải"
+    },
+    {
+      "word": "座談",
+      "reading": "ざだん",
+      "meaning": "cuộc tọa đàm"
     }
   ]
 }

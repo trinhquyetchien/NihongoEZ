@@ -124,14 +124,34 @@
   ],
   "vocabulary": [
     {
-      "word": "統計 / 統計学",
-      "reading": "とうけい",
-      "meaning": "statistics"
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaning": "truyền thống"
     },
     {
-      "word": "血統",
-      "reading": "けっとう",
-      "meaning": "huyết thống"
+      "word": "統一",
+      "reading": "とういつ",
+      "meaning": "sự thống nhất"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "thống kê"
+    },
+    {
+      "word": "系統",
+      "reading": "けいとう",
+      "meaning": "hệ thống"
+    },
+    {
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "統治",
+      "reading": "とうち",
+      "meaning": "sự thống trị"
     },
     {
       "word": "統制",
@@ -139,39 +159,19 @@
       "meaning": "sự điều khiển"
     },
     {
-      "word": "王統",
-      "reading": "おうとう",
-      "meaning": "dòng dõi hoàng gia"
+      "word": "統率",
+      "reading": "とうそつ",
+      "meaning": "ra lệnh"
     },
     {
-      "word": "一統",
-      "reading": "いっとう",
-      "meaning": "một dòng dõi"
+      "word": "統一化",
+      "reading": "とういつか",
+      "meaning": "sự hợp nhất"
     },
     {
-      "word": "統幕",
-      "reading": "とうばく",
-      "meaning": "chung bố trí cán bộ bộ chỉ huy"
-    },
-    {
-      "word": "統轄",
-      "reading": "とうかつ",
-      "meaning": "sự giám sát"
-    },
-    {
-      "word": "統帥",
-      "reading": "とうすい",
-      "meaning": "thống suý"
-    },
-    {
-      "word": "総統",
-      "reading": "そうとう",
-      "meaning": "chủ tịch"
-    },
-    {
-      "word": "統御",
-      "reading": "とうぎょ",
-      "meaning": "sự điều khiển"
+      "word": "統一感",
+      "reading": "とういつかん",
+      "meaning": "cảm giác thống nhất"
     }
   ]
 }

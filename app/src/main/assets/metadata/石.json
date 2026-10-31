@@ -113,24 +113,9 @@
       "meaning": "thạch"
     },
     {
-      "word": "石榴石",
-      "reading": "ざくろいし",
-      "meaning": "granat ₃)"
-    },
-    {
-      "word": "石灰石",
-      "reading": "せっかいせき",
-      "meaning": "đá vôi"
-    },
-    {
-      "word": "石けん石",
-      "reading": "せっけんせき",
-      "meaning": "đá xà phòng"
-    },
-    {
-      "word": "石偏",
-      "reading": "いしへん",
-      "meaning": "bộ thủ 石 thạch bên trái các chữ hán sapháo"
+      "word": "磁石",
+      "reading": "じしゃく",
+      "meaning": "đá nam châm"
     },
     {
       "word": "一石",
@@ -138,24 +123,39 @@
       "meaning": "một koku"
     },
     {
-      "word": "石灰",
-      "reading": "せっかい",
-      "meaning": "vôi"
+      "word": "酒石",
+      "reading": "しゅせき",
+      "meaning": "cáu rượu"
     },
     {
-      "word": "石亭",
-      "reading": "せきてい",
-      "meaning": "sekitei một quán trọ)"
+      "word": "石帯",
+      "reading": "せきたい",
+      "meaning": "thắt lưng bằng da có trang trí đá quý"
     },
     {
-      "word": "浮石",
-      "reading": "うきいわ",
-      "meaning": "đá bọt"
+      "word": "石塩",
+      "reading": "せきえん",
+      "meaning": "rock salt"
     },
     {
-      "word": "スパー石",
-      "reading": "スパーせき",
-      "meaning": "spurít"
+      "word": "流石",
+      "reading": "さすが",
+      "meaning": "quả là"
+    },
+    {
+      "word": "要石",
+      "reading": "かなめいし",
+      "meaning": "một loại đá được cho là có thể dập tắt một trận động đất. nằm ở đền kashima"
+    },
+    {
+      "word": "基石",
+      "reading": "きせき",
+      "meaning": "viên đá đặt nền"
+    },
+    {
+      "word": "石竜",
+      "reading": "せきりょう",
+      "meaning": "rồng đá"
     }
   ]
 }

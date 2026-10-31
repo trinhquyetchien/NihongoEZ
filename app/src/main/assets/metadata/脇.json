@@ -94,24 +94,19 @@
       "meaning": "hông"
     },
     {
-      "word": "小脇",
-      "reading": "こわき",
-      "meaning": "nách"
+      "word": "右脇",
+      "reading": "みぎわき",
+      "meaning": "nách phải"
     },
     {
-      "word": "脇息",
-      "reading": "きょうそく",
-      "meaning": "nơi cất vũ khí"
+      "word": "胸脇",
+      "reading": "むなわき",
+      "meaning": "hai bên ngực"
     },
     {
-      "word": "脇目",
-      "reading": "わきめ",
-      "meaning": "nhìn qua một bên"
-    },
-    {
-      "word": "脇付",
-      "reading": "わきづけ",
-      "meaning": "kính ngữ đi kèm sau tên người nhận thư"
+      "word": "両脇",
+      "reading": "りょうわき",
+      "meaning": "hai bên"
     },
     {
       "word": "床脇",
@@ -119,24 +114,29 @@
       "meaning": "góc trang trí trong phòng"
     },
     {
-      "word": "口脇",
-      "reading": "くちわき",
-      "meaning": "mép miệng"
-    },
-    {
       "word": "脇寺",
       "reading": "わきでら",
       "meaning": "sub-temple"
     },
     {
-      "word": "脇侍",
-      "reading": "わきじ",
-      "meaning": "hộ pháp hai bên"
-    },
-    {
       "word": "脇机",
       "reading": "わきづくえ",
       "meaning": "bàn phụ"
+    },
+    {
+      "word": "脇正面",
+      "reading": "わきじょうめん",
+      "meaning": "khu vực bên hông chính diện"
+    },
+    {
+      "word": "脇柱",
+      "reading": "わきばしら",
+      "meaning": "cột phụ ở bên phải"
+    },
+    {
+      "word": "脇能",
+      "reading": "わきのう",
+      "meaning": "mảnh phụ trong noh chơi"
     }
   ]
 }

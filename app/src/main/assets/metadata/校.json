@@ -71,9 +71,9 @@
   ],
   "vocabulary": [
     {
-      "word": "校",
-      "reading": "こう",
-      "meaning": "trường học"
+      "word": "校舎",
+      "reading": "こうしゃ",
+      "meaning": "khu nhà trường"
     },
     {
       "word": "校庭",
@@ -81,44 +81,44 @@
       "meaning": "sân trường"
     },
     {
+      "word": "校",
+      "reading": "こう",
+      "meaning": "trường học"
+    },
+    {
+      "word": "一校",
+      "reading": "いっこう",
+      "meaning": "toàn bộ trường học"
+    },
+    {
+      "word": "出校",
+      "reading": "しゅっこう",
+      "meaning": "sự đi học"
+    },
+    {
+      "word": "三校",
+      "reading": "さんこう",
+      "meaning": "sự chứng minh ba"
+    },
+    {
       "word": "車校",
       "reading": "しゃこう",
       "meaning": "trường dạy lái xe"
     },
     {
-      "word": "御校",
-      "reading": "おんこう",
-      "meaning": "quý nhà trường"
+      "word": "校名",
+      "reading": "こうめい",
+      "meaning": "tên trường"
     },
     {
-      "word": "将校",
-      "reading": "しょうこう",
-      "meaning": "tướng tá"
+      "word": "色校",
+      "reading": "いろこう",
+      "meaning": "trường màu"
     },
     {
-      "word": "校門",
-      "reading": "こうもん",
-      "meaning": "cổng trường"
-    },
-    {
-      "word": "校則",
-      "reading": "こうそく",
-      "meaning": "quy tắc của trường học"
-    },
-    {
-      "word": "校舎",
-      "reading": "こうしゃ",
-      "meaning": "khu nhà trường"
-    },
-    {
-      "word": "休校",
-      "reading": "きゅうこう",
-      "meaning": "sự nghỉ học"
-    },
-    {
-      "word": "校閲",
-      "reading": "こうえつ",
-      "meaning": "sự duyệt lại"
+      "word": "初校",
+      "reading": "しょこう",
+      "meaning": "trước hết"
     }
   ]
 }

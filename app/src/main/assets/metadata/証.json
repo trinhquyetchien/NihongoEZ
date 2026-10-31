@@ -106,34 +106,34 @@
   ],
   "vocabulary": [
     {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "chứng minh"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "cam kết"
+    },
+    {
+      "word": "証拠",
+      "reading": "しょうこ",
+      "meaning": "bằng cớ"
+    },
+    {
       "word": "証",
       "reading": "しょう",
       "meaning": "giấy chứng nhận"
     },
     {
-      "word": "証明証",
-      "reading": "しょうめいしょう",
-      "meaning": "giấy chứng nhận"
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "lời khai"
     },
     {
-      "word": "証明証経路",
-      "reading": "しょうめいしょうけいろ",
-      "meaning": "đường dẫn chứng nhận"
-    },
-    {
-      "word": "利用者証明証",
-      "reading": "りようしゃしょうめいしょう",
-      "meaning": "chứng chỉ người dùng"
-    },
-    {
-      "word": "証明証通し番号",
-      "reading": "しょうめいしょうとおしばんごう",
-      "meaning": "số sản xuất chứng nhận"
-    },
-    {
-      "word": "内証",
-      "reading": "ないしょ",
-      "meaning": "riêng tư"
+      "word": "証人",
+      "reading": "しょうにん",
+      "meaning": "người làm chứng"
     },
     {
       "word": "検証",
@@ -141,19 +141,19 @@
       "meaning": "kiểm tra"
     },
     {
-      "word": "証明",
-      "reading": "しょうめい",
-      "meaning": "chứng minh"
+      "word": "品証",
+      "reading": "ひんしょう",
+      "meaning": "sự đảm bảo chất lượng"
     },
     {
-      "word": "証書",
-      "reading": "しょうしょ",
-      "meaning": "bằng cấp"
+      "word": "罪証",
+      "reading": "ざいしょう",
+      "meaning": "chứng cứ phạm tội"
     },
     {
-      "word": "証券",
-      "reading": "しょうけん",
-      "meaning": "hối phiếu"
+      "word": "認証",
+      "reading": "にんしょう",
+      "meaning": "sự chứng nhận"
     }
   ]
 }

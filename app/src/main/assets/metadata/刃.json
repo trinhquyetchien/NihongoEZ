@@ -97,24 +97,24 @@
       "meaning": "lưỡi"
     },
     {
-      "word": "バンドソー/鋸刃(のこ刃)",
-      "reading": "バンドソー/のこぎりは(のこは)",
-      "meaning": "cưa dải/bộ lưỡi cưa"
+      "word": "刃形",
+      "reading": "はがた",
+      "meaning": "hồ sơ công cụ"
     },
     {
-      "word": "片刃",
-      "reading": "かたは",
-      "meaning": "dao một lưỡi"
-    },
-    {
-      "word": "自刃",
-      "reading": "じじん",
-      "meaning": "sự tự sát bằng gươm"
+      "word": "切れ刃",
+      "reading": "きれじん",
+      "meaning": "dao tiện"
     },
     {
       "word": "刃文",
       "reading": "はもん",
       "meaning": "hoa văn xuất hiện dọc theo lưỡi kiếm nhật"
+    },
+    {
+      "word": "焼き刃",
+      "reading": "やきば",
+      "meaning": "lò thiêu"
     },
     {
       "word": "刀刃",
@@ -127,19 +127,19 @@
       "meaning": "sắc bén"
     },
     {
-      "word": "白刃",
-      "reading": "はくじん",
-      "meaning": "gươm trần"
+      "word": "氷の刃",
+      "reading": "こおりのやいば",
+      "meaning": "thanh gươm bóng"
     },
     {
-      "word": "薄刃",
-      "reading": "うすば",
-      "meaning": "răng hàm"
+      "word": "円刃刀",
+      "reading": "えんじんとう",
+      "meaning": "dao mổ"
     },
     {
-      "word": "刃先",
-      "reading": "はさき",
-      "meaning": "lưỡi"
+      "word": "金属刃",
+      "reading": "きんぞくは",
+      "meaning": "lưỡi kim loại"
     }
   ]
 }

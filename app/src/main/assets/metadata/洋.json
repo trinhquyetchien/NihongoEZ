@@ -87,29 +87,39 @@
   ],
   "vocabulary": [
     {
+      "word": "西洋",
+      "reading": "せいよう",
+      "meaning": "phương tây"
+    },
+    {
+      "word": "東洋",
+      "reading": "とうよう",
+      "meaning": "phương đông"
+    },
+    {
+      "word": "洋風",
+      "reading": "ようふう",
+      "meaning": "kiểu tây"
+    },
+    {
       "word": "洋",
       "reading": "よう",
       "meaning": "phương tây và phương đông"
     },
     {
-      "word": "洋洋",
-      "reading": "ようよう",
-      "meaning": "rộng"
+      "word": "洋車",
+      "reading": "ヤンチョ",
+      "meaning": "xe kéo"
     },
     {
-      "word": "前途洋洋",
-      "reading": "ぜんとようよう",
-      "meaning": "tương lai rộng mở"
+      "word": "洋形",
+      "reading": "ようけい",
+      "meaning": "phong cách phương tây"
     },
     {
-      "word": "洋洋たる",
-      "reading": "ようようたる",
-      "meaning": "bao la"
-    },
-    {
-      "word": "インド洋",
-      "reading": "インドよう",
-      "meaning": "ấn độ dương"
+      "word": "洋犬",
+      "reading": "ようけん",
+      "meaning": "nước ngoài sinh sản con chó"
     },
     {
       "word": "洋字",
@@ -117,24 +127,14 @@
       "meaning": "bảng chữ cái latinh"
     },
     {
+      "word": "洋蘭",
+      "reading": "ようらん",
+      "meaning": "cây phong lan gốc phương tây"
+    },
+    {
       "word": "洋灯",
       "reading": "ようとう",
       "meaning": "lamp"
-    },
-    {
-      "word": "洋妾",
-      "reading": "ようしょう",
-      "meaning": "nhân tình của người phương tây"
-    },
-    {
-      "word": "洋酒",
-      "reading": "ようしゅ",
-      "meaning": "rượu tây"
-    },
-    {
-      "word": "洋間",
-      "reading": "ようま",
-      "meaning": "phòng kiểu châu âu"
     }
   ]
 }

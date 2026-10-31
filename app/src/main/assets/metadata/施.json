@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "施設",
-      "reading": "しせつ",
-      "meaning": "cơ sở hạ tầng"
-    },
-    {
       "word": "実施",
       "reading": "じっし",
       "meaning": "sự thực hiện"
     },
     {
-      "word": "施錠",
-      "reading": "せじょう",
-      "meaning": "sự khoá"
+      "word": "施設",
+      "reading": "しせつ",
+      "meaning": "cơ sở hạ tầng"
     },
     {
-      "word": "施策",
-      "reading": "しさく",
-      "meaning": "chính sách"
+      "word": "施行",
+      "reading": "しこう",
+      "meaning": "sự thực hiện"
     },
     {
-      "word": "施条",
-      "reading": "しじょう",
-      "meaning": "làm thành hàng"
+      "word": "施す",
+      "reading": "ほどこす",
+      "meaning": "bố thí"
     },
     {
-      "word": "布施",
-      "reading": "ふせ",
-      "meaning": "của bố thí"
+      "word": "施設化",
+      "reading": "しせつか",
+      "meaning": "sự thể chế hoá"
     },
     {
-      "word": "施政",
-      "reading": "しせい",
-      "meaning": "chính sách thi hành"
+      "word": "実施日",
+      "reading": "じっしび",
+      "meaning": "ngày thực thi"
     },
     {
-      "word": "施療",
-      "reading": "せりょう",
-      "meaning": "sự trị liệu miễn phí"
+      "word": "実施中",
+      "reading": "じっしちゅう",
+      "meaning": "đang thực thi"
     },
     {
-      "word": "施肥",
-      "reading": "せひ",
-      "meaning": "sự làm cho màu mỡ được"
+      "word": "施設用",
+      "reading": "しせつよう",
+      "meaning": "dành cho cơ sở vật chất"
     },
     {
-      "word": "施薬",
-      "reading": "せやく",
-      "meaning": "thuốc chữa bệnh phát miễn phí"
+      "word": "実施例",
+      "reading": "じっしれい",
+      "meaning": "ví dụ sự thực hiện"
+    },
+    {
+      "word": "核施設",
+      "reading": "かくしせつ",
+      "meaning": "cơ sở hạt nhân"
     }
   ]
 }

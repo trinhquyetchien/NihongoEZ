@@ -92,29 +92,34 @@
   ],
   "vocabulary": [
     {
+      "word": "伸びる",
+      "reading": "のびる",
+      "meaning": "nuôi"
+    },
+    {
+      "word": "伸ばす",
+      "reading": "のばす",
+      "meaning": "giăng"
+    },
+    {
+      "word": "伸び",
+      "reading": "のび",
+      "meaning": "sự kéo căng"
+    },
+    {
+      "word": "伸び率",
+      "reading": "のびりつ",
+      "meaning": "tốc độ tăng trưởng"
+    },
+    {
       "word": "伸",
       "reading": "しん",
       "meaning": "một bằng sắt"
     },
     {
-      "word": "伸び伸び",
-      "reading": "のびのび",
-      "meaning": "một cách thoải mái"
-    },
-    {
-      "word": "伸び伸びする",
-      "reading": "のびのび",
-      "meaning": "cảm thấy thoải mái"
-    },
-    {
-      "word": "伸展",
-      "reading": "しんてん",
-      "meaning": "sự mở rộng"
-    },
-    {
-      "word": "伸長",
-      "reading": "しんちょう",
-      "meaning": "sự mở rộng"
+      "word": "上伸",
+      "reading": "じょうしん",
+      "meaning": "lên trong giá cả thị trường"
     },
     {
       "word": "三伸",
@@ -122,24 +127,19 @@
       "meaning": "tái bút lần thứ ba"
     },
     {
+      "word": "伸度",
+      "reading": "しんど",
+      "meaning": "tính co giãn"
+    },
+    {
+      "word": "伸薬",
+      "reading": "しんくすり",
+      "meaning": "thần dược"
+    },
+    {
       "word": "伸筋",
       "reading": "しんきん",
       "meaning": "bắp thịt thước góc"
-    },
-    {
-      "word": "伸し",
-      "reading": "のし",
-      "meaning": "là"
-    },
-    {
-      "word": "延伸",
-      "reading": "えんしん",
-      "meaning": "sự mở rộng"
-    },
-    {
-      "word": "二伸",
-      "reading": "にしん",
-      "meaning": "tái bút"
     }
   ]
 }

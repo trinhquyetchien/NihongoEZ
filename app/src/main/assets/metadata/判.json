@@ -90,34 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "判",
-      "reading": "ばん",
-      "meaning": "khổ"
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "sự phán đoán"
     },
     {
-      "word": "判る",
-      "reading": "わかる",
-      "meaning": "để hiểu"
-    },
-    {
-      "word": "判子",
-      "reading": "はんこ",
-      "meaning": "con dấu"
-    },
-    {
-      "word": "小判",
-      "reading": "こばん",
-      "meaning": "một đồng tiền vàng hình bầu dục của nhật bản vào thời kỳ phong kiến nhật bản thời edo"
-    },
-    {
-      "word": "審判",
-      "reading": "しんぱん",
-      "meaning": "trọng tài"
-    },
-    {
-      "word": "公判",
-      "reading": "こうはん",
-      "meaning": "sự xử án công khai"
+      "word": "批判",
+      "reading": "ひはん",
+      "meaning": "phê phán"
     },
     {
       "word": "裁判",
@@ -125,19 +105,39 @@
       "meaning": "sự xét xử"
     },
     {
-      "word": "血判",
-      "reading": "けっぱん",
-      "meaning": "lăn tay bằng máu"
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "bình luận"
     },
     {
-      "word": "判示",
+      "word": "審判",
+      "reading": "しんぱん",
+      "meaning": "trọng tài"
+    },
+    {
+      "word": "判事",
       "reading": "はんじ",
-      "meaning": "phán xét"
+      "meaning": "thẩm phán"
     },
     {
-      "word": "中判",
-      "reading": "ちゅうばん",
-      "meaning": "kích thước trung bình"
+      "word": "判決",
+      "reading": "はんけつ",
+      "meaning": "định án"
+    },
+    {
+      "word": "判定",
+      "reading": "はんてい",
+      "meaning": "sự phán đoán"
+    },
+    {
+      "word": "判",
+      "reading": "ばん",
+      "meaning": "khổ"
+    },
+    {
+      "word": "判明",
+      "reading": "はんめい",
+      "meaning": "sự phân biệt rõ ràng"
     }
   ]
 }

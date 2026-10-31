@@ -109,29 +109,39 @@
   ],
   "vocabulary": [
     {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "sự tản bộ"
+    },
+    {
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "đi bộ"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "sự tiến bộ"
+    },
+    {
+      "word": "歩道",
+      "reading": "ほどう",
+      "meaning": "hè"
+    },
+    {
       "word": "歩",
       "reading": "ほ",
       "meaning": "bộ"
     },
     {
-      "word": "歩一歩",
-      "reading": "ほいっぽ",
-      "meaning": "từng bước từng bước"
+      "word": "徒歩",
+      "reading": "とほ",
+      "meaning": "sự đi bộ"
     },
     {
-      "word": "一歩一歩",
-      "reading": "いっぽいっぽ",
-      "meaning": "bước một"
-    },
-    {
-      "word": "五十歩百歩",
-      "reading": "ごじっぽひゃっぽ",
-      "meaning": "ｋẻ tám lạng người nữa cân"
-    },
-    {
-      "word": "一歩",
-      "reading": "いっぽ",
-      "meaning": "bước"
+      "word": "歩み",
+      "reading": "あゆみ",
+      "meaning": "đi bộ"
     },
     {
       "word": "歩む",
@@ -139,24 +149,14 @@
       "meaning": "đi"
     },
     {
-      "word": "散歩",
-      "reading": "さんぽ",
-      "meaning": "sự tản bộ"
+      "word": "譲歩",
+      "reading": "じょうほ",
+      "meaning": "sự nhượng bộ"
     },
     {
-      "word": "歩き",
-      "reading": "あるき",
-      "meaning": "việc đi bộ"
-    },
-    {
-      "word": "遊歩",
-      "reading": "ゆうほ",
-      "meaning": "đi bộ"
-    },
-    {
-      "word": "敵歩",
-      "reading": "てきふ",
-      "meaning": "những đối thủ cầm đồ"
+      "word": "一歩",
+      "reading": "いっぽ",
+      "meaning": "bước"
     }
   ]
 }

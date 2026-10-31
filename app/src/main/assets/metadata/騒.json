@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "騒騒しい",
-      "reading": "そうぞうしい",
-      "meaning": "ồn ào"
-    },
-    {
-      "word": "騒々",
-      "reading": "ざわざわ",
-      "meaning": "ồn ào"
-    },
-    {
-      "word": "喧騒",
-      "reading": "けんそう",
-      "meaning": "ồn ào"
-    },
-    {
-      "word": "騒乱",
-      "reading": "そうらん",
-      "meaning": "loạn lạc"
-    },
-    {
-      "word": "潮騒",
-      "reading": "しおさい",
-      "meaning": "biển gào"
-    },
-    {
-      "word": "騒霊",
-      "reading": "そうれい",
-      "meaning": "yêu tinh"
-    },
-    {
-      "word": "狂騒",
-      "reading": "きょうそう",
-      "meaning": "hứng cảm"
-    },
-    {
-      "word": "騒擾",
-      "reading": "そうじょう",
-      "meaning": "quậy phá"
-    },
-    {
-      "word": "騒人",
-      "reading": "そうじん",
-      "meaning": "nhà thơ"
+      "word": "騒ぐ",
+      "reading": "さわぐ",
+      "meaning": "đùa"
     },
     {
       "word": "騒ぎ",
       "reading": "さわぎ",
       "meaning": "sự ồn ào"
+    },
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "tiếng động"
+    },
+    {
+      "word": "物騒",
+      "reading": "ぶっそう",
+      "meaning": "loạn lạc"
+    },
+    {
+      "word": "騒がしい",
+      "reading": "さわがしい",
+      "meaning": "inh ỏi"
+    },
+    {
+      "word": "騒々しい",
+      "reading": "そうぞうしい",
+      "meaning": "inh ỏi"
+    },
+    {
+      "word": "騒動",
+      "reading": "そうどう",
+      "meaning": "sự náo động"
+    },
+    {
+      "word": "大騒動",
+      "reading": "おおそうどう",
+      "meaning": "sự náo động lớn"
+    },
+    {
+      "word": "米騒動",
+      "reading": "こめそうどう",
+      "meaning": "bạo động do giá gạo tăng vọt đột ngột"
+    },
+    {
+      "word": "空騒ぎ",
+      "reading": "からさわぎ",
+      "meaning": "chẳng có chuyện gì mà cũng làm rối lên"
     }
   ]
 }

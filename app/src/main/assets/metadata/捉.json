@@ -87,14 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "捕捉",
-      "reading": "ほそく",
+      "word": "捉える",
+      "reading": "とらえる",
       "meaning": "bắt"
     },
     {
-      "word": "把捉",
-      "reading": "はそく",
-      "meaning": "nắm chặt"
+      "word": "捕捉",
+      "reading": "ほそく",
+      "meaning": "bắt"
     },
     {
       "word": "捉まる",
@@ -102,14 +102,14 @@
       "meaning": "nắm"
     },
     {
-      "word": "捉える",
-      "reading": "とらえる",
-      "meaning": "bắt"
-    },
-    {
       "word": "択捉島",
       "reading": "えとろふとう",
       "meaning": "một hòng đảo thuộc 千島 phía bắc nhật bản"
+    },
+    {
+      "word": "把捉",
+      "reading": "はそく",
+      "meaning": "nắm chặt"
     },
     {
       "word": "捉え直す",
@@ -117,22 +117,22 @@
       "meaning": "nhìn nhận lại"
     },
     {
-      "word": "捉まえる",
-      "reading": "つかまえる",
-      "meaning": "chộp"
-    },
-    {
       "word": "心を捉える",
       "reading": "こころをとらえる",
       "meaning": "gây ấn tượng"
     },
     {
-      "word": "意味を捉える",
-      "reading": "いみをとらえる",
-      "meaning": "nắm bắt ý nghĩa"
+      "word": "捉まえる",
+      "reading": "つかまえる",
+      "meaning": "chộp"
     },
     {
       "word": "捉え所のない",
+      "reading": "とらえどころのない",
+      "meaning": "tinh tế"
+    },
+    {
+      "word": "捉え所の無い",
       "reading": "とらえどころのない",
       "meaning": "tinh tế"
     }

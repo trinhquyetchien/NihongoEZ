@@ -94,19 +94,14 @@
       "meaning": "đất đỏ"
     },
     {
+      "word": "書丹",
+      "reading": "しょたん",
+      "meaning": "writing an inscription on a stone monument"
+    },
+    {
       "word": "赤丹",
       "reading": "あかたん",
       "meaning": "màu đỏ"
-    },
-    {
-      "word": "牡丹",
-      "reading": "ぼたん",
-      "meaning": "mẫu đơn"
-    },
-    {
-      "word": "丹花",
-      "reading": "たんか",
-      "meaning": "hoa màu đỏ"
     },
     {
       "word": "不丹",
@@ -114,29 +109,34 @@
       "meaning": "bhutan"
     },
     {
-      "word": "丹青",
-      "reading": "たんせい",
-      "meaning": "màu đỏ và xanh"
+      "word": "青丹",
+      "reading": "あおたん",
+      "meaning": "màu xanh lam đất"
     },
     {
-      "word": "丹前",
-      "reading": "たんぜん",
-      "meaning": "một loại áo bông dày"
+      "word": "宝丹",
+      "reading": "ほうたん",
+      "meaning": "muối ngửi dạng bột ẩm màu nâu đỏ"
     },
     {
-      "word": "丹心",
-      "reading": "たんしん",
-      "meaning": "tính thành thật"
+      "word": "丹塗り",
+      "reading": "にぬり",
+      "meaning": "vẽ màu đỏ"
     },
     {
-      "word": "丹碧",
-      "reading": "たんぺき",
-      "meaning": "xanh đỏ"
+      "word": "黄丹",
+      "reading": "おうだん",
+      "meaning": "màu vàng đỏ"
     },
     {
-      "word": "丹誠",
-      "reading": "たんせい",
-      "meaning": "sự hết lòng"
+      "word": "丹砂",
+      "reading": "たんしゃ",
+      "meaning": "thủy ngân sulfua"
+    },
+    {
+      "word": "伊勢丹",
+      "reading": "いせたん",
+      "meaning": "isetan ban cất giữ)"
     }
   ]
 }

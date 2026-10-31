@@ -51,14 +51,14 @@
   ],
   "vocabulary": [
     {
-      "word": "餐",
-      "reading": "さん",
-      "meaning": "bữa ăn"
+      "word": "晩餐",
+      "reading": "ばんさん",
+      "meaning": "bữa ăn tối"
     },
     {
-      "word": "昼餐",
-      "reading": "ちゅうさん",
-      "meaning": "tiệc trưa"
+      "word": "晩餐会",
+      "reading": "ばんさんかい",
+      "meaning": "bữa tiệc tối"
     },
     {
       "word": "聖餐",
@@ -66,9 +66,14 @@
       "meaning": "linh mục chủ trì lễ ban thánh thể"
     },
     {
-      "word": "加餐",
-      "reading": "かさん",
-      "meaning": "sự chăm sóc sức khỏe"
+      "word": "聖餐式",
+      "reading": "せいさんしき",
+      "meaning": "phép thánh thể"
+    },
+    {
+      "word": "餐",
+      "reading": "さん",
+      "meaning": "bữa ăn"
     },
     {
       "word": "分餐",
@@ -76,29 +81,24 @@
       "meaning": "phân phối"
     },
     {
-      "word": "午餐",
-      "reading": "ごさん",
-      "meaning": "bữa ăn trưa"
-    },
-    {
       "word": "愛餐",
       "reading": "あいさん",
       "meaning": "há hốc mồm ra"
     },
     {
-      "word": "粗餐",
-      "reading": "そさん",
-      "meaning": "bữa ăn đạm bạc"
-    },
-    {
-      "word": "晩餐",
-      "reading": "ばんさん",
-      "meaning": "bữa ăn tối"
-    },
-    {
       "word": "正餐",
       "reading": "せいさん",
       "meaning": "món ăn phương tây với thực đơn trang trọng"
+    },
+    {
+      "word": "午餐",
+      "reading": "ごさん",
+      "meaning": "bữa ăn trưa"
+    },
+    {
+      "word": "午餐会",
+      "reading": "ごさんかい",
+      "meaning": "tiệc trưa"
     }
   ]
 }

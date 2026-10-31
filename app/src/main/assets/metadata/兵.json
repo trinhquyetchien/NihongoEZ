@@ -95,24 +95,39 @@
       "meaning": "lính"
     },
     {
-      "word": "傷兵",
-      "reading": "しょうへい",
-      "meaning": "thương binh"
+      "word": "兵車",
+      "reading": "へいしゃ",
+      "meaning": "xe ngựa chiến tranh"
     },
     {
-      "word": "新兵",
-      "reading": "しんぺい",
-      "meaning": "lính"
+      "word": "兵語",
+      "reading": "へいご",
+      "meaning": "thời hạn quân đội"
     },
     {
-      "word": "残兵",
-      "reading": "ざんぺい",
-      "meaning": "tàn binh"
+      "word": "兵変",
+      "reading": "へいへん",
+      "meaning": "sự rối loạn quân đội"
     },
     {
-      "word": "援兵",
-      "reading": "えんぺい",
-      "meaning": "quân tiếp viện"
+      "word": "兵食",
+      "reading": "へいしょく",
+      "meaning": "quân và lương thực"
+    },
+    {
+      "word": "天兵",
+      "reading": "てんぺい",
+      "meaning": "quân đội đế quốc"
+    },
+    {
+      "word": "兵術",
+      "reading": "へいじゅつ",
+      "meaning": "nghệ thuật chiến tranh"
+    },
+    {
+      "word": "正兵",
+      "reading": "せいへい",
+      "meaning": "lính tham gia chiến đấu trực tiếp"
     },
     {
       "word": "偽兵",
@@ -123,21 +138,6 @@
       "word": "甲兵",
       "reading": "こうへい",
       "meaning": "áo giáp và binh khí"
-    },
-    {
-      "word": "雑兵",
-      "reading": "ぞうひょう",
-      "meaning": "người lính cấp thấp"
-    },
-    {
-      "word": "陸兵",
-      "reading": "りくへい",
-      "meaning": "lính lục quân"
-    },
-    {
-      "word": "白兵",
-      "reading": "はくへい",
-      "meaning": "thanh gươm trần"
     }
   ]
 }

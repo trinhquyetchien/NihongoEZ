@@ -87,14 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "料",
-      "reading": "りょう",
-      "meaning": "chi phí"
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "bữa ăn"
     },
     {
-      "word": "肥料",
-      "reading": "ひりょう",
-      "meaning": "phân bón"
+      "word": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning": "thực phẩm"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "miễn phí"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "giá cước"
+    },
+    {
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "bổng lộc"
     },
     {
       "word": "材料",
@@ -102,24 +117,9 @@
       "meaning": "vật liệu"
     },
     {
-      "word": "原料",
-      "reading": "げんりょう",
-      "meaning": "chất liệu"
-    },
-    {
-      "word": "衣料",
-      "reading": "いりょう",
-      "meaning": "quần áo"
-    },
-    {
-      "word": "香料",
-      "reading": "こうりょう",
-      "meaning": "hương liệu"
-    },
-    {
-      "word": "飲料",
-      "reading": "いんりょう",
-      "meaning": "đồ uống"
+      "word": "食料",
+      "reading": "しょくりょう",
+      "meaning": "thực phẩm"
     },
     {
       "word": "資料",
@@ -127,14 +127,14 @@
       "meaning": "tài liệu"
     },
     {
-      "word": "キャンセル料",
-      "reading": "キャンセルりょう",
-      "meaning": "phí hủy"
+      "word": "送料",
+      "reading": "そうりょう",
+      "meaning": "phí vận chuyển"
     },
     {
-      "word": "室料",
-      "reading": "しつりょう",
-      "meaning": "phòng được cho thuê"
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "sự phải trả chi phí"
     }
   ]
 }

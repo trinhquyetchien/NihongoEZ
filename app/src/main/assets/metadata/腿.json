@@ -66,19 +66,34 @@
   ],
   "vocabulary": [
     {
+      "word": "大腿",
+      "reading": "だいたい",
+      "meaning": "bắp đùi"
+    },
+    {
+      "word": "大腿部",
+      "reading": "だいたいぶ",
+      "meaning": "phần đùi"
+    },
+    {
+      "word": "大腿筋",
+      "reading": "だいたいきん",
+      "meaning": "cơ đùi"
+    },
+    {
+      "word": "大腿骨",
+      "reading": "だいたいこつ",
+      "meaning": "xương đùi"
+    },
+    {
       "word": "腿",
       "reading": "もも",
       "meaning": "bắp đùi"
     },
     {
-      "word": "内腿",
-      "reading": "うちもも",
-      "meaning": "bắp đùi bên trong"
-    },
-    {
-      "word": "腿骨",
-      "reading": "たいこつ",
-      "meaning": "xương đùi"
+      "word": "腿上げ",
+      "reading": "ももあげ",
+      "meaning": "động tác nâng gối cao"
     },
     {
       "word": "太腿",
@@ -86,34 +101,19 @@
       "meaning": "bắp đùi"
     },
     {
-      "word": "上腿",
-      "reading": "じょうたい",
-      "meaning": "bắp đùi"
+      "word": "腿骨",
+      "reading": "たいこつ",
+      "meaning": "xương đùi"
     },
     {
-      "word": "大腿",
-      "reading": "だいたい",
-      "meaning": "bắp đùi"
-    },
-    {
-      "word": "下腿",
-      "reading": "かたい",
-      "meaning": "các bộ phận dưới của cơ thể"
+      "word": "腿口類",
+      "reading": "たいこうるい",
+      "meaning": "miệng đốt"
     },
     {
       "word": "腿節",
       "reading": "たいせつ",
       "meaning": "xương đùi"
-    },
-    {
-      "word": "下腿骨",
-      "reading": "かたいこつ",
-      "meaning": "xương cẳng chân"
-    },
-    {
-      "word": "腿上げ",
-      "reading": "ももあげ",
-      "meaning": "động tác nâng gối cao"
     }
   ]
 }

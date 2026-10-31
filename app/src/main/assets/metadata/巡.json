@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "巡",
-      "reading": "じゅん",
-      "meaning": "đi vòng quanh"
-    },
-    {
-      "word": "巡り巡って",
-      "reading": "めぐりめぐって",
-      "meaning": "quay đi quẩn lại"
-    },
-    {
-      "word": "巡回",
-      "reading": "じゅんかい",
-      "meaning": "đi tuần tiễu"
-    },
-    {
       "word": "巡査",
       "reading": "じゅんさ",
       "meaning": "cảnh sát tuần tiễu"
-    },
-    {
-      "word": "一巡",
-      "reading": "いちじゅん",
-      "meaning": "một vòng tròn"
     },
     {
       "word": "巡り",
@@ -120,24 +100,44 @@
       "meaning": "chu vi"
     },
     {
-      "word": "逡巡",
-      "reading": "しゅんじゅん",
-      "meaning": "sự do dự"
+      "word": "島巡り",
+      "reading": "しまめぐり",
+      "meaning": "sự tham quan quanh đảo"
     },
     {
-      "word": "巡幸",
-      "reading": "じゅんこう",
-      "meaning": "chuyến du lịch của vua chúa"
+      "word": "巡る",
+      "reading": "めぐる",
+      "meaning": "xung quanh"
     },
     {
-      "word": "巡拝",
-      "reading": "じゅんぱい",
-      "meaning": "mạch đi hành hương"
+      "word": "巡回",
+      "reading": "じゅんかい",
+      "meaning": "đi tuần tiễu"
     },
     {
-      "word": "巡歴",
-      "reading": "じゅんれき",
-      "meaning": "hành trình"
+      "word": "巡回的",
+      "reading": "じゅんかいてき",
+      "meaning": "tuần hoàn"
+    },
+    {
+      "word": "巡",
+      "reading": "じゅん",
+      "meaning": "đi vòng quanh"
+    },
+    {
+      "word": "重巡",
+      "reading": "じゅうじゅん",
+      "meaning": "tàu tuần dương hạng nặng"
+    },
+    {
+      "word": "行巡回",
+      "reading": "きょうじゅんかい",
+      "meaning": "đi lòng vòng"
+    },
+    {
+      "word": "巡回展",
+      "reading": "じゅんかいてん",
+      "meaning": "triển lãm lưu động"
     }
   ]
 }

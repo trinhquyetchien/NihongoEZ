@@ -87,44 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "加盟",
-      "reading": "かめい",
-      "meaning": "sự gia nhập"
-    },
-    {
-      "word": "盟友",
-      "reading": "めいゆう",
-      "meaning": "người bạn chí cốt"
-    },
-    {
-      "word": "盟主",
-      "reading": "めいしゅ",
-      "meaning": "minh chủ"
-    },
-    {
-      "word": "血盟",
-      "reading": "けつめい",
-      "meaning": "lời thề bằng máu"
-    },
-    {
-      "word": "盟邦",
-      "reading": "めいほう",
-      "meaning": "nước đồng minh"
-    },
-    {
-      "word": "締盟",
-      "reading": "ていめい",
-      "meaning": "hình thành một liên minh"
-    },
-    {
-      "word": "結盟",
-      "reading": "けつめい",
-      "meaning": "liên minh"
-    },
-    {
-      "word": "盟約",
-      "reading": "めいやく",
-      "meaning": "lời thề"
+      "word": "同盟",
+      "reading": "どうめい",
+      "meaning": "đồng minh"
     },
     {
       "word": "連盟",
@@ -132,9 +97,44 @@
       "meaning": "liên đoàn"
     },
     {
-      "word": "同盟",
-      "reading": "どうめい",
-      "meaning": "đồng minh"
+      "word": "同盟国",
+      "reading": "どうめいこく",
+      "meaning": "nước đồng minh"
+    },
+    {
+      "word": "同盟軍",
+      "reading": "どうめいぐん",
+      "meaning": "quân đồng minh"
+    },
+    {
+      "word": "同盟船",
+      "reading": "どうめいせん",
+      "meaning": "tàu hiệp hội"
+    },
+    {
+      "word": "加盟",
+      "reading": "かめい",
+      "meaning": "sự gia nhập"
+    },
+    {
+      "word": "加盟者",
+      "reading": "かめいしゃ",
+      "meaning": "những người tham gia"
+    },
+    {
+      "word": "加盟国",
+      "reading": "かめいこく",
+      "meaning": "đã ký hiệp ước"
+    },
+    {
+      "word": "加盟店",
+      "reading": "かめいてん",
+      "meaning": "tham gia kho"
+    },
+    {
+      "word": "盟友",
+      "reading": "めいゆう",
+      "meaning": "người bạn chí cốt"
     }
   ]
 }

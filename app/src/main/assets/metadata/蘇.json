@@ -90,11 +90,6 @@
   ],
   "vocabulary": [
     {
-      "word": "屠蘇機嫌",
-      "reading": "とそきげん",
-      "meaning": "tâm trạng vui vẻ"
-    },
-    {
       "word": "蘇る",
       "reading": "よみがえる",
       "meaning": "sống lại"
@@ -103,21 +98,6 @@
       "word": "蘇生",
       "reading": "そせい",
       "meaning": "sự tái sinh"
-    },
-    {
-      "word": "蘇木",
-      "reading": "そぼく",
-      "meaning": "tô mộc"
-    },
-    {
-      "word": "紫蘇",
-      "reading": "しそ",
-      "meaning": "cây tía tô"
-    },
-    {
-      "word": "苦蘇",
-      "reading": "くっそ",
-      "meaning": "hoa hagenia"
     },
     {
       "word": "蘇り",
@@ -130,14 +110,34 @@
       "meaning": "trung quốc và liên xô"
     },
     {
-      "word": "屠蘇",
-      "reading": "とそ",
-      "meaning": "cho gia vị vào mục đích năm mới có)"
+      "word": "蘇木",
+      "reading": "そぼく",
+      "meaning": "tô mộc"
     },
     {
-      "word": "耶蘇",
-      "reading": "やそ",
-      "meaning": "tám mươi"
+      "word": "蘇葉",
+      "reading": "そよう",
+      "meaning": "đậu tằm"
+    },
+    {
+      "word": "蘇連",
+      "reading": "ソれん",
+      "meaning": "nước nga"
+    },
+    {
+      "word": "蘇張",
+      "reading": "そちょう",
+      "meaning": "người tranh luận giỏi"
+    },
+    {
+      "word": "苦蘇",
+      "reading": "くっそ",
+      "meaning": "hoa hagenia"
+    },
+    {
+      "word": "蘇丹",
+      "reading": "スーダン",
+      "meaning": "nước sudan"
     }
   ]
 }

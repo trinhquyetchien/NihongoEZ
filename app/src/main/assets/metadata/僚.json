@@ -86,9 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "僚",
-      "reading": "りょう",
-      "meaning": "viên chức"
+      "word": "同僚",
+      "reading": "どうりょう",
+      "meaning": "bạn đồng liêu"
     },
     {
       "word": "官僚",
@@ -96,44 +96,44 @@
       "meaning": "quan liêu"
     },
     {
-      "word": "僚機",
-      "reading": "りょうき",
-      "meaning": "máy bay phe ta"
+      "word": "官僚的",
+      "reading": "かんりょうてき",
+      "meaning": "quan liêu"
     },
     {
-      "word": "下僚",
-      "reading": "かりょう",
-      "meaning": "nhân viên cấp thấp"
+      "word": "官僚化",
+      "reading": "かんりょうか",
+      "meaning": "sự quan liêu hoá"
     },
     {
-      "word": "末僚",
-      "reading": "ばつりょう",
-      "meaning": "thấp - xếp hạng viên chức"
+      "word": "官僚制",
+      "reading": "かんりょうせい",
+      "meaning": "chế độ quan liêu"
     },
     {
-      "word": "幕僚",
-      "reading": "ばくりょう",
-      "meaning": "bố trí cán bộ"
+      "word": "党官僚",
+      "reading": "とうかんりょう",
+      "meaning": "quan chức trong đảng"
     },
     {
-      "word": "属僚",
-      "reading": "ぞくりょう",
-      "meaning": "một người cấp dưới"
+      "word": "官僚臭",
+      "reading": "かんりょうしゅう",
+      "meaning": "có vẻ quan liêu"
     },
     {
-      "word": "僚艦",
-      "reading": "りょうかん",
-      "meaning": "chiến hạm của phe ta"
+      "word": "脱官僚",
+      "reading": "だつかんりょう",
+      "meaning": "cắt giảm quyền lực của bộ máy quan liêu"
     },
     {
-      "word": "同僚",
-      "reading": "どうりょう",
-      "meaning": "bạn đồng liêu"
+      "word": "閣僚",
+      "reading": "かくりょう",
+      "meaning": "nội các"
     },
     {
-      "word": "僚友",
-      "reading": "りょうゆう",
-      "meaning": "bạn đồng nghiệp"
+      "word": "閣僚級",
+      "reading": "かくりょうきゅう",
+      "meaning": "chức vụ bộ trưởng"
     }
   ]
 }

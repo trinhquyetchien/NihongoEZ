@@ -85,26 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "昌泰",
-      "reading": "しょうたい",
-      "meaning": "shōtai"
-    },
-    {
-      "word": "繁昌",
-      "reading": "はんじょう",
-      "meaning": "sự thịnh vượng"
-    },
-    {
-      "word": "昌平",
-      "reading": "しょうへい",
-      "meaning": "hoà bình"
-    },
-    {
-      "word": "隆昌",
-      "reading": "りゅうしょう",
-      "meaning": "sự thịnh vượng"
-    },
-    {
       "word": "昌運",
       "reading": "しょううん",
       "meaning": "sự thịnh vượng"
@@ -113,6 +93,26 @@
       "word": "玄昌石",
       "reading": "げんしょうせき",
       "meaning": "đá phiến"
+    },
+    {
+      "word": "昌泰",
+      "reading": "しょうたい",
+      "meaning": "shōtai"
+    },
+    {
+      "word": "昌平",
+      "reading": "しょうへい",
+      "meaning": "hoà bình"
+    },
+    {
+      "word": "繁昌",
+      "reading": "はんじょう",
+      "meaning": "sự thịnh vượng"
+    },
+    {
+      "word": "隆昌",
+      "reading": "りゅうしょう",
+      "meaning": "sự thịnh vượng"
     }
   ]
 }

@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "偉大",
+      "reading": "いだい",
+      "meaning": "sự vĩ đại"
+    },
+    {
+      "word": "偉大な",
+      "reading": "いだいな",
+      "meaning": "vĩ đại"
+    },
+    {
+      "word": "偉い",
+      "reading": "えらい",
+      "meaning": "vĩ đại"
+    },
+    {
+      "word": "偉い人",
+      "reading": "えらいひと",
+      "meaning": "nhân vật quan trọng"
+    },
+    {
+      "word": "ど偉い",
+      "reading": "どえらい",
+      "meaning": "khủng khiếp"
+    },
+    {
+      "word": "土偉い",
+      "reading": "どえらい",
+      "meaning": "lớn"
+    },
+    {
       "word": "偉",
       "reading": "い",
       "meaning": "sự to lớn"
     },
     {
-      "word": "魁偉",
-      "reading": "かいい",
-      "meaning": "khỏe mạnh"
+      "word": "偉そう",
+      "reading": "えらそう",
+      "meaning": "hống hách"
     },
     {
-      "word": "偉挙",
-      "reading": "いきょ",
-      "meaning": "tuyệt vời chứng nhượng"
+      "word": "御偉方",
+      "reading": "おえらがた",
+      "meaning": "vips"
     },
     {
-      "word": "偉烈",
-      "reading": "いれつ",
-      "meaning": "thành tích lớn"
-    },
-    {
-      "word": "偉勲",
-      "reading": "いくん",
-      "meaning": "thành công vĩ đại"
-    },
-    {
-      "word": "偉功",
-      "reading": "いこう",
-      "meaning": "kỳ công"
-    },
-    {
-      "word": "偉観",
-      "reading": "いかん",
-      "meaning": "cảnh quan tuyệt vời"
-    },
-    {
-      "word": "偉効",
-      "reading": "いこう",
-      "meaning": "hiệu ứng lớn"
-    },
-    {
-      "word": "偉績",
-      "reading": "いせき",
-      "meaning": "những thành tích vinh quang"
-    },
-    {
-      "word": "偉徳",
-      "reading": "いとく",
-      "meaning": "sự trinh tiết nổi bật"
+      "word": "偉がる",
+      "reading": "えらがる",
+      "meaning": "để kiêu ngạo"
     }
   ]
 }

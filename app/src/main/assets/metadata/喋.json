@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "喋り",
-      "reading": "しゃべり",
-      "meaning": "tán gẫu"
-    },
-    {
       "word": "喋る",
       "reading": "しゃべる",
       "meaning": "nói chuyện"
+    },
+    {
+      "word": "喋り",
+      "reading": "しゃべり",
+      "meaning": "tán gẫu"
     },
     {
       "word": "お喋り",
@@ -114,9 +114,9 @@
       "meaning": "độc diễn"
     },
     {
-      "word": "喋々喃々",
-      "reading": "ちょうちょうなんなん",
-      "meaning": "nói chuyện thì thầm"
+      "word": "お喋りする",
+      "reading": "おしゃべりする",
+      "meaning": "nói nhiều"
     },
     {
       "word": "喋り捲る",
@@ -124,9 +124,9 @@
       "meaning": "nói liên tục"
     },
     {
-      "word": "お喋りする",
-      "reading": "おしゃべりする",
-      "meaning": "nói nhiều"
+      "word": "喋々喃々",
+      "reading": "ちょうちょうなんなん",
+      "meaning": "nói chuyện thì thầm"
     }
   ]
 }

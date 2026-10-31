@@ -111,19 +111,34 @@
       "meaning": "bàu"
     },
     {
-      "word": "溜池",
-      "reading": "ためいけ",
-      "meaning": "kho chứa"
+      "word": "電池",
+      "reading": "でんち",
+      "meaning": "cục pin"
     },
     {
-      "word": "池沼",
-      "reading": "ちしょう",
-      "meaning": "những ao và những đầm lầy"
+      "word": "乾電池",
+      "reading": "かんでんち",
+      "meaning": "bình điện khô"
     },
     {
-      "word": "池亭",
-      "reading": "ちてい",
-      "meaning": "nhà nghỉ chân cạnh bờ hồ"
+      "word": "電池式",
+      "reading": "でんちしき",
+      "meaning": "dạng pin"
+    },
+    {
+      "word": "城池",
+      "reading": "じょうち",
+      "meaning": "hào lâu đài"
+    },
+    {
+      "word": "人工池",
+      "reading": "じんこういけ",
+      "meaning": "giếng nhân tạo"
+    },
+    {
+      "word": "充電池",
+      "reading": "じゅうでんち",
+      "meaning": "pin có thể sạc lại"
     },
     {
       "word": "池泉",
@@ -131,29 +146,14 @@
       "meaning": "ao trong vườn"
     },
     {
-      "word": "印池",
-      "reading": "いんち",
-      "meaning": "hộp mực dấu"
-    },
-    {
-      "word": "内池",
-      "reading": "うちいけ",
-      "meaning": "ao vườn"
+      "word": "溜め池",
+      "reading": "ためいけ",
+      "meaning": "bể chứa nước"
     },
     {
       "word": "墨池",
       "reading": "ぼくち",
       "meaning": "inkstone tốt"
-    },
-    {
-      "word": "古池",
-      "reading": "ふるいけ",
-      "meaning": "giếng xưa"
-    },
-    {
-      "word": "肉池",
-      "reading": "にくち",
-      "meaning": "hộp mực dấu"
     }
   ]
 }

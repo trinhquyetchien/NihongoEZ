@@ -85,29 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "漠漠",
-      "reading": "ばくばく",
-      "meaning": "rộng lớn"
-    },
-    {
-      "word": "空空漠漠",
-      "reading": "くうくうばくばく",
-      "meaning": "rộng lớn"
-    },
-    {
-      "word": "索漠",
-      "reading": "さくばく",
-      "meaning": "ảm đạm"
-    },
-    {
-      "word": "茫漠",
-      "reading": "ぼうばく",
-      "meaning": "rộng lớn"
-    },
-    {
-      "word": "冥漠",
-      "reading": "めいばく",
-      "meaning": "mịt mùng"
+      "word": "砂漠",
+      "reading": "さばく",
+      "meaning": "sa mạc"
     },
     {
       "word": "漠然",
@@ -115,8 +95,28 @@
       "meaning": "không rõ ràng"
     },
     {
-      "word": "空漠",
-      "reading": "くうばく",
+      "word": "砂漠化",
+      "reading": "さばくか",
+      "meaning": "sa mạc hóa"
+    },
+    {
+      "word": "漠然と",
+      "reading": "ばくぜんと",
+      "meaning": "hàm hồ"
+    },
+    {
+      "word": "冥漠",
+      "reading": "めいばく",
+      "meaning": "mịt mùng"
+    },
+    {
+      "word": "荒漠",
+      "reading": "こうばく",
+      "meaning": "bị tàn phá"
+    },
+    {
+      "word": "茫漠",
+      "reading": "ぼうばく",
       "meaning": "rộng lớn"
     },
     {
@@ -125,14 +125,14 @@
       "meaning": "bao la"
     },
     {
-      "word": "砂漠",
-      "reading": "さばく",
-      "meaning": "sa mạc"
+      "word": "漠漠",
+      "reading": "ばくばく",
+      "meaning": "rộng lớn"
     },
     {
-      "word": "荒漠",
-      "reading": "こうばく",
-      "meaning": "bị tàn phá"
+      "word": "索漠",
+      "reading": "さくばく",
+      "meaning": "ảm đạm"
     }
   ]
 }

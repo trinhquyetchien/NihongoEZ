@@ -69,34 +69,9 @@
   ],
   "vocabulary": [
     {
-      "word": "巾",
-      "reading": "はば",
-      "meaning": "khăn ăn"
-    },
-    {
-      "word": "巾偏",
-      "reading": "はばへん",
-      "meaning": "bộ thủ cân 巾 trong chữ hán"
-    },
-    {
-      "word": "金巾",
-      "reading": "カナキン",
-      "meaning": "vải vàng"
-    },
-    {
-      "word": "手巾",
-      "reading": "しゅきん",
-      "meaning": "khăn tay"
-    },
-    {
       "word": "雑巾",
       "reading": "ぞうきん",
       "meaning": "giẻ"
-    },
-    {
-      "word": "茶巾",
-      "reading": "ちゃきん",
-      "meaning": "khăn để lau tách uống trà"
     },
     {
       "word": "布巾",
@@ -104,19 +79,44 @@
       "meaning": "khăn lau"
     },
     {
+      "word": "頭巾",
+      "reading": "ずきん",
+      "meaning": "mũ trùm đầu"
+    },
+    {
+      "word": "赤頭巾",
+      "reading": "あかずきん",
+      "meaning": "cô bé quàng khăn đỏ"
+    },
+    {
+      "word": "黒頭巾",
+      "reading": "くろずきん",
+      "meaning": "mũ trùm đầu đen"
+    },
+    {
       "word": "巾着",
       "reading": "きんちゃく",
       "meaning": "túi đựng tiền"
     },
     {
-      "word": "並巾",
-      "reading": "なみはば",
-      "meaning": "khổ vải có chiều rộng chuẩn"
+      "word": "巾着型",
+      "reading": "きんちゃくかた",
+      "meaning": "loại túi có dây rút"
     },
     {
-      "word": "肩巾",
-      "reading": "ひれ",
-      "meaning": "khăn choàng"
+      "word": "巾着袋",
+      "reading": "きんちゃくぶくろ",
+      "meaning": "túi dây rút"
+    },
+    {
+      "word": "巾着草",
+      "reading": "きんちゃくそう",
+      "meaning": "huyền sâm"
+    },
+    {
+      "word": "兜頭巾",
+      "reading": "かぶとずきん",
+      "meaning": "mũ trùm đầu tạo dáng mũ sắt"
     }
   ]
 }

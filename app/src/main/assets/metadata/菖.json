@@ -52,11 +52,6 @@
       "meaning": "i rít"
     },
     {
-      "word": "石菖",
-      "reading": "せきしょう",
-      "meaning": "thạch xương bồ"
-    },
-    {
       "word": "黄菖蒲",
       "reading": "きしょうぶ",
       "meaning": "cây irit hoa vàng"
@@ -72,14 +67,14 @@
       "meaning": "tắm nước hoa xương bồ nấu"
     },
     {
+      "word": "石菖",
+      "reading": "せきしょう",
+      "meaning": "thạch xương bồ"
+    },
+    {
       "word": "庭石菖",
       "reading": "にわぜきしょう",
       "meaning": "sisyrinchium rosulatum"
-    },
-    {
-      "word": "オランダ菖蒲",
-      "reading": "オランダあやめ",
-      "meaning": "hoa lay ơn"
     },
     {
       "word": "匂い菖蒲",
@@ -95,6 +90,11 @@
       "word": "江戸花菖蒲",
       "reading": "えどはなしょうぶ",
       "meaning": "hoa diên vĩ thời edo"
+    },
+    {
+      "word": "肥後花菖蒲",
+      "reading": "ひごはなしょうぶ",
+      "meaning": "hoa diên vĩ nhật bản"
     }
   ]
 }

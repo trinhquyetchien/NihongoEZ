@@ -90,44 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "刻",
-      "reading": "きざ",
-      "meaning": "vết xước"
+      "word": "深刻",
+      "reading": "しんこく",
+      "meaning": "sự nghiêm trọng"
     },
     {
-      "word": "刻刻",
-      "reading": "ぎざぎざ",
-      "meaning": "chốc lát trước chốc lát"
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "lúc"
     },
     {
-      "word": "刻一刻",
-      "reading": "こくいっこく",
-      "meaning": "từng khắc từng khắc"
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaning": "sự muộn"
     },
     {
-      "word": "刻刻に",
-      "reading": "こっこくに",
-      "meaning": "chốc lát trước chốc lát"
-    },
-    {
-      "word": "一刻一刻",
-      "reading": "いっこくいっこく",
-      "meaning": "hàng giờ"
-    },
-    {
-      "word": "時時刻刻",
-      "reading": "じじこっこく",
-      "meaning": "từ giờ này sang giờ khác"
-    },
-    {
-      "word": "刻一刻と",
-      "reading": "こくいっこくと",
-      "meaning": "từng khắc từng khắc"
-    },
-    {
-      "word": "彫刻/てん刻",
-      "reading": "ちょうこく/てんこくてんこく",
-      "meaning": "sculpture/engraving"
+      "word": "彫刻",
+      "reading": "ちょうこく",
+      "meaning": "điêu khắc"
     },
     {
       "word": "刻む",
@@ -135,9 +115,29 @@
       "meaning": "đục chạm"
     },
     {
-      "word": "深刻",
-      "reading": "しんこく",
-      "meaning": "sự nghiêm trọng"
+      "word": "復刻",
+      "reading": "ふっこく",
+      "meaning": "phát hành lại một phiên bản fax"
+    },
+    {
+      "word": "刻",
+      "reading": "きざ",
+      "meaning": "vết xước"
+    },
+    {
+      "word": "刻本",
+      "reading": "こくほん",
+      "meaning": "sách được in bằng mộc bản"
+    },
+    {
+      "word": "頃刻",
+      "reading": "けいこく",
+      "meaning": "khoảnh khắc"
+    },
+    {
+      "word": "刻足",
+      "reading": "きざみあし",
+      "meaning": "băm những bước"
     }
   ]
 }

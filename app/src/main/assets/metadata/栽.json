@@ -84,44 +84,19 @@
   ],
   "vocabulary": [
     {
-      "word": "栽",
-      "reading": "さい",
-      "meaning": "trồng trọt"
-    },
-    {
-      "word": "前栽",
-      "reading": "せんざい",
-      "meaning": "vườn cây"
-    },
-    {
-      "word": "植栽",
-      "reading": "しょくさい",
-      "meaning": "trồng cây cỏ"
-    },
-    {
-      "word": "輪栽",
-      "reading": "りんさい",
-      "meaning": "sự luân canh"
-    },
-    {
-      "word": "盆栽",
-      "reading": "ぼんさい",
-      "meaning": "bon sai"
-    },
-    {
       "word": "栽培",
       "reading": "さいばい",
       "meaning": "sự trồng trọt"
     },
     {
-      "word": "公栽",
-      "reading": "",
-      "meaning": "quyết định tư pháp"
+      "word": "栽培家",
+      "reading": "さいばいか",
+      "meaning": "người trồng trọt"
     },
     {
-      "word": "前栽物",
-      "reading": "せんざいもの",
-      "meaning": "những màu xanh lục"
+      "word": "栽培所",
+      "reading": "さいばいじょ",
+      "meaning": "nơi trồng trọt"
     },
     {
       "word": "栽培種",
@@ -129,9 +104,34 @@
       "meaning": "những tiền đồng nông nghiệp"
     },
     {
-      "word": "栽培所",
-      "reading": "さいばいじょ",
-      "meaning": "nơi trồng trọt"
+      "word": "盆栽",
+      "reading": "ぼんさい",
+      "meaning": "bon sai"
+    },
+    {
+      "word": "栽",
+      "reading": "さい",
+      "meaning": "trồng trọt"
+    },
+    {
+      "word": "公栽",
+      "reading": "",
+      "meaning": "quyết định tư pháp"
+    },
+    {
+      "word": "植栽",
+      "reading": "しょくさい",
+      "meaning": "trồng cây cỏ"
+    },
+    {
+      "word": "水栽培",
+      "reading": "みずさいばい",
+      "meaning": "thuật trồng cây trong nước"
+    },
+    {
+      "word": "前栽",
+      "reading": "せんざい",
+      "meaning": "vườn cây"
     }
   ]
 }

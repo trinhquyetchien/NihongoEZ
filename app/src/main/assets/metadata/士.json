@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "士",
-      "reading": "し",
-      "meaning": "người đàn ông"
-    },
-    {
-      "word": "下士",
-      "reading": "かし",
-      "meaning": "hạ sĩ quan"
+      "word": "同士",
+      "reading": "どうし",
+      "meaning": "đồng chí"
     },
     {
       "word": "紳士",
@@ -109,34 +104,39 @@
       "meaning": "chương trình đào tạo thạc sĩ"
     },
     {
-      "word": "騎士",
-      "reading": "きし",
-      "meaning": "hiệp sĩ"
-    },
-    {
-      "word": "士官",
-      "reading": "しかん",
-      "meaning": "sĩ quan"
-    },
-    {
-      "word": "士気",
-      "reading": "しき",
-      "meaning": "chí khí"
-    },
-    {
       "word": "学士",
       "reading": "がくし",
       "meaning": "cử nhân"
     },
     {
-      "word": "文士",
-      "reading": "ぶんし",
-      "meaning": "văn sĩ"
+      "word": "士",
+      "reading": "し",
+      "meaning": "người đàn ông"
     },
     {
-      "word": "衛士",
-      "reading": "えじ",
-      "meaning": "vệ sĩ"
+      "word": "３士",
+      "reading": "さんし",
+      "meaning": "tuyển dụng"
+    },
+    {
+      "word": "一士",
+      "reading": "いっし",
+      "meaning": "binh nhất"
+    },
+    {
+      "word": "二士",
+      "reading": "にし",
+      "meaning": "riêng tư"
+    },
+    {
+      "word": "三士",
+      "reading": "さんし",
+      "meaning": "tuyển mộ"
+    },
+    {
+      "word": "士女",
+      "reading": "しじょ",
+      "meaning": "mọi người"
     }
   ]
 }

@@ -89,9 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "虐め",
-      "reading": "いじめ",
-      "meaning": "bắt nạt"
+      "word": "虐殺",
+      "reading": "ぎゃくさつ",
+      "meaning": "sự thảm sát"
+    },
+    {
+      "word": "大虐殺",
+      "reading": "だいぎゃくさつ",
+      "meaning": "tội diệt chủng"
     },
     {
       "word": "虐待",
@@ -104,9 +109,24 @@
       "meaning": "bạo tàn"
     },
     {
-      "word": "賊虐",
-      "reading": "ぞくぎゃく",
-      "meaning": "hư hại và sự ngược đãi"
+      "word": "自虐",
+      "reading": "じぎゃく",
+      "meaning": "tự làm tổn thương bản thân"
+    },
+    {
+      "word": "自虐的",
+      "reading": "じぎゃくてき",
+      "meaning": "tự giày vò"
+    },
+    {
+      "word": "虐め",
+      "reading": "いじめ",
+      "meaning": "bắt nạt"
+    },
+    {
+      "word": "暴虐",
+      "reading": "ぼうぎゃく",
+      "meaning": "bạo nghịch"
     },
     {
       "word": "八虐",
@@ -117,26 +137,6 @@
       "word": "悪虐",
       "reading": "あくぎゃく",
       "meaning": "làm phản"
-    },
-    {
-      "word": "虐政",
-      "reading": "ぎゃくせい",
-      "meaning": "sự chuyên chế"
-    },
-    {
-      "word": "加虐",
-      "reading": "かぎゃく",
-      "meaning": "sự ngược đãi"
-    },
-    {
-      "word": "苛虐",
-      "reading": "かぎゃく",
-      "meaning": "sự đối xử tàn bạo"
-    },
-    {
-      "word": "虐使",
-      "reading": "ぎゃくし",
-      "meaning": "sử dụng vắt kiệt sức người khác"
     }
   ]
 }

@@ -33,24 +33,24 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "騒擾",
-      "reading": "そうじょう",
-      "meaning": "quậy phá"
-    },
-    {
       "word": "擾乱",
       "reading": "じょうらん",
       "meaning": "sự rối loạn"
     },
     {
-      "word": "紛擾",
-      "reading": "ふんじょう",
-      "meaning": "sự rối loạn"
+      "word": "騒擾",
+      "reading": "そうじょう",
+      "meaning": "quậy phá"
     },
     {
       "word": "騒擾罪",
       "reading": "そうじょうざい",
       "meaning": "tội gây rối trật tự nơi công cộng"
+    },
+    {
+      "word": "紛擾",
+      "reading": "ふんじょう",
+      "meaning": "sự rối loạn"
     },
     {
       "word": "擾乱する",

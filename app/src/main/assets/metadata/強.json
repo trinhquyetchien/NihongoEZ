@@ -94,34 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "強",
-      "reading": "きょう",
-      "meaning": "mạnh"
-    },
-    {
-      "word": "強強",
-      "reading": "ごわごわ",
-      "meaning": "cứng đơ"
-    },
-    {
-      "word": "強烈",
-      "reading": "きょうれつ",
-      "meaning": "chói chang"
-    },
-    {
-      "word": "強制",
-      "reading": "きょうせい",
-      "meaning": "sách nhiễu"
-    },
-    {
       "word": "強い",
       "reading": "つよい",
       "meaning": "khỏe"
-    },
-    {
-      "word": "強奪",
-      "reading": "ごうだつ",
-      "meaning": "sự cướp"
     },
     {
       "word": "強調",
@@ -129,9 +104,19 @@
       "meaning": "sự nhấn mạnh"
     },
     {
-      "word": "強健",
-      "reading": "きょうけん",
-      "meaning": "bạo quyền"
+      "word": "強制",
+      "reading": "きょうせい",
+      "meaning": "sách nhiễu"
+    },
+    {
+      "word": "強烈",
+      "reading": "きょうれつ",
+      "meaning": "chói chang"
+    },
+    {
+      "word": "強行",
+      "reading": "きょうこう",
+      "meaning": "việc kiên quyết tiến hành"
     },
     {
       "word": "強硬",
@@ -139,9 +124,24 @@
       "meaning": "ngoan cường"
     },
     {
-      "word": "強要",
-      "reading": "きょうよう",
-      "meaning": "sự ép buộc"
+      "word": "強",
+      "reading": "きょう",
+      "meaning": "mạnh"
+    },
+    {
+      "word": "最強",
+      "reading": "さいきょう",
+      "meaning": "mạnh nhất"
+    },
+    {
+      "word": "強音",
+      "reading": "きょうおん",
+      "meaning": "dấu nhấn"
+    },
+    {
+      "word": "強強",
+      "reading": "ごわごわ",
+      "meaning": "cứng đơ"
     }
   ]
 }

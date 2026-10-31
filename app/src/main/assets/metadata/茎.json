@@ -93,24 +93,9 @@
       "meaning": "cọng"
     },
     {
-      "word": "歯茎",
-      "reading": "はぐき",
-      "meaning": "lợi"
-    },
-    {
-      "word": "芋茎",
-      "reading": "ずいき",
-      "meaning": "taro ngăn trở"
-    },
-    {
-      "word": "茎葉",
-      "reading": "けいよう",
-      "meaning": "thân và lá cây"
-    },
-    {
-      "word": "茎茶",
-      "reading": "くきちゃ",
-      "meaning": "kukicha"
+      "word": "一茎",
+      "reading": "ひとくき",
+      "meaning": "một thân cây"
     },
     {
       "word": "肉茎",
@@ -118,9 +103,9 @@
       "meaning": "dick"
     },
     {
-      "word": "花茎",
-      "reading": "かけい",
-      "meaning": "cuống hoa"
+      "word": "茎茶",
+      "reading": "くきちゃ",
+      "meaning": "kukicha"
     },
     {
       "word": "包茎",
@@ -128,14 +113,29 @@
       "meaning": "chứng hẹp bao qui đầu"
     },
     {
-      "word": "球茎",
-      "reading": "きゅうけい",
-      "meaning": "củ hành"
+      "word": "地上茎",
+      "reading": "ちじょうけい",
+      "meaning": "thân cây mọc trên mặt đất"
     },
     {
-      "word": "一茎",
-      "reading": "ひとくき",
-      "meaning": "một thân cây"
+      "word": "陰茎",
+      "reading": "いんけい",
+      "meaning": "dương vật"
+    },
+    {
+      "word": "茎頂",
+      "reading": "けいちょう",
+      "meaning": "phần đầu của thân cây"
+    },
+    {
+      "word": "歯茎",
+      "reading": "はぐき",
+      "meaning": "lợi"
+    },
+    {
+      "word": "歯茎音",
+      "reading": "はぐきおん",
+      "meaning": "âm lợi"
     }
   ]
 }

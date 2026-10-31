@@ -106,6 +106,21 @@
       "meaning": "sự giới thiệu"
     },
     {
+      "word": "紹介者",
+      "reading": "しょうかいしゃ",
+      "meaning": "người giới thiệu"
+    },
+    {
+      "word": "紹介文",
+      "reading": "しょうかいぶん",
+      "meaning": "bài giới thiệu"
+    },
+    {
+      "word": "紹介料",
+      "reading": "しょうかいりょう",
+      "meaning": "tiền môi giới"
+    },
+    {
       "word": "紹介状",
       "reading": "しょうかいじょう",
       "meaning": "giấy giới thiệu"
@@ -116,24 +131,14 @@
       "meaning": "rượu thiệu hưng"
     },
     {
-      "word": "紹介者",
-      "reading": "しょうかいしゃ",
-      "meaning": "người giới thiệu"
-    },
-    {
-      "word": "紹介料",
-      "reading": "しょうかいりょう",
-      "meaning": "tiền môi giới"
-    },
-    {
-      "word": "紹介文",
-      "reading": "しょうかいぶん",
-      "meaning": "bài giới thiệu"
-    },
-    {
       "word": "紹介する",
       "reading": "しょうかいする",
       "meaning": "giới thiệu"
+    },
+    {
+      "word": "紹介記事",
+      "reading": "しょうかいきじ",
+      "meaning": "bài báo giới thiệu"
     },
     {
       "word": "自己紹介",
@@ -141,14 +146,9 @@
       "meaning": "sự tự giới thiệu"
     },
     {
-      "word": "新刊紹介",
-      "reading": "しんかんしょうかい",
-      "meaning": "tổng quan sách"
-    },
-    {
-      "word": "事例紹介",
-      "reading": "じれいしょうかい",
-      "meaning": "sự giới thiệu sản phẩm mẫu"
+      "word": "紹介と相談",
+      "reading": "しょーかいとそーだん",
+      "meaning": "giới thiệu và thảo luận"
     }
   ]
 }

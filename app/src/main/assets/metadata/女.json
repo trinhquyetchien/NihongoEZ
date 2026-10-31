@@ -97,9 +97,9 @@
       "meaning": "phụ nữ"
     },
     {
-      "word": "女女しい",
-      "reading": "めめしい",
-      "meaning": "yếu ớt"
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "gái"
     },
     {
       "word": "少女",
@@ -107,39 +107,39 @@
       "meaning": "thiếu nữ"
     },
     {
-      "word": "ダメ女",
-      "reading": "ダメおんな",
-      "meaning": "cô gái vô dụng"
+      "word": "女優",
+      "reading": "じょゆう",
+      "meaning": "nữ diễn viên điện ảnh"
     },
     {
-      "word": "独女",
-      "reading": "どくじょ",
-      "meaning": "người phụ nữ độc thân"
+      "word": "女王",
+      "reading": "じょおう",
+      "meaning": "nữ hoàng"
     },
     {
-      "word": "既女",
-      "reading": "きじょ",
-      "meaning": "người phụ nữ đã kết hôn"
+      "word": "女房",
+      "reading": "にょうぼう",
+      "meaning": "vợ"
+    },
+    {
+      "word": "女史",
+      "reading": "じょし",
+      "meaning": "bà"
+    },
+    {
+      "word": "三女",
+      "reading": "さんじょ",
+      "meaning": "con gái thứ ba"
+    },
+    {
+      "word": "女達",
+      "reading": "おんなたち",
+      "meaning": "phụ nữ"
     },
     {
       "word": "側女",
       "reading": "そばめ",
       "meaning": "vợ lẽ"
-    },
-    {
-      "word": "女中",
-      "reading": "じょちゅう",
-      "meaning": "cô gái"
-    },
-    {
-      "word": "女湯",
-      "reading": "おんなゆ",
-      "meaning": "phòng tắm dành cho nữ"
-    },
-    {
-      "word": "女優",
-      "reading": "じょゆう",
-      "meaning": "nữ diễn viên điện ảnh"
     }
   ]
 }

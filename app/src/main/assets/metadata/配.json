@@ -106,34 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "配",
-      "reading": "はい",
-      "meaning": "sự xếp đặt"
-    },
-    {
-      "word": "分配/配線コード",
-      "reading": "ぶんぱい/はいせんコード",
-      "meaning": "phân phối/dây điện phân phối"
-    },
-    {
-      "word": "勾配",
-      "reading": "こうばい",
-      "meaning": "dốc"
-    },
-    {
-      "word": "配線",
-      "reading": "はいせん",
-      "meaning": "dây điện"
-    },
-    {
-      "word": "配席",
-      "reading": "はいせき",
-      "meaning": "chỗ ngồi"
-    },
-    {
-      "word": "配食",
-      "reading": "はいしょく",
-      "meaning": "vận chuyển đồ ăn"
+      "word": "支配",
+      "reading": "しはい",
+      "meaning": "sự ảnh hưởng"
     },
     {
       "word": "手配",
@@ -141,19 +116,44 @@
       "meaning": "sự chuẩn bị"
     },
     {
-      "word": "交配",
-      "reading": "こうはい",
-      "meaning": "kết bạn"
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "mảng"
     },
     {
-      "word": "支配",
-      "reading": "しはい",
-      "meaning": "sự ảnh hưởng"
+      "word": "配信",
+      "reading": "はいしん",
+      "meaning": "phân phối"
     },
     {
-      "word": "配役",
-      "reading": "はいやく",
-      "meaning": "sự phân vai"
+      "word": "配備",
+      "reading": "はいび",
+      "meaning": "sự bố trí"
+    },
+    {
+      "word": "配線",
+      "reading": "はいせん",
+      "meaning": "dây điện"
+    },
+    {
+      "word": "配合",
+      "reading": "はいごう",
+      "meaning": "sự phối hợp"
+    },
+    {
+      "word": "配偶",
+      "reading": "はいぐう",
+      "meaning": "sự phối ngẫu"
+    },
+    {
+      "word": "配",
+      "reading": "はい",
+      "meaning": "sự xếp đặt"
+    },
+    {
+      "word": "配船",
+      "reading": "はいせん",
+      "meaning": "sự ấn định những bình"
     }
   ]
 }

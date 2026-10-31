@@ -89,19 +89,34 @@
   ],
   "vocabulary": [
     {
+      "word": "連邦",
+      "reading": "れんぽう",
+      "meaning": "liên bang"
+    },
+    {
+      "word": "連邦法",
+      "reading": "れんぽうほう",
+      "meaning": "luật liên bang"
+    },
+    {
+      "word": "米連邦",
+      "reading": "べいれんぽう",
+      "meaning": "cơ quan liên bang hoa kỳ"
+    },
+    {
+      "word": "連邦制",
+      "reading": "れんぽうせい",
+      "meaning": "liên bang sytem"
+    },
+    {
+      "word": "英連邦",
+      "reading": "えいれんぽう",
+      "meaning": "khối cộng đồng những dân tộc"
+    },
+    {
       "word": "邦",
       "reading": "くに",
       "meaning": "nước"
-    },
-    {
-      "word": "邦船",
-      "reading": "ほうせん",
-      "meaning": "tàu nhật bản"
-    },
-    {
-      "word": "東邦",
-      "reading": "とうほう",
-      "meaning": "nước phương đông"
     },
     {
       "word": "同邦",
@@ -109,34 +124,19 @@
       "meaning": "cùng nước đó"
     },
     {
-      "word": "邦題",
-      "reading": "ほうだい",
-      "meaning": "tựa đề bằng tiếng nhật cho tác phẩm nước ngoài"
+      "word": "邦船",
+      "reading": "ほうせん",
+      "meaning": "tàu nhật bản"
     },
     {
-      "word": "邦人",
-      "reading": "ほうじん",
-      "meaning": "người bản quốc"
+      "word": "旧邦",
+      "reading": "きゅうほう",
+      "meaning": "nước cũ"
     },
     {
-      "word": "友邦",
-      "reading": "ゆうほう",
-      "meaning": "dân tộc thân thiện"
-    },
-    {
-      "word": "万邦",
-      "reading": "ばんぽう",
-      "meaning": "tất cả các dân tộc"
-    },
-    {
-      "word": "邦画",
-      "reading": "ほうが",
-      "meaning": "tiếng nhật quay phim"
-    },
-    {
-      "word": "邦訳",
-      "reading": "ほうやく",
-      "meaning": "bản dịch vào trong tiếng nhật"
+      "word": "邦楽",
+      "reading": "ほうがく",
+      "meaning": "âm nhạc tiếng nhật"
     }
   ]
 }

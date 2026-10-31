@@ -83,16 +83,6 @@
   ],
   "vocabulary": [
     {
-      "word": "郁郁",
-      "reading": "いくいく",
-      "meaning": "hưng thịng"
-    },
-    {
-      "word": "郁郁たる",
-      "reading": "いくいくたる",
-      "meaning": "thơm"
-    },
-    {
       "word": "郁子",
       "reading": "むべ",
       "meaning": "cây nho nhật bản"
@@ -103,9 +93,19 @@
       "meaning": "thơm ngát"
     },
     {
+      "word": "郁郁",
+      "reading": "いくいく",
+      "meaning": "hưng thịng"
+    },
+    {
       "word": "馥郁たる",
       "reading": "ふくいくたる",
       "meaning": "thơm phưng phức"
+    },
+    {
+      "word": "郁郁たる",
+      "reading": "いくいくたる",
+      "meaning": "thơm"
     }
   ]
 }

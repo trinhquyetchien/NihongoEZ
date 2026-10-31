@@ -93,19 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "腫",
-      "reading": "しゅ",
-      "meaning": "khối u"
-    },
-    {
-      "word": "腺腫様腫瘍",
-      "reading": "せんしゅさましゅよう",
-      "meaning": "u lành tính của tế bào biểu mô tuyến"
-    },
-    {
-      "word": "肉芽腫症-リンパ腫様",
-      "reading": "にくがしゅしょー-リンパしゅさま",
-      "meaning": "bệnh u hạt lympho"
+      "word": "腫れる",
+      "reading": "はれる",
+      "meaning": "phồng lên"
     },
     {
       "word": "腫瘍",
@@ -113,34 +103,44 @@
       "meaning": "khối u"
     },
     {
+      "word": "腫瘍学",
+      "reading": "しゅようがく",
+      "meaning": "khoa ung thư"
+    },
+    {
       "word": "腫れ",
       "reading": "はれ",
       "meaning": "sự sưng lên"
     },
     {
-      "word": "血腫",
-      "reading": "けっしゅ",
-      "meaning": "hematoma"
-    },
-    {
-      "word": "バーキットリンパ腫",
-      "reading": "バーキットリンパしゅ",
-      "meaning": "u lympho burkitt"
-    },
-    {
-      "word": "ホジキンリンパ腫",
-      "reading": "ホジキンリンパしゅ",
-      "meaning": "bệnh ung thư gan"
-    },
-    {
-      "word": "腫瘤",
-      "reading": "しゅりゅう",
+      "word": "腫",
+      "reading": "しゅ",
       "meaning": "khối u"
     },
     {
       "word": "気腫",
       "reading": "きしゅ",
       "meaning": "tràn khí"
+    },
+    {
+      "word": "腫大",
+      "reading": "しゅだい",
+      "meaning": "sưng"
+    },
+    {
+      "word": "骨腫",
+      "reading": "こっしゅ",
+      "meaning": "osteoma"
+    },
+    {
+      "word": "中皮腫",
+      "reading": "ちゅうひしゅ",
+      "meaning": "u trung biểu mô"
+    },
+    {
+      "word": "菌腫",
+      "reading": "きんしゅ",
+      "meaning": "u nấm"
     }
   ]
 }

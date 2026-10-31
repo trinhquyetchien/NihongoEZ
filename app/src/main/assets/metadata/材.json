@@ -87,39 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "材",
-      "reading": "ざい",
-      "meaning": "gỗ"
-    },
-    {
-      "word": "1×材(ワンバイ材)",
-      "reading": "1×ざい(ワンバイざい)",
-      "meaning": "gỗ 1x"
-    },
-    {
-      "word": "2×材(ツーバイ材)",
-      "reading": "2×ざい(ツーバイざい)",
-      "meaning": "dầm 2x"
-    },
-    {
-      "word": "下地材/バックアップ材",
-      "reading": "したじざい/バックアップざい",
-      "meaning": "vật liệu lót/ vật liệu hỗ trợ"
-    },
-    {
-      "word": "辺材",
-      "reading": "へんざい",
-      "meaning": "dác gỗ"
-    },
-    {
       "word": "材料",
       "reading": "ざいりょう",
       "meaning": "vật liệu"
     },
     {
-      "word": "建材",
-      "reading": "けんざい",
-      "meaning": "vật liệu xây dựng"
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning": "gỗ"
+    },
+    {
+      "word": "材木",
+      "reading": "ざいもく",
+      "meaning": "gỗ"
+    },
+    {
+      "word": "素材",
+      "reading": "そざい",
+      "meaning": "nguyên liệu"
     },
     {
       "word": "取材",
@@ -127,14 +112,29 @@
       "meaning": "sự điều tra"
     },
     {
-      "word": "資材",
-      "reading": "しざい",
-      "meaning": "vật tư xây dựng"
+      "word": "人材",
+      "reading": "じんざい",
+      "meaning": "nhân lực"
     },
     {
-      "word": "材木",
-      "reading": "ざいもく",
+      "word": "材",
+      "reading": "ざい",
       "meaning": "gỗ"
+    },
+    {
+      "word": "花材",
+      "reading": "かざい",
+      "meaning": "vật liệu cắm hoa"
+    },
+    {
+      "word": "割材",
+      "reading": "わりざい",
+      "meaning": "các loại đồ uống dùng làm nguyên liệu để pha với đồ uống có cồn"
+    },
+    {
+      "word": "材器",
+      "reading": "さいき",
+      "meaning": "ability"
     }
   ]
 }

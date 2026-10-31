@@ -104,34 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "感",
-      "reading": "かん",
-      "meaning": "cảm giác"
-    },
-    {
-      "word": "感謝感激",
-      "reading": "かんしゃかんげき",
-      "meaning": "vô cùng biết ơn"
-    },
-    {
-      "word": "所感",
-      "reading": "しょかん",
-      "meaning": "cảm tưởng"
-    },
-    {
-      "word": "好感",
-      "reading": "こうかん",
-      "meaning": "ấn tượng tốt"
-    },
-    {
-      "word": "感電",
-      "reading": "かんでん",
-      "meaning": "cú bị điện giật"
-    },
-    {
-      "word": "感想",
-      "reading": "かんそう",
-      "meaning": "cảm tưởng"
+      "word": "感じ",
+      "reading": "かんじ",
+      "meaning": "tri giác"
     },
     {
       "word": "感覚",
@@ -139,19 +114,44 @@
       "meaning": "cảm giác"
     },
     {
-      "word": "感じ",
-      "reading": "かんじ",
-      "meaning": "tri giác"
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "cảm tưởng"
     },
     {
-      "word": "美感",
-      "reading": "びかん",
-      "meaning": "cảm thấy vẻ đẹp"
+      "word": "感度",
+      "reading": "かんど",
+      "meaning": "độ nhạy"
     },
     {
-      "word": "性感",
-      "reading": "せいかん",
-      "meaning": "tính cảm"
+      "word": "感慨",
+      "reading": "かんがい",
+      "meaning": "cảm khái"
+    },
+    {
+      "word": "感",
+      "reading": "かん",
+      "meaning": "cảm giác"
+    },
+    {
+      "word": "私感",
+      "reading": "しかん",
+      "meaning": "cảm tưởng của cá nhân"
+    },
+    {
+      "word": "感作",
+      "reading": "かんさ",
+      "meaning": "mẫn cảm hóa"
+    },
+    {
+      "word": "熱感",
+      "reading": "ねつかん",
+      "meaning": "bị phát sốt"
+    },
+    {
+      "word": "増感",
+      "reading": "ぞうかん",
+      "meaning": "sự tăng nhạy cảm"
     }
   ]
 }

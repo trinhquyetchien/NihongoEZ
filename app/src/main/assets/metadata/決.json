@@ -92,9 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "決",
-      "reading": "けつ",
-      "meaning": "quyết định"
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "việc quyết định"
     },
     {
       "word": "決心",
@@ -102,19 +102,9 @@
       "meaning": "sự quyết tâm"
     },
     {
-      "word": "即決",
-      "reading": "そっけつ",
-      "meaning": "nhắc quyết định"
-    },
-    {
-      "word": "速決",
-      "reading": "そっけつ",
-      "meaning": "nhắc quyết định"
-    },
-    {
-      "word": "決算",
-      "reading": "けっさん",
-      "meaning": "sự cân đối tài khoản"
+      "word": "可決",
+      "reading": "かけつ",
+      "meaning": "sự chấp nhận"
     },
     {
       "word": "決勝",
@@ -122,9 +112,9 @@
       "meaning": "quyết thắng"
     },
     {
-      "word": "決壊",
-      "reading": "けっかい",
-      "meaning": "sụp đổ"
+      "word": "判決",
+      "reading": "はんけつ",
+      "meaning": "định án"
     },
     {
       "word": "決断",
@@ -132,14 +122,24 @@
       "meaning": "sự quyết đoán"
     },
     {
+      "word": "対決",
+      "reading": "たいけつ",
+      "meaning": "đối chất"
+    },
+    {
       "word": "決意",
       "reading": "けつい",
       "meaning": "quyết ý"
     },
     {
-      "word": "決別",
-      "reading": "けつべつ",
-      "meaning": "sự chia tay dứt khoát"
+      "word": "決算",
+      "reading": "けっさん",
+      "meaning": "sự cân đối tài khoản"
+    },
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "nghị quyết"
     }
   ]
 }

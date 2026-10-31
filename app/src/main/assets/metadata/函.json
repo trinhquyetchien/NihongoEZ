@@ -54,14 +54,14 @@
   ],
   "vocabulary": [
     {
+      "word": "函館",
+      "reading": "はこだて",
+      "meaning": "(thành phố trong hokkaido)"
+    },
+    {
       "word": "投函",
       "reading": "とうかん",
       "meaning": "sự bỏ vào"
-    },
-    {
-      "word": "函館",
-      "reading": "はこだて",
-      "meaning": ""
     },
     {
       "word": "経函",
@@ -74,19 +74,14 @@
       "meaning": "hộp thư"
     },
     {
-      "word": "函渠",
-      "reading": "かんきょ",
-      "meaning": "ống dẫn nước thải có bề mặt cắt ngang hình vuông"
-    },
-    {
       "word": "函人",
       "reading": "かんじん",
       "meaning": "người chế tạo vũ khí"
     },
     {
-      "word": "函嶺",
-      "reading": "かんれい",
-      "meaning": "dãy núi hakone"
+      "word": "函れる",
+      "reading": "いれる",
+      "meaning": "đặt vào trong"
     },
     {
       "word": "函蓋",
@@ -94,14 +89,19 @@
       "meaning": "cái hộp và nắp đậy"
     },
     {
-      "word": "潜函",
-      "reading": "せんかん",
-      "meaning": "hòm đạn dược"
+      "word": "起函",
+      "reading": "きかん",
+      "meaning": "sự khởi đầu"
     },
     {
-      "word": "函数",
-      "reading": "かんすう",
-      "meaning": "hàm số"
+      "word": "函嶺",
+      "reading": "かんれい",
+      "meaning": "dãy núi hakone"
+    },
+    {
+      "word": "封函",
+      "reading": "ふうかん",
+      "meaning": "dán lại"
     }
   ]
 }

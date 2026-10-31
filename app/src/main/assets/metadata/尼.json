@@ -91,39 +91,14 @@
       "meaning": "bà xơ"
     },
     {
-      "word": "摩尼",
-      "reading": "まに",
-      "meaning": "viên ngọc quý trong phật giáo"
+      "word": "尼さん",
+      "reading": "あまさん",
+      "meaning": "thầy tu trong chùa là con gái"
     },
     {
-      "word": "牟尼",
-      "reading": "むに",
-      "meaning": "đại sĩ"
-    },
-    {
-      "word": "尼鷺",
-      "reading": "あまさぎ",
-      "meaning": "cò ruồi"
-    },
-    {
-      "word": "僧尼",
-      "reading": "そうに",
-      "meaning": "tăng ni"
-    },
-    {
-      "word": "尼寺",
-      "reading": "あまでら",
-      "meaning": "nữ tu viện"
-    },
-    {
-      "word": "禅尼",
-      "reading": "ぜんに",
-      "meaning": "nữ tu sĩ zen"
-    },
-    {
-      "word": "尼僧",
-      "reading": "にそう",
-      "meaning": "nữ tu"
+      "word": "尼っ子",
+      "reading": "あまっこ",
+      "meaning": "native of amagasaki"
     },
     {
       "word": "尼羅",
@@ -131,9 +106,34 @@
       "meaning": "sông nile"
     },
     {
-      "word": "尼甫",
-      "reading": "にほ",
-      "meaning": "không tử"
+      "word": "僧と尼",
+      "reading": "そうとあま",
+      "meaning": "tăng ni"
+    },
+    {
+      "word": "修道尼",
+      "reading": "しゅうどうに",
+      "meaning": "bà xơ"
+    },
+    {
+      "word": "摩尼",
+      "reading": "まに",
+      "meaning": "viên ngọc quý trong phật giáo"
+    },
+    {
+      "word": "摩尼珠",
+      "reading": "まにじゅ",
+      "meaning": "một viên ngọc châu báu được cho là đại diện cho một thử thách tâm linh trong phật giáo"
+    },
+    {
+      "word": "尼鷺",
+      "reading": "あまさぎ",
+      "meaning": "cò ruồi"
+    },
+    {
+      "word": "尼僧",
+      "reading": "にそう",
+      "meaning": "nữ tu"
     }
   ]
 }

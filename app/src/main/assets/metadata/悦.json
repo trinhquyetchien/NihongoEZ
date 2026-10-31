@@ -93,24 +93,9 @@
       "meaning": "sự tự mãn"
     },
     {
-      "word": "欣悦",
-      "reading": "きんえつ",
+      "word": "悦び",
+      "reading": "よろこび",
       "meaning": "niềm vui"
-    },
-    {
-      "word": "悦哉",
-      "reading": "えっさい",
-      "meaning": "chim ưng nhật bản nhỏ"
-    },
-    {
-      "word": "悦楽",
-      "reading": "えつらく",
-      "meaning": "sự giải trí"
-    },
-    {
-      "word": "喜悦",
-      "reading": "きえつ",
-      "meaning": "sự vui mừng"
     },
     {
       "word": "満悦",
@@ -118,14 +103,9 @@
       "meaning": "sự vô cùng sung sướng"
     },
     {
-      "word": "法悦",
-      "reading": "ほうえつ",
-      "meaning": "sự tham thiền nhập định"
-    },
-    {
-      "word": "悦ぶ",
-      "reading": "よろこぶ",
-      "meaning": "để vui vẻ"
+      "word": "悦楽",
+      "reading": "えつらく",
+      "meaning": "sự giải trí"
     },
     {
       "word": "愉悦",
@@ -133,9 +113,29 @@
       "meaning": "niềm vui"
     },
     {
+      "word": "悦ぶ",
+      "reading": "よろこぶ",
+      "meaning": "để vui vẻ"
+    },
+    {
+      "word": "喜悦",
+      "reading": "きえつ",
+      "meaning": "sự vui mừng"
+    },
+    {
       "word": "恐悦",
       "reading": "きょうえつ",
       "meaning": "vui thích"
+    },
+    {
+      "word": "法悦",
+      "reading": "ほうえつ",
+      "meaning": "sự tham thiền nhập định"
+    },
+    {
+      "word": "欣悦",
+      "reading": "きんえつ",
+      "meaning": "niềm vui"
     }
   ]
 }

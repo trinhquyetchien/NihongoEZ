@@ -48,19 +48,29 @@
   ],
   "vocabulary": [
     {
-      "word": "柑果",
-      "reading": "かんか",
-      "meaning": "trái cây họ cam quýt"
-    },
-    {
-      "word": "金柑",
-      "reading": "きんかん",
-      "meaning": "quả quất vàng"
+      "word": "柑橘類",
+      "reading": "かんきつるい",
+      "meaning": "họ cam quýt"
     },
     {
       "word": "蜜柑",
       "reading": "みかん",
       "meaning": "quýt"
+    },
+    {
+      "word": "青蜜柑",
+      "reading": "あおみかん",
+      "meaning": "quýt xanh"
+    },
+    {
+      "word": "蜜柑畑",
+      "reading": "みかんばたけ",
+      "meaning": "vườn trồng quít"
+    },
+    {
+      "word": "瘤蜜柑",
+      "reading": "こぶみかん",
+      "meaning": "cây chúc"
     },
     {
       "word": "夏柑",
@@ -73,29 +83,19 @@
       "meaning": "cam quýt chín muộn"
     },
     {
-      "word": "ポン柑",
-      "reading": "ぽんかん",
-      "meaning": "tên một loại quýt rất ngọt và thơm"
+      "word": "甘夏柑",
+      "reading": "あまなつかん",
+      "meaning": "trái cam lai"
     },
     {
-      "word": "藪柑子",
-      "reading": "やぶこうじ",
-      "meaning": "ardisia japonica"
+      "word": "臍蜜柑",
+      "reading": "へそみかん",
+      "meaning": "cam navel"
     },
     {
-      "word": "伊予柑",
-      "reading": "いよかん",
-      "meaning": "cam sành"
-    },
-    {
-      "word": "瘤蜜柑",
-      "reading": "こぶみかん",
-      "meaning": "cây chúc"
-    },
-    {
-      "word": "柑子色",
-      "reading": "こうじいろ",
-      "meaning": "màu cam"
+      "word": "金柑",
+      "reading": "きんかん",
+      "meaning": "quả quất vàng"
     }
   ]
 }

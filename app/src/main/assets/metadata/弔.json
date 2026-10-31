@@ -88,44 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "弔",
-      "reading": "とむらい",
+      "word": "弔う",
+      "reading": "とむらう",
       "meaning": "thương tiếc"
     },
     {
-      "word": "弔慰",
-      "reading": "ちょうい",
+      "word": "弔い",
+      "reading": "とむらい",
       "meaning": "lời chia buồn"
-    },
-    {
-      "word": "慶弔",
-      "reading": "けいちょう",
-      "meaning": "hiếu hỷ"
-    },
-    {
-      "word": "弔事",
-      "reading": "ちょうじ",
-      "meaning": "tang lễ"
-    },
-    {
-      "word": "弔祭",
-      "reading": "ちょうさい",
-      "meaning": "lễ truy điệu"
-    },
-    {
-      "word": "弔鐘",
-      "reading": "ちょうしょう",
-      "meaning": "chuông lễ tang"
-    },
-    {
-      "word": "弔銃",
-      "reading": "ちょうじゅう",
-      "meaning": "loạt súng bắn trong tang lễ"
-    },
-    {
-      "word": "弔電",
-      "reading": "ちょうでん",
-      "meaning": "điện chia buồn"
     },
     {
       "word": "弔辞",
@@ -133,9 +103,39 @@
       "meaning": "điếu văn"
     },
     {
-      "word": "弔文",
-      "reading": "ちょうぶん",
-      "meaning": "điếu văn"
+      "word": "弔問",
+      "reading": "ちょうもん",
+      "meaning": "lời chia buồn"
+    },
+    {
+      "word": "弔問客",
+      "reading": "ちょうもんきゃく",
+      "meaning": "người gọi điện chia buồn"
+    },
+    {
+      "word": "弔意",
+      "reading": "ちょうい",
+      "meaning": "sự than khóc"
+    },
+    {
+      "word": "弔",
+      "reading": "とむらい",
+      "meaning": "thương tiếc"
+    },
+    {
+      "word": "弔祭",
+      "reading": "ちょうさい",
+      "meaning": "lễ truy điệu"
+    },
+    {
+      "word": "弔花",
+      "reading": "ちょうか",
+      "meaning": "hoa phúng điếu"
+    },
+    {
+      "word": "弔祭料",
+      "reading": "ちょうさいりょう",
+      "meaning": "tiền phúng điếu"
     }
   ]
 }

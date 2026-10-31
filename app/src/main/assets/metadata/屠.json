@@ -50,19 +50,24 @@
   ],
   "vocabulary": [
     {
-      "word": "屠蘇機嫌",
-      "reading": "とそきげん",
-      "meaning": "tâm trạng vui vẻ"
+      "word": "屠殺",
+      "reading": "とさつ",
+      "meaning": "sự tàn sát"
     },
     {
-      "word": "屠腹",
-      "reading": "とふく",
-      "meaning": "harakiri"
+      "word": "屠殺人",
+      "reading": "とさつにん",
+      "meaning": "người giết mổ"
     },
     {
-      "word": "浮屠",
-      "reading": "ふと",
-      "meaning": "phật"
+      "word": "屠殺場",
+      "reading": "とさつじょう",
+      "meaning": "lò mổ"
+    },
+    {
+      "word": "屠竜",
+      "reading": "とりょう",
+      "meaning": "diệt rồng"
     },
     {
       "word": "屠る",
@@ -75,29 +80,24 @@
       "meaning": "cho gia vị vào mục đích năm mới có)"
     },
     {
-      "word": "屠所",
-      "reading": "としょ",
-      "meaning": "lò mổ"
-    },
-    {
-      "word": "屠場",
-      "reading": "とじょう",
-      "meaning": "lò mổ"
-    },
-    {
-      "word": "屠殺",
-      "reading": "とさつ",
-      "meaning": "sự tàn sát"
-    },
-    {
-      "word": "屠竜",
-      "reading": "とりょう",
-      "meaning": "diệt rồng"
-    },
-    {
       "word": "お屠蘇",
       "reading": "おとそ",
       "meaning": "rượu khai vị đầu xuân"
+    },
+    {
+      "word": "屠腹",
+      "reading": "とふく",
+      "meaning": "harakiri"
+    },
+    {
+      "word": "浮屠",
+      "reading": "ふと",
+      "meaning": "phật"
+    },
+    {
+      "word": "屠所",
+      "reading": "としょ",
+      "meaning": "lò mổ"
     }
   ]
 }

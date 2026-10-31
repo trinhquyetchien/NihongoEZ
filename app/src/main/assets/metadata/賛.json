@@ -107,31 +107,6 @@
   ],
   "vocabulary": [
     {
-      "word": "賛",
-      "reading": "さん",
-      "meaning": "lời chú thích"
-    },
-    {
-      "word": "賛する",
-      "reading": "さんする",
-      "meaning": "đồng ý"
-    },
-    {
-      "word": "称賛",
-      "reading": "しょうさん",
-      "meaning": "khen ngợi"
-    },
-    {
-      "word": "賛辞",
-      "reading": "さんじ",
-      "meaning": "lời khen ngợi"
-    },
-    {
-      "word": "賛否",
-      "reading": "さんぴ",
-      "meaning": "sự tán thành và chống đối"
-    },
-    {
       "word": "賛成",
       "reading": "さんせい",
       "meaning": "sự tán thành"
@@ -142,19 +117,44 @@
       "meaning": "sự tán dương"
     },
     {
-      "word": "自賛",
-      "reading": "じさん",
-      "meaning": "tự khen ngợi"
+      "word": "賛成者",
+      "reading": "さんせいしゃ",
+      "meaning": "vật chống đỡ"
     },
     {
-      "word": "賛嘆",
-      "reading": "さんたん",
-      "meaning": "khen ngợi"
+      "word": "大賛成",
+      "reading": "だいさんせい",
+      "meaning": "hoàn toàn tán thành"
     },
     {
-      "word": "賛歌",
-      "reading": "さんか",
-      "meaning": "bài hát ca ngợi"
+      "word": "賛成論",
+      "reading": "さんせいろん",
+      "meaning": "lập luận ủng hộ"
+    },
+    {
+      "word": "賛成票",
+      "reading": "さんせいひょう",
+      "meaning": "phiếu thuận"
+    },
+    {
+      "word": "絶賛",
+      "reading": "ぜっさん",
+      "meaning": "khen ngợi cao"
+    },
+    {
+      "word": "大絶賛",
+      "reading": "だいぜっさん",
+      "meaning": "sự khen ngợi hết lời"
+    },
+    {
+      "word": "賞賛",
+      "reading": "しょうさん",
+      "meaning": "sự tán thưởng"
+    },
+    {
+      "word": "賛同",
+      "reading": "さんどう",
+      "meaning": "sự tán thành"
     }
   ]
 }

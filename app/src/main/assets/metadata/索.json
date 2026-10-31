@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "索",
-      "reading": "さく",
-      "meaning": "sợi dây"
-    },
-    {
-      "word": "腱索",
-      "reading": "けんさく",
-      "meaning": "thừng gân"
-    },
-    {
       "word": "索引",
       "reading": "さくいん",
       "meaning": "phụ lục"
     },
     {
-      "word": "思索",
-      "reading": "しさく",
-      "meaning": "sự ngẫm nghĩ"
+      "word": "捜索",
+      "reading": "そうさく",
+      "meaning": "sự tìm kiếm"
     },
     {
-      "word": "索漠",
-      "reading": "さくばく",
-      "meaning": "ảm đạm"
+      "word": "模索",
+      "reading": "もさく",
+      "meaning": "tìm kiếm bằng tay"
     },
     {
-      "word": "索道",
-      "reading": "さくどう",
-      "meaning": "dây cáp treo ở trên đầu"
+      "word": "検索",
+      "reading": "けんさく",
+      "meaning": "sự truy tìm thông tin"
     },
     {
-      "word": "索寞",
-      "reading": "さくばく",
-      "meaning": "tồi tàn"
+      "word": "検索者",
+      "reading": "けんさくしゃ",
+      "meaning": "người tìm kiếm"
     },
     {
-      "word": "鋼索",
-      "reading": "こうさく",
-      "meaning": "dây thép"
+      "word": "検索語",
+      "reading": "けんさくご",
+      "meaning": "từ tìm kiếm"
     },
     {
-      "word": "支索",
-      "reading": "しさく",
-      "meaning": "ở lại"
+      "word": "検索表",
+      "reading": "けんさくひょう",
+      "meaning": "bảng tìm kiếm"
     },
     {
-      "word": "蕭索",
-      "reading": "しょうさく",
-      "meaning": "một mình"
+      "word": "探索",
+      "reading": "たんさく",
+      "meaning": "sự tìm kiếm"
+    },
+    {
+      "word": "捜索隊",
+      "reading": "そうさくたい",
+      "meaning": "đội tìm kiếm"
+    },
+    {
+      "word": "木探索",
+      "reading": "きたんさく",
+      "meaning": "tìm kiếm theo cây"
     }
   ]
 }

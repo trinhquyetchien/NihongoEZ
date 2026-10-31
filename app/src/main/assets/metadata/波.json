@@ -94,39 +94,24 @@
       "meaning": "làn sóng"
     },
     {
-      "word": "波波迦",
-      "reading": "ははか",
-      "meaning": "tên cũ của uwamizuzakura"
+      "word": "短波",
+      "reading": "たんぱ",
+      "meaning": "sóng ngắn"
     },
     {
-      "word": "金波銀波",
-      "reading": "きんぱぎんぱ",
-      "meaning": "sóng lấp lánh"
+      "word": "日波",
+      "reading": "にっぽ",
+      "meaning": "nhật bản và ba lan"
     },
     {
-      "word": "千波万波",
-      "reading": "せんぱばんぱ",
-      "meaning": "nhiều cơn sóng"
+      "word": "Ｓ波",
+      "reading": "エスは",
+      "meaning": "sóng s"
     },
     {
-      "word": "岩波",
-      "reading": "いわなみ",
-      "meaning": "nhà xuất bản iwanami"
-    },
-    {
-      "word": "荒波",
-      "reading": "あらなみ",
-      "meaning": "biển nổi sóng"
-    },
-    {
-      "word": "周波",
-      "reading": "しゅうは",
-      "meaning": "chu trình"
-    },
-    {
-      "word": "マイクロ波",
-      "reading": "マイクロは",
-      "meaning": "sóng cực ngắn"
+      "word": "波型",
+      "reading": "なみがた",
+      "meaning": "sóng"
     },
     {
       "word": "Ｐ波",
@@ -134,9 +119,24 @@
       "meaning": "sóng p"
     },
     {
-      "word": "白波",
-      "reading": "しらなみ",
-      "meaning": "sóng bạc đầu"
+      "word": "波食",
+      "reading": "はしょく",
+      "meaning": "sự sạt lở do sóng đánh vào bờ"
+    },
+    {
+      "word": "旧波",
+      "reading": "きゅうは",
+      "meaning": "trường học cũ"
+    },
+    {
+      "word": "門波",
+      "reading": "となみ",
+      "meaning": "con sóng đứng trong một eo biển hẹp"
+    },
+    {
+      "word": "縦波",
+      "reading": "たてなみ",
+      "meaning": "sóng dọc"
     }
   ]
 }

@@ -92,24 +92,24 @@
   ],
   "vocabulary": [
     {
+      "word": "丈夫",
+      "reading": "じょうぶ",
+      "meaning": "khỏe"
+    },
+    {
       "word": "夫",
       "reading": "おっと",
       "meaning": "chồng"
     },
     {
-      "word": "夫夫",
+      "word": "夫婦",
       "reading": "ふうふ",
-      "meaning": "mỗi"
+      "meaning": "phu phụ"
     },
     {
-      "word": "夫れ夫れ",
-      "reading": "それぞれ",
-      "meaning": "mỗi、từng"
-    },
-    {
-      "word": "武夫",
-      "reading": "ぶふ",
-      "meaning": "quân nhân"
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "phu nhân"
     },
     {
       "word": "工夫",
@@ -117,29 +117,29 @@
       "meaning": "công nhân"
     },
     {
-      "word": "丈夫",
-      "reading": "じょうぶ",
-      "meaning": "khỏe"
+      "word": "夫妻",
+      "reading": "ふさい",
+      "meaning": "vợ chồng"
     },
     {
-      "word": "軍夫",
-      "reading": "ぐんぷ",
-      "meaning": "phu khuân vác quân đội"
+      "word": "駅夫",
+      "reading": "えきふ",
+      "meaning": "nhân viên nhà ga"
     },
     {
-      "word": "功夫",
-      "reading": "くふう",
-      "meaning": "kung fu"
+      "word": "役夫",
+      "reading": "えきふ",
+      "meaning": "nhân công"
     },
     {
-      "word": "主夫",
-      "reading": "しゅふ",
-      "meaning": "người chồng làm việc gia đinh là chủ yếu"
+      "word": "夫夫",
+      "reading": "ふうふ",
+      "meaning": "mỗi"
     },
     {
-      "word": "継夫",
-      "reading": "けいふ",
-      "meaning": "chồng kế"
+      "word": "旧夫",
+      "reading": "きゅうふ",
+      "meaning": "cựu người chồng"
     }
   ]
 }

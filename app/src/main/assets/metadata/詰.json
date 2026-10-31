@@ -111,54 +111,54 @@
   ],
   "vocabulary": [
     {
-      "word": "詰み",
-      "reading": "つみ",
-      "meaning": "chiếu bí"
+      "word": "詰める",
+      "reading": "つめる",
+      "meaning": "chôn lấp"
     },
     {
-      "word": "瓶詰",
+      "word": "缶詰",
+      "reading": "かんづめ",
+      "meaning": "đồ hộp"
+    },
+    {
+      "word": "詰まる",
+      "reading": "つまる",
+      "meaning": "lấp đầy"
+    },
+    {
+      "word": "瓶詰め",
       "reading": "びんづめ",
-      "meaning": "đóng chai sẵn"
+      "meaning": "đã đóng chai"
     },
     {
-      "word": "壜詰",
-      "reading": "びんづめ",
-      "meaning": "sự đóng chai"
+      "word": "詰め",
+      "reading": "つめ",
+      "meaning": "ăn quá nhiều"
     },
     {
-      "word": "難詰",
-      "reading": "なんきつ",
-      "meaning": "nói ra khiếm khuyết và khắt khe đánh giá người khác"
+      "word": "お詰め",
+      "reading": "おつめ",
+      "meaning": "khách có vị trí thấp nhất trong buổi trà đạo"
     },
     {
-      "word": "詰る",
-      "reading": "なじる",
-      "meaning": "nhét"
-    },
-    {
-      "word": "詰む",
-      "reading": "つむ",
-      "meaning": "chặt chẽ"
-    },
-    {
-      "word": "大詰",
-      "reading": "おおづめ",
-      "meaning": "đoạn cuối"
-    },
-    {
-      "word": "詰り",
-      "reading": "つまり",
-      "meaning": "ngắn gọn"
-    },
-    {
-      "word": "詰物",
+      "word": "詰め物",
       "reading": "つめもの",
-      "meaning": "đầy hoặc đóng gói vật chất"
+      "meaning": "vật liệu nhân tạo để trám và sửa chữa các lỗ sâu răng"
     },
     {
-      "word": "詰襟",
-      "reading": "つめえり",
-      "meaning": "áo cổ đứng"
+      "word": "夜詰め",
+      "reading": "よづめ",
+      "meaning": "sự canh gác ban đêm"
+    },
+    {
+      "word": "右詰め",
+      "reading": "みぎづめ",
+      "meaning": "viết sao cho không để lại ô trống bên phải"
+    },
+    {
+      "word": "重詰め",
+      "reading": "じゅうづめ",
+      "meaning": "thức ăn gói trong hộp nặng"
     }
   ]
 }

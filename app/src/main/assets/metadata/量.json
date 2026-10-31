@@ -94,49 +94,49 @@
       "meaning": "khối lượng"
     },
     {
-      "word": "線量当量",
-      "reading": "せんりょうとうりょう",
-      "meaning": "liều tương đương"
-    },
-    {
-      "word": "衡量",
-      "reading": "こうりょう",
-      "meaning": "cân"
-    },
-    {
-      "word": "量る",
-      "reading": "はかる",
-      "meaning": "cân"
-    },
-    {
-      "word": "光量",
-      "reading": "こうりょう",
-      "meaning": "cường độ bức xạ"
-    },
-    {
       "word": "重量",
       "reading": "じゅうりょう",
       "meaning": "sức nặng"
     },
     {
-      "word": "収量",
-      "reading": "しゅうりょう",
-      "meaning": "lượng thu hoạch"
+      "word": "熱量",
+      "reading": "ねつりょう",
+      "meaning": "nhiệt lượng"
     },
     {
-      "word": "酌量",
-      "reading": "しゃくりょう",
-      "meaning": "sự xem xét"
+      "word": "微量",
+      "reading": "びりょう",
+      "meaning": "số lượng rất nhỏ"
     },
     {
-      "word": "狭量",
-      "reading": "きょうりょう",
-      "meaning": "hẹp hòi"
+      "word": "体量",
+      "reading": "たいりょう",
+      "meaning": "trọng lượng thân thể"
     },
     {
-      "word": "酒量",
-      "reading": "しゅりょう",
-      "meaning": "tửu lượng"
+      "word": "同量",
+      "reading": "どうりょう",
+      "meaning": "lượng bằng nhau"
+    },
+    {
+      "word": "量器",
+      "reading": "りょうき",
+      "meaning": "dụng cụ đo cho thể tích"
+    },
+    {
+      "word": "当量",
+      "reading": "とうりょう",
+      "meaning": "tương đương"
+    },
+    {
+      "word": "産量",
+      "reading": "さんりょう",
+      "meaning": "sản lượng"
+    },
+    {
+      "word": "連量",
+      "reading": "れんりょう",
+      "meaning": "trọng lượng 1000 tấm giấy"
     }
   ]
 }

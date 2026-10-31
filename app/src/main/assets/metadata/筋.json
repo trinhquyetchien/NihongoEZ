@@ -94,34 +94,24 @@
       "meaning": "cơ bắp"
     },
     {
-      "word": "鉄筋ベンダー/鉄筋カッター",
-      "reading": "てっきんベンダー/てっきんカッター",
-      "meaning": "máy uốn sắt/máy cắt sắt"
+      "word": "筋肉",
+      "reading": "きんにく",
+      "meaning": "cơ bắp"
     },
     {
-      "word": "大腰筋と小腰筋",
-      "reading": "だいよーきんとしょーよーきん",
-      "meaning": "cơ psoas lớn và cơ psoas nhỏ"
+      "word": "一筋",
+      "reading": "ひとすじ",
+      "meaning": "một hàng"
     },
     {
-      "word": "背筋",
-      "reading": "せすじ",
-      "meaning": "cột sống"
+      "word": "大筋",
+      "reading": "おおすじ",
+      "meaning": "phác thảo"
     },
     {
-      "word": "鉄筋",
-      "reading": "てっきん",
-      "meaning": "cốt thép chịu lực"
-    },
-    {
-      "word": "粗筋",
-      "reading": "あらすじ",
-      "meaning": "nét phác thảo"
-    },
-    {
-      "word": "筋覚",
-      "reading": "きんかく",
-      "meaning": "giác quan cơ bắp"
+      "word": "胸筋",
+      "reading": "きょうきん",
+      "meaning": "cơ ngực"
     },
     {
       "word": "筋痛",
@@ -129,14 +119,24 @@
       "meaning": "đau cơ"
     },
     {
-      "word": "挙筋",
-      "reading": "きょきん",
-      "meaning": "cơ nâng"
+      "word": "筋トレ",
+      "reading": "きんトレ",
+      "meaning": "sự luyện tập cơ bắp"
     },
     {
-      "word": "首筋",
-      "reading": "くびすじ",
-      "meaning": "gáy"
+      "word": "筋注",
+      "reading": "きんちゅう",
+      "meaning": "sự tiêm vào cơ"
+    },
+    {
+      "word": "腹筋",
+      "reading": "ふっきん",
+      "meaning": "cơ bụng"
+    },
+    {
+      "word": "頬筋",
+      "reading": "きょうきん",
+      "meaning": "cơ mút"
     }
   ]
 }

@@ -87,19 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "慨世",
-      "reading": "がいせい",
-      "meaning": "sự bất mãn với xã hội"
+      "word": "憤慨",
+      "reading": "ふんがい",
+      "meaning": "sự phẫn uất"
     },
     {
       "word": "感慨",
       "reading": "かんがい",
       "meaning": "cảm khái"
-    },
-    {
-      "word": "慨然",
-      "reading": "がいぜん",
-      "meaning": "với sự căm phẫn hoặc tính cương quyết"
     },
     {
       "word": "慷慨",
@@ -112,14 +107,19 @@
       "meaning": "lời than vãn"
     },
     {
+      "word": "慨世",
+      "reading": "がいせい",
+      "meaning": "sự bất mãn với xã hội"
+    },
+    {
+      "word": "慨然",
+      "reading": "がいぜん",
+      "meaning": "với sự căm phẫn hoặc tính cương quyết"
+    },
+    {
       "word": "慨歎",
       "reading": "がいたん",
       "meaning": "lời than vãn"
-    },
-    {
-      "word": "憤慨",
-      "reading": "ふんがい",
-      "meaning": "sự phẫn uất"
     },
     {
       "word": "慨する",
@@ -127,14 +127,14 @@
       "meaning": "hối tiếc"
     },
     {
-      "word": "慨世憂国",
-      "reading": "がいせいゆうこく",
-      "meaning": "đau đáu vì vận mệnh đất nước"
+      "word": "感慨深い",
+      "reading": "かんがいぶかい",
+      "meaning": "cảm động sâu sắc"
     },
     {
-      "word": "憂国慨世",
-      "reading": "ゆうこくがいせい",
-      "meaning": "bất bình với xã hội và lo lắng cho đất nước"
+      "word": "感慨無量",
+      "reading": "かんがいむりょう",
+      "meaning": "cảm khái vô hạn"
     }
   ]
 }

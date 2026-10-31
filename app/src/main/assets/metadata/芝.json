@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "芝",
-      "reading": "しば",
-      "meaning": "cỏ"
+      "word": "芝居",
+      "reading": "しばい",
+      "meaning": "kịch"
     },
     {
       "word": "芝生",
@@ -99,9 +99,9 @@
       "meaning": "bãi cỏ"
     },
     {
-      "word": "芝居",
-      "reading": "しばい",
-      "meaning": "kịch"
+      "word": "芝",
+      "reading": "しば",
+      "meaning": "cỏ"
     },
     {
       "word": "東芝",
@@ -109,19 +109,24 @@
       "meaning": "toshiba"
     },
     {
-      "word": "芝桜",
-      "reading": "しばざくら",
-      "meaning": "loài thực vật thuộc họ lá thang sống ở vùng ôn đới"
+      "word": "一芝居",
+      "reading": "ひとしばい",
+      "meaning": "1 màn kịch"
     },
     {
-      "word": "平芝",
-      "reading": "ひらしば",
-      "meaning": "đám cỏ"
+      "word": "芝居者",
+      "reading": "しばいもの",
+      "meaning": "diễn viên"
     },
     {
-      "word": "芝草",
-      "reading": "しばくさ",
-      "meaning": "bãi cỏ"
+      "word": "夏芝居",
+      "reading": "なつしばい",
+      "meaning": "kịch mùa hè"
+    },
+    {
+      "word": "力芝",
+      "reading": "ちからしば",
+      "meaning": "cỏ đuôi chồn"
     },
     {
       "word": "芝地",
@@ -132,11 +137,6 @@
       "word": "冬芝",
       "reading": "ふゆしば",
       "meaning": "giống cỏ chịu được lạnh"
-    },
-    {
-      "word": "力芝",
-      "reading": "ちからしば",
-      "meaning": "cỏ đuôi chồn"
     }
   ]
 }

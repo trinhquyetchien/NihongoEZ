@@ -110,19 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "応",
-      "reading": "おう",
-      "meaning": "tương ứng"
-    },
-    {
-      "word": "応用管理応用エンティティ",
-      "reading": "おうようかんりおうようエンティティ",
-      "meaning": "thực thể ứng dụng quản lý ứng dụng"
-    },
-    {
-      "word": "順応",
-      "reading": "じゅんのう",
-      "meaning": "thông cảm"
+      "word": "応援",
+      "reading": "おうえん",
+      "meaning": "cổ vũ"
     },
     {
       "word": "一応",
@@ -130,9 +120,9 @@
       "meaning": "nhất thời"
     },
     {
-      "word": "応酬",
-      "reading": "おうしゅう",
-      "meaning": "đáp trả"
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "tiếp đãi"
     },
     {
       "word": "応募",
@@ -140,24 +130,34 @@
       "meaning": "đăng ký"
     },
     {
-      "word": "応援",
-      "reading": "おうえん",
-      "meaning": "cổ vũ"
+      "word": "応え",
+      "reading": "こたえ",
+      "meaning": "đáp ứng với"
     },
     {
-      "word": "応鐘",
-      "reading": "おうしょう",
-      "meaning": "một trong mười hai luật âm"
+      "word": "応",
+      "reading": "おう",
+      "meaning": "tương ứng"
     },
     {
-      "word": "応供",
-      "reading": "おうぐ",
-      "meaning": "bậc nhất thánh trong phật giáo tiểu thừa"
+      "word": "元応",
+      "reading": "げんおう",
+      "meaning": "gen'ou era"
     },
     {
-      "word": "応力",
-      "reading": "おうりょく",
-      "meaning": "nhấn mạnh"
+      "word": "観応",
+      "reading": "かんのう",
+      "meaning": "thời kanou"
+    },
+    {
+      "word": "天応",
+      "reading": "てんおう",
+      "meaning": "thời tenou"
+    },
+    {
+      "word": "文応",
+      "reading": "ぶんおう",
+      "meaning": "thời bunou"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "nệm"
+    },
+    {
       "word": "布",
       "reading": "ぬの",
       "meaning": "vải"
     },
     {
-      "word": "和布",
-      "reading": "わかめ",
-      "meaning": "tảo biển"
+      "word": "毛布",
+      "reading": "もうふ",
+      "meaning": "chăn"
     },
     {
-      "word": "布マスク",
-      "reading": "ぬのマスク",
-      "meaning": "\"khẩu trang vải tiếp xúc lạnh\""
+      "word": "布告",
+      "reading": "ふこく",
+      "meaning": "sắc lệnh"
     },
     {
-      "word": "散布",
-      "reading": "さんぷ",
-      "meaning": "sự gieo rắc"
+      "word": "布巾",
+      "reading": "ふきん",
+      "meaning": "khăn lau"
     },
     {
-      "word": "湿布",
-      "reading": "しっぷ",
-      "meaning": "miếng dán"
+      "word": "花布",
+      "reading": "はなぎれ",
+      "meaning": "vật liệu có hoa văn được sử dụng để đóng các đầu của gáy sách"
     },
     {
-      "word": "画布",
-      "reading": "がふ",
-      "meaning": "vải bạt"
-    },
-    {
-      "word": "布衣",
-      "reading": "ほい",
-      "meaning": "người dân thường"
-    },
-    {
-      "word": "撒布",
-      "reading": "さんぷ",
-      "meaning": "số lượng những thứ được tung rắc"
-    },
-    {
-      "word": "綿布",
+      "word": "面布",
       "reading": "めんぷ",
-      "meaning": "vải cốt tông"
+      "meaning": "tấm mạng"
     },
     {
-      "word": "上布",
-      "reading": "じょうふ",
-      "meaning": "kiểu vải lanh hoặc vải"
+      "word": "布幅",
+      "reading": "ぬのはば",
+      "meaning": "độ rộng của vải"
+    },
+    {
+      "word": "刀布",
+      "reading": "とうふ",
+      "meaning": "tiền đồng cổ của trung quốc"
+    },
+    {
+      "word": "綾布",
+      "reading": "あやぬの",
+      "meaning": "vải đa mát và gấm thêu kim tuyến vải tréo"
     }
   ]
 }

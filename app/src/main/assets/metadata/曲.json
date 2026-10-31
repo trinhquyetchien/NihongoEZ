@@ -91,19 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "sự sáng tác"
+    },
+    {
+      "word": "曲線",
+      "reading": "きょくせん",
+      "meaning": "đường gấp khúc"
+    },
+    {
       "word": "曲",
       "reading": "きょく",
       "meaning": "khúc"
     },
     {
-      "word": "曲曲",
-      "reading": "きょくきょく",
-      "meaning": "những xó xỉnh"
-    },
-    {
-      "word": "曲集",
-      "reading": "きょくしゅう",
-      "meaning": "tuyển tập ca khúc"
+      "word": "三曲",
+      "reading": "さんきょく",
+      "meaning": "bộ ba dùng làm phương tiện"
     },
     {
       "word": "神曲",
@@ -111,34 +116,29 @@
       "meaning": "thần khúc"
     },
     {
-      "word": "曲目",
-      "reading": "きょくもく",
-      "meaning": "tên của bài hát sẽ được phát"
+      "word": "曲曲",
+      "reading": "きょくきょく",
+      "meaning": "những xó xỉnh"
     },
     {
-      "word": "作曲",
-      "reading": "さっきょく",
-      "meaning": "sự sáng tác"
+      "word": "曲水",
+      "reading": "きょくすい",
+      "meaning": "dòng chảy uốn khúc"
     },
     {
-      "word": "曲げ",
-      "reading": "まげ",
+      "word": "曲率",
+      "reading": "きょくりつ",
       "meaning": "sự uốn cong"
     },
     {
-      "word": "曲順",
-      "reading": "きょくじゅん",
-      "meaning": "thứ tự bài hát"
+      "word": "曲集",
+      "reading": "きょくしゅう",
+      "meaning": "tuyển tập ca khúc"
     },
     {
-      "word": "音曲",
-      "reading": "おんぎょく",
-      "meaning": "âm khúc"
-    },
-    {
-      "word": "迂曲",
-      "reading": "うきょく",
-      "meaning": "uốn khúc"
+      "word": "曲悪",
+      "reading": "きょくあく",
+      "meaning": "tính chất đồi bại"
     }
   ]
 }

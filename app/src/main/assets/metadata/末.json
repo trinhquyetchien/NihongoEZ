@@ -97,14 +97,29 @@
       "meaning": "cuối"
     },
     {
-      "word": "末末",
-      "reading": "すえずえ",
-      "meaning": "tương lai xa"
+      "word": "月末",
+      "reading": "げつまつ",
+      "meaning": "cuối tháng"
     },
     {
-      "word": "末の末",
-      "reading": "すえのすえ",
-      "meaning": "kéo dài"
+      "word": "末期",
+      "reading": "まっき",
+      "meaning": "thời gian kết thúc của một khoảng thời gian giới hạn"
+    },
+    {
+      "word": "末年",
+      "reading": "まつねん",
+      "meaning": "những ngày cuối cùng"
+    },
+    {
+      "word": "末女",
+      "reading": "まつじょ",
+      "meaning": "con gái út"
+    },
+    {
+      "word": "末生",
+      "reading": "すえなり",
+      "meaning": "quả gần cuối của cây nho"
     },
     {
       "word": "末客",
@@ -112,34 +127,19 @@
       "meaning": "vị khách cuối cùng"
     },
     {
-      "word": "ケイヒ末",
-      "reading": "ケイヒまつ",
-      "meaning": "bột vỏ quế"
-    },
-    {
-      "word": "結末",
-      "reading": "けつまつ",
-      "meaning": "kết thúc"
-    },
-    {
-      "word": "月末",
-      "reading": "げつまつ",
-      "meaning": "cuối tháng"
-    },
-    {
       "word": "週末",
       "reading": "しゅうまつ",
       "meaning": "cuối tuần"
     },
     {
-      "word": "末弟",
-      "reading": "まってい",
-      "meaning": "em trai út"
+      "word": "末の末",
+      "reading": "すえのすえ",
+      "meaning": "kéo dài"
     },
     {
-      "word": "末期",
-      "reading": "まっき",
-      "meaning": "thời gian kết thúc của một khoảng thời gian giới hạn"
+      "word": "原末",
+      "reading": "げんまつ",
+      "meaning": "cơ sở thoa phấn"
     }
   ]
 }

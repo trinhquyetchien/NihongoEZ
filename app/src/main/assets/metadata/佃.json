@@ -53,14 +53,14 @@
   ],
   "vocabulary": [
     {
-      "word": "佃",
-      "reading": "つくだ",
-      "meaning": "ruộng lúa"
-    },
-    {
       "word": "佃煮",
       "reading": "つくだに",
       "meaning": "giữ gìn thức ăn sôi trong nước tương"
+    },
+    {
+      "word": "佃",
+      "reading": "つくだ",
+      "meaning": "ruộng lúa"
     },
     {
       "word": "佃煮/漬物/梅干し",

@@ -60,34 +60,14 @@
       "meaning": "nhà bếp"
     },
     {
-      "word": "庖厨",
-      "reading": "ほうちゅう",
-      "meaning": "phòng bếp"
-    },
-    {
-      "word": "厨子",
-      "reading": "ずし",
-      "meaning": "vẽ thu nhỏ miếu thờ trong một miếu"
-    },
-    {
-      "word": "厨房",
-      "reading": "ちゅうぼう",
-      "meaning": "phòng bếp"
-    },
-    {
-      "word": "厨宰",
-      "reading": "ちゅうさい",
-      "meaning": "đầu bếp"
-    },
-    {
       "word": "厨人",
       "reading": "ちゅうじん",
       "meaning": "đầu bếp"
     },
     {
-      "word": "厨芥",
-      "reading": "ちゅうかい",
-      "meaning": "rác thải nhà bếp"
+      "word": "主厨長",
+      "reading": "しゅちゅうちょう",
+      "meaning": "tổng bếp trưởng"
     },
     {
       "word": "切断厨",
@@ -95,14 +75,34 @@
       "meaning": "người hay ngắt kết nối trong khi chơi game online"
     },
     {
-      "word": "厨子甕",
-      "reading": "ずしがめ",
-      "meaning": "hộp gốm"
+      "word": "司厨長",
+      "reading": "しちゅうちょう",
+      "meaning": "người quản lý bếp và phục vụ"
+    },
+    {
+      "word": "司厨士",
+      "reading": "しちゅうし",
+      "meaning": "đầu bếp chuyên nấu món ăn phương tây"
+    },
+    {
+      "word": "厨房",
+      "reading": "ちゅうぼう",
+      "meaning": "phòng bếp"
     },
     {
       "word": "硬派厨",
       "reading": "こうはちゅう",
       "meaning": "internet tough guy"
+    },
+    {
+      "word": "厨宰",
+      "reading": "ちゅうさい",
+      "meaning": "đầu bếp"
+    },
+    {
+      "word": "厨子",
+      "reading": "ずし",
+      "meaning": "vẽ thu nhỏ miếu thờ trong một miếu"
     }
   ]
 }

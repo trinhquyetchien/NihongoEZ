@@ -90,14 +90,14 @@
       "meaning": "con ếch"
     },
     {
-      "word": "蛙の子は蛙",
-      "reading": "かえるのこはかえる",
-      "meaning": "` như cha"
+      "word": "子蛙",
+      "reading": "こかえる",
+      "meaning": "nhái"
     },
     {
-      "word": "疣蛙",
-      "reading": "いぼがえる",
-      "meaning": "con cóc"
+      "word": "蛙の肉",
+      "reading": "かえるのにく",
+      "meaning": "thịt ếch"
     },
     {
       "word": "土蛙",
@@ -105,34 +105,34 @@
       "meaning": "ếch đất"
     },
     {
-      "word": "雨蛙",
-      "reading": "あまがえる",
-      "meaning": "ếch"
-    },
-    {
-      "word": "蛙黽",
-      "reading": "あぼう",
-      "meaning": "bắt frog trốn lên cây"
-    },
-    {
-      "word": "赤蛙",
-      "reading": "あかがえる",
-      "meaning": "con ếch"
-    },
-    {
-      "word": "牛蛙",
-      "reading": "うしがえる",
-      "meaning": "<động> ễnh ương"
-    },
-    {
       "word": "角蛙",
       "reading": "つのがえる",
       "meaning": "loài ếch có sừng"
     },
     {
-      "word": "蛙股",
-      "reading": "かえるまた",
-      "meaning": "uốn cong làm bằng gỗ hỗ trợ ở trên chùm chính một cái nhà"
+      "word": "糞蛙",
+      "reading": "くそがえる",
+      "meaning": "ếch nhái"
+    },
+    {
+      "word": "石川蛙",
+      "reading": "いしかわがえる",
+      "meaning": "ếch ishikawa"
+    },
+    {
+      "word": "爪蛙",
+      "reading": "つめがえる",
+      "meaning": "ếch có vuốt châu phi"
+    },
+    {
+      "word": "鈴蛙",
+      "reading": "すずがえる",
+      "meaning": "cóc bụng lửa phương đông"
+    },
+    {
+      "word": "井蛙",
+      "reading": "せいあ",
+      "meaning": "ếch ngồi đáy giếng"
     }
   ]
 }

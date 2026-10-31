@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "せんいそよーかいけー|せん溶系",
-      "reading": "線維素溶解系|線溶系",
-      "meaning": "hệ thống tiêu sợi huyết"
+      "word": "溶岩",
+      "reading": "ようがん",
+      "meaning": "dung nham"
     },
     {
-      "word": "溶溶",
-      "reading": "ようよう",
-      "meaning": "bao la"
+      "word": "溶く",
+      "reading": "とく",
+      "meaning": "làm tan ra"
     },
     {
-      "word": "溶溶たる",
-      "reading": "ようようたる",
-      "meaning": "rộng lớn"
+      "word": "溶液",
+      "reading": "ようえき",
+      "meaning": "dung dịch"
     },
     {
-      "word": "溶接溶断セット",
-      "reading": "ようせつようだんセット",
-      "meaning": "bộ hàn nung chảy"
+      "word": "溶接",
+      "reading": "ようせつ",
+      "meaning": "mối hàn"
     },
     {
-      "word": "溶射",
-      "reading": "ようしゃ",
-      "meaning": "phun phủ"
+      "word": "溶接機",
+      "reading": "ようせつき",
+      "meaning": "máy hàn"
     },
     {
-      "word": "溶性",
-      "reading": "ようせい",
-      "meaning": "độ hoà tan"
+      "word": "溶接棒",
+      "reading": "ようせつぼう",
+      "meaning": "que hàn"
     },
     {
-      "word": "溶暗",
-      "reading": "ようあん",
-      "meaning": "bóng tối sau khi tắt đèn để xem phim"
+      "word": "仮溶接",
+      "reading": "かりようせつ",
+      "meaning": "đóng bằng đinh đầu bẹt sự hàn"
     },
     {
-      "word": "溶滓",
-      "reading": "ようさい",
-      "meaning": "xỉ"
+      "word": "溶岩流",
+      "reading": "ようがんりゅう",
+      "meaning": "dung nham chảy"
     },
     {
-      "word": "溶着",
-      "reading": "ようちゃく",
-      "meaning": "hàn nhiệt"
+      "word": "溶解",
+      "reading": "ようかい",
+      "meaning": "sự dung giải"
     },
     {
-      "word": "溶存",
-      "reading": "ようぞん",
-      "meaning": "sự hòa tan"
+      "word": "溶解力",
+      "reading": "ようかいりょく",
+      "meaning": "tính hoà tan được"
     }
   ]
 }

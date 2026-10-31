@@ -95,24 +95,19 @@
       "meaning": "hàn quốc"
     },
     {
-      "word": "嫌韓",
-      "reading": "けんかん",
-      "meaning": "ghét những thứ hàn quốc"
+      "word": "韓国人",
+      "reading": "かんこくじん",
+      "meaning": "người hàn quốc"
     },
     {
-      "word": "米韓",
-      "reading": "べいかん",
-      "meaning": "mỹ - hàn"
+      "word": "韓国街",
+      "reading": "かんこくがい",
+      "meaning": "khu phố hàn"
     },
     {
-      "word": "韓日",
-      "reading": "かんにち",
-      "meaning": "hàn quốc - nhật bản"
-    },
-    {
-      "word": "中韓",
-      "reading": "ちゅうかん",
-      "meaning": "trung quốc và hàn quốc"
+      "word": "韓国語",
+      "reading": "かんこくご",
+      "meaning": "tiếng hàn"
     },
     {
       "word": "韓人",
@@ -120,14 +115,9 @@
       "meaning": "người triều tiên"
     },
     {
-      "word": "三韓",
-      "reading": "さんかん",
-      "meaning": "korea"
-    },
-    {
-      "word": "韓流",
-      "reading": "かんりゅう",
-      "meaning": "trào lưu hàn quốc"
+      "word": "韓日",
+      "reading": "かんにち",
+      "meaning": "hàn quốc - nhật bản"
     },
     {
       "word": "日韓",
@@ -135,9 +125,19 @@
       "meaning": "nhật hàn"
     },
     {
-      "word": "渡韓",
-      "reading": "とかん",
-      "meaning": "đi đến hàn quốc"
+      "word": "中韓",
+      "reading": "ちゅうかん",
+      "meaning": "trung quốc và hàn quốc"
+    },
+    {
+      "word": "日中韓",
+      "reading": "にっちゅうかん",
+      "meaning": "nhật - trung - hàn"
+    },
+    {
+      "word": "三韓",
+      "reading": "さんかん",
+      "meaning": "korea"
     }
   ]
 }

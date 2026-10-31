@@ -94,11 +94,6 @@
       "meaning": "bánh xe"
     },
     {
-      "word": "車掌車",
-      "reading": "しゃしょうしゃ",
-      "meaning": "ô tô của người soát vé"
-    },
-    {
       "word": "汽車",
       "reading": "きしゃ",
       "meaning": "hỏa xa"
@@ -119,24 +114,29 @@
       "meaning": "sự dừng xe"
     },
     {
+      "word": "車輪",
+      "reading": "しゃりん",
+      "meaning": "bánh xe"
+    },
+    {
       "word": "下車",
       "reading": "げしゃ",
       "meaning": "sự xuống tàu xe"
     },
     {
-      "word": "オフロード車",
-      "reading": "オフロードしゃ",
-      "meaning": "xe địa hình"
+      "word": "車庫",
+      "reading": "しゃこ",
+      "meaning": "nhà để xe"
     },
     {
-      "word": "車校",
-      "reading": "しゃこう",
-      "meaning": "trường dạy lái xe"
+      "word": "歯車",
+      "reading": "はぐるま",
+      "meaning": "bánh răng"
     },
     {
-      "word": "リフト車",
-      "reading": "リフトしゃ",
-      "meaning": "xe nâng hàng"
+      "word": "風車",
+      "reading": "かざぐるま",
+      "meaning": "cối xay gió"
     }
   ]
 }

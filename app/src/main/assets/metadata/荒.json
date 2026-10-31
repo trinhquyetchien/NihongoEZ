@@ -94,54 +94,54 @@
   ],
   "vocabulary": [
     {
-      "word": "荒荒しい",
-      "reading": "あらあらしい",
-      "meaning": "thô kệch"
-    },
-    {
-      "word": "荒く",
-      "reading": "あらく",
-      "meaning": "dữ dội"
-    },
-    {
-      "word": "荒波",
-      "reading": "あらなみ",
-      "meaning": "biển nổi sóng"
-    },
-    {
       "word": "荒い",
       "reading": "あらい",
       "meaning": "gấp gáp"
     },
     {
-      "word": "荒天",
-      "reading": "こうてん",
-      "meaning": "trời mưa bão"
+      "word": "荒廃",
+      "reading": "こうはい",
+      "meaning": "sự phá huỷ"
     },
     {
-      "word": "荒筵",
-      "reading": "あらむしろ",
-      "meaning": "chiếu dệt thô"
+      "word": "荒れ",
+      "reading": "あれ",
+      "meaning": "giông tố"
     },
     {
-      "word": "凶荒",
-      "reading": "きょうこう",
-      "meaning": "nạn đói kém"
+      "word": "荒者",
+      "reading": "あらもの",
+      "meaning": "người thô lỗ"
     },
     {
-      "word": "荒行",
-      "reading": "あらぎょう",
-      "meaning": "sự tu khổ hạnh"
+      "word": "口荒",
+      "reading": "くちあら",
+      "meaning": "xù lên nói"
     },
     {
-      "word": "荒海",
-      "reading": "あらうみ",
-      "meaning": "biển lắm sóng to"
+      "word": "山荒",
+      "reading": "やまあらし",
+      "meaning": "máy chải sợi gai"
     },
     {
-      "word": "荒木",
-      "reading": "あらき",
-      "meaning": "gỗ thô"
+      "word": "八荒",
+      "reading": "はっこう",
+      "meaning": "những ranh giới quốc gia"
+    },
+    {
+      "word": "荒城",
+      "reading": "こうじょう",
+      "meaning": "thành đổ nát"
+    },
+    {
+      "word": "荒技",
+      "reading": "あらわざ",
+      "meaning": "kỹ thuật dùng sức"
+    },
+    {
+      "word": "荒野",
+      "reading": "こうや",
+      "meaning": "vùng hoang vu"
     }
   ]
 }

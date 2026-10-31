@@ -93,19 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "住",
-      "reading": "じゅう",
-      "meaning": "chỗ cư trú"
-    },
-    {
-      "word": "住友",
-      "reading": "すみとも",
-      "meaning": "sumitomo"
-    },
-    {
-      "word": "集住",
-      "reading": "しゅうじゅう",
-      "meaning": "sự sinh sống tập trung ở một chỗ"
+      "word": "住む",
+      "reading": "すむ",
+      "meaning": "có thể giải quyết"
     },
     {
       "word": "住所",
@@ -113,19 +103,9 @@
       "meaning": "chỗ ở"
     },
     {
-      "word": "住人",
-      "reading": "じゅうにん",
-      "meaning": "người cư trú"
-    },
-    {
       "word": "住民",
       "reading": "じゅうみん",
       "meaning": "dân cư"
-    },
-    {
-      "word": "住む",
-      "reading": "すむ",
-      "meaning": "có thể giải quyết"
     },
     {
       "word": "住宅",
@@ -133,14 +113,34 @@
       "meaning": "nhà ở"
     },
     {
+      "word": "住まい",
+      "reading": "すまい",
+      "meaning": "địa chỉ nhà"
+    },
+    {
+      "word": "衣食住",
+      "reading": "いしょくじゅう",
+      "meaning": "nhu cầu thiết yếu của cuộc sống"
+    },
+    {
       "word": "移住",
       "reading": "いじゅう",
       "meaning": "sự di trú"
     },
     {
-      "word": "在住",
-      "reading": "ざいじゅう",
-      "meaning": "sự cư trú"
+      "word": "居住",
+      "reading": "きょじゅう",
+      "meaning": "địa chỉ"
+    },
+    {
+      "word": "住",
+      "reading": "じゅう",
+      "meaning": "chỗ cư trú"
+    },
+    {
+      "word": "住宅地",
+      "reading": "じゅうたくち",
+      "meaning": "địa hạt"
     }
   ]
 }

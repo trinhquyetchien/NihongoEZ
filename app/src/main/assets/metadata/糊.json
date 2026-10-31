@@ -90,9 +90,14 @@
       "meaning": "hồ dán"
     },
     {
-      "word": "糊精",
-      "reading": "こせい",
-      "meaning": "dextrin"
+      "word": "糊着",
+      "reading": "こちゃく",
+      "meaning": "keo dính"
+    },
+    {
+      "word": "洗濯糊",
+      "reading": "せんたくのり",
+      "meaning": "hiệu giặt hồ"
     },
     {
       "word": "古糊",
@@ -100,24 +105,14 @@
       "meaning": "keo cũ được làm từ gạo hoặc bột lúa mì"
     },
     {
-      "word": "糊口",
-      "reading": "ここう",
-      "meaning": "sự tồn tại"
-    },
-    {
-      "word": "糊代",
-      "reading": "のりしろ",
-      "meaning": "chồng lên chiều rộng"
-    },
-    {
       "word": "ゴム糊",
       "reading": "ゴムのり",
       "meaning": "chất nhầy"
     },
     {
-      "word": "模糊",
-      "reading": "もこ",
-      "meaning": "sự không rõ"
+      "word": "糊精",
+      "reading": "こせい",
+      "meaning": "dextrin"
     },
     {
       "word": "血糊",
@@ -125,14 +120,19 @@
       "meaning": "máu giả"
     },
     {
-      "word": "姫糊",
-      "reading": "ひめのり",
-      "meaning": "hồ gạo"
+      "word": "糊付け",
+      "reading": "のりづけ",
+      "meaning": "hồ bột"
     },
     {
-      "word": "糊着",
-      "reading": "こちゃく",
-      "meaning": "keo dính"
+      "word": "糊空木",
+      "reading": "のりうつぎ",
+      "meaning": "cây tử đinh hương dại"
+    },
+    {
+      "word": "糊塗",
+      "reading": "こと",
+      "meaning": "che giấu để tạm thời đối phó"
     }
   ]
 }

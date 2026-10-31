@@ -89,24 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "翻訳",
+      "reading": "ほんやく",
+      "meaning": "phiên dịch"
+    },
+    {
       "word": "訳",
       "reading": "わけ",
       "meaning": "lý do"
     },
     {
-      "word": "要訳",
-      "reading": "ようやく",
-      "meaning": "tóm lược"
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "người phiên dịch"
     },
     {
-      "word": "誤訳",
-      "reading": "ごやく",
-      "meaning": "sự dịch sai"
+      "word": "訳す",
+      "reading": "やくす",
+      "meaning": "dịch"
     },
     {
-      "word": "超訳",
-      "reading": "ちょうやく",
-      "meaning": "làm cho dễ hiểu"
+      "word": "内訳",
+      "reading": "うちわけ",
+      "meaning": "sự diễn giải thành từng mục"
     },
     {
       "word": "国訳",
@@ -114,14 +119,14 @@
       "meaning": "dịch từ tiếng nước ngoài sang tiếng nhật"
     },
     {
-      "word": "監訳",
-      "reading": "かんやく",
-      "meaning": "giám thị bản dịch"
+      "word": "超訳",
+      "reading": "ちょうやく",
+      "meaning": "làm cho dễ hiểu"
     },
     {
-      "word": "訳語",
-      "reading": "やくご",
-      "meaning": "những thời hạn được sử dụng trong bản dịch"
+      "word": "下訳",
+      "reading": "したやく",
+      "meaning": "bản dịch sơ lược"
     },
     {
       "word": "悪訳",
@@ -129,14 +134,9 @@
       "meaning": "bản dịch xấu"
     },
     {
-      "word": "迷訳",
-      "reading": "めいやく",
-      "meaning": "bản dịch lộn xộn"
-    },
-    {
-      "word": "古訳",
-      "reading": "こやく",
-      "meaning": "bản dịch kinh sau huyền trang đời đường"
+      "word": "字訳",
+      "reading": "じやく",
+      "meaning": "sự chuyển chữ"
     }
   ]
 }

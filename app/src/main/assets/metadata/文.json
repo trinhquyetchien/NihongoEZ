@@ -91,44 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "文",
-      "reading": "ぶん",
-      "meaning": "câu"
-    },
-    {
-      "word": "仏文",
-      "reading": "ふつぶん",
-      "meaning": "văn bản tiếng pháp"
-    },
-    {
-      "word": "文語文",
-      "reading": "ぶんごぶん",
-      "meaning": "ngôn ngữ viết"
-    },
-    {
-      "word": "三文文士",
-      "reading": "さんもんぶんし",
-      "meaning": "nhà văn chỉ viết toàn những tiểu thuyết rẻ tiền hay tiểu thuyết không bán được"
-    },
-    {
-      "word": "文語文法",
-      "reading": "ぶんごぶんぽう",
-      "meaning": "ngữ pháp dùng trong văn viết"
-    },
-    {
-      "word": "漢文訓読文",
-      "reading": "かんぶんくんどくぶん",
-      "meaning": "văn bản hán văn kèm cách đọc theo kiểu nhật"
-    },
-    {
-      "word": "呪文",
-      "reading": "じゅもん",
-      "meaning": "thần chú"
-    },
-    {
-      "word": "文体",
-      "reading": "ぶんたい",
-      "meaning": "văn thể"
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "sự đặt câu"
     },
     {
       "word": "文学",
@@ -136,9 +101,44 @@
       "meaning": "văn học"
     },
     {
-      "word": "露文",
-      "reading": "ろぶん",
-      "meaning": "văn học nga"
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "câu"
+    },
+    {
+      "word": "英文",
+      "reading": "えいぶん",
+      "meaning": "câu tiếng anh"
+    },
+    {
+      "word": "文脈",
+      "reading": "ぶんみゃく",
+      "meaning": "văn cảnh"
+    },
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "văn thể"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "nguyên văn"
+    },
+    {
+      "word": "円文",
+      "reading": "えんもん",
+      "meaning": "hoa văn hình tròn"
+    },
+    {
+      "word": "元文",
+      "reading": "げんぶん",
+      "meaning": "gembun era"
+    },
+    {
+      "word": "氏文",
+      "reading": "うじぶみ",
+      "meaning": "gia phả"
     }
   ]
 }

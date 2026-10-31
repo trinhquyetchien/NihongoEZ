@@ -113,34 +113,14 @@
       "meaning": "anh ta"
     },
     {
-      "word": "彼式",
-      "reading": "あれしき",
-      "meaning": "cách làm đó"
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "chị ta"
     },
     {
-      "word": "彼奴",
-      "reading": "あいつ",
-      "meaning": "anh ta"
-    },
-    {
-      "word": "誰彼",
-      "reading": "だれかれ",
-      "meaning": "đây hoặc người đó"
-    },
-    {
-      "word": "元彼",
-      "reading": "もとかれ",
-      "meaning": "bạn trai cũ"
-    },
-    {
-      "word": "此彼",
-      "reading": "これかれ",
-      "meaning": "cái này cái kia"
-    },
-    {
-      "word": "彼処",
-      "reading": "あそこ",
-      "meaning": "ở đó"
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "các anh ấy"
     },
     {
       "word": "彼の",
@@ -148,14 +128,34 @@
       "meaning": "cái đó"
     },
     {
-      "word": "彼方",
-      "reading": "かなた",
-      "meaning": "bờ kia"
+      "word": "今彼",
+      "reading": "いまかれ",
+      "meaning": "bạn trai hiện tại"
     },
     {
-      "word": "彼程",
-      "reading": "あれほど",
-      "meaning": "ở mức độ đó"
+      "word": "前彼",
+      "reading": "まえかれ",
+      "meaning": "bạn trai cũ"
+    },
+    {
+      "word": "彼とか",
+      "reading": "かんとか",
+      "meaning": "anh ấy chẳng hạn"
+    },
+    {
+      "word": "彼なり",
+      "reading": "かれなり",
+      "meaning": "cách của anh ấy"
+    },
+    {
+      "word": "元彼",
+      "reading": "もとかれ",
+      "meaning": "bạn trai cũ"
+    },
+    {
+      "word": "彼個人",
+      "reading": "かれこじん",
+      "meaning": "cá nhân của anh ấy"
     }
   ]
 }

@@ -55,19 +55,19 @@
       "meaning": "cái neo"
     },
     {
-      "word": "錨綱",
-      "reading": "いかりづな",
-      "meaning": "neo cáp"
-    },
-    {
-      "word": "錨地",
-      "reading": "びょうち",
-      "meaning": "khu vực thả neo tàu"
+      "word": "予備錨",
+      "reading": "よびいかり",
+      "meaning": "tằn tiện mỏ neo"
     },
     {
       "word": "錨泊",
       "reading": "びょうはく",
       "meaning": "sự thả neo"
+    },
+    {
+      "word": "錨綱",
+      "reading": "いかりづな",
+      "meaning": "neo cáp"
     },
     {
       "word": "投錨",
@@ -80,24 +80,24 @@
       "meaning": "sự nhổ neo"
     },
     {
-      "word": "アンカー/錨",
-      "reading": "アンカー/いかり",
-      "meaning": "móng cọc/neo"
+      "word": "錨地",
+      "reading": "びょうち",
+      "meaning": "khu vực thả neo tàu"
     },
     {
-      "word": "予備錨",
-      "reading": "よびいかり",
-      "meaning": "tằn tiện mỏ neo"
+      "word": "錨を上げる",
+      "reading": "いかりをあげる",
+      "meaning": "kéo neo lên"
+    },
+    {
+      "word": "投錨する",
+      "reading": "とうびょうする",
+      "meaning": "bỏ neo"
     },
     {
       "word": "船積錨地",
       "reading": "ふなつみびょうち",
       "meaning": "bến bốc hàng"
-    },
-    {
-      "word": "錨地用船",
-      "reading": "びょうちようせん",
-      "meaning": "hợp đồng thuê tàu đến bến"
     }
   ]
 }

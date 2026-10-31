@@ -91,43 +91,8 @@
   ],
   "vocabulary": [
     {
-      "word": "幸",
-      "reading": "さち",
-      "meaning": "sự may mắn"
-    },
-    {
-      "word": "幸か不幸か",
-      "reading": "こうかふこうか",
-      "meaning": "may mắn hoặc unluckily"
-    },
-    {
-      "word": "幸いと不幸",
-      "reading": "さいわいとふこう",
-      "meaning": "họa phúc"
-    },
-    {
-      "word": "不幸中の幸い",
-      "reading": "ふこうちゅうのさいわい",
-      "meaning": "trong cái rủi có cái may"
-    },
-    {
-      "word": "海幸",
-      "reading": "うみさち",
-      "meaning": "những sản phẩm biển"
-    },
-    {
-      "word": "幸子",
-      "reading": "さちこ",
-      "meaning": "con gái hạnh phúc"
-    },
-    {
-      "word": "山幸",
-      "reading": "やまさち",
-      "meaning": "thức ăn của núi"
-    },
-    {
-      "word": "幸福",
-      "reading": "こうふく",
+      "word": "幸せ",
+      "reading": "しあわせ",
       "meaning": "hạnh phúc"
     },
     {
@@ -136,9 +101,44 @@
       "meaning": "hân hạnh"
     },
     {
-      "word": "幸甚",
-      "reading": "こうじん",
-      "meaning": "hài lòng"
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "bất hạnh"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "hạnh phúc"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "may"
+    },
+    {
+      "word": "幸せ者",
+      "reading": "しあわせもの",
+      "meaning": "người may mắn"
+    },
+    {
+      "word": "不幸な",
+      "reading": "ふこうな",
+      "meaning": "hiểm nghèo"
+    },
+    {
+      "word": "幸福な",
+      "reading": "こうふく",
+      "meaning": "hạnh phúc"
+    },
+    {
+      "word": "幸福感",
+      "reading": "こうふくかん",
+      "meaning": "trạng thái phởn phơ"
+    },
+    {
+      "word": "幸",
+      "reading": "さち",
+      "meaning": "sự may mắn"
     }
   ]
 }

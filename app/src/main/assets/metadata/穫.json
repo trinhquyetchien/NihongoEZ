@@ -88,9 +88,14 @@
       "meaning": "sự thu hoạch"
     },
     {
-      "word": "穫る",
-      "reading": "とる",
-      "meaning": "đạt được"
+      "word": "収穫時",
+      "reading": "しゅうかくじ",
+      "meaning": "thời gian mùa gặt"
+    },
+    {
+      "word": "収穫物",
+      "reading": "しゅうかくぶつ",
+      "meaning": "mùa gặt"
     },
     {
       "word": "収穫高",
@@ -103,19 +108,9 @@
       "meaning": "thời kì thu hoạch"
     },
     {
-      "word": "収穫時",
-      "reading": "しゅうかくじ",
-      "meaning": "thời gian mùa gặt"
-    },
-    {
       "word": "収穫祭",
       "reading": "しゅうかくさい",
       "meaning": "lễ tạ mùa"
-    },
-    {
-      "word": "収穫物",
-      "reading": "しゅうかくぶつ",
-      "meaning": "mùa gặt"
     },
     {
       "word": "収穫鋏",
@@ -123,14 +118,19 @@
       "meaning": "kéo thu hoạch"
     },
     {
-      "word": "収穫ネット",
-      "reading": "しゅうかくネット",
-      "meaning": "lưới thu hoạch"
+      "word": "穫る",
+      "reading": "とる",
+      "meaning": "đạt được"
     },
     {
       "word": "収穫する",
       "reading": "しゅうかくする",
       "meaning": "thu hoạch"
+    },
+    {
+      "word": "収穫ネット",
+      "reading": "しゅうかくネット",
+      "meaning": "lưới thu hoạch"
     }
   ]
 }

@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "犯罪",
+      "reading": "はんざい",
+      "meaning": "can phạm"
+    },
+    {
+      "word": "犯人",
+      "reading": "はんにん",
+      "meaning": "hung thủ"
+    },
+    {
+      "word": "防犯",
+      "reading": "ぼうはん",
+      "meaning": "sự phòng chống tội phạm"
+    },
+    {
+      "word": "犯す",
+      "reading": "おかす",
+      "meaning": "vi phạm"
+    },
+    {
+      "word": "犯罪人",
+      "reading": "はんざいにん",
+      "meaning": "kẻ phạm tội"
+    },
+    {
+      "word": "犯罪率",
+      "reading": "はんざいりつ",
+      "meaning": "tỷ lệ tội phạm"
+    },
+    {
+      "word": "犯罪死",
+      "reading": "はんざいし",
+      "meaning": "chết oan"
+    },
+    {
       "word": "犯",
       "reading": "はん",
       "meaning": "tội phạm"
     },
     {
-      "word": "戦犯",
-      "reading": "せんぱん",
-      "meaning": "tội phạm chiến tranh"
+      "word": "犯る",
+      "reading": "やる",
+      "meaning": "quan hệ tình dục"
     },
     {
-      "word": "初犯",
-      "reading": "しょはん",
-      "meaning": "phạm tội lần đầu tiên"
-    },
-    {
-      "word": "従犯",
-      "reading": "じゅうはん",
-      "meaning": "kẻ tòng phạm"
-    },
-    {
-      "word": "主犯",
-      "reading": "しゅはん",
-      "meaning": "thủ phạm chính"
-    },
-    {
-      "word": "犯歴",
-      "reading": "はんれき",
-      "meaning": "hồ sơ tội phạm"
-    },
-    {
-      "word": "不犯",
-      "reading": "ふぼん",
-      "meaning": "tuân theo chính xác điều răn tín đồ phật giáo mà tất cả các thầy tu cần phải độc thân"
-    },
-    {
-      "word": "犯則",
-      "reading": "はんそく",
-      "meaning": "vi phạm luật và quy định"
-    },
-    {
-      "word": "犯意",
-      "reading": "はんい",
-      "meaning": "tính hiểm độc"
-    },
-    {
-      "word": "正犯",
-      "reading": "せいはん",
-      "meaning": "phạm tội thiết yếu"
+      "word": "政治犯",
+      "reading": "せいじはん",
+      "meaning": "tù chính trị"
     }
   ]
 }

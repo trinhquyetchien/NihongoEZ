@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaning": "cẩn thận"
+    },
+    {
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "con dao"
+    },
+    {
+      "word": "丁目",
+      "reading": "ちょうめ",
+      "meaning": "khu phố"
+    },
+    {
+      "word": "丁々",
+      "reading": "ちょうちょう",
+      "meaning": "xung đột những thanh gươm"
+    },
+    {
       "word": "丁",
       "reading": "ちょう",
       "meaning": "đinh"
     },
     {
-      "word": "丁丁",
-      "reading": "ちょうちょう",
-      "meaning": "xung đột những thanh gươm"
+      "word": "丁番",
+      "reading": "ちょうばん",
+      "meaning": "bản lề"
     },
     {
-      "word": "丁丁発止",
-      "reading": "ちょうちょうはっし",
-      "meaning": "lời lẽ dao búa"
+      "word": "丁種",
+      "reading": "ていしゅ",
+      "meaning": "không đủ tiêu chuẩn phục vụ quân ngũ"
     },
     {
-      "word": "手八丁口八丁",
-      "reading": "てはっちょうくちはっちょう",
-      "meaning": "một người giỏi cả kỹ năng tay nghề và khả năng giao tiếp"
+      "word": "手八丁",
+      "reading": "てはっちょう",
+      "meaning": "khéo tay"
     },
     {
-      "word": "長丁番/横長丁番",
-      "reading": "ちょうちょうばん/よこながちょうばん",
-      "meaning": "bản lề dài/bản lề ngang"
+      "word": "正丁",
+      "reading": "せいてい",
+      "meaning": "người đàn ông khỏe mạnh từ 21 đến 60 tuổi"
     },
     {
-      "word": "丁酉",
-      "reading": "ひのととり",
-      "meaning": "đinh dậu"
-    },
-    {
-      "word": "丁亥",
-      "reading": "ていがい",
-      "meaning": "đinh hợi"
-    },
-    {
-      "word": "丁と",
-      "reading": "ちょうと",
-      "meaning": "with a clang"
-    },
-    {
-      "word": "丁年",
-      "reading": "ていねん",
-      "meaning": "tuổi thành niên"
-    },
-    {
-      "word": "丁半",
-      "reading": "ちょうはん",
-      "meaning": "chẵn lẻ"
+      "word": "丁香",
+      "reading": "ちょうこう",
+      "meaning": "cây đinh hương"
     }
   ]
 }

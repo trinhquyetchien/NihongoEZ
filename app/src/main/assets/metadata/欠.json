@@ -91,21 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "欠",
-      "reading": "けつ",
-      "meaning": "sự khuyết"
-    },
-    {
-      "word": "欠勤",
-      "reading": "けっきん",
-      "meaning": "sự nghỉ làm việc"
-    },
-    {
-      "word": "欠損",
-      "reading": "けっそん",
-      "meaning": "sự thiệt hại"
-    },
-    {
       "word": "欠陥",
       "reading": "けっかん",
       "meaning": "khuyết điểm"
@@ -116,9 +101,19 @@
       "meaning": "khuyết điểm"
     },
     {
-      "word": "欠航",
-      "reading": "けっこう",
-      "meaning": "sự ngưng phục vụ"
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "sự vắng mặt"
+    },
+    {
+      "word": "欠ける",
+      "reading": "かける",
+      "meaning": "một phần của vật cứng bị hỏng"
+    },
+    {
+      "word": "欠く",
+      "reading": "かく",
+      "meaning": "thiếu"
     },
     {
       "word": "欠乏",
@@ -126,19 +121,24 @@
       "meaning": "sự thiếu hụt"
     },
     {
-      "word": "欠落",
-      "reading": "けつらく",
-      "meaning": "thiếu một phần"
+      "word": "欠け",
+      "reading": "かけ",
+      "meaning": "mảnh vỡ"
     },
     {
-      "word": "金欠",
-      "reading": "きんけつ",
-      "meaning": "hết tiền"
+      "word": "欠",
+      "reading": "けつ",
+      "meaning": "sự khuyết"
     },
     {
-      "word": "酸欠",
-      "reading": "さんけつ",
-      "meaning": "sự nghẹt thở"
+      "word": "欠号",
+      "reading": "けつごう",
+      "meaning": "số bị thiếu"
+    },
+    {
+      "word": "欠品",
+      "reading": "けっぴん",
+      "meaning": "thiếu hàng"
     }
   ]
 }

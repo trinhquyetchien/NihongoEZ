@@ -57,29 +57,14 @@
       "meaning": "sư tử"
     },
     {
+      "word": "獅子女",
+      "reading": "スフィンクス",
+      "meaning": "nhân sư"
+    },
+    {
       "word": "獅子座",
       "reading": "ししざ",
       "meaning": "cung sư tử"
-    },
-    {
-      "word": "獅子舞",
-      "reading": "ししまい",
-      "meaning": "múa lân"
-    },
-    {
-      "word": "獅子猿",
-      "reading": "ししざる",
-      "meaning": "lion tamarin"
-    },
-    {
-      "word": "獅子唐",
-      "reading": "ししとう",
-      "meaning": "loại ớt xanh quả dài"
-    },
-    {
-      "word": "獅子吼",
-      "reading": "ししく",
-      "meaning": "tiếng gầm của sư tử"
     },
     {
       "word": "獅子宮",
@@ -87,19 +72,34 @@
       "meaning": "cung sư t"
     },
     {
-      "word": "獅子頭",
-      "reading": "ししがしら",
-      "meaning": "mặt nạ sư tử"
+      "word": "獅子猿",
+      "reading": "ししざる",
+      "meaning": "lion tamarin"
     },
     {
-      "word": "獅子鼻",
-      "reading": "ししばな",
-      "meaning": "cái mũi võ sĩ"
+      "word": "獅子舞",
+      "reading": "ししまい",
+      "meaning": "múa lân"
+    },
+    {
+      "word": "獅子唐",
+      "reading": "ししとう",
+      "meaning": "loại ớt xanh quả dài"
     },
     {
       "word": "唐獅子",
       "reading": "からじし",
       "meaning": "bức họa nghệ thuật về sư tử"
+    },
+    {
+      "word": "獅子頭",
+      "reading": "ししがしら",
+      "meaning": "mặt nạ sư tử"
+    },
+    {
+      "word": "獅子吼",
+      "reading": "ししく",
+      "meaning": "tiếng gầm của sư tử"
     }
   ]
 }

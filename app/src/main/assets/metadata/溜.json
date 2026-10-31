@@ -94,19 +94,14 @@
   ],
   "vocabulary": [
     {
-      "word": "溜る",
-      "reading": "たまる",
-      "meaning": "tích tụ lại"
+      "word": "溜める",
+      "reading": "ためる",
+      "meaning": "đọng lại"
     },
     {
-      "word": "溜息",
-      "reading": "ためいき",
-      "meaning": "sợ thở dài"
-    },
-    {
-      "word": "溜池",
-      "reading": "ためいけ",
-      "meaning": "kho chứa"
+      "word": "溜まり",
+      "reading": "たまり",
+      "meaning": "trữ"
     },
     {
       "word": "溜め",
@@ -114,34 +109,39 @@
       "meaning": "hầm chứa phân"
     },
     {
-      "word": "液溜",
-      "reading": "えきだめ",
-      "meaning": "chỗ đọng chất lỏng"
+      "word": "溜め池",
+      "reading": "ためいけ",
+      "meaning": "bể chứa nước"
     },
     {
-      "word": "蒸溜",
-      "reading": "じょうりゅう",
-      "meaning": "sự cất"
+      "word": "溜まる",
+      "reading": "たまる",
+      "meaning": "đọng lại"
     },
     {
-      "word": "肥溜",
-      "reading": "こえだめ",
-      "meaning": "hầm chứa phân"
+      "word": "塵溜め",
+      "reading": "ごみため",
+      "meaning": "một sự đổ xuống"
     },
     {
-      "word": "分溜",
-      "reading": "ぶんりゅう",
-      "meaning": "rạn nứt"
+      "word": "溜息",
+      "reading": "ためいき",
+      "meaning": "sợ thở dài"
     },
     {
-      "word": "糞溜",
-      "reading": "くそだめ",
-      "meaning": "thùng để giữ excreta"
+      "word": "溜り",
+      "reading": "たまり",
+      "meaning": "nơi thường lui tới"
     },
     {
-      "word": "溜飲",
-      "reading": "りゅういん",
-      "meaning": "trào ngược axit dạ dày"
+      "word": "水溜り",
+      "reading": "みずたまり",
+      "meaning": "vũng nước"
+    },
+    {
+      "word": "陽溜り",
+      "reading": "ひだまり",
+      "meaning": "điểm nắng"
     }
   ]
 }

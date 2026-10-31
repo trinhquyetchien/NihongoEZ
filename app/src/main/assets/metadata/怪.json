@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "怪",
-      "reading": "かい",
-      "meaning": "bí mật"
-    },
-    {
-      "word": "怪中の怪",
-      "reading": "かいちゅうのかい",
-      "meaning": "bí mật của những bí mật"
-    },
-    {
-      "word": "奇奇怪怪",
-      "reading": "ききかいかい",
-      "meaning": "kỳ quái"
+      "word": "怪しい",
+      "reading": "あやしい",
+      "meaning": "đáng ngờ"
     },
     {
       "word": "怪獣",
@@ -111,34 +101,44 @@
       "meaning": "quái thú"
     },
     {
-      "word": "怪訝",
-      "reading": "けげん",
-      "meaning": "sự nghi ngờ"
+      "word": "怪我",
+      "reading": "けが",
+      "meaning": "vết thương"
     },
     {
-      "word": "醜怪",
-      "reading": "しゅうかい",
-      "meaning": "xấu xí quái dị"
+      "word": "怪我人",
+      "reading": "けがにん",
+      "meaning": "người bị thương"
     },
     {
-      "word": "怪力",
-      "reading": "かいりき",
-      "meaning": "sức mạnh phi thường"
+      "word": "大怪我",
+      "reading": "おおけが",
+      "meaning": "chấn thương nghiêm trọng"
     },
     {
-      "word": "怪人",
-      "reading": "かいじん",
-      "meaning": "người huyền bí"
+      "word": "妖怪",
+      "reading": "ようかい",
+      "meaning": "quái vật"
     },
     {
-      "word": "怪傑",
-      "reading": "かいけつ",
-      "meaning": "quái kiệt"
+      "word": "怪物",
+      "reading": "かいぶつ",
+      "meaning": "quái vật"
     },
     {
-      "word": "怪奇",
-      "reading": "かいき",
-      "meaning": "kì quái"
+      "word": "怪談",
+      "reading": "かいだん",
+      "meaning": "chuyện kinh dị"
+    },
+    {
+      "word": "怪盗",
+      "reading": "かいとう",
+      "meaning": "kẻ trộm huyền bí"
+    },
+    {
+      "word": "怪",
+      "reading": "かい",
+      "meaning": "bí mật"
     }
   ]
 }

@@ -95,29 +95,39 @@
       "meaning": "tỷ"
     },
     {
-      "word": "従姉",
-      "reading": "じゅうし",
-      "meaning": "chị họ"
-    },
-    {
-      "word": "兄姉",
-      "reading": "けいし",
-      "meaning": "anh trai và chị"
-    },
-    {
-      "word": "姉弟",
-      "reading": "してい",
-      "meaning": "chị và em trai"
-    },
-    {
-      "word": "姉御",
-      "reading": "あねご",
+      "word": "お姉さん",
+      "reading": "おねえさん",
       "meaning": "chị"
     },
     {
-      "word": "実姉",
-      "reading": "じっし",
-      "meaning": "chị ruột"
+      "word": "姉妹",
+      "reading": "しまい",
+      "meaning": "chị em"
+    },
+    {
+      "word": "姉や",
+      "reading": "ねえや",
+      "meaning": "young lady"
+    },
+    {
+      "word": "お姉",
+      "reading": "おねえ",
+      "meaning": "chị"
+    },
+    {
+      "word": "姉分",
+      "reading": "あねぶん",
+      "meaning": "người mà mình tôn trọng và xem như chị gái"
+    },
+    {
+      "word": "姉上",
+      "reading": "あねうえ",
+      "meaning": "chị"
+    },
+    {
+      "word": "お姉系",
+      "reading": "おねえけい",
+      "meaning": "oneekei"
     },
     {
       "word": "姉君",
@@ -125,19 +135,9 @@
       "meaning": "chị gái"
     },
     {
-      "word": "愚姉",
-      "reading": "ぐし",
-      "meaning": "chị gái của mình"
-    },
-    {
-      "word": "亡姉",
-      "reading": "ぼうし",
-      "meaning": "người chị đã mất"
-    },
-    {
-      "word": "姉上",
-      "reading": "あねうえ",
-      "meaning": "chị"
+      "word": "姉弟",
+      "reading": "してい",
+      "meaning": "chị và em trai"
     }
   ]
 }

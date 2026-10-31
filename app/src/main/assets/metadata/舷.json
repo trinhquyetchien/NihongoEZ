@@ -84,24 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "舷",
-      "reading": "ふなばた",
-      "meaning": "mạn thuyền"
-    },
-    {
-      "word": "乾舷",
-      "reading": "かんげん",
-      "meaning": "phần nổi"
-    },
-    {
       "word": "右舷",
       "reading": "うげん",
       "meaning": "mạn phải"
-    },
-    {
-      "word": "舷側",
-      "reading": "げんそく",
-      "meaning": "ship có cạnh"
     },
     {
       "word": "左舷",
@@ -109,29 +94,44 @@
       "meaning": "chuyển bình)"
     },
     {
-      "word": "舷頭",
-      "reading": "げんとう",
+      "word": "舷",
+      "reading": "ふなばた",
       "meaning": "mạn thuyền"
     },
     {
-      "word": "舷門",
-      "reading": "げんもん",
-      "meaning": "cửa ra vào được thiết kế ở mạn tàu hoặc boong trên"
+      "word": "両舷",
+      "reading": "りょうげん",
+      "meaning": "hai bên mạn thuyền"
     },
     {
-      "word": "舷梯",
-      "reading": "げんてい",
-      "meaning": "thang gắn vào mạn trái khi lên xuống tàu"
+      "word": "乾舷",
+      "reading": "かんげん",
+      "meaning": "phần nổi"
     },
     {
-      "word": "舷灯",
-      "reading": "げんとう",
-      "meaning": "chạy những ánh sáng"
+      "word": "登舷礼",
+      "reading": "とうげんれい",
+      "meaning": "nghi thức tập hợp một ship có đoàn thủy thủ trên boong tàu"
+    },
+    {
+      "word": "接舷",
+      "reading": "せつげん",
+      "meaning": "mạn thuyền"
+    },
+    {
+      "word": "舷側",
+      "reading": "げんそく",
+      "meaning": "ship có cạnh"
     },
     {
       "word": "舷窓",
       "reading": "げんそう",
       "meaning": "lỗ cửa"
+    },
+    {
+      "word": "舷頭",
+      "reading": "げんとう",
+      "meaning": "mạn thuyền"
     }
   ]
 }

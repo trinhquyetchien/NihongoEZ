@@ -90,19 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "欲",
-      "reading": "よく",
+      "word": "欲しい",
+      "reading": "ほしい",
+      "meaning": "muốn"
+    },
+    {
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaning": "sự ngon miệng"
+    },
+    {
+      "word": "欲張り",
+      "reading": "よくばり",
+      "meaning": "tham lam"
+    },
+    {
+      "word": "欲望",
+      "reading": "よくぼう",
+      "meaning": "dục vọng"
+    },
+    {
+      "word": "意欲",
+      "reading": "いよく",
       "meaning": "sự mong muốn"
-    },
-    {
-      "word": "情欲",
-      "reading": "じょうよく",
-      "meaning": "những cảm xúc mạnh mẽ"
-    },
-    {
-      "word": "性欲",
-      "reading": "せいよく",
-      "meaning": "dục tình"
     },
     {
       "word": "欲深",
@@ -110,34 +120,24 @@
       "meaning": "tính tham lam"
     },
     {
-      "word": "貪欲",
-      "reading": "どんよく",
-      "meaning": "lòng tham"
-    },
-    {
-      "word": "大欲",
-      "reading": "たいよく",
-      "meaning": "tính hám lợi"
-    },
-    {
-      "word": "欲す",
-      "reading": "ほりす",
-      "meaning": "mong muốn"
-    },
-    {
-      "word": "節欲",
-      "reading": "せつよく",
-      "meaning": "sự kiêng"
-    },
-    {
-      "word": "制欲",
+      "word": "性欲",
       "reading": "せいよく",
-      "meaning": "điều khiển những cảm xúc mạnh mẽ"
+      "meaning": "dục tình"
     },
     {
-      "word": "寡欲",
-      "reading": "かよく",
-      "meaning": "tính không ích kỷ"
+      "word": "欲求",
+      "reading": "よっきゅう",
+      "meaning": "sự khao khát"
+    },
+    {
+      "word": "欲",
+      "reading": "よく",
+      "meaning": "sự mong muốn"
+    },
+    {
+      "word": "人欲",
+      "reading": "じんよく",
+      "meaning": "con người mong muốn"
     }
   ]
 }

@@ -91,14 +91,14 @@
       "meaning": "bảo vệ"
     },
     {
-      "word": "擁壁",
-      "reading": "ようへき",
-      "meaning": "tường chắn"
+      "word": "擁護者",
+      "reading": "ようごしゃ",
+      "meaning": "nhân viên bảo vệ"
     },
     {
-      "word": "相擁",
-      "reading": "あいよう",
-      "meaning": "ôm"
+      "word": "擁護論",
+      "reading": "ようごろん",
+      "meaning": "luận điểm bảo vệ"
     },
     {
       "word": "擁立",
@@ -111,29 +111,29 @@
       "meaning": "sự ôm chặt"
     },
     {
-      "word": "擁護論",
-      "reading": "ようごろん",
-      "meaning": "luận điểm bảo vệ"
-    },
-    {
       "word": "擁する",
       "reading": "ようする",
       "meaning": "có"
     },
     {
-      "word": "擁護者",
-      "reading": "ようごしゃ",
-      "meaning": "nhân viên bảo vệ"
+      "word": "擁壁",
+      "reading": "ようへき",
+      "meaning": "tường chắn"
+    },
+    {
+      "word": "相擁",
+      "reading": "あいよう",
+      "meaning": "ôm"
+    },
+    {
+      "word": "擁護する",
+      "reading": "ようごする",
+      "meaning": "bênh vực"
     },
     {
       "word": "権利擁護",
       "reading": "けんりようご",
       "meaning": "bảo vệ quyền lợi"
-    },
-    {
-      "word": "人権擁護",
-      "reading": "じんけんようご",
-      "meaning": "sự bảo vệ quyền lợi con người"
     }
   ]
 }

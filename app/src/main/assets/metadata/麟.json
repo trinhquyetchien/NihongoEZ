@@ -64,29 +64,9 @@
   ],
   "vocabulary": [
     {
-      "word": "獲麟",
-      "reading": "かくりん",
-      "meaning": "bút tích cuối cùng"
-    },
-    {
       "word": "麒麟",
       "reading": "きりん",
       "meaning": "hươu cao cổ"
-    },
-    {
-      "word": "麒麟児",
-      "reading": "きりんじ",
-      "meaning": "thần đồng"
-    },
-    {
-      "word": "麒麟菜",
-      "reading": "きりんさい",
-      "meaning": "eucheuma"
-    },
-    {
-      "word": "麒麟竭",
-      "reading": "きりんけつ",
-      "meaning": "cây mây rừng"
     },
     {
       "word": "麒麟草",
@@ -97,6 +77,26 @@
       "word": "麒麟座",
       "reading": "きりんざ",
       "meaning": "chòm sao kỳ lân"
+    },
+    {
+      "word": "麒麟菜",
+      "reading": "きりんさい",
+      "meaning": "eucheuma"
+    },
+    {
+      "word": "獲麟",
+      "reading": "かくりん",
+      "meaning": "bút tích cuối cùng"
+    },
+    {
+      "word": "麒麟児",
+      "reading": "きりんじ",
+      "meaning": "thần đồng"
+    },
+    {
+      "word": "麒麟竭",
+      "reading": "きりんけつ",
+      "meaning": "cây mây rừng"
     },
     {
       "word": "麒麟羚羊",

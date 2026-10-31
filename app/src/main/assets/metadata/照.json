@@ -108,19 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "照る照る坊主",
-      "reading": "てるてるぼうず",
-      "meaning": "búp bê giấy để cầu trời đẹp"
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "đối chứng"
     },
     {
-      "word": "照合",
-      "reading": "しょうごう",
-      "meaning": "sự đối chiếu"
-    },
-    {
-      "word": "照会",
-      "reading": "しょうかい",
-      "meaning": "sự điều tra"
+      "word": "照らす",
+      "reading": "てらす",
+      "meaning": "chiếu sáng"
     },
     {
       "word": "照る",
@@ -128,34 +123,39 @@
       "meaning": "chiếu sáng"
     },
     {
-      "word": "照明",
-      "reading": "しょうめい",
-      "meaning": "ánh sáng"
-    },
-    {
       "word": "参照",
       "reading": "さんしょう",
       "meaning": "sự tham chiếu"
     },
     {
-      "word": "光照",
-      "reading": "こうしょう",
-      "meaning": "sự chiếu sáng"
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "ánh sáng"
     },
     {
-      "word": "遍照",
-      "reading": "へんじょう",
-      "meaning": "chiếu sáng phổ quát"
+      "word": "照合",
+      "reading": "しょうごう",
+      "meaning": "sự đối chiếu"
     },
     {
-      "word": "引照",
-      "reading": "いんしょう",
-      "meaning": "sự tham khảo"
+      "word": "参照先",
+      "reading": "さんしょうさき",
+      "meaning": "địa chỉ tham chiếu"
     },
     {
-      "word": "反照",
-      "reading": "はんしょう",
-      "meaning": "phản xạ"
+      "word": "参照線",
+      "reading": "さんしょうせん",
+      "meaning": "dòng tham chiếu"
+    },
+    {
+      "word": "参照権",
+      "reading": "さんしょうけん",
+      "meaning": "quyền truy cập"
+    },
+    {
+      "word": "地球照",
+      "reading": "ちきゅうしょう",
+      "meaning": "ánh sáng trái đất"
     }
   ]
 }

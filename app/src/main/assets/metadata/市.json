@@ -94,24 +94,14 @@
       "meaning": "thành phố"
     },
     {
-      "word": "市政",
-      "reading": "しせい",
-      "meaning": "chính quyền thành phố"
-    },
-    {
       "word": "市民",
       "reading": "しみん",
       "meaning": "thị dân"
     },
     {
-      "word": "市会",
-      "reading": "しかい",
-      "meaning": "hội đồng thành phố"
-    },
-    {
-      "word": "市電",
-      "reading": "しでん",
-      "meaning": "đường sắt thành phố"
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "thị trường"
     },
     {
       "word": "市街",
@@ -119,24 +109,34 @@
       "meaning": "nội thành"
     },
     {
-      "word": "市営",
-      "reading": "しえい",
-      "meaning": "sự quản lý của thành phố"
+      "word": "市人",
+      "reading": "いちびと",
+      "meaning": "thương nhân"
     },
     {
-      "word": "市外",
-      "reading": "しがい",
-      "meaning": "ngoại ô thành phố"
+      "word": "市日",
+      "reading": "いちび",
+      "meaning": "tiếp thị ngày"
     },
     {
-      "word": "市販",
-      "reading": "しはん",
-      "meaning": "marketting"
+      "word": "旧市",
+      "reading": "きゅうし",
+      "meaning": "phố cổ"
     },
     {
-      "word": "市部",
-      "reading": "しぶ",
-      "meaning": "vùng thành thị"
+      "word": "市税",
+      "reading": "しぜい",
+      "meaning": "thuế thành phố"
+    },
+    {
+      "word": "入市",
+      "reading": "にゅうし",
+      "meaning": "vào thành phố"
+    },
+    {
+      "word": "市門",
+      "reading": "しもん",
+      "meaning": "cổng thành phố"
     }
   ]
 }

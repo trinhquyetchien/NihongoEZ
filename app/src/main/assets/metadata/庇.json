@@ -85,6 +85,36 @@
   ],
   "vocabulary": [
     {
+      "word": "庇護",
+      "reading": "ひご",
+      "meaning": "sự bảo trợ"
+    },
+    {
+      "word": "庇護者",
+      "reading": "ひごしゃ",
+      "meaning": "ông bàu"
+    },
+    {
+      "word": "庇護権",
+      "reading": "ひごけん",
+      "meaning": "quyền bảo hộ"
+    },
+    {
+      "word": "庇護欲",
+      "reading": "ひごよく",
+      "meaning": "khao khát bảo vệ"
+    },
+    {
+      "word": "庇う",
+      "reading": "かばう",
+      "meaning": "bao che"
+    },
+    {
+      "word": "庇い手",
+      "reading": "かばいて",
+      "meaning": "quy tắc cho phép người chiến thắng rõ ràng trong một trận đấu phải chạm xuống đầu tiên để tránh bị thương"
+    },
+    {
       "word": "庇",
       "reading": "ひさし",
       "meaning": "hành lang nhỏ bao quanh phần chính điện của chùa"
@@ -95,21 +125,6 @@
       "meaning": "sự che giấu"
     },
     {
-      "word": "庇髪",
-      "reading": "ひさしがみ",
-      "meaning": "kiểu tóc búi mái kiểu pompadour của phụ nữ nhật bản"
-    },
-    {
-      "word": "庇う",
-      "reading": "かばう",
-      "meaning": "bao che"
-    },
-    {
-      "word": "目庇",
-      "reading": "まびさし",
-      "meaning": "lưới trai mũ"
-    },
-    {
       "word": "眉庇",
       "reading": "まびさし",
       "meaning": "lông mày"
@@ -118,21 +133,6 @@
       "word": "雪庇",
       "reading": "せっぴ",
       "meaning": "nhô ra tuyết rơi"
-    },
-    {
-      "word": "庇護",
-      "reading": "ひご",
-      "meaning": "sự bảo trợ"
-    },
-    {
-      "word": "庇い手",
-      "reading": "かばいて",
-      "meaning": "quy tắc cho phép người chiến thắng rõ ràng trong một trận đấu phải chạm xuống đầu tiên để tránh bị thương"
-    },
-    {
-      "word": "庇護者",
-      "reading": "ひごしゃ",
-      "meaning": "ông bàu"
     }
   ]
 }

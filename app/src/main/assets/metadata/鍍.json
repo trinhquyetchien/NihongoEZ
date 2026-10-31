@@ -59,11 +59,6 @@
       "meaning": "mã vàng"
     },
     {
-      "word": "ニッケル鍍金",
-      "reading": "ニッケルめっき",
-      "meaning": "việc mạ niken"
-    },
-    {
       "word": "亜鉛鍍金",
       "reading": "あえんめっき",
       "meaning": "mạ kẽm"
@@ -74,19 +69,24 @@
       "meaning": "mạ vàng"
     },
     {
-      "word": "吟鍍金する",
-      "reading": "ぎんめっきする",
-      "meaning": "xi bạc"
-    },
-    {
       "word": "銅鍍金する",
       "reading": "どうめっきする",
       "meaning": "xi đồng"
     },
     {
+      "word": "吟鍍金する",
+      "reading": "ぎんめっきする",
+      "meaning": "xi bạc"
+    },
+    {
       "word": "亜鉛鍍金する",
       "reading": "あえんめっきする",
       "meaning": "xi kẽm"
+    },
+    {
+      "word": "ニッケル鍍金",
+      "reading": "ニッケルめっき",
+      "meaning": "việc mạ niken"
     }
   ]
 }

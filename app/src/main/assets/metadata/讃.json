@@ -55,19 +55,9 @@
   ],
   "vocabulary": [
     {
-      "word": "讃賞",
-      "reading": "さんしょう",
-      "meaning": "lời khen"
-    },
-    {
-      "word": "和讃",
-      "reading": "わさん",
-      "meaning": "thánh ca bằng tiếng nhật"
-    },
-    {
-      "word": "讃歌",
-      "reading": "さんか",
-      "meaning": "bài thánh ca"
+      "word": "讃岐岩",
+      "reading": "さぬきがん",
+      "meaning": "sanukite"
     },
     {
       "word": "讃美",
@@ -75,9 +65,9 @@
       "meaning": "khen ngợi"
     },
     {
-      "word": "自讃",
-      "reading": "じさん",
-      "meaning": "sự tự khen"
+      "word": "讃賞",
+      "reading": "さんしょう",
+      "meaning": "lời khen"
     },
     {
       "word": "画讃",
@@ -85,9 +75,9 @@
       "meaning": "lời chú thích hay minh họa viết trên bức tranh"
     },
     {
-      "word": "絶讃",
-      "reading": "ぜっさん",
-      "meaning": "cao khen ngợi"
+      "word": "自讃",
+      "reading": "じさん",
+      "meaning": "sự tự khen"
     },
     {
       "word": "礼讃",
@@ -98,6 +88,16 @@
       "word": "讃談",
       "reading": "さんだん",
       "meaning": "tin đồn"
+    },
+    {
+      "word": "礼讃舞",
+      "reading": "らいさんまい",
+      "meaning": "vũ điệu tôn vinh"
+    },
+    {
+      "word": "絶讃",
+      "reading": "ぜっさん",
+      "meaning": "cao khen ngợi"
     },
     {
       "word": "讃える",

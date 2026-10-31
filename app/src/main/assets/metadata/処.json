@@ -108,44 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "処処",
-      "reading": "ところどころ",
-      "meaning": "vài chỗ"
-    },
-    {
-      "word": "其処彼処",
-      "reading": "そこかしこ",
-      "meaning": "khắp nơi"
-    },
-    {
-      "word": "此処彼処",
-      "reading": "ここかしこ",
-      "meaning": "khắp nơi"
-    },
-    {
-      "word": "其処此処",
-      "reading": "そこここ",
-      "meaning": "đó đây"
-    },
-    {
-      "word": "何処其処",
-      "reading": "どこそこ",
-      "meaning": "như thế một chỗ"
-    },
-    {
-      "word": "何処何処",
-      "reading": "どこどこ",
-      "meaning": "chỗ nào đó"
-    },
-    {
-      "word": "処処方方",
-      "reading": "しょしょほうぼう",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "何処も彼処も",
-      "reading": "どこもかしこも",
-      "meaning": "khắp nơi"
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "sự xử lý"
     },
     {
       "word": "処分",
@@ -153,9 +118,44 @@
       "meaning": "sự giải quyết"
     },
     {
-      "word": "処方",
-      "reading": "しょほう",
-      "meaning": "phương thuốc"
+      "word": "対処",
+      "reading": "たいしょ",
+      "meaning": "sự đối xử"
+    },
+    {
+      "word": "処置",
+      "reading": "しょち",
+      "meaning": "sự xử trí"
+    },
+    {
+      "word": "処罰",
+      "reading": "しょばつ",
+      "meaning": "sự phạt"
+    },
+    {
+      "word": "再処理",
+      "reading": "さいしょり",
+      "meaning": "tái chế biến"
+    },
+    {
+      "word": "処分市",
+      "reading": "しょぶんいち",
+      "meaning": "chợ thanh lý"
+    },
+    {
+      "word": "処分場",
+      "reading": "しょぶんじょう",
+      "meaning": "bãi thải"
+    },
+    {
+      "word": "対処法",
+      "reading": "たいしょほう",
+      "meaning": "phương pháp xử lý"
+    },
+    {
+      "word": "何処",
+      "reading": "どこ",
+      "meaning": "ở đâu"
     }
   ]
 }

@@ -90,14 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "熟睡",
-      "reading": "じゅくすい",
-      "meaning": "sự ngủ say"
-    },
-    {
       "word": "睡眠",
       "reading": "すいみん",
       "meaning": "việc ngủ"
+    },
+    {
+      "word": "睡眠剤",
+      "reading": "すいみんざい",
+      "meaning": "thuốc ngủ"
+    },
+    {
+      "word": "睡眠病",
+      "reading": "すいみんびょう",
+      "meaning": "bệnh ngủ châu phi"
+    },
+    {
+      "word": "睡眠相",
+      "reading": "すいみんしょー",
+      "meaning": "giai đoạn ngủ"
+    },
+    {
+      "word": "睡眠薬",
+      "reading": "すいみんやく",
+      "meaning": "thuốc ngủ"
     },
     {
       "word": "昏睡",
@@ -105,19 +120,9 @@
       "meaning": "sự hôn mê"
     },
     {
-      "word": "睡魔",
-      "reading": "すいま",
-      "meaning": "buồn ngủ rũ cả mắt"
-    },
-    {
-      "word": "魔睡",
-      "reading": "ますい",
-      "meaning": "sự mất cảm giác"
-    },
-    {
-      "word": "微睡",
-      "reading": "まどろみ",
-      "meaning": "ngủ gật"
+      "word": "熟睡",
+      "reading": "じゅくすい",
+      "meaning": "sự ngủ say"
     },
     {
       "word": "爆睡",
@@ -125,19 +130,14 @@
       "meaning": "ngủ say"
     },
     {
-      "word": "午睡",
-      "reading": "ごすい",
-      "meaning": "ngủ trưa"
+      "word": "睡魔",
+      "reading": "すいま",
+      "meaning": "buồn ngủ rũ cả mắt"
     },
     {
       "word": "睡蓮",
       "reading": "すいれん",
       "meaning": "cây hoa súng"
-    },
-    {
-      "word": "半睡",
-      "reading": "はんすい",
-      "meaning": "ngủ nửa"
     }
   ]
 }

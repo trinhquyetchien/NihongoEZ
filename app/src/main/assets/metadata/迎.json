@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "迎える",
+      "reading": "むかえる",
+      "meaning": "nghênh tiếp"
+    },
+    {
       "word": "迎え",
       "reading": "むかえ",
       "meaning": "việc tiếp đón"
     },
     {
-      "word": "迎撃",
-      "reading": "げいげき",
-      "meaning": "sự phục kích tấn công"
+      "word": "歓迎",
+      "reading": "かんげい",
+      "meaning": "sự hoan nghênh"
     },
     {
-      "word": "迎合",
-      "reading": "げいごう",
-      "meaning": "sự nắm được ý người khác"
+      "word": "出迎え",
+      "reading": "でむかえ",
+      "meaning": "sự đi đón"
     },
     {
-      "word": "迎賓",
-      "reading": "げいひん",
-      "meaning": "sự đón tiếp khách quý"
+      "word": "出迎える",
+      "reading": "でむかえる",
+      "meaning": "đón"
     },
     {
-      "word": "迎車",
-      "reading": "げいしゃ",
-      "meaning": "xe đón"
+      "word": "迎え人",
+      "reading": "むかえびと",
+      "meaning": "người đi đón"
     },
     {
-      "word": "奉迎",
-      "reading": "ほうげい",
-      "meaning": "đón tiếp ân cần"
+      "word": "神迎え",
+      "reading": "かみむかえ",
+      "meaning": "nghi lễ nghênh đón thần linh"
     },
     {
-      "word": "迎い",
-      "reading": "むかい",
-      "meaning": "gặp mặt"
+      "word": "大歓迎",
+      "reading": "だいかんげい",
+      "meaning": "nhiệt liệt chào mừng"
     },
     {
-      "word": "来迎",
-      "reading": "らいごう",
-      "meaning": "sự đến của đức phật thích ca để đón linh hồn của những người đã chết"
+      "word": "歓迎会",
+      "reading": "かんげいかい",
+      "meaning": "buổi đón chào"
     },
     {
-      "word": "迎春",
-      "reading": "げいしゅん",
-      "meaning": "đón xuân"
-    },
-    {
-      "word": "送迎",
-      "reading": "そうげい",
-      "meaning": "việc tiễn và đón"
+      "word": "迎え角",
+      "reading": "むかえかく",
+      "meaning": "câu sự tấn công"
     }
   ]
 }

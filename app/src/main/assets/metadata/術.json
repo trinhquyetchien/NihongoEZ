@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "術",
-      "reading": "じゅつ",
-      "meaning": "kĩ nghệ"
-    },
-    {
-      "word": "手術室技術者",
-      "reading": "しゅじゅつしつぎじゅつしゃ",
-      "meaning": "kỹ thuật viên phòng phẫu thuật"
-    },
-    {
-      "word": "芸術",
-      "reading": "げいじゅつ",
-      "meaning": "nghệ thuật"
-    },
-    {
-      "word": "術策",
-      "reading": "じゅっさく",
-      "meaning": "kế sách"
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "kỹ thuật"
     },
     {
       "word": "手術",
@@ -114,14 +99,24 @@
       "meaning": "mổ"
     },
     {
-      "word": "呪術",
-      "reading": "じゅじゅつ",
-      "meaning": "ma thuật"
+      "word": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "nghệ thuật"
     },
     {
-      "word": "術師",
-      "reading": "じゅつし",
-      "meaning": "thuật ngữ chung cho những người thực hiện kỹ thuật chuyên môn"
+      "word": "美術",
+      "reading": "びじゅつ",
+      "meaning": "mỹ thuật"
+    },
+    {
+      "word": "戦術",
+      "reading": "せんじゅつ",
+      "meaning": "binh đao"
+    },
+    {
+      "word": "術",
+      "reading": "じゅつ",
+      "meaning": "kĩ nghệ"
     },
     {
       "word": "術者",
@@ -129,14 +124,19 @@
       "meaning": "bác sĩ phẫu thuật"
     },
     {
-      "word": "剣術",
-      "reading": "けんじゅつ",
-      "meaning": "kiếm thuật"
+      "word": "術前",
+      "reading": "じゅつぜん",
+      "meaning": "trước phẫu thuật"
     },
     {
       "word": "体術",
       "reading": "たいじゅつ",
       "meaning": "kỹ thuật cơ thể"
+    },
+    {
+      "word": "術師",
+      "reading": "じゅつし",
+      "meaning": "thuật ngữ chung cho những người thực hiện kỹ thuật chuyên môn"
     }
   ]
 }

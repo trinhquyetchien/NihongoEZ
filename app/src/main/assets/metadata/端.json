@@ -98,24 +98,14 @@
       "meaning": "bờ"
     },
     {
+      "word": "途端",
+      "reading": "とたん",
+      "meaning": "ngay khi"
+    },
+    {
       "word": "先端",
       "reading": "せんたん",
       "meaning": "mũi nhọn"
-    },
-    {
-      "word": "端端",
-      "reading": "はしばし",
-      "meaning": "từng tý một"
-    },
-    {
-      "word": "端から端まで",
-      "reading": "はしからはしまで",
-      "meaning": "từ đầu này đến đầu khác"
-    },
-    {
-      "word": "道端",
-      "reading": "みちばた",
-      "meaning": "ven đường"
     },
     {
       "word": "極端",
@@ -123,24 +113,34 @@
       "meaning": "cực đoan"
     },
     {
+      "word": "外端",
+      "reading": "がいたん",
+      "meaning": "rìa ngoài"
+    },
+    {
+      "word": "端線",
+      "reading": "たんせん",
+      "meaning": "mép"
+    },
+    {
+      "word": "端局",
+      "reading": "たんきょく",
+      "meaning": "cuối"
+    },
+    {
+      "word": "鼻端",
+      "reading": "びたん",
+      "meaning": "chóp mũi"
+    },
+    {
+      "word": "管端",
+      "reading": "かんたん",
+      "meaning": "chấm dứt dụng cụ gió"
+    },
+    {
       "word": "端材",
       "reading": "はざい",
       "meaning": "tàn dư gỗ"
-    },
-    {
-      "word": "継端",
-      "reading": "つぎは",
-      "meaning": "cơ hội để tiếp tục một cuộc trò chuyện"
-    },
-    {
-      "word": "煮端",
-      "reading": "にばな",
-      "meaning": "mới pha"
-    },
-    {
-      "word": "端ミシン",
-      "reading": "はしミシン",
-      "meaning": "máy may cạnh"
     }
   ]
 }

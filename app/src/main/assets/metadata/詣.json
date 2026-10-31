@@ -92,14 +92,9 @@
       "meaning": "việc đi lễ chùa đầu năm mới"
     },
     {
-      "word": "参詣",
-      "reading": "さんけい",
-      "meaning": "cuộc hành hương"
-    },
-    {
-      "word": "詣で",
-      "reading": "もうで",
-      "meaning": "đi hành hương"
+      "word": "初詣で",
+      "reading": "はつもうで",
+      "meaning": "việc đi lễ đền chùa ngày đầu năm"
     },
     {
       "word": "造詣",
@@ -107,24 +102,9 @@
       "meaning": "sự học rộng"
     },
     {
-      "word": "仏詣",
-      "reading": "ぶっけい",
-      "meaning": "hành hương"
-    },
-    {
-      "word": "物詣で",
-      "reading": "ものもうで",
-      "meaning": "viếng thăm vật linh thiêng"
-    },
-    {
-      "word": "詣でる",
-      "reading": "もうでる",
-      "meaning": "đi lễ chùa"
-    },
-    {
-      "word": "初詣で",
-      "reading": "はつもうで",
-      "meaning": "việc đi lễ đền chùa ngày đầu năm"
+      "word": "参詣",
+      "reading": "さんけい",
+      "meaning": "cuộc hành hương"
     },
     {
       "word": "参詣人",
@@ -132,9 +112,29 @@
       "meaning": "<tôn> người thờ cúng"
     },
     {
-      "word": "神詣で",
-      "reading": "かみもうで",
-      "meaning": "đến thăm một đền thờ"
+      "word": "参詣者",
+      "reading": "さんけいしゃ",
+      "meaning": "khách hành hương"
+    },
+    {
+      "word": "詣で",
+      "reading": "もうで",
+      "meaning": "đi hành hương"
+    },
+    {
+      "word": "仏詣",
+      "reading": "ぶっけい",
+      "meaning": "hành hương"
+    },
+    {
+      "word": "詣でる",
+      "reading": "もうでる",
+      "meaning": "đi lễ chùa"
+    },
+    {
+      "word": "物詣で",
+      "reading": "ものもうで",
+      "meaning": "viếng thăm vật linh thiêng"
     }
   ]
 }

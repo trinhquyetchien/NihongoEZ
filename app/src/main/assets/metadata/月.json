@@ -90,29 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "tháng này"
+    },
+    {
+      "word": "一月",
+      "reading": "いちがつ",
+      "meaning": "một tháng"
+    },
+    {
       "word": "月",
       "reading": "つき",
       "meaning": "mặt trăng"
-    },
-    {
-      "word": "月月",
-      "reading": "つきづき",
-      "meaning": "mỗi tháng"
-    },
-    {
-      "word": "月偏",
-      "reading": "つきへん",
-      "meaning": "bộ thủ chữ hán 月 nguyệt ở bên trái các chữ kanji như bằngtrẫm"
-    },
-    {
-      "word": "月旦",
-      "reading": "げったん",
-      "meaning": "ngày đầu tiên của tháng giêng"
-    },
-    {
-      "word": "月間",
-      "reading": "げっかん",
-      "meaning": "một tháng"
     },
     {
       "word": "月曜",
@@ -120,9 +110,24 @@
       "meaning": "thứ hai"
     },
     {
-      "word": "月次",
-      "reading": "つきなみ",
-      "meaning": "hàng tháng"
+      "word": "年月",
+      "reading": "としつき",
+      "meaning": "năm tháng"
+    },
+    {
+      "word": "月末",
+      "reading": "げつまつ",
+      "meaning": "cuối tháng"
+    },
+    {
+      "word": "月給",
+      "reading": "げっきゅう",
+      "meaning": "tiền lương hàng tháng"
+    },
+    {
+      "word": "月日",
+      "reading": "つきひ",
+      "meaning": "ngày tháng"
     },
     {
       "word": "ヶ月",
@@ -130,14 +135,9 @@
       "meaning": "- những tháng"
     },
     {
-      "word": "月宮",
-      "reading": "げっきゅう",
-      "meaning": "cung trăng"
-    },
-    {
-      "word": "月極",
-      "reading": "つきぎめ",
-      "meaning": "thuê theo tháng"
+      "word": "月謝",
+      "reading": "げっしゃ",
+      "meaning": "tiền học hàng tháng"
     }
   ]
 }

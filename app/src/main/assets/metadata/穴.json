@@ -111,19 +111,34 @@
       "meaning": "hầm"
     },
     {
-      "word": "穴冠",
-      "reading": "あなかんむり",
-      "meaning": "phần trên của bộ 穴 huyển trong các chữ hán như khôngcứu"
+      "word": "一穴",
+      "reading": "いっけつ",
+      "meaning": "cùng lỗ"
     },
     {
-      "word": "穴場",
-      "reading": "あなば",
-      "meaning": "chỗ hay ít người biết"
+      "word": "下穴",
+      "reading": "したあな",
+      "meaning": "lỗ đục sẵn"
     },
     {
-      "word": "針穴",
-      "reading": "はりあな",
-      "meaning": "lỗ kim"
+      "word": "点穴",
+      "reading": "てんけつ",
+      "meaning": "điểm yếu"
+    },
+    {
+      "word": "長穴",
+      "reading": "ながあな",
+      "meaning": "hình rãnh then"
+    },
+    {
+      "word": "同穴",
+      "reading": "どうけつ",
+      "meaning": "chôn trong cùng phần mộ đó"
+    },
+    {
+      "word": "空穴",
+      "reading": "からけつ",
+      "meaning": "căn hộ hoặc đá gãy"
     },
     {
       "word": "丸穴",
@@ -131,29 +146,14 @@
       "meaning": "lỗ tròn"
     },
     {
-      "word": "節穴",
-      "reading": "ふしあな",
-      "meaning": "hốc mắt"
+      "word": "尻穴",
+      "reading": "けつめど",
+      "meaning": "anus"
     },
     {
-      "word": "岩穴",
-      "reading": "いわあな",
-      "meaning": "hang lớn"
-    },
-    {
-      "word": "甌穴",
-      "reading": "おうけつ",
-      "meaning": "lỗ hình thành trên bề mặt đáy sông do tác động của nước chảy và sỏi"
-    },
-    {
-      "word": "穴蜂",
-      "reading": "あなばち",
-      "meaning": "ong bắp cày"
-    },
-    {
-      "word": "塚穴",
-      "reading": "つかあな",
-      "meaning": "khắc"
+      "word": "鼻穴",
+      "reading": "びけつ",
+      "meaning": "lỗ mũi"
     }
   ]
 }

@@ -111,24 +111,19 @@
       "meaning": "sợi chỉ"
     },
     {
-      "word": "毛糸/レース糸",
-      "reading": "けいと/レースいと",
-      "meaning": "sợi len/ sợi ren"
-    },
-    {
-      "word": "糸/テグス/ワイヤー/ゴム糸",
-      "reading": "いと/テグス/ワイヤー/ゴムいと",
-      "meaning": "sợi chỉ/cây dây/ dây/ sợi cao su"
-    },
-    {
       "word": "タコ糸",
       "reading": "たこいと",
       "meaning": "dây diều"
     },
     {
-      "word": "凧糸",
-      "reading": "たこいと",
-      "meaning": "dây diều"
+      "word": "中糸",
+      "reading": "ちゅういと",
+      "meaning": "chỉ cỡ trung"
+    },
+    {
+      "word": "糸頭",
+      "reading": "いとがしら",
+      "meaning": "đầu sợi chỉ"
     },
     {
       "word": "水糸",
@@ -136,24 +131,29 @@
       "meaning": "dây nước"
     },
     {
-      "word": "糸状",
-      "reading": "しじょう",
-      "meaning": "dạng sợi"
+      "word": "太糸",
+      "reading": "ふといと",
+      "meaning": "sợi chỉ to"
     },
     {
-      "word": "糸口",
-      "reading": "いとぐち",
-      "meaning": "đầu mối chỉ"
+      "word": "ガス糸",
+      "reading": "ガスいと",
+      "meaning": "chỉ"
     },
     {
-      "word": "糸車",
-      "reading": "いとぐるま",
-      "meaning": "xa kéo sợi"
+      "word": "原糸",
+      "reading": "げんし",
+      "meaning": "luồn để dệt"
     },
     {
-      "word": "絹糸",
-      "reading": "きぬいと",
-      "meaning": "tơ"
+      "word": "糸印",
+      "reading": "いとじるし",
+      "meaning": "luồn làm khâu nhằng nhịt nổi bật"
+    },
+    {
+      "word": "綾糸",
+      "reading": "あやいと",
+      "meaning": "chỉ màu"
     }
   ]
 }

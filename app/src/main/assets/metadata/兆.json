@@ -90,6 +90,11 @@
   ],
   "vocabulary": [
     {
+      "word": "兆し",
+      "reading": "きざし",
+      "meaning": "dấu hiệu"
+    },
+    {
       "word": "兆",
       "reading": "ちょう",
       "meaning": "nghìn tỷ"
@@ -100,29 +105,24 @@
       "meaning": "một nghìn tỷ"
     },
     {
+      "word": "兆候",
+      "reading": "ちょうこう",
+      "meaning": "triệu chứng"
+    },
+    {
+      "word": "前兆",
+      "reading": "ぜんちょう",
+      "meaning": "điềm"
+    },
+    {
       "word": "予兆",
       "reading": "よちょう",
       "meaning": "điềm báo"
     },
     {
-      "word": "兆す",
-      "reading": "きざす",
-      "meaning": "cảm thấy có điềm báo"
-    },
-    {
-      "word": "兆民",
-      "reading": "ちょうみん",
-      "meaning": "người thành phố"
-    },
-    {
-      "word": "億兆",
-      "reading": "おくちょう",
-      "meaning": "mọi người"
-    },
-    {
-      "word": "衰兆",
-      "reading": "すいちょう",
-      "meaning": "chim ở nước"
+      "word": "吉兆",
+      "reading": "きっちょう",
+      "meaning": "điềm lành"
     },
     {
       "word": "凶兆",
@@ -130,9 +130,9 @@
       "meaning": "điềm xấu"
     },
     {
-      "word": "吉兆",
-      "reading": "きっちょう",
-      "meaning": "điềm lành"
+      "word": "兆民",
+      "reading": "ちょうみん",
+      "meaning": "người thành phố"
     },
     {
       "word": "瑞兆",

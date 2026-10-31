@@ -89,11 +89,6 @@
   ],
   "vocabulary": [
     {
-      "word": "呼称",
-      "reading": "こしょう",
-      "meaning": "gọi bằng tên"
-    },
-    {
       "word": "呼ぶ",
       "reading": "よぶ",
       "meaning": "gọi"
@@ -104,39 +99,44 @@
       "meaning": "hơi thở"
     },
     {
-      "word": "歓呼",
-      "reading": "かんこ",
-      "meaning": "sự tung hô"
-    },
-    {
       "word": "呼び",
       "reading": "よび",
       "meaning": "gọi là"
     },
     {
-      "word": "等呼",
-      "reading": "とうこ",
-      "meaning": "denghu"
-    },
-    {
-      "word": "呼格",
-      "reading": "こかく",
+      "word": "呼び方",
+      "reading": "よびかた",
       "meaning": "cách xưng hô"
     },
     {
-      "word": "着呼",
-      "reading": "ちゃっこ",
-      "meaning": "cuộc gọi đến"
+      "word": "内呼吸",
+      "reading": "ないこきゅう",
+      "meaning": "hô hấp nội"
     },
     {
-      "word": "点呼",
-      "reading": "てんこ",
-      "meaning": "sự điểm danh"
+      "word": "外呼吸",
+      "reading": "がいこきゅう",
+      "meaning": "hô hấp bên ngoài"
     },
     {
-      "word": "呼気",
-      "reading": "こき",
-      "meaning": "hơi thở"
+      "word": "呼吸音",
+      "reading": "こきゅうおん",
+      "meaning": "tiếng thở"
+    },
+    {
+      "word": "無呼吸",
+      "reading": "むこきゅう",
+      "meaning": "ngưng thở"
+    },
+    {
+      "word": "口呼吸",
+      "reading": "くちこきゅう",
+      "meaning": "hô hấp bằng miệng"
+    },
+    {
+      "word": "呼吸筋",
+      "reading": "こきゅうきん",
+      "meaning": "cơ hô hấp"
     }
   ]
 }

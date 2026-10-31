@@ -52,39 +52,24 @@
       "meaning": "những ghi chú giải thích"
     },
     {
-      "word": "註文",
-      "reading": "ちゅうもん",
-      "meaning": "sự đặt hàng"
-    },
-    {
-      "word": "註釈",
-      "reading": "ちゅうしゃく",
-      "meaning": "chú giải"
-    },
-    {
-      "word": "註記",
-      "reading": "ちゅうき",
-      "meaning": "bình luận"
-    },
-    {
-      "word": "註解",
-      "reading": "ちゅうかい",
-      "meaning": "sự chú giải"
-    },
-    {
       "word": "発註",
       "reading": "はっちゅう",
       "meaning": "sắp đặt"
     },
     {
-      "word": "脚註",
-      "reading": "きゃくちゅう",
-      "meaning": "lời chú thích ở cuối trang"
+      "word": "頭註",
+      "reading": "とうちゅう",
+      "meaning": "lời giải thích ở đầu trang"
     },
     {
-      "word": "受註",
-      "reading": "じゅちゅう",
-      "meaning": "nhận một thứ tự"
+      "word": "集註",
+      "reading": "しゅうちゅう",
+      "meaning": "sách có chú giải của nhiều nhà bình luận"
+    },
+    {
+      "word": "自註",
+      "reading": "じちゅう",
+      "meaning": "tự chú giải một có những viết"
     },
     {
       "word": "古註",
@@ -92,9 +77,24 @@
       "meaning": "chú thích thời cổ đại"
     },
     {
-      "word": "詳註",
-      "reading": "しょうちゅう",
-      "meaning": "chú thích chi tiết"
+      "word": "校註",
+      "reading": "こうちゅう",
+      "meaning": "bản hiệu chỉnh và chú giải"
+    },
+    {
+      "word": "傍註",
+      "reading": "ぼうちゅう",
+      "meaning": "những ghi chú ở lề"
+    },
+    {
+      "word": "評註",
+      "reading": "ひょうちゅう",
+      "meaning": "chú thích và thêm lời phê bình"
+    },
+    {
+      "word": "標註",
+      "reading": "ひょうちゅう",
+      "meaning": "những ký pháp ở lề"
     }
   ]
 }

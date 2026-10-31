@@ -89,39 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "借",
-      "reading": "か",
-      "meaning": "sự vay mượn"
-    },
-    {
-      "word": "借る",
-      "reading": "かる",
-      "meaning": "vay"
-    },
-    {
-      "word": "借り",
-      "reading": "かり",
-      "meaning": "giấy vay nợ"
-    },
-    {
-      "word": "貸借",
-      "reading": "たいしゃく",
-      "meaning": "cho vay và đi vay"
-    },
-    {
-      "word": "借款",
-      "reading": "しゃっかん",
-      "meaning": "khoản vay"
-    },
-    {
-      "word": "借用",
-      "reading": "しゃくよう",
+      "word": "借りる",
+      "reading": "かりる",
       "meaning": "mượn"
-    },
-    {
-      "word": "借財",
-      "reading": "しゃくざい",
-      "meaning": "sự vay tiền"
     },
     {
       "word": "借金",
@@ -129,14 +99,44 @@
       "meaning": "khoản nợ"
     },
     {
-      "word": "借入",
-      "reading": "かりいれ",
-      "meaning": "vay"
+      "word": "借り",
+      "reading": "かり",
+      "meaning": "giấy vay nợ"
     },
     {
-      "word": "借家",
+      "word": "拝借",
+      "reading": "はいしゃく",
+      "meaning": "mượn"
+    },
+    {
+      "word": "借り字",
+      "reading": "かりじ",
+      "meaning": "từ ngữ đi mượn"
+    },
+    {
+      "word": "前借金",
+      "reading": "ぜんしゃくきん",
+      "meaning": "tiền vay từ người sử dụng lao động và sẽ hoàn trả lại sau"
+    },
+    {
+      "word": "借",
+      "reading": "か",
+      "meaning": "sự vay mượn"
+    },
+    {
+      "word": "借人",
+      "reading": "かりにん",
+      "meaning": "người đi vay"
+    },
+    {
+      "word": "借音",
+      "reading": "しゃくおん",
+      "meaning": "chữ hán được sử dụng để ghi các từ tiếng nhật mà không liên quan đến ý nghĩa của chữ hán gốc"
+    },
+    {
+      "word": "借屋",
       "reading": "しゃくや",
-      "meaning": "nhà cho thuê"
+      "meaning": "cho ở cho sự thuê thuê cái nhà thuê một cái nhà"
     }
   ]
 }

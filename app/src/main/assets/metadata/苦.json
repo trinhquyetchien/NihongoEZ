@@ -94,39 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "苦",
-      "reading": "く",
-      "meaning": "những điều khó khăn và đau đớn"
-    },
-    {
-      "word": "苦苦しい",
-      "reading": "にがにがしい",
-      "meaning": "khó chịu"
-    },
-    {
-      "word": "四苦八苦",
-      "reading": "しくはっく",
-      "meaning": "tứ diệu đế bát khổ"
-    },
-    {
       "word": "苦労",
       "reading": "くろう",
       "meaning": "gian khổ"
-    },
-    {
-      "word": "苦行",
-      "reading": "くぎょう",
-      "meaning": "sự chịu đựng khó khăn để làm viêc"
-    },
-    {
-      "word": "刻苦",
-      "reading": "こっく",
-      "meaning": "khó khăn làm việc"
-    },
-    {
-      "word": "苦学",
-      "reading": "くがく",
-      "meaning": "sự vừa làm vừa học kiếm tiền học phí và sinh hoạt"
     },
     {
       "word": "苦心",
@@ -134,14 +104,44 @@
       "meaning": "khó lòng"
     },
     {
-      "word": "苦虫",
-      "reading": "にがむし",
-      "meaning": "từ dùng để ví với gương mặt đau khổ"
+      "word": "苦",
+      "reading": "く",
+      "meaning": "những điều khó khăn và đau đớn"
+    },
+    {
+      "word": "苦さ",
+      "reading": "にがさ",
+      "meaning": "vị đắng"
     },
     {
       "word": "苦無",
       "reading": "くない",
       "meaning": "phi đao"
+    },
+    {
+      "word": "苦る",
+      "reading": "にがる",
+      "meaning": "cảm thấy đắng"
+    },
+    {
+      "word": "四苦",
+      "reading": "しく",
+      "meaning": "bốn loại đau khổ"
+    },
+    {
+      "word": "苦土",
+      "reading": "くど",
+      "meaning": "magiê"
+    },
+    {
+      "word": "苦戦",
+      "reading": "くせん",
+      "meaning": "cuộc đấu tranh gian khổ"
+    },
+    {
+      "word": "苦菜",
+      "reading": "にがな",
+      "meaning": "rau diếp đắng lá răng"
     }
   ]
 }

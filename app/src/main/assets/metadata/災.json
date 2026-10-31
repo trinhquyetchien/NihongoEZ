@@ -89,34 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "天災に被災する",
-      "reading": "てんさいにひさいする",
-      "meaning": "bị thiệt hại do thiên tai"
-    },
-    {
-      "word": "火災警報器(火災報知器)",
-      "reading": "かさいけいほうき(かさいほうちき)",
-      "meaning": "thiết bị báo cháy"
-    },
-    {
-      "word": "除災",
-      "reading": "じょさい",
-      "meaning": "xua đuổi tai họa"
-    },
-    {
-      "word": "災い",
-      "reading": "わざわい",
-      "meaning": "tai họa"
-    },
-    {
-      "word": "震災",
-      "reading": "しんさい",
-      "meaning": "thảm họa động đất"
-    },
-    {
-      "word": "災害",
-      "reading": "さいがい",
-      "meaning": "tai nạn"
+      "word": "火災",
+      "reading": "かさい",
+      "meaning": "bị cháy"
     },
     {
       "word": "災難",
@@ -124,19 +99,44 @@
       "meaning": "khốn khổ"
     },
     {
-      "word": "大災",
-      "reading": "たいさい",
-      "meaning": "thảm họa lớn"
+      "word": "災害",
+      "reading": "さいがい",
+      "meaning": "tai nạn"
     },
     {
-      "word": "息災",
-      "reading": "そくさい",
-      "meaning": "sức khỏe tốt"
+      "word": "天災",
+      "reading": "てんさい",
+      "meaning": "thiên tai"
     },
     {
-      "word": "厄災",
-      "reading": "やくさい",
-      "meaning": "tai họa"
+      "word": "戦災",
+      "reading": "せんさい",
+      "meaning": "thiệt hại do chiến tranh gây ra"
+    },
+    {
+      "word": "大災害",
+      "reading": "だいさいがい",
+      "meaning": "tai họa lớn"
+    },
+    {
+      "word": "災害地",
+      "reading": "さいがいち",
+      "meaning": "vùng đánh tai hoạ"
+    },
+    {
+      "word": "核災害",
+      "reading": "かくさいがい",
+      "meaning": "thảm hoạ hạt nhân"
+    },
+    {
+      "word": "被災",
+      "reading": "ひさい",
+      "meaning": "bị gặp thiên tai. tai họa"
+    },
+    {
+      "word": "被災者",
+      "reading": "ひさいしゃ",
+      "meaning": "nạn nhân"
     }
   ]
 }

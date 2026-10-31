@@ -89,24 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "朗朗",
-      "reading": "ろうろう",
-      "meaning": "kêu"
+      "word": "朗らか",
+      "reading": "ほがらか",
+      "meaning": "sáng sủa"
     },
     {
-      "word": "音吐朗朗",
-      "reading": "おんとろうろう",
-      "meaning": "sang sảng"
+      "word": "朗読",
+      "reading": "ろうどく",
+      "meaning": "sự ngâm"
     },
     {
-      "word": "朗朗たる",
-      "reading": "ろうろうたる",
-      "meaning": "kêu"
+      "word": "明朗",
+      "reading": "めいろう",
+      "meaning": "rõ ràng"
     },
     {
-      "word": "融朗",
-      "reading": "ゆうろう",
-      "meaning": "sự sáng ngời"
+      "word": "朗報",
+      "reading": "ろうほう",
+      "meaning": "tin tức tốt lành"
+    },
+    {
+      "word": "朗読会",
+      "reading": "ろうどくかい",
+      "meaning": "sự ngâm thơ"
     },
     {
       "word": "晃朗",
@@ -114,19 +119,9 @@
       "meaning": "sáng sủa"
     },
     {
-      "word": "朗吟",
-      "reading": "ろうぎん",
-      "meaning": "ngâm thơ"
-    },
-    {
-      "word": "朗唱",
-      "reading": "ろうしょう",
-      "meaning": "sự độc tấu"
-    },
-    {
-      "word": "朗誦",
-      "reading": "ろうしょう",
-      "meaning": "sự độc tấu"
+      "word": "融朗",
+      "reading": "ゆうろう",
+      "meaning": "sự sáng ngời"
     },
     {
       "word": "朗々",
@@ -134,9 +129,14 @@
       "meaning": "sạch"
     },
     {
-      "word": "明朗",
-      "reading": "めいろう",
-      "meaning": "rõ ràng"
+      "word": "不明朗",
+      "reading": "ふめいろう",
+      "meaning": "không rõ ràng"
+    },
+    {
+      "word": "朗唱",
+      "reading": "ろうしょう",
+      "meaning": "sự độc tấu"
     }
   ]
 }

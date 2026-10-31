@@ -111,9 +111,44 @@
   ],
   "vocabulary": [
     {
+      "word": "面倒",
+      "reading": "めんどう",
+      "meaning": "khó khăn"
+    },
+    {
+      "word": "倒す",
+      "reading": "たおす",
+      "meaning": "chặt đổ"
+    },
+    {
+      "word": "倒産",
+      "reading": "とうさん",
+      "meaning": "sự phá sản"
+    },
+    {
+      "word": "面倒な",
+      "reading": "めんどうな",
+      "meaning": "phiền"
+    },
+    {
+      "word": "面倒見",
+      "reading": "めんどうみ",
+      "meaning": "chăm sóc ai đó"
+    },
+    {
+      "word": "倒れ",
+      "reading": "たおれ",
+      "meaning": "ngã"
+    },
+    {
       "word": "圧倒",
       "reading": "あっとう",
       "meaning": "sự áp đảo"
+    },
+    {
+      "word": "倒さ",
+      "reading": "さかさ",
+      "meaning": "đảo ngược"
     },
     {
       "word": "転倒",
@@ -121,44 +156,9 @@
       "meaning": "lật đổ"
     },
     {
-      "word": "倒壊",
-      "reading": "とうかい",
-      "meaning": "sự sụp đổ"
-    },
-    {
-      "word": "傾倒",
-      "reading": "けいとう",
-      "meaning": "sự cống hiến"
-    },
-    {
-      "word": "倒伏",
-      "reading": "とうふく",
-      "meaning": "sự đổ ngã"
-    },
-    {
-      "word": "倒潰",
-      "reading": "とうかい",
-      "meaning": "sự phá hủy"
-    },
-    {
-      "word": "倒影",
-      "reading": "とうえい",
-      "meaning": "phản xạ"
-    },
-    {
-      "word": "倒事",
-      "reading": "さかさまごと",
-      "meaning": "làm hại thứ tự"
-    },
-    {
-      "word": "倒語",
-      "reading": "とうご",
-      "meaning": "đảo ngữ"
-    },
-    {
-      "word": "倒立",
-      "reading": "とうりつ",
-      "meaning": "sự trồng cây chuối"
+      "word": "罵倒",
+      "reading": "ばとう",
+      "meaning": "nhục mạ"
     }
   ]
 }

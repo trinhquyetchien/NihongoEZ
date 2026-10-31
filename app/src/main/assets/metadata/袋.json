@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "手袋",
+      "reading": "てぶくろ",
+      "meaning": "bít tất tay"
+    },
+    {
       "word": "袋",
       "reading": "ふくろ",
       "meaning": "túi bọc"
     },
     {
-      "word": "透明袋/OPP袋",
-      "reading": "とうめいふくろ/OPPふくろ",
-      "meaning": "\"透明袋/opp袋\" in vietnamese is \"túi trong suốt/ túi opp\""
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "loại tất có ngón của nhật"
     },
     {
-      "word": "ポリエチレン袋(ポリ袋規格袋)",
-      "reading": "ポリエチレンふくろ(ポリふくろきかくふくろ)",
-      "meaning": "túi nhựa polyetylen"
+      "word": "一袋",
+      "reading": "ひとふくろ",
+      "meaning": "một cái túi"
     },
     {
-      "word": "ポリ袋(ゴミ袋)",
-      "reading": "ポリふくろ(ゴミふくろ)",
-      "meaning": "túi nhựa"
+      "word": "金袋",
+      "reading": "かねぶくろ",
+      "meaning": "túi đựng tiền"
     },
     {
-      "word": "手袋用手袋",
-      "reading": "けんさようてぶくろ",
-      "meaning": "găng tay để đeo găng tay"
+      "word": "製袋",
+      "reading": "せいたい",
+      "meaning": "cái túi sản xuất"
     },
     {
-      "word": "防曇袋(ボードン袋)",
-      "reading": "ぼうどんふくろ(ボードンふくろ)",
-      "meaning": "túi chống sương mù"
+      "word": "ゴミ袋",
+      "reading": "ごみぶくろ",
+      "meaning": "túi đựng rác"
     },
     {
-      "word": "角底袋/マチ付き袋",
-      "reading": "かくそこふくろ/マチつきふくろ",
-      "meaning": "túi đáy góc/ túi có miệng"
+      "word": "袋狼",
+      "reading": "ふくろおおかみ",
+      "meaning": "chó sói tasmania"
     },
     {
-      "word": "インナー手袋 クリーンルーム用手袋",
-      "reading": "インナーてぶくろ",
-      "meaning": "găng tay lót trong dùng trong phòng sạch"
+      "word": "網袋",
+      "reading": "あみぶくろ",
+      "meaning": "túi lưới"
     },
     {
-      "word": "手袋ケース 絶縁手袋",
-      "reading": "てぶくろケース",
-      "meaning": "thùng đựng găng tay"
-    },
-    {
-      "word": "ポリエステル手袋 制電手袋",
-      "reading": "ポリエステルてぶくろ",
-      "meaning": "găng tay polyester"
+      "word": "餌袋",
+      "reading": "えぶくろ",
+      "meaning": "bao đựng thức ăn cho gia súc"
     }
   ]
 }

@@ -88,19 +88,19 @@
   ],
   "vocabulary": [
     {
+      "word": "隙間",
+      "reading": "すきま",
+      "meaning": "khe hở"
+    },
+    {
       "word": "隙",
       "reading": "すき",
       "meaning": "cơ hội"
     },
     {
-      "word": "空隙",
-      "reading": "くうげき",
-      "meaning": "lỗ hổng"
-    },
-    {
-      "word": "填隙",
-      "reading": "てんげき",
-      "meaning": "bịt"
+      "word": "隙あり",
+      "reading": "すきあり",
+      "meaning": "có sơ hở"
     },
     {
       "word": "隙目",
@@ -108,34 +108,34 @@
       "meaning": "lỗ hổng"
     },
     {
-      "word": "間隙",
-      "reading": "かんげき",
-      "meaning": "chỗ trống"
-    },
-    {
       "word": "穴隙",
       "reading": "けつげき",
       "meaning": "đường nứt"
     },
     {
-      "word": "手隙",
-      "reading": "てすき",
-      "meaning": "thời gian rỗi"
+      "word": "歯隙",
+      "reading": "はすき",
+      "meaning": "khe thường biến"
     },
     {
-      "word": "寸隙",
-      "reading": "すんげき",
-      "meaning": "một khoảng thời gian ngắn"
+      "word": "細隙",
+      "reading": "さいげき",
+      "meaning": "khe"
     },
     {
-      "word": "隙間",
-      "reading": "すきま",
-      "meaning": "khe hở"
+      "word": "孔隙率",
+      "reading": "こうげきりつ",
+      "meaning": "độ rỗng"
     },
     {
-      "word": "罅隙",
-      "reading": "かげき",
-      "meaning": "vết nứt trên sông băng hay thung lũng tuyết"
+      "word": "間隙",
+      "reading": "かんげき",
+      "meaning": "chỗ trống"
+    },
+    {
+      "word": "間隙比",
+      "reading": "かんげきひ",
+      "meaning": "làm mất hiệu lực tỷ lệ、hệ số rỗng"
     }
   ]
 }

@@ -67,9 +67,19 @@
   ],
   "vocabulary": [
     {
+      "word": "誹謗",
+      "reading": "ひぼう",
+      "meaning": "sự phỉ báng"
+    },
+    {
       "word": "誹毀",
       "reading": "ひき",
       "meaning": "nói xấu. vạch trần những việc làm sai trái"
+    },
+    {
+      "word": "誹る",
+      "reading": "そしる",
+      "meaning": "vu cáo"
     },
     {
       "word": "譏誹",
@@ -82,29 +92,19 @@
       "meaning": "haikai"
     },
     {
-      "word": "誹る",
-      "reading": "そしる",
-      "meaning": "vu cáo"
-    },
-    {
-      "word": "誹謗",
-      "reading": "ひぼう",
-      "meaning": "sự phỉ báng"
-    },
-    {
       "word": "誹議",
       "reading": "ひぎ",
       "meaning": "sự phê bình"
     },
     {
-      "word": "誹謗中傷",
-      "reading": "ひぼうちゅうしょう",
-      "meaning": "vu khống"
-    },
-    {
       "word": "誹謗する",
       "reading": "ひぼうする",
       "meaning": "báng bổ"
+    },
+    {
+      "word": "誹謗中傷",
+      "reading": "ひぼうちゅうしょう",
+      "meaning": "vu khống"
     }
   ]
 }

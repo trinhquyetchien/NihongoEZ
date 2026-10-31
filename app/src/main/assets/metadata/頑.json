@@ -89,39 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "頑丈",
+      "reading": "がんじょう",
+      "meaning": "chặt chẽ"
+    },
+    {
+      "word": "頑固",
+      "reading": "がんこ",
+      "meaning": "cứng đầu"
+    },
+    {
+      "word": "頑張れ",
+      "reading": "がんばれ",
+      "meaning": "cố lên"
+    },
+    {
+      "word": "頑張り",
+      "reading": "がんばり",
+      "meaning": "tính ngoan cường"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaning": "cố"
+    },
+    {
+      "word": "頑固な",
+      "reading": "がんこな",
+      "meaning": "bất trị"
+    },
+    {
+      "word": "頑固者",
+      "reading": "がんこもの",
+      "meaning": "người cố chấp"
+    },
+    {
       "word": "頑",
       "reading": "かたくな",
       "meaning": "bướng bỉnh"
-    },
-    {
-      "word": "頑健",
-      "reading": "がんけん",
-      "meaning": "mạnh mẽ"
-    },
-    {
-      "word": "頑強",
-      "reading": "がんきょう",
-      "meaning": "ngoan cường"
-    },
-    {
-      "word": "頑然",
-      "reading": "がんぜん",
-      "meaning": "cương quyết"
-    },
-    {
-      "word": "頑是",
-      "reading": "がんぜ",
-      "meaning": "phân biệt đúng sai"
-    },
-    {
-      "word": "頑冥",
-      "reading": "がんめい",
-      "meaning": "bướng bỉnh"
-    },
-    {
-      "word": "頑迷",
-      "reading": "がんめい",
-      "meaning": "ngoan cố"
     },
     {
       "word": "頑な",
@@ -129,14 +134,9 @@
       "meaning": "bướng bỉnh"
     },
     {
-      "word": "頑愚",
-      "reading": "がんぐ",
-      "meaning": "ngu ngốc và ngoan cố"
-    },
-    {
-      "word": "頑癬",
-      "reading": "たむし",
-      "meaning": "bệnh ecpet mảng tròn"
+      "word": "頑強",
+      "reading": "がんきょう",
+      "meaning": "ngoan cường"
     }
   ]
 }

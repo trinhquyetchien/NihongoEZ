@@ -89,34 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "盲点",
+      "reading": "もうてん",
+      "meaning": "điểm mù"
+    },
+    {
+      "word": "盲目",
+      "reading": "もうもく",
+      "meaning": "mù mắt"
+    },
+    {
       "word": "盲",
       "reading": "めくら",
       "meaning": "cũng"
     },
     {
-      "word": "盲人が盲人を導く",
-      "reading": "もうじんがもうじんをみちびく",
-      "meaning": "người mù dẫn dắt người mù"
-    },
-    {
-      "word": "色盲",
-      "reading": "しきもう",
-      "meaning": "loạn sắc"
-    },
-    {
-      "word": "盲聾",
-      "reading": "もうろう",
-      "meaning": "điếc-mù"
-    },
-    {
-      "word": "盲想",
-      "reading": "もうそう",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "盲点",
-      "reading": "もうてん",
-      "meaning": "điểm mù"
+      "word": "盲いる",
+      "reading": "めしいる",
+      "meaning": "bị mù"
     },
     {
       "word": "盲穴",
@@ -124,19 +114,29 @@
       "meaning": "làm mù lỗ"
     },
     {
-      "word": "盲縞",
-      "reading": "めくらじま",
-      "meaning": "plain blue cotton"
+      "word": "半盲",
+      "reading": "はんもう",
+      "meaning": "sự mù một bên mắt"
     },
     {
-      "word": "盲虻",
-      "reading": "めくらあぶ",
-      "meaning": "deerfly"
+      "word": "盲壁",
+      "reading": "めくらかべ",
+      "meaning": "tường không cửa sổ"
     },
     {
-      "word": "盲蛇",
-      "reading": "めくらへび",
-      "meaning": "rắn mù"
+      "word": "盲窓",
+      "reading": "めくらまど",
+      "meaning": "làm mù cửa sổ"
+    },
+    {
+      "word": "盲買い",
+      "reading": "めくらがい",
+      "meaning": "mua mù quáng"
+    },
+    {
+      "word": "盲パス",
+      "reading": "めくらパス",
+      "meaning": "chuyền không cần nhìn"
     }
   ]
 }

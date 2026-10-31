@@ -97,19 +97,9 @@
       "meaning": "không thích"
     },
     {
-      "word": "嫌嫌",
-      "reading": "いやいや",
-      "meaning": "không bằng lòng"
-    },
-    {
-      "word": "嫌み",
-      "reading": "いやみ",
-      "meaning": "①lời nói đay nghiến"
-    },
-    {
-      "word": "嫌悪",
-      "reading": "けんお",
-      "meaning": "sự chán ghét"
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "sắc mặt"
     },
     {
       "word": "嫌う",
@@ -117,29 +107,39 @@
       "meaning": "chán ghét"
     },
     {
+      "word": "嫌がる",
+      "reading": "いやがる",
+      "meaning": "ghét"
+    },
+    {
+      "word": "好き嫌い",
+      "reading": "すききらい",
+      "meaning": "ý thích"
+    },
+    {
+      "word": "嫌に",
+      "reading": "いやに",
+      "meaning": "khủng khiếp"
+    },
+    {
+      "word": "嫌や",
+      "reading": "いやや",
+      "meaning": "no"
+    },
+    {
       "word": "嫌い",
       "reading": "きらい",
       "meaning": "đáng ghét"
     },
     {
-      "word": "機嫌",
-      "reading": "きげん",
-      "meaning": "sắc mặt"
+      "word": "嫌いな",
+      "reading": "きらいな",
+      "meaning": "ghét"
     },
     {
-      "word": "嫌疑",
-      "reading": "けんぎ",
-      "meaning": "sự hiềm nghi"
-    },
-    {
-      "word": "嫌気",
-      "reading": "いやけ",
-      "meaning": "sự không ưa"
-    },
-    {
-      "word": "嫌々",
-      "reading": "いやいや",
-      "meaning": "miễn cưỡng"
+      "word": "嫌いだ",
+      "reading": "きらいだ",
+      "meaning": "gét"
     }
   ]
 }

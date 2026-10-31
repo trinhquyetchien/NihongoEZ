@@ -75,19 +75,9 @@
       "meaning": "chó sói"
     },
     {
-      "word": "シメニア狼",
-      "reading": "シメニアおおかみ",
-      "meaning": "sói simenia"
-    },
-    {
-      "word": "赤狼",
-      "reading": "あかおおかみ",
-      "meaning": "chó sói lửa"
-    },
-    {
-      "word": "エチオピア狼",
-      "reading": "エチオピアおおかみ",
-      "meaning": "sói ethiopia hay còn gọi là chó rừng đỏ ethiopia"
+      "word": "人狼",
+      "reading": "じんろう",
+      "meaning": "người sói"
     },
     {
       "word": "狼男",
@@ -95,29 +85,39 @@
       "meaning": "người sói"
     },
     {
-      "word": "袋狼",
-      "reading": "ふくろおおかみ",
-      "meaning": "chó sói tasmania"
+      "word": "狼人間",
+      "reading": "おおかみにんげん",
+      "meaning": "ma sói"
     },
     {
-      "word": "狼瘡",
-      "reading": "ろうそう",
-      "meaning": "bệnh lupus"
+      "word": "狼少年",
+      "reading": "おおかみしょうねん",
+      "meaning": "cậu bé chăn cừu"
     },
     {
-      "word": "餓狼",
-      "reading": "がろう",
-      "meaning": "chó sói đang đói"
+      "word": "赤狼",
+      "reading": "あかおおかみ",
+      "meaning": "chó sói lửa"
     },
     {
-      "word": "虎狼",
-      "reading": "ころう",
-      "meaning": "người tàn bạo"
+      "word": "天狼",
+      "reading": "てんろう",
+      "meaning": "sao thiên lang"
     },
     {
-      "word": "狼火",
-      "reading": "ろうか",
-      "meaning": "lửa hiệu"
+      "word": "狼魚",
+      "reading": "おおかみうお",
+      "meaning": "cá sói"
+    },
+    {
+      "word": "狼座",
+      "reading": "おおかみざ",
+      "meaning": "bệnh lở ngoài da"
+    },
+    {
+      "word": "天狼星",
+      "reading": "てんろうせい",
+      "meaning": "sao thiên lang"
     }
   ]
 }

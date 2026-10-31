@@ -89,9 +89,19 @@
   ],
   "vocabulary": [
     {
+      "word": "純粋",
+      "reading": "じゅんすい",
+      "meaning": "chung thuỷ"
+    },
+    {
       "word": "粋",
       "reading": "いき",
       "meaning": "tao nhã"
+    },
+    {
+      "word": "抜粋",
+      "reading": "ばっすい",
+      "meaning": "đoạn trích"
     },
     {
       "word": "粋な",
@@ -99,14 +109,24 @@
       "meaning": "sành điệu"
     },
     {
-      "word": "純粋",
-      "reading": "じゅんすい",
-      "meaning": "chung thuỷ"
+      "word": "粋な人",
+      "reading": "すいなひと",
+      "meaning": "một người thông minh và tài giỏi trong mọi việc"
     },
     {
-      "word": "国粋",
-      "reading": "こくすい",
-      "meaning": "những đặc trưng của quốc gia"
+      "word": "小粋",
+      "reading": "こいき",
+      "meaning": "bảnh"
+    },
+    {
+      "word": "粋作り",
+      "reading": "いきづくり",
+      "meaning": "sành điệu"
+    },
+    {
+      "word": "粋がる",
+      "reading": "いきがる",
+      "meaning": "để hợp thời trang"
     },
     {
       "word": "清粋",
@@ -114,29 +134,9 @@
       "meaning": "tính thanh lịch"
     },
     {
-      "word": "粋人",
-      "reading": "すいじん",
-      "meaning": "người phong lưu"
-    },
-    {
-      "word": "不粋",
-      "reading": "ぶいき",
-      "meaning": "thiếu trang nhã"
-    },
-    {
-      "word": "精粋",
-      "reading": "せいすい",
-      "meaning": "tính không ích kỷ"
-    },
-    {
-      "word": "無粋",
-      "reading": "ぶすい",
-      "meaning": "thiếu trang nhã"
-    },
-    {
-      "word": "粋狂",
-      "reading": "すいきょう",
-      "meaning": "sự thất thường"
+      "word": "生粋",
+      "reading": "きっすい",
+      "meaning": "thuần khiết"
     }
   ]
 }

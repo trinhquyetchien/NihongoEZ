@@ -92,19 +92,19 @@
   ],
   "vocabulary": [
     {
-      "word": "須臾",
-      "reading": "しばらく",
-      "meaning": "trong chốc lát"
+      "word": "必須",
+      "reading": "ひっす",
+      "meaning": "cần thiết"
     },
     {
-      "word": "須髯",
-      "reading": "しゅぜん",
-      "meaning": "râu"
+      "word": "必須格",
+      "reading": "ひっすかく",
+      "meaning": "trường hợp rất cần thiết"
     },
     {
-      "word": "畝須",
-      "reading": "うねす",
-      "meaning": "phần thịt rọc từ hàm dưới của cá voi đến bụng"
+      "word": "須磨琴",
+      "reading": "すまごと",
+      "meaning": "đàn tranh 1 dây nhật bản"
     },
     {
       "word": "急須",
@@ -112,24 +112,19 @@
       "meaning": "ấm trà nhỏ"
     },
     {
-      "word": "呉須",
-      "reading": "ごす",
-      "meaning": "đồ sứ gosu"
+      "word": "畝須",
+      "reading": "うねす",
+      "meaning": "phần thịt rọc từ hàm dưới của cá voi đến bụng"
     },
     {
-      "word": "須要",
-      "reading": "しゅよう",
-      "meaning": "cần thiết tuyệt đối"
+      "word": "須恵器",
+      "reading": "すえき",
+      "meaning": "kiện vật chế tạo kiểu đồ gốm không có kính làm từ giữa kỷ nguyên kofun xuyên qua kỷ nguyên heian)"
     },
     {
-      "word": "必須",
-      "reading": "ひっす",
-      "meaning": "cần thiết"
-    },
-    {
-      "word": "須義",
-      "reading": "すぎ",
-      "meaning": "cá bớp"
+      "word": "須弥山",
+      "reading": "しゅみせん",
+      "meaning": "mt sumeru lên trong trung tâm thế giới)"
     },
     {
       "word": "須弥壇",
@@ -137,9 +132,14 @@
       "meaning": "bệ đặt tượng phật"
     },
     {
-      "word": "須らく",
-      "reading": "すべからく",
-      "meaning": "bằng mọi giá"
+      "word": "須臾",
+      "reading": "しばらく",
+      "meaning": "trong chốc lát"
+    },
+    {
+      "word": "呉須",
+      "reading": "ごす",
+      "meaning": "đồ sứ gosu"
     }
   ]
 }

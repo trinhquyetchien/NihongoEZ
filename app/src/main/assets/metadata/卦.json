@@ -85,34 +85,14 @@
   ],
   "vocabulary": [
     {
-      "word": "卦",
-      "reading": "け",
-      "meaning": "thuật bói toán"
-    },
-    {
-      "word": "卦辞",
-      "reading": "かじ",
-      "meaning": "diễn giải lời quẻ"
-    },
-    {
-      "word": "卦算",
-      "reading": "けいさん",
-      "meaning": "cái chặn giấy"
-    },
-    {
       "word": "八卦",
       "reading": "はっけ",
       "meaning": "bát quát"
     },
     {
-      "word": "有卦",
-      "reading": "うけ",
-      "meaning": "vận may tốt"
-    },
-    {
-      "word": "卦算冠",
-      "reading": "けいさんかんむり",
-      "meaning": "bộ quẻ"
+      "word": "卦",
+      "reading": "け",
+      "meaning": "thuật bói toán"
     },
     {
       "word": "八卦掌",
@@ -120,19 +100,39 @@
       "meaning": "bát quái chưởng"
     },
     {
+      "word": "卦算",
+      "reading": "けいさん",
+      "meaning": "cái chặn giấy"
+    },
+    {
+      "word": "卦辞",
+      "reading": "かじ",
+      "meaning": "diễn giải lời quẻ"
+    },
+    {
+      "word": "卦算冠",
+      "reading": "けいさんかんむり",
+      "meaning": "bộ quẻ"
+    },
+    {
+      "word": "有卦",
+      "reading": "うけ",
+      "meaning": "vận may tốt"
+    },
+    {
       "word": "六十四卦",
       "reading": "ろくじゅうしけ",
       "meaning": "64 quẻ trong kinh dịch"
     },
     {
-      "word": "本卦還り",
-      "reading": "ほんけがえり",
-      "meaning": "tình trạng lẫn"
+      "word": "八卦を占う",
+      "reading": "はっけをうらなう",
+      "meaning": "bói quẻ"
     },
     {
-      "word": "本卦帰り",
-      "reading": "ほんけがえり",
-      "meaning": "tình trạng lẫn"
+      "word": "有卦に入る",
+      "reading": "うけにいる",
+      "meaning": "gặp may mắn"
     }
   ]
 }

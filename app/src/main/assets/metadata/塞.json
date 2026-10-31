@@ -86,19 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "塞栓",
-      "reading": "そくせん",
-      "meaning": "vật tắc mạch"
+      "word": "塞ぐ",
+      "reading": "ふさぐ",
+      "meaning": "bế tắc"
     },
     {
-      "word": "梗塞",
-      "reading": "こうそく",
-      "meaning": "sự nhồi máu"
-    },
-    {
-      "word": "塞く",
-      "reading": "せく",
-      "meaning": "bịt"
+      "word": "要塞",
+      "reading": "ようさい",
+      "meaning": "đồn lũy"
     },
     {
       "word": "閉塞",
@@ -106,34 +101,39 @@
       "meaning": "bế tắc"
     },
     {
-      "word": "充塞",
-      "reading": "じゅうそく",
-      "meaning": "nút"
+      "word": "閉塞性",
+      "reading": "へいそくせい",
+      "meaning": "tắt nghẽn"
     },
     {
-      "word": "逼塞",
-      "reading": "ひっそく",
-      "meaning": "bị tắc nghẽn"
+      "word": "閉塞感",
+      "reading": "へいそくかん",
+      "meaning": "cảm giác bế tắc"
     },
     {
-      "word": "塞源",
-      "reading": "そくげん",
-      "meaning": "sự dập tắt nguồn gốc gây ra sự xấu xa"
+      "word": "鼻閉塞",
+      "reading": "びへいそく",
+      "meaning": "tắc nghẽn mũi"
     },
     {
-      "word": "窒塞",
-      "reading": "ちっそく",
-      "meaning": "sự nghẹt thở"
+      "word": "梗塞",
+      "reading": "こうそく",
+      "meaning": "sự nhồi máu"
     },
     {
-      "word": "防塞",
-      "reading": "ぼうさい",
-      "meaning": "lô cốt"
+      "word": "脳梗塞",
+      "reading": "のうこうそく",
+      "meaning": "nhồi máu não"
     },
     {
-      "word": "山塞",
-      "reading": "さんさい",
-      "meaning": "thành lũy núi"
+      "word": "肺梗塞",
+      "reading": "はいこうそく",
+      "meaning": "nhồi máu phổi"
+    },
+    {
+      "word": "城塞",
+      "reading": "じょうさい",
+      "meaning": "pháo đài"
     }
   ]
 }

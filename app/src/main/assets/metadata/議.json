@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "sự thảo luận"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "nghị hội"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chủ tịch"
+    },
+    {
+      "word": "抗議",
+      "reading": "こうぎ",
+      "meaning": "sự kháng nghị"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "hội nghị"
+    },
+    {
+      "word": "議決",
+      "reading": "ぎけつ",
+      "meaning": "sự nghị quyết"
+    },
+    {
+      "word": "合議",
+      "reading": "ごうぎ",
+      "meaning": "sự tham khảo"
+    },
+    {
+      "word": "市議",
+      "reading": "しぎ",
+      "meaning": "ủy viên hội đồng thành phố"
+    },
+    {
       "word": "議",
       "reading": "ぎ",
       "meaning": "thảo luận"
     },
     {
-      "word": "町議会議員",
-      "reading": "ちょうぎかいぎいん",
-      "meaning": "thành viên hội đồng thị trấn"
-    },
-    {
-      "word": "衆議院議員",
-      "reading": "しゅうぎいんぎいん",
-      "meaning": "hạ nghị sĩ"
-    },
-    {
-      "word": "参議院議員",
-      "reading": "さんぎいんぎいん",
-      "meaning": "dân biểu thượng nghị viện"
-    },
-    {
-      "word": "市議会議員",
-      "reading": "しぎかいぎいん",
-      "meaning": "thành viên hội đồng thành phố"
-    },
-    {
-      "word": "道議会議員",
-      "reading": "どうぎかいぎいん",
-      "meaning": "thành viên của hội đồng tỉnh hokkaido"
-    },
-    {
-      "word": "州議会議員",
-      "reading": "しゅうぎかいぎいん",
-      "meaning": "đại biểu quốc hội của tỉnh"
-    },
-    {
-      "word": "区議会議員",
-      "reading": "くぎかいぎいん",
-      "meaning": "cán bộ phường"
-    },
-    {
-      "word": "衆議員議長",
-      "reading": "しゅうぎいんぎちょう",
-      "meaning": "người nói cái nhà thấp hơn"
-    },
-    {
-      "word": "区議会議員選挙",
-      "reading": "くぎかいぎいんせんきょ",
-      "meaning": "bầu cử đại biểu hội đồng phường"
+      "word": "上議",
+      "reading": "じょうぎ",
+      "meaning": "đưa ra hội họp"
     }
   ]
 }

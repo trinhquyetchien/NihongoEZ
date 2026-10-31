@@ -108,34 +108,19 @@
   ],
   "vocabulary": [
     {
-      "word": "破",
-      "reading": "は",
-      "meaning": "rách"
+      "word": "破産",
+      "reading": "はさん",
+      "meaning": "sự phá sản"
     },
     {
-      "word": "守破離",
-      "reading": "しゅはり",
-      "meaning": "là một phương pháp học"
+      "word": "破る",
+      "reading": "やぶる",
+      "meaning": "xé"
     },
     {
-      "word": "突破",
-      "reading": "とっぱ",
-      "meaning": "đột phá"
-    },
-    {
-      "word": "破砕",
-      "reading": "はさい",
-      "meaning": "làm tan nát"
-    },
-    {
-      "word": "撃破",
-      "reading": "げきは",
-      "meaning": "làm tan nát"
-    },
-    {
-      "word": "破れ",
-      "reading": "やぶれ",
-      "meaning": "bị rách"
+      "word": "破片",
+      "reading": "はへん",
+      "meaning": "mảnh vụn"
     },
     {
       "word": "破く",
@@ -143,19 +128,34 @@
       "meaning": "xé rách"
     },
     {
-      "word": "立破",
-      "reading": "りっぱ",
-      "meaning": "thiết lập và bác bỏ"
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "sự phá hoại"
     },
     {
-      "word": "破断",
-      "reading": "はだん",
-      "meaning": "vỡ"
+      "word": "突破",
+      "reading": "とっぱ",
+      "meaning": "đột phá"
     },
     {
-      "word": "看破",
-      "reading": "かんぱ",
-      "meaning": "sự nhìn thấu suốt"
+      "word": "破裂",
+      "reading": "はれつ",
+      "meaning": "sự đổ bể"
+    },
+    {
+      "word": "破れ",
+      "reading": "やぶれ",
+      "meaning": "bị rách"
+    },
+    {
+      "word": "破",
+      "reading": "は",
+      "meaning": "rách"
+    },
+    {
+      "word": "撃破",
+      "reading": "げきは",
+      "meaning": "làm tan nát"
     }
   ]
 }

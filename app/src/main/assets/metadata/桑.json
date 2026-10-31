@@ -87,39 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "桑",
-      "reading": "くわ",
-      "meaning": "dâu tằm"
-    },
-    {
-      "word": "桑原桑原",
-      "reading": "くわばらくわばら",
-      "meaning": "ối trời đất ơi!"
-    },
-    {
-      "word": "桑子",
-      "reading": "くわこ",
-      "meaning": "tằm"
-    },
-    {
-      "word": "桑門",
-      "reading": "そうもん",
-      "meaning": "nhà sư"
-    },
-    {
-      "word": "桑苗",
-      "reading": "そうびょう",
-      "meaning": "dâu tằm seedling"
-    },
-    {
-      "word": "桑色",
-      "reading": "くわいろ",
-      "meaning": "màu vàng nhạt"
-    },
-    {
-      "word": "桑畑",
-      "reading": "くわばたけ",
-      "meaning": "nương dâu"
+      "word": "桑原",
+      "reading": "くわばら",
+      "meaning": "đồng dâu tằm"
     },
     {
       "word": "桑田",
@@ -127,14 +97,44 @@
       "meaning": "vườn dâu"
     },
     {
-      "word": "山桑",
-      "reading": "やまぐわ",
-      "meaning": "dâu ta"
+      "word": "桑",
+      "reading": "くわ",
+      "meaning": "dâu tằm"
     },
     {
-      "word": "桑蚕",
-      "reading": "くわこ",
-      "meaning": "tằm dâu hoang dã"
+      "word": "桑色",
+      "reading": "くわいろ",
+      "meaning": "màu vàng nhạt"
+    },
+    {
+      "word": "桑海",
+      "reading": "そうかい",
+      "meaning": "những thay đổi đột ngột của thế giới"
+    },
+    {
+      "word": "桑葉",
+      "reading": "くわば",
+      "meaning": "lá dâu tằm"
+    },
+    {
+      "word": "桑の実",
+      "reading": "くわのみ",
+      "meaning": "quả dâu tằm"
+    },
+    {
+      "word": "桑白皮",
+      "reading": "そうはくひ",
+      "meaning": "dâu tằm trắng"
+    },
+    {
+      "word": "針桑",
+      "reading": "はりぐわ",
+      "meaning": "cây dâu gai"
+    },
+    {
+      "word": "仏桑花",
+      "reading": "ぶっそうげ",
+      "meaning": "hoa dâm bụt"
     }
   ]
 }

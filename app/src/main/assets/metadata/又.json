@@ -88,24 +88,14 @@
   ],
   "vocabulary": [
     {
+      "word": "又は",
+      "reading": "または",
+      "meaning": "hoặc"
+    },
+    {
       "word": "又",
       "reading": "また",
       "meaning": "lại"
-    },
-    {
-      "word": "又又",
-      "reading": "またまた",
-      "meaning": "lần nữa"
-    },
-    {
-      "word": "又姪",
-      "reading": "まためい",
-      "meaning": "cháu gái"
-    },
-    {
-      "word": "又甥",
-      "reading": "またおい",
-      "meaning": "cháu trai"
     },
     {
       "word": "又も",
@@ -113,29 +103,39 @@
       "meaning": "lần nữa"
     },
     {
-      "word": "又候",
-      "reading": "またぞろ",
-      "meaning": "lại một lần nữa"
+      "word": "又と",
+      "reading": "またと",
+      "meaning": "một từ thể hiện cảm giác rằng tình huống tương tự sẽ không xảy ra nữa"
     },
     {
-      "word": "猫又",
-      "reading": "ねこまた",
-      "meaning": "mèo hai đuôi"
+      "word": "又ない",
+      "reading": "またない",
+      "meaning": "duy nhất"
     },
     {
-      "word": "ル又",
-      "reading": "るまた",
-      "meaning": "bộ 殳"
+      "word": "私も又",
+      "reading": "わたくしもまた",
+      "meaning": "tôi cũng vậy"
+    },
+    {
+      "word": "又無い",
+      "reading": "またない",
+      "meaning": "duy nhất"
+    },
+    {
+      "word": "又々",
+      "reading": "またまた",
+      "meaning": "lại"
+    },
+    {
+      "word": "又買い",
+      "reading": "またがい",
+      "meaning": "mua xuyên qua một đại diện"
     },
     {
       "word": "又隣",
       "reading": "またどなり",
       "meaning": "nhà thứ hai tính từ đây"
-    },
-    {
-      "word": "又と",
-      "reading": "またと",
-      "meaning": "một từ thể hiện cảm giác rằng tình huống tương tự sẽ không xảy ra nữa"
     }
   ]
 }

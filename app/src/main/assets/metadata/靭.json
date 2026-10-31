@@ -72,14 +72,14 @@
   ],
   "vocabulary": [
     {
-      "word": "靭帯",
-      "reading": "じんたい",
-      "meaning": "dây chằng"
-    },
-    {
       "word": "強靭",
       "reading": "きょうじん",
       "meaning": "cứng chắc"
+    },
+    {
+      "word": "靭帯",
+      "reading": "じんたい",
+      "meaning": "dây chằng"
     },
     {
       "word": "靭皮",

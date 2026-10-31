@@ -86,34 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "打撲",
-      "reading": "だぼく",
-      "meaning": "vết thâm tím"
-    },
-    {
-      "word": "撲殺",
-      "reading": "ぼくさつ",
-      "meaning": "đánh tới chết"
-    },
-    {
-      "word": "撲滅",
-      "reading": "ぼくめつ",
-      "meaning": "ngăn chặn"
-    },
-    {
       "word": "相撲",
       "reading": "すもう",
       "meaning": "đô vật"
     },
     {
-      "word": "アマ相撲",
-      "reading": "アマずもう",
-      "meaning": "đô vật nghiệp dư"
+      "word": "相撲人",
+      "reading": "すまいびと",
+      "meaning": "đô vật"
     },
     {
-      "word": "新相撲",
-      "reading": "しんすもう",
-      "meaning": "sumo kiểu mới"
+      "word": "前相撲",
+      "reading": "まえずもう",
+      "meaning": "một môn đấu vật sumo dành cho những người đã vượt qua bài kiểm tra tư cách đệ tử mới"
     },
     {
       "word": "女相撲",
@@ -121,19 +106,34 @@
       "meaning": "đấu vật nữ"
     },
     {
+      "word": "力相撲",
+      "reading": "ちからずもう",
+      "meaning": "trận đấu sumo thiên về sức mạnh thuần túy"
+    },
+    {
+      "word": "新相撲",
+      "reading": "しんすもう",
+      "meaning": "sumo kiểu mới"
+    },
+    {
+      "word": "神相撲",
+      "reading": "かみずもう",
+      "meaning": "đấu vật kamizumō"
+    },
+    {
+      "word": "口相撲",
+      "reading": "くちずもう",
+      "meaning": "tranh luận"
+    },
+    {
+      "word": "足相撲",
+      "reading": "あしずもう",
+      "meaning": "trò chơi trong đó hai người ngồi khoanh chân đối mặt với nhau và đẩy nhau chỉ bằng một chân để đánh bại người kia"
+    },
+    {
       "word": "紙相撲",
       "reading": "かみずもう",
       "meaning": "trò chơi sumo của trẻ em chơi với các đô vật cắt giấy"
-    },
-    {
-      "word": "相撲字",
-      "reading": "すもうじ",
-      "meaning": "cách viết được sử dụng để viết bảng xếp hạng"
-    },
-    {
-      "word": "大相撲",
-      "reading": "おおずもう",
-      "meaning": "trận đấu vật lớn"
     }
   ]
 }

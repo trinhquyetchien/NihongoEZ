@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "洞窟",
+      "reading": "どうくつ",
+      "meaning": "hang động"
+    },
+    {
+      "word": "洞窟熊",
+      "reading": "ほらあなぐま",
+      "meaning": "gấu hang động"
+    },
+    {
       "word": "洞",
       "reading": "ほら",
       "meaning": "hang"
     },
     {
-      "word": "洞簫",
-      "reading": "どうしょう",
-      "meaning": "sáo tiêu"
+      "word": "類洞",
+      "reading": "るいどう",
+      "meaning": "mao mạch hình sin"
+    },
+    {
+      "word": "洞毛",
+      "reading": "どうもう",
+      "meaning": "vibrissae"
     },
     {
       "word": "洞角",
@@ -104,39 +119,24 @@
       "meaning": "sừng rỗng ruột"
     },
     {
+      "word": "樹洞",
+      "reading": "じゅどう",
+      "meaning": "hang ở trên cây"
+    },
+    {
+      "word": "洞停止",
+      "reading": "とうていし",
+      "meaning": "nghỉ xoang"
+    },
+    {
+      "word": "毛巣洞",
+      "reading": "けすどー",
+      "meaning": "xoang lông"
+    },
+    {
       "word": "空洞",
       "reading": "くうどう",
       "meaning": "hang"
-    },
-    {
-      "word": "晶洞",
-      "reading": "しょうどう",
-      "meaning": "tinh hốc"
-    },
-    {
-      "word": "雪洞",
-      "reading": "せつどう",
-      "meaning": "giá nến bọc giấy"
-    },
-    {
-      "word": "洞見",
-      "reading": "どうけん",
-      "meaning": "sự nhìn thấu được bên trong sự vật"
-    },
-    {
-      "word": "洞門",
-      "reading": "どうもん",
-      "meaning": "lối vào hang động"
-    },
-    {
-      "word": "風洞",
-      "reading": "ふうどう",
-      "meaning": "đường hầm gió"
-    },
-    {
-      "word": "洞察",
-      "reading": "どうさつ",
-      "meaning": "sự sáng suốt"
     }
   ]
 }

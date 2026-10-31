@@ -89,14 +89,19 @@
       "meaning": "khách"
     },
     {
+      "word": "来賓席",
+      "reading": "らいひんせき",
+      "meaning": "ghế dành cho khách mời"
+    },
+    {
       "word": "主賓",
       "reading": "しゅひん",
       "meaning": "khách chính"
     },
     {
-      "word": "貴賓",
-      "reading": "きひん",
-      "meaning": "khách quý"
+      "word": "迎賓館",
+      "reading": "げいひんかん",
+      "meaning": "nơi đón tiếp khách quý nước ngoài"
     },
     {
       "word": "国賓",
@@ -104,34 +109,29 @@
       "meaning": "khách mời của quốc gia"
     },
     {
-      "word": "迎賓",
-      "reading": "げいひん",
-      "meaning": "sự đón tiếp khách quý"
+      "word": "貴賓",
+      "reading": "きひん",
+      "meaning": "khách quý"
+    },
+    {
+      "word": "社賓",
+      "reading": "しゃひん",
+      "meaning": "khách quý của công ty"
+    },
+    {
+      "word": "客賓",
+      "reading": "まろうど",
+      "meaning": "khách mời"
+    },
+    {
+      "word": "すい賓",
+      "reading": "すいひん",
+      "meaning": "nốt thứ 7 của thang màu cổ đại"
     },
     {
       "word": "佳賓",
       "reading": "かひん",
       "meaning": "khách danh dự"
-    },
-    {
-      "word": "正賓",
-      "reading": "せいひん",
-      "meaning": "vị khách danh dự"
-    },
-    {
-      "word": "外賓",
-      "reading": "がいひん",
-      "meaning": "khách nước ngoài"
-    },
-    {
-      "word": "賓客",
-      "reading": "ひんきゃく",
-      "meaning": "khách mời danh dự"
-    },
-    {
-      "word": "賓辞",
-      "reading": "ひんじ",
-      "meaning": "tân ngữ"
     }
   ]
 }

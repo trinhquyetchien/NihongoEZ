@@ -89,14 +89,9 @@
       "meaning": "tường"
     },
     {
-      "word": "土塀",
-      "reading": "どべい",
-      "meaning": "tường bằng đất"
-    },
-    {
-      "word": "板塀",
-      "reading": "いたべい",
-      "meaning": "hàng rào được làm bằng các tấm ván"
+      "word": "高塀",
+      "reading": "たかべい",
+      "meaning": "tường rào cao"
     },
     {
       "word": "石塀",
@@ -104,19 +99,9 @@
       "meaning": "tường bằng đá"
     },
     {
-      "word": "練塀",
-      "reading": "ねりべい",
-      "meaning": "tường bằng đất và gạch với nóc lợp bằng gạch"
-    },
-    {
-      "word": "ブロック塀",
-      "reading": "ブロックべい",
-      "meaning": "rải bê tông tường khối"
-    },
-    {
-      "word": "高塀",
-      "reading": "たかべい",
-      "meaning": "tường rào cao"
+      "word": "板塀",
+      "reading": "いたべい",
+      "meaning": "hàng rào được làm bằng các tấm ván"
     },
     {
       "word": "塀越し",
@@ -124,14 +109,29 @@
       "meaning": "vượt qua tường"
     },
     {
-      "word": "煉瓦塀",
-      "reading": "れんがべい",
-      "meaning": "bức tường gạch"
+      "word": "築地塀",
+      "reading": "ついじべい",
+      "meaning": "tường bùn có mái"
     },
     {
       "word": "練り塀",
       "reading": "ねりべい",
       "meaning": "tường gạch trát bùn và lợp ngói"
+    },
+    {
+      "word": "煉瓦塀",
+      "reading": "れんがべい",
+      "meaning": "bức tường gạch"
+    },
+    {
+      "word": "土塀",
+      "reading": "どべい",
+      "meaning": "tường bằng đất"
+    },
+    {
+      "word": "練塀",
+      "reading": "ねりべい",
+      "meaning": "tường bằng đất và gạch với nóc lợp bằng gạch"
     }
   ]
 }

@@ -84,14 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "窺知",
-      "reading": "きち",
-      "meaning": "sự nhận thức"
-    },
-    {
       "word": "窺う",
       "reading": "うかがう",
       "meaning": "nhìn lén"
+    },
+    {
+      "word": "窺知",
+      "reading": "きち",
+      "meaning": "sự nhận thức"
     },
     {
       "word": "窺い知る",
@@ -99,14 +99,14 @@
       "meaning": "lĩnh hội"
     },
     {
-      "word": "隙を窺う",
-      "reading": "すきをうかがう",
-      "meaning": "gặp cơ hội"
-    },
-    {
       "word": "窺い探る",
       "reading": "うかがいさぐる",
       "meaning": "xem xét kỹ lưỡng"
+    },
+    {
+      "word": "隙を窺う",
+      "reading": "すきをうかがう",
+      "meaning": "gặp cơ hội"
     }
   ]
 }

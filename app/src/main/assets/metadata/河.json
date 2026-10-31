@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "kênh đào"
+    },
+    {
+      "word": "河川",
+      "reading": "かせん",
+      "meaning": "sông ngòi"
+    },
+    {
+      "word": "銀河",
+      "reading": "ぎんが",
+      "meaning": "thiên hà"
+    },
+    {
       "word": "河",
       "reading": "かわ",
       "meaning": "sông"
     },
     {
-      "word": "山河",
-      "reading": "さんが",
-      "meaning": "núi sông"
+      "word": "河系",
+      "reading": "かけい",
+      "meaning": "hệ thống sông ngòi"
     },
     {
-      "word": "河魚",
-      "reading": "かぎょ",
-      "meaning": "cá ở sông"
+      "word": "河神",
+      "reading": "かしん",
+      "meaning": "vị thần hộ mệnh của sông"
     },
     {
-      "word": "追河",
-      "reading": "おいかわ",
-      "meaning": "cá chuôn bụng tròn"
+      "word": "河道",
+      "reading": "かどう",
+      "meaning": "lòng sông"
     },
     {
-      "word": "河骨",
-      "reading": "こうほね",
-      "meaning": "nuphar japonica"
+      "word": "星河",
+      "reading": "せいが",
+      "meaning": "milky way"
     },
     {
-      "word": "渡河",
-      "reading": "とか",
-      "meaning": "sự qua sông"
+      "word": "恋河",
+      "reading": "こいかわ",
+      "meaning": "tình yêu bao la"
     },
     {
-      "word": "河岸",
-      "reading": "かわぎし",
-      "meaning": "bờ sông"
-    },
-    {
-      "word": "天河",
-      "reading": "てんが",
-      "meaning": "dải ngân hà"
-    },
-    {
-      "word": "河馬",
-      "reading": "かば",
-      "meaning": "hà mã"
-    },
-    {
-      "word": "黄河",
-      "reading": "こうが",
-      "meaning": "nhuốm vàng dòng sông"
+      "word": "河食",
+      "reading": "かしょく",
+      "meaning": "việc xói mòn sông"
     }
   ]
 }

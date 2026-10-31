@@ -90,9 +90,44 @@
   ],
   "vocabulary": [
     {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "sự chấp nhận"
+    },
+    {
+      "word": "旧知",
+      "reading": "きゅうち",
+      "meaning": "bạn cũ"
+    },
+    {
+      "word": "認知",
+      "reading": "にんち",
+      "meaning": "sự ghi nhận"
+    },
+    {
+      "word": "告知",
+      "reading": "こくち",
+      "meaning": "chú ý"
+    },
+    {
       "word": "知",
       "reading": "ち",
       "meaning": "kiến thức cao"
+    },
+    {
+      "word": "先知",
+      "reading": "せんち",
+      "meaning": "sự thấy trước"
+    },
+    {
+      "word": "自知",
+      "reading": "じち",
+      "meaning": "sự hiểu biết bản thân"
+    },
+    {
+      "word": "検知",
+      "reading": "けんち",
+      "meaning": "phát hiện"
     },
     {
       "word": "知知武",
@@ -100,44 +135,9 @@
       "meaning": "cá tridentiger obscurus"
     },
     {
-      "word": "知覚知",
-      "reading": "ちかくち",
-      "meaning": "kiến thức bởi hiểu biết"
-    },
-    {
-      "word": "無知の知",
-      "reading": "むちのち",
-      "meaning": "trí tuệ để nhận thức được sự thiếu hiểu biết của chính bản thân"
-    },
-    {
-      "word": "知る人ぞ知る",
-      "reading": "しるひとぞしる",
-      "meaning": "nhanh chóng nổi tiếng"
-    },
-    {
-      "word": "知らず知らず",
-      "reading": "しらずしらず",
-      "meaning": "một cách vô thức"
-    },
-    {
-      "word": "未知数(⇔既知数)",
-      "reading": "みちすー(⇔きちすー)",
-      "meaning": "biến số"
-    },
-    {
-      "word": "明知",
-      "reading": "めいち",
-      "meaning": "biết rõ"
-    },
-    {
-      "word": "覚知",
-      "reading": "かくち",
-      "meaning": "kiến thức"
-    },
-    {
-      "word": "承知",
-      "reading": "しょうち",
-      "meaning": "sự chấp nhận"
+      "word": "知財",
+      "reading": "ちざい",
+      "meaning": "thuộc tính người trí thức"
     }
   ]
 }

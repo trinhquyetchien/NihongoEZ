@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "両替",
+      "reading": "りょうがえ",
+      "meaning": "sự đổi tiền"
+    },
+    {
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "hối đoái"
+    },
+    {
       "word": "とりかえ あなたは取り替えが利くんだからと言った",
       "reading": "取り替え",
       "meaning": "sự đổi lại"
     },
     {
-      "word": "立替",
-      "reading": "たてかえ",
-      "meaning": "chi phí ứng trước"
+      "word": "替え",
+      "reading": "かえ",
+      "meaning": "thay đổi"
     },
     {
-      "word": "替玉",
-      "reading": "かえだま",
-      "meaning": "mỳ thêm"
+      "word": "替え着",
+      "reading": "かえぎ",
+      "meaning": "quần áo để thay"
     },
     {
-      "word": "交替",
-      "reading": "こうたい",
-      "meaning": "sự thay đổi"
+      "word": "代替",
+      "reading": "だいたい",
+      "meaning": "sự thay thế"
     },
     {
-      "word": "切替",
-      "reading": "きりかえ",
-      "meaning": "chuyển đổi"
+      "word": "代替物",
+      "reading": "だいたいぶつ",
+      "meaning": "mục thay thế"
     },
     {
-      "word": "興替",
-      "reading": "こうたい",
-      "meaning": "sự lên và sự rơi những dân tộc)"
+      "word": "代替品",
+      "reading": "だいたいひん",
+      "meaning": "vật phẩm thay thế"
     },
     {
-      "word": "隆替",
-      "reading": "りゅうたい",
-      "meaning": "sự thịnh suy"
-    },
-    {
-      "word": "衰替",
-      "reading": "すいたい",
-      "meaning": "suy yếu"
-    },
-    {
-      "word": "替芯",
-      "reading": "かえしん",
-      "meaning": "ruột bút"
-    },
-    {
-      "word": "替刃",
+      "word": "替え刃",
       "reading": "かえば",
-      "meaning": "blade replacement)"
+      "meaning": "lưỡi dao dùng để thay thế"
+    },
+    {
+      "word": "代替案",
+      "reading": "だいたいあん",
+      "meaning": "phương án thay thế"
     }
   ]
 }

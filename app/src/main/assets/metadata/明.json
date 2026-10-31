@@ -100,39 +100,39 @@
   ],
   "vocabulary": [
     {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "chứng minh"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "ánh sáng"
+    },
+    {
+      "word": "賢明",
+      "reading": "けんめい",
+      "meaning": "khôn ngoan"
+    },
+    {
       "word": "明",
       "reading": "みょう",
       "meaning": "minh mẫn"
     },
     {
-      "word": "明明",
-      "reading": "あかあか",
-      "meaning": "say mèm"
+      "word": "内明",
+      "reading": "ないみょう",
+      "meaning": "khoa học tâm linh"
     },
     {
-      "word": "明明後日",
-      "reading": "しあさって",
-      "meaning": "ngày kìa"
+      "word": "明初",
+      "reading": "めいしょ",
+      "meaning": "thời kỳ minh sơ"
     },
     {
-      "word": "明明白白",
-      "reading": "めいめいはくはく",
-      "meaning": "rõ như ban ngày"
-    },
-    {
-      "word": "明けの明星",
-      "reading": "あけのみょうじょう",
-      "meaning": "sao kim ở phương đông lúc bình minh"
-    },
-    {
-      "word": "明白",
-      "reading": "めいはく",
-      "meaning": "minh bạch"
-    },
-    {
-      "word": "明き",
-      "reading": "あき",
-      "meaning": "trống"
+      "word": "明楽",
+      "reading": "みんがく",
+      "meaning": "âm nhạc thời minh"
     },
     {
       "word": "表明",
@@ -140,14 +140,14 @@
       "meaning": "việc bày tỏ"
     },
     {
-      "word": "明知",
-      "reading": "めいち",
-      "meaning": "biết rõ"
+      "word": "明明",
+      "reading": "あかあか",
+      "meaning": "say mèm"
     },
     {
-      "word": "明礬",
-      "reading": "みょうばん",
-      "meaning": "phèn"
+      "word": "明亮",
+      "reading": "めいりょう",
+      "meaning": "lóng lánh"
     }
   ]
 }

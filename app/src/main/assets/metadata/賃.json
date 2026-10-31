@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "工賃",
-      "reading": "こうちん",
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "tiền nhà"
+    },
+    {
+      "word": "賃金",
+      "reading": "ちんぎん",
       "meaning": "tiền công"
     },
     {
-      "word": "賃料",
-      "reading": "ちんりょう",
+      "word": "運賃",
+      "reading": "うんちん",
+      "meaning": "cước"
+    },
+    {
+      "word": "賃金率",
+      "reading": "ちんぎんりつ",
+      "meaning": "tỷ lệ tiền lương"
+    },
+    {
+      "word": "低賃金",
+      "reading": "ていちんぎん",
+      "meaning": "tiền lương thấp"
+    },
+    {
+      "word": "運賃箱",
+      "reading": "うんちんばこ",
+      "meaning": "hộp để phí"
+    },
+    {
+      "word": "賃貸",
+      "reading": "ちんたい",
+      "meaning": "sự cho thuê"
+    },
+    {
+      "word": "賃貸人",
+      "reading": "ちんたいにん",
+      "meaning": "chủ cho thuê"
+    },
+    {
+      "word": "賃貸料",
+      "reading": "ちんたいりょう",
       "meaning": "thuê"
-    },
-    {
-      "word": "駄賃",
-      "reading": "だちん",
-      "meaning": "tiền thưởng"
-    },
-    {
-      "word": "賃銀",
-      "reading": "ちんぎん",
-      "meaning": "lương"
-    },
-    {
-      "word": "賃借",
-      "reading": "ちんしゃく",
-      "meaning": "sự thuê"
     },
     {
       "word": "バス賃",
       "reading": "バスちん",
       "meaning": "phí xe buýt"
-    },
-    {
-      "word": "賃餅",
-      "reading": "ちんもち",
-      "meaning": "bánh ngọt thuê làm"
-    },
-    {
-      "word": "賃銭",
-      "reading": "ちんせん",
-      "meaning": "lắc"
-    },
-    {
-      "word": "貸賃",
-      "reading": "かしちん",
-      "meaning": "tiền thuê"
-    },
-    {
-      "word": "店賃",
-      "reading": "たなちん",
-      "meaning": "tiền thuê nhà"
     }
   ]
 }

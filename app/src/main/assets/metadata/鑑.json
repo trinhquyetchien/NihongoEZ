@@ -90,14 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "鑑",
-      "reading": "かがみ",
-      "meaning": "mô hình"
+      "word": "鑑賞",
+      "reading": "かんしょう",
+      "meaning": "sự đánh giá cao"
     },
     {
-      "word": "再鑑",
-      "reading": "さいかん",
-      "meaning": "kiểm tra lại"
+      "word": "図鑑",
+      "reading": "ずかん",
+      "meaning": "từ điển bằng hình ảnh"
+    },
+    {
+      "word": "印鑑",
+      "reading": "いんかん",
+      "meaning": "con dấu"
+    },
+    {
+      "word": "年鑑",
+      "reading": "ねんかん",
+      "meaning": "tuổi"
+    },
+    {
+      "word": "鑑賞魚",
+      "reading": "かんしょうぎょ",
+      "meaning": "cá cảnh"
     },
     {
       "word": "鑑定",
@@ -105,39 +120,24 @@
       "meaning": "sự giám định"
     },
     {
-      "word": "鑑賞",
-      "reading": "かんしょう",
-      "meaning": "sự đánh giá cao"
+      "word": "鑑定人",
+      "reading": "かんていにん",
+      "meaning": "người định giá"
     },
     {
-      "word": "鑑別",
-      "reading": "かんべつ",
-      "meaning": "phân biệt"
+      "word": "鑑定家",
+      "reading": "かんていか",
+      "meaning": "người thẩm định"
     },
     {
-      "word": "清鑑",
-      "reading": "せいかん",
-      "meaning": "giám định chuẩn xác"
+      "word": "鑑定書",
+      "reading": "かんていしょ",
+      "meaning": "chuyên gia đã viết quan điểm hoặc báo cáo"
     },
     {
-      "word": "手鑑",
-      "reading": "てかがみ",
-      "meaning": "sổ mẫu chữ cổ"
-    },
-    {
-      "word": "鑑札",
-      "reading": "かんさつ",
-      "meaning": "giấy phép"
-    },
-    {
-      "word": "名鑑",
-      "reading": "めいかん",
-      "meaning": "danh sách"
-    },
-    {
-      "word": "武鑑",
-      "reading": "ぶかん",
-      "meaning": "sổ niên giám ghi chép tên"
+      "word": "鑑定官",
+      "reading": "かんていかん",
+      "meaning": "thẩm định viên"
     }
   ]
 }

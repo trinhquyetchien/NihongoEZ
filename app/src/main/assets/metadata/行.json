@@ -98,54 +98,54 @@
   ],
   "vocabulary": [
     {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "ngân hàng"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "hành động"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "chấp hành"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "hội hè"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "hàng người"
+    },
+    {
+      "word": "行為",
+      "reading": "こうい",
+      "meaning": "hành vi"
+    },
+    {
       "word": "行",
       "reading": "ぎょう",
       "meaning": "hàng"
     },
     {
-      "word": "ネーム印(マ行/ヤ行/ワ行)",
-      "reading": "ネームいん(マぎょう/ヤぎょう/ワぎょう)",
-      "meaning": "dấu tên"
+      "word": "行政",
+      "reading": "ぎょうせい",
+      "meaning": "hành chính"
     },
     {
-      "word": "難行苦行",
-      "reading": "なんぎょうくぎょう",
-      "meaning": "sự ăn năn"
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "di chuyển"
     },
     {
-      "word": "行く行く",
-      "reading": "ゆくゆく",
-      "meaning": "một ngày nào đó"
-    },
-    {
-      "word": "行け行け",
-      "reading": "いけいけ",
-      "meaning": "phấn khích"
-    },
-    {
-      "word": "行進行方向",
-      "reading": "ぎょうしんこうほうこう",
-      "meaning": "hướng tiến của dòng"
-    },
-    {
-      "word": "行政代執行",
-      "reading": "ぎょうせいだいしっこう",
-      "meaning": "thế quyền hành chính"
-    },
-    {
-      "word": "飛行機旅行",
-      "reading": "ひこーきりょこー",
-      "meaning": "du lịch hàng không"
-    },
-    {
-      "word": "失行症-歩行",
-      "reading": "しっこうしょう-ほこう",
-      "meaning": "mất phối hợp động tác về đi lại"
-    },
-    {
-      "word": "行乞",
-      "reading": "ぎょうこつ",
-      "meaning": "hành khất"
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "sự tu hành"
     }
   ]
 }

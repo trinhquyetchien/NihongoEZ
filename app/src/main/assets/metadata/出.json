@@ -95,54 +95,54 @@
   ],
   "vocabulary": [
     {
-      "word": "出",
-      "reading": "で",
-      "meaning": "đi ra ngoài"
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "đi ra"
     },
     {
-      "word": "出出し",
-      "reading": "でだし",
-      "meaning": "bắt đầu"
+      "word": "出す",
+      "reading": "だす",
+      "meaning": "gửi đi"
     },
     {
-      "word": "出来不出来",
-      "reading": "できふでき",
-      "meaning": "không phẳng kết quả"
+      "word": "出身",
+      "reading": "しゅっしん",
+      "meaning": "gốc gác"
     },
     {
-      "word": "差し出し人 さしだしにん",
-      "reading": "差し出し人",
-      "meaning": "người gửi"
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "sự xuất bản"
     },
     {
-      "word": "突き出す",
-      "reading": "つきだす",
-      "meaning": "đẩy ra ngoài"
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "sự xuất phát"
     },
     {
-      "word": "出社",
-      "reading": "しゅっしゃ",
-      "meaning": "sự đến nơi công việc"
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "sự có mặt"
     },
     {
-      "word": "出汁",
-      "reading": "だし",
-      "meaning": "nước dùng"
+      "word": "支出",
+      "reading": "ししゅつ",
+      "meaning": "sự chi ra"
     },
     {
-      "word": "出願",
-      "reading": "しゅつがん",
-      "meaning": "việc làm đơn xin"
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaning": "sự đi làm"
     },
     {
-      "word": "出し",
-      "reading": "だし",
-      "meaning": "cung cấp"
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "chuyến đi kinh doanh"
     },
     {
-      "word": "届出",
-      "reading": "とどけで",
-      "meaning": "báo cáo"
+      "word": "出演",
+      "reading": "しゅつえん",
+      "meaning": "sự trình diễn"
     }
   ]
 }

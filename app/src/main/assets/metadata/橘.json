@@ -57,9 +57,9 @@
       "meaning": "quả quít"
     },
     {
-      "word": "酸橘",
-      "reading": "すだち",
-      "meaning": "chanh nhật bản"
+      "word": "橘月",
+      "reading": "たちばなづき",
+      "meaning": "tháng 5 âm lịch"
     },
     {
       "word": "橘鳥",
@@ -67,19 +67,9 @@
       "meaning": "cu cu nhỏ"
     },
     {
-      "word": "枸橘",
-      "reading": "からたち",
-      "meaning": "trifoliate orange"
-    },
-    {
-      "word": "橘月",
-      "reading": "たちばなづき",
-      "meaning": "tháng 5 âm lịch"
-    },
-    {
-      "word": "橘飩",
-      "reading": "きっとん",
-      "meaning": "kinton"
+      "word": "酸橘",
+      "reading": "すだち",
+      "meaning": "chanh nhật bản"
     },
     {
       "word": "臭橘",
@@ -87,9 +77,9 @@
       "meaning": "chỉ"
     },
     {
-      "word": "柑橘類",
-      "reading": "かんきつるい",
-      "meaning": "họ cam quýt"
+      "word": "橘神道",
+      "reading": "たちばなしんとう",
+      "meaning": "thần đạo tachibana shinto"
     },
     {
       "word": "御前橘",
@@ -97,9 +87,19 @@
       "meaning": "cornus canadensis"
     },
     {
-      "word": "橘神道",
-      "reading": "たちばなしんとう",
-      "meaning": "thần đạo tachibana shinto"
+      "word": "柑橘類",
+      "reading": "かんきつるい",
+      "meaning": "họ cam quýt"
+    },
+    {
+      "word": "枸橘",
+      "reading": "からたち",
+      "meaning": "trifoliate orange"
+    },
+    {
+      "word": "橘飩",
+      "reading": "きっとん",
+      "meaning": "kinton"
     }
   ]
 }

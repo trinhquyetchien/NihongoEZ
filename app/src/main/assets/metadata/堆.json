@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "堆く",
-      "reading": "うずたかく",
-      "meaning": "chất đống cao"
+      "word": "堆積",
+      "reading": "たいせき",
+      "meaning": "việc chồng"
     },
     {
-      "word": "堆石",
-      "reading": "たいせき",
-      "meaning": "đá băng tích"
+      "word": "堆積物",
+      "reading": "たいせきぶつ",
+      "meaning": "cặn"
+    },
+    {
+      "word": "堆積学",
+      "reading": "たいせきがく",
+      "meaning": "trầm tích học"
+    },
+    {
+      "word": "堆積層",
+      "reading": "たいせきそう",
+      "meaning": "lớp có cặn"
     },
     {
       "word": "堆肥",
@@ -102,19 +112,9 @@
       "meaning": "phân trộn"
     },
     {
-      "word": "堆積",
-      "reading": "たいせき",
-      "meaning": "việc chồng"
-    },
-    {
-      "word": "堆朱",
-      "reading": "ついしゅ",
-      "meaning": "lacquerware đỏ với những mẫu khắc trong sự giải tỏa"
-    },
-    {
-      "word": "堆い",
-      "reading": "うずたかい",
-      "meaning": "chất thành đồng"
+      "word": "堆肥化",
+      "reading": "たいひか",
+      "meaning": "sự ủ phân"
     },
     {
       "word": "堆砂",
@@ -127,14 +127,14 @@
       "meaning": "đá trầm tích"
     },
     {
-      "word": "堆積層",
-      "reading": "たいせきそう",
-      "meaning": "lớp có cặn"
+      "word": "堆朱",
+      "reading": "ついしゅ",
+      "meaning": "lacquerware đỏ với những mẫu khắc trong sự giải tỏa"
     },
     {
-      "word": "堆肥化",
-      "reading": "たいひか",
-      "meaning": "sự ủ phân"
+      "word": "堆く",
+      "reading": "うずたかく",
+      "meaning": "chất đống cao"
     }
   ]
 }

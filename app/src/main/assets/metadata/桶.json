@@ -75,19 +75,9 @@
       "meaning": "cái xô"
     },
     {
-      "word": "空桶",
-      "reading": "からおけ",
-      "meaning": "chơi chữ của chữ karaoke"
-    },
-    {
-      "word": "湯桶",
-      "reading": "ゆとう",
-      "meaning": "ca nước nóng bằng gỗ"
-    },
-    {
-      "word": "棺桶",
-      "reading": "かんおけ",
-      "meaning": "quan tài"
+      "word": "ため桶",
+      "reading": "ためおけ",
+      "meaning": "xô chứa"
     },
     {
       "word": "水桶",
@@ -95,19 +85,24 @@
       "meaning": "thùng"
     },
     {
-      "word": "留桶",
-      "reading": "とめおけ",
-      "meaning": "xô nước"
-    },
-    {
-      "word": "桶屋",
-      "reading": "おけや",
-      "meaning": "một ngôi nhà sản xuất"
-    },
-    {
       "word": "小桶",
       "reading": "こおけ",
       "meaning": "xô nhỏ"
+    },
+    {
+      "word": "面桶",
+      "reading": "めんつう",
+      "meaning": "hộp cơm tròn"
+    },
+    {
+      "word": "空桶",
+      "reading": "からおけ",
+      "meaning": "chơi chữ của chữ karaoke"
+    },
+    {
+      "word": "風呂桶",
+      "reading": "ふろおけ",
+      "meaning": "bồn tắm"
     },
     {
       "word": "糞桶",
@@ -115,9 +110,14 @@
       "meaning": "xô đựng phân"
     },
     {
-      "word": "肥桶",
-      "reading": "こえおけ",
-      "meaning": "thùng đựng phân"
+      "word": "寿司桶",
+      "reading": "すしおけ",
+      "meaning": "bát gỗ đựng sushi"
+    },
+    {
+      "word": "桶の底",
+      "reading": "おけのそこ",
+      "meaning": "đáy thùng"
     }
   ]
 }

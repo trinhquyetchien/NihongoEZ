@@ -86,6 +86,26 @@
   ],
   "vocabulary": [
     {
+      "word": "親戚",
+      "reading": "しんせき",
+      "meaning": "bà con thân thuộc"
+    },
+    {
+      "word": "姻戚",
+      "reading": "いんせき",
+      "meaning": "tương đối bởi sự kết hôn"
+    },
+    {
+      "word": "縁戚",
+      "reading": "えんせき",
+      "meaning": "họ hàng"
+    },
+    {
+      "word": "外戚",
+      "reading": "がいせき",
+      "meaning": "họ hàng bên mẹ"
+    },
+    {
       "word": "遠戚",
       "reading": "えんせき",
       "meaning": "tương đối xa"
@@ -96,44 +116,24 @@
       "meaning": "nỗi đau buồn"
     },
     {
-      "word": "姻戚",
-      "reading": "いんせき",
-      "meaning": "tương đối bởi sự kết hôn"
-    },
-    {
-      "word": "外戚",
-      "reading": "がいせき",
-      "meaning": "họ hàng bên mẹ"
-    },
-    {
       "word": "休戚",
       "reading": "きゅうせき",
       "meaning": "hạnh phúc"
     },
     {
-      "word": "縁戚",
-      "reading": "えんせき",
-      "meaning": "họ hàng"
-    },
-    {
-      "word": "親戚",
-      "reading": "しんせき",
-      "meaning": "bà con thân thuộc"
-    },
-    {
-      "word": "親戚故旧",
-      "reading": "しんせきこきゅう",
-      "meaning": "họ hàng và bạn bè cũ"
-    },
-    {
-      "word": "親戚知己",
-      "reading": "しんせきちき",
-      "meaning": "relatives và những hiểu biết"
-    },
-    {
       "word": "親戚関係",
       "reading": "しんせきかんけい",
       "meaning": "mối quan hệ họ hàng"
+    },
+    {
+      "word": "妻の親戚",
+      "reading": "つまのしんせき",
+      "meaning": "nhà vợ"
+    },
+    {
+      "word": "夫の親戚",
+      "reading": "おっとのしんせき",
+      "meaning": "nhà chồng"
     }
   ]
 }

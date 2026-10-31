@@ -84,6 +84,41 @@
   ],
   "vocabulary": [
     {
+      "word": "窒息",
+      "reading": "ちっそく",
+      "meaning": "đứt hơi"
+    },
+    {
+      "word": "窒素",
+      "reading": "ちっそ",
+      "meaning": "đạm"
+    },
+    {
+      "word": "窒息性",
+      "reading": "ちっそくせい",
+      "meaning": "ngột ngạt"
+    },
+    {
+      "word": "窒息死",
+      "reading": "ちっそくし",
+      "meaning": "sự chết ngạt"
+    },
+    {
+      "word": "窒素計",
+      "reading": "ちっそけい",
+      "meaning": "trắc đạm kế"
+    },
+    {
+      "word": "窒化",
+      "reading": "ちっか",
+      "meaning": "sự nitro hóa"
+    },
+    {
+      "word": "窒化物",
+      "reading": "ちっかぶつ",
+      "meaning": "ni-trit"
+    },
+    {
       "word": "脱窒",
       "reading": "だっちつ",
       "meaning": "loại nitơ"
@@ -97,41 +132,6 @@
       "word": "窒塞",
       "reading": "ちっそく",
       "meaning": "sự nghẹt thở"
-    },
-    {
-      "word": "窒息",
-      "reading": "ちっそく",
-      "meaning": "đứt hơi"
-    },
-    {
-      "word": "窒素",
-      "reading": "ちっそ",
-      "meaning": "đạm"
-    },
-    {
-      "word": "窒化",
-      "reading": "ちっか",
-      "meaning": "sự nitro hóa"
-    },
-    {
-      "word": "窒息性",
-      "reading": "ちっそくせい",
-      "meaning": "ngột ngạt"
-    },
-    {
-      "word": "窒息ガス",
-      "reading": "ちっそくガス",
-      "meaning": "bít lại khí"
-    },
-    {
-      "word": "窒化物",
-      "reading": "ちっかぶつ",
-      "meaning": "ni-trit"
-    },
-    {
-      "word": "窒息死",
-      "reading": "ちっそくし",
-      "meaning": "sự chết ngạt"
     }
   ]
 }

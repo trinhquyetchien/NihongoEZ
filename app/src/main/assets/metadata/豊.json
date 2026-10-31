@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "豊稔",
-      "reading": "ほうねん",
-      "meaning": "cái cản gặt hái"
+      "word": "豊か",
+      "reading": "ゆたか",
+      "meaning": "phong phú"
     },
     {
-      "word": "豊漁",
-      "reading": "ほうりょう",
-      "meaning": "sự bắt được nhiều cá"
+      "word": "豊富",
+      "reading": "ほうふ",
+      "meaning": "phong phú"
     },
     {
-      "word": "豊熟",
-      "reading": "ほうじゅく",
-      "meaning": "sự được mùa"
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning": "mùa màng bội thu"
     },
     {
-      "word": "豊沃",
-      "reading": "ほうよく",
-      "meaning": "sự tốt"
-    },
-    {
-      "word": "豊年",
-      "reading": "ほうねん",
-      "meaning": "năm được mùa"
-    },
-    {
-      "word": "豊満",
-      "reading": "ほうまん",
-      "meaning": "nõn nà"
-    },
-    {
-      "word": "豊穣",
-      "reading": "ほうじょう",
-      "meaning": "trúng mùa"
-    },
-    {
-      "word": "豊凶",
-      "reading": "ほうきょう",
-      "meaning": "giàu hoặc nghèo gặt hái"
-    },
-    {
-      "word": "豊麗",
-      "reading": "ほうれい",
+      "word": "豊かな",
+      "reading": "ゆたかな",
       "meaning": "giàu"
     },
     {
-      "word": "豊穰",
-      "reading": "ほうじょう",
-      "meaning": "mùa màng dồi dào"
+      "word": "豊富な",
+      "reading": "ほうふな",
+      "meaning": "chan chát"
+    },
+    {
+      "word": "豊胸",
+      "reading": "ほうきょう",
+      "meaning": "việc nâng ngực"
+    },
+    {
+      "word": "緑豊か",
+      "reading": "みどりゆたか",
+      "meaning": "xanh tươi"
+    },
+    {
+      "word": "豊乳",
+      "reading": "ほうにゅう",
+      "meaning": "vú đầy đủ"
+    },
+    {
+      "word": "豊胸術",
+      "reading": "ほうきょうじゅつ",
+      "meaning": "cấy ghép ngực"
+    },
+    {
+      "word": "豊艶",
+      "reading": "ほうえん",
+      "meaning": "khoái lạc"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "冷染染料",
-      "reading": "れいせんせんりょう",
-      "meaning": "thuốc nhuộm lạnh"
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "sự ô nhiễm"
     },
     {
-      "word": "氷染染料",
-      "reading": "ひょうせんせんりょう",
-      "meaning": "thuốc nhuộm lạnh"
+      "word": "伝染",
+      "reading": "でんせん",
+      "meaning": "sự truyền nhiễm"
     },
     {
-      "word": "伝染性感染症",
-      "reading": "でんせんせいかんせんしょう",
-      "meaning": "các bệnh truyền nhiễm"
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "sự nhiễm"
     },
     {
-      "word": "染色体分染法",
-      "reading": "せんしょくたいぶんせんほう",
-      "meaning": "dải nhiễm sắc thể"
+      "word": "染まる",
+      "reading": "そまる",
+      "meaning": "nhuộm"
     },
     {
-      "word": "馴染",
-      "reading": "なじみ",
-      "meaning": "sự quen thân"
+      "word": "感染者",
+      "reading": "かんせんしゃ",
+      "meaning": "người nhiễm"
     },
     {
-      "word": "染み",
-      "reading": "しみ",
-      "meaning": "vết bẩn"
+      "word": "感染性",
+      "reading": "かんせんせい",
+      "meaning": "tính truyền nhiễm"
     },
     {
-      "word": "染め",
-      "reading": "そめ",
-      "meaning": "sự nhuộm"
+      "word": "感染力",
+      "reading": "かんせんりょく",
+      "meaning": "khả năng truyền nhiễm"
     },
     {
-      "word": "抜染",
-      "reading": "ぬきぞめ",
-      "meaning": "kỹ thuật tẩy màu"
+      "word": "再感染",
+      "reading": "さいかんせん",
+      "meaning": "sự bị lây nhiễm lần nữa"
     },
     {
-      "word": "捺染",
-      "reading": "なっせん",
-      "meaning": "nhuộm màu"
+      "word": "感染例",
+      "reading": "かんせんれい",
+      "meaning": "trường hợp bị nhiễm"
     },
     {
-      "word": "染織",
-      "reading": "せんしょく",
-      "meaning": "sự nhuộm màu"
+      "word": "感染病",
+      "reading": "かんせんびょう",
+      "meaning": "bệnh truyền nhiễm"
     }
   ]
 }

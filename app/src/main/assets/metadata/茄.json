@@ -86,9 +86,9 @@
       "meaning": "cà"
     },
     {
-      "word": "蕃茄",
-      "reading": "ばんか",
-      "meaning": "cây cà chua"
+      "word": "水茄子",
+      "reading": "みずなす",
+      "meaning": "cá tím nước"
     },
     {
       "word": "小茄子",
@@ -96,24 +96,14 @@
       "meaning": "cà tím nhỏ"
     },
     {
+      "word": "秋茄子",
+      "reading": "あきなす",
+      "meaning": "cà tím mùa thu"
+    },
+    {
       "word": "悪茄子",
       "reading": "わるなすび",
       "meaning": "tầm ma carolina"
-    },
-    {
-      "word": "唐茄子",
-      "reading": "とうなす",
-      "meaning": "bí"
-    },
-    {
-      "word": "赤茄子",
-      "reading": "あかなす",
-      "meaning": "cây cà chua"
-    },
-    {
-      "word": "浜茄子",
-      "reading": "はまなす",
-      "meaning": "bụi gai kẹo"
     },
     {
       "word": "角茄子",
@@ -121,14 +111,24 @@
       "meaning": "solanum mammosum là loài thực vật có hoa trong họ cà"
     },
     {
-      "word": "秋茄子",
-      "reading": "あきなす",
-      "meaning": "cà tím mùa thu"
+      "word": "浜茄子",
+      "reading": "はまなす",
+      "meaning": "bụi gai kẹo"
     },
     {
-      "word": "水茄子",
-      "reading": "みずなす",
-      "meaning": "cá tím nước"
+      "word": "狐茄子",
+      "reading": "きつねなす",
+      "meaning": "solanum mammosum là loài thực vật có hoa trong họ cà"
+    },
+    {
+      "word": "蕃茄",
+      "reading": "ばんか",
+      "meaning": "cây cà chua"
+    },
+    {
+      "word": "唐茄子",
+      "reading": "とうなす",
+      "meaning": "bí"
     }
   ]
 }

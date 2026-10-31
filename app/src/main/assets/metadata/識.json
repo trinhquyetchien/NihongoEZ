@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "識",
-      "reading": "しき",
-      "meaning": "thức"
-    },
-    {
-      "word": "道路標識/構内標識",
-      "reading": "どうろひょうしき/こうないひょうしき",
-      "meaning": "biển báo đường bộ/ biển báo trong khuôn viên"
-    },
-    {
-      "word": "見識",
-      "reading": "けんしき",
-      "meaning": "hiểu biết"
-    },
-    {
       "word": "意識",
       "reading": "いしき",
       "meaning": "ý thức"
     },
     {
-      "word": "学識",
-      "reading": "がくしき",
-      "meaning": "tri thức"
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "chữ nghĩa"
     },
     {
-      "word": "面識",
-      "reading": "めんしき",
-      "meaning": "sự quen biết"
+      "word": "常識",
+      "reading": "じょうしき",
+      "meaning": "kiến thức thông thường"
     },
     {
-      "word": "識語",
-      "reading": "しきご",
-      "meaning": "lời mở đầu"
+      "word": "標識",
+      "reading": "ひょうしき",
+      "meaning": "dấu tích"
     },
     {
-      "word": "唯識",
-      "reading": "ゆいしき",
-      "meaning": "duy thức tông"
+      "word": "認識",
+      "reading": "にんしき",
+      "meaning": "sự nhận thức"
     },
     {
-      "word": "不識",
-      "reading": "ふしき",
-      "meaning": "cái chưa biết"
+      "word": "良識",
+      "reading": "りょうしき",
+      "meaning": "lương tri"
     },
     {
-      "word": "八識",
-      "reading": "はっしき",
-      "meaning": "bát thức"
+      "word": "意識的",
+      "reading": "いしきてき",
+      "meaning": "một cách có chủ đích"
+    },
+    {
+      "word": "前意識",
+      "reading": "ぜんいしき",
+      "meaning": "tiền ý thức"
+    },
+    {
+      "word": "意識化",
+      "reading": "いしきか",
+      "meaning": "việc nhận thức"
+    },
+    {
+      "word": "下意識",
+      "reading": "かいしき",
+      "meaning": "tiềm thức"
     }
   ]
 }

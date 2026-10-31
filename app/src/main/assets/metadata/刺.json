@@ -110,24 +110,19 @@
   ],
   "vocabulary": [
     {
-      "word": "刺",
-      "reading": "とげ",
-      "meaning": "gai góc"
+      "word": "刺激",
+      "reading": "しげき",
+      "meaning": "sự kích thích"
     },
     {
-      "word": "刺刺",
-      "reading": "いらいら",
-      "meaning": "chọc tức"
+      "word": "名刺",
+      "reading": "めいし",
+      "meaning": "danh thiếp"
     },
     {
-      "word": "刺刺しい",
-      "reading": "とげとげしい",
-      "meaning": "sắc bén"
-    },
-    {
-      "word": "刺青",
-      "reading": "しせい",
-      "meaning": "xăm"
+      "word": "刺身",
+      "reading": "さしみ",
+      "meaning": "gỏi cá"
     },
     {
       "word": "刺す",
@@ -135,29 +130,34 @@
       "meaning": "châm"
     },
     {
-      "word": "刺毛",
-      "reading": "しもう",
-      "meaning": "lông gai"
+      "word": "刺さる",
+      "reading": "ささる",
+      "meaning": "mắc"
     },
     {
-      "word": "刺絡",
-      "reading": "しらく",
-      "meaning": "phương pháp trích huyết trị liệu"
+      "word": "刺繍",
+      "reading": "ししゅう",
+      "meaning": "thêu dệt"
     },
     {
-      "word": "刺殺",
-      "reading": "しさつ",
-      "meaning": "đâm chết"
+      "word": "刺",
+      "reading": "とげ",
+      "meaning": "gai góc"
     },
     {
-      "word": "刺傷",
-      "reading": "さしきず",
-      "meaning": "đau nhói như dao đâm"
+      "word": "刺激薬",
+      "reading": "しげきやく",
+      "meaning": "chất kích thích"
     },
     {
-      "word": "刺身",
-      "reading": "さしみ",
-      "meaning": "gỏi cá"
+      "word": "刺し",
+      "reading": "さし",
+      "meaning": "tên viết tắt của sashimi"
+    },
+    {
+      "word": "名刺大",
+      "reading": "めいしだい",
+      "meaning": "kích cỡ to như tấm danh thiếp"
     }
   ]
 }

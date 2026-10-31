@@ -32,6 +32,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "隠れ蓑",
+      "reading": "かくれみの",
+      "meaning": "áo tàng hình"
+    },
+    {
       "word": "蓑",
       "reading": "みの",
       "meaning": "áo tơi bằng rơm"
@@ -40,6 +45,11 @@
       "word": "蓑鳩",
       "reading": "みのばと",
       "meaning": "trúc bạch"
+    },
+    {
+      "word": "蓑亀",
+      "reading": "みのがめ",
+      "meaning": "rùa già với rong biển mọc trên lưng"
     },
     {
       "word": "蓑虫",
@@ -52,11 +62,6 @@
       "meaning": "mũ cói và áo mưa rơm"
     },
     {
-      "word": "蓑亀",
-      "reading": "みのがめ",
-      "meaning": "rùa già với rong biển mọc trên lưng"
-    },
-    {
       "word": "腰蓑",
       "reading": "こしみの",
       "meaning": "váy rơm"
@@ -65,11 +70,6 @@
       "word": "蓑笠子",
       "reading": "みのかさご",
       "meaning": "cá mao tiên"
-    },
-    {
-      "word": "隠れ蓑",
-      "reading": "かくれみの",
-      "meaning": "áo tàng hình"
     },
     {
       "word": "歯並蓑笠子",

@@ -69,19 +69,24 @@
   ],
   "vocabulary": [
     {
-      "word": "かぶろ かむろ はげ ハゲ 顔が大きくて頭は禿げているのよ",
-      "reading": "禿",
-      "meaning": "chốc"
-    },
-    {
-      "word": "後背地・禿げ丘・禿げ山における多年生樹木の植林",
-      "reading": "こうはいち・はげおか・はげやまにおけるたねんせいじゅもくのしょくりん",
-      "meaning": "ｔrồng cây lâu năm trên đất hoang"
-    },
-    {
       "word": "禿げ",
       "reading": "はげ",
       "meaning": "hói"
+    },
+    {
+      "word": "禿げ頭",
+      "reading": "はげあたま",
+      "meaning": "đầu hói"
+    },
+    {
+      "word": "禿げ山",
+      "reading": "はげやま",
+      "meaning": "núi trọc"
+    },
+    {
+      "word": "若禿げ",
+      "reading": "わかはげ",
+      "meaning": "sự rụng tóc còn non"
     },
     {
       "word": "禿る",
@@ -94,29 +99,24 @@
       "meaning": "cực kỳ đồng ý"
     },
     {
-      "word": "禿鷹",
-      "reading": "はげたか",
-      "meaning": "chim kền kền"
-    },
-    {
       "word": "丸禿",
       "reading": "まるはげ",
       "meaning": "sự hói cả đầu"
     },
     {
-      "word": "禿鷲",
-      "reading": "はげわし",
-      "meaning": "con kền kền"
+      "word": "禿げる",
+      "reading": "はげる",
+      "meaning": "trọc"
     },
     {
-      "word": "禿頭",
-      "reading": "はげあたま",
-      "meaning": "hói đầu"
+      "word": "禿尖鼠",
+      "reading": "ちびとがりねずみ",
+      "meaning": "chuột chù hói"
     },
     {
-      "word": "禿山",
-      "reading": "はげやま",
-      "meaning": "núi trọc"
+      "word": "禿瘡",
+      "reading": "とくそう",
+      "meaning": "rụng tóc từng mảng"
     }
   ]
 }

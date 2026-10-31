@@ -109,29 +109,24 @@
   ],
   "vocabulary": [
     {
+      "word": "恥ずかしい",
+      "reading": "はずかしい",
+      "meaning": "ê mặt"
+    },
+    {
       "word": "恥",
       "reading": "はじ",
       "meaning": "sự xấu hổ"
     },
     {
-      "word": "問うは一度の恥、問わぬは末代の恥",
-      "reading": "とうはいちどのはじ、とわぬはまつだいのはじ",
-      "meaning": "hỏi là xấu hổ một lúc"
+      "word": "恥じる",
+      "reading": "はじる",
+      "meaning": "cảm thấy xấu hổ"
     },
     {
-      "word": "問うは一旦の恥問わぬは末代の恥",
-      "reading": "とうはいったんのはじ、とわぬはまつだいのはじ",
-      "meaning": "hỏi thì xấu hổ một lúc"
-    },
-    {
-      "word": "聞くは一時の恥聞かぬは末代の恥",
-      "reading": "きくはいっときのはじ、きかぬはまつだいのはじ",
-      "meaning": "hỏi thì xấu hổ nhưng còn hơn không hỏi thì không bao giờ biết"
-    },
-    {
-      "word": "国恥",
-      "reading": "こくち",
-      "meaning": "nỗi nhục quốc gia"
+      "word": "恥じらう",
+      "reading": "はじらう",
+      "meaning": "cảm thấy xấu hổ"
     },
     {
       "word": "大恥",
@@ -139,24 +134,29 @@
       "meaning": "vô cùng xấu hổ"
     },
     {
-      "word": "恥垢",
-      "reading": "ちこう",
-      "meaning": "smegma"
-    },
-    {
-      "word": "恥部",
-      "reading": "ちぶ",
-      "meaning": "<thgt> chỗ kín"
-    },
-    {
-      "word": "恥辱",
-      "reading": "ちじょく",
-      "meaning": "sự sỉ nhục"
+      "word": "国恥",
+      "reading": "こくち",
+      "meaning": "nỗi nhục quốc gia"
     },
     {
       "word": "恥毛",
       "reading": "ちもう",
       "meaning": "lông mu"
+    },
+    {
+      "word": "死に恥",
+      "reading": "しにはじ",
+      "meaning": "sự xấu hổ sau khi chết"
+    },
+    {
+      "word": "恥垢",
+      "reading": "ちこう",
+      "meaning": "smegma"
+    },
+    {
+      "word": "恥丘",
+      "reading": "ちきゅう",
+      "meaning": "mu"
     }
   ]
 }

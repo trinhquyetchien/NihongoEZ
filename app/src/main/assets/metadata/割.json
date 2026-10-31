@@ -93,34 +93,19 @@
   ],
   "vocabulary": [
     {
-      "word": "割",
-      "reading": "わり",
-      "meaning": "tỉ lệ"
+      "word": "割合",
+      "reading": "わりあい",
+      "meaning": "tỷ lệ"
     },
     {
-      "word": "割勘",
-      "reading": "わりかん",
-      "meaning": "chia đều"
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "phận sự"
     },
     {
-      "word": "割増",
-      "reading": "わりまし",
-      "meaning": "phụ thu"
-    },
-    {
-      "word": "割当",
-      "reading": "わりあて",
-      "meaning": "sự phân công"
-    },
-    {
-      "word": "割高",
-      "reading": "わりだか",
-      "meaning": "tương đối cao"
-    },
-    {
-      "word": "割に",
-      "reading": "わりに",
-      "meaning": "trong tỷ lệ..."
+      "word": "割る",
+      "reading": "わる",
+      "meaning": "bửa"
     },
     {
       "word": "割と",
@@ -128,19 +113,34 @@
       "meaning": "có liên quan"
     },
     {
-      "word": "割興",
-      "reading": "わりこう",
-      "meaning": "chiết khấu mối ràng buộc ngân hàng công nghiệp"
+      "word": "割引",
+      "reading": "わりびき",
+      "meaning": "bớt giá"
     },
     {
-      "word": "薪割",
-      "reading": "まきわり",
-      "meaning": "chặt gỗ"
+      "word": "割",
+      "reading": "わり",
+      "meaning": "tỉ lệ"
     },
     {
-      "word": "特割",
-      "reading": "とくわり",
-      "meaning": "giảm giá đặc biệt"
+      "word": "一割",
+      "reading": "いちわり",
+      "meaning": "mười phần trăm"
+    },
+    {
+      "word": "二割",
+      "reading": "にわり",
+      "meaning": "hai mươi phần trăm"
+    },
+    {
+      "word": "割子",
+      "reading": "わりご",
+      "meaning": "hộp cơm gỗ có nắp ngăn"
+    },
+    {
+      "word": "等割",
+      "reading": "とうかつ",
+      "meaning": "giai đoạn phân chia"
     }
   ]
 }

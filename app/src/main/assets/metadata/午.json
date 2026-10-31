@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "午",
-      "reading": "うま",
-      "meaning": "ngọ"
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "vào buổi chiều"
     },
     {
       "word": "午前",
@@ -116,39 +116,39 @@
       "meaning": "buổi sáng"
     },
     {
-      "word": "午後",
-      "reading": "ごご",
-      "meaning": "vào buổi chiều"
-    },
-    {
-      "word": "亭午",
-      "reading": "ていご",
+      "word": "正午",
+      "reading": "しょうご",
       "meaning": "buổi trưa"
     },
     {
-      "word": "丙午",
-      "reading": "ひのえうま",
-      "meaning": "năm bính ngọ"
+      "word": "午後中",
+      "reading": "ごごじゅう",
+      "meaning": "khắp cả buổi chiều"
     },
     {
-      "word": "午睡",
-      "reading": "ごすい",
-      "meaning": "ngủ trưa"
+      "word": "午後一",
+      "reading": "ごごいち",
+      "meaning": "điều đầu tiên vào buổi chiều"
     },
     {
-      "word": "午后",
-      "reading": "ごご",
-      "meaning": "buổi chiều"
+      "word": "午前中",
+      "reading": "ごぜんちゅう",
+      "meaning": "cả buổi sáng"
     },
     {
-      "word": "午餐",
-      "reading": "ごさん",
-      "meaning": "bữa ăn trưa"
+      "word": "真正午",
+      "reading": "しんしょうご",
+      "meaning": "giờ ngọ thật sự"
     },
     {
-      "word": "午刻",
-      "reading": "ごこく",
-      "meaning": "trưa"
+      "word": "視正午",
+      "reading": "ししょうご",
+      "meaning": "giờ chính ngọ"
+    },
+    {
+      "word": "午",
+      "reading": "うま",
+      "meaning": "ngọ"
     },
     {
       "word": "午年",

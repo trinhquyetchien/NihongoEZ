@@ -53,19 +53,9 @@
       "meaning": "con tê giác"
     },
     {
-      "word": "木犀",
-      "reading": "もくせい",
-      "meaning": "cây ôliu thơm ngát"
-    },
-    {
       "word": "白犀",
       "reading": "しろさい",
       "meaning": "tê giác trắng"
-    },
-    {
-      "word": "スマトラ犀",
-      "reading": "スマトラさい",
-      "meaning": "tê giác sumatra"
     },
     {
       "word": "黒犀",
@@ -78,16 +68,6 @@
       "meaning": "sừng tê giác"
     },
     {
-      "word": "インド犀",
-      "reading": "インドさい",
-      "meaning": "tê giác ấn độ"
-    },
-    {
-      "word": "ジャワ犀",
-      "reading": "ジャワさい",
-      "meaning": "tê giác java"
-    },
-    {
       "word": "犀鳥",
       "reading": "さいちょう",
       "meaning": "họ hồng hoàng"
@@ -96,6 +76,26 @@
       "word": "犀皮",
       "reading": "さいひ",
       "meaning": "da của con tê giác"
+    },
+    {
+      "word": "烏犀帯",
+      "reading": "うさいたい",
+      "meaning": "một loại dây đai trang trí của nhật"
+    },
+    {
+      "word": "金木犀",
+      "reading": "きんもくせい",
+      "meaning": "cây ôliu"
+    },
+    {
+      "word": "木犀",
+      "reading": "もくせい",
+      "meaning": "cây ôliu thơm ngát"
+    },
+    {
+      "word": "銀木犀",
+      "reading": "ぎんもくせい",
+      "meaning": "trà ô liu"
     }
   ]
 }

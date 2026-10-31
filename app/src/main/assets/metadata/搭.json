@@ -84,14 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "搭乗",
-      "reading": "とうじょう",
-      "meaning": "việc lên máy bay"
-    },
-    {
       "word": "搭載",
       "reading": "とうさい",
       "meaning": "sự trang bị"
+    },
+    {
+      "word": "搭乗",
+      "reading": "とうじょう",
+      "meaning": "việc lên máy bay"
     },
     {
       "word": "搭乗者",
@@ -99,24 +99,14 @@
       "meaning": "hành khách"
     },
     {
-      "word": "搭乗員",
-      "reading": "とうじょういん",
-      "meaning": "thành viên đoàn thủy thủ"
-    },
-    {
-      "word": "搭乗橋",
-      "reading": "とうじょうきょう",
-      "meaning": "một lối lên máy bay cho hành khách đi trực tiếp từ sân bay vào máy bay"
-    },
-    {
-      "word": "搭乗券",
-      "reading": "とうじょうけん",
-      "meaning": "vé máy bay"
-    },
-    {
       "word": "搭乗口",
       "reading": "とうじょうぐち",
       "meaning": "cửa lên máy bay"
+    },
+    {
+      "word": "搭乗員",
+      "reading": "とうじょういん",
+      "meaning": "thành viên đoàn thủy thủ"
     },
     {
       "word": "搭乗率",
@@ -124,14 +114,24 @@
       "meaning": "tỉ lệ hành khách lên máy bay"
     },
     {
+      "word": "搭乗券",
+      "reading": "とうじょうけん",
+      "meaning": "vé máy bay"
+    },
+    {
+      "word": "搭乗橋",
+      "reading": "とうじょうきょう",
+      "meaning": "một lối lên máy bay cho hành khách đi trực tiếp từ sân bay vào máy bay"
+    },
+    {
       "word": "搭状比",
       "reading": "とうじょうひ",
       "meaning": "tỉ lệ dùng trong tính toán kết cấu kiến trúc"
     },
     {
-      "word": "搭乗案内",
-      "reading": "とうじょうあんない",
-      "meaning": "sự hướng dẫn trên tàu"
+      "word": "搭載する",
+      "reading": "とうさいする",
+      "meaning": "đăng tải"
     }
   ]
 }

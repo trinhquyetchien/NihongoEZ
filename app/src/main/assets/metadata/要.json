@@ -90,41 +90,6 @@
   ],
   "vocabulary": [
     {
-      "word": "要",
-      "reading": "よう",
-      "meaning": "điểm thiết yếu"
-    },
-    {
-      "word": "要所要所",
-      "reading": "ようしょようしょ",
-      "meaning": "những điểm quan trọng"
-    },
-    {
-      "word": "重要成功要因",
-      "reading": "じゅーよーせーこーよーいん",
-      "meaning": "csf"
-    },
-    {
-      "word": "主要成功要因",
-      "reading": "しゅよーせーこーよーいん",
-      "meaning": "yếu tố thành công quan trọng"
-    },
-    {
-      "word": "要注意",
-      "reading": "ようちゅうい",
-      "meaning": "sự chú ý cần thiết"
-    },
-    {
-      "word": "要点",
-      "reading": "ようてん",
-      "meaning": "yếu điểm"
-    },
-    {
-      "word": "要訳",
-      "reading": "ようやく",
-      "meaning": "tóm lược"
-    },
-    {
       "word": "重要",
       "reading": "じゅうよう",
       "meaning": "sự trọng yếu"
@@ -135,9 +100,44 @@
       "meaning": "nhu cầu"
     },
     {
-      "word": "枢要",
-      "reading": "すうよう",
-      "meaning": "quan trọng"
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "yếu điểm"
+    },
+    {
+      "word": "要",
+      "reading": "よう",
+      "meaning": "điểm thiết yếu"
+    },
+    {
+      "word": "体要",
+      "reading": "たいよう",
+      "meaning": "quan trọng chỉ"
+    },
+    {
+      "word": "要注意",
+      "reading": "ようちゅうい",
+      "meaning": "sự chú ý cần thiết"
+    },
+    {
+      "word": "要訳",
+      "reading": "ようやく",
+      "meaning": "tóm lược"
+    },
+    {
+      "word": "要石",
+      "reading": "かなめいし",
+      "meaning": "một loại đá được cho là có thể dập tắt một trận động đất. nằm ở đền kashima"
+    },
+    {
+      "word": "要説",
+      "reading": "ようせつ",
+      "meaning": "sự giới thiệu"
+    },
+    {
+      "word": "概要",
+      "reading": "がいよう",
+      "meaning": "phác thảo"
     }
   ]
 }

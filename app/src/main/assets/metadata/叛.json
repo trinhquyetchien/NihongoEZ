@@ -50,14 +50,34 @@
   ],
   "vocabulary": [
     {
-      "word": "叛心",
-      "reading": "はんしん",
-      "meaning": "tinh thần chống đối"
+      "word": "叛逆",
+      "reading": "はんぎゃく",
+      "meaning": "bạn nghịch"
     },
     {
       "word": "叛乱",
       "reading": "はんらん",
       "meaning": "cuộc nổi loạn"
+    },
+    {
+      "word": "謀叛",
+      "reading": "むほん",
+      "meaning": "sự phản bội"
+    },
+    {
+      "word": "叛旗",
+      "reading": "はんき",
+      "meaning": "tiêu chuẩn nổi loạn"
+    },
+    {
+      "word": "叛く",
+      "reading": "そむく",
+      "meaning": "phản"
+    },
+    {
+      "word": "叛心",
+      "reading": "はんしん",
+      "meaning": "tinh thần chống đối"
     },
     {
       "word": "叛臣",
@@ -70,11 +90,6 @@
       "meaning": "chống đối người lãnh đạo"
     },
     {
-      "word": "叛く",
-      "reading": "そむく",
-      "meaning": "phản"
-    },
-    {
       "word": "叛意",
       "reading": "はんい",
       "meaning": "tinh thần cuộc nổi loạn"
@@ -83,21 +98,6 @@
       "word": "叛軍",
       "reading": "はんぐん",
       "meaning": "quân phản loạn"
-    },
-    {
-      "word": "叛跡",
-      "reading": "はんせき",
-      "meaning": "kết quả cuộc nổi loạn"
-    },
-    {
-      "word": "謀叛",
-      "reading": "むほん",
-      "meaning": "sự phản bội"
-    },
-    {
-      "word": "叛賊",
-      "reading": "はんぞく",
-      "meaning": "chống đối"
     }
   ]
 }

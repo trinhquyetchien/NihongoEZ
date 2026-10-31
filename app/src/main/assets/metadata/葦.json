@@ -61,34 +61,14 @@
       "meaning": "cây lau"
     },
     {
-      "word": "葦辺",
-      "reading": "あしべ",
-      "meaning": "lau sậy"
+      "word": "葦手",
+      "reading": "あしで",
+      "meaning": "bức tranh mô tả lau sậy xung quanh nước với đá"
     },
     {
-      "word": "葦登",
-      "reading": "よしのぼり",
-      "meaning": "cá nước ngọt thuộc họ gobiidae"
-    },
-    {
-      "word": "一葦",
-      "reading": "いちい",
-      "meaning": "một cây lau"
-    },
-    {
-      "word": "葦毛",
-      "reading": "あしげ",
-      "meaning": "lông ngựa màu nâu xám"
-    },
-    {
-      "word": "葦笛",
-      "reading": "あしぶえ",
-      "meaning": "ống sáo bằng sậy"
-    },
-    {
-      "word": "葦鴨",
-      "reading": "よしがも",
-      "meaning": "teal hình lưỡi liềm"
+      "word": "間葦",
+      "reading": "あいあし",
+      "meaning": "phacelurus latifolius"
     },
     {
       "word": "葦船",
@@ -96,14 +76,34 @@
       "meaning": "thuyền lau"
     },
     {
-      "word": "葦簾",
-      "reading": "よしず",
-      "meaning": "màn ảnh lau"
+      "word": "葦五位",
+      "reading": "よしごい",
+      "meaning": "cò lửa lùn"
     },
     {
-      "word": "葦簀",
-      "reading": "よしず",
-      "meaning": "rèm cửa làm bằng cây lau"
+      "word": "大葦切",
+      "reading": "おおよしきり",
+      "meaning": "chim chích sậy lớn"
+    },
+    {
+      "word": "小葦切",
+      "reading": "こよしきり",
+      "meaning": "chim chích lau sậy nhỏ"
+    },
+    {
+      "word": "葦鴨",
+      "reading": "よしがも",
+      "meaning": "teal hình lưỡi liềm"
+    },
+    {
+      "word": "丘葦鴨",
+      "reading": "おかよしがも",
+      "meaning": "vịt mốc"
+    },
+    {
+      "word": "葦の髄",
+      "reading": "あしのずい",
+      "meaning": "ruột cây lau"
     }
   ]
 }

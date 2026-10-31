@@ -94,29 +94,9 @@
       "meaning": "bề mặt"
     },
     {
-      "word": "肌ツヤ",
-      "reading": "はだつや",
-      "meaning": "độ bóng của da"
-    },
-    {
-      "word": "白肌",
-      "reading": "しらはだ",
-      "meaning": "làn da trắng"
-    },
-    {
-      "word": "山肌",
-      "reading": "やまはだ",
-      "meaning": "sườn núi"
-    },
-    {
-      "word": "肌骨",
-      "reading": "きこつ",
-      "meaning": "da và xương"
-    },
-    {
-      "word": "美肌",
-      "reading": "びはだ",
-      "meaning": "làn da đẹp"
+      "word": "肌着",
+      "reading": "はだぎ",
+      "meaning": "quần áo lót"
     },
     {
       "word": "肌馬",
@@ -124,19 +104,39 @@
       "meaning": "ngựa cái giống"
     },
     {
-      "word": "地肌",
-      "reading": "じはだ",
-      "meaning": "da không trang điểm"
+      "word": "玉の肌",
+      "reading": "たまのはだ",
+      "meaning": "da đẹp như ngọc"
     },
     {
-      "word": "素肌",
-      "reading": "すはだ",
-      "meaning": "phơi bày thân thể"
+      "word": "両肌",
+      "reading": "もろはだ",
+      "meaning": "phần da thân trên"
     },
     {
-      "word": "黄肌",
-      "reading": "きはだ",
-      "meaning": "cá ngừ califoni có vây màu vàng"
+      "word": "卵肌",
+      "reading": "たまごはだ",
+      "meaning": "da trắng như trứng gà bóc"
+    },
+    {
+      "word": "肌骨",
+      "reading": "きこつ",
+      "meaning": "da và xương"
+    },
+    {
+      "word": "天才肌",
+      "reading": "てんさいはだ",
+      "meaning": "có vẻ như một thiên tài"
+    },
+    {
+      "word": "学者肌",
+      "reading": "がくしゃはだ",
+      "meaning": "có khiếu nghiên cứu học thuật"
+    },
+    {
+      "word": "甘肌",
+      "reading": "あまはだ",
+      "meaning": "endocarp"
     }
   ]
 }

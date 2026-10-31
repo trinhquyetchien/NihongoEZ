@@ -104,19 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "赴援",
-      "reading": "ふえん",
-      "meaning": "tăng cường"
-    },
-    {
-      "word": "支援",
-      "reading": "しえん",
+      "word": "援助",
+      "reading": "えんじょ",
       "meaning": "chi viện"
-    },
-    {
-      "word": "救援",
-      "reading": "きゅうえん",
-      "meaning": "sự cứu viện"
     },
     {
       "word": "応援",
@@ -124,34 +114,44 @@
       "meaning": "cổ vũ"
     },
     {
-      "word": "後援",
-      "reading": "こうえん",
-      "meaning": "sự tiếp tế"
+      "word": "救援",
+      "reading": "きゅうえん",
+      "meaning": "sự cứu viện"
     },
     {
-      "word": "援護",
-      "reading": "えんご",
-      "meaning": "sự trợ giúp"
+      "word": "支援",
+      "reading": "しえん",
+      "meaning": "chi viện"
     },
     {
-      "word": "逆援",
-      "reading": "ぎゃくえん",
-      "meaning": "phụ nữ trả tiền cho con trai để quan hệ tình dục"
+      "word": "支援者",
+      "reading": "しえんしゃ",
+      "meaning": "vật chống đỡ"
     },
     {
-      "word": "援引",
-      "reading": "えんいん",
-      "meaning": "trích dẫn"
+      "word": "支援金",
+      "reading": "しえんきん",
+      "meaning": "tiền hỗ trợ"
     },
     {
-      "word": "援用",
-      "reading": "えんよう",
-      "meaning": "sự viện dẫn"
+      "word": "応援者",
+      "reading": "おうえんしゃ",
+      "meaning": "người cổ vũ"
     },
     {
-      "word": "援兵",
-      "reading": "えんぺい",
-      "meaning": "quân tiếp viện"
+      "word": "支援隊",
+      "reading": "しえんたい",
+      "meaning": "viện binh"
+    },
+    {
+      "word": "応援歌",
+      "reading": "おうえんか",
+      "meaning": "bài hát cổ động"
+    },
+    {
+      "word": "応援隊",
+      "reading": "おうえんたい",
+      "meaning": "đội cổ vũ"
     }
   ]
 }

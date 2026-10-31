@@ -92,14 +92,14 @@
       "meaning": "thìn - chi thứ năm trong mười hai con giáp"
     },
     {
-      "word": "戊辰",
-      "reading": "つちのえたつ",
-      "meaning": "năm chu trình sexagenary"
+      "word": "辰年",
+      "reading": "たつどし",
+      "meaning": "năm thìn"
     },
     {
-      "word": "星辰",
-      "reading": "せいしん",
-      "meaning": "sao"
+      "word": "辰の年",
+      "reading": "たつのとし",
+      "meaning": "năm thìn"
     },
     {
       "word": "辰砂",
@@ -107,34 +107,34 @@
       "meaning": "chu sa"
     },
     {
-      "word": "辰年",
-      "reading": "たつどし",
-      "meaning": "năm thìn"
+      "word": "甲辰",
+      "reading": "きのえたつ",
+      "meaning": "giáp thìn"
     },
     {
-      "word": "北辰",
-      "reading": "ほくしん",
-      "meaning": "sao bắc đẩu"
-    },
-    {
-      "word": "佳辰",
-      "reading": "かしん",
-      "meaning": "ngày may mắn"
-    },
-    {
-      "word": "誕辰",
-      "reading": "たんしん",
-      "meaning": "ngày sinh"
-    },
-    {
-      "word": "嘉辰",
-      "reading": "かしん",
-      "meaning": "ngày may mắn"
+      "word": "辰の刻",
+      "reading": "たつのこく",
+      "meaning": "giờ thìn"
     },
     {
       "word": "辰巳",
       "reading": "たつみ",
       "meaning": "hướng đông nam"
+    },
+    {
+      "word": "時辰儀",
+      "reading": "じしんぎ",
+      "meaning": "đồng hồ bấm giờ"
+    },
+    {
+      "word": "丙辰",
+      "reading": "ひのえたつ",
+      "meaning": "bính thìn"
+    },
+    {
+      "word": "壬辰",
+      "reading": "みずのえたつ",
+      "meaning": "năm nhâm thìn"
     }
   ]
 }

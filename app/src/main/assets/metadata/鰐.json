@@ -59,24 +59,9 @@
       "meaning": "cá mập hổ cát"
     },
     {
-      "word": "アメリカ鰐",
-      "reading": "アメリカわに",
-      "meaning": "cá sấu mỹ"
-    },
-    {
-      "word": "ミシシッピ鰐",
-      "reading": "ミシシッピわに",
-      "meaning": "cá sấu mõm ngắn mỹ"
-    },
-    {
       "word": "内鰐",
       "reading": "うちわに",
       "meaning": "có chân vòng kiềng"
-    },
-    {
-      "word": "ナイル鰐",
-      "reading": "ナイルわに",
-      "meaning": "cá sấu sông nin"
     },
     {
       "word": "外鰐",
@@ -84,19 +69,34 @@
       "meaning": "dáng đi hai hàng"
     },
     {
+      "word": "鰐魚",
+      "reading": "がくぎょ",
+      "meaning": "cá sấu"
+    },
+    {
       "word": "鰐皮",
       "reading": "わにがわ",
       "meaning": "cá sấu hoặc da cá sấu mỹ"
     },
     {
-      "word": "鰐足",
-      "reading": "わにあし",
-      "meaning": "có chân vòng kiềng"
+      "word": "鰐亀",
+      "reading": "わにがめ",
+      "meaning": "rùa cá sấu"
+    },
+    {
+      "word": "鰐梨",
+      "reading": "わになし",
+      "meaning": "quả bơ"
     },
     {
       "word": "沼鰐",
       "reading": "ぬまわに",
       "meaning": "cá sấu ấn độ"
+    },
+    {
+      "word": "待兼鰐",
+      "reading": "まちかねわに",
+      "meaning": "cá sấu machikane"
     }
   ]
 }

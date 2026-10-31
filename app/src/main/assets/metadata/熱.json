@@ -94,49 +94,49 @@
       "meaning": "nhiệt độ"
     },
     {
-      "word": "熱熱",
-      "reading": "あつあつ",
-      "meaning": "thức ăn quá nóng"
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "sự đốt nóng"
     },
     {
-      "word": "潜熱蓄熱",
-      "reading": "せんねつちくねつ",
-      "meaning": "lưu trữ nhiệt ẩn"
+      "word": "熱量",
+      "reading": "ねつりょう",
+      "meaning": "nhiệt lượng"
     },
     {
-      "word": "蓄熱",
-      "reading": "ちくねつ",
-      "meaning": "trữ nhiệt"
+      "word": "熱さ",
+      "reading": "あつさ",
+      "meaning": "sức nóng"
     },
     {
-      "word": "灼熱",
-      "reading": "しゃくねつ",
-      "meaning": "sự nóng sáng"
+      "word": "お熱",
+      "reading": "おねつ",
+      "meaning": "việc yêu thích một ai đó"
     },
     {
-      "word": "高熱",
-      "reading": "こうねつ",
-      "meaning": "sốt cao"
+      "word": "下熱",
+      "reading": "げねつ",
+      "meaning": "sự hạ sốt"
     },
     {
-      "word": "断熱",
-      "reading": "だんねつ",
-      "meaning": "sự cô lập"
-    },
-    {
-      "word": "熱風",
-      "reading": "ねっぷう",
-      "meaning": "gió nóng"
-    },
-    {
-      "word": "熱源",
-      "reading": "ねつげん",
-      "meaning": "nguồn nhiệt"
+      "word": "体熱",
+      "reading": "たいねつ",
+      "meaning": "thân thể nóng lên"
     },
     {
       "word": "熱水",
       "reading": "ねっすい",
       "meaning": "nước nóng"
+    },
+    {
+      "word": "火熱",
+      "reading": "かねつ",
+      "meaning": "nóng lên"
+    },
+    {
+      "word": "悪熱",
+      "reading": "おねつ",
+      "meaning": "làm sốt đi theo một sự lạnh lẽo"
     }
   ]
 }

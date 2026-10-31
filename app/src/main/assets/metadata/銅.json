@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "銅",
-      "reading": "どう",
-      "meaning": "đồng"
-    },
-    {
       "word": "銅貨",
       "reading": "どうか",
       "meaning": "tiền đồng"
     },
     {
-      "word": "銅矛",
-      "reading": "どうほこ",
-      "meaning": "ngọn giáo bằng đồng"
-    },
-    {
-      "word": "ニッケル銅",
-      "reading": "ニッケルどう",
-      "meaning": "hợp kim niken-đồng"
-    },
-    {
-      "word": "黄銅",
-      "reading": "こうどう",
-      "meaning": "đồng thau"
-    },
-    {
-      "word": "銅賞",
-      "reading": "どうしょう",
-      "meaning": "huy chương đồng"
-    },
-    {
-      "word": "和銅",
-      "reading": "わどう",
-      "meaning": "wadō"
-    },
-    {
-      "word": "銅戈",
-      "reading": "どうか",
+      "word": "銅",
+      "reading": "どう",
       "meaning": "đồng"
     },
     {
-      "word": "銅剣",
-      "reading": "どうけん",
-      "meaning": "kiếm đồng"
+      "word": "銅色",
+      "reading": "どうしょく",
+      "meaning": "màu đồng"
     },
     {
-      "word": "金銅",
-      "reading": "こんどう",
-      "meaning": "đồ đồng mạ vàng"
+      "word": "銅線",
+      "reading": "どうせん",
+      "meaning": "dây đồng"
+    },
+    {
+      "word": "銅製",
+      "reading": "どうせい",
+      "meaning": "làm đồng"
+    },
+    {
+      "word": "銅バー",
+      "reading": "どうバー",
+      "meaning": "thanh đồng"
+    },
+    {
+      "word": "銅鍋",
+      "reading": "あかなべ",
+      "meaning": "nồi đồng"
+    },
+    {
+      "word": "響銅",
+      "reading": "さはり",
+      "meaning": "hợp kim đồng với các vết bạc"
+    },
+    {
+      "word": "銅藍",
+      "reading": "どうらん",
+      "meaning": "covelit"
+    },
+    {
+      "word": "銅像",
+      "reading": "どうぞう",
+      "meaning": "tượng đồng"
     }
   ]
 }

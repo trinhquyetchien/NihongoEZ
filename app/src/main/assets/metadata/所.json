@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
-      "word": "所",
-      "reading": "ところ",
-      "meaning": "nơi"
-    },
-    {
-      "word": "所所",
-      "reading": "ところどころ",
-      "meaning": "ở đây và ở đó"
-    },
-    {
-      "word": "大所高所",
-      "reading": "たいしょこうしょ",
-      "meaning": "cái nhìn rộng"
-    },
-    {
-      "word": "要所要所",
-      "reading": "ようしょようしょ",
-      "meaning": "những điểm quan trọng"
-    },
-    {
-      "word": "所所方方",
-      "reading": "しょしょほうぼう",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "長所は短所",
-      "reading": "ちょうしょはたんしょ",
-      "meaning": "điểm mạnh của chúng ta là điểm yếu của chúng ta"
-    },
-    {
-      "word": "所帯",
-      "reading": "しょたい",
-      "meaning": "gia sản"
-    },
-    {
-      "word": "宛所",
-      "reading": "あてどころ",
-      "meaning": "địa chỉ"
-    },
-    {
       "word": "住所",
       "reading": "じゅうしょ",
       "meaning": "chỗ ở"
     },
     {
-      "word": "所見",
-      "reading": "しょけん",
-      "meaning": "nhìn"
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "phận"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "sự sở hữu"
+    },
+    {
+      "word": "所得",
+      "reading": "しょとく",
+      "meaning": "thu nhập"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "chỗ ở"
+    },
+    {
+      "word": "所定",
+      "reading": "しょてい",
+      "meaning": "cố định"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "nơi"
+    },
+    {
+      "word": "所で",
+      "reading": "ところで",
+      "meaning": "nhân tiện"
+    },
+    {
+      "word": "所か",
+      "reading": "どころか",
+      "meaning": "khoan nói tới"
+    },
+    {
+      "word": "所へ",
+      "reading": "ところへ",
+      "meaning": "dựa trên những vấn đề trước"
     }
   ]
 }

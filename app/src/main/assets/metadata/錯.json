@@ -88,6 +88,11 @@
   ],
   "vocabulary": [
     {
+      "word": "錯覚",
+      "reading": "さっかく",
+      "meaning": "ảo giác"
+    },
+    {
       "word": "錯誤",
       "reading": "さくご",
       "meaning": "sai lầm"
@@ -98,9 +103,14 @@
       "meaning": "sự lẫn lộn"
     },
     {
-      "word": "錯雑",
-      "reading": "さくざつ",
-      "meaning": "sự phức tạp"
+      "word": "倒錯",
+      "reading": "とうさく",
+      "meaning": "sự lệch lạc"
+    },
+    {
+      "word": "倒錯者",
+      "reading": "とうさくしゃ",
+      "meaning": "người hư hỏng"
     },
     {
       "word": "交錯",
@@ -108,14 +118,14 @@
       "meaning": "hỗn hợp"
     },
     {
-      "word": "錯角",
-      "reading": "さっかく",
-      "meaning": "góc so le"
-    },
-    {
       "word": "錯綜",
       "reading": "さくそう",
       "meaning": "sự phức tạp"
+    },
+    {
+      "word": "錯視",
+      "reading": "さくし",
+      "meaning": "ảo ảnh quang học"
     },
     {
       "word": "介錯",
@@ -123,19 +133,9 @@
       "meaning": "giúp đỡ chăm sóc ai"
     },
     {
-      "word": "失錯",
-      "reading": "しっさく",
-      "meaning": "phạm sai lầm"
-    },
-    {
-      "word": "錯イオン",
-      "reading": "さくイオン",
-      "meaning": "iông tạp"
-    },
-    {
-      "word": "錯簡",
-      "reading": "さっかん",
-      "meaning": "những trang sách) ra khỏi thứ tự vì một lỗi trong việc kết khối lại"
+      "word": "介錯人",
+      "reading": "かいしゃくにん",
+      "meaning": "người kết liễu samurai sau khi nghi lễ mổ bụng"
     }
   ]
 }

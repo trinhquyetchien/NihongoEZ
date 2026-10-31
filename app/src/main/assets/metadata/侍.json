@@ -93,9 +93,24 @@
       "meaning": "võ sĩ"
     },
     {
-      "word": "陪侍",
-      "reading": "ばいじ",
-      "meaning": "lão bộc"
+      "word": "地侍",
+      "reading": "じざむらい",
+      "meaning": "samurai địa phương"
+    },
+    {
+      "word": "侍祭",
+      "reading": "じさい",
+      "meaning": "thầy tu cấp dưới"
+    },
+    {
+      "word": "田舎侍",
+      "reading": "いなかざむらい",
+      "meaning": "nước samurai"
+    },
+    {
+      "word": "若侍",
+      "reading": "わかざむらい",
+      "meaning": "võ sĩ trẻ tuổi"
     },
     {
       "word": "脇侍",
@@ -103,39 +118,24 @@
       "meaning": "hộ pháp hai bên"
     },
     {
-      "word": "侍蟻",
-      "reading": "さむらいあり",
-      "meaning": "polyergus samurai"
+      "word": "芋侍",
+      "reading": "いもざむらい",
+      "meaning": "samurai mộc mạc"
     },
     {
-      "word": "典侍",
-      "reading": "てんじ",
-      "meaning": "thiếu nữ danh dự"
+      "word": "遠侍",
+      "reading": "とおさぶらい",
+      "meaning": "nhà bảo vệ trong một ngôi nhà theo phong cách samurai"
     },
     {
-      "word": "侍女",
-      "reading": "じじょ",
-      "meaning": "người hầu phòng"
+      "word": "侍僧",
+      "reading": "じそう",
+      "meaning": "thầy tu cấp dưới"
     },
     {
-      "word": "侍婢",
-      "reading": "じひ",
-      "meaning": "nữ thị tỳ"
-    },
-    {
-      "word": "侍立",
-      "reading": "じりつ",
-      "meaning": "sự giúp đỡ"
-    },
-    {
-      "word": "侍講",
-      "reading": "じこう",
-      "meaning": "người giám hộ đế quốc"
-    },
-    {
-      "word": "侍る",
-      "reading": "はべる",
-      "meaning": "phục vụ"
+      "word": "侍八騎",
+      "reading": "さむらいはっき",
+      "meaning": "tám samurai trên lưng ngựa"
     }
   ]
 }

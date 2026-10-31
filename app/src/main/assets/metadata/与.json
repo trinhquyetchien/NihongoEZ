@@ -92,19 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "与",
-      "reading": "むた",
-      "meaning": "cùng với.."
-    },
-    {
-      "word": "与党",
-      "reading": "よとう",
-      "meaning": "đảng cầm quyền"
-    },
-    {
-      "word": "授与",
-      "reading": "じゅよ",
-      "meaning": "việc trao tặng"
+      "word": "与える",
+      "reading": "あたえる",
+      "meaning": "cho"
     },
     {
       "word": "給与",
@@ -112,9 +102,29 @@
       "meaning": "tiền lương"
     },
     {
+      "word": "関与",
+      "reading": "かんよ",
+      "meaning": "sự tham dự"
+    },
+    {
+      "word": "与党",
+      "reading": "よとう",
+      "meaning": "đảng cầm quyền"
+    },
+    {
       "word": "寄与",
       "reading": "きよ",
       "meaning": "sự đóng góp"
+    },
+    {
+      "word": "与え",
+      "reading": "あたえ",
+      "meaning": "gây ra"
+    },
+    {
+      "word": "闇給与",
+      "reading": "やみきゅうよ",
+      "meaning": "bí mật thanh toán"
     },
     {
       "word": "投与",
@@ -122,24 +132,14 @@
       "meaning": "liều dùng"
     },
     {
-      "word": "与格",
-      "reading": "よかく",
-      "meaning": "tặng cách"
+      "word": "投与量",
+      "reading": "とうよりょう",
+      "meaning": "liều"
     },
     {
-      "word": "干与",
-      "reading": "かんよ",
-      "meaning": "sự tham gia"
-    },
-    {
-      "word": "参与",
-      "reading": "さんよ",
-      "meaning": "sự tham gia"
-    },
-    {
-      "word": "譲与",
-      "reading": "じょうよ",
-      "meaning": "chuyển"
+      "word": "付与",
+      "reading": "ふよ",
+      "meaning": "ban"
     }
   ]
 }

@@ -109,19 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "由",
-      "reading": "よし",
-      "meaning": "lý do"
-    },
-    {
-      "word": "由由しい",
-      "reading": "ゆゆしい",
-      "meaning": "khắc"
-    },
-    {
-      "word": "由緒",
-      "reading": "ゆいしょ",
-      "meaning": "lịch sử"
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "nguyên do"
     },
     {
       "word": "自由",
@@ -134,29 +124,39 @@
       "meaning": "sự thông qua đường"
     },
     {
-      "word": "因由",
-      "reading": "いんゆ",
-      "meaning": "nguyên nhân"
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "không tự do"
     },
     {
-      "word": "来由",
-      "reading": "らいゆ",
-      "meaning": "gốc"
+      "word": "自由に",
+      "reading": "じゆうに",
+      "meaning": "tự tiện"
     },
     {
-      "word": "事由",
-      "reading": "じゆう",
-      "meaning": "nguyên nhân"
+      "word": "自由な",
+      "reading": "じゆうな",
+      "meaning": "phóng khoáng"
     },
     {
-      "word": "原由",
-      "reading": "げんゆ",
-      "meaning": "nguyên do"
+      "word": "自由人",
+      "reading": "じゆうじん",
+      "meaning": "người tự do"
     },
     {
-      "word": "候由",
-      "reading": "そうろうよし",
-      "meaning": "tôi nghe thấy that.."
+      "word": "自由化",
+      "reading": "じゆうか",
+      "meaning": "sự mở rộng tự do"
+    },
+    {
+      "word": "自由度",
+      "reading": "じゆうど",
+      "meaning": "+ số lượng các thông tin có thể thay đổi một cách độc lập với nhau"
+    },
+    {
+      "word": "自由型",
+      "reading": "じゆうがた",
+      "meaning": "bơi tự do"
     }
   ]
 }

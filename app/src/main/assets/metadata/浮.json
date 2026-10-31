@@ -109,53 +109,53 @@
   ],
   "vocabulary": [
     {
-      "word": "浮き浮き",
-      "reading": "うきうき",
-      "meaning": "sự vui sướng"
-    },
-    {
-      "word": "浮石",
-      "reading": "うきいわ",
-      "meaning": "đá bọt"
-    },
-    {
-      "word": "浮岩",
-      "reading": "うきいわ",
-      "meaning": "đá bọt"
-    },
-    {
-      "word": "浮漂",
-      "reading": "ふひょう",
+      "word": "浮く",
+      "reading": "うく",
       "meaning": "nổi"
     },
     {
-      "word": "浮生",
-      "reading": "ふせい",
-      "meaning": "cuộc sống nhất thời"
+      "word": "浮気",
+      "reading": "うわき",
+      "meaning": "hay thay đổi"
     },
     {
-      "word": "浮屠",
-      "reading": "ふと",
-      "meaning": "phật"
+      "word": "浮力",
+      "reading": "ふりょく",
+      "meaning": "sức nổi"
     },
     {
-      "word": "浮利",
-      "reading": "ふり",
-      "meaning": "tiền dễ dàng"
+      "word": "浮気心",
+      "reading": "うわきごころ",
+      "meaning": "lòng chăng hoa"
     },
     {
-      "word": "浮腫",
-      "reading": "むくみ",
-      "meaning": "phù nề"
+      "word": "浮かり",
+      "reading": "うかり",
+      "meaning": "bất chợt"
+    },
+    {
+      "word": "浮上",
+      "reading": "ふじょう",
+      "meaning": "nổi lên mặt nước"
+    },
+    {
+      "word": "浮いた",
+      "reading": "ういた",
+      "meaning": "lãng mạn"
+    },
+    {
+      "word": "浮遊",
+      "reading": "ふゆう",
+      "meaning": "nổi"
+    },
+    {
+      "word": "浮遊物",
+      "reading": "ふゆうぶつ",
+      "meaning": "vật nổi được"
     },
     {
       "word": "浮き",
       "reading": "うき",
-      "meaning": "nổi"
-    },
-    {
-      "word": "浮動",
-      "reading": "ふどう",
       "meaning": "nổi"
     }
   ]

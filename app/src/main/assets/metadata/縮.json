@@ -93,29 +93,19 @@
   ],
   "vocabulary": [
     {
-      "word": "縮",
-      "reading": "しゅく",
-      "meaning": "mặc giáp"
-    },
-    {
-      "word": "拘縮",
-      "reading": "こうしゅく",
-      "meaning": "sự co cứng"
-    },
-    {
-      "word": "収縮",
-      "reading": "しゅうしゅく",
-      "meaning": "làm xẹp xuống"
-    },
-    {
-      "word": "縮尺",
-      "reading": "しゅくしゃく",
-      "meaning": "tỉ lệ thu nhỏ"
-    },
-    {
       "word": "縮小",
       "reading": "しゅくしょう",
       "meaning": "sự co nhỏ"
+    },
+    {
+      "word": "圧縮",
+      "reading": "あっしゅく",
+      "meaning": "sự ép"
+    },
+    {
+      "word": "恐縮",
+      "reading": "きょうしゅく",
+      "meaning": "không dám!"
     },
     {
       "word": "縮む",
@@ -123,24 +113,34 @@
       "meaning": "rút ngắn"
     },
     {
-      "word": "攣縮",
-      "reading": "れんしゅく",
-      "meaning": "sự co thắt"
+      "word": "縮れる",
+      "reading": "ちぢれる",
+      "meaning": "nhàu nát"
     },
     {
-      "word": "退縮",
-      "reading": "たいしゅく",
-      "meaning": "sự co lại"
+      "word": "短縮",
+      "reading": "たんしゅく",
+      "meaning": "sự rút ngắn"
     },
     {
-      "word": "凝縮",
-      "reading": "ぎょうしゅく",
-      "meaning": "sự cô đọng"
+      "word": "圧縮袋",
+      "reading": "あっしゅくぶくろ",
+      "meaning": "túi hút chân không"
     },
     {
-      "word": "縮絨",
-      "reading": "しゅくじゅう",
-      "meaning": "quá trình co rút vải để làm vải nỉ"
+      "word": "濃縮",
+      "reading": "のうしゅく",
+      "meaning": "việc ép lấy nước cốt"
+    },
+    {
+      "word": "収縮",
+      "reading": "しゅうしゅく",
+      "meaning": "làm xẹp xuống"
+    },
+    {
+      "word": "収縮期",
+      "reading": "しゅうしゅくき",
+      "meaning": "systole"
     }
   ]
 }

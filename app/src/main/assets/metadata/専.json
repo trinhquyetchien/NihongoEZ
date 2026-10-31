@@ -89,34 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "専",
-      "reading": "せん",
-      "meaning": "có niềm đam mê với"
-    },
-    {
-      "word": "高専",
-      "reading": "こうせん",
-      "meaning": "trường cao đẳng"
-    },
-    {
-      "word": "ブス専",
-      "reading": "ブスせん",
-      "meaning": "người yêu thích phụ nữ không đẹp"
-    },
-    {
-      "word": "Ｂ専",
-      "reading": "ビーせん",
-      "meaning": "người thích người có ngoại hình xấu"
-    },
-    {
-      "word": "ガリ専",
-      "reading": "ガリせん",
-      "meaning": "người bị thu hút bởi những người gầy"
-    },
-    {
-      "word": "外専",
-      "reading": "がいせん",
-      "meaning": "người chỉ hẹn hò hoặc bị thu hút bởi người nước ngoài"
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaning": "chuyên môn"
     },
     {
       "word": "専制",
@@ -124,19 +99,44 @@
       "meaning": "chế độ chuyên quyền"
     },
     {
-      "word": "専業",
-      "reading": "せんぎょう",
-      "meaning": "chuyên nghiệp"
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "chuyên dụng"
     },
     {
-      "word": "専ら",
-      "reading": "もっぱら",
-      "meaning": "hầu hết"
+      "word": "専修",
+      "reading": "せんしゅう",
+      "meaning": "sự chuyên môn hoá"
     },
     {
-      "word": "専科",
-      "reading": "せんか",
-      "meaning": "chuyên khoa"
+      "word": "専門",
+      "reading": "せんもん",
+      "meaning": "chuyên môn"
+    },
+    {
+      "word": "専門性",
+      "reading": "せんもんせい",
+      "meaning": "tính chuyên môn"
+    },
+    {
+      "word": "専門化",
+      "reading": "せんもんか",
+      "meaning": "sự chuyên môn hoá"
+    },
+    {
+      "word": "専門外",
+      "reading": "せんもんがい",
+      "meaning": "ngoài lĩnh vực chuyên môn"
+    },
+    {
+      "word": "専門書",
+      "reading": "せんもんしょ",
+      "meaning": "một sách kỹ thuật"
+    },
+    {
+      "word": "専門語",
+      "reading": "せんもんご",
+      "meaning": "từ chuyên môn"
     }
   ]
 }

@@ -89,19 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "輝輝",
-      "reading": "きき",
-      "meaning": "sáng chói"
+      "word": "輝く",
+      "reading": "かがやく",
+      "meaning": "chói"
     },
     {
-      "word": "輝線",
-      "reading": "きせん",
-      "meaning": "đường quang phổ"
+      "word": "輝点",
+      "reading": "きてん",
+      "meaning": "điểm sáng"
     },
     {
-      "word": "輝度",
-      "reading": "きど",
-      "meaning": "độ sáng"
+      "word": "愛輝",
+      "reading": "あいき",
+      "meaning": "aihui"
     },
     {
       "word": "六輝",
@@ -109,23 +109,13 @@
       "meaning": "6 ngày tiêu biểu của lịch nhật"
     },
     {
-      "word": "光輝",
-      "reading": "こうき",
-      "meaning": "sự huy hoàng"
-    },
-    {
-      "word": "輝石",
-      "reading": "きせき",
-      "meaning": "piroxen"
-    },
-    {
-      "word": "輝く",
-      "reading": "かがやく",
-      "meaning": "chói"
-    },
-    {
       "word": "輝き",
       "reading": "かがやき",
+      "meaning": "sáng chói"
+    },
+    {
+      "word": "輝輝",
+      "reading": "きき",
       "meaning": "sáng chói"
     },
     {
@@ -134,9 +124,19 @@
       "meaning": "việc làm giảm nhiệt kim loại"
     },
     {
-      "word": "輝点",
-      "reading": "きてん",
-      "meaning": "điểm sáng"
+      "word": "輝度",
+      "reading": "きど",
+      "meaning": "độ sáng"
+    },
+    {
+      "word": "高輝度",
+      "reading": "こうきど",
+      "meaning": "độ chói cao màn ảnh màn hình)"
+    },
+    {
+      "word": "光輝",
+      "reading": "こうき",
+      "meaning": "sự huy hoàng"
     }
   ]
 }

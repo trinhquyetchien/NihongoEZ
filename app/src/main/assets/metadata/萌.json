@@ -73,14 +73,19 @@
   ],
   "vocabulary": [
     {
-      "word": "萌芽",
-      "reading": "ほうが",
-      "meaning": "sự manh nha"
-    },
-    {
       "word": "萌え",
       "reading": "もえ",
       "meaning": "tiếng lóng nhật bản. dùng để ám chỉ cảm tình mạnh mẽ với các nhân vật hư cấu"
+    },
+    {
+      "word": "萌え木",
+      "reading": "もえぎ",
+      "meaning": "chồi non của cây"
+    },
+    {
+      "word": "萌え豚",
+      "reading": "もえぶた",
+      "meaning": "cuồng phim hoạt hình"
     },
     {
       "word": "萌木",
@@ -88,24 +93,19 @@
       "meaning": "mọc lên"
     },
     {
-      "word": "萌し",
-      "reading": "きざし",
-      "meaning": "điềm báo"
+      "word": "萌木色",
+      "reading": "もえぎいろ",
+      "meaning": "màu xanh lục nhẹ"
     },
     {
-      "word": "萌葱",
-      "reading": "もえぎ",
-      "meaning": "màu xanh hơi vàng nhạt"
+      "word": "萌やす",
+      "reading": "もやす",
+      "meaning": "ngắt mầm"
     },
     {
-      "word": "萌出",
-      "reading": "ほうしゅつ",
-      "meaning": "sự mọc răng"
-    },
-    {
-      "word": "萌黎",
-      "reading": "ほうれい",
-      "meaning": "những khối lượng"
+      "word": "萌え袖",
+      "reading": "もえそで",
+      "meaning": "tay áo dài trùm quá nửa bàn tay"
     },
     {
       "word": "萌える",
@@ -113,14 +113,14 @@
       "meaning": "vỡ thành chồi"
     },
     {
-      "word": "萌やし",
-      "reading": "もやし",
-      "meaning": "giá đỗ"
+      "word": "萌黎",
+      "reading": "ほうれい",
+      "meaning": "những khối lượng"
     },
     {
-      "word": "萌え木",
-      "reading": "もえぎ",
-      "meaning": "chồi non của cây"
+      "word": "萌芽",
+      "reading": "ほうが",
+      "meaning": "sự manh nha"
     }
   ]
 }

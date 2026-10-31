@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "chữ hán"
+    },
+    {
+      "word": "漢和",
+      "reading": "かんわ",
+      "meaning": "tiếng nhật lấy từ chữ hán"
+    },
+    {
+      "word": "漢語",
+      "reading": "かんご",
+      "meaning": "hán ngữ"
+    },
+    {
+      "word": "漢字圏",
+      "reading": "かんじけん",
+      "meaning": "khu vực sử dụng"
+    },
+    {
+      "word": "痴漢",
+      "reading": "ちかん",
+      "meaning": "sự quấy rối tình dục"
+    },
+    {
       "word": "漢",
       "reading": "かん",
       "meaning": "man among men"
     },
     {
-      "word": "悪漢",
-      "reading": "あっかん",
-      "meaning": "tên ác ôn"
-    },
-    {
-      "word": "漢詩",
-      "reading": "かんし",
-      "meaning": "thơ trung quốc"
-    },
-    {
-      "word": "暴漢",
-      "reading": "ぼうかん",
-      "meaning": "lưu manh"
-    },
-    {
-      "word": "前漢",
-      "reading": "ぜんかん",
-      "meaning": "nhà hán tiền"
-    },
-    {
-      "word": "西漢",
-      "reading": "せいかん",
-      "meaning": "triều đại tây hán"
-    },
-    {
-      "word": "漢検",
-      "reading": "かんけん",
-      "meaning": "kiểm tra hán tự"
-    },
-    {
-      "word": "銀漢",
-      "reading": "ぎんかん",
-      "meaning": "ngân hà"
-    },
-    {
-      "word": "蜀漢",
-      "reading": "しょっかん",
-      "meaning": "quý hán"
-    },
-    {
       "word": "後漢",
       "reading": "ごかん",
       "meaning": "thời hậu hán"
+    },
+    {
+      "word": "国漢",
+      "reading": "こっかん",
+      "meaning": "văn học tiếng trung hoa và tiếng nhật"
+    },
+    {
+      "word": "漢名",
+      "reading": "かんめい",
+      "meaning": "tên bằng chữ hán"
+    },
+    {
+      "word": "漢氏",
+      "reading": "あやうじ",
+      "meaning": "aya clan"
     }
   ]
 }

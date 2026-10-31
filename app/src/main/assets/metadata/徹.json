@@ -87,29 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "徹頭徹尾",
-      "reading": "てっとうてつび",
-      "meaning": "hoàn toàn"
-    },
-    {
-      "word": "徹す",
-      "reading": "とおす",
-      "meaning": "để cho đi qua"
-    },
-    {
-      "word": "徹宵",
-      "reading": "てっしょう",
-      "meaning": "tất cả đêm"
-    },
-    {
-      "word": "透徹",
-      "reading": "とうてつ",
-      "meaning": "sự thấu triệt"
-    },
-    {
-      "word": "完徹",
-      "reading": "かんてつ",
-      "meaning": "thức cả đêm"
+      "word": "徹底",
+      "reading": "てってい",
+      "meaning": "sự triệt để"
     },
     {
       "word": "徹夜",
@@ -117,14 +97,29 @@
       "meaning": "sự thức trắng cả đêm"
     },
     {
-      "word": "徹底",
-      "reading": "てってい",
-      "meaning": "sự triệt để"
+      "word": "徹する",
+      "reading": "てっする",
+      "meaning": "đắm chìm"
     },
     {
-      "word": "一徹",
-      "reading": "いってつ",
-      "meaning": "bướng bỉnh"
+      "word": "不徹底",
+      "reading": "ふてってい",
+      "meaning": "mâu thuẫn"
+    },
+    {
+      "word": "徹底的",
+      "reading": "てっていてき",
+      "meaning": "có tính triệt để"
+    },
+    {
+      "word": "徹甲弾",
+      "reading": "てっこうだん",
+      "meaning": "áo giáp xuyên qua quân nhu"
+    },
+    {
+      "word": "完徹",
+      "reading": "かんてつ",
+      "meaning": "thức cả đêm"
     },
     {
       "word": "徹カラ",
@@ -135,6 +130,11 @@
       "word": "冷徹",
       "reading": "れいてつ",
       "meaning": "có lối suy nghĩ bình tĩnh và sâu sắc xem các nguyên tắc cơ bản của sự vật"
+    },
+    {
+      "word": "一徹",
+      "reading": "いってつ",
+      "meaning": "bướng bỉnh"
     }
   ]
 }

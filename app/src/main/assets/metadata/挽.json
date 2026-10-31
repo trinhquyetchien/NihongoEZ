@@ -49,29 +49,9 @@
   ],
   "vocabulary": [
     {
-      "word": "挽歌",
-      "reading": "ばんか",
-      "meaning": "thơ sầu"
-    },
-    {
       "word": "挽回",
       "reading": "ばんかい",
       "meaning": "sự khôi phục"
-    },
-    {
-      "word": "挽茶",
-      "reading": "ひきちゃ",
-      "meaning": "chè ở dạng bột khô"
-    },
-    {
-      "word": "挽肉",
-      "reading": "ひきにく",
-      "meaning": "thịt băm"
-    },
-    {
-      "word": "挽く",
-      "reading": "ひく",
-      "meaning": "xay"
     },
     {
       "word": "縦挽き",
@@ -84,9 +64,29 @@
       "meaning": "nghiền thô ráp"
     },
     {
-      "word": "茶挽草",
-      "reading": "ちゃひきぐさ",
-      "meaning": "avena fatua"
+      "word": "挽肉",
+      "reading": "ひきにく",
+      "meaning": "thịt băm"
+    },
+    {
+      "word": "挽き肉",
+      "reading": "ひきにく",
+      "meaning": "thịt băm"
+    },
+    {
+      "word": "挽歌",
+      "reading": "ばんか",
+      "meaning": "thơ sầu"
+    },
+    {
+      "word": "挽く",
+      "reading": "ひく",
+      "meaning": "xay"
+    },
+    {
+      "word": "木挽台",
+      "reading": "こびきだい",
+      "meaning": "giá đỡ gỗ để cưa"
     },
     {
       "word": "木挽き",
@@ -94,9 +94,9 @@
       "meaning": "thợ cưa"
     },
     {
-      "word": "挽き茶",
+      "word": "挽茶",
       "reading": "ひきちゃ",
-      "meaning": "chè xanh lục ở dạng bột khô"
+      "meaning": "chè ở dạng bột khô"
     }
   ]
 }

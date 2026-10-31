@@ -72,29 +72,29 @@
   ],
   "vocabulary": [
     {
+      "word": "冥福",
+      "reading": "めいふく",
+      "meaning": "hạnh phúc trong thế giới tiếp theo"
+    },
+    {
       "word": "冥",
       "reading": "めい",
       "meaning": "bóng tối"
     },
     {
-      "word": "冥冥",
-      "reading": "めいめい",
-      "meaning": "bóng tối"
+      "word": "冥王",
+      "reading": "めいおう",
+      "meaning": "minh vương"
     },
     {
-      "word": "冥境",
-      "reading": "めいきょう",
-      "meaning": "âm phủ"
+      "word": "冥器",
+      "reading": "めいき",
+      "meaning": "hàng mã"
     },
     {
-      "word": "昏冥",
-      "reading": "こんめい",
-      "meaning": "mờ mịt"
-    },
-    {
-      "word": "冥漠",
-      "reading": "めいばく",
-      "meaning": "mịt mùng"
+      "word": "冥闇",
+      "reading": "めいあん",
+      "meaning": "tối tăm"
     },
     {
       "word": "玄冥",
@@ -102,24 +102,24 @@
       "meaning": "huyền minh"
     },
     {
-      "word": "冥途",
-      "reading": "めいど",
-      "meaning": "âm ty"
+      "word": "冥暗",
+      "reading": "めいあん",
+      "meaning": "tối tăm"
     },
     {
-      "word": "冥土",
-      "reading": "めいど",
-      "meaning": "âm ty"
+      "word": "冥境",
+      "reading": "めいきょう",
+      "meaning": "âm phủ"
+    },
+    {
+      "word": "冥想",
+      "reading": "めいそう",
+      "meaning": "sự trầm ngâm"
     },
     {
       "word": "冥府",
       "reading": "めいふ",
       "meaning": "âm ty"
-    },
-    {
-      "word": "冥利",
-      "reading": "みょうり",
-      "meaning": "providence"
     }
   ]
 }

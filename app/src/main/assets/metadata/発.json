@@ -94,34 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "発",
-      "reading": "はつ",
+      "word": "出発",
+      "reading": "しゅっぱつ",
       "meaning": "sự xuất phát"
-    },
-    {
-      "word": "発育発達",
-      "reading": "はついくはったつ",
-      "meaning": "sự phát triển thể chất"
-    },
-    {
-      "word": "突発性発疹",
-      "reading": "とっぱつせいほっしん",
-      "meaning": "bệnh lên sởi đột phát"
-    },
-    {
-      "word": "偶発的発見",
-      "reading": "ぐーはつてきはっけん",
-      "meaning": "phát hiện ngẫu nhiên"
-    },
-    {
-      "word": "発疹-突発性",
-      "reading": "はっしん-とっぱつせい",
-      "meaning": "exanthe-ma subitum"
-    },
-    {
-      "word": "発頭",
-      "reading": "はつがしら",
-      "meaning": "đứng ra lên kế hoạch"
     },
     {
       "word": "発車",
@@ -129,19 +104,44 @@
       "meaning": "xe khởi hành"
     },
     {
-      "word": "啓発",
-      "reading": "けいはつ",
-      "meaning": "sự mở mang tri thức để hiểu biết sâu rộng"
-    },
-    {
       "word": "発射",
       "reading": "はっしゃ",
       "meaning": "sự bắn tên"
     },
     {
-      "word": "発つ",
-      "reading": "たつ",
-      "meaning": "xuất phát"
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "sự phát triển"
+    },
+    {
+      "word": "発",
+      "reading": "はつ",
+      "meaning": "sự xuất phát"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "sự tái phát"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "chuyến tàu đầu tiên"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "phát ốm"
+    },
+    {
+      "word": "数発",
+      "reading": "すうぱつ",
+      "meaning": "một số phát"
+    },
+    {
+      "word": "発場",
+      "reading": "はつじょう",
+      "meaning": "sự phấn chấn"
     }
   ]
 }

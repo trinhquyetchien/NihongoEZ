@@ -109,9 +109,34 @@
       "meaning": "ngồi xuống"
     },
     {
-      "word": "危坐",
-      "reading": "きざ",
-      "meaning": "sự ngồi thẳng"
+      "word": "同坐",
+      "reading": "どうざ",
+      "meaning": "ngồi cùng nhau"
+    },
+    {
+      "word": "坐剤",
+      "reading": "ざざい",
+      "meaning": "viên đặt âm đạo"
+    },
+    {
+      "word": "側坐核",
+      "reading": "そくざかく",
+      "meaning": "nhân cạp"
+    },
+    {
+      "word": "単坐式",
+      "reading": "たんざしき",
+      "meaning": "đơn - cái ghế"
+    },
+    {
+      "word": "単坐機",
+      "reading": "たんざき",
+      "meaning": "máy bay một chỗ ngồi"
+    },
+    {
+      "word": "坐骨",
+      "reading": "ざこつ",
+      "meaning": "xương đùi"
     },
     {
       "word": "坐禅",
@@ -119,39 +144,14 @@
       "meaning": "sự tọa thiền"
     },
     {
-      "word": "鼎坐",
-      "reading": "ていざ",
-      "meaning": "ngồi trong một hình tam giác"
-    },
-    {
       "word": "坐像",
       "reading": "ざぞう",
       "meaning": "pho tượng ngồi"
     },
     {
-      "word": "坐乗",
-      "reading": "ざじょう",
-      "meaning": "đi trên tấm bảng"
-    },
-    {
       "word": "坐り",
       "reading": "すわり",
       "meaning": "sự vững vàng"
-    },
-    {
-      "word": "坐礁",
-      "reading": "ざしょう",
-      "meaning": "sự mắc cạn"
-    },
-    {
-      "word": "坐視",
-      "reading": "ざし",
-      "meaning": "còn lại một nhàn rỗi người xem"
-    },
-    {
-      "word": "対坐",
-      "reading": "たいざ",
-      "meaning": "ngồi đối diện"
     }
   ]
 }

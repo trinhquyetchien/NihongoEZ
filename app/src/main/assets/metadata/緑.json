@@ -95,24 +95,9 @@
       "meaning": "màu xanh lá cây"
     },
     {
-      "word": "緑猿",
-      "reading": "みどりざる",
-      "meaning": "chlorocebus sabaeus"
-    },
-    {
-      "word": "緑葉",
-      "reading": "りょくよう",
-      "meaning": "lá xanh"
-    },
-    {
-      "word": "黄緑",
-      "reading": "きみどり",
-      "meaning": "màu lục hạt đậu"
-    },
-    {
-      "word": "黒緑",
-      "reading": "くろみどり",
-      "meaning": "mùi thơm"
+      "word": "海緑",
+      "reading": "うみみどり",
+      "meaning": "glauconite"
     },
     {
       "word": "緑組",
@@ -120,24 +105,39 @@
       "meaning": "kết duyên"
     },
     {
-      "word": "緑鳩",
-      "reading": "あおばと",
-      "meaning": "cu xanh bụng trắng"
+      "word": "緑語",
+      "reading": "えんご",
+      "meaning": "phép ẩn dụ"
     },
     {
-      "word": "常緑",
-      "reading": "じょうりょく",
-      "meaning": "những loại cây không rụng lá khi đến mùa lạnh"
+      "word": "黒緑",
+      "reading": "くろみどり",
+      "meaning": "mùi thơm"
     },
     {
-      "word": "新緑",
-      "reading": "しんりょく",
-      "meaning": "màu xanh tươi của cây cỏ"
+      "word": "緑雨",
+      "reading": "りょくう",
+      "meaning": "mưa đầu hè"
     },
     {
-      "word": "万緑",
-      "reading": "ばんりょく",
-      "meaning": "muôn sắc xanh"
+      "word": "緑発",
+      "reading": "リューファ",
+      "meaning": "green dragon tile"
+    },
+    {
+      "word": "緑髪",
+      "reading": "りょくはつ",
+      "meaning": "tóc đen bóng"
+    },
+    {
+      "word": "青緑",
+      "reading": "あおみどろ",
+      "meaning": "xanh da trời và xanh lá cây"
+    },
+    {
+      "word": "帯緑",
+      "reading": "たいりょく",
+      "meaning": "hơi lục"
     }
   ]
 }

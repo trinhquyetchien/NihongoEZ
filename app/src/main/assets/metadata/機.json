@@ -89,24 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "機",
-      "reading": "き",
-      "meaning": "máy dệt"
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "cơ quan"
     },
     {
-      "word": "機械機能",
-      "reading": "きかいきのう",
-      "meaning": "chức năng của máy"
-    },
-    {
-      "word": "機能機関",
-      "reading": "きのうきかん",
-      "meaning": "cơ quan ban nghành"
-    },
-    {
-      "word": "精機",
-      "reading": "せいき",
-      "meaning": "viết tắt của"
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "sắc mặt"
     },
     {
       "word": "ジェット機",
@@ -114,29 +104,39 @@
       "meaning": "máy bay phản lực"
     },
     {
-      "word": "機敏",
-      "reading": "きびん",
-      "meaning": "nhanh nhẹn"
+      "word": "機",
+      "reading": "き",
+      "meaning": "máy dệt"
     },
     {
-      "word": "転機",
-      "reading": "てんき",
-      "meaning": "điểm hoán chuyển"
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "cơ cấu"
     },
     {
-      "word": "機徴",
-      "reading": "きちょう",
-      "meaning": "đặc trưng"
+      "word": "手機",
+      "reading": "てばた",
+      "meaning": "khung cửi"
     },
     {
-      "word": "好機",
+      "word": "子機",
+      "reading": "こき",
+      "meaning": "mở rộng"
+    },
+    {
+      "word": "名機",
+      "reading": "めいき",
+      "meaning": "máy móc hiệu suất cao"
+    },
+    {
+      "word": "光機",
       "reading": "こうき",
-      "meaning": "cơ hội tốt"
+      "meaning": "thiết bị quang học"
     },
     {
-      "word": "機長",
-      "reading": "きちょう",
-      "meaning": "phi công"
+      "word": "敵機",
+      "reading": "てっき",
+      "meaning": "máy bay địch"
     }
   ]
 }

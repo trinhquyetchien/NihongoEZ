@@ -90,39 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "離",
-      "reading": "り",
-      "meaning": "li"
+      "word": "離婚",
+      "reading": "りこん",
+      "meaning": "sự ly hôn"
     },
     {
-      "word": "離れ離れ",
-      "reading": "はなればなれ",
-      "meaning": "riêng rẽ"
+      "word": "離す",
+      "reading": "はなす",
+      "meaning": "tách"
     },
     {
-      "word": "離反",
-      "reading": "りはん",
-      "meaning": "sự bất mãn"
+      "word": "距離",
+      "reading": "きょり",
+      "meaning": "cách xa"
     },
     {
-      "word": "離れ離れになる",
-      "reading": "はなればなれになる",
-      "meaning": "để được giải tán"
-    },
-    {
-      "word": "短距離離着陸機",
-      "reading": "たんきょりりちゃくりくき",
-      "meaning": "may bay có khả năng cất cánh và đáp xuống trong cự ly ngắn"
-    },
-    {
-      "word": "引離す",
-      "reading": "ひきはなす",
-      "meaning": "kéo tách ra"
-    },
-    {
-      "word": "離党",
-      "reading": "りとう",
-      "meaning": "sự rời khỏi đảng phái chính trị"
+      "word": "分離",
+      "reading": "ぶんり",
+      "meaning": "ngăn cách"
     },
     {
       "word": "離れ",
@@ -130,14 +115,29 @@
       "meaning": "biệt lập"
     },
     {
-      "word": "離散",
-      "reading": "りさん",
-      "meaning": "ly tán"
+      "word": "離脱",
+      "reading": "りだつ",
+      "meaning": "sự cai nghiện"
     },
     {
-      "word": "離苦",
-      "reading": "りく",
-      "meaning": "rời khỏi bể khổ trần gian"
+      "word": "離陸",
+      "reading": "りりく",
+      "meaning": "sự cất cánh"
+    },
+    {
+      "word": "離島",
+      "reading": "りとう",
+      "meaning": "hòn đảo biệt lập"
+    },
+    {
+      "word": "離",
+      "reading": "り",
+      "meaning": "li"
+    },
+    {
+      "word": "離席",
+      "reading": "りせき",
+      "meaning": "sự rời khỏi chỗ ngồi"
     }
   ]
 }

@@ -51,14 +51,14 @@
   ],
   "vocabulary": [
     {
-      "word": "蕩蕩",
-      "reading": "とうとう",
-      "meaning": "rộng lớn"
+      "word": "放蕩",
+      "reading": "ほうとう",
+      "meaning": "sự phóng đãng"
     },
     {
-      "word": "掃蕩",
-      "reading": "そうとう",
-      "meaning": "quét hoặc thu dọn"
+      "word": "放蕩者",
+      "reading": "ほうとうもの",
+      "meaning": "người cư xử hành động theo như những gì mình muốn"
     },
     {
       "word": "淫蕩",
@@ -66,9 +66,24 @@
       "meaning": "dậm dật"
     },
     {
-      "word": "蕩児",
-      "reading": "とうじ",
-      "meaning": "kẻ phóng túng"
+      "word": "揺蕩",
+      "reading": "ようとう",
+      "meaning": "bồng bềnh"
+    },
+    {
+      "word": "揺蕩う",
+      "reading": "たゆたう",
+      "meaning": "làm lắc lư"
+    },
+    {
+      "word": "淫蕩な",
+      "reading": "いんとうな",
+      "meaning": "đĩ bợm"
+    },
+    {
+      "word": "蕩ける",
+      "reading": "とろける",
+      "meaning": "tan chảy"
     },
     {
       "word": "蕩尽",
@@ -81,24 +96,9 @@
       "meaning": "sự điềm tĩnh và hòa bình"
     },
     {
-      "word": "放蕩",
-      "reading": "ほうとう",
-      "meaning": "sự phóng đãng"
-    },
-    {
-      "word": "遊蕩",
-      "reading": "ゆうとう",
-      "meaning": "du đãng"
-    },
-    {
-      "word": "揺蕩",
-      "reading": "ようとう",
-      "meaning": "bồng bềnh"
-    },
-    {
-      "word": "放蕩者",
-      "reading": "ほうとうもの",
-      "meaning": "người cư xử hành động theo như những gì mình muốn"
+      "word": "蕩蕩",
+      "reading": "とうとう",
+      "meaning": "rộng lớn"
     }
   ]
 }

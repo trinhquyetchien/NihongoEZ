@@ -67,24 +67,9 @@
       "meaning": "nhất thời"
     },
     {
-      "word": "泡沫景気",
-      "reading": "ほうまつけいき",
-      "meaning": "nền kinh tế bong bóng"
-    },
-    {
-      "word": "泡沫夢幻",
-      "reading": "ほうまつむげん",
-      "meaning": "thoáng qua"
-    },
-    {
       "word": "飛沫感染",
       "reading": "ひまつかんせん",
       "meaning": "sự truyền nhiễm giọt nhỏ"
-    },
-    {
-      "word": "夢幻泡沫",
-      "reading": "むげんほうまつ",
-      "meaning": "thoáng qua"
     },
     {
       "word": "泡沫会社",
@@ -100,6 +85,21 @@
       "word": "泡沫細胞",
       "reading": "ほーまつさいぼー",
       "meaning": "tế bào bọt"
+    },
+    {
+      "word": "泡沫景気",
+      "reading": "ほうまつけいき",
+      "meaning": "nền kinh tế bong bóng"
+    },
+    {
+      "word": "泡沫蛇口用",
+      "reading": "ほうまつじゃぐちよう",
+      "meaning": "vòi nước tạo bọt"
+    },
+    {
+      "word": "泡沫夢幻",
+      "reading": "ほうまつむげん",
+      "meaning": "thoáng qua"
     }
   ]
 }

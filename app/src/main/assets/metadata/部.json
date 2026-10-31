@@ -94,14 +94,19 @@
       "meaning": "bộ phận"
     },
     {
-      "word": "内部部局",
-      "reading": "ないぶぶきょく",
-      "meaning": "bộ phận nội bộ"
-    },
-    {
       "word": "幹部",
       "reading": "かんぶ",
       "meaning": "phụ trách"
+    },
+    {
+      "word": "二部",
+      "reading": "にぶ",
+      "meaning": "hai bộ"
+    },
+    {
+      "word": "三部",
+      "reading": "さんぶ",
+      "meaning": "ba phần"
     },
     {
       "word": "水部",
@@ -109,34 +114,29 @@
       "meaning": "tưới nước căn bản"
     },
     {
-      "word": "支部",
+      "word": "師部",
       "reading": "しぶ",
-      "meaning": "chi bộ"
+      "meaning": "phloem"
     },
     {
-      "word": "述部",
-      "reading": "じゅつぶ",
-      "meaning": "xác nhận"
+      "word": "楽部",
+      "reading": "がくぶ",
+      "meaning": "ban nhã nhạc hoàng gia nhật bản"
     },
     {
-      "word": "後部",
-      "reading": "こうぶ",
-      "meaning": "phía sau"
+      "word": "天部",
+      "reading": "てんぶ",
+      "meaning": "những chúng sinh sống trong tam thiện đạo"
     },
     {
-      "word": "軍部",
+      "word": "八部",
+      "reading": "はちぶ",
+      "meaning": "bát bộ chúng"
+    },
+    {
+      "word": "群部",
       "reading": "ぐんぶ",
-      "meaning": "bộ binh"
-    },
-    {
-      "word": "局部",
-      "reading": "きょくぶ",
-      "meaning": "bộ phận"
-    },
-    {
-      "word": "市部",
-      "reading": "しぶ",
-      "meaning": "vùng thành thị"
+      "meaning": "các huyện ngoại thành"
     }
   ]
 }

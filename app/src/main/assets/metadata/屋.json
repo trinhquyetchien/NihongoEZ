@@ -89,44 +89,34 @@
   ],
   "vocabulary": [
     {
-      "word": "屋",
-      "reading": "や",
-      "meaning": "tòa nhà để ở"
-    },
-    {
-      "word": "屋根屋",
-      "reading": "やねや",
-      "meaning": "thợ lợp nhà"
-    },
-    {
-      "word": "屋上架屋",
-      "reading": "おくじょうかおく",
-      "meaning": "làm việc thừa thãi"
-    },
-    {
-      "word": "屋根裏部屋",
-      "reading": "やねうらべや",
-      "meaning": "gác xép"
-    },
-    {
       "word": "床屋",
       "reading": "とこや",
       "meaning": "hiệu cắt tóc"
     },
     {
-      "word": "暗屋",
-      "reading": "くらや",
-      "meaning": "cửa hàng bí mật"
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "mái nhà"
     },
     {
-      "word": "レンタルビデオ屋",
-      "reading": "レンタルビデオや",
-      "meaning": "cửa hàng cho thuê băng hình"
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "túp lều"
     },
     {
-      "word": "松屋",
-      "reading": "まつや",
-      "meaning": "matsuya"
+      "word": "大屋",
+      "reading": "おおや",
+      "meaning": "chủ nhà"
+    },
+    {
+      "word": "店屋",
+      "reading": "みせや",
+      "meaning": "cửa hàng"
+    },
+    {
+      "word": "屋",
+      "reading": "や",
+      "meaning": "tòa nhà để ở"
     },
     {
       "word": "別屋",
@@ -134,9 +124,19 @@
       "meaning": "phòng khác"
     },
     {
-      "word": "小屋",
-      "reading": "こや",
-      "meaning": "túp lều"
+      "word": "裏屋",
+      "reading": "うらや",
+      "meaning": "nhà hướng hẻm"
+    },
+    {
+      "word": "氷屋",
+      "reading": "こおりや",
+      "meaning": "cửa hàng nước đá"
+    },
+    {
+      "word": "屋根屋",
+      "reading": "やねや",
+      "meaning": "thợ lợp nhà"
     }
   ]
 }

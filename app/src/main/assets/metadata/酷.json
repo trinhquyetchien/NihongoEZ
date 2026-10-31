@@ -89,14 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "酷",
-      "reading": "こく",
-      "meaning": "khốc liệt"
+      "word": "残酷",
+      "reading": "ざんこく",
+      "meaning": "bạo khốc"
     },
     {
-      "word": "酷使",
-      "reading": "こくし",
-      "meaning": "sự lạm dụng"
+      "word": "冷酷",
+      "reading": "れいこく",
+      "meaning": "sự cục cằn"
+    },
+    {
+      "word": "酷い",
+      "reading": "ひどい",
+      "meaning": "tệ bạc"
     },
     {
       "word": "酷く",
@@ -109,34 +114,29 @@
       "meaning": "tính nghiêm khắc"
     },
     {
-      "word": "厳酷",
-      "reading": "げんこく",
-      "meaning": "sự nghiêm khắc"
+      "word": "酷",
+      "reading": "こく",
+      "meaning": "khốc liệt"
     },
     {
-      "word": "酷暑",
-      "reading": "こくしょ",
-      "meaning": "sự nóng kinh khủng"
+      "word": "酷道",
+      "reading": "こくどう",
+      "meaning": "đường xấu"
     },
     {
-      "word": "酷似",
-      "reading": "こくじ",
-      "meaning": "sự giống nhau"
+      "word": "酷税",
+      "reading": "こくぜい",
+      "meaning": "hệ thống thuế nặng"
     },
     {
-      "word": "酷評",
-      "reading": "こくひょう",
-      "meaning": "chỉ trích gay gắt"
+      "word": "残酷焼",
+      "reading": "ざんこくやき",
+      "meaning": "nướng nguyên con cả vỏ"
     },
     {
-      "word": "酷刑",
-      "reading": "こっけい",
-      "meaning": "trừng phạt khốc liệt"
-    },
-    {
-      "word": "酷烈",
-      "reading": "こくれつ",
-      "meaning": "tính nghiêm khắc"
+      "word": "酷使",
+      "reading": "こくし",
+      "meaning": "sự lạm dụng"
     }
   ]
 }

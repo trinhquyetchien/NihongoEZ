@@ -107,9 +107,9 @@
       "meaning": "ngôi làng lớn"
     },
     {
-      "word": "邑落",
-      "reading": "ゆうらく",
-      "meaning": "làng nhỏ"
+      "word": "市邑",
+      "reading": "しゆう",
+      "meaning": "thành phố"
     },
     {
       "word": "郷邑",
@@ -117,24 +117,24 @@
       "meaning": "làng nhỏ"
     },
     {
+      "word": "林邑楽",
+      "reading": "りんゆうがく",
+      "meaning": "nhạc lâm ấp"
+    },
+    {
       "word": "僻邑",
       "reading": "へきゆう",
       "meaning": "làng hẻo lánh"
     },
     {
+      "word": "邑落",
+      "reading": "ゆうらく",
+      "meaning": "làng nhỏ"
+    },
+    {
       "word": "都邑",
       "reading": "とゆう",
       "meaning": "thành phố"
-    },
-    {
-      "word": "市邑",
-      "reading": "しゆう",
-      "meaning": "thành phố"
-    },
-    {
-      "word": "林邑楽",
-      "reading": "りんゆうがく",
-      "meaning": "nhạc lâm ấp"
     }
   ]
 }

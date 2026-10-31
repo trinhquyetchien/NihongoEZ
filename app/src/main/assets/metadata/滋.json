@@ -85,9 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "滋養",
-      "reading": "じよう",
-      "meaning": "dinh dưỡng"
+      "word": "滋賀県",
+      "reading": "しがけん",
+      "meaning": "tỉnh siga"
     },
     {
       "word": "滋雨",
@@ -95,24 +95,9 @@
       "meaning": "mưa được coi là tốt lành"
     },
     {
-      "word": "滋殖",
-      "reading": "じしょく",
-      "meaning": "tái sản xuất những số lớn bên trong"
-    },
-    {
-      "word": "滋味",
-      "reading": "じみ",
-      "meaning": "chất dinh dưỡng"
-    },
-    {
-      "word": "京滋",
-      "reading": "けいじ",
-      "meaning": "kyoto-shiga"
-    },
-    {
-      "word": "滋賀県",
-      "reading": "しがけん",
-      "meaning": "tỉnh siga"
+      "word": "滋養",
+      "reading": "じよう",
+      "meaning": "dinh dưỡng"
     },
     {
       "word": "滋養分",
@@ -125,14 +110,29 @@
       "meaning": "món ăn bổ dưỡng"
     },
     {
-      "word": "滋養強壮",
-      "reading": "じようきょうそう",
-      "meaning": "tăng cường sức khỏe"
+      "word": "滋味",
+      "reading": "じみ",
+      "meaning": "chất dinh dưỡng"
+    },
+    {
+      "word": "京滋",
+      "reading": "けいじ",
+      "meaning": "kyoto-shiga"
+    },
+    {
+      "word": "滋殖",
+      "reading": "じしょく",
+      "meaning": "tái sản xuất những số lớn bên trong"
     },
     {
       "word": "滋強飲料",
       "reading": "じきょういんりょう",
       "meaning": "thuốc bổ uống"
+    },
+    {
+      "word": "滋養強壮",
+      "reading": "じようきょうそう",
+      "meaning": "tăng cường sức khỏe"
     }
   ]
 }

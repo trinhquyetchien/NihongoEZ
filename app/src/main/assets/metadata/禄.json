@@ -88,19 +88,34 @@
   ],
   "vocabulary": [
     {
+      "word": "貫禄",
+      "reading": "かんろく",
+      "meaning": "chững chạc"
+    },
+    {
       "word": "禄",
       "reading": "ろく",
       "meaning": "phụ cấp"
     },
     {
-      "word": "秩禄",
-      "reading": "ちつろく",
-      "meaning": "bổng lộc theo phẩm trật"
+      "word": "家禄",
+      "reading": "かろく",
+      "meaning": "bổng lộc gia tộc"
     },
     {
-      "word": "長禄",
-      "reading": "ちょうろく",
-      "meaning": "chōroku"
+      "word": "禄高",
+      "reading": "ろくだか",
+      "meaning": "lương bổng"
+    },
+    {
+      "word": "美禄",
+      "reading": "びろく",
+      "meaning": "lương cao"
+    },
+    {
+      "word": "官禄",
+      "reading": "かんろく",
+      "meaning": "cấp bậc và lương bổng"
     },
     {
       "word": "文禄",
@@ -113,29 +128,14 @@
       "meaning": "thời tenroku"
     },
     {
-      "word": "嘉禄",
+      "word": "禄命",
+      "reading": "ろくめい",
+      "meaning": "một có lot"
+    },
+    {
+      "word": "加禄",
       "reading": "かろく",
-      "meaning": "thời karoku"
-    },
-    {
-      "word": "永禄",
-      "reading": "えいろく",
-      "meaning": "thời eiroku"
-    },
-    {
-      "word": "享禄",
-      "reading": "きょうろく",
-      "meaning": "kyouroku era"
-    },
-    {
-      "word": "微禄",
-      "reading": "びろく",
-      "meaning": "lương nhỏ"
-    },
-    {
-      "word": "俸禄",
-      "reading": "ほうろく",
-      "meaning": "bổng lộc"
+      "meaning": "tăng thêm bổng lộc cho samurai"
     }
   ]
 }

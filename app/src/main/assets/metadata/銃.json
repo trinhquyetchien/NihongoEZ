@@ -94,34 +94,14 @@
       "meaning": "súng"
     },
     {
-      "word": "銃の銃身",
-      "reading": "つつのじゅうしん",
-      "meaning": "nòng súng"
+      "word": "ガス銃",
+      "reading": "ガスじゅう",
+      "meaning": "súng hơi"
     },
     {
-      "word": "小銃の銃身",
-      "reading": "しょうじゅうのじゅうしん",
-      "meaning": "nòng súng"
-    },
-    {
-      "word": "銃火",
-      "reading": "じゅうか",
-      "meaning": "hoả lực"
-    },
-    {
-      "word": "銃器",
-      "reading": "じゅうき",
-      "meaning": "súng ống"
-    },
-    {
-      "word": "銃声",
-      "reading": "じゅうせい",
-      "meaning": "phát súng"
-    },
-    {
-      "word": "銃弾",
-      "reading": "じゅうだん",
-      "meaning": "viên đạn"
+      "word": "ゴム銃",
+      "reading": "ゴムじゅう",
+      "meaning": "súng cao su"
     },
     {
       "word": "拳銃",
@@ -129,14 +109,34 @@
       "meaning": "súng lục"
     },
     {
-      "word": "ライフル銃",
-      "reading": "ライフルじゅう",
-      "meaning": "súng trường"
+      "word": "銃架",
+      "reading": "じゅうか",
+      "meaning": "giá súng"
     },
     {
-      "word": "銃丸",
-      "reading": "じゅうがん",
-      "meaning": "đạn"
+      "word": "捧げ銃",
+      "reading": "ささげつつ",
+      "meaning": "chào súng"
+    },
+    {
+      "word": "銃撃",
+      "reading": "じゅうげき",
+      "meaning": "bắn"
+    },
+    {
+      "word": "銃撃戦",
+      "reading": "じゅうげきせん",
+      "meaning": "trận đấu súng"
+    },
+    {
+      "word": "銃脈",
+      "reading": "じゅうみゃく",
+      "meaning": "tiêm vào tĩnh mạch"
+    },
+    {
+      "word": "単身銃",
+      "reading": "たんしんじゅう",
+      "meaning": "súng một nòng"
     }
   ]
 }

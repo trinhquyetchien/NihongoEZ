@@ -106,14 +106,29 @@
   ],
   "vocabulary": [
     {
+      "word": "優秀",
+      "reading": "ゆうしゅう",
+      "meaning": "sự ưu tú"
+    },
+    {
+      "word": "優秀な",
+      "reading": "ゆうしゅうな",
+      "meaning": "ưu tú"
+    },
+    {
+      "word": "優秀品",
+      "reading": "ゆうしゅうひん",
+      "meaning": "cao cấp buôn bán"
+    },
+    {
+      "word": "優秀賞",
+      "reading": "ゆうしゅうしょう",
+      "meaning": "giải ưu tú xuất sắc"
+    },
+    {
       "word": "秀",
       "reading": "しゅう",
       "meaning": "ưu việt"
-    },
-    {
-      "word": "秀才",
-      "reading": "しゅうさい",
-      "meaning": "người phi thường"
     },
     {
       "word": "赤秀",
@@ -121,39 +136,24 @@
       "meaning": "cây sộp"
     },
     {
-      "word": "儁秀",
-      "reading": "しゅんしゅう",
-      "meaning": "thiên tài"
+      "word": "最優秀",
+      "reading": "さいゆうしゅう",
+      "meaning": "tốt nhất"
     },
     {
-      "word": "秀歌",
-      "reading": "しゅうか",
-      "meaning": "bài thơ tanka hoặc waka hay"
-    },
-    {
-      "word": "秀作",
-      "reading": "しゅうさく",
-      "meaning": "tuyệt tác"
-    },
-    {
-      "word": "俊秀",
-      "reading": "しゅんしゅう",
-      "meaning": "tài trí"
-    },
-    {
-      "word": "閨秀",
+      "word": "けい秀",
       "reading": "けいしゅう",
-      "meaning": "người phụ nữ khuê tú"
+      "meaning": "ưu tú"
     },
     {
-      "word": "秀句",
-      "reading": "しゅうく",
-      "meaning": "haiku tráng lệ"
+      "word": "秀逸",
+      "reading": "しゅういつ",
+      "meaning": "sự xuất sắc"
     },
     {
-      "word": "秀吟",
-      "reading": "しゅうぎん",
-      "meaning": "bài thơ hay"
+      "word": "秀でた",
+      "reading": "ひいでた",
+      "meaning": "đĩnh đạc"
     }
   ]
 }

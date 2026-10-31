@@ -94,16 +94,6 @@
       "meaning": "bờ hồ"
     },
     {
-      "word": "畦畔",
-      "reading": "けいはん",
-      "meaning": "bờ ruộng"
-    },
-    {
-      "word": "橋畔",
-      "reading": "きょうはん",
-      "meaning": "gần đầu cầu"
-    },
-    {
       "word": "畔道",
       "reading": "あぜみち",
       "meaning": "đường hẹp giữa các thửa ruộng"
@@ -114,14 +104,24 @@
       "meaning": "cột trụ"
     },
     {
-      "word": "池畔",
-      "reading": "ちはん",
-      "meaning": "bên bờ ao"
+      "word": "畦畔",
+      "reading": "けいはん",
+      "meaning": "bờ ruộng"
     },
     {
       "word": "河畔",
       "reading": "かはん",
       "meaning": "ven sông"
+    },
+    {
+      "word": "池畔",
+      "reading": "ちはん",
+      "meaning": "bên bờ ao"
+    },
+    {
+      "word": "橋畔",
+      "reading": "きょうはん",
+      "meaning": "gần đầu cầu"
     },
     {
       "word": "畔唐菜",

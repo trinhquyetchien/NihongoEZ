@@ -87,16 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "感冒",
-      "reading": "かんぼう",
-      "meaning": "dịch cúm"
-    },
-    {
-      "word": "冒す",
-      "reading": "おかす",
-      "meaning": "đương đầu với"
-    },
-    {
       "word": "冒険",
       "reading": "ぼうけん",
       "meaning": "sự mạo hiểm"
@@ -107,14 +97,29 @@
       "meaning": "bắt đầu"
     },
     {
-      "word": "冒涜",
-      "reading": "ぼうとく",
-      "meaning": "lời báng bổ"
+      "word": "冒険な",
+      "reading": "ぼうけんな",
+      "meaning": "liều"
+    },
+    {
+      "word": "冒険者",
+      "reading": "ぼうけんしゃ",
+      "meaning": "người phiêu lưu"
+    },
+    {
+      "word": "冒険的",
+      "reading": "ぼうけんてき",
+      "meaning": "phiêu lưu mạo hiểm"
     },
     {
       "word": "冒険家",
       "reading": "ぼうけんか",
       "meaning": "người phiêu lưu"
+    },
+    {
+      "word": "大冒険",
+      "reading": "だいぼうけん",
+      "meaning": "cuộc phiêu lưu tuyệt vời"
     },
     {
       "word": "冒険心",
@@ -127,14 +132,9 @@
       "meaning": "truyện ngắn sự phiêu lưu"
     },
     {
-      "word": "大冒険",
-      "reading": "だいぼうけん",
-      "meaning": "cuộc phiêu lưu tuyệt vời"
-    },
-    {
-      "word": "冒険者",
-      "reading": "ぼうけんしゃ",
-      "meaning": "người phiêu lưu"
+      "word": "冒涜",
+      "reading": "ぼうとく",
+      "meaning": "lời báng bổ"
     }
   ]
 }

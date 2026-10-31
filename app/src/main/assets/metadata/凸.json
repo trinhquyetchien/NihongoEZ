@@ -87,49 +87,49 @@
   ],
   "vocabulary": [
     {
+      "word": "凸凹",
+      "reading": "でこぼこ",
+      "meaning": "sự lồi lõm"
+    },
+    {
       "word": "凸",
       "reading": "でこ",
       "meaning": "lồi"
     },
     {
-      "word": "凸関数(下に凸)",
-      "reading": "とつかんすー(したにとつ)",
-      "meaning": "hàm lồi"
+      "word": "お凸",
+      "reading": "おでこ",
+      "meaning": "trán"
     },
     {
-      "word": "凸包",
-      "reading": "とつほう",
-      "meaning": "bao lồi"
+      "word": "凸円",
+      "reading": "とつえん",
+      "meaning": "tính lồi"
     },
     {
-      "word": "凹凸",
-      "reading": "おうとつ",
-      "meaning": "nhấp nhô"
+      "word": "下に凸",
+      "reading": "したにとつ",
+      "meaning": "lõm xuống dưới"
     },
     {
-      "word": "凸面",
-      "reading": "とつめん",
-      "meaning": "bề mặt lồi"
+      "word": "凸形",
+      "reading": "とつけい",
+      "meaning": "hình lồi"
     },
     {
-      "word": "凸版",
-      "reading": "とっぱん",
-      "meaning": "bản in nổi"
+      "word": "御凸",
+      "reading": "おでこ",
+      "meaning": "trán"
     },
     {
-      "word": "凸鏡",
-      "reading": "とっきょう",
-      "meaning": "thấu kính lồi"
+      "word": "両凸",
+      "reading": "りょうとつ",
+      "meaning": "hai mặt lồi"
     },
     {
       "word": "凸状",
       "reading": "とつじょう",
       "meaning": "kiểu lồi"
-    },
-    {
-      "word": "凸坊",
-      "reading": "でこぼう",
-      "meaning": "thằng bé tinh quái"
     },
     {
       "word": "凸角",

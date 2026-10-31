@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "新電電",
-      "reading": "しんでんでん",
-      "meaning": "vận chuyển công cộng"
+      "word": "電灯",
+      "reading": "でんとう",
+      "meaning": "đèn điện"
     },
     {
-      "word": "電電公社",
-      "reading": "でんでんこうしゃ",
-      "meaning": "nippon đánh điện và gọi điện công ty công cộng"
+      "word": "電報",
+      "reading": "でんぽう",
+      "meaning": "điện báo"
     },
     {
-      "word": "電気電子",
-      "reading": "でんきでんし",
-      "meaning": "điện tử và điện khí"
+      "word": "電球",
+      "reading": "でんきゅう",
+      "meaning": "bóng đèn"
     },
     {
-      "word": "電極電位",
-      "reading": "でんきょくでんい",
-      "meaning": "điện thế điện cực"
+      "word": "電着",
+      "reading": "でんちゃく",
+      "meaning": "điện cực"
     },
     {
-      "word": "無停電電源",
-      "reading": "むていでんでんげん",
-      "meaning": "nguồn cấp điện liên tục"
+      "word": "重電",
+      "reading": "じゅうでん",
+      "meaning": "điện nặng"
     },
     {
-      "word": "静電気放電",
-      "reading": "せいでんきほうでん",
-      "meaning": "sự phóng điện tử"
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaning": "lưu trữ năng lượng"
     },
     {
-      "word": "充電式電池",
-      "reading": "じゅうでんしきでんち",
-      "meaning": "pin sạc"
+      "word": "電食",
+      "reading": "でんしょく",
+      "meaning": "sự ăn mòn điện phân"
     },
     {
-      "word": "電気/電子用",
-      "reading": "でんき/でんしよう",
-      "meaning": "dành cho điện/điện tử"
+      "word": "電視",
+      "reading": "でんし",
+      "meaning": "tivi"
     },
     {
-      "word": "電動/電子ミシン",
-      "reading": "でんどう/でんしミシン",
-      "meaning": "máy khâu điện/điện tử"
+      "word": "電マ",
+      "reading": "でんマ",
+      "meaning": "máy rung"
     },
     {
-      "word": "電磁",
-      "reading": "でんじ",
-      "meaning": "điện từ"
+      "word": "宅電",
+      "reading": "たくでん",
+      "meaning": "điện thoại bàn"
     }
   ]
 }

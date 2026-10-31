@@ -87,39 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "噛る",
-      "reading": "かじる",
-      "meaning": "nhai"
-    },
-    {
       "word": "噛む",
       "reading": "かむ",
       "meaning": "cắn"
     },
     {
-      "word": "噛柴",
-      "reading": "たむしば",
-      "meaning": "magnolia salicifolia"
+      "word": "噛み切る",
+      "reading": "かみきる",
+      "meaning": "cắn đứt"
     },
     {
-      "word": "噛傷",
-      "reading": "かみきず",
-      "meaning": "vết cắn"
-    },
-    {
-      "word": "御器噛",
-      "reading": "ごきかぶり",
-      "meaning": "con gián"
-    },
-    {
-      "word": "甘噛み",
-      "reading": "あまがみ",
-      "meaning": "sự cắn yêu"
-    },
-    {
-      "word": "歯噛み",
-      "reading": "はがみ",
-      "meaning": "mài răng"
+      "word": "骨噛み",
+      "reading": "ほねかみ",
+      "meaning": "nghi thức sau tang lễ"
     },
     {
       "word": "噛ます",
@@ -127,14 +107,34 @@
       "meaning": "chèn vào"
     },
     {
+      "word": "噛み傷",
+      "reading": "かみきず",
+      "meaning": "vết cắn"
+    },
+    {
+      "word": "甘噛み",
+      "reading": "あまがみ",
+      "meaning": "sự cắn yêu"
+    },
+    {
+      "word": "噛る",
+      "reading": "かじる",
+      "meaning": "nhai"
+    },
+    {
+      "word": "御器噛",
+      "reading": "ごきかぶり",
+      "meaning": "con gián"
+    },
+    {
       "word": "噛殺す",
       "reading": "かみころす",
       "meaning": "cắn chết"
     },
     {
-      "word": "噛み傷",
-      "reading": "かみきず",
-      "meaning": "vết cắn"
+      "word": "噛付く",
+      "reading": "かみつく",
+      "meaning": "để cắn"
     }
   ]
 }

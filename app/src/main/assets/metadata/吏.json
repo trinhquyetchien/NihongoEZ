@@ -81,54 +81,54 @@
   ],
   "vocabulary": [
     {
-      "word": "吏",
-      "reading": "り",
-      "meaning": "viên chức"
-    },
-    {
-      "word": "警吏",
-      "reading": "けいり",
-      "meaning": "cảnh sát"
-    },
-    {
       "word": "下吏",
       "reading": "かり",
       "meaning": "hạ thấp viên chức"
     },
     {
-      "word": "獄吏",
-      "reading": "ごくり",
-      "meaning": "cai ngục"
-    },
-    {
-      "word": "吏人",
-      "reading": "りじん",
-      "meaning": "viên chức"
-    },
-    {
-      "word": "吏党",
-      "reading": "りとう",
-      "meaning": "đảng phái của các công chức"
-    },
-    {
-      "word": "吏臭",
-      "reading": "りしゅう",
-      "meaning": "chế độ quan liêu hành chính"
-    },
-    {
-      "word": "吏部",
-      "reading": "りぶ",
-      "meaning": "lại bộ"
-    },
-    {
-      "word": "俗吏",
-      "reading": "ぞくり",
-      "meaning": "viên chức nhỏ nhặt"
+      "word": "捕吏",
+      "reading": "ほり",
+      "meaning": "cảnh sát"
     },
     {
       "word": "官吏",
       "reading": "かんり",
       "meaning": "quan lại"
+    },
+    {
+      "word": "吏",
+      "reading": "り",
+      "meaning": "viên chức"
+    },
+    {
+      "word": "執行吏",
+      "reading": "しっこうり",
+      "meaning": "quan khâm sai"
+    },
+    {
+      "word": "刑吏",
+      "reading": "けいり",
+      "meaning": "đao phủ"
+    },
+    {
+      "word": "属吏",
+      "reading": "ぞくり",
+      "meaning": "một người cấp dưới"
+    },
+    {
+      "word": "税関吏",
+      "reading": "ぜいかんり",
+      "meaning": "sĩ quan những phong tục"
+    },
+    {
+      "word": "絞刑吏",
+      "reading": "こうけいり",
+      "meaning": "người treo cổ"
+    },
+    {
+      "word": "公吏",
+      "reading": "こうり",
+      "meaning": "viên chức ở địa phương"
     }
   ]
 }

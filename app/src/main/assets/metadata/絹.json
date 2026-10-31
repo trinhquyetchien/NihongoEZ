@@ -91,9 +91,34 @@
       "meaning": "lụa"
     },
     {
-      "word": "絹糸",
-      "reading": "きぬいと",
-      "meaning": "tơ"
+      "word": "絹目",
+      "reading": "きぬめ",
+      "meaning": "mờ kết thúc những sự chụp ảnh)"
+    },
+    {
+      "word": "絹の道",
+      "reading": "きぬのみち",
+      "meaning": "con đường tơ lụa"
+    },
+    {
+      "word": "絹絵",
+      "reading": "きぬえ",
+      "meaning": "tranh lụa"
+    },
+    {
+      "word": "白絹",
+      "reading": "しらぎぬ",
+      "meaning": "lụa trắng"
+    },
+    {
+      "word": "絹一匹",
+      "reading": "きぬいっぴき",
+      "meaning": "một hiki tơ"
+    },
+    {
+      "word": "絹皮",
+      "reading": "きぬかわ",
+      "meaning": "lớp vỏ mỏng"
     },
     {
       "word": "絹猿",
@@ -101,39 +126,14 @@
       "meaning": "callithrix jacchus"
     },
     {
-      "word": "絹目",
-      "reading": "きぬめ",
-      "meaning": "mờ kết thúc những sự chụp ảnh)"
+      "word": "綾絹",
+      "reading": "あやぎぬ",
+      "meaning": "vải lụa dệt chéo"
     },
     {
       "word": "絹蘭",
       "reading": "きぬらん",
       "meaning": "cây hoa lan lụa"
-    },
-    {
-      "word": "人絹",
-      "reading": "じんけん",
-      "meaning": "lụa nhân tạo"
-    },
-    {
-      "word": "正絹",
-      "reading": "しょうけん",
-      "meaning": "tơ thuần khiết"
-    },
-    {
-      "word": "生絹",
-      "reading": "すずし",
-      "meaning": "những sản phẩm tơ sống"
-    },
-    {
-      "word": "平絹",
-      "reading": "ひらぎぬ",
-      "meaning": "phàn nàn tơ"
-    },
-    {
-      "word": "本絹",
-      "reading": "ほんけん",
-      "meaning": "tơ thuần khiết"
     }
   ]
 }

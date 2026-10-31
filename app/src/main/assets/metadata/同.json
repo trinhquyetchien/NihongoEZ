@@ -89,44 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "同",
-      "reading": "どう",
-      "meaning": "đồng"
-    },
-    {
-      "word": "同姓同名",
-      "reading": "どうせいどうめい",
-      "meaning": "cùng gia đình"
-    },
-    {
-      "word": "同文同種",
-      "reading": "どうぶんどうしゅ",
-      "meaning": "cùng chung chữ viết và cùng chủng người"
-    },
-    {
-      "word": "同種同文",
-      "reading": "どうしゅどうぶん",
-      "meaning": "cùng chủng tộc và cùng ngôn ngữ"
-    },
-    {
-      "word": "同僚同業",
-      "reading": "どうりょうどうぎょう",
-      "meaning": "bạn đồng nghiệp"
-    },
-    {
-      "word": "合同の合同",
-      "reading": "ごうどうのごうどう",
-      "meaning": "congruent、congruence"
-    },
-    {
       "word": "同一",
       "reading": "どういつ",
       "meaning": "đồng nhất"
     },
     {
-      "word": "同期",
-      "reading": "どうき",
-      "meaning": "cùng thời điểm"
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "同",
+      "reading": "どう",
+      "meaning": "đồng"
+    },
+    {
+      "word": "混同",
+      "reading": "こんどう",
+      "meaning": "sự lẫn lộn"
+    },
+    {
+      "word": "同前",
+      "reading": "どうぜん",
+      "meaning": "như trên"
     },
     {
       "word": "同生",
@@ -134,9 +119,24 @@
       "meaning": "sinh ra từ cùng một cha mẹ"
     },
     {
-      "word": "同属",
-      "reading": "どうぞく",
-      "meaning": "cùng loại"
+      "word": "同法",
+      "reading": "どうほう",
+      "meaning": "cùng bộ luật"
+    },
+    {
+      "word": "相同",
+      "reading": "そうどう",
+      "meaning": "tính tương đồng"
+    },
+    {
+      "word": "同宗",
+      "reading": "どうしゅう",
+      "meaning": "cùng giáo phái đó"
+    },
+    {
+      "word": "同期",
+      "reading": "どうき",
+      "meaning": "cùng thời điểm"
     }
   ]
 }

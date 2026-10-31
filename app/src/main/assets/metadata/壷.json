@@ -38,19 +38,34 @@
       "meaning": "cái bình"
     },
     {
-      "word": "クラインの壷(内側も外側もない壷)",
-      "reading": "クラインのつぼ(うちがわもそとがわもないつぼ)",
-      "meaning": "chai klein"
+      "word": "油壷",
+      "reading": "あぶらつぼ",
+      "meaning": "thùng dầu"
     },
     {
-      "word": "壷黴",
-      "reading": "つぼかび",
-      "meaning": "nấm chytridiomycota"
+      "word": "万能壷",
+      "reading": "ばんのうつぼ",
+      "meaning": "bình đựng đa năng"
+    },
+    {
+      "word": "壷洗い",
+      "reading": "つぼあらい",
+      "meaning": "rửa bát"
     },
     {
       "word": "唾壷",
       "reading": "だこ",
       "meaning": "ống nhổ"
+    },
+    {
+      "word": "骨壷",
+      "reading": "こつつぼ",
+      "meaning": "cái lư funerary"
+    },
+    {
+      "word": "壷黴",
+      "reading": "つぼかび",
+      "meaning": "nấm chytridiomycota"
     },
     {
       "word": "滝壷",
@@ -63,24 +78,9 @@
       "meaning": "đánh dấu mực chai"
     },
     {
-      "word": "油壷",
-      "reading": "あぶらつぼ",
-      "meaning": "thùng dầu"
-    },
-    {
-      "word": "骨壷",
-      "reading": "こつつぼ",
-      "meaning": "cái lư funerary"
-    },
-    {
       "word": "蛸壷",
       "reading": "たこつぼ",
       "meaning": "bẫy bắt bạch tuộc"
-    },
-    {
-      "word": "壷洗い",
-      "reading": "つぼあらい",
-      "meaning": "rửa bát"
     }
   ]
 }

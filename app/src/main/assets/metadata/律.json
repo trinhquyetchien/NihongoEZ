@@ -106,6 +106,36 @@
   ],
   "vocabulary": [
     {
+      "word": "法律",
+      "reading": "ほうりつ",
+      "meaning": "đạo luật"
+    },
+    {
+      "word": "規律",
+      "reading": "きりつ",
+      "meaning": "luật"
+    },
+    {
+      "word": "一律",
+      "reading": "いちりつ",
+      "meaning": "đồng đều"
+    },
+    {
+      "word": "法律的",
+      "reading": "ほうりつてき",
+      "meaning": "mang tính pháp luật"
+    },
+    {
+      "word": "法律家",
+      "reading": "ほうりつか",
+      "meaning": "luật gia"
+    },
+    {
+      "word": "法律案",
+      "reading": "ほうりつあん",
+      "meaning": "hóa đơn"
+    },
+    {
       "word": "律",
       "reading": "りつ",
       "meaning": "lời răn dạy"
@@ -121,39 +151,9 @@
       "meaning": "pháp luật"
     },
     {
-      "word": "刑律",
-      "reading": "けいりつ",
-      "meaning": "luật hình sự"
-    },
-    {
-      "word": "厳律",
-      "reading": "げんりつ",
-      "meaning": "pháp luật nghiêm khắc"
-    },
-    {
-      "word": "軍律",
-      "reading": "ぐんりつ",
-      "meaning": "quân luật"
-    },
-    {
-      "word": "律動",
-      "reading": "りつどう",
-      "meaning": "nhịp điệu"
-    },
-    {
-      "word": "律義",
-      "reading": "りちぎ",
-      "meaning": "tính trung thực"
-    },
-    {
-      "word": "律管",
-      "reading": "りっかん",
-      "meaning": "ống sáo đo cao độ cổ đại trung quốc"
-    },
-    {
-      "word": "他律",
-      "reading": "たりつ",
-      "meaning": "sự chinh phục"
+      "word": "自律",
+      "reading": "じりつ",
+      "meaning": "kỷ luật bản thân"
     }
   ]
 }

@@ -85,16 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "富裕",
-      "reading": "ふゆう",
-      "meaning": "dư dật"
-    },
-    {
-      "word": "裕福",
-      "reading": "ゆうふく",
-      "meaning": "giàu có"
-    },
-    {
       "word": "余裕",
       "reading": "よゆう",
       "meaning": "phần dư"
@@ -105,19 +95,9 @@
       "meaning": "sự chịu đựng điện"
     },
     {
-      "word": "富裕税",
-      "reading": "ふゆうぜい",
-      "meaning": "thuế đánh vào người giàu"
-    },
-    {
-      "word": "富裕層",
-      "reading": "ふゆうそう",
-      "meaning": "tầng lớp giàu có"
-    },
-    {
-      "word": "裕福層",
-      "reading": "ゆうふくそう",
-      "meaning": "tầng lớp giàu có"
+      "word": "裕福",
+      "reading": "ゆうふく",
+      "meaning": "giàu có"
     },
     {
       "word": "裕福な",
@@ -125,14 +105,34 @@
       "meaning": "đủ tiêu"
     },
     {
-      "word": "余裕綽綽",
-      "reading": "よゆうしゃくしゃく",
-      "meaning": "có tư tưởng rộng rãi"
+      "word": "裕福層",
+      "reading": "ゆうふくそう",
+      "meaning": "tầng lớp giàu có"
+    },
+    {
+      "word": "富裕",
+      "reading": "ふゆう",
+      "meaning": "dư dật"
+    },
+    {
+      "word": "富裕層",
+      "reading": "ふゆうそう",
+      "meaning": "tầng lớp giàu có"
+    },
+    {
+      "word": "富裕税",
+      "reading": "ふゆうぜい",
+      "meaning": "thuế đánh vào người giàu"
     },
     {
       "word": "余裕綽々",
       "reading": "よゆうしゃくしゃく",
       "meaning": "bình tĩnh"
+    },
+    {
+      "word": "余裕綽綽",
+      "reading": "よゆうしゃくしゃく",
+      "meaning": "có tư tưởng rộng rãi"
     }
   ]
 }

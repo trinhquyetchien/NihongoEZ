@@ -106,39 +106,34 @@
   ],
   "vocabulary": [
     {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "đề án"
+    },
+    {
       "word": "案",
       "reading": "あん",
       "meaning": "dự thảo"
     },
     {
-      "word": "名案",
-      "reading": "めいあん",
-      "meaning": "ý kiến hay"
+      "word": "答案",
+      "reading": "とうあん",
+      "meaning": "giấy thi"
     },
     {
-      "word": "原案",
-      "reading": "げんあん",
-      "meaning": "kế hoạch ban đầu"
+      "word": "案外",
+      "reading": "あんがい",
+      "meaning": "bất ngờ"
     },
     {
-      "word": "案件",
-      "reading": "あんけん",
-      "meaning": "phương án"
-    },
-    {
-      "word": "考案",
-      "reading": "こうあん",
-      "meaning": "sự tạo ra"
-    },
-    {
-      "word": "一案",
-      "reading": "いちあん",
-      "meaning": "một ý tưởng"
-    },
-    {
-      "word": "方案",
+      "word": "法案",
       "reading": "ほうあん",
-      "meaning": "phương án"
+      "meaning": "dự luật"
+    },
+    {
+      "word": "再案",
+      "reading": "さいあん",
+      "meaning": "ủng hộ kế hoạch"
     },
     {
       "word": "週案",
@@ -146,14 +141,19 @@
       "meaning": "kế hoạch hàng tuần"
     },
     {
-      "word": "起案",
-      "reading": "きあん",
-      "meaning": "môn vẽ kỹ thuật"
+      "word": "案件",
+      "reading": "あんけん",
+      "meaning": "phương án"
     },
     {
-      "word": "試案",
-      "reading": "しあん",
-      "meaning": "kế hoạch"
+      "word": "改案",
+      "reading": "かいあん",
+      "meaning": "đề án cải tạo"
+    },
+    {
+      "word": "事案",
+      "reading": "じあん",
+      "meaning": "sự liên quan"
     }
   ]
 }

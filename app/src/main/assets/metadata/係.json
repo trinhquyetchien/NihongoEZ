@@ -109,34 +109,19 @@
   ],
   "vocabulary": [
     {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "can hệ"
+    },
+    {
       "word": "係",
       "reading": "かかり",
       "meaning": "sự chịu trách nhiệm"
     },
     {
-      "word": "係長",
-      "reading": "かかりちょう",
-      "meaning": "quản lý"
-    },
-    {
-      "word": "係る",
-      "reading": "かかる",
-      "meaning": "liên quan"
-    },
-    {
-      "word": "係員",
-      "reading": "かかりいん",
-      "meaning": "người chịu trách nhiệm"
-    },
-    {
-      "word": "係止",
-      "reading": "けいし",
-      "meaning": "khóa"
-    },
-    {
-      "word": "係合",
-      "reading": "けいごう",
-      "meaning": "sự liên kết"
+      "word": "力関係",
+      "reading": "ちからかんけい",
+      "meaning": "mối quan hệ sức mạnh"
     },
     {
       "word": "係う",
@@ -144,19 +129,34 @@
       "meaning": "bị trộn lẫn"
     },
     {
-      "word": "係数",
-      "reading": "けいすう",
-      "meaning": "hệ số"
+      "word": "係の人",
+      "reading": "かかりのひと",
+      "meaning": "người phụ trách"
     },
     {
-      "word": "係留",
-      "reading": "けいりゅう",
-      "meaning": "buộc"
+      "word": "記録係",
+      "reading": "きろくがかり",
+      "meaning": "máy ghi âm"
     },
     {
-      "word": "係属",
-      "reading": "けいぞく",
-      "meaning": "mối quan hệ"
+      "word": "予約係",
+      "reading": "よやくがかり",
+      "meaning": "bàn hạn chế một đường bay)"
+    },
+    {
+      "word": "係合",
+      "reading": "けいごう",
+      "meaning": "sự liên kết"
+    },
+    {
+      "word": "進行係",
+      "reading": "しんこうがかり",
+      "meaning": "ban lãnh đạo"
+    },
+    {
+      "word": "受付係",
+      "reading": "うけつけがかり",
+      "meaning": "nhân viên lễ tân"
     }
   ]
 }

@@ -86,29 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "掩蔽",
-      "reading": "えんぺい",
-      "meaning": "sự che lấp"
-    },
-    {
       "word": "隠蔽",
       "reading": "いんぺい",
       "meaning": "sự giấu kín"
-    },
-    {
-      "word": "陰蔽",
-      "reading": "いんぺい",
-      "meaning": "sự giấu kín"
-    },
-    {
-      "word": "遮蔽",
-      "reading": "しゃへい",
-      "meaning": "che màn"
-    },
-    {
-      "word": "隠蔽色",
-      "reading": "いんぺいしょく",
-      "meaning": "ngụy trang màu"
     },
     {
       "word": "隠蔽子",
@@ -116,9 +96,14 @@
       "meaning": "người đàn áp"
     },
     {
-      "word": "建蔽率",
-      "reading": "けんぺいりつ",
-      "meaning": "tỷ lệ xây dựng trên đất"
+      "word": "隠蔽色",
+      "reading": "いんぺいしょく",
+      "meaning": "ngụy trang màu"
+    },
+    {
+      "word": "遮蔽",
+      "reading": "しゃへい",
+      "meaning": "che màn"
     },
     {
       "word": "遮蔽物",
@@ -126,9 +111,24 @@
       "meaning": "vật chắn"
     },
     {
-      "word": "隠蔽工作",
-      "reading": "いんぺいこうさく",
-      "meaning": "cải trang"
+      "word": "掩蔽",
+      "reading": "えんぺい",
+      "meaning": "sự che lấp"
+    },
+    {
+      "word": "建蔽率",
+      "reading": "けんぺいりつ",
+      "meaning": "tỷ lệ xây dựng trên đất"
+    },
+    {
+      "word": "陰蔽",
+      "reading": "いんぺい",
+      "meaning": "sự giấu kín"
+    },
+    {
+      "word": "隠蔽する",
+      "reading": "いんぺいする",
+      "meaning": "trú ẩn"
     },
     {
       "word": "情報隠蔽",

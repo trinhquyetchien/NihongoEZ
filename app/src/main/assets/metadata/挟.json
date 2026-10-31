@@ -106,29 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "挟撃",
-      "reading": "きょうげき",
-      "meaning": "thế gọng kìm"
-    },
-    {
-      "word": "挟殺",
-      "reading": "きょうさつ",
-      "meaning": "một tình huống trong trò chơi bóng chày xảy ra khi người chơi cơ bản bị mắc kẹt giữa hai căn cứ"
-    },
-    {
       "word": "挟む",
       "reading": "はさむ",
       "meaning": "kẹp vào"
-    },
-    {
-      "word": "板挟み",
-      "reading": "いたばさみ",
-      "meaning": "hoàn cảnh tiến thoái lưỡng nan"
-    },
-    {
-      "word": "氷挟み",
-      "reading": "こおりばさみ",
-      "meaning": "cái kẹp gắp nước đá"
     },
     {
       "word": "挟まる",
@@ -136,9 +116,34 @@
       "meaning": "kẹp"
     },
     {
+      "word": "指挟み",
+      "reading": "ゆびはさみ",
+      "meaning": "kẹp ngón tay"
+    },
+    {
+      "word": "相挟み",
+      "reading": "あいばさみ",
+      "meaning": "việc nhiều người dùng đũa để gắp cùng một thứ"
+    },
+    {
       "word": "挟み虫",
       "reading": "はさみむし",
       "meaning": "con sâu tai"
+    },
+    {
+      "word": "氷挟み",
+      "reading": "こおりばさみ",
+      "meaning": "cái kẹp gắp nước đá"
+    },
+    {
+      "word": "板挟み",
+      "reading": "いたばさみ",
+      "meaning": "hoàn cảnh tiến thoái lưỡng nan"
+    },
+    {
+      "word": "挟殺",
+      "reading": "きょうさつ",
+      "meaning": "một tình huống trong trò chơi bóng chày xảy ra khi người chơi cơ bản bị mắc kẹt giữa hai căn cứ"
     },
     {
       "word": "挟瞼器",
@@ -146,14 +151,9 @@
       "meaning": "cái kẹp mí mắt"
     },
     {
-      "word": "紙挟み",
-      "reading": "かみばさみ",
-      "meaning": "cái kẹp hồ sơ"
-    },
-    {
-      "word": "相挟み",
-      "reading": "あいばさみ",
-      "meaning": "việc nhiều người dùng đũa để gắp cùng một thứ"
+      "word": "挟撃",
+      "reading": "きょうげき",
+      "meaning": "thế gọng kìm"
     }
   ]
 }

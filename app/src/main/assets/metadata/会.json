@@ -92,24 +92,29 @@
   ],
   "vocabulary": [
     {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "công ty"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "xã hội"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "hội trường"
+    },
+    {
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "giáo hội"
+    },
+    {
       "word": "会",
       "reading": "かい",
       "meaning": "cuộc họp"
-    },
-    {
-      "word": "会社説明会",
-      "reading": "かいしゃせつめいかい",
-      "meaning": "buổi giới thiệu về công ty"
-    },
-    {
-      "word": "再会",
-      "reading": "さいかい",
-      "meaning": "sự gặp lại"
-    },
-    {
-      "word": "議会",
-      "reading": "ぎかい",
-      "meaning": "nghị hội"
     },
     {
       "word": "会員",
@@ -117,9 +122,14 @@
       "meaning": "hội viên"
     },
     {
-      "word": "会釈",
-      "reading": "えしゃく",
-      "meaning": "việc cúi chào nhẹ"
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "quốc hội"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "nghị hội"
     },
     {
       "word": "会合",
@@ -127,19 +137,9 @@
       "meaning": "hội họp"
     },
     {
-      "word": "会費",
-      "reading": "かいひ",
-      "meaning": "hội phí"
-    },
-    {
-      "word": "照会",
-      "reading": "しょうかい",
-      "meaning": "sự điều tra"
-    },
-    {
-      "word": "会見",
-      "reading": "かいけん",
-      "meaning": "cuộc phỏng vấn"
+      "word": "集会",
+      "reading": "しゅうかい",
+      "meaning": "sự tập hợp"
     }
   ]
 }

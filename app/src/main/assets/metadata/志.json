@@ -91,19 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "意志",
+      "reading": "いし",
+      "meaning": "tâm chí"
+    },
+    {
       "word": "志",
       "reading": "こころざし",
       "meaning": "ý chí"
     },
     {
-      "word": "初志",
-      "reading": "しょし",
-      "meaning": "dự định nguyên bản"
+      "word": "志向",
+      "reading": "しこう",
+      "meaning": "chí hướng. mục tiêu"
     },
     {
-      "word": "志願",
-      "reading": "しがん",
-      "meaning": "nguyện vọng"
+      "word": "同志",
+      "reading": "どうし",
+      "meaning": "đồng chí"
     },
     {
       "word": "志望",
@@ -116,29 +121,24 @@
       "meaning": "ước muốn"
     },
     {
-      "word": "闘志",
-      "reading": "とうし",
-      "meaning": "ý chí đấu tranh"
+      "word": "お志",
+      "reading": "おこころざし",
+      "meaning": "sự lịch sự"
     },
     {
-      "word": "志士",
-      "reading": "しし",
-      "meaning": "chí sĩ"
+      "word": "意志的",
+      "reading": "いしてき",
+      "meaning": "cứng cỏi"
     },
     {
-      "word": "志学",
-      "reading": "しがく",
-      "meaning": "15 tuổi"
+      "word": "意志力",
+      "reading": "いしりょく",
+      "meaning": "ý chí"
     },
     {
-      "word": "喬志",
-      "reading": "きょうし",
-      "meaning": "lòng tự hào"
-    },
-    {
-      "word": "志徳",
-      "reading": "しとく",
-      "meaning": "thời shitoku"
+      "word": "志集",
+      "reading": "ししゅう",
+      "meaning": "tạp chí"
     }
   ]
 }

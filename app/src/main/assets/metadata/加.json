@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "加",
-      "reading": "か",
-      "meaning": "sự cộng vào"
-    },
-    {
-      "word": "馬達加斯加",
-      "reading": "マダガスカル",
-      "meaning": "cộng hòa madagascar"
-    },
-    {
-      "word": "加える数[加数]",
-      "reading": "くわえるすう[かすう]",
-      "meaning": "adding number"
-    },
-    {
-      "word": "加油",
-      "reading": "ジャーユー",
-      "meaning": "cố lên! hãy cố gắng! trong tiếng trung"
-    },
-    {
-      "word": "相加",
-      "reading": "そうか",
-      "meaning": "bổ sung"
-    },
-    {
-      "word": "加盟",
-      "reading": "かめい",
-      "meaning": "sự gia nhập"
-    },
-    {
       "word": "参加",
       "reading": "さんか",
       "meaning": "sự tham gia"
     },
     {
-      "word": "加群",
-      "reading": "かぐん",
-      "meaning": "nhóm cộng"
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "sự đốt nóng"
     },
     {
-      "word": "加州",
-      "reading": "かしゅう",
-      "meaning": "bang california"
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "sự cho thêm gia vị"
     },
     {
-      "word": "路加",
-      "reading": "るか",
-      "meaning": "thánh sử luca"
+      "word": "加",
+      "reading": "か",
+      "meaning": "sự cộng vào"
+    },
+    {
+      "word": "日加",
+      "reading": "にっか",
+      "meaning": "nhật bản và canada"
+    },
+    {
+      "word": "加年",
+      "reading": "かねん",
+      "meaning": "sự thêm tuổi mới"
+    },
+    {
+      "word": "加号",
+      "reading": "かごう",
+      "meaning": "dấu cộng"
+    },
+    {
+      "word": "加役",
+      "reading": "かやく",
+      "meaning": "việc làm thêm tạm thời"
+    },
+    {
+      "word": "雪加",
+      "reading": "せっか",
+      "meaning": "quạt - theo dõi chim chích"
+    },
+    {
+      "word": "相加",
+      "reading": "そうか",
+      "meaning": "bổ sung"
     }
   ]
 }

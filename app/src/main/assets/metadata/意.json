@@ -87,34 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "意",
-      "reading": "い",
-      "meaning": "cảm xúc"
+      "word": "意識",
+      "reading": "いしき",
+      "meaning": "ý thức"
     },
     {
-      "word": "らく せき注意",
-      "reading": "落石注意",
-      "meaning": "cảnh báo có đá lở"
+      "word": "意思",
+      "reading": "いし",
+      "meaning": "dự định"
     },
     {
-      "word": "誠意",
-      "reading": "せいい",
-      "meaning": "chân thành"
-    },
-    {
-      "word": "趣意",
-      "reading": "しゅい",
-      "meaning": "tôn chỉ"
-    },
-    {
-      "word": "好意",
-      "reading": "こうい",
-      "meaning": "hữu ý"
-    },
-    {
-      "word": "決意",
-      "reading": "けつい",
-      "meaning": "quyết ý"
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "ngạc nhiên"
     },
     {
       "word": "敬意",
@@ -122,19 +107,34 @@
       "meaning": "khả kính"
     },
     {
-      "word": "謝意",
-      "reading": "しゃい",
-      "meaning": "lòng biết ơn"
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "ý đồ"
     },
     {
-      "word": "随意",
-      "reading": "ずいい",
-      "meaning": "sự tùy ý"
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "quyết ý"
     },
     {
-      "word": "意識",
-      "reading": "いしき",
-      "meaning": "ý thức"
+      "word": "好意",
+      "reading": "こうい",
+      "meaning": "hữu ý"
+    },
+    {
+      "word": "意向",
+      "reading": "いこう",
+      "meaning": "chí hướng"
+    },
+    {
+      "word": "他意",
+      "reading": "たい",
+      "meaning": "ác ý"
+    },
+    {
+      "word": "任意",
+      "reading": "にんい",
+      "meaning": "tùy ý"
     }
   ]
 }

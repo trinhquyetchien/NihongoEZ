@@ -94,19 +94,9 @@
       "meaning": "sự nhất trí"
     },
     {
-      "word": "致傷",
-      "reading": "ちしょう",
-      "meaning": "sự gây thương tích"
-    },
-    {
-      "word": "致死",
-      "reading": "ちし",
-      "meaning": "gây chết người"
-    },
-    {
-      "word": "引致",
-      "reading": "いんち",
-      "meaning": "giữ"
+      "word": "合致",
+      "reading": "がっち",
+      "meaning": "nhất trí"
     },
     {
       "word": "雅致",
@@ -114,29 +104,39 @@
       "meaning": "tính thanh lịch"
     },
     {
-      "word": "招致",
-      "reading": "しょうち",
-      "meaning": "sự mời"
+      "word": "三一致",
+      "reading": "さんいっち",
+      "meaning": "tam vị nhất thể"
+    },
+    {
+      "word": "一致点",
+      "reading": "いっちてん",
+      "meaning": "điểm nhất trí"
+    },
+    {
+      "word": "拉致",
+      "reading": "らち",
+      "meaning": "sự bắt cóc"
+    },
+    {
+      "word": "拉致る",
+      "reading": "らちる",
+      "meaning": "bắt cóc"
+    },
+    {
+      "word": "致命",
+      "reading": "ちめい",
+      "meaning": "chí tử"
+    },
+    {
+      "word": "致命的",
+      "reading": "ちめいてき",
+      "meaning": "chí mạng"
     },
     {
       "word": "誘致",
       "reading": "ゆうち",
       "meaning": "sự hấp dẫn"
-    },
-    {
-      "word": "送致",
-      "reading": "そうち",
-      "meaning": "gửi đi"
-    },
-    {
-      "word": "致仕",
-      "reading": "ちし",
-      "meaning": "sự từ chức"
-    },
-    {
-      "word": "風致",
-      "reading": "ふうち",
-      "meaning": "nếm mùi"
     }
   ]
 }

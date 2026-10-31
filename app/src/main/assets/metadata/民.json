@@ -106,39 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "民",
-      "reading": "みん",
-      "meaning": "dân"
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "thị dân"
     },
     {
-      "word": "民民規制",
-      "reading": "みんみんきせい",
-      "meaning": "thỏa thuận giữa các công ty tư nhân"
-    },
-    {
-      "word": "民事法民法",
-      "reading": "みんじほうみんぽう",
-      "meaning": "luật dân sự"
-    },
-    {
-      "word": "民放",
-      "reading": "みんぽう",
-      "meaning": "đài truyền hình tư nhân"
-    },
-    {
-      "word": "民主人民共和国",
-      "reading": "みんしゅじんみんきょうわこく",
-      "meaning": "nước cộng hòa dân chủ nhân dân"
-    },
-    {
-      "word": "民青",
-      "reading": "みんせい",
-      "meaning": "thanh niên dân chủ liên hiệp lại nhật bản"
-    },
-    {
-      "word": "庶民",
-      "reading": "しょみん",
-      "meaning": "dân đen"
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaning": "dân cư"
     },
     {
       "word": "民間",
@@ -146,14 +121,39 @@
       "meaning": "dân gian"
     },
     {
-      "word": "民地",
-      "reading": "みんち",
-      "meaning": "phần đất tiếp giáp với khu dân cư"
+      "word": "移民",
+      "reading": "いみん",
+      "meaning": "dân di cư"
     },
     {
-      "word": "市民",
-      "reading": "しみん",
-      "meaning": "thị dân"
+      "word": "庶民",
+      "reading": "しょみん",
+      "meaning": "dân đen"
+    },
+    {
+      "word": "人民",
+      "reading": "じんみん",
+      "meaning": "nhân dân"
+    },
+    {
+      "word": "民",
+      "reading": "みん",
+      "meaning": "dân"
+    },
+    {
+      "word": "民人",
+      "reading": "みんじん",
+      "meaning": "dân sự"
+    },
+    {
+      "word": "民国",
+      "reading": "みんこく",
+      "meaning": "trung quốc"
+    },
+    {
+      "word": "民論",
+      "reading": "みんろん",
+      "meaning": "dư luận"
     }
   ]
 }

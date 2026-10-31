@@ -95,29 +95,9 @@
       "meaning": "dọc theo"
     },
     {
-      "word": "沿海",
-      "reading": "えんかい",
-      "meaning": "bờ biển"
-    },
-    {
-      "word": "沿路",
-      "reading": "えんろ",
-      "meaning": "tuyến đường"
-    },
-    {
-      "word": "沿革",
-      "reading": "えんかく",
-      "meaning": "sự đổi thay"
-    },
-    {
       "word": "沿岸",
       "reading": "えんがん",
       "meaning": "bờ biển"
-    },
-    {
-      "word": "沿道",
-      "reading": "えんどう",
-      "meaning": "tuyến đường"
     },
     {
       "word": "沿線",
@@ -130,14 +110,34 @@
       "meaning": "chạy dài"
     },
     {
-      "word": "海沿い",
-      "reading": "うみぞい",
-      "meaning": "ven biển"
+      "word": "沿って",
+      "reading": "そって",
+      "meaning": "dọc theo"
     },
     {
-      "word": "沿海州",
-      "reading": "えんかいしゅう",
-      "meaning": "những tỉnh ven biển"
+      "word": "道沿い",
+      "reading": "みちぞい",
+      "meaning": "dọc theo con đường"
+    },
+    {
+      "word": "山沿い",
+      "reading": "やまぞい",
+      "meaning": "dọc theo sườn núi"
+    },
+    {
+      "word": "壁沿い",
+      "reading": "かべぞい",
+      "meaning": "dọc theo bức tường"
+    },
+    {
+      "word": "川沿い",
+      "reading": "かわぞい",
+      "meaning": "dọc theo dòng sông"
+    },
+    {
+      "word": "沿岸流",
+      "reading": "えんがんりゅう",
+      "meaning": "dòng chảy dọc bờ"
     }
   ]
 }

@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "自炊",
-      "reading": "じすい",
-      "meaning": "tự nấu ăn"
-    },
-    {
-      "word": "雑炊",
-      "reading": "ぞうすい",
-      "meaning": "canh thập cẩm"
-    },
-    {
-      "word": "炊婦",
-      "reading": "すいふ",
-      "meaning": "nấu ăn"
-    },
-    {
       "word": "炊く",
       "reading": "たく",
       "meaning": "nấu cơm"
-    },
-    {
-      "word": "炊爨",
-      "reading": "すいさん",
-      "meaning": "nấu"
     },
     {
       "word": "炊事",
@@ -120,24 +100,44 @@
       "meaning": "việc bếp núc"
     },
     {
-      "word": "烹炊",
-      "reading": "ほうすい",
-      "meaning": "luộc"
-    },
-    {
-      "word": "炊ぐ",
-      "reading": "かしぐ",
-      "meaning": "nấu"
-    },
-    {
       "word": "炊飯",
       "reading": "すいはん",
       "meaning": "nấu cơm"
     },
     {
-      "word": "炊夫",
-      "reading": "すいふ",
-      "meaning": "nấu"
+      "word": "炊飯器",
+      "reading": "すいはんき",
+      "meaning": "bếp thổi cơm"
+    },
+    {
+      "word": "自炊",
+      "reading": "じすい",
+      "meaning": "tự nấu ăn"
+    },
+    {
+      "word": "早炊き",
+      "reading": "はやだき",
+      "meaning": "nấu nhanh"
+    },
+    {
+      "word": "粗炊き",
+      "reading": "あらだき",
+      "meaning": "món cá luộc"
+    },
+    {
+      "word": "雑炊",
+      "reading": "ぞうすい",
+      "meaning": "canh thập cẩm"
+    },
+    {
+      "word": "蟹雑炊",
+      "reading": "かにぞうすい",
+      "meaning": "cơm cua"
+    },
+    {
+      "word": "炊事場",
+      "reading": "すいじば",
+      "meaning": "phòng bếp"
     }
   ]
 }

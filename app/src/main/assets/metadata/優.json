@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "優",
-      "reading": "やさ",
-      "meaning": "dịu dàng"
-    },
-    {
-      "word": "優る",
-      "reading": "まさる",
-      "meaning": "giỏi hơn"
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "sự chiến thắng tất cả"
     },
     {
       "word": "女優",
@@ -107,39 +102,44 @@
       "meaning": "nữ diễn viên điện ảnh"
     },
     {
-      "word": "優良",
-      "reading": "ゆうりょう",
-      "meaning": "ưu tú"
+      "word": "優秀",
+      "reading": "ゆうしゅう",
+      "meaning": "sự ưu tú"
     },
     {
-      "word": "優弧",
-      "reading": "ゆうこ",
-      "meaning": "cung lớn hơn trên nửa đường tròn"
+      "word": "俳優",
+      "reading": "はいゆう",
+      "meaning": "diễn viên"
     },
     {
-      "word": "全優",
-      "reading": "ぜんゆう",
-      "meaning": "toàn điểm a"
+      "word": "優先",
+      "reading": "ゆうせん",
+      "meaning": "sự ưu tiên"
     },
     {
-      "word": "声優",
-      "reading": "せいゆう",
-      "meaning": "diễn viên kịch trên sóng phát thanh"
+      "word": "優",
+      "reading": "やさ",
+      "meaning": "dịu dàng"
     },
     {
-      "word": "優柔",
-      "reading": "ゆうじゅう",
-      "meaning": "sự chưa giải quyết"
+      "word": "優位",
+      "reading": "ゆうい",
+      "meaning": "ưu thế"
     },
     {
-      "word": "優遇",
-      "reading": "ゆうぐう",
-      "meaning": "kinh nghiệm"
+      "word": "優勢",
+      "reading": "ゆうせい",
+      "meaning": "sự ưu thế"
     },
     {
-      "word": "優女",
-      "reading": "やさおんな",
-      "meaning": "phụ nữ dịu dàng"
+      "word": "優越",
+      "reading": "ゆうえつ",
+      "meaning": "quyền tối cao"
+    },
+    {
+      "word": "優美",
+      "reading": "ゆうび",
+      "meaning": "thiện mỹ"
     }
   ]
 }

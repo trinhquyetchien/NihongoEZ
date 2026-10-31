@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "激励",
-      "reading": "げきれい",
-      "meaning": "khuyến khích"
-    },
-    {
       "word": "奨励",
       "reading": "しょうれい",
       "meaning": "sự động viên"
     },
     {
-      "word": "励弧",
-      "reading": "れいこ",
+      "word": "激励",
+      "reading": "げきれい",
+      "meaning": "khuyến khích"
+    },
+    {
+      "word": "励む",
+      "reading": "はげむ",
+      "meaning": "cố gắng"
+    },
+    {
+      "word": "励ます",
+      "reading": "はげます",
+      "meaning": "cổ vũ"
+    },
+    {
+      "word": "励まし",
+      "reading": "はげまし",
+      "meaning": "sự khuyến khích"
+    },
+    {
+      "word": "奨励金",
+      "reading": "しょうれいきん",
+      "meaning": "tiền khích lệ"
+    },
+    {
+      "word": "奨励賞",
+      "reading": "しょうれいしょう",
+      "meaning": "giải khuyến khích"
+    },
+    {
+      "word": "励み",
+      "reading": "はげみ",
       "meaning": "sự kích thích"
     },
     {
-      "word": "他励",
-      "reading": "たれい",
-      "meaning": "phân ra sự kích thích"
+      "word": "激励会",
+      "reading": "げきれいかい",
+      "meaning": "động viên"
     },
     {
-      "word": "策励",
-      "reading": "さくれい",
-      "meaning": "thúc đẩy"
-    },
-    {
-      "word": "督励",
-      "reading": "とくれい",
-      "meaning": "sự cổ vũ"
-    },
-    {
-      "word": "精励",
-      "reading": "せいれい",
-      "meaning": "sự siêng năng"
-    },
-    {
-      "word": "勉励",
-      "reading": "べんれい",
-      "meaning": "sự siêng năng"
-    },
-    {
-      "word": "励振",
-      "reading": "れいしん",
+      "word": "励起",
+      "reading": "れいき",
       "meaning": "sự kích thích"
-    },
-    {
-      "word": "奮励",
-      "reading": "ふんれい",
-      "meaning": "những công sức hăm hở"
     }
   ]
 }

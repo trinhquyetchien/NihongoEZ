@@ -104,44 +104,24 @@
   ],
   "vocabulary": [
     {
-      "word": "才",
-      "reading": "さい",
-      "meaning": "ability"
-    },
-    {
-      "word": "才子才に溺れる",
-      "reading": "さいしさいにおぼれる",
-      "meaning": "thông minh nhưng chủ quan"
-    },
-    {
-      "word": "人才",
-      "reading": "じんさい",
-      "meaning": "người tài"
-    },
-    {
-      "word": "秀才",
-      "reading": "しゅうさい",
-      "meaning": "người phi thường"
-    },
-    {
-      "word": "商才",
-      "reading": "しょうさい",
-      "meaning": "tài năng kinh doanh"
-    },
-    {
       "word": "才能",
       "reading": "さいのう",
       "meaning": "tài năng"
     },
     {
-      "word": "才気",
-      "reading": "さいき",
-      "meaning": "sự nhanh trí"
+      "word": "才",
+      "reading": "さい",
+      "meaning": "ability"
     },
     {
-      "word": "才子",
-      "reading": "さいし",
-      "meaning": "tài tử"
+      "word": "何才",
+      "reading": "なんさい",
+      "meaning": "bao nhiêu tuổi"
+    },
+    {
+      "word": "才分",
+      "reading": "さいぶん",
+      "meaning": "sự xếp đặt"
     },
     {
       "word": "三才",
@@ -149,9 +129,29 @@
       "meaning": "trời"
     },
     {
-      "word": "才女",
-      "reading": "さいじょ",
-      "meaning": "người phụ nữ có tài năng"
+      "word": "才名",
+      "reading": "さいめい",
+      "meaning": "tài danh"
+    },
+    {
+      "word": "才量",
+      "reading": "さいりょう",
+      "meaning": "sự đo lường"
+    },
+    {
+      "word": "才学",
+      "reading": "さいがく",
+      "meaning": "tài năng và sự giáo dục"
+    },
+    {
+      "word": "才器",
+      "reading": "さいき",
+      "meaning": "tài năng"
+    },
+    {
+      "word": "筆才",
+      "reading": "ひっさい",
+      "meaning": "tài năng văn học"
     }
   ]
 }

@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "企て",
-      "reading": "くわだて",
-      "meaning": "kế hoạch"
-    },
-    {
-      "word": "企む",
-      "reading": "たくらむ",
-      "meaning": "rắp tâm"
-    },
-    {
-      "word": "企鵝",
-      "reading": "きが",
-      "meaning": "chim cánh cụt"
-    },
-    {
-      "word": "企劃",
-      "reading": "きかく",
-      "meaning": "lập kế hoạch"
-    },
-    {
-      "word": "企及",
-      "reading": "ききゅう",
-      "meaning": "cố gắng"
-    },
-    {
-      "word": "企望",
-      "reading": "きぼう",
-      "meaning": "making a plan and anticipating its fruition"
-    },
-    {
       "word": "企業",
       "reading": "きぎょう",
       "meaning": "doanh nghiệp"
     },
     {
-      "word": "企み",
-      "reading": "たくらみ",
-      "meaning": "âm mưu"
-    },
-    {
-      "word": "企図",
-      "reading": "きと",
-      "meaning": "dự án"
-    },
-    {
       "word": "企画",
       "reading": "きかく",
       "meaning": "qui hoạch"
+    },
+    {
+      "word": "企業者",
+      "reading": "きぎょうしゃ",
+      "meaning": "nhà tư bản công nghiệp"
+    },
+    {
+      "word": "企業家",
+      "reading": "きぎょうか",
+      "meaning": "nhà tư bản công nghiệp"
+    },
+    {
+      "word": "大企業",
+      "reading": "だいきぎょう",
+      "meaning": "công ty lớn"
+    },
+    {
+      "word": "企業化",
+      "reading": "きぎょうか",
+      "meaning": "sự thương nghiệp hoá"
+    },
+    {
+      "word": "企業間",
+      "reading": "きぎょうかん",
+      "meaning": "liên doanh nghiệp"
+    },
+    {
+      "word": "企業内",
+      "reading": "きぎょうない",
+      "meaning": "bên trong công ty"
+    },
+    {
+      "word": "企業心",
+      "reading": "きぎょうしん",
+      "meaning": "tinh thần tập thể"
+    },
+    {
+      "word": "企画者",
+      "reading": "きかくしゃ",
+      "meaning": "người lên kế hoạch"
     }
   ]
 }

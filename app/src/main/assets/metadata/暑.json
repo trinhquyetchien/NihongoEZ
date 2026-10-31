@@ -89,19 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "暑",
-      "reading": "しょ",
-      "meaning": "sự nắng nóng"
-    },
-    {
-      "word": "残暑",
-      "reading": "ざんしょ",
-      "meaning": "cái nóng còn sót lại của mùa hè"
-    },
-    {
       "word": "暑い",
       "reading": "あつい",
       "meaning": "nóng"
+    },
+    {
+      "word": "蒸し暑い",
+      "reading": "むしあつい",
+      "meaning": "hấp hơi"
+    },
+    {
+      "word": "暑",
+      "reading": "しょ",
+      "meaning": "sự nắng nóng"
     },
     {
       "word": "暑さ",
@@ -109,34 +109,34 @@
       "meaning": "sự nóng bức"
     },
     {
-      "word": "炎暑",
-      "reading": "えんしょ",
-      "meaning": "cái nóng cháy da"
+      "word": "暑夏",
+      "reading": "しょか",
+      "meaning": "mùa hè nóng"
     },
     {
-      "word": "劇暑",
-      "reading": "げきしょ",
+      "word": "秋暑",
+      "reading": "しゅうしょ",
+      "meaning": "cái nóng của mùa thu"
+    },
+    {
+      "word": "暑がる",
+      "reading": "あつがる",
+      "meaning": "cảm thấy nóng"
+    },
+    {
+      "word": "極暑",
+      "reading": "ごくしょ",
+      "meaning": "sự nóng bức"
+    },
+    {
+      "word": "寒暑",
+      "reading": "かんしょ",
+      "meaning": "nóng và lạnh"
+    },
+    {
+      "word": "猛暑",
+      "reading": "もうしょ",
       "meaning": "nóng gay gắt"
-    },
-    {
-      "word": "酷暑",
-      "reading": "こくしょ",
-      "meaning": "sự nóng kinh khủng"
-    },
-    {
-      "word": "向暑",
-      "reading": "こうしょ",
-      "meaning": "sự đối mặt với sức nóng"
-    },
-    {
-      "word": "小暑",
-      "reading": "しょうしょ",
-      "meaning": "tiết khí \"tiểu thử\""
-    },
-    {
-      "word": "処暑",
-      "reading": "しょしょ",
-      "meaning": "xử thử"
     }
   ]
 }

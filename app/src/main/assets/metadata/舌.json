@@ -94,14 +94,34 @@
       "meaning": "lưỡi"
     },
     {
+      "word": "後舌",
+      "reading": "こうぜつ",
+      "meaning": "phần sau của lưỡi"
+    },
+    {
+      "word": "舌下",
+      "reading": "ぜっか",
+      "meaning": "dưới lưỡi"
+    },
+    {
+      "word": "舌体",
+      "reading": "ぜったい",
+      "meaning": "thân lưỡi"
+    },
+    {
       "word": "舌側",
       "reading": "ぜっそく",
       "meaning": "mặt bên trong của hàm dưới"
     },
     {
-      "word": "筆舌",
-      "reading": "ひつぜつ",
-      "meaning": "ngôn từ được viết và nói ra"
+      "word": "舌音",
+      "reading": "ぜつおん",
+      "meaning": "âm thanh được phát âm khi đầu lưỡi gắn vào răng hoặc nướu"
+    },
+    {
+      "word": "悪舌",
+      "reading": "あくぜつ",
+      "meaning": "kẻ xấu miệng"
     },
     {
       "word": "舌骨",
@@ -109,34 +129,14 @@
       "meaning": "xương hình chữ u ở đáy lưỡi"
     },
     {
-      "word": "口舌",
-      "reading": "くぜつ",
-      "meaning": "nói thiếu cân nhắc"
-    },
-    {
-      "word": "滑舌",
-      "reading": "かつぜつ",
-      "meaning": "nói một cách trơn tru"
-    },
-    {
-      "word": "舌ピアス",
-      "reading": "したピアス",
-      "meaning": "xỏ khuyên lưỡi"
-    },
-    {
-      "word": "舌偏",
-      "reading": "したへん",
-      "meaning": "bộ thiệt trong hán tự"
+      "word": "舌炎",
+      "reading": "ぜつえん",
+      "meaning": "viêm lưỡi"
     },
     {
       "word": "舌虫",
       "reading": "したむし",
       "meaning": "armillifer"
-    },
-    {
-      "word": "百舌",
-      "reading": "もず",
-      "meaning": "chim bách thiệt"
     }
   ]
 }

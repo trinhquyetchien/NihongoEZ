@@ -94,34 +94,34 @@
       "meaning": "đông đúc"
     },
     {
-      "word": "密密",
-      "reading": "みつみつ",
-      "meaning": "sự cực kì bí mật"
-    },
-    {
-      "word": "極密",
-      "reading": "ごくみつ",
-      "meaning": "tuyệt mật"
-    },
-    {
-      "word": "舎密",
-      "reading": "セイミ",
-      "meaning": "vật lý và hóa học trong tiếng hà lan"
-    },
-    {
       "word": "厳密",
       "reading": "げんみつ",
       "meaning": "chặt chẽ"
     },
     {
-      "word": "機密",
-      "reading": "きみつ",
-      "meaning": "cơ mật"
+      "word": "密接",
+      "reading": "みっせつ",
+      "meaning": "mật thiết"
     },
     {
-      "word": "緊密",
-      "reading": "きんみつ",
-      "meaning": "chặt chẽ"
+      "word": "密集",
+      "reading": "みっしゅう",
+      "meaning": "sự tập trung với mật độ cao"
+    },
+    {
+      "word": "三密",
+      "reading": "さんみつ",
+      "meaning": "thân"
+    },
+    {
+      "word": "台密",
+      "reading": "たいみつ",
+      "meaning": "đạo phật bí hiểm giáo phái tendai tiếng nhật"
+    },
+    {
+      "word": "低密",
+      "reading": "ていみつ",
+      "meaning": "mật độ thấp"
     },
     {
       "word": "東密",
@@ -129,14 +129,14 @@
       "meaning": "mật giáo đông phái"
     },
     {
-      "word": "高密",
-      "reading": "こうみつ",
-      "meaning": "mật độ cao"
+      "word": "機密",
+      "reading": "きみつ",
+      "meaning": "cơ mật"
     },
     {
-      "word": "密封",
-      "reading": "みっぷう",
-      "meaning": "sự bịt kín"
+      "word": "極密",
+      "reading": "ごくみつ",
+      "meaning": "tuyệt mật"
     }
   ]
 }

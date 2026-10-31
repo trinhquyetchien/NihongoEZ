@@ -108,19 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "医",
-      "reading": "い",
-      "meaning": "y"
-    },
-    {
-      "word": "医療/医学",
-      "reading": "いりょう/いがく",
-      "meaning": "y tế / y học"
-    },
-    {
-      "word": "医療用医薬品",
-      "reading": "いりょうよういやくひん",
-      "meaning": "dược phẩm theo toa"
+      "word": "医者",
+      "reading": "いしゃ",
+      "meaning": "bác sĩ"
     },
     {
       "word": "医学",
@@ -128,34 +118,44 @@
       "meaning": "y học"
     },
     {
-      "word": "獣医",
-      "reading": "じゅうい",
-      "meaning": "thú y"
-    },
-    {
-      "word": "医大",
-      "reading": "いだい",
-      "meaning": "trường đại học y"
-    },
-    {
-      "word": "医薬",
-      "reading": "いやく",
-      "meaning": "y dược"
-    },
-    {
       "word": "医療",
       "reading": "いりょう",
       "meaning": "sự chữa trị"
     },
     {
-      "word": "近医",
-      "reading": "きんい",
-      "meaning": "bác sĩ địa phương"
+      "word": "医師",
+      "reading": "いし",
+      "meaning": "bác sĩ"
     },
     {
-      "word": "軍医",
-      "reading": "ぐんい",
-      "meaning": "quân y"
+      "word": "医",
+      "reading": "い",
+      "meaning": "y"
+    },
+    {
+      "word": "中医",
+      "reading": "ちゅうい",
+      "meaning": "y học tiếng trung hoa"
+    },
+    {
+      "word": "前医",
+      "reading": "ぜんい",
+      "meaning": "bác sĩ trước đó"
+    },
+    {
+      "word": "医会",
+      "reading": "いかい",
+      "meaning": "hiệp hội y khoa"
+    },
+    {
+      "word": "医生",
+      "reading": "いせい",
+      "meaning": "bác sĩ"
+    },
+    {
+      "word": "下医",
+      "reading": "かい",
+      "meaning": "lang băm"
     }
   ]
 }

@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "漫漫",
-      "reading": "まんまん",
-      "meaning": "rộng lớn"
+      "word": "漫画",
+      "reading": "まんが",
+      "meaning": "hí họa"
     },
     {
-      "word": "漫漫たる",
-      "reading": "まんまんたる",
-      "meaning": "bao la"
+      "word": "漫画家",
+      "reading": "まんがか",
+      "meaning": "người vẽ tranh đả kích"
     },
     {
-      "word": "散漫",
-      "reading": "さんまん",
-      "meaning": "sự tản mạn"
+      "word": "漫画本",
+      "reading": "まんがほん",
+      "meaning": "sách hài hước"
     },
     {
-      "word": "放漫",
-      "reading": "ほうまん",
-      "meaning": "tính chất kỳ dị"
+      "word": "漫画化",
+      "reading": "まんがか",
+      "meaning": "lối vẽ biếm hoạ"
     },
     {
-      "word": "漫喫",
-      "reading": "まんきつ",
-      "meaning": "quán cà phê manga"
+      "word": "漫画字",
+      "reading": "まんがじ",
+      "meaning": "phông chữ truyện tranh"
     },
     {
-      "word": "漫ろ",
-      "reading": "そぞろ",
-      "meaning": "không yên"
+      "word": "漫才",
+      "reading": "まんざい",
+      "meaning": "diễn viên kịch vui"
     },
     {
-      "word": "漫楽",
-      "reading": "まんがく",
-      "meaning": "manzai kèm âm nhạc"
-    },
-    {
-      "word": "漫研",
-      "reading": "まんけん",
-      "meaning": "câu lạc bộ nghiên cứu truyện tranh nhật"
-    },
-    {
-      "word": "漫符",
-      "reading": "まんぷ",
-      "meaning": "dấu hiệu"
+      "word": "漫才師",
+      "reading": "まんざいし",
+      "meaning": "một trình diễn đôi hài hước"
     },
     {
       "word": "浪漫",
       "reading": "ロマン",
       "meaning": "lãng mạn"
+    },
+    {
+      "word": "浪漫的",
+      "reading": "ロマンてき",
+      "meaning": "lãng mạn"
+    },
+    {
+      "word": "浪漫派",
+      "reading": "ロマンは",
+      "meaning": "sự lãng mạn"
     }
   ]
 }

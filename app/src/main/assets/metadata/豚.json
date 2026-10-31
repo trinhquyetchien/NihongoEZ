@@ -105,14 +105,14 @@
   ],
   "vocabulary": [
     {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "thịt heo"
+    },
+    {
       "word": "豚",
       "reading": "ぶた",
       "meaning": "heo"
-    },
-    {
-      "word": "豚バラ",
-      "reading": "ぶたばら",
-      "meaning": "thịt lợn ba chỉ"
     },
     {
       "word": "子豚",
@@ -120,19 +120,9 @@
       "meaning": "heo sữa"
     },
     {
-      "word": "豚丼",
-      "reading": "ぶたどん",
-      "meaning": "cơm thịt lợn"
-    },
-    {
-      "word": "豚骨",
-      "reading": "とんこつ",
-      "meaning": "món ăn làm từ thịt lợn và xương bụng"
-    },
-    {
-      "word": "豚脂",
-      "reading": "とんし",
-      "meaning": "mỡ lợn"
+      "word": "豚足",
+      "reading": "とんそく",
+      "meaning": "chân giò lợn"
     },
     {
       "word": "豚犬",
@@ -140,19 +130,29 @@
       "meaning": "chó và lợn"
     },
     {
-      "word": "酢豚",
-      "reading": "すぶた",
-      "meaning": "thịt lợn xào chua ngọt"
+      "word": "白豚",
+      "reading": "しろぶた",
+      "meaning": "lợn trắng"
     },
     {
-      "word": "河豚",
-      "reading": "ふぐ",
-      "meaning": "cá nóc"
+      "word": "黒豚",
+      "reading": "くろぶた",
+      "meaning": "lợn berkshire"
     },
     {
-      "word": "海豚",
-      "reading": "いるか",
-      "meaning": "cá heo mỏ"
+      "word": "種豚",
+      "reading": "しゅとん",
+      "meaning": "lợn đực giống"
+    },
+    {
+      "word": "島豚",
+      "reading": "しまぶた",
+      "meaning": "okinawan pig breed"
+    },
+    {
+      "word": "土豚",
+      "reading": "つちぶた",
+      "meaning": "aardvark"
     }
   ]
 }

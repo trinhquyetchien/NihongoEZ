@@ -89,29 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "救急救命士",
-      "reading": "きゅうきゅうきゅうめいし",
-      "meaning": "kỹ thuật viên y tế khẩn cấp"
+      "word": "救う",
+      "reading": "すくう",
+      "meaning": "cứu giúp"
     },
     {
-      "word": "救命救急センター",
-      "reading": "きゅうめいきゅうきゅうセンター",
-      "meaning": "trung tâm cứu hộ khẩn cấp"
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "sự cứu trợ"
     },
     {
-      "word": "救出",
-      "reading": "きゅうしゅつ",
-      "meaning": "sự cứu"
-    },
-    {
-      "word": "救命",
-      "reading": "きゅうめい",
-      "meaning": "sự cứu mạng"
-    },
-    {
-      "word": "救援",
-      "reading": "きゅうえん",
-      "meaning": "sự cứu viện"
+      "word": "救い",
+      "reading": "すくい",
+      "meaning": "sự giúp đỡ"
     },
     {
       "word": "救済",
@@ -119,9 +109,9 @@
       "meaning": "sự cứu trợ"
     },
     {
-      "word": "救う",
-      "reading": "すくう",
-      "meaning": "cứu giúp"
+      "word": "救援",
+      "reading": "きゅうえん",
+      "meaning": "sự cứu viện"
     },
     {
       "word": "救急",
@@ -129,14 +119,24 @@
       "meaning": "sự sơ cứu"
     },
     {
-      "word": "救癩",
-      "reading": "きゅうらい",
-      "meaning": "cứu giúp những người mắc bệnh phong"
+      "word": "救急車",
+      "reading": "きゅうきゅうしゃ",
+      "meaning": "xe cấp cứu"
     },
     {
-      "word": "救世",
-      "reading": "きゅうせい",
-      "meaning": "cứu thế"
+      "word": "救急法",
+      "reading": "きゅうきゅうほう",
+      "meaning": "phương pháp cấp cứu"
+    },
+    {
+      "word": "救急箱",
+      "reading": "きゅうきゅうばこ",
+      "meaning": "hộp đựng đồ dùng cấp cứu"
+    },
+    {
+      "word": "救出",
+      "reading": "きゅうしゅつ",
+      "meaning": "sự cứu"
     }
   ]
 }

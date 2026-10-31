@@ -84,14 +84,24 @@
   ],
   "vocabulary": [
     {
+      "word": "氾濫",
+      "reading": "はんらん",
+      "meaning": "sự tràn lan"
+    },
+    {
       "word": "濫用",
       "reading": "らんよう",
       "meaning": "sự lạm dụng"
     },
     {
-      "word": "濫読",
-      "reading": "らんどく",
-      "meaning": "hành động đọc một cách tùy tiện"
+      "word": "濫造",
+      "reading": "らんぞう",
+      "meaning": "sự sản xuất thừa"
+    },
+    {
+      "word": "濫りに",
+      "reading": "みだりに",
+      "meaning": "chuyên quyền"
     },
     {
       "word": "濫觴",
@@ -99,9 +109,14 @@
       "meaning": "nguồn"
     },
     {
-      "word": "濫造",
-      "reading": "らんぞう",
-      "meaning": "sự sản xuất thừa"
+      "word": "濫立",
+      "reading": "らんりつ",
+      "meaning": "sự đề xuất hỗn độn"
+    },
+    {
+      "word": "濫読",
+      "reading": "らんどく",
+      "meaning": "hành động đọc một cách tùy tiện"
     },
     {
       "word": "濫入",
@@ -117,21 +132,6 @@
       "word": "濫伐",
       "reading": "らんばつ",
       "meaning": "sự chặt phá bừa bài"
-    },
-    {
-      "word": "濫獲",
-      "reading": "らんかく",
-      "meaning": "săn bắt bừa bãi"
-    },
-    {
-      "word": "濫作",
-      "reading": "らんさく",
-      "meaning": "sự sản xuất quá độ"
-    },
-    {
-      "word": "氾濫",
-      "reading": "はんらん",
-      "meaning": "sự tràn lan"
     }
   ]
 }

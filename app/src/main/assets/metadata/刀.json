@@ -112,9 +112,24 @@
       "meaning": "đao"
     },
     {
-      "word": "宝刀",
-      "reading": "ほうとう",
-      "meaning": "tích lũy thanh gươm"
+      "word": "刀子",
+      "reading": "とうす",
+      "meaning": "dao trang trí"
+    },
+    {
+      "word": "刀下",
+      "reading": "とうか",
+      "meaning": "dưới gươm"
+    },
+    {
+      "word": "刀術",
+      "reading": "とうじゅつ",
+      "meaning": "nghệ thuật nắm và sử dụng kiếm lưỡi cong"
+    },
+    {
+      "word": "刀傷",
+      "reading": "かたなきず",
+      "meaning": "vết thương do gươm chém"
     },
     {
       "word": "入刀",
@@ -122,39 +137,24 @@
       "meaning": "cắt bánh kem"
     },
     {
-      "word": "山刀",
-      "reading": "やまがたな",
-      "meaning": "rìu đốn củi"
+      "word": "直刀",
+      "reading": "ちょくとう",
+      "meaning": "gươm thẳng"
+    },
+    {
+      "word": "刀背",
+      "reading": "とうはい",
+      "meaning": "sống dao"
+    },
+    {
+      "word": "印刀",
+      "reading": "いんとう",
+      "meaning": "dao nhỏ dùng khắc con dấu"
     },
     {
       "word": "利刀",
       "reading": "りとう",
       "meaning": "thanh kiếm sắc bén"
-    },
-    {
-      "word": "手刀",
-      "reading": "てがたな",
-      "meaning": "trao sử dụng tương tự một thanh gươm bên trong đánh"
-    },
-    {
-      "word": "萬刀",
-      "reading": "まんとう",
-      "meaning": "kéo làm vườn"
-    },
-    {
-      "word": "刺刀",
-      "reading": "さすが",
-      "meaning": "lưỡi lê"
-    },
-    {
-      "word": "刀布",
-      "reading": "とうふ",
-      "meaning": "tiền đồng cổ của trung quốc"
-    },
-    {
-      "word": "立刀",
-      "reading": "りっとう",
-      "meaning": "bộ \"lập đao\""
     }
   ]
 }

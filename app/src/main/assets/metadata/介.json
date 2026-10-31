@@ -70,54 +70,54 @@
   ],
   "vocabulary": [
     {
-      "word": "介",
-      "reading": "かい",
-      "meaning": "bóc vỏ"
-    },
-    {
-      "word": "介助",
-      "reading": "かいじょ",
-      "meaning": "người giúp đỡ"
-    },
-    {
       "word": "紹介",
       "reading": "しょうかい",
       "meaning": "sự giới thiệu"
     },
     {
-      "word": "一介",
-      "reading": "いっかい",
-      "meaning": "chỉ là"
+      "word": "厄介",
+      "reading": "やっかい",
+      "meaning": "phiền hà"
     },
     {
-      "word": "介す",
-      "reading": "かいす",
-      "meaning": "thông qua"
+      "word": "介護",
+      "reading": "かいご",
+      "meaning": "sự chăm sóc bệnh nhân"
     },
     {
-      "word": "介病",
-      "reading": "かいびょう",
-      "meaning": "chăm sóc bệnh nhân"
+      "word": "介入",
+      "reading": "かいにゅう",
+      "meaning": "sự can thiệp"
     },
     {
-      "word": "介意",
-      "reading": "かいい",
-      "meaning": "sự lo lắng về"
+      "word": "介抱",
+      "reading": "かいほう",
+      "meaning": "sự chăm sóc"
     },
     {
-      "word": "介卵",
-      "reading": "かいらん",
-      "meaning": "ấp trứng"
+      "word": "紹介者",
+      "reading": "しょうかいしゃ",
+      "meaning": "người giới thiệu"
     },
     {
-      "word": "介甲",
-      "reading": "かいこう",
-      "meaning": "vỏ cứng"
+      "word": "紹介料",
+      "reading": "しょうかいりょう",
+      "meaning": "tiền môi giới"
     },
     {
-      "word": "介在",
-      "reading": "かいざい",
-      "meaning": "trung gian hoà giải"
+      "word": "紹介状",
+      "reading": "しょうかいじょう",
+      "meaning": "giấy giới thiệu"
+    },
+    {
+      "word": "介護者",
+      "reading": "かいごしゃ",
+      "meaning": "điều dưỡng viên"
+    },
+    {
+      "word": "介護士",
+      "reading": "かいごし",
+      "meaning": "điều dưỡng viên"
     }
   ]
 }

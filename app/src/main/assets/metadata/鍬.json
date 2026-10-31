@@ -56,34 +56,9 @@
       "meaning": "cái cuốc"
     },
     {
-      "word": "唐鍬",
-      "reading": "とうが",
-      "meaning": "cuốc khai hoang"
-    },
-    {
-      "word": "馬鍬",
-      "reading": "まぐわ",
-      "meaning": "cái bừa"
-    },
-    {
       "word": "木鍬",
       "reading": "こくわ",
       "meaning": "bát gỗ"
-    },
-    {
-      "word": "鋤鍬",
-      "reading": "すきくわ",
-      "meaning": "nông cụ"
-    },
-    {
-      "word": "鍬形",
-      "reading": "くわがた",
-      "meaning": "bọ hung hoặc bọ cánh cứng nói chung"
-    },
-    {
-      "word": "バチ鍬",
-      "reading": "バチくわ",
-      "meaning": "cuốc lưỡi dẹt"
     },
     {
       "word": "平鍬",
@@ -91,14 +66,39 @@
       "meaning": "cuốc lưỡi vuông"
     },
     {
-      "word": "鍬入れ",
-      "reading": "くわいれ",
-      "meaning": "lễ khởi công"
+      "word": "鍬初め",
+      "reading": "くわはじめ",
+      "meaning": "lễ cúng năm mới dùng cuốc để cuốc ruộng cầu may mắn"
     },
     {
-      "word": "鍬形虫",
-      "reading": "くわがたむし",
-      "meaning": "con xén tóc"
+      "word": "特殊鍬",
+      "reading": "とくしゅくわ",
+      "meaning": "cuốc chuyên dụng"
+    },
+    {
+      "word": "地域鍬",
+      "reading": "ちいきくわ",
+      "meaning": "cuốc địa phương"
+    },
+    {
+      "word": "片手鍬",
+      "reading": "かたてくわ",
+      "meaning": "cuốc một tay"
+    },
+    {
+      "word": "丁能鍬",
+      "reading": "ちょうのうくわ",
+      "meaning": "cuốc lưỡi cong"
+    },
+    {
+      "word": "バチ鍬",
+      "reading": "バチくわ",
+      "meaning": "cuốc lưỡi dẹt"
+    },
+    {
+      "word": "開墾鍬",
+      "reading": "かいこんくわ",
+      "meaning": "cuốc hai lưỡi"
     }
   ]
 }

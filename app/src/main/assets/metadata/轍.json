@@ -57,14 +57,24 @@
       "meaning": "vết bánh xe"
     },
     {
+      "word": "転轍",
+      "reading": "てんてつ",
+      "meaning": "chuyển hoặc hoãn một ô tô đường ray)"
+    },
+    {
+      "word": "転轍手",
+      "reading": "てんてつしゅ",
+      "meaning": "người bẻ ghi"
+    },
+    {
       "word": "轍叉",
       "reading": "てっさ",
       "meaning": "đường sắt frog"
     },
     {
-      "word": "転轍",
-      "reading": "てんてつ",
-      "meaning": "chuyển hoặc hoãn một ô tô đường ray)"
+      "word": "転轍機",
+      "reading": "てんてつき",
+      "meaning": "chỗ bẻ lái"
     },
     {
       "word": "轍鮒",
@@ -77,29 +87,19 @@
       "meaning": "vết lún bánh xe"
     },
     {
-      "word": "転轍手",
-      "reading": "てんてつしゅ",
-      "meaning": "người bẻ ghi"
-    },
-    {
-      "word": "転轍機",
-      "reading": "てんてつき",
-      "meaning": "chỗ bẻ lái"
-    },
-    {
       "word": "轍を踏む",
       "reading": "てつをふむ",
       "meaning": "giẫm lên vết xe đổ"
     },
     {
-      "word": "轍鮒の急",
-      "reading": "てっぷのきゅう",
-      "meaning": "nguy hiểm sắp xảy ra"
+      "word": "途轍もない",
+      "reading": "とてつもない",
+      "meaning": "vô vùng"
     },
     {
-      "word": "前轍を踏む",
-      "reading": "ぜんてつをふむ",
-      "meaning": "lặp lại sai lầm của người khác"
+      "word": "途轍も無い",
+      "reading": "とてつもない",
+      "meaning": "ngông cuồng"
     }
   ]
 }

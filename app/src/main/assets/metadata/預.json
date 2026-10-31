@@ -90,19 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "預け",
-      "reading": "あずけ",
-      "meaning": "sự trông nom"
+      "word": "預ける",
+      "reading": "あずける",
+      "meaning": "giao cho"
     },
     {
-      "word": "預血",
-      "reading": "よけつ",
-      "meaning": "đặt máu"
-    },
-    {
-      "word": "預託",
-      "reading": "よたく",
-      "meaning": "sự phế truất"
+      "word": "預かる",
+      "reading": "あずかる",
+      "meaning": "nhận trông"
     },
     {
       "word": "預金",
@@ -110,14 +105,24 @@
       "meaning": "tiền đặt cọc"
     },
     {
-      "word": "預言",
-      "reading": "よげん",
-      "meaning": "lời tiên tri"
+      "word": "預け",
+      "reading": "あずけ",
+      "meaning": "sự trông nom"
     },
     {
-      "word": "預入",
-      "reading": "あずけいれ",
-      "meaning": "gửi tiền"
+      "word": "預け金",
+      "reading": "あずけきん",
+      "meaning": "tiền mà người thuê nhà buộc lòng phải trả cho chủ nhà trước khi vào ở"
+    },
+    {
+      "word": "預金者",
+      "reading": "よきんしゃ",
+      "meaning": "người gửi tiền"
+    },
+    {
+      "word": "預け物",
+      "reading": "あずけもの",
+      "meaning": "đồ đạc được trông nom"
     },
     {
       "word": "預け主",
@@ -125,19 +130,14 @@
       "meaning": "người gửi đồ vật"
     },
     {
-      "word": "寺預け",
-      "reading": "てらあずけ",
-      "meaning": "việc gửi vào chùa"
+      "word": "賞預金",
+      "reading": "しょうよきん",
+      "meaning": "tiền thưởng"
     },
     {
-      "word": "預言書",
-      "reading": "よげんしょ",
-      "meaning": "sách tiên tri"
-    },
-    {
-      "word": "預貸率",
-      "reading": "よたいりつ",
-      "meaning": "cho vay - đặt tỷ lệ"
+      "word": "現預金",
+      "reading": "げんよきん",
+      "meaning": "tiền và các khoản tương đương"
     }
   ]
 }

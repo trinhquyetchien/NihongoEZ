@@ -87,29 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "捲く",
-      "reading": "まく",
-      "meaning": "lên dây"
+      "word": "日捲り",
+      "reading": "ひめくり",
+      "meaning": "hàng ngày đệm lịch"
     },
     {
-      "word": "捲る",
-      "reading": "まくる",
-      "meaning": "lật lên"
-    },
-    {
-      "word": "席捲",
-      "reading": "せっけん",
-      "meaning": "xâm chiếm"
-    },
-    {
-      "word": "尻捲",
-      "reading": "しりまくり",
-      "meaning": "việc cuộn kimono lên đến mông"
-    },
-    {
-      "word": "捲れる",
-      "reading": "めくれる",
-      "meaning": "tốc"
+      "word": "腕捲り",
+      "reading": "うでまくり",
+      "meaning": "sự xắn tay"
     },
     {
       "word": "譜捲り",
@@ -117,14 +102,29 @@
       "meaning": "trang - thợ tiện"
     },
     {
-      "word": "日捲り",
-      "reading": "ひめくり",
-      "meaning": "hàng ngày đệm lịch"
+      "word": "捲る",
+      "reading": "まくる",
+      "meaning": "lật lên"
     },
     {
-      "word": "総捲り",
-      "reading": "そうまくり",
-      "meaning": "chung chung tổng quan"
+      "word": "尻捲",
+      "reading": "しりまくり",
+      "meaning": "việc cuộn kimono lên đến mông"
+    },
+    {
+      "word": "捲綿子",
+      "reading": "けんめんこ",
+      "meaning": "bông gòn"
+    },
+    {
+      "word": "捲く",
+      "reading": "まく",
+      "meaning": "lên dây"
+    },
+    {
+      "word": "席捲",
+      "reading": "せっけん",
+      "meaning": "xâm chiếm"
     },
     {
       "word": "高捲き",
@@ -132,9 +132,9 @@
       "meaning": "việc đi đường vòng"
     },
     {
-      "word": "腕捲り",
-      "reading": "うでまくり",
-      "meaning": "sự xắn tay"
+      "word": "捲れる",
+      "reading": "めくれる",
+      "meaning": "tốc"
     }
   ]
 }

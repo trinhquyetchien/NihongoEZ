@@ -90,9 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "貧",
-      "reading": "ひん",
-      "meaning": "nghèo"
+      "word": "貧しい",
+      "reading": "まずしい",
+      "meaning": "điêu đứng"
+    },
+    {
+      "word": "貧困",
+      "reading": "ひんこん",
+      "meaning": "bần cùng"
+    },
+    {
+      "word": "貧乏",
+      "reading": "びんぼう",
+      "meaning": "bần cùng"
     },
     {
       "word": "貧弱",
@@ -100,34 +110,24 @@
       "meaning": "gầy yếu"
     },
     {
-      "word": "貧乳",
-      "reading": "ひんにゅう",
-      "meaning": "ngực nhỏ"
+      "word": "貧困者",
+      "reading": "ひんこんしゃ",
+      "meaning": "người nghèo"
     },
     {
-      "word": "ボキャ貧",
-      "reading": "ボキャひん",
-      "meaning": "thiếu những từ để nói một phương tiện nào"
+      "word": "貧困線",
+      "reading": "ひんこんせん",
+      "meaning": "mức sống tối thiểu"
     },
     {
-      "word": "ジリ貧",
-      "reading": "ジリひん",
-      "meaning": "dần trở nên nghèo khó"
+      "word": "貧",
+      "reading": "ひん",
+      "meaning": "nghèo"
     },
     {
-      "word": "貧土",
-      "reading": "ひんど",
-      "meaning": "đất nghèo"
-    },
-    {
-      "word": "貧苦",
-      "reading": "ひんく",
-      "meaning": "bần khổ"
-    },
-    {
-      "word": "貧鉱",
-      "reading": "ひんこう",
-      "meaning": "quặng ít khoáng sản"
+      "word": "貧困層",
+      "reading": "ひんこんそう",
+      "meaning": "lớp dưới"
     },
     {
       "word": "貧家",
@@ -135,9 +135,9 @@
       "meaning": "nhà nghèo"
     },
     {
-      "word": "貧寒",
-      "reading": "ひんかん",
-      "meaning": "cảnh thiếu thốn"
+      "word": "貧村",
+      "reading": "ひんそん",
+      "meaning": "ngôi làng nghèo khó"
     }
   ]
 }

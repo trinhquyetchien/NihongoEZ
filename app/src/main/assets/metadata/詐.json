@@ -87,14 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "詐病",
-      "reading": "さびょう",
-      "meaning": "giả bệnh"
-    },
-    {
       "word": "詐欺",
       "reading": "さぎ",
       "meaning": "sự lừa đảo"
+    },
+    {
+      "word": "詐欺師",
+      "reading": "さぎし",
+      "meaning": "đại gian"
+    },
+    {
+      "word": "詐欺罪",
+      "reading": "さぎざい",
+      "meaning": "tội gian lận"
     },
     {
       "word": "詐称",
@@ -117,9 +122,9 @@
       "meaning": "định kiến"
     },
     {
-      "word": "欺詐",
-      "reading": "ぎさ",
-      "meaning": "gian lận"
+      "word": "詐病",
+      "reading": "さびょう",
+      "meaning": "giả bệnh"
     },
     {
       "word": "詐偽",
@@ -127,14 +132,9 @@
       "meaning": "sự thoái thác"
     },
     {
-      "word": "譎詐",
-      "reading": "きっさ",
-      "meaning": "sự che đậy"
-    },
-    {
-      "word": "詐欺師",
-      "reading": "さぎし",
-      "meaning": "đại gian"
+      "word": "欺詐",
+      "reading": "ぎさ",
+      "meaning": "gian lận"
     }
   ]
 }

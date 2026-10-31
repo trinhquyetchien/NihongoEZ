@@ -92,14 +92,29 @@
   ],
   "vocabulary": [
     {
+      "word": "一斉",
+      "reading": "いっせい",
+      "meaning": "cùng một lúc"
+    },
+    {
+      "word": "一斉に",
+      "reading": "いっせいに",
+      "meaning": "cùng một lúc"
+    },
+    {
+      "word": "一斉高",
+      "reading": "いっせいだか",
+      "meaning": "hiện tượng giá cổ phiếu của hầu hết các cổ phiếu đều tăng cùng một lúc"
+    },
+    {
+      "word": "一斉安",
+      "reading": "いっせいやす",
+      "meaning": "toàn diện suy sụp"
+    },
+    {
       "word": "斉",
       "reading": "せい",
       "meaning": "nước tề"
-    },
-    {
-      "word": "斉魚",
-      "reading": "えつ",
-      "meaning": "cá coilia nasus"
     },
     {
       "word": "斉家",
@@ -107,9 +122,14 @@
       "meaning": "sự tề gia"
     },
     {
-      "word": "斉衡",
-      "reading": "さいこう",
-      "meaning": "thời saikou"
+      "word": "斉次",
+      "reading": "せいじ",
+      "meaning": "đồng nhất"
+    },
+    {
+      "word": "斉次式",
+      "reading": "せいじしき",
+      "meaning": "phương trình đồng nhất"
     },
     {
       "word": "不斉",
@@ -117,29 +137,9 @@
       "meaning": "không theo quy luật"
     },
     {
-      "word": "斉唱",
-      "reading": "せいしょう",
-      "meaning": "sự hòa âm"
-    },
-    {
-      "word": "斉備",
-      "reading": "せいび",
-      "meaning": "sự làm vững chắc"
-    },
-    {
-      "word": "斉一",
-      "reading": "せいいつ",
-      "meaning": "đẳng thức"
-    },
-    {
-      "word": "斉列",
-      "reading": "せいれつ",
-      "meaning": "hàng"
-    },
-    {
-      "word": "斉射",
-      "reading": "せいしゃ",
-      "meaning": "sự bắn một loạt"
+      "word": "南斉",
+      "reading": "なんせい",
+      "meaning": "nam tề"
     }
   ]
 }

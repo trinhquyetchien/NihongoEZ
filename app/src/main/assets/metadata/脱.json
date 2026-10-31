@@ -90,24 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "脱",
-      "reading": "だつ",
-      "meaning": "chỉ ra đảo ngược"
+      "word": "脱ぐ",
+      "reading": "ぬぐ",
+      "meaning": "cởi"
     },
     {
-      "word": "脱ぎ脱ぎ",
-      "reading": "ぬぎぬぎ",
-      "meaning": "sự cởi đồ"
-    },
-    {
-      "word": "肛門脱（脱肛）",
-      "reading": "こうもんだつ（だっこう）",
-      "meaning": "sa trực tràng"
-    },
-    {
-      "word": "脱落",
-      "reading": "だつらく",
-      "meaning": "tụt lại"
+      "word": "脱出",
+      "reading": "だっしゅつ",
+      "meaning": "thoát khỏi"
     },
     {
       "word": "脱毛",
@@ -115,29 +105,39 @@
       "meaning": "rụng tóc"
     },
     {
+      "word": "脱",
+      "reading": "だつ",
+      "meaning": "chỉ ra đảo ngược"
+    },
+    {
+      "word": "脱北",
+      "reading": "だっぽく",
+      "meaning": "đào tẩu thành công khỏi triều tiên"
+    },
+    {
+      "word": "脱魂",
+      "reading": "だっこん",
+      "meaning": "trạng thái xuất hồn"
+    },
+    {
+      "word": "脱輪",
+      "reading": "だつりん",
+      "meaning": "trật bánh"
+    },
+    {
       "word": "脱獄",
       "reading": "だつごく",
       "meaning": "sự vượt ngục"
     },
     {
-      "word": "脱兎",
-      "reading": "だっと",
-      "meaning": "va mạnh hoặc giáp giới ra khỏi"
+      "word": "脱落",
+      "reading": "だつらく",
+      "meaning": "tụt lại"
     },
     {
-      "word": "脱サラ",
-      "reading": "だつサラ",
-      "meaning": "thoát khỏi cuộc đời làm nhân công"
-    },
-    {
-      "word": "脱オタク",
-      "reading": "だつオタク",
-      "meaning": "việc một người từ bỏ những lời nói ngổ ngáo hay ăn mặc lập dị"
-    },
-    {
-      "word": "脱窒",
-      "reading": "だっちつ",
-      "meaning": "loại nitơ"
+      "word": "逸脱",
+      "reading": "いつだつ",
+      "meaning": "sự lệch hướng"
     }
   ]
 }

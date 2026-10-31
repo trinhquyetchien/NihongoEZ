@@ -85,9 +85,34 @@
   ],
   "vocabulary": [
     {
+      "word": "該当",
+      "reading": "がいとう",
+      "meaning": "sự tương ứng"
+    },
+    {
+      "word": "該当者",
+      "reading": "がいとうしゃ",
+      "meaning": "người có liên quan"
+    },
+    {
+      "word": "当該",
+      "reading": "とうがい",
+      "meaning": "thích hợp"
+    },
+    {
       "word": "該",
       "reading": "がい",
       "meaning": "các"
+    },
+    {
+      "word": "該問題",
+      "reading": "がいもんだい",
+      "meaning": "vấn đề trong câu hỏi"
+    },
+    {
+      "word": "該博",
+      "reading": "がいはく",
+      "meaning": "uyên thâm"
     },
     {
       "word": "該案",
@@ -100,39 +125,14 @@
       "meaning": "người nói"
     },
     {
-      "word": "当該",
-      "reading": "とうがい",
-      "meaning": "thích hợp"
-    },
-    {
-      "word": "該博",
-      "reading": "がいはく",
-      "meaning": "uyên thâm"
-    },
-    {
-      "word": "該当",
-      "reading": "がいとう",
-      "meaning": "sự tương ứng"
-    },
-    {
-      "word": "該当者",
-      "reading": "がいとうしゃ",
-      "meaning": "người có liên quan"
-    },
-    {
-      "word": "該問題",
-      "reading": "がいもんだい",
-      "meaning": "vấn đề trong câu hỏi"
-    },
-    {
       "word": "該当する",
       "reading": "がいとうする",
       "meaning": "tương ứng"
     },
     {
-      "word": "該当事項",
-      "reading": "がいとうじこう",
-      "meaning": "các hạng mục tương ứng"
+      "word": "該当なし",
+      "reading": "がいとうなし",
+      "meaning": "không áp dụng"
     }
   ]
 }

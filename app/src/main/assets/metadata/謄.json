@@ -108,24 +108,24 @@
       "meaning": "bản sao công chứng"
     },
     {
-      "word": "戸籍謄本",
-      "reading": "こせきとうほん",
-      "meaning": "bản sao đăng ký hộ khẩu gia đình"
-    },
-    {
       "word": "住民謄本",
       "reading": "じゅうみんとうほん",
       "meaning": "chứng minh nhân dân"
     },
     {
-      "word": "謄写する",
-      "reading": "とうしゃ",
-      "meaning": "sao chép"
+      "word": "戸籍謄本",
+      "reading": "こせきとうほん",
+      "meaning": "bản sao đăng ký hộ khẩu gia đình"
     },
     {
       "word": "登記簿謄本",
       "reading": "とうきぼとうほん",
       "meaning": "bản sao giấy chứng nhận đăng ký"
+    },
+    {
+      "word": "謄写する",
+      "reading": "とうしゃ",
+      "meaning": "sao chép"
     }
   ]
 }

@@ -90,14 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "屈葬",
-      "reading": "くっそう",
-      "meaning": "khuất táng"
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaning": "mệt mỏi"
     },
     {
-      "word": "屈従",
-      "reading": "くつじゅう",
-      "meaning": "phục tùng"
+      "word": "理屈",
+      "reading": "りくつ",
+      "meaning": "logic"
+    },
+    {
+      "word": "窮屈",
+      "reading": "きゅうくつ",
+      "meaning": "chật"
     },
     {
       "word": "屈折",
@@ -105,39 +110,34 @@
       "meaning": "sự gấp khúc"
     },
     {
-      "word": "屈む",
-      "reading": "かがむ",
-      "meaning": "còng"
+      "word": "退屈な",
+      "reading": "たいくつな",
+      "meaning": "buồn chán"
     },
     {
-      "word": "屈曲",
-      "reading": "くっきょく",
-      "meaning": "sự cong"
+      "word": "理屈屋",
+      "reading": "りくつや",
+      "meaning": "người hay chơi chữ"
     },
     {
-      "word": "屈託",
-      "reading": "くったく",
-      "meaning": "lo lắng"
+      "word": "屈指",
+      "reading": "くっし",
+      "meaning": "sự dẫn đầu"
     },
     {
-      "word": "屈狸",
-      "reading": "くずり",
-      "meaning": "wolverine"
+      "word": "屈辱",
+      "reading": "くつじょく",
+      "meaning": "sự nhục nhã"
     },
     {
-      "word": "座屈",
-      "reading": "ざくつ",
-      "meaning": "cong vênh"
+      "word": "屈辱的",
+      "reading": "くつじょくてき",
+      "meaning": "làm nhục"
     },
     {
-      "word": "屈す",
-      "reading": "くっす",
-      "meaning": "phục tùng"
-    },
-    {
-      "word": "前屈",
-      "reading": "ぜんくつ",
-      "meaning": "sự cong về phía trước"
+      "word": "窮屈袋",
+      "reading": "きゅうくつぶくろ",
+      "meaning": "tên gọi khác của hakama"
     }
   ]
 }

@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "而今而後",
-      "reading": "じこんじご",
-      "meaning": "trong tương lai"
-    },
-    {
       "word": "而も",
       "reading": "しかも",
       "meaning": "hơn nữa"
     },
     {
+      "word": "形而上",
+      "reading": "けいじじょう",
+      "meaning": "tàng hình"
+    },
+    {
       "word": "而今",
       "reading": "じこん",
       "meaning": "từ giờ trở đi"
+    },
+    {
+      "word": "形而下",
+      "reading": "けいじか",
+      "meaning": "vật lý"
     },
     {
       "word": "而来",
@@ -125,19 +130,14 @@
       "meaning": "sai"
     },
     {
-      "word": "形而上",
-      "reading": "けいじじょう",
-      "meaning": "tàng hình"
-    },
-    {
-      "word": "形而下",
-      "reading": "けいじか",
-      "meaning": "vật lý"
-    },
-    {
       "word": "形而上学",
       "reading": "けいじじょうがく",
       "meaning": "siêu hình học"
+    },
+    {
+      "word": "反形而上学",
+      "reading": "はんけいじじょうがく",
+      "meaning": "phản siêu hình học"
     }
   ]
 }

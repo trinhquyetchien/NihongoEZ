@@ -90,36 +90,6 @@
   ],
   "vocabulary": [
     {
-      "word": "恒温水槽/恒温装置",
-      "reading": "こうおんすいそう/こうおんそうち",
-      "meaning": "máy làm lạnh"
-    },
-    {
-      "word": "恒星",
-      "reading": "こうせい",
-      "meaning": "định tinh"
-    },
-    {
-      "word": "恒心",
-      "reading": "こうしん",
-      "meaning": "sự vững vàng"
-    },
-    {
-      "word": "恒久",
-      "reading": "こうきゅう",
-      "meaning": "sự vĩnh cửu"
-    },
-    {
-      "word": "恒産",
-      "reading": "こうさん",
-      "meaning": "tính sản sinh vĩnh cửu"
-    },
-    {
-      "word": "恒常",
-      "reading": "こうじょう",
-      "meaning": "không đổi"
-    },
-    {
       "word": "恒例",
       "reading": "こうれい",
       "meaning": "thói quen"
@@ -135,9 +105,39 @@
       "meaning": "tính không thay đổi"
     },
     {
-      "word": "恒温",
-      "reading": "こうおん",
-      "meaning": "nhiệt độ không thay đổi"
+      "word": "恒常",
+      "reading": "こうじょう",
+      "meaning": "không đổi"
+    },
+    {
+      "word": "恒常的",
+      "reading": "こうじょうてき",
+      "meaning": "hằng số"
+    },
+    {
+      "word": "恒常性",
+      "reading": "こうじょうせい",
+      "meaning": "tính trước sau như một"
+    },
+    {
+      "word": "恒星",
+      "reading": "こうせい",
+      "meaning": "định tinh"
+    },
+    {
+      "word": "恒星時",
+      "reading": "こうせいじ",
+      "meaning": "thời gian thiên văn"
+    },
+    {
+      "word": "恒星月",
+      "reading": "こうせいげつ",
+      "meaning": "sidereal month"
+    },
+    {
+      "word": "恒星日",
+      "reading": "こうせいじつ",
+      "meaning": "sidereal day"
     }
   ]
 }

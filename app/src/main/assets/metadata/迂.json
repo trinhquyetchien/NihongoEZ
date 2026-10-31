@@ -64,6 +64,36 @@
   ],
   "vocabulary": [
     {
+      "word": "迂回",
+      "reading": "うかい",
+      "meaning": "lách luật"
+    },
+    {
+      "word": "迂回路",
+      "reading": "うかいろ",
+      "meaning": "đường vòng ký tên"
+    },
+    {
+      "word": "迂闊",
+      "reading": "うかつ",
+      "meaning": "sự cẩu thả"
+    },
+    {
+      "word": "迂遠",
+      "reading": "うえん",
+      "meaning": "lời nói quanh co"
+    },
+    {
+      "word": "迂拙",
+      "reading": "うせつ",
+      "meaning": "dại dột"
+    },
+    {
+      "word": "迂言",
+      "reading": "うげん",
+      "meaning": "mạn phải"
+    },
+    {
       "word": "迂叟",
       "reading": "うそう",
       "meaning": "nói xạo"
@@ -79,39 +109,9 @@
       "meaning": "đại từ ngôi thứ nhất được sử dụng trong các bức thư thể hiện vai vế thấp kém"
     },
     {
-      "word": "迂拙",
-      "reading": "うせつ",
-      "meaning": "dại dột"
-    },
-    {
       "word": "迂路",
       "reading": "うろ",
       "meaning": "đường vòng"
-    },
-    {
-      "word": "迂遠",
-      "reading": "うえん",
-      "meaning": "lời nói quanh co"
-    },
-    {
-      "word": "迂愚",
-      "reading": "うぐ",
-      "meaning": "ngu ngốc"
-    },
-    {
-      "word": "迂言",
-      "reading": "うげん",
-      "meaning": "mạn phải"
-    },
-    {
-      "word": "迂回",
-      "reading": "うかい",
-      "meaning": "lách luật"
-    },
-    {
-      "word": "迂闊",
-      "reading": "うかつ",
-      "meaning": "sự cẩu thả"
     }
   ]
 }

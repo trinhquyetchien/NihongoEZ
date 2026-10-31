@@ -91,19 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "遠鳴り",
-      "reading": "とおなり",
-      "meaning": "sự vang rền từ xa"
+      "word": "鳴く",
+      "reading": "なく",
+      "meaning": "kêu"
     },
     {
-      "word": "鳴神",
-      "reading": "なるかみ",
-      "meaning": "sấm"
+      "word": "鳴る",
+      "reading": "なる",
+      "meaning": "gáy"
     },
     {
-      "word": "耳鳴",
-      "reading": "じめい",
-      "meaning": "ù tai"
+      "word": "悲鳴",
+      "reading": "ひめい",
+      "meaning": "tiếng kêu gào"
     },
     {
       "word": "共鳴",
@@ -111,24 +111,24 @@
       "meaning": "sự đồng cảm"
     },
     {
-      "word": "鳴り",
-      "reading": "なり",
-      "meaning": "reo"
+      "word": "我鳴る",
+      "reading": "がなる",
+      "meaning": "hét lên"
     },
     {
-      "word": "鳴管",
-      "reading": "めいかん",
-      "meaning": "minh quản"
+      "word": "海鳴",
+      "reading": "かいめい",
+      "meaning": "âm thanh vọng từ biển"
     },
     {
-      "word": "鳴動",
-      "reading": "めいどう",
-      "meaning": "sự rền"
+      "word": "山鳴",
+      "reading": "やまならし",
+      "meaning": "địa chấn trong lòng núi"
     },
     {
-      "word": "喘鳴",
-      "reading": "ぜんめい",
-      "meaning": "khò khè"
+      "word": "耳鳴",
+      "reading": "じめい",
+      "meaning": "ù tai"
     },
     {
       "word": "腹鳴",
@@ -136,9 +136,9 @@
       "meaning": "dạ dày ầm ầm"
     },
     {
-      "word": "山鳴",
-      "reading": "やまならし",
-      "meaning": "địa chấn trong lòng núi"
+      "word": "鳴り",
+      "reading": "なり",
+      "meaning": "reo"
     }
   ]
 }

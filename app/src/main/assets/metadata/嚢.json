@@ -50,39 +50,34 @@
   ],
   "vocabulary": [
     {
-      "word": "球形嚢と卵形嚢",
-      "reading": "きゅーけーのーとらんけーのー",
-      "meaning": "xoang nang và tiểu nang"
+      "word": "子嚢",
+      "reading": "しのう",
+      "meaning": "chủng bào"
     },
     {
-      "word": "陰嚢",
-      "reading": "いんのう",
-      "meaning": "bìu dái"
+      "word": "後嚢",
+      "reading": "こうのう",
+      "meaning": "bao sau"
     },
     {
-      "word": "衣嚢",
-      "reading": "いのう",
-      "meaning": "túi"
+      "word": "前嚢",
+      "reading": "ぜんのう",
+      "meaning": "bao trước"
     },
     {
-      "word": "卵嚢",
-      "reading": "らんのう",
-      "meaning": "túi trứng"
+      "word": "心嚢",
+      "reading": "しんのう",
+      "meaning": "màng ngoài tim"
     },
     {
-      "word": "嚢腫",
-      "reading": "のうしゅ",
-      "meaning": "u nang"
+      "word": "耳嚢",
+      "reading": "じのう",
+      "meaning": "bộ sưu tập truyện ngắn của yasumori negishi"
     },
     {
-      "word": "嚢胞",
-      "reading": "のうほう",
-      "meaning": "u nang"
-    },
-    {
-      "word": "ボーマン嚢",
-      "reading": "ボーマンのう",
-      "meaning": "viên con nhộng<br>"
+      "word": "小嚢",
+      "reading": "しょうのう",
+      "meaning": "nang"
     },
     {
       "word": "毛嚢",
@@ -90,14 +85,19 @@
       "meaning": "nang lông"
     },
     {
-      "word": "胎嚢",
-      "reading": "たいのう",
-      "meaning": "túi thai"
+      "word": "涙嚢",
+      "reading": "るいのう",
+      "meaning": "túi lệ"
     },
     {
-      "word": "胆嚢",
-      "reading": "たんのう",
-      "meaning": "túi mật"
+      "word": "卵形嚢",
+      "reading": "らんけいのう",
+      "meaning": "túi bầu dục"
+    },
+    {
+      "word": "衣嚢",
+      "reading": "いのう",
+      "meaning": "túi"
     }
   ]
 }

@@ -88,24 +88,14 @@
   ],
   "vocabulary": [
     {
+      "word": "孝行",
+      "reading": "こうこう",
+      "meaning": "có hiếu"
+    },
+    {
       "word": "孝",
       "reading": "こう",
       "meaning": "hiếu"
-    },
-    {
-      "word": "孝道",
-      "reading": "こうどう",
-      "meaning": "lòng hiếu thảo"
-    },
-    {
-      "word": "孝養",
-      "reading": "こうよう",
-      "meaning": "bổn phận làm con"
-    },
-    {
-      "word": "孝心",
-      "reading": "こうしん",
-      "meaning": "lòng hiếu nghĩa"
     },
     {
       "word": "孝経",
@@ -113,29 +103,39 @@
       "meaning": "sách lòng hiếu thảo"
     },
     {
+      "word": "孝順",
+      "reading": "こうじゅん",
+      "meaning": "sự vâng lời"
+    },
+    {
       "word": "孝敬",
       "reading": "こうけい",
       "meaning": "lòng hiếu thảo"
     },
     {
-      "word": "至孝",
-      "reading": "しこう",
-      "meaning": "lòng hiếu thảo tuyệt đối"
+      "word": "候孝賢",
+      "reading": "こうこうけん",
+      "meaning": "đạo diễn phim người đài loan"
+    },
+    {
+      "word": "親孝行",
+      "reading": "おやこうこう",
+      "meaning": "hiếu thảo"
+    },
+    {
+      "word": "親不孝",
+      "reading": "おやふこう",
+      "meaning": "bất hiếu"
+    },
+    {
+      "word": "孝子",
+      "reading": "こうし",
+      "meaning": "đứa con hiếu thảo"
     },
     {
       "word": "忠孝",
       "reading": "ちゅうこう",
       "meaning": "trung thành và hiếu thảo"
-    },
-    {
-      "word": "不孝",
-      "reading": "ふこう",
-      "meaning": "sự không có hiếu"
-    },
-    {
-      "word": "孝順",
-      "reading": "こうじゅん",
-      "meaning": "sự vâng lời"
     }
   ]
 }

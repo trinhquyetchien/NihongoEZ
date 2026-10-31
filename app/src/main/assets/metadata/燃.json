@@ -108,39 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "再燃",
-      "reading": "さいねん",
-      "meaning": "sự làm sống lại"
+      "word": "燃える",
+      "reading": "もえる",
+      "meaning": "bốc hỏa"
     },
     {
-      "word": "燃す",
-      "reading": "もす",
+      "word": "燃やす",
+      "reading": "もやす",
       "meaning": "đốt"
-    },
-    {
-      "word": "爆燃",
-      "reading": "ばくねん",
-      "meaning": "sự bùng cháy"
-    },
-    {
-      "word": "燃素",
-      "reading": "ねんそ",
-      "meaning": "phlogiston"
-    },
-    {
-      "word": "可燃",
-      "reading": "かねん",
-      "meaning": "dễ cháy"
-    },
-    {
-      "word": "不燃",
-      "reading": "ふねん",
-      "meaning": "tính không cháy"
-    },
-    {
-      "word": "燃費",
-      "reading": "ねんぴ",
-      "meaning": "tỉ lệ hao nhiên liệu"
     },
     {
       "word": "燃料",
@@ -153,9 +128,34 @@
       "meaning": "sự đốt cháy"
     },
     {
-      "word": "燃木",
-      "reading": "もえぎ",
-      "meaning": "củi cháy"
+      "word": "燃料系",
+      "reading": "ねんりょうけい",
+      "meaning": "hệ thống nhiên liệu"
+    },
+    {
+      "word": "燃料費",
+      "reading": "ねんりょうひ",
+      "meaning": "nạp nhiên liệu những chi phí"
+    },
+    {
+      "word": "核燃料",
+      "reading": "かくねんりょう",
+      "meaning": "nhiên liệu nguyên tử"
+    },
+    {
+      "word": "燃料油",
+      "reading": "ねんりょうゆ",
+      "meaning": "dầu f.o"
+    },
+    {
+      "word": "燃料棒",
+      "reading": "ねんりょうぼう",
+      "meaning": "thanh nhiên liệu"
+    },
+    {
+      "word": "燃焼室",
+      "reading": "ねんしょーしつ",
+      "meaning": "buồng cháy"
     }
   ]
 }

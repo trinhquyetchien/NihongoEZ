@@ -56,24 +56,19 @@
       "meaning": "roi"
     },
     {
-      "word": "鞭虫",
-      "reading": "べんちゅう",
-      "meaning": "giun tóc"
+      "word": "鞭入れ",
+      "reading": "むちいれ",
+      "meaning": "quất ngựa"
     },
     {
-      "word": "先鞭",
-      "reading": "せんべん",
-      "meaning": "sáng kiến"
+      "word": "三鞭酒",
+      "reading": "シャンパン",
+      "meaning": "rượu sâm banh"
     },
     {
-      "word": "鞭撻",
-      "reading": "べんたつ",
-      "meaning": "sự động viên"
-    },
-    {
-      "word": "教鞭",
-      "reading": "きょうべん",
-      "meaning": "cây roi của giáo viên"
+      "word": "馬の鞭",
+      "reading": "うまのむち",
+      "meaning": "roi ngựa"
     },
     {
       "word": "鞭毛",
@@ -81,24 +76,29 @@
       "meaning": "roi"
     },
     {
-      "word": "ご鞭撻",
-      "reading": "ごべんたつ",
-      "meaning": "sự động viên"
+      "word": "鞭虫",
+      "reading": "べんちゅう",
+      "meaning": "giun tóc"
     },
     {
-      "word": "御鞭撻",
-      "reading": "ごべんたつ",
-      "meaning": "sự động viên"
+      "word": "鞭虫症",
+      "reading": "べんちゅうしょう",
+      "meaning": "bệnh giun tóc"
     },
     {
-      "word": "鞭打ち",
-      "reading": "むちうち",
-      "meaning": "đánh bằng roi"
+      "word": "革の鞭",
+      "reading": "かわのむち",
+      "meaning": "roi da"
     },
     {
       "word": "飴と鞭",
       "reading": "あめとむち",
       "meaning": "cà rốt và chính sách gậy"
+    },
+    {
+      "word": "鞭毛虫",
+      "reading": "べんもうちゅう",
+      "meaning": "trùng roi"
     }
   ]
 }

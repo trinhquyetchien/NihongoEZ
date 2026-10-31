@@ -90,34 +90,14 @@
   ],
   "vocabulary": [
     {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "mái nhà"
+    },
+    {
       "word": "根",
       "reading": "ね",
       "meaning": "rễ"
-    },
-    {
-      "word": "根と根元",
-      "reading": "ねとこんげん",
-      "meaning": "gốc rễ"
-    },
-    {
-      "word": "根太ようせっちゃくざい",
-      "reading": "根太用接着剤",
-      "meaning": "keo dán dầm"
-    },
-    {
-      "word": "根元",
-      "reading": "こんげん",
-      "meaning": "nguồn gốc"
-    },
-    {
-      "word": "箱根",
-      "reading": "はこね",
-      "meaning": "tên của chuyến tàu"
-    },
-    {
-      "word": "大根",
-      "reading": "だいこん",
-      "meaning": "cải củ"
     },
     {
       "word": "垣根",
@@ -125,19 +105,39 @@
       "meaning": "hàng rào"
     },
     {
-      "word": "根圏",
-      "reading": "こんけん",
-      "meaning": "bầu rễ"
+      "word": "根拠",
+      "reading": "こんきょ",
+      "meaning": "căn cứ"
     },
     {
-      "word": "菌根",
-      "reading": "きんこん",
-      "meaning": "nấm rễ cộng sinh"
+      "word": "根本",
+      "reading": "こんぽん",
+      "meaning": "nguồn gốc"
     },
     {
-      "word": "根源",
-      "reading": "こんげん",
-      "meaning": "căn nguyên"
+      "word": "根底",
+      "reading": "こんてい",
+      "meaning": "nền tảng"
+    },
+    {
+      "word": "側根",
+      "reading": "そっこん",
+      "meaning": "rễ bên"
+    },
+    {
+      "word": "根音",
+      "reading": "こんおん",
+      "meaning": "âm gốc"
+    },
+    {
+      "word": "足根",
+      "reading": "そっこん",
+      "meaning": "cổ chân"
+    },
+    {
+      "word": "命根",
+      "reading": "めいこん",
+      "meaning": "cuộc sống"
     }
   ]
 }

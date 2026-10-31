@@ -104,29 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "念",
-      "reading": "ねん",
-      "meaning": "sự chú ý"
-    },
-    {
-      "word": "念念",
-      "reading": "ねんねん",
-      "meaning": "sự nghĩ ngợi liên tục"
-    },
-    {
-      "word": "残念無念",
-      "reading": "ざんねんむねん",
-      "meaning": "rất thất vọng"
-    },
-    {
-      "word": "観念念仏",
-      "reading": "かんねんねんぶつ",
-      "meaning": "chiêm ngưỡng phật a di đà và cõi tịnh độ"
-    },
-    {
-      "word": "念には念を入れよ",
-      "reading": "ねんにはねんをいれよ",
-      "meaning": "đảm bảo chắc chắn gấp đôi"
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "đáng tiếc"
     },
     {
       "word": "観念",
@@ -134,14 +114,34 @@
       "meaning": "quan niệm"
     },
     {
-      "word": "念願",
-      "reading": "ねんがん",
-      "meaning": "tâm niệm"
+      "word": "念",
+      "reading": "ねん",
+      "meaning": "sự chú ý"
     },
     {
-      "word": "残念",
-      "reading": "ざんねん",
-      "meaning": "đáng tiếc"
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "sự chán nản"
+    },
+    {
+      "word": "念話",
+      "reading": "ねんわ",
+      "meaning": "thần giao cách cảm"
+    },
+    {
+      "word": "二念",
+      "reading": "にねん",
+      "meaning": "hai ý tưởng"
+    },
+    {
+      "word": "有念",
+      "reading": "うねん",
+      "meaning": "để suy ngẫm điều gì đó với một con số và hình dạng cụ thể trong tâm trí của bạn"
+    },
+    {
+      "word": "念校",
+      "reading": "ねんこう",
+      "meaning": "việc đọc và sửa bản in thử lần cuối cùng"
     },
     {
       "word": "念動",
@@ -149,9 +149,9 @@
       "meaning": "khả năng di chuyển đồ vật bằng tâm trí của con người"
     },
     {
-      "word": "諦念",
-      "reading": "ていねん",
-      "meaning": "sự đầu hàng"
+      "word": "信念",
+      "reading": "しんねん",
+      "meaning": "hoàn toàn tin tưởng"
     }
   ]
 }

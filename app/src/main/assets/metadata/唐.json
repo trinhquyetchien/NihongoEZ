@@ -94,34 +94,14 @@
       "meaning": "nhà đường"
     },
     {
-      "word": "唐犬",
-      "reading": "からいぬ",
-      "meaning": "chó ngoại nhập"
-    },
-    {
-      "word": "唐鍬",
-      "reading": "とうが",
-      "meaning": "cuốc khai hoang"
-    },
-    {
-      "word": "唐木",
-      "reading": "からき",
-      "meaning": "gỗ ngoại lai không phải của nhật bản"
-    },
-    {
-      "word": "唐墨",
-      "reading": "からすみ",
-      "meaning": "mực tàu"
-    },
-    {
-      "word": "唐楓",
-      "reading": "とうかえで",
-      "meaning": "phong đinh ba"
-    },
-    {
       "word": "唐手",
       "reading": "からて",
       "meaning": "môn võ caratê"
+    },
+    {
+      "word": "唐代",
+      "reading": "とうだい",
+      "meaning": "thời nhà đường"
     },
     {
       "word": "唐朝",
@@ -129,14 +109,34 @@
       "meaning": "triều nhà đường"
     },
     {
-      "word": "唐竹",
-      "reading": "とうちく",
-      "meaning": "tre đường"
+      "word": "唐犬",
+      "reading": "からいぬ",
+      "meaning": "chó ngoại nhập"
     },
     {
-      "word": "唐楽",
-      "reading": "とうがく",
-      "meaning": "nhạc nhà đường"
+      "word": "唐猫",
+      "reading": "からねこ",
+      "meaning": "mèo"
+    },
+    {
+      "word": "唐歌",
+      "reading": "からうた",
+      "meaning": "thơ ca đời đường trung quốc"
+    },
+    {
+      "word": "唐門",
+      "reading": "からもん",
+      "meaning": "cổng kiểu trung quốc"
+    },
+    {
+      "word": "唐傘",
+      "reading": "からかさ",
+      "meaning": "dù làm bằng giấy và tre"
+    },
+    {
+      "word": "唐尺",
+      "reading": "とうしゃく",
+      "meaning": "tang shaku"
     }
   ]
 }

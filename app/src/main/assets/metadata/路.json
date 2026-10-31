@@ -91,9 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "路",
-      "reading": "みち",
-      "meaning": "con đường"
+      "word": "針路",
+      "reading": "しんろ",
+      "meaning": "hướng"
     },
     {
       "word": "回路",
@@ -106,19 +106,24 @@
       "meaning": "đường đi"
     },
     {
-      "word": "航路",
-      "reading": "こうろ",
-      "meaning": "đường đi"
+      "word": "路",
+      "reading": "みち",
+      "meaning": "con đường"
     },
     {
-      "word": "帰路",
-      "reading": "きろ",
-      "meaning": "đường về"
+      "word": "別路",
+      "reading": "べつろ",
+      "meaning": "con đường khác nhau"
     },
     {
-      "word": "空路",
-      "reading": "くうろ",
-      "meaning": "đường băng"
+      "word": "側路",
+      "reading": "そくろ",
+      "meaning": "lối phụ"
+    },
+    {
+      "word": "軍路",
+      "reading": "ぐんろ",
+      "meaning": "con đường quân đội"
     },
     {
       "word": "悪路",
@@ -126,19 +131,14 @@
       "meaning": "con đường xấu"
     },
     {
-      "word": "路上",
-      "reading": "ろじょう",
-      "meaning": "trên con đường"
+      "word": "路床",
+      "reading": "ろしょう",
+      "meaning": "lớp đất trên cùng để rải đá và sau đó là nhựa đường"
     },
     {
-      "word": "路標",
-      "reading": "ろひょう",
-      "meaning": "biển chỉ đường"
-    },
-    {
-      "word": "路駐",
-      "reading": "ろちゅう",
-      "meaning": "trạm đỗ xe trên đường"
+      "word": "公路",
+      "reading": "こうろ",
+      "meaning": "đường cái"
     }
   ]
 }

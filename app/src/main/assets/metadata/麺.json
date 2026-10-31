@@ -93,49 +93,49 @@
       "meaning": "mì sợi"
     },
     {
-      "word": "乾麺/生麺",
-      "reading": "かんめん/なまめん",
-      "meaning": "khô mì / mì tươi"
-    },
-    {
-      "word": "その他乾麺/生麺",
-      "reading": "そのほかかんめん/なまめん",
-      "meaning": "khác"
-    },
-    {
-      "word": "そば/うどん/麺類",
-      "reading": "そば/うどん/めんるい",
-      "meaning": "そば/うどん/麺類` in vietnamese is `mì/sợi mì/món mì`"
-    },
-    {
       "word": "麺子",
       "reading": "めんす",
       "meaning": "mì sợi"
     },
     {
-      "word": "カップ麺",
-      "reading": "カップめん",
-      "meaning": "mì ăn liền mua trong cốc"
+      "word": "生麺",
+      "reading": "なまめん",
+      "meaning": "mì udon tươi"
     },
     {
-      "word": "麺麻",
-      "reading": "めんま",
-      "meaning": "măng tre luộc"
+      "word": "つけ麺",
+      "reading": "つけめん",
+      "meaning": "mì ăn với nước chấm"
     },
     {
-      "word": "煮麺",
-      "reading": "にゅうめん",
-      "meaning": "mì luộc"
+      "word": "麺台",
+      "reading": "めんだい",
+      "meaning": "bàn cán bột"
     },
     {
-      "word": "ジャージャー麺",
-      "reading": "ジャージャーめん",
-      "meaning": "trác tương miến"
+      "word": "製麺",
+      "reading": "せいめん",
+      "meaning": "việc làm mì"
     },
     {
-      "word": "索麺",
-      "reading": "そうめん",
-      "meaning": "những mì sợi mỏng)"
+      "word": "太麺",
+      "reading": "ふとめん",
+      "meaning": "mì sợi to"
+    },
+    {
+      "word": "製麺機",
+      "reading": "せいめんき",
+      "meaning": "máy làm mì"
+    },
+    {
+      "word": "袋麺",
+      "reading": "ふくろめん",
+      "meaning": "mỳ gói"
+    },
+    {
+      "word": "中華麺",
+      "reading": "ちゅうかめん",
+      "meaning": "mì trung quốc"
     }
   ]
 }

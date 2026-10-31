@@ -106,14 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "商",
-      "reading": "しょう",
-      "meaning": "số thương"
-    },
-    {
       "word": "商品",
       "reading": "しょうひん",
       "meaning": "hàng"
+    },
+    {
+      "word": "商売",
+      "reading": "しょうばい",
+      "meaning": "bán buôn"
+    },
+    {
+      "word": "商人",
+      "reading": "しょうにん",
+      "meaning": "lái"
     },
     {
       "word": "商業",
@@ -121,9 +126,9 @@
       "meaning": "buôn bán"
     },
     {
-      "word": "商用",
-      "reading": "しょうよう",
-      "meaning": "đi công tác"
+      "word": "商店",
+      "reading": "しょうてん",
+      "meaning": "cửa hàng buôn bán"
     },
     {
       "word": "商社",
@@ -131,29 +136,24 @@
       "meaning": "công ty thương mại"
     },
     {
-      "word": "商法",
-      "reading": "しょうほう",
-      "meaning": "luật thương mại"
+      "word": "商",
+      "reading": "しょう",
+      "meaning": "số thương"
     },
     {
-      "word": "商談",
-      "reading": "しょうだん",
-      "meaning": "sự đàm phán thương mại"
+      "word": "月商",
+      "reading": "げっしょう",
+      "meaning": "doanh thu hàng bán hàng tháng"
     },
     {
-      "word": "商い",
-      "reading": "あきない",
-      "meaning": "buôn bán"
+      "word": "商大",
+      "reading": "しょうだい",
+      "meaning": "trường đại học thương mại"
     },
     {
-      "word": "商才",
-      "reading": "しょうさい",
-      "meaning": "tài năng kinh doanh"
-    },
-    {
-      "word": "商店",
-      "reading": "しょうてん",
-      "meaning": "cửa hàng buôn bán"
+      "word": "街商",
+      "reading": "がいしょう",
+      "meaning": "người bán hàng rong"
     }
   ]
 }

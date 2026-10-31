@@ -83,6 +83,11 @@
   ],
   "vocabulary": [
     {
+      "word": "迅速",
+      "reading": "じんそく",
+      "meaning": "mau lẹ"
+    },
+    {
       "word": "迅雷",
       "reading": "じんらい",
       "meaning": "sự đột ngột"
@@ -93,24 +98,9 @@
       "meaning": "phóng nhanh về phía trước"
     },
     {
-      "word": "迅速",
-      "reading": "じんそく",
-      "meaning": "mau lẹ"
-    },
-    {
-      "word": "獅子奮迅",
-      "reading": "ししふんじん",
-      "meaning": "như cuồng nộ"
-    },
-    {
       "word": "迅速果敢",
       "reading": "じんそくかかん",
       "meaning": "nhanh chóng và dũng cảm"
-    },
-    {
-      "word": "疾風迅雷",
-      "reading": "しっぷうじんらい",
-      "meaning": "với tốc độ chớp"
     },
     {
       "word": "無常迅速",
@@ -123,14 +113,24 @@
       "meaning": "nhanh chóng và dứt khoát"
     },
     {
-      "word": "獅子奮迅の勢い",
-      "reading": "ししふんじんのいきおい",
-      "meaning": "irresistable bắt buộc"
+      "word": "獅子奮迅",
+      "reading": "ししふんじん",
+      "meaning": "như cuồng nộ"
+    },
+    {
+      "word": "疾風迅雷",
+      "reading": "しっぷうじんらい",
+      "meaning": "với tốc độ chớp"
     },
     {
       "word": "患者急変時迅速対応チーム",
       "reading": "かんじゃきゅーへんじじんそくたいおーチーム",
       "meaning": "nhóm đối ứng nhanh khi có sự biến đổi đột ngột của bệnh nhân"
+    },
+    {
+      "word": "獅子奮迅の勢い",
+      "reading": "ししふんじんのいきおい",
+      "meaning": "irresistable bắt buộc"
     }
   ]
 }

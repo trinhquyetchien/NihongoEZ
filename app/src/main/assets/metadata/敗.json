@@ -106,19 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "敗",
-      "reading": "はい",
-      "meaning": "thất bại"
-    },
-    {
-      "word": "敗る",
-      "reading": "やぶる",
-      "meaning": "thất bại"
-    },
-    {
-      "word": "成敗",
-      "reading": "せいばい",
-      "meaning": "thành bại"
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "sự thất bại"
     },
     {
       "word": "勝敗",
@@ -126,34 +116,44 @@
       "meaning": "sự thắng hay bại"
     },
     {
-      "word": "失敗",
-      "reading": "しっぱい",
-      "meaning": "sự thất bại"
-    },
-    {
-      "word": "大敗",
-      "reading": "たいはい",
-      "meaning": "đại thất bại"
-    },
-    {
-      "word": "敗れ",
-      "reading": "やぶれ",
-      "meaning": "sự thất bại"
-    },
-    {
-      "word": "再敗",
-      "reading": "さいはい",
-      "meaning": "ủng hộ sự thất bại"
-    },
-    {
-      "word": "必敗",
-      "reading": "ひっぱい",
-      "meaning": "sự thất bại chắc chắn"
-    },
-    {
       "word": "一敗",
       "reading": "いっぱい",
       "meaning": "thất bại một lần"
+    },
+    {
+      "word": "敗戦",
+      "reading": "はいせん",
+      "meaning": "chiến bại"
+    },
+    {
+      "word": "腐敗",
+      "reading": "ふはい",
+      "meaning": "hủ bại"
+    },
+    {
+      "word": "失敗者",
+      "reading": "しっぱいしゃ",
+      "meaning": "kẻ thất bại"
+    },
+    {
+      "word": "大失敗",
+      "reading": "だいしっぱい",
+      "meaning": "thất bại nặng nề"
+    },
+    {
+      "word": "失敗率",
+      "reading": "しっぱいりつ",
+      "meaning": "tỉ lệ thất bại"
+    },
+    {
+      "word": "失敗作",
+      "reading": "しっぱいさく",
+      "meaning": "công việc sáng tạo thất bại"
+    },
+    {
+      "word": "敗",
+      "reading": "はい",
+      "meaning": "thất bại"
     }
   ]
 }

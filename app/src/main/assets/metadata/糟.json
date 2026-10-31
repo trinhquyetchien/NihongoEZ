@@ -42,29 +42,9 @@
       "meaning": "rắc đốm phấn trắng"
     },
     {
-      "word": "糟糠",
-      "reading": "そうこう",
-      "meaning": "phàn nàn thức ăn"
-    },
-    {
       "word": "油糟",
       "reading": "あぶらかす",
       "meaning": "bánh khô dầu"
-    },
-    {
-      "word": "糟漬",
-      "reading": "かすづけ",
-      "meaning": "dầm giấm"
-    },
-    {
-      "word": "酒糟",
-      "reading": "さけかす",
-      "meaning": "bã rượu"
-    },
-    {
-      "word": "糟粕",
-      "reading": "そうはく",
-      "meaning": "cặn rượu sake"
     },
     {
       "word": "糟酢",
@@ -80,6 +60,26 @@
       "word": "糟取り",
       "reading": "かすとり",
       "meaning": "rượu hạng xấu"
+    },
+    {
+      "word": "糟漬",
+      "reading": "かすづけ",
+      "meaning": "dầm giấm"
+    },
+    {
+      "word": "糟糠",
+      "reading": "そうこう",
+      "meaning": "phàn nàn thức ăn"
+    },
+    {
+      "word": "酒糟",
+      "reading": "さけかす",
+      "meaning": "bã rượu"
+    },
+    {
+      "word": "糟粕",
+      "reading": "そうはく",
+      "meaning": "cặn rượu sake"
     }
   ]
 }

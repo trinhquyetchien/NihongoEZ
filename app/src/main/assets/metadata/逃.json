@@ -92,19 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "逃腰",
-      "reading": "にげごし",
-      "meaning": "lúc nào cũng muốn né tránh"
+      "word": "逃げる",
+      "reading": "にげる",
+      "meaning": "bôn ba"
     },
     {
-      "word": "逃竄",
-      "reading": "とうざん",
-      "meaning": "hành động chạy trốn vào ẩn náu"
-    },
-    {
-      "word": "逃散",
-      "reading": "ちょうさん",
-      "meaning": "sự chạy trốn"
+      "word": "逃がす",
+      "reading": "にがす",
+      "meaning": "để mất"
     },
     {
       "word": "逃亡",
@@ -112,19 +107,24 @@
       "meaning": "sự chạy trốn"
     },
     {
-      "word": "逃す",
-      "reading": "のがす",
-      "meaning": "bỏ lỡ"
-    },
-    {
       "word": "逃走",
       "reading": "とうそう",
       "meaning": "sự đào tẩu"
     },
     {
-      "word": "逃避",
-      "reading": "とうひ",
-      "meaning": "lẩn tránh"
+      "word": "逃れる",
+      "reading": "のがれる",
+      "meaning": "trốn chạy"
+    },
+    {
+      "word": "見逃す",
+      "reading": "みのがす",
+      "meaning": "bỏ quên"
+    },
+    {
+      "word": "逃す",
+      "reading": "のがす",
+      "meaning": "bỏ lỡ"
     },
     {
       "word": "逃げ",
@@ -132,14 +132,14 @@
       "meaning": "sự bỏ trốn"
     },
     {
-      "word": "逃れ",
-      "reading": "のがれ",
-      "meaning": "sự trốn thoát"
+      "word": "逃げ得",
+      "reading": "にげとく",
+      "meaning": "trục lợi bằng cách trốn thoát"
     },
     {
-      "word": "逃道",
-      "reading": "にげみち",
-      "meaning": "con đường trốn chạy"
+      "word": "逃げ馬",
+      "reading": "にげうま",
+      "meaning": "con ngựa dẫn đầu"
     }
   ]
 }

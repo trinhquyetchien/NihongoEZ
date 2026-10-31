@@ -53,6 +53,16 @@
   ],
   "vocabulary": [
     {
+      "word": "未曾有",
+      "reading": "みぞう",
+      "meaning": "không hề có"
+    },
+    {
+      "word": "木曾川",
+      "reading": "きそがわ",
+      "meaning": "sông kiso"
+    },
+    {
       "word": "曾",
       "reading": "ひい",
       "meaning": "một lần trước"
@@ -63,29 +73,9 @@
       "meaning": "một lần"
     },
     {
-      "word": "曾遊",
-      "reading": "そうゆう",
-      "meaning": "chuyến viếng thăm trước"
-    },
-    {
-      "word": "曾孫",
-      "reading": "ひまご",
-      "meaning": "chắt"
-    },
-    {
-      "word": "白檜曾",
-      "reading": "しらびそ",
-      "meaning": "cây bạch dương trắng"
-    },
-    {
       "word": "曾祖母",
       "reading": "そうそぼ",
       "meaning": "bà cố"
-    },
-    {
-      "word": "未曾有",
-      "reading": "みぞう",
-      "meaning": "không hề có"
     },
     {
       "word": "曾祖父",
@@ -93,9 +83,19 @@
       "meaning": "ông cố"
     },
     {
-      "word": "木曾川",
-      "reading": "きそがわ",
-      "meaning": "sông kiso"
+      "word": "白檜曾",
+      "reading": "しらびそ",
+      "meaning": "cây bạch dương trắng"
+    },
+    {
+      "word": "曾孫",
+      "reading": "ひまご",
+      "meaning": "chắt"
+    },
+    {
+      "word": "曾遊",
+      "reading": "そうゆう",
+      "meaning": "chuyến viếng thăm trước"
     },
     {
       "word": "大白檜曾",

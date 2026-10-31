@@ -82,39 +82,9 @@
   ],
   "vocabulary": [
     {
-      "word": "賦",
-      "reading": "ふ",
-      "meaning": "bài thơ"
-    },
-    {
       "word": "月賦",
       "reading": "げっぷ",
       "meaning": "lãi suất hàng tháng"
-    },
-    {
-      "word": "賦存",
-      "reading": "ふぞん",
-      "meaning": "sự tồn tại"
-    },
-    {
-      "word": "賦与",
-      "reading": "ふよ",
-      "meaning": "phân phối"
-    },
-    {
-      "word": "年賦",
-      "reading": "ねんぷ",
-      "meaning": "sự trả góp theo năm"
-    },
-    {
-      "word": "賦役",
-      "reading": "ふえき",
-      "meaning": "công việc nặng nhọc"
-    },
-    {
-      "word": "賦税",
-      "reading": "ふぜい",
-      "meaning": "sự đánh thuế"
     },
     {
       "word": "賦課",
@@ -122,14 +92,44 @@
       "meaning": "thuế khóa"
     },
     {
+      "word": "天賦",
+      "reading": "てんぷ",
+      "meaning": "sự thiên phú"
+    },
+    {
+      "word": "賦",
+      "reading": "ふ",
+      "meaning": "bài thơ"
+    },
+    {
       "word": "分賦",
       "reading": "ぶんぷ",
       "meaning": "sự ấn định"
     },
     {
-      "word": "詞賦",
-      "reading": "しふ",
-      "meaning": "nghệ thuật thơ tiếng trung hoa"
+      "word": "賦性",
+      "reading": "ふせい",
+      "meaning": "thiên nhiên"
+    },
+    {
+      "word": "賦税",
+      "reading": "ふぜい",
+      "meaning": "sự đánh thuế"
+    },
+    {
+      "word": "賦形剤",
+      "reading": "ふけいざい",
+      "meaning": "tá dược"
+    },
+    {
+      "word": "配賦",
+      "reading": "はいふ",
+      "meaning": "sự phân bổ"
+    },
+    {
+      "word": "賦存",
+      "reading": "ふぞん",
+      "meaning": "sự tồn tại"
     }
   ]
 }

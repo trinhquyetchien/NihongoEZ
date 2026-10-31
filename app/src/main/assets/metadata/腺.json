@@ -81,29 +81,19 @@
   ],
   "vocabulary": [
     {
+      "word": "甲状腺",
+      "reading": "こうじょうせん",
+      "meaning": "bướu cổ"
+    },
+    {
+      "word": "前立腺",
+      "reading": "ぜんりつせん",
+      "meaning": "<phẫu> tuyến tiền liệt"
+    },
+    {
       "word": "腺",
       "reading": "せん",
       "meaning": "tuyến"
-    },
-    {
-      "word": "涙腺",
-      "reading": "るいせん",
-      "meaning": "tuyến nước mắt"
-    },
-    {
-      "word": "腺ペスト",
-      "reading": "せんペスト",
-      "meaning": "bệnh dịch hạch"
-    },
-    {
-      "word": "バルトリン腺",
-      "reading": "バルトリンせん",
-      "meaning": "tuyến bartholin"
-    },
-    {
-      "word": "スキーン腺",
-      "reading": "スキーンせん",
-      "meaning": "tuyến skene"
     },
     {
       "word": "腺様",
@@ -111,19 +101,29 @@
       "meaning": "viêm a-mi-đan"
     },
     {
-      "word": "乳腺",
-      "reading": "にゅうせん",
-      "meaning": "tuyến vú"
+      "word": "腺熱",
+      "reading": "せんねつ",
+      "meaning": "chứng viêm các tuyến bạch cầu"
     },
     {
-      "word": "汗腺",
-      "reading": "かんせん",
-      "meaning": "tuyến mồ hôi"
+      "word": "腺毛",
+      "reading": "せんもう",
+      "meaning": "tuyến mao"
     },
     {
-      "word": "エクリン腺",
-      "reading": "エクリンせん",
-      "meaning": "tuyến nội tiết"
+      "word": "香腺",
+      "reading": "こーせん",
+      "meaning": "tuyến thơm"
+    },
+    {
+      "word": "臭腺",
+      "reading": "しゅうせん",
+      "meaning": "tuyến hương của động vật"
+    },
+    {
+      "word": "舌下腺",
+      "reading": "ぜっかせん",
+      "meaning": "tuyến dưới lưỡi"
     },
     {
       "word": "胃腺",

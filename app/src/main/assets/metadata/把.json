@@ -86,34 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "把",
-      "reading": "たば",
-      "meaning": "bó"
-    },
-    {
-      "word": "握把",
-      "reading": "あくは",
-      "meaning": "cầm"
-    },
-    {
-      "word": "一把",
-      "reading": "いちわ",
-      "meaning": "một bó"
-    },
-    {
-      "word": "把持",
-      "reading": "はじ",
-      "meaning": "sự nắm giữ"
-    },
-    {
-      "word": "把捉",
-      "reading": "はそく",
-      "meaning": "nắm chặt"
-    },
-    {
-      "word": "把手",
-      "reading": "とって",
-      "meaning": "tay cầm"
+      "word": "大雑把",
+      "reading": "おおざっぱ",
+      "meaning": "thô thiển"
     },
     {
       "word": "把握",
@@ -121,19 +96,44 @@
       "meaning": "sự lĩnh hội"
     },
     {
-      "word": "銃把",
-      "reading": "じゅうは",
-      "meaning": "báng súng"
+      "word": "把",
+      "reading": "たば",
+      "meaning": "bó"
     },
     {
-      "word": "大雑把",
-      "reading": "おおざっぱ",
-      "meaning": "thô thiển"
+      "word": "一把",
+      "reading": "いちわ",
+      "meaning": "một bó"
     },
     {
       "word": "把っ手",
       "reading": "とって",
       "meaning": "tay cầm"
+    },
+    {
+      "word": "銃把",
+      "reading": "じゅうは",
+      "meaning": "báng súng"
+    },
+    {
+      "word": "握把",
+      "reading": "あくは",
+      "meaning": "cầm"
+    },
+    {
+      "word": "把持",
+      "reading": "はじ",
+      "meaning": "sự nắm giữ"
+    },
+    {
+      "word": "把手",
+      "reading": "とって",
+      "meaning": "tay cầm"
+    },
+    {
+      "word": "把捉",
+      "reading": "はそく",
+      "meaning": "nắm chặt"
     }
   ]
 }

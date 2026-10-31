@@ -108,14 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "疲憊",
-      "reading": "ひはい",
-      "meaning": "mệt mỏi uể oải"
-    },
-    {
-      "word": "疲弊",
-      "reading": "ひへい",
-      "meaning": "bệnh do mệt mỏi"
+      "word": "疲れる",
+      "reading": "つかれる",
+      "meaning": "cũ rồi"
     },
     {
       "word": "疲れ",
@@ -133,29 +128,34 @@
       "meaning": "mệt đờ người"
     },
     {
+      "word": "人疲れ",
+      "reading": "ひとづかれ",
+      "meaning": "mệt mỏi khi tiếp xúc với nhiều người"
+    },
+    {
+      "word": "疲れ目",
+      "reading": "つかれめ",
+      "meaning": "sự mỏi mắt"
+    },
+    {
+      "word": "花疲れ",
+      "reading": "はなづかれ",
+      "meaning": "trạng thái mệt mỏi khi đi ngắm hoa anh đào"
+    },
+    {
+      "word": "旅疲れ",
+      "reading": "たびづかれ",
+      "meaning": "mệt mỏi do đi du lịch"
+    },
+    {
+      "word": "恋疲れ",
+      "reading": "こいづかれ",
+      "meaning": "sự hao gầy vì yêu"
+    },
+    {
       "word": "疲労感",
       "reading": "ひろうかん",
       "meaning": "cảm giác mệt mỏi"
-    },
-    {
-      "word": "気疲れ",
-      "reading": "きづかれ",
-      "meaning": "sự hao tâm"
-    },
-    {
-      "word": "ｍｉｘｉ疲れ",
-      "reading": "ミクシィづかれ",
-      "meaning": "mệt mỏi do sử dụng nhiều mạng xã hội mixi"
-    },
-    {
-      "word": "熱疲労",
-      "reading": "ねつひろう",
-      "meaning": "tình trạng kiệt sức nhiệt"
-    },
-    {
-      "word": "熱疲憊",
-      "reading": "ねつひはい",
-      "meaning": "kiệt sức do nhiệt"
     }
   ]
 }

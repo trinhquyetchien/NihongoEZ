@@ -107,6 +107,11 @@
   ],
   "vocabulary": [
     {
+      "word": "大陸",
+      "reading": "たいりく",
+      "meaning": "châu"
+    },
+    {
       "word": "陸",
       "reading": "りく",
       "meaning": "lục địa"
@@ -117,44 +122,39 @@
       "meaning": "sự bốc dỡ"
     },
     {
+      "word": "着陸",
+      "reading": "ちゃくりく",
+      "meaning": "hạ cánh"
+    },
+    {
+      "word": "内陸",
+      "reading": "ないりく",
+      "meaning": "nội địa"
+    },
+    {
+      "word": "陸上",
+      "reading": "りくじょう",
+      "meaning": "trên mặt đất"
+    },
+    {
+      "word": "陸大",
+      "reading": "りくだい",
+      "meaning": "nhân viên quân đội"
+    },
+    {
       "word": "陸島",
       "reading": "りくとう",
       "meaning": "đảo nối"
     },
     {
-      "word": "空陸",
-      "reading": "くうりく",
-      "meaning": "trên đất liền và trong không trung"
+      "word": "陸軍",
+      "reading": "りくぐん",
+      "meaning": "lục quân"
     },
     {
-      "word": "陸相",
-      "reading": "りくしょう",
-      "meaning": "bộ trưởng quốc phòng"
-    },
-    {
-      "word": "揚陸",
-      "reading": "ようりく",
-      "meaning": "sự đổ bộ"
-    },
-    {
-      "word": "陸将",
-      "reading": "りくしょう",
-      "meaning": "trung tướng"
-    },
-    {
-      "word": "陸運",
-      "reading": "りくうん",
-      "meaning": "chuyên chở đường bộ"
-    },
-    {
-      "word": "陸戦",
-      "reading": "りくせん",
-      "meaning": "chiến đấu trên đất liền"
-    },
-    {
-      "word": "陸行",
-      "reading": "りっこう",
-      "meaning": "sự đi bằng đường bộ"
+      "word": "無着陸",
+      "reading": "むちゃくりく",
+      "meaning": "bay thẳng"
     }
   ]
 }

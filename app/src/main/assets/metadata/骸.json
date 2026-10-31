@@ -89,34 +89,9 @@
       "meaning": "vật trôi giạt"
     },
     {
-      "word": "遺骸",
-      "reading": "いがい",
-      "meaning": "di hài"
-    },
-    {
-      "word": "形骸",
-      "reading": "けいがい",
-      "meaning": "tàn tích"
-    },
-    {
       "word": "死骸",
       "reading": "しがい",
       "meaning": "thân thể"
-    },
-    {
-      "word": "屍骸",
-      "reading": "しがい",
-      "meaning": "xác chết"
-    },
-    {
-      "word": "亡骸",
-      "reading": "なきがら",
-      "meaning": "thi thể"
-    },
-    {
-      "word": "骸炭",
-      "reading": "がいたん",
-      "meaning": "than cốc"
     },
     {
       "word": "骸骨",
@@ -124,14 +99,39 @@
       "meaning": "bộ xương"
     },
     {
+      "word": "聖骸布",
+      "reading": "せいがいふ",
+      "meaning": "khăn liệm của chúa giê-su"
+    },
+    {
+      "word": "骸炭",
+      "reading": "がいたん",
+      "meaning": "than cốc"
+    },
+    {
+      "word": "形骸",
+      "reading": "けいがい",
+      "meaning": "tàn tích"
+    },
+    {
       "word": "形骸化",
       "reading": "けいがいか",
       "meaning": "trở thành là một chỉ là vỏ hoặc bộ luật không còn giá trị"
     },
     {
-      "word": "聖骸布",
-      "reading": "せいがいふ",
-      "meaning": "khăn liệm của chúa giê-su"
+      "word": "亡骸",
+      "reading": "なきがら",
+      "meaning": "thi thể"
+    },
+    {
+      "word": "遺骸",
+      "reading": "いがい",
+      "meaning": "di hài"
+    },
+    {
+      "word": "屍骸",
+      "reading": "しがい",
+      "meaning": "xác chết"
     }
   ]
 }

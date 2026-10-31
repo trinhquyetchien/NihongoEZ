@@ -92,34 +92,44 @@
   ],
   "vocabulary": [
     {
+      "word": "御中",
+      "reading": "おんちゅう",
+      "meaning": "kính thưa"
+    },
+    {
       "word": "御",
       "reading": "ご",
       "meaning": "ngự"
     },
     {
-      "word": "御御御付け",
-      "reading": "おみおつけ",
-      "meaning": "canh miso"
+      "word": "大御",
+      "reading": "おおいご",
+      "meaning": "kính ngữ chỉ hoàng đế hoặc những gì liên quan đến hoàng gia nhật bản"
     },
     {
-      "word": "御御",
-      "reading": "おみ",
-      "meaning": "từ dùng để chỉ vợ hoặc con gái của người khác một cách lịch sự"
+      "word": "御先",
+      "reading": "みさき",
+      "meaning": "đi trước đây"
     },
     {
-      "word": "御御様",
-      "reading": "おごうさま",
-      "meaning": "bà"
+      "word": "御頭",
+      "reading": "おつむ",
+      "meaning": "cái đầu"
     },
     {
-      "word": "御名御璽",
-      "reading": "ぎょめいぎょじ",
-      "meaning": "con dấu của nhà vua"
+      "word": "御心",
+      "reading": "みこころ",
+      "meaning": "cách nói để bày tỏ sự tôn kính đối với cảm xúc"
     },
     {
-      "word": "妹御",
-      "reading": "いもうとご",
-      "meaning": "em gái người khác"
+      "word": "下御",
+      "reading": "げぎょ",
+      "meaning": "xuống ngựa"
+    },
+    {
+      "word": "御奴",
+      "reading": "みやつこ",
+      "meaning": "người hầu cận"
     },
     {
       "word": "御母",
@@ -127,19 +137,9 @@
       "meaning": "mẹ"
     },
     {
-      "word": "御礼",
-      "reading": "おれい",
-      "meaning": "cám ơn"
-    },
-    {
-      "word": "御校",
-      "reading": "おんこう",
-      "meaning": "quý nhà trường"
-    },
-    {
-      "word": "御菜",
-      "reading": "おかず",
-      "meaning": "đứng bên món ăn"
+      "word": "御局",
+      "reading": "おつぼね",
+      "meaning": "nữ quan"
     }
   ]
 }

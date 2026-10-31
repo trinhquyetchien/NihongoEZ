@@ -107,16 +107,6 @@
   ],
   "vocabulary": [
     {
-      "word": "遠",
-      "reading": "とお",
-      "meaning": "sự xa"
-    },
-    {
-      "word": "遠鳴り",
-      "reading": "とおなり",
-      "meaning": "sự vang rền từ xa"
-    },
-    {
       "word": "遠く",
       "reading": "とおく",
       "meaning": "nơi xa"
@@ -127,24 +117,14 @@
       "meaning": "khách khí"
     },
     {
-      "word": "敬遠",
-      "reading": "けいえん",
-      "meaning": "sự giữ khoảng cách"
+      "word": "遠征",
+      "reading": "えんせい",
+      "meaning": "viễn chinh"
     },
     {
-      "word": "高遠",
-      "reading": "こうえん",
-      "meaning": "quý phái"
-    },
-    {
-      "word": "遠山",
-      "reading": "えんざん",
-      "meaning": "núi ở xa"
-    },
-    {
-      "word": "遠流",
-      "reading": "おんる",
-      "meaning": "sự đày"
+      "word": "遠",
+      "reading": "とお",
+      "meaning": "sự xa"
     },
     {
       "word": "遠点",
@@ -152,9 +132,29 @@
       "meaning": "điểm cực viễn của mắt"
     },
     {
-      "word": "遠戚",
-      "reading": "えんせき",
-      "meaning": "tương đối xa"
+      "word": "遠耳",
+      "reading": "とおみみ",
+      "meaning": "làm sắc bén nghe thấy"
+    },
+    {
+      "word": "広遠",
+      "reading": "こうえん",
+      "meaning": "tác dụng lớn và rộng lớn"
+    },
+    {
+      "word": "弘遠",
+      "reading": "こうえん",
+      "meaning": "tác dụng lớn và rộng lớn"
+    },
+    {
+      "word": "敬遠",
+      "reading": "けいえん",
+      "meaning": "sự giữ khoảng cách"
+    },
+    {
+      "word": "遠出",
+      "reading": "とおで",
+      "meaning": "sự đi xa"
     }
   ]
 }

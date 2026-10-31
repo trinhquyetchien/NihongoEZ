@@ -111,49 +111,49 @@
       "meaning": "tóc"
     },
     {
-      "word": "白髪交じりの髪",
-      "reading": "しらがまじりのかみ",
-      "meaning": "tóc muối tiêu"
+      "word": "白髪",
+      "reading": "しらが",
+      "meaning": "tóc trắng"
     },
     {
-      "word": "洗髪",
-      "reading": "せんぱつ",
-      "meaning": "gội đầu"
+      "word": "髪頭",
+      "reading": "かみかしら",
+      "meaning": "tóc"
     },
     {
-      "word": "金髪",
-      "reading": "きんぱつ",
-      "meaning": "tóc vàng"
+      "word": "髪毛",
+      "reading": "かみげ",
+      "meaning": "tóc"
     },
     {
-      "word": "散髪",
-      "reading": "さんぱつ",
-      "meaning": "sự cắt tóc"
+      "word": "髪質",
+      "reading": "かみしつ",
+      "meaning": "loại tóc"
     },
     {
-      "word": "髪形",
-      "reading": "かみがた",
-      "meaning": "kiểu tóc"
+      "word": "額髪",
+      "reading": "ひたいがみ",
+      "meaning": "tóc mái"
     },
     {
-      "word": "髪型",
-      "reading": "かみがた",
-      "meaning": "kiểu tóc"
-    },
-    {
-      "word": "断髪",
-      "reading": "だんぱつ",
-      "meaning": "cắt cụt tóc"
-    },
-    {
-      "word": "長髪",
-      "reading": "ちょうはつ",
-      "meaning": "tóc dài"
+      "word": "髪油",
+      "reading": "かみあぶら",
+      "meaning": "dầu chải tóc"
     },
     {
       "word": "モテ髪",
       "reading": "モテがみ",
       "meaning": "kiểu tóc thời trang"
+    },
+    {
+      "word": "仮髪",
+      "reading": "かはつ",
+      "meaning": "tóc giả"
+    },
+    {
+      "word": "髪ゴム",
+      "reading": "かみゴム",
+      "meaning": "dây buộc tóc"
     }
   ]
 }

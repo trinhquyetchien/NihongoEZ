@@ -91,44 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "椎",
-      "reading": "つち",
-      "meaning": "chi dẻ gai"
-    },
-    {
       "word": "脊椎",
       "reading": "せきつい",
       "meaning": "xương sống"
     },
     {
-      "word": "腰椎",
-      "reading": "ようつい",
-      "meaning": "đốt xương sống ngang lưng"
+      "word": "脊椎症",
+      "reading": "せきついしょう",
+      "meaning": "thoái hoá cột sống thắt lưng"
     },
     {
-      "word": "椎骨",
-      "reading": "ついこつ",
-      "meaning": "đốt sống"
+      "word": "脊椎炎",
+      "reading": "せきついえん",
+      "meaning": "viêm đốt sống"
     },
     {
-      "word": "頚椎",
-      "reading": "けいつい",
-      "meaning": "các đốt sống cổ"
+      "word": "脊椎骨",
+      "reading": "せきついこつ",
+      "meaning": "cột sống"
     },
     {
-      "word": "頸椎",
-      "reading": "けいつい",
-      "meaning": "đốt sống cổ"
+      "word": "椎",
+      "reading": "つち",
+      "meaning": "chi dẻ gai"
     },
     {
-      "word": "胸椎",
-      "reading": "きょうつい",
-      "meaning": "đốt sống ngực"
+      "word": "円椎",
+      "reading": "つぶらじい",
+      "meaning": "cây dẻ nhật bản"
     },
     {
-      "word": "椎茸",
-      "reading": "しいたけ",
-      "meaning": "nấm hương"
+      "word": "いた椎",
+      "reading": "いたじい",
+      "meaning": "castanopsis sieboldii"
     },
     {
       "word": "小椎",
@@ -136,9 +131,14 @@
       "meaning": "sồi trung quốc"
     },
     {
-      "word": "軸椎",
-      "reading": "じくつい",
-      "meaning": "đốt sống cổ thứ hai"
+      "word": "分椎目",
+      "reading": "ぶんついもく",
+      "meaning": "bộ temnospondyli"
+    },
+    {
+      "word": "すだ椎",
+      "reading": "すだじい",
+      "meaning": "castanopsis sieboldii"
     }
   ]
 }

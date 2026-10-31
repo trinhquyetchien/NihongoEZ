@@ -88,24 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "虜",
-      "reading": "とりこ",
-      "meaning": "tù binh"
-    },
-    {
-      "word": "虜囚",
-      "reading": "りょしゅう",
-      "meaning": "tù nhân"
-    },
-    {
       "word": "捕虜",
       "reading": "ほりょ",
       "meaning": "tù binh"
     },
     {
-      "word": "俘虜",
-      "reading": "ふりょ",
-      "meaning": "tù nhân"
+      "word": "虜",
+      "reading": "とりこ",
+      "meaning": "tù binh"
     },
     {
       "word": "被虜人",
@@ -113,19 +103,19 @@
       "meaning": "nô lệ"
     },
     {
+      "word": "虜囚",
+      "reading": "りょしゅう",
+      "meaning": "tù nhân"
+    },
+    {
+      "word": "俘虜",
+      "reading": "ふりょ",
+      "meaning": "tù nhân"
+    },
+    {
       "word": "墨黠虜",
       "reading": "ぼくかつりょ",
       "meaning": "người mỹ cuối thời edo"
-    },
-    {
-      "word": "捕虜交換",
-      "reading": "ほりょこうかん",
-      "meaning": "sự trao đổi tù nhân"
-    },
-    {
-      "word": "傷病捕虜",
-      "reading": "しょうびょうほりょ",
-      "meaning": "những tù nhân những người bị thương và ốm"
     },
     {
       "word": "戦争捕虜",
@@ -133,9 +123,19 @@
       "meaning": "tù binh chiến tranh"
     },
     {
+      "word": "捕虜交換",
+      "reading": "ほりょこうかん",
+      "meaning": "sự trao đổi tù nhân"
+    },
+    {
       "word": "捕虜収容所",
       "reading": "ほりょしゅうようじょ",
       "meaning": "trại dành cho tù nhân"
+    },
+    {
+      "word": "傷病捕虜",
+      "reading": "しょうびょうほりょ",
+      "meaning": "những tù nhân những người bị thương và ốm"
     }
   ]
 }

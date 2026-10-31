@@ -108,9 +108,19 @@
   ],
   "vocabulary": [
     {
-      "word": "遊漁",
-      "reading": "ゆうぎょ",
-      "meaning": "câu cá giải trí hay câu cá thể thao là loại hình câu cá có sự cạnh tranh hay thi đua với nhau"
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "nô đùa"
+    },
+    {
+      "word": "遊び",
+      "reading": "あそび",
+      "meaning": "sự vui chơi"
+    },
+    {
+      "word": "遊戯",
+      "reading": "ゆうぎ",
+      "meaning": "trò chơi"
     },
     {
       "word": "遊園",
@@ -118,19 +128,19 @@
       "meaning": "sân chơi"
     },
     {
-      "word": "遊弋",
-      "reading": "ゆうよく",
-      "meaning": "tuần tra"
+      "word": "再遊",
+      "reading": "さいゆう",
+      "meaning": "đi thăm lại"
     },
     {
-      "word": "遊歩",
-      "reading": "ゆうほ",
-      "meaning": "đi bộ"
+      "word": "糸遊",
+      "reading": "いとゆう",
+      "meaning": "lớp không khí nóng mỏng như sợi tơ"
     },
     {
-      "word": "遊具",
-      "reading": "ゆうぐ",
-      "meaning": "dụng cụ vui chơi"
+      "word": "浮遊",
+      "reading": "ふゆう",
+      "meaning": "nổi"
     },
     {
       "word": "宴遊",
@@ -138,24 +148,14 @@
       "meaning": "tiệc mừng"
     },
     {
-      "word": "豪遊",
-      "reading": "ごうゆう",
-      "meaning": "ăn chơi xa xỉ"
+      "word": "遊具",
+      "reading": "ゆうぐ",
+      "meaning": "dụng cụ vui chơi"
     },
     {
-      "word": "遊廓",
-      "reading": "ゆうかく",
-      "meaning": "chốn lầu xanh"
-    },
-    {
-      "word": "遊離",
-      "reading": "ゆうり",
-      "meaning": "sự tách ra"
-    },
-    {
-      "word": "遊戯",
-      "reading": "ゆうぎ",
-      "meaning": "trò chơi"
+      "word": "周遊",
+      "reading": "しゅうゆう",
+      "meaning": "cuộc đi du lịch"
     }
   ]
 }

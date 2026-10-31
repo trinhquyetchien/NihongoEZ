@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "葛",
-      "reading": "くず",
-      "meaning": "sắn dây"
-    },
-    {
       "word": "葛藤",
       "reading": "かっとう",
       "meaning": "băn khoăn"
     },
     {
-      "word": "葛粉",
-      "reading": "くずこ",
-      "meaning": "bột dong"
+      "word": "葛",
+      "reading": "くず",
+      "meaning": "sắn dây"
     },
     {
-      "word": "蔦葛",
-      "reading": "つたかずら",
-      "meaning": "cây trường xuân và những cây nho"
+      "word": "葛掛け",
+      "reading": "くずかけ",
+      "meaning": "thức ăn mặc quần áo với chất lỏng hồ"
     },
     {
-      "word": "葛餅",
-      "reading": "くずもち",
-      "meaning": "bánh giống pudding"
+      "word": "実葛",
+      "reading": "さねかずら",
+      "meaning": "scarlet kadsura"
     },
     {
-      "word": "葛餡",
-      "reading": "くずあん",
-      "meaning": "nước xốt kudzu"
+      "word": "段葛",
+      "reading": "だんかずら",
+      "meaning": "con đường dẫn đến đền tsurugaoka hachimangyu"
     },
     {
-      "word": "葛布",
-      "reading": "くずふ",
-      "meaning": "vải làm từ kudzu sợi phíp"
+      "word": "糞葛",
+      "reading": "くそかずら",
+      "meaning": "mơ thối"
     },
     {
-      "word": "葛湯",
-      "reading": "くずゆ",
-      "meaning": "cháo bột dong"
+      "word": "葛切り",
+      "reading": "くずきり",
+      "meaning": "miến"
     },
     {
-      "word": "葛籠",
-      "reading": "つづら",
-      "meaning": "mây mềm mặc quần áo cái giỏ"
+      "word": "甘葛",
+      "reading": "あまずら",
+      "meaning": "sắn dây ngọt"
     },
     {
-      "word": "葛根",
-      "reading": "かっこん",
-      "meaning": "củ sắn dây"
+      "word": "熊葛",
+      "reading": "くまつづら",
+      "meaning": "cây cỏ roi ngựa"
+    },
+    {
+      "word": "葛芋",
+      "reading": "くずいも",
+      "meaning": "cây củ đậu"
     }
   ]
 }

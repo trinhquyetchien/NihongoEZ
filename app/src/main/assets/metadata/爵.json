@@ -81,19 +81,9 @@
   ],
   "vocabulary": [
     {
-      "word": "官爵",
-      "reading": "かんしゃく",
-      "meaning": "chức tước"
-    },
-    {
-      "word": "公爵",
-      "reading": "こうしゃく",
-      "meaning": "công tước"
-    },
-    {
-      "word": "五爵",
-      "reading": "ごしゃく",
-      "meaning": "năm cấp bậc quý tộc"
+      "word": "伯爵",
+      "reading": "はくしゃく",
+      "meaning": "bá tước"
     },
     {
       "word": "男爵",
@@ -101,24 +91,14 @@
       "meaning": "nam tước"
     },
     {
-      "word": "伯爵",
-      "reading": "はくしゃく",
-      "meaning": "bá tước"
+      "word": "男爵芋",
+      "reading": "だんしゃくいも",
+      "meaning": "khoai tây irish cobbler"
     },
     {
-      "word": "勲爵",
-      "reading": "くんしゃく",
-      "meaning": "quý tộc và thứ tự tài trí"
-    },
-    {
-      "word": "叙爵",
-      "reading": "じょしゃく",
-      "meaning": "bàn bạc một quý tộc"
-    },
-    {
-      "word": "人爵",
-      "reading": "じんしゃく",
-      "meaning": "những danh dự thế gian"
+      "word": "公爵",
+      "reading": "こうしゃく",
+      "meaning": "công tước"
     },
     {
       "word": "侯爵",
@@ -126,9 +106,29 @@
       "meaning": "hầu tước"
     },
     {
-      "word": "授爵",
-      "reading": "じゅしゃく",
-      "meaning": "sự được lên chức"
+      "word": "子爵",
+      "reading": "ししゃく",
+      "meaning": "tử tước. con trai của shishi là vị trí thứ tư ở trung quốc"
+    },
+    {
+      "word": "爵位",
+      "reading": "しゃくい",
+      "meaning": "tước vị"
+    },
+    {
+      "word": "五爵",
+      "reading": "ごしゃく",
+      "meaning": "năm cấp bậc quý tộc"
+    },
+    {
+      "word": "封爵",
+      "reading": "ほうしゃく",
+      "meaning": "việc phong tước"
+    },
+    {
+      "word": "勲爵",
+      "reading": "くんしゃく",
+      "meaning": "quý tộc và thứ tự tài trí"
     }
   ]
 }

@@ -95,34 +95,9 @@
       "meaning": "lề"
     },
     {
-      "word": "慣性",
-      "reading": "かんせい",
-      "meaning": "quán tính"
-    },
-    {
-      "word": "慣例",
-      "reading": "かんれい",
-      "meaning": "có tính lề thói tập quán"
-    },
-    {
-      "word": "慣用",
-      "reading": "かんよう",
-      "meaning": "thường sử dụng"
-    },
-    {
-      "word": "旧慣",
-      "reading": "きゅうかん",
-      "meaning": "phong tục cũ"
-    },
-    {
-      "word": "慣習",
-      "reading": "かんしゅう",
-      "meaning": "phong tục"
-    },
-    {
-      "word": "慣行",
-      "reading": "かんこう",
-      "meaning": "thực hành theo lệ thường"
+      "word": "慣れる",
+      "reading": "なれる",
+      "meaning": "dạn"
     },
     {
       "word": "慣れ",
@@ -130,14 +105,39 @@
       "meaning": "kinh nghiệm"
     },
     {
-      "word": "習慣的",
-      "reading": "しゅうかんてき",
-      "meaning": "thói quen"
+      "word": "慣習",
+      "reading": "かんしゅう",
+      "meaning": "phong tục"
     },
     {
-      "word": "習慣化",
-      "reading": "しゅうかんか",
-      "meaning": "tập thành thói quen"
+      "word": "慣例",
+      "reading": "かんれい",
+      "meaning": "có tính lề thói tập quán"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "thực hành theo lệ thường"
+    },
+    {
+      "word": "慣用",
+      "reading": "かんよう",
+      "meaning": "thường sử dụng"
+    },
+    {
+      "word": "慣らす",
+      "reading": "ならす",
+      "meaning": "làm cho quen"
+    },
+    {
+      "word": "慣れた",
+      "reading": "なれた",
+      "meaning": "có kinh nghiệm qua trải nghiệm"
+    },
+    {
+      "word": "人慣れ",
+      "reading": "ひとなれ",
+      "meaning": "đã quen với việc giao tiếp với mọi người"
     }
   ]
 }

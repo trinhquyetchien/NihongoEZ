@@ -88,24 +88,39 @@
   ],
   "vocabulary": [
     {
-      "word": "辱",
-      "reading": "はじ",
-      "meaning": "sự ô nhục"
+      "word": "侮辱",
+      "reading": "ぶじょく",
+      "meaning": "sự nhục mạ"
     },
     {
-      "word": "忍辱",
-      "reading": "にんにく",
-      "meaning": "chịu đựng sự xấu hổ và đừng động lòng"
+      "word": "侮辱的",
+      "reading": "ぶじょくてき",
+      "meaning": "xúc phạm"
     },
     {
-      "word": "汚辱",
-      "reading": "おじょく",
-      "meaning": "sự ô nhục"
+      "word": "侮辱罪",
+      "reading": "ぶじょくざい",
+      "meaning": "tội phỉ báng"
     },
     {
-      "word": "国辱",
-      "reading": "こくじょく",
-      "meaning": "nỗi nhục quốc gia"
+      "word": "屈辱",
+      "reading": "くつじょく",
+      "meaning": "sự nhục nhã"
+    },
+    {
+      "word": "屈辱的",
+      "reading": "くつじょくてき",
+      "meaning": "làm nhục"
+    },
+    {
+      "word": "屈辱感",
+      "reading": "くつじょくかん",
+      "meaning": "cảm giác nhục nhã xấu hổ"
+    },
+    {
+      "word": "陵辱",
+      "reading": "りょうじょく",
+      "meaning": "sự xúc phạm"
     },
     {
       "word": "恥辱",
@@ -113,29 +128,14 @@
       "meaning": "sự sỉ nhục"
     },
     {
-      "word": "辱知",
-      "reading": "じょくち",
-      "meaning": "hiểu biết"
+      "word": "恥辱的",
+      "reading": "ちじょくてき",
+      "meaning": "ô nhục"
     },
     {
-      "word": "栄辱",
-      "reading": "えいじょく",
-      "meaning": "vinh nhục"
-    },
-    {
-      "word": "辱め",
-      "reading": "はずかしめ",
-      "meaning": "bị xấu hổ"
-    },
-    {
-      "word": "侮辱",
-      "reading": "ぶじょく",
-      "meaning": "sự nhục mạ"
-    },
-    {
-      "word": "雪辱",
-      "reading": "せつじょく",
-      "meaning": "sự làm sáng tỏ về danh dự hay thanh danh"
+      "word": "凌辱",
+      "reading": "りょうじょく",
+      "meaning": "sự lăng mạ"
     }
   ]
 }

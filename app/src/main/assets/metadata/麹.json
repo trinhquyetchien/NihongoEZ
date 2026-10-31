@@ -61,6 +61,36 @@
       "meaning": "room for producing kōji"
     },
     {
+      "word": "米麹",
+      "reading": "こめこうじ",
+      "meaning": "gạo chưa tách cám"
+    },
+    {
+      "word": "塩麹",
+      "reading": "しおこうじ",
+      "meaning": "mẻ"
+    },
+    {
+      "word": "紅麹",
+      "reading": "べにこうじ",
+      "meaning": "monascus purpureus"
+    },
+    {
+      "word": "麹漬け",
+      "reading": "こうじづけ",
+      "meaning": "ướp men koji"
+    },
+    {
+      "word": "麦麹",
+      "reading": "むぎこうじ",
+      "meaning": "ngũ cốc"
+    },
+    {
+      "word": "麹塵",
+      "reading": "きくじん",
+      "meaning": "màu xanh hơi vàng xỉn"
+    },
+    {
       "word": "麹菌",
       "reading": "こうじきん",
       "meaning": "cây men"
@@ -69,36 +99,6 @@
       "word": "麹黴",
       "reading": "こうじかび",
       "meaning": "cây làm men"
-    },
-    {
-      "word": "紅麹",
-      "reading": "べにこうじ",
-      "meaning": "monascus purpureus"
-    },
-    {
-      "word": "麹塵",
-      "reading": "きくじん",
-      "meaning": "màu xanh hơi vàng xỉn"
-    },
-    {
-      "word": "塩麹",
-      "reading": "しおこうじ",
-      "meaning": "mẻ"
-    },
-    {
-      "word": "麦麹",
-      "reading": "むぎこうじ",
-      "meaning": "ngũ cốc"
-    },
-    {
-      "word": "米麹",
-      "reading": "こめこうじ",
-      "meaning": "gạo chưa tách cám"
-    },
-    {
-      "word": "麹漬け",
-      "reading": "こうじづけ",
-      "meaning": "ướp men koji"
     }
   ]
 }

@@ -90,19 +90,9 @@
       "meaning": "hâm mộ"
     },
     {
-      "word": "敬慕",
-      "reading": "けいぼ",
-      "meaning": "sự kính yêu"
-    },
-    {
-      "word": "欽慕",
-      "reading": "きんぼ",
-      "meaning": "sự tôn thờ"
-    },
-    {
-      "word": "追慕",
-      "reading": "ついぼ",
-      "meaning": "nỗi nhớ người đã mất hoặc người đi xa"
+      "word": "恋慕う",
+      "reading": "こいしたう",
+      "meaning": "yêu"
     },
     {
       "word": "思慕",
@@ -115,16 +105,6 @@
       "meaning": "tình yêu"
     },
     {
-      "word": "愛慕",
-      "reading": "あいぼ",
-      "meaning": "sự ái mộ"
-    },
-    {
-      "word": "哀慕",
-      "reading": "あいぼ",
-      "meaning": "thương yêu kí ức"
-    },
-    {
       "word": "恋慕",
       "reading": "れんぼ",
       "meaning": "sự phải lòng"
@@ -133,6 +113,26 @@
       "word": "横恋慕",
       "reading": "よこれんぼ",
       "meaning": "sự yêu người đã có gia đình hay đã đính hôn"
+    },
+    {
+      "word": "追慕",
+      "reading": "ついぼ",
+      "meaning": "nỗi nhớ người đã mất hoặc người đi xa"
+    },
+    {
+      "word": "敬慕",
+      "reading": "けいぼ",
+      "meaning": "sự kính yêu"
+    },
+    {
+      "word": "愛慕",
+      "reading": "あいぼ",
+      "meaning": "sự ái mộ"
+    },
+    {
+      "word": "欽慕",
+      "reading": "きんぼ",
+      "meaning": "sự tôn thờ"
     }
   ]
 }

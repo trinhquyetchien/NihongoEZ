@@ -91,19 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "真",
-      "reading": "ま",
-      "meaning": "thực sự"
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "ảnh"
     },
     {
-      "word": "真円真珠",
-      "reading": "しんえんしんじゅ",
-      "meaning": "có văn hóa mò ngọc trai"
-    },
-    {
-      "word": "真ん真ん中",
-      "reading": "まんまんなか",
-      "meaning": "chính giữa"
+      "word": "真剣",
+      "reading": "しんけん",
+      "meaning": "nghiêm trang"
     },
     {
       "word": "真似",
@@ -111,9 +106,14 @@
       "meaning": "sự bắt chước"
     },
     {
-      "word": "真逆",
-      "reading": "まぎゃく",
-      "meaning": "không ngờ"
+      "word": "真空",
+      "reading": "しんくう",
+      "meaning": "chân không"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "chân tướng"
     },
     {
       "word": "真下",
@@ -126,19 +126,19 @@
       "meaning": "ngay phía trên"
     },
     {
-      "word": "真相",
-      "reading": "しんそう",
-      "meaning": "chân tướng"
+      "word": "真",
+      "reading": "ま",
+      "meaning": "thực sự"
     },
     {
-      "word": "真中",
-      "reading": "まなか",
-      "meaning": "chính giữa"
+      "word": "真の",
+      "reading": "しんの",
+      "meaning": "thật"
     },
     {
-      "word": "真榊",
-      "reading": "まさかき",
-      "meaning": "cây lễ masakaki"
+      "word": "真風",
+      "reading": "まじ",
+      "meaning": "gió từ phía nam hoặc tây nam"
     }
   ]
 }

@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "懇懇",
-      "reading": "こんこん",
-      "meaning": "chân thành"
-    },
-    {
-      "word": "懇懇と",
-      "reading": "こんこんと",
-      "meaning": "lặp đi lặp lại nhiều lần"
-    },
-    {
       "word": "懇願",
       "reading": "こんがん",
       "meaning": "sự khẩn cầu"
-    },
-    {
-      "word": "懇意",
-      "reading": "こんい",
-      "meaning": "lòng tốt"
     },
     {
       "word": "懇談",
@@ -114,14 +99,14 @@
       "meaning": "cuộc chuyện trò"
     },
     {
-      "word": "懇情",
-      "reading": "こんじょう",
-      "meaning": "lòng tốt"
+      "word": "懇談会",
+      "reading": "こんだんかい",
+      "meaning": "buổi họp mặt thân mật"
     },
     {
-      "word": "懇話",
-      "reading": "こんわ",
-      "meaning": "sự bàn thảo cởi mở"
+      "word": "懇意",
+      "reading": "こんい",
+      "meaning": "lòng tốt"
     },
     {
       "word": "懇親",
@@ -129,14 +114,29 @@
       "meaning": "tình bạn"
     },
     {
-      "word": "懇望",
-      "reading": "こんもう",
-      "meaning": "lời cầu xin"
+      "word": "懇親会",
+      "reading": "こんしんかい",
+      "meaning": "bữa tiệc hội bạn cũ"
     },
     {
-      "word": "懇ろ",
-      "reading": "ねんごろ",
-      "meaning": "lịch sự"
+      "word": "米懇",
+      "reading": "べいこん",
+      "meaning": "xung quanh hội nghị về giá gạo bảng"
+    },
+    {
+      "word": "懇話",
+      "reading": "こんわ",
+      "meaning": "sự bàn thảo cởi mở"
+    },
+    {
+      "word": "懇話会",
+      "reading": "こんわかい",
+      "meaning": "thân thiện có - cùng nhau"
+    },
+    {
+      "word": "懇切",
+      "reading": "こんせつ",
+      "meaning": "chi tiết"
     }
   ]
 }

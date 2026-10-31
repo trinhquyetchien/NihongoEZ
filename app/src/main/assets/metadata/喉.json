@@ -94,6 +94,16 @@
       "meaning": "họng"
     },
     {
+      "word": "喉自慢",
+      "reading": "のどじまん",
+      "meaning": "sự kiêu hãnh vì có giọng hát hay"
+    },
+    {
+      "word": "喉越し",
+      "reading": "のどごし",
+      "meaning": "cảm giác khi nuốt"
+    },
+    {
       "word": "喉元",
       "reading": "のどもと",
       "meaning": "họng"
@@ -104,39 +114,29 @@
       "meaning": "thanh quản"
     },
     {
-      "word": "喉笛",
-      "reading": "のどぶえ",
-      "meaning": "khí quản"
-    },
-    {
-      "word": "咽喉",
-      "reading": "いんこう",
-      "meaning": "họng"
-    },
-    {
-      "word": "喉輪",
-      "reading": "のどわ",
-      "meaning": "kỹ thuật đặt tay lên cằm đối phương rồi đẩy ra"
-    },
-    {
-      "word": "喉仏",
-      "reading": "のどぼとけ",
-      "meaning": "cục yết hầu"
-    },
-    {
       "word": "喉頭鏡",
       "reading": "こうとうきょう",
       "meaning": "dụng cụ nội soi thanh quản"
     },
     {
-      "word": "喉越し",
-      "reading": "のどごし",
-      "meaning": "cảm giác khi nuốt"
+      "word": "喉頭癌",
+      "reading": "こうとうがん",
+      "meaning": "bệnh ung thư huyết hầu"
     },
     {
-      "word": "喉頭蓋",
-      "reading": "こうとうがい",
-      "meaning": "nắp thanh quản"
+      "word": "喉頭炎",
+      "reading": "こうとうえん",
+      "meaning": "viêm thanh quản"
+    },
+    {
+      "word": "喉頭筋",
+      "reading": "こうとうすじ",
+      "meaning": "cơ thanh quản"
+    },
+    {
+      "word": "咽喉",
+      "reading": "いんこう",
+      "meaning": "họng"
     }
   ]
 }

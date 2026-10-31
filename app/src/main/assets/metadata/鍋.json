@@ -92,9 +92,9 @@
       "meaning": "chõ"
     },
     {
-      "word": "猪鍋",
-      "reading": "ししなべ",
-      "meaning": "lẩu lợn rừng"
+      "word": "大鍋",
+      "reading": "おおなべ",
+      "meaning": "vạc"
     },
     {
       "word": "小鍋",
@@ -102,39 +102,39 @@
       "meaning": "nồi nhỏ"
     },
     {
-      "word": "牛鍋",
-      "reading": "ぎゅうなべ",
-      "meaning": "món lẩu thịt bò kiểu nhật"
-    },
-    {
-      "word": "ジンギスカン鍋",
-      "reading": "ジンギスカンなべ",
-      "meaning": "chảo nướng thịt kiểu genghis khan"
-    },
-    {
-      "word": "鍋鶴",
-      "reading": "なべづる",
-      "meaning": "sếu mào"
-    },
-    {
-      "word": "煎鍋",
-      "reading": "いりなべ",
-      "meaning": "nướng cái chảo"
-    },
-    {
-      "word": "平鍋",
-      "reading": "ひらなべ",
-      "meaning": "cái chảo"
-    },
-    {
-      "word": "大鍋",
-      "reading": "おおなべ",
-      "meaning": "vạc"
-    },
-    {
       "word": "肉鍋",
       "reading": "にくなべ",
       "meaning": "nồi để ninh thịt"
+    },
+    {
+      "word": "回鍋肉",
+      "reading": "ホイコーロー",
+      "meaning": "món thịt heo xào bắp cải"
+    },
+    {
+      "word": "火鍋子",
+      "reading": "ホーコーズ",
+      "meaning": "lẩu hotpot"
+    },
+    {
+      "word": "紙鍋",
+      "reading": "かみなべ",
+      "meaning": "nồi giấy"
+    },
+    {
+      "word": "桜鍋",
+      "reading": "さくらなべ",
+      "meaning": "lẩu thịt ngựa"
+    },
+    {
+      "word": "闇鍋",
+      "reading": "やみなべ",
+      "meaning": "món lẩu được chế biến từ các nguyên liệu do các thành viên trong nhóm đóng góp và ăn trong bóng tối"
+    },
+    {
+      "word": "鳥鍋",
+      "reading": "とりなべ",
+      "meaning": "món lẩu được làm bằng cách ninh gà với rau theo mùa"
     }
   ]
 }

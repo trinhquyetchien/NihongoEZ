@@ -57,19 +57,9 @@
       "meaning": "cái gậy"
     },
     {
-      "word": "白杖",
-      "reading": "はくじょう",
-      "meaning": "gậy cho người mù"
-    },
-    {
-      "word": "虎杖",
-      "reading": "いたどり",
-      "meaning": "cây hà thủ ô nhật bản"
-    },
-    {
-      "word": "杖術",
-      "reading": "じょうじゅつ",
-      "meaning": "trước"
+      "word": "方杖",
+      "reading": "ほうづえ",
+      "meaning": "ống đỡ xiên"
     },
     {
       "word": "手杖",
@@ -77,14 +67,9 @@
       "meaning": "cây gậy chống"
     },
     {
-      "word": "錫杖",
-      "reading": "しゃくじょう",
-      "meaning": "thiếc lá"
-    },
-    {
-      "word": "杖柱",
-      "reading": "つえはしら",
-      "meaning": "người ở trên người mà một tin cậy"
+      "word": "一本杖",
+      "reading": "いっぽんつえ",
+      "meaning": "gậy chống"
     },
     {
       "word": "杖道",
@@ -92,14 +77,29 @@
       "meaning": "jodo"
     },
     {
-      "word": "頬杖",
-      "reading": "ほおづえ",
-      "meaning": "chống cằm"
+      "word": "杖持つ",
+      "reading": "つえもつ",
+      "meaning": "stick"
     },
     {
-      "word": "傍杖",
-      "reading": "そばづえ",
-      "meaning": "cuốn đi nhận được bởi một người ngoại cuộc"
+      "word": "白杖",
+      "reading": "はくじょう",
+      "meaning": "gậy cho người mù"
+    },
+    {
+      "word": "魔法杖",
+      "reading": "まほうづえ",
+      "meaning": "đũa thần"
+    },
+    {
+      "word": "多点杖",
+      "reading": "たてんつえ",
+      "meaning": "gậy chống đa điểm"
+    },
+    {
+      "word": "杖状",
+      "reading": "つえじょう",
+      "meaning": "hình dạng giống cây gậy"
     }
   ]
 }

@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
+      "word": "奥さん",
+      "reading": "おくさん",
+      "meaning": "bà"
+    },
+    {
       "word": "奥",
       "reading": "おく",
       "meaning": "bên trong"
     },
     {
-      "word": "奥行",
-      "reading": "おくゆき",
-      "meaning": "chiều sâu"
+      "word": "奥の間",
+      "reading": "おくのま",
+      "meaning": "phòng bên trong"
     },
     {
-      "word": "山奥",
-      "reading": "やまおく",
-      "meaning": "sâu tít trong núi"
-    },
-    {
-      "word": "奥山",
-      "reading": "おくやま",
-      "meaning": "vùng núi xa xôi"
-    },
-    {
-      "word": "奥義",
-      "reading": "おうぎ",
-      "meaning": "bí mật"
-    },
-    {
-      "word": "奥印",
-      "reading": "おくいん",
-      "meaning": "con dấu chính thức"
-    },
-    {
-      "word": "奥庭",
-      "reading": "おくにわ",
-      "meaning": "vườn bên trong"
-    },
-    {
-      "word": "奥書",
-      "reading": "おくがき",
-      "meaning": "lời cuối"
-    },
-    {
-      "word": "奥宮",
-      "reading": "おくみや",
-      "meaning": "đền thờ phụ phía sau"
+      "word": "心の奥",
+      "reading": "こころのおく",
+      "meaning": "đáy lòng"
     },
     {
       "word": "奥社",
       "reading": "おくしゃ",
       "meaning": "đền sâu"
+    },
+    {
+      "word": "奥付け",
+      "reading": "おくづけ",
+      "meaning": "lời trong sách"
+    },
+    {
+      "word": "奥壁",
+      "reading": "おくへき",
+      "meaning": "bức tường bên trong"
+    },
+    {
+      "word": "奥書き",
+      "reading": "おくがき",
+      "meaning": "sự thẩm tra"
+    },
+    {
+      "word": "奥様",
+      "reading": "おくさま",
+      "meaning": "vợ"
+    },
+    {
+      "word": "大奥様",
+      "reading": "おおおくさま",
+      "meaning": "quý bà cái nhà"
     }
   ]
 }

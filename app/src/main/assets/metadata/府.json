@@ -87,29 +87,34 @@
   ],
   "vocabulary": [
     {
+      "word": "政府",
+      "reading": "せいふ",
+      "meaning": "chánh phủ"
+    },
+    {
+      "word": "新政府",
+      "reading": "しんせいふ",
+      "meaning": "chính phủ mới"
+    },
+    {
+      "word": "軍政府",
+      "reading": "ぐんせいふ",
+      "meaning": "chính phủ quân sự"
+    },
+    {
+      "word": "政府軍",
+      "reading": "せいふぐん",
+      "meaning": "toán quân chính phủ"
+    },
+    {
+      "word": "米政府",
+      "reading": "べいせいふ",
+      "meaning": "chính phủ mỹ"
+    },
+    {
       "word": "府",
       "reading": "ふ",
       "meaning": "phủ"
-    },
-    {
-      "word": "華府",
-      "reading": "かふ",
-      "meaning": "washington"
-    },
-    {
-      "word": "府社",
-      "reading": "ふしゃ",
-      "meaning": "đền thờ địa phương"
-    },
-    {
-      "word": "内府",
-      "reading": "ないふ",
-      "meaning": "nội phủ"
-    },
-    {
-      "word": "陰府",
-      "reading": "いんぷ",
-      "meaning": "địa ngục"
     },
     {
       "word": "三府",
@@ -117,24 +122,19 @@
       "meaning": "ba chức quận trưởng thành thị"
     },
     {
-      "word": "府警",
-      "reading": "ふけい",
-      "meaning": "cảnh sát quận"
+      "word": "内府",
+      "reading": "ないふ",
+      "meaning": "nội phủ"
     },
     {
-      "word": "府税",
-      "reading": "ふぜい",
-      "meaning": "thuế ở thành phố"
+      "word": "政府筋",
+      "reading": "せいふすじ",
+      "meaning": "nguồn thông tin trong chính phủ"
     },
     {
-      "word": "府庫",
-      "reading": "ふこ",
-      "meaning": "kho bạc"
-    },
-    {
-      "word": "府省",
-      "reading": "ふしょう",
-      "meaning": "các ban"
+      "word": "大阪府",
+      "reading": "おおさかふ",
+      "meaning": "chức quận trưởng osaka"
     }
   ]
 }

@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "催",
-      "reading": "さい",
-      "meaning": "sự cầm giữ"
-    },
-    {
-      "word": "催す",
-      "reading": "もよおす",
-      "meaning": "có triệu chứng"
-    },
-    {
       "word": "催し",
       "reading": "もよおし",
       "meaning": "sự kiện"
-    },
-    {
-      "word": "催眠",
-      "reading": "さいみん",
-      "meaning": "sự thôi miên"
     },
     {
       "word": "催促",
@@ -115,29 +100,44 @@
       "meaning": "sự thúc giục"
     },
     {
-      "word": "併催",
-      "reading": "へいさい",
-      "meaning": "việc tổ chức đồng thời"
-    },
-    {
-      "word": "催告",
-      "reading": "さいこく",
-      "meaning": "sự báo"
-    },
-    {
-      "word": "共催",
-      "reading": "きょうさい",
-      "meaning": "đồng tổ chức"
-    },
-    {
-      "word": "催涙",
-      "reading": "さいるい",
-      "meaning": "nước mắt"
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "sự tổ chức"
     },
     {
       "word": "主催",
       "reading": "しゅさい",
       "meaning": "sự chủ tọa"
+    },
+    {
+      "word": "催す",
+      "reading": "もよおす",
+      "meaning": "có triệu chứng"
+    },
+    {
+      "word": "開催日",
+      "reading": "かいさいび",
+      "meaning": "date"
+    },
+    {
+      "word": "開催中",
+      "reading": "かいさいちゅう",
+      "meaning": "trong phiên họp"
+    },
+    {
+      "word": "開催国",
+      "reading": "かいさいこく",
+      "meaning": "nước chủ nhà"
+    },
+    {
+      "word": "開催式",
+      "reading": "かいさいしき",
+      "meaning": "lễ khai trương"
+    },
+    {
+      "word": "開催地",
+      "reading": "かいさいち",
+      "meaning": "chỗ ở đâu một cuộc gặp được giữ"
     }
   ]
 }

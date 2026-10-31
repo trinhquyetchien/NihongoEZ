@@ -89,9 +89,14 @@
       "meaning": "thailand"
     },
     {
-      "word": "安泰",
-      "reading": "あんたい",
-      "meaning": "hòa bình"
+      "word": "日泰",
+      "reading": "にったい",
+      "meaning": "nhật bản và thái lan"
+    },
+    {
+      "word": "泰国",
+      "reading": "タイこく",
+      "meaning": "thái lan"
     },
     {
       "word": "泰語",
@@ -104,14 +109,9 @@
       "meaning": "shōtai"
     },
     {
-      "word": "泰西",
-      "reading": "たいせい",
-      "meaning": "các nước phương tây"
-    },
-    {
-      "word": "泰斗",
-      "reading": "たいと",
-      "meaning": "thái đẩu"
+      "word": "安泰",
+      "reading": "あんたい",
+      "meaning": "hòa bình"
     },
     {
       "word": "泰山",
@@ -124,14 +124,14 @@
       "meaning": "sự thái bình"
     },
     {
+      "word": "泰斗",
+      "reading": "たいと",
+      "meaning": "thái đẩu"
+    },
+    {
       "word": "泰然",
       "reading": "たいぜん",
       "meaning": "dịu đi"
-    },
-    {
-      "word": "日泰",
-      "reading": "にったい",
-      "meaning": "nhật bản và thái lan"
     }
   ]
 }

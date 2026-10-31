@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "舎",
-      "reading": "しゃ",
-      "meaning": "chuồng"
-    },
-    {
-      "word": "浴舎",
-      "reading": "よくしゃ",
-      "meaning": "nhà tắm công cộng kiểu đơn giản"
-    },
-    {
-      "word": "舎密",
-      "reading": "セイミ",
-      "meaning": "vật lý và hóa học trong tiếng hà lan"
+      "word": "田舎",
+      "reading": "いなか",
+      "meaning": "nông thôn"
     },
     {
       "word": "校舎",
@@ -110,34 +100,44 @@
       "meaning": "khu nhà trường"
     },
     {
-      "word": "獄舎",
-      "reading": "ごくしゃ",
-      "meaning": "nhà tù"
+      "word": "舎",
+      "reading": "しゃ",
+      "meaning": "chuồng"
     },
     {
-      "word": "鶏舎",
-      "reading": "けいしゃ",
-      "meaning": "chuồng gà"
+      "word": "犬舎",
+      "reading": "けんしゃ",
+      "meaning": "chuồng chó"
     },
     {
-      "word": "三舎",
-      "reading": "さんしゃ",
-      "meaning": "lùi ba trạm"
+      "word": "局舎",
+      "reading": "きょくしゃ",
+      "meaning": "văn phòng"
     },
     {
-      "word": "駅舎",
-      "reading": "えきしゃ",
-      "meaning": "trạm tàu"
+      "word": "園舎",
+      "reading": "えんしゃ",
+      "meaning": "trường mẫu giáo"
     },
     {
-      "word": "禽舎",
-      "reading": "きんしゃ",
-      "meaning": "chuồng chim"
+      "word": "入舎",
+      "reading": "にゅうしゃ",
+      "meaning": "sự vào ký túc xá"
     },
     {
-      "word": "公舎",
-      "reading": "こうしゃ",
-      "meaning": "dinh thự chính thức"
+      "word": "竜舎",
+      "reading": "りゅうしゃ",
+      "meaning": "quả cầu rồng"
+    },
+    {
+      "word": "舎宅",
+      "reading": "しゃたく",
+      "meaning": "dinh thự"
+    },
+    {
+      "word": "幕舎",
+      "reading": "ばくしゃ",
+      "meaning": "cắm trại"
     }
   ]
 }

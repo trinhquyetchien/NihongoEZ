@@ -67,39 +67,44 @@
   ],
   "vocabulary": [
     {
-      "word": "螺",
-      "reading": "にし",
-      "meaning": "vỏ ốc"
-    },
-    {
-      "word": "蠑螺",
-      "reading": "さざえ",
-      "meaning": "sò khăn xếp"
-    },
-    {
-      "word": "法螺",
-      "reading": "ほら",
-      "meaning": "khoe khoang"
-    },
-    {
-      "word": "田螺",
-      "reading": "たにし",
-      "meaning": "ốc đồng"
-    },
-    {
-      "word": "細螺",
-      "reading": "きさご",
-      "meaning": "ốc bờ"
-    },
-    {
       "word": "螺旋",
       "reading": "ねじ",
       "meaning": "sự xoắn ốc"
     },
     {
-      "word": "栄螺",
-      "reading": "さざえ",
-      "meaning": "turbo sazae"
+      "word": "螺旋状",
+      "reading": "らせんじょう",
+      "meaning": "hình xoắn ốc"
+    },
+    {
+      "word": "螺",
+      "reading": "にし",
+      "meaning": "vỏ ốc"
+    },
+    {
+      "word": "長螺",
+      "reading": "ながにし",
+      "meaning": "fusinus perplexus"
+    },
+    {
+      "word": "赤螺",
+      "reading": "あかにし",
+      "meaning": "ốc rapana"
+    },
+    {
+      "word": "螺線",
+      "reading": "らせん",
+      "meaning": "hình xoắn ốc"
+    },
+    {
+      "word": "螺線面",
+      "reading": "らせんめん",
+      "meaning": "mặt đinh ốc"
+    },
+    {
+      "word": "沖螺",
+      "reading": "おきにし",
+      "meaning": "warty frog shell"
     },
     {
       "word": "螺鈿",
@@ -107,14 +112,9 @@
       "meaning": "vỏ trai ngọc"
     },
     {
-      "word": "螺子",
-      "reading": "ねじ",
-      "meaning": "vít"
-    },
-    {
-      "word": "長螺",
-      "reading": "ながにし",
-      "meaning": "fusinus perplexus"
+      "word": "馬蹄螺",
+      "reading": "ばていら",
+      "meaning": "tegula pfeifferi"
     }
   ]
 }

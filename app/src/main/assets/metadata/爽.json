@@ -89,14 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "爽爽として",
-      "reading": "さわさわとして",
-      "meaning": "sự xào xạc"
+      "word": "爽やか",
+      "reading": "さわやか",
+      "meaning": "dễ chịu"
     },
     {
       "word": "爽快",
       "reading": "そうかい",
       "meaning": "làm cho khoẻ khoắn"
+    },
+    {
+      "word": "颯爽",
+      "reading": "さっそう",
+      "meaning": "người ga lăng"
+    },
+    {
+      "word": "爽々",
+      "reading": "さわさわ",
+      "meaning": "xào xạc"
     },
     {
       "word": "豪爽",
@@ -109,19 +119,14 @@
       "meaning": "sảng khoái"
     },
     {
-      "word": "爽凉",
-      "reading": "そうりょう",
-      "meaning": "mát và sảng khoái"
-    },
-    {
-      "word": "颯爽",
-      "reading": "さっそう",
-      "meaning": "người ga lăng"
-    },
-    {
       "word": "爽涼",
       "reading": "そうりょう",
       "meaning": "mát và sự làm mới lại"
+    },
+    {
+      "word": "爽凉",
+      "reading": "そうりょう",
+      "meaning": "mát và sảng khoái"
     },
     {
       "word": "爽秋",
@@ -129,14 +134,9 @@
       "meaning": "mùa thu mát mẻ và dễ chịu"
     },
     {
-      "word": "爽々",
-      "reading": "さわさわ",
-      "meaning": "xào xạc"
-    },
-    {
-      "word": "爽やか",
-      "reading": "さわやか",
-      "meaning": "dễ chịu"
+      "word": "気分爽快",
+      "reading": "きぶんそうかい",
+      "meaning": "cảm giác tuyệt vời"
     }
   ]
 }

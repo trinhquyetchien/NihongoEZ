@@ -111,14 +111,14 @@
       "meaning": "tre"
     },
     {
-      "word": "竹冠",
-      "reading": "たけかんむり",
-      "meaning": "phần trên của bổ thủ 竹trúc tiếubút"
+      "word": "竹製",
+      "reading": "たけせい",
+      "meaning": "làm cây tre"
     },
     {
-      "word": "竹籤",
-      "reading": "たけひご",
-      "meaning": "lạt tre"
+      "word": "丸竹",
+      "reading": "まるたけ",
+      "meaning": "cây tre tròn"
     },
     {
       "word": "竹皮",
@@ -126,14 +126,14 @@
       "meaning": "mo nang"
     },
     {
-      "word": "筮竹",
-      "reading": "ぜいちく",
-      "meaning": "que bói toán"
+      "word": "矢竹",
+      "reading": "やだけ",
+      "meaning": "mũi tên tre"
     },
     {
-      "word": "煤竹",
-      "reading": "すすたけ",
-      "meaning": "màu tre hun khói"
+      "word": "竹材",
+      "reading": "ちくざい",
+      "meaning": "vật liệu tre"
     },
     {
       "word": "竹籠",
@@ -141,19 +141,19 @@
       "meaning": "giỏ tre"
     },
     {
-      "word": "竿竹",
-      "reading": "さおだけ",
-      "meaning": "sào"
-    },
-    {
-      "word": "竹帛",
-      "reading": "ちくはく",
-      "meaning": "sách"
-    },
-    {
       "word": "竹笛",
       "reading": "たけぶえ",
       "meaning": "trúc"
+    },
+    {
+      "word": "竹串",
+      "reading": "たけぐし",
+      "meaning": "cái xiên tre"
+    },
+    {
+      "word": "竹笠",
+      "reading": "たけがさ",
+      "meaning": "mũ tre"
     }
   ]
 }

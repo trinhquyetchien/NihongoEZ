@@ -91,19 +91,29 @@
   ],
   "vocabulary": [
     {
-      "word": "避妊",
-      "reading": "ひにん",
-      "meaning": "sự tránh thai"
+      "word": "妊娠",
+      "reading": "にんしん",
+      "meaning": "bụng phệ"
     },
     {
-      "word": "懐妊",
-      "reading": "かいにん",
-      "meaning": "mang thai"
+      "word": "妊娠時",
+      "reading": "にんしんじ",
+      "meaning": "thời kì mang thai"
     },
     {
-      "word": "妊む",
-      "reading": "はらむ",
-      "meaning": "mang thai"
+      "word": "妊娠線",
+      "reading": "にんしんせん",
+      "meaning": "vết rạn bà bầu"
+    },
+    {
+      "word": "妊娠期",
+      "reading": "にんしんき",
+      "meaning": "thời kỳ mang thai"
+    },
+    {
+      "word": "偽妊娠",
+      "reading": "ぎにんしん",
+      "meaning": "tính thụ thai giả"
     },
     {
       "word": "妊婦",
@@ -111,34 +121,24 @@
       "meaning": "người mang thai"
     },
     {
-      "word": "妊娠",
-      "reading": "にんしん",
-      "meaning": "bụng phệ"
+      "word": "妊婦服",
+      "reading": "にんぷふく",
+      "meaning": "quần áo dành cho người mang thai"
     },
     {
-      "word": "不妊",
-      "reading": "ふにん",
-      "meaning": "sự vô sinh"
+      "word": "避妊",
+      "reading": "ひにん",
+      "meaning": "sự tránh thai"
     },
     {
-      "word": "妊活",
-      "reading": "にんかつ",
-      "meaning": "canh ngày để có thai"
+      "word": "避妊法",
+      "reading": "ひにんほう",
+      "meaning": "phương pháp tránh thai"
     },
     {
-      "word": "妊性",
-      "reading": "にんせい",
-      "meaning": "khả năng mang thai"
-    },
-    {
-      "word": "妊孕",
-      "reading": "にんよう",
-      "meaning": "khả năng sinh sản"
-    },
-    {
-      "word": "妊る",
-      "reading": "みごもる",
-      "meaning": "để trở thành có thai"
+      "word": "避妊薬",
+      "reading": "ひにんやく",
+      "meaning": "thuốc ngừa thai"
     }
   ]
 }

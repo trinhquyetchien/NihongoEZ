@@ -100,14 +100,9 @@
       "meaning": "điểm"
     },
     {
-      "word": "点点",
-      "reading": "てんてん",
-      "meaning": "ở đây và ở đó"
-    },
-    {
-      "word": "百点満点",
-      "reading": "ひゃくてんまんてん",
-      "meaning": "thang điểm 100 điểm"
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "khuyết điểm"
     },
     {
       "word": "要点",
@@ -115,14 +110,19 @@
       "meaning": "yếu điểm"
     },
     {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "nhược điểm"
+    },
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "tiêu điểm"
+    },
+    {
       "word": "採点",
       "reading": "さいてん",
       "meaning": "sự chấm điểm"
-    },
-    {
-      "word": "点前",
-      "reading": "てまえ",
-      "meaning": "những thủ tục trong nghi lễ chè"
     },
     {
       "word": "終点",
@@ -135,14 +135,14 @@
       "meaning": "điểm nhìn"
     },
     {
-      "word": "焦点",
-      "reading": "しょうてん",
-      "meaning": "tiêu điểm"
+      "word": "盲点",
+      "reading": "もうてん",
+      "meaning": "điểm mù"
     },
     {
-      "word": "欠点",
-      "reading": "けってん",
-      "meaning": "khuyết điểm"
+      "word": "時点",
+      "reading": "じてん",
+      "meaning": "chỉ đúng lúc"
     }
   ]
 }

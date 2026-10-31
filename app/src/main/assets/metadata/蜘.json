@@ -49,34 +49,14 @@
   ],
   "vocabulary": [
     {
-      "word": "蜘",
-      "reading": "くも",
-      "meaning": "nhện"
-    },
-    {
       "word": "蜘蛛",
       "reading": "くも",
       "meaning": "con nhện"
     },
     {
-      "word": "棚蜘蛛",
-      "reading": "たなぐも",
-      "meaning": "nhện funnel-web araneomorph"
-    },
-    {
-      "word": "土蜘蛛",
-      "reading": "つちぐも",
-      "meaning": "yêu quái nhện"
-    },
-    {
-      "word": "蟻蜘蛛",
-      "reading": "ありぐも",
-      "meaning": "myrmarachne"
-    },
-    {
-      "word": "笹蜘蛛",
-      "reading": "ささぐも",
-      "meaning": "nhện lá tre"
+      "word": "水蜘蛛",
+      "reading": "みずぐも",
+      "meaning": "nhện nước"
     },
     {
       "word": "花蜘蛛",
@@ -84,9 +64,19 @@
       "meaning": "misumenops tricuspidatus"
     },
     {
-      "word": "地蜘蛛",
-      "reading": "じぐも",
-      "meaning": "nhện atypus karschi"
+      "word": "海蜘蛛",
+      "reading": "うみぐも",
+      "meaning": "loài nhện biển"
+    },
+    {
+      "word": "姫蜘蛛",
+      "reading": "ひめぐも",
+      "meaning": "parasteatoda japonica"
+    },
+    {
+      "word": "草蜘蛛",
+      "reading": "くさぐも",
+      "meaning": "agelena silvatica"
     },
     {
       "word": "袋蜘蛛",
@@ -94,9 +84,19 @@
       "meaning": "thuật ngữ chung cho các loài nhện thuộc chi phoscophoridae"
     },
     {
-      "word": "盲蜘蛛",
-      "reading": "めくらぐも",
-      "meaning": "nhện bố chân dài"
+      "word": "毒蜘蛛",
+      "reading": "どくぐも",
+      "meaning": "nhện độc"
+    },
+    {
+      "word": "走蜘蛛",
+      "reading": "はしりぐも",
+      "meaning": "nhện chạy"
+    },
+    {
+      "word": "棚蜘蛛",
+      "reading": "たなぐも",
+      "meaning": "nhện funnel-web araneomorph"
     }
   ]
 }

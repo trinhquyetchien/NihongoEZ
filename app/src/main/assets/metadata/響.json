@@ -106,39 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "響",
-      "reading": "ひびき",
-      "meaning": "vang lại"
-    },
-    {
-      "word": "響笛",
-      "reading": "きょうてき",
-      "meaning": "rung cái ống"
-    },
-    {
-      "word": "残響",
-      "reading": "ざんきょう",
-      "meaning": "sự dội lại"
-    },
-    {
-      "word": "Ｎ響",
-      "reading": "エヌきょう",
-      "meaning": "dàn nhạc giao hưởng nhk"
-    },
-    {
-      "word": "読響",
-      "reading": "よみきょう",
-      "meaning": "bản nhạc hòa tấu yomiuri"
-    },
-    {
-      "word": "響く",
-      "reading": "ひびく",
-      "meaning": "vang vọng"
-    },
-    {
-      "word": "京響",
-      "reading": "きょうきょう",
-      "meaning": "dàn nhạc giao hưởng kyoto"
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaning": "ảnh hưởng"
     },
     {
       "word": "響き",
@@ -146,14 +116,44 @@
       "meaning": "tiếng vang"
     },
     {
-      "word": "交響",
-      "reading": "こうきょう",
-      "meaning": "ảnh hưởng dội lại"
+      "word": "響く",
+      "reading": "ひびく",
+      "meaning": "vang vọng"
     },
     {
       "word": "反響",
       "reading": "はんきょう",
       "meaning": "phản ứng"
+    },
+    {
+      "word": "影響力",
+      "reading": "えいきょうりょく",
+      "meaning": "sức ảnh hưởng"
+    },
+    {
+      "word": "影響下",
+      "reading": "えいきょうか",
+      "meaning": "ảnh hưởng"
+    },
+    {
+      "word": "影響圏",
+      "reading": "えいきょうけん",
+      "meaning": "tầm ảnh hưởng"
+    },
+    {
+      "word": "響",
+      "reading": "ひびき",
+      "meaning": "vang lại"
+    },
+    {
+      "word": "Ｎ響",
+      "reading": "エヌきょう",
+      "meaning": "dàn nhạc giao hưởng nhk"
+    },
+    {
+      "word": "n響",
+      "reading": "エヌきょう",
+      "meaning": "dàn nhạc giao hưởng nhk"
     }
   ]
 }

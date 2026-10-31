@@ -85,19 +85,14 @@
   ],
   "vocabulary": [
     {
-      "word": "隆隆",
-      "reading": "りゅうりゅう",
-      "meaning": "thịnh vượng"
-    },
-    {
-      "word": "隆隆たる",
-      "reading": "りゅうりゅうたる",
-      "meaning": "thịnh vượng"
-    },
-    {
       "word": "隆盛",
       "reading": "りゅうせい",
       "meaning": "sự phồn thịnh"
+    },
+    {
+      "word": "隆盛な",
+      "reading": "りゅうせいな",
+      "meaning": "phồn hoa"
     },
     {
       "word": "隆起",
@@ -105,14 +100,19 @@
       "meaning": "sự dấy lên"
     },
     {
-      "word": "隆替",
-      "reading": "りゅうたい",
-      "meaning": "sự thịnh suy"
+      "word": "法隆寺",
+      "reading": "ほうりゅうじ",
+      "meaning": "chùa horyu"
     },
     {
       "word": "興隆",
       "reading": "こうりゅう",
       "meaning": "sự phồn vinh"
+    },
+    {
+      "word": "隆々",
+      "reading": "りゅうりゅう",
+      "meaning": "hưng thịnh"
     },
     {
       "word": "隆昌",
@@ -125,14 +125,14 @@
       "meaning": "làm phình lên lên trên"
     },
     {
-      "word": "隆運",
-      "reading": "りゅううん",
+      "word": "隆隆",
+      "reading": "りゅうりゅう",
       "meaning": "thịnh vượng"
     },
     {
-      "word": "隆々",
-      "reading": "りゅうりゅう",
-      "meaning": "hưng thịnh"
+      "word": "隆替",
+      "reading": "りゅうたい",
+      "meaning": "sự thịnh suy"
     }
   ]
 }

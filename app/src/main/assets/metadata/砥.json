@@ -37,38 +37,8 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "中砥",
-      "reading": "なかと",
-      "meaning": "đá cối xay bậc trung"
-    },
-    {
       "word": "砥石",
       "reading": "といし",
-      "meaning": "đá mài"
-    },
-    {
-      "word": "青砥",
-      "reading": "あおと",
-      "meaning": "cối xay đá loại trung bình làm bằng đá xanh"
-    },
-    {
-      "word": "粗砥",
-      "reading": "あらと",
-      "meaning": "đá mài thô sơ"
-    },
-    {
-      "word": "革砥",
-      "reading": "かわと",
-      "meaning": "da dây dùng để mài dao cạo"
-    },
-    {
-      "word": "砥糞",
-      "reading": "とくそ",
-      "meaning": "bùn từ đá mài khi mài dao"
-    },
-    {
-      "word": "剃刀砥",
-      "reading": "かみそりど",
       "meaning": "đá mài"
     },
     {
@@ -77,14 +47,44 @@
       "meaning": "đá mài"
     },
     {
-      "word": "砥の粉",
-      "reading": "とのこ",
-      "meaning": "bột đánh bóng"
-    },
-    {
       "word": "油砥石",
       "reading": "あぶらといし",
       "meaning": "đá mài"
+    },
+    {
+      "word": "角砥石",
+      "reading": "かくといし",
+      "meaning": "đá mài góc"
+    },
+    {
+      "word": "鎌砥石",
+      "reading": "かまといし",
+      "meaning": "đá mài liềm"
+    },
+    {
+      "word": "青砥",
+      "reading": "あおと",
+      "meaning": "cối xay đá loại trung bình làm bằng đá xanh"
+    },
+    {
+      "word": "剃刀砥",
+      "reading": "かみそりど",
+      "meaning": "đá mài"
+    },
+    {
+      "word": "中砥",
+      "reading": "なかと",
+      "meaning": "đá cối xay bậc trung"
+    },
+    {
+      "word": "革砥",
+      "reading": "かわと",
+      "meaning": "da dây dùng để mài dao cạo"
+    },
+    {
+      "word": "粗砥",
+      "reading": "あらと",
+      "meaning": "đá mài thô sơ"
     }
   ]
 }

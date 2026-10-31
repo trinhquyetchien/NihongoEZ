@@ -50,29 +50,9 @@
   ],
   "vocabulary": [
     {
-      "word": "顛覆",
-      "reading": "てんぷく",
-      "meaning": "sự lật úp"
-    },
-    {
       "word": "顛末",
       "reading": "てんまつ",
       "meaning": "tình hình"
-    },
-    {
-      "word": "顛落",
-      "reading": "てんらく",
-      "meaning": "tràn ra"
-    },
-    {
-      "word": "顛倒",
-      "reading": "てんとう",
-      "meaning": "lật đổ"
-    },
-    {
-      "word": "山顛",
-      "reading": "さんてん",
-      "meaning": "đỉnh"
     },
     {
       "word": "顛末書",
@@ -85,9 +65,24 @@
       "meaning": "nội dung đầy đủ từ đầu đến cuối"
     },
     {
-      "word": "七顛八起",
-      "reading": "しちてんはっき",
-      "meaning": "những sự thăng trầm cuộc sống"
+      "word": "山顛",
+      "reading": "さんてん",
+      "meaning": "đỉnh"
+    },
+    {
+      "word": "顛倒",
+      "reading": "てんとう",
+      "meaning": "lật đổ"
+    },
+    {
+      "word": "顛覆",
+      "reading": "てんぷく",
+      "meaning": "sự lật úp"
+    },
+    {
+      "word": "顛落",
+      "reading": "てんらく",
+      "meaning": "tràn ra"
     },
     {
       "word": "大不列顛",
@@ -98,6 +93,11 @@
       "word": "主客顛倒",
       "reading": "しゅかくてんとう",
       "meaning": "đảo ngược thứ tự sự quan trọng"
+    },
+    {
+      "word": "本末顛倒",
+      "reading": "ほんまつてんとう",
+      "meaning": "không đúng mức ước lượng sự quan trọng"
     }
   ]
 }

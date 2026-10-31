@@ -32,9 +32,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "移牒",
-      "reading": "いちょう",
-      "meaning": "thông báo cho chính quyền"
+      "word": "通牒",
+      "reading": "つうちょう",
+      "meaning": "thông điệp"
     },
     {
       "word": "符牒",
@@ -42,14 +42,14 @@
       "meaning": "đánh dấu"
     },
     {
-      "word": "通牒",
-      "reading": "つうちょう",
-      "meaning": "thông điệp"
-    },
-    {
       "word": "来牒",
       "reading": "らいちょう",
       "meaning": "công văn"
+    },
+    {
+      "word": "移牒",
+      "reading": "いちょう",
+      "meaning": "thông báo cho chính quyền"
     },
     {
       "word": "最後通牒",

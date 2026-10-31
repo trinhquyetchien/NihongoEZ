@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "奪う",
+      "reading": "うばう",
+      "meaning": "cướp"
+    },
+    {
+      "word": "略奪",
+      "reading": "りゃくだつ",
+      "meaning": "sự cướp phá"
+    },
+    {
       "word": "奪い",
       "reading": "うばい",
       "meaning": "chiếm đoạt"
     },
     {
-      "word": "強奪",
-      "reading": "ごうだつ",
-      "meaning": "sự cướp"
+      "word": "略奪者",
+      "reading": "りゃくだつしゃ",
+      "meaning": "bạo khách"
+    },
+    {
+      "word": "略奪品",
+      "reading": "りゃくだつひん",
+      "meaning": "của cướp bóc"
     },
     {
       "word": "奪還",
@@ -104,14 +119,14 @@
       "meaning": "sự lấy lại"
     },
     {
-      "word": "奪回",
-      "reading": "だっかい",
-      "meaning": "sự lấy lại"
+      "word": "略奪婚",
+      "reading": "りゃくだつこん",
+      "meaning": "cưỡng hôn"
     },
     {
-      "word": "横奪",
-      "reading": "おうだつ",
-      "meaning": "sự lạm tiêu"
+      "word": "剥奪",
+      "reading": "はくだつ",
+      "meaning": "sự mất"
     },
     {
       "word": "争奪",
@@ -119,24 +134,9 @@
       "meaning": "cuộc chiến tranh"
     },
     {
-      "word": "収奪",
-      "reading": "しゅうだつ",
-      "meaning": "sự bóc lột"
-    },
-    {
-      "word": "簒奪",
-      "reading": "さんだつ",
-      "meaning": "sự lấn chiếm"
-    },
-    {
-      "word": "侵奪",
-      "reading": "しんだつ",
-      "meaning": "sự lấn chiếm"
-    },
-    {
-      "word": "奪掠",
-      "reading": "だつりゃく",
-      "meaning": "sự cướp bóc"
+      "word": "争奪戦",
+      "reading": "そうだつせん",
+      "meaning": "cuộc chiến tranh"
     }
   ]
 }

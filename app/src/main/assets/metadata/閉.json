@@ -110,54 +110,54 @@
   ],
   "vocabulary": [
     {
-      "word": "尿閉",
-      "reading": "にょうへい",
-      "meaning": "cảm giác buồn tiểu nhưng ko tiểu dc"
+      "word": "閉会",
+      "reading": "へいかい",
+      "meaning": "bế mạc hội nghị"
     },
     {
-      "word": "閉局",
-      "reading": "へいきょく",
-      "meaning": "việc đình chỉ hoạt động của các cơ sở / tổ chức mang tên \"cục\" như đài phát thanh truyền hình"
+      "word": "閉鎖",
+      "reading": "へいさ",
+      "meaning": "sự phong bế"
     },
     {
-      "word": "閉架",
-      "reading": "へいか",
-      "meaning": "chế độ ai muốn đọc sách gì thì đăng kí rồi được lấy cho chứ thư viện ko mở cho lấy tự do"
+      "word": "閉口",
+      "reading": "へいこう",
+      "meaning": "sự câm miệng"
     },
     {
-      "word": "閉果",
-      "reading": "へいか",
-      "meaning": "thực vật hạt kín"
+      "word": "閉鎖的",
+      "reading": "へいさてき",
+      "meaning": "khép kín"
     },
     {
-      "word": "閉園",
-      "reading": "へいえん",
-      "meaning": "đóng cửa"
+      "word": "閉鎖式",
+      "reading": "へいさしき",
+      "meaning": "mạch kín"
     },
     {
-      "word": "閉栓",
-      "reading": "へいせん",
-      "meaning": "cắt"
+      "word": "閉店",
+      "reading": "へいてん",
+      "meaning": "sự đóng cửa hàng"
     },
     {
-      "word": "閉体",
-      "reading": "へいたい",
-      "meaning": "tập tin đóng"
+      "word": "開閉",
+      "reading": "かいへい",
+      "meaning": "sự đóng và mở"
     },
     {
-      "word": "閉包",
-      "reading": "へいほう",
-      "meaning": "độ khép"
+      "word": "密閉",
+      "reading": "みっぺい",
+      "meaning": "kín hơi"
     },
     {
-      "word": "閉域",
-      "reading": "へいいき",
-      "meaning": "khu vực đóng"
+      "word": "閉塞",
+      "reading": "へいそく",
+      "meaning": "bế tắc"
     },
     {
-      "word": "閉ループ",
-      "reading": "へいループ",
-      "meaning": "vòng kín"
+      "word": "閉塞感",
+      "reading": "へいそくかん",
+      "meaning": "cảm giác bế tắc"
     }
   ]
 }

@@ -105,9 +105,29 @@
   ],
   "vocabulary": [
     {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "số tờ"
+    },
+    {
       "word": "枚",
       "reading": "まい",
       "meaning": "tấm"
+    },
+    {
+      "word": "何枚",
+      "reading": "なんまい",
+      "meaning": "mấy trang"
+    },
+    {
+      "word": "一枚",
+      "reading": "いちまい",
+      "meaning": "một vật mỏng dẹt"
+    },
+    {
+      "word": "二枚",
+      "reading": "にまい",
+      "meaning": "hai tấm"
     },
     {
       "word": "数枚",
@@ -120,34 +140,14 @@
       "meaning": "3 tấm"
     },
     {
-      "word": "枚組",
-      "reading": "まいぐみ",
-      "meaning": "bộ đếm cho các bộ sưu tập hoặc cụm các đối tượng phẳng"
+      "word": "一枚上",
+      "reading": "いちまいうえ",
+      "meaning": "một cao hơn bước"
     },
     {
-      "word": "一枚",
-      "reading": "いちまい",
-      "meaning": "một vật mỏng dẹt"
-    },
-    {
-      "word": "枚挙",
-      "reading": "まいきょ",
-      "meaning": "sự đếm"
-    },
-    {
-      "word": "枚数",
-      "reading": "まいすう",
-      "meaning": "số tờ"
-    },
-    {
-      "word": "二枚",
-      "reading": "にまい",
-      "meaning": "hai tấm"
-    },
-    {
-      "word": "大枚",
-      "reading": "たいまい",
-      "meaning": "rất nhiều tiền"
+      "word": "一枚下",
+      "reading": "いちまいした",
+      "meaning": "một bước đi thấp hơn"
     },
     {
       "word": "千枚",

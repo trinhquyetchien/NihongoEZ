@@ -39,28 +39,13 @@
       "meaning": "yên ngựa"
     },
     {
-      "word": "鞍上人なく鞍下馬なし",
-      "reading": "あんじょうひとなくあんかうまなし",
-      "meaning": "cưỡi ngựa điêu luyện đến nỗi dường như người và ngựa đã hòa làm một"
-    },
-    {
-      "word": "鞍馬",
-      "reading": "あんば",
-      "meaning": "yên ngựa"
-    },
-    {
       "word": "鞍上",
       "reading": "あんじょう",
       "meaning": "trên yên ngựa"
     },
     {
-      "word": "鞍部",
-      "reading": "あんぶ",
-      "meaning": "đèo"
-    },
-    {
-      "word": "荷鞍",
-      "reading": "にぐら",
+      "word": "馬の鞍",
+      "reading": "うまのくら",
       "meaning": "yên ngựa"
     },
     {
@@ -69,9 +54,19 @@
       "meaning": "khung yên"
     },
     {
+      "word": "大和鞍",
+      "reading": "やまとぐら",
+      "meaning": "yên ngựa kiểu yamato"
+    },
+    {
       "word": "唐鞍",
       "reading": "からくら",
       "meaning": "yên ngựa kiểu trung hoa"
+    },
+    {
+      "word": "飾り鞍",
+      "reading": "かざりぐら",
+      "meaning": "yên ngựa"
     },
     {
       "word": "鞍敷",
@@ -79,9 +74,14 @@
       "meaning": "vải lót yên ngựa"
     },
     {
-      "word": "トルコ鞍",
-      "reading": "トルコあん",
-      "meaning": "hõm yên"
+      "word": "鞍替え",
+      "reading": "くらがえ",
+      "meaning": "đổi việc"
+    },
+    {
+      "word": "鞍馬",
+      "reading": "あんば",
+      "meaning": "yên ngựa"
     }
   ]
 }

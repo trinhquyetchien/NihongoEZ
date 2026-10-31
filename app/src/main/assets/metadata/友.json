@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "bạn"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "bạn thân"
+    },
+    {
       "word": "友",
       "reading": "とも",
       "meaning": "sự đi chơi cùng bạn bè"
     },
     {
-      "word": "住友",
-      "reading": "すみとも",
-      "meaning": "sumitomo"
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "bạn bè"
     },
     {
-      "word": "老友",
-      "reading": "ろうゆう",
-      "meaning": "bạn già"
+      "word": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "bạn"
     },
     {
-      "word": "交友",
-      "reading": "こうゆう",
-      "meaning": "người bạn"
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "bạn"
     },
     {
-      "word": "級友",
-      "reading": "きゅうゆう",
-      "meaning": "bạn cùng lớp"
+      "word": "友船",
+      "reading": "ともぶね",
+      "meaning": "tàu đồng minh"
     },
     {
-      "word": "旧友",
-      "reading": "きゅうゆう",
-      "meaning": "cố nhân"
+      "word": "類友",
+      "reading": "るいとも",
+      "meaning": "người bạn cùng sở thích"
     },
     {
-      "word": "友軍",
-      "reading": "ゆうぐん",
-      "meaning": "đội máy bay hoả tốc"
+      "word": "病友",
+      "reading": "びょうゆう",
+      "meaning": "người bạn bị bệnh"
     },
     {
-      "word": "盟友",
-      "reading": "めいゆう",
-      "meaning": "người bạn chí cốt"
-    },
-    {
-      "word": "ヤリ友",
-      "reading": "ヤリとも",
-      "meaning": "khốn kiếp"
-    },
-    {
-      "word": "猟友",
-      "reading": "りょうゆう",
-      "meaning": "bạn đồng hành săn bắn"
+      "word": "友党",
+      "reading": "ゆうとう",
+      "meaning": "chính đảng liên minh"
     }
   ]
 }

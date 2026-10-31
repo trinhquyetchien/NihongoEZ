@@ -108,29 +108,19 @@
   ],
   "vocabulary": [
     {
-      "word": "断",
-      "reading": "だん",
-      "meaning": "sự thất bại"
-    },
-    {
-      "word": "断断乎",
-      "reading": "だんだんこ",
-      "meaning": "chắc chắn"
-    },
-    {
-      "word": "断断固",
-      "reading": "だんだんこ",
-      "meaning": "hãng"
-    },
-    {
-      "word": "断簡",
-      "reading": "だんかん",
-      "meaning": "những phần"
-    },
-    {
       "word": "決断",
       "reading": "けつだん",
       "meaning": "sự quyết đoán"
+    },
+    {
+      "word": "断面",
+      "reading": "だんめん",
+      "meaning": "mặt cắt"
+    },
+    {
+      "word": "断",
+      "reading": "だん",
+      "meaning": "sự thất bại"
     },
     {
       "word": "遮断",
@@ -138,24 +128,34 @@
       "meaning": "sự cắt"
     },
     {
-      "word": "裁断",
-      "reading": "さいだん",
-      "meaning": "cắt"
+      "word": "電断",
+      "reading": "でんだん",
+      "meaning": "sự gián đoạn sức mạnh"
     },
     {
-      "word": "断熱",
-      "reading": "だんねつ",
-      "meaning": "sự cô lập"
+      "word": "断尾",
+      "reading": "だんび",
+      "meaning": "việc cắt đuôi"
     },
     {
-      "word": "断髪",
-      "reading": "だんぱつ",
-      "meaning": "cắt cụt tóc"
+      "word": "断路",
+      "reading": "だんろ",
+      "meaning": "sự gián đoạn một dây)"
     },
     {
       "word": "分断",
       "reading": "ぶんだん",
       "meaning": "sự chia cắt"
+    },
+    {
+      "word": "断り",
+      "reading": "ことわり",
+      "meaning": "suy sụp"
+    },
+    {
+      "word": "独断",
+      "reading": "どくだん",
+      "meaning": "quyết định chuyên quyền"
     }
   ]
 }

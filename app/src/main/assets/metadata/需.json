@@ -87,19 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "需給",
-      "reading": "じゅきゅう",
-      "meaning": "nhu cầu và cung cấp"
-    },
-    {
       "word": "需要",
       "reading": "じゅよう",
       "meaning": "nhu cầu"
     },
     {
-      "word": "実需",
-      "reading": "じつじゅ",
-      "meaning": "thực tế yêu cầu"
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "mặt hàng nhu yếu"
+    },
+    {
+      "word": "需要者",
+      "reading": "じゅようしゃ",
+      "meaning": "người tiêu dùng"
+    },
+    {
+      "word": "総需要",
+      "reading": "そうじゅよう",
+      "meaning": "tổng cầu"
+    },
+    {
+      "word": "必需",
+      "reading": "ひつじゅ",
+      "meaning": "cần thiết"
     },
     {
       "word": "軍需",
@@ -107,19 +117,14 @@
       "meaning": "binh nhu"
     },
     {
-      "word": "民需",
-      "reading": "みんじゅ",
-      "meaning": "nhu cầu của người dân"
+      "word": "軍需品",
+      "reading": "ぐんじゅひん",
+      "meaning": "quân dụng"
     },
     {
-      "word": "外需",
-      "reading": "がいじゅ",
-      "meaning": "nhu cầu tiêu thụ hàng hóa ở nước ngoài"
-    },
-    {
-      "word": "内需",
-      "reading": "ないじゅ",
-      "meaning": "nhu cầu nội địa"
+      "word": "需給",
+      "reading": "じゅきゅう",
+      "meaning": "nhu cầu và cung cấp"
     },
     {
       "word": "特需",
@@ -127,14 +132,9 @@
       "meaning": "nhu cầu đặc biệt"
     },
     {
-      "word": "需用",
-      "reading": "じゅよう",
-      "meaning": "sự tiêu thụ"
-    },
-    {
-      "word": "官需",
-      "reading": "かんじゅ",
-      "meaning": "nhu cầu của chính phủ"
+      "word": "内需",
+      "reading": "ないじゅ",
+      "meaning": "nhu cầu nội địa"
     }
   ]
 }

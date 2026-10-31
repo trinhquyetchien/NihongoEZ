@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "修復",
-      "reading": "しゅうふく",
-      "meaning": "sửa chữa"
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "sự ôn tập"
     },
     {
       "word": "回復",
@@ -116,44 +116,44 @@
       "meaning": "hồi phục"
     },
     {
-      "word": "復学",
-      "reading": "ふくがく",
-      "meaning": "sự trở lại trường học"
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "sự khứ hồi"
     },
     {
-      "word": "来復",
-      "reading": "らいふく",
-      "meaning": "sự trở lại"
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "sự sống lại"
     },
     {
-      "word": "復答",
-      "reading": "ふくとう",
-      "meaning": "sự trả lời câu hỏi"
+      "word": "復興",
+      "reading": "ふっこう",
+      "meaning": "sự phục hưng"
     },
     {
-      "word": "復号",
-      "reading": "ふくごう",
-      "meaning": "giải mã"
+      "word": "復旧",
+      "reading": "ふっきゅう",
+      "meaning": "sự khôi phục"
     },
     {
-      "word": "復部",
-      "reading": "ふくぶ",
-      "meaning": "sự quay trở lại câu lạc bộ"
+      "word": "復帰",
+      "reading": "ふっき",
+      "meaning": "sự khôi phục"
     },
     {
-      "word": "復電",
-      "reading": "ふくでん",
-      "meaning": "sự cấp điện trở lại"
+      "word": "復讐",
+      "reading": "ふくしゅう",
+      "meaning": "báo oán"
     },
     {
-      "word": "恢復",
-      "reading": "かいふく",
-      "meaning": "khôi phục"
+      "word": "修復",
+      "reading": "しゅうふく",
+      "meaning": "sửa chữa"
     },
     {
-      "word": "復権",
-      "reading": "ふっけん",
-      "meaning": "khôi phục"
+      "word": "復元",
+      "reading": "ふくげん",
+      "meaning": "sự khôi phục lại"
     }
   ]
 }

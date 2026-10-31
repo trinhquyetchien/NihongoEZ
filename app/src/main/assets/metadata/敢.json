@@ -91,39 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "果敢",
-      "reading": "かかん",
-      "meaning": "quả cảm"
-    },
-    {
-      "word": "敢然",
-      "reading": "かんぜん",
-      "meaning": "mạnh mẽ"
-    },
-    {
-      "word": "敢行",
-      "reading": "かんこう",
-      "meaning": "sự thực hiện một cách kiên quyết"
-    },
-    {
-      "word": "敢闘",
-      "reading": "かんとう",
-      "meaning": "sự chiến đấu dũng cảm"
-    },
-    {
-      "word": "敢為",
-      "reading": "かんい",
-      "meaning": "hành động táo bạo"
-    },
-    {
       "word": "勇敢",
       "reading": "ゆうかん",
       "meaning": "can đảm"
-    },
-    {
-      "word": "敢死",
-      "reading": "かんし",
-      "meaning": "sẵn sàng để chết"
     },
     {
       "word": "敢えて",
@@ -131,14 +101,44 @@
       "meaning": "dám"
     },
     {
+      "word": "勇敢さ",
+      "reading": "ゆうかんさ",
+      "meaning": "hành động anh hùng"
+    },
+    {
+      "word": "勇敢な",
+      "reading": "ゆうかんな",
+      "meaning": "bạo"
+    },
+    {
+      "word": "敢行",
+      "reading": "かんこう",
+      "meaning": "sự thực hiện một cách kiên quyết"
+    },
+    {
+      "word": "果敢",
+      "reading": "かかん",
+      "meaning": "quả cảm"
+    },
+    {
+      "word": "敢闘",
+      "reading": "かんとう",
+      "meaning": "sự chiến đấu dũng cảm"
+    },
+    {
       "word": "敢闘賞",
       "reading": "かんとうしょう",
       "meaning": "trong sumo"
     },
     {
-      "word": "勇敢さ",
-      "reading": "ゆうかんさ",
-      "meaning": "hành động anh hùng"
+      "word": "敢然",
+      "reading": "かんぜん",
+      "meaning": "mạnh mẽ"
+    },
+    {
+      "word": "敢為",
+      "reading": "かんい",
+      "meaning": "hành động táo bạo"
     }
   ]
 }

@@ -111,24 +111,19 @@
       "meaning": "phía bắc"
     },
     {
-      "word": "北北東",
-      "reading": "ほくほくとう",
-      "meaning": "đông bắc bắc"
+      "word": "北壁",
+      "reading": "ほくへき",
+      "meaning": "dốc đứng bắc"
     },
     {
-      "word": "北北西",
-      "reading": "ほくほくせい",
-      "meaning": "phía bắc tây bắc"
+      "word": "北天",
+      "reading": "ほくてん",
+      "meaning": "bầu trời phía bắc"
     },
     {
-      "word": "北大",
-      "reading": "ほくだい",
-      "meaning": "trường đại học hokkaido"
-    },
-    {
-      "word": "北東",
-      "reading": "ほくとう",
-      "meaning": "đông bắc"
+      "word": "最北",
+      "reading": "さいほく",
+      "meaning": "cực bắc"
     },
     {
       "word": "北玉",
@@ -136,9 +131,19 @@
       "meaning": "kỷ nguyên từ những năm 1960 đến 70 được thống trị bởi các nhà vô địch lớn kitanofuji và tamanoumi"
     },
     {
-      "word": "北宋",
-      "reading": "ほくそう",
-      "meaning": "bắc tống"
+      "word": "北行",
+      "reading": "ほっこう",
+      "meaning": "về hướng bắc"
+    },
+    {
+      "word": "正北",
+      "reading": "せいほく",
+      "meaning": "phía bắc đến hạn"
+    },
+    {
+      "word": "北満",
+      "reading": "ほくまん",
+      "meaning": "phía bắc manchuria"
     },
     {
       "word": "脱北",
@@ -146,14 +151,9 @@
       "meaning": "đào tẩu thành công khỏi triều tiên"
     },
     {
-      "word": "北アフリカ",
-      "reading": "きたアフリカ",
-      "meaning": "bắc phi"
-    },
-    {
-      "word": "最北",
-      "reading": "さいほく",
-      "meaning": "cực bắc"
+      "word": "北京",
+      "reading": "ペキン",
+      "meaning": "bắc kinh"
     }
   ]
 }

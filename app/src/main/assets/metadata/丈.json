@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "丈",
-      "reading": "たけ",
-      "meaning": "chiều dài"
-    },
-    {
-      "word": "裄丈",
-      "reading": "ゆきたけ",
-      "meaning": "chiều dài từ cổ đến cổ tay"
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "an toàn"
     },
     {
       "word": "丈夫",
@@ -105,14 +100,19 @@
       "meaning": "khỏe"
     },
     {
-      "word": "気丈",
-      "reading": "きじょう",
-      "meaning": "kiên cường"
+      "word": "丈",
+      "reading": "たけ",
+      "meaning": "chiều dài"
     },
     {
-      "word": "着丈",
-      "reading": "きたけ",
-      "meaning": "chiều dài áo"
+      "word": "頑丈",
+      "reading": "がんじょう",
+      "meaning": "chặt chẽ"
+    },
+    {
+      "word": "丈に",
+      "reading": "だけに",
+      "meaning": "chính vì"
     },
     {
       "word": "丈長",
@@ -120,24 +120,24 @@
       "meaning": "chiều cao"
     },
     {
-      "word": "身丈",
-      "reading": "みたけ",
-      "meaning": "thân hình"
+      "word": "首っ丈",
+      "reading": "くびったけ",
+      "meaning": "lên tới cổ"
     },
     {
-      "word": "丈余",
-      "reading": "じょうよ",
-      "meaning": "hơn một trượng"
+      "word": "七分丈",
+      "reading": "しちぶたけ",
+      "meaning": "lửng"
     },
     {
-      "word": "万丈",
-      "reading": "ばんじょう",
-      "meaning": "hurrah!"
+      "word": "有り丈",
+      "reading": "ありたけ",
+      "meaning": "tất cả những gì đang có"
     },
     {
-      "word": "丈に",
-      "reading": "だけに",
-      "meaning": "chính vì"
+      "word": "膝丈",
+      "reading": "ひざたけ",
+      "meaning": "dài đến đầu gối"
     }
   ]
 }

@@ -92,14 +92,14 @@
       "meaning": "phổi"
     },
     {
-      "word": "肺|肺臓",
-      "reading": "はい|はいぞー",
-      "meaning": "lung"
+      "word": "肺性心",
+      "reading": "はいせいしん",
+      "meaning": "bệnh tim phổi"
     },
     {
-      "word": "肺胞性肺炎",
-      "reading": "はいほうせいはいえん",
-      "meaning": "viêm phổi phế nang"
+      "word": "無気肺",
+      "reading": "むきはい",
+      "meaning": "xẹp phổi"
     },
     {
       "word": "肺書",
@@ -107,34 +107,34 @@
       "meaning": "phổi dạng sách"
     },
     {
-      "word": "肺尖",
-      "reading": "はいせん",
-      "meaning": "đỉnh phổi"
-    },
-    {
-      "word": "塵肺",
-      "reading": "じんはい",
-      "meaning": "bệnh bụi phổi"
-    },
-    {
       "word": "書肺",
       "reading": "しょはい",
       "meaning": "book lung"
     },
     {
-      "word": "肺葉",
-      "reading": "はいよう",
-      "meaning": "lá phổi"
+      "word": "人工肺",
+      "reading": "じんこうはい",
+      "meaning": "phổi nhân tạo"
     },
     {
-      "word": "肺病",
-      "reading": "はいびょう",
-      "meaning": "bệnh kiết lỵ"
+      "word": "肺実質",
+      "reading": "はいじっしつ",
+      "meaning": "nhu mô phổi"
     },
     {
-      "word": "肺肝",
-      "reading": "はいかん",
-      "meaning": "sâu thẳm trái tim"
+      "word": "肺呼吸",
+      "reading": "はいこきゅう",
+      "meaning": "hô hấp bằng phổi"
+    },
+    {
+      "word": "肺血流",
+      "reading": "はいけつりゅう",
+      "meaning": "lưu lượng máu ở phổi"
+    },
+    {
+      "word": "有肺類",
+      "reading": "ゆうはいるい",
+      "meaning": "loài chân bụng có phổi"
     }
   ]
 }

@@ -96,29 +96,9 @@
       "meaning": "bóng"
     },
     {
-      "word": "替玉",
-      "reading": "かえだま",
-      "meaning": "mỳ thêm"
-    },
-    {
-      "word": "お玉",
-      "reading": "おたま",
-      "meaning": "cái môi"
-    },
-    {
-      "word": "玉子",
-      "reading": "たまご",
-      "meaning": "trứng"
-    },
-    {
-      "word": "胆玉",
-      "reading": "きもだま",
-      "meaning": "sự can đảm"
-    },
-    {
-      "word": "水玉",
-      "reading": "みずたま",
-      "meaning": "chấm chấm"
+      "word": "年玉",
+      "reading": "としだま",
+      "meaning": "tiền lì xì"
     },
     {
       "word": "埼玉",
@@ -126,9 +106,14 @@
       "meaning": "saitama"
     },
     {
-      "word": "玉屋",
-      "reading": "たまや",
-      "meaning": "lăng"
+      "word": "色玉",
+      "reading": "いろだま",
+      "meaning": "bóng màu"
+    },
+    {
+      "word": "逆玉",
+      "reading": "ぎゃくたま",
+      "meaning": "người đàn ông lấy vợ giàu"
     },
     {
       "word": "北玉",
@@ -136,9 +121,24 @@
       "meaning": "kỷ nguyên từ những năm 1960 đến 70 được thống trị bởi các nhà vô địch lớn kitanofuji và tamanoumi"
     },
     {
-      "word": "軟玉",
-      "reading": "なんぎょく",
-      "meaning": "nefrit"
+      "word": "赤玉",
+      "reading": "あかだま",
+      "meaning": "quả bóng màu đỏ"
+    },
+    {
+      "word": "雪玉",
+      "reading": "ゆきだま",
+      "meaning": "hòn tuyết"
+    },
+    {
+      "word": "自玉",
+      "reading": "じぎょく",
+      "meaning": "một có sở hữu vua"
+    },
+    {
+      "word": "宝玉",
+      "reading": "ほうぎょく",
+      "meaning": "đá quí"
     }
   ]
 }

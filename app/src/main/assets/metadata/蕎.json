@@ -71,36 +71,6 @@
       "meaning": "mỳ soba"
     },
     {
-      "word": "藪蕎麦",
-      "reading": "やぶそば",
-      "meaning": "mì soba được làm từ bột soba có màu xanh nhạt"
-    },
-    {
-      "word": "蕎麦殻",
-      "reading": "そばがら",
-      "meaning": "vỏ trấu của kiều mạch"
-    },
-    {
-      "word": "狸蕎麦",
-      "reading": "たぬきそば",
-      "meaning": "soba với bột bánh tempura"
-    },
-    {
-      "word": "生蕎麦",
-      "reading": "きそば",
-      "meaning": "mì sợi lúa mạch đen"
-    },
-    {
-      "word": "蕎麦粉",
-      "reading": "そばこ",
-      "meaning": "bột lúa mạch"
-    },
-    {
-      "word": "鰊蕎麦",
-      "reading": "にしんそば",
-      "meaning": "soba trong nước dùng nóng"
-    },
-    {
       "word": "新蕎麦",
       "reading": "しんそば",
       "meaning": "hạt kiều mạch mới thu hoạch"
@@ -111,9 +81,39 @@
       "meaning": "nhà hàng chuyên mỳ soba"
     },
     {
-      "word": "蕎麦ボーロ",
-      "reading": "そばボーロ",
-      "meaning": "bánh cookie kiều mạch"
+      "word": "蕎麦粉",
+      "reading": "そばこ",
+      "meaning": "bột lúa mạch"
+    },
+    {
+      "word": "狸蕎麦",
+      "reading": "たぬきそば",
+      "meaning": "soba với bột bánh tempura"
+    },
+    {
+      "word": "藪蕎麦",
+      "reading": "やぶそば",
+      "meaning": "mì soba được làm từ bột soba có màu xanh nhạt"
+    },
+    {
+      "word": "鰊蕎麦",
+      "reading": "にしんそば",
+      "meaning": "soba trong nước dùng nóng"
+    },
+    {
+      "word": "生蕎麦",
+      "reading": "きそば",
+      "meaning": "mì sợi lúa mạch đen"
+    },
+    {
+      "word": "蕎麦殻",
+      "reading": "そばがら",
+      "meaning": "vỏ trấu của kiều mạch"
+    },
+    {
+      "word": "蕎麦がき",
+      "reading": "そばがき",
+      "meaning": "bánh kiều mạch truyền thống nhật bản"
     }
   ]
 }

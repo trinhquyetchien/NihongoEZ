@@ -92,24 +92,29 @@
   ],
   "vocabulary": [
     {
+      "word": "寂しい",
+      "reading": "さびしい",
+      "meaning": "trống trải"
+    },
+    {
+      "word": "寂しさ",
+      "reading": "さびしさ",
+      "meaning": "nỗi buồn"
+    },
+    {
+      "word": "静寂",
+      "reading": "せいじゃく",
+      "meaning": "sự yên lặng"
+    },
+    {
+      "word": "静寂な",
+      "reading": "せいじゃくな",
+      "meaning": "êm đềm"
+    },
+    {
       "word": "寂",
       "reading": "さび",
       "meaning": "sự tĩnh mịch"
-    },
-    {
-      "word": "閑寂",
-      "reading": "かんじゃく",
-      "meaning": "sự yên tĩnh"
-    },
-    {
-      "word": "寂滅",
-      "reading": "じゃくめつ",
-      "meaning": "rời khỏi trạng thái ham muốn trần tục và đi vào trạng thái giác ngộ"
-    },
-    {
-      "word": "闃寂",
-      "reading": "げきせき",
-      "meaning": "tĩnh lặng và hoang vắng"
     },
     {
       "word": "円寂",
@@ -117,14 +122,14 @@
       "meaning": "<tôn> cõi niết bàn"
     },
     {
-      "word": "入寂",
-      "reading": "にゅうじゃく",
-      "meaning": "sự nhập tịch của nhà sư"
+      "word": "空寂",
+      "reading": "くうじゃく",
+      "meaning": "yên tĩnh"
     },
     {
-      "word": "幽寂",
-      "reading": "ゆうじゃく",
-      "meaning": "yên tĩnh"
+      "word": "寂々",
+      "reading": "せきせき",
+      "meaning": "buồn"
     },
     {
       "word": "寂寥",
@@ -132,14 +137,9 @@
       "meaning": "sự vắng vẻ"
     },
     {
-      "word": "寂然",
-      "reading": "せきぜん",
-      "meaning": "sự vắng vẻ"
-    },
-    {
-      "word": "静寂",
-      "reading": "せいじゃく",
-      "meaning": "sự yên lặng"
+      "word": "寂寞",
+      "reading": "せきばく",
+      "meaning": "cô đơn、yên tĩnh đến cô đơn"
     }
   ]
 }

@@ -94,49 +94,49 @@
       "meaning": "muối"
     },
     {
-      "word": "塩酸塩",
-      "reading": "えんさんえん",
-      "meaning": "hydrochloride"
+      "word": "食塩",
+      "reading": "しょくえん",
+      "meaning": "muối ăn"
     },
     {
-      "word": "塩素酸塩",
-      "reading": "えんそさんえん",
-      "meaning": "anion clorat"
-    },
-    {
-      "word": "塩基性塩",
-      "reading": "えんきせいえん",
-      "meaning": "muối bazơ"
-    },
-    {
-      "word": "過塩素酸塩",
-      "reading": "かえんそさんえん",
-      "meaning": "muối perchlorat"
-    },
-    {
-      "word": "次亜塩素酸塩",
-      "reading": "じあえんそさんえん",
-      "meaning": "hypochlorite"
-    },
-    {
-      "word": "過塩素酸塩類",
-      "reading": "かえんそさんえんるい",
-      "meaning": "muối perchlorat"
-    },
-    {
-      "word": "塩茶",
-      "reading": "しおちゃ",
-      "meaning": "trà muối"
-    },
-    {
-      "word": "グラウバー塩",
-      "reading": "グラウバーえん",
-      "meaning": "natri sunfat"
+      "word": "塩顔",
+      "reading": "しおがお",
+      "meaning": "đẹp"
     },
     {
       "word": "海塩",
       "reading": "かいえん",
       "meaning": "muối biển"
+    },
+    {
+      "word": "味塩",
+      "reading": "あじしお",
+      "meaning": "bột nêm"
+    },
+    {
+      "word": "山塩",
+      "reading": "やまじお",
+      "meaning": "rock salt"
+    },
+    {
+      "word": "石塩",
+      "reading": "せきえん",
+      "meaning": "rock salt"
+    },
+    {
+      "word": "塩魚",
+      "reading": "しおざかな",
+      "meaning": "ướp muối câu cá"
+    },
+    {
+      "word": "塩税",
+      "reading": "えんぜい",
+      "meaning": "ướp muối thuế"
+    },
+    {
+      "word": "銀塩",
+      "reading": "ぎんえん",
+      "meaning": "bạc clorua"
     }
   ]
 }

@@ -93,14 +93,29 @@
       "meaning": "bia mộ"
     },
     {
-      "word": "口碑",
-      "reading": "こうひ",
-      "meaning": "truyền kỳ"
+      "word": "記念碑",
+      "reading": "きねんひ",
+      "meaning": "bia kỷ niệm"
     },
     {
-      "word": "断碑",
-      "reading": "だんぴ",
-      "meaning": "bia đá vỡ"
+      "word": "追悼碑",
+      "reading": "ついとうひ",
+      "meaning": "cenotaph"
+    },
+    {
+      "word": "表忠碑",
+      "reading": "ひょうちゅうひ",
+      "meaning": "bia kỷ niệm chiến tranh"
+    },
+    {
+      "word": "慰霊碑",
+      "reading": "いれいひ",
+      "meaning": "đài tưởng niệm"
+    },
+    {
+      "word": "石碑",
+      "reading": "せきひ",
+      "meaning": "đài kỷ niệm bằng đá"
     },
     {
       "word": "碑文",
@@ -108,34 +123,19 @@
       "meaning": "văn bia"
     },
     {
-      "word": "碑銘",
-      "reading": "ひめい",
-      "meaning": "văn bia"
-    },
-    {
-      "word": "建碑",
-      "reading": "けんぴ",
-      "meaning": "sự xây đài kỷ niệm"
-    },
-    {
       "word": "歌碑",
       "reading": "かひ",
       "meaning": "bia khắc bài thơ đoản ca"
     },
     {
-      "word": "碑石",
-      "reading": "ひせき",
-      "meaning": "bia đá"
+      "word": "墓碑",
+      "reading": "ぼひ",
+      "meaning": "bia mộ"
     },
     {
-      "word": "句碑",
-      "reading": "くひ",
-      "meaning": "đặc sánh với một haiku bị cắt trên nó"
-    },
-    {
-      "word": "詩碑",
-      "reading": "しひ",
-      "meaning": "văn bia"
+      "word": "墓碑銘",
+      "reading": "ぼひめい",
+      "meaning": "mộ chi"
     }
   ]
 }

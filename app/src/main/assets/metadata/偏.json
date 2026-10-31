@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "偏",
-      "reading": "へん",
-      "meaning": "có khuynh hướng"
-    },
-    {
       "word": "偏る",
       "reading": "かたよる",
       "meaning": "nghiêng"
     },
     {
-      "word": "山偏",
-      "reading": "やまへん",
-      "meaning": "bộ sơn trong chữ hán"
+      "word": "偏",
+      "reading": "へん",
+      "meaning": "có khuynh hướng"
     },
     {
-      "word": "歹偏",
-      "reading": "がつへん",
-      "meaning": "bộ \"xương tàn\""
+      "word": "子偏",
+      "reading": "こへん",
+      "meaning": "bộ tử đứng bên trái trong một chữ hán"
     },
     {
-      "word": "火偏",
-      "reading": "ひへん",
-      "meaning": "bộ \"hòa\""
+      "word": "王偏",
+      "reading": "おうへん",
+      "meaning": "bộ thủ 王 ở bên trái"
     },
     {
-      "word": "耒偏",
-      "reading": "すきへん",
-      "meaning": "bộ \"lỗi\""
+      "word": "身偏",
+      "reading": "みへん",
+      "meaning": "một trong những ký tự kanji. tên của “thân” như “thân” và “mi”"
     },
     {
-      "word": "口偏",
-      "reading": "くちへん",
-      "meaning": "phụ từ trái của chữ hán \"danh\""
+      "word": "食偏",
+      "reading": "しょくへん",
+      "meaning": "bộ thực"
     },
     {
-      "word": "偏奇",
-      "reading": "へんき",
-      "meaning": "tính lập dị"
+      "word": "角偏",
+      "reading": "つのへん",
+      "meaning": "bộ giác trong hán tự"
     },
     {
-      "word": "石偏",
-      "reading": "いしへん",
-      "meaning": "bộ thủ 石 thạch bên trái các chữ hán sapháo"
+      "word": "鼻偏",
+      "reading": "はなへん",
+      "meaning": "gốc chữ hán \"mũi\" ở bên trái"
     },
     {
-      "word": "缶偏",
-      "reading": "ほとぎへん",
-      "meaning": "bỗ \"phẫu\" trong kanji"
+      "word": "歯偏",
+      "reading": "はへん",
+      "meaning": "bộ xỉ"
+    },
+    {
+      "word": "谷偏",
+      "reading": "たにへん",
+      "meaning": "bộ cốc trong hán tự"
     }
   ]
 }

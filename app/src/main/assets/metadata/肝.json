@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "肝心",
+      "reading": "かんじん",
+      "meaning": "chủ yếu"
+    },
+    {
+      "word": "肝臓",
+      "reading": "かんぞう",
+      "meaning": "buồng gan"
+    },
+    {
       "word": "肝",
       "reading": "きも",
       "meaning": "gan"
     },
     {
-      "word": "肝|肝臓",
-      "reading": "かん|かんぞー",
-      "meaning": "liver"
+      "word": "肝機能",
+      "reading": "かんきのう",
+      "meaning": "chức năng gan"
     },
     {
-      "word": "砂肝",
-      "reading": "すなぎも",
-      "meaning": "cái mề"
+      "word": "肝入り",
+      "reading": "きもいり",
+      "meaning": "trách nhiệm của cha đỡ đầu"
     },
     {
-      "word": "度肝",
-      "reading": "どぎも",
-      "meaning": "thần kinh"
+      "word": "肝試し",
+      "reading": "きもだめし",
+      "meaning": "thử làm"
     },
     {
-      "word": "肝癌",
-      "reading": "かんがん",
-      "meaning": "ung thư gan"
+      "word": "肝心要",
+      "reading": "かんじんかなめ",
+      "meaning": "đặt biệt quan trọng"
     },
     {
-      "word": "肝油",
-      "reading": "かんゆ",
-      "meaning": "dầu cá thu"
-    },
-    {
-      "word": "肝蛭",
-      "reading": "かんてつ",
-      "meaning": "sán lá gan"
-    },
-    {
-      "word": "肝銘",
-      "reading": "かんめい",
-      "meaning": "ấn tượng sâu"
-    },
-    {
-      "word": "肺肝",
-      "reading": "はいかん",
-      "meaning": "sâu thẳm trái tim"
+      "word": "肝臓病",
+      "reading": "かんぞうびょう",
+      "meaning": "bệnh gan"
     },
     {
       "word": "肝葉",
       "reading": "かんよう",
       "meaning": "thùy"
+    },
+    {
+      "word": "肝臓炎",
+      "reading": "かんぞうえん",
+      "meaning": "viêm gan"
     }
   ]
 }

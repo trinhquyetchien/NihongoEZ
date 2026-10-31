@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
-      "word": "乗",
-      "reading": "じょう",
-      "meaning": "phép nhân"
-    },
-    {
-      "word": "乗り乗り",
-      "reading": "のりのり",
-      "meaning": "tinh thần cao"
-    },
-    {
-      "word": "乗客を乗せる",
-      "reading": "じょうきゃくをのせる",
-      "meaning": "đón khách"
-    },
-    {
-      "word": "乗換",
-      "reading": "のりかえ",
-      "meaning": "chuyển"
-    },
-    {
       "word": "乗る",
       "reading": "のる",
       "meaning": "cưỡi"
     },
     {
-      "word": "乗馬",
-      "reading": "じょうば",
-      "meaning": "cưỡi con ngựa"
+      "word": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "hành khách"
     },
     {
-      "word": "乗船",
-      "reading": "じょうせん",
-      "meaning": "lên thuyền"
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "sự lên"
     },
     {
-      "word": "乗す",
-      "reading": "のす",
-      "meaning": "cho lên"
+      "word": "騎乗",
+      "reading": "きじょう",
+      "meaning": "sự cưỡi ngựa"
     },
     {
-      "word": "史乗",
-      "reading": "しじょう",
-      "meaning": "lịch sử"
+      "word": "搭乗",
+      "reading": "とうじょう",
+      "meaning": "việc lên máy bay"
     },
     {
-      "word": "三乗",
-      "reading": "さんじょう",
-      "meaning": "mũ 3"
+      "word": "便乗",
+      "reading": "びんじょう",
+      "meaning": "việc bạ đâu ngồi đấy"
+    },
+    {
+      "word": "乗組",
+      "reading": "のりくみ",
+      "meaning": "đoàn thủy thủ"
+    },
+    {
+      "word": "乗",
+      "reading": "じょう",
+      "meaning": "phép nhân"
+    },
+    {
+      "word": "乗気",
+      "reading": "のりき",
+      "meaning": "quan tâm"
+    },
+    {
+      "word": "万乗",
+      "reading": "ばんじょう",
+      "meaning": "quyền tối cao"
     }
   ]
 }

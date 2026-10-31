@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "択",
-      "reading": "たく",
-      "meaning": "phương án"
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "sự lựa chọn"
     },
     {
       "word": "採択",
@@ -99,19 +99,9 @@
       "meaning": "sự lựa chọn"
     },
     {
-      "word": "一択",
-      "reading": "いったく",
-      "meaning": "chỉ có 1 lựa chọn"
-    },
-    {
-      "word": "択一",
-      "reading": "たくいつ",
-      "meaning": "sự lựa chọn một trong hai"
-    },
-    {
-      "word": "選択",
-      "reading": "せんたく",
-      "meaning": "sự lựa chọn"
+      "word": "選択的",
+      "reading": "せんたくてき",
+      "meaning": "tính chọn lọc"
     },
     {
       "word": "選択者",
@@ -119,24 +109,34 @@
       "meaning": "người lựa chọn"
     },
     {
-      "word": "選択的",
-      "reading": "せんたくてき",
-      "meaning": "tính chọn lọc"
+      "word": "性選択",
+      "reading": "せいせんたく",
+      "meaning": "lựa chọn giới tính"
     },
     {
-      "word": "選択クラス",
-      "reading": "せんたくクラス",
-      "meaning": "lớp lựa chọn"
-    },
-    {
-      "word": "選択チャネル",
-      "reading": "せんたくチャネル",
-      "meaning": "bộ chọn kênh"
+      "word": "選択子",
+      "reading": "せんたくし",
+      "meaning": "có lựa chọn"
     },
     {
       "word": "選択型",
       "reading": "せんたくがた",
       "meaning": "kiểu lựa chọn"
+    },
+    {
+      "word": "選択式",
+      "reading": "せんたくしき",
+      "meaning": "thi trắc nghiệm"
+    },
+    {
+      "word": "選択権",
+      "reading": "せんたくけん",
+      "meaning": "quyền lựa chọn"
+    },
+    {
+      "word": "選択制",
+      "reading": "せんたくせい",
+      "meaning": "hệ thống chọn lọc"
     }
   ]
 }

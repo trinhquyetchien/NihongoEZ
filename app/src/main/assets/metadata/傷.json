@@ -96,49 +96,49 @@
       "meaning": "vết thương"
     },
     {
-      "word": "傷傷しい",
-      "reading": "いたいたしい",
-      "meaning": "cảm động"
+      "word": "内傷",
+      "reading": "ないしょう",
+      "meaning": "vết thương bên trong"
     },
     {
-      "word": "創傷と損傷",
-      "reading": "そうしょうとそんしょう",
-      "meaning": "vết thương và tổn thương"
+      "word": "薬傷",
+      "reading": "やくしょう",
+      "meaning": "bỏng do hóa chất"
     },
     {
-      "word": "咬傷と刺傷",
-      "reading": "こーしょーとししょー",
-      "meaning": "vết cắn và vết chích"
+      "word": "傷薬",
+      "reading": "きずぐすり",
+      "meaning": "thuốc xoa vết thương"
     },
     {
-      "word": "傷つけ合う",
-      "reading": "傷つけ合",
-      "meaning": "làm tổn thương lẫn nhau"
+      "word": "弾傷",
+      "reading": "たまきず",
+      "meaning": "vết thương do đạn bắn"
+    },
+    {
+      "word": "丸傷",
+      "reading": "たまきず",
+      "meaning": "viên đạn làm bị thương"
+    },
+    {
+      "word": "自傷",
+      "reading": "じしょう",
+      "meaning": "tự gây thương tích"
+    },
+    {
+      "word": "刀傷",
+      "reading": "かたなきず",
+      "meaning": "vết thương do gươm chém"
+    },
+    {
+      "word": "傷害",
+      "reading": "しょうがい",
+      "meaning": "thương hại"
     },
     {
       "word": "外傷",
       "reading": "がいしょう",
       "meaning": "chấn thương"
-    },
-    {
-      "word": "擦傷",
-      "reading": "さっしょう",
-      "meaning": "làm xước"
-    },
-    {
-      "word": "軽傷",
-      "reading": "けいしょう",
-      "meaning": "vết thương nhẹ"
-    },
-    {
-      "word": "愁傷",
-      "reading": "しゅうしょう",
-      "meaning": "sự đau buồn"
-    },
-    {
-      "word": "傷心",
-      "reading": "しょうしん",
-      "meaning": "đau thương"
     }
   ]
 }

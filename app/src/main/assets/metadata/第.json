@@ -88,14 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "第",
-      "reading": "だい",
-      "meaning": "thứ"
+      "word": "次第",
+      "reading": "しだい",
+      "meaning": "dần dần"
     },
     {
-      "word": "次第次第に",
-      "reading": "しだいしだいに",
-      "meaning": "dần dần"
+      "word": "第一",
+      "reading": "だいいち",
+      "meaning": "đầu tiên"
     },
     {
       "word": "落第",
@@ -103,39 +103,39 @@
       "meaning": "sự trượt"
     },
     {
-      "word": "第七",
-      "reading": "だいなな",
-      "meaning": "thứ bảy"
+      "word": "第",
+      "reading": "だい",
+      "meaning": "thứ"
     },
     {
-      "word": "次第",
-      "reading": "しだい",
-      "meaning": "dần dần"
+      "word": "第二",
+      "reading": "だいに",
+      "meaning": "đệ nhị"
     },
     {
-      "word": "第四",
-      "reading": "だいよん",
-      "meaning": "thứ tư"
+      "word": "第三",
+      "reading": "だいさん",
+      "meaning": "đệ tam"
     },
     {
-      "word": "登第",
-      "reading": "とうだい",
-      "meaning": "sự thi đỗ"
+      "word": "第一回",
+      "reading": "だいいっかい",
+      "meaning": "lần đầu tiên"
     },
     {
-      "word": "第九",
-      "reading": "だいく",
-      "meaning": "bản giao hưởng số 9"
+      "word": "第子",
+      "reading": "だいこ",
+      "meaning": "con cả"
     },
     {
-      "word": "第六",
-      "reading": "だいろく",
-      "meaning": "thứ sáu"
+      "word": "第一子",
+      "reading": "だいいっし",
+      "meaning": "con đầu lòng"
     },
     {
-      "word": "第五",
-      "reading": "だいご",
-      "meaning": "thứ năm"
+      "word": "第一次",
+      "reading": "だいいちじ",
+      "meaning": "đầu tiên"
     }
   ]
 }

@@ -107,24 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "観",
-      "reading": "かん",
-      "meaning": "quan điểm"
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sự du lãm"
     },
     {
-      "word": "主観的観念論",
-      "reading": "しゅかんてきかんねんろん",
-      "meaning": "chủ nghĩa duy tâm chủ quan"
-    },
-    {
-      "word": "客観的観念論",
-      "reading": "きゃっかんてきかんねんろん",
-      "meaning": "chủ nghĩa duy tâm khách quan"
-    },
-    {
-      "word": "観る",
-      "reading": "みる",
-      "meaning": "quan sát"
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "sự quan sát"
     },
     {
       "word": "観念",
@@ -132,19 +122,24 @@
       "meaning": "quan niệm"
     },
     {
+      "word": "観",
+      "reading": "かん",
+      "meaning": "quan điểm"
+    },
+    {
       "word": "客観",
       "reading": "きゃっかん",
       "meaning": "khách quan"
     },
     {
-      "word": "観光",
-      "reading": "かんこう",
-      "meaning": "sự du lãm"
+      "word": "観覧",
+      "reading": "かんらん",
+      "meaning": "sự tham quan"
     },
     {
-      "word": "達観",
-      "reading": "たっかん",
-      "meaning": "sự viễn thị"
+      "word": "悲観",
+      "reading": "ひかん",
+      "meaning": "bi quan"
     },
     {
       "word": "観心",
@@ -152,9 +147,14 @@
       "meaning": "nội tâm"
     },
     {
-      "word": "史観",
-      "reading": "しかん",
-      "meaning": "quan điểm lịch sử"
+      "word": "道観",
+      "reading": "どうかん",
+      "meaning": "miếu tín đồ đạo lão"
+    },
+    {
+      "word": "観入",
+      "reading": "かんにゅう",
+      "meaning": "sự hiểu thấu"
     }
   ]
 }

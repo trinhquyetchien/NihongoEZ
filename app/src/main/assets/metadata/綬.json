@@ -31,11 +31,6 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "綬",
-      "reading": "じゅ",
-      "meaning": "cái dây"
-    },
-    {
       "word": "綬章",
       "reading": "じゅしょう",
       "meaning": "dây ruy băng"
@@ -46,19 +41,14 @@
       "meaning": "ruy băng"
     },
     {
+      "word": "綬",
+      "reading": "じゅ",
+      "meaning": "cái dây"
+    },
+    {
       "word": "小綬鶏",
       "reading": "こじゅけい",
       "meaning": "gà gô tiếng trung hoa"
-    },
-    {
-      "word": "紅綬褒章",
-      "reading": "こうじゅほうしょう",
-      "meaning": "huy chương với ruy băng đỏ"
-    },
-    {
-      "word": "紺綬褒章",
-      "reading": "こんじゅほうしょう",
-      "meaning": "huy chương với ruy băng xanh đậm"
     },
     {
       "word": "紫綬褒章",
@@ -66,19 +56,29 @@
       "meaning": "huân chương bảo thưởng có dải tím"
     },
     {
-      "word": "紫綬褒賞",
-      "reading": "しじゅほうしょう",
-      "meaning": "huy chương tặng thưởng cho thành tích uyên bác hoặc nghệ thuật)"
+      "word": "旭日小綬章",
+      "reading": "きょくじつしょうじゅしょう",
+      "meaning": "huân chương ánh sáng mặt trời hạng nhỏ"
     },
     {
-      "word": "緑綬褒章",
-      "reading": "りょくじゅほうしょう",
-      "meaning": "huy chương với một ruy băng xanh lục"
+      "word": "桐花大綬章",
+      "reading": "とうかだいじゅしょう",
+      "meaning": "huân chương đồng hoa"
     },
     {
-      "word": "藍綬褒章",
-      "reading": "らんじゅほうしょう",
-      "meaning": "huân chương băng xanh"
+      "word": "旭日中綬章",
+      "reading": "きょくじつちゅうじゅしょう",
+      "meaning": "huân chương ánh sáng mặt trời hạng trung"
+    },
+    {
+      "word": "旭日大綬章",
+      "reading": "きょくじつだいじゅしょう",
+      "meaning": "huân chương mặt trời mọc cao quý nhất"
+    },
+    {
+      "word": "宝冠大綬章",
+      "reading": "ほうかんだいじゅしょう",
+      "meaning": "huân chương đại thụ bảo quan"
     }
   ]
 }

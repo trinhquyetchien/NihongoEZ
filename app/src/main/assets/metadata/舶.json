@@ -84,26 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "舶",
-      "reading": "つむ",
-      "meaning": "tàu thuyền"
-    },
-    {
-      "word": "巨舶",
-      "reading": "きょはく",
-      "meaning": "hàng đại dương"
-    },
-    {
-      "word": "舶載",
-      "reading": "はくさい",
-      "meaning": "việc vận chuyển bằng tàu"
-    },
-    {
-      "word": "舶来",
-      "reading": "はくらい",
-      "meaning": "nhập khẩu"
-    },
-    {
       "word": "船舶",
       "reading": "せんぱく",
       "meaning": "tàu thuỷ"
@@ -114,19 +94,39 @@
       "meaning": "công nghiệp hàng hải"
     },
     {
-      "word": "舶来品",
-      "reading": "はくらいひん",
-      "meaning": "hàng nhập khẩu"
-    },
-    {
       "word": "船舶灯",
       "reading": "せんぱくともしび",
       "meaning": "đèn tàu"
     },
     {
-      "word": "船舶職員",
-      "reading": "せんぱくしょくいん",
-      "meaning": "người làm việc trên thuyền"
+      "word": "舶来",
+      "reading": "はくらい",
+      "meaning": "nhập khẩu"
+    },
+    {
+      "word": "舶来品",
+      "reading": "はくらいひん",
+      "meaning": "hàng nhập khẩu"
+    },
+    {
+      "word": "舶",
+      "reading": "つむ",
+      "meaning": "tàu thuyền"
+    },
+    {
+      "word": "舶載",
+      "reading": "はくさい",
+      "meaning": "việc vận chuyển bằng tàu"
+    },
+    {
+      "word": "巨舶",
+      "reading": "きょはく",
+      "meaning": "hàng đại dương"
+    },
+    {
+      "word": "船舶安全法",
+      "reading": "せんぱくあんぜんほう",
+      "meaning": "luật an toàn tàu biển"
     },
     {
       "word": "船舶保険",

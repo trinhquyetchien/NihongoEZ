@@ -66,44 +66,9 @@
   ],
   "vocabulary": [
     {
-      "word": "乾蝕",
-      "reading": "かんしょく",
-      "meaning": "đồ hộp"
-    },
-    {
-      "word": "海蝕",
-      "reading": "かいしょく",
-      "meaning": "sự làm mòn biển"
-    },
-    {
-      "word": "氷蝕",
-      "reading": "ひょうしょく",
-      "meaning": "hiện tượng bị xâm thực do băng"
-    },
-    {
-      "word": "日蝕",
-      "reading": "にっしょく",
-      "meaning": "hiện tượng nhật thực"
-    },
-    {
-      "word": "侵蝕",
-      "reading": "しんしょく",
-      "meaning": "sự ăn mòn"
-    },
-    {
       "word": "蝕む",
       "reading": "むしばむ",
       "meaning": "đục khoét"
-    },
-    {
-      "word": "腐蝕",
-      "reading": "ふしょく",
-      "meaning": "sự ăn mòn"
-    },
-    {
-      "word": "分蝕",
-      "reading": "ぶんしょく",
-      "meaning": "nhật thực một phần hoặc nguyệt thực một phần"
     },
     {
       "word": "月蝕",
@@ -111,9 +76,44 @@
       "meaning": "nguyệt thực"
     },
     {
-      "word": "浸蝕",
+      "word": "乾蝕",
+      "reading": "かんしょく",
+      "meaning": "đồ hộp"
+    },
+    {
+      "word": "氷蝕",
+      "reading": "ひょうしょく",
+      "meaning": "hiện tượng bị xâm thực do băng"
+    },
+    {
+      "word": "分蝕",
+      "reading": "ぶんしょく",
+      "meaning": "nhật thực một phần hoặc nguyệt thực một phần"
+    },
+    {
+      "word": "う蝕",
+      "reading": "うしょく",
+      "meaning": "sâu răng"
+    },
+    {
+      "word": "侵蝕",
       "reading": "しんしょく",
-      "meaning": "sự xói mòn"
+      "meaning": "sự ăn mòn"
+    },
+    {
+      "word": "日蝕",
+      "reading": "にっしょく",
+      "meaning": "hiện tượng nhật thực"
+    },
+    {
+      "word": "金環蝕",
+      "reading": "きんかんしょく",
+      "meaning": "nguyệt thực hình khuyên"
+    },
+    {
+      "word": "腐蝕",
+      "reading": "ふしょく",
+      "meaning": "sự ăn mòn"
     }
   ]
 }

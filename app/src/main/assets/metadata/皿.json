@@ -106,44 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "皿",
-      "reading": "さら",
-      "meaning": "dĩa"
-    },
-    {
-      "word": "受け皿",
-      "reading": "うけざら",
-      "meaning": "đĩa nông"
-    },
-    {
-      "word": "ガラス製蒸発皿/時計皿",
-      "reading": "ガラスせいじょうはつざら/とけいさら",
-      "meaning": "ống so màu"
-    },
-    {
-      "word": "目皿",
-      "reading": "めざら",
-      "meaning": "lưới lược rác"
-    },
-    {
-      "word": "オードブル皿",
-      "reading": "オードブルさら",
-      "meaning": "đĩa đựng món khai vị"
-    },
-    {
       "word": "お皿",
       "reading": "おさら",
       "meaning": "đĩa"
     },
     {
-      "word": "スープ皿",
-      "reading": "スープざら",
-      "meaning": "bát súp"
+      "word": "灰皿",
+      "reading": "はいざら",
+      "meaning": "gạt tàn"
     },
     {
-      "word": "深皿",
-      "reading": "ふかざら",
-      "meaning": "đĩa sâu lòng"
+      "word": "皿",
+      "reading": "さら",
+      "meaning": "dĩa"
     },
     {
       "word": "中皿",
@@ -151,9 +126,34 @@
       "meaning": "đĩa trung"
     },
     {
-      "word": "大皿",
-      "reading": "おおざら",
-      "meaning": "cái đĩa lớn"
+      "word": "一皿",
+      "reading": "ひとさら",
+      "meaning": "một đĩa"
+    },
+    {
+      "word": "目皿",
+      "reading": "めざら",
+      "meaning": "lưới lược rác"
+    },
+    {
+      "word": "頭の皿",
+      "reading": "あたまのさら",
+      "meaning": "phần phẳng của não"
+    },
+    {
+      "word": "長皿",
+      "reading": "ちょうさら",
+      "meaning": "đĩa dài"
+    },
+    {
+      "word": "絵皿",
+      "reading": "えざら",
+      "meaning": "màu sắc riêng"
+    },
+    {
+      "word": "肉皿",
+      "reading": "にくさら",
+      "meaning": "đĩa thịt"
     }
   ]
 }

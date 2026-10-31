@@ -108,39 +108,34 @@
   ],
   "vocabulary": [
     {
-      "word": "習習",
-      "reading": "しゅうしゅう",
-      "meaning": "làn gió nhẹ nhàng"
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "sự luyện tập"
     },
     {
-      "word": "武術を習い習う",
-      "reading": "ぶじゅつをならいならう",
-      "meaning": "tập võ"
+      "word": "習う",
+      "reading": "ならう",
+      "meaning": "học tập"
     },
     {
-      "word": "講習",
-      "reading": "こうしゅう",
-      "meaning": "hướng ngắn"
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "lề"
     },
     {
-      "word": "習い",
-      "reading": "ならい",
-      "meaning": "học"
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "sự ôn tập"
     },
     {
-      "word": "習熟",
-      "reading": "しゅうじゅく",
-      "meaning": "sự thành thạo"
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "sự soạn bài"
     },
     {
-      "word": "習性",
-      "reading": "しゅうせい",
-      "meaning": "nét"
-    },
-    {
-      "word": "常習",
-      "reading": "じょうしゅう",
-      "meaning": "thói quen thông thường"
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "đèn sách"
     },
     {
       "word": "実習",
@@ -153,9 +148,14 @@
       "meaning": "sự tự ôn tập"
     },
     {
-      "word": "習う",
-      "reading": "ならう",
-      "meaning": "học tập"
+      "word": "習字",
+      "reading": "しゅうじ",
+      "meaning": "sự luyện tập chữ"
+    },
+    {
+      "word": "演習",
+      "reading": "えんしゅう",
+      "meaning": "diễn tập"
     }
   ]
 }

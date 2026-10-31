@@ -56,9 +56,19 @@
       "meaning": "mủ"
     },
     {
-      "word": "膿瘡",
-      "reading": "のうそう",
-      "meaning": "chốc loét"
+      "word": "膿皮症",
+      "reading": "のうかわしょう",
+      "meaning": "viêm da mủ"
+    },
+    {
+      "word": "緑膿菌",
+      "reading": "りょくのうきん",
+      "meaning": "trực khuẩn mủ xanh"
+    },
+    {
+      "word": "膿尿",
+      "reading": "のうにょう",
+      "meaning": "pyuria"
     },
     {
       "word": "膿盆",
@@ -66,39 +76,29 @@
       "meaning": "chậu chứa mủ"
     },
     {
-      "word": "膿む",
-      "reading": "うむ",
-      "meaning": "mưng mủ"
-    },
-    {
-      "word": "膿疱",
-      "reading": "のうほう",
-      "meaning": "mụn"
-    },
-    {
-      "word": "膿瘍",
-      "reading": "のうよう",
-      "meaning": "mụn nhọt"
-    },
-    {
-      "word": "膿汁",
-      "reading": "のうじゅう",
-      "meaning": "mủ"
-    },
-    {
-      "word": "膿胸",
-      "reading": "のうきょう",
-      "meaning": "số nhiều pontes"
-    },
-    {
-      "word": "血膿",
-      "reading": "ちうみ",
-      "meaning": "mưng mủ"
+      "word": "膿腎症",
+      "reading": "のうじんしょう",
+      "meaning": "hư thận có mủ"
     },
     {
       "word": "化膿",
       "reading": "かのう",
       "meaning": "sự mưng mủ"
+    },
+    {
+      "word": "化膿菌",
+      "reading": "かのうきん",
+      "meaning": "vi khuẩn gây mưng mủ"
+    },
+    {
+      "word": "膿瘡",
+      "reading": "のうそう",
+      "meaning": "chốc loét"
+    },
+    {
+      "word": "膿瘍",
+      "reading": "のうよう",
+      "meaning": "mụn nhọt"
     }
   ]
 }

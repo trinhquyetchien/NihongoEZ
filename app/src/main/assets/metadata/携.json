@@ -95,39 +95,14 @@
       "meaning": "điện thoại di động"
     },
     {
-      "word": "携行",
-      "reading": "けいこう",
-      "meaning": "mang theo người"
-    },
-    {
-      "word": "携番",
-      "reading": "けいばん",
-      "meaning": "số điện thoại di động"
-    },
-    {
       "word": "提携",
       "reading": "ていけい",
       "meaning": "sự hợp tác"
     },
     {
-      "word": "必携",
-      "reading": "ひっけい",
-      "meaning": "sổ tay"
-    },
-    {
-      "word": "連携",
-      "reading": "れんけい",
-      "meaning": "sự hợp tác"
-    },
-    {
-      "word": "ガラ携",
-      "reading": "ガラけい",
-      "meaning": "điện thoại gập"
-    },
-    {
-      "word": "携挙",
-      "reading": "けいきょ",
-      "meaning": "trạng thái xuất thần"
+      "word": "携わる",
+      "reading": "たずさわる",
+      "meaning": "tham gia vào việc"
     },
     {
       "word": "携行缶",
@@ -135,9 +110,34 @@
       "meaning": "hộp"
     },
     {
-      "word": "携える",
-      "reading": "たずさえる",
-      "meaning": "cùng đi"
+      "word": "携帯用",
+      "reading": "けいたいよう",
+      "meaning": "di động"
+    },
+    {
+      "word": "携帯型",
+      "reading": "けいたいがた",
+      "meaning": "dạng cầm tay"
+    },
+    {
+      "word": "携帯品",
+      "reading": "けいたいひん",
+      "meaning": "những hiệu ứng cá nhân"
+    },
+    {
+      "word": "連携",
+      "reading": "れんけい",
+      "meaning": "sự hợp tác"
+    },
+    {
+      "word": "提携先",
+      "reading": "ていけいさき",
+      "meaning": "đối tác thương mại"
+    },
+    {
+      "word": "携行",
+      "reading": "けいこう",
+      "meaning": "mang theo người"
     }
   ]
 }

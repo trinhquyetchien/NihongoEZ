@@ -89,24 +89,14 @@
   ],
   "vocabulary": [
     {
+      "word": "亜科",
+      "reading": "あか",
+      "meaning": "phân họ"
+    },
+    {
       "word": "亜",
       "reading": "あ",
       "meaning": "phụ"
-    },
-    {
-      "word": "亜細亜",
-      "reading": "アジア",
-      "meaning": "người châu a"
-    },
-    {
-      "word": "亜剌比亜",
-      "reading": "アラビア",
-      "meaning": "arabia"
-    },
-    {
-      "word": "亜拉毘亜",
-      "reading": "アラビア",
-      "meaning": "arabia"
     },
     {
       "word": "亜人",
@@ -114,14 +104,24 @@
       "meaning": "á nhân"
     },
     {
-      "word": "亜鉛",
-      "reading": "あえん",
-      "meaning": "kẽm"
+      "word": "亜目",
+      "reading": "あもく",
+      "meaning": "phân bộ"
     },
     {
-      "word": "興亜",
-      "reading": "こうあ",
-      "meaning": "sự phát triển vùng châu á"
+      "word": "次亜",
+      "reading": "じあ",
+      "meaning": "tiền tố hypo"
+    },
+    {
+      "word": "亜父",
+      "reading": "あふ",
+      "meaning": "người cha tinh thần"
+    },
+    {
+      "word": "亜種",
+      "reading": "あしゅ",
+      "meaning": "loài phụ"
     },
     {
       "word": "亜界",
@@ -129,14 +129,14 @@
       "meaning": "phân giới"
     },
     {
-      "word": "欧亜",
-      "reading": "おうあ",
-      "meaning": "âu á"
+      "word": "亜空間",
+      "reading": "あくうかん",
+      "meaning": "siêu không gian"
     },
     {
-      "word": "亜族",
-      "reading": "あぞく",
-      "meaning": "phân nhóm phụ của bảng tuần hoàn các nguyên tố hoá học"
+      "word": "特亜",
+      "reading": "とくア",
+      "meaning": "các quốc gia châu á đặc biệt"
     }
   ]
 }

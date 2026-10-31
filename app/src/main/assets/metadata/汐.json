@@ -88,14 +88,19 @@
   ],
   "vocabulary": [
     {
+      "word": "引き汐",
+      "reading": "ひきしお",
+      "meaning": "triều xuống"
+    },
+    {
+      "word": "汐合い",
+      "reading": "しおあい",
+      "meaning": "cơ hội"
+    },
+    {
       "word": "潮汐",
       "reading": "ちょうせき",
       "meaning": "thủy triều"
-    },
-    {
-      "word": "汐汲み",
-      "reading": "しおくみ",
-      "meaning": "người mà vẽ rót nước từ biển"
     },
     {
       "word": "潮汐表",
@@ -108,24 +113,19 @@
       "meaning": "lực thủy triều"
     },
     {
-      "word": "引き汐",
-      "reading": "ひきしお",
-      "meaning": "triều xuống"
-    },
-    {
-      "word": "汐合い",
-      "reading": "しおあい",
-      "meaning": "cơ hội"
-    },
-    {
-      "word": "潮汐摩擦",
-      "reading": "ちょうせきまさつ",
-      "meaning": "ma sát thủy triều"
+      "word": "汐汲み",
+      "reading": "しおくみ",
+      "meaning": "người mà vẽ rót nước từ biển"
     },
     {
       "word": "汐干狩り",
       "reading": "しおひがり",
       "meaning": "sự thu nhặt vỏ thấp thủy triều)"
+    },
+    {
+      "word": "潮汐摩擦",
+      "reading": "ちょうせきまさつ",
+      "meaning": "ma sát thủy triều"
     }
   ]
 }

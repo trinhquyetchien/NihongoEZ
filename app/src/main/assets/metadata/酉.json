@@ -90,14 +90,14 @@
       "meaning": "dậu"
     },
     {
-      "word": "日読みの酉",
-      "reading": "ひよみのとり",
-      "meaning": "bộ thủ 酉 trong kanji"
+      "word": "酉年",
+      "reading": "とりどし",
+      "meaning": "năm dậu"
     },
     {
-      "word": "辛酉",
-      "reading": "かのととり",
-      "meaning": "tân dậu"
+      "word": "酉の日",
+      "reading": "とりのひ",
+      "meaning": "ngày dậu"
     },
     {
       "word": "丁酉",
@@ -105,24 +105,14 @@
       "meaning": "đinh dậu"
     },
     {
-      "word": "酉偏",
-      "reading": "とりへん",
-      "meaning": "bộ dậu trong hán tự"
-    },
-    {
-      "word": "酉年",
-      "reading": "とりどし",
-      "meaning": "năm dậu"
-    },
-    {
-      "word": "癸酉",
-      "reading": "みずのととり",
-      "meaning": "năm quý dậu"
-    },
-    {
       "word": "乙酉",
       "reading": "きのととり",
       "meaning": "ất dậu (kết hợp thứ 22 trong hệ thống đánh số can chi của người á đông"
+    },
+    {
+      "word": "辛酉",
+      "reading": "かのととり",
+      "meaning": "tân dậu"
     },
     {
       "word": "己酉",
@@ -130,9 +120,19 @@
       "meaning": "năm kỷ dậu"
     },
     {
+      "word": "癸酉",
+      "reading": "みずのととり",
+      "meaning": "năm quý dậu"
+    },
+    {
       "word": "酉の市",
       "reading": "とりのいち",
       "meaning": "ngày chim"
+    },
+    {
+      "word": "酉偏",
+      "reading": "とりへん",
+      "meaning": "bộ dậu trong hán tự"
     }
   ]
 }

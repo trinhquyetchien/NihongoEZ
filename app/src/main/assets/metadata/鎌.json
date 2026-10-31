@@ -92,29 +92,9 @@
       "meaning": "liềm"
     },
     {
-      "word": "鎌柄",
-      "reading": "かまつか",
-      "meaning": "photinia villosa"
-    },
-    {
-      "word": "鉈鎌",
-      "reading": "なたがま",
-      "meaning": "hóa đơn"
-    },
-    {
-      "word": "鋸鎌",
-      "reading": "のこぎりがま",
-      "meaning": "lưỡi liềm"
-    },
-    {
-      "word": "草鎌",
-      "reading": "くさがま",
-      "meaning": "liềm cỏ"
-    },
-    {
-      "word": "鎌髭",
-      "reading": "かまひげ",
-      "meaning": "ria mép hình lưỡi liềm"
+      "word": "鎌入れ",
+      "reading": "かまいれ",
+      "meaning": "gặt hái"
     },
     {
       "word": "鎌足",
@@ -122,19 +102,39 @@
       "meaning": "chân vòng kiềng"
     },
     {
-      "word": "鎌首",
-      "reading": "かまくび",
-      "meaning": "vật cong như cổ ngỗng"
+      "word": "地域鎌",
+      "reading": "ちいきかま",
+      "meaning": "liềm địa phương"
     },
     {
-      "word": "鎌鼬",
-      "reading": "かまいたち",
-      "meaning": "hiện tượng da bị nứt nẻ giống như vết liềm cứa vào"
+      "word": "草鎌",
+      "reading": "くさがま",
+      "meaning": "liềm cỏ"
     },
     {
-      "word": "大鎌",
-      "reading": "おおがま",
-      "meaning": "cái hái hớt cỏ"
+      "word": "鎌状",
+      "reading": "かまじょう",
+      "meaning": "hình lưỡi liềm"
+    },
+    {
+      "word": "鎌柄",
+      "reading": "かまつか",
+      "meaning": "photinia villosa"
+    },
+    {
+      "word": "鎌脚虫",
+      "reading": "かまあしむし",
+      "meaning": "proturan"
+    },
+    {
+      "word": "厚鎌",
+      "reading": "あつがま",
+      "meaning": "liềm dày"
+    },
+    {
+      "word": "中厚鎌",
+      "reading": "なかあつがま",
+      "meaning": "liềm trung dày"
     }
   ]
 }

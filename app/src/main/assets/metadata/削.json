@@ -91,24 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "削",
-      "reading": "さく",
-      "meaning": "dao cạo"
-    },
-    {
-      "word": "ひ削面",
-      "reading": "被削面",
-      "meaning": "mặt gia công"
-    },
-    {
-      "word": "削皮じゅつ",
-      "reading": "削皮術",
-      "meaning": "mài mòn da"
-    },
-    {
       "word": "削除",
       "reading": "さくじょ",
       "meaning": "sự gạch bỏ"
+    },
+    {
+      "word": "削る",
+      "reading": "けずる",
+      "meaning": "chuốt"
+    },
+    {
+      "word": "削減",
+      "reading": "さくげん",
+      "meaning": "sự cắt giảm"
+    },
+    {
+      "word": "無削除",
+      "reading": "むさくじょ",
+      "meaning": "không xóa bỏ"
     },
     {
       "word": "削り",
@@ -116,29 +116,29 @@
       "meaning": "máy cắt"
     },
     {
-      "word": "削摩",
-      "reading": "さくま",
-      "meaning": "sự mài mòn"
+      "word": "削り人",
+      "reading": "",
+      "meaning": "thợ cưa"
     },
     {
-      "word": "削片",
-      "reading": "さくへん",
-      "meaning": "mảnh vụn"
+      "word": "削り代",
+      "reading": "けずりしろ",
+      "meaning": "phần dư để gia công"
     },
     {
-      "word": "旋削",
-      "reading": "せんさく",
-      "meaning": "xoay một máy tiện)"
+      "word": "削り花",
+      "reading": "けずりばな",
+      "meaning": "mảnh vụn bào giống hình hoa từ gỗ"
     },
     {
-      "word": "開削",
-      "reading": "かいさく",
-      "meaning": "đào"
+      "word": "草削り",
+      "reading": "くさけずり",
+      "meaning": "dao cạo cỏ"
     },
     {
-      "word": "削ぐ",
-      "reading": "そぐ",
-      "meaning": "mất hứng"
+      "word": "掘削",
+      "reading": "くっさく",
+      "meaning": "sự đào"
     }
   ]
 }

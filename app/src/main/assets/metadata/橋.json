@@ -111,19 +111,19 @@
       "meaning": "cầu"
     },
     {
+      "word": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "cầu bằng sắt thép"
+    },
+    {
       "word": "桟橋",
       "reading": "さんばし",
       "meaning": "bến tàu"
     },
     {
-      "word": "仮橋",
-      "reading": "かりばし",
-      "meaning": "cầu tạm"
-    },
-    {
-      "word": "艦橋",
-      "reading": "かんきょう",
-      "meaning": "bắc cầu qua"
+      "word": "名橋",
+      "reading": "めいきょう",
+      "meaning": "cây cầu nổi tiếng"
     },
     {
       "word": "脳橋",
@@ -131,29 +131,29 @@
       "meaning": "cầu não"
     },
     {
-      "word": "橋畔",
-      "reading": "きょうはん",
-      "meaning": "gần đầu cầu"
-    },
-    {
       "word": "八橋",
       "reading": "やつはし",
-      "meaning": ""
+      "meaning": "(cây quế - cái bánh sữa kyb:)"
     },
     {
-      "word": "石橋",
-      "reading": "いしばし",
-      "meaning": "cầu đá"
+      "word": "剣橋",
+      "reading": "ケンブリッジ",
+      "meaning": "cambridge"
     },
     {
-      "word": "舟橋",
-      "reading": "ふなばし",
-      "meaning": "cầu phao"
+      "word": "塩橋",
+      "reading": "えんきょう",
+      "meaning": "salt bridge"
     },
     {
-      "word": "橋脚",
-      "reading": "きょうきゃく",
-      "meaning": "trụ cầu"
+      "word": "橋床",
+      "reading": "きょうしょう",
+      "meaning": "bản mặt cầu"
+    },
+    {
+      "word": "華橋",
+      "reading": "かきょう",
+      "meaning": "hoa kiều và trung hoa dân quốc nhưng có nguồn gốc sắc tộc là người trung quốc )"
     }
   ]
 }

@@ -90,9 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "吐気",
+      "word": "吐く",
+      "reading": "はく",
+      "meaning": "hộc"
+    },
+    {
+      "word": "吐き気",
       "reading": "はきけ",
-      "meaning": "buồn nôn"
+      "meaning": "mửa"
+    },
+    {
+      "word": "嘘吐き",
+      "reading": "うそつき",
+      "meaning": "người nói dối"
+    },
+    {
+      "word": "吐き薬",
+      "reading": "はきぐすり",
+      "meaning": "emetic"
+    },
+    {
+      "word": "吐く息",
+      "reading": "はくいき",
+      "meaning": "hơi thở"
     },
     {
       "word": "嘔吐",
@@ -100,44 +120,24 @@
       "meaning": "nôn"
     },
     {
-      "word": "吐物",
-      "reading": "とぶつ",
-      "meaning": "nôn"
+      "word": "嘔吐物",
+      "reading": "おうとぶつ",
+      "meaning": "chất thải nôn"
     },
     {
-      "word": "吐く",
-      "reading": "はく",
-      "meaning": "hộc"
+      "word": "嘔吐く",
+      "reading": "えずく",
+      "meaning": "nôn mửa ra"
     },
     {
-      "word": "吐出",
-      "reading": "としゅつ",
-      "meaning": "sự nôn mửa"
-    },
-    {
-      "word": "吐根",
-      "reading": "とこん",
-      "meaning": "ipecac"
-    },
-    {
-      "word": "反吐",
-      "reading": "へど",
-      "meaning": "nôn ói"
+      "word": "吐息",
+      "reading": "といき",
+      "meaning": "sự thở dài"
     },
     {
       "word": "吐露",
       "reading": "とろ",
       "meaning": "sự bày tỏ suy nghĩ"
-    },
-    {
-      "word": "呑吐",
-      "reading": "どんと",
-      "meaning": "uống và nôn ra"
-    },
-    {
-      "word": "吐剤",
-      "reading": "とざい",
-      "meaning": "thuốc gây nôn"
     }
   ]
 }

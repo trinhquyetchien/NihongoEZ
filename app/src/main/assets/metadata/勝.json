@@ -110,44 +110,29 @@
   ],
   "vocabulary": [
     {
-      "word": "勝",
-      "reading": "しょう",
-      "meaning": "thắng cảnh"
-    },
-    {
-      "word": "全勝優勝",
-      "reading": "ぜんしょうゆうしょう",
-      "meaning": "chiến thắng một giải vô địch trong sumo với một bản ghi hoàn hảo"
-    },
-    {
-      "word": "勝利又勝利",
-      "reading": "しょうりまたしょうり",
-      "meaning": "chiến thắng sau khi chiến thắng"
-    },
-    {
-      "word": "決勝",
-      "reading": "けっしょう",
-      "meaning": "quyết thắng"
-    },
-    {
-      "word": "景勝",
-      "reading": "けいしょう",
-      "meaning": "thắng cảnh"
-    },
-    {
       "word": "勝つ",
       "reading": "かつ",
       "meaning": "thắng"
     },
     {
-      "word": "勝算",
-      "reading": "しょうさん",
-      "meaning": "thăm dò chiến thắng"
+      "word": "勝ち",
+      "reading": "かち",
+      "meaning": "chiến thắng"
     },
     {
-      "word": "勝手",
-      "reading": "かって",
-      "meaning": "ích kỷ"
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "sự chiến thắng tất cả"
+    },
+    {
+      "word": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "sự thắng hay thua"
+    },
+    {
+      "word": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "sự thắng hay bại"
     },
     {
       "word": "勝利",
@@ -155,9 +140,24 @@
       "meaning": "thắng lợi"
     },
     {
-      "word": "勝負",
-      "reading": "しょうぶ",
-      "meaning": "sự thắng hay thua"
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaning": "quyết thắng"
+    },
+    {
+      "word": "勝る",
+      "reading": "まさる",
+      "meaning": "vượt trội hơn"
+    },
+    {
+      "word": "勝手",
+      "reading": "かって",
+      "meaning": "ích kỷ"
+    },
+    {
+      "word": "勝",
+      "reading": "しょう",
+      "meaning": "thắng cảnh"
     }
   ]
 }

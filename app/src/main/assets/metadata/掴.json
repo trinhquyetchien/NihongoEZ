@@ -95,34 +95,9 @@
       "meaning": "nắm chắc"
     },
     {
-      "word": "掴箸",
-      "reading": "つかみばし",
-      "meaning": "kẹp gắp"
-    },
-    {
-      "word": "掴まる",
-      "reading": "つかまる",
-      "meaning": "nắm"
-    },
-    {
       "word": "一掴み",
       "reading": "ひとつかみ",
       "meaning": "nhúm"
-    },
-    {
-      "word": "大掴み",
-      "reading": "おおづかみ",
-      "meaning": "chung chung"
-    },
-    {
-      "word": "掴み所",
-      "reading": "つかみどころ",
-      "meaning": "giữ"
-    },
-    {
-      "word": "鷲掴み",
-      "reading": "わしづかみ",
-      "meaning": "chụp giật sự cầm giữ"
     },
     {
       "word": "手掴み",
@@ -130,9 +105,34 @@
       "meaning": "sự nắm chặt"
     },
     {
-      "word": "掴み取り",
-      "reading": "つかみどり",
-      "meaning": "chụp giật"
+      "word": "鷲掴み",
+      "reading": "わしづかみ",
+      "meaning": "chụp giật sự cầm giữ"
+    },
+    {
+      "word": "掴まる",
+      "reading": "つかまる",
+      "meaning": "nắm"
+    },
+    {
+      "word": "掴み所",
+      "reading": "つかみどころ",
+      "meaning": "giữ"
+    },
+    {
+      "word": "掴箸",
+      "reading": "つかみばし",
+      "meaning": "kẹp gắp"
+    },
+    {
+      "word": "大掴み",
+      "reading": "おおづかみ",
+      "meaning": "chung chung"
+    },
+    {
+      "word": "空を掴む",
+      "reading": "くうをつかむ",
+      "meaning": "nắm bắt tình hình"
     }
   ]
 }

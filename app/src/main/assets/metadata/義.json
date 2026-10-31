@@ -104,9 +104,39 @@
   ],
   "vocabulary": [
     {
+      "word": "講義",
+      "reading": "こうぎ",
+      "meaning": "bài giảng"
+    },
+    {
+      "word": "主義",
+      "reading": "しゅぎ",
+      "meaning": "chủ nghĩa"
+    },
+    {
+      "word": "義務",
+      "reading": "ぎむ",
+      "meaning": "nghĩa vụ"
+    },
+    {
       "word": "義",
       "reading": "ぎ",
       "meaning": "công lý"
+    },
+    {
+      "word": "六義",
+      "reading": "りくぎ",
+      "meaning": "6 thể loại thơ cổ điển"
+    },
+    {
+      "word": "義塾",
+      "reading": "ぎじゅく",
+      "meaning": "trường học riêng tư"
+    },
+    {
+      "word": "古義",
+      "reading": "こぎ",
+      "meaning": "cổ nghĩa"
     },
     {
       "word": "義義",
@@ -119,39 +149,9 @@
       "meaning": "cá nekogigi"
     },
     {
-      "word": "主義",
-      "reading": "しゅぎ",
-      "meaning": "chủ nghĩa"
-    },
-    {
-      "word": "仁義",
-      "reading": "じんぎ",
-      "meaning": "nhân nghĩa"
-    },
-    {
-      "word": "義務",
-      "reading": "ぎむ",
-      "meaning": "nghĩa vụ"
-    },
-    {
-      "word": "義兄",
-      "reading": "ぎけい",
-      "meaning": "anh em kết nghĩa"
-    },
-    {
-      "word": "教義",
-      "reading": "きょうぎ",
-      "meaning": "giáo lý"
-    },
-    {
-      "word": "講義",
-      "reading": "こうぎ",
-      "meaning": "bài giảng"
-    },
-    {
-      "word": "語義",
-      "reading": "ごぎ",
-      "meaning": "có nghĩa một từ"
+      "word": "義父",
+      "reading": "ぎふ",
+      "meaning": "bố chồng"
     }
   ]
 }

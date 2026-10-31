@@ -94,29 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "略",
-      "reading": "ほぼ",
-      "meaning": "sự lược bỏ"
-    },
-    {
-      "word": "略称",
-      "reading": "りゃくしょう",
-      "meaning": "cách gọi ngắn gọn khác không phải tên chính thức"
-    },
-    {
-      "word": "略語",
-      "reading": "りゃくご",
-      "meaning": "chữ viết tắt"
-    },
-    {
       "word": "省略",
       "reading": "しょうりゃく",
       "meaning": "giản lược"
-    },
-    {
-      "word": "策略",
-      "reading": "さくりゃく",
-      "meaning": "sách lược"
     },
     {
       "word": "概略",
@@ -124,24 +104,44 @@
       "meaning": "khái lược"
     },
     {
-      "word": "略図",
-      "reading": "りゃくず",
-      "meaning": "sơ đồ"
-    },
-    {
-      "word": "軍略",
-      "reading": "ぐんりゃく",
-      "meaning": "chiến lược"
-    },
-    {
-      "word": "簡略",
-      "reading": "かんりゃく",
-      "meaning": "đơn giản"
+      "word": "略語",
+      "reading": "りゃくご",
+      "meaning": "chữ viết tắt"
     },
     {
       "word": "攻略",
       "reading": "こうりゃく",
       "meaning": "tấn công chiến lược"
+    },
+    {
+      "word": "略",
+      "reading": "ほぼ",
+      "meaning": "sự lược bỏ"
+    },
+    {
+      "word": "略名",
+      "reading": "りゃくめい",
+      "meaning": "tên viết tắt"
+    },
+    {
+      "word": "略書",
+      "reading": "りゃくしょ",
+      "meaning": "việc viết ngắn gọn"
+    },
+    {
+      "word": "史略",
+      "reading": "しりゃく",
+      "meaning": "sử lược"
+    },
+    {
+      "word": "略史",
+      "reading": "りゃくし",
+      "meaning": "lịch sử tóm tắt"
+    },
+    {
+      "word": "調略",
+      "reading": "ちょうりゃく",
+      "meaning": "kế hoạch"
     }
   ]
 }

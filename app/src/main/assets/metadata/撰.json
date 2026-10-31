@@ -86,29 +86,14 @@
   ],
   "vocabulary": [
     {
+      "word": "新撰",
+      "reading": "しんせん",
+      "meaning": "mới biên tập"
+    },
+    {
       "word": "撰",
       "reading": "せん",
       "meaning": "tuyển tập"
-    },
-    {
-      "word": "勅撰",
-      "reading": "ちょくせん",
-      "meaning": "sự biên soạn cho hoàng đế"
-    },
-    {
-      "word": "杜撰",
-      "reading": "ずさん",
-      "meaning": "không cẩn thận"
-    },
-    {
-      "word": "修撰",
-      "reading": "しゅうせん",
-      "meaning": "biên dịch"
-    },
-    {
-      "word": "特撰",
-      "reading": "とくせん",
-      "meaning": "sự lựa chọn đặc biệt"
     },
     {
       "word": "官撰",
@@ -116,24 +101,39 @@
       "meaning": "sự biên soạn chính phủ"
     },
     {
+      "word": "特撰",
+      "reading": "とくせん",
+      "meaning": "sự lựa chọn đặc biệt"
+    },
+    {
       "word": "撰録",
       "reading": "せんろく",
       "meaning": "biên tập"
     },
     {
-      "word": "撰修",
-      "reading": "せんしゅう",
-      "meaning": "biên tập"
+      "word": "修撰",
+      "reading": "しゅうせん",
+      "meaning": "biên dịch"
+    },
+    {
+      "word": "杜撰",
+      "reading": "ずさん",
+      "meaning": "không cẩn thận"
+    },
+    {
+      "word": "勅撰",
+      "reading": "ちょくせん",
+      "meaning": "sự biên soạn cho hoàng đế"
+    },
+    {
+      "word": "勅撰集",
+      "reading": "ちょくせんしゅう",
+      "meaning": "tuyển tập thơ được biên soạn theo sắc lệnh của thiên hoàng"
     },
     {
       "word": "撰述",
       "reading": "せんじゅつ",
       "meaning": "biên tập"
-    },
-    {
-      "word": "撰者",
-      "reading": "せんじゃ",
-      "meaning": "biên tập viên"
     }
   ]
 }

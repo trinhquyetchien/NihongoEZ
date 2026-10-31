@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "左遷",
-      "reading": "させん",
-      "meaning": "sự giáng chức"
-    },
-    {
-      "word": "遷客",
-      "reading": "せんかく",
-      "meaning": "đày ải người"
-    },
-    {
-      "word": "聖遷",
-      "reading": "せいせん",
-      "meaning": "hegira"
-    },
-    {
-      "word": "東遷",
-      "reading": "とうせん",
-      "meaning": "di chuyển phía đông"
+      "word": "変遷",
+      "reading": "へんせん",
+      "meaning": "sự thăng trầm"
     },
     {
       "word": "遷移",
@@ -115,29 +100,44 @@
       "meaning": "chuyển trang"
     },
     {
-      "word": "遷化",
-      "reading": "せんげ",
-      "meaning": "cái chết của một nhà sư cấp cao"
+      "word": "左遷",
+      "reading": "させん",
+      "meaning": "sự giáng chức"
     },
     {
-      "word": "遷幸",
-      "reading": "せんこう",
-      "meaning": "sự khởi hành hoàng đế từ vốn"
+      "word": "遷移図",
+      "reading": "せんいず",
+      "meaning": "sơ đồ chuyển tiếp"
     },
     {
-      "word": "遷延",
-      "reading": "せんえん",
-      "meaning": "chậm trễ"
-    },
-    {
-      "word": "遷座",
-      "reading": "せんざ",
-      "meaning": "sự tái định vị một miếu thờ"
+      "word": "遷都",
+      "reading": "せんと",
+      "meaning": "sự dời đô"
     },
     {
       "word": "遷宮",
       "reading": "せんぐう",
       "meaning": "sự sắp đặt một thần trong một miếu thờ mới"
+    },
+    {
+      "word": "遷宮祭",
+      "reading": "せんぐうさい",
+      "meaning": "lễ chuyển giao"
+    },
+    {
+      "word": "聖遷",
+      "reading": "せいせん",
+      "meaning": "hegira"
+    },
+    {
+      "word": "三遷",
+      "reading": "さんせん",
+      "meaning": "ba lần chuyển nhà"
+    },
+    {
+      "word": "升遷",
+      "reading": "しょうせん",
+      "meaning": "lên lên trên"
     }
   ]
 }

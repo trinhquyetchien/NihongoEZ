@@ -50,39 +50,9 @@
   ],
   "vocabulary": [
     {
-      "word": "灸",
-      "reading": "きゅう",
-      "meaning": "giác hơi"
-    },
-    {
       "word": "お灸",
       "reading": "おきゅう",
       "meaning": "cứu ngải"
-    },
-    {
-      "word": "灸虫",
-      "reading": "やいとむし",
-      "meaning": "bọ roi schizomida"
-    },
-    {
-      "word": "温灸",
-      "reading": "おんきゅう",
-      "meaning": "phương pháp ngăn ngừa các vết mốc"
-    },
-    {
-      "word": "灸治",
-      "reading": "きゅうじ",
-      "meaning": "trị liệu bằng moxa"
-    },
-    {
-      "word": "灸点",
-      "reading": "きゅうてん",
-      "meaning": "những điểm điều trị bằng moxa"
-    },
-    {
-      "word": "針灸",
-      "reading": "しんきゅう",
-      "meaning": "pháp châm cứu"
     },
     {
       "word": "鍼灸",
@@ -90,14 +60,44 @@
       "meaning": "châm cứu"
     },
     {
+      "word": "鍼灸師",
+      "reading": "しんきゅうし",
+      "meaning": "bác sĩ châm cứu"
+    },
+    {
       "word": "鍼灸院",
       "reading": "しんきゅういん",
       "meaning": "bệnh viện châm cứu"
     },
     {
-      "word": "鍼灸師",
-      "reading": "しんきゅうし",
-      "meaning": "bác sĩ châm cứu"
+      "word": "灸",
+      "reading": "きゅう",
+      "meaning": "giác hơi"
+    },
+    {
+      "word": "灸虫",
+      "reading": "やいとむし",
+      "meaning": "bọ roi schizomida"
+    },
+    {
+      "word": "灸療法",
+      "reading": "きゅうりょうほう",
+      "meaning": "liệu pháp chữa bệnh bằng ngải"
+    },
+    {
+      "word": "針灸",
+      "reading": "しんきゅう",
+      "meaning": "pháp châm cứu"
+    },
+    {
+      "word": "灸羽田",
+      "reading": "やいとはた",
+      "meaning": "cá song điểm gai"
+    },
+    {
+      "word": "温灸",
+      "reading": "おんきゅう",
+      "meaning": "phương pháp ngăn ngừa các vết mốc"
     }
   ]
 }

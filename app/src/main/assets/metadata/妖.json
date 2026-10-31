@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "妖魔",
-      "reading": "ようま",
-      "meaning": "ma"
-    },
-    {
-      "word": "幻妖",
-      "reading": "げんよう",
+      "word": "妖怪",
+      "reading": "ようかい",
       "meaning": "quái vật"
     },
     {
-      "word": "妖雲",
-      "reading": "よううん",
-      "meaning": "mây báo điềm gở"
+      "word": "妖精",
+      "reading": "ようせい",
+      "meaning": "nàng tiên"
     },
     {
-      "word": "面妖",
-      "reading": "めんよう",
-      "meaning": "số phận"
-    },
-    {
-      "word": "妖気",
-      "reading": "ようき",
-      "meaning": "giống như ma quỉ"
-    },
-    {
-      "word": "妖婦",
-      "reading": "ようふ",
-      "meaning": "người đàn bà bỏ bùa mê"
-    },
-    {
-      "word": "妖女",
-      "reading": "ようじょ",
-      "meaning": "mụ phù thuỷ"
-    },
-    {
-      "word": "妖婆",
-      "reading": "ようば",
-      "meaning": "mụ phù thuỷ"
-    },
-    {
-      "word": "妖異",
-      "reading": "ようい",
-      "meaning": "sự kiện huyền bí"
+      "word": "大妖",
+      "reading": "たいよう",
+      "meaning": "yêu quái lớn"
     },
     {
       "word": "妖艶",
       "reading": "ようえん",
       "meaning": "làm mê"
+    },
+    {
+      "word": "妖魔",
+      "reading": "ようま",
+      "meaning": "ma"
+    },
+    {
+      "word": "妖狐",
+      "reading": "ようこ",
+      "meaning": "yêu tinh cáo"
+    },
+    {
+      "word": "妖刀",
+      "reading": "ようとう",
+      "meaning": "thanh kiếm ma quái"
+    },
+    {
+      "word": "妖術",
+      "reading": "ようじゅつ",
+      "meaning": "yêu thuật"
+    },
+    {
+      "word": "妖術師",
+      "reading": "ようじゅつし",
+      "meaning": "pháp sư yêu thuật"
+    },
+    {
+      "word": "妖術者",
+      "reading": "ようじゅつしゃ",
+      "meaning": "thuật sĩ"
     }
   ]
 }

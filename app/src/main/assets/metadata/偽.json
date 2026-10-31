@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "偽",
-      "reading": "にせ",
-      "meaning": "sự bắt chước"
-    },
-    {
-      "word": "虚偽",
-      "reading": "きょぎ",
-      "meaning": "sự giả dối"
-    },
-    {
-      "word": "偽善",
-      "reading": "ぎぜん",
-      "meaning": "đạo đức giả"
-    },
-    {
       "word": "偽物",
       "reading": "にせもの",
       "meaning": "đồ giả"
     },
     {
-      "word": "偽札",
-      "reading": "にせさつ",
-      "meaning": "giả mạo tiền giấy"
+      "word": "偽造",
+      "reading": "ぎぞう",
+      "meaning": "sự làm giả"
     },
     {
-      "word": "偽計",
-      "reading": "ぎけい",
-      "meaning": "xảo kế"
+      "word": "偽",
+      "reading": "にせ",
+      "meaning": "sự bắt chước"
     },
     {
-      "word": "偽証",
-      "reading": "ぎしょう",
-      "meaning": "sự khai man trước tòa"
-    },
-    {
-      "word": "偽報",
-      "reading": "ぎほう",
-      "meaning": "sai báo cáo"
-    },
-    {
-      "word": "偽金",
-      "reading": "にせがね",
-      "meaning": "tiền giả"
-    },
-    {
-      "word": "偽誓",
+      "word": "偽性",
       "reading": "ぎせい",
-      "meaning": "sự thề ẩu"
+      "meaning": "giả"
+    },
+    {
+      "word": "偽本",
+      "reading": "ぎほん",
+      "meaning": "sự giả mạo"
+    },
+    {
+      "word": "偽版",
+      "reading": "ぎはん",
+      "meaning": "bản khắc gỗ giả"
+    },
+    {
+      "word": "偽商品",
+      "reading": "にせしょうひん",
+      "meaning": "hàng giả"
+    },
+    {
+      "word": "偽学",
+      "reading": "ぎがく",
+      "meaning": "khoa học sai"
+    },
+    {
+      "word": "偽兵",
+      "reading": "ぎへい",
+      "meaning": "hình nộm đi lính"
+    },
+    {
+      "word": "偽史",
+      "reading": "ぎし",
+      "meaning": "làm giả lịch sử"
     }
   ]
 }

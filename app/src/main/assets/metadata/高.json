@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "cao"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "cao tốc"
+    },
+    {
+      "word": "高価",
+      "reading": "こうか",
+      "meaning": "đắt"
+    },
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "cao cấp"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "độ cao"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "cao đẳng"
+    },
+    {
+      "word": "高層",
+      "reading": "こうそう",
+      "meaning": "cao tầng"
+    },
+    {
       "word": "高",
       "reading": "たか",
       "meaning": "cao"
     },
     {
-      "word": "高高",
-      "reading": "たかだか",
-      "meaning": "chính cao"
+      "word": "高原",
+      "reading": "こうげん",
+      "meaning": "cao nguyên"
     },
     {
-      "word": "高高度",
-      "reading": "こうこうど",
-      "meaning": "độ cao cao"
-    },
-    {
-      "word": "高高指",
-      "reading": "たかたかゆび",
-      "meaning": "ngón tay giữa"
-    },
-    {
-      "word": "鼻高高",
-      "reading": "はなたかだか",
-      "meaning": "hãnh diện"
-    },
-    {
-      "word": "高高と",
-      "reading": "たかだかと",
-      "meaning": "cao"
-    },
-    {
-      "word": "高位高官",
-      "reading": "こういこうかん",
-      "meaning": "người có chức vụ cao"
-    },
-    {
-      "word": "高高度飛行",
-      "reading": "こうこうどひこう",
-      "meaning": "bay độ cao cao"
-    },
-    {
-      "word": "高ピー",
-      "reading": "たかピー",
-      "meaning": "hống hách"
-    },
-    {
-      "word": "高ビー",
-      "reading": "たかビー",
-      "meaning": "kiêu ngạo"
+      "word": "高一",
+      "reading": "こういち",
+      "meaning": "năm nhất trung học phổ thông hoặc năm nhất trường cấp 3"
     }
   ]
 }

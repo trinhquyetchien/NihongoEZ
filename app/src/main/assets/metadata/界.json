@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "界",
-      "reading": "かい",
-      "meaning": "địa tầng"
-    },
-    {
-      "word": "視界",
-      "reading": "しかい",
-      "meaning": "tầm hiểu biết"
-    },
-    {
-      "word": "星界",
-      "reading": "せいかい",
-      "meaning": "thế giới sao"
+      "word": "世界",
+      "reading": "せかい",
+      "meaning": "thế giới"
     },
     {
       "word": "限界",
@@ -107,19 +97,29 @@
       "meaning": "giới hạn"
     },
     {
+      "word": "境界",
+      "reading": "きょうかい",
+      "meaning": "biên giới"
+    },
+    {
       "word": "業界",
       "reading": "ぎょうかい",
       "meaning": "ngành"
     },
     {
-      "word": "財界",
-      "reading": "ざいかい",
-      "meaning": "giới tài chính"
+      "word": "界",
+      "reading": "かい",
+      "meaning": "địa tầng"
     },
     {
-      "word": "眼界",
-      "reading": "がんかい",
-      "meaning": "tầm nhìn"
+      "word": "上界",
+      "reading": "じょうかい",
+      "meaning": "giới hạn trên"
+    },
+    {
+      "word": "十界",
+      "reading": "じっかい",
+      "meaning": "mười cõi"
     },
     {
       "word": "地界",
@@ -127,14 +127,14 @@
       "meaning": "ranh giới"
     },
     {
-      "word": "結界",
-      "reading": "けっかい",
-      "meaning": "ranh giới giữa các tôn giáo"
+      "word": "星界",
+      "reading": "せいかい",
+      "meaning": "thế giới sao"
     },
     {
-      "word": "筆界",
-      "reading": "ひつかい",
-      "meaning": "ranh giới theo luật công"
+      "word": "異界",
+      "reading": "いかい",
+      "meaning": "thế giới ngầm"
     }
   ]
 }

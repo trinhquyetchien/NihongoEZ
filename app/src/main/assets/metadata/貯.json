@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "郵貯",
-      "reading": "ゆうちょ",
-      "meaning": "tiết kiệm bưu điện"
-    },
-    {
-      "word": "貯留",
-      "reading": "ちょりゅう",
-      "meaning": "sự chồng chất"
-    },
-    {
-      "word": "貯水",
-      "reading": "ちょすい",
-      "meaning": "sự trữ nước"
+      "word": "貯金",
+      "reading": "ちょきん",
+      "meaning": "tiền tiết kiệm gửi ngân hàng"
     },
     {
       "word": "貯蔵",
@@ -110,34 +100,44 @@
       "meaning": "dự trữ"
     },
     {
-      "word": "貯え",
-      "reading": "たくわえ",
-      "meaning": "dự trữ"
-    },
-    {
-      "word": "貯炭",
-      "reading": "ちょたん",
-      "meaning": "than được lưu trữ"
-    },
-    {
-      "word": "貯木",
-      "reading": "ちょぼく",
-      "meaning": "sự cất trữ gỗ"
-    },
-    {
-      "word": "貯金",
-      "reading": "ちょきん",
-      "meaning": "tiền tiết kiệm gửi ngân hàng"
-    },
-    {
       "word": "貯蓄",
       "reading": "ちょちく",
       "meaning": "sự tiết kiệm"
     },
     {
-      "word": "貯える",
-      "reading": "たくわえる",
-      "meaning": "bòn"
+      "word": "貯金箱",
+      "reading": "ちょきんばこ",
+      "meaning": "hộp tiết kiệm"
+    },
+    {
+      "word": "貯金局",
+      "reading": "ちょきんきょく",
+      "meaning": "bưu điện cất giữ văn phòng"
+    },
+    {
+      "word": "貯金帳",
+      "reading": "ちょきんちょう",
+      "meaning": "sổ tiết kiệm"
+    },
+    {
+      "word": "貯蔵物",
+      "reading": "ちょぞうぶつ",
+      "meaning": "sự dự trữ"
+    },
+    {
+      "word": "貯蔵所",
+      "reading": "ちょぞうしょ",
+      "meaning": "một chỗ kho"
+    },
+    {
+      "word": "貯蔵室",
+      "reading": "ちょぞうしつ",
+      "meaning": "buồng kho"
+    },
+    {
+      "word": "貯蔵品",
+      "reading": "ちょぞうひん",
+      "meaning": "hàng lưu kho"
     }
   ]
 }

@@ -107,24 +107,39 @@
   ],
   "vocabulary": [
     {
-      "word": "得",
-      "reading": "とく",
-      "meaning": "sự ích lợi"
+      "word": "得る",
+      "reading": "える",
+      "meaning": "có thể"
     },
     {
-      "word": "得得",
-      "reading": "とくとく",
-      "meaning": "hãnh diện"
+      "word": "納得",
+      "reading": "なっとく",
+      "meaning": "thuyết phục"
     },
     {
-      "word": "得手不得手",
-      "reading": "えてふえて",
-      "meaning": "điểm mạnh và điểm yếu"
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "đắc ý"
     },
     {
-      "word": "お得",
-      "reading": "おとく",
-      "meaning": "mặc cả"
+      "word": "損得",
+      "reading": "そんとく",
+      "meaning": "sự lỗ lãi"
+    },
+    {
+      "word": "心得る",
+      "reading": "こころえる",
+      "meaning": "tinh tường"
+    },
+    {
+      "word": "獲得",
+      "reading": "かくとく",
+      "meaning": "sự thu được"
+    },
+    {
+      "word": "説得",
+      "reading": "せっとく",
+      "meaning": "sự thuyết phục"
     },
     {
       "word": "所得",
@@ -132,29 +147,14 @@
       "meaning": "thu nhập"
     },
     {
-      "word": "取得",
-      "reading": "しゅとく",
-      "meaning": "sự giành được"
+      "word": "得点",
+      "reading": "とくてん",
+      "meaning": "sự tính điểm"
     },
     {
-      "word": "既得",
-      "reading": "きとく",
-      "meaning": "đã có được"
-    },
-    {
-      "word": "余得",
-      "reading": "よとく",
-      "meaning": "thu nhập ngoài lương"
-    },
-    {
-      "word": "得喪",
-      "reading": "とくそう",
-      "meaning": "được và mất"
-    },
-    {
-      "word": "体得",
-      "reading": "たいとく",
-      "meaning": "sự tinh thông"
+      "word": "心得",
+      "reading": "こころえ",
+      "meaning": "sự am hiểu"
     }
   ]
 }

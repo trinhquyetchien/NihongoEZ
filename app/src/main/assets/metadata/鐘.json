@@ -93,24 +93,19 @@
       "meaning": "chuông"
     },
     {
-      "word": "応鐘",
-      "reading": "おうしょう",
-      "meaning": "một trong mười hai luật âm"
+      "word": "釣鐘",
+      "reading": "つりがね",
+      "meaning": "chuông phật"
     },
     {
-      "word": "林鐘",
-      "reading": "りんしょう",
-      "meaning": "tên gọi khác của tháng 6 âm lịch"
+      "word": "時鐘",
+      "reading": "じしょう",
+      "meaning": "chuông báo giờ"
     },
     {
-      "word": "鳧鐘",
-      "reading": "ふしょう",
-      "meaning": "chuông chùa"
-    },
-    {
-      "word": "黄鐘",
-      "reading": "おうしき",
-      "meaning": "nốt thứ 8 của thang âm cổ"
+      "word": "時の鐘",
+      "reading": "ときのかね",
+      "meaning": "chuông báo giờ"
     },
     {
       "word": "点鐘",
@@ -118,24 +113,29 @@
       "meaning": "chuông tàu"
     },
     {
+      "word": "鐘の音",
+      "reading": "かねのね",
+      "meaning": "tiếng chuông"
+    },
+    {
       "word": "編鐘",
       "reading": "へんしょう",
       "meaning": "bộ chuông"
     },
     {
-      "word": "弔鐘",
-      "reading": "ちょうしょう",
-      "meaning": "chuông lễ tang"
+      "word": "電鐘",
+      "reading": "でんしょう",
+      "meaning": "chuông tín hiệu điện"
     },
     {
-      "word": "釣鐘",
-      "reading": "つりがね",
-      "meaning": "chuông phật"
+      "word": "鐘乳石",
+      "reading": "しょうにゅうせき",
+      "meaning": "chuông đá"
     },
     {
-      "word": "半鐘",
-      "reading": "はんしょう",
-      "meaning": "chuông dùng để báo hỏa họan"
+      "word": "朝鮮鐘",
+      "reading": "ちょうせんしょう",
+      "meaning": "korean bell"
     }
   ]
 }

@@ -88,33 +88,28 @@
   ],
   "vocabulary": [
     {
-      "word": "貢",
-      "reading": "みつぐ",
-      "meaning": "vật cống"
-    },
-    {
       "word": "貢献",
       "reading": "こうけん",
       "meaning": "sự cống hiến"
     },
     {
-      "word": "貢ぐ",
+      "word": "貢",
       "reading": "みつぐ",
-      "meaning": "trợ giúp"
-    },
-    {
-      "word": "貢ぎ",
-      "reading": "みつぎ",
-      "meaning": "vật triều cống"
-    },
-    {
-      "word": "幣貢",
-      "reading": "へいこう",
       "meaning": "vật cống"
+    },
+    {
+      "word": "西貢",
+      "reading": "サイゴン",
+      "meaning": "tên một thành phố ở miền nam việt nam. từ 1976 đổi tên thành thành phố hồ chí minh"
     },
     {
       "word": "貢進",
       "reading": "こうしん",
+      "meaning": "cống hiến"
+    },
+    {
+      "word": "貢納",
+      "reading": "こうのう",
       "meaning": "cống hiến"
     },
     {
@@ -123,19 +118,24 @@
       "meaning": "thuế đất"
     },
     {
-      "word": "入貢",
-      "reading": "にゅうこう",
-      "meaning": "sự cống nạp"
+      "word": "年貢米",
+      "reading": "ねんぐまい",
+      "meaning": "thuế gạo hàng năm"
     },
     {
-      "word": "貢租",
-      "reading": "こうそ",
-      "meaning": "thuế hàng năm"
+      "word": "貢ぎ",
+      "reading": "みつぎ",
+      "meaning": "vật triều cống"
     },
     {
-      "word": "進貢",
-      "reading": "しんこう",
-      "meaning": "sự dâng đồ cống nạp"
+      "word": "貢ぎ物",
+      "reading": "みつぎもの",
+      "meaning": "vật triều cống"
+    },
+    {
+      "word": "貢ぐ",
+      "reading": "みつぐ",
+      "meaning": "trợ giúp"
     }
   ]
 }

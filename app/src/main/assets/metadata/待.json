@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "待ちに待つ",
-      "reading": "まちにまつ",
-      "meaning": "háo hức chờ đợi"
-    },
-    {
-      "word": "待ちに待った",
-      "reading": "まちにまった",
-      "meaning": "chờ đợi từ lâu"
-    },
-    {
-      "word": "待ち構える",
-      "reading": "まちかまえる",
-      "meaning": "chờ đợi"
+      "word": "待つ",
+      "reading": "まつ",
+      "meaning": "chờ"
     },
     {
       "word": "期待",
@@ -115,29 +105,39 @@
       "meaning": "buổi chiêu đãi"
     },
     {
-      "word": "虐待",
-      "reading": "ぎゃくたい",
-      "meaning": "đọa đầy"
+      "word": "待遇",
+      "reading": "たいぐう",
+      "meaning": "chế độ đãi ngộ"
     },
     {
-      "word": "歓待",
-      "reading": "かんたい",
-      "meaning": "sự khoản đãi"
+      "word": "待望",
+      "reading": "たいぼう",
+      "meaning": "sự kỳ vọng"
     },
     {
-      "word": "款待",
-      "reading": "かんたい",
-      "meaning": "lòng mến khách"
+      "word": "待った",
+      "reading": "まった",
+      "meaning": "việc yêu cầu đối thủ chờ nước đi của mình hoặc trong sumo"
     },
     {
-      "word": "待避",
-      "reading": "たいひ",
-      "meaning": "sự tạm thời lẩn tránh"
+      "word": "期待感",
+      "reading": "きたいかん",
+      "meaning": "cảm giác mong chờ"
     },
     {
-      "word": "特待",
-      "reading": "とくたい",
-      "meaning": "sự đãi ngộ đặc biệt"
+      "word": "期待権",
+      "reading": "きたいけん",
+      "meaning": "quyền mong đợi"
+    },
+    {
+      "word": "期待値",
+      "reading": "きたいち",
+      "meaning": "giá trị kỳ vọng"
+    },
+    {
+      "word": "待ち",
+      "reading": "まち",
+      "meaning": "đợi"
     }
   ]
 }

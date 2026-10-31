@@ -92,9 +92,14 @@
       "meaning": "trực giác"
     },
     {
-      "word": "割勘",
-      "reading": "わりかん",
-      "meaning": "chia đều"
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "sự tính toán"
+    },
+    {
+      "word": "勘違い",
+      "reading": "かんちがい",
+      "meaning": "sự phán đoán sai lầm"
     },
     {
       "word": "勘弁",
@@ -102,39 +107,34 @@
       "meaning": "sự khoan dung"
     },
     {
-      "word": "勘校",
-      "reading": "かんこう",
-      "meaning": "việc kiểm tra đối chiếu và sửa chữa"
+      "word": "勘例",
+      "reading": "かんれい",
+      "meaning": "xem xét những tiền lệ cũ"
     },
     {
-      "word": "勅勘",
-      "reading": "ちょっかん",
-      "meaning": "hoàng đế có kiểm duyệt"
+      "word": "勘進",
+      "reading": "かんしん",
+      "meaning": "báo cáo sự khảo sát cẩn thận sau"
+    },
+    {
+      "word": "勘付く",
+      "reading": "かんづく",
+      "meaning": "cảm thấy"
+    },
+    {
+      "word": "勘能",
+      "reading": "かんのう",
+      "meaning": "thành thạo"
+    },
+    {
+      "word": "勘忍",
+      "reading": "かんにん",
+      "meaning": "sự chịu đựng"
     },
     {
       "word": "勘審",
       "reading": "かんしん",
       "meaning": "sự khảo sát cẩn thận"
-    },
-    {
-      "word": "勘決",
-      "reading": "かんけつ",
-      "meaning": "sự khảo sát và quyết định"
-    },
-    {
-      "word": "勘査",
-      "reading": "かんさ",
-      "meaning": "sự khảo sát"
-    },
-    {
-      "word": "勘考",
-      "reading": "かんこう",
-      "meaning": "sự xem xét cẩn thận"
-    },
-    {
-      "word": "勘例",
-      "reading": "かんれい",
-      "meaning": "xem xét những tiền lệ cũ"
     }
   ]
 }

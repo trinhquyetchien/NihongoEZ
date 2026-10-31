@@ -50,24 +50,24 @@
   ],
   "vocabulary": [
     {
-      "word": "栄耀",
-      "reading": "えいよう",
-      "meaning": "sự xa hoa"
-    },
-    {
-      "word": "衒耀",
-      "reading": "げんよう",
-      "meaning": "sự lộng lẫy giả tạo"
-    },
-    {
       "word": "耀う",
       "reading": "かがよう",
       "meaning": "chiếu sáng lờ mờ"
     },
     {
+      "word": "栄耀",
+      "reading": "えいよう",
+      "meaning": "sự xa hoa"
+    },
+    {
       "word": "光耀",
       "reading": "こうよう",
       "meaning": "tỏa sáng"
+    },
+    {
+      "word": "衒耀",
+      "reading": "げんよう",
+      "meaning": "sự lộng lẫy giả tạo"
     },
     {
       "word": "栄耀栄華",

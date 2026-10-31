@@ -87,39 +87,14 @@
   ],
   "vocabulary": [
     {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "sự kiên quyết"
+    },
+    {
       "word": "悟る",
       "reading": "さとる",
       "meaning": "lĩnh hội"
-    },
-    {
-      "word": "頓悟",
-      "reading": "とんご",
-      "meaning": "sự hiển linh"
-    },
-    {
-      "word": "漸悟",
-      "reading": "ぜんご",
-      "meaning": "dần dần nhận ra. khai sáng theo thứ tự"
-    },
-    {
-      "word": "悔悟",
-      "reading": "かいご",
-      "meaning": "sám hối"
-    },
-    {
-      "word": "穎悟",
-      "reading": "えいご",
-      "meaning": "thông minh"
-    },
-    {
-      "word": "悟り",
-      "reading": "さとり",
-      "meaning": "sự khai sáng"
-    },
-    {
-      "word": "悟性",
-      "reading": "ごせい",
-      "meaning": "tính khôn ngoan"
     },
     {
       "word": "開悟",
@@ -132,9 +107,34 @@
       "meaning": "sự hiểu rõ"
     },
     {
-      "word": "改悟",
+      "word": "悟り",
+      "reading": "さとり",
+      "meaning": "sự khai sáng"
+    },
+    {
+      "word": "生悟り",
+      "reading": "なまざとり",
+      "meaning": "sự giác ngộ không trọn vẹn"
+    },
+    {
+      "word": "大悟",
+      "reading": "たいご",
+      "meaning": "sự giác ngộ"
+    },
+    {
+      "word": "漸悟",
+      "reading": "ぜんご",
+      "meaning": "dần dần nhận ra. khai sáng theo thứ tự"
+    },
+    {
+      "word": "悔悟",
       "reading": "かいご",
-      "meaning": "sự ăn năn"
+      "meaning": "sám hối"
+    },
+    {
+      "word": "悟性",
+      "reading": "ごせい",
+      "meaning": "tính khôn ngoan"
     }
   ]
 }

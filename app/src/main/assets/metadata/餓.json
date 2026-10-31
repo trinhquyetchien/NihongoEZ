@@ -87,26 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "飢餓",
-      "reading": "きが",
-      "meaning": "đói kém"
-    },
-    {
-      "word": "饑餓",
-      "reading": "きが",
-      "meaning": "sự chết đói"
-    },
-    {
-      "word": "餓狼",
-      "reading": "がろう",
-      "meaning": "chó sói đang đói"
-    },
-    {
-      "word": "餓鬼",
-      "reading": "がき",
-      "meaning": "đứa trẻ hỗn xược"
-    },
-    {
       "word": "餓死",
       "reading": "がし",
       "meaning": "chết đói"
@@ -117,9 +97,19 @@
       "meaning": "người chết đói"
     },
     {
-      "word": "餓える",
-      "reading": "うえる",
+      "word": "飢餓",
+      "reading": "きが",
+      "meaning": "đói kém"
+    },
+    {
+      "word": "飢餓感",
+      "reading": "きがかん",
       "meaning": "đói"
+    },
+    {
+      "word": "餓鬼",
+      "reading": "がき",
+      "meaning": "đứa trẻ hỗn xược"
     },
     {
       "word": "餓鬼道",
@@ -135,6 +125,16 @@
       "word": "餓鬼共",
       "reading": "がきども",
       "meaning": "những cái chê trách dê non"
+    },
+    {
+      "word": "糞餓鬼",
+      "reading": "くそがき",
+      "meaning": "ranh con"
+    },
+    {
+      "word": "餓狼",
+      "reading": "がろう",
+      "meaning": "chó sói đang đói"
     }
   ]
 }

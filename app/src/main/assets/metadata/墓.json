@@ -94,49 +94,49 @@
       "meaning": "mả"
     },
     {
-      "word": "墓域",
-      "reading": "ぼいき",
-      "meaning": "khu vực nghĩa trang"
+      "word": "墓地",
+      "reading": "ぼち",
+      "meaning": "mộ địa"
     },
     {
-      "word": "墓場",
-      "reading": "はかば",
-      "meaning": "nghĩa địa"
+      "word": "御墓",
+      "reading": "みはか",
+      "meaning": "mộ phần"
     },
     {
-      "word": "墓標",
-      "reading": "ぼひょう",
-      "meaning": "bia mộ"
+      "word": "墓園",
+      "reading": "ぼえん",
+      "meaning": "nghĩa trang"
     },
     {
-      "word": "墓表",
-      "reading": "ぼひょう",
-      "meaning": "bia"
+      "word": "夫婦墓",
+      "reading": "めおとばか",
+      "meaning": "ngôi mộ vợ chồng"
     },
     {
-      "word": "墓誌",
-      "reading": "ぼし",
-      "meaning": "mộ chi"
-    },
-    {
-      "word": "展墓",
-      "reading": "てんぼ",
-      "meaning": "sự tảo mộ"
-    },
-    {
-      "word": "陵墓",
-      "reading": "りょうぼ",
-      "meaning": "lăng"
-    },
-    {
-      "word": "墓所",
-      "reading": "ぼしょ",
-      "meaning": "nghĩa địa"
-    },
-    {
-      "word": "墓守",
+      "word": "墓守り",
       "reading": "はかもり",
-      "meaning": "người giữ mộ"
+      "meaning": "người chăm sóc mộ"
+    },
+    {
+      "word": "墓泥棒",
+      "reading": "はかどろぼう",
+      "meaning": "kẻ trộm mộ"
+    },
+    {
+      "word": "墓掘り",
+      "reading": "はかほり",
+      "meaning": "đào mộ"
+    },
+    {
+      "word": "無縁墓",
+      "reading": "むえんばか",
+      "meaning": "ngôi mộ vô danh"
+    },
+    {
+      "word": "蛍の墓",
+      "reading": "",
+      "meaning": "mộ đom đóm"
     }
   ]
 }

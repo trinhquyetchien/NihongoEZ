@@ -93,9 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "取扱",
-      "reading": "とりあつかい",
-      "meaning": "sự đãi ngộ"
+      "word": "扱う",
+      "reading": "あつかう",
+      "meaning": "điều khiển"
     },
     {
       "word": "扱い",
@@ -103,34 +103,14 @@
       "meaning": "cách đối xử"
     },
     {
-      "word": "扱ぐ",
-      "reading": "こぐ",
-      "meaning": "đạp xe"
-    },
-    {
-      "word": "扱く",
-      "reading": "しごく",
-      "meaning": "tuốt"
-    },
-    {
-      "word": "扱う",
-      "reading": "あつかう",
-      "meaning": "điều khiển"
-    },
-    {
-      "word": "扱き",
-      "reading": "しごき",
-      "meaning": "huấn luyện nghiêm khắc"
-    },
-    {
-      "word": "取扱い",
+      "word": "取り扱い",
       "reading": "とりあつかい",
-      "meaning": "sự đãi ngộ"
+      "meaning": "đãi ngộ"
     },
     {
-      "word": "物扱い",
-      "reading": "ものあつかい",
-      "meaning": "đối xử như đồ vật"
+      "word": "取り扱う",
+      "reading": "とりあつかう",
+      "meaning": "thao tác"
     },
     {
       "word": "扱い方",
@@ -138,9 +118,29 @@
       "meaning": "cách đối xử"
     },
     {
-      "word": "取扱書",
-      "reading": "とりあつかいしょ",
-      "meaning": "sách hướng dẫn sử dụng"
+      "word": "物扱い",
+      "reading": "ものあつかい",
+      "meaning": "đối xử như đồ vật"
+    },
+    {
+      "word": "宅扱い",
+      "reading": "たくあつかい",
+      "meaning": "sự giao hàng ở nhà"
+    },
+    {
+      "word": "取扱",
+      "reading": "とりあつかい",
+      "meaning": "sự đãi ngộ"
+    },
+    {
+      "word": "取扱人",
+      "reading": "とりあつかいにん",
+      "meaning": "đại diện"
+    },
+    {
+      "word": "取扱者",
+      "reading": "とりあつかいしゃ",
+      "meaning": "người thực hiện"
     }
   ]
 }

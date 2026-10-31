@@ -95,14 +95,24 @@
   ],
   "vocabulary": [
     {
-      "word": "格納",
-      "reading": "かくのう",
-      "meaning": "việc cất giữ"
+      "word": "納得",
+      "reading": "なっとく",
+      "meaning": "thuyết phục"
     },
     {
-      "word": "維納",
-      "reading": "ウィーン",
-      "meaning": "thủ đô nước áo"
+      "word": "納入",
+      "reading": "のうにゅう",
+      "meaning": "giao hàng hóa"
+    },
+    {
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "nộp muộn"
+    },
+    {
+      "word": "納税",
+      "reading": "のうぜい",
+      "meaning": "nộp thuế"
     },
     {
       "word": "収納",
@@ -110,14 +120,9 @@
       "meaning": "thu hoạch"
     },
     {
-      "word": "笑納",
-      "reading": "しょうのう",
-      "meaning": "vui vẻ nhận"
-    },
-    {
-      "word": "帰納",
-      "reading": "きのう",
-      "meaning": "quy nạp"
+      "word": "納豆",
+      "reading": "なっとう",
+      "meaning": "đậu nành lên men"
     },
     {
       "word": "納め",
@@ -125,24 +130,19 @@
       "meaning": "cuối cùng"
     },
     {
-      "word": "代納",
-      "reading": "だいのう",
-      "meaning": "sự thanh toán cho khác"
-    },
-    {
-      "word": "全納",
-      "reading": "ぜんのう",
+      "word": "皆納",
+      "reading": "かいのう",
       "meaning": "sự thanh toán đầy đủ"
     },
     {
-      "word": "前納",
-      "reading": "ぜんのう",
-      "meaning": "sự trả trước"
+      "word": "納杯",
+      "reading": "のうはい",
+      "meaning": "chén rượu cuối cùng trước khi kết thúc buổi đại tiệc"
     },
     {
-      "word": "延納",
-      "reading": "えんのう",
-      "meaning": "sự trả chậm"
+      "word": "格納",
+      "reading": "かくのう",
+      "meaning": "việc cất giữ"
     }
   ]
 }

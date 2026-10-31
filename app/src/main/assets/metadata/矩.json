@@ -85,6 +85,21 @@
   ],
   "vocabulary": [
     {
+      "word": "矩形",
+      "reading": "くけい",
+      "meaning": "hình chữ nhật"
+    },
+    {
+      "word": "矩形数",
+      "reading": "くけーすー",
+      "meaning": "số được tạo thành từ tích của hai số tự nhiên"
+    },
+    {
+      "word": "矩形波",
+      "reading": "くけいは",
+      "meaning": "sóng vuông"
+    },
+    {
       "word": "矩",
       "reading": "のり",
       "meaning": "góc vuông"
@@ -95,19 +110,9 @@
       "meaning": "thước thợ"
     },
     {
-      "word": "矩形",
-      "reading": "くけい",
-      "meaning": "hình chữ nhật"
-    },
-    {
       "word": "矩則",
       "reading": "くそく",
       "meaning": "tiêu chuẩn"
-    },
-    {
-      "word": "規矩",
-      "reading": "きく",
-      "meaning": "quy củ"
     },
     {
       "word": "矩象",
@@ -115,24 +120,19 @@
       "meaning": "phép cầu phương"
     },
     {
-      "word": "矩尺",
-      "reading": "かねじゃく",
-      "meaning": "bàn chân tiếng nhật chung"
-    },
-    {
       "word": "矩計",
       "reading": "かなばかり",
       "meaning": "bản vẽ mặt cắt máy móc"
     },
     {
-      "word": "矩形波",
-      "reading": "くけいは",
-      "meaning": "sóng vuông"
+      "word": "矩計図",
+      "reading": "かなばかりず",
+      "meaning": "bản vẽ chi tiết mặt cắt từ móng đến mái nhà"
     },
     {
-      "word": "矩形数",
-      "reading": "くけーすー",
-      "meaning": "số được tạo thành từ tích của hai số tự nhiên"
+      "word": "規矩",
+      "reading": "きく",
+      "meaning": "quy củ"
     }
   ]
 }

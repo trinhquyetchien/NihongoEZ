@@ -95,29 +95,24 @@
       "meaning": "ngói"
     },
     {
-      "word": "棟瓦",
-      "reading": "むながわら",
-      "meaning": "ngói bò"
+      "word": "瓦家",
+      "reading": "かわらや",
+      "meaning": "cái nhà lợp mái ngói"
     },
     {
-      "word": "瓦版",
-      "reading": "かわらばん",
-      "meaning": "lợp ngói sự in khối"
+      "word": "瓦無",
+      "reading": "グアム",
+      "meaning": "guam"
     },
     {
-      "word": "鯱瓦",
-      "reading": "しゃちほこがわら",
-      "meaning": "ngói đuôi cá chép đầu rồng"
+      "word": "石瓦",
+      "reading": "いしがわら",
+      "meaning": "mái ngói đá phiến"
     },
     {
-      "word": "瓦解",
-      "reading": "がかい",
-      "meaning": "sự thiếu sót chết người"
-    },
-    {
-      "word": "巴瓦",
-      "reading": "ともえがわら",
-      "meaning": "ngói lợp nhà"
+      "word": "瓦当",
+      "reading": "がとう",
+      "meaning": "phần tròn hoặc bán nguyệt ở đầu mái ngói"
     },
     {
       "word": "丸瓦",
@@ -125,19 +120,24 @@
       "meaning": "ngói hình bán nguyệt"
     },
     {
-      "word": "鬼瓦",
-      "reading": "おにがわら",
-      "meaning": "miệng máng xối"
+      "word": "平瓦",
+      "reading": "ひらがわら",
+      "meaning": "mái bằng"
     },
     {
-      "word": "瓦葺",
-      "reading": "かわらぶき",
-      "meaning": "lợp mái ngói"
+      "word": "瓦人形",
+      "reading": "かわらにんぎょう",
+      "meaning": "tượng gốm"
     },
     {
-      "word": "瓦家",
-      "reading": "かわらや",
-      "meaning": "cái nhà lợp mái ngói"
+      "word": "瓦屋根",
+      "reading": "かわらやね",
+      "meaning": "mái nhà lợp ngói"
+    },
+    {
+      "word": "屋根瓦",
+      "reading": "やねがわら",
+      "meaning": "mái ngói"
     }
   ]
 }

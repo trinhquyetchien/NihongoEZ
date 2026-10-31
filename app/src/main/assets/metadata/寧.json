@@ -88,34 +88,44 @@
   ],
   "vocabulary": [
     {
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaning": "cẩn thận"
+    },
+    {
+      "word": "丁寧な",
+      "reading": "ていねいな",
+      "meaning": "bặt thiệp"
+    },
+    {
+      "word": "丁寧体",
+      "reading": "ていねいたい",
+      "meaning": "kiểu lịch sự"
+    },
+    {
+      "word": "丁寧形",
+      "reading": "ていねいけい",
+      "meaning": "thể lịch sự"
+    },
+    {
+      "word": "丁寧語",
+      "reading": "ていねいご",
+      "meaning": "ngôn ngữ lịch sự"
+    },
+    {
       "word": "寧",
       "reading": "むしろ",
       "meaning": "khá"
     },
     {
-      "word": "康寧",
-      "reading": "こうねい",
-      "meaning": "nhiều vấn đề"
-    },
-    {
-      "word": "安寧",
-      "reading": "あんねい",
-      "meaning": "hòa bình"
-    },
-    {
-      "word": "寧日",
-      "reading": "ねいじつ",
-      "meaning": "ngày hòa bình"
+      "word": "列寧",
+      "reading": "れえにん",
+      "meaning": "lenin"
     },
     {
       "word": "寧ろ",
       "reading": "むしろ",
       "meaning": "ngược lại"
-    },
-    {
-      "word": "丁寧",
-      "reading": "ていねい",
-      "meaning": "cẩn thận"
     },
     {
       "word": "静寧",
@@ -126,16 +136,6 @@
       "word": "寧静",
       "reading": "ねいせい",
       "meaning": "yên bình"
-    },
-    {
-      "word": "列寧",
-      "reading": "れえにん",
-      "meaning": "lenin"
-    },
-    {
-      "word": "丁寧語",
-      "reading": "ていねいご",
-      "meaning": "ngôn ngữ lịch sự"
     }
   ]
 }

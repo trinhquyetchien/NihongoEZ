@@ -89,19 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "資源",
+      "reading": "しげん",
+      "meaning": "tài nguyên"
+    },
+    {
       "word": "源",
       "reading": "みなもと",
       "meaning": "nguồn"
     },
     {
-      "word": "基源",
-      "reading": "きげん",
-      "meaning": "thành phần"
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "nguồn điện"
     },
     {
-      "word": "根源",
-      "reading": "こんげん",
-      "meaning": "căn nguyên"
+      "word": "起源",
+      "reading": "きげん",
+      "meaning": "bản"
+    },
+    {
+      "word": "財源",
+      "reading": "ざいげん",
+      "meaning": "ngân quỹ"
     },
     {
       "word": "語源",
@@ -109,24 +119,14 @@
       "meaning": "nguồn gốc của từ"
     },
     {
-      "word": "資源",
-      "reading": "しげん",
-      "meaning": "tài nguyên"
-    },
-    {
       "word": "水源",
       "reading": "すいげん",
       "meaning": "nguồn"
     },
     {
-      "word": "エネルギー源",
-      "reading": "エネルギーげん",
-      "meaning": "nguồn năng lượng"
-    },
-    {
-      "word": "熱源",
-      "reading": "ねつげん",
-      "meaning": "nguồn nhiệt"
+      "word": "源氏",
+      "reading": "げんじ",
+      "meaning": "genji"
     },
     {
       "word": "法源",
@@ -134,9 +134,9 @@
       "meaning": "nguồn gốc của việc"
     },
     {
-      "word": "音源",
-      "reading": "おんげん",
-      "meaning": "kêu nguồn"
+      "word": "線源",
+      "reading": "せんげん",
+      "meaning": "nguồn bức xạ"
     }
   ]
 }

@@ -85,29 +85,14 @@
   ],
   "vocabulary": [
     {
-      "word": "繋争",
-      "reading": "けいそう",
-      "meaning": "một cuộc tranh luận"
+      "word": "繋がり",
+      "reading": "つながり",
+      "meaning": "mối nối"
     },
     {
-      "word": "繋船",
-      "reading": "けいせん",
-      "meaning": "buộc"
-    },
-    {
-      "word": "繋留",
-      "reading": "けいりゅう",
-      "meaning": "buộc"
-    },
-    {
-      "word": "繋属",
-      "reading": "けいぞく",
-      "meaning": "kết nối"
-    },
-    {
-      "word": "繋累",
-      "reading": "けいるい",
-      "meaning": "dependents"
+      "word": "繋がる",
+      "reading": "つながる",
+      "meaning": "nối"
     },
     {
       "word": "繋ぐ",
@@ -120,19 +105,34 @@
       "meaning": "nối"
     },
     {
-      "word": "繋辞",
-      "reading": "けいじ",
-      "meaning": "bộ phận nối"
+      "word": "繋ぎ目",
+      "reading": "つなぎめ",
+      "meaning": "mối nối"
     },
     {
-      "word": "繋縛",
-      "reading": "けいばく",
-      "meaning": "sự ràng buộc"
+      "word": "繋ぎ服",
+      "reading": "つなぎふく",
+      "meaning": "bộ đồ gồm áo và quần liền nhau"
     },
     {
-      "word": "面繋",
-      "reading": "おもがい",
-      "meaning": "dây cương buộc quanh đầu"
+      "word": "駒繋ぎ",
+      "reading": "こまつなぎ",
+      "meaning": "indigofera pseudotinctoria"
+    },
+    {
+      "word": "繋げる",
+      "reading": "つなげる",
+      "meaning": "kết nối"
+    },
+    {
+      "word": "連繋",
+      "reading": "れんけい",
+      "meaning": "liên hệ"
+    },
+    {
+      "word": "繋留",
+      "reading": "けいりゅう",
+      "meaning": "buộc"
     }
   ]
 }

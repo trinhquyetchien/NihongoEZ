@@ -109,9 +109,24 @@
       "meaning": "sự gấp đôi"
     },
     {
-      "word": "五倍",
-      "reading": "ごばい",
-      "meaning": "năm lần"
+      "word": "倍率",
+      "reading": "ばいりつ",
+      "meaning": "bội số phóng đại"
+    },
+    {
+      "word": "何倍も",
+      "reading": "なんばいも",
+      "meaning": "gấp bao nhiêu lần"
+    },
+    {
+      "word": "一倍",
+      "reading": "いちばい",
+      "meaning": "một phần"
+    },
+    {
+      "word": "二倍",
+      "reading": "にばい",
+      "meaning": "gấp đôi"
     },
     {
       "word": "数倍",
@@ -119,39 +134,24 @@
       "meaning": "vài thời báo"
     },
     {
-      "word": "逓倍",
-      "reading": "ていばい",
-      "meaning": "tính nhân"
+      "word": "三倍",
+      "reading": "さんばい",
+      "meaning": "ba lần"
     },
     {
-      "word": "倍角",
-      "reading": "ばいかく",
-      "meaning": "gấp đôi kích thước đối tượng"
+      "word": "倍力",
+      "reading": "ばいりょく",
+      "meaning": "tăng cường"
     },
     {
-      "word": "倍速",
-      "reading": "ばいそく",
-      "meaning": "tua nhanh"
+      "word": "二倍性",
+      "reading": "にばいせい",
+      "meaning": "lưỡng bội"
     },
     {
-      "word": "倍加",
-      "reading": "ばいか",
-      "meaning": "sự gấp đôi"
-    },
-    {
-      "word": "倍音",
-      "reading": "ばいおん",
-      "meaning": "bội âm"
-    },
-    {
-      "word": "倍数",
-      "reading": "ばいすう",
-      "meaning": "bội số"
-    },
-    {
-      "word": "倍大",
-      "reading": "ばいだい",
-      "meaning": "gấp đôi kích thước"
+      "word": "十倍",
+      "reading": "じゅうばい",
+      "meaning": "gấp mười"
     }
   ]
 }

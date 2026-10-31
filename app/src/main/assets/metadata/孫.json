@@ -94,34 +94,14 @@
       "meaning": "cháu"
     },
     {
-      "word": "子子孫孫",
-      "reading": "ししそんそん",
+      "word": "子孫",
+      "reading": "しそん",
       "meaning": "con cháu"
     },
     {
-      "word": "孫子",
-      "reading": "まごこ",
-      "meaning": "con cháu"
-    },
-    {
-      "word": "昆孫",
-      "reading": "こんそん",
-      "meaning": "chắt"
-    },
-    {
-      "word": "雲孫",
-      "reading": "うんそん",
-      "meaning": "chắt"
-    },
-    {
-      "word": "姪孫",
-      "reading": "てっそん",
-      "meaning": "cháu gái"
-    },
-    {
-      "word": "孫局",
-      "reading": "まごきょく",
-      "meaning": "đài con"
+      "word": "孫さん",
+      "reading": "まごさん",
+      "meaning": "cháu"
     },
     {
       "word": "来孫",
@@ -129,14 +109,34 @@
       "meaning": "chắt"
     },
     {
-      "word": "嫡孫",
-      "reading": "ちゃくそん",
-      "meaning": "cháu đích tôn"
+      "word": "愛孫",
+      "reading": "あいそん",
+      "meaning": "đứa cháu cưng"
     },
     {
-      "word": "天孫",
-      "reading": "てんそん",
-      "meaning": "thiên tôn"
+      "word": "王孫",
+      "reading": "おうそん",
+      "meaning": "vương tôn công tử"
+    },
+    {
+      "word": "孫息子",
+      "reading": "まごむすこ",
+      "meaning": "cháu trai"
+    },
+    {
+      "word": "孫局",
+      "reading": "まごきょく",
+      "meaning": "đài con"
+    },
+    {
+      "word": "児孫",
+      "reading": "じそん",
+      "meaning": "những con cháu"
+    },
+    {
+      "word": "雲孫",
+      "reading": "うんそん",
+      "meaning": "chắt"
     }
   ]
 }

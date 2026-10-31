@@ -95,34 +95,24 @@
   ],
   "vocabulary": [
     {
-      "word": "尽",
-      "reading": "じん",
-      "meaning": "cuối tháng"
+      "word": "尽くす",
+      "reading": "つくす",
+      "meaning": "cống hiến"
     },
     {
-      "word": "尽滅",
-      "reading": "じんめつ",
-      "meaning": "diệt vong"
+      "word": "尽きる",
+      "reading": "つきる",
+      "meaning": "cạn sức"
     },
     {
-      "word": "尽力",
-      "reading": "じんりょく",
-      "meaning": "sự tận lực"
+      "word": "尽くし",
+      "reading": "づくし",
+      "meaning": "toàn là"
     },
     {
-      "word": "尽日",
-      "reading": "じんじつ",
-      "meaning": "suốt cả ngày"
-    },
-    {
-      "word": "凋尽",
-      "reading": "ちょうじん",
-      "meaning": "làm héo"
-    },
-    {
-      "word": "不尽",
-      "reading": "ふじん",
-      "meaning": "bạn chân thành!"
+      "word": "理不尽",
+      "reading": "りふじん",
+      "meaning": "vô lý"
     },
     {
       "word": "尽く",
@@ -130,19 +120,29 @@
       "meaning": "cùng nhau làm việc"
     },
     {
-      "word": "盪尽",
-      "reading": "とうじん",
-      "meaning": "sự hoang phí"
+      "word": "力尽く",
+      "reading": "ちからずく",
+      "meaning": "bởi lực lượng"
     },
     {
-      "word": "尽瘁",
-      "reading": "じんすい",
-      "meaning": "cống hiến hết sức mình"
+      "word": "金尽く",
+      "reading": "かねずく",
+      "meaning": "cố gắng giải quyết mọi thứ bằng tiền"
     },
     {
-      "word": "無尽",
-      "reading": "むじん",
-      "meaning": "sự không bao giờ hết được"
+      "word": "尽くめ",
+      "reading": "ずくめ",
+      "meaning": "toàn bộ"
+    },
+    {
+      "word": "腕尽く",
+      "reading": "うでずく",
+      "meaning": "để làm hết sức ai đó"
+    },
+    {
+      "word": "尽力",
+      "reading": "じんりょく",
+      "meaning": "sự tận lực"
     }
   ]
 }

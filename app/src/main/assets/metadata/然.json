@@ -110,19 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "然然",
-      "reading": "しかじか",
-      "meaning": "các từ để sử dụng khi bạn không cần lặp lại hoặc xây dựng. đây là cái này vâng"
-    },
-    {
-      "word": "天然自然",
-      "reading": "てんねんしぜん",
-      "meaning": "tự nhiên"
-    },
-    {
-      "word": "然う然う",
-      "reading": "そうそう",
-      "meaning": "¤i chao yes! tôi nhớ"
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "sự tình cờ"
     },
     {
       "word": "必然",
@@ -130,14 +120,9 @@
       "meaning": "tất nhiên"
     },
     {
-      "word": "整然",
-      "reading": "せいぜん",
-      "meaning": "ngăn nắp"
-    },
-    {
-      "word": "偶然",
-      "reading": "ぐうぜん",
-      "meaning": "sự tình cờ"
+      "word": "公然",
+      "reading": "こうぜん",
+      "meaning": "công khai"
     },
     {
       "word": "依然",
@@ -145,19 +130,34 @@
       "meaning": "đã"
     },
     {
-      "word": "釈然",
-      "reading": "しゃくぜん",
-      "meaning": "thông suốt"
+      "word": "整然",
+      "reading": "せいぜん",
+      "meaning": "ngăn nắp"
     },
     {
-      "word": "雑然",
-      "reading": "ざつぜん",
-      "meaning": "tình trạng hỗn độn"
+      "word": "然う",
+      "reading": "そう",
+      "meaning": "như vậy"
     },
     {
-      "word": "敢然",
-      "reading": "かんぜん",
-      "meaning": "mạnh mẽ"
+      "word": "然り",
+      "reading": "しかり",
+      "meaning": "cũng như vậy"
+    },
+    {
+      "word": "現然",
+      "reading": "げんぜん",
+      "meaning": "thực tế"
+    },
+    {
+      "word": "塊然",
+      "reading": "かいぜん",
+      "meaning": "chắc chắn"
+    },
+    {
+      "word": "豪然",
+      "reading": "ごうぜん",
+      "meaning": "đầy sức mạnh"
     }
   ]
 }

@@ -94,29 +94,24 @@
       "meaning": "cái đuôi"
     },
     {
-      "word": "旋尾せんちゅーあもく",
-      "reading": "旋尾線虫亜目",
-      "meaning": "tảo xoắn"
+      "word": "一尾",
+      "reading": "いちび",
+      "meaning": "số đếm"
     },
     {
-      "word": "旋尾せんちゅーじょーか",
-      "reading": "旋尾線虫上科",
-      "meaning": "liên họ giun tròn spirurida"
+      "word": "尾部",
+      "reading": "びぶ",
+      "meaning": "theo dõi"
     },
     {
-      "word": "尻尾",
-      "reading": "しっぽ",
-      "meaning": "đuôi"
+      "word": "機尾",
+      "reading": "きび",
+      "meaning": "đuôi máy bay"
     },
     {
-      "word": "首尾",
-      "reading": "しゅび",
-      "meaning": "đầu đuôi"
-    },
-    {
-      "word": "語尾",
-      "reading": "ごび",
-      "meaning": "kéo dài cuối câu"
+      "word": "巻尾",
+      "reading": "かんび",
+      "meaning": "phần cuối sách"
     },
     {
       "word": "尾肉",
@@ -124,19 +119,24 @@
       "meaning": "đuôi cá voi"
     },
     {
-      "word": "鳶尾",
-      "reading": "いちはつ",
-      "meaning": "hoa đuôi diều"
+      "word": "艦尾",
+      "reading": "かんび",
+      "meaning": "phần sau tàu"
     },
     {
-      "word": "断尾",
-      "reading": "だんび",
-      "meaning": "việc cắt đuôi"
+      "word": "文尾",
+      "reading": "ぶんび",
+      "meaning": "cuối câu"
     },
     {
-      "word": "韻尾",
-      "reading": "いんび",
-      "meaning": "yunwei"
+      "word": "尾類",
+      "reading": "ずり",
+      "meaning": "kỹ nữ"
+    },
+    {
+      "word": "尾状",
+      "reading": "びじょう",
+      "meaning": "cái đuôi"
     }
   ]
 }

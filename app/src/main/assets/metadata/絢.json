@@ -83,14 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "絢爛",
-      "reading": "けんらん",
-      "meaning": "rực rỡ"
-    },
-    {
       "word": "絢文",
       "reading": "けんぶん",
       "meaning": "mẫu sặc sỡ"
+    },
+    {
+      "word": "絢爛",
+      "reading": "けんらん",
+      "meaning": "rực rỡ"
     },
     {
       "word": "絢緞子",
@@ -98,9 +98,9 @@
       "meaning": "vải đa- mát"
     },
     {
-      "word": "絢爛華麗",
-      "reading": "けんらんかれい",
-      "meaning": "sang trọng và lộng lẫy"
+      "word": "絢爛たる",
+      "reading": "けんらんたる",
+      "meaning": "loá mắt"
     },
     {
       "word": "絢爛豪華",
@@ -113,9 +113,9 @@
       "meaning": "rực rỡ và xa hoa"
     },
     {
-      "word": "絢爛たる",
-      "reading": "けんらんたる",
-      "meaning": "loá mắt"
+      "word": "絢爛華麗",
+      "reading": "けんらんかれい",
+      "meaning": "sang trọng và lộng lẫy"
     }
   ]
 }

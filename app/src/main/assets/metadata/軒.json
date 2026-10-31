@@ -94,9 +94,14 @@
       "meaning": "mái chìa"
     },
     {
-      "word": "一軒一軒",
-      "reading": "いっけんいっけん",
-      "meaning": "từng nhà"
+      "word": "軒並み",
+      "reading": "のきなみ",
+      "meaning": "dãy nhà sát nhau"
+    },
+    {
+      "word": "一軒",
+      "reading": "いっけん",
+      "meaning": "một căn"
     },
     {
       "word": "数軒",
@@ -104,39 +109,34 @@
       "meaning": "vài cái nhà"
     },
     {
-      "word": "軒並",
-      "reading": "のきなみ",
-      "meaning": "dãy nhà sát nhau"
+      "word": "軒天",
+      "reading": "のきてん",
+      "meaning": "mái hiên"
     },
     {
-      "word": "軒忍",
-      "reading": "のきしのぶ",
-      "meaning": "lepisorus thunbergianus"
+      "word": "軒とい",
+      "reading": "けんとい",
+      "meaning": "máng hứng nước mưa"
     },
     {
-      "word": "軒樋",
-      "reading": "のきどい",
-      "meaning": "máng xối"
+      "word": "軒丈",
+      "reading": "のきたけ",
+      "meaning": "chiều cao từ nền nhà đến mái hiên"
     },
     {
-      "word": "軒数",
-      "reading": "けんすう",
-      "meaning": "số lượng nhà cửa"
+      "word": "傍軒",
+      "reading": "そばのき",
+      "meaning": "sà lan"
     },
     {
-      "word": "軒下",
-      "reading": "のきした",
-      "meaning": "dưới mái hiên"
+      "word": "軒丸瓦",
+      "reading": "のきまるがわら",
+      "meaning": "ngói lợp mái hiên"
     },
     {
-      "word": "軒昂",
-      "reading": "けんこう",
-      "meaning": "hưng phấn"
-    },
-    {
-      "word": "軒灯",
-      "reading": "けんとう",
-      "meaning": "đèn ngoài hiên"
+      "word": "軒平瓦",
+      "reading": "のきひらがわら",
+      "meaning": "mái ngói"
     }
   ]
 }

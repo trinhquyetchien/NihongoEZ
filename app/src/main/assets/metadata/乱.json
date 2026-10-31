@@ -95,24 +95,9 @@
   ],
   "vocabulary": [
     {
-      "word": "乱",
-      "reading": "らん",
-      "meaning": "loạn"
-    },
-    {
-      "word": "乱筆乱文",
-      "reading": "らんぴつらんぶん",
-      "meaning": "viết nguệch ngoạc"
-    },
-    {
-      "word": "乱診乱療",
-      "reading": "らんしんらんりょう",
-      "meaning": "sự điều trị quá thái"
-    },
-    {
-      "word": "乱射乱撃",
-      "reading": "らんしゃらんげき",
-      "meaning": "bắn càn"
+      "word": "混乱",
+      "reading": "こんらん",
+      "meaning": "hỗn độn"
     },
     {
       "word": "乱す",
@@ -120,19 +105,14 @@
       "meaning": "chen ngang"
     },
     {
-      "word": "散乱",
-      "reading": "さんらん",
-      "meaning": "sự tán sắc"
+      "word": "乱",
+      "reading": "らん",
+      "meaning": "loạn"
     },
     {
-      "word": "錯乱",
-      "reading": "さくらん",
-      "meaning": "sự lẫn lộn"
-    },
-    {
-      "word": "混乱",
-      "reading": "こんらん",
-      "meaning": "hỗn độn"
+      "word": "乱流",
+      "reading": "らんりゅう",
+      "meaning": "sự nhiễu loạn"
     },
     {
       "word": "乱れ",
@@ -140,9 +120,29 @@
       "meaning": "lộn xộn"
     },
     {
-      "word": "撩乱",
-      "reading": "りょうらん",
-      "meaning": "lãng phí nở hoa"
+      "word": "淫乱",
+      "reading": "いんらん",
+      "meaning": "dục vọng không thể kiềm chế được"
+    },
+    {
+      "word": "錯乱",
+      "reading": "さくらん",
+      "meaning": "sự lẫn lộn"
+    },
+    {
+      "word": "乱舞",
+      "reading": "らんぶ",
+      "meaning": "nhảy múa lung tung"
+    },
+    {
+      "word": "乱撃",
+      "reading": "らんげき",
+      "meaning": "bắn càn"
+    },
+    {
+      "word": "散乱",
+      "reading": "さんらん",
+      "meaning": "sự tán sắc"
     }
   ]
 }

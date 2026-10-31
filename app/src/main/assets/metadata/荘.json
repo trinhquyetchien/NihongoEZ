@@ -92,14 +92,34 @@
   ],
   "vocabulary": [
     {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "biệt thự"
+    },
+    {
       "word": "荘",
       "reading": "しょう",
       "meaning": "ngôi nhà ở nông thôn"
     },
     {
-      "word": "山荘",
-      "reading": "さんそう",
-      "meaning": "nhà nghỉ trên núi"
+      "word": "一荘",
+      "reading": "イーチャン",
+      "meaning": "một trò chơi mahjong"
+    },
+    {
+      "word": "別荘番",
+      "reading": "べっそうばん",
+      "meaning": "quản gia biệt thự"
+    },
+    {
+      "word": "別荘地",
+      "reading": "べっそうち",
+      "meaning": "diện tích biệt thự"
+    },
+    {
+      "word": "荘官",
+      "reading": "しょうかん",
+      "meaning": "người quản lý trang viên"
     },
     {
       "word": "連荘",
@@ -107,19 +127,9 @@
       "meaning": "mở rộng trò chơi"
     },
     {
-      "word": "荘司",
-      "reading": "しょうじ",
-      "meaning": "người quản trị một lãnh thổ"
-    },
-    {
-      "word": "荘重",
-      "reading": "そうちょう",
-      "meaning": "sự trang trọng"
-    },
-    {
-      "word": "荘園",
-      "reading": "しょうえん",
-      "meaning": "điền viên"
+      "word": "田荘",
+      "reading": "たどころ",
+      "meaning": "ruộng tư"
     },
     {
       "word": "老荘",
@@ -130,16 +140,6 @@
       "word": "雀荘",
       "reading": "ジャンそう",
       "meaning": "câu lạc bộ mahjong"
-    },
-    {
-      "word": "一荘",
-      "reading": "イーチャン",
-      "meaning": "một trò chơi mahjong"
-    },
-    {
-      "word": "別荘",
-      "reading": "べっそう",
-      "meaning": "biệt thự"
     }
   ]
 }

@@ -75,9 +75,24 @@
       "meaning": "cực kỳ quen thuộc"
     },
     {
-      "word": "馴合いばいばい",
-      "reading": "馴合い売買",
-      "meaning": "việc mua bán không nhằm mục đích chuyển giao quyền đặt lệnh bán hoặc mua đồng thời"
+      "word": "馴染み",
+      "reading": "なじみ",
+      "meaning": "sự quen thân"
+    },
+    {
+      "word": "幼馴染",
+      "reading": "おさななじみ",
+      "meaning": "người bạn từ tuổi thơ ấu"
+    },
+    {
+      "word": "馴染む",
+      "reading": "なじむ",
+      "meaning": "trở nên thân quen"
+    },
+    {
+      "word": "馴れた",
+      "reading": "なれた",
+      "meaning": "đã được thuần hoá"
     },
     {
       "word": "馴染",
@@ -85,9 +100,14 @@
       "meaning": "sự quen thân"
     },
     {
-      "word": "馴鹿",
-      "reading": "となかい",
-      "meaning": "tuần lộc"
+      "word": "不馴",
+      "reading": "ふなれ",
+      "meaning": "sự thiếu kinh nghiệm"
+    },
+    {
+      "word": "馴れる",
+      "reading": "なれる",
+      "meaning": "trở nên thuần hoá"
     },
     {
       "word": "馴化",
@@ -95,29 +115,9 @@
       "meaning": "sự thích nghi khí hậu"
     },
     {
-      "word": "雅馴",
-      "reading": "がじゅん",
-      "meaning": "thanh lịch"
-    },
-    {
-      "word": "磯馴",
-      "reading": "そなれ",
-      "meaning": "cây ngọa tùng"
-    },
-    {
       "word": "馴致",
       "reading": "じゅんち",
       "meaning": "thuần hóa"
-    },
-    {
-      "word": "不馴",
-      "reading": "ふなれ",
-      "meaning": "sự thiếu kinh nghiệm"
-    },
-    {
-      "word": "馴染み",
-      "reading": "なじみ",
-      "meaning": "sự quen thân"
     }
   ]
 }

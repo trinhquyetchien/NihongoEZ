@@ -57,14 +57,9 @@
       "meaning": "màu đỏ tươi"
     },
     {
-      "word": "緋色",
-      "reading": "ひいろ",
-      "meaning": "màu đỏ tươi"
-    },
-    {
-      "word": "薄緋",
-      "reading": "うすあけ",
-      "meaning": "đỏ tươi"
+      "word": "緋目高",
+      "reading": "ひめだか",
+      "meaning": "cá sóc oryzias latipes"
     },
     {
       "word": "深緋",
@@ -72,19 +67,9 @@
       "meaning": "đỏ đậm"
     },
     {
-      "word": "浅緋",
-      "reading": "あさあけ",
-      "meaning": "pale scarlet"
-    },
-    {
-      "word": "緋鯉",
-      "reading": "ひごい",
-      "meaning": "cá chép"
-    },
-    {
-      "word": "緋袴",
-      "reading": "ひばかま",
-      "meaning": "quần hakama đỏ"
+      "word": "緋の衣",
+      "reading": "ひのころも",
+      "meaning": "màu đỏ tươi mặc áo choàng"
     },
     {
       "word": "緋梅",
@@ -92,14 +77,29 @@
       "meaning": "hoa mai đỏ"
     },
     {
+      "word": "薄緋",
+      "reading": "うすあけ",
+      "meaning": "đỏ tươi"
+    },
+    {
+      "word": "緋衣草",
+      "reading": "ひごろもそう",
+      "meaning": "salvia"
+    },
+    {
       "word": "寒緋桜",
       "reading": "かんひざくら",
       "meaning": "anh đào đài loan"
     },
     {
-      "word": "緋の袴",
-      "reading": "ひのはかま",
-      "meaning": "hakama màu đỏ"
+      "word": "緋寒桜",
+      "reading": "ひかんざくら",
+      "meaning": "anh đào hoa chuông"
+    },
+    {
+      "word": "浅緋",
+      "reading": "あさあけ",
+      "meaning": "pale scarlet"
     }
   ]
 }

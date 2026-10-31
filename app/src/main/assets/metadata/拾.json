@@ -107,34 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "拾",
-      "reading": "じゅう",
-      "meaning": "nhặt"
-    },
-    {
       "word": "拾う",
       "reading": "ひろう",
       "meaning": "nhặt"
     },
     {
-      "word": "拾遺",
-      "reading": "しゅうい",
-      "meaning": "những thứ lượm lặt được"
-    },
-    {
-      "word": "収拾",
-      "reading": "しゅうしゅう",
-      "meaning": "sự thu thập"
-    },
-    {
-      "word": "拾得",
-      "reading": "しゅうとく",
-      "meaning": "giấu"
-    },
-    {
-      "word": "拾集",
-      "reading": "しゅうしゅう",
-      "meaning": "tụ lại lên trên"
+      "word": "拾い目",
+      "reading": "ひろいめ",
+      "meaning": "dò mũi"
     },
     {
       "word": "拾い屋",
@@ -142,19 +122,39 @@
       "meaning": "rag-picker"
     },
     {
+      "word": "拾い主",
+      "reading": "ひろいぬし",
+      "meaning": "người tìm kiếm"
+    },
+    {
+      "word": "球拾い",
+      "reading": "たまひろい",
+      "meaning": "hộp trà"
+    },
+    {
+      "word": "薪拾い",
+      "reading": "たきぎひろい",
+      "meaning": "củi tụ lại"
+    },
+    {
+      "word": "収拾",
+      "reading": "しゅうしゅう",
+      "meaning": "sự thu thập"
+    },
+    {
       "word": "屑拾い",
       "reading": "くずひろい",
       "meaning": "ve chai]"
     },
     {
-      "word": "拾得物",
-      "reading": "しゅうとくぶつ",
-      "meaning": "vật nhặt được"
+      "word": "拾",
+      "reading": "じゅう",
+      "meaning": "nhặt"
     },
     {
-      "word": "拾い物",
-      "reading": "ひろいもの",
-      "meaning": "của trời cho"
+      "word": "拾万円",
+      "reading": "じゅうまんえん",
+      "meaning": "trọn vẹn"
     }
   ]
 }

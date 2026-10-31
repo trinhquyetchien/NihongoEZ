@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "貴族",
+      "reading": "きぞく",
+      "meaning": "đài các"
+    },
+    {
       "word": "族",
       "reading": "ぞく",
       "meaning": "tộc"
     },
     {
-      "word": "蛍族",
-      "reading": "ほたるぞく",
-      "meaning": "người hút thuốc bị buộc phải hút thuốc bên ngoài"
+      "word": "回族",
+      "reading": "かいぞく",
+      "meaning": "người hồi"
+    },
+    {
+      "word": "神族",
+      "reading": "しんぞく",
+      "meaning": "thần tộc"
     },
     {
       "word": "水族",
@@ -102,39 +112,29 @@
       "meaning": "sinh vật dưới nước"
     },
     {
-      "word": "種族",
-      "reading": "しゅぞく",
-      "meaning": "bộ lạc"
-    },
-    {
-      "word": "貴族",
-      "reading": "きぞく",
-      "meaning": "đài các"
-    },
-    {
-      "word": "遺族",
-      "reading": "いぞく",
-      "meaning": "gia quyến"
-    },
-    {
-      "word": "語族",
-      "reading": "ごぞく",
-      "meaning": "họ"
-    },
-    {
-      "word": "マオリ族",
-      "reading": "マオリぞく",
-      "meaning": "tiếng maori"
-    },
-    {
       "word": "魔族",
       "reading": "まぞく",
       "meaning": "ma tộc"
     },
     {
-      "word": "ズールー族",
-      "reading": "ズールーぞく",
-      "meaning": "tộc người zulu"
+      "word": "亜族",
+      "reading": "あぞく",
+      "meaning": "phân nhóm phụ của bảng tuần hoàn các nguyên tố hoá học"
+    },
+    {
+      "word": "卒族",
+      "reading": "そつぞく",
+      "meaning": "low-ranking samurai"
+    },
+    {
+      "word": "キン族",
+      "reading": "キンぞく",
+      "meaning": "dân tộc kinh"
+    },
+    {
+      "word": "サン族",
+      "reading": "サンぞく",
+      "meaning": "người san"
     }
   ]
 }

@@ -90,14 +90,9 @@
       "meaning": "lãnh địa / lãnh thổ thuộc về lãnh chúa"
     },
     {
-      "word": "廃藩",
-      "reading": "はいはん",
-      "meaning": "sự xóa bỏ chế độ thị tộc"
-    },
-    {
-      "word": "藩医",
-      "reading": "はんい",
-      "meaning": "bác sĩ thời edo làm việc tại một phòng khám công"
+      "word": "藩王",
+      "reading": "はんおう",
+      "meaning": "lãnh chúa phong kiến người theo đạo hindu được gọi là maharaja raja thakur"
     },
     {
       "word": "同藩",
@@ -105,34 +100,39 @@
       "meaning": "cùng thị tộc đó"
     },
     {
-      "word": "藩閥",
-      "reading": "はんばつ",
-      "meaning": "sự kết bè phái"
+      "word": "各藩",
+      "reading": "かくはん",
+      "meaning": "mỗi thị tộc"
     },
     {
-      "word": "藩主",
-      "reading": "はんしゅ",
-      "meaning": "lãnh chúa"
+      "word": "藩医",
+      "reading": "はんい",
+      "meaning": "bác sĩ thời edo làm việc tại một phòng khám công"
     },
     {
-      "word": "藩学",
-      "reading": "はんがく",
-      "meaning": "trường học cho con của các võ sĩ samurai"
+      "word": "藩王国",
+      "reading": "はんおうこく",
+      "meaning": "nhà nước bản địa"
     },
     {
-      "word": "旧藩",
-      "reading": "きゅうはん",
-      "meaning": "cựu thị tộc"
+      "word": "藩知事",
+      "reading": "はんちじ",
+      "meaning": "thống đốc của một lãnh địa phong kiến"
     },
     {
-      "word": "列藩",
-      "reading": "れっぱん",
-      "meaning": "các thị tộc phong kiến"
+      "word": "諸藩",
+      "reading": "しょはん",
+      "meaning": "các lĩnh vực khác nhau"
     },
     {
-      "word": "脱藩",
-      "reading": "だっぱん",
-      "meaning": "trở thành là một samurai không chủ"
+      "word": "廃藩",
+      "reading": "はいはん",
+      "meaning": "sự xóa bỏ chế độ thị tộc"
+    },
+    {
+      "word": "知藩事",
+      "reading": "ちはんじ",
+      "meaning": "tri phiên sự"
     }
   ]
 }

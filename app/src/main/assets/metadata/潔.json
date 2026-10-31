@@ -89,34 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "潔い",
-      "reading": "いさぎよい",
-      "meaning": "thẳng thắn"
-    },
-    {
-      "word": "純潔",
-      "reading": "じゅんけつ",
-      "meaning": "thuần khiết"
-    },
-    {
-      "word": "高潔",
-      "reading": "こうけつ",
-      "meaning": "cao quí"
-    },
-    {
-      "word": "潔癖",
-      "reading": "けっぺき",
-      "meaning": "sự ưa sạch sẽ"
-    },
-    {
-      "word": "潔し",
-      "reading": "いさぎよし",
-      "meaning": "tự hào"
-    },
-    {
-      "word": "潔斎",
-      "reading": "けっさい",
-      "meaning": "sự kiêng tôn giáo"
+      "word": "清潔",
+      "reading": "せいけつ",
+      "meaning": "sự thanh khiết"
     },
     {
       "word": "不潔",
@@ -124,19 +99,44 @@
       "meaning": "không sạch sẽ"
     },
     {
-      "word": "貞潔",
-      "reading": "ていけつ",
-      "meaning": "trong sáng"
+      "word": "簡潔",
+      "reading": "かんけつ",
+      "meaning": "sự thanh khiết"
     },
     {
-      "word": "清潔",
-      "reading": "せいけつ",
-      "meaning": "sự thanh khiết"
+      "word": "清潔な",
+      "reading": "せいけつな",
+      "meaning": "sạch"
+    },
+    {
+      "word": "清潔感",
+      "reading": "せいけつかん",
+      "meaning": "sự sạch sẽ"
+    },
+    {
+      "word": "高潔",
+      "reading": "こうけつ",
+      "meaning": "cao quí"
+    },
+    {
+      "word": "簡潔性",
+      "reading": "かんけつせい",
+      "meaning": "tính bình dị"
     },
     {
       "word": "潔白",
       "reading": "けっぱく",
       "meaning": "sự trong sạch"
+    },
+    {
+      "word": "純潔",
+      "reading": "じゅんけつ",
+      "meaning": "thuần khiết"
+    },
+    {
+      "word": "純潔な",
+      "reading": "じゅんけつな",
+      "meaning": "thuần phong"
     }
   ]
 }

@@ -92,34 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "目盛",
-      "reading": "めもり",
-      "meaning": "các ngấn trên dụng cu đo lường"
-    },
-    {
-      "word": "極盛",
-      "reading": "きょくせい",
-      "meaning": "điểm cao nhất"
-    },
-    {
-      "word": "並盛",
-      "reading": "なみもり",
-      "meaning": "thường"
-    },
-    {
-      "word": "盛栄",
-      "reading": "せいえい",
-      "meaning": "thịnh vượng"
-    },
-    {
-      "word": "中盛",
-      "reading": "ちゅうもり",
-      "meaning": "suất bình thường"
-    },
-    {
-      "word": "旺盛",
-      "reading": "おうせい",
-      "meaning": "sự thịnh vượng"
+      "word": "盛ん",
+      "reading": "さかん",
+      "meaning": "chuộng"
     },
     {
       "word": "盛り",
@@ -127,19 +102,44 @@
       "meaning": "đỉnh"
     },
     {
-      "word": "盛会",
-      "reading": "せいかい",
-      "meaning": "thành công gặp"
+      "word": "盛る",
+      "reading": "さかる",
+      "meaning": "đổ đầy"
     },
     {
-      "word": "隆盛",
-      "reading": "りゅうせい",
-      "meaning": "sự phồn thịnh"
+      "word": "盛大",
+      "reading": "せいだい",
+      "meaning": "hùng vĩ"
     },
     {
-      "word": "盛名",
-      "reading": "せいめい",
-      "meaning": "danh tiếng"
+      "word": "繁盛",
+      "reading": "はんじょう",
+      "meaning": "sự phồn vinh"
+    },
+    {
+      "word": "全盛",
+      "reading": "ぜんせい",
+      "meaning": "sự thịnh vượng"
+    },
+    {
+      "word": "盛装",
+      "reading": "せいそう",
+      "meaning": "được trang điểm"
+    },
+    {
+      "word": "女盛り",
+      "reading": "おんなざかり",
+      "meaning": "thiếu nữ tuổi dậy thì"
+    },
+    {
+      "word": "盛り塩",
+      "reading": "もりじお",
+      "meaning": "muối trừ tà ma"
+    },
+    {
+      "word": "中盛",
+      "reading": "ちゅうもり",
+      "meaning": "suất bình thường"
     }
   ]
 }

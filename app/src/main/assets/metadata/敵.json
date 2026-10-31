@@ -96,29 +96,24 @@
       "meaning": "kẻ địch"
     },
     {
+      "word": "匹敵",
+      "reading": "ひってき",
+      "meaning": "ngang tầm"
+    },
+    {
       "word": "敵う",
       "reading": "かなう",
       "meaning": "phù hợp"
     },
     {
-      "word": "政敵",
-      "reading": "せいてき",
-      "meaning": "phe đối lập"
+      "word": "敵中",
+      "reading": "てきちゅう",
+      "meaning": "trong lòng địch"
     },
     {
-      "word": "敵影",
-      "reading": "てきえい",
-      "meaning": "bóng quân địch"
-    },
-    {
-      "word": "敵地",
-      "reading": "てきち",
-      "meaning": "đắc địa"
-    },
-    {
-      "word": "敵機",
-      "reading": "てっき",
-      "meaning": "máy bay địch"
+      "word": "敵方",
+      "reading": "てきがた",
+      "meaning": "quân địch"
     },
     {
       "word": "敵側",
@@ -126,19 +121,24 @@
       "meaning": "quân địch"
     },
     {
-      "word": "敵陣",
-      "reading": "てきじん",
-      "meaning": "trại địch"
+      "word": "敵機",
+      "reading": "てっき",
+      "meaning": "máy bay địch"
     },
     {
-      "word": "敵飛",
-      "reading": "てきひ",
-      "meaning": "những đối thủ hisha"
+      "word": "敵地",
+      "reading": "てきち",
+      "meaning": "đắc địa"
     },
     {
-      "word": "敵歩",
-      "reading": "てきふ",
-      "meaning": "những đối thủ cầm đồ"
+      "word": "敵王",
+      "reading": "てきおう",
+      "meaning": "vua đối phương"
+    },
+    {
+      "word": "敵弾",
+      "reading": "てきだん",
+      "meaning": "đạn địch"
     }
   ]
 }

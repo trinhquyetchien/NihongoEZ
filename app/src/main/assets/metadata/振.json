@@ -91,24 +91,44 @@
   ],
   "vocabulary": [
     {
-      "word": "防振ゴム/防振パッド/防振装置",
-      "reading": "ぼうしんゴム/ぼうしんパッド/ぼうしんそうち",
-      "meaning": "cao su chống rung/pad chống rung/thiết bị chống rung"
+      "word": "振る",
+      "reading": "ふる",
+      "meaning": "chỉ định"
     },
     {
-      "word": "振り振る",
-      "reading": "ふりふる",
-      "meaning": "khua"
+      "word": "振り",
+      "reading": "ふり",
+      "meaning": "phong cách"
     },
     {
-      "word": "学振",
-      "reading": "がくしん",
-      "meaning": "viết tắt của 日本学術振興会 - hiệp hội xúc tiến khoa học nhật bản"
+      "word": "振動",
+      "reading": "しんどう",
+      "meaning": "sự chấn động"
     },
     {
-      "word": "ふれとりだい 振れ取り台",
-      "reading": "振れ取り台",
-      "meaning": "bàn cân bằng"
+      "word": "振興",
+      "reading": "しんこう",
+      "meaning": "sự khuyến khích"
+    },
+    {
+      "word": "不振",
+      "reading": "ふしん",
+      "meaning": "không tốt"
+    },
+    {
+      "word": "身振り",
+      "reading": "みぶり",
+      "meaning": "điệu bộ"
+    },
+    {
+      "word": "前振り",
+      "reading": "まえふり",
+      "meaning": "mở đầu khi nói chuyện"
+    },
+    {
+      "word": "三振",
+      "reading": "さんしん",
+      "meaning": "bị đối phương đập trúng bóng ba lần thì loại"
     },
     {
       "word": "振込",
@@ -116,29 +136,9 @@
       "meaning": "chuyển khoản"
     },
     {
-      "word": "振袖",
-      "reading": "ふりそで",
-      "meaning": "áo kimônô có tay áo kéo dài"
-    },
-    {
       "word": "口振",
       "reading": "こうふり",
       "meaning": "dịch vụ thanh toán tự động"
-    },
-    {
-      "word": "振幅",
-      "reading": "しんぷく",
-      "meaning": "độ rộng"
-    },
-    {
-      "word": "共振",
-      "reading": "きょうしん",
-      "meaning": "tiếng âm vang"
-    },
-    {
-      "word": "三振",
-      "reading": "さんしん",
-      "meaning": "bị đối phương đập trúng bóng ba lần thì loại"
     }
   ]
 }

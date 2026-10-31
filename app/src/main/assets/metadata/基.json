@@ -124,23 +124,28 @@
   ],
   "vocabulary": [
     {
+      "word": "基本",
+      "reading": "きほん",
+      "meaning": "cơ bản"
+    },
+    {
+      "word": "基準",
+      "reading": "きじゅん",
+      "meaning": "tiêu chuẩn"
+    },
+    {
+      "word": "基地",
+      "reading": "きち",
+      "meaning": "căn cứ địa"
+    },
+    {
+      "word": "基盤",
+      "reading": "きばん",
+      "meaning": "nền móng"
+    },
+    {
       "word": "基",
       "reading": "もと",
-      "meaning": "cơ sở"
-    },
-    {
-      "word": "基本中の基本",
-      "reading": "きほんちゅうのきほん",
-      "meaning": "cơ bản về khái niệm cơ bản"
-    },
-    {
-      "word": "基源",
-      "reading": "きげん",
-      "meaning": "thành phần"
-    },
-    {
-      "word": "基部",
-      "reading": "きぶ",
       "meaning": "cơ sở"
     },
     {
@@ -149,29 +154,24 @@
       "meaning": "ngôn ngữ gốc"
     },
     {
-      "word": "基因",
-      "reading": "きいん",
-      "meaning": "nguyên nhân khởi đầu"
-    },
-    {
       "word": "基石",
       "reading": "きせき",
       "meaning": "viên đá đặt nền"
     },
     {
-      "word": "基板",
-      "reading": "きばん",
-      "meaning": "bảng mạch điện tử"
+      "word": "石基",
+      "reading": "せっき",
+      "meaning": "ma trận"
     },
     {
-      "word": "基音",
-      "reading": "きおん",
-      "meaning": "giai điệu cơ bản"
+      "word": "基剤",
+      "reading": "きざい",
+      "meaning": "tá dược"
     },
     {
-      "word": "塩基",
-      "reading": "えんき",
-      "meaning": "bazơ"
+      "word": "基源",
+      "reading": "きげん",
+      "meaning": "thành phần"
     }
   ]
 }

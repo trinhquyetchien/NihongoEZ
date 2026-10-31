@@ -34,6 +34,11 @@
       "meaning": "đo"
     },
     {
+      "word": "浸透桝",
+      "reading": "しんとうます",
+      "meaning": "cái xô để thẩm thấu nước"
+    },
+    {
       "word": "雨水桝",
       "reading": "うすいます",
       "meaning": "giếng nước mưa đường phố"
@@ -42,11 +47,6 @@
       "word": "桝型ブロック",
       "reading": "ますかたブロック",
       "meaning": "khối v rãnh vuông chuẩn"
-    },
-    {
-      "word": "浸透桝",
-      "reading": "しんとうます",
-      "meaning": "cái xô để thẩm thấu nước"
     }
   ]
 }

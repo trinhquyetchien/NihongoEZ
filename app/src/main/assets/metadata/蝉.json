@@ -55,14 +55,19 @@
       "meaning": "ve sầu"
     },
     {
-      "word": "春蝉",
-      "reading": "はるぜみ",
-      "meaning": "ve sầu yezoterpnosia vacua"
+      "word": "夏蝉",
+      "reading": "なつぜみ",
+      "meaning": "ve sầu mùa hè"
     },
     {
-      "word": "唖蝉",
-      "reading": "おしぜみ",
-      "meaning": "ve sầu câm"
+      "word": "秋蝉",
+      "reading": "あきぜみ",
+      "meaning": "ve mùa thu"
+    },
+    {
+      "word": "秋の蝉",
+      "reading": "あきのせみ",
+      "meaning": "ve xuất hiện trong mùa thu"
     },
     {
       "word": "角蝉",
@@ -70,34 +75,29 @@
       "meaning": "ve sầu sừng"
     },
     {
-      "word": "川蝉",
-      "reading": "かわせみ",
-      "meaning": "chim bói cá"
-    },
-    {
-      "word": "夏蝉",
-      "reading": "なつぜみ",
-      "meaning": "ve sầu mùa hè"
-    },
-    {
-      "word": "油蝉",
-      "reading": "あぶらぜみ",
-      "meaning": "con ve sầu nâu lớn"
-    },
-    {
-      "word": "松蝉",
-      "reading": "まつぜみ",
-      "meaning": "con ve sầu dư thừa trong muộn nứt rạn"
-    },
-    {
-      "word": "空蝉",
-      "reading": "うつせみ",
-      "meaning": "con ve sầu"
-    },
-    {
       "word": "寒蝉",
       "reading": "かんぜみ",
       "meaning": "con ve sầu xuất hiện và kêu vào cuối thu"
+    },
+    {
+      "word": "熊蝉",
+      "reading": "くまぜみ",
+      "meaning": "ve sầu cryptotympana facialis"
+    },
+    {
+      "word": "蝉海老",
+      "reading": "せみえび",
+      "meaning": "scyllarides squammosus"
+    },
+    {
+      "word": "法師蝉",
+      "reading": "ほうしぜみ",
+      "meaning": "meimuna opalifera"
+    },
+    {
+      "word": "唖蝉",
+      "reading": "おしぜみ",
+      "meaning": "ve sầu câm"
     }
   ]
 }

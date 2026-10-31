@@ -90,39 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "厚",
-      "reading": "あつ",
-      "meaning": "độ dày"
-    },
-    {
       "word": "厚い",
       "reading": "あつい",
       "meaning": "dày"
     },
     {
-      "word": "厚生",
-      "reading": "こうせい",
-      "meaning": "y tế"
+      "word": "厚",
+      "reading": "あつ",
+      "meaning": "độ dày"
     },
     {
-      "word": "厚紙",
-      "reading": "あつがみ",
-      "meaning": "giấy bìa"
-    },
-    {
-      "word": "厚着",
-      "reading": "あつぎ",
-      "meaning": "quần áo dày"
-    },
-    {
-      "word": "肥厚",
-      "reading": "ひこう",
-      "meaning": "sự nở to"
-    },
-    {
-      "word": "厚朴",
-      "reading": "ほお",
-      "meaning": "cây bạch phụ"
+      "word": "厚さ",
+      "reading": "あつさ",
+      "meaning": "bề dày"
     },
     {
       "word": "厚味",
@@ -130,14 +110,34 @@
       "meaning": "bề dày"
     },
     {
+      "word": "肉厚",
+      "reading": "にくあつ",
+      "meaning": "độ dày"
+    },
+    {
+      "word": "厚生",
+      "reading": "こうせい",
+      "meaning": "y tế"
+    },
+    {
+      "word": "激厚",
+      "reading": "げきあつ",
+      "meaning": "rất dày"
+    },
+    {
       "word": "厚板",
       "reading": "あついた",
       "meaning": "tấm ván dày"
     },
     {
-      "word": "厚地",
-      "reading": "あつじ",
-      "meaning": "vải dày"
+      "word": "板厚",
+      "reading": "いたあつ",
+      "meaning": "độ dày tấm ván"
+    },
+    {
+      "word": "歯厚",
+      "reading": "はあつ",
+      "meaning": "độ dày răng"
     }
   ]
 }

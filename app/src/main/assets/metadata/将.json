@@ -111,14 +111,9 @@
   ],
   "vocabulary": [
     {
-      "word": "将",
-      "reading": "しょう",
-      "meaning": "người chỉ huy"
-    },
-    {
-      "word": "将中に将たる",
-      "reading": "しょうちゅうにしょうたる",
-      "meaning": "để là một người lãnh đạo giữa những người lãnh đạo"
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "đời sau"
     },
     {
       "word": "将棋",
@@ -131,34 +126,39 @@
       "meaning": "tướng quân"
     },
     {
-      "word": "主将",
-      "reading": "しゅしょう",
-      "meaning": "chủ tướng"
+      "word": "将",
+      "reading": "しょう",
+      "meaning": "người chỉ huy"
     },
     {
-      "word": "将官",
-      "reading": "しょうかん",
-      "meaning": "chung"
+      "word": "一将",
+      "reading": "いっしょう",
+      "meaning": "một vị tướng"
     },
     {
-      "word": "将校",
-      "reading": "しょうこう",
-      "meaning": "tướng tá"
+      "word": "次将",
+      "reading": "じしょう",
+      "meaning": "người phó"
     },
     {
-      "word": "将来",
-      "reading": "しょうらい",
-      "meaning": "đời sau"
+      "word": "軍将",
+      "reading": "ぐんしょう",
+      "meaning": "người chỉ huy quân đội"
     },
     {
-      "word": "金将",
-      "reading": "きんしょう",
-      "meaning": "chung vàng"
+      "word": "海将",
+      "reading": "かいしょう",
+      "meaning": "phó đô đốc"
     },
     {
-      "word": "陸将",
-      "reading": "りくしょう",
-      "meaning": "trung tướng"
+      "word": "空将",
+      "reading": "くうしょう",
+      "meaning": "trung tướng không quân"
+    },
+    {
+      "word": "良将",
+      "reading": "りょうしょう",
+      "meaning": "đại tướng quân"
     }
   ]
 }

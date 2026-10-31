@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "雇",
-      "reading": "やとい",
-      "meaning": "người làm thuê chính phủ"
-    },
-    {
-      "word": "雇用増大",
-      "reading": "こようぞうだい",
-      "meaning": "mở rộng qui mô lao động"
+      "word": "雇う",
+      "reading": "やとう",
+      "meaning": "thuê người"
     },
     {
       "word": "雇用",
@@ -104,39 +99,44 @@
       "meaning": "sự thuê mướn"
     },
     {
-      "word": "雇い",
-      "reading": "やとい",
-      "meaning": "người làm"
+      "word": "雇用者",
+      "reading": "こようしゃ",
+      "meaning": "người sử dụng lao động"
     },
     {
-      "word": "雇員",
-      "reading": "こいん",
-      "meaning": "trợ lý"
+      "word": "雇用国",
+      "reading": "こようこく",
+      "meaning": "đất nước của việc làm"
     },
     {
-      "word": "雇傭",
-      "reading": "こよう",
-      "meaning": "việc làm"
+      "word": "再雇用",
+      "reading": "さいこよう",
+      "meaning": "sự tái tuyển dụng"
     },
     {
-      "word": "雇人",
-      "reading": "やといにん",
-      "meaning": "người làm"
-    },
-    {
-      "word": "雇主",
-      "reading": "やといぬし",
-      "meaning": "chủ lao động"
-    },
-    {
-      "word": "雇う",
-      "reading": "やとう",
-      "meaning": "thuê người"
+      "word": "雇用主",
+      "reading": "こようぬし",
+      "meaning": "người chủ"
     },
     {
       "word": "解雇",
       "reading": "かいこ",
       "meaning": "sự cho nghỉ việc"
+    },
+    {
+      "word": "解雇者",
+      "reading": "かいこしゃ",
+      "meaning": "người mà đã được đặt ra khỏi"
+    },
+    {
+      "word": "雇い",
+      "reading": "やとい",
+      "meaning": "người làm"
+    },
+    {
+      "word": "雇い口",
+      "reading": "やといぐち",
+      "meaning": "làm việc"
     }
   ]
 }

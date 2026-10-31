@@ -109,14 +109,44 @@
   ],
   "vocabulary": [
     {
-      "word": "甘藷",
-      "reading": "さつまいも",
-      "meaning": "cây khoai lang"
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "ngon ngọt"
     },
     {
-      "word": "甘み",
-      "reading": "あまみ",
-      "meaning": "tính chất ngọt"
+      "word": "甘口",
+      "reading": "あまくち",
+      "meaning": "vị ngọt"
+    },
+    {
+      "word": "甘い話",
+      "reading": "うまいはなし",
+      "meaning": "câu chuyện hay"
+    },
+    {
+      "word": "大甘",
+      "reading": "おおあま",
+      "meaning": "dễ dãi"
+    },
+    {
+      "word": "甘子",
+      "reading": "あまご",
+      "meaning": "cá hồi masu có đốm màu đỏ"
+    },
+    {
+      "word": "甘夢",
+      "reading": "かんむ",
+      "meaning": "kẹo mơ"
+    },
+    {
+      "word": "甘夏",
+      "reading": "あまなつ",
+      "meaning": "bưởi the ngọt"
+    },
+    {
+      "word": "甘王",
+      "reading": "あまおう",
+      "meaning": "dâu tây amaou"
     },
     {
       "word": "甘々",
@@ -124,39 +154,9 @@
       "meaning": "ngọt ngào"
     },
     {
-      "word": "甘ロリ",
-      "reading": "あまロリ",
-      "meaning": "lolita dễ thương"
-    },
-    {
-      "word": "甘酢",
-      "reading": "あまず",
-      "meaning": "dấm ngọt"
-    },
-    {
-      "word": "甘薯",
-      "reading": "さつまいも",
-      "meaning": "cây khoai lang"
-    },
-    {
-      "word": "甘心",
-      "reading": "かんしん",
-      "meaning": "sự làm cho thoả mãn"
-    },
-    {
-      "word": "甘蔗",
-      "reading": "かんしょ",
-      "meaning": "cây mía"
-    },
-    {
-      "word": "甘藍",
-      "reading": "かんらん",
-      "meaning": "bắp cải"
-    },
-    {
-      "word": "甘汞",
-      "reading": "かんこう",
-      "meaning": "calomel"
+      "word": "甘肌",
+      "reading": "あまはだ",
+      "meaning": "endocarp"
     }
   ]
 }

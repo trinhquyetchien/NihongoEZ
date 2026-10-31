@@ -86,29 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "酵素と補酵素",
-      "reading": "こうそとおぎなえこうそ",
-      "meaning": "enzym và coenzyme"
-    },
-    {
-      "word": "アミノアシルティーアールエヌエー合成酵素",
-      "reading": "アミノアシルtRNA合成酵素",
-      "meaning": "amino acyl-trna synthetase"
-    },
-    {
-      "word": "酵母",
-      "reading": "こうぼ",
-      "meaning": "men"
-    },
-    {
       "word": "酵素",
       "reading": "こうそ",
       "meaning": "enzim"
     },
     {
-      "word": "醗酵",
-      "reading": "はっこう",
-      "meaning": "sự lên men"
+      "word": "酵素学",
+      "reading": "こうそがく",
+      "meaning": "enzym học"
+    },
+    {
+      "word": "助酵素",
+      "reading": "じょこうそ",
+      "meaning": "coenzyme"
     },
     {
       "word": "発酵",
@@ -116,24 +106,34 @@
       "meaning": "sự lên men"
     },
     {
-      "word": "ビール酵母",
-      "reading": "ビールこうぼ",
-      "meaning": "men bia"
-    },
-    {
-      "word": "銅酵母",
-      "reading": "あかがねこうぼ",
-      "meaning": "men đồng"
-    },
-    {
       "word": "発酵病",
       "reading": "はっこうびょう",
       "meaning": "bệnh lên men"
     },
     {
-      "word": "鉄酵母",
-      "reading": "てつこうぼ",
-      "meaning": "men sắt"
+      "word": "発酵乳",
+      "reading": "はっこうにゅう",
+      "meaning": "sữa chua"
+    },
+    {
+      "word": "発酵素",
+      "reading": "はっこうそ",
+      "meaning": "cái men"
+    },
+    {
+      "word": "発酵菌",
+      "reading": "はっこうきん",
+      "meaning": "vi sinh vật lên men"
+    },
+    {
+      "word": "補酵素",
+      "reading": "ほこうそ",
+      "meaning": "coenzyme"
+    },
+    {
+      "word": "酵母",
+      "reading": "こうぼ",
+      "meaning": "men"
     }
   ]
 }

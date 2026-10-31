@@ -109,9 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "沢",
-      "reading": "さわ",
-      "meaning": "đầm nước"
+      "word": "贅沢",
+      "reading": "ぜいたく",
+      "meaning": "sự xa xỉ"
     },
     {
       "word": "光沢",
@@ -119,19 +119,24 @@
       "meaning": "độ bóng"
     },
     {
-      "word": "沢鵟",
-      "reading": "ちゅうひ",
-      "meaning": "diều đầu trắng"
+      "word": "沢山",
+      "reading": "たくさん",
+      "meaning": "đủ"
     },
     {
-      "word": "恩沢",
-      "reading": "おんたく",
-      "meaning": "ưu đãi"
+      "word": "贅沢屋",
+      "reading": "ぜいたくや",
+      "meaning": "cửa hàng sang trọng"
     },
     {
-      "word": "余沢",
-      "reading": "よたく",
-      "meaning": "sự phế truất"
+      "word": "贅沢品",
+      "reading": "ぜいたくひん",
+      "meaning": "món hàng xa xỉ"
+    },
+    {
+      "word": "沢",
+      "reading": "さわ",
+      "meaning": "đầm nước"
     },
     {
       "word": "色沢",
@@ -139,24 +144,19 @@
       "meaning": "sự vẻ vang và màu"
     },
     {
-      "word": "沢辺",
-      "reading": "さわべ",
-      "meaning": "bờ một đầm lầy"
+      "word": "沢筋",
+      "reading": "さわすじ",
+      "meaning": "mạch nước"
     },
     {
-      "word": "沢柴",
-      "reading": "さわしば",
-      "meaning": "carpinus cordata"
+      "word": "うた沢",
+      "reading": "うたざわ",
+      "meaning": "utazawa"
     },
     {
-      "word": "白沢",
-      "reading": "はくたく",
-      "meaning": "bạch trạch"
-    },
-    {
-      "word": "沢瀉",
-      "reading": "おもだか",
-      "meaning": "sagittaria trifolia"
+      "word": "沢登り",
+      "reading": "さわのぼり",
+      "meaning": "leo lên đèo"
     }
   ]
 }

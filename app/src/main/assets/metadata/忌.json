@@ -96,14 +96,14 @@
       "meaning": "ngày giỗ"
     },
     {
-      "word": "忌忌しい",
-      "reading": "ゆゆしい",
-      "meaning": "nghiêm trọng"
+      "word": "回忌",
+      "reading": "かいき",
+      "meaning": "sự kỷ niệm ngày mất"
     },
     {
-      "word": "忌ま忌ましい",
-      "reading": "いまいましい",
-      "meaning": "làm trái ý"
+      "word": "忌言葉",
+      "reading": "いみことば",
+      "meaning": "cấm đoán từ"
     },
     {
       "word": "服忌",
@@ -111,34 +111,34 @@
       "meaning": "tang"
     },
     {
+      "word": "周忌",
+      "reading": "しゅうき",
+      "meaning": "kỷ niệm ngày mất"
+    },
+    {
       "word": "禁忌",
       "reading": "きんき",
       "meaning": "húy kỵ"
     },
     {
-      "word": "忌諱",
-      "reading": "きき",
-      "meaning": "sự không hài lòng"
+      "word": "忌避",
+      "reading": "きひ",
+      "meaning": "sự né tránh"
     },
     {
-      "word": "忌み",
-      "reading": "いみ",
-      "meaning": "sự kiêng kỵ"
+      "word": "忌避剤",
+      "reading": "きひざい",
+      "meaning": "thuốc xua đuổi"
     },
     {
-      "word": "忌中",
-      "reading": "きちゅう",
-      "meaning": "sự đau khổ"
+      "word": "時雨忌",
+      "reading": "しぐれき",
+      "meaning": "ngày lễ kỷ niệm mưa phùn"
     },
     {
-      "word": "遠忌",
-      "reading": "おんき",
-      "meaning": "ngày giỗ thứ 13 trở đi"
-    },
-    {
-      "word": "回忌",
-      "reading": "かいき",
-      "meaning": "sự kỷ niệm ngày mất"
+      "word": "忌垣",
+      "reading": "いがき",
+      "meaning": "tránh né xung quanh một miếu thờ"
     }
   ]
 }

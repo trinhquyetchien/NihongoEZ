@@ -92,29 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "慎み",
-      "reading": "つつしみ",
-      "meaning": "sự từ tốn"
+      "word": "慎重",
+      "reading": "しんちょう",
+      "meaning": "sự thận trọng"
     },
     {
       "word": "慎む",
       "reading": "つつしむ",
       "meaning": "cẩn thận"
-    },
-    {
-      "word": "謹慎",
-      "reading": "きんしん",
-      "meaning": "sự quản thúc tại gia"
-    },
-    {
-      "word": "戒慎",
-      "reading": "かいしん",
-      "meaning": "sự thận trọng"
-    },
-    {
-      "word": "慎重",
-      "reading": "しんちょう",
-      "meaning": "sự thận trọng"
     },
     {
       "word": "慎重論",
@@ -127,19 +112,34 @@
       "meaning": "không cẩn trọng"
     },
     {
+      "word": "謹慎",
+      "reading": "きんしん",
+      "meaning": "sự quản thúc tại gia"
+    },
+    {
       "word": "重謹慎",
       "reading": "じゅうきんしん",
       "meaning": "đóng sự giam cầm ai đó)"
     },
     {
-      "word": "慎み深い",
-      "reading": "つつしみぶかい",
-      "meaning": "dè dặt"
+      "word": "慎み",
+      "reading": "つつしみ",
+      "meaning": "sự từ tốn"
     },
     {
-      "word": "慎重居士",
-      "reading": "しんちょうこじ",
-      "meaning": "người rất cẩn trọng"
+      "word": "戒慎",
+      "reading": "かいしん",
+      "meaning": "sự thận trọng"
+    },
+    {
+      "word": "自宅謹慎",
+      "reading": "じたくきんしん",
+      "meaning": "quản thúc tại gia"
+    },
+    {
+      "word": "慎重吟味",
+      "reading": "しんちょうぎんみ",
+      "meaning": "sự điều tra và lựa chọn kỹ lưỡng"
     }
   ]
 }

@@ -89,34 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "償",
-      "reading": "しょう",
-      "meaning": "làm lên trên cho"
+      "word": "賠償",
+      "reading": "ばいしょう",
+      "meaning": "sự bồi thường"
     },
     {
-      "word": "補償と賠償",
-      "reading": "ほしょーとばいしょー",
-      "meaning": "bồi thường và khắc phục"
+      "word": "補償",
+      "reading": "ほしょう",
+      "meaning": "bù lỗ"
     },
     {
-      "word": "償還",
-      "reading": "しょうかん",
-      "meaning": "sự trả lại"
+      "word": "弁償",
+      "reading": "べんしょう",
+      "meaning": "sự bồi thường"
     },
     {
-      "word": "償い",
-      "reading": "つぐない",
-      "meaning": "sự đền bù"
-    },
-    {
-      "word": "償う",
-      "reading": "つぐなう",
-      "meaning": "bồi thường"
-    },
-    {
-      "word": "償却",
-      "reading": "しょうきゃく",
-      "meaning": "trả lại"
+      "word": "賠償金",
+      "reading": "ばいしょうきん",
+      "meaning": "tiền bồi thường"
     },
     {
       "word": "無償",
@@ -124,19 +114,29 @@
       "meaning": "sự không bồi thường"
     },
     {
-      "word": "報償",
-      "reading": "ほうしょう",
+      "word": "無償化",
+      "reading": "むしょうか",
+      "meaning": "miễn phí"
+    },
+    {
+      "word": "補償金",
+      "reading": "ほしょうきん",
+      "meaning": "sự thanh toán bồi thường"
+    },
+    {
+      "word": "補償法",
+      "reading": "ほしょーほー",
+      "meaning": "phương thức bồi thường"
+    },
+    {
+      "word": "代償",
+      "reading": "だいしょう",
+      "meaning": "sự đền bù"
+    },
+    {
+      "word": "有償",
+      "reading": "ゆうしょう",
       "meaning": "sự bồi thường"
-    },
-    {
-      "word": "求償",
-      "reading": "きゅうしょう",
-      "meaning": "đòi bồi thường"
-    },
-    {
-      "word": "要償",
-      "reading": "ようしょう",
-      "meaning": "yêu cầu bồi thường thiệt hại"
     }
   ]
 }

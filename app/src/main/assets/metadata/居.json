@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "居",
-      "reading": "い",
-      "meaning": "vị trí"
-    },
-    {
-      "word": "隠居",
-      "reading": "いんきょ",
-      "meaning": "về hưu"
+      "word": "芝居",
+      "reading": "しばい",
+      "meaning": "kịch"
     },
     {
       "word": "居間",
@@ -107,14 +102,24 @@
       "meaning": "phòng khách"
     },
     {
-      "word": "居職",
-      "reading": "いじょく",
-      "meaning": "cư trú"
+      "word": "居住",
+      "reading": "きょじゅう",
+      "meaning": "địa chỉ"
     },
     {
-      "word": "居所",
-      "reading": "いどころ",
-      "meaning": "nơi ở"
+      "word": "同居",
+      "reading": "どうきょ",
+      "meaning": "đồng cư"
+    },
+    {
+      "word": "鳥居",
+      "reading": "とりい",
+      "meaning": "cổng vào đền thờ đạo shinto"
+    },
+    {
+      "word": "転居",
+      "reading": "てんきょ",
+      "meaning": "chuyển chỗ ở"
     },
     {
       "word": "皇居",
@@ -122,24 +127,19 @@
       "meaning": "hoàng cung"
     },
     {
-      "word": "居住",
-      "reading": "きょじゅう",
-      "meaning": "địa chỉ"
+      "word": "隠居",
+      "reading": "いんきょ",
+      "meaning": "về hưu"
     },
     {
-      "word": "芝居",
-      "reading": "しばい",
-      "meaning": "kịch"
+      "word": "居",
+      "reading": "い",
+      "meaning": "vị trí"
     },
     {
-      "word": "居宅",
-      "reading": "きょたく",
-      "meaning": "tại nhà"
-    },
-    {
-      "word": "住居",
-      "reading": "じゅうきょ",
-      "meaning": "nhà"
+      "word": "円居",
+      "reading": "まどい",
+      "meaning": "nhỏ tụ lại"
     }
   ]
 }

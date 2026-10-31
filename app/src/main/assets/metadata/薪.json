@@ -91,29 +91,14 @@
       "meaning": "củi"
     },
     {
-      "word": "薪ストーブ",
-      "reading": "まきストーブ",
-      "meaning": "lò sưởi củi"
-    },
-    {
-      "word": "薪能",
-      "reading": "たきぎのう",
-      "meaning": "nhà hát được biểu diễn vào ban đêm bên đống lửa"
-    },
-    {
       "word": "薪割",
       "reading": "まきわり",
       "meaning": "chặt gỗ"
     },
     {
-      "word": "薪水",
-      "reading": "しんすい",
-      "meaning": "củi và nước"
-    },
-    {
-      "word": "薪炭",
-      "reading": "しんたん",
-      "meaning": "than củi"
+      "word": "薪割機",
+      "reading": "まりわりき",
+      "meaning": "máy chẻ củi"
     },
     {
       "word": "御薪",
@@ -121,9 +106,9 @@
       "meaning": "củi nghi lễ"
     },
     {
-      "word": "薪割り",
-      "reading": "まきわり",
-      "meaning": "bổ củi"
+      "word": "薪小屋",
+      "reading": "まきごや",
+      "meaning": "kho củi"
     },
     {
       "word": "薪拾い",
@@ -131,9 +116,24 @@
       "meaning": "củi tụ lại"
     },
     {
-      "word": "薪小屋",
-      "reading": "まきごや",
-      "meaning": "kho củi"
+      "word": "薪割り",
+      "reading": "まきわり",
+      "meaning": "bổ củi"
+    },
+    {
+      "word": "薪能",
+      "reading": "たきぎのう",
+      "meaning": "nhà hát được biểu diễn vào ban đêm bên đống lửa"
+    },
+    {
+      "word": "薪炭",
+      "reading": "しんたん",
+      "meaning": "than củi"
+    },
+    {
+      "word": "薪水",
+      "reading": "しんすい",
+      "meaning": "củi và nước"
     }
   ]
 }

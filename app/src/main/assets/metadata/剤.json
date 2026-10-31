@@ -92,44 +92,19 @@
   ],
   "vocabulary": [
     {
+      "word": "洗剤",
+      "reading": "せんざい",
+      "meaning": "chất tẩy rửa"
+    },
+    {
       "word": "剤",
       "reading": "ざい",
       "meaning": "thuốc"
     },
     {
-      "word": "製剤基剤",
-      "reading": "せいざいきざい",
-      "meaning": "tá dược lỏng"
-    },
-    {
-      "word": "乾燥剤/脱酸素剤",
-      "reading": "かんそうざい/だっさんもとざい",
-      "meaning": "hấp thụ hơi ẩm / chất hấp thụ oxy"
-    },
-    {
-      "word": "スタイリング剤",
-      "reading": "スタイリングざい",
-      "meaning": "chất tạo kiểu"
-    },
-    {
-      "word": "助剤",
-      "reading": "じょざい",
-      "meaning": "chất phụ trợ"
-    },
-    {
-      "word": "サルファ剤",
-      "reading": "サルファざい",
-      "meaning": "sulfa"
-    },
-    {
-      "word": "滑剤",
-      "reading": "かつざい",
-      "meaning": "chất bôi trơn"
-    },
-    {
-      "word": "眠剤",
-      "reading": "みんざい",
-      "meaning": "thuốc ngủ"
+      "word": "剤形",
+      "reading": "ざいけい",
+      "meaning": "dạng bào chế"
     },
     {
       "word": "丸剤",
@@ -137,9 +112,34 @@
       "meaning": "viên"
     },
     {
-      "word": "マルチビタミン剤",
-      "reading": "マルチビタミンざい",
-      "meaning": "chứa nhiều vitamin khác nhau"
+      "word": "合剤",
+      "reading": "ごうざい",
+      "meaning": "thuốc hỗn hợp"
+    },
+    {
+      "word": "基剤",
+      "reading": "きざい",
+      "meaning": "tá dược"
+    },
+    {
+      "word": "劇剤",
+      "reading": "げきざい",
+      "meaning": "y học mạnh"
+    },
+    {
+      "word": "助剤",
+      "reading": "じょざい",
+      "meaning": "chất phụ trợ"
+    },
+    {
+      "word": "単剤",
+      "reading": "たんざい",
+      "meaning": "thuốc đơn thành phần"
+    },
+    {
+      "word": "眠剤",
+      "reading": "みんざい",
+      "meaning": "thuốc ngủ"
     }
   ]
 }

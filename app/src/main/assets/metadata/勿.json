@@ -86,11 +86,6 @@
   ],
   "vocabulary": [
     {
-      "word": "勿",
-      "reading": "まな",
-      "meaning": "không"
-    },
-    {
       "word": "勿論",
       "reading": "もちろん",
       "meaning": "đương nhiên"
@@ -101,14 +96,14 @@
       "meaning": "sự nhấn mạnh quá mức"
     },
     {
+      "word": "勿",
+      "reading": "まな",
+      "meaning": "không"
+    },
+    {
       "word": "勿れ",
       "reading": "なかれ",
       "meaning": "không được"
-    },
-    {
-      "word": "勿怪",
-      "reading": "もっけ",
-      "meaning": "không mong đợi"
     },
     {
       "word": "勿忘草",
@@ -116,14 +111,14 @@
       "meaning": "cỏ lưu ly"
     },
     {
+      "word": "勿怪",
+      "reading": "もっけ",
+      "meaning": "không mong đợi"
+    },
+    {
       "word": "勿体無い",
       "reading": "もったいない",
       "meaning": "lãng phí"
-    },
-    {
-      "word": "勿体ぶる",
-      "reading": "もったいぶる",
-      "meaning": "để giả thiết những không khí"
     },
     {
       "word": "勿体ない",
@@ -134,6 +129,11 @@
       "word": "勿体振る",
       "reading": "もったいぶる",
       "meaning": "làm quá"
+    },
+    {
+      "word": "恐るる勿れ",
+      "reading": "おそるるなかれ",
+      "meaning": "không phải là sợ hãi"
     }
   ]
 }

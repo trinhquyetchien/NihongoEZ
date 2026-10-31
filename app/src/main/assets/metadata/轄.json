@@ -87,14 +87,39 @@
   ],
   "vocabulary": [
     {
+      "word": "管轄",
+      "reading": "かんかつ",
+      "meaning": "sự quản hạt"
+    },
+    {
+      "word": "管轄権",
+      "reading": "かんかつけん",
+      "meaning": "quyền hạn xét xử"
+    },
+    {
       "word": "所轄",
       "reading": "しょかつ",
       "meaning": "phạm vi quyền lực"
     },
     {
-      "word": "総轄",
-      "reading": "そうかつ",
-      "meaning": "trong điều khiển chung"
+      "word": "直轄",
+      "reading": "ちょっかつ",
+      "meaning": "sự trực thuộc"
+    },
+    {
+      "word": "直轄地",
+      "reading": "ちょっかつち",
+      "meaning": "vùng ở dưới định hướng điều khiển tướng quân)"
+    },
+    {
+      "word": "統轄",
+      "reading": "とうかつ",
+      "meaning": "sự giám sát"
+    },
+    {
+      "word": "統轄者",
+      "reading": "とうかつしゃ",
+      "meaning": "giám thị"
     },
     {
       "word": "車轄",
@@ -107,34 +132,9 @@
       "meaning": "kiêm nhiệm"
     },
     {
-      "word": "統轄",
-      "reading": "とうかつ",
-      "meaning": "sự giám sát"
-    },
-    {
-      "word": "直轄",
-      "reading": "ちょっかつ",
-      "meaning": "sự trực thuộc"
-    },
-    {
-      "word": "分轄",
-      "reading": "ぶんかつ",
-      "meaning": "phân ra quyền hạn"
-    },
-    {
-      "word": "管轄",
-      "reading": "かんかつ",
-      "meaning": "sự quản hạt"
-    },
-    {
-      "word": "管轄ポート",
-      "reading": "かんかつポート",
-      "meaning": "cổng quản trị"
-    },
-    {
-      "word": "直轄地",
-      "reading": "ちょっかつち",
-      "meaning": "vùng ở dưới định hướng điều khiển tướng quân)"
+      "word": "総轄",
+      "reading": "そうかつ",
+      "meaning": "trong điều khiển chung"
     }
   ]
 }

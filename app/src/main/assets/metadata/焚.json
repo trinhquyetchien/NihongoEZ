@@ -87,39 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "焚火",
-      "reading": "たきび",
-      "meaning": "lửa mừng"
-    },
-    {
-      "word": "焚刑",
-      "reading": "ふんけい",
-      "meaning": "hình thức xử tử bằng cách thiêu chết"
-    },
-    {
-      "word": "焚書",
-      "reading": "ふんしょ",
-      "meaning": "đăng ký cháy"
-    },
-    {
-      "word": "焚掠",
-      "reading": "ふんりゃく",
-      "meaning": "cướp bóc và phóng hỏa"
-    },
-    {
       "word": "焚く",
       "reading": "やく",
       "meaning": "thiêu đốt"
-    },
-    {
-      "word": "火焚き",
-      "reading": "ひたき",
-      "meaning": "nhóm lửa"
-    },
-    {
-      "word": "お火焚",
-      "reading": "おひたき",
-      "meaning": "lễ hội lửa ohitaki"
     },
     {
       "word": "焚き火",
@@ -127,14 +97,44 @@
       "meaning": "sự nhóm lửa"
     },
     {
-      "word": "罐焚き",
-      "reading": "かまたき",
-      "meaning": "người đốt lò"
-    },
-    {
       "word": "焚き物",
       "reading": "たきもの",
       "meaning": "củi"
+    },
+    {
+      "word": "焚き口",
+      "reading": "たきぐち",
+      "meaning": "nắp lò nung"
+    },
+    {
+      "word": "火焚き",
+      "reading": "ひたき",
+      "meaning": "nhóm lửa"
+    },
+    {
+      "word": "空焚き",
+      "reading": "からだき",
+      "meaning": "làm nóng"
+    },
+    {
+      "word": "焚火",
+      "reading": "たきび",
+      "meaning": "lửa mừng"
+    },
+    {
+      "word": "焚書",
+      "reading": "ふんしょ",
+      "meaning": "đăng ký cháy"
+    },
+    {
+      "word": "お火焚",
+      "reading": "おひたき",
+      "meaning": "lễ hội lửa ohitaki"
+    },
+    {
+      "word": "焚刑",
+      "reading": "ふんけい",
+      "meaning": "hình thức xử tử bằng cách thiêu chết"
     }
   ]
 }

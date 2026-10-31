@@ -93,9 +93,34 @@
       "meaning": "dây đàn"
     },
     {
-      "word": "管弦",
-      "reading": "かんげん",
-      "meaning": "nhạc cụ hơi như sáo và nhạc cụ dây"
+      "word": "三弦",
+      "reading": "さんげん",
+      "meaning": "đàn nhật ba dây"
+    },
+    {
+      "word": "弦長",
+      "reading": "げんちょう",
+      "meaning": "dây cung"
+    },
+    {
+      "word": "弦線",
+      "reading": "げんせん",
+      "meaning": "catgut"
+    },
+    {
+      "word": "共通弦",
+      "reading": "きょーつーげん",
+      "meaning": "dây cung chung"
+    },
+    {
+      "word": "弦袋",
+      "reading": "つるぶくろ",
+      "meaning": "túi đựng dây đàn"
+    },
+    {
+      "word": "弦理論",
+      "reading": "げんりろん",
+      "meaning": "lý thuyết dây"
     },
     {
       "word": "弦材",
@@ -103,39 +128,14 @@
       "meaning": "thiết kế thanh dàn"
     },
     {
-      "word": "弦歌",
-      "reading": "げんか",
-      "meaning": "huyền ca"
-    },
-    {
-      "word": "弦鋸",
-      "reading": "つるのこ",
-      "meaning": "cưa lưỡi mảnh"
-    },
-    {
       "word": "調弦",
       "reading": "ちょうげん",
       "meaning": "sự lên dây"
     },
     {
-      "word": "下弦",
-      "reading": "かげん",
-      "meaning": "hạ tuần"
-    },
-    {
-      "word": "上弦",
-      "reading": "じょうげん",
-      "meaning": "trăng thượng huyền"
-    },
-    {
-      "word": "正弦",
-      "reading": "せいげん",
-      "meaning": "sin"
-    },
-    {
-      "word": "弦線",
-      "reading": "げんせん",
-      "meaning": "catgut"
+      "word": "弦歯厚",
+      "reading": "げんはあつ",
+      "meaning": "độ dày của mỗi răng trên bánh răng vòng"
     }
   ]
 }

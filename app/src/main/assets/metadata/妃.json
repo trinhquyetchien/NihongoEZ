@@ -92,14 +92,14 @@
       "meaning": "hoàng hậu"
     },
     {
-      "word": "皇妃",
-      "reading": "こうひ",
+      "word": "王妃",
+      "reading": "おうひ",
       "meaning": "hoàng hậu"
     },
     {
-      "word": "后妃",
-      "reading": "こうひ",
-      "meaning": "nữ hoàng"
+      "word": "王太妃",
+      "reading": "おうたいひ",
+      "meaning": "hoàng thái phi"
     },
     {
       "word": "公妃",
@@ -107,8 +107,8 @@
       "meaning": "chồng"
     },
     {
-      "word": "王妃",
-      "reading": "おうひ",
+      "word": "皇妃",
+      "reading": "こうひ",
       "meaning": "hoàng hậu"
     },
     {
@@ -117,14 +117,14 @@
       "meaning": "công chúa đế quốc"
     },
     {
-      "word": "王太妃",
-      "reading": "おうたいひ",
-      "meaning": "hoàng thái phi"
-    },
-    {
       "word": "妃殿下",
       "reading": "ひでんか",
       "meaning": "công chúa"
+    },
+    {
+      "word": "后妃",
+      "reading": "こうひ",
+      "meaning": "nữ hoàng"
     },
     {
       "word": "皇太子妃",
@@ -132,9 +132,9 @@
       "meaning": "công chúa"
     },
     {
-      "word": "王太子妃",
-      "reading": "おうたいしひ",
-      "meaning": "vương phi"
+      "word": "白衣明妃",
+      "reading": "びゃくえみょうひ",
+      "meaning": "pandara"
     }
   ]
 }

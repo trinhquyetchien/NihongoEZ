@@ -31,19 +31,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "銀盃",
-      "reading": "ぎんぱい",
-      "meaning": "mạ bạc cúp"
-    },
-    {
       "word": "一盃",
       "reading": "いっぱい",
       "meaning": "một chén rượu"
-    },
-    {
-      "word": "寿盃",
-      "reading": "じゅはい",
-      "meaning": "sự nâng cốc chúc mừng"
     },
     {
       "word": "大盃",
@@ -51,24 +41,14 @@
       "meaning": "cúp lớn"
     },
     {
-      "word": "返盃",
-      "reading": "へんぱい",
-      "meaning": "đề nghị một cúp mục đích) bên trong trở lại"
-    },
-    {
-      "word": "乾盃",
-      "reading": "かんぱい",
-      "meaning": "nâng cốc"
-    },
-    {
-      "word": "献盃",
-      "reading": "けんぱい",
-      "meaning": "đề nghị một đồ uống"
-    },
-    {
       "word": "水盃",
       "reading": "みずさかずき",
       "meaning": "những tách nước chia tay"
+    },
+    {
+      "word": "一盃口",
+      "reading": "イーペーコー",
+      "meaning": "iipeikou"
     },
     {
       "word": "天盃",
@@ -76,9 +56,29 @@
       "meaning": "cúp thưởng của thiên hoàng"
     },
     {
-      "word": "別盃",
-      "reading": "べっぱい",
-      "meaning": "cúp chia tay"
+      "word": "寿盃",
+      "reading": "じゅはい",
+      "meaning": "sự nâng cốc chúc mừng"
+    },
+    {
+      "word": "組み盃",
+      "reading": "くみさかずき",
+      "meaning": "một tổ những cúp mục đích"
+    },
+    {
+      "word": "盃盛器",
+      "reading": "さかずきもりき",
+      "meaning": "khay đựng chén"
+    },
+    {
+      "word": "乾盃",
+      "reading": "かんぱい",
+      "meaning": "nâng cốc"
+    },
+    {
+      "word": "銀盃",
+      "reading": "ぎんぱい",
+      "meaning": "mạ bạc cúp"
     }
   ]
 }

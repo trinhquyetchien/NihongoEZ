@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "吹く",
+      "reading": "ふく",
+      "meaning": "dậy mùi"
+    },
+    {
       "word": "吹雪",
       "reading": "ふぶき",
       "meaning": "bão tuyết"
+    },
+    {
+      "word": "吹奏",
+      "reading": "すいそう",
+      "meaning": "chơi nhạc cụ bộ hơi"
+    },
+    {
+      "word": "吹奏楽",
+      "reading": "すいそうがく",
+      "meaning": "nhạc hợp tấu của nhạc khí thổi và nhạc khí gõ"
     },
     {
       "word": "吹き",
@@ -99,44 +114,29 @@
       "meaning": "thổi"
     },
     {
-      "word": "吹聴",
-      "reading": "ふいちょう",
-      "meaning": "làm quần chúng"
+      "word": "一吹き",
+      "reading": "ひとふき",
+      "meaning": "thổi nhẹ"
     },
     {
-      "word": "吹子",
-      "reading": "ふいご",
-      "meaning": "ống thổi"
+      "word": "手吹き",
+      "reading": "てふき",
+      "meaning": "lau bằng tay"
     },
     {
-      "word": "伊吹",
-      "reading": "いぶき",
-      "meaning": "cây bách xù trung quốc"
+      "word": "吹き物",
+      "reading": "ふきもの",
+      "meaning": "nhạc cụ gió"
     },
     {
-      "word": "泡吹",
-      "reading": "あわぶき",
-      "meaning": "meliosma myriantha"
+      "word": "吹き針",
+      "reading": "ふきばり",
+      "meaning": "kim thổi"
     },
     {
-      "word": "笛吹",
+      "word": "笛吹き",
       "reading": "ふえふき",
       "meaning": "người thổi sáo"
-    },
-    {
-      "word": "息吹",
-      "reading": "いぶき",
-      "meaning": "sự thở"
-    },
-    {
-      "word": "吹挙",
-      "reading": "すいきょ",
-      "meaning": "sự tiến cử"
-    },
-    {
-      "word": "吹奏",
-      "reading": "すいそう",
-      "meaning": "chơi nhạc cụ bộ hơi"
     }
   ]
 }

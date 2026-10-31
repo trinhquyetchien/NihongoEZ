@@ -90,44 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "賭",
-      "reading": "かけ",
-      "meaning": "sự đánh cược"
-    },
-    {
       "word": "賭け",
       "reading": "かけ",
       "meaning": "trò cá cược"
     },
     {
-      "word": "賭す",
-      "reading": "とす",
-      "meaning": "đặt cược"
-    },
-    {
-      "word": "賭場",
-      "reading": "とば",
-      "meaning": "sòng bạc"
-    },
-    {
-      "word": "賭事",
-      "reading": "かけごと",
-      "meaning": "sự đánh bạc"
-    },
-    {
-      "word": "賭博",
-      "reading": "とばく",
-      "meaning": "sự đánh bạc"
-    },
-    {
-      "word": "賭物",
-      "reading": "とぶつ",
-      "meaning": "bài bạc"
-    },
-    {
-      "word": "賭弓",
-      "reading": "のりゆみ",
-      "meaning": "bắn cung có thưởng"
+      "word": "賭ける",
+      "reading": "かける",
+      "meaning": "cá độ"
     },
     {
       "word": "賭け金",
@@ -135,9 +105,39 @@
       "meaning": "tiền cá cược"
     },
     {
+      "word": "賭け物",
+      "reading": "かけもの",
+      "meaning": "cờ bạc"
+    },
+    {
+      "word": "賭け屋",
+      "reading": "かけや",
+      "meaning": "sổ tay hướng dẫn"
+    },
+    {
+      "word": "賭博",
+      "reading": "とばく",
+      "meaning": "sự đánh bạc"
+    },
+    {
+      "word": "賭博場",
+      "reading": "とばくじょう",
+      "meaning": "cái nhà trò cờ bạc may rủi)"
+    },
+    {
       "word": "賭博師",
       "reading": "とばくし",
       "meaning": "thần bài"
+    },
+    {
+      "word": "賭け碁",
+      "reading": "かけご",
+      "meaning": "chơi cờ vây vì đánh cược"
+    },
+    {
+      "word": "賭",
+      "reading": "かけ",
+      "meaning": "sự đánh cược"
     }
   ]
 }

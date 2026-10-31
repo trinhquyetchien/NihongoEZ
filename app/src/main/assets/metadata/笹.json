@@ -88,9 +88,29 @@
       "meaning": "cây tre"
     },
     {
-      "word": "笹舟",
-      "reading": "ささぶね",
-      "meaning": "thuyền làm bằng lá tre"
+      "word": "雪笹",
+      "reading": "ゆきざさ",
+      "meaning": "maianthemum japonicum"
+    },
+    {
+      "word": "根笹",
+      "reading": "ねざさ",
+      "meaning": "tre bụi thấp"
+    },
+    {
+      "word": "笹巻き",
+      "reading": "ささまき",
+      "meaning": "bánh lá"
+    },
+    {
+      "word": "福笹",
+      "reading": "ふくざさ",
+      "meaning": "cành tre may mắn"
+    },
+    {
+      "word": "笹蜘蛛",
+      "reading": "ささぐも",
+      "meaning": "nhện lá tre"
     },
     {
       "word": "篠笹",
@@ -98,14 +118,9 @@
       "meaning": "trúc"
     },
     {
-      "word": "笹竹",
-      "reading": "ささたけ",
-      "meaning": "cây trúc"
-    },
-    {
-      "word": "根笹",
-      "reading": "ねざさ",
-      "meaning": "tre bụi thấp"
+      "word": "東根笹",
+      "reading": "あずまねざさ",
+      "meaning": "cây pleioblastus chino"
     },
     {
       "word": "笹原",
@@ -116,21 +131,6 @@
       "word": "熊笹",
       "reading": "くまざさ",
       "meaning": "thấp và tước bỏ cây tre"
-    },
-    {
-      "word": "福笹",
-      "reading": "ふくざさ",
-      "meaning": "cành tre may mắn"
-    },
-    {
-      "word": "雪笹",
-      "reading": "ゆきざさ",
-      "meaning": "maianthemum japonicum"
-    },
-    {
-      "word": "笹蜘蛛",
-      "reading": "ささぐも",
-      "meaning": "nhện lá tre"
     }
   ]
 }

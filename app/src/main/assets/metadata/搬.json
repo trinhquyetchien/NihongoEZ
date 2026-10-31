@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "伝搬",
-      "reading": "でんぱん",
-      "meaning": "sự lan truyền"
-    },
-    {
-      "word": "搬出",
-      "reading": "はんしゅつ",
-      "meaning": "sự mang đi"
-    },
-    {
-      "word": "搬入",
-      "reading": "はんにゅう",
-      "meaning": "chở vào"
+      "word": "運搬",
+      "reading": "うんぱん",
+      "meaning": "sự vận tải"
     },
     {
       "word": "搬送",
@@ -107,34 +97,44 @@
       "meaning": "sự chuyên chở"
     },
     {
-      "word": "運搬",
-      "reading": "うんぱん",
-      "meaning": "sự vận tải"
+      "word": "搬送物",
+      "reading": "はんそうぶつ",
+      "meaning": "hàng hóa vận chuyển"
     },
     {
-      "word": "運搬ＲＮＡ",
-      "reading": "うんぱんアールエヌエー",
-      "meaning": "rna vận chuyển"
+      "word": "運搬人",
+      "reading": "うんぱんにん",
+      "meaning": "người mang"
     },
     {
-      "word": "可搬性",
-      "reading": "かはんせい",
-      "meaning": "tính di động"
+      "word": "運搬費",
+      "reading": "うんぱんひ",
+      "meaning": "vận tải hỏi giá"
     },
     {
-      "word": "運搬クラス",
-      "reading": "うんぱんクラス",
-      "meaning": "lớp mang"
+      "word": "運搬袋",
+      "reading": "うんはんふくろ",
+      "meaning": "bao tải"
     },
     {
-      "word": "可搬型",
-      "reading": "かはんがた",
-      "meaning": "di động"
+      "word": "搬入",
+      "reading": "はんにゅう",
+      "meaning": "chở vào"
     },
     {
-      "word": "搬送波",
-      "reading": "はんそうは",
-      "meaning": "sóng tần số cao như sóng điện thoại"
+      "word": "搬入日",
+      "reading": "はんにゅうび",
+      "meaning": "những ngày cho cây trồng từ hạt bên trong những vật trưng bày"
+    },
+    {
+      "word": "搬入口",
+      "reading": "はんにゅうぐち",
+      "meaning": "cửa nhập hàng"
+    },
+    {
+      "word": "搬出",
+      "reading": "はんしゅつ",
+      "meaning": "sự mang đi"
     }
   ]
 }

@@ -92,46 +92,6 @@
   ],
   "vocabulary": [
     {
-      "word": "事",
-      "reading": "こと",
-      "meaning": "công việc"
-    },
-    {
-      "word": "事事",
-      "reading": "ことごと",
-      "meaning": "mọi vật"
-    },
-    {
-      "word": "刑事事件",
-      "reading": "けいじじけん",
-      "meaning": "vụ án hình sự"
-    },
-    {
-      "word": "民事事件",
-      "reading": "みんじじけん",
-      "meaning": "dân sự"
-    },
-    {
-      "word": "事事しい",
-      "reading": "ことごとしい",
-      "meaning": "khoa trương"
-    },
-    {
-      "word": "事事物物",
-      "reading": "じじぶつぶつ",
-      "meaning": "mọi thứ"
-    },
-    {
-      "word": "一事が万事",
-      "reading": "いちじがばんじ",
-      "meaning": "nhìn 1 hiểu 10"
-    },
-    {
-      "word": "小事は大事",
-      "reading": "しょうじはだいじ",
-      "meaning": "một lỗ rò bé có thể làm đắm cả con tàu"
-    },
-    {
       "word": "仕事",
       "reading": "しごと",
       "meaning": "công việc"
@@ -140,6 +100,46 @@
       "word": "大事",
       "reading": "だいじ",
       "meaning": "quan trọng"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "biến cố"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "đương sự"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "sự thật"
+    },
+    {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "hình sự"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "lí do"
+    },
+    {
+      "word": "事務",
+      "reading": "じむ",
+      "meaning": "công việc"
+    },
+    {
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "công sự"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "hội hè"
     }
   ]
 }

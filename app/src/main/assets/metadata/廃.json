@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "廃プラスチック",
-      "reading": "はいプラスチック",
-      "meaning": "rác thải nhựa"
+      "word": "廃駅",
+      "reading": "はいえき",
+      "meaning": "nhà ga bỏ hoang"
     },
     {
       "word": "廃番",
@@ -100,34 +100,14 @@
       "meaning": "sự huỷ bỏ"
     },
     {
-      "word": "廃酸",
-      "reading": "はいさん",
-      "meaning": "chất thải axit"
+      "word": "廃線",
+      "reading": "はいせん",
+      "meaning": "sự ngừng hoạt động của tuyến đường giao thông hay tuyến thông tin liên lạc"
     },
     {
-      "word": "廃城",
-      "reading": "はいじょう",
-      "meaning": "thành bỏ hoang"
-    },
-    {
-      "word": "廃部",
-      "reading": "はいぶ",
-      "meaning": "câu lạc bộ đã giải thể"
-    },
-    {
-      "word": "廃ガス",
-      "reading": "はいガス",
-      "meaning": "lãng phí khí"
-    },
-    {
-      "word": "廃藩",
-      "reading": "はいはん",
-      "meaning": "sự xóa bỏ chế độ thị tộc"
-    },
-    {
-      "word": "廃駅",
-      "reading": "はいえき",
-      "meaning": "nhà ga bỏ hoang"
+      "word": "廃山",
+      "reading": "はいざん",
+      "meaning": "mỏ bỏ hoang"
     },
     {
       "word": "廃村",
@@ -135,9 +115,29 @@
       "meaning": "làng bỏ hoang"
     },
     {
-      "word": "廃却",
-      "reading": "はいきゃく",
-      "meaning": "loại bỏ"
+      "word": "廃船",
+      "reading": "はいせん",
+      "meaning": "chiếc thuyền bị thải ra"
+    },
+    {
+      "word": "廃艦",
+      "reading": "はいかん",
+      "meaning": "việc cho chiến hạm đã cũ ngừng hoạt động"
+    },
+    {
+      "word": "廃城",
+      "reading": "はいじょう",
+      "meaning": "thành bỏ hoang"
+    },
+    {
+      "word": "廃ガス",
+      "reading": "はいガス",
+      "meaning": "lãng phí khí"
+    },
+    {
+      "word": "廃熱",
+      "reading": "はいねつ",
+      "meaning": "còn lại nóng lên"
     }
   ]
 }

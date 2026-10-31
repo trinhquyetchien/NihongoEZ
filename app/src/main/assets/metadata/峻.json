@@ -52,39 +52,19 @@
   ],
   "vocabulary": [
     {
-      "word": "峻別",
-      "reading": "しゅんべつ",
-      "meaning": "phân biệt một cách rõ ràng"
+      "word": "峻酷",
+      "reading": "しゅんこく",
+      "meaning": "khắc nghiệt"
     },
     {
-      "word": "険峻",
-      "reading": "けんしゅん",
-      "meaning": "dốc đứng"
+      "word": "峻峰",
+      "reading": "しゅんぽう",
+      "meaning": "đỉnh núi hiểm trở"
     },
     {
-      "word": "峻厳",
-      "reading": "しゅんげん",
-      "meaning": "chính xác"
-    },
-    {
-      "word": "峻嶺",
-      "reading": "しゅんれい",
-      "meaning": "ngâm vào nước đỉnh hoặc đỉnh"
-    },
-    {
-      "word": "峻烈",
-      "reading": "しゅんれつ",
-      "meaning": "tính nghiêm khắc"
-    },
-    {
-      "word": "峻拒",
-      "reading": "しゅんきょ",
-      "meaning": "từ chối phẳng"
-    },
-    {
-      "word": "峻険",
-      "reading": "しゅんけん",
-      "meaning": "dốc đứng nguy hiểm"
+      "word": "峻下剤",
+      "reading": "しゅんげざい",
+      "meaning": "thuốc nhuận tràng mạnh"
     },
     {
       "word": "急峻",
@@ -92,14 +72,34 @@
       "meaning": "dốc đứng hiểm trở"
     },
     {
-      "word": "峻酷",
-      "reading": "しゅんこく",
-      "meaning": "khắc nghiệt"
+      "word": "峻別",
+      "reading": "しゅんべつ",
+      "meaning": "phân biệt một cách rõ ràng"
     },
     {
-      "word": "峻峭",
-      "reading": "しゅんしょう",
-      "meaning": "hiểm trở"
+      "word": "峻厳",
+      "reading": "しゅんげん",
+      "meaning": "chính xác"
+    },
+    {
+      "word": "峻烈",
+      "reading": "しゅんれつ",
+      "meaning": "tính nghiêm khắc"
+    },
+    {
+      "word": "険峻",
+      "reading": "けんしゅん",
+      "meaning": "dốc đứng"
+    },
+    {
+      "word": "峻嶺",
+      "reading": "しゅんれい",
+      "meaning": "ngâm vào nước đỉnh hoặc đỉnh"
+    },
+    {
+      "word": "峻拒",
+      "reading": "しゅんきょ",
+      "meaning": "từ chối phẳng"
     }
   ]
 }

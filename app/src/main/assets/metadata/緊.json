@@ -90,39 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "緊縛",
-      "reading": "きんばく",
-      "meaning": "trói chặt"
-    },
-    {
-      "word": "緊密",
-      "reading": "きんみつ",
-      "meaning": "chặt chẽ"
-    },
-    {
       "word": "緊張",
       "reading": "きんちょう",
       "meaning": "sự căng thẳng"
-    },
-    {
-      "word": "緊要",
-      "reading": "きんよう",
-      "meaning": "trọng yếu"
-    },
-    {
-      "word": "緊褌",
-      "reading": "きんこん",
-      "meaning": "khố"
-    },
-    {
-      "word": "吃緊",
-      "reading": "きっきん",
-      "meaning": "khẩn cấp và quan trọng"
-    },
-    {
-      "word": "緊切",
-      "reading": "きんせつ",
-      "meaning": "khẩn cấp"
     },
     {
       "word": "緊急",
@@ -130,9 +100,39 @@
       "meaning": "sự cấp bách"
     },
     {
-      "word": "緊縮",
-      "reading": "きんしゅく",
-      "meaning": "sự co"
+      "word": "緊急な",
+      "reading": "きんきゅうな",
+      "meaning": "khẩn"
+    },
+    {
+      "word": "緊急時",
+      "reading": "きんきゅうじ",
+      "meaning": "trường hợp khẩn cấp"
+    },
+    {
+      "word": "緊急度",
+      "reading": "きんきゅうど",
+      "meaning": "tính nghiêm trọng"
+    },
+    {
+      "word": "緊張感",
+      "reading": "きんちょうかん",
+      "meaning": "cảm giác căng thẳng"
+    },
+    {
+      "word": "緊張病",
+      "reading": "きんちょうびょう",
+      "meaning": "catatonia"
+    },
+    {
+      "word": "筋緊張",
+      "reading": "きんきんちょう",
+      "meaning": "myotonia"
+    },
+    {
+      "word": "緊縛",
+      "reading": "きんばく",
+      "meaning": "trói chặt"
     },
     {
       "word": "緊迫",

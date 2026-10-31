@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "隠居",
-      "reading": "いんきょ",
-      "meaning": "về hưu"
-    },
-    {
-      "word": "隠線隠面消去",
-      "reading": "いんせんいんめんしょうきょ",
-      "meaning": "loại bỏ đường ẩn và mặt ẩn"
-    },
-    {
       "word": "隠す",
       "reading": "かくす",
       "meaning": "bao bọc"
     },
     {
-      "word": "隠事",
-      "reading": "いんじ",
-      "meaning": "bí mật"
+      "word": "隠居",
+      "reading": "いんきょ",
+      "meaning": "về hưu"
     },
     {
-      "word": "隠宅",
-      "reading": "いんたく",
-      "meaning": "nơi ở ẩn"
+      "word": "隠し",
+      "reading": "かくし",
+      "meaning": "ẩn giấu"
     },
     {
-      "word": "隠忍",
-      "reading": "いんにん",
-      "meaning": "tính kiên nhẫn"
+      "word": "隠れ",
+      "reading": "かくれ",
+      "meaning": "sự che giấu"
     },
     {
-      "word": "隠逸",
-      "reading": "いんいつ",
-      "meaning": "sự ẩn dật"
+      "word": "隠れ場",
+      "reading": "かくれば",
+      "meaning": "nơi ẩn náu"
     },
     {
-      "word": "隠遁",
-      "reading": "いんとん",
-      "meaning": "sự thôi việc"
-    },
-    {
-      "word": "隠滅",
-      "reading": "いんめつ",
-      "meaning": "sự tiêu hủy"
+      "word": "隠れ魚",
+      "reading": "かくれうお",
+      "meaning": "cá ngọc trai"
     },
     {
       "word": "隠蔽",
       "reading": "いんぺい",
       "meaning": "sự giấu kín"
+    },
+    {
+      "word": "隠蔽色",
+      "reading": "いんぺいしょく",
+      "meaning": "ngụy trang màu"
+    },
+    {
+      "word": "隠れ家",
+      "reading": "かくれが",
+      "meaning": "chỗ che giấu"
+    },
+    {
+      "word": "隠密",
+      "reading": "おんみつ",
+      "meaning": "sự riêng tư"
     }
   ]
 }

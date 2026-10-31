@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "煮",
-      "reading": "に",
-      "meaning": "luộc"
-    },
-    {
-      "word": "煮やす",
-      "reading": "にやす",
-      "meaning": "nấu"
-    },
-    {
-      "word": "芋煮",
-      "reading": "いもに",
-      "meaning": "khoai hầm"
-    },
-    {
-      "word": "煮沸",
-      "reading": "しゃふつ",
-      "meaning": "sự sôi"
-    },
-    {
       "word": "煮る",
       "reading": "にる",
       "meaning": "nấu"
     },
     {
-      "word": "煮端",
-      "reading": "にばな",
-      "meaning": "mới pha"
+      "word": "煮える",
+      "reading": "にえる",
+      "meaning": "chín"
     },
     {
-      "word": "塩煮",
-      "reading": "しおに",
-      "meaning": "sự nấu bằng nước muối"
+      "word": "煮",
+      "reading": "に",
+      "meaning": "luộc"
     },
     {
-      "word": "雑煮",
-      "reading": "ぞうに",
-      "meaning": "món ăn năm mới"
+      "word": "煮方",
+      "reading": "にかた",
+      "meaning": "phương pháp nấu ăn"
     },
     {
-      "word": "潮煮",
-      "reading": "うしおに",
-      "meaning": "các loại hải sản thịt trắng ninh trong nước muối"
+      "word": "下煮",
+      "reading": "したに",
+      "meaning": "luộc sơ"
     },
     {
-      "word": "角煮",
-      "reading": "かくに",
-      "meaning": "món thịt kho"
+      "word": "水煮",
+      "reading": "みずに",
+      "meaning": "luội sôi trong nước"
+    },
+    {
+      "word": "姿煮",
+      "reading": "すがたに",
+      "meaning": "món hầm nguyên con"
+    },
+    {
+      "word": "煮出す",
+      "reading": "にだす",
+      "meaning": "ninh"
+    },
+    {
+      "word": "煮肉",
+      "reading": "ににく",
+      "meaning": "ninh thịt"
+    },
+    {
+      "word": "含め煮",
+      "reading": "ふくめに",
+      "meaning": "thức ăn sôi trong xi rô đường"
     }
   ]
 }

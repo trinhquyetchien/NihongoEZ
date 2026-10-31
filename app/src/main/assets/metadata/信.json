@@ -104,16 +104,6 @@
   ],
   "vocabulary": [
     {
-      "word": "信",
-      "reading": "しん",
-      "meaning": "sự thật lòng"
-    },
-    {
-      "word": "信倚",
-      "reading": "しんい",
-      "meaning": "sự uy tín"
-    },
-    {
       "word": "信頼",
       "reading": "しんらい",
       "meaning": "đức tin"
@@ -124,14 +114,14 @@
       "meaning": "báo hiệu"
     },
     {
-      "word": "信心",
-      "reading": "しんじん",
-      "meaning": "lòng tin"
+      "word": "自信",
+      "reading": "じしん",
+      "meaning": "tự tin"
     },
     {
-      "word": "信奉",
-      "reading": "しんぽう",
-      "meaning": "trung thành lòng tin"
+      "word": "信任",
+      "reading": "しんにん",
+      "meaning": "sự tín nhiệm"
     },
     {
       "word": "受信",
@@ -139,19 +129,29 @@
       "meaning": "sự thu tín hiệu"
     },
     {
-      "word": "信望",
-      "reading": "しんぼう",
-      "meaning": "sự tin cậy"
+      "word": "発信",
+      "reading": "はっしん",
+      "meaning": "sự phát"
     },
     {
-      "word": "自信",
-      "reading": "じしん",
-      "meaning": "tự tin"
+      "word": "信",
+      "reading": "しん",
+      "meaning": "sự thật lòng"
     },
     {
-      "word": "過信",
-      "reading": "かしん",
-      "meaning": "quá tin tưởng"
+      "word": "信約",
+      "reading": "しんやく",
+      "meaning": "sự giao hẹn"
+    },
+    {
+      "word": "同信",
+      "reading": "どうしん",
+      "meaning": "cùng lòng tin đó"
+    },
+    {
+      "word": "信経",
+      "reading": "しんきょう",
+      "meaning": "tín điều"
     }
   ]
 }

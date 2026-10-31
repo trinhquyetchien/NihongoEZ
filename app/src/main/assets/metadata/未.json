@@ -109,29 +109,39 @@
   ],
   "vocabulary": [
     {
+      "word": "未来",
+      "reading": "みらい",
+      "meaning": "đời sau"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "không đầy"
+    },
+    {
       "word": "未",
       "reading": "み",
       "meaning": "vẫn chưa"
     },
     {
-      "word": "未練未酌",
-      "reading": "みれんみしゃく",
-      "meaning": "sự hối tiếc và đồng cảm"
+      "word": "未熟",
+      "reading": "みじゅく",
+      "meaning": "chưa có kinh nghiệm"
     },
     {
-      "word": "未だ未だ",
-      "reading": "まだまだ",
-      "meaning": "vẫn còn"
+      "word": "未知",
+      "reading": "みち",
+      "meaning": "chưa biết"
     },
     {
-      "word": "未練未酌がない",
-      "reading": "みれんみしゃくがない",
-      "meaning": "lạnh lùng"
+      "word": "未定",
+      "reading": "みてい",
+      "meaning": "chưa được quyết định"
     },
     {
-      "word": "未払費用 みはらいひよう",
-      "reading": "未払費用",
-      "meaning": ".+ thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán"
+      "word": "未婚",
+      "reading": "みこん",
+      "meaning": "sự chưa kết hôn"
     },
     {
       "word": "未練",
@@ -139,24 +149,14 @@
       "meaning": "sự tiếc nuối"
     },
     {
-      "word": "未申",
-      "reading": "ひつじさる",
-      "meaning": "hướng tây nam"
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "thuộc vùng hoang dã"
     },
     {
-      "word": "未収",
-      "reading": "みしゅう",
-      "meaning": "chưa thu thập"
-    },
-    {
-      "word": "未詳",
-      "reading": "みしょう",
-      "meaning": "chưa biết được"
-    },
-    {
-      "word": "未納",
-      "reading": "みのう",
-      "meaning": "sự vỡ nợ"
+      "word": "未年",
+      "reading": "ひつじどし",
+      "meaning": "năm con dê"
     }
   ]
 }

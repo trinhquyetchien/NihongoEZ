@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "計",
-      "reading": "けい",
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "đồng hồ"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "sự thiết kế"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
       "meaning": "kế"
     },
     {
-      "word": "pH計/導電率計/イオン計関連品",
-      "reading": "pHけい/どうでんりつけい/イオンけいかんれんひん",
-      "meaning": "máy đo độ mặn"
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "tổng cộng"
     },
     {
-      "word": "液面計/レベル計",
-      "reading": "えきめんけい/レベルけい",
-      "meaning": "đo mực nước / máy đo mực nước"
-    },
-    {
-      "word": "統計 / 統計学",
+      "word": "統計",
       "reading": "とうけい",
-      "meaning": "statistics"
+      "meaning": "thống kê"
     },
     {
-      "word": "比重計/密度計",
-      "reading": "ひじゅうけい/みつどけい",
-      "meaning": "quang phổ kế"
+      "word": "集計",
+      "reading": "しゅうけい",
+      "meaning": "tổng kết"
     },
     {
-      "word": "導電率計(EC計)",
-      "reading": "どうでんりつけい(ECけい)",
-      "meaning": "đồng hồ đo orp"
+      "word": "家計",
+      "reading": "かけい",
+      "meaning": "gia kế"
     },
     {
-      "word": "計算機設計言語",
-      "reading": "けいさんきせっけいげんご",
-      "meaning": "ngôn ngữ thiết kế máy tính"
+      "word": "生計",
+      "reading": "せいけい",
+      "meaning": "cách sinh nhai"
     },
     {
-      "word": "溶存酸素計(DO計)",
-      "reading": "ようぞんさんそけい(DOけい)",
-      "meaning": "máy đo clo dư"
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "thước đo"
     },
     {
-      "word": "濁度計/透視度計",
-      "reading": "だくどけい/とうしどけい",
-      "meaning": "chất chuẩn"
-    },
-    {
-      "word": "計測",
-      "reading": "けいそく",
-      "meaning": "sự đo lường"
+      "word": "計",
+      "reading": "けい",
+      "meaning": "kế"
     }
   ]
 }

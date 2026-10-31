@@ -92,14 +92,14 @@
       "meaning": "bờ giậu"
     },
     {
-      "word": "電柵",
-      "reading": "でんさく",
-      "meaning": "lưới điện"
+      "word": "外柵",
+      "reading": "がいさく",
+      "meaning": "tường rào"
     },
     {
-      "word": "鉄柵",
-      "reading": "てっさく",
-      "meaning": "hàng rào sắt"
+      "word": "安全柵",
+      "reading": "あんぜんさく",
+      "meaning": "rào an toàn"
     },
     {
       "word": "柵線",
@@ -107,14 +107,9 @@
       "meaning": "dây rào"
     },
     {
-      "word": "外柵",
-      "reading": "がいさく",
-      "meaning": "tường rào"
-    },
-    {
-      "word": "脱柵",
-      "reading": "だっさく",
-      "meaning": "bỏ trốn"
+      "word": "柵取り",
+      "reading": "しがらみとり",
+      "meaning": "xẻ thịt cá thành những thỏi dài"
     },
     {
       "word": "電気柵",
@@ -122,19 +117,24 @@
       "meaning": "hàng rào điện"
     },
     {
-      "word": "電柵ポール",
-      "reading": "でんさくポール",
-      "meaning": "cột điện lưới"
+      "word": "電柵",
+      "reading": "でんさく",
+      "meaning": "lưới điện"
     },
     {
-      "word": "柵取り",
-      "reading": "しがらみとり",
-      "meaning": "xẻ thịt cá thành những thỏi dài"
+      "word": "脱柵",
+      "reading": "だっさく",
+      "meaning": "bỏ trốn"
     },
     {
       "word": "防護柵",
       "reading": "ぼうごさく",
       "meaning": "hàng rào bảo vệ"
+    },
+    {
+      "word": "鉄柵",
+      "reading": "てっさく",
+      "meaning": "hàng rào sắt"
     }
   ]
 }

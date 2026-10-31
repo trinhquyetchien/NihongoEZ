@@ -89,24 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "微妙",
+      "reading": "びみょう",
+      "meaning": "không thể nói"
+    },
+    {
+      "word": "微笑",
+      "reading": "びしょう",
+      "meaning": "nụ cười mỉm"
+    },
+    {
+      "word": "微量",
+      "reading": "びりょう",
+      "meaning": "số lượng rất nhỏ"
+    },
+    {
+      "word": "微塵",
+      "reading": "みじん",
+      "meaning": "một chút"
+    },
+    {
       "word": "微",
       "reading": "び",
       "meaning": "một chút"
     },
     {
-      "word": "微微",
-      "reading": "びび",
-      "meaning": "rất ít"
+      "word": "微物",
+      "reading": "びぶつ",
+      "meaning": "bằng chứng vô cùng nhỏ bé"
     },
     {
-      "word": "微微たる",
-      "reading": "びびたる",
-      "meaning": "nhỏ"
+      "word": "微服",
+      "reading": "びふく",
+      "meaning": "quần áo thiết kế nhằm không thu hút sự chú ý của người khác"
     },
     {
-      "word": "微減",
-      "reading": "びげん",
-      "meaning": "giảm nhẹ"
+      "word": "微乳",
+      "reading": "びにゅう",
+      "meaning": "bộ ngực nhỏ"
     },
     {
       "word": "紫微",
@@ -114,29 +134,9 @@
       "meaning": "tử vi"
     },
     {
-      "word": "微増",
-      "reading": "びぞう",
-      "meaning": "tăng nhẹ"
-    },
-    {
       "word": "微糖",
       "reading": "びとう",
       "meaning": "ít đường"
-    },
-    {
-      "word": "微睡",
-      "reading": "まどろみ",
-      "meaning": "ngủ gật"
-    },
-    {
-      "word": "極微",
-      "reading": "きょくび",
-      "meaning": "rất nhỏ"
-    },
-    {
-      "word": "微吟",
-      "reading": "びぎん",
-      "meaning": "ngâm nga"
     }
   ]
 }

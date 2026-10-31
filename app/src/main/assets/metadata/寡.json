@@ -86,14 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "寡",
-      "reading": "やもめ",
-      "meaning": "goá phụ"
+      "word": "寡黙",
+      "reading": "かもく",
+      "meaning": "e thẹn"
     },
     {
-      "word": "衆寡",
-      "reading": "しゅうか",
-      "meaning": "nhiều và ít"
+      "word": "寡占",
+      "reading": "かせん",
+      "meaning": "sự lũng đoạn"
     },
     {
       "word": "多寡",
@@ -101,19 +101,14 @@
       "meaning": "lượng"
     },
     {
-      "word": "寡言",
-      "reading": "かげん",
-      "meaning": "trầm mặc"
+      "word": "寡婦",
+      "reading": "かふ",
+      "meaning": "người đàn bà góa"
     },
     {
-      "word": "寡兵",
-      "reading": "かへい",
-      "meaning": "sự ít quân"
-    },
-    {
-      "word": "寡男",
-      "reading": "やもお",
-      "meaning": "người goá vợ"
+      "word": "寡頭制",
+      "reading": "かとうせい",
+      "meaning": "chính trị đầu xỏ"
     },
     {
       "word": "寡聞",
@@ -121,19 +116,24 @@
       "meaning": "hạn chế"
     },
     {
-      "word": "寡慾",
-      "reading": "かよく",
-      "meaning": "sự ít tham lam"
+      "word": "寡",
+      "reading": "やもめ",
+      "meaning": "goá phụ"
     },
     {
-      "word": "寡勢",
-      "reading": "かぜい",
-      "meaning": "một đội quân nhỏ"
+      "word": "寡兵",
+      "reading": "かへい",
+      "meaning": "sự ít quân"
     },
     {
-      "word": "寡少",
-      "reading": "かしょう",
-      "meaning": "rất ít"
+      "word": "寡作",
+      "reading": "かさく",
+      "meaning": "sự sáng tác ít"
+    },
+    {
+      "word": "寡夫",
+      "reading": "かふ",
+      "meaning": "người goá vợ"
     }
   ]
 }

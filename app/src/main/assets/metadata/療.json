@@ -104,19 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "診療拒否(医療職側)",
-      "reading": "しんりょーきょひ(いりょーしょくがわ)",
-      "meaning": "từ chối điều trị"
-    },
-    {
-      "word": "細胞療法と組織療法",
-      "reading": "さいぼうりょうほうとそしきりょうほう",
-      "meaning": "liệu pháp tế bào và mô"
-    },
-    {
-      "word": "診療",
-      "reading": "しんりょう",
-      "meaning": "sự khám và chữa bệnh"
+      "word": "医療",
+      "reading": "いりょう",
+      "meaning": "sự chữa trị"
     },
     {
       "word": "治療",
@@ -124,34 +114,44 @@
       "meaning": "trị liệu"
     },
     {
-      "word": "医療",
-      "reading": "いりょう",
-      "meaning": "sự chữa trị"
+      "word": "診療",
+      "reading": "しんりょう",
+      "meaning": "sự khám và chữa bệnh"
     },
     {
-      "word": "療育",
-      "reading": "りょういく",
-      "meaning": "phục hồi chức năng"
+      "word": "治療中",
+      "reading": "ちりょうちゅう",
+      "meaning": "đang điều trị"
     },
     {
-      "word": "物療",
-      "reading": "ぶつりょう",
-      "meaning": "phép chữa vật lý"
+      "word": "医療車",
+      "reading": "いりょうしゃ",
+      "meaning": "xe dành cho bệnh viện tư"
     },
     {
-      "word": "加療",
-      "reading": "かりょう",
-      "meaning": "sự điều trị y học"
+      "word": "医療用",
+      "reading": "いりょうよう",
+      "meaning": "dùng trong y tế"
     },
     {
-      "word": "施療",
-      "reading": "せりょう",
-      "meaning": "sự trị liệu miễn phí"
+      "word": "医療法",
+      "reading": "いりょうほう",
+      "meaning": "luật y tế"
     },
     {
-      "word": "療治",
-      "reading": "りょうじ",
-      "meaning": "sự chữa trị"
+      "word": "治療法",
+      "reading": "ちりょうほう",
+      "meaning": "phương pháp trị liệu"
+    },
+    {
+      "word": "医療品",
+      "reading": "いりょうひん",
+      "meaning": "y học cung cấp"
+    },
+    {
+      "word": "治療薬",
+      "reading": "ちりょうやく",
+      "meaning": "phương thuốc"
     }
   ]
 }

@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "論",
-      "reading": "ろん",
-      "meaning": "lý lẽ"
-    },
-    {
-      "word": "反論",
-      "reading": "はんろん",
-      "meaning": "phản luận"
-    },
-    {
-      "word": "勿論",
-      "reading": "もちろん",
-      "meaning": "đương nhiên"
-    },
-    {
-      "word": "口論",
-      "reading": "こうろん",
-      "meaning": "khẩu chiến"
-    },
-    {
-      "word": "言論",
-      "reading": "げんろん",
-      "meaning": "ngôn luận"
-    },
-    {
       "word": "議論",
       "reading": "ぎろん",
       "meaning": "sự thảo luận"
     },
     {
-      "word": "異論",
-      "reading": "いろん",
-      "meaning": "ý kiến và thảo luận khác với những ý kiến khác"
+      "word": "概論",
+      "reading": "がいろん",
+      "meaning": "khái luận"
     },
     {
       "word": "世論",
@@ -129,14 +104,39 @@
       "meaning": "công luận"
     },
     {
-      "word": "論陣",
-      "reading": "ろんじん",
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "ngôn luận"
+    },
+    {
+      "word": "異論",
+      "reading": "いろん",
+      "meaning": "ý kiến và thảo luận khác với những ý kiến khác"
+    },
+    {
+      "word": "無論",
+      "reading": "むろん",
+      "meaning": "đương nhiên"
+    },
+    {
+      "word": "論",
+      "reading": "ろん",
       "meaning": "lý lẽ"
     },
     {
-      "word": "小論",
-      "reading": "しょうろん",
-      "meaning": "mục ngắn"
+      "word": "論う",
+      "reading": "あげつらう",
+      "meaning": "thảo luận"
+    },
+    {
+      "word": "三論",
+      "reading": "さんろん",
+      "meaning": "giáo phái tín đồ phật giáo bắt nguồn vào thế kỷ bảy"
+    },
+    {
+      "word": "新論",
+      "reading": "しんろん",
+      "meaning": "cuộc tranh luận mới"
     }
   ]
 }

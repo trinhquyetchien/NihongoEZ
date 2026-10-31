@@ -87,44 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "弊",
-      "reading": "へい",
-      "meaning": "thói quen xấu"
-    },
-    {
-      "word": "語弊",
-      "reading": "ごへい",
-      "meaning": "cách nói gây hiểu nhầm"
-    },
-    {
-      "word": "悪弊",
-      "reading": "あくへい",
-      "meaning": "tệ nạn"
-    },
-    {
-      "word": "弊行",
-      "reading": "へいこう",
-      "meaning": "ngân hàng chúng tôi"
-    },
-    {
-      "word": "余弊",
-      "reading": "よへい",
-      "meaning": "người ở lại sau khi hết nhiệm kỳ"
-    },
-    {
-      "word": "弊方",
-      "reading": "へいほう",
-      "meaning": "tôi"
-    },
-    {
-      "word": "弊履",
-      "reading": "へいり",
-      "meaning": "giày dép rách"
-    },
-    {
-      "word": "弊所",
-      "reading": "へいしょ",
-      "meaning": "văn phòng"
+      "word": "弊社",
+      "reading": "へいしゃ",
+      "meaning": "công ty của chúng tôi"
     },
     {
       "word": "疲弊",
@@ -132,9 +97,44 @@
       "meaning": "bệnh do mệt mỏi"
     },
     {
+      "word": "弊害",
+      "reading": "へいがい",
+      "meaning": "tệ nạn"
+    },
+    {
+      "word": "弊",
+      "reading": "へい",
+      "meaning": "thói quen xấu"
+    },
+    {
+      "word": "弊方",
+      "reading": "へいほう",
+      "meaning": "tôi"
+    },
+    {
+      "word": "弊所",
+      "reading": "へいしょ",
+      "meaning": "văn phòng"
+    },
+    {
       "word": "百弊",
       "reading": "ひゃくへい",
       "meaning": "tất cả các tội lỗi"
+    },
+    {
+      "word": "弊行",
+      "reading": "へいこう",
+      "meaning": "ngân hàng chúng tôi"
+    },
+    {
+      "word": "党弊",
+      "reading": "とうへい",
+      "meaning": "tệ nạn trong đảng"
+    },
+    {
+      "word": "語弊",
+      "reading": "ごへい",
+      "meaning": "cách nói gây hiểu nhầm"
     }
   ]
 }

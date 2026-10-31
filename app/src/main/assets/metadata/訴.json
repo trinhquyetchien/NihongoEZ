@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "控訴",
-      "reading": "こうそ",
-      "meaning": "sự chống án"
+      "word": "訴える",
+      "reading": "うったえる",
+      "meaning": "kêu gọi"
     },
     {
-      "word": "直訴",
-      "reading": "じきそ",
-      "meaning": "trực tiếp kêu gọi"
+      "word": "訴訟",
+      "reading": "そしょう",
+      "meaning": "sự kiện tụng"
     },
     {
-      "word": "訴追",
-      "reading": "そつい",
-      "meaning": "hoạt động hợp pháp"
+      "word": "訴え",
+      "reading": "うったえ",
+      "meaning": "việc kiện cáo"
     },
     {
-      "word": "訴状",
-      "reading": "そじょう",
-      "meaning": "kiến nghị"
+      "word": "訴訟人",
+      "reading": "そしょうにん",
+      "meaning": "người kiện"
     },
     {
-      "word": "提訴",
-      "reading": "ていそ",
-      "meaning": "sự đưa ra kiện"
+      "word": "訴訟法",
+      "reading": "そしょうほう",
+      "meaning": "luật tiến hành xét xử"
     },
     {
-      "word": "哀訴",
-      "reading": "あいそ",
-      "meaning": "sự cầu khẩn"
+      "word": "起訴",
+      "reading": "きそ",
+      "meaning": "khởi tố"
     },
     {
-      "word": "反訴",
-      "reading": "はんそ",
-      "meaning": "kháng cáo"
+      "word": "不起訴",
+      "reading": "ふきそ",
+      "meaning": "nonprosecution hoặc sự buộc tội"
     },
     {
-      "word": "訴人",
-      "reading": "そにん",
-      "meaning": "người nộp đơn khiếu nại"
+      "word": "起訴状",
+      "reading": "きそじょう",
+      "meaning": "bản cáo trạng"
     },
     {
-      "word": "上訴",
-      "reading": "じょうそ",
-      "meaning": "chống án"
+      "word": "追起訴",
+      "reading": "ついきそ",
+      "meaning": "sự truy tố"
     },
     {
-      "word": "出訴",
-      "reading": "しゅっそ",
-      "meaning": "đưa ra tòa"
+      "word": "告訴",
+      "reading": "こくそ",
+      "meaning": "sự tố cáo"
     }
   ]
 }

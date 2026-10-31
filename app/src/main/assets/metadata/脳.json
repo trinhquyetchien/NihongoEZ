@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
+      "word": "頭脳",
+      "reading": "ずのう",
+      "meaning": "bộ não"
+    },
+    {
       "word": "脳",
       "reading": "のう",
       "meaning": "não"
-    },
-    {
-      "word": "脳トレ",
-      "reading": "のうトレ",
-      "meaning": "luyện não"
     },
     {
       "word": "首脳",
@@ -105,24 +105,19 @@
       "meaning": "não"
     },
     {
-      "word": "小脳",
-      "reading": "しょうのう",
-      "meaning": "thuộc não"
+      "word": "人脳",
+      "reading": "じんのう",
+      "meaning": "não người"
     },
     {
-      "word": "脳病",
-      "reading": "のうびょう",
-      "meaning": "bệnh não"
+      "word": "中脳",
+      "reading": "ちゅうのう",
+      "meaning": "não giữa"
     },
     {
-      "word": "菱脳",
-      "reading": "りょうのう",
-      "meaning": "trám não"
-    },
-    {
-      "word": "脳梁",
-      "reading": "のうりょう",
-      "meaning": "thể chai"
+      "word": "前脳",
+      "reading": "ぜんのう",
+      "meaning": "não trước"
     },
     {
       "word": "後脳",
@@ -130,14 +125,19 @@
       "meaning": "não sau"
     },
     {
-      "word": "脳橋",
-      "reading": "のうきょう",
-      "meaning": "cầu não"
+      "word": "脳回",
+      "reading": "のうかい",
+      "meaning": "nếp cuộn não"
     },
     {
       "word": "脳力",
       "reading": "のうりょく",
       "meaning": "sức mạnh não"
+    },
+    {
+      "word": "間脳",
+      "reading": "かんのう",
+      "meaning": "não trung gian"
     }
   ]
 }

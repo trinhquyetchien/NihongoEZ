@@ -92,24 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "頃",
-      "reading": "ころ",
-      "meaning": "vào khoảng"
-    },
-    {
-      "word": "年頃日頃",
-      "reading": "としごろひごろ",
-      "meaning": "những ngày này"
-    },
-    {
-      "word": "日頃",
-      "reading": "ひごろ",
-      "meaning": "thông thường"
-    },
-    {
-      "word": "見頃",
-      "reading": "みごろ",
-      "meaning": "thời gian tốt nhất để xem"
+      "word": "この頃",
+      "reading": "このごろ",
+      "meaning": "thời gian gần đây"
     },
     {
       "word": "近頃",
@@ -117,29 +102,44 @@
       "meaning": "gần đây"
     },
     {
-      "word": "月頃",
-      "reading": "つきごろ",
-      "meaning": "những tháng đã qua này"
+      "word": "その頃",
+      "reading": "そのころ",
+      "meaning": "vào thời điểm đó"
     },
     {
-      "word": "一頃",
-      "reading": "ひところ",
-      "meaning": "trước kia"
+      "word": "頃",
+      "reading": "ころ",
+      "meaning": "vào khoảng"
     },
     {
-      "word": "万頃",
-      "reading": "ばんけい",
-      "meaning": "một khoảng không gian mênh mông"
+      "word": "年頃",
+      "reading": "としごろ",
+      "meaning": "tuổi tác áng chừng"
     },
     {
-      "word": "頃刻",
-      "reading": "けいこく",
-      "meaning": "khoảnh khắc"
+      "word": "いい頃",
+      "reading": "いいころ",
+      "meaning": "vừa phải"
     },
     {
-      "word": "頃合",
-      "reading": "ころあい",
-      "meaning": "thời gian tốt"
+      "word": "年の頃",
+      "reading": "としのころ",
+      "meaning": "trong độ tuổi"
+    },
+    {
+      "word": "月の頃",
+      "reading": "つきのころ",
+      "meaning": "thời điểm tốt để ngắm trăng"
+    },
+    {
+      "word": "良い頃",
+      "reading": "よいころ",
+      "meaning": "thời điểm tốt"
+    },
+    {
+      "word": "いつ頃",
+      "reading": "いつごろ",
+      "meaning": "khoảng khi nào"
     }
   ]
 }

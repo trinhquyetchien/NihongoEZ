@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "忠",
-      "reading": "ちゅう",
-      "meaning": "việc cống hiến làm hết sức mình bằng cả trái tim"
-    },
-    {
-      "word": "忠実忠実しい",
-      "reading": "まめまめしい",
+      "word": "忠実",
+      "reading": "ちゅうじつ",
       "meaning": "chăm chỉ"
     },
     {
-      "word": "忠犬",
-      "reading": "ちゅうけん",
-      "meaning": "con chó trung thành với chủ"
+      "word": "忠告",
+      "reading": "ちゅうこく",
+      "meaning": "lời khuyên"
     },
     {
-      "word": "忠言",
-      "reading": "ちゅうげん",
-      "meaning": "lời khuyên tốt"
+      "word": "忠実さ",
+      "reading": "ちゅうじつさ",
+      "meaning": "lòng chung thuỷ"
     },
     {
-      "word": "忠義",
-      "reading": "ちゅうぎ",
-      "meaning": "sự trung nghĩa"
-    },
-    {
-      "word": "忠孝",
-      "reading": "ちゅうこう",
-      "meaning": "trung thành và hiếu thảo"
-    },
-    {
-      "word": "不忠",
-      "reading": "ふちゅう",
-      "meaning": "bất trung"
-    },
-    {
-      "word": "忠順",
-      "reading": "ちゅうじゅん",
-      "meaning": "lòng trung thành và phục tùng"
-    },
-    {
-      "word": "誠忠",
-      "reading": "せいちゅう",
+      "word": "忠実度",
+      "reading": "ちゅうじつど",
       "meaning": "lòng trung thành"
     },
     {
-      "word": "忠愛",
-      "reading": "ちゅうあい",
-      "meaning": "lòng trung thành"
+      "word": "手忠実",
+      "reading": "てまめ",
+      "meaning": "khéo tay"
+    },
+    {
+      "word": "口忠実",
+      "reading": "くちまめ",
+      "meaning": "thích nói"
+    },
+    {
+      "word": "足忠実",
+      "reading": "あしまめ",
+      "meaning": "người hay trạng thái đi bộ không mệt mỏi"
+    },
+    {
+      "word": "不忠実",
+      "reading": "ふちゅうじつ",
+      "meaning": "sự không trung thành"
+    },
+    {
+      "word": "忠誠",
+      "reading": "ちゅうせい",
+      "meaning": "sự trung thành"
+    },
+    {
+      "word": "忠誠心",
+      "reading": "ちゅうせいしん",
+      "meaning": "lòng trung thành"
     }
   ]
 }

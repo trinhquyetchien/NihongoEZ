@@ -94,34 +94,14 @@
       "meaning": "đảo"
     },
     {
-      "word": "島島",
-      "reading": "しまじま",
-      "meaning": "những hòn đảo"
+      "word": "半島",
+      "reading": "はんとう",
+      "meaning": "bán đảo"
     },
     {
-      "word": "千島列島",
-      "reading": "ちしまれっとう",
-      "meaning": "những hòn đảo kurile"
-    },
-    {
-      "word": "陸島",
-      "reading": "りくとう",
-      "meaning": "đảo nối"
-    },
-    {
-      "word": "諸島",
-      "reading": "しょとう",
-      "meaning": "quần đảo"
-    },
-    {
-      "word": "小島",
-      "reading": "こじま",
-      "meaning": "hòn đảo nhỏ"
-    },
-    {
-      "word": "孤島",
-      "reading": "ことう",
-      "meaning": "hòn đảo chơ vơ"
+      "word": "島人",
+      "reading": "とうじん",
+      "meaning": "người sống ở đảo"
     },
     {
       "word": "広島",
@@ -129,14 +109,34 @@
       "meaning": "thành phố hiroshima"
     },
     {
-      "word": "イースター島",
-      "reading": "イースターとう",
-      "meaning": "đảo easter"
+      "word": "島風",
+      "reading": "しまかぜ",
+      "meaning": "cơn gió hòn đảo"
     },
     {
-      "word": "オノコロ島",
-      "reading": "おのころじま",
-      "meaning": "onogoro island"
+      "word": "島主",
+      "reading": "とうしゅ",
+      "meaning": "đảo chủ"
+    },
+    {
+      "word": "島島",
+      "reading": "しまじま",
+      "meaning": "những hòn đảo"
+    },
+    {
+      "word": "中島",
+      "reading": "なかじま",
+      "meaning": "hòn đảo"
+    },
+    {
+      "word": "島根",
+      "reading": "しまね",
+      "meaning": "hòn đảo"
+    },
+    {
+      "word": "島庁",
+      "reading": "とうちょう",
+      "meaning": "văn phòng chính quyền của đảo"
     }
   ]
 }

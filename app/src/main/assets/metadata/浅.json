@@ -106,24 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "浅紅",
-      "reading": "せんこう",
-      "meaning": "màu đỏ nhạt"
+      "word": "浅い",
+      "reading": "あさい",
+      "meaning": "cạn"
     },
     {
-      "word": "浅才",
-      "reading": "せんさい",
-      "meaning": "trí tuệ thấp kém"
+      "word": "浅ましい",
+      "reading": "あさましい",
+      "meaning": "khốn khổ"
     },
     {
-      "word": "浅縹",
-      "reading": "あさはなだ",
-      "meaning": "pale indigo"
-    },
-    {
-      "word": "浅緋",
-      "reading": "あさあけ",
-      "meaning": "pale scarlet"
+      "word": "浅層",
+      "reading": "せんそう",
+      "meaning": "tầng đất nông"
     },
     {
       "word": "浅紫",
@@ -131,29 +126,34 @@
       "meaning": "màu tím nhạt"
     },
     {
-      "word": "浅薄",
-      "reading": "せんぱく",
-      "meaning": "nông"
+      "word": "浅鉢",
+      "reading": "あさばち",
+      "meaning": "bát nông"
     },
     {
-      "word": "浅海",
-      "reading": "せんかい",
-      "meaning": "biển nông"
+      "word": "築浅",
+      "reading": "ちくあさ",
+      "meaning": "mới được xây dựng"
     },
     {
-      "word": "浅慮",
-      "reading": "せんりょ",
-      "meaning": "suy nghĩ nông cạn"
+      "word": "浅背筋",
+      "reading": "あさせすじ",
+      "meaning": "cơ lưng nông"
     },
     {
-      "word": "浅蜊",
-      "reading": "あさり",
-      "meaning": "con sò"
+      "word": "浅緋",
+      "reading": "あさあけ",
+      "meaning": "pale scarlet"
     },
     {
-      "word": "深浅",
-      "reading": "しんせん",
-      "meaning": "chiều sâu"
+      "word": "浅瀬",
+      "reading": "あさせ",
+      "meaning": "chỗ nông"
+    },
+    {
+      "word": "浅はか",
+      "reading": "あさはか",
+      "meaning": "nhẹ dạ"
     }
   ]
 }

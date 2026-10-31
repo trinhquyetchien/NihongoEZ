@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "享楽",
-      "reading": "きょうらく",
-      "meaning": "sự hưởng lạc"
+      "word": "享受",
+      "reading": "きょうじゅ",
+      "meaning": "sự hưởng thụ"
     },
     {
-      "word": "享有",
-      "reading": "きょうゆう",
-      "meaning": "sự được hưởng"
-    },
-    {
-      "word": "永享",
-      "reading": "えいきょう",
-      "meaning": "thời eikyou"
-    },
-    {
-      "word": "享和",
-      "reading": "きょうわ",
-      "meaning": "kyouwa era"
-    },
-    {
-      "word": "延享",
-      "reading": "えんきょう",
-      "meaning": "thời enkyou"
-    },
-    {
-      "word": "貞享",
-      "reading": "じょうきょう",
-      "meaning": "thời joukyou"
-    },
-    {
-      "word": "享保",
-      "reading": "きょうほう",
-      "meaning": "kyôhô era"
+      "word": "享受者",
+      "reading": "きょうじゅしゃ",
+      "meaning": "receptive"
     },
     {
       "word": "長享",
@@ -129,14 +104,39 @@
       "meaning": "thời choukyou"
     },
     {
-      "word": "享禄",
-      "reading": "きょうろく",
-      "meaning": "kyouroku era"
+      "word": "享和",
+      "reading": "きょうわ",
+      "meaning": "kyouwa era"
+    },
+    {
+      "word": "享保",
+      "reading": "きょうほう",
+      "meaning": "kyôhô era"
+    },
+    {
+      "word": "永享",
+      "reading": "えいきょう",
+      "meaning": "thời eikyou"
     },
     {
       "word": "享徳",
       "reading": "きょうとく",
       "meaning": "kyoutoku era"
+    },
+    {
+      "word": "享保尺",
+      "reading": "きょうほうじゃく",
+      "meaning": "kyouhou shaku"
+    },
+    {
+      "word": "享持",
+      "reading": "きょうじ",
+      "meaning": "đảm bảo quyền lợi và những tiện ích"
+    },
+    {
+      "word": "延享",
+      "reading": "えんきょう",
+      "meaning": "thời enkyou"
     }
   ]
 }

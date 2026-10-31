@@ -92,24 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "調",
-      "reading": "ちょう",
-      "meaning": "giọng điệu"
-    },
-    {
-      "word": "調度が調う",
-      "reading": "ちょうどがととのう",
-      "meaning": "để hoàn toàn được trang bị"
-    },
-    {
-      "word": "調う",
-      "reading": "ととのう",
-      "meaning": "sẵn sàng"
-    },
-    {
-      "word": "語調",
-      "reading": "ごちょう",
-      "meaning": "khẩu khí"
+      "word": "強調",
+      "reading": "きょうちょう",
+      "meaning": "sự nhấn mạnh"
     },
     {
       "word": "順調",
@@ -117,14 +102,9 @@
       "meaning": "sự thuận lợi"
     },
     {
-      "word": "色調",
-      "reading": "しきちょう",
-      "meaning": "bản sắc"
-    },
-    {
-      "word": "強調",
-      "reading": "きょうちょう",
-      "meaning": "sự nhấn mạnh"
+      "word": "好調",
+      "reading": "こうちょう",
+      "meaning": "có trạng thái tốt"
     },
     {
       "word": "協調",
@@ -132,14 +112,34 @@
       "meaning": "sự hiệp lực"
     },
     {
-      "word": "哀調",
-      "reading": "あいちょう",
-      "meaning": "giai điệu tang tóc"
+      "word": "失調",
+      "reading": "しっちょう",
+      "meaning": "thiếu hòa điệu"
     },
     {
-      "word": "好調",
-      "reading": "こうちょう",
-      "meaning": "có trạng thái tốt"
+      "word": "調",
+      "reading": "ちょう",
+      "meaning": "giọng điệu"
+    },
+    {
+      "word": "調声",
+      "reading": "ちょうせい",
+      "meaning": "thuộc về âm điệu đánh dấu"
+    },
+    {
+      "word": "調光",
+      "reading": "ちょうこう",
+      "meaning": "ánh sáng biến đổi"
+    },
+    {
+      "word": "逆調",
+      "reading": "ぎゃくちょう",
+      "meaning": "điều kiện bất lợi"
+    },
+    {
+      "word": "階調",
+      "reading": "かいちょう",
+      "meaning": "sự chuyển màu"
     }
   ]
 }

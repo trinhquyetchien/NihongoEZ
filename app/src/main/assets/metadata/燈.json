@@ -42,14 +42,14 @@
       "meaning": "đèn đường"
     },
     {
+      "word": "御神燈",
+      "reading": "ごしんとう",
+      "meaning": "đèn thờ để trước cửa đền thờ jinja"
+    },
+    {
       "word": "幻燈",
       "reading": "げんとう",
       "meaning": "máy chiếu"
-    },
-    {
-      "word": "尾燈",
-      "reading": "びとう",
-      "meaning": "đèn hậu"
     },
     {
       "word": "消燈",
@@ -57,24 +57,14 @@
       "meaning": "sự tắt đèn"
     },
     {
+      "word": "蛍光燈",
+      "reading": "けいこうとう",
+      "meaning": "đèn huỳnh quang"
+    },
+    {
       "word": "堤燈",
       "reading": "ちょうちん",
       "meaning": "đèn lồng"
-    },
-    {
-      "word": "燈籠鬢",
-      "reading": "とうろうびん",
-      "meaning": "tóc búi đèn lồng"
-    },
-    {
-      "word": "御神燈",
-      "reading": "ごしんとう",
-      "meaning": "đèn thờ để trước cửa đền thờ jinja"
-    },
-    {
-      "word": "燃燈仏",
-      "reading": "ねんとうぶつ",
-      "meaning": "nhiên đăng cổ phật"
     },
     {
       "word": "螢光燈",
@@ -82,9 +72,19 @@
       "meaning": "đèn huỳnh quang"
     },
     {
-      "word": "蛍光燈",
-      "reading": "けいこうとう",
-      "meaning": "đèn huỳnh quang"
+      "word": "燈籠鬢",
+      "reading": "とうろうびん",
+      "meaning": "tóc búi đèn lồng"
+    },
+    {
+      "word": "尾燈",
+      "reading": "びとう",
+      "meaning": "đèn hậu"
+    },
+    {
+      "word": "燃燈仏",
+      "reading": "ねんとうぶつ",
+      "meaning": "nhiên đăng cổ phật"
     }
   ]
 }

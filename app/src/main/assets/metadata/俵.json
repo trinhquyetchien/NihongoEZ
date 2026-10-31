@@ -86,29 +86,19 @@
   ],
   "vocabulary": [
     {
+      "word": "土俵",
+      "reading": "どひょう",
+      "meaning": "đấu trường"
+    },
+    {
+      "word": "初土俵",
+      "reading": "はつどひょう",
+      "meaning": "giải đấu đầu tiên dành cho đô vật"
+    },
+    {
       "word": "俵",
       "reading": "たわら",
       "meaning": "bì cỏ"
-    },
-    {
-      "word": "徳俵",
-      "reading": "とくだわら",
-      "meaning": "4 kiện ở mép vòng tròn thi đấu hơi lùi lại"
-    },
-    {
-      "word": "角俵",
-      "reading": "かどだわら",
-      "meaning": "kiện tạo thành vành ngoài của vòng"
-    },
-    {
-      "word": "内俵",
-      "reading": "うちだわら",
-      "meaning": "kiện tạo thành cạnh của vòng"
-    },
-    {
-      "word": "炭俵",
-      "reading": "すみだわら",
-      "meaning": "bao tải than"
     },
     {
       "word": "一俵",
@@ -116,24 +106,34 @@
       "meaning": "đầy bao"
     },
     {
-      "word": "俵物",
-      "reading": "たわらもの",
-      "meaning": "hàng hóa trong rơm phồng lên"
-    },
-    {
       "word": "俵数",
       "reading": "ひょうすう",
       "meaning": "số bao"
     },
     {
-      "word": "土俵",
-      "reading": "どひょう",
-      "meaning": "đấu trường"
+      "word": "内俵",
+      "reading": "うちだわら",
+      "meaning": "kiện tạo thành cạnh của vòng"
+    },
+    {
+      "word": "俵物",
+      "reading": "たわらもの",
+      "meaning": "hàng hóa trong rơm phồng lên"
     },
     {
       "word": "米俵",
       "reading": "こめだわら",
       "meaning": "túi gạo"
+    },
+    {
+      "word": "上げ俵",
+      "reading": "あげだわら",
+      "meaning": "4 kiện góc trên vành ngoài của võ đài sumo"
+    },
+    {
+      "word": "俵編",
+      "reading": "たわらあみ",
+      "meaning": "việc đan túi rơm từ rơm mới thu hoạch vào mùa thu"
     }
   ]
 }

@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "刷",
-      "reading": "さつ",
-      "meaning": "in ấn"
-    },
-    {
-      "word": "刷版",
-      "reading": "さっぱん",
-      "meaning": "tấm in"
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaning": "dấu"
     },
     {
       "word": "刷る",
@@ -107,39 +102,44 @@
       "meaning": "in ấn"
     },
     {
-      "word": "刷子",
-      "reading": "はけ",
-      "meaning": "quét"
+      "word": "刷り",
+      "reading": "すり",
+      "meaning": "sự in"
     },
     {
-      "word": "初刷",
-      "reading": "はつずり",
-      "meaning": "việc in lần đầu tiên"
+      "word": "印刷人",
+      "reading": "いんさつにん",
+      "meaning": "máy in"
     },
     {
-      "word": "増刷",
-      "reading": "ぞうさつ",
-      "meaning": "sự in thêm"
+      "word": "印刷者",
+      "reading": "いんさつしゃ",
+      "meaning": "máy in"
     },
     {
-      "word": "刷新",
-      "reading": "さっしん",
-      "meaning": "sự đổi mới"
+      "word": "印刷用",
+      "reading": "いんさつよう",
+      "meaning": "dùng cho việc in ấn"
     },
     {
-      "word": "縮刷",
-      "reading": "しゅくさつ",
-      "meaning": "phiên bản in bỏ túi"
-    },
-    {
-      "word": "刷数",
-      "reading": "さつすう",
-      "meaning": "số những sách) in"
-    },
-    {
-      "word": "刷本",
-      "reading": "すりほん",
+      "word": "印刷版",
+      "reading": "いんさつばん",
       "meaning": "bản in"
+    },
+    {
+      "word": "印刷機",
+      "reading": "いんさつき",
+      "meaning": "máy in"
+    },
+    {
+      "word": "印刷屋",
+      "reading": "いんさつや",
+      "meaning": "máy in"
+    },
+    {
+      "word": "印刷社",
+      "reading": "いんさつしゃ",
+      "meaning": "công ty in ấn"
     }
   ]
 }

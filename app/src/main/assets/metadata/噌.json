@@ -73,24 +73,34 @@
       "meaning": "tương miso"
     },
     {
-      "word": "塩噌",
-      "reading": "えんそ",
-      "meaning": "muối và miso"
+      "word": "米味噌",
+      "reading": "こめみそ",
+      "meaning": "miso gạo"
     },
     {
-      "word": "味噌汁",
-      "reading": "みそしる",
-      "meaning": "súp tương"
+      "word": "桜味噌",
+      "reading": "さくらみそ",
+      "meaning": "tương miso sakura"
     },
     {
-      "word": "蟹味噌",
-      "reading": "かにみそ",
-      "meaning": "gạch cua"
+      "word": "魚味噌",
+      "reading": "うおみそ",
+      "meaning": "miso trộn với cá"
     },
     {
-      "word": "脳味噌",
-      "reading": "のうみそ",
-      "meaning": "đầu óc"
+      "word": "玉味噌",
+      "reading": "たまみそ",
+      "meaning": "tương miso"
+    },
+    {
+      "word": "味噌玉",
+      "reading": "みそだま",
+      "meaning": "viên miso"
+    },
+    {
+      "word": "鬼味噌",
+      "reading": "おにみそ",
+      "meaning": "miso nướng trộn ớt"
     },
     {
       "word": "弱味噌",
@@ -98,24 +108,14 @@
       "meaning": "người yếu ớt"
     },
     {
-      "word": "白味噌",
-      "reading": "しろみそ",
-      "meaning": "màu nâu ánh sáng miso"
+      "word": "豆味噌",
+      "reading": "まめみそ",
+      "meaning": "tương đậu"
     },
     {
-      "word": "赤味噌",
-      "reading": "あかみそ",
-      "meaning": "miso có màu nâu đỏ"
-    },
-    {
-      "word": "糞味噌",
-      "reading": "くそみそ",
-      "meaning": "quét sự tố cáo"
-    },
-    {
-      "word": "糠味噌",
-      "reading": "ぬかみそ",
-      "meaning": "một loại bột nhão làm từ cám gạo và muối"
+      "word": "粉味噌",
+      "reading": "こなみそ",
+      "meaning": "bột miso"
     }
   ]
 }

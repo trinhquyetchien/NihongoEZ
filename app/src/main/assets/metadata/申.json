@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "申",
-      "reading": "さる",
-      "meaning": "chi thứ 9 trong 12 chi"
-    },
-    {
-      "word": "申し申し",
-      "reading": "もうしもうし",
-      "meaning": "xin lỗi"
-    },
-    {
-      "word": "申述",
-      "reading": "しんじゅつ",
-      "meaning": "lời tuyên bố"
-    },
-    {
-      "word": "申込",
-      "reading": "もうしこみ",
-      "meaning": "chào giá"
-    },
-    {
       "word": "申す",
       "reading": "もうす",
       "meaning": "nói là"
     },
     {
-      "word": "庚申",
-      "reading": "かのえさる",
-      "meaning": "canh thân"
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "lời xin lỗi"
     },
     {
-      "word": "ネ申",
-      "reading": "かみ",
-      "meaning": "không thể tin được"
+      "word": "申請",
+      "reading": "しんせい",
+      "meaning": "sự thỉnh cầu"
     },
     {
-      "word": "未申",
-      "reading": "ひつじさる",
-      "meaning": "hướng tây nam"
+      "word": "申告",
+      "reading": "しんこく",
+      "meaning": "giấy khai"
     },
     {
-      "word": "追申",
-      "reading": "ついしん",
-      "meaning": "tái bút"
+      "word": "申し出",
+      "reading": "もうしで",
+      "meaning": "đề nghị"
     },
     {
-      "word": "申年",
-      "reading": "さるどし",
-      "meaning": "năm con khỉ"
+      "word": "申し分",
+      "reading": "もうしぶん",
+      "meaning": "điểm không hài lòng"
+    },
+    {
+      "word": "申請人",
+      "reading": "しんせいにん",
+      "meaning": "người nộp đơn"
+    },
+    {
+      "word": "申請者",
+      "reading": "しんせいしゃ",
+      "meaning": "người xin việc"
+    },
+    {
+      "word": "申請書",
+      "reading": "しんせいしょ",
+      "meaning": "đơn xin"
+    },
+    {
+      "word": "申し",
+      "reading": "もうし",
+      "meaning": "xin lỗi!/làm ơn"
     }
   ]
 }

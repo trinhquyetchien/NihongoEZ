@@ -94,24 +94,14 @@
       "meaning": "búp"
     },
     {
-      "word": "萌芽",
-      "reading": "ほうが",
-      "meaning": "sự manh nha"
+      "word": "発芽",
+      "reading": "はつが",
+      "meaning": "sự nảy mầm"
     },
     {
-      "word": "冬芽",
-      "reading": "とうが",
-      "meaning": "mầm đông"
-    },
-    {
-      "word": "腋芽",
-      "reading": "わきめ",
-      "meaning": "chồi non"
-    },
-    {
-      "word": "頂芽",
-      "reading": "ちょうが",
-      "meaning": "chồi ngọn cây"
+      "word": "芽体",
+      "reading": "がたい",
+      "meaning": "mầm gốc"
     },
     {
       "word": "側芽",
@@ -119,24 +109,34 @@
       "meaning": "mầm"
     },
     {
-      "word": "芽鱗",
-      "reading": "がりん",
-      "meaning": "vảy chồi"
-    },
-    {
-      "word": "嫩芽",
-      "reading": "どんが",
-      "meaning": "chồi non"
-    },
-    {
-      "word": "発芽",
-      "reading": "はつが",
-      "meaning": "sự nảy mầm"
+      "word": "葉芽",
+      "reading": "ようが",
+      "meaning": "chồi"
     },
     {
       "word": "歯芽",
       "reading": "しが",
       "meaning": "mầm răng"
+    },
+    {
+      "word": "芽球",
+      "reading": "がきゅう",
+      "meaning": "đá quý"
+    },
+    {
+      "word": "芽茶",
+      "reading": "めちゃ",
+      "meaning": "mecha"
+    },
+    {
+      "word": "裸芽",
+      "reading": "らが",
+      "meaning": "chồi trần trụi"
+    },
+    {
+      "word": "赤芽球",
+      "reading": "せきがきゅう",
+      "meaning": "nguyên hồng cầu"
     }
   ]
 }

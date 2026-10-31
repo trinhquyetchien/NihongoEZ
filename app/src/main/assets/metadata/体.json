@@ -113,19 +113,14 @@
       "meaning": "cơ thể"
     },
     {
-      "word": "一体全体",
-      "reading": "いったいぜんたい",
-      "meaning": "bất cứ cái gì"
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "hình hài"
     },
     {
-      "word": "立体異性体",
-      "reading": "りったいいせいたい",
-      "meaning": "chất đồng phân lập thể"
-    },
-    {
-      "word": "肉体",
-      "reading": "にくたい",
-      "meaning": "cơ thể"
+      "word": "液体",
+      "reading": "えきたい",
+      "meaning": "chất lỏng"
     },
     {
       "word": "文体",
@@ -133,29 +128,34 @@
       "meaning": "văn thể"
     },
     {
-      "word": "体臭",
-      "reading": "たいしゅう",
-      "meaning": "mùi hôi từ thân thể"
+      "word": "肉体",
+      "reading": "にくたい",
+      "meaning": "cơ thể"
     },
     {
-      "word": "体協",
-      "reading": "たいきょう",
-      "meaning": "tài tử nhật bản chưng diện hiệp hội"
+      "word": "主体",
+      "reading": "しゅたい",
+      "meaning": "chủ thể"
     },
     {
-      "word": "体側",
-      "reading": "たいそく",
-      "meaning": "một bên cơ thể"
+      "word": "だ体",
+      "reading": "だたい",
+      "meaning": "thể だ"
     },
     {
-      "word": "死体",
-      "reading": "したい",
-      "meaning": "hình hài"
+      "word": "三体",
+      "reading": "さんたい",
+      "meaning": "ba phong cách chữ viết"
     },
     {
-      "word": "自体",
-      "reading": "じたい",
-      "meaning": "sự tự thân"
+      "word": "様体",
+      "reading": "ようだい",
+      "meaning": "sự xuất hiện"
+    },
+    {
+      "word": "別体",
+      "reading": "べったい",
+      "meaning": "dị hình"
     }
   ]
 }

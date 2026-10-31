@@ -107,39 +107,39 @@
   ],
   "vocabulary": [
     {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "chừng"
+    },
+    {
+      "word": "過程",
+      "reading": "かてい",
+      "meaning": "quá trình"
+    },
+    {
+      "word": "日程",
+      "reading": "にってい",
+      "meaning": "hành trình"
+    },
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "giáo trình giảng dạy"
+    },
+    {
       "word": "程",
       "reading": "ほど",
       "meaning": "bằng"
     },
     {
-      "word": "程程",
-      "reading": "ほどほど",
-      "meaning": "ở một mức độ vừa phải"
+      "word": "程に",
+      "reading": "ほどに",
+      "meaning": "bởi vì...nên là"
     },
     {
-      "word": "程無く",
-      "reading": "ほどなく",
-      "meaning": "xem 程無し"
-    },
-    {
-      "word": "程々",
-      "reading": "ほどほど",
-      "meaning": "ở một mức độ vừa phải"
-    },
-    {
-      "word": "余程",
-      "reading": "よほど",
-      "meaning": "nhiều"
-    },
-    {
-      "word": "行程",
-      "reading": "こうてい",
-      "meaning": "chuyến"
-    },
-    {
-      "word": "工程",
-      "reading": "こうてい",
-      "meaning": "công cuộc"
+      "word": "今程",
+      "reading": "いまほど",
+      "meaning": "gần đây"
     },
     {
       "word": "前程",
@@ -147,14 +147,14 @@
       "meaning": "con đường phía trước"
     },
     {
-      "word": "航程",
-      "reading": "こうてい",
-      "meaning": "quãng đường"
+      "word": "彼程",
+      "reading": "あれほど",
+      "meaning": "ở mức độ đó"
     },
     {
-      "word": "今程",
-      "reading": "いまほど",
-      "meaning": "gần đây"
+      "word": "程良く",
+      "reading": "ほどよく",
+      "meaning": "đúng đắn"
     }
   ]
 }

@@ -94,36 +94,6 @@
       "meaning": "100 mét vuông"
     },
     {
-      "word": "壟畝",
-      "reading": "ろうほ",
-      "meaning": "luống đất"
-    },
-    {
-      "word": "畝須",
-      "reading": "うねす",
-      "meaning": "phần thịt rọc từ hàm dưới của cá voi đến bụng"
-    },
-    {
-      "word": "田畝",
-      "reading": "でんぽ",
-      "meaning": "canh tác"
-    },
-    {
-      "word": "畝間",
-      "reading": "うねま",
-      "meaning": "luống cày"
-    },
-    {
-      "word": "畝溝",
-      "reading": "うねみぞ",
-      "meaning": "cày những đỉnh"
-    },
-    {
-      "word": "畝織",
-      "reading": "うねおり",
-      "meaning": "vải kẻ"
-    },
-    {
       "word": "畝る",
       "reading": "うねる",
       "meaning": "uốn khúc"
@@ -134,9 +104,39 @@
       "meaning": "xây dựng cho gạo - lĩnh vực những đỉnh"
     },
     {
+      "word": "田畝",
+      "reading": "でんぽ",
+      "meaning": "canh tác"
+    },
+    {
+      "word": "畝ねる",
+      "reading": "うねる",
+      "meaning": "gợn sóng"
+    },
+    {
+      "word": "畝溝",
+      "reading": "うねみぞ",
+      "meaning": "cày những đỉnh"
+    },
+    {
       "word": "畝織り",
       "reading": "うねおり",
       "meaning": "vải có kẻ sọc"
+    },
+    {
+      "word": "畝須",
+      "reading": "うねす",
+      "meaning": "phần thịt rọc từ hàm dưới của cá voi đến bụng"
+    },
+    {
+      "word": "畝ねり",
+      "reading": "うねり",
+      "meaning": "chuyển động sóng"
+    },
+    {
+      "word": "壟畝",
+      "reading": "ろうほ",
+      "meaning": "luống đất"
     }
   ]
 }

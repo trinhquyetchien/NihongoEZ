@@ -92,24 +92,14 @@
       "meaning": "đàn koto"
     },
     {
-      "word": "和琴",
-      "reading": "わごん",
-      "meaning": "yamatogoto"
+      "word": "小琴",
+      "reading": "おごと",
+      "meaning": "koto nhỏ"
     },
     {
-      "word": "胡琴",
-      "reading": "こきん",
-      "meaning": "hồ cầm"
-    },
-    {
-      "word": "弾琴",
-      "reading": "だんきん",
-      "meaning": "chơi trên koto"
-    },
-    {
-      "word": "調琴",
-      "reading": "ちょうきん",
-      "meaning": "việc chơi đàn koto"
+      "word": "琴鳥",
+      "reading": "ことどり",
+      "meaning": "chim superb lyrebird"
     },
     {
       "word": "琴座",
@@ -117,24 +107,34 @@
       "meaning": "chòm sao thiên cầm"
     },
     {
-      "word": "東琴",
-      "reading": "あずまごと",
-      "meaning": "six-stringed japanese zither"
+      "word": "鉄琴",
+      "reading": "てっきん",
+      "meaning": "metallophone"
     },
     {
-      "word": "月琴",
-      "reading": "げっきん",
-      "meaning": "đàn nguyệt"
+      "word": "調琴",
+      "reading": "ちょうきん",
+      "meaning": "việc chơi đàn koto"
     },
     {
-      "word": "琴線",
-      "reading": "きんせん",
-      "meaning": "rung động"
+      "word": "立琴",
+      "reading": "たてごと",
+      "meaning": "đàn koto được dựng đứng"
     },
     {
-      "word": "風琴",
-      "reading": "ふうきん",
-      "meaning": "đàn organ"
+      "word": "三角琴",
+      "reading": "さんかくごと",
+      "meaning": "đàn hac-pơ cổ xưa hình tam giác"
+    },
+    {
+      "word": "琴一張",
+      "reading": "こといっちょう",
+      "meaning": "một koto"
+    },
+    {
+      "word": "自鳴琴",
+      "reading": "じめいきん",
+      "meaning": "hộp âm nhạc"
     }
   ]
 }

@@ -84,54 +84,54 @@
   ],
   "vocabulary": [
     {
+      "word": "冗談",
+      "reading": "じょうだん",
+      "meaning": "việc nói đùa"
+    },
+    {
+      "word": "冗談事",
+      "reading": "じょうだんごと",
+      "meaning": "việc nói đùa"
+    },
+    {
+      "word": "冗長",
+      "reading": "じょうちょう",
+      "meaning": "dư thừa"
+    },
+    {
+      "word": "冗長性",
+      "reading": "じょうちょうせい",
+      "meaning": "sự thừa"
+    },
+    {
+      "word": "冗長化",
+      "reading": "じょうちょうか",
+      "meaning": "làm dư thừa"
+    },
+    {
+      "word": "冗長度",
+      "reading": "じょうちょうど",
+      "meaning": "sự thừa"
+    },
+    {
+      "word": "冗長系",
+      "reading": "じょうちょうけい",
+      "meaning": "hệ thống thừa"
+    },
+    {
+      "word": "冗長量",
+      "reading": "じょうちょうりょう",
+      "meaning": "độ dôi"
+    },
+    {
       "word": "冗",
       "reading": "じょう",
       "meaning": "thừa"
     },
     {
-      "word": "冗文",
-      "reading": "じょうぶん",
-      "meaning": "sự thừa"
-    },
-    {
-      "word": "冗多",
-      "reading": "じょうた",
-      "meaning": "sự rất mực thừa thãi"
-    },
-    {
-      "word": "冗筆",
-      "reading": "じょうひつ",
-      "meaning": "viết vẽ đùa chơi"
-    },
-    {
-      "word": "冗費",
-      "reading": "じょうひ",
-      "meaning": "chi phí không cần thiết"
-    },
-    {
       "word": "冗句",
       "reading": "じょうく",
       "meaning": "câu nói đùa"
-    },
-    {
-      "word": "冗物",
-      "reading": "じょうぶつ",
-      "meaning": "sự thừa"
-    },
-    {
-      "word": "冗員",
-      "reading": "じょういん",
-      "meaning": "nhân viên dư thừa"
-    },
-    {
-      "word": "冗官",
-      "reading": "じょうかん",
-      "meaning": "viên chức dư thừa"
-    },
-    {
-      "word": "冗用",
-      "reading": "じょうよう",
-      "meaning": "việc không cần thiết"
     }
   ]
 }

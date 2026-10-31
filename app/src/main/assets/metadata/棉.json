@@ -31,6 +31,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "棉実油",
+      "reading": "めんじつゆ",
+      "meaning": "dầu cottonseed"
+    },
+    {
       "word": "棉花",
       "reading": "めんか",
       "meaning": "bông mộc"
@@ -39,11 +44,6 @@
       "word": "印棉",
       "reading": "いんめん",
       "meaning": "bông ấn độ"
-    },
-    {
-      "word": "棉実油",
-      "reading": "めんじつゆ",
-      "meaning": "dầu cottonseed"
     }
   ]
 }

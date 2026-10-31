@@ -86,34 +86,19 @@
   ],
   "vocabulary": [
     {
+      "word": "宛名",
+      "reading": "あてな",
+      "meaning": "bí ẩn"
+    },
+    {
+      "word": "宛てる",
+      "reading": "あてる",
+      "meaning": "đến địa chỉ"
+    },
+    {
       "word": "宛",
       "reading": "あて",
       "meaning": "nơi đến"
-    },
-    {
-      "word": "宛所",
-      "reading": "あてどころ",
-      "meaning": "địa chỉ"
-    },
-    {
-      "word": "私宛",
-      "reading": "わたしあて",
-      "meaning": "địa chỉ tôi"
-    },
-    {
-      "word": "宛字",
-      "reading": "あてじ",
-      "meaning": "chữ hán được dùng để mượn âm mà không sử dụng ý nghĩa nguyên thủy"
-    },
-    {
-      "word": "宛ら",
-      "reading": "さながら",
-      "meaning": "như là"
-    },
-    {
-      "word": "宛転",
-      "reading": "えんてん",
-      "meaning": "trôi chảy"
     },
     {
       "word": "宛い",
@@ -121,19 +106,34 @@
       "meaning": "sự phân công"
     },
     {
-      "word": "宛然",
-      "reading": "えんぜん",
-      "meaning": "giống hệt"
+      "word": "私宛",
+      "reading": "わたしあて",
+      "meaning": "địa chỉ tôi"
     },
     {
-      "word": "名宛",
-      "reading": "なあて",
-      "meaning": "tên người nhận ghi trên phong bì thư"
+      "word": "二人宛",
+      "reading": "ふたりずつ",
+      "meaning": "từng hai người một"
     },
     {
-      "word": "宛て",
-      "reading": "あて",
-      "meaning": "mục tiêu"
+      "word": "宛所",
+      "reading": "あてどころ",
+      "meaning": "địa chỉ"
+    },
+    {
+      "word": "少し宛",
+      "reading": "すこしあて",
+      "meaning": "dần dần"
+    },
+    {
+      "word": "一つ宛",
+      "reading": "ひとつずつ",
+      "meaning": "một mỗi"
+    },
+    {
+      "word": "二つ宛",
+      "reading": "ふたつあて",
+      "meaning": "hai mảnh"
     }
   ]
 }

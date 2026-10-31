@@ -36,21 +36,6 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "斯う斯う",
-      "reading": "こうこう",
-      "meaning": "so and so"
-    },
-    {
-      "word": "斯く斯く",
-      "reading": "かくかく",
-      "meaning": "rất nhiều"
-    },
-    {
-      "word": "斯く",
-      "reading": "かく",
-      "meaning": "như thế này"
-    },
-    {
       "word": "波斯",
       "reading": "ペルシャ",
       "meaning": "persia"
@@ -61,29 +46,44 @@
       "meaning": "đây"
     },
     {
-      "word": "斯道",
-      "reading": "しどう",
-      "meaning": "nghệ thuật này hoặc lĩnh vực sự nghiên cứu"
+      "word": "然斯",
+      "reading": "そうこう",
+      "meaning": "bằng cách nào đó"
+    },
+    {
+      "word": "斯かる",
+      "reading": "かかる",
+      "meaning": "kiểu như này"
+    },
+    {
+      "word": "越幾斯",
+      "reading": "エキス",
+      "meaning": "chiết xuất"
+    },
+    {
+      "word": "斯く",
+      "reading": "かく",
+      "meaning": "như thế này"
+    },
+    {
+      "word": "斯くも",
+      "reading": "かくも",
+      "meaning": "vì vậy"
+    },
+    {
+      "word": "斯くて",
+      "reading": "かくて",
+      "meaning": "như vậy thì"
+    },
+    {
+      "word": "瓦斯",
+      "reading": "ガス",
+      "meaning": "cung cấp hơi đốt"
     },
     {
       "word": "斯様",
       "reading": "かよう",
       "meaning": "giống như vậy"
-    },
-    {
-      "word": "斯業",
-      "reading": "しぎょう",
-      "meaning": "doanh nghiệp này hoặc nghề nghiệp"
-    },
-    {
-      "word": "斯学",
-      "reading": "しがく",
-      "meaning": "đề tài hàn lâm này"
-    },
-    {
-      "word": "斯界",
-      "reading": "しかい",
-      "meaning": "lĩnh vực này hoặc đề tài"
     }
   ]
 }

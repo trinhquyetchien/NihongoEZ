@@ -110,19 +110,24 @@
       "meaning": "bức tranh"
     },
     {
-      "word": "絵本",
-      "reading": "えほん",
-      "meaning": "sách tranh"
-    },
-    {
       "word": "絵画",
       "reading": "かいが",
       "meaning": "bức tranh"
     },
     {
-      "word": "九絵",
-      "reading": "くえ",
-      "meaning": "một loài cá nước mặn thuộc họ cá mú"
+      "word": "油絵",
+      "reading": "あぶらえ",
+      "meaning": "tranh sơn dầu"
+    },
+    {
+      "word": "姿絵",
+      "reading": "すがたえ",
+      "meaning": "tranh họa ngoại hình"
+    },
+    {
+      "word": "絵組",
+      "reading": "えぐみ",
+      "meaning": "cấu trúc của tác phẩm nghệ thuật"
     },
     {
       "word": "絵面",
@@ -130,29 +135,24 @@
       "meaning": "ấn tượng được đưa ra bởi một bức tranh hoặc hình ảnh"
     },
     {
-      "word": "錦絵",
-      "reading": "にしきえ",
-      "meaning": "tranh nhiều màu sắc đẹp như bức gấm"
+      "word": "板絵",
+      "reading": "いたえ",
+      "meaning": "một bức tranh được vẽ trên một bảng gỗ"
     },
     {
-      "word": "絵柄",
-      "reading": "えがら",
-      "meaning": "mẫu vẽ"
+      "word": "九絵",
+      "reading": "くえ",
+      "meaning": "một loài cá nước mặn thuộc họ cá mú"
     },
     {
-      "word": "戯絵",
-      "reading": "ざれえ",
-      "meaning": "vẽ kiệt sức để cười"
+      "word": "絵伝",
+      "reading": "えでん",
+      "meaning": "tranh kể về tiểu sư của nhà sư hoặc lịch sử ngôi chùa"
     },
     {
-      "word": "口絵",
-      "reading": "くちえ",
-      "meaning": "trang đầu sách có tranh hoặc ảnh"
-    },
-    {
-      "word": "赤絵",
-      "reading": "あかえ",
-      "meaning": "bản khắc khắc gỗ cuối năm 19c"
+      "word": "岩絵",
+      "reading": "いわえ",
+      "meaning": "bức tranh trên đá"
     }
   ]
 }

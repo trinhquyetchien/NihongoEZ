@@ -123,9 +123,9 @@
   ],
   "vocabulary": [
     {
-      "word": "築",
-      "reading": "ちく",
-      "meaning": "... năm kể từ khi xây dựng"
+      "word": "建築",
+      "reading": "けんちく",
+      "meaning": "kiến trúc"
     },
     {
       "word": "新築",
@@ -133,44 +133,44 @@
       "meaning": "tòa nhà mới"
     },
     {
-      "word": "建築",
-      "reading": "けんちく",
-      "meaning": "kiến trúc"
-    },
-    {
-      "word": "構築",
-      "reading": "こうちく",
-      "meaning": "sự xây dựng"
-    },
-    {
-      "word": "移築",
-      "reading": "いちく",
-      "meaning": "tháo dỡ một tòa nhà lịch sử và xây dựng lại nó ở nơi khác"
-    },
-    {
-      "word": "築山",
-      "reading": "つきやま",
-      "meaning": "hòn non bộ"
-    },
-    {
-      "word": "修築",
-      "reading": "しゅうちく",
-      "meaning": "sửa chữa"
-    },
-    {
-      "word": "築造",
-      "reading": "ちくぞう",
+      "word": "築く",
+      "reading": "きずく",
       "meaning": "xây dựng"
     },
     {
-      "word": "築堤",
-      "reading": "ちくてい",
-      "meaning": "đê"
+      "word": "建築中",
+      "reading": "けんちくちゅう",
+      "meaning": "đang xây dựng"
     },
     {
-      "word": "築港",
-      "reading": "ちっこう",
-      "meaning": "sự xây dựng bến cảng"
+      "word": "建築家",
+      "reading": "けんちくか",
+      "meaning": "nhà kiến trúc"
+    },
+    {
+      "word": "大建築",
+      "reading": "だいけんちく",
+      "meaning": "kiến trúc lớn"
+    },
+    {
+      "word": "本建築",
+      "reading": "ほんけんちく",
+      "meaning": "xây dựng lâu dài"
+    },
+    {
+      "word": "建築物",
+      "reading": "けんちくぶつ",
+      "meaning": "toà nhà"
+    },
+    {
+      "word": "建築用",
+      "reading": "けんちくよう",
+      "meaning": "sử dụng trong ngành xây dựng"
+    },
+    {
+      "word": "建築部",
+      "reading": "けんちくぶ",
+      "meaning": "bộ kiến trúc"
     }
   ]
 }

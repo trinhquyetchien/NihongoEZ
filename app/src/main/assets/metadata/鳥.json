@@ -111,19 +111,14 @@
       "meaning": "chim chóc"
     },
     {
-      "word": "ぼうとり 防鳥ネット",
-      "reading": "防鳥ネット",
-      "meaning": "lưới chống chim"
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "chim nhỏ"
     },
     {
-      "word": "鳥渡",
-      "reading": "ちょっと",
-      "meaning": "dễ dàng"
-    },
-    {
-      "word": "漂鳥",
-      "reading": "ひょうちょう",
-      "meaning": "loài chim di cư theo mùa"
+      "word": "人鳥",
+      "reading": "じんちょう",
+      "meaning": "chim cánh cụt"
     },
     {
       "word": "県鳥",
@@ -131,29 +126,34 @@
       "meaning": "loại chim đặc chưng của tỉnh"
     },
     {
-      "word": "牝鳥",
-      "reading": "めんどり",
-      "meaning": "chim mái"
+      "word": "地鳥",
+      "reading": "じどり",
+      "meaning": "gà thả vườn"
     },
     {
-      "word": "小鳥",
-      "reading": "ことり",
-      "meaning": "chim nhỏ"
+      "word": "母鳥",
+      "reading": "ははどり",
+      "meaning": "sinh thành con chim"
     },
     {
-      "word": "文鳥",
-      "reading": "ぶんちょう",
-      "meaning": "chim sẻ java"
+      "word": "鳥馬",
+      "reading": "ちょうま",
+      "meaning": "hoét lưng hung"
     },
     {
-      "word": "親鳥",
-      "reading": "おやどり",
-      "meaning": "con chim cha mẹ"
+      "word": "旅鳥",
+      "reading": "たびどり",
+      "meaning": "chim di cư"
     },
     {
-      "word": "猟鳥",
-      "reading": "りょうちょう",
-      "meaning": "chim bị săn làm thịt"
+      "word": "雨鳥",
+      "reading": "あまどり",
+      "meaning": "chim yến hông trắng"
+    },
+    {
+      "word": "鳥天",
+      "reading": "とりてん",
+      "meaning": "món gà toriten nhật bản"
     }
   ]
 }

@@ -110,44 +110,29 @@
   ],
   "vocabulary": [
     {
-      "word": "関",
-      "reading": "せき",
-      "meaning": "cổng"
-    },
-    {
-      "word": "相関関係",
-      "reading": "そうかんかんけい",
-      "meaning": "sự tương quan"
-    },
-    {
-      "word": "関数関係",
-      "reading": "かんすうかんけい",
-      "meaning": "quan hệ hàm số"
-    },
-    {
-      "word": "通関(税関)申告書",
-      "reading": "つうかん（ぜいかん）しんこくしょ",
-      "meaning": "giấy hải quan"
-    },
-    {
-      "word": "通関（税関）申告書",
-      "reading": "つうかん(ぜいかん)しんこくしょ",
-      "meaning": "giấy hải quan"
-    },
-    {
-      "word": "関大",
-      "reading": "かんだい",
-      "meaning": "trường đại học kansai"
-    },
-    {
-      "word": "税関",
-      "reading": "ぜいかん",
-      "meaning": "hải quan"
-    },
-    {
       "word": "玄関",
       "reading": "げんかん",
       "meaning": "phòng ngoài"
+    },
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "can hệ"
+    },
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "sự liên quan"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "cơ quan"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "sự quan tâm"
     },
     {
       "word": "関西",
@@ -155,9 +140,24 @@
       "meaning": "vùng kansai"
     },
     {
-      "word": "関門",
-      "reading": "かんもん",
-      "meaning": "sự đóng cửa"
+      "word": "関東",
+      "reading": "かんとう",
+      "meaning": "vùng kanto"
+    },
+    {
+      "word": "税関",
+      "reading": "ぜいかん",
+      "meaning": "hải quan"
+    },
+    {
+      "word": "関与",
+      "reading": "かんよ",
+      "meaning": "sự tham dự"
+    },
+    {
+      "word": "関税",
+      "reading": "かんぜい",
+      "meaning": "thuế đoan"
     }
   ]
 }

@@ -91,29 +91,34 @@
       "meaning": "bộ máy"
     },
     {
-      "word": "器械",
-      "reading": "きかい",
-      "meaning": "khí giới"
-    },
-    {
-      "word": "足械",
-      "reading": "あしかせ",
-      "meaning": "xiềng chân"
-    },
-    {
-      "word": "機械類",
-      "reading": "きかいるい",
-      "meaning": "các loại máy móc"
-    },
-    {
       "word": "機械的",
       "reading": "きかいてき",
       "meaning": "cơ học"
     },
     {
-      "word": "機械工",
-      "reading": "きかいこう",
-      "meaning": "thợ cơ khí"
+      "word": "機械化",
+      "reading": "きかいか",
+      "meaning": "cơ giới hóa"
+    },
+    {
+      "word": "機械室",
+      "reading": "きかいしつ",
+      "meaning": "phòng máy móc"
+    },
+    {
+      "word": "機械語",
+      "reading": "きかいご",
+      "meaning": "ngôn ngữ máy"
+    },
+    {
+      "word": "機械学",
+      "reading": "きかいがく",
+      "meaning": "cơ học"
+    },
+    {
+      "word": "機械論",
+      "reading": "きかいろん",
+      "meaning": "cơ giới luận"
     },
     {
       "word": "機械科",
@@ -121,19 +126,14 @@
       "meaning": "hướng bên trong kỹ nghệ cơ khí"
     },
     {
-      "word": "セションプロトコル機械",
-      "reading": "セションプロトコルきかい",
-      "meaning": "thiết bị giao thức phiên"
+      "word": "機械類",
+      "reading": "きかいるい",
+      "meaning": "các loại máy móc"
     },
     {
-      "word": "機械コード",
-      "reading": "きかいコード",
-      "meaning": "ngôn ngữ đối tượng"
-    },
-    {
-      "word": "オンライン機械",
-      "reading": "オンラインきかい",
-      "meaning": "máy trực tuyến"
+      "word": "機械油",
+      "reading": "きかいあぶら",
+      "meaning": "dầu máy"
     }
   ]
 }

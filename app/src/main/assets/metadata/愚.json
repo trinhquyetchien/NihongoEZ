@@ -89,19 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "愚か",
+      "reading": "おろか",
+      "meaning": "ngu ngốc"
+    },
+    {
+      "word": "愚痴",
+      "reading": "ぐち",
+      "meaning": "than thở"
+    },
+    {
       "word": "愚",
       "reading": "ぐ",
       "meaning": "ngu ngốc"
     },
     {
-      "word": "愚問愚答",
-      "reading": "ぐもんぐとう",
-      "meaning": "cuộc hội thoại vô nghĩa"
+      "word": "愚女",
+      "reading": "ぐじょ",
+      "meaning": "con gái"
     },
     {
-      "word": "愚図愚図",
-      "reading": "ぐずぐず",
-      "meaning": "chần chừ"
+      "word": "下愚",
+      "reading": "かぐ",
+      "meaning": "ngu ngốc"
+    },
+    {
+      "word": "愚夫",
+      "reading": "ぐふ",
+      "meaning": "người đàn ông ngu ngốc"
+    },
+    {
+      "word": "愚姉",
+      "reading": "ぐし",
+      "meaning": "chị gái của mình"
     },
     {
       "word": "愚計",
@@ -109,34 +129,14 @@
       "meaning": "kế ngu ngốc"
     },
     {
-      "word": "愚蒙",
-      "reading": "ぐもう",
-      "meaning": "ngu ngốc"
+      "word": "軽愚",
+      "reading": "けいぐ",
+      "meaning": "chứng suy nhược trí tuệ"
     },
     {
-      "word": "愚弄",
-      "reading": "ぐろう",
-      "meaning": "sự chế nhạo"
-    },
-    {
-      "word": "愚息",
-      "reading": "ぐそく",
-      "meaning": "con trai tôi"
-    },
-    {
-      "word": "愚弟",
-      "reading": "ぐてい",
-      "meaning": "đứa em trai ngốc nghếch"
-    },
-    {
-      "word": "愚者",
-      "reading": "ぐしゃ",
-      "meaning": "ngu dân"
-    },
-    {
-      "word": "愚女",
-      "reading": "ぐじょ",
-      "meaning": "con gái"
+      "word": "愚意",
+      "reading": "ぐい",
+      "meaning": "ngụ ý"
     }
   ]
 }

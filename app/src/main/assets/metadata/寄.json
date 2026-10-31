@@ -108,29 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "寄り寄り",
-      "reading": "よりより",
-      "meaning": "thỉnh thoảng"
-    },
-    {
-      "word": "寄前けはい",
-      "reading": "寄前気配",
-      "meaning": "dấu hiệu lệnh bán thấp nhất"
-    },
-    {
-      "word": "寄引どーじせん",
-      "reading": "寄引同時線",
-      "meaning": "mô hình nến doji"
-    },
-    {
-      "word": "寄附",
-      "reading": "きふ",
-      "meaning": "sự tặng cho"
-    },
-    {
       "word": "寄る",
       "reading": "よる",
       "meaning": "tụ tập"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "sự tặng cho"
     },
     {
       "word": "寄与",
@@ -138,24 +123,39 @@
       "meaning": "sự đóng góp"
     },
     {
-      "word": "寄す",
-      "reading": "よす",
-      "meaning": "mang đến gần"
-    },
-    {
-      "word": "寄金",
-      "reading": "ききん",
-      "meaning": "sự đóng góp"
-    },
-    {
-      "word": "寄宿",
-      "reading": "きしゅく",
-      "meaning": "chỗ trọ"
+      "word": "寄贈",
+      "reading": "きぞう",
+      "meaning": "sự tặng"
     },
     {
       "word": "寄せ",
       "reading": "よせ",
       "meaning": "thế cờ vào lúc sắp kết thúc ván cờ"
+    },
+    {
+      "word": "寄り",
+      "reading": "より",
+      "meaning": "gần"
+    },
+    {
+      "word": "板寄せ",
+      "reading": "いたよせ",
+      "meaning": "khớp lệnh định kỳ"
+    },
+    {
+      "word": "寄生",
+      "reading": "きせい",
+      "meaning": "kẻ ăn bám"
+    },
+    {
+      "word": "寄せ箸",
+      "reading": "よせばし",
+      "meaning": "dùng đũa kéo các bát thức ăn ở phía xa về phía mình"
+    },
+    {
+      "word": "寄す",
+      "reading": "よす",
+      "meaning": "mang đến gần"
     }
   ]
 }

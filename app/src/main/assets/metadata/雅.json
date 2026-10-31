@@ -88,6 +88,11 @@
   ],
   "vocabulary": [
     {
+      "word": "雅致",
+      "reading": "がち",
+      "meaning": "tính thanh lịch"
+    },
+    {
       "word": "雅",
       "reading": "みやび",
       "meaning": "duyên dáng"
@@ -98,19 +103,9 @@
       "meaning": "tiểu nhã"
     },
     {
-      "word": "大雅",
-      "reading": "たいが",
-      "meaning": "tao nhã"
-    },
-    {
-      "word": "典雅",
-      "reading": "てんが",
-      "meaning": "sự thanh lịch"
-    },
-    {
-      "word": "雅客",
-      "reading": "がかく",
-      "meaning": "nhà văn"
+      "word": "雅味",
+      "reading": "がみ",
+      "meaning": "có duyên"
     },
     {
       "word": "雅歌",
@@ -118,24 +113,29 @@
       "meaning": "bài hát của solomon"
     },
     {
+      "word": "雅客",
+      "reading": "がかく",
+      "meaning": "nhà văn"
+    },
+    {
+      "word": "端雅",
+      "reading": "たんが",
+      "meaning": "thanh lịch"
+    },
+    {
+      "word": "優雅",
+      "reading": "ゆうが",
+      "meaning": "sự dịu dàng"
+    },
+    {
+      "word": "優雅な",
+      "reading": "ゆうがな",
+      "meaning": "bảnh bao"
+    },
+    {
       "word": "雅懐",
       "reading": "がかい",
       "meaning": "cảm xúc trước cái đẹp"
-    },
-    {
-      "word": "温雅",
-      "reading": "おんが",
-      "meaning": "có duyên"
-    },
-    {
-      "word": "雅致",
-      "reading": "がち",
-      "meaning": "tính thanh lịch"
-    },
-    {
-      "word": "雅俗",
-      "reading": "がぞく",
-      "meaning": "tinh tế và thô tục"
     }
   ]
 }

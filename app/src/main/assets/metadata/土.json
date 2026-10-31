@@ -95,34 +95,9 @@
       "meaning": "đất"
     },
     {
-      "word": "冥土の土産",
-      "reading": "めいどのみやげ",
-      "meaning": "hàng mã"
-    },
-    {
-      "word": "土吉",
-      "reading": "つちよし",
-      "meaning": "dạng chữ \"吉\" có kết cấu như chữ “土”"
-    },
-    {
       "word": "土曜",
       "reading": "どよう",
       "meaning": "thứ bảy"
-    },
-    {
-      "word": "日土",
-      "reading": "にっと",
-      "meaning": "nhật bản và thổ nhĩ kỳ"
-    },
-    {
-      "word": "土星",
-      "reading": "どせい",
-      "meaning": "sao thổ"
-    },
-    {
-      "word": "焼土",
-      "reading": "しょうど",
-      "meaning": "đất sét nung"
     },
     {
       "word": "国土",
@@ -130,14 +105,39 @@
       "meaning": "đất đai"
     },
     {
-      "word": "土釜",
-      "reading": "どがま",
-      "meaning": "bếp gạo bằng đất"
+      "word": "土木",
+      "reading": "どぼく",
+      "meaning": "công trình công cộng"
     },
     {
-      "word": "土蛙",
-      "reading": "つちがえる",
-      "meaning": "ếch đất"
+      "word": "土俵",
+      "reading": "どひょう",
+      "meaning": "đấu trường"
+    },
+    {
+      "word": "土国",
+      "reading": "どこく",
+      "meaning": "thổ nhĩ kì"
+    },
+    {
+      "word": "土神",
+      "reading": "つちがみ",
+      "meaning": "thần thổ địa"
+    },
+    {
+      "word": "土面",
+      "reading": "どめん",
+      "meaning": "mặt nạ đất sét"
+    },
+    {
+      "word": "土味",
+      "reading": "つちあじ",
+      "meaning": "đặc tính của đất"
+    },
+    {
+      "word": "土豚",
+      "reading": "つちぶた",
+      "meaning": "aardvark"
     }
   ]
 }

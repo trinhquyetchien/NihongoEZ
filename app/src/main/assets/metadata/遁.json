@@ -50,9 +50,19 @@
   ],
   "vocabulary": [
     {
-      "word": "火遁",
-      "reading": "かとん",
-      "meaning": "quả cầu lửa"
+      "word": "隠遁",
+      "reading": "いんとん",
+      "meaning": "sự thôi việc"
+    },
+    {
+      "word": "隠遁者",
+      "reading": "いんとんしゃ",
+      "meaning": "sống ẩn dật"
+    },
+    {
+      "word": "隠遁術",
+      "reading": "いんとんじゅつ",
+      "meaning": "chiêu thức thoát thân của ninja"
     },
     {
       "word": "水遁",
@@ -60,24 +70,19 @@
       "meaning": "nghệ thuật thoát nước"
     },
     {
-      "word": "隠遁",
-      "reading": "いんとん",
-      "meaning": "sự thôi việc"
-    },
-    {
       "word": "遁走",
       "reading": "とんそう",
       "meaning": "lẩn tránh"
     },
     {
-      "word": "遁辞",
-      "reading": "とんじ",
-      "meaning": "một lời xin lỗi"
+      "word": "遁走曲",
+      "reading": "とんそうきょく",
+      "meaning": "khúc fuga"
     },
     {
-      "word": "遁世",
-      "reading": "とんせい",
-      "meaning": "sự tách biệt từ thế giới"
+      "word": "火遁",
+      "reading": "かとん",
+      "meaning": "quả cầu lửa"
     },
     {
       "word": "遁甲",
@@ -85,19 +90,14 @@
       "meaning": "loại hình chiêm tinh học"
     },
     {
-      "word": "遁法",
-      "reading": "とんぽう",
-      "meaning": "nghệ thuật trốn thoát của ninja"
+      "word": "遁世",
+      "reading": "とんせい",
+      "meaning": "sự tách biệt từ thế giới"
     },
     {
-      "word": "遁術",
-      "reading": "とんじゅつ",
-      "meaning": "nghệ thuật trốn thoát của ninja"
-    },
-    {
-      "word": "隠遁術",
-      "reading": "いんとんじゅつ",
-      "meaning": "chiêu thức thoát thân của ninja"
+      "word": "遁辞",
+      "reading": "とんじ",
+      "meaning": "một lời xin lỗi"
     }
   ]
 }

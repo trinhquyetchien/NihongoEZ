@@ -111,44 +111,9 @@
   ],
   "vocabulary": [
     {
-      "word": "果",
-      "reading": "はて",
-      "meaning": "trái cây"
-    },
-    {
-      "word": "無花果果",
-      "reading": "いちじくか",
-      "meaning": "fig"
-    },
-    {
-      "word": "無花果状果",
-      "reading": "いちじくじょうか",
-      "meaning": "fig"
-    },
-    {
-      "word": "果菜",
-      "reading": "かさい",
-      "meaning": "trái cây và rau quả"
-    },
-    {
-      "word": "節果",
-      "reading": "せつか",
-      "meaning": "trái cây theo mùa"
-    },
-    {
-      "word": "柑果",
-      "reading": "かんか",
-      "meaning": "trái cây họ cam quýt"
-    },
-    {
-      "word": "袋果",
-      "reading": "たいか",
-      "meaning": "quả đại"
-    },
-    {
-      "word": "豆果",
-      "reading": "とうか",
-      "meaning": "cây họ đậu"
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "kết cuộc"
     },
     {
       "word": "効果",
@@ -156,9 +121,44 @@
       "meaning": "có hiệu quả"
     },
     {
-      "word": "結果",
-      "reading": "けっか",
-      "meaning": "kết cuộc"
+      "word": "果実",
+      "reading": "かじつ",
+      "meaning": "quả"
+    },
+    {
+      "word": "成果",
+      "reading": "せいか",
+      "meaning": "thành quả"
+    },
+    {
+      "word": "果て",
+      "reading": "はて",
+      "meaning": "sau cùng"
+    },
+    {
+      "word": "果",
+      "reading": "はて",
+      "meaning": "trái cây"
+    },
+    {
+      "word": "真果",
+      "reading": "しんか",
+      "meaning": "quả thật"
+    },
+    {
+      "word": "果食",
+      "reading": "かしょく",
+      "meaning": "sống bằng hoa quả"
+    },
+    {
+      "word": "悪果",
+      "reading": "あっか",
+      "meaning": "kết quả xấu"
+    },
+    {
+      "word": "業果",
+      "reading": "ごうか",
+      "meaning": "nghiệp chướng"
     }
   ]
 }

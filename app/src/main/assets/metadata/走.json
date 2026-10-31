@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "走る",
+      "reading": "はしる",
+      "meaning": "chạy"
+    },
+    {
+      "word": "走行",
+      "reading": "そうこう",
+      "meaning": "chạy"
+    },
+    {
+      "word": "逃走",
+      "reading": "とうそう",
+      "meaning": "sự đào tẩu"
+    },
+    {
+      "word": "走り",
+      "reading": "はしり",
+      "meaning": "việc chạy"
+    },
+    {
+      "word": "暴走",
+      "reading": "ぼうそう",
+      "meaning": "vận động viên chạy một cách liều lĩnh"
+    },
+    {
       "word": "走",
       "reading": "そう",
       "meaning": "chạy"
     },
     {
-      "word": "疾走",
-      "reading": "しっそう",
-      "meaning": "sự chạy nhanh"
+      "word": "走法",
+      "reading": "そうほう",
+      "meaning": "kiểu chạy"
     },
     {
-      "word": "滑走",
-      "reading": "かっそう",
-      "meaning": "sự trượt"
+      "word": "道走",
+      "reading": "みちばしり",
+      "meaning": "gà lôi đuôi dài"
     },
     {
-      "word": "完走",
-      "reading": "かんそう",
-      "meaning": "hoàn thành"
-    },
-    {
-      "word": "好走",
-      "reading": "こうそう",
-      "meaning": "chạy tốt"
+      "word": "逆走",
+      "reading": "ぎゃくそう",
+      "meaning": "sự đi ngược chiều"
     },
     {
       "word": "木走",
       "reading": "きばしり",
       "meaning": "chim sẻ certhia familiaris"
-    },
-    {
-      "word": "爆走",
-      "reading": "ばくそう",
-      "meaning": "sự phóng nhanh"
-    },
-    {
-      "word": "自走",
-      "reading": "じそう",
-      "meaning": "tự vận hành"
-    },
-    {
-      "word": "縦走",
-      "reading": "じゅうそう",
-      "meaning": "đi ngang qua"
-    },
-    {
-      "word": "試走",
-      "reading": "しそう",
-      "meaning": "sự chạy thử"
     }
   ]
 }

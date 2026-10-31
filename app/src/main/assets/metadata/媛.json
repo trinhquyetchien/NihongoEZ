@@ -86,6 +86,11 @@
   ],
   "vocabulary": [
     {
+      "word": "愛媛県",
+      "reading": "えひめけん",
+      "meaning": "tên một tỉnh nằm trên đảo shikoku"
+    },
+    {
       "word": "媛",
       "reading": "ひめ",
       "meaning": "tiểu thư xuất thân cao quý"
@@ -94,11 +99,6 @@
       "word": "才媛",
       "reading": "さいえん",
       "meaning": "người phụ nữ có tài năng văn chương"
-    },
-    {
-      "word": "愛媛県",
-      "reading": "えひめけん",
-      "meaning": "tên một tỉnh nằm trên đảo shikoku"
     }
   ]
 }

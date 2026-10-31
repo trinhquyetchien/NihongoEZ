@@ -114,29 +114,9 @@
       "meaning": "chiêm bao"
     },
     {
-      "word": "夢のまた夢",
-      "reading": "ゆめのまたゆめ",
-      "meaning": "mơ vẫn là mơ thôi"
-    },
-    {
-      "word": "悪夢",
-      "reading": "あくむ",
-      "meaning": "ác mộng"
-    },
-    {
-      "word": "旧夢",
-      "reading": "きゅうむ",
-      "meaning": "cổ xưa mơ"
-    },
-    {
-      "word": "夢幻",
-      "reading": "むげん",
-      "meaning": "sự mộng ảo"
-    },
-    {
-      "word": "迷夢",
-      "reading": "めいむ",
-      "meaning": "ảo tưởng"
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "đang trong cơn mê"
     },
     {
       "word": "一夢",
@@ -144,19 +124,39 @@
       "meaning": "một giấc mơ"
     },
     {
-      "word": "初夢",
-      "reading": "はつゆめ",
-      "meaning": "giấc mơ đầu tiên trong năm"
+      "word": "ただ夢",
+      "reading": "ただゆめ",
+      "meaning": "chỉ là giấc mơ"
     },
     {
-      "word": "凶夢",
-      "reading": "きょうむ",
-      "meaning": "ác mộng"
+      "word": "夢判断",
+      "reading": "ゆめはんだん",
+      "meaning": "mơ đọc"
     },
     {
-      "word": "夢現",
-      "reading": "ゆめうつつ",
-      "meaning": "mơ và thực"
+      "word": "旧夢",
+      "reading": "きゅうむ",
+      "meaning": "cổ xưa mơ"
+    },
+    {
+      "word": "夢日記",
+      "reading": "ゆめにっき",
+      "meaning": "nhật ký giấc mơ"
+    },
+    {
+      "word": "甘夢",
+      "reading": "かんむ",
+      "meaning": "kẹo mơ"
+    },
+    {
+      "word": "夢占い",
+      "reading": "ゆめうらない",
+      "meaning": "thuật bói mộng"
+    },
+    {
+      "word": "幻夢",
+      "reading": "げんむ",
+      "meaning": "ảo mộng"
     }
   ]
 }

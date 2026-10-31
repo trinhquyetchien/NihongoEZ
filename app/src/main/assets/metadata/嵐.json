@@ -91,34 +91,14 @@
       "meaning": "cơn bão"
     },
     {
-      "word": "砂嵐",
-      "reading": "すなあらし",
-      "meaning": "bão cát"
+      "word": "嵐い",
+      "reading": "あらしい",
+      "meaning": "giông bão lớn"
     },
     {
-      "word": "大嵐",
-      "reading": "おおあらし",
-      "meaning": "trận bão lỡn"
-    },
-    {
-      "word": "晴嵐",
-      "reading": "せいらん",
-      "meaning": "hơi nước núi"
-    },
-    {
-      "word": "嵐気",
-      "reading": "らんき",
-      "meaning": "lam khí"
-    },
-    {
-      "word": "青嵐",
-      "reading": "あおあらし",
-      "meaning": "gió thổi qua đám lá cây xanh"
-    },
-    {
-      "word": "夜嵐",
-      "reading": "よあらし",
-      "meaning": "bão táp ban đêm"
+      "word": "花に嵐",
+      "reading": "はなにあらし",
+      "meaning": "trong mặt trăng những đám mây hoa đến gió"
     },
     {
       "word": "春嵐",
@@ -126,14 +106,34 @@
       "meaning": "gió bão mùa xuân"
     },
     {
+      "word": "雪嵐",
+      "reading": "ゆきあらし",
+      "meaning": "bão tuyết"
+    },
+    {
       "word": "翠嵐",
       "reading": "すいらん",
       "meaning": "cảm giác về được nhận chìm trong một khí quyển xanh lục"
     },
     {
-      "word": "山嵐",
-      "reading": "やまあらし",
-      "meaning": "kỹ thuật ném của judo"
+      "word": "砂嵐",
+      "reading": "すなあらし",
+      "meaning": "bão cát"
+    },
+    {
+      "word": "砂塵嵐",
+      "reading": "さじんあらし",
+      "meaning": "bão cát"
+    },
+    {
+      "word": "晴嵐",
+      "reading": "せいらん",
+      "meaning": "hơi nước núi"
+    },
+    {
+      "word": "大嵐",
+      "reading": "おおあらし",
+      "meaning": "trận bão lỡn"
     }
   ]
 }

@@ -118,49 +118,49 @@
       "meaning": "mặt trái"
     },
     {
-      "word": "離反",
-      "reading": "りはん",
-      "meaning": "sự bất mãn"
+      "word": "反り",
+      "reading": "そり",
+      "meaning": "cong"
     },
     {
-      "word": "反芻",
+      "word": "反数",
       "reading": "はんすう",
-      "meaning": "sự nhai lại"
-    },
-    {
-      "word": "反論",
-      "reading": "はんろん",
-      "meaning": "phản luận"
-    },
-    {
-      "word": "反覆",
-      "reading": "はんぷく",
-      "meaning": "sự lặp lại"
-    },
-    {
-      "word": "反帝",
-      "reading": "はんてい",
-      "meaning": "anti - chủ nghĩa đế quốc"
-    },
-    {
-      "word": "反党",
-      "reading": "はんとう",
-      "meaning": "đảng phản lại"
-    },
-    {
-      "word": "反歯",
-      "reading": "そっぱ",
-      "meaning": "lập đề án cho răng"
-    },
-    {
-      "word": "反切",
-      "reading": "はんせつ",
-      "meaning": "phản thiết"
+      "meaning": "số tương hỗ"
     },
     {
       "word": "反力",
       "reading": "はんりょく",
       "meaning": "phản lực"
+    },
+    {
+      "word": "反様",
+      "reading": "かいさま",
+      "meaning": "lộn ngược"
+    },
+    {
+      "word": "反心",
+      "reading": "はんしん",
+      "meaning": "tinh thần chống đối"
+    },
+    {
+      "word": "反側",
+      "reading": "はんそく",
+      "meaning": "quay qua trong cái giường"
+    },
+    {
+      "word": "反変",
+      "reading": "はんぺん",
+      "meaning": "nghịch biến"
+    },
+    {
+      "word": "反毛",
+      "reading": "はんもう",
+      "meaning": "cải tạo lông cừu"
+    },
+    {
+      "word": "反党",
+      "reading": "はんとう",
+      "meaning": "đảng phản lại"
     }
   ]
 }

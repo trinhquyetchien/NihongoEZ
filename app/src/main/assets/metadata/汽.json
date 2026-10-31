@@ -89,19 +89,39 @@
       "meaning": "hỏa xa"
     },
     {
-      "word": "汽笛",
-      "reading": "きてき",
-      "meaning": "còi xe lửa"
-    },
-    {
       "word": "汽船",
       "reading": "きせん",
       "meaning": "thuyền máy"
     },
     {
+      "word": "汽車賃",
+      "reading": "きしゃちん",
+      "meaning": "giá vé tàu hỏa"
+    },
+    {
+      "word": "汽笛",
+      "reading": "きてき",
+      "meaning": "còi xe lửa"
+    },
+    {
+      "word": "汽水域",
+      "reading": "きすいいき",
+      "meaning": "vùng nước lợ"
+    },
+    {
       "word": "汽水",
       "reading": "きすい",
       "meaning": "nước lợ"
+    },
+    {
+      "word": "夜汽車",
+      "reading": "よぎしゃ",
+      "meaning": "xe lửa chạy ban đêm"
+    },
+    {
+      "word": "汽水湖",
+      "reading": "きすいこ",
+      "meaning": "hồ nước lợ"
     },
     {
       "word": "汽罐",
@@ -112,26 +132,6 @@
       "word": "汽圧",
       "reading": "きあつ",
       "meaning": "áp suất khí quyển"
-    },
-    {
-      "word": "汽缶",
-      "reading": "きかん",
-      "meaning": "nồi đun nấu"
-    },
-    {
-      "word": "汽艇",
-      "reading": "きてい",
-      "meaning": "sự hạ thuỷ"
-    },
-    {
-      "word": "夜汽車",
-      "reading": "よぎしゃ",
-      "meaning": "xe lửa chạy ban đêm"
-    },
-    {
-      "word": "汽車ポッポ",
-      "reading": "きしゃぽっぽ",
-      "meaning": "tàu hơi nước"
     }
   ]
 }

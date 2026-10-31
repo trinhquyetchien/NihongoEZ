@@ -39,24 +39,9 @@
       "meaning": "đập nước"
     },
     {
-      "word": "堰堤",
-      "reading": "えんてい",
-      "meaning": "đê"
-    },
-    {
-      "word": "井堰",
-      "reading": "いせき",
-      "meaning": "cửa cống"
-    },
-    {
       "word": "堰板",
       "reading": "せきいた",
       "meaning": "tấm đập"
-    },
-    {
-      "word": "堰塞",
-      "reading": "えんそく",
-      "meaning": "con đập"
     },
     {
       "word": "可動堰",
@@ -67,6 +52,21 @@
       "word": "堰止湖",
       "reading": "せきとめこ",
       "meaning": "hồ có đập"
+    },
+    {
+      "word": "堰塞",
+      "reading": "えんそく",
+      "meaning": "con đập"
+    },
+    {
+      "word": "堰堤",
+      "reading": "えんてい",
+      "meaning": "đê"
+    },
+    {
+      "word": "井堰",
+      "reading": "いせき",
+      "meaning": "cửa cống"
     },
     {
       "word": "堰止め湖",

@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "翻音",
-      "reading": "ほんおん",
-      "meaning": "sự phiên âm"
-    },
-    {
-      "word": "翻字",
-      "reading": "ほんじ",
-      "meaning": "sự chuyển chữ"
-    },
-    {
-      "word": "翻す",
-      "reading": "ひるがえす",
-      "meaning": "bay phấp phới"
-    },
-    {
-      "word": "翻案",
-      "reading": "ほんあん",
-      "meaning": "sự phỏng theo"
-    },
-    {
-      "word": "翻意",
-      "reading": "ほんい",
-      "meaning": "sự thay đổi suy nghĩ"
-    },
-    {
-      "word": "翻然",
-      "reading": "ほんぜん",
-      "meaning": "thình lình"
-    },
-    {
-      "word": "翻刻",
-      "reading": "ほんこく",
-      "meaning": "sự in lại"
-    },
-    {
-      "word": "翩翻",
-      "reading": "へんぽん",
-      "meaning": "sự dao động"
-    },
-    {
       "word": "翻訳",
       "reading": "ほんやく",
       "meaning": "phiên dịch"
     },
     {
-      "word": "翻弄",
-      "reading": "ほんろう",
-      "meaning": "sự đùa cợt"
+      "word": "翻訳者",
+      "reading": "ほんやくしゃ",
+      "meaning": "người dịch"
+    },
+    {
+      "word": "翻訳時",
+      "reading": "ほんやくじ",
+      "meaning": "giờ dịch"
+    },
+    {
+      "word": "翻訳家",
+      "reading": "ほんやくか",
+      "meaning": "người dịch"
+    },
+    {
+      "word": "翻訳機",
+      "reading": "ほんやくき",
+      "meaning": "máy phiên dịch"
+    },
+    {
+      "word": "翻訳書",
+      "reading": "ほんやくしょ",
+      "meaning": "bản dịch"
+    },
+    {
+      "word": "翻訳語",
+      "reading": "ほんやくご",
+      "meaning": "thuật ngữ được sử dụng trong dịch thuật"
+    },
+    {
+      "word": "翻訳権",
+      "reading": "ほんやくけん",
+      "meaning": "quyền dịch tác phẩm sang tiếng nước ngoài. nó là một trong những nội dung của bản quyền và được sở hữu độc quyền bởi chủ bản quyền"
+    },
+    {
+      "word": "翻訳学",
+      "reading": "ほんやくがく",
+      "meaning": "biên dịch học"
+    },
+    {
+      "word": "翻訳文",
+      "reading": "ほんやくぶん",
+      "meaning": "câu văn phiên dịch"
     }
   ]
 }

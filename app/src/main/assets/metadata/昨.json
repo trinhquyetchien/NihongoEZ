@@ -87,24 +87,44 @@
   ],
   "vocabulary": [
     {
-      "word": "昨",
-      "reading": "さく",
-      "meaning": "trước"
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "hôm qua"
     },
     {
-      "word": "一昨昨年",
-      "reading": "さきおととし",
-      "meaning": "ba năm trước"
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "bữa kia"
     },
     {
-      "word": "一昨昨夜",
-      "reading": "いっさくさくや",
-      "meaning": "hai đêm trước kéo dài"
+      "word": "一昨年",
+      "reading": "いっさくねん",
+      "meaning": "năm kia"
     },
     {
       "word": "一昨昨日",
       "reading": "いっさくさくじつ",
       "meaning": "hôm kìa"
+    },
+    {
+      "word": "昨年",
+      "reading": "さくねん",
+      "meaning": "năm ngoái"
+    },
+    {
+      "word": "昨年夏",
+      "reading": "さくねんなつ",
+      "meaning": "hè năm ngoái"
+    },
+    {
+      "word": "昨夜",
+      "reading": "ゆうべ",
+      "meaning": "tối qua"
+    },
+    {
+      "word": "一昨夜",
+      "reading": "いっさくや",
+      "meaning": "đêm hôm kia"
     },
     {
       "word": "昨今",
@@ -115,26 +135,6 @@
       "word": "昨晩",
       "reading": "さくばん",
       "meaning": "tối hôm qua"
-    },
-    {
-      "word": "昨年",
-      "reading": "さくねん",
-      "meaning": "năm ngoái"
-    },
-    {
-      "word": "昨週",
-      "reading": "さくしゅう",
-      "meaning": "tuần trước"
-    },
-    {
-      "word": "昨秋",
-      "reading": "さくしゅう",
-      "meaning": "mùa thu năm ngoái"
-    },
-    {
-      "word": "昨夏",
-      "reading": "さっか",
-      "meaning": "hè năm ngoái"
     }
   ]
 }

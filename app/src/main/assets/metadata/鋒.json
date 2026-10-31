@@ -33,9 +33,39 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "先鋒",
+      "reading": "せんぽう",
+      "meaning": "trả trước bảo vệ"
+    },
+    {
+      "word": "急先鋒",
+      "reading": "きゅうせんぽう",
+      "meaning": "người đi tiên phong"
+    },
+    {
       "word": "鋒",
       "reading": "ほこさき",
       "meaning": "đầu thanh gươm"
+    },
+    {
+      "word": "兵鋒",
+      "reading": "へいほう",
+      "meaning": "mũi gươm"
+    },
+    {
+      "word": "次鋒",
+      "reading": "じほう",
+      "meaning": "phó tiên phong"
+    },
+    {
+      "word": "鋒起",
+      "reading": "ほこさきおこし",
+      "meaning": "sự nổi dậy"
+    },
+    {
+      "word": "舌鋒",
+      "reading": "ぜっぽう",
+      "meaning": "tài hùng biện"
     },
     {
       "word": "鋒鋩",
@@ -48,39 +78,9 @@
       "meaning": "mũi nhọn của ngôn từ sắc bén"
     },
     {
-      "word": "先鋒",
-      "reading": "せんぽう",
-      "meaning": "trả trước bảo vệ"
-    },
-    {
-      "word": "兵鋒",
-      "reading": "へいほう",
-      "meaning": "mũi gươm"
-    },
-    {
       "word": "機鋒",
       "reading": "きほう",
       "meaning": "gánh năng chủ yếu"
-    },
-    {
-      "word": "論鋒",
-      "reading": "ろんぽう",
-      "meaning": "đầu đề cho một sự tranh luận"
-    },
-    {
-      "word": "舌鋒",
-      "reading": "ぜっぽう",
-      "meaning": "tài hùng biện"
-    },
-    {
-      "word": "次鋒",
-      "reading": "じほう",
-      "meaning": "phó tiên phong"
-    },
-    {
-      "word": "筆鋒",
-      "reading": "ひっぽう",
-      "meaning": "sức mạnh cái bút"
     }
   ]
 }

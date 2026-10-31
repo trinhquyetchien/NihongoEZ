@@ -94,19 +94,14 @@
       "meaning": "nước sôi"
     },
     {
-      "word": "湯湯婆",
-      "reading": "ゆたんぽ",
-      "meaning": "bình chườm nước nóng"
-    },
-    {
       "word": "湯気",
       "reading": "ゆげ",
       "meaning": "hơi nước"
     },
     {
-      "word": "湯畑",
-      "reading": "ゆばたけ",
-      "meaning": "nơi đầu nguồn của suối nước nóng"
+      "word": "上湯",
+      "reading": "シャンタン",
+      "meaning": "nước tắm sau khi ngâm bồn"
     },
     {
       "word": "女湯",
@@ -114,14 +109,19 @@
       "meaning": "phòng tắm dành cho nữ"
     },
     {
-      "word": "湯室",
-      "reading": "ゆむろ",
-      "meaning": "phòng xông hơi"
+      "word": "名湯",
+      "reading": "めいとう",
+      "meaning": "nóng nổi tiếng nứt rạn"
     },
     {
-      "word": "探湯",
-      "reading": "くかたち",
-      "meaning": "thử thách với nước sôi"
+      "word": "下湯",
+      "reading": "しもゆ",
+      "meaning": "sitz tắm"
+    },
+    {
+      "word": "外湯",
+      "reading": "そとゆ",
+      "meaning": "phòng tắm ngoài trời"
     },
     {
       "word": "塩湯",
@@ -129,14 +129,14 @@
       "meaning": "nước nóng trong bồn tắm có vị mặn"
     },
     {
-      "word": "温湯",
-      "reading": "おんとう",
-      "meaning": "suối nước nóng"
+      "word": "湯畑",
+      "reading": "ゆばたけ",
+      "meaning": "nơi đầu nguồn của suối nước nóng"
     },
     {
-      "word": "腰湯",
-      "reading": "こしゆ",
-      "meaning": "ngồi tắm"
+      "word": "湯煮",
+      "reading": "ゆに",
+      "meaning": "sự luộc"
     }
   ]
 }

@@ -93,9 +93,19 @@
       "meaning": "mật ong"
     },
     {
+      "word": "新蜜",
+      "reading": "しんみつ",
+      "meaning": "mật ong tươi"
+    },
+    {
       "word": "花蜜",
       "reading": "かみつ",
       "meaning": "rượu tiên"
+    },
+    {
+      "word": "花の蜜",
+      "reading": "はなのみつ",
+      "meaning": "mật hoa"
     },
     {
       "word": "蜜教",
@@ -103,39 +113,29 @@
       "meaning": "mật tông"
     },
     {
-      "word": "蜜柑",
-      "reading": "みかん",
-      "meaning": "quýt"
+      "word": "蜜輸入",
+      "reading": "みつゆにゅう",
+      "meaning": "nhập khẩu trái phép"
     },
     {
-      "word": "蜜蝋",
-      "reading": "みつろう",
-      "meaning": "sáp ong"
+      "word": "分蜜糖",
+      "reading": "ぶんみつとう",
+      "meaning": "đường ly tâm"
     },
     {
-      "word": "餡蜜",
-      "reading": "あんみつ",
-      "meaning": "một món tráng miệng của nhật bản có từ thời meiji"
+      "word": "蜜蓋",
+      "reading": "みつがい",
+      "meaning": "bịt đầu"
     },
     {
-      "word": "糖蜜",
-      "reading": "とうみつ",
-      "meaning": "mật"
+      "word": "蜜吸い",
+      "reading": "みつすい",
+      "meaning": "sự hút mật"
     },
     {
-      "word": "蜜豆",
-      "reading": "みつまめ",
-      "meaning": "sự pha trộn những đậu say"
-    },
-    {
-      "word": "蜜月",
-      "reading": "みつげつ",
-      "meaning": "tuần trăng mật"
-    },
-    {
-      "word": "水蜜",
-      "reading": "すいみつ",
-      "meaning": "quả đào"
+      "word": "蜂蜜",
+      "reading": "はちみつ",
+      "meaning": "mật ong"
     }
   ]
 }

@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "臓",
-      "reading": "ぞう",
-      "meaning": "nội tạng"
+      "word": "心臓",
+      "reading": "しんぞう",
+      "meaning": "trái tim"
     },
     {
       "word": "内臓",
@@ -99,44 +99,44 @@
       "meaning": "lòng"
     },
     {
-      "word": "臓器",
-      "reading": "ぞうき",
-      "meaning": "nội tạng"
+      "word": "心臓部",
+      "reading": "しんぞうぶ",
+      "meaning": "tâm tạng"
     },
     {
-      "word": "肺臓",
-      "reading": "はいぞう",
-      "meaning": "buồng phổi"
+      "word": "心臓形",
+      "reading": "しんぞうけい",
+      "meaning": "hình dạng tim"
     },
     {
-      "word": "五臓",
-      "reading": "ごぞう",
-      "meaning": "ngũ tạng"
+      "word": "心臓死",
+      "reading": "しんぞうし",
+      "meaning": "chết tim"
     },
     {
-      "word": "臓腑",
-      "reading": "ぞうふ",
-      "meaning": "ruột"
+      "word": "強心臓",
+      "reading": "きょうしんぞう",
+      "meaning": "dũng cảm"
     },
     {
-      "word": "膵臓",
-      "reading": "すいぞう",
-      "meaning": "tụy"
+      "word": "心臓病",
+      "reading": "しんぞうびょう",
+      "meaning": "bệnh tim"
     },
     {
-      "word": "腎臓",
-      "reading": "じんぞう",
-      "meaning": "thận"
+      "word": "心臓毒",
+      "reading": "しんぞうどく",
+      "meaning": "độc tố tim mạch"
     },
     {
-      "word": "臓物",
-      "reading": "ぞうもつ",
-      "meaning": "ruột"
+      "word": "心臓弁",
+      "reading": "しんぞうべん",
+      "meaning": "van tim"
     },
     {
-      "word": "心臓",
-      "reading": "しんぞう",
-      "meaning": "trái tim"
+      "word": "心臓脱",
+      "reading": "しんぞうだつ",
+      "meaning": "hội chứng ectopia cordis"
     }
   ]
 }

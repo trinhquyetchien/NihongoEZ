@@ -95,34 +95,14 @@
       "meaning": "yếu tố"
     },
     {
-      "word": "元元",
-      "reading": "もともと",
-      "meaning": "trước đấy"
-    },
-    {
-      "word": "根元",
-      "reading": "こんげん",
-      "meaning": "nguồn gốc"
-    },
-    {
-      "word": "首元",
-      "reading": "くびもと",
-      "meaning": "gáy"
-    },
-    {
-      "word": "元に",
-      "reading": "もとに",
-      "meaning": "dựa trên"
-    },
-    {
-      "word": "元栓",
-      "reading": "もとせん",
-      "meaning": "khóa vòi"
-    },
-    {
       "word": "手元",
       "reading": "てもと",
       "meaning": "bên người"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "năm đầu tiên của một thời kỳ một nhà vua trị vì"
     },
     {
       "word": "元来",
@@ -130,14 +110,34 @@
       "meaning": "từ trước đến nay"
     },
     {
-      "word": "次元",
-      "reading": "じげん",
-      "meaning": "chiều"
+      "word": "元に",
+      "reading": "もとに",
+      "meaning": "dựa trên"
     },
     {
-      "word": "元日",
-      "reading": "がんじつ",
-      "meaning": "ngày mùng một tết"
+      "word": "元は",
+      "reading": "もとは",
+      "meaning": "trước đấy"
+    },
+    {
+      "word": "元い",
+      "reading": "もとい",
+      "meaning": "trở về vị trí ban đầu của bạn"
+    },
+    {
+      "word": "元へ",
+      "reading": "もとへ",
+      "meaning": "trở lại vị trí"
+    },
+    {
+      "word": "元彼",
+      "reading": "もとかれ",
+      "meaning": "bạn trai cũ"
+    },
+    {
+      "word": "元型",
+      "reading": "げんけい",
+      "meaning": "nguyên mẫu"
     }
   ]
 }

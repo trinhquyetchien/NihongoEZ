@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "桟橋",
+      "reading": "さんばし",
+      "meaning": "bến tàu"
+    },
+    {
       "word": "桟",
       "reading": "かけはし",
       "meaning": "khung"
     },
     {
-      "word": "桟橋",
-      "reading": "さんばし",
-      "meaning": "bến tàu"
+      "word": "窓の桟",
+      "reading": "まどのさん",
+      "meaning": "khung cửa sổ"
+    },
+    {
+      "word": "桟梯子",
+      "reading": "さんばしご",
+      "meaning": "cái thang gangway"
     },
     {
       "word": "桟敷",
@@ -125,16 +135,6 @@
       "word": "桟瓦",
       "reading": "さんがわら",
       "meaning": "mái ngói"
-    },
-    {
-      "word": "桟木",
-      "reading": "さんぎ",
-      "meaning": "thanh gỗ thích thước 3000x50x25mm"
-    },
-    {
-      "word": "聾桟敷",
-      "reading": "つんぼさじき",
-      "meaning": "phòng triển lãm tranh trên"
     }
   ]
 }

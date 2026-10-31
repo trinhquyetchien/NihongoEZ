@@ -86,6 +86,11 @@
   ],
   "vocabulary": [
     {
+      "word": "欣求",
+      "reading": "ごんぐ",
+      "meaning": "khao khát tìm kiếm"
+    },
+    {
       "word": "欣欣然",
       "reading": "きんきんぜん",
       "meaning": "khá vui mừng"
@@ -109,11 +114,6 @@
       "word": "欣然",
       "reading": "きんぜん",
       "meaning": "sự vui mừng"
-    },
-    {
-      "word": "欣求",
-      "reading": "ごんぐ",
-      "meaning": "khao khát tìm kiếm"
     },
     {
       "word": "欣羨",

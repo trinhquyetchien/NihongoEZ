@@ -69,29 +69,14 @@
   ],
   "vocabulary": [
     {
-      "word": "伍",
-      "reading": "ご",
-      "meaning": "năm"
-    },
-    {
-      "word": "伍す",
-      "reading": "ごす",
-      "meaning": "sánh với"
-    },
-    {
-      "word": "落伍",
-      "reading": "らくご",
-      "meaning": "bị bỏ lại phía sau"
-    },
-    {
-      "word": "卒伍",
-      "reading": "そつご",
-      "meaning": "hồ sơ và rậm rạp"
-    },
-    {
       "word": "伍長",
       "reading": "ごちょう",
       "meaning": "khăn thánh"
+    },
+    {
+      "word": "伍",
+      "reading": "ご",
+      "meaning": "năm"
     },
     {
       "word": "伍つ",
@@ -99,14 +84,24 @@
       "meaning": "năm"
     },
     {
-      "word": "隊伍",
-      "reading": "たいご",
-      "meaning": "đội ngũ"
-    },
-    {
       "word": "伍する",
       "reading": "ごする",
       "meaning": "tranh đua"
+    },
+    {
+      "word": "卒伍",
+      "reading": "そつご",
+      "meaning": "hồ sơ và rậm rạp"
+    },
+    {
+      "word": "先頭伍",
+      "reading": "せんとうご",
+      "meaning": "dẫn dắt hồ sơ"
+    },
+    {
+      "word": "落伍",
+      "reading": "らくご",
+      "meaning": "bị bỏ lại phía sau"
     },
     {
       "word": "落伍者",
@@ -114,9 +109,14 @@
       "meaning": "người không đi theo hàng lối"
     },
     {
-      "word": "先頭伍",
-      "reading": "せんとうご",
-      "meaning": "dẫn dắt hồ sơ"
+      "word": "隊伍",
+      "reading": "たいご",
+      "meaning": "đội ngũ"
+    },
+    {
+      "word": "伍す",
+      "reading": "ごす",
+      "meaning": "sánh với"
     }
   ]
 }

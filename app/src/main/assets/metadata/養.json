@@ -95,19 +95,29 @@
       "meaning": "dinh dưỡng"
     },
     {
-      "word": "養護",
-      "reading": "ようご",
+      "word": "教養",
+      "reading": "きょうよう",
+      "meaning": "sự nuôi dưỡng"
+    },
+    {
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "sự an dưỡng"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "chất bổ"
+    },
+    {
+      "word": "養成",
+      "reading": "ようせい",
       "meaning": "sự chăm sóc"
     },
     {
-      "word": "養蚕",
-      "reading": "ようさん",
-      "meaning": "nghề nuôi tằm"
-    },
-    {
-      "word": "養殖",
-      "reading": "ようしょく",
-      "meaning": "nuôi trồng thủy sản"
+      "word": "養護",
+      "reading": "ようご",
+      "meaning": "sự chăm sóc"
     },
     {
       "word": "養う",
@@ -115,29 +125,19 @@
       "meaning": "dưỡng"
     },
     {
-      "word": "滋養",
-      "reading": "じよう",
-      "meaning": "dinh dưỡng"
+      "word": "保養",
+      "reading": "ほよう",
+      "meaning": "bổ dưỡng"
     },
     {
-      "word": "教養",
-      "reading": "きょうよう",
+      "word": "扶養",
+      "reading": "ふよう",
       "meaning": "sự nuôi dưỡng"
     },
     {
-      "word": "静養",
-      "reading": "せいよう",
-      "meaning": "tĩnh dưỡng"
-    },
-    {
-      "word": "養親",
-      "reading": "ようしん",
-      "meaning": "bố mẹ nuôi"
-    },
-    {
-      "word": "孝養",
-      "reading": "こうよう",
-      "meaning": "bổn phận làm con"
+      "word": "無教養",
+      "reading": "むきょうよう",
+      "meaning": "đểu giả"
     }
   ]
 }

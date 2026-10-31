@@ -92,44 +92,44 @@
   ],
   "vocabulary": [
     {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "lần sau"
+    },
+    {
       "word": "度",
       "reading": "ど",
       "meaning": "lần"
     },
     {
-      "word": "度度",
-      "reading": "たびたび",
-      "meaning": "thường"
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "chế độ"
     },
     {
-      "word": "二度三度",
-      "reading": "にどさんど",
-      "meaning": "lần nữa và lần nữa"
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "độ cao"
     },
     {
-      "word": "三度三度",
-      "reading": "さんどさんど",
-      "meaning": "ba bữa một ngày"
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "điều độ"
     },
     {
-      "word": "濁度計/透視度計",
-      "reading": "だくどけい/とうしどけい",
-      "meaning": "chất chuẩn"
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "độ ẩm"
     },
     {
-      "word": "汚染度/洗浄度チェック",
-      "reading": "おせんど/せんじょうどチェック",
-      "meaning": "bộ thử"
+      "word": "感度",
+      "reading": "かんど",
+      "meaning": "độ nhạy"
     },
     {
-      "word": "練度",
-      "reading": "れんど",
-      "meaning": "kỹ năng"
-    },
-    {
-      "word": "仕度",
-      "reading": "したく",
-      "meaning": "sự chuẩn bị"
+      "word": "進度",
+      "reading": "しんど",
+      "meaning": "tiến độ"
     },
     {
       "word": "度に",
@@ -137,9 +137,9 @@
       "meaning": "mỗi lần"
     },
     {
-      "word": "限度",
-      "reading": "げんど",
-      "meaning": "điều độ"
+      "word": "数度",
+      "reading": "すうど",
+      "meaning": "vài lần"
     }
   ]
 }

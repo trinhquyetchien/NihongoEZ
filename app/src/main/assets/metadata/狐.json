@@ -73,39 +73,24 @@
       "meaning": "cáo"
     },
     {
-      "word": "狐薊",
-      "reading": "きつねあざみ",
-      "meaning": "hemisteptia lyrata"
+      "word": "子狐",
+      "reading": "こぎつね",
+      "meaning": "con cáo con"
     },
     {
-      "word": "悪狐",
-      "reading": "あっこ",
-      "meaning": "bad fox"
+      "word": "狐色",
+      "reading": "きつねいろ",
+      "meaning": "màu nâu nhạt"
     },
     {
-      "word": "善狐",
-      "reading": "ぜんこ",
-      "meaning": "con cáo tốt"
+      "word": "狐の面",
+      "reading": "きつねのめん",
+      "meaning": "mặt nạ con cáo"
     },
     {
-      "word": "赤狐",
-      "reading": "あかぎつね",
-      "meaning": "cáo đỏ"
-    },
-    {
-      "word": "銀狐",
-      "reading": "ぎんぎつね",
-      "meaning": "cáo xám bạc"
-    },
-    {
-      "word": "古狐",
-      "reading": "ふるきつね",
-      "meaning": "dân kỳ cựu"
-    },
-    {
-      "word": "天狐",
-      "reading": "てんこ",
-      "meaning": "thiên hồ"
+      "word": "空狐",
+      "reading": "くうこ",
+      "meaning": "thiên cáo"
     },
     {
       "word": "北狐",
@@ -113,9 +98,24 @@
       "meaning": "ezo red fox"
     },
     {
-      "word": "子狐",
-      "reading": "こぎつね",
-      "meaning": "con cáo con"
+      "word": "赤狐",
+      "reading": "あかぎつね",
+      "meaning": "cáo đỏ"
+    },
+    {
+      "word": "大耳狐",
+      "reading": "おおみみぎつね",
+      "meaning": "cáo tai dơi"
+    },
+    {
+      "word": "天狐",
+      "reading": "てんこ",
+      "meaning": "thiên hồ"
+    },
+    {
+      "word": "悪狐",
+      "reading": "あっこ",
+      "meaning": "bad fox"
     }
   ]
 }

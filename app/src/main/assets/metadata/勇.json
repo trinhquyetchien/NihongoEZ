@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "dũng"
+    },
+    {
+      "word": "勇敢",
+      "reading": "ゆうかん",
+      "meaning": "can đảm"
+    },
+    {
       "word": "勇",
       "reading": "ゆう",
       "meaning": "sự can đảm"
     },
     {
-      "word": "勇姿",
-      "reading": "ゆうし",
-      "meaning": "tư thế hùng dũng"
+      "word": "勇力",
+      "reading": "ゆうりょく",
+      "meaning": "sự can đảm"
     },
     {
-      "word": "勇侠",
-      "reading": "ゆうきょう",
-      "meaning": "lòng can đảm"
+      "word": "勇図",
+      "reading": "ゆうと",
+      "meaning": "sự cam kết đầy tham vọng"
     },
     {
-      "word": "勇断",
-      "reading": "ゆうだん",
-      "meaning": "sự quyết đoán táo bạo"
+      "word": "勇者",
+      "reading": "ゆうしゃ",
+      "meaning": "người anh hùng"
     },
     {
-      "word": "勇飛",
-      "reading": "ゆうひ",
-      "meaning": "cú nhảy xa"
+      "word": "勇兵",
+      "reading": "ゆうへい",
+      "meaning": "người lính dũng cảm"
     },
     {
-      "word": "勇決",
-      "reading": "ゆうけつ",
-      "meaning": "tính kiên quyết"
+      "word": "勇健",
+      "reading": "ゆうけん",
+      "meaning": "kêu sức khỏe"
     },
     {
-      "word": "勇む",
-      "reading": "いさむ",
-      "meaning": "hùng dũng"
+      "word": "勇婦",
+      "reading": "ゆうふ",
+      "meaning": "nữ anh hùng"
     },
     {
-      "word": "勇武",
-      "reading": "ゆうぶ",
-      "meaning": "lòng can đảm"
-    },
-    {
-      "word": "蛮勇",
-      "reading": "ばんゆう",
-      "meaning": "hữu dũng vô mưu"
-    },
-    {
-      "word": "武勇",
-      "reading": "ぶゆう",
-      "meaning": "sự dũng cảm"
+      "word": "勇進",
+      "reading": "ゆうしん",
+      "meaning": "dũng cảm tiến về phía trước"
     }
   ]
 }

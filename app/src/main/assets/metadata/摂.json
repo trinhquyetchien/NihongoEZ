@@ -92,34 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "摂る",
-      "reading": "とる",
-      "meaning": "ăn"
+      "word": "摂取",
+      "reading": "せっしゅ",
+      "meaning": "hấp thụ"
     },
     {
-      "word": "摂社",
-      "reading": "せっしゃ",
-      "meaning": "ngôi đền nhỏ"
-    },
-    {
-      "word": "摂動",
-      "reading": "せつどう",
-      "meaning": "sự hỗn loạn"
-    },
-    {
-      "word": "摂政",
-      "reading": "せっしょう",
-      "meaning": "quan nhiếp chính"
-    },
-    {
-      "word": "摂生",
-      "reading": "せっせい",
-      "meaning": "sự vệ sinh"
-    },
-    {
-      "word": "摂理",
-      "reading": "せつり",
-      "meaning": "đạo trời"
+      "word": "摂取量",
+      "reading": "せっしゅりょう",
+      "meaning": "lượng hấp thụ"
     },
     {
       "word": "摂食",
@@ -127,19 +107,39 @@
       "meaning": "thanh toán"
     },
     {
+      "word": "摂政",
+      "reading": "せっしょう",
+      "meaning": "quan nhiếp chính"
+    },
+    {
+      "word": "摂る",
+      "reading": "とる",
+      "meaning": "ăn"
+    },
+    {
+      "word": "摂理",
+      "reading": "せつり",
+      "meaning": "đạo trời"
+    },
+    {
+      "word": "摂氏",
+      "reading": "せっし",
+      "meaning": "thang chia nhiệt độ lấy điểm đông của nước là 0 và điểm sôi là 100"
+    },
+    {
       "word": "包摂",
       "reading": "ほうせつ",
       "meaning": "sự xếp"
     },
     {
-      "word": "兼摂",
-      "reading": "けんせつ",
-      "meaning": "sự kiêm nhiệm"
+      "word": "不摂生",
+      "reading": "ふせっせい",
+      "meaning": "sự quá độ"
     },
     {
-      "word": "摂家",
-      "reading": "せっけ",
-      "meaning": "quan nhiếp chính và quan cố vấn"
+      "word": "摂社",
+      "reading": "せっしゃ",
+      "meaning": "ngôi đền nhỏ"
     }
   ]
 }

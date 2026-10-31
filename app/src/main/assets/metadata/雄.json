@@ -74,19 +74,44 @@
   ],
   "vocabulary": [
     {
+      "word": "英雄",
+      "reading": "えいゆう",
+      "meaning": "anh hùng"
+    },
+    {
       "word": "雄",
       "reading": "おす",
       "meaning": "đực"
     },
     {
-      "word": "雄雄しい",
-      "reading": "おおしい",
-      "meaning": "mạnh mẽ"
+      "word": "雄性",
+      "reading": "ゆうせい",
+      "meaning": "nam tính"
     },
     {
-      "word": "雄黄",
-      "reading": "ゆうおう",
-      "meaning": "khoáng vật hùng hoàng"
+      "word": "反英雄",
+      "reading": "はんえいゆう",
+      "meaning": "nam nhân vật phản diện"
+    },
+    {
+      "word": "雄町",
+      "reading": "おまち",
+      "meaning": "gạo omachi"
+    },
+    {
+      "word": "雄風",
+      "reading": "ゆうふう",
+      "meaning": "cơn gió dễ chịu thổi mạnh"
+    },
+    {
+      "word": "雄犬",
+      "reading": "おすいぬ",
+      "meaning": "chó đực"
+    },
+    {
+      "word": "雄猫",
+      "reading": "おすねこ",
+      "meaning": "con mèo"
     },
     {
       "word": "雄親",
@@ -94,34 +119,9 @@
       "meaning": "quan hệ cha con"
     },
     {
-      "word": "雄武",
-      "reading": "ゆうぶ",
-      "meaning": "tính gan dạ"
-    },
-    {
-      "word": "雄猿",
-      "reading": "おすざる",
-      "meaning": "khỉ đực"
-    },
-    {
-      "word": "雄コネクタ",
-      "reading": "おすコネクタ",
-      "meaning": "đầu nối đực"
-    },
-    {
-      "word": "群雄",
-      "reading": "ぐんゆう",
-      "meaning": "quần hùng"
-    },
-    {
-      "word": "雌雄",
-      "reading": "しゆう",
-      "meaning": "giống cái và giống đực"
-    },
-    {
-      "word": "雄壮",
-      "reading": "ゆうそう",
-      "meaning": "bất chấp"
+      "word": "雄牛",
+      "reading": "おうし",
+      "meaning": "con bò đực"
     }
   ]
 }

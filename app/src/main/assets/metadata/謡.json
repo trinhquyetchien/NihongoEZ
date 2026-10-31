@@ -90,39 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "謡",
-      "reading": "うたい",
-      "meaning": "bài hát của kịch noh"
-    },
-    {
-      "word": "謡を謡う",
-      "reading": "うたいをうたう",
-      "meaning": "để kể lại một utai noh hát cầu kinh)"
-    },
-    {
-      "word": "謡う",
-      "reading": "うたう",
-      "meaning": "hát"
-    },
-    {
-      "word": "俗謡",
-      "reading": "ぞくよう",
-      "meaning": "khúc balat"
-    },
-    {
-      "word": "謡物",
-      "reading": "うたいもの",
-      "meaning": "một utai noh hát cầu kinh) mảnh cho sự độc tấu"
-    },
-    {
-      "word": "地謡",
-      "reading": "じうたい",
-      "meaning": "noh đồng ca"
-    },
-    {
-      "word": "童謡",
-      "reading": "どうよう",
-      "meaning": "bài hát đồng dao"
+      "word": "歌謡",
+      "reading": "かよう",
+      "meaning": "bài hát"
     },
     {
       "word": "民謡",
@@ -130,14 +100,44 @@
       "meaning": "ca dao"
     },
     {
-      "word": "歌謡",
-      "reading": "かよう",
-      "meaning": "bài hát"
+      "word": "歌謡曲",
+      "reading": "かようきょく",
+      "meaning": "bài hát được ưa thích"
+    },
+    {
+      "word": "童謡",
+      "reading": "どうよう",
+      "meaning": "bài hát đồng dao"
+    },
+    {
+      "word": "謡",
+      "reading": "うたい",
+      "meaning": "bài hát của kịch noh"
     },
     {
       "word": "古謡",
       "reading": "こよう",
       "meaning": "nhạc truyền thống"
+    },
+    {
+      "word": "神謡集",
+      "reading": "しんようしゅう",
+      "meaning": "tập hợp thần thoại"
+    },
+    {
+      "word": "謡曲",
+      "reading": "ようきょく",
+      "meaning": "bài hát noh"
+    },
+    {
+      "word": "謡う",
+      "reading": "うたう",
+      "meaning": "hát"
+    },
+    {
+      "word": "地謡",
+      "reading": "じうたい",
+      "meaning": "noh đồng ca"
     }
   ]
 }

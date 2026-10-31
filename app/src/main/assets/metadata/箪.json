@@ -59,9 +59,9 @@
       "meaning": "bầu"
     },
     {
-      "word": "ベビー箪笥",
-      "reading": "ベビーだんす",
-      "meaning": "tủ đựng quần áo em bé"
+      "word": "茶箪笥",
+      "reading": "ちゃだんす",
+      "meaning": "tủ búp phê"
     },
     {
       "word": "瓢箪鯰",
@@ -74,11 +74,6 @@
       "meaning": "tủ com"
     },
     {
-      "word": "茶箪笥",
-      "reading": "ちゃだんす",
-      "meaning": "tủ búp phê"
-    },
-    {
       "word": "青瓢箪",
       "reading": "あおびょうたん",
       "meaning": "người ốm yếu"
@@ -89,13 +84,18 @@
       "meaning": "tủ quần áo"
     },
     {
-      "word": "千成瓢箪",
-      "reading": "せんなりびょうたん",
-      "meaning": "bầu hồ lô"
-    },
-    {
       "word": "洋服箪笥",
       "reading": "ようふくだんす",
+      "meaning": "tủ áo quần"
+    },
+    {
+      "word": "ベビー箪笥",
+      "reading": "ベビーだんす",
+      "meaning": "tủ đựng quần áo em bé"
+    },
+    {
+      "word": "衣類箪笥",
+      "reading": "いるいだんす",
       "meaning": "tủ áo quần"
     }
   ]

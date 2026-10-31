@@ -89,29 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "bờ biển"
+    },
+    {
       "word": "岸",
       "reading": "きし",
       "meaning": "đắp bờ"
     },
     {
-      "word": "湖岸",
-      "reading": "こがん",
-      "meaning": "bờ hồ"
+      "word": "沿岸",
+      "reading": "えんがん",
+      "meaning": "bờ biển"
     },
     {
-      "word": "陸岸",
-      "reading": "りくがん",
-      "meaning": "đất liền"
+      "word": "海岸線",
+      "reading": "かいがんせん",
+      "meaning": "bờ biển"
     },
     {
-      "word": "此岸",
-      "reading": "しがん",
-      "meaning": "thế gian này"
+      "word": "南海岸",
+      "reading": "みなみかいがん",
+      "meaning": "bờ biển phía nam"
     },
     {
-      "word": "対岸",
-      "reading": "たいがん",
-      "meaning": "bờ đối diện"
+      "word": "岸頭",
+      "reading": "がんとう",
+      "meaning": "cầu phà"
+    },
+    {
+      "word": "彼の岸",
+      "reading": "かのきし",
+      "meaning": "nirvana"
     },
     {
       "word": "全岸",
@@ -119,24 +129,14 @@
       "meaning": "toàn bộ bờ sông"
     },
     {
-      "word": "河岸",
-      "reading": "かわぎし",
-      "meaning": "bờ sông"
+      "word": "両岸",
+      "reading": "りょうがん",
+      "meaning": "hai bờ"
     },
     {
-      "word": "右岸",
-      "reading": "うがん",
-      "meaning": "hữu ngạn"
-    },
-    {
-      "word": "西岸",
-      "reading": "せいがん",
-      "meaning": "bờ tây"
-    },
-    {
-      "word": "北岸",
-      "reading": "ほくがん",
-      "meaning": "bờ biển phía bắc"
+      "word": "切り岸",
+      "reading": "きりぎし",
+      "meaning": "vách đá"
     }
   ]
 }

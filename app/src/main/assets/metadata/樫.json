@@ -36,34 +36,9 @@
       "meaning": "sồi"
     },
     {
-      "word": "粗樫",
-      "reading": "あらかし",
-      "meaning": "quercus glauca"
-    },
-    {
-      "word": "白樫",
-      "reading": "しらかし",
-      "meaning": "cây sồi trắng"
-    },
-    {
-      "word": "樫粉",
-      "reading": "かしご",
-      "meaning": "bột gỗ sồi"
-    },
-    {
       "word": "黒樫",
       "reading": "くろがし",
       "meaning": "cây sồi đen"
-    },
-    {
-      "word": "コルク樫",
-      "reading": "コルクがし",
-      "meaning": "cây sồi nút bần"
-    },
-    {
-      "word": "赤樫",
-      "reading": "あかがし",
-      "meaning": "cây sồi"
     },
     {
       "word": "熊樫",
@@ -71,14 +46,39 @@
       "meaning": "cây sồi xanh"
     },
     {
-      "word": "姥目樫",
-      "reading": "うばめがし",
-      "meaning": "quercus phillyreoides"
+      "word": "樫粉",
+      "reading": "かしご",
+      "meaning": "bột gỗ sồi"
     },
     {
       "word": "今芽樫",
       "reading": "いまめがし",
       "meaning": "ubame oak"
+    },
+    {
+      "word": "粗樫",
+      "reading": "あらかし",
+      "meaning": "quercus glauca"
+    },
+    {
+      "word": "姥目樫",
+      "reading": "うばめがし",
+      "meaning": "quercus phillyreoides"
+    },
+    {
+      "word": "白樫",
+      "reading": "しらかし",
+      "meaning": "cây sồi trắng"
+    },
+    {
+      "word": "赤樫",
+      "reading": "あかがし",
+      "meaning": "cây sồi"
+    },
+    {
+      "word": "コルク樫",
+      "reading": "コルクがし",
+      "meaning": "cây sồi nút bần"
     }
   ]
 }

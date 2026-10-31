@@ -91,9 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "揃いも揃って",
-      "reading": "そろいもそろって",
-      "meaning": "mỗi một"
+      "word": "揃う",
+      "reading": "そろう",
+      "meaning": "chuẩn bị"
+    },
+    {
+      "word": "揃える",
+      "reading": "そろえる",
+      "meaning": "làm đồng đều"
     },
     {
       "word": "揃い",
@@ -101,24 +106,24 @@
       "meaning": "đồng phục"
     },
     {
-      "word": "揃う",
-      "reading": "そろう",
-      "meaning": "chuẩn bị"
-    },
-    {
-      "word": "揃え箸",
-      "reading": "そろえばし",
-      "meaning": "việc so đũa"
-    },
-    {
       "word": "揃って",
       "reading": "そろって",
       "meaning": "ồ ạt"
     },
     {
-      "word": "お揃い",
-      "reading": "おそろい",
-      "meaning": "giống nhau"
+      "word": "揃え方",
+      "reading": "そろえかた",
+      "meaning": "cách sự biện hộ"
+    },
+    {
+      "word": "品揃え",
+      "reading": "しなぞろえ",
+      "meaning": "chủng loại sản phẩm"
+    },
+    {
+      "word": "右揃え",
+      "reading": "みぎぞろえ",
+      "meaning": "sự căn lề phải"
     },
     {
       "word": "左揃え",
@@ -131,14 +136,9 @@
       "meaning": "căn chỉnh"
     },
     {
-      "word": "右揃え",
-      "reading": "みぎぞろえ",
-      "meaning": "sự căn lề phải"
-    },
-    {
-      "word": "揃え方",
-      "reading": "そろえかた",
-      "meaning": "cách sự biện hộ"
+      "word": "お揃い",
+      "reading": "おそろい",
+      "meaning": "giống nhau"
     }
   ]
 }

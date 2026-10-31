@@ -89,44 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "司",
-      "reading": "つかさ",
-      "meaning": "cơ quan hành chính dưới cấp cục trong hệ thống ritsuryō"
-    },
-    {
-      "word": "福司",
-      "reading": "ふくつかさ",
-      "meaning": "fukutsukasa"
-    },
-    {
-      "word": "司教",
-      "reading": "しきょう",
-      "meaning": "đức cha"
-    },
-    {
-      "word": "司書",
-      "reading": "ししょ",
-      "meaning": "người quản lý thư viện"
-    },
-    {
-      "word": "祭司",
-      "reading": "さいし",
-      "meaning": "một người chuyên thực hiện các nghi lễ tôn giáo"
-    },
-    {
       "word": "司会",
       "reading": "しかい",
       "meaning": "chủ tịch"
     },
     {
-      "word": "寿司",
-      "reading": "すし",
-      "meaning": "món ăn sushi của nhật"
-    },
-    {
-      "word": "司寇",
-      "reading": "しこう",
-      "meaning": "tổng chưởng lý"
+      "word": "上司",
+      "reading": "じょうし",
+      "meaning": "bề trên"
     },
     {
       "word": "司法",
@@ -134,9 +104,39 @@
       "meaning": "bộ máy tư pháp"
     },
     {
-      "word": "司直",
-      "reading": "しちょく",
-      "meaning": "xét đoán"
+      "word": "司る",
+      "reading": "つかさどる",
+      "meaning": "thống thị"
+    },
+    {
+      "word": "司令",
+      "reading": "しれい",
+      "meaning": "tư lệnh"
+    },
+    {
+      "word": "司令部",
+      "reading": "しれいぶ",
+      "meaning": "bộ tư lệnh"
+    },
+    {
+      "word": "司令室",
+      "reading": "しれいしつ",
+      "meaning": "phòng điều khiển"
+    },
+    {
+      "word": "寿司",
+      "reading": "すし",
+      "meaning": "món ăn sushi của nhật"
+    },
+    {
+      "word": "司令官",
+      "reading": "しれいかん",
+      "meaning": "sĩ quan chỉ huy"
+    },
+    {
+      "word": "司法部",
+      "reading": "しほうぶ",
+      "meaning": "bộ tư pháp"
     }
   ]
 }

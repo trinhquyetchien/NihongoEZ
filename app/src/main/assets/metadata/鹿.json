@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "馬鹿",
+      "reading": "ばか",
+      "meaning": "đáng coi thường"
+    },
+    {
+      "word": "馬鹿に",
+      "reading": "ばかに",
+      "meaning": "quá mức"
+    },
+    {
+      "word": "馬鹿者",
+      "reading": "ばかもの",
+      "meaning": "người ngu ngốc"
+    },
+    {
+      "word": "馬鹿話",
+      "reading": "ばかばなし",
+      "meaning": "chuyện vẩn vơ"
+    },
+    {
+      "word": "大馬鹿",
+      "reading": "おおばか",
+      "meaning": "cực kì ngốc"
+    },
+    {
+      "word": "馬鹿穴",
+      "reading": "ばかあな",
+      "meaning": "lỗ lắp bu lông"
+    },
+    {
       "word": "鹿",
       "reading": "しか",
       "meaning": "các loài thuộc họ hươu nai"
     },
     {
-      "word": "馬鹿馬鹿しい",
-      "reading": "ばかばかしい",
-      "meaning": "vớ vẩn"
+      "word": "日本鹿",
+      "reading": "にほんじか",
+      "meaning": "hươu sao còn được gọi là hươu đốm hoặc hươu nhật bản"
     },
     {
-      "word": "箆鹿",
-      "reading": "へらじか",
-      "meaning": "nai sừng tấm á - âu"
+      "word": "神鹿",
+      "reading": "しんろく",
+      "meaning": "hươu thần"
     },
     {
-      "word": "赤鹿",
-      "reading": "あかしか",
-      "meaning": "con tuần lộc"
-    },
-    {
-      "word": "鹿砦",
-      "reading": "ろくさい",
-      "meaning": "đống cây chướng ngại"
-    },
-    {
-      "word": "氈鹿",
-      "reading": "かもしか",
-      "meaning": "sơn dương"
-    },
-    {
-      "word": "鹿毛",
-      "reading": "かげ",
-      "meaning": "màu nâu vàng"
-    },
-    {
-      "word": "鹿肉",
-      "reading": "しかにく",
-      "meaning": "thịt hươu"
-    },
-    {
-      "word": "大鹿",
-      "reading": "おおじか",
-      "meaning": "linh dương"
-    },
-    {
-      "word": "牝鹿",
-      "reading": "めじか",
-      "meaning": "con nai cái"
+      "word": "鹿木",
+      "reading": "しかぎ",
+      "meaning": "phương pháp bắt nai"
     }
   ]
 }

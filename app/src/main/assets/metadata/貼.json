@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "貼付",
-      "reading": "ちょうふ",
-      "meaning": "dán"
-    },
-    {
-      "word": "貼る",
-      "reading": "はる",
-      "meaning": "dán"
-    },
-    {
-      "word": "貼薬",
-      "reading": "はりぐすり",
-      "meaning": "thuốc cao"
-    },
-    {
-      "word": "下貼",
-      "reading": "したばり",
-      "meaning": "áo bành tô mặc trong"
+      "word": "前貼り",
+      "reading": "まえばり",
+      "meaning": "phần che các bộ phận riêng tư"
     },
     {
       "word": "貼り絵",
@@ -115,9 +100,24 @@
       "meaning": "nghệ thuật cắt dán"
     },
     {
-      "word": "貼り紙",
-      "reading": "はりがみ",
-      "meaning": "nhãn hiệu"
+      "word": "貼る",
+      "reading": "はる",
+      "meaning": "dán"
+    },
+    {
+      "word": "仮貼り",
+      "reading": "かりばり",
+      "meaning": "sự dán tạm thời"
+    },
+    {
+      "word": "貼り札",
+      "reading": "はりふだ",
+      "meaning": "áp phích"
+    },
+    {
+      "word": "貼付",
+      "reading": "ちょうふ",
+      "meaning": "dán"
     },
     {
       "word": "貼付け",
@@ -125,19 +125,19 @@
       "meaning": "sự dán"
     },
     {
-      "word": "上貼り",
-      "reading": "うわばり",
-      "meaning": "kết thúc áo choàng giấy"
+      "word": "貼付剤",
+      "reading": "ちょうふざい",
+      "meaning": "miếng dán"
     },
     {
-      "word": "切貼り",
-      "reading": "きりばり",
-      "meaning": "vá"
+      "word": "貼れる",
+      "reading": "はれる",
+      "meaning": "úa"
     },
     {
-      "word": "仮貼り",
-      "reading": "かりばり",
-      "meaning": "sự dán tạm thời"
+      "word": "貼り紙",
+      "reading": "はりがみ",
+      "meaning": "nhãn hiệu"
     }
   ]
 }

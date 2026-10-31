@@ -89,8 +89,8 @@
   ],
   "vocabulary": [
     {
-      "word": "耕作",
-      "reading": "こうさく",
+      "word": "耕す",
+      "reading": "たがやす",
       "meaning": "canh tác"
     },
     {
@@ -99,14 +99,9 @@
       "meaning": "đất canh tác"
     },
     {
-      "word": "耕具",
-      "reading": "こうぐ",
-      "meaning": "công cụ canh tác"
-    },
-    {
-      "word": "退耕",
-      "reading": "たいこう",
-      "meaning": "sự nghỉ hưu từ chức vụ chính phủ và tham gia vào nông nghiệp"
+      "word": "耕作",
+      "reading": "こうさく",
+      "meaning": "canh tác"
     },
     {
       "word": "農耕",
@@ -114,9 +109,9 @@
       "meaning": "việc canh nông"
     },
     {
-      "word": "休耕",
-      "reading": "きゅうこう",
-      "meaning": "bỏ hoang"
+      "word": "水耕",
+      "reading": "すいこう",
+      "meaning": "thủy canh"
     },
     {
       "word": "耕種",
@@ -124,19 +119,24 @@
       "meaning": "việc gieo trồng"
     },
     {
-      "word": "耕土",
-      "reading": "こうど",
-      "meaning": "lớp đất mặt để trồng trọt"
+      "word": "秋耕",
+      "reading": "しゅうこう",
+      "meaning": "cày xới ruộng sau vụ thu mùa"
     },
     {
-      "word": "深耕",
-      "reading": "しんこう",
-      "meaning": "cày sâu"
+      "word": "土耕",
+      "reading": "どこう",
+      "meaning": "thổ canh"
     },
     {
-      "word": "馬耕",
-      "reading": "ばこう",
-      "meaning": "sự dùng ngựa để làm nông"
+      "word": "耕やす",
+      "reading": "たがやす",
+      "meaning": "cuốc"
+    },
+    {
+      "word": "耕具",
+      "reading": "こうぐ",
+      "meaning": "công cụ canh tác"
     }
   ]
 }

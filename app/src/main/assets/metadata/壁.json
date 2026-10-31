@@ -94,39 +94,14 @@
       "meaning": "bức tường"
     },
     {
-      "word": "外壁/内壁用",
-      "reading": "がいへき/ないへきよう",
-      "meaning": "dành cho tường ngoài/tường trong"
+      "word": "妻壁",
+      "reading": "つまかべ",
+      "meaning": "tường đầu hồi"
     },
     {
-      "word": "袖壁",
-      "reading": "そでかべ",
-      "meaning": "tường thòi"
-    },
-    {
-      "word": "障壁",
-      "reading": "しょうへき",
-      "meaning": "chướng ngại"
-    },
-    {
-      "word": "腰壁",
-      "reading": "こしかべ",
-      "meaning": "tường phân vùng eo cao"
-    },
-    {
-      "word": "合壁",
-      "reading": "がっぺき",
-      "meaning": "neighbor với chỉ là một tường giữa"
-    },
-    {
-      "word": "擁壁",
-      "reading": "ようへき",
-      "meaning": "tường chắn"
-    },
-    {
-      "word": "粉壁",
-      "reading": "ふんぺき",
-      "meaning": "tường trắng"
+      "word": "壁役",
+      "reading": "かべやく",
+      "meaning": "cầu thủ bắt bóng"
     },
     {
       "word": "北壁",
@@ -134,9 +109,34 @@
       "meaning": "dốc đứng bắc"
     },
     {
+      "word": "壁パン",
+      "reading": "かべパン",
+      "meaning": "việc đấm vào tường"
+    },
+    {
+      "word": "土壁",
+      "reading": "つちかべ",
+      "meaning": "tường đất"
+    },
+    {
       "word": "東壁",
       "reading": "とうへき",
       "meaning": "mặt phía đông"
+    },
+    {
+      "word": "壁板",
+      "reading": "かべいた",
+      "meaning": "ván lát tường"
+    },
+    {
+      "word": "板壁",
+      "reading": "いたかべ",
+      "meaning": "tường gỗ"
+    },
+    {
+      "word": "壁ドン",
+      "reading": "かべドン",
+      "meaning": "sự dồn vào tường"
     }
   ]
 }

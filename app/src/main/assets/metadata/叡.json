@@ -83,14 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "叡旨",
-      "reading": "えいし",
-      "meaning": "chiếu chỉ"
+      "word": "叡智",
+      "reading": "えいち",
+      "meaning": "sự khôn ngoan"
     },
     {
-      "word": "叡覧",
-      "reading": "えいらん",
-      "meaning": "sự ngự lãm"
+      "word": "比叡山",
+      "reading": "ひえいざん",
+      "meaning": "ngọn núi hiei - tỷ duệ"
     },
     {
       "word": "叡感",
@@ -98,9 +98,9 @@
       "meaning": "sự thừa nhận của vua"
     },
     {
-      "word": "叡慮",
-      "reading": "えいりょ",
-      "meaning": "ý nghĩ"
+      "word": "叡旨",
+      "reading": "えいし",
+      "meaning": "chiếu chỉ"
     },
     {
       "word": "叡知",
@@ -108,19 +108,19 @@
       "meaning": "trí tuệ"
     },
     {
-      "word": "叡智",
-      "reading": "えいち",
-      "meaning": "sự khôn ngoan"
+      "word": "叡覧",
+      "reading": "えいらん",
+      "meaning": "sự ngự lãm"
+    },
+    {
+      "word": "叡慮",
+      "reading": "えいりょ",
+      "meaning": "ý nghĩ"
     },
     {
       "word": "叡聞に",
       "reading": "えいぶんに",
       "meaning": "trong sự nghe thấy của vua"
-    },
-    {
-      "word": "比叡山",
-      "reading": "ひえいざん",
-      "meaning": "ngọn núi hiei - tỷ duệ"
     }
   ]
 }

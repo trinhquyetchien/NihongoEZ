@@ -86,16 +86,6 @@
   ],
   "vocabulary": [
     {
-      "word": "猶太",
-      "reading": "ユダヤ",
-      "meaning": "judea"
-    },
-    {
-      "word": "猶子",
-      "reading": "ゆうし",
-      "meaning": "cháu trai"
-    },
-    {
       "word": "猶予",
       "reading": "ゆうよ",
       "meaning": "trì hoãn"
@@ -111,9 +101,24 @@
       "meaning": "làm dịu tốt hơn"
     },
     {
-      "word": "猶あらじ",
-      "reading": "なおあらじ",
-      "meaning": "không thể kết thúc mọi thứ ở trạng thái hiện tại"
+      "word": "猶太",
+      "reading": "ユダヤ",
+      "meaning": "judea"
+    },
+    {
+      "word": "猶子",
+      "reading": "ゆうし",
+      "meaning": "cháu trai"
+    },
+    {
+      "word": "猶予なく",
+      "reading": "ゆうよなく",
+      "meaning": "sự nhanh chóng"
+    },
+    {
+      "word": "猶予期間",
+      "reading": "ゆうよきかん",
+      "meaning": "một thời kỳ duyên dáng"
     },
     {
       "word": "執行猶予",
@@ -126,14 +131,9 @@
       "meaning": "sự ngưng buộc tội"
     },
     {
-      "word": "昼猶暗い",
-      "reading": "ひるなおくらい",
-      "meaning": "đêm giữa ban ngày"
-    },
-    {
-      "word": "猶予期間",
-      "reading": "ゆうよきかん",
-      "meaning": "một thời kỳ duyên dáng"
+      "word": "支払猶予",
+      "reading": "しはらいゆうよ",
+      "meaning": "hoãn thanh toán"
     }
   ]
 }

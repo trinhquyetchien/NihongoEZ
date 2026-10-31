@@ -128,39 +128,14 @@
       "meaning": "cây mơ"
     },
     {
-      "word": "梅干",
-      "reading": "うめぼし",
-      "meaning": "ô mai"
-    },
-    {
-      "word": "梅桃",
-      "reading": "ゆすらうめ",
-      "meaning": "anh đào nam kinh"
-    },
-    {
-      "word": "紅梅",
-      "reading": "こうばい",
-      "meaning": "cây mai hồng"
-    },
-    {
-      "word": "梅肉",
-      "reading": "ばいにく",
-      "meaning": "thịt quả mơ muối"
-    },
-    {
-      "word": "梅霖",
-      "reading": "ばいりん",
+      "word": "梅雨",
+      "reading": "つゆ",
       "meaning": "mùa mưa"
     },
     {
-      "word": "黄梅",
-      "reading": "おうばい",
-      "meaning": "hoa mai vàng"
-    },
-    {
-      "word": "梅花",
-      "reading": "ばいか",
-      "meaning": "hoa mai"
+      "word": "梅干し",
+      "reading": "うめぼし",
+      "meaning": "ô mai"
     },
     {
       "word": "梅見",
@@ -168,9 +143,34 @@
       "meaning": "ngắm hoa mai"
     },
     {
-      "word": "梅酒",
-      "reading": "うめしゅ",
-      "meaning": "rượu thanh mai"
+      "word": "金梅",
+      "reading": "きんばい",
+      "meaning": "hoa nhài mùa đông"
+    },
+    {
+      "word": "観梅",
+      "reading": "かんばい",
+      "meaning": "ngắm hoa"
+    },
+    {
+      "word": "梅肉",
+      "reading": "ばいにく",
+      "meaning": "thịt quả mơ muối"
+    },
+    {
+      "word": "実梅",
+      "reading": "みうめ",
+      "meaning": "quả mơ tiếng nhật"
+    },
+    {
+      "word": "梅の実",
+      "reading": "うめのみ",
+      "meaning": "quả mơ tiếng nhật"
+    },
+    {
+      "word": "野梅",
+      "reading": "やばい",
+      "meaning": "tiếng lóng của giới trẻ"
     }
   ]
 }

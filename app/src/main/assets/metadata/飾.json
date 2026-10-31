@@ -90,9 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "店舗装飾用品 (店飾)",
-      "reading": "",
-      "meaning": "đồ dùng trang trí cửa hàng"
+      "word": "飾る",
+      "reading": "かざる",
+      "meaning": "tô điểm"
+    },
+    {
+      "word": "飾り",
+      "reading": "かざり",
+      "meaning": "sự giả tạo"
+    },
+    {
+      "word": "装飾",
+      "reading": "そうしょく",
+      "meaning": "những đồ trang trí trên quần áo"
     },
     {
       "word": "修飾",
@@ -100,44 +110,34 @@
       "meaning": "sự tô điểm"
     },
     {
-      "word": "電飾",
-      "reading": "でんしょく",
-      "meaning": "sự chiếu sáng trang trí"
+      "word": "首飾り",
+      "reading": "くびかざり",
+      "meaning": "vòng đeo cổ"
     },
     {
-      "word": "彩飾",
-      "reading": "さいしょく",
-      "meaning": "trang trí"
+      "word": "飾り車",
+      "reading": "かざりぐるま",
+      "meaning": "xe trang trí"
     },
     {
-      "word": "粉飾",
-      "reading": "ふんしょく",
-      "meaning": "việc làm đẹp"
+      "word": "髪飾り",
+      "reading": "かみかざり",
+      "meaning": "đồ trang điểm tóc"
     },
     {
-      "word": "服飾",
-      "reading": "ふくしょく",
-      "meaning": "sự phục sức"
+      "word": "飾り枠",
+      "reading": "かざりわく",
+      "meaning": "khung trang trí"
     },
     {
-      "word": "虚飾",
-      "reading": "きょしょく",
-      "meaning": "sự phô trương"
+      "word": "胸飾り",
+      "reading": "むねかざり",
+      "meaning": "trâm"
     },
     {
-      "word": "飾付",
-      "reading": "かざりつけ",
-      "meaning": "sự trang trí"
-    },
-    {
-      "word": "矯飾",
-      "reading": "きょうしょく",
-      "meaning": "sự giả bộ"
-    },
-    {
-      "word": "文飾",
-      "reading": "ぶんしょく",
-      "meaning": "sự tô điểm bằng văn chương"
+      "word": "装飾的",
+      "reading": "そうしょくてき",
+      "meaning": "để trang hoàng"
     }
   ]
 }

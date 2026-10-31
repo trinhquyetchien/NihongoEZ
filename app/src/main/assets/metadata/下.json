@@ -89,29 +89,24 @@
       "meaning": "dưới"
     },
     {
-      "word": "下下",
-      "reading": "しもじも",
-      "meaning": "những lớp thấp hơn"
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "bít tất"
     },
     {
-      "word": "下の下",
-      "reading": "げのげ",
-      "meaning": "thấp nhất loại nó) nghèo nhất"
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "dưới đây"
     },
     {
-      "word": "下女下男",
-      "reading": "げじょげなん",
-      "meaning": "những người hầu"
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "quần áo lót"
     },
     {
-      "word": "下品",
-      "reading": "げひん",
-      "meaning": "sản phẩm kém chất lượng"
-    },
-    {
-      "word": "下士",
-      "reading": "かし",
-      "meaning": "hạ sĩ quan"
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "nhà trọ"
     },
     {
       "word": "上下",
@@ -119,19 +114,24 @@
       "meaning": "lên xuống"
     },
     {
-      "word": "せん たく して下さい",
-      "reading": "選択して下さい",
-      "meaning": "vui lòng lựa chọn"
+      "word": "下旬",
+      "reading": "げじゅん",
+      "meaning": "hạ tuần"
     },
     {
-      "word": "真下",
-      "reading": "ました",
-      "meaning": "ngay bên dưới"
+      "word": "下品",
+      "reading": "げひん",
+      "meaning": "sản phẩm kém chất lượng"
     },
     {
-      "word": "靴下",
-      "reading": "くつした",
-      "meaning": "bít tất"
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "sự xuống tàu xe"
+    },
+    {
+      "word": "下水",
+      "reading": "げすい",
+      "meaning": "cống"
     }
   ]
 }

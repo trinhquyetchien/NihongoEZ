@@ -49,44 +49,9 @@
   ],
   "vocabulary": [
     {
-      "word": "錐",
-      "reading": "きり",
-      "meaning": "dụng cụ khoan côn"
-    },
-    {
-      "word": "角錐",
-      "reading": "かくすい",
-      "meaning": "hình chóp"
-    },
-    {
-      "word": "立錐",
-      "reading": "りっすい",
-      "meaning": "quá đầy"
-    },
-    {
       "word": "円錐",
       "reading": "えんすい",
       "meaning": "hình nón"
-    },
-    {
-      "word": "方錐",
-      "reading": "ほうすい",
-      "meaning": "hình chóp vuông"
-    },
-    {
-      "word": "舞錐",
-      "reading": "まいぎり",
-      "meaning": "mũi khoan"
-    },
-    {
-      "word": "五角錐",
-      "reading": "ごかくすい",
-      "meaning": "hình chóp đáy ngũ giác"
-    },
-    {
-      "word": "八角錐",
-      "reading": "はっかくすい",
-      "meaning": "khối chóp có đáy là hình bát giác"
     },
     {
       "word": "円錐面",
@@ -97,6 +62,41 @@
       "word": "円錐体",
       "reading": "えんすいたい",
       "meaning": "hình nón"
+    },
+    {
+      "word": "円錐台",
+      "reading": "えんすいだい",
+      "meaning": "vòng tròn chặt cụt hình nón"
+    },
+    {
+      "word": "円錐形",
+      "reading": "えんすいけい",
+      "meaning": "hình nón"
+    },
+    {
+      "word": "直円錐",
+      "reading": "ちょくえんすい",
+      "meaning": "một hình nón vòng tròn phải"
+    },
+    {
+      "word": "斜円錐",
+      "reading": "しゃえんすい",
+      "meaning": "hình nón tròn xiên"
+    },
+    {
+      "word": "錐",
+      "reading": "きり",
+      "meaning": "dụng cụ khoan côn"
+    },
+    {
+      "word": "方錐",
+      "reading": "ほうすい",
+      "meaning": "hình chóp vuông"
+    },
+    {
+      "word": "舞錐",
+      "reading": "まいぎり",
+      "meaning": "mũi khoan"
     }
   ]
 }

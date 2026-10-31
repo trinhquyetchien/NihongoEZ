@@ -92,9 +92,9 @@
       "meaning": "bực"
     },
     {
-      "word": "級間隔(階級値)",
-      "reading": "きゅうかんかく(かいきゅうち)",
-      "meaning": "khoảng các cấp"
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "cao cấp"
     },
     {
       "word": "上級",
@@ -102,39 +102,39 @@
       "meaning": "cấp trên"
     },
     {
-      "word": "初級",
-      "reading": "しょきゅう",
-      "meaning": "sơ cấp"
-    },
-    {
-      "word": "級友",
-      "reading": "きゅうゆう",
-      "meaning": "bạn cùng lớp"
-    },
-    {
-      "word": "高級",
-      "reading": "こうきゅう",
-      "meaning": "cao cấp"
-    },
-    {
       "word": "学級",
       "reading": "がっきゅう",
       "meaning": "lớp học"
     },
     {
-      "word": "ヘビー級",
-      "reading": "ヘビーきゅう",
-      "meaning": "hạng nặng"
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "sơ cấp"
     },
     {
-      "word": "ウエルター級",
-      "reading": "ウエルターきゅう",
-      "meaning": "hạng bán trung"
+      "word": "階級",
+      "reading": "かいきゅう",
+      "meaning": "giai cấp"
     },
     {
-      "word": "下級",
-      "reading": "かきゅう",
-      "meaning": "hạ cấp"
+      "word": "等級",
+      "reading": "とうきゅう",
+      "meaning": "bực"
+    },
+    {
+      "word": "同級",
+      "reading": "どうきゅう",
+      "meaning": "cùng lớp"
+    },
+    {
+      "word": "一級",
+      "reading": "いっきゅう",
+      "meaning": "bậc nhất"
+    },
+    {
+      "word": "分級",
+      "reading": "ぶんきゅう",
+      "meaning": "sự phân loại"
     }
   ]
 }

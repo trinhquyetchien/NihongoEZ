@@ -99,19 +99,34 @@
       "meaning": "màu đỏ"
     },
     {
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "đỏ"
+    },
+    {
+      "word": "赤外",
+      "reading": "せきがい",
+      "meaning": "hồng ngoại"
+    },
+    {
+      "word": "赤線",
+      "reading": "あかせん",
+      "meaning": "tuyến đỏ"
+    },
+    {
+      "word": "赤味",
+      "reading": "あかみ",
+      "meaning": "màu phớt đỏ"
+    },
+    {
+      "word": "赤肉",
+      "reading": "あかにく",
+      "meaning": "thịt đỏ"
+    },
+    {
       "word": "赤赤",
       "reading": "あかあか",
       "meaning": "màu đỏ tươi"
-    },
-    {
-      "word": "赤鳥赤腹",
-      "reading": "あかとりあかはら",
-      "meaning": "một loài chim gọi là chim hét nâu"
-    },
-    {
-      "word": "真っ赤っ赤",
-      "reading": "まっかっか",
-      "meaning": "đỏ đậm"
     },
     {
       "word": "赤脚",
@@ -119,29 +134,14 @@
       "meaning": "chân trần"
     },
     {
-      "word": "赤星",
-      "reading": "あかほし",
-      "meaning": "sao đỏ"
+      "word": "赤魚",
+      "reading": "あかうお",
+      "meaning": "các loài cá có màu đỏ"
     },
     {
-      "word": "赤ワイン",
-      "reading": "あかワイン",
-      "meaning": "rượu vang đỏ"
-    },
-    {
-      "word": "赤身",
-      "reading": "あかみ",
-      "meaning": "thịt nạc"
-    },
-    {
-      "word": "赤狐",
-      "reading": "あかぎつね",
-      "meaning": "cáo đỏ"
-    },
-    {
-      "word": "赤丹",
-      "reading": "あかたん",
-      "meaning": "màu đỏ"
+      "word": "赤玉",
+      "reading": "あかだま",
+      "meaning": "quả bóng màu đỏ"
     }
   ]
 }

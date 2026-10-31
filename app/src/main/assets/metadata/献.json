@@ -107,9 +107,44 @@
   ],
   "vocabulary": [
     {
+      "word": "貢献",
+      "reading": "こうけん",
+      "meaning": "sự cống hiến"
+    },
+    {
+      "word": "文献",
+      "reading": "ぶんけん",
+      "meaning": "văn kiện"
+    },
+    {
       "word": "献立",
       "reading": "こんだて",
       "meaning": "bảng thực đơn"
+    },
+    {
+      "word": "文献学",
+      "reading": "ぶんけんがく",
+      "meaning": "môn ngữ văn"
+    },
+    {
+      "word": "文献集",
+      "reading": "ぶんけんしゅう",
+      "meaning": "bộ tài liệu"
+    },
+    {
+      "word": "献身",
+      "reading": "けんしん",
+      "meaning": "sự hiến dâng"
+    },
+    {
+      "word": "献身的",
+      "reading": "けんしんてき",
+      "meaning": "tận tâm"
+    },
+    {
+      "word": "献身力",
+      "reading": "けんしんりょく",
+      "meaning": "tận tuỵ"
     },
     {
       "word": "献血",
@@ -117,44 +152,9 @@
       "meaning": "sự hiến máu"
     },
     {
-      "word": "献金",
-      "reading": "けんきん",
-      "meaning": "tiền quyên góp"
-    },
-    {
-      "word": "貢献",
-      "reading": "こうけん",
-      "meaning": "sự cống hiến"
-    },
-    {
-      "word": "献上",
-      "reading": "けんじょう",
-      "meaning": "sự dâng tặng"
-    },
-    {
-      "word": "献酬",
-      "reading": "けんしゅう",
-      "meaning": "trao đổi mục đích những cúp"
-    },
-    {
-      "word": "一献",
-      "reading": "いっこん",
-      "meaning": "một ly"
-    },
-    {
-      "word": "奉献",
-      "reading": "ほうけん",
-      "meaning": "sự hiến dâng"
-    },
-    {
-      "word": "献納",
-      "reading": "けんのう",
-      "meaning": "sự hiến tặng"
-    },
-    {
-      "word": "献呈",
-      "reading": "けんてい",
-      "meaning": "sự biểu diễn"
+      "word": "献血者",
+      "reading": "けんけつしゃ",
+      "meaning": "người hiến máu"
     }
   ]
 }

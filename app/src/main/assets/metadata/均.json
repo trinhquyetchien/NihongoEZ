@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "算術平均 / 相加平均",
-      "reading": "さんじゅつへいきん",
-      "meaning": "trung bình cộng"
+      "word": "平均",
+      "reading": "へいきん",
+      "meaning": "bình quân"
     },
     {
       "word": "均衡",
@@ -116,44 +116,44 @@
       "meaning": "cán cân"
     },
     {
-      "word": "均等",
-      "reading": "きんとう",
-      "meaning": "cân đối"
+      "word": "年平均",
+      "reading": "ねんへいきん",
+      "meaning": "trung bình năm"
     },
     {
-      "word": "均整",
-      "reading": "きんせい",
-      "meaning": "sự cân xứng"
+      "word": "平均的",
+      "reading": "へいきんてき",
+      "meaning": "trung bình cộng"
     },
     {
-      "word": "百均",
-      "reading": "ひゃっきん",
-      "meaning": "đồng giá 100 yên"
+      "word": "月平均",
+      "reading": "つきへいきん",
+      "meaning": "trung bình hàng tháng"
     },
     {
-      "word": "均一",
-      "reading": "きんいつ",
-      "meaning": "toàn bộ như nhau"
+      "word": "平均数",
+      "reading": "へいきんすう",
+      "meaning": "số trung bình"
     },
     {
-      "word": "均分",
-      "reading": "きんぶん",
-      "meaning": "sự chia đều"
+      "word": "平均化",
+      "reading": "へいきんか",
+      "meaning": "cân bằng hoá"
     },
     {
-      "word": "均す",
-      "reading": "ならす",
-      "meaning": "tính trung bình"
+      "word": "平均点",
+      "reading": "へいきんてん",
+      "meaning": "điểm trung bình"
     },
     {
-      "word": "１００均",
-      "reading": "ひゃっきん",
-      "meaning": "cửa hàng 100 yên"
+      "word": "平均率",
+      "reading": "へいきんりつ",
+      "meaning": "tỉ lệ trung bình"
     },
     {
-      "word": "均質",
-      "reading": "きんしつ",
-      "meaning": "đồng nhất"
+      "word": "平均足",
+      "reading": "へーきんあし",
+      "meaning": "nến heikin ashi"
     }
   ]
 }

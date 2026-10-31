@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "帰還",
-      "reading": "きかん",
-      "meaning": "sự trở về"
-    },
-    {
-      "word": "帰属",
-      "reading": "きぞく",
-      "meaning": "trở lại"
+      "word": "帰る",
+      "reading": "かえる",
+      "meaning": "về"
     },
     {
       "word": "帰り",
@@ -107,39 +102,44 @@
       "meaning": "sự trở về"
     },
     {
-      "word": "帰化",
-      "reading": "きか",
-      "meaning": "sự làm hợp với thủy thổ"
-    },
-    {
-      "word": "帰省",
-      "reading": "きせい",
-      "meaning": "sự về quê hương"
-    },
-    {
-      "word": "帰る",
-      "reading": "かえる",
-      "meaning": "về"
-    },
-    {
       "word": "帰宅",
       "reading": "きたく",
       "meaning": "việc về nhà"
     },
     {
-      "word": "帰路",
-      "reading": "きろ",
-      "meaning": "đường về"
+      "word": "帰す",
+      "reading": "かえす",
+      "meaning": "cho về"
     },
     {
-      "word": "帰途",
-      "reading": "きと",
-      "meaning": "trên đường về"
+      "word": "帰京",
+      "reading": "ききょう",
+      "meaning": "sự trở về thủ đô"
     },
     {
-      "word": "帰巣",
-      "reading": "きそう",
-      "meaning": "việc trở về tổ"
+      "word": "復帰",
+      "reading": "ふっき",
+      "meaning": "sự khôi phục"
+    },
+    {
+      "word": "帰れ",
+      "reading": "かえれ",
+      "meaning": "đi về nhà"
+    },
+    {
+      "word": "帰国",
+      "reading": "きこく",
+      "meaning": "sự về nước"
+    },
+    {
+      "word": "帰還",
+      "reading": "きかん",
+      "meaning": "sự trở về"
+    },
+    {
+      "word": "帰省",
+      "reading": "きせい",
+      "meaning": "sự về quê hương"
     }
   ]
 }

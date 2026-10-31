@@ -90,9 +90,14 @@
       "meaning": "sao đẩu"
     },
     {
-      "word": "斗枡",
-      "reading": "とます",
-      "meaning": "bình đong khoảng 18 lít"
+      "word": "一斗",
+      "reading": "いっと",
+      "meaning": "một đấu"
+    },
+    {
+      "word": "星斗",
+      "reading": "せいと",
+      "meaning": "dán sao"
     },
     {
       "word": "斗南",
@@ -100,39 +105,34 @@
       "meaning": "toàn bộ thế giới"
     },
     {
+      "word": "南斗",
+      "reading": "なんと",
+      "meaning": "chòm sao nam đẩu"
+    },
+    {
+      "word": "一斗缶",
+      "reading": "いっとかん",
+      "meaning": "can 1 đấu"
+    },
+    {
+      "word": "１斗缶",
+      "reading": "いっとかん",
+      "meaning": "đơn vị lon có dung tích xấp xỉ 18l"
+    },
+    {
       "word": "斗宿",
       "reading": "ひきつぼし",
       "meaning": "sao đẩu"
     },
     {
-      "word": "斗酒",
-      "reading": "としゅ",
-      "meaning": "thùng rượu sake"
+      "word": "北斗",
+      "reading": "ほくと",
+      "meaning": "nhóm sao bắc đẩu"
     },
     {
-      "word": "一斗",
-      "reading": "いっと",
-      "meaning": "một đấu"
-    },
-    {
-      "word": "泰斗",
-      "reading": "たいと",
-      "meaning": "thái đẩu"
-    },
-    {
-      "word": "殻斗",
-      "reading": "かくと",
-      "meaning": "hạt sồi"
-    },
-    {
-      "word": "抽斗",
-      "reading": "ひきだし",
-      "meaning": "ngăn kéo"
-    },
-    {
-      "word": "星斗",
-      "reading": "せいと",
-      "meaning": "dán sao"
+      "word": "冬北斗",
+      "reading": "ふゆほくと",
+      "meaning": "chòm sao bắc đẩu vào mùa đông"
     }
   ]
 }

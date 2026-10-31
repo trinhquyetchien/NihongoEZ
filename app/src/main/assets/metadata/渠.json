@@ -35,34 +35,19 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "溝渠",
-      "reading": "こうきょ",
-      "meaning": "mương rãnh"
-    },
-    {
-      "word": "函渠",
-      "reading": "かんきょ",
-      "meaning": "ống dẫn nước thải có bề mặt cắt ngang hình vuông"
-    },
-    {
       "word": "入渠",
       "reading": "にゅうきょ",
       "meaning": "sự vào xưởng sửa chữa"
     },
     {
-      "word": "出渠",
-      "reading": "しゅっきょ",
-      "meaning": "rời bến"
-    },
-    {
-      "word": "渠魁",
-      "reading": "きょかい",
-      "meaning": "đầu sỏ"
-    },
-    {
       "word": "暗渠",
       "reading": "あんきょ",
       "meaning": "ống thoát nước ngầm"
+    },
+    {
+      "word": "出渠",
+      "reading": "しゅっきょ",
+      "meaning": "rời bến"
     },
     {
       "word": "渠河",
@@ -83,6 +68,21 @@
       "word": "開渠",
       "reading": "かいきょ",
       "meaning": "hố đào lộ thiên"
+    },
+    {
+      "word": "河渠",
+      "reading": "かきょ",
+      "meaning": "mương sông"
+    },
+    {
+      "word": "街渠",
+      "reading": "がいきょ",
+      "meaning": "rãnh thoát nước"
+    },
+    {
+      "word": "合流渠",
+      "reading": "ごうりゅうきょ",
+      "meaning": "cống hợp lưu"
     }
   ]
 }

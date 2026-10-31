@@ -95,9 +95,14 @@
       "meaning": "bà già"
     },
     {
-      "word": "婆婆鰈",
-      "reading": "ばばがれい",
-      "meaning": "cá bơn nhờn"
+      "word": "婆や",
+      "reading": "ばあや",
+      "meaning": "bà nhũ mẫu"
+    },
+    {
+      "word": "お婆ん",
+      "reading": "おばん",
+      "meaning": "mụ phù thủy già độc ác"
     },
     {
       "word": "婆あ",
@@ -105,24 +110,9 @@
       "meaning": "bà già"
     },
     {
-      "word": "産婆",
-      "reading": "さんば",
-      "meaning": "bà đỡ"
-    },
-    {
-      "word": "糞婆",
-      "reading": "くそばばあ",
-      "meaning": "bà già chết tiệt"
-    },
-    {
-      "word": "婆や",
-      "reading": "ばあや",
-      "meaning": "bà nhũ mẫu"
-    },
-    {
-      "word": "塔婆",
-      "reading": "とうば",
-      "meaning": "tấm thẻ dài bằng gỗ khắc chữ hay đặt ở nơi thờ cúng"
+      "word": "火車婆",
+      "reading": "かしゃばば",
+      "meaning": "evil old hag"
     },
     {
       "word": "悪婆",
@@ -130,14 +120,24 @@
       "meaning": "bà già ác độc"
     },
     {
-      "word": "妖婆",
-      "reading": "ようば",
-      "meaning": "mụ phù thuỷ"
+      "word": "糞婆",
+      "reading": "くそばばあ",
+      "meaning": "bà già chết tiệt"
     },
     {
-      "word": "鬼婆",
-      "reading": "おにばば",
-      "meaning": "mụ phù thủy"
+      "word": "婆抜き",
+      "reading": "ばばぬき",
+      "meaning": "thiếu nữ cũ"
+    },
+    {
+      "word": "卒都婆",
+      "reading": "そとば",
+      "meaning": "tháp chứa hài cốt vị sư"
+    },
+    {
+      "word": "御転婆",
+      "reading": "おてんば",
+      "meaning": "cô gái tinh nghịch"
     }
   ]
 }

@@ -110,44 +110,19 @@
   ],
   "vocabulary": [
     {
-      "word": "泥",
-      "reading": "どろ",
-      "meaning": "bùn"
-    },
-    {
-      "word": "泥田",
-      "reading": "どろた",
-      "meaning": "ruộng bùn"
-    },
-    {
-      "word": "拘泥",
-      "reading": "こうでい",
-      "meaning": "sự câu nệ"
-    },
-    {
-      "word": "泥浴",
-      "reading": "でいよく",
-      "meaning": "sự tắm bùn"
-    },
-    {
       "word": "泥棒",
       "reading": "どろぼう",
       "meaning": "kẻ trộm"
     },
     {
-      "word": "泥々",
-      "reading": "どろどろ",
-      "meaning": "lầy lội"
+      "word": "泥",
+      "reading": "どろ",
+      "meaning": "bùn"
     },
     {
-      "word": "泥舟",
-      "reading": "どろぶね",
-      "meaning": "thuyền chở đất"
-    },
-    {
-      "word": "泥岩",
-      "reading": "でいがん",
-      "meaning": "đá bùn"
+      "word": "泥目",
+      "reading": "どろめ",
+      "meaning": "cá chaenogobius gulosus"
     },
     {
       "word": "泥地",
@@ -155,9 +130,34 @@
       "meaning": "đất bùn"
     },
     {
-      "word": "泥濘",
-      "reading": "ぬかるみ",
-      "meaning": "chỗ lầy lội"
+      "word": "泥絵",
+      "reading": "どろえ",
+      "meaning": "tranh vẽ bằng bùn"
+    },
+    {
+      "word": "雪泥",
+      "reading": "せつでい",
+      "meaning": "tuyết tan"
+    },
+    {
+      "word": "泥靴",
+      "reading": "どろぐつ",
+      "meaning": "giày vấy bùn"
+    },
+    {
+      "word": "泥状",
+      "reading": "でいじょう",
+      "meaning": "dạng bùn"
+    },
+    {
+      "word": "泥流",
+      "reading": "でいりゅう",
+      "meaning": "luồng bùn"
+    },
+    {
+      "word": "泥レス",
+      "reading": "どろレス",
+      "meaning": "vấy bùn đánh vật với"
     }
   ]
 }

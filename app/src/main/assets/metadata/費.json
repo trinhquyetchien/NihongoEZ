@@ -90,29 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaning": "sự tiêu dùng"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "lệ phí"
+    },
+    {
       "word": "費",
       "reading": "ひ",
       "meaning": "phí"
-    },
-    {
-      "word": "費用と費用分析",
-      "reading": "ひよーとひよーぶんせき",
-      "meaning": "chi phí và phân tích chi phí"
-    },
-    {
-      "word": "未払費用 みはらいひよう",
-      "reading": "未払費用",
-      "meaning": ".+ thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán"
-    },
-    {
-      "word": "会費",
-      "reading": "かいひ",
-      "meaning": "hội phí"
-    },
-    {
-      "word": "学費",
-      "reading": "がくひ",
-      "meaning": "học phí"
     },
     {
       "word": "経費",
@@ -120,14 +110,24 @@
       "meaning": "tiền chi tiêu"
     },
     {
-      "word": "消費",
-      "reading": "しょうひ",
-      "meaning": "sự tiêu dùng"
+      "word": "浪費",
+      "reading": "ろうひ",
+      "meaning": "sự lãng phí"
     },
     {
-      "word": "巨費",
-      "reading": "きょひ",
-      "meaning": "chi phí rất lớn"
+      "word": "出費",
+      "reading": "しゅっぴ",
+      "meaning": "chi phí"
+    },
+    {
+      "word": "実費",
+      "reading": "じっぴ",
+      "meaning": "giá vốn"
+    },
+    {
+      "word": "型費",
+      "reading": "かたひ",
+      "meaning": "chi phí khuôn mẫu"
     },
     {
       "word": "区費",
@@ -135,9 +135,9 @@
       "meaning": "những chi phí trông nom"
     },
     {
-      "word": "国費",
-      "reading": "こくひ",
-      "meaning": "quốc dụng"
+      "word": "村費",
+      "reading": "そんぴ",
+      "meaning": "chi phí của làng"
     }
   ]
 }

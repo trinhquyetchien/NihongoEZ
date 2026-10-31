@@ -87,14 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "逓次",
-      "reading": "ていじ",
-      "meaning": "tuần tự"
+      "word": "逓減",
+      "reading": "ていげん",
+      "meaning": "sự từ từ giảm xuống"
     },
     {
-      "word": "逓倍",
-      "reading": "ていばい",
-      "meaning": "tính nhân"
+      "word": "逓信",
+      "reading": "ていしん",
+      "meaning": "thông tin"
+    },
+    {
+      "word": "逓信省",
+      "reading": "ていしんしょう",
+      "meaning": "bộ giao thông vận tải"
     },
     {
       "word": "逓増",
@@ -102,24 +107,9 @@
       "meaning": "sự tăng dần"
     },
     {
-      "word": "逓送",
-      "reading": "ていそう",
-      "meaning": "sự gửi dần dần"
-    },
-    {
-      "word": "逓減",
-      "reading": "ていげん",
-      "meaning": "sự từ từ giảm xuống"
-    },
-    {
-      "word": "逓伝",
-      "reading": "ていでん",
-      "meaning": "rơ le"
-    },
-    {
-      "word": "逓信",
-      "reading": "ていしん",
-      "meaning": "thông tin"
+      "word": "逓倍",
+      "reading": "ていばい",
+      "meaning": "tính nhân"
     },
     {
       "word": "駅逓",
@@ -132,9 +122,19 @@
       "meaning": "số nhân&amp"
     },
     {
-      "word": "逓信省",
-      "reading": "ていしんしょう",
-      "meaning": "bộ giao thông vận tải"
+      "word": "駅逓局",
+      "reading": "えきていきょく",
+      "meaning": "bưu điện"
+    },
+    {
+      "word": "逓次",
+      "reading": "ていじ",
+      "meaning": "tuần tự"
+    },
+    {
+      "word": "逓送",
+      "reading": "ていそう",
+      "meaning": "sự gửi dần dần"
     }
   ]
 }

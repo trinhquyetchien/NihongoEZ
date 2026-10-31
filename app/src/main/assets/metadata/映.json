@@ -92,39 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "Ｈな映画 エッチな映画",
-      "reading": "エッチなえいが",
-      "meaning": "phim sex"
-    },
-    {
-      "word": "インスタ映え インスタばえ",
-      "reading": "インスタ映え",
-      "meaning": "ảnh đẹp"
-    },
-    {
-      "word": "映り",
-      "reading": "うつり",
-      "meaning": "sự phản ánh"
-    },
-    {
-      "word": "上映",
-      "reading": "じょうえい",
-      "meaning": "sự chiếu phim"
-    },
-    {
       "word": "映画",
       "reading": "えいが",
       "meaning": "điện ảnh"
     },
     {
-      "word": "映す",
-      "reading": "うつす",
-      "meaning": "chiếu"
-    },
-    {
-      "word": "鏡映",
-      "reading": "きょうえい",
-      "meaning": "sự phản chiếu"
+      "word": "反映",
+      "reading": "はんえい",
+      "meaning": "bóng"
     },
     {
       "word": "映る",
@@ -132,14 +107,39 @@
       "meaning": "được chiếu"
     },
     {
-      "word": "映え",
-      "reading": "はえ",
-      "meaning": "sự chiếu sáng"
+      "word": "映す",
+      "reading": "うつす",
+      "meaning": "chiếu"
     },
     {
-      "word": "照映",
-      "reading": "しょうえい",
-      "meaning": "chân dung"
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaning": "hình ảnh"
+    },
+    {
+      "word": "映写",
+      "reading": "えいしゃ",
+      "meaning": "sự chiếu phim"
+    },
+    {
+      "word": "映画会",
+      "reading": "えいがかい",
+      "meaning": "câu lạc bộ điện ảnh"
+    },
+    {
+      "word": "生映像",
+      "reading": "なまえいぞう",
+      "meaning": "video sống"
+    },
+    {
+      "word": "映画学",
+      "reading": "えいががく",
+      "meaning": "việc học tập về điện ảnh"
+    },
+    {
+      "word": "映画界",
+      "reading": "えいがかい",
+      "meaning": "giới điện ảnh"
     }
   ]
 }

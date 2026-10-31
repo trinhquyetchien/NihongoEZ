@@ -91,13 +91,13 @@
       "meaning": "tao"
     },
     {
-      "word": "俺が俺がの連中",
-      "reading": "おれがおれがのれんちゅう",
-      "meaning": "người tự trọng"
+      "word": "俺たち",
+      "reading": "おれたち",
+      "meaning": "we"
     },
     {
-      "word": "俺達",
-      "reading": "おれたち",
+      "word": "俺ら",
+      "reading": "おれら",
       "meaning": "chúng tôi"
     },
     {
@@ -106,34 +106,34 @@
       "meaning": "ôi trời"
     },
     {
-      "word": "満俺",
-      "reading": "マンガン",
-      "meaning": "mangan"
-    },
-    {
       "word": "俺等",
       "reading": "おれら",
       "meaning": "chúng tôi"
     },
     {
-      "word": "俺ら",
-      "reading": "おれら",
+      "word": "俺達",
+      "reading": "おれたち",
       "meaning": "chúng tôi"
     },
     {
-      "word": "俺たち",
-      "reading": "おれたち",
-      "meaning": "we"
+      "word": "俺自身",
+      "reading": "おれじしん",
+      "meaning": "bản thân mình"
     },
     {
-      "word": "俺っち",
-      "reading": "おれっち",
-      "meaning": "we"
+      "word": "俺んち",
+      "reading": "おれんち",
+      "meaning": "nhà của tôi"
     },
     {
       "word": "俺等達",
       "reading": "おいらっち",
       "meaning": "chúng tôi"
+    },
+    {
+      "word": "俺っち",
+      "reading": "おれっち",
+      "meaning": "we"
     }
   ]
 }

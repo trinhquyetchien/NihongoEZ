@@ -86,44 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "甲斐甲斐しい",
-      "reading": "かいがいしい",
-      "meaning": "ga lăng"
-    },
-    {
       "word": "甲斐",
       "reading": "かい",
       "meaning": "đem lại"
-    },
-    {
-      "word": "斐然",
-      "reading": "ひぜん",
-      "meaning": "nổi bật"
-    },
-    {
-      "word": "有斐閣",
-      "reading": "ゆうひかく",
-      "meaning": "yuuhikaku sách pháp luật)"
-    },
-    {
-      "word": "甲斐路",
-      "reading": "かいじ",
-      "meaning": "nho kaiji"
-    },
-    {
-      "word": "年甲斐",
-      "reading": "としがい",
-      "meaning": "tuổi"
-    },
-    {
-      "word": "甲斐性",
-      "reading": "かいしょう",
-      "meaning": "sự nhiều tiềm năng"
-    },
-    {
-      "word": "甲斐犬",
-      "reading": "かいけん",
-      "meaning": "chó giáp phi"
     },
     {
       "word": "し甲斐",
@@ -131,9 +96,44 @@
       "meaning": "đáng làm"
     },
     {
-      "word": "働き甲斐",
-      "reading": "はたらきがい",
-      "meaning": "giá trị làm việc"
+      "word": "甲斐犬",
+      "reading": "かいけん",
+      "meaning": "chó giáp phi"
+    },
+    {
+      "word": "甲斐路",
+      "reading": "かいじ",
+      "meaning": "nho kaiji"
+    },
+    {
+      "word": "甲斐性",
+      "reading": "かいしょう",
+      "meaning": "sự nhiều tiềm năng"
+    },
+    {
+      "word": "年甲斐",
+      "reading": "としがい",
+      "meaning": "tuổi"
+    },
+    {
+      "word": "有斐閣",
+      "reading": "ゆうひかく",
+      "meaning": "yuuhikaku sách pháp luật)"
+    },
+    {
+      "word": "斐然",
+      "reading": "ひぜん",
+      "meaning": "nổi bật"
+    },
+    {
+      "word": "甲斐がある",
+      "reading": "かいがある",
+      "meaning": "hiệu quả"
+    },
+    {
+      "word": "甲斐がない",
+      "reading": "かいがない",
+      "meaning": "vô dụng"
     }
   ]
 }

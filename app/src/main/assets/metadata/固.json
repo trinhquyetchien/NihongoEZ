@@ -109,14 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "固く固まる",
-      "reading": "かたくかたまる",
-      "meaning": "để hình thành một cứng tập trung"
+      "word": "固まる",
+      "reading": "かたまる",
+      "meaning": "đông lại"
     },
     {
-      "word": "固形",
-      "reading": "こけい",
-      "meaning": "thể rắn"
+      "word": "固定",
+      "reading": "こてい",
+      "meaning": "cố định"
     },
     {
       "word": "固有",
@@ -124,9 +124,29 @@
       "meaning": "cái vốn có"
     },
     {
-      "word": "固辞",
-      "reading": "こじ",
-      "meaning": "chủ động từ chối"
+      "word": "頑固",
+      "reading": "がんこ",
+      "meaning": "cứng đầu"
+    },
+    {
+      "word": "固める",
+      "reading": "かためる",
+      "meaning": "củng cố"
+    },
+    {
+      "word": "固体",
+      "reading": "こたい",
+      "meaning": "thể rắn"
+    },
+    {
+      "word": "固定剤",
+      "reading": "こていざい",
+      "meaning": "hãm"
+    },
+    {
+      "word": "固め",
+      "reading": "かため",
+      "meaning": "sự làm cho kiên cố"
     },
     {
       "word": "固い",
@@ -134,29 +154,9 @@
       "meaning": "cứng nhắc"
     },
     {
-      "word": "固守",
-      "reading": "こしゅ",
-      "meaning": "bó sát thân người"
-    },
-    {
-      "word": "拳固",
-      "reading": "げんこ",
-      "meaning": "nắm đấm"
-    },
-    {
-      "word": "固電",
-      "reading": "こでん",
-      "meaning": "điện thoại cố định"
-    },
-    {
-      "word": "凝固",
-      "reading": "ぎょうこ",
-      "meaning": "sự đông"
-    },
-    {
-      "word": "固唾",
-      "reading": "かたず",
-      "meaning": "nuốt nước bọt"
+      "word": "固い話",
+      "reading": "かたいはなし",
+      "meaning": "câu chuyện cứng nhắc"
     }
   ]
 }

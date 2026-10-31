@@ -47,19 +47,14 @@
   ],
   "vocabulary": [
     {
-      "word": "娩出",
-      "reading": "べんしゅつ",
-      "meaning": "sinh ra"
-    },
-    {
-      "word": "擬娩",
-      "reading": "ぎべん",
-      "meaning": "hội chứng mang thai đồng cảm"
-    },
-    {
       "word": "分娩",
       "reading": "ぶんべん",
       "meaning": "sự sinh đẻ"
+    },
+    {
+      "word": "分娩時",
+      "reading": "ぶんべんじ",
+      "meaning": "thời gian sinh con"
     },
     {
       "word": "分娩室",
@@ -72,14 +67,24 @@
       "meaning": "thời điểm sinh nở"
     },
     {
-      "word": "分娩時",
-      "reading": "ぶんべんじ",
-      "meaning": "thời gian sinh con"
-    },
-    {
       "word": "分娩台",
       "reading": "ぶんべんだい",
       "meaning": "bàn sinh"
+    },
+    {
+      "word": "娩出",
+      "reading": "べんしゅつ",
+      "meaning": "sinh ra"
+    },
+    {
+      "word": "擬娩",
+      "reading": "ぎべん",
+      "meaning": "hội chứng mang thai đồng cảm"
+    },
+    {
+      "word": "分娩開始",
+      "reading": "ぶんべんかいし",
+      "meaning": "khởi phát chuyển dạ"
     },
     {
       "word": "自然分娩",
@@ -87,14 +92,9 @@
       "meaning": "phương pháp sinh đẻ không cần gây mê đối với sản phụ"
     },
     {
-      "word": "多胎分娩",
-      "reading": "たたいぶんべん",
-      "meaning": "sự sinh đa thai"
-    },
-    {
-      "word": "分娩作用",
-      "reading": "ぶんべんさよう",
-      "meaning": "quá trình sinh đẻ"
+      "word": "試験分娩",
+      "reading": "しけんぶんべん",
+      "meaning": "thử nghiệm chuyển dạ"
     }
   ]
 }

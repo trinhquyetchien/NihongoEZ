@@ -83,6 +83,26 @@
   ],
   "vocabulary": [
     {
+      "word": "誘拐",
+      "reading": "ゆうかい",
+      "meaning": "sự bắt cóc"
+    },
+    {
+      "word": "誘拐者",
+      "reading": "ゆうかいしゃ",
+      "meaning": "người bắt cóc"
+    },
+    {
+      "word": "誘拐罪",
+      "reading": "ゆうかいざい",
+      "meaning": "tội bắt cóc"
+    },
+    {
+      "word": "誘拐犯",
+      "reading": "ゆうかいはん",
+      "meaning": "người bắt cóc"
+    },
+    {
       "word": "拐帯",
       "reading": "かいたい",
       "meaning": "lấy tiền bỏ trốn"
@@ -103,34 +123,14 @@
       "meaning": "bắt cóc"
     },
     {
-      "word": "誘拐",
-      "reading": "ゆうかい",
-      "meaning": "sự bắt cóc"
-    },
-    {
-      "word": "誘拐罪",
-      "reading": "ゆうかいざい",
-      "meaning": "tội bắt cóc"
-    },
-    {
-      "word": "誘拐者",
-      "reading": "ゆうかいしゃ",
-      "meaning": "người bắt cóc"
-    },
-    {
       "word": "拐かす",
       "reading": "かどわかす",
       "meaning": "bắt cóc"
     },
     {
-      "word": "誘拐犯",
-      "reading": "ゆうかいはん",
-      "meaning": "người bắt cóc"
-    },
-    {
-      "word": "誘拐事件",
-      "reading": "ゆうかいじけん",
-      "meaning": "vụ án bắt cóc"
+      "word": "誘拐する",
+      "reading": "ゆうかいする",
+      "meaning": "bắt cóc"
     }
   ]
 }

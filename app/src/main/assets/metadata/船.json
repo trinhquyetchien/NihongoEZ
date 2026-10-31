@@ -95,24 +95,9 @@
       "meaning": "tàu bè"
     },
     {
-      "word": "船用船",
-      "reading": "せんようせん",
-      "meaning": "tàu chuyên dùng"
-    },
-    {
-      "word": "船籍港船",
-      "reading": "せんせきこうふね",
-      "meaning": "cảng đăng ký tàu biển"
-    },
-    {
-      "word": "木材船用船",
-      "reading": "もくざいせんようせん",
-      "meaning": "tàu chở gỗ"
-    },
-    {
-      "word": "火船",
-      "reading": "かせん",
-      "meaning": "thuyền lửa"
+      "word": "造船",
+      "reading": "ぞうせん",
+      "meaning": "việc đóng thuyền"
     },
     {
       "word": "船便",
@@ -120,24 +105,39 @@
       "meaning": "gửi bằng đường tàu"
     },
     {
+      "word": "漁船",
+      "reading": "ぎょせん",
+      "meaning": "tàu đánh cá"
+    },
+    {
+      "word": "汽船",
+      "reading": "きせん",
+      "meaning": "thuyền máy"
+    },
+    {
+      "word": "船中",
+      "reading": "せんちゅう",
+      "meaning": "trên tàu thủy"
+    },
+    {
+      "word": "船外",
+      "reading": "せんがい",
+      "meaning": "bên ngoài tàu"
+    },
+    {
       "word": "全船",
       "reading": "ぜんせん",
       "meaning": "toàn bộ hàng"
     },
     {
-      "word": "小船",
-      "reading": "こぶね",
-      "meaning": "xuồng"
+      "word": "火船",
+      "reading": "かせん",
+      "meaning": "thuyền lửa"
     },
     {
-      "word": "乗船",
-      "reading": "じょうせん",
-      "meaning": "lên thuyền"
-    },
-    {
-      "word": "商船",
-      "reading": "しょうせん",
-      "meaning": "thương thuyền"
+      "word": "船灯",
+      "reading": "せんとう",
+      "meaning": "đèn của tàu"
     }
   ]
 }

@@ -97,29 +97,9 @@
       "meaning": "sự tốt đẹp"
     },
     {
-      "word": "善哉善哉",
-      "reading": "ぜんざいぜんざい",
-      "meaning": "tuyệt thay!"
-    },
-    {
-      "word": "善男善女",
-      "reading": "ぜんなんぜんにょ",
-      "meaning": "thiện nam thiện nữ"
-    },
-    {
-      "word": "善因善果",
-      "reading": "ぜんいんぜんか",
-      "meaning": "thiện nhân thiện quả"
-    },
-    {
-      "word": "善く善く",
-      "reading": "よくよく",
-      "meaning": "cực kỳ"
-    },
-    {
-      "word": "善い",
-      "reading": "よい",
-      "meaning": "tốt đẹp"
+      "word": "最善",
+      "reading": "さいぜん",
+      "meaning": "cái tốt nhất"
     },
     {
       "word": "善良",
@@ -127,19 +107,39 @@
       "meaning": "hoàn hảo"
     },
     {
-      "word": "慈善",
-      "reading": "じぜん",
-      "meaning": "sự từ thiện"
+      "word": "親善",
+      "reading": "しんぜん",
+      "meaning": "sự thân thiện"
     },
     {
-      "word": "偽善",
-      "reading": "ぎぜん",
-      "meaning": "đạo đức giả"
+      "word": "善性",
+      "reading": "ぜんせい",
+      "meaning": "tính thiện"
     },
     {
-      "word": "次善",
-      "reading": "じぜん",
-      "meaning": "cái tốt thứ nhì"
+      "word": "善書",
+      "reading": "ぜんしょ",
+      "meaning": "người viết chữ đẹp"
+    },
+    {
+      "word": "善業",
+      "reading": "ぜんごう",
+      "meaning": "tốt chứng nhượng"
+    },
+    {
+      "word": "善霊",
+      "reading": "ぜんれい",
+      "meaning": "tinh thần lòng tốt"
+    },
+    {
+      "word": "善管",
+      "reading": "ぜんかん",
+      "meaning": "quản lý tốt"
+    },
+    {
+      "word": "善狐",
+      "reading": "ぜんこ",
+      "meaning": "con cáo tốt"
     }
   ]
 }

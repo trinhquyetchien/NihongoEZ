@@ -91,9 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "緒",
-      "reading": "お",
-      "meaning": "dây"
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "cùng"
     },
     {
       "word": "情緒",
@@ -101,14 +101,34 @@
       "meaning": "phong vị"
     },
     {
-      "word": "由緒",
-      "reading": "ゆいしょ",
-      "meaning": "lịch sử"
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "cùng"
     },
     {
-      "word": "一緒",
-      "reading": "いっしょ",
-      "meaning": "cùng"
+      "word": "ご一緒",
+      "reading": "ごいっしょ",
+      "meaning": "cùng nhau"
+    },
+    {
+      "word": "内緒",
+      "reading": "ないしょ",
+      "meaning": "riêng tư"
+    },
+    {
+      "word": "内緒事",
+      "reading": "ないしょごと",
+      "meaning": "chuyện bí mật"
+    },
+    {
+      "word": "内緒話",
+      "reading": "ないしょばなし",
+      "meaning": "cuộc nói chuyện bí mật"
+    },
+    {
+      "word": "緒",
+      "reading": "お",
+      "meaning": "dây"
     },
     {
       "word": "下緒",
@@ -116,29 +136,9 @@
       "meaning": "tấm đoạn"
     },
     {
-      "word": "端緒",
-      "reading": "たんしょ",
-      "meaning": "một đầu mối"
-    },
-    {
-      "word": "鼻緒",
-      "reading": "はなお",
-      "meaning": "guốc mộc xỏ ngón"
-    },
-    {
-      "word": "緒戦",
-      "reading": "しょせん",
-      "meaning": "giai đoạn bắt đầu cuộc chiến đấu"
-    },
-    {
-      "word": "心緒",
-      "reading": "しんしょ",
-      "meaning": "cảm xúc"
-    },
-    {
-      "word": "緒言",
-      "reading": "しょげん",
-      "meaning": "lời nói đầu"
+      "word": "忘れ緒",
+      "reading": "わすれお",
+      "meaning": "dây lụa trang trí thắt lưng"
     }
   ]
 }

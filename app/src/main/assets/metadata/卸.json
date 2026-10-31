@@ -91,34 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "卸",
-      "reading": "おろし",
-      "meaning": "buôn"
-    },
-    {
       "word": "卸す",
       "reading": "おろす",
       "meaning": "bán buôn"
-    },
-    {
-      "word": "棚卸",
-      "reading": "たなおろし",
-      "meaning": "kiểm kê"
-    },
-    {
-      "word": "店卸",
-      "reading": "たなおろし",
-      "meaning": "kiểm kê hàng hoá"
-    },
-    {
-      "word": "卸商",
-      "reading": "おろししょう",
-      "meaning": "người bán buôn"
-    },
-    {
-      "word": "卸値",
-      "reading": "おろしね",
-      "meaning": "giá bán buôn"
     },
     {
       "word": "卸売",
@@ -126,9 +101,34 @@
       "meaning": "sự bán buôn"
     },
     {
+      "word": "卸",
+      "reading": "おろし",
+      "meaning": "buôn"
+    },
+    {
+      "word": "卸ね",
+      "reading": "おろしね",
+      "meaning": "giá bán sỉ"
+    },
+    {
       "word": "卸下",
       "reading": "しゃが",
       "meaning": "việc dỡ hàng hóa"
+    },
+    {
+      "word": "卸会社",
+      "reading": "おろしがいしゃ",
+      "meaning": "công ty bán buôn"
+    },
+    {
+      "word": "卸屋",
+      "reading": "おろしや",
+      "meaning": "đại lí bán sỉ"
+    },
+    {
+      "word": "山卸",
+      "reading": "やまおろし",
+      "meaning": "công đoạn nghiền nát hỗn hợp gạo và men trong phương pháp lên men truyền thống 生酛 để sản xuất rượu nhật"
     },
     {
       "word": "仲卸",
@@ -136,9 +136,9 @@
       "meaning": "nhà bán buôn trung gia"
     },
     {
-      "word": "山卸",
-      "reading": "やまおろし",
-      "meaning": "công đoạn nghiền nát hỗn hợp gạo và men trong phương pháp lên men truyền thống 生酛 để sản xuất rượu nhật"
+      "word": "卸商",
+      "reading": "おろししょう",
+      "meaning": "người bán buôn"
     }
   ]
 }

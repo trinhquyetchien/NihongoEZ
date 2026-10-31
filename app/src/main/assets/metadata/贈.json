@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "贈答",
-      "reading": "ぞうとう",
-      "meaning": "quà tặng"
-    },
-    {
-      "word": "贈与",
-      "reading": "ぞうよ",
-      "meaning": "sự tặng"
-    },
-    {
-      "word": "遺贈",
-      "reading": "いぞう",
-      "meaning": "di vật"
-    },
-    {
-      "word": "贈号",
-      "reading": "ぞうごう",
-      "meaning": "tên sau khi chết"
-    },
-    {
-      "word": "贈物",
+      "word": "贈り物",
       "reading": "おくりもの",
-      "meaning": "món quà"
-    },
-    {
-      "word": "贈位",
-      "reading": "ぞうい",
-      "meaning": "địa vị"
-    },
-    {
-      "word": "恵贈",
-      "reading": "けいぞう",
-      "meaning": "gửi tặng"
-    },
-    {
-      "word": "追贈",
-      "reading": "ついぞう",
-      "meaning": "sự truy tặng"
-    },
-    {
-      "word": "受贈",
-      "reading": "じゅぞう",
-      "meaning": "nhận một hiện hữu"
+      "meaning": "đồ lễ"
     },
     {
       "word": "贈る",
       "reading": "おくる",
       "meaning": "gửi"
+    },
+    {
+      "word": "寄贈",
+      "reading": "きぞう",
+      "meaning": "sự tặng"
+    },
+    {
+      "word": "贈り名",
+      "reading": "おくりな",
+      "meaning": "tên sau khi chết"
+    },
+    {
+      "word": "贈り号",
+      "reading": "おくりごう",
+      "meaning": "di cảo phật hiệu"
+    },
+    {
+      "word": "贈り主",
+      "reading": "おくりぬし",
+      "meaning": "người gửi"
+    },
+    {
+      "word": "贈呈",
+      "reading": "ぞうてい",
+      "meaning": "việc tặng"
+    },
+    {
+      "word": "贈呈者",
+      "reading": "ぞうていしゃ",
+      "meaning": "người nhận ban tặng"
+    },
+    {
+      "word": "贈呈本",
+      "reading": "ぞうていぼん",
+      "meaning": "sự sao chép khen ngợi một sách)"
+    },
+    {
+      "word": "贈呈式",
+      "reading": "ぞうていしき",
+      "meaning": "lễ ban tặng"
     }
   ]
 }

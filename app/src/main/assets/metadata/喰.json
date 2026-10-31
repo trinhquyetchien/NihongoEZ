@@ -48,34 +48,9 @@
   ],
   "vocabulary": [
     {
-      "word": "喰う",
-      "reading": "くう",
-      "meaning": "để ăn"
-    },
-    {
-      "word": "漆喰",
-      "reading": "しっくい",
-      "meaning": "trát vữa vào"
-    },
-    {
-      "word": "馬喰",
-      "reading": "ばくろう",
-      "meaning": "người buôn ngựa"
-    },
-    {
-      "word": "紫片喰",
-      "reading": "むらさきかたばみ",
-      "meaning": "chua me núi"
-    },
-    {
-      "word": "山椒喰",
-      "reading": "さんしょうくい",
-      "meaning": "chim đớp ruồi đuôi dài nhật bản"
-    },
-    {
-      "word": "喰らう",
-      "reading": "くらう",
-      "meaning": "ăn"
+      "word": "共喰い",
+      "reading": "ともぐい",
+      "meaning": "ám chỉ hành động ăn thịt đồng loại"
     },
     {
       "word": "虫喰い",
@@ -83,19 +58,44 @@
       "meaning": "bị sâu đục"
     },
     {
-      "word": "芋片喰",
-      "reading": "いもかたばみ",
-      "meaning": "oxalis articulata"
-    },
-    {
       "word": "喰い断",
       "reading": "くいたん",
       "meaning": "chiến thuật \"ăn và cắt\" trong mahjong"
     },
     {
-      "word": "共喰い",
-      "reading": "ともぐい",
-      "meaning": "ám chỉ hành động ăn thịt đồng loại"
+      "word": "喰らう",
+      "reading": "くらう",
+      "meaning": "ăn"
+    },
+    {
+      "word": "喰う",
+      "reading": "くう",
+      "meaning": "để ăn"
+    },
+    {
+      "word": "紫片喰",
+      "reading": "むらさきかたばみ",
+      "meaning": "chua me núi"
+    },
+    {
+      "word": "芋片喰",
+      "reading": "いもかたばみ",
+      "meaning": "oxalis articulata"
+    },
+    {
+      "word": "漆喰",
+      "reading": "しっくい",
+      "meaning": "trát vữa vào"
+    },
+    {
+      "word": "山椒喰",
+      "reading": "さんしょうくい",
+      "meaning": "chim đớp ruồi đuôi dài nhật bản"
+    },
+    {
+      "word": "馬喰",
+      "reading": "ばくろう",
+      "meaning": "người buôn ngựa"
     }
   ]
 }

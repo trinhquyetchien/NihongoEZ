@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "有利",
+      "reading": "ゆうり",
+      "meaning": "hữu lợi"
+    },
+    {
+      "word": "勝利",
+      "reading": "しょうり",
+      "meaning": "thắng lợi"
+    },
+    {
+      "word": "砂利",
+      "reading": "じゃり",
+      "meaning": "sỏi"
+    },
+    {
+      "word": "利根",
+      "reading": "りこん",
+      "meaning": "thông minh vốn có"
+    },
+    {
       "word": "利",
       "reading": "り",
       "meaning": "lợi lộc"
     },
     {
-      "word": "利く",
-      "reading": "きく",
-      "meaning": "có lợi"
+      "word": "分利",
+      "reading": "ぶんり",
+      "meaning": "cơn khủng hoảng"
     },
     {
-      "word": "我利我利",
-      "reading": "がりがり",
-      "meaning": "tính ích kỷ"
+      "word": "民利",
+      "reading": "みんり",
+      "meaning": "những người có những sự quan tâm"
     },
     {
-      "word": "利比利亜",
-      "reading": "リベリア",
-      "meaning": "liberia"
-    },
-    {
-      "word": "有利不利",
-      "reading": "ゆうりふり",
-      "meaning": "ưu điểm và nhược điểm"
-    },
-    {
-      "word": "勝利又勝利",
-      "reading": "しょうりまたしょうり",
-      "meaning": "chiến thắng sau khi chiến thắng"
-    },
-    {
-      "word": "利殖",
-      "reading": "りしょく",
-      "meaning": "sự làm giàu"
-    },
-    {
-      "word": "利己",
-      "reading": "りこ",
-      "meaning": "cái lợi riêng"
-    },
-    {
-      "word": "我利我利亡者",
-      "reading": "がりがりもうじゃ",
-      "meaning": "người tham lam ích kỷ"
+      "word": "利刀",
+      "reading": "りとう",
+      "meaning": "thanh kiếm sắc bén"
     },
     {
       "word": "金利",
       "reading": "きんり",
       "meaning": "lãi"
+    },
+    {
+      "word": "商利",
+      "reading": "しょうり",
+      "meaning": "lợi nhuận thương mại"
     }
   ]
 }

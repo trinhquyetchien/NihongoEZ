@@ -96,9 +96,24 @@
       "meaning": "người đồng tính luyến ái nam"
     },
     {
-      "word": "土釜",
-      "reading": "どがま",
-      "meaning": "bếp gạo bằng đất"
+      "word": "内釜",
+      "reading": "うちがま",
+      "meaning": "ruột nồi cơm điện"
+    },
+    {
+      "word": "外釜",
+      "reading": "そとがま",
+      "meaning": "nồi ngoài của nồi cơm điện"
+    },
+    {
+      "word": "釜場",
+      "reading": "かまば",
+      "meaning": "phòng nồi hơi"
+    },
+    {
+      "word": "一つ釜",
+      "reading": "ひとつかま",
+      "meaning": "một hoặc cùng cái bình đó"
     },
     {
       "word": "初釜",
@@ -106,34 +121,19 @@
       "meaning": "lễ uống trà đầu năm mới"
     },
     {
-      "word": "後釜",
-      "reading": "あとがま",
-      "meaning": "người nối nghiệp"
+      "word": "二重釜",
+      "reading": "にじゅうがま",
+      "meaning": "bình đun cách thủy"
     },
     {
-      "word": "御釜",
-      "reading": "おかま",
-      "meaning": "con đực transvestite"
+      "word": "電気釜",
+      "reading": "でんきがま",
+      "meaning": "nồi cơm điện"
     },
     {
-      "word": "鍋釜",
-      "reading": "なべかま",
-      "meaning": "xoong nồi"
-    },
-    {
-      "word": "釜敷",
-      "reading": "かましき",
-      "meaning": "vật phải lót dưới khi đặt nồi"
-    },
-    {
-      "word": "釜飯",
-      "reading": "かまめし",
-      "meaning": "món cơm niêu"
-    },
-    {
-      "word": "釣釜",
-      "reading": "つりがま",
-      "meaning": "ấm đun nước bằng sắt treo trên dây xích"
+      "word": "風呂釜",
+      "reading": "ふろがま",
+      "meaning": "bếp lò nấu nước tắm"
     }
   ]
 }

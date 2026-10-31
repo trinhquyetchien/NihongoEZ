@@ -90,24 +90,29 @@
   ],
   "vocabulary": [
     {
+      "word": "微妙",
+      "reading": "びみょう",
+      "meaning": "không thể nói"
+    },
+    {
       "word": "妙",
       "reading": "みょう",
       "meaning": "kỳ lạ"
     },
     {
-      "word": "妙計",
-      "reading": "みょうけい",
-      "meaning": "diệu kế"
+      "word": "奇妙",
+      "reading": "きみょう",
+      "meaning": "điều kỳ diệu"
     },
     {
-      "word": "妙薬",
-      "reading": "みょうやく",
-      "meaning": "diệu dược"
+      "word": "巧妙",
+      "reading": "こうみょう",
+      "meaning": "khéo léo"
     },
     {
-      "word": "妙境",
-      "reading": "みょうきょう",
-      "meaning": "nơi có phong cảnh đẹp"
+      "word": "妙なる",
+      "reading": "たえなる",
+      "meaning": "tinh tế"
     },
     {
       "word": "妙用",
@@ -115,29 +120,24 @@
       "meaning": "công dụng tuyệt vời"
     },
     {
-      "word": "奥妙",
-      "reading": "おうみょう",
-      "meaning": "bí mật"
+      "word": "妙王",
+      "reading": "みょうおう",
+      "meaning": "vidya - vua ở ấn độ"
     },
     {
-      "word": "神妙",
-      "reading": "しんみょう",
-      "meaning": "thần diệu"
+      "word": "妙論",
+      "reading": "みょうろん",
+      "meaning": "luận điểm độc đáo"
     },
     {
-      "word": "妙味",
-      "reading": "みょうみ",
-      "meaning": "thú vui"
+      "word": "奇妙な",
+      "reading": "きみょうな",
+      "meaning": "bí ẩn"
     },
     {
-      "word": "軽妙",
-      "reading": "けいみょう",
-      "meaning": "dễ dàng"
-    },
-    {
-      "word": "白妙",
-      "reading": "しろたえ",
-      "meaning": "vải trắng"
+      "word": "奇妙さ",
+      "reading": "きみょうさ",
+      "meaning": "sự kì lạ"
     }
   ]
 }

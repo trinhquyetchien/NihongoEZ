@@ -50,19 +50,24 @@
   ],
   "vocabulary": [
     {
+      "word": "蓬莱",
+      "reading": "ほうらい",
+      "meaning": "chốn bồng lai"
+    },
+    {
+      "word": "三蓬莱",
+      "reading": "さんほうらい",
+      "meaning": "ba ngọn núi huyền thoại \"bồng lai\""
+    },
+    {
+      "word": "蓬莱竹",
+      "reading": "ほうらいちく",
+      "meaning": "trúc cần câu"
+    },
+    {
       "word": "蓬",
       "reading": "よもぎ",
       "meaning": "cây ngải ấn độ"
-    },
-    {
-      "word": "蓬餅",
-      "reading": "よもぎもち",
-      "meaning": "bánh bột nếp ngải cứu nhật bản"
-    },
-    {
-      "word": "山蓬",
-      "reading": "やまよもぎ",
-      "meaning": "cây ngải cứu rừng"
     },
     {
       "word": "大蓬",
@@ -70,9 +75,14 @@
       "meaning": "artemisia montana"
     },
     {
-      "word": "蓬莱",
-      "reading": "ほうらい",
-      "meaning": "chốn bồng lai"
+      "word": "蓬頭",
+      "reading": "ほうとう",
+      "meaning": "đầu tóc bù xù"
+    },
+    {
+      "word": "山蓬",
+      "reading": "やまよもぎ",
+      "meaning": "cây ngải cứu rừng"
     },
     {
       "word": "蓬窓",
@@ -80,24 +90,14 @@
       "meaning": "cửa sổ hướng ra nơi cỏ mọc"
     },
     {
-      "word": "蓬髪",
-      "reading": "ほうはつ",
-      "meaning": "tóc bù xù"
-    },
-    {
       "word": "蓬客",
       "reading": "ほうかく",
       "meaning": "người lang thang"
     },
     {
-      "word": "蓬頭",
-      "reading": "ほうとう",
-      "meaning": "đầu tóc bù xù"
-    },
-    {
-      "word": "蓬生",
-      "reading": "よもぎう",
-      "meaning": "khu vực cỏ dại mọc um tùm"
+      "word": "蓬が島",
+      "reading": "よもぎがしま",
+      "meaning": "mount penglai"
     }
   ]
 }

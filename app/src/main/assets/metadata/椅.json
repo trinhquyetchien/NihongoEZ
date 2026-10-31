@@ -84,24 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "和風椅子/中華店椅子",
-      "reading": "わふういす/ちゅうかみせいす",
-      "meaning": "ghế phong cách nhật bản / ghế quán trung hoa"
-    },
-    {
       "word": "椅子",
       "reading": "いす",
       "meaning": "ghế"
-    },
-    {
-      "word": "車椅子",
-      "reading": "くるまいす",
-      "meaning": "xe có ghế tựa"
-    },
-    {
-      "word": "パイプ椅子",
-      "reading": "パイプいす",
-      "meaning": "ghế ống"
     },
     {
       "word": "寝椅子",
@@ -109,19 +94,9 @@
       "meaning": "ghế dài"
     },
     {
-      "word": "座椅子",
-      "reading": "ざいす",
-      "meaning": "nhỏ chủ trì sử dụng trong khi ngồi trên tatami"
-    },
-    {
-      "word": "長椅子",
-      "reading": "ながいす",
-      "meaning": "ghế dài"
-    },
-    {
-      "word": "スケベ椅子",
-      "reading": "すけべいす",
-      "meaning": "ghế tắm có lỗ hình chữ u ở giữa"
+      "word": "椅子席",
+      "reading": "いすせき",
+      "meaning": "chỗ ghế ngồi"
     },
     {
       "word": "丸椅子",
@@ -129,9 +104,34 @@
       "meaning": "ghế tròn"
     },
     {
-      "word": "椅子席",
-      "reading": "いすせき",
-      "meaning": "chỗ ghế ngồi"
+      "word": "座椅子",
+      "reading": "ざいす",
+      "meaning": "nhỏ chủ trì sử dụng trong khi ngồi trên tatami"
+    },
+    {
+      "word": "車椅子",
+      "reading": "くるまいす",
+      "meaning": "xe có ghế tựa"
+    },
+    {
+      "word": "長椅子",
+      "reading": "ながいす",
+      "meaning": "ghế dài"
+    },
+    {
+      "word": "籐椅子",
+      "reading": "とういす",
+      "meaning": "ghế mây"
+    },
+    {
+      "word": "セット椅子",
+      "reading": "セットいす",
+      "meaning": "ghế cắt tóc"
+    },
+    {
+      "word": "長い椅子",
+      "reading": "ながいいす",
+      "meaning": "ghế dài"
     }
   ]
 }

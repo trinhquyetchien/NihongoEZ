@@ -89,9 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "各々",
+      "reading": "おのおの",
+      "meaning": "mỗi"
+    },
+    {
+      "word": "各地",
+      "reading": "かくち",
+      "meaning": "các nơi"
+    },
+    {
+      "word": "各自",
+      "reading": "かくじ",
+      "meaning": "mỗi"
+    },
+    {
+      "word": "各種",
+      "reading": "かくしゅ",
+      "meaning": "các loại"
+    },
+    {
       "word": "各",
       "reading": "かく",
       "meaning": "mọi"
+    },
+    {
+      "word": "各方",
+      "reading": "おのおのがた",
+      "meaning": "tất cả các bạn"
+    },
+    {
+      "word": "各県",
+      "reading": "かくけん",
+      "meaning": "các tỉnh"
     },
     {
       "word": "各各",
@@ -99,44 +129,14 @@
       "meaning": "mỗi"
     },
     {
-      "word": "各種各様",
-      "reading": "かくしゅかくよう",
-      "meaning": "sự đa dạng"
+      "word": "各級",
+      "reading": "かくきゅう",
+      "meaning": "các cấp"
     },
     {
-      "word": "各界各層",
-      "reading": "かっかいかくそう",
-      "meaning": "các lĩnh vực và các tầng lớp xã hội"
-    },
-    {
-      "word": "各人各説",
-      "reading": "かくじんかくせつ",
-      "meaning": "mỗi người mỗi quan điểm"
-    },
-    {
-      "word": "各人各様",
-      "reading": "かくじんかくよう",
-      "meaning": "chín người mười tính"
-    },
-    {
-      "word": "各国",
-      "reading": "かっこく",
-      "meaning": "các nước"
-    },
-    {
-      "word": "各々",
-      "reading": "おのおの",
-      "meaning": "mỗi"
-    },
-    {
-      "word": "各科",
-      "reading": "かくか",
-      "meaning": "mỗi khoa"
-    },
-    {
-      "word": "各社",
-      "reading": "かくしゃ",
-      "meaning": "tất cả các công ty"
+      "word": "各条",
+      "reading": "かくじょう",
+      "meaning": "các mục"
     }
   ]
 }

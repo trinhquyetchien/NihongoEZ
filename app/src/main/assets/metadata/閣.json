@@ -87,14 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "内閣閣僚",
-      "reading": "ないかくかくりょう",
-      "meaning": "thành viên nội các"
+      "word": "内閣",
+      "reading": "ないかく",
+      "meaning": "nội các"
     },
     {
-      "word": "閣外",
-      "reading": "かくがい",
-      "meaning": "bên ngoài nội các"
+      "word": "新内閣",
+      "reading": "しんないかく",
+      "meaning": "tủ mới"
+    },
+    {
+      "word": "内閣法",
+      "reading": "ないかくほう",
+      "meaning": "luật nội các"
+    },
+    {
+      "word": "内閣府",
+      "reading": "ないかくふ",
+      "meaning": "văn phòng phòng"
+    },
+    {
+      "word": "現内閣",
+      "reading": "げんないかく",
+      "meaning": "nội các đương nhiệm"
     },
     {
       "word": "閣下",
@@ -102,39 +117,24 @@
       "meaning": "ngài"
     },
     {
-      "word": "殿閣",
-      "reading": "でんかく",
-      "meaning": "lâu đài"
-    },
-    {
-      "word": "倒閣",
-      "reading": "とうかく",
-      "meaning": "sự đảo chính"
-    },
-    {
-      "word": "入閣",
-      "reading": "にゅうかく",
-      "meaning": "sự gia nhập nội các"
-    },
-    {
-      "word": "高閣",
-      "reading": "こうかく",
-      "meaning": "tòa nhà cao to lộng lẫy"
-    },
-    {
-      "word": "閣内",
-      "reading": "かくない",
+      "word": "閣僚",
+      "reading": "かくりょう",
       "meaning": "nội các"
     },
     {
-      "word": "閣員",
-      "reading": "かくいん",
-      "meaning": "các thành viên nội các"
+      "word": "閣僚級",
+      "reading": "かくりょうきゅう",
+      "meaning": "chức vụ bộ trưởng"
     },
     {
-      "word": "台閣",
-      "reading": "たいかく",
-      "meaning": "tòa nhà cao"
+      "word": "閣議",
+      "reading": "かくぎ",
+      "meaning": "hội đồng chính phủ"
+    },
+    {
+      "word": "仏閣",
+      "reading": "ぶっかく",
+      "meaning": "miếu tín đồ phật giáo"
     }
   ]
 }

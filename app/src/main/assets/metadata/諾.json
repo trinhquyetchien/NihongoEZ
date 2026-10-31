@@ -86,29 +86,29 @@
   ],
   "vocabulary": [
     {
-      "word": "諾",
-      "reading": "だく",
-      "meaning": "sự đồng ý"
-    },
-    {
-      "word": "諾諾",
-      "reading": "だくだく",
-      "meaning": "biết nghe lời"
-    },
-    {
-      "word": "唯唯諾諾",
-      "reading": "いいだくだく",
-      "meaning": "ngoan ngoãn"
-    },
-    {
-      "word": "唯唯諾諾として",
-      "reading": "いいだくだくとして",
-      "meaning": "sẵn sàng"
-    },
-    {
       "word": "承諾",
       "reading": "しょうだく",
       "meaning": "chấp hành"
+    },
+    {
+      "word": "承諾書",
+      "reading": "しょうだくしょ",
+      "meaning": "bức thư sự công nhận"
+    },
+    {
+      "word": "不承諾",
+      "reading": "ふしょうだく",
+      "meaning": "sự bất đồng ý kiến"
+    },
+    {
+      "word": "許諾",
+      "reading": "きょだく",
+      "meaning": "sự đồng ý"
+    },
+    {
+      "word": "快諾",
+      "reading": "かいだく",
+      "meaning": "sẵn sàng đồng ý"
     },
     {
       "word": "受諾",
@@ -116,24 +116,24 @@
       "meaning": "chấp hành"
     },
     {
+      "word": "受諾側",
+      "reading": "じゅだくがわ",
+      "meaning": "bên nhận"
+    },
+    {
+      "word": "諾",
+      "reading": "だく",
+      "meaning": "sự đồng ý"
+    },
+    {
       "word": "日諾",
       "reading": "にちだく",
       "meaning": "nhật bản và nauy"
     },
     {
-      "word": "認諾",
-      "reading": "にんだく",
-      "meaning": "phê duyệt"
-    },
-    {
-      "word": "諾う",
-      "reading": "うべなう",
-      "meaning": "đồng ý"
-    },
-    {
-      "word": "諾否",
-      "reading": "だくひ",
-      "meaning": "có hay không"
+      "word": "一諾",
+      "reading": "いちだく",
+      "meaning": "một sự ưng thuận"
     }
   ]
 }

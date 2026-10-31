@@ -104,39 +104,34 @@
   ],
   "vocabulary": [
     {
-      "word": "禁",
-      "reading": "きん",
-      "meaning": "lệnh cấm việc hút thuốc)"
-    },
-    {
-      "word": "海禁",
-      "reading": "かいきん",
-      "meaning": "chính sách hải cấm"
-    },
-    {
-      "word": "厳禁",
-      "reading": "げんきん",
-      "meaning": "sự nghiêm cấm"
-    },
-    {
-      "word": "失禁",
-      "reading": "しっきん",
-      "meaning": "sự không kiềm chế được"
-    },
-    {
       "word": "禁止",
       "reading": "きんし",
       "meaning": "cấm chỉ"
     },
     {
-      "word": "禁酒",
-      "reading": "きんしゅ",
-      "meaning": "cấm uống rượu"
+      "word": "禁煙",
+      "reading": "きんえん",
+      "meaning": "cấm hỏa"
     },
     {
-      "word": "アク禁",
-      "reading": "アクきん",
-      "meaning": "cấm"
+      "word": "禁物",
+      "reading": "きんもつ",
+      "meaning": "điều kiêng kỵ"
+    },
+    {
+      "word": "禁",
+      "reading": "きん",
+      "meaning": "lệnh cấm việc hút thuốc)"
+    },
+    {
+      "word": "出禁",
+      "reading": "できん",
+      "meaning": "việc cấm ra vào"
+    },
+    {
+      "word": "禁所",
+      "reading": "きんしょ",
+      "meaning": "đặt sự giam cầm"
     },
     {
       "word": "１８禁",
@@ -144,14 +139,19 @@
       "meaning": "việc cấm người dưới 18 tuổi"
     },
     {
-      "word": "禁漁",
-      "reading": "きんりょう",
-      "meaning": "sự cấm đánh bắt cá"
+      "word": "解禁",
+      "reading": "かいきん",
+      "meaning": "sự hủy bỏ lệnh cấm"
     },
     {
-      "word": "禁制",
-      "reading": "きんせい",
-      "meaning": "cấm chế"
+      "word": "海禁",
+      "reading": "かいきん",
+      "meaning": "chính sách hải cấm"
+    },
+    {
+      "word": "禁断",
+      "reading": "きんだん",
+      "meaning": "cấm đoán"
     }
   ]
 }

@@ -85,11 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "鹸化",
-      "reading": "けんか",
-      "meaning": "xà phòng hóa"
-    },
-    {
       "word": "石鹸",
       "reading": "せっけん",
       "meaning": "xà phòng"
@@ -100,19 +95,9 @@
       "meaning": "có mùi xà phòng rót nước"
     },
     {
-      "word": "石鹸皿",
-      "reading": "せっけんざら",
-      "meaning": "đĩa đựng xà phòng"
-    },
-    {
-      "word": "カリ石鹸",
-      "reading": "カリせっけん",
-      "meaning": "potash xát xà phòng"
-    },
-    {
-      "word": "粉石鹸",
-      "reading": "こなせっけん",
-      "meaning": "xà phòng bột"
+      "word": "石鹸台",
+      "reading": "せっけんだい",
+      "meaning": "bồn rửa tay"
     },
     {
       "word": "石鹸箱",
@@ -120,19 +105,34 @@
       "meaning": "xát xà phòng món ăn hoặc đánh bốc"
     },
     {
+      "word": "石鹸皿",
+      "reading": "せっけんざら",
+      "meaning": "đĩa đựng xà phòng"
+    },
+    {
+      "word": "粉石鹸",
+      "reading": "こなせっけん",
+      "meaning": "xà phòng bột"
+    },
+    {
       "word": "硬石鹸",
       "reading": "こうせっけん",
       "meaning": "xà phòng cứng"
     },
     {
-      "word": "ソーダ石鹸",
-      "reading": "ソーダせっけん",
-      "meaning": "xà phòng soda"
-    },
-    {
       "word": "軟石鹸",
       "reading": "なんせっけん",
       "meaning": "xà phòng mềm"
+    },
+    {
+      "word": "鹸化",
+      "reading": "けんか",
+      "meaning": "xà phòng hóa"
+    },
+    {
+      "word": "石鹸入れ",
+      "reading": "せっけんいれ",
+      "meaning": "hộp đựng xà phòng"
     }
   ]
 }

@@ -53,24 +53,14 @@
   ],
   "vocabulary": [
     {
-      "word": "饗",
-      "reading": "きょう",
-      "meaning": "đãi ai đó"
-    },
-    {
-      "word": "饗す",
-      "reading": "きょうす",
-      "meaning": "dâng đồ lễ"
-    },
-    {
-      "word": "饗応",
-      "reading": "きょうおう",
-      "meaning": "dự tiệc"
-    },
-    {
       "word": "饗宴",
       "reading": "きょうえん",
       "meaning": "bữa tiệc"
+    },
+    {
+      "word": "饗",
+      "reading": "きょう",
+      "meaning": "đãi ai đó"
     },
     {
       "word": "大饗",
@@ -86,6 +76,16 @@
       "word": "饗設け",
       "reading": "あるじもうけ",
       "meaning": "tiếp đãi khách"
+    },
+    {
+      "word": "饗応",
+      "reading": "きょうおう",
+      "meaning": "dự tiệc"
+    },
+    {
+      "word": "饗す",
+      "reading": "きょうす",
+      "meaning": "dâng đồ lễ"
     }
   ]
 }

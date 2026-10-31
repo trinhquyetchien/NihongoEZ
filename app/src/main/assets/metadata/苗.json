@@ -101,14 +101,9 @@
       "meaning": "họ"
     },
     {
-      "word": "苗族",
-      "reading": "ミャオぞく",
-      "meaning": "người miêu"
-    },
-    {
-      "word": "桑苗",
-      "reading": "そうびょう",
-      "meaning": "dâu tằm seedling"
+      "word": "苗頭",
+      "reading": "びょうとう",
+      "meaning": "sự lệch"
     },
     {
       "word": "苗水",
@@ -116,29 +111,34 @@
       "meaning": "nước để ươm giống cây"
     },
     {
+      "word": "苗条",
+      "reading": "びょうじょう",
+      "meaning": "chồi cây"
+    },
+    {
+      "word": "苗族",
+      "reading": "ミャオぞく",
+      "meaning": "người miêu"
+    },
+    {
+      "word": "豆苗",
+      "reading": "とうみょう",
+      "meaning": "mầm đậu"
+    },
+    {
       "word": "苗畑",
       "reading": "なえばたけ",
       "meaning": "cánh đồng lúa non"
     },
     {
-      "word": "痘苗",
-      "reading": "とうびょう",
-      "meaning": "vắc-xin"
+      "word": "早苗",
+      "reading": "さなえ",
+      "meaning": "gạo seedlings"
     },
     {
-      "word": "苗代",
-      "reading": "なわしろ",
-      "meaning": "ruộng mạ"
-    },
-    {
-      "word": "苗床",
-      "reading": "なえどこ",
-      "meaning": "vườn ươm"
-    },
-    {
-      "word": "種苗",
-      "reading": "しゅびょう",
-      "meaning": "hạt giống và cây giống"
+      "word": "早苗月",
+      "reading": "さなえづき",
+      "meaning": "tháng 5 âm lịch"
     }
   ]
 }

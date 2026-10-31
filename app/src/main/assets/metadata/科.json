@@ -104,44 +104,19 @@
   ],
   "vocabulary": [
     {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "khoa học"
+    },
+    {
       "word": "科",
       "reading": "か",
       "meaning": "khoa"
     },
     {
-      "word": "医科歯科",
-      "reading": "いかしか",
-      "meaning": "ngành y và nha"
-    },
-    {
-      "word": "テルモコックス科（サーモコッカス科）",
-      "reading": "テルモコックスか（サーモコッカスか）",
-      "meaning": "thermococcaceae"
-    },
-    {
-      "word": "産科外科",
-      "reading": "さんかげか",
-      "meaning": "phẫu thuật sản khoa"
-    },
-    {
-      "word": "眼科外科",
-      "reading": "がんかげか",
-      "meaning": "phẫu thuật nhãn khoa"
-    },
-    {
-      "word": "メタノコッカス科（メタノコックス科）",
-      "reading": "メタノコッカスか（メタノコックスか）",
-      "meaning": "methanococcaceae"
-    },
-    {
-      "word": "テルモフィルム科（サーモフィルム科）",
-      "reading": "テルモフィルムか（サーモフィルムか）",
-      "meaning": "thermofilaceae"
-    },
-    {
-      "word": "婦人科外科",
-      "reading": "ふじんかげか",
-      "meaning": "phẫu thuật phụ khoa"
+      "word": "教科",
+      "reading": "きょうか",
+      "meaning": "đề tài"
     },
     {
       "word": "眼科",
@@ -149,9 +124,34 @@
       "meaning": "khoa mắt"
     },
     {
-      "word": "イチヤクソウ科",
-      "reading": "いちやくそうか",
-      "meaning": "pyrolaceae"
+      "word": "鶴科",
+      "reading": "つるか",
+      "meaning": "họ chim hạc"
+    },
+    {
+      "word": "ナス科",
+      "reading": "ナスか",
+      "meaning": "họ cà"
+    },
+    {
+      "word": "登科",
+      "reading": "とうか",
+      "meaning": "đi qua dân sự dịch vụ kỳ thi"
+    },
+    {
+      "word": "隼科",
+      "reading": "はやぶさか",
+      "meaning": "họ cắt là một họ của khoảng 65-66 loài chim săn mồi ban ngày"
+    },
+    {
+      "word": "ユリ科",
+      "reading": "ユリか",
+      "meaning": "liliaceae"
+    },
+    {
+      "word": "マメ科",
+      "reading": "マメか",
+      "meaning": "họ đậu"
     }
   ]
 }

@@ -92,34 +92,19 @@
   ],
   "vocabulary": [
     {
-      "word": "臭",
-      "reading": "しゅう",
-      "meaning": "mùi hôi"
-    },
-    {
-      "word": "口臭",
-      "reading": "こうしゅう",
-      "meaning": "bệnh hôi miệng"
-    },
-    {
-      "word": "臭う",
-      "reading": "におう",
-      "meaning": "có mùi"
-    },
-    {
-      "word": "体臭",
-      "reading": "たいしゅう",
-      "meaning": "mùi hôi từ thân thể"
-    },
-    {
       "word": "臭い",
       "reading": "くさい",
       "meaning": "có mùi hôi"
     },
     {
-      "word": "臭覚",
-      "reading": "しゅうかく",
-      "meaning": "khứu giác"
+      "word": "臭",
+      "reading": "しゅう",
+      "meaning": "mùi hôi"
+    },
+    {
+      "word": "臭化",
+      "reading": "しゅうか",
+      "meaning": "sự kết hợp với brom"
     },
     {
       "word": "臭木",
@@ -127,19 +112,34 @@
       "meaning": "cây xú ngô đồng"
     },
     {
-      "word": "消臭",
-      "reading": "しょうしゅう",
-      "meaning": "khử mùi"
+      "word": "死臭",
+      "reading": "ししゅう",
+      "meaning": "thối rữa có mùi một xác chết"
     },
     {
-      "word": "余臭",
-      "reading": "よしゅう",
-      "meaning": "chần chừ mùi"
+      "word": "血臭",
+      "reading": "けっしゅう",
+      "meaning": "mùi máu"
     },
     {
-      "word": "吏臭",
-      "reading": "りしゅう",
-      "meaning": "chế độ quan liêu hành chính"
+      "word": "臭亀",
+      "reading": "くさがめ",
+      "meaning": "rùa reeve"
+    },
+    {
+      "word": "臭跡",
+      "reading": "しゅうせき",
+      "meaning": "mùi hương"
+    },
+    {
+      "word": "臭橘",
+      "reading": "しゅうきつ",
+      "meaning": "chỉ"
+    },
+    {
+      "word": "カビ臭",
+      "reading": "カビしゅう",
+      "meaning": "mùi nấm mốc"
     }
   ]
 }

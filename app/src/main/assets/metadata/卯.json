@@ -91,9 +91,14 @@
       "meaning": "chi thứ tư trong 12 cung của trung quốc"
     },
     {
-      "word": "卯建",
-      "reading": "うだつ",
-      "meaning": "bức tường phòng hỏa"
+      "word": "卯月",
+      "reading": "うづき",
+      "meaning": "tháng tư lịch mặt trăng"
+    },
+    {
+      "word": "卯月鳥",
+      "reading": "うづきどり",
+      "meaning": "một tên khác của chim cu cu nhỏ"
     },
     {
       "word": "卯年",
@@ -101,19 +106,14 @@
       "meaning": "năm thỏ"
     },
     {
-      "word": "卯月",
-      "reading": "うづき",
-      "meaning": "tháng tư lịch mặt trăng"
-    },
-    {
-      "word": "癸卯",
-      "reading": "みずのとう",
-      "meaning": "quý mão"
-    },
-    {
       "word": "丁卯",
       "reading": "ひのとう",
       "meaning": "năm đinh mão"
+    },
+    {
+      "word": "乙卯",
+      "reading": "きのとう",
+      "meaning": "ất mão"
     },
     {
       "word": "己卯",
@@ -126,14 +126,14 @@
       "meaning": "tân mão"
     },
     {
-      "word": "乙卯",
-      "reading": "きのとう",
-      "meaning": "ất mão"
+      "word": "卯建",
+      "reading": "うだつ",
+      "meaning": "bức tường phòng hỏa"
     },
     {
-      "word": "卯月鳥",
-      "reading": "うづきどり",
-      "meaning": "một tên khác của chim cu cu nhỏ"
+      "word": "癸卯",
+      "reading": "みずのとう",
+      "meaning": "quý mão"
     }
   ]
 }

@@ -89,24 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "cóng"
+    },
+    {
+      "word": "寒帯",
+      "reading": "かんたい",
+      "meaning": "hàn đới"
+    },
+    {
       "word": "寒",
       "reading": "かん",
       "meaning": "giữa mùa đông"
     },
     {
-      "word": "寒寒",
-      "reading": "さむざむ",
-      "meaning": "lành lạnh"
+      "word": "寒さ",
+      "reading": "さむさ",
+      "meaning": "giá lạnh"
     },
     {
-      "word": "大寒小寒",
-      "reading": "おおさむこさむ",
-      "meaning": "bài đồng dao \"lạnh to lạnh nhỏ\""
+      "word": "寒国",
+      "reading": "かんこく",
+      "meaning": "nước hoặc vùng có khí hậu giá lạnh"
     },
     {
-      "word": "寒寒した心",
-      "reading": "さむざむしたこころ",
-      "meaning": "hững hờ"
+      "word": "寒点",
+      "reading": "かんてん",
+      "meaning": "điểm lạnh"
+    },
+    {
+      "word": "寒夜",
+      "reading": "かんや",
+      "meaning": "đêm lạnh"
+    },
+    {
+      "word": "寒地",
+      "reading": "かんち",
+      "meaning": "xứ lạnh"
     },
     {
       "word": "寒桜",
@@ -114,29 +134,9 @@
       "meaning": "anh đào hoa chuông"
     },
     {
-      "word": "大寒",
-      "reading": "だいかん",
-      "meaning": "đại hàn"
-    },
-    {
-      "word": "寒鯛",
-      "reading": "かんだい",
-      "meaning": "cá bàng chài đầu gù"
-    },
-    {
-      "word": "極寒",
-      "reading": "ごっかん",
-      "meaning": "sự lạnh nhất"
-    },
-    {
-      "word": "寒村",
-      "reading": "かんそん",
-      "meaning": "nơi khỉ ho cò gáy"
-    },
-    {
-      "word": "向寒",
-      "reading": "こうかん",
-      "meaning": "đối mặt với giá rét"
+      "word": "寒暑",
+      "reading": "かんしょ",
+      "meaning": "nóng và lạnh"
     }
   ]
 }

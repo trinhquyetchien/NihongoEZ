@@ -96,29 +96,24 @@
       "meaning": "sấm sét"
     },
     {
-      "word": "魚雷",
-      "reading": "ぎょらい",
-      "meaning": "thủy lôi"
+      "word": "雷様",
+      "reading": "かみなりさま",
+      "meaning": "trạng thái chỉ có sấm chớp mà không có mưa"
     },
     {
-      "word": "雷竜",
-      "reading": "らいりゅう",
-      "meaning": "brontosaurus"
+      "word": "雷声",
+      "reading": "らいせい",
+      "meaning": "âm thanh của sấm sét"
     },
     {
-      "word": "機雷",
-      "reading": "きらい",
-      "meaning": "thủy lôi"
+      "word": "雷発",
+      "reading": "らいはつ",
+      "meaning": "bùng nổ"
     },
     {
-      "word": "雷電",
-      "reading": "らいでん",
-      "meaning": "sấm chớp"
-    },
-    {
-      "word": "雷汞",
-      "reading": "らいこう",
-      "meaning": "thủy ngân fulminat"
+      "word": "雷丸",
+      "reading": "らいがん",
+      "meaning": "raigan"
     },
     {
       "word": "天雷",
@@ -126,19 +121,24 @@
       "meaning": "sấm"
     },
     {
-      "word": "遠雷",
-      "reading": "えんらい",
-      "meaning": "sấm vang lên từ xa"
+      "word": "人工雷",
+      "reading": "じんこうらい",
+      "meaning": "chớp nhân tạo"
     },
     {
-      "word": "百雷",
-      "reading": "ひゃくらい",
-      "meaning": "trăm tiếng sét"
+      "word": "雷族",
+      "reading": "かみなりぞく",
+      "meaning": "thanh niên phóng xe máy với tốc độ cao và gây tiếng ồn lớn"
     },
     {
-      "word": "爆雷",
-      "reading": "ばくらい",
-      "meaning": "bom phá tàu ngầm"
+      "word": "雷竜",
+      "reading": "らいりゅう",
+      "meaning": "brontosaurus"
+    },
+    {
+      "word": "地雷",
+      "reading": "じらい",
+      "meaning": "địa lôi"
     }
   ]
 }

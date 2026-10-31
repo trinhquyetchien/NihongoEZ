@@ -72,11 +72,6 @@
       "meaning": "hình bầu dục"
     },
     {
-      "word": "楕円面",
-      "reading": "だえんめん",
-      "meaning": "bề mặt elip"
-    },
-    {
       "word": "楕円体",
       "reading": "だえんたい",
       "meaning": "hình elip"
@@ -87,9 +82,19 @@
       "meaning": "hình elip"
     },
     {
+      "word": "楕円面",
+      "reading": "だえんめん",
+      "meaning": "bề mặt elip"
+    },
+    {
       "word": "楕円リンク",
       "reading": "だえんリンク",
       "meaning": "mắt nối hình elip"
+    },
+    {
+      "word": "回転楕円体",
+      "reading": "かいてんだえんたい",
+      "meaning": "hình phỏng cầu"
     },
     {
       "word": "楕円銀河",
@@ -105,11 +110,6 @@
       "word": "超楕円関数",
       "reading": "ちょうだえんかんすう",
       "meaning": "hàm siêu elliptic"
-    },
-    {
-      "word": "回転楕円体",
-      "reading": "かいてんだえんたい",
-      "meaning": "hình phỏng cầu"
     },
     {
       "word": "楕円幾何学",

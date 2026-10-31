@@ -51,14 +51,14 @@
   ],
   "vocabulary": [
     {
-      "word": "文質彬彬",
-      "reading": "ぶんしつひんぴん",
-      "meaning": "trạng thái hài hòa giữa vẻ đẹp bên ngoài và bên trong"
-    },
-    {
       "word": "彬蔚",
       "reading": "ひんうつ",
       "meaning": "đã tinh chế và uyên bác"
+    },
+    {
+      "word": "文質彬彬",
+      "reading": "ぶんしつひんぴん",
+      "meaning": "trạng thái hài hòa giữa vẻ đẹp bên ngoài và bên trong"
     }
   ]
 }

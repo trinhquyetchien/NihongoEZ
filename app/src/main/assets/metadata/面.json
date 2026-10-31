@@ -114,39 +114,19 @@
       "meaning": "mặt"
     },
     {
-      "word": "面面",
-      "reading": "めんめん",
-      "meaning": "mỗi một"
-    },
-    {
-      "word": "帳面面",
-      "reading": "ちょうめんづら",
-      "meaning": "các tài khoản"
-    },
-    {
-      "word": "場面場面",
-      "reading": "ばめんばめん",
-      "meaning": "cảnh này đến cảnh khác"
-    },
-    {
-      "word": "ひ削面",
-      "reading": "被削面",
-      "meaning": "mặt gia công"
-    },
-    {
-      "word": "書面",
-      "reading": "しょめん",
-      "meaning": "tài liệu"
-    },
-    {
       "word": "面会",
       "reading": "めんかい",
       "meaning": "cuộc gặp gỡ"
     },
     {
-      "word": "版面",
-      "reading": "はんめん",
-      "meaning": "phạm vi thiết kế"
+      "word": "断面",
+      "reading": "だんめん",
+      "meaning": "mặt cắt"
+    },
+    {
+      "word": "斜面",
+      "reading": "しゃめん",
+      "meaning": "mặt nghiêng"
     },
     {
       "word": "お面",
@@ -154,9 +134,29 @@
       "meaning": "mặt nạ"
     },
     {
-      "word": "湖面",
-      "reading": "こめん",
-      "meaning": "mặt hồ"
+      "word": "面的",
+      "reading": "めんてき",
+      "meaning": "toàn diện"
+    },
+    {
+      "word": "版面",
+      "reading": "はんめん",
+      "meaning": "phạm vi thiết kế"
+    },
+    {
+      "word": "法面",
+      "reading": "のりめん",
+      "meaning": "mặt nghiêng"
+    },
+    {
+      "word": "絵面",
+      "reading": "えづら",
+      "meaning": "ấn tượng được đưa ra bởi một bức tranh hoặc hình ảnh"
+    },
+    {
+      "word": "土面",
+      "reading": "どめん",
+      "meaning": "mặt nạ đất sét"
     }
   ]
 }

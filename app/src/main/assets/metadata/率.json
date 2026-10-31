@@ -96,9 +96,24 @@
       "meaning": "hệ số"
     },
     {
-      "word": "軽率",
-      "reading": "けいそつ",
-      "meaning": "khinh suất"
+      "word": "率土",
+      "reading": "そっと",
+      "meaning": "nơi tận cùng trái đất"
+    },
+    {
+      "word": "確率",
+      "reading": "かくりつ",
+      "meaning": "xác suất"
+    },
+    {
+      "word": "率直",
+      "reading": "そっちょく",
+      "meaning": "tính thật thà"
+    },
+    {
+      "word": "能率",
+      "reading": "のうりつ",
+      "meaning": "hiệu quả"
     },
     {
       "word": "効率",
@@ -106,39 +121,24 @@
       "meaning": "hiệu suất"
     },
     {
-      "word": "率先",
-      "reading": "そっせん",
-      "meaning": "sự dẫn đầu"
+      "word": "比率",
+      "reading": "ひりつ",
+      "meaning": "tỉ suất"
     },
     {
-      "word": "年率",
-      "reading": "ねんりつ",
-      "meaning": "tỷ lệ lãi năm"
+      "word": "倍率",
+      "reading": "ばいりつ",
+      "meaning": "bội số phóng đại"
     },
     {
-      "word": "掛率",
-      "reading": "かけりつ",
-      "meaning": "tỷ lệ chiết khấu"
+      "word": "率いる",
+      "reading": "ひきいる",
+      "meaning": "dẫn đầu"
     },
     {
-      "word": "兜率",
-      "reading": "とそつ",
-      "meaning": "vị thứ tư trong sáu cõi hay cõi trời của kamadhatu trong truyền thống phật giáo"
-    },
-    {
-      "word": "アベイラビリティ率",
-      "reading": "アベイラビリティりつ",
-      "meaning": "tỉ lệ khả dụng"
-    },
-    {
-      "word": "ヒット率",
-      "reading": "ヒットりつ",
-      "meaning": "hệ số trúng"
-    },
-    {
-      "word": "低率",
-      "reading": "ていりつ",
-      "meaning": "tỷ lệ thấp"
+      "word": "軽率",
+      "reading": "けいそつ",
+      "meaning": "khinh suất"
     }
   ]
 }

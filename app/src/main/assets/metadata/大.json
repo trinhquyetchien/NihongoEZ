@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "巨大",
+      "reading": "きょだい",
+      "meaning": "khổng lồ"
+    },
+    {
+      "word": "大戦",
+      "reading": "たいせん",
+      "meaning": "đại chiến"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "sự trọng đại"
+    },
+    {
+      "word": "大工",
+      "reading": "だいく",
+      "meaning": "người xây dựng và sửa chữa các công trình kiến trúc bằng gỗ"
+    },
+    {
       "word": "大",
       "reading": "おお",
       "meaning": "lớn"
     },
     {
-      "word": "大大的",
-      "reading": "だいだいてき",
-      "meaning": "lớn"
+      "word": "名大",
+      "reading": "めいだい",
+      "meaning": "trường đại học nagoya"
     },
     {
-      "word": "大阪大学",
-      "reading": "おおさかだいがく",
-      "meaning": "trường đại học osaka"
+      "word": "最大",
+      "reading": "さいだい",
+      "meaning": "sự lớn nhất"
     },
     {
-      "word": "大慈大悲",
-      "reading": "だいじだいひ",
-      "meaning": "lòng từ bi to lớn vô biên của đức phật"
+      "word": "大酒",
+      "reading": "おおざけ",
+      "meaning": "nặng nề uống"
     },
     {
-      "word": "大蔵大臣",
-      "reading": "おおくらだいじん",
-      "meaning": "giúp đỡ tài chính"
+      "word": "大耳",
+      "reading": "おおみみ",
+      "meaning": "nấm mọc nhĩ"
     },
     {
-      "word": "大の大人",
-      "reading": "だいのおとな",
-      "meaning": "người đàn ông trưởng thành"
-    },
-    {
-      "word": "大東大蝙蝠",
-      "reading": "だいとうおおこうもり",
-      "meaning": "dơi cáo daitō"
-    },
-    {
-      "word": "大目大千鳥",
-      "reading": "おおめだいちどり",
-      "meaning": "chim choi choi mắt to lớn"
-    },
-    {
-      "word": "大気大循環",
-      "reading": "たいきだいじゅんかん",
-      "meaning": "hệ thống tuần hoàn khí quyển toàn cầu"
-    },
-    {
-      "word": "一大",
-      "reading": "いちだい",
-      "meaning": "... rất to lớn"
+      "word": "大魚",
+      "reading": "たいぎょ",
+      "meaning": "cá lớn"
     }
   ]
 }

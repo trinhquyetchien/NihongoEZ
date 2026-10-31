@@ -90,34 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "覇",
-      "reading": "は",
-      "meaning": "quyền tối cao"
-    },
-    {
-      "word": "争覇",
-      "reading": "そうは",
-      "meaning": "đấu tranh cho chiến thắng"
-    },
-    {
-      "word": "覇者",
-      "reading": "はしゃ",
-      "meaning": "người bá chủ"
-    },
-    {
       "word": "制覇",
       "reading": "せいは",
       "meaning": "sự thống trị"
     },
     {
-      "word": "覇道",
-      "reading": "はどう",
-      "meaning": "quân đội cai trị"
-    },
-    {
-      "word": "覇業",
-      "reading": "はぎょう",
-      "meaning": "sự thống trị"
+      "word": "初制覇",
+      "reading": "はつせいは",
+      "meaning": "chiến thắng đầu tiên"
     },
     {
       "word": "連覇",
@@ -125,9 +105,29 @@
       "meaning": "các chiến thắng liên tiếp"
     },
     {
+      "word": "覇",
+      "reading": "は",
+      "meaning": "quyền tối cao"
+    },
+    {
       "word": "覇権",
       "reading": "はけん",
       "meaning": "bá quyền"
+    },
+    {
+      "word": "覇者",
+      "reading": "はしゃ",
+      "meaning": "người bá chủ"
+    },
+    {
+      "word": "覇王",
+      "reading": "はおう",
+      "meaning": "vua"
+    },
+    {
+      "word": "覇王竜",
+      "reading": "はおうりゅう",
+      "meaning": "khủng long bạo chúa tyrannosaurus rex"
     },
     {
       "word": "覇気",
@@ -135,9 +135,9 @@
       "meaning": "có lòng xưng bá"
     },
     {
-      "word": "覇王",
-      "reading": "はおう",
-      "meaning": "vua"
+      "word": "覇道",
+      "reading": "はどう",
+      "meaning": "quân đội cai trị"
     }
   ]
 }

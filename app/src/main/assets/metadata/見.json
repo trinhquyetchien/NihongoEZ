@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "見",
-      "reading": "み",
-      "meaning": "cái nhìn"
-    },
-    {
-      "word": "見る見る",
-      "reading": "みるみる",
-      "meaning": "nhanh chóng"
-    },
-    {
-      "word": "見え見え",
-      "reading": "みえみえ",
-      "meaning": "rõ ràng"
-    },
-    {
-      "word": "見す見す",
-      "reading": "みすみす",
-      "meaning": "giương mắt ra nhìn mà không làm gì được"
-    },
-    {
-      "word": "見様見真似",
-      "reading": "みようみまね",
-      "meaning": "sự quan sát người khác làm và bắt chước"
-    },
-    {
-      "word": "ジロジロ見る ジロジロみる",
-      "reading": "ジロジロ見る",
-      "meaning": "nhìn chằm chằm"
-    },
-    {
-      "word": "ゆめ にまで見た",
-      "reading": "夢にまで見た",
-      "meaning": "hy vọng mãnh liệt đến mức nhắm mắt cũng thấy mở mắ cũng thấy&amp"
-    },
-    {
       "word": "花見",
       "reading": "はなみ",
       "meaning": "ngắm hoa anh đào nở"
     },
     {
-      "word": "見直",
-      "reading": "みなお",
-      "meaning": "đánh giá"
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sự tham quan"
     },
     {
-      "word": "見え",
-      "reading": "みえ",
-      "meaning": "hiện ra"
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "cách nghĩ"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "hướng"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "tham quan với mục đích học tập"
+    },
+    {
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "kiểu mẫu"
+    },
+    {
+      "word": "会見",
+      "reading": "かいけん",
+      "meaning": "cuộc phỏng vấn"
+    },
+    {
+      "word": "見方",
+      "reading": "みかた",
+      "meaning": "cách nhìn"
+    },
+    {
+      "word": "一見",
+      "reading": "いっけん",
+      "meaning": "nhìn"
+    },
+    {
+      "word": "見地",
+      "reading": "けんち",
+      "meaning": "quan điểm"
     }
   ]
 }

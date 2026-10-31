@@ -49,7 +49,17 @@
   ],
   "vocabulary": [
     {
-      "word": "曳曳",
+      "word": "曳き網",
+      "reading": "ひきあみ",
+      "meaning": "lưới kéo"
+    },
+    {
+      "word": "曳航",
+      "reading": "えいこう",
+      "meaning": "kéo"
+    },
+    {
+      "word": "曳々",
       "reading": "えいえい",
       "meaning": "kéo lên"
     },
@@ -59,34 +69,9 @@
       "meaning": "festival float"
     },
     {
-      "word": "曳子",
-      "reading": "ひきこ",
-      "meaning": "người kéo xe"
-    },
-    {
-      "word": "曳航",
-      "reading": "えいこう",
-      "meaning": "kéo"
-    },
-    {
-      "word": "揺曳",
-      "reading": "ようえい",
-      "meaning": "đu đưa"
-    },
-    {
-      "word": "媾曳",
-      "reading": "あいびき",
-      "meaning": "hẹn hò lén lút của trai gái"
-    },
-    {
-      "word": "曳網",
-      "reading": "ひきあみ",
-      "meaning": "lưới kéo"
-    },
-    {
-      "word": "曳々",
-      "reading": "えいえい",
-      "meaning": "kéo lên"
+      "word": "曳き船",
+      "reading": "ひきふね",
+      "meaning": "tàu lai"
     },
     {
       "word": "曳船",
@@ -94,9 +79,24 @@
       "meaning": "tàu lai"
     },
     {
+      "word": "曳光弾",
+      "reading": "えいこうだん",
+      "meaning": "đạn pháo sáng"
+    },
+    {
       "word": "曳馬",
       "reading": "ひくま",
       "meaning": "ngựa kéo"
+    },
+    {
+      "word": "曳網",
+      "reading": "ひきあみ",
+      "meaning": "lưới kéo"
+    },
+    {
+      "word": "地曳き",
+      "reading": "じびき",
+      "meaning": "lưới kéo"
     }
   ]
 }

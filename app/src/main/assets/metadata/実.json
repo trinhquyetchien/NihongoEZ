@@ -94,19 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "実",
-      "reading": "じつ",
-      "meaning": "quả"
-    },
-    {
-      "word": "虚虚実実",
-      "reading": "きょきょじつじつ",
-      "meaning": "sự thông minh phù hợp với sự thông minh"
-    },
-    {
-      "word": "実証実験",
-      "reading": "じっしょうじっけん",
-      "meaning": "thực nghiệm để kiểm chứng"
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "sự thực"
     },
     {
       "word": "実は",
@@ -114,34 +104,44 @@
       "meaning": "kỳ thực"
     },
     {
-      "word": "実技",
-      "reading": "じつぎ",
-      "meaning": "thực hành thành vấn đề"
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "sự thật"
     },
     {
-      "word": "実字",
-      "reading": "じつじ",
-      "meaning": "thực từ"
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "hiện thực"
     },
     {
-      "word": "口実",
-      "reading": "こうじつ",
-      "meaning": "viện cớ"
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "sự thực hiện"
     },
     {
-      "word": "実在",
-      "reading": "じつざい",
-      "meaning": "sự tồn tại khách quan"
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "chính xác"
     },
     {
-      "word": "充実",
-      "reading": "じゅうじつ",
-      "meaning": "sự đầy đủ"
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "thí nghiệm"
     },
     {
-      "word": "実力",
-      "reading": "じつりょく",
-      "meaning": "thực lực"
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "chấp hành"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "thực"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "quả"
     }
   ]
 }

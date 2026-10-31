@@ -90,9 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "斬",
-      "reading": "ざん",
-      "meaning": "hình phạt chém đầu"
+      "word": "斬る",
+      "reading": "きる",
+      "meaning": "chém"
+    },
+    {
+      "word": "人斬り",
+      "reading": "ひときり",
+      "meaning": "vụ ám sát"
     },
     {
       "word": "斬新",
@@ -100,34 +105,9 @@
       "meaning": "tiểu thuyết"
     },
     {
-      "word": "斬首",
-      "reading": "ざんしゅ",
-      "meaning": "xử trảm"
-    },
-    {
-      "word": "斬る",
-      "reading": "きる",
-      "meaning": "chém"
-    },
-    {
-      "word": "斬罪",
-      "reading": "ざんざい",
-      "meaning": "sự chém đầu"
-    },
-    {
-      "word": "斬殺",
-      "reading": "ざんさつ",
-      "meaning": "giết người"
-    },
-    {
-      "word": "斬撃",
-      "reading": "ざんげき",
-      "meaning": "chém"
-    },
-    {
-      "word": "斬首刑",
-      "reading": "ざんしゅけい",
-      "meaning": "hình phạt chặt đầu"
+      "word": "斬",
+      "reading": "ざん",
+      "meaning": "hình phạt chém đầu"
     },
     {
       "word": "斬馬刀",
@@ -135,9 +115,29 @@
       "meaning": "một thanh kiếm trung quốc chống kỵ binh một lưỡi"
     },
     {
-      "word": "人斬り",
-      "reading": "ひときり",
-      "meaning": "vụ ám sát"
+      "word": "斬首",
+      "reading": "ざんしゅ",
+      "meaning": "xử trảm"
+    },
+    {
+      "word": "斬首刑",
+      "reading": "ざんしゅけい",
+      "meaning": "hình phạt chặt đầu"
+    },
+    {
+      "word": "斬撃",
+      "reading": "ざんげき",
+      "meaning": "chém"
+    },
+    {
+      "word": "辻斬り",
+      "reading": "つじぎり",
+      "meaning": "việc giết khách qua đường để thử độ sắc của gươm mới"
+    },
+    {
+      "word": "斬殺",
+      "reading": "ざんさつ",
+      "meaning": "giết người"
     }
   ]
 }

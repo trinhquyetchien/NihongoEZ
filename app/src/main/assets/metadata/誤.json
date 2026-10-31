@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "誤",
-      "reading": "ご",
-      "meaning": "nhầm lẫn"
-    },
-    {
-      "word": "誤診",
-      "reading": "ごしん",
-      "meaning": "sự chẩn đoán sai"
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "sự hiểu lầm"
     },
     {
       "word": "誤り",
@@ -105,24 +100,9 @@
       "meaning": "lỗi lầm"
     },
     {
-      "word": "誤認",
-      "reading": "ごにん",
-      "meaning": "sự ngộ nhận"
-    },
-    {
-      "word": "誤植",
-      "reading": "ごしょく",
-      "meaning": "lỗi in"
-    },
-    {
-      "word": "誤用",
-      "reading": "ごよう",
-      "meaning": "sự dùng sai"
-    },
-    {
-      "word": "誤字",
-      "reading": "ごじ",
-      "meaning": "chữ in nhầm"
+      "word": "誤差",
+      "reading": "ごさ",
+      "meaning": "sai số"
     },
     {
       "word": "錯誤",
@@ -135,9 +115,29 @@
       "meaning": "lầm lỡ"
     },
     {
-      "word": "誤訳",
-      "reading": "ごやく",
-      "meaning": "sự dịch sai"
+      "word": "誤って",
+      "reading": "あやまって",
+      "meaning": "nhầm"
+    },
+    {
+      "word": "誤",
+      "reading": "ご",
+      "meaning": "nhầm lẫn"
+    },
+    {
+      "word": "事誤り",
+      "reading": "ことあやまり",
+      "meaning": "sai lầm bên trong nói"
+    },
+    {
+      "word": "誤達",
+      "reading": "ごたつ",
+      "meaning": "giao nhầm nhà hoặc nhầm người"
+    },
+    {
+      "word": "誤り率",
+      "reading": "あやまりりつ",
+      "meaning": "tỉ lệ lỗi"
     }
   ]
 }

@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "童",
-      "reading": "わらべ",
-      "meaning": "đứa trẻ"
-    },
-    {
       "word": "児童",
       "reading": "じどう",
       "meaning": "nhi đồng"
     },
     {
-      "word": "山童",
-      "reading": "やまわろ",
-      "meaning": "linh hồn núi một mắt"
+      "word": "童話",
+      "reading": "どうわ",
+      "meaning": "truyện đồng thoại"
     },
     {
-      "word": "童部",
-      "reading": "わらわべ",
-      "meaning": "đứa trẻ"
+      "word": "児童会",
+      "reading": "じどうかい",
+      "meaning": "hội đồng học sinh cấp tiểu học"
     },
     {
-      "word": "大童",
-      "reading": "おおわらわ",
-      "meaning": "những công sức hăm hở"
+      "word": "児童書",
+      "reading": "じどうしょ",
+      "meaning": "sách thiếu nhi"
     },
     {
-      "word": "童子",
-      "reading": "どうじ",
-      "meaning": "trẻ con"
+      "word": "児童館",
+      "reading": "じどうかん",
+      "meaning": "nhà trẻ"
     },
     {
-      "word": "天童",
-      "reading": "てんどう",
-      "meaning": "tiên đồng"
+      "word": "童貞",
+      "reading": "どうてい",
+      "meaning": "đồng trinh"
     },
     {
-      "word": "童歌",
-      "reading": "わらべうた",
-      "meaning": "bài hát thiếu nhi"
+      "word": "児童画",
+      "reading": "じどうが",
+      "meaning": "tranh thiếu nhi"
     },
     {
-      "word": "童画",
-      "reading": "どうが",
-      "meaning": "tranh do trẻ em vẽ"
+      "word": "童貞説",
+      "reading": "どうていせつ",
+      "meaning": "thuyết đồng trinh"
     },
     {
-      "word": "童顔",
-      "reading": "どうがん",
-      "meaning": "khuôn mặt trẻ con"
+      "word": "児童劇",
+      "reading": "じどうげき",
+      "meaning": "kịch thiếu nhi"
+    },
+    {
+      "word": "童話劇",
+      "reading": "どうわげき",
+      "meaning": "kịch thiếu nhi"
     }
   ]
 }

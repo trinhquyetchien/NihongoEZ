@@ -94,29 +94,24 @@
       "meaning": "chài"
     },
     {
-      "word": "網目状網",
-      "reading": "あみめじょうもう",
-      "meaning": "mạng kiểu lưới"
+      "word": "網頭",
+      "reading": "あみがしら",
+      "meaning": "amigashira"
     },
     {
-      "word": "張網/張り網",
-      "reading": "はりあみ",
-      "meaning": "dây chằng"
+      "word": "網点",
+      "reading": "あみてん",
+      "meaning": "ảnh bán sắc"
     },
     {
-      "word": "網針",
-      "reading": "あばり",
-      "meaning": "kim móc lưới"
+      "word": "夜網",
+      "reading": "よあみ",
+      "meaning": "đánh cá ban đêm bằng lưới"
     },
     {
-      "word": "網タイツ",
-      "reading": "あみタイツ",
-      "meaning": "quần tất lưới"
-    },
-    {
-      "word": "罠網",
-      "reading": "わなみ",
-      "meaning": "bẫy"
+      "word": "網地",
+      "reading": "あみじ",
+      "meaning": "vải lưới"
     },
     {
       "word": "網星",
@@ -124,9 +119,9 @@
       "meaning": "ngôi sao \"lưới\" trong chòm \"cổ\""
     },
     {
-      "word": "網代",
-      "reading": "あじろ",
-      "meaning": "việc đan lát"
+      "word": "網石",
+      "reading": "あみいし",
+      "meaning": "đá dùng để làm nặng lưới câu cá"
     },
     {
       "word": "魚網",
@@ -134,9 +129,14 @@
       "meaning": "lưới cá"
     },
     {
-      "word": "漁網",
-      "reading": "ぎょもう",
-      "meaning": "lưới bắt cá"
+      "word": "網鳥",
+      "reading": "あみどり",
+      "meaning": "chim cúc cu nhỏ"
+    },
+    {
+      "word": "網玉",
+      "reading": "あみだま",
+      "meaning": "lưới để vớt cá"
     }
   ]
 }

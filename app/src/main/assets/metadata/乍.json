@@ -102,17 +102,17 @@
     {
       "word": "乍らも",
       "reading": "ながらも",
-      "meaning": "mặc dù...nhưng.."
-    },
-    {
-      "word": "我乍ら",
-      "reading": "われながら",
-      "meaning": "cho tôi"
+      "meaning": "mặc dù...nhưng"
     },
     {
       "word": "居乍ら",
       "reading": "いながら",
       "meaning": "từ nơi một ngồi"
+    },
+    {
+      "word": "我乍ら",
+      "reading": "われながら",
+      "meaning": "cho tôi"
     },
     {
       "word": "陰乍ら",
@@ -125,14 +125,14 @@
       "meaning": "cả hai"
     },
     {
-      "word": "併し乍ら",
-      "reading": "しかしながら",
-      "meaning": "tuy nhiên"
+      "word": "否々乍ら",
+      "reading": "いやいやながら",
+      "meaning": "miễn cưỡng"
     },
     {
-      "word": "然し乍ら",
-      "reading": "しかしながら",
-      "meaning": "tuy nhiên"
+      "word": "否否乍ら",
+      "reading": "いやいやながら",
+      "meaning": "miễn cưỡng"
     }
   ]
 }

@@ -88,39 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "すいたい尖炎",
-      "reading": "錐体尖炎",
-      "meaning": "viêm xương đá"
-    },
-    {
-      "word": "さん尖弁いつだつ",
-      "reading": "三尖弁逸脱",
-      "meaning": "sa van ba lá"
-    },
-    {
-      "word": "さん尖弁きょーさくしょー",
-      "reading": "三尖弁狭窄症",
-      "meaning": "hẹp van ba lá"
-    },
-    {
       "word": "尖る",
       "reading": "とがる",
       "meaning": "nhọn sắc"
     },
     {
-      "word": "尖足",
-      "reading": "せんそく",
-      "meaning": "bàn chân thuổng"
-    },
-    {
-      "word": "肺尖",
-      "reading": "はいせん",
-      "meaning": "đỉnh phổi"
-    },
-    {
-      "word": "尖鼠",
-      "reading": "とがりねずみ",
-      "meaning": "chuột chù"
+      "word": "尖った",
+      "reading": "とがった",
+      "meaning": "nhọn"
     },
     {
       "word": "尖部",
@@ -128,14 +103,39 @@
       "meaning": "đỉnh ngọc"
     },
     {
-      "word": "尖端",
-      "reading": "せんたん",
-      "meaning": "đầu nhọn"
-    },
-    {
       "word": "尖度",
       "reading": "せんど",
       "meaning": "độ nhọn"
+    },
+    {
+      "word": "尖頭",
+      "reading": "せんとう",
+      "meaning": "nhọn chấm dứt"
+    },
+    {
+      "word": "尖み",
+      "reading": "こすみ",
+      "meaning": "độ sắc nét"
+    },
+    {
+      "word": "尖足",
+      "reading": "せんそく",
+      "meaning": "bàn chân thuổng"
+    },
+    {
+      "word": "尖形",
+      "reading": "せんけい",
+      "meaning": "đầu nhọn"
+    },
+    {
+      "word": "剣尖",
+      "reading": "けんせん",
+      "meaning": "mũi kiếm"
+    },
+    {
+      "word": "尖頭器",
+      "reading": "せんとうき",
+      "meaning": "vật/vũ khí có đầu nhọn"
     }
   ]
 }

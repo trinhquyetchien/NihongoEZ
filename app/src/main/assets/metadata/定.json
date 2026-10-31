@@ -109,44 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "定",
-      "reading": "てい",
-      "meaning": "chắc chắn"
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "chỉ định"
     },
     {
-      "word": "暫定協定",
-      "reading": "ざんていきょうてい",
-      "meaning": "hiệp định tạm thời"
-    },
-    {
-      "word": "不確定判定",
-      "reading": "ふかくていはんてい",
-      "meaning": "phán đoán không chắc chắn"
-    },
-    {
-      "word": "否定の否定",
-      "reading": "ひていのひてい",
-      "meaning": "phủ định của phủ định"
-    },
-    {
-      "word": "確定",
-      "reading": "かくてい",
-      "meaning": "確定価格:giá cố định"
-    },
-    {
-      "word": "定か",
-      "reading": "さだか",
-      "meaning": "rõ ràng"
-    },
-    {
-      "word": "定番",
-      "reading": "ていばん",
-      "meaning": "sản phẩm cơ bản"
-    },
-    {
-      "word": "定型",
-      "reading": "ていけい",
-      "meaning": "hình dạng cố định"
+      "word": "肯定",
+      "reading": "こうてい",
+      "meaning": "sự khẳng định"
     },
     {
       "word": "限定",
@@ -154,9 +124,39 @@
       "meaning": "sự hạn định"
     },
     {
-      "word": "暫定",
-      "reading": "ざんてい",
-      "meaning": "sự tạm thời"
+      "word": "確定",
+      "reading": "かくてい",
+      "meaning": "確定価格:giá cố định"
+    },
+    {
+      "word": "規定",
+      "reading": "きてい",
+      "meaning": "điều luật"
+    },
+    {
+      "word": "改定",
+      "reading": "かいてい",
+      "meaning": "cải cách"
+    },
+    {
+      "word": "所定",
+      "reading": "しょてい",
+      "meaning": "cố định"
+    },
+    {
+      "word": "国定",
+      "reading": "こくてい",
+      "meaning": "quốc gia"
+    },
+    {
+      "word": "定め",
+      "reading": "さだめ",
+      "meaning": "pháp luật"
+    },
+    {
+      "word": "定",
+      "reading": "てい",
+      "meaning": "chắc chắn"
     }
   ]
 }

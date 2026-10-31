@@ -89,14 +89,24 @@
       "meaning": "ngoại ô"
     },
     {
-      "word": "郊野",
-      "reading": "こうの",
+      "word": "近郊",
+      "reading": "きんこう",
       "meaning": "ngoại ô"
     },
     {
       "word": "西郊",
       "reading": "せいこう",
       "meaning": "vùng ngoại ô phương tây"
+    },
+    {
+      "word": "遠郊",
+      "reading": "えんこう",
+      "meaning": "vùng xa thành phố"
+    },
+    {
+      "word": "北郊",
+      "reading": "ほっこう",
+      "meaning": "về hướng bắc"
     },
     {
       "word": "東郊",
@@ -109,13 +119,8 @@
       "meaning": "vùng ngoại ô ở phía nam"
     },
     {
-      "word": "北郊",
-      "reading": "ほっこう",
-      "meaning": "về hướng bắc"
-    },
-    {
-      "word": "近郊",
-      "reading": "きんこう",
+      "word": "郊野",
+      "reading": "こうの",
       "meaning": "ngoại ô"
     },
     {
@@ -124,14 +129,9 @@
       "meaning": "vùng ngoại ô vào mùa xuân"
     },
     {
-      "word": "遠郊",
-      "reading": "えんこう",
-      "meaning": "vùng xa thành phố"
-    },
-    {
-      "word": "近郊農業",
-      "reading": "きんこうのうぎょう",
-      "meaning": "nông nghiệp trong những vùng gần thành thị"
+      "word": "郊外生活",
+      "reading": "こうがいせいかつ",
+      "meaning": "cuộc sống ngoại ô"
     }
   ]
 }

@@ -89,24 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "遮断",
-      "reading": "しゃだん",
-      "meaning": "sự cắt"
-    },
-    {
-      "word": "遮那",
-      "reading": "しゃな",
-      "meaning": "mahavairocana"
-    },
-    {
       "word": "遮る",
       "reading": "さえぎる",
       "meaning": "chắn"
     },
     {
-      "word": "遮光",
-      "reading": "しゃこう",
-      "meaning": "bóng râm"
+      "word": "遮断",
+      "reading": "しゃだん",
+      "meaning": "sự cắt"
+    },
+    {
+      "word": "遮断機",
+      "reading": "しゃだんき",
+      "meaning": "rào chắn giữa đường bộ và đường sắt"
+    },
+    {
+      "word": "遮断器",
+      "reading": "しゃだんき",
+      "meaning": "cầu dao điện"
+    },
+    {
+      "word": "遮断壁",
+      "reading": "しゃだんぺき",
+      "meaning": "vách ngăn"
     },
     {
       "word": "遮蔽",
@@ -114,9 +119,14 @@
       "meaning": "che màn"
     },
     {
-      "word": "遮音",
-      "reading": "しゃおん",
-      "meaning": "cách âm"
+      "word": "遮蔽物",
+      "reading": "しゃへいぶつ",
+      "meaning": "vật chắn"
+    },
+    {
+      "word": "遮光",
+      "reading": "しゃこう",
+      "meaning": "bóng râm"
     },
     {
       "word": "間遮",
@@ -124,19 +134,9 @@
       "meaning": "tấm chắn"
     },
     {
-      "word": "遮光幕",
-      "reading": "しゃこうまく",
-      "meaning": "rèm che sáng"
-    },
-    {
-      "word": "遮光カーテン",
-      "reading": "しゃこうカーテン",
-      "meaning": "rèm chắn ánh sáng"
-    },
-    {
-      "word": "遮断機",
-      "reading": "しゃだんき",
-      "meaning": "rào chắn giữa đường bộ và đường sắt"
+      "word": "遮炎性",
+      "reading": "しゃえんせい",
+      "meaning": "hiệu suất che chắn ngọn lửa"
     }
   ]
 }

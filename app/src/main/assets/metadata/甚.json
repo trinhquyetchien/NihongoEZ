@@ -89,6 +89,16 @@
   ],
   "vocabulary": [
     {
+      "word": "甚だしい",
+      "reading": "はなはだしい",
+      "meaning": "mãnh liệt"
+    },
+    {
+      "word": "甚大",
+      "reading": "じんだい",
+      "meaning": "sự rất lớn"
+    },
+    {
       "word": "甚だ",
       "reading": "はなはだ",
       "meaning": "rất"
@@ -99,24 +109,9 @@
       "meaning": "trang phục mặc mùa hè cho đàn ông"
     },
     {
-      "word": "幸甚",
-      "reading": "こうじん",
-      "meaning": "hài lòng"
-    },
-    {
-      "word": "甚深",
-      "reading": "じんしん",
-      "meaning": "rất sâu sắc"
-    },
-    {
-      "word": "甚六",
-      "reading": "じんろく",
-      "meaning": "người tối dạ"
-    },
-    {
-      "word": "甚句",
-      "reading": "じんく",
-      "meaning": "bài hát sống động"
+      "word": "甚平鮫",
+      "reading": "じんべいざめ",
+      "meaning": "cá nhám voi"
     },
     {
       "word": "甚く",
@@ -124,19 +119,24 @@
       "meaning": "rất"
     },
     {
+      "word": "甚振る",
+      "reading": "いたぶる",
+      "meaning": "tra tấn"
+    },
+    {
       "word": "激甚",
       "reading": "げきじん",
       "meaning": "quyết liệt"
     },
     {
-      "word": "劇甚",
-      "reading": "げきじん",
-      "meaning": "tính mãnh liệt"
+      "word": "幸甚",
+      "reading": "こうじん",
+      "meaning": "hài lòng"
     },
     {
-      "word": "蝕甚",
-      "reading": "しょくじん",
-      "meaning": "cực đại che khuất"
+      "word": "甚句",
+      "reading": "じんく",
+      "meaning": "bài hát sống động"
     }
   ]
 }

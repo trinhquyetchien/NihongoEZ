@@ -96,14 +96,34 @@
       "meaning": "bà"
     },
     {
+      "word": "宮殿",
+      "reading": "きゅうでん",
+      "meaning": "bảo điện"
+    },
+    {
       "word": "神殿",
       "reading": "しんでん",
       "meaning": "thần điện"
     },
     {
-      "word": "幣殿",
-      "reading": "へいでん",
-      "meaning": "điện dâng lễ"
+      "word": "殿様",
+      "reading": "とのさま",
+      "meaning": "lãnh chúa phong kiến"
+    },
+    {
+      "word": "ご殿",
+      "reading": "ごてん",
+      "meaning": "lâu đài"
+    },
+    {
+      "word": "殿達",
+      "reading": "とのたち",
+      "meaning": "tính cao thượng"
+    },
+    {
+      "word": "玉殿",
+      "reading": "ぎょくでん",
+      "meaning": "ngọc điện"
     },
     {
       "word": "相殿",
@@ -111,34 +131,14 @@
       "meaning": "thờ hai hoặc nhiều vị thần trong của đền thờ"
     },
     {
-      "word": "酒殿",
-      "reading": "さかどの",
-      "meaning": "quán rượu"
-    },
-    {
-      "word": "参殿",
-      "reading": "さんでん",
-      "meaning": "lâu đài đến thăm"
+      "word": "聖殿",
+      "reading": "せいでん",
+      "meaning": "thánh địa"
     },
     {
       "word": "我殿",
       "reading": "わどの",
       "meaning": "bản thân ta"
-    },
-    {
-      "word": "殿下",
-      "reading": "でんか",
-      "meaning": "hoàng thân"
-    },
-    {
-      "word": "殿堂",
-      "reading": "でんどう",
-      "meaning": "lâu đài"
-    },
-    {
-      "word": "殿様",
-      "reading": "とのさま",
-      "meaning": "lãnh chúa phong kiến"
     }
   ]
 }

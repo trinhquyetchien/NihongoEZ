@@ -91,29 +91,9 @@
       "meaning": "cá chép"
     },
     {
-      "word": "錦鯉",
-      "reading": "にしきごい",
-      "meaning": "cá chép kiểng"
-    },
-    {
-      "word": "緋鯉",
-      "reading": "ひごい",
-      "meaning": "cá chép"
-    },
-    {
-      "word": "真鯉",
-      "reading": "まごい",
-      "meaning": "cá chép đen"
-    },
-    {
-      "word": "鯉幟",
-      "reading": "こいのぼり",
-      "meaning": "cờ hình cá chép"
-    },
-    {
-      "word": "鯉口",
-      "reading": "こいぐち",
-      "meaning": "kêu la một bao bì"
+      "word": "似鯉",
+      "reading": "にごい",
+      "meaning": "một loài cá râu"
     },
     {
       "word": "寒鯉",
@@ -121,19 +101,39 @@
       "meaning": "cá chép ngủ đông"
     },
     {
-      "word": "似鯉",
-      "reading": "にごい",
-      "meaning": "một loài cá râu"
-    },
-    {
-      "word": "鯉ヘルペスウイルス",
-      "reading": "こいヘルペスウイルス",
-      "meaning": "herpesvirus cá koi"
+      "word": "伊勢鯉",
+      "reading": "いせごい",
+      "meaning": "cá đối sọc"
     },
     {
       "word": "養鯉",
       "reading": "ようり",
       "meaning": "sự sinh sản của cá chép"
+    },
+    {
+      "word": "錦鯉",
+      "reading": "にしきごい",
+      "meaning": "cá chép kiểng"
+    },
+    {
+      "word": "鯉口",
+      "reading": "こいぐち",
+      "meaning": "kêu la một bao bì"
+    },
+    {
+      "word": "鯉幟",
+      "reading": "こいのぼり",
+      "meaning": "cờ hình cá chép"
+    },
+    {
+      "word": "俎の鯉",
+      "reading": "まないたのこい",
+      "meaning": "đối đầu với một thất vọng tình trạng"
+    },
+    {
+      "word": "緋鯉",
+      "reading": "ひごい",
+      "meaning": "cá chép"
     }
   ]
 }

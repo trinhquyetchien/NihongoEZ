@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "縛る",
+      "reading": "しばる",
+      "meaning": "buộc"
+    },
+    {
+      "word": "束縛",
+      "reading": "そくばく",
+      "meaning": "sự kiềm chế"
+    },
+    {
       "word": "縛り",
       "reading": "しばり",
       "meaning": "ràng buộc"
+    },
+    {
+      "word": "地縛り",
+      "reading": "じしばり",
+      "meaning": "ixeris stolonifera"
     },
     {
       "word": "緊縛",
@@ -104,39 +119,24 @@
       "meaning": "nguyền rủa"
     },
     {
-      "word": "自縛",
-      "reading": "じばく",
-      "meaning": "sự tự bạch"
-    },
-    {
-      "word": "繋縛",
-      "reading": "けいばく",
-      "meaning": "sự ràng buộc"
-    },
-    {
-      "word": "就縛",
-      "reading": "しゅうばく",
-      "meaning": "được đặt trong những mối ràng buộc"
-    },
-    {
-      "word": "捕縛",
-      "reading": "ほばく",
-      "meaning": "sự bắt giữ"
-    },
-    {
-      "word": "束縛",
-      "reading": "そくばく",
-      "meaning": "sự kiềm chế"
-    },
-    {
-      "word": "縛る",
-      "reading": "しばる",
-      "meaning": "buộc"
-    },
-    {
-      "word": "纏縛",
-      "reading": "てんばく",
+      "word": "縛する",
+      "reading": "ばくする",
       "meaning": "ràng buộc"
+    },
+    {
+      "word": "地縛",
+      "reading": "じしばり",
+      "meaning": "rau diếp leo"
+    },
+    {
+      "word": "地縛霊",
+      "reading": "じばくれい",
+      "meaning": "linh hồn người chết chưa được siêu thoát"
+    },
+    {
+      "word": "金縛り",
+      "reading": "かなしばり",
+      "meaning": "trói buộc"
     }
   ]
 }

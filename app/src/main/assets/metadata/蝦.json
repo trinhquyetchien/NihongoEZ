@@ -34,54 +34,54 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "蝦",
-      "reading": "かえる",
-      "meaning": "con tôm"
-    },
-    {
-      "word": "蝦蔓",
-      "reading": "えびづる",
-      "meaning": "vitis ficifolia"
-    },
-    {
       "word": "蝦夷",
       "reading": "えみし",
       "meaning": "tên&nbsp"
     },
     {
-      "word": "蝦蛄",
-      "reading": "しゃこ",
-      "meaning": "tôm tít nhật bản"
+      "word": "蝦夷地",
+      "reading": "えぞち",
+      "meaning": "ezo"
     },
     {
-      "word": "車蝦",
-      "reading": "くるまえび",
-      "meaning": "tôm pandan"
+      "word": "蝦夷狼",
+      "reading": "えぞおおかみ",
+      "meaning": "chó sói ezo ezo ōkami"
+    },
+    {
+      "word": "蝦夷鹿",
+      "reading": "えぞしか",
+      "meaning": "tuần lộc"
+    },
+    {
+      "word": "蝦夷貝",
+      "reading": "えぞばい",
+      "meaning": "loài ốc biển buccinum middendorffi"
+    },
+    {
+      "word": "蝦夷茜",
+      "reading": "えぞあかね",
+      "meaning": "sympetrum flaveolum"
+    },
+    {
+      "word": "蝦夷葱",
+      "reading": "えぞねぎ",
+      "meaning": "lá hẹ"
+    },
+    {
+      "word": "蝦夷羆",
+      "reading": "えぞひぐま",
+      "meaning": "gấu nâu ussuri"
+    },
+    {
+      "word": "蝦",
+      "reading": "かえる",
+      "meaning": "con tôm"
     },
     {
       "word": "蝦錠",
       "reading": "えびじょう",
       "meaning": "cái khoá móc"
-    },
-    {
-      "word": "醤蝦",
-      "reading": "あみ",
-      "meaning": "loài chân khớp giống tôm"
-    },
-    {
-      "word": "川蝦",
-      "reading": "かわえび",
-      "meaning": "tôm sông"
-    },
-    {
-      "word": "竜蝦",
-      "reading": "いせえび",
-      "meaning": "tôm hùm gai góc"
-    },
-    {
-      "word": "蝦蟇",
-      "reading": "がまがえる",
-      "meaning": "con cóc"
     }
   ]
 }

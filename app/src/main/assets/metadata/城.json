@@ -95,29 +95,19 @@
       "meaning": "thành"
     },
     {
-      "word": "平城",
-      "reading": "ひらじろ",
-      "meaning": "kinh đô bằng phẳng"
+      "word": "城下",
+      "reading": "じょうか",
+      "meaning": "vùng đất gần lâu đài"
     },
     {
-      "word": "古城",
-      "reading": "こじょう",
-      "meaning": "thành cổ"
+      "word": "来城",
+      "reading": "らいじょう",
+      "meaning": "đến lâu đài"
     },
     {
-      "word": "根城",
-      "reading": "ねじろ",
-      "meaning": "căn cứ"
-    },
-    {
-      "word": "長城",
-      "reading": "ちょうじょう",
-      "meaning": "trường thành"
-    },
-    {
-      "word": "居城",
-      "reading": "きょじょう",
-      "meaning": "lâu đài thành trì nơi lãnh chúa ở"
+      "word": "化城",
+      "reading": "けじょう",
+      "meaning": "tòa tháp được xây dựng bởi đức phật"
     },
     {
       "word": "城外",
@@ -125,19 +115,29 @@
       "meaning": "bên ngoài một lâu đài"
     },
     {
-      "word": "城内",
-      "reading": "じょうない",
-      "meaning": "bên trong một lâu đài"
+      "word": "敵城",
+      "reading": "てきじょう",
+      "meaning": "lâu đài của kẻ thù"
+    },
+    {
+      "word": "城兵",
+      "reading": "じょうへい",
+      "meaning": "binh sĩ giữ thành"
+    },
+    {
+      "word": "宮城",
+      "reading": "きゅうじょう",
+      "meaning": "miyagi"
+    },
+    {
+      "word": "城池",
+      "reading": "じょうち",
+      "meaning": "hào lâu đài"
     },
     {
       "word": "廃城",
       "reading": "はいじょう",
       "meaning": "thành bỏ hoang"
-    },
-    {
-      "word": "傾城",
-      "reading": "けいせい",
-      "meaning": "vẻ đẹp"
     }
   ]
 }

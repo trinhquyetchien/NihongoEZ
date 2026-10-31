@@ -91,16 +91,6 @@
       "meaning": "hậu tố tạo thành phần cuối cùng của bút danh của một số nhà văn và người biểu diễn"
     },
     {
-      "word": "亭亭",
-      "reading": "ていてい",
-      "meaning": "cao ngất"
-    },
-    {
-      "word": "亭亭たる大木",
-      "reading": "ていていたるたいぼく",
-      "meaning": "cây cổ thụ cao ngất"
-    },
-    {
       "word": "石亭",
       "reading": "せきてい",
       "meaning": "sekitei một quán trọ)"
@@ -111,19 +101,14 @@
       "meaning": "khách sạn nhỏ"
     },
     {
-      "word": "池亭",
-      "reading": "ちてい",
-      "meaning": "nhà nghỉ chân cạnh bờ hồ"
+      "word": "涼亭",
+      "reading": "りょうてい",
+      "meaning": "lương đình"
     },
     {
-      "word": "亭午",
-      "reading": "ていご",
-      "meaning": "buổi trưa"
-    },
-    {
-      "word": "旗亭",
-      "reading": "きてい",
-      "meaning": "quán ăn"
+      "word": "料亭",
+      "reading": "りょうてい",
+      "meaning": "nhà hàng"
     },
     {
       "word": "亭主",
@@ -131,9 +116,24 @@
       "meaning": "ông chủ"
     },
     {
-      "word": "涼亭",
-      "reading": "りょうてい",
-      "meaning": "lương đình"
+      "word": "亭午",
+      "reading": "ていご",
+      "meaning": "buổi trưa"
+    },
+    {
+      "word": "若竹亭",
+      "reading": "わかたけてい",
+      "meaning": "đa dạng theater wakatake"
+    },
+    {
+      "word": "勘亭流",
+      "reading": "かんていりゅう",
+      "meaning": "phong cách thư pháp kantei"
+    },
+    {
+      "word": "亭亭",
+      "reading": "ていてい",
+      "meaning": "cao ngất"
     }
   ]
 }

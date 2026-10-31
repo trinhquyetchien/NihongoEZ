@@ -92,9 +92,9 @@
       "meaning": "chốt"
     },
     {
-      "word": "鍵盤",
-      "reading": "けんばん",
-      "meaning": "bàn phím"
+      "word": "鍵の手",
+      "reading": "かぎのて",
+      "meaning": "tên hai ngón"
     },
     {
       "word": "内鍵",
@@ -102,14 +102,24 @@
       "meaning": "chìa khóa bên trong"
     },
     {
-      "word": "鍵屋",
-      "reading": "かぎや",
-      "meaning": "thợ khoá"
+      "word": "公開鍵",
+      "reading": "こうかいかぎ",
+      "meaning": "khóa công khai"
     },
     {
-      "word": "打鍵",
-      "reading": "だけん",
-      "meaning": "sự gõ phím"
+      "word": "鍵管理",
+      "reading": "かぎかんり",
+      "meaning": "sự quản lý phím"
+    },
+    {
+      "word": "鍵長",
+      "reading": "かぎちょー",
+      "meaning": "chiều dài liên kết"
+    },
+    {
+      "word": "白鍵",
+      "reading": "はっけん",
+      "meaning": "chìa khóa trắng"
     },
     {
       "word": "黒鍵",
@@ -117,24 +127,14 @@
       "meaning": "phím đen"
     },
     {
-      "word": "鍵穴",
-      "reading": "かぎあな",
-      "meaning": "lỗ khoá"
+      "word": "秘密鍵",
+      "reading": "ひみつかぎ",
+      "meaning": "khóa riêng"
     },
     {
-      "word": "関鍵",
-      "reading": "かんけん",
-      "meaning": "cửa khóa"
-    },
-    {
-      "word": "鍵束",
-      "reading": "かぎたば",
-      "meaning": "chùm chìa khóa"
-    },
-    {
-      "word": "合鍵",
-      "reading": "あいかぎ",
-      "meaning": "khóa kiểm tra"
+      "word": "鍵の穴",
+      "reading": "かぎのあな",
+      "meaning": "ổ khóa"
     }
   ]
 }

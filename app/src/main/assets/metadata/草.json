@@ -96,9 +96,39 @@
       "meaning": "cỏ"
     },
     {
-      "word": "草草",
-      "reading": "そうそう",
-      "meaning": "sự ngắn gọn"
+      "word": "草履",
+      "reading": "ぞうり",
+      "meaning": "dép bằng cỏ"
+    },
+    {
+      "word": "乳草",
+      "reading": "ちちくさ",
+      "meaning": "cây metaplexis japonica"
+    },
+    {
+      "word": "香草",
+      "reading": "こうそう",
+      "meaning": "rau thơm"
+    },
+    {
+      "word": "福草",
+      "reading": "さきくさ",
+      "meaning": "cỏ may mắn"
+    },
+    {
+      "word": "鎧草",
+      "reading": "よろいぐさ",
+      "meaning": "bạch chỉ"
+    },
+    {
+      "word": "天草",
+      "reading": "てんぐさ",
+      "meaning": "thạch xoa"
+    },
+    {
+      "word": "草苺",
+      "reading": "くさいちご",
+      "meaning": "rubus hirsutus"
     },
     {
       "word": "仕草",
@@ -109,36 +139,6 @@
       "word": "雑草",
       "reading": "ざっそう",
       "meaning": "cỏ dại"
-    },
-    {
-      "word": "草津",
-      "reading": "くさつ",
-      "meaning": "tên địa danh"
-    },
-    {
-      "word": "草本",
-      "reading": "そうほん",
-      "meaning": "những cỏ"
-    },
-    {
-      "word": "鎧草",
-      "reading": "よろいぐさ",
-      "meaning": "bạch chỉ"
-    },
-    {
-      "word": "馬草",
-      "reading": "まぐさ",
-      "meaning": "cỏ ngựa"
-    },
-    {
-      "word": "アメリカ草",
-      "reading": "アメリカそう",
-      "meaning": "hoa mười giờ"
-    },
-    {
-      "word": "蝮草",
-      "reading": "まむしぐさ",
-      "meaning": "arisaema serratum"
     }
   ]
 }

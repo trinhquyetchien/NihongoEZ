@@ -88,43 +88,18 @@
   ],
   "vocabulary": [
     {
-      "word": "拒絶",
-      "reading": "きょぜつ",
-      "meaning": "sự cự tuyệt"
-    },
-    {
-      "word": "拒止",
-      "reading": "きょし",
-      "meaning": "sự từ chối"
-    },
-    {
-      "word": "着拒",
-      "reading": "ちゃっきょ",
-      "meaning": "viết tắt của từ chối cuộc gọi đến"
-    },
-    {
-      "word": "拒食",
-      "reading": "きょしょく",
-      "meaning": "từ chối lời mời"
-    },
-    {
-      "word": "抗拒",
-      "reading": "こうきょ",
-      "meaning": "sự chống cự"
-    },
-    {
-      "word": "峻拒",
-      "reading": "しゅんきょ",
-      "meaning": "từ chối phẳng"
-    },
-    {
       "word": "拒否",
       "reading": "きょひ",
       "meaning": "sự cự tuyệt"
     },
     {
-      "word": "拒む",
-      "reading": "こばむ",
+      "word": "拒絶",
+      "reading": "きょぜつ",
+      "meaning": "sự cự tuyệt"
+    },
+    {
+      "word": "拒否る",
+      "reading": "きょひる",
       "meaning": "từ chối"
     },
     {
@@ -133,9 +108,34 @@
       "meaning": "quyền phủ quyết"
     },
     {
-      "word": "拒否る",
-      "reading": "きょひる",
+      "word": "拒絶感",
+      "reading": "きょぜつかん",
       "meaning": "từ chối"
+    },
+    {
+      "word": "拒む",
+      "reading": "こばむ",
+      "meaning": "từ chối"
+    },
+    {
+      "word": "拒食",
+      "reading": "きょしょく",
+      "meaning": "từ chối lời mời"
+    },
+    {
+      "word": "拒食症",
+      "reading": "きょしょくしょう",
+      "meaning": "chứng biếng ăn"
+    },
+    {
+      "word": "着拒",
+      "reading": "ちゃっきょ",
+      "meaning": "viết tắt của từ chối cuộc gọi đến"
+    },
+    {
+      "word": "抗拒",
+      "reading": "こうきょ",
+      "meaning": "sự chống cự"
     }
   ]
 }

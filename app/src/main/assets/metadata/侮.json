@@ -70,34 +70,19 @@
   ],
   "vocabulary": [
     {
-      "word": "侮",
-      "reading": "ぶ",
-      "meaning": "xem thường"
+      "word": "侮辱",
+      "reading": "ぶじょく",
+      "meaning": "sự nhục mạ"
     },
     {
-      "word": "侮る",
-      "reading": "あなどる",
-      "meaning": "khinh bỉ"
+      "word": "侮辱的",
+      "reading": "ぶじょくてき",
+      "meaning": "xúc phạm"
     },
     {
-      "word": "侮慢",
-      "reading": "ぶまん",
-      "meaning": "sự khinh thường"
-    },
-    {
-      "word": "侮言",
-      "reading": "ぶげん",
-      "meaning": "sự lăng mạ"
-    },
-    {
-      "word": "軽侮",
-      "reading": "けいぶ",
-      "meaning": "sự coi thường"
-    },
-    {
-      "word": "侮り",
-      "reading": "あなどり",
-      "meaning": "khinh thường"
+      "word": "侮辱罪",
+      "reading": "ぶじょくざい",
+      "meaning": "tội phỉ báng"
     },
     {
       "word": "侮蔑",
@@ -105,19 +90,34 @@
       "meaning": "sự coi thường"
     },
     {
-      "word": "侮辱",
-      "reading": "ぶじょく",
-      "meaning": "sự nhục mạ"
+      "word": "侮蔑的",
+      "reading": "ぶべつてき",
+      "meaning": "mang tính khinh miệt"
+    },
+    {
+      "word": "侮蔑語",
+      "reading": "ぶべつご",
+      "meaning": "ngôn từ xúc phạm"
+    },
+    {
+      "word": "侮る",
+      "reading": "あなどる",
+      "meaning": "khinh bỉ"
+    },
+    {
+      "word": "侮り",
+      "reading": "あなどり",
+      "meaning": "khinh thường"
+    },
+    {
+      "word": "侮",
+      "reading": "ぶ",
+      "meaning": "xem thường"
     },
     {
       "word": "侮日",
       "reading": "ぶにち",
       "meaning": "khinh nhật"
-    },
-    {
-      "word": "侮辱罪",
-      "reading": "ぶじょくざい",
-      "meaning": "tội phỉ báng"
     }
   ]
 }

@@ -106,24 +106,29 @@
   ],
   "vocabulary": [
     {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "công viên"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "vườn bách thú.sở thú"
+    },
+    {
+      "word": "園芸",
+      "reading": "えんげい",
+      "meaning": "nghệ thuật cây cảnh"
+    },
+    {
       "word": "園",
       "reading": "その",
       "meaning": "vườn"
     },
     {
-      "word": "祇園",
-      "reading": "ぎおん",
-      "meaning": ""
-    },
-    {
-      "word": "退園",
-      "reading": "たいえん",
-      "meaning": "đi ra ngoài từ sở thú và công viên"
-    },
-    {
-      "word": "公園",
-      "reading": "こうえん",
-      "meaning": "công viên"
+      "word": "田園",
+      "reading": "でんえん",
+      "meaning": "vùng nông thôn"
     },
     {
       "word": "学園",
@@ -131,14 +136,14 @@
       "meaning": "khuôn viên trường"
     },
     {
-      "word": "遊園",
-      "reading": "ゆうえん",
-      "meaning": "sân chơi"
+      "word": "来園",
+      "reading": "らいえん",
+      "meaning": "việc đến công viên"
     },
     {
-      "word": "園地",
-      "reading": "えんち",
-      "meaning": "sân vườn"
+      "word": "自園",
+      "reading": "じえん",
+      "meaning": "vườn của mình"
     },
     {
       "word": "バラ園",
@@ -146,14 +151,9 @@
       "meaning": "vườn hoa hồng"
     },
     {
-      "word": "造園",
-      "reading": "ぞうえん",
-      "meaning": "kiến trúc phong cảnh"
-    },
-    {
-      "word": "卒園",
-      "reading": "そつえん",
-      "meaning": "tốt nghiệp mẫu giáo"
+      "word": "保育園",
+      "reading": "ほいくえん",
+      "meaning": "nhà trẻ"
     }
   ]
 }

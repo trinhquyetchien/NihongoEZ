@@ -91,9 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "黙黙",
-      "reading": "もくもく",
-      "meaning": "yên lặng"
+      "word": "黙る",
+      "reading": "だまる",
+      "meaning": "câm"
+    },
+    {
+      "word": "沈黙",
+      "reading": "ちんもく",
+      "meaning": "sự im lặng"
+    },
+    {
+      "word": "黙示録",
+      "reading": "もくしろく",
+      "meaning": "sách khải huyền"
     },
     {
       "word": "暗黙",
@@ -101,44 +111,34 @@
       "meaning": "trầm mặc"
     },
     {
-      "word": "黙想",
-      "reading": "もくそう",
-      "meaning": "sự ngẫm nghĩ"
+      "word": "暗黙的",
+      "reading": "あんもくてき",
+      "meaning": "ngụ ý"
     },
     {
-      "word": "黙然",
-      "reading": "もくぜん",
+      "word": "暗黙知",
+      "reading": "あんもくち",
+      "meaning": "kiến thức ngầm"
+    },
+    {
+      "word": "黙々と",
+      "reading": "もくもくと",
+      "meaning": "âm thầm và nhanh chóng"
+    },
+    {
+      "word": "黙認",
+      "reading": "もくにん",
+      "meaning": "sự nhắm mắt làm ngơ"
+    },
+    {
+      "word": "黙り",
+      "reading": "だんまり",
       "meaning": "sự yên lặng"
     },
     {
-      "word": "黙殺",
-      "reading": "もくさつ",
-      "meaning": "sự không để ý tới"
-    },
-    {
-      "word": "黙従",
-      "reading": "もくじゅう",
-      "meaning": "bằng lòng"
-    },
-    {
-      "word": "黙劇",
-      "reading": "もくげき",
-      "meaning": "kịch câm"
-    },
-    {
-      "word": "黙祷",
-      "reading": "もくとう",
-      "meaning": "sự thầm cầu nguyện"
-    },
-    {
-      "word": "黙示",
-      "reading": "もくし",
-      "meaning": "sự khải huyền"
-    },
-    {
-      "word": "黙座",
-      "reading": "もくざ",
-      "meaning": "ngồi yên lặng"
+      "word": "黙秘",
+      "reading": "もくひ",
+      "meaning": "sự im lặng"
     }
   ]
 }

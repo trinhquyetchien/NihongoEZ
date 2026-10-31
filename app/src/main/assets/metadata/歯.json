@@ -114,29 +114,9 @@
       "meaning": "răng"
     },
     {
-      "word": "歯内歯",
-      "reading": "はないは",
-      "meaning": "răng trong răng"
-    },
-    {
-      "word": "斜歯歯車",
-      "reading": "はすばはぐるま",
-      "meaning": "bánh răng xoắn"
-    },
-    {
-      "word": "歯茎",
-      "reading": "はぐき",
-      "meaning": "lợi"
-    },
-    {
-      "word": "歯磨",
-      "reading": "はみがき",
-      "meaning": "đánh răng"
-    },
-    {
-      "word": "犬歯",
-      "reading": "けんし",
-      "meaning": "răng nanh"
+      "word": "虫歯",
+      "reading": "むしば",
+      "meaning": "răng sâu"
     },
     {
       "word": "歯車",
@@ -144,19 +124,39 @@
       "meaning": "bánh răng"
     },
     {
+      "word": "歯科",
+      "reading": "しか",
+      "meaning": "khoa răng"
+    },
+    {
+      "word": "上歯",
+      "reading": "うわば",
+      "meaning": "răng trên"
+    },
+    {
+      "word": "歯間",
+      "reading": "しかん",
+      "meaning": "kẽ răng"
+    },
+    {
+      "word": "高歯",
+      "reading": "たかば",
+      "meaning": "guốc gỗ cao gót"
+    },
+    {
+      "word": "下歯",
+      "reading": "したば",
+      "meaning": "răng hàm dưới"
+    },
+    {
       "word": "歯型",
       "reading": "はがた",
       "meaning": "dấu răng"
     },
     {
-      "word": "歯垢",
-      "reading": "しこう",
-      "meaning": "bựa răng"
-    },
-    {
-      "word": "歯石",
-      "reading": "しせき",
-      "meaning": "cáu răng"
+      "word": "歯面",
+      "reading": "しめん",
+      "meaning": "bề mặt răng"
     }
   ]
 }

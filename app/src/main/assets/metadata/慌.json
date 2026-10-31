@@ -106,9 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "恐慌",
-      "reading": "きょうこう",
-      "meaning": "khủng hoảng"
+      "word": "慌てる",
+      "reading": "あわてる",
+      "meaning": "trở nên lộn xộn"
+    },
+    {
+      "word": "慌ただしい",
+      "reading": "あわただしい",
+      "meaning": "bận rộn"
     },
     {
       "word": "慌てて",
@@ -116,19 +121,9 @@
       "meaning": "vội vàng"
     },
     {
-      "word": "慌てる",
-      "reading": "あわてる",
-      "meaning": "trở nên lộn xộn"
-    },
-    {
       "word": "慌て者",
       "reading": "あわてもの",
       "meaning": "người vội vàng"
-    },
-    {
-      "word": "大恐慌",
-      "reading": "だいきょうこう",
-      "meaning": "thời kỳ đại khủng hoảng"
     },
     {
       "word": "大慌て",
@@ -136,9 +131,14 @@
       "meaning": "sự vô cùng lúng túng"
     },
     {
-      "word": "金融恐慌",
-      "reading": "きんゆうきょうこう",
-      "meaning": "cơn khủng hoảng tài chính hoặc hoảng sợ"
+      "word": "恐慌",
+      "reading": "きょうこう",
+      "meaning": "khủng hoảng"
+    },
+    {
+      "word": "大恐慌",
+      "reading": "だいきょうこう",
+      "meaning": "thời kỳ đại khủng hoảng"
     },
     {
       "word": "世界恐慌",
@@ -146,9 +146,9 @@
       "meaning": "khủng hoảng kinh tế thế giới"
     },
     {
-      "word": "昭和恐慌",
-      "reading": "しょうわきょうこう",
-      "meaning": "cuộc khủng hoảng chiêu hòa"
+      "word": "世界大恐慌",
+      "reading": "せかいだいきょうこう",
+      "meaning": "đại khủng hoảng thế giới"
     },
     {
       "word": "安定恐慌",

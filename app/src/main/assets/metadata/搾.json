@@ -87,9 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "生搾り",
-      "reading": "せいしぼり",
-      "meaning": "nước ép từ trái cây tươi"
+      "word": "搾取",
+      "reading": "さくしゅ",
+      "meaning": "sự bóc lột"
     },
     {
       "word": "搾り",
@@ -97,34 +97,9 @@
       "meaning": "sự ép"
     },
     {
-      "word": "搾取",
-      "reading": "さくしゅ",
-      "meaning": "sự bóc lột"
-    },
-    {
-      "word": "搾乳",
-      "reading": "さくにゅう",
-      "meaning": "sự vắt sữa"
-    },
-    {
-      "word": "搾菜",
-      "reading": "ザーサイ",
-      "meaning": "tên món dưa muối đặc sản của thành phố trùng khánh và tỉnh tứ xuyên"
-    },
-    {
-      "word": "搾油",
-      "reading": "さくゆ",
-      "meaning": "sự ép dầu"
-    },
-    {
-      "word": "圧搾",
-      "reading": "あっさく",
-      "meaning": "sự ép"
-    },
-    {
-      "word": "搾る",
-      "reading": "しぼる",
-      "meaning": "vắt"
+      "word": "生搾り",
+      "reading": "せいしぼり",
+      "meaning": "nước ép từ trái cây tươi"
     },
     {
       "word": "乳搾り",
@@ -132,9 +107,34 @@
       "meaning": "người vắt sữa"
     },
     {
+      "word": "搾乳",
+      "reading": "さくにゅう",
+      "meaning": "sự vắt sữa"
+    },
+    {
+      "word": "搾乳器",
+      "reading": "さくにゅうき",
+      "meaning": "máy vắt sữa"
+    },
+    {
+      "word": "圧搾",
+      "reading": "あっさく",
+      "meaning": "sự ép"
+    },
+    {
       "word": "圧搾器",
       "reading": "あっさくき",
       "meaning": "bình nén khí"
+    },
+    {
+      "word": "圧搾機",
+      "reading": "あっさくき",
+      "meaning": "máy ép"
+    },
+    {
+      "word": "搾菜",
+      "reading": "ザーサイ",
+      "meaning": "tên món dưa muối đặc sản của thành phố trùng khánh và tỉnh tứ xuyên"
     }
   ]
 }

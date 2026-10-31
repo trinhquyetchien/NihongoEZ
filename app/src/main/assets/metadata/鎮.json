@@ -91,19 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "鎮",
-      "reading": "ちん",
-      "meaning": "đè nén bằng vật nặng"
+      "word": "鎮守",
+      "reading": "ちんじゅ",
+      "meaning": "sự phái binh sĩ đến trấn thủ"
     },
     {
-      "word": "鎮祭",
-      "reading": "ちんさい",
-      "meaning": "nghi lễ thờ cúng các vị thần"
+      "word": "鎮守社",
+      "reading": "ちんじゅしゃ",
+      "meaning": "đền thờ thành hoàng"
     },
     {
-      "word": "鎮子",
-      "reading": "ちんし",
-      "meaning": "quả cân trang trí được sử dụng để giữ cho rèm cửa và những thứ tương tự không bị gió thổi tung"
+      "word": "鎮守府",
+      "reading": "ちんじゅふ",
+      "meaning": "cơ sở quân đội"
+    },
+    {
+      "word": "鎮圧",
+      "reading": "ちんあつ",
+      "meaning": "sự trấn áp"
     },
     {
       "word": "鎮痛",
@@ -111,34 +116,29 @@
       "meaning": "giảm đau"
     },
     {
+      "word": "鎮痛性",
+      "reading": "ちんつうせい",
+      "meaning": "làm mất cảm giác đau"
+    },
+    {
+      "word": "鎮痛薬",
+      "reading": "ちんつうやく",
+      "meaning": "thuốc giảm đau"
+    },
+    {
+      "word": "鎮痛剤",
+      "reading": "ちんつうざい",
+      "meaning": "thuốc giảm đau"
+    },
+    {
       "word": "鎮座",
       "reading": "ちんざ",
       "meaning": "sự trấn toạ của thần linh"
     },
     {
-      "word": "鎮守",
-      "reading": "ちんじゅ",
-      "meaning": "sự phái binh sĩ đến trấn thủ"
-    },
-    {
-      "word": "鎮魂",
-      "reading": "ちんこん",
-      "meaning": "nghỉ ngơi những linh hồn"
-    },
-    {
-      "word": "重鎮",
-      "reading": "じゅうちん",
-      "meaning": "người lãnh đạo"
-    },
-    {
-      "word": "風鎮",
-      "reading": "ふうちん",
-      "meaning": "hòn đá hay vật gì đó để chặn không cho gió làm đổ tường hay làm bay cái gì đó"
-    },
-    {
-      "word": "鎮台",
-      "reading": "ちんだい",
-      "meaning": "đóng quân"
+      "word": "鎮静",
+      "reading": "ちんせい",
+      "meaning": "sự trấn tĩnh"
     }
   ]
 }

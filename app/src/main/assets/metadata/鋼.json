@@ -89,24 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "鉄鋼",
+      "reading": "てっこう",
+      "meaning": "gang thép"
+    },
+    {
       "word": "鋼",
       "reading": "はがね",
       "meaning": "thép"
     },
     {
-      "word": "硬鋼",
-      "reading": "こうこう",
-      "meaning": "thép cứng"
+      "word": "鋼色",
+      "reading": "はがねいろ",
+      "meaning": "sắc xanh của thép"
     },
     {
-      "word": "鋼鉄",
-      "reading": "こうてつ",
-      "meaning": "thép"
-    },
-    {
-      "word": "鋼材",
-      "reading": "こうざい",
-      "meaning": "thép thành phẩm"
+      "word": "鋼線",
+      "reading": "こうせん",
+      "meaning": "dây thép"
     },
     {
       "word": "鋼製",
@@ -114,29 +114,29 @@
       "meaning": "làm từ thép"
     },
     {
-      "word": "クロムモリブデン鋼",
-      "reading": "クロムモリブデンこう",
-      "meaning": "thép crom molypden"
+      "word": "鋼枠",
+      "reading": "こうわく",
+      "meaning": "khung thép"
     },
     {
-      "word": "鋼管",
-      "reading": "こうかん",
-      "meaning": "ống thép"
+      "word": "丸鋼",
+      "reading": "まるこう",
+      "meaning": "thép tròn"
     },
     {
-      "word": "鋼玉",
-      "reading": "こうぎょく",
-      "meaning": "corunđum"
+      "word": "玉鋼",
+      "reading": "たまはがね",
+      "meaning": "một loại sắt đã được tinh chế để rèn kiếm nhật"
     },
     {
-      "word": "鋼索",
-      "reading": "こうさく",
-      "meaning": "dây thép"
+      "word": "鋼橋",
+      "reading": "こうきょう",
+      "meaning": "cầu thép"
     },
     {
-      "word": "鋼色",
-      "reading": "はがねいろ",
-      "meaning": "sắc xanh của thép"
+      "word": "特殊鋼",
+      "reading": "とくしゅこう",
+      "meaning": "thép đặc biệt"
     }
   ]
 }

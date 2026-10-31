@@ -41,19 +41,14 @@
       "meaning": "trợ từ chủ yếu dùng trong hán văn"
     },
     {
-      "word": "可也",
-      "reading": "かなり",
-      "meaning": "kha khá"
-    },
-    {
       "word": "空也餅",
       "reading": "くうやもち",
       "meaning": "kẹo bánh gạo mochi miếng nhỏ có bọc nhân đậu đỏ nghiền bên trong"
     },
     {
-      "word": "悪法も亦法也",
-      "reading": "あくほうもまたほうなり",
-      "meaning": "luật xấu cũng vẫn là luật"
+      "word": "可也",
+      "reading": "かなり",
+      "meaning": "kha khá"
     },
     {
       "word": "知らぬは亭主許り也",
@@ -64,6 +59,11 @@
       "word": "弱き者よ汝の名は女也",
       "reading": "よわきものよなんじのなはおんななり",
       "meaning": "yếu đuối"
+    },
+    {
+      "word": "悪法も亦法也",
+      "reading": "あくほうもまたほうなり",
+      "meaning": "luật xấu cũng vẫn là luật"
     }
   ]
 }

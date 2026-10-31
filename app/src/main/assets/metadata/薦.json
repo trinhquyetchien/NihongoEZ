@@ -88,9 +88,29 @@
   ],
   "vocabulary": [
     {
-      "word": "薦",
-      "reading": "こも",
-      "meaning": "dệt rơm"
+      "word": "推薦",
+      "reading": "すいせん",
+      "meaning": "sự giới thiệu"
+    },
+    {
+      "word": "推薦者",
+      "reading": "すいせんしゃ",
+      "meaning": "người tiến cử"
+    },
+    {
+      "word": "推薦書",
+      "reading": "すいせんしょ",
+      "meaning": "đề xuất"
+    },
+    {
+      "word": "推薦枠",
+      "reading": "すいせんわく",
+      "meaning": "giới hạn cho các đề xuất"
+    },
+    {
+      "word": "推薦状",
+      "reading": "すいせんじょう",
+      "meaning": "lời đề nghị"
     },
     {
       "word": "薦め",
@@ -98,24 +118,9 @@
       "meaning": "khuyến cáo"
     },
     {
-      "word": "薦僧",
-      "reading": "こもそう",
-      "meaning": "komusō"
-    },
-    {
-      "word": "御薦",
-      "reading": "おこも",
-      "meaning": "người ăn xin"
-    },
-    {
-      "word": "荒薦",
-      "reading": "あらごも",
-      "meaning": "thảm dệt thô"
-    },
-    {
-      "word": "薦骨",
-      "reading": "せんこつ",
-      "meaning": "xương cùng"
+      "word": "薦める",
+      "reading": "すすめる",
+      "meaning": "khuyên bảo"
     },
     {
       "word": "自薦",
@@ -123,19 +128,14 @@
       "meaning": "sự tự tiến cử"
     },
     {
-      "word": "薦挙",
-      "reading": "せんきょ",
-      "meaning": "khuyến cáo"
-    },
-    {
       "word": "他薦",
       "reading": "たせん",
       "meaning": "sự giới thiệu"
     },
     {
-      "word": "推薦",
-      "reading": "すいせん",
-      "meaning": "sự giới thiệu"
+      "word": "薦",
+      "reading": "こも",
+      "meaning": "dệt rơm"
     }
   ]
 }

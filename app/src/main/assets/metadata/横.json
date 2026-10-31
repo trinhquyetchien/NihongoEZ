@@ -111,9 +111,19 @@
       "meaning": "bề ngang"
     },
     {
-      "word": "横道",
-      "reading": "よこみち",
-      "meaning": "đường rẽ ngang"
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "sự băng qua"
+    },
+    {
+      "word": "横綱",
+      "reading": "よこづな",
+      "meaning": "một loại đô vật kiểu mới"
+    },
+    {
+      "word": "横に",
+      "reading": "よこに",
+      "meaning": "ngang qua"
     },
     {
       "word": "横浜",
@@ -121,39 +131,29 @@
       "meaning": "thành phố yokohama"
     },
     {
-      "word": "横領",
-      "reading": "おうりょう",
-      "meaning": "sự tham ô"
+      "word": "横足",
+      "reading": "よこあし",
+      "meaning": "bước ngang"
     },
     {
-      "word": "横腹",
-      "reading": "よこばら",
-      "meaning": "đứng bên"
-    },
-    {
-      "word": "横目",
-      "reading": "よこめ",
-      "meaning": "sự liếc mắt"
-    },
-    {
-      "word": "横暴",
-      "reading": "おうぼう",
-      "meaning": "việc thực hiện các hành vi bất hợp pháp và bạo lực bằng quyền lực và sức mạnh"
-    },
-    {
-      "word": "縦横",
-      "reading": "たてよこ",
-      "meaning": "dọc ngang"
-    },
-    {
-      "word": "横棒",
-      "reading": "よこぼう",
-      "meaning": "xà ngang"
+      "word": "横面",
+      "reading": "よこつら",
+      "meaning": "ủng hộ mặt"
     },
     {
       "word": "右横",
       "reading": "みぎよこ",
       "meaning": "phía bên phải"
+    },
+    {
+      "word": "横文",
+      "reading": "おうぶん",
+      "meaning": "văn bản viết theo phương nằm ngang"
+    },
+    {
+      "word": "横レス",
+      "reading": "よこレス",
+      "meaning": "xen ngang trò chuyện"
     }
   ]
 }

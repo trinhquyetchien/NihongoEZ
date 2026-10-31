@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
+      "word": "地理",
+      "reading": "ちり",
+      "meaning": "địa lý"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "sự xử lý"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "sự chỉnh lí"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "vật lý"
+    },
+    {
+      "word": "合理",
+      "reading": "ごうり",
+      "meaning": "hợp lý"
+    },
+    {
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "nguyên lý"
+    },
+    {
       "word": "理",
       "reading": "り",
       "meaning": "suy luận"
     },
     {
-      "word": "無理矢理",
-      "reading": "むりやり",
-      "meaning": "bằng sức mạnh"
+      "word": "理体",
+      "reading": "りたい",
+      "meaning": "noumenon"
     },
     {
-      "word": "理外の理",
-      "reading": "りがいのり",
-      "meaning": "lý do mơ hồ"
+      "word": "木理",
+      "reading": "もくり",
+      "meaning": "thớ"
     },
     {
-      "word": "倫理理論",
-      "reading": "りんりりろん",
-      "meaning": "luân lý học"
-    },
-    {
-      "word": "理論物理学",
-      "reading": "りろんぶつりがく",
-      "meaning": "vật lý học lý thuyết"
-    },
-    {
-      "word": "数理論理学",
-      "reading": "すうりろんりがく",
-      "meaning": "lôgic có tính chất tượng trưng"
-    },
-    {
-      "word": "理由の原理",
-      "reading": "りゆうのげんり",
-      "meaning": "nguyên lý của lý do"
-    },
-    {
-      "word": "病理生理学",
-      "reading": "びょうりせいりがく",
-      "meaning": "sinh lý bệnh học"
-    },
-    {
-      "word": "心理学理論",
-      "reading": "しんりがくりろん",
-      "meaning": "lý thuyết tâm lý"
-    },
-    {
-      "word": "修理サービスベッセル(修理)",
-      "reading": "しゅうりサービスベッセル(しゅうり)",
-      "meaning": "dịch vụ sửa chữa tàu"
+      "word": "不理",
+      "reading": "ふり",
+      "meaning": "vô lý"
     }
   ]
 }

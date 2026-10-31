@@ -86,8 +86,18 @@
   ],
   "vocabulary": [
     {
-      "word": "暗礁",
-      "reading": "あんしょう",
+      "word": "座礁",
+      "reading": "ざしょう",
+      "meaning": "mắc cạn"
+    },
+    {
+      "word": "珊瑚礁",
+      "reading": "さんごしょう",
+      "meaning": "bãi san hô"
+    },
+    {
+      "word": "岩礁",
+      "reading": "がんしょう",
       "meaning": "đá ngầm"
     },
     {
@@ -96,19 +106,9 @@
       "meaning": "đảo san hô vòng"
     },
     {
-      "word": "離礁",
-      "reading": "りしょう",
-      "meaning": "sự nổi lại"
-    },
-    {
-      "word": "岩礁",
-      "reading": "がんしょう",
+      "word": "暗礁",
+      "reading": "あんしょう",
       "meaning": "đá ngầm"
-    },
-    {
-      "word": "サンゴ礁",
-      "reading": "さんごしょう",
-      "meaning": "rặng san hô"
     },
     {
       "word": "漁礁",
@@ -121,19 +121,19 @@
       "meaning": "đá ngầm nhân tạo"
     },
     {
-      "word": "坐礁",
-      "reading": "ざしょう",
-      "meaning": "sự mắc cạn"
-    },
-    {
-      "word": "堡礁",
-      "reading": "ほしょう",
-      "meaning": "bãi đá ngầm chướng ngại vật"
-    },
-    {
       "word": "礁湖",
       "reading": "しょうこ",
       "meaning": "đầm chắn sóng"
+    },
+    {
+      "word": "離礁",
+      "reading": "りしょう",
+      "meaning": "sự nổi lại"
+    },
+    {
+      "word": "坐礁",
+      "reading": "ざしょう",
+      "meaning": "sự mắc cạn"
     }
   ]
 }

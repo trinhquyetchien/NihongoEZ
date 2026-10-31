@@ -111,14 +111,9 @@
       "meaning": "thôn xã"
     },
     {
-      "word": "村落",
-      "reading": "そんらく",
-      "meaning": "xã"
-    },
-    {
-      "word": "村社",
-      "reading": "そんしゃ",
-      "meaning": "đền làng"
+      "word": "農村",
+      "reading": "のうそん",
+      "meaning": "nông thôn"
     },
     {
       "word": "漁村",
@@ -126,34 +121,39 @@
       "meaning": "làng chài"
     },
     {
-      "word": "寒村",
-      "reading": "かんそん",
-      "meaning": "nơi khỉ ho cò gáy"
-    },
-    {
-      "word": "村庄",
-      "reading": "そんしょう",
-      "meaning": "làng"
-    },
-    {
-      "word": "近村",
-      "reading": "きんそん",
-      "meaning": "làng bên cạnh"
-    },
-    {
-      "word": "廃村",
-      "reading": "はいそん",
-      "meaning": "làng bỏ hoang"
-    },
-    {
-      "word": "同村",
-      "reading": "どうそん",
-      "meaning": "cùng làng"
-    },
-    {
       "word": "他村",
       "reading": "たそん",
       "meaning": "làng khác"
+    },
+    {
+      "word": "全村",
+      "reading": "ぜんそん",
+      "meaning": "cả làng"
+    },
+    {
+      "word": "村道",
+      "reading": "そんどう",
+      "meaning": "đường làng"
+    },
+    {
+      "word": "村々",
+      "reading": "むらむら",
+      "meaning": "nhiều ngôi làng"
+    },
+    {
+      "word": "村費",
+      "reading": "そんぴ",
+      "meaning": "chi phí của làng"
+    },
+    {
+      "word": "集村",
+      "reading": "しゅうそん",
+      "meaning": "ngôi làng"
+    },
+    {
+      "word": "旧村",
+      "reading": "きゅうそん",
+      "meaning": "làng cũ"
     }
   ]
 }

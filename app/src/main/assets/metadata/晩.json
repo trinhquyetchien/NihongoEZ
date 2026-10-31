@@ -109,9 +109,9 @@
       "meaning": "buổi tối"
     },
     {
-      "word": "昨晩",
-      "reading": "さくばん",
-      "meaning": "tối hôm qua"
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "đêm đêm"
     },
     {
       "word": "今晩",
@@ -119,39 +119,39 @@
       "meaning": "đêm nay"
     },
     {
-      "word": "晩成",
-      "reading": "ばんせい",
-      "meaning": "sự hình thành muộn"
+      "word": "晩御飯",
+      "reading": "ばんごはん",
+      "meaning": "bữa tối"
     },
     {
-      "word": "晩方",
-      "reading": "ばんがた",
-      "meaning": "ngả sang chiều"
+      "word": "晩に",
+      "reading": "ばんに",
+      "meaning": "vào buổi tối"
     },
     {
-      "word": "晩酌",
-      "reading": "ばんしゃく",
-      "meaning": "đồ uống buổi tối"
+      "word": "お晩",
+      "reading": "おばん",
+      "meaning": "chào buổi tối"
     },
     {
-      "word": "晩稲",
-      "reading": "おくて",
-      "meaning": "sự gieo cấy muộn"
+      "word": "その晩",
+      "reading": "そのばん",
+      "meaning": "tối đó"
     },
     {
-      "word": "晩照",
-      "reading": "ばんしょう",
-      "meaning": "hoàng hôn"
+      "word": "一晩",
+      "reading": "ひとばん",
+      "meaning": "một đêm"
     },
     {
-      "word": "晩生",
-      "reading": "おくて",
-      "meaning": "sự gieo cấy muộn"
+      "word": "一晩中",
+      "reading": "ひとばんじゅう",
+      "meaning": "cả đêm"
     },
     {
-      "word": "晩夏",
-      "reading": "ばんか",
-      "meaning": "cuối hạ"
+      "word": "丸一晩",
+      "reading": "まるひとばん",
+      "meaning": "cả đêm"
     }
   ]
 }

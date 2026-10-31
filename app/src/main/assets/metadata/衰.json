@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "衰損",
-      "reading": "すいそん",
-      "meaning": "bị gãy"
+      "word": "衰える",
+      "reading": "おとろえる",
+      "meaning": "sa sút"
+    },
+    {
+      "word": "老衰",
+      "reading": "ろうすい",
+      "meaning": "tình trạng lão suy"
+    },
+    {
+      "word": "衰退",
+      "reading": "すいたい",
+      "meaning": "suy sụp"
+    },
+    {
+      "word": "衰退期",
+      "reading": "すいたいき",
+      "meaning": "thời kỳ suy vong"
     },
     {
       "word": "衰え",
@@ -99,44 +114,29 @@
       "meaning": "sự suy yếu đi"
     },
     {
-      "word": "衰色",
-      "reading": "すいしょく",
-      "meaning": "mờ dần có màu"
+      "word": "衰弱",
+      "reading": "すいじゃく",
+      "meaning": "bệnh suy nhược"
     },
     {
-      "word": "必衰",
-      "reading": "ひっすい",
-      "meaning": "giáp giới suy sụp"
+      "word": "減衰",
+      "reading": "げんすい",
+      "meaning": "sự suy giảm"
     },
     {
-      "word": "衰死",
-      "reading": "すいし",
-      "meaning": "trở thành là xúc xắc và hốc hác"
+      "word": "減衰量",
+      "reading": "げんすいりょう",
+      "meaning": "độ suy giảm"
     },
     {
-      "word": "衰残",
-      "reading": "すいざん",
-      "meaning": "gầy mòn"
+      "word": "減衰器",
+      "reading": "げんすいき",
+      "meaning": "bộ suy giảm"
     },
     {
-      "word": "衰運",
-      "reading": "すいうん",
-      "meaning": "vận may đi xuống"
-    },
-    {
-      "word": "衰勢",
-      "reading": "すいせい",
-      "meaning": "xu hướng xuống dốc"
-    },
-    {
-      "word": "衰態",
-      "reading": "すいたい",
-      "meaning": "làm yếu đi"
-    },
-    {
-      "word": "衰替",
-      "reading": "すいたい",
-      "meaning": "suy yếu"
+      "word": "減衰率",
+      "reading": "げんすいりつ",
+      "meaning": "sự suy giảm"
     }
   ]
 }

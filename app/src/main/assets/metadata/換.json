@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "換質換位",
-      "reading": "かんしつかんい",
-      "meaning": "hoán đổi tính chất và trạng thái"
-    },
-    {
-      "word": "引換",
-      "reading": "ひきかえ",
-      "meaning": "trên sự trái ngược"
-    },
-    {
-      "word": "換価",
-      "reading": "かんか",
-      "meaning": "thẩm định"
-    },
-    {
-      "word": "乗換",
-      "reading": "のりかえ",
-      "meaning": "chuyển"
-    },
-    {
-      "word": "換え",
-      "reading": "かえ",
-      "meaning": "thay đổi"
-    },
-    {
-      "word": "切換",
-      "reading": "きりかえ",
-      "meaning": "sự chuyển đổi"
-    },
-    {
       "word": "交換",
       "reading": "こうかん",
       "meaning": "chuyển đổi"
     },
     {
-      "word": "換言",
-      "reading": "かんげん",
-      "meaning": "sự nói bằng cách khác"
-    },
-    {
-      "word": "換質",
-      "reading": "かんしつ",
-      "meaning": "sự thay đổi tính chất"
-    },
-    {
       "word": "換気",
       "reading": "かんき",
       "meaning": "lưu thông không khí"
+    },
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "sự chuyển đổi"
+    },
+    {
+      "word": "換算",
+      "reading": "かんさん",
+      "meaning": "sự đổi"
+    },
+    {
+      "word": "交換円",
+      "reading": "こうかんえん",
+      "meaning": "đồng yên dễ chuyển đổi"
+    },
+    {
+      "word": "交換手",
+      "reading": "こうかんしゅ",
+      "meaning": "người trực tổng đài"
+    },
+    {
+      "word": "交換所",
+      "reading": "こうかんじょ",
+      "meaning": "trung tâm thanh toán bù trừ"
+    },
+    {
+      "word": "交換型",
+      "reading": "こうかんがた",
+      "meaning": "loại trao đổi"
+    },
+    {
+      "word": "交換船",
+      "reading": "こうかんせん",
+      "meaning": "thuyền hồi hương"
+    },
+    {
+      "word": "変換",
+      "reading": "へんかん",
+      "meaning": "sự biến đổi"
     }
   ]
 }

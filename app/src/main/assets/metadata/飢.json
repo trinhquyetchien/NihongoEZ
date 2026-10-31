@@ -87,14 +87,39 @@
   ],
   "vocabulary": [
     {
-      "word": "飢餓",
-      "reading": "きが",
-      "meaning": "đói kém"
+      "word": "飢饉",
+      "reading": "ききん",
+      "meaning": "năm mất mùa"
+    },
+    {
+      "word": "飢える",
+      "reading": "うえる",
+      "meaning": "đói"
     },
     {
       "word": "飢え",
       "reading": "うえ",
       "meaning": "đói"
+    },
+    {
+      "word": "飢餓",
+      "reading": "きが",
+      "meaning": "đói kém"
+    },
+    {
+      "word": "飢餓感",
+      "reading": "きがかん",
+      "meaning": "đói"
+    },
+    {
+      "word": "大飢饉",
+      "reading": "だいききん",
+      "meaning": "nạn đói nghiêm trọng"
+    },
+    {
+      "word": "水飢饉",
+      "reading": "みずききん",
+      "meaning": "hạn hán"
     },
     {
       "word": "飢渇",
@@ -110,31 +135,6 @@
       "word": "飢寒",
       "reading": "きかん",
       "meaning": "sự đói rét"
-    },
-    {
-      "word": "飢饉",
-      "reading": "ききん",
-      "meaning": "năm mất mùa"
-    },
-    {
-      "word": "飢凍",
-      "reading": "きとう",
-      "meaning": "chết đói và chết cóng"
-    },
-    {
-      "word": "大飢饉",
-      "reading": "だいききん",
-      "meaning": "nạn đói nghiêm trọng"
-    },
-    {
-      "word": "飢きん",
-      "reading": "ききん",
-      "meaning": "nạn đói kém"
-    },
-    {
-      "word": "水飢饉",
-      "reading": "みずききん",
-      "meaning": "hạn hán"
     }
   ]
 }

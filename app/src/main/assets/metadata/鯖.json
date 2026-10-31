@@ -55,28 +55,18 @@
       "meaning": "cá thu"
     },
     {
-      "word": "真鯖",
-      "reading": "まさば",
-      "meaning": "cá saba"
-    },
-    {
-      "word": "鯖節",
-      "reading": "さばぶし",
-      "meaning": "cá thu khô"
-    },
-    {
-      "word": "丸鯖",
-      "reading": "まるさば",
-      "meaning": "cá thu"
-    },
-    {
       "word": "本鯖",
       "reading": "ほんさば",
       "meaning": "cá thu"
     },
     {
-      "word": "青鯖",
-      "reading": "あおさば",
+      "word": "真鯖",
+      "reading": "まさば",
+      "meaning": "cá saba"
+    },
+    {
+      "word": "丸鯖",
+      "reading": "まるさば",
       "meaning": "cá thu"
     },
     {
@@ -85,19 +75,29 @@
       "meaning": "cá thu đánh bắt vào mùa thu"
     },
     {
-      "word": "鯖折り",
-      "reading": "さばおり",
-      "meaning": "kỹ thuật kéo và ép hông đối phương cho quỳ gối xuống"
+      "word": "青鯖",
+      "reading": "あおさば",
+      "meaning": "cá thu"
     },
     {
-      "word": "胡麻鯖",
-      "reading": "ごまさば",
-      "meaning": "cá thu xanh"
+      "word": "二条鯖",
+      "reading": "にじょうさば",
+      "meaning": "cá thu hai sọc"
+    },
+    {
+      "word": "鯖節",
+      "reading": "さばぶし",
+      "meaning": "cá thu khô"
     },
     {
       "word": "締め鯖",
       "reading": "しめさば",
       "meaning": "cá thu say rượu"
+    },
+    {
+      "word": "鯖折り",
+      "reading": "さばおり",
+      "meaning": "kỹ thuật kéo và ép hông đối phương cho quỳ gối xuống"
     }
   ]
 }

@@ -73,19 +73,9 @@
   ],
   "vocabulary": [
     {
-      "word": "紫苑",
-      "reading": "しおん",
-      "meaning": "thạch thảo"
-    },
-    {
-      "word": "文苑",
-      "reading": "ぶんえん",
-      "meaning": "hợp tuyển"
-    },
-    {
-      "word": "秘苑",
-      "reading": "ひえん",
-      "meaning": "khu vườn bí mật"
+      "word": "姫女苑",
+      "reading": "ひめじょおん",
+      "meaning": "erigeron annuus"
     },
     {
       "word": "入苑",
@@ -93,34 +83,44 @@
       "meaning": "vào vườn"
     },
     {
-      "word": "御苑",
-      "reading": "ぎょえん",
-      "meaning": "ngự uyển"
+      "word": "入苑券",
+      "reading": "にゅうえんけん",
+      "meaning": "thẻ vào vườn"
     },
     {
-      "word": "芸苑",
-      "reading": "げいえん",
-      "meaning": "giới văn học và nghệ thuật"
-    },
-    {
-      "word": "外苑",
-      "reading": "がいえん",
-      "meaning": "khu vườn ở vòng ngoài"
-    },
-    {
-      "word": "神苑",
-      "reading": "しんえん",
-      "meaning": "khuôn viên đền thờ"
-    },
-    {
-      "word": "内苑",
-      "reading": "ないえん",
-      "meaning": "vườn ở bên trong các lâu đài"
+      "word": "秘苑",
+      "reading": "ひえん",
+      "meaning": "khu vườn bí mật"
     },
     {
       "word": "珈琲苑",
       "reading": "コーヒーえん",
       "meaning": "tên một cà phê đi mua hàng"
+    },
+    {
+      "word": "御苑",
+      "reading": "ぎょえん",
+      "meaning": "ngự uyển"
+    },
+    {
+      "word": "鹿野苑",
+      "reading": "ろくやおん",
+      "meaning": "magadaava anh ấy)"
+    },
+    {
+      "word": "紫苑",
+      "reading": "しおん",
+      "meaning": "thạch thảo"
+    },
+    {
+      "word": "紫苑色",
+      "reading": "しおんいろ",
+      "meaning": "màu tím nhạt"
+    },
+    {
+      "word": "外苑",
+      "reading": "がいえん",
+      "meaning": "khu vườn ở vòng ngoài"
     }
   ]
 }

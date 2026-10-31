@@ -89,28 +89,18 @@
   ],
   "vocabulary": [
     {
-      "word": "幻",
-      "reading": "まぼろし",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "幻覚",
-      "reading": "げんかく",
-      "meaning": "ảo giác"
-    },
-    {
-      "word": "幻滅",
-      "reading": "げんめつ",
-      "meaning": "sự vỡ mộng"
-    },
-    {
       "word": "幻想",
       "reading": "げんそう",
       "meaning": "ảo tưởng"
     },
     {
-      "word": "幻影",
-      "reading": "げんえい",
+      "word": "幻想的",
+      "reading": "げんそうてき",
+      "meaning": "huyền hoặc"
+    },
+    {
+      "word": "幻",
+      "reading": "まぼろし",
       "meaning": "ảo tưởng"
     },
     {
@@ -124,19 +114,29 @@
       "meaning": "mặt trời ảo"
     },
     {
+      "word": "幻夢",
+      "reading": "げんむ",
+      "meaning": "ảo mộng"
+    },
+    {
+      "word": "幻姿",
+      "reading": "げんし",
+      "meaning": "sự hiện ra"
+    },
+    {
+      "word": "幻妻",
+      "reading": "げんさい",
+      "meaning": "từ chỉ phụ nữ"
+    },
+    {
       "word": "幻獣",
       "reading": "げんじゅう",
       "meaning": "sinh vật huyền bí"
     },
     {
-      "word": "幻灯",
-      "reading": "げんとう",
-      "meaning": "đèn chiếu"
-    },
-    {
-      "word": "夢幻",
-      "reading": "むげん",
-      "meaning": "sự mộng ảo"
+      "word": "幻日環",
+      "reading": "げんじつかん",
+      "meaning": "vòng tròn mặt trời ảo"
     }
   ]
 }

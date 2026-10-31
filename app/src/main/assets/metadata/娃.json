@@ -51,11 +51,6 @@
   ],
   "vocabulary": [
     {
-      "word": "娃鬟",
-      "reading": "あいかん",
-      "meaning": "người phụ nữ đẹp"
-    },
-    {
       "word": "館娃",
       "reading": "かんあい",
       "meaning": "tên một cung điện"
@@ -64,6 +59,11 @@
       "word": "娃々菜",
       "reading": "わわさい",
       "meaning": "cải thảo mini"
+    },
+    {
+      "word": "娃鬟",
+      "reading": "あいかん",
+      "meaning": "người phụ nữ đẹp"
     }
   ]
 }

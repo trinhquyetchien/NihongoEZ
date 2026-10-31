@@ -89,19 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "耐風",
-      "reading": "たいふう",
-      "meaning": "sức cản của gió"
+      "word": "耐える",
+      "reading": "たえる",
+      "meaning": "chịu đựng"
     },
     {
-      "word": "耐震",
-      "reading": "たいしん",
-      "meaning": "chống lại sự động đất"
+      "word": "耐衝撃",
+      "reading": "たいしょうげき",
+      "meaning": "chống sốc"
     },
     {
-      "word": "耐熱",
-      "reading": "たいねつ",
-      "meaning": "sự chịu nhiệt"
+      "word": "耐久",
+      "reading": "たいきゅう",
+      "meaning": "sự chịu đựng"
+    },
+    {
+      "word": "耐久性",
+      "reading": "たいきゅうせい",
+      "meaning": "tính bền"
+    },
+    {
+      "word": "耐久力",
+      "reading": "たいきゅうりょく",
+      "meaning": "sức chịu đựng"
     },
     {
       "word": "耐性",
@@ -109,34 +119,24 @@
       "meaning": "sự chống cự"
     },
     {
-      "word": "耐圧",
-      "reading": "たいあつ",
-      "meaning": "chịu nén"
+      "word": "耐性菌",
+      "reading": "たいせいきん",
+      "meaning": "vi khuẩn có tính chịu được thuốc kháng sinh"
     },
     {
-      "word": "耐寒",
-      "reading": "たいかん",
-      "meaning": "chịu lạnh"
+      "word": "耐久財",
+      "reading": "たいきゅうざい",
+      "meaning": "hàng lâu bền"
     },
     {
-      "word": "耐蝕",
-      "reading": "たいしょく",
-      "meaning": "chống ăn mòn"
+      "word": "耐震",
+      "reading": "たいしん",
+      "meaning": "chống lại sự động đất"
     },
     {
-      "word": "耐酸",
-      "reading": "たいさん",
-      "meaning": "chịu được a-xít"
-    },
-    {
-      "word": "耐食",
-      "reading": "たいしょく",
-      "meaning": "chống lại sự ăn mòn"
-    },
-    {
-      "word": "耐湿",
-      "reading": "たいしつ",
-      "meaning": "chống ẩm"
+      "word": "耐震性",
+      "reading": "たいしんせい",
+      "meaning": "tính chịu được chấn động của động đất"
     }
   ]
 }

@@ -86,14 +86,24 @@
   ],
   "vocabulary": [
     {
+      "word": "駆逐",
+      "reading": "くちく",
+      "meaning": "sự tiêu diệt"
+    },
+    {
+      "word": "駆逐艦",
+      "reading": "くちくかん",
+      "meaning": "khu trục hạm"
+    },
+    {
+      "word": "逐一",
+      "reading": "ちくいち",
+      "meaning": "cụ thể"
+    },
+    {
       "word": "逐次",
       "reading": "ちくじ",
       "meaning": "nối tiếp nhau"
-    },
-    {
-      "word": "逐電",
-      "reading": "ちくでん",
-      "meaning": "sự hành động rất sớm"
     },
     {
       "word": "放逐",
@@ -106,14 +116,14 @@
       "meaning": "nguyên văn"
     },
     {
-      "word": "角逐",
-      "reading": "かくちく",
-      "meaning": "cạnh tranh nhau"
+      "word": "逐語的",
+      "reading": "ちくごてき",
+      "meaning": "từng chữ"
     },
     {
-      "word": "逐日",
-      "reading": "ちくじつ",
-      "meaning": "ngày ban ngày"
+      "word": "逐語訳",
+      "reading": "ちくごやく",
+      "meaning": "sự dịch thô"
     },
     {
       "word": "逐条",
@@ -121,19 +131,9 @@
       "meaning": "từng điểm một"
     },
     {
-      "word": "逐年",
-      "reading": "ちくねん",
-      "meaning": "hàng năm"
-    },
-    {
-      "word": "逐一",
-      "reading": "ちくいち",
-      "meaning": "cụ thể"
-    },
-    {
-      "word": "駆逐",
-      "reading": "くちく",
-      "meaning": "sự tiêu diệt"
+      "word": "逐電",
+      "reading": "ちくでん",
+      "meaning": "sự hành động rất sớm"
     }
   ]
 }

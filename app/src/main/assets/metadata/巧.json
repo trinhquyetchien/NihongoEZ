@@ -91,24 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "巧まぬ技巧",
-      "reading": "たくまぬぎこう",
-      "meaning": "nghệ thuật hồn nhiên"
-    },
-    {
-      "word": "技巧",
-      "reading": "ぎこう",
-      "meaning": "kỹ xảo"
-    },
-    {
       "word": "巧み",
       "reading": "たくみ",
       "meaning": "khéo léo"
     },
     {
-      "word": "巧拙",
-      "reading": "こうせつ",
-      "meaning": "sự khéo léo"
+      "word": "巧妙",
+      "reading": "こうみょう",
+      "meaning": "khéo léo"
+    },
+    {
+      "word": "精巧",
+      "reading": "せいこう",
+      "meaning": "sự tinh xảo"
+    },
+    {
+      "word": "巧みな",
+      "reading": "たくみな",
+      "meaning": "khéo"
+    },
+    {
+      "word": "巧い",
+      "reading": "うまい",
+      "meaning": "thành vấn đề"
+    },
+    {
+      "word": "大巧",
+      "reading": "たいこう",
+      "meaning": "tài năng lớn"
     },
     {
       "word": "巧手",
@@ -116,14 +126,9 @@
       "meaning": "sự thành thạo"
     },
     {
-      "word": "巧者",
-      "reading": "こうしゃ",
-      "meaning": "khéo"
-    },
-    {
-      "word": "巧む",
-      "reading": "たくむ",
-      "meaning": "tính toán"
+      "word": "巧い絵",
+      "reading": "うまいえ",
+      "meaning": "bức tranh tuyệt vời"
     },
     {
       "word": "巧笑",
@@ -131,14 +136,9 @@
       "meaning": "nụ cười tinh tế"
     },
     {
-      "word": "巧言",
-      "reading": "こうげん",
-      "meaning": "lời nịnh hót"
-    },
-    {
-      "word": "巧い",
-      "reading": "うまい",
-      "meaning": "thành vấn đề"
+      "word": "巧い訳",
+      "reading": "うまいやく",
+      "meaning": "bản dịch tốt"
     }
   ]
 }

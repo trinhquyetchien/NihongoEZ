@@ -95,34 +95,9 @@
       "meaning": "tên gọi đàn ông nhật"
     },
     {
-      "word": "下郎",
-      "reading": "げろう",
-      "meaning": "đầy tớ"
-    },
-    {
-      "word": "郎女",
-      "reading": "いらつめ",
-      "meaning": "cô gái"
-    },
-    {
-      "word": "郎子",
-      "reading": "いらつこ",
-      "meaning": "chàng trai"
-    },
-    {
-      "word": "外郎",
-      "reading": "ういろう",
-      "meaning": "một kiểu kẹo làm từ gạo - bột"
-    },
-    {
-      "word": "新郎",
-      "reading": "しんろう",
-      "meaning": "tân lang"
-    },
-    {
-      "word": "郎党",
-      "reading": "ろうどう",
-      "meaning": "lão bộc"
+      "word": "太郎月",
+      "reading": "たろうづき",
+      "meaning": "tháng 1"
     },
     {
       "word": "野郎",
@@ -130,14 +105,39 @@
       "meaning": "kẻ bất lương"
     },
     {
+      "word": "郎君",
+      "reading": "ろうくん",
+      "meaning": "lãnh chúa trẻ"
+    },
+    {
+      "word": "我郎",
+      "reading": "わろ",
+      "meaning": "chàng"
+    },
+    {
+      "word": "霊台郎",
+      "reading": "れいだいろう",
+      "meaning": "chuyên gia thiên văn"
+    },
+    {
       "word": "三郎",
       "reading": "さぶろう",
       "meaning": "nguời con trai thứ 3"
     },
     {
-      "word": "女郎",
-      "reading": "じょろう",
-      "meaning": "gái điếm"
+      "word": "次郎柿",
+      "reading": "じろうがき",
+      "meaning": "quả hồng jiro"
+    },
+    {
+      "word": "紺四郎",
+      "reading": "こんしろう",
+      "meaning": "lãnh sự"
+    },
+    {
+      "word": "新郎",
+      "reading": "しんろう",
+      "meaning": "tân lang"
     }
   ]
 }

@@ -83,22 +83,42 @@
   ],
   "vocabulary": [
     {
-      "word": "汲汲",
-      "reading": "きゅうきゅう",
-      "meaning": "sự cần mẫn"
-    },
-    {
-      "word": "汲汲としている",
-      "reading": "きゅうきゅうとしている",
-      "meaning": "bị cuốn vào"
-    },
-    {
       "word": "汲む",
       "reading": "くむ",
       "meaning": "cùng uống rượu"
     },
     {
+      "word": "水汲み",
+      "reading": "みずくみ",
+      "meaning": "sự lấy nước"
+    },
+    {
+      "word": "茶汲み",
+      "reading": "ちゃくみ",
+      "meaning": "phục vụ trà"
+    },
+    {
+      "word": "湯汲み",
+      "reading": "ゆくみ",
+      "meaning": "hơi nước"
+    },
+    {
+      "word": "上汲む",
+      "reading": "うわぐむ",
+      "meaning": "xả nước"
+    },
+    {
+      "word": "肥汲み",
+      "reading": "こえくみ",
+      "meaning": "việc mang đêm dễ bẩn"
+    },
+    {
       "word": "汲々",
+      "reading": "きゅうきゅう",
+      "meaning": "sự cần mẫn"
+    },
+    {
+      "word": "汲汲",
       "reading": "きゅうきゅう",
       "meaning": "sự cần mẫn"
     },
@@ -108,29 +128,9 @@
       "meaning": "hố rác tự hoại"
     },
     {
-      "word": "肥汲み",
-      "reading": "こえくみ",
-      "meaning": "việc mang đêm dễ bẩn"
-    },
-    {
-      "word": "上汲む",
-      "reading": "うわぐむ",
-      "meaning": "xả nước"
-    },
-    {
       "word": "汲取口",
       "reading": "くみとりぐち",
       "meaning": "đánh vào lỗ để bơm ra thùng nhiễm trùng"
-    },
-    {
-      "word": "水汲み",
-      "reading": "みずくみ",
-      "meaning": "sự lấy nước"
-    },
-    {
-      "word": "汐汲み",
-      "reading": "しおくみ",
-      "meaning": "người mà vẽ rót nước từ biển"
     }
   ]
 }

@@ -91,39 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "từ điển"
+    },
+    {
       "word": "字",
       "reading": "じ",
       "meaning": "chữ"
     },
     {
-      "word": "誤字脱字",
-      "reading": "ごじだつじ",
-      "meaning": "viết nhầm bỏ thiếu chữ"
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "chữ số"
     },
     {
-      "word": "一字一字",
-      "reading": "いちじいちじ",
-      "meaning": "từng chữ từng chữ"
-    },
-    {
-      "word": "欧数字英数字データ",
-      "reading": "おうすうじえいすうじデータ",
-      "meaning": "dữ liệu chữ số"
-    },
-    {
-      "word": "大文字名前文字",
-      "reading": "おおもじなまえもじ",
-      "meaning": "ký tự tên viết hoa"
-    },
-    {
-      "word": "小文字名前文字",
-      "reading": "こもじなまえもじ",
-      "meaning": "ký tự tên viết thường"
-    },
-    {
-      "word": "あて字 あてじ",
-      "reading": "あて字",
-      "meaning": "từ có ý nghĩa ban đầu của chữ hán không liên quan đến âm đọc 野蛮"
+      "word": "名字",
+      "reading": "みょうじ",
+      "meaning": "họ"
     },
     {
       "word": "活字",
@@ -131,14 +116,29 @@
       "meaning": "chữ in"
     },
     {
-      "word": "苗字",
-      "reading": "みょうじ",
-      "meaning": "họ"
+      "word": "英字",
+      "reading": "えいじ",
+      "meaning": "chữ tiếng anh"
     },
     {
-      "word": "字彙",
-      "reading": "じい",
-      "meaning": "từ điển chữ hán"
+      "word": "一字",
+      "reading": "いちじ",
+      "meaning": "một chữ"
+    },
+    {
+      "word": "二字",
+      "reading": "にじ",
+      "meaning": "hai chữ"
+    },
+    {
+      "word": "内字",
+      "reading": "ないじ",
+      "meaning": "kí tự trong"
+    },
+    {
+      "word": "無字",
+      "reading": "むじ",
+      "meaning": "sự thật không thể diễn đạt bằng chữ"
     }
   ]
 }

@@ -96,29 +96,9 @@
       "meaning": "chuôi"
     },
     {
-      "word": "柄の長い柄杓",
-      "reading": "えのながいひしゃく",
-      "meaning": "có quai kéo dài múc"
-    },
-    {
-      "word": "小柄",
-      "reading": "こがら",
-      "meaning": "lùn"
-    },
-    {
-      "word": "手柄",
-      "reading": "てがら",
-      "meaning": "thành tích"
-    },
-    {
       "word": "人柄",
       "reading": "ひとがら",
       "meaning": "chỉ cá nhân một người"
-    },
-    {
-      "word": "作柄",
-      "reading": "さくがら",
-      "meaning": "điều kiện gieo trồng"
     },
     {
       "word": "事柄",
@@ -126,19 +106,39 @@
       "meaning": "sự việc"
     },
     {
+      "word": "小柄",
+      "reading": "こがら",
+      "meaning": "lùn"
+    },
+    {
       "word": "間柄",
       "reading": "あいだがら",
       "meaning": "mối quan hệ"
     },
     {
-      "word": "縞柄",
-      "reading": "しまがら",
-      "meaning": "kiểu có sọc"
+      "word": "大柄",
+      "reading": "おおがら",
+      "meaning": "vóc dáng cao to"
     },
     {
-      "word": "ダイヤ柄",
-      "reading": "ダイヤがら",
-      "meaning": "hoa văn kim cương"
+      "word": "中柄",
+      "reading": "ちゅうがら",
+      "meaning": "kích thước môi trường"
+    },
+    {
+      "word": "色柄",
+      "reading": "いろがら",
+      "meaning": "mẫu màu"
+    },
+    {
+      "word": "花柄",
+      "reading": "はながら",
+      "meaning": "có hoa"
+    },
+    {
+      "word": "柄巻",
+      "reading": "つかまき",
+      "meaning": "kỹ thuật quấn cán kiếm"
     }
   ]
 }

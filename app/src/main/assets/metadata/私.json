@@ -95,19 +95,34 @@
       "meaning": "tôi"
     },
     {
-      "word": "私怨私欲",
-      "reading": "しえんしよく",
-      "meaning": "thù hận cá nhân"
+      "word": "私立",
+      "reading": "しりつ",
+      "meaning": "tư nhân lập ra"
     },
     {
-      "word": "私利私欲",
-      "reading": "しりしよく",
-      "meaning": "mong muốn hành động chỉ vì lợi ích của bản thân"
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "đường sắt tư doanh"
     },
     {
-      "word": "私地私民",
-      "reading": "しちしみん",
-      "meaning": "sở hữu tư nhân về đất đai"
+      "word": "私物",
+      "reading": "しぶつ",
+      "meaning": "của riêng"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "dùng cho cá nhân"
+    },
+    {
+      "word": "私有",
+      "reading": "しゆう",
+      "meaning": "tư hữu"
+    },
+    {
+      "word": "私感",
+      "reading": "しかん",
+      "meaning": "cảm tưởng của cá nhân"
     },
     {
       "word": "私達",
@@ -115,29 +130,14 @@
       "meaning": "chúng tôi"
     },
     {
-      "word": "公私",
-      "reading": "こうし",
-      "meaning": "công tư"
+      "word": "私雨",
+      "reading": "わたくしあめ",
+      "meaning": "mưa rào"
     },
     {
-      "word": "私立",
-      "reading": "しりつ",
-      "meaning": "tư nhân lập ra"
-    },
-    {
-      "word": "私見",
-      "reading": "しけん",
-      "meaning": "ý riêng"
-    },
-    {
-      "word": "私宛",
-      "reading": "わたしあて",
-      "meaning": "địa chỉ tôi"
-    },
-    {
-      "word": "私用",
-      "reading": "しよう",
-      "meaning": "dùng cho cá nhân"
+      "word": "私説",
+      "reading": "しせつ",
+      "meaning": "quan điểm cá nhân"
     }
   ]
 }

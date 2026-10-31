@@ -112,39 +112,34 @@
   ],
   "vocabulary": [
     {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "sơ cấp"
+    },
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "thượng tuần"
+    },
+    {
       "word": "初",
       "reading": "はつ",
       "meaning": "cái đầu tiên"
     },
     {
-      "word": "初初しい",
-      "reading": "ういういしい",
-      "meaning": "người vô tội"
+      "word": "初耳",
+      "reading": "はつみみ",
+      "meaning": "cái mới nghe lần đầu"
     },
     {
-      "word": "初詣",
-      "reading": "はつもうで",
-      "meaning": "việc đi lễ chùa đầu năm mới"
-    },
-    {
-      "word": "初日",
-      "reading": "しょにち",
-      "meaning": "bình minh ngày đầu năm"
-    },
-    {
-      "word": "初め",
-      "reading": "はじめ",
-      "meaning": "ban đầu"
-    },
-    {
-      "word": "初頭",
-      "reading": "しょとう",
-      "meaning": "bắt đầu"
-    },
-    {
-      "word": "初犯",
+      "word": "初版",
       "reading": "しょはん",
-      "meaning": "phạm tội lần đầu tiên"
+      "meaning": "xuất bản đầu tiên"
+    },
+    {
+      "word": "初に",
+      "reading": "はつに",
+      "meaning": "lần đầu"
     },
     {
       "word": "初期",
@@ -152,14 +147,19 @@
       "meaning": "ban sơ"
     },
     {
-      "word": "初代",
-      "reading": "しょだい",
-      "meaning": "trước hết phát sinh"
+      "word": "初編",
+      "reading": "しょへん",
+      "meaning": "quyển đầu"
     },
     {
-      "word": "初志",
-      "reading": "しょし",
-      "meaning": "dự định nguyên bản"
+      "word": "初葉",
+      "reading": "しょよう",
+      "meaning": "đầu"
+    },
+    {
+      "word": "初め",
+      "reading": "はじめ",
+      "meaning": "ban đầu"
     }
   ]
 }

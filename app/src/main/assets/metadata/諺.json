@@ -88,6 +88,31 @@
       "meaning": "tục ngữ"
     },
     {
+      "word": "法諺",
+      "reading": "ほうげん",
+      "meaning": "châm ngôn pháp luật"
+    },
+    {
+      "word": "諺語",
+      "reading": "げんご",
+      "meaning": "từ ngữ thông tục"
+    },
+    {
+      "word": "鄙諺",
+      "reading": "ひげん",
+      "meaning": "từ thường dùng"
+    },
+    {
+      "word": "諺文",
+      "reading": "オンモン",
+      "meaning": "nguyên bản tiếng triều tiên"
+    },
+    {
+      "word": "俚諺",
+      "reading": "りげん",
+      "meaning": "tục ngữ"
+    },
+    {
       "word": "俗諺",
       "reading": "ぞくげん",
       "meaning": "tục ngữ"
@@ -96,31 +121,6 @@
       "word": "古諺",
       "reading": "こげん",
       "meaning": "từ lỗi thời"
-    },
-    {
-      "word": "諺文",
-      "reading": "オンモン",
-      "meaning": "nguyên bản tiếng triều tiên"
-    },
-    {
-      "word": "鄙諺",
-      "reading": "ひげん",
-      "meaning": "từ thường dùng"
-    },
-    {
-      "word": "法諺",
-      "reading": "ほうげん",
-      "meaning": "châm ngôn pháp luật"
-    },
-    {
-      "word": "俚諺",
-      "reading": "りげん",
-      "meaning": "tục ngữ"
-    },
-    {
-      "word": "諺語",
-      "reading": "げんご",
-      "meaning": "từ ngữ thông tục"
     }
   ]
 }

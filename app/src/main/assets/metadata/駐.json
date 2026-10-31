@@ -104,54 +104,54 @@
   ],
   "vocabulary": [
     {
-      "word": "駐妻",
-      "reading": "ちゅうつま",
-      "meaning": "những người vợ theo chồng sống ở nước ngoài"
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "meaning": "bãi đỗ xe"
     },
     {
-      "word": "駐仏",
-      "reading": "ちゅうふつ",
-      "meaning": "đóng quân"
+      "word": "駐車",
+      "reading": "ちゅうしゃ",
+      "meaning": "sự đỗ xe"
     },
     {
-      "word": "駐英",
-      "reading": "ちゅうえい",
-      "meaning": "cư trú ở nước anh"
-    },
-    {
-      "word": "路駐",
-      "reading": "ろちゅう",
-      "meaning": "trạm đỗ xe trên đường"
-    },
-    {
-      "word": "駐独",
-      "reading": "ちゅうどく",
-      "meaning": "đồn trú ở đức"
-    },
-    {
-      "word": "駐伊",
-      "reading": "ちゅうい",
-      "meaning": "đặt vào vị trí trong italy"
-    },
-    {
-      "word": "駐屯",
-      "reading": "ちゅうとん",
-      "meaning": "sự đồn trú"
-    },
-    {
-      "word": "駐留",
-      "reading": "ちゅうりゅう",
-      "meaning": "sự đóng quân"
-    },
-    {
-      "word": "進駐",
-      "reading": "しんちゅう",
-      "meaning": "sự chiếm đóng"
+      "word": "駐車帯",
+      "reading": "ちゅうしゃたい",
+      "meaning": "dải đỗ xe khẩn cấp trên đường cao tốc ở nhật phía tay trái"
     },
     {
       "word": "常駐",
       "reading": "じょうちゅう",
       "meaning": "thường trú"
+    },
+    {
+      "word": "駐日",
+      "reading": "ちゅうにち",
+      "meaning": "người ở tại nhật bản"
+    },
+    {
+      "word": "駐妻",
+      "reading": "ちゅうつま",
+      "meaning": "những người vợ theo chồng sống ở nước ngoài"
+    },
+    {
+      "word": "駐機場",
+      "reading": "ちゅうきじょう",
+      "meaning": "sân đỗ máy bay"
+    },
+    {
+      "word": "駐める",
+      "reading": "とめる",
+      "meaning": "đậu"
+    },
+    {
+      "word": "駐輪",
+      "reading": "ちゅうりん",
+      "meaning": "nơi đỗ xe đạp"
+    },
+    {
+      "word": "駐英",
+      "reading": "ちゅうえい",
+      "meaning": "cư trú ở nước anh"
     }
   ]
 }

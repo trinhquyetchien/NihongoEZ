@@ -96,39 +96,39 @@
       "meaning": "bột mì"
     },
     {
-      "word": "粉粉",
+      "word": "粉末",
+      "reading": "ふんまつ",
+      "meaning": "bột tán nhỏ"
+    },
+    {
+      "word": "粉々",
       "reading": "こなごな",
-      "meaning": "trong những mảnh rất nhỏ"
+      "meaning": "tan nát"
     },
     {
-      "word": "粉白粉",
-      "reading": "こなおしろい",
-      "meaning": "phấn phủ"
+      "word": "粉体",
+      "reading": "ふんたい",
+      "meaning": "dạng bột"
     },
     {
-      "word": "粉粉になる",
-      "reading": "こなごなになる",
-      "meaning": "nghiền thành bột"
+      "word": "米粉",
+      "reading": "こめこ",
+      "meaning": "bột gạo"
     },
     {
-      "word": "粉粉に砕く",
-      "reading": "こなごなにくだく",
-      "meaning": "nghiền nát thành từng mảnh vụn nhỏ"
+      "word": "粉壁",
+      "reading": "ふんぺき",
+      "meaning": "tường trắng"
     },
     {
-      "word": "小麦粉/パン粉/ミックス",
-      "reading": "こむぎこ/パンこな/ミックス",
-      "meaning": "bột mì/bột bánh mì/bột trộn"
+      "word": "青粉",
+      "reading": "あおこ",
+      "meaning": "laver xanh bột"
     },
     {
-      "word": "カレー粉",
-      "reading": "カレーこ",
-      "meaning": "bột cà ri"
-    },
-    {
-      "word": "ミックス粉",
-      "reading": "ミックスこ",
-      "meaning": "bột trộn sẵn"
+      "word": "粉状",
+      "reading": "こなじょう",
+      "meaning": "dạng bột"
     },
     {
       "word": "卵粉",
@@ -136,9 +136,9 @@
       "meaning": "bột trứng"
     },
     {
-      "word": "胡粉",
-      "reading": "ごふん",
-      "meaning": "phấn"
+      "word": "鉄粉",
+      "reading": "てっぷん",
+      "meaning": "bột sắt"
     }
   ]
 }

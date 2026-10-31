@@ -96,54 +96,54 @@
   ],
   "vocabulary": [
     {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "điều hòa"
+    },
+    {
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "sự làm đông lạnh"
+    },
+    {
+      "word": "冷酷",
+      "reading": "れいこく",
+      "meaning": "sự cục cằn"
+    },
+    {
+      "word": "冷蔵",
+      "reading": "れいぞう",
+      "meaning": "sự làm lạnh"
+    },
+    {
+      "word": "冷淡",
+      "reading": "れいたん",
+      "meaning": "lãnh đạm"
+    },
+    {
+      "word": "冷え",
+      "reading": "ひえ",
+      "meaning": "trở nên lạnh sự bóc trần"
+    },
+    {
+      "word": "冷却",
+      "reading": "れいきゃく",
+      "meaning": "sự làm lạnh"
+    },
+    {
       "word": "冷",
       "reading": "ひや",
       "meaning": "lạnh rót nước"
     },
     {
-      "word": "冷え冷え",
-      "reading": "ひえびえ",
-      "meaning": "cảm thấy lạnh lẽo đáng sợ"
-    },
-    {
-      "word": "冷や冷や",
-      "reading": "ひやひや",
-      "meaning": "cảm thấy lạnh lẽo đáng sợ"
-    },
-    {
-      "word": "保冷剤/保冷用品",
-      "reading": "ほれいざい/ほれいようひん",
-      "meaning": "chất giữ nhiệt"
-    },
-    {
-      "word": "冷奴",
-      "reading": "ひややっこ",
-      "meaning": "tofu lạnh"
-    },
-    {
-      "word": "予冷",
-      "reading": "よれい",
-      "meaning": "làm mát"
-    },
-    {
-      "word": "冷帯",
-      "reading": "れいたい",
-      "meaning": "đới lạnh"
-    },
-    {
-      "word": "冷夏",
-      "reading": "れいか",
-      "meaning": "mùa hè mát"
-    },
-    {
-      "word": "冷媒",
-      "reading": "れいばい",
-      "meaning": "chất làm mát"
-    },
-    {
-      "word": "冷コー",
-      "reading": "れいコー",
-      "meaning": "cà phê lạnh"
+      "word": "冷光",
+      "reading": "れいこう",
+      "meaning": "sự phát sáng"
     }
   ]
 }

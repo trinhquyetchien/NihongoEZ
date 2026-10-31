@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "臨時",
+      "reading": "りんじ",
+      "meaning": "lâm thời"
+    },
+    {
+      "word": "臨む",
+      "reading": "のぞむ",
+      "meaning": "hướng tới"
+    },
+    {
+      "word": "臨床",
+      "reading": "りんしょう",
+      "meaning": "sự lâm sàng"
+    },
+    {
+      "word": "臨床上",
+      "reading": "りんしょうじょう",
+      "meaning": "thuộc lâm sàng"
+    },
+    {
+      "word": "臨時会",
+      "reading": "りんじかい",
+      "meaning": "phiên họp quốc hội bất thường"
+    },
+    {
+      "word": "臨時費",
+      "reading": "りんじひ",
+      "meaning": "những chi phí bất ngờ"
+    },
+    {
+      "word": "臨床医",
+      "reading": "りんしょうい",
+      "meaning": "nhà lâm sàng"
+    },
+    {
+      "word": "臨時工",
+      "reading": "りんじこう",
+      "meaning": "công nhân tạm thời"
+    },
+    {
       "word": "降臨",
       "reading": "こうりん",
       "meaning": "sự giáng sinh của chúa giêxu"
     },
     {
-      "word": "臨在",
-      "reading": "りんざい",
-      "meaning": "sự hiện diện"
-    },
-    {
-      "word": "臨死",
-      "reading": "りんし",
-      "meaning": "sự chết lâm sàng"
-    },
-    {
-      "word": "臨空",
-      "reading": "りんくう",
-      "meaning": "khu sân bay"
-    },
-    {
-      "word": "臨調",
-      "reading": "りんちょう",
-      "meaning": "hiệu trưởng"
-    },
-    {
-      "word": "光臨",
-      "reading": "こうりん",
-      "meaning": "hạ cố ghé thăm"
-    },
-    {
-      "word": "台臨",
-      "reading": "たいりん",
-      "meaning": "đi thăm hỏi bởi hoàng hậu hoặc hoàng tử vương miện"
-    },
-    {
-      "word": "再臨",
-      "reading": "さいりん",
-      "meaning": "sự trở lại của chúa giê"
-    },
-    {
-      "word": "臨戦",
-      "reading": "りんせん",
-      "meaning": "chuẩn bị cho hoạt động hoặc trận đánh"
-    },
-    {
-      "word": "臨機",
-      "reading": "りんき",
-      "meaning": "thủ đoạn"
+      "word": "再降臨",
+      "reading": "さいこうりん",
+      "meaning": "ủng hộ sự đến"
     }
   ]
 }

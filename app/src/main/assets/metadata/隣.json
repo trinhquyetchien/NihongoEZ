@@ -95,19 +95,9 @@
       "meaning": "bên cạnh"
     },
     {
-      "word": "隣辺",
-      "reading": "りんぺん",
-      "meaning": "cạnh góc vuông"
-    },
-    {
-      "word": "近隣",
-      "reading": "きんりん",
-      "meaning": "hàng xóm"
-    },
-    {
-      "word": "真隣",
-      "reading": "まとなり",
-      "meaning": "ngay bên cạnh"
+      "word": "先隣",
+      "reading": "さきとなり",
+      "meaning": "trước nữa"
     },
     {
       "word": "隣町",
@@ -115,29 +105,39 @@
       "meaning": "neighboring thị thành"
     },
     {
-      "word": "隣る",
-      "reading": "となる",
-      "meaning": "sống bên cạnh"
+      "word": "右隣",
+      "reading": "みぎどなり",
+      "meaning": "bên cạnh phía bên phải"
     },
     {
-      "word": "隣地",
-      "reading": "りんち",
-      "meaning": "khu đất bên cạnh"
+      "word": "真隣",
+      "reading": "まとなり",
+      "meaning": "ngay bên cạnh"
     },
     {
-      "word": "善隣",
-      "reading": "ぜんりん",
-      "meaning": "láng giềng tốt"
+      "word": "左隣",
+      "reading": "ひだりどなり",
+      "meaning": "ở cạnh bên trái"
     },
     {
-      "word": "先隣",
-      "reading": "さきとなり",
-      "meaning": "trước nữa"
+      "word": "冬隣",
+      "reading": "ふゆどなり",
+      "meaning": "mùa đông đang đến rất gần"
     },
     {
-      "word": "又隣",
-      "reading": "またどなり",
-      "meaning": "nhà thứ hai tính từ đây"
+      "word": "隣同士",
+      "reading": "となりどうし",
+      "meaning": "nguời hàng xóm"
+    },
+    {
+      "word": "隣近所",
+      "reading": "となりきんじょ",
+      "meaning": "hàng xóm"
+    },
+    {
+      "word": "隣辺",
+      "reading": "りんぺん",
+      "meaning": "cạnh góc vuông"
     }
   ]
 }

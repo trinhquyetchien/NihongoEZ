@@ -107,29 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "価",
-      "reading": "あたい",
-      "meaning": "giá trị"
-    },
-    {
-      "word": "時価評価",
-      "reading": "じかひょうか",
-      "meaning": "định giá theo thị trường"
-    },
-    {
-      "word": "時価評価額",
-      "reading": "じかひょうかがく",
-      "meaning": "giá trị thị trường"
-    },
-    {
-      "word": "物価",
-      "reading": "ぶっか",
-      "meaning": "giá cả"
-    },
-    {
-      "word": "換価",
-      "reading": "かんか",
-      "meaning": "thẩm định"
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "phẩm bình"
     },
     {
       "word": "高価",
@@ -137,24 +117,44 @@
       "meaning": "đắt"
     },
     {
+      "word": "物価",
+      "reading": "ぶっか",
+      "meaning": "giá cả"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "giá cố định"
+    },
+    {
+      "word": "特価",
+      "reading": "とっか",
+      "meaning": "giá rẻ đặc biệt"
+    },
+    {
+      "word": "単価",
+      "reading": "たんか",
+      "meaning": "đơn giá"
+    },
+    {
+      "word": "価",
+      "reading": "あたい",
+      "meaning": "giá trị"
+    },
+    {
+      "word": "数価",
+      "reading": "すうか",
+      "meaning": "'veiləns/ /'veilənsi/"
+    },
+    {
+      "word": "二価",
+      "reading": "にか",
+      "meaning": "có hoá trị hai"
+    },
+    {
       "word": "対価",
       "reading": "たいか",
       "meaning": "sự bồi thường"
-    },
-    {
-      "word": "音価",
-      "reading": "おんか",
-      "meaning": "giá trị ngữ âm"
-    },
-    {
-      "word": "頒価",
-      "reading": "はんか",
-      "meaning": "giá phân phối"
-    },
-    {
-      "word": "多価",
-      "reading": "たか",
-      "meaning": "hoá trị cao"
     }
   ]
 }

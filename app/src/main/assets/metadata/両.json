@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "両",
-      "reading": "りょう",
-      "meaning": "cả hai"
-    },
-    {
-      "word": "両両",
-      "reading": "りょうりょう",
-      "meaning": "cả hai"
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "song thân"
     },
     {
       "word": "両方",
@@ -105,39 +100,44 @@
       "meaning": "hai bên"
     },
     {
+      "word": "両替",
+      "reading": "りょうがえ",
+      "meaning": "sự đổi tiền"
+    },
+    {
       "word": "両側",
       "reading": "りょうがわ",
       "meaning": "hai bên"
     },
     {
-      "word": "両膚",
-      "reading": "りょうはだ",
-      "meaning": "hai phần thân"
+      "word": "両立",
+      "reading": "りょうりつ",
+      "meaning": "sự cùng tồn tại"
     },
     {
-      "word": "車両",
-      "reading": "しゃりょう",
-      "meaning": "xe cộ"
+      "word": "両",
+      "reading": "りょう",
+      "meaning": "cả hai"
     },
     {
-      "word": "両親",
-      "reading": "りょうしん",
-      "meaning": "song thân"
+      "word": "一両",
+      "reading": "いちりょう",
+      "meaning": "một phương tiện xe cộ một ryoo"
     },
     {
-      "word": "両社",
-      "reading": "りょうしゃ",
-      "meaning": "2 công ty"
+      "word": "十両",
+      "reading": "じゅうりょう",
+      "meaning": "cấp dưới sắp xếp đô vật"
     },
     {
-      "word": "両拳",
-      "reading": "りょうけん",
-      "meaning": "trò chơi oản tù tì"
+      "word": "両口",
+      "reading": "りょうぐち",
+      "meaning": "một đôi"
     },
     {
-      "word": "両膝",
-      "reading": "りょうひざ",
-      "meaning": "cả 2 đầu gối"
+      "word": "両形",
+      "reading": "ふたなり",
+      "meaning": "lưỡng hình"
     }
   ]
 }

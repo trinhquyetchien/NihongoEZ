@@ -95,9 +95,9 @@
       "meaning": "sự chào hỏi"
     },
     {
-      "word": "挨拶状",
-      "reading": "あいさつじょう",
-      "meaning": "thiệp thăm hỏi"
+      "word": "挨拶語",
+      "reading": "あいさつご",
+      "meaning": "ngôn ngữ chào hỏi"
     },
     {
       "word": "挨拶文",
@@ -105,19 +105,9 @@
       "meaning": "câu văn chào hỏi"
     },
     {
-      "word": "挨拶語",
-      "reading": "あいさつご",
-      "meaning": "ngôn ngữ chào hỏi"
-    },
-    {
-      "word": "年頭挨拶",
-      "reading": "ねんとうあいさつ",
-      "meaning": "sự chào hỏi đầu năm"
-    },
-    {
-      "word": "一挨一拶",
-      "reading": "いちあいいっさつ",
-      "meaning": "cuộc vấn đáp thiền"
+      "word": "挨拶状",
+      "reading": "あいさつじょう",
+      "meaning": "thiệp thăm hỏi"
     },
     {
       "word": "挨拶する",
@@ -125,14 +115,24 @@
       "meaning": "chào"
     },
     {
+      "word": "季節の挨拶",
+      "reading": "きせつのあいさつ",
+      "meaning": "việc gửi thiệp thăm hỏi hoặc liên lạc trong mùa hè hoặc dịp cuối năm"
+    },
+    {
+      "word": "訪問の挨拶",
+      "reading": "ほうもんのあいさつ",
+      "meaning": "lời thăm hỏi"
+    },
+    {
       "word": "挨拶まわり",
       "reading": "あいさつまわり",
       "meaning": "cuộc gọi điện thoại chúc mừng năm mới"
     },
     {
-      "word": "季節の挨拶",
-      "reading": "きせつのあいさつ",
-      "meaning": "việc gửi thiệp thăm hỏi hoặc liên lạc trong mùa hè hoặc dịp cuối năm"
+      "word": "年頭挨拶",
+      "reading": "ねんとうあいさつ",
+      "meaning": "sự chào hỏi đầu năm"
     }
   ]
 }

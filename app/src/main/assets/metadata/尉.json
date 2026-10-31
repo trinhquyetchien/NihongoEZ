@@ -92,9 +92,9 @@
       "meaning": "cai ngục"
     },
     {
-      "word": "尉鶲",
-      "reading": "じょうびたき",
-      "meaning": "chim đuôi đỏ núi đá trán xám"
+      "word": "大尉",
+      "reading": "たいい",
+      "meaning": "đại tá hải quân"
     },
     {
       "word": "中尉",
@@ -102,19 +102,14 @@
       "meaning": "trung uý"
     },
     {
+      "word": "少尉",
+      "reading": "しょうい",
+      "meaning": "thiếu uý"
+    },
+    {
       "word": "二尉",
       "reading": "にい",
       "meaning": "thiếu úy đầu tiên"
-    },
-    {
-      "word": "准尉",
-      "reading": "じゅんい",
-      "meaning": "chuẩn uý"
-    },
-    {
-      "word": "尉官",
-      "reading": "いかん",
-      "meaning": "quân hàm"
     },
     {
       "word": "三尉",
@@ -132,9 +127,14 @@
       "meaning": "tên cấp bậc của lực lượng phòng không thuộc quân chủng phòng không"
     },
     {
-      "word": "大尉",
-      "reading": "たいい",
-      "meaning": "đại tá hải quân"
+      "word": "黒色尉",
+      "reading": "こくしきじょう",
+      "meaning": "joe đen cũ"
+    },
+    {
+      "word": "准尉",
+      "reading": "じゅんい",
+      "meaning": "chuẩn uý"
     }
   ]
 }

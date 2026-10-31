@@ -109,24 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "香",
-      "reading": "きょう",
-      "meaning": "mùi"
-    },
-    {
-      "word": "香香",
-      "reading": "こうこう",
-      "meaning": "dầm giấm những rau"
-    },
-    {
-      "word": "香露",
-      "reading": "こうろ",
-      "meaning": "kouro mục đích)"
-    },
-    {
-      "word": "香盤",
-      "reading": "こうばん",
-      "meaning": "mâm nhang"
+      "word": "香り",
+      "reading": "かおり",
+      "meaning": "hương cảng"
     },
     {
       "word": "香水",
@@ -134,9 +119,9 @@
       "meaning": "nước hoa"
     },
     {
-      "word": "香料",
-      "reading": "こうりょう",
-      "meaning": "hương liệu"
+      "word": "香",
+      "reading": "きょう",
+      "meaning": "mùi"
     },
     {
       "word": "香港",
@@ -144,19 +129,34 @@
       "meaning": "hong kong"
     },
     {
-      "word": "香り",
-      "reading": "かおり",
-      "meaning": "hương cảng"
+      "word": "末香",
+      "reading": "まっこう",
+      "meaning": "thắp hương"
     },
     {
-      "word": "茴香",
-      "reading": "ういきょう",
-      "meaning": "cây thì là"
+      "word": "香草",
+      "reading": "こうそう",
+      "meaning": "rau thơm"
     },
     {
-      "word": "薫香",
-      "reading": "くんこう",
-      "meaning": "hương thơm thoang thoảng"
+      "word": "香盤",
+      "reading": "こうばん",
+      "meaning": "mâm nhang"
+    },
+    {
+      "word": "香香",
+      "reading": "こうこう",
+      "meaning": "dầm giấm những rau"
+    },
+    {
+      "word": "衣香",
+      "reading": "いこう",
+      "meaning": "nước hoa xức lên quần áo"
+    },
+    {
+      "word": "香材",
+      "reading": "こうぼく",
+      "meaning": "gỗ hương"
     }
   ]
 }

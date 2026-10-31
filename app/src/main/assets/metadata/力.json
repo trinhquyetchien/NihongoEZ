@@ -96,9 +96,9 @@
       "meaning": "lực"
     },
     {
-      "word": "迫力",
-      "reading": "はくりょく",
-      "meaning": "sức lôi cuốn"
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "chung sức"
     },
     {
       "word": "能力",
@@ -106,19 +106,9 @@
       "meaning": "chú tiểu"
     },
     {
-      "word": "尽力",
-      "reading": "じんりょく",
-      "meaning": "sự tận lực"
-    },
-    {
-      "word": "共力",
-      "reading": "きょうりょく",
-      "meaning": "sự hợp tác"
-    },
-    {
-      "word": "効力",
-      "reading": "こうりょく",
-      "meaning": "hiệu lực"
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "thực lực"
     },
     {
       "word": "重力",
@@ -126,14 +116,24 @@
       "meaning": "sức nặng"
     },
     {
-      "word": "実力",
-      "reading": "じつりょく",
-      "meaning": "thực lực"
+      "word": "学力",
+      "reading": "がくりょく",
+      "meaning": "học lực"
     },
     {
-      "word": "視力",
-      "reading": "しりょく",
-      "meaning": "nhãn lực"
+      "word": "効力",
+      "reading": "こうりょく",
+      "meaning": "hiệu lực"
+    },
+    {
+      "word": "活力",
+      "reading": "かつりょく",
+      "meaning": "sức sống"
+    },
+    {
+      "word": "権力",
+      "reading": "けんりょく",
+      "meaning": "khí thế"
     },
     {
       "word": "勢力",

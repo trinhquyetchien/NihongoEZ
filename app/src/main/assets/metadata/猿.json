@@ -90,34 +90,19 @@
       "meaning": "khỉ"
     },
     {
-      "word": "見猿聞か猿言わ猿",
-      "reading": "みざるきかざるいわざる",
-      "meaning": "không nhìn thấy tội lỗi"
+      "word": "猿人",
+      "reading": "えんじん",
+      "meaning": "vượn người"
     },
     {
-      "word": "猿山",
-      "reading": "さるやま",
-      "meaning": "núi khỉ"
+      "word": "見猿",
+      "reading": "みざる",
+      "meaning": "thấy - không phải là con khỉ"
     },
     {
-      "word": "猿豆",
-      "reading": "さるまめ",
-      "meaning": "bệnh đậu mùa khỉ"
-    },
-    {
-      "word": "猿頬",
-      "reading": "さるぼお",
-      "meaning": "má"
-    },
-    {
-      "word": "猿公",
-      "reading": "えてこう",
-      "meaning": "khỉ"
-    },
-    {
-      "word": "絹猿",
-      "reading": "きぬざる",
-      "meaning": "callithrix jacchus"
+      "word": "猿手",
+      "reading": "さるて",
+      "meaning": "bàn tay vượn"
     },
     {
       "word": "猿子",
@@ -125,14 +110,29 @@
       "meaning": "khỉ con"
     },
     {
-      "word": "緑猿",
-      "reading": "みどりざる",
-      "meaning": "chlorocebus sabaeus"
+      "word": "心猿",
+      "reading": "しんえん",
+      "meaning": "tham vọng"
     },
     {
-      "word": "猿楽",
-      "reading": "さるがく",
-      "meaning": "kịch sarugaku"
+      "word": "猿神",
+      "reading": "さるがみ",
+      "meaning": "thần khỉ"
+    },
+    {
+      "word": "猿酒",
+      "reading": "さるざけ",
+      "meaning": "rượu khỉ"
+    },
+    {
+      "word": "小猿",
+      "reading": "こざる",
+      "meaning": "khỉ con"
+    },
+    {
+      "word": "黒猿",
+      "reading": "くろざる",
+      "meaning": "khỉ mào đen"
     }
   ]
 }

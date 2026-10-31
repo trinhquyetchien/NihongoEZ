@@ -126,24 +126,14 @@
   ],
   "vocabulary": [
     {
-      "word": "是",
-      "reading": "ここ",
-      "meaning": "điều đúng đắn"
+      "word": "是非とも",
+      "reading": "ぜひとも",
+      "meaning": "bằng tất cả các cách"
     },
     {
-      "word": "是非是非",
-      "reading": "ぜひぜひ",
-      "meaning": "chắc chắn"
-    },
-    {
-      "word": "是是非非",
-      "reading": "ぜぜひひ",
-      "meaning": "rõ ràng"
-    },
-    {
-      "word": "是是非非主義",
-      "reading": "ぜぜひひしゅぎ",
-      "meaning": "nguyên lý việc rõ ràng và đúng"
+      "word": "是正",
+      "reading": "ぜせい",
+      "meaning": "việc chỉnh sửa"
     },
     {
       "word": "是非",
@@ -151,14 +141,14 @@
       "meaning": "nhất định"
     },
     {
-      "word": "国是",
-      "reading": "こくぜ",
-      "meaning": "chính sách quốc gia"
+      "word": "是非共",
+      "reading": "ぜひとも",
+      "meaning": "bởi tất cả các phương tiện không cho một câu trả lời)"
     },
     {
-      "word": "如是",
-      "reading": "にょぜ",
-      "meaning": "lời được viết ở đầu câu thánh thư: \"như vậy\""
+      "word": "是",
+      "reading": "ここ",
+      "meaning": "điều đúng đắn"
     },
     {
       "word": "店是",
@@ -166,14 +156,24 @@
       "meaning": "chính sách cửa hàng"
     },
     {
-      "word": "頑是",
-      "reading": "がんぜ",
-      "meaning": "phân biệt đúng sai"
-    },
-    {
       "word": "是認",
       "reading": "ぜにん",
       "meaning": "sự tán thành"
+    },
+    {
+      "word": "国是",
+      "reading": "こくぜ",
+      "meaning": "chính sách quốc gia"
+    },
+    {
+      "word": "社是",
+      "reading": "しゃぜ",
+      "meaning": "chính sách công ty"
+    },
+    {
+      "word": "党是",
+      "reading": "とうぜ",
+      "meaning": "một nền tảng phe"
     }
   ]
 }

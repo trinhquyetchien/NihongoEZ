@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaning": "sự huấn luyện"
+    },
+    {
       "word": "訓",
       "reading": "くん",
       "meaning": "tiếng nhật quê hương đọc một đặc tính tiếng trung hoa"
     },
     {
-      "word": "音訓",
-      "reading": "おんくん",
-      "meaning": "cách đọc chữ hán"
+      "word": "教訓",
+      "reading": "きょうくん",
+      "meaning": "châm ngôn"
     },
     {
-      "word": "訓誡",
-      "reading": "くんかい",
-      "meaning": "sự khiển trách"
+      "word": "特訓",
+      "reading": "とっくん",
+      "meaning": "khóa huấn luyện đặc biệt"
     },
     {
-      "word": "訓戒",
-      "reading": "くんかい",
-      "meaning": "sự cảnh báo không nên làm gì"
+      "word": "訓化",
+      "reading": "くんか",
+      "meaning": "chỉ dẫn"
     },
     {
-      "word": "訓話",
-      "reading": "くんわ",
-      "meaning": "chuyện ngụ ngôn"
+      "word": "内訓",
+      "reading": "ないくん",
+      "meaning": "mệnh lệnh bí mật của cấp trên"
     },
     {
-      "word": "訓育",
-      "reading": "くんいく",
-      "meaning": "giáo dục"
+      "word": "同訓",
+      "reading": "どうくん",
+      "meaning": "đồng âm kun"
     },
     {
-      "word": "訓辞",
-      "reading": "くんじ",
-      "meaning": "lời huấn thị"
+      "word": "師訓",
+      "reading": "しくん",
+      "meaning": "chỉ dẫn một giáo viên"
     },
     {
-      "word": "訓令",
-      "reading": "くんれい",
-      "meaning": "dụ"
+      "word": "社訓",
+      "reading": "しゃくん",
+      "meaning": "hướng dẫn những châm ngôn một công ty"
     },
     {
-      "word": "訓迪",
-      "reading": "くんてき",
-      "meaning": "dạy"
-    },
-    {
-      "word": "和訓",
-      "reading": "わくん",
-      "meaning": "tiếng nhật đọc một đặc tính tiếng trung hoa"
+      "word": "訓連",
+      "reading": "くんれん",
+      "meaning": "sự huấn luyện"
     }
   ]
 }

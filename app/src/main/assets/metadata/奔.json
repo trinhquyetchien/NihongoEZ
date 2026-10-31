@@ -69,6 +69,41 @@
   ],
   "vocabulary": [
     {
+      "word": "奔放",
+      "reading": "ほんぽう",
+      "meaning": "phung phí"
+    },
+    {
+      "word": "奔走",
+      "reading": "ほんそう",
+      "meaning": "sự cố gắng"
+    },
+    {
+      "word": "奔流",
+      "reading": "ほんりゅう",
+      "meaning": "dòng nước chảy mạnh"
+    },
+    {
+      "word": "出奔",
+      "reading": "しゅっぽん",
+      "meaning": "sự chạy trốn"
+    },
+    {
+      "word": "出奔者",
+      "reading": "しゅっぽんしゃ",
+      "meaning": "người lẫn trốn"
+    },
+    {
+      "word": "狂奔",
+      "reading": "きょうほん",
+      "meaning": "sự chạy điên cuồng"
+    },
+    {
+      "word": "奔馬",
+      "reading": "ほんば",
+      "meaning": "con ngựa đang phi nước đại"
+    },
+    {
       "word": "淫奔",
       "reading": "いんぽん",
       "meaning": "tính dâm dục"
@@ -79,44 +114,9 @@
       "meaning": "sự phóng nhanh"
     },
     {
-      "word": "出奔",
-      "reading": "しゅっぽん",
-      "meaning": "sự chạy trốn"
-    },
-    {
-      "word": "奔流",
-      "reading": "ほんりゅう",
-      "meaning": "dòng nước chảy mạnh"
-    },
-    {
-      "word": "奔走",
-      "reading": "ほんそう",
-      "meaning": "sự cố gắng"
-    },
-    {
-      "word": "奔馬",
-      "reading": "ほんば",
-      "meaning": "con ngựa đang phi nước đại"
-    },
-    {
-      "word": "狂奔",
-      "reading": "きょうほん",
-      "meaning": "sự chạy điên cuồng"
-    },
-    {
       "word": "奔出",
       "reading": "ほんしゅつ",
       "meaning": "phun ra ở ngoài"
-    },
-    {
-      "word": "奔命",
-      "reading": "ほんめい",
-      "meaning": "mang chính mình ở ngoài với công việc"
-    },
-    {
-      "word": "奔騰",
-      "reading": "ほんとう",
-      "meaning": "sự tăng vọt"
     }
   ]
 }

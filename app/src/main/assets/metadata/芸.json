@@ -92,19 +92,29 @@
   ],
   "vocabulary": [
     {
-      "word": "芸",
-      "reading": "げい",
-      "meaning": "nghệ thuật"
-    },
-    {
-      "word": "多芸は無芸",
-      "reading": "たげいはむげい",
-      "meaning": "một nghề cho chín còn hơn chín nghề"
-    },
-    {
       "word": "芸術",
       "reading": "げいじゅつ",
       "meaning": "nghệ thuật"
+    },
+    {
+      "word": "芸能",
+      "reading": "げいのう",
+      "meaning": "nghệ thuật"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaning": "nghề thủ công"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "văn nghệ"
+    },
+    {
+      "word": "学芸",
+      "reading": "がくげい",
+      "meaning": "học vấn và nghệ thuật"
     },
     {
       "word": "手芸",
@@ -117,29 +127,19 @@
       "meaning": "nghệ nhân"
     },
     {
-      "word": "工芸",
-      "reading": "こうげい",
-      "meaning": "nghề thủ công"
-    },
-    {
-      "word": "一芸",
-      "reading": "いちげい",
+      "word": "芸",
+      "reading": "げい",
       "meaning": "nghệ thuật"
     },
     {
-      "word": "芸当",
-      "reading": "げいとう",
-      "meaning": "ngón nghề điêu luyện"
+      "word": "万芸",
+      "reading": "ばんげい",
+      "meaning": "có nhiều tài nghệ"
     },
     {
-      "word": "芸道",
-      "reading": "げいどう",
-      "meaning": "tài nghệ"
-    },
-    {
-      "word": "芸歴",
-      "reading": "げいれき",
-      "meaning": "sự nghiệp"
+      "word": "百芸",
+      "reading": "ひゃくげい",
+      "meaning": "gã - - tất cả - buôn bán"
     }
   ]
 }

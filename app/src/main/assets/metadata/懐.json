@@ -102,34 +102,19 @@
       "meaning": "ngực áo"
     },
     {
-      "word": "懐メロ",
-      "reading": "なつメロ",
-      "meaning": "nhạc cổ điển"
+      "word": "懐かし",
+      "reading": "なつかし",
+      "meaning": "thân yêu"
     },
     {
-      "word": "懐く",
-      "reading": "なつく",
-      "meaning": "trở nên thân thiết"
+      "word": "懐具合",
+      "reading": "ふところぐあい",
+      "meaning": "đứng tài chính ai đó"
     },
     {
-      "word": "懐石",
-      "reading": "かいせき",
-      "meaning": "bữa ăn đơn giản trước khi uống trà"
-    },
-    {
-      "word": "懐紙",
-      "reading": "かいし",
-      "meaning": "khăn giấy"
-    },
-    {
-      "word": "懐銭",
-      "reading": "ふところぜに",
-      "meaning": "bỏ vào túi tiền"
-    },
-    {
-      "word": "懐胎",
-      "reading": "かいたい",
-      "meaning": "sự có mang"
+      "word": "久懐",
+      "reading": "きゅうかい",
+      "meaning": "dài - thương yêu hy vọng"
     },
     {
       "word": "雅懐",
@@ -137,14 +122,29 @@
       "meaning": "cảm xúc trước cái đẹp"
     },
     {
-      "word": "懐妊",
-      "reading": "かいにん",
-      "meaning": "mang thai"
+      "word": "懐銭",
+      "reading": "ふところぜに",
+      "meaning": "bỏ vào túi tiền"
     },
     {
-      "word": "懐旧",
-      "reading": "かいきゅう",
-      "meaning": "hoài cổ"
+      "word": "懐疑",
+      "reading": "かいぎ",
+      "meaning": "hoài nghi"
+    },
+    {
+      "word": "懐疑心",
+      "reading": "かいぎしん",
+      "meaning": "tính đa nghi"
+    },
+    {
+      "word": "懐疑派",
+      "reading": "かいぎは",
+      "meaning": "những kẻ hoài nghi"
+    },
+    {
+      "word": "懐疑論",
+      "reading": "かいぎろん",
+      "meaning": "chủ nghĩa hoài nghi"
     }
   ]
 }

@@ -86,9 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "殷賑",
-      "reading": "いんしん",
-      "meaning": "sống động"
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaning": "sôi nổi"
     },
     {
       "word": "賑わう",
@@ -101,14 +101,14 @@
       "meaning": "sự thịnh vượng"
     },
     {
-      "word": "賑やか",
-      "reading": "にぎやか",
-      "meaning": "sôi nổi"
-    },
-    {
       "word": "賑わす",
       "reading": "にぎわす",
       "meaning": "làm cho đông đúc"
+    },
+    {
+      "word": "殷賑",
+      "reading": "いんしん",
+      "meaning": "sống động"
     },
     {
       "word": "賑あう",
@@ -131,9 +131,9 @@
       "meaning": "làm sinh động"
     },
     {
-      "word": "殷賑を極める",
-      "reading": "いんしんをきわめる",
-      "meaning": "đạt đến đỉnh cao của sự phồn vinh"
+      "word": "枯れ木も山の賑わい",
+      "reading": "かれきもやまのにぎわい",
+      "meaning": "có còn hơn không"
     }
   ]
 }

@@ -91,14 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "悔む",
-      "reading": "くやむ",
-      "meaning": "tiếc nuối"
+      "word": "悔しい",
+      "reading": "くやしい",
+      "meaning": "đáng tiếc"
     },
     {
-      "word": "悔ゆ",
-      "reading": "くゆ",
-      "meaning": "hối tiếc"
+      "word": "悔やむ",
+      "reading": "くやむ",
+      "meaning": "đau buồn"
     },
     {
       "word": "後悔",
@@ -106,29 +106,9 @@
       "meaning": "cải hối"
     },
     {
-      "word": "悔悟",
-      "reading": "かいご",
-      "meaning": "sám hối"
-    },
-    {
-      "word": "悔悛",
-      "reading": "かいしゅん",
-      "meaning": "sự ân hận"
-    },
-    {
-      "word": "懺悔",
-      "reading": "ざんげ",
-      "meaning": "sám hối"
-    },
-    {
-      "word": "悔み",
-      "reading": "くやみ",
-      "meaning": "lời chia buồn"
-    },
-    {
-      "word": "悔恨",
-      "reading": "かいこん",
-      "meaning": "sự hối hận"
+      "word": "悔しさ",
+      "reading": "くやしさ",
+      "meaning": "sự chán nản"
     },
     {
       "word": "悔い",
@@ -136,9 +116,29 @@
       "meaning": "sự ăn năn"
     },
     {
+      "word": "懺悔",
+      "reading": "ざんげ",
+      "meaning": "sám hối"
+    },
+    {
       "word": "悔やみ",
       "reading": "くやみ",
       "meaning": "lời chia buồn"
+    },
+    {
+      "word": "悔ゆ",
+      "reading": "くゆ",
+      "meaning": "hối tiếc"
+    },
+    {
+      "word": "悔む",
+      "reading": "くやむ",
+      "meaning": "tiếc nuối"
+    },
+    {
+      "word": "悔恨",
+      "reading": "かいこん",
+      "meaning": "sự hối hận"
     }
   ]
 }

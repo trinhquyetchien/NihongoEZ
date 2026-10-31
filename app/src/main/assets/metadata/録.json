@@ -124,54 +124,54 @@
   ],
   "vocabulary": [
     {
-      "word": "録",
-      "reading": "ろく",
-      "meaning": "sự ghi chép"
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "ký"
     },
     {
-      "word": "輯録",
-      "reading": "しゅうろく",
-      "meaning": "biên soạn"
+      "word": "録音",
+      "reading": "ろくおん",
+      "meaning": "sự ghi âm"
     },
     {
-      "word": "集録",
-      "reading": "しゅうろく",
-      "meaning": "sự biên soạn"
+      "word": "登録",
+      "reading": "とうろく",
+      "meaning": "sự đăng ký"
+    },
+    {
+      "word": "付録",
+      "reading": "ふろく",
+      "meaning": "phụ lục văn bản"
+    },
+    {
+      "word": "目録",
+      "reading": "もくろく",
+      "meaning": "bản lược khai"
+    },
+    {
+      "word": "記録的",
+      "reading": "きろくてき",
+      "meaning": "ghi"
+    },
+    {
+      "word": "登録機",
+      "reading": "とうろくき",
+      "meaning": "máy đăng kí"
+    },
+    {
+      "word": "記録会",
+      "reading": "きろくかい",
+      "meaning": "cuộc thi được tổ chức nhằm thiết lập kỷ lục"
+    },
+    {
+      "word": "記録面",
+      "reading": "きろくめん",
+      "meaning": "bề mặt ghi"
     },
     {
       "word": "収録",
       "reading": "しゅうろく",
       "meaning": "biên dịch"
-    },
-    {
-      "word": "再録",
-      "reading": "さいろく",
-      "meaning": "sự in lại"
-    },
-    {
-      "word": "生録",
-      "reading": "なまろく",
-      "meaning": "ghi âm trực tiếp"
-    },
-    {
-      "word": "抄録",
-      "reading": "しょうろく",
-      "meaning": "sự tóm lược"
-    },
-    {
-      "word": "語録",
-      "reading": "ごろく",
-      "meaning": "sách văn tuyển"
-    },
-    {
-      "word": "実録",
-      "reading": "じつろく",
-      "meaning": "tài khoản xác thực"
-    },
-    {
-      "word": "街録",
-      "reading": "がいろく",
-      "meaning": "phỏng vấn người đàn ông trên đường phố"
     }
   ]
 }

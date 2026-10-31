@@ -93,9 +93,14 @@
   ],
   "vocabulary": [
     {
-      "word": "取締",
-      "reading": "とりしまり",
-      "meaning": "điều khiển"
+      "word": "締める",
+      "reading": "しめる",
+      "meaning": "buộc"
+    },
+    {
+      "word": "取締役",
+      "reading": "とりしまりやく",
+      "meaning": "người quản lý"
     },
     {
       "word": "締め",
@@ -103,44 +108,39 @@
       "meaning": "kỹ thuật bóp nghẹt cổ"
     },
     {
-      "word": "元締",
-      "reading": "もとじめ",
-      "meaning": "người giám sát"
+      "word": "締めて",
+      "reading": "しめて",
+      "meaning": "mọi thứ"
     },
     {
-      "word": "締約",
-      "reading": "ていやく",
-      "meaning": "kết luận một hiệp ước"
+      "word": "手締め",
+      "reading": "てじめ",
+      "meaning": "nghi lễ vỗ tay theo một nhịp điệu nhất định"
     },
     {
-      "word": "板締",
-      "reading": "いたじめ",
-      "meaning": "phương pháp tạo mẫu nhuộm bằng cách dồn vải giữa các tấm bảng khắc"
+      "word": "締め代",
+      "reading": "しめしろ",
+      "meaning": "sự can thiệp"
     },
     {
-      "word": "音締",
-      "reading": "ねじめ",
-      "meaning": "tiếng đàn shamisen (三味線） - một loại nhạc cụ truyền thống của nhật"
+      "word": "水締め",
+      "reading": "みずしめ",
+      "meaning": "một thiết bị dùng để xác định mặt phẳng nằm ngang hoặc thẳng đứng và kiểm tra độ nghiêng so với mặt phẳng nằm ngang"
     },
     {
-      "word": "締盟",
-      "reading": "ていめい",
-      "meaning": "hình thành một liên minh"
-    },
-    {
-      "word": "締付",
-      "reading": "しめつけ",
-      "meaning": "siết chặt"
-    },
-    {
-      "word": "締切",
-      "reading": "しめきり",
-      "meaning": "hạn cuối"
+      "word": "野締め",
+      "reading": "のじめ",
+      "meaning": "giết chim hoặc cá ngay lập tức tại chỗ đánh bắt để bảo quản độ tươi của nó"
     },
     {
       "word": "締結",
       "reading": "ていけつ",
       "meaning": "kết luận"
+    },
+    {
+      "word": "締結人",
+      "reading": "ていけつにん",
+      "meaning": "người ký kết"
     }
   ]
 }

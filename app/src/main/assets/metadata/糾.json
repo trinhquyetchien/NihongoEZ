@@ -86,24 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "糾う",
-      "reading": "あざなう",
-      "meaning": "xoắn"
+      "word": "糾弾",
+      "reading": "きゅうだん",
+      "meaning": "sự công kích"
     },
     {
       "word": "紛糾",
       "reading": "ふんきゅう",
       "meaning": "sự hỗn loạn"
-    },
-    {
-      "word": "糾問",
-      "reading": "きゅうもん",
-      "meaning": "sự thẩm vấn"
-    },
-    {
-      "word": "糾弾",
-      "reading": "きゅうだん",
-      "meaning": "sự công kích"
     },
     {
       "word": "糾合",
@@ -116,9 +106,14 @@
       "meaning": "sự truy cứu"
     },
     {
-      "word": "罪状糾明",
-      "reading": "ざいじょうきゅうめい",
-      "meaning": "sự truy cứu tội trạng"
+      "word": "糾う",
+      "reading": "あざなう",
+      "meaning": "xoắn"
+    },
+    {
+      "word": "糾問",
+      "reading": "きゅうもん",
+      "meaning": "sự thẩm vấn"
     },
     {
       "word": "糾弾する",
@@ -126,14 +121,19 @@
       "meaning": "công kích"
     },
     {
-      "word": "糾明する",
-      "reading": "きゅうめい",
-      "meaning": "truy cứu"
+      "word": "紛糾した",
+      "reading": "ふんきゅうした",
+      "meaning": "diệu vợi"
     },
     {
-      "word": "元を糾す",
-      "reading": "もとをただす",
-      "meaning": "truy xét tới cùng"
+      "word": "紛糾する",
+      "reading": "ふんきゅうする",
+      "meaning": "triền miên"
+    },
+    {
+      "word": "罪状糾明",
+      "reading": "ざいじょうきゅうめい",
+      "meaning": "sự truy cứu tội trạng"
     }
   ]
 }

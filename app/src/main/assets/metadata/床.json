@@ -90,19 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "床",
-      "reading": "ゆか",
-      "meaning": "sàn nhà"
-    },
-    {
       "word": "床屋",
       "reading": "とこや",
       "meaning": "hiệu cắt tóc"
     },
     {
-      "word": "床下",
-      "reading": "ゆかした",
-      "meaning": "dưới sàn nhà"
+      "word": "床",
+      "reading": "ゆか",
+      "meaning": "sàn nhà"
     },
     {
       "word": "起床",
@@ -110,34 +105,39 @@
       "meaning": "sự dậy"
     },
     {
-      "word": "視床",
-      "reading": "ししょう",
-      "meaning": "thị giác"
+      "word": "金床",
+      "reading": "かなとこ",
+      "meaning": "cái đe"
     },
     {
-      "word": "増床",
-      "reading": "ぞうしょう",
-      "meaning": "sự mở rộng diện tích sàn"
+      "word": "花床",
+      "reading": "かしょう",
+      "meaning": "bao hoa"
     },
     {
-      "word": "高床",
-      "reading": "たかゆか",
-      "meaning": "nhà sàn"
+      "word": "着床",
+      "reading": "ちゃくしょう",
+      "meaning": "sự cấy ghép"
     },
     {
-      "word": "床脇",
-      "reading": "とこわき",
-      "meaning": "góc trang trí trong phòng"
+      "word": "種床",
+      "reading": "たねどこ",
+      "meaning": "giá thể ươm cây con"
     },
     {
-      "word": "満床",
-      "reading": "まんしょう",
-      "meaning": "hết giường bệnh"
+      "word": "火床",
+      "reading": "ひどこ",
+      "meaning": "khai hỏa cái vỉ"
     },
     {
-      "word": "鉱床",
-      "reading": "こうしょう",
-      "meaning": "sàng quặng"
+      "word": "低床",
+      "reading": "ていしょう",
+      "meaning": "hạ thấp"
+    },
+    {
+      "word": "氷床",
+      "reading": "ひょうしょう",
+      "meaning": "dải băng"
     }
   ]
 }

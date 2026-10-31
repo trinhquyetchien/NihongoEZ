@@ -89,28 +89,13 @@
   ],
   "vocabulary": [
     {
-      "word": "腹",
-      "reading": "はら",
+      "word": "お腹",
+      "reading": "おなか",
       "meaning": "bụng"
     },
     {
-      "word": "後腹腔気腹症",
-      "reading": "ごふっくうきふくしょう",
-      "meaning": "tràn khí khoang sau màn bụng"
-    },
-    {
-      "word": "屠腹",
-      "reading": "とふく",
-      "meaning": "harakiri"
-    },
-    {
-      "word": "当腹",
-      "reading": "とうふく",
-      "meaning": "đứa con do người vợ hiện tại sinh ra"
-    },
-    {
-      "word": "お腹",
-      "reading": "おなか",
+      "word": "腹",
+      "reading": "はら",
       "meaning": "bụng"
     },
     {
@@ -119,14 +104,29 @@
       "meaning": "sườn núi"
     },
     {
-      "word": "横腹",
-      "reading": "よこばら",
-      "meaning": "đứng bên"
+      "word": "本腹",
+      "reading": "ほんばら",
+      "meaning": "hợp pháp hóa"
     },
     {
-      "word": "亀腹",
-      "reading": "かめばら",
-      "meaning": "gờ chân tường hình mai rùa"
+      "word": "金腹",
+      "reading": "きんぱら",
+      "meaning": "chim di nâu"
+    },
+    {
+      "word": "別腹",
+      "reading": "べつばら",
+      "meaning": "món tráng miệng"
+    },
+    {
+      "word": "腹面",
+      "reading": "ふくめん",
+      "meaning": "mặt bụng"
+    },
+    {
+      "word": "白腹",
+      "reading": "しろはら",
+      "meaning": "turdus pallidus"
     },
     {
       "word": "腹身",
@@ -134,9 +134,9 @@
       "meaning": "thịt gân bụng"
     },
     {
-      "word": "腹面",
-      "reading": "ふくめん",
-      "meaning": "mặt bụng"
+      "word": "太腹",
+      "reading": "ふとばら",
+      "meaning": "bụng béo"
     }
   ]
 }

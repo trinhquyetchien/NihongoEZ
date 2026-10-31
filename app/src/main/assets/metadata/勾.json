@@ -68,9 +68,14 @@
   ],
   "vocabulary": [
     {
-      "word": "勾",
-      "reading": "",
-      "meaning": "bị cong"
+      "word": "勾留",
+      "reading": "こうりゅう",
+      "meaning": "sự giam giữ"
+    },
+    {
+      "word": "勾留状",
+      "reading": "こうりゅうじょう",
+      "meaning": "lệnh tạm giam"
     },
     {
       "word": "勾配",
@@ -78,14 +83,14 @@
       "meaning": "dốc"
     },
     {
-      "word": "勾引",
-      "reading": "こういん",
-      "meaning": "sự bắt giữ"
+      "word": "勾配器",
+      "reading": "こうばいうつわ",
+      "meaning": "máy đo độ dốc"
     },
     {
-      "word": "勾留",
-      "reading": "こうりゅう",
-      "meaning": "sự giam giữ"
+      "word": "急勾配",
+      "reading": "きゅうこうばい",
+      "meaning": "dốc đứng"
     },
     {
       "word": "勾玉",
@@ -93,9 +98,14 @@
       "meaning": "đá quý hình dấu phẩy"
     },
     {
-      "word": "勾股弦",
-      "reading": "こうこげん",
-      "meaning": "three sides of right triangle"
+      "word": "勾",
+      "reading": "",
+      "meaning": "bị cong"
+    },
+    {
+      "word": "勾引",
+      "reading": "こういん",
+      "meaning": "sự bắt giữ"
     },
     {
       "word": "勾引状",
@@ -106,16 +116,6 @@
       "word": "勾引し",
       "reading": "かどわかし",
       "meaning": "kẻ bắt cóc"
-    },
-    {
-      "word": "勾引す",
-      "reading": "かどわす",
-      "meaning": "bắt cóc"
-    },
-    {
-      "word": "急勾配",
-      "reading": "きゅうこうばい",
-      "meaning": "dốc đứng"
     }
   ]
 }

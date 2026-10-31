@@ -34,6 +34,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "反駁",
+      "reading": "はんばく",
+      "meaning": "lời phản bác"
+    },
+    {
       "word": "論駁",
       "reading": "ろんばく",
       "meaning": "sự bẻ lại"
@@ -52,11 +57,6 @@
       "word": "弁駁",
       "reading": "べんばく",
       "meaning": "sự mâu thuẫn"
-    },
-    {
-      "word": "反駁",
-      "reading": "はんばく",
-      "meaning": "lời phản bác"
     },
     {
       "word": "駁撃",

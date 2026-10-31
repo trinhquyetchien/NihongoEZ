@@ -88,29 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "漆",
-      "reading": "しち",
-      "meaning": "cây sơn"
-    },
-    {
       "word": "漆黒",
       "reading": "しっこく",
       "meaning": "đen nhánh"
     },
     {
-      "word": "蔦漆",
-      "reading": "つたうるし",
-      "meaning": "toxicodendron orientale"
+      "word": "漆",
+      "reading": "しち",
+      "meaning": "cây sơn"
+    },
+    {
+      "word": "金漆",
+      "reading": "きんしつ",
+      "meaning": "sơn mài làm từ nhựa cây acanthopanax sciadophylloides"
     },
     {
       "word": "漆屋",
       "reading": "うるしや",
       "meaning": "cửa hàng sơn mài"
-    },
-    {
-      "word": "仮漆",
-      "reading": "かしつ",
-      "meaning": "véc-ni"
     },
     {
       "word": "黒漆",
@@ -123,19 +118,24 @@
       "meaning": "một loại cây bụi rụng lá thuộc họ đào lộn hột"
     },
     {
-      "word": "生漆",
-      "reading": "きうるし",
-      "meaning": "nhựa chưa qua tinh chế của cây sơn"
+      "word": "漆絵",
+      "reading": "うるしえ",
+      "meaning": "một bức tranh sơn mài"
     },
     {
-      "word": "漆喰",
+      "word": "漆の木",
+      "reading": "うるしのき",
+      "meaning": "cây sơn"
+    },
+    {
+      "word": "漆食",
       "reading": "しっくい",
       "meaning": "trát vữa vào"
     },
     {
-      "word": "漆器",
-      "reading": "しっき",
-      "meaning": "đồ gỗ sơn"
+      "word": "庭漆",
+      "reading": "にわうるし",
+      "meaning": "cây thần"
     }
   ]
 }

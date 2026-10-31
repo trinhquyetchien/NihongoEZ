@@ -111,8 +111,8 @@
   ],
   "vocabulary": [
     {
-      "word": "汚",
-      "reading": "よごれ",
+      "word": "汚い",
+      "reading": "きたない",
       "meaning": "bẩn"
     },
     {
@@ -121,29 +121,14 @@
       "meaning": "bẩn"
     },
     {
-      "word": "汚し",
-      "reading": "きたなし",
-      "meaning": "cá"
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "sự ô nhiễm"
     },
     {
-      "word": "汚損",
-      "reading": "おそん",
-      "meaning": "bị bẩn và hư hỏng"
-    },
-    {
-      "word": "汚辱",
-      "reading": "おじょく",
-      "meaning": "sự ô nhục"
-    },
-    {
-      "word": "汚濁",
-      "reading": "おだく",
-      "meaning": "sự ô uế"
-    },
-    {
-      "word": "汚泥",
-      "reading": "おでい",
-      "meaning": "bùn dơ"
+      "word": "汚す",
+      "reading": "よごす",
+      "meaning": "làm hỏng"
     },
     {
       "word": "汚れ",
@@ -151,14 +136,29 @@
       "meaning": "bẩn"
     },
     {
-      "word": "汚臭",
-      "reading": "おしゅう",
-      "meaning": "mùi khó chịu"
+      "word": "汚れた",
+      "reading": "よごれた",
+      "meaning": "lấm lem"
     },
     {
-      "word": "汚行",
-      "reading": "おこう",
-      "meaning": "hành vi xấu xa"
+      "word": "汚れ物",
+      "reading": "よごれもの",
+      "meaning": "đồ dơ"
+    },
+    {
+      "word": "寝汚い",
+      "reading": "いぎたない",
+      "meaning": "tướng ngủ xấu"
+    },
+    {
+      "word": "汚染度",
+      "reading": "おせんど",
+      "meaning": "sóng hài bậc"
+    },
+    {
+      "word": "汚染水",
+      "reading": "おせんすい",
+      "meaning": "nước bị ô nhiễm"
     }
   ]
 }

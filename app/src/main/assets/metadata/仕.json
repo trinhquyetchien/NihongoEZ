@@ -90,34 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "仕",
-      "reading": "し",
-      "meaning": "viên chức"
-    },
-    {
       "word": "仕事",
       "reading": "しごと",
       "meaning": "công việc"
     },
     {
-      "word": "スタンド/仕切板/仕切ワイヤー",
-      "reading": "スタンド/しきりいた/しきりワイヤー",
-      "meaning": "giá đỡ/ tấm ngăn chắn/ dây ngăn chắn"
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "cách làm"
     },
     {
-      "word": "仕草",
-      "reading": "しぐさ",
-      "meaning": "hoạt động"
+      "word": "仕様",
+      "reading": "しよう",
+      "meaning": "đặc điểm kĩ thuật"
     },
     {
-      "word": "仕上",
-      "reading": "しあげ",
-      "meaning": "chấm dứt"
-    },
-    {
-      "word": "仕舞",
-      "reading": "しまい",
-      "meaning": "sự kết thúc"
+      "word": "仕掛け",
+      "reading": "しかけ",
+      "meaning": "thiết bị"
     },
     {
       "word": "奉仕",
@@ -125,19 +115,29 @@
       "meaning": "sự phục vụ"
     },
     {
-      "word": "仕込",
-      "reading": "しこみ",
-      "meaning": "sự huấn luyện"
+      "word": "仕える",
+      "reading": "つかえる",
+      "meaning": "phụng sự"
     },
     {
-      "word": "仕掛",
-      "reading": "しかけ",
-      "meaning": "thiết bị"
+      "word": "給仕",
+      "reading": "きゅうじ",
+      "meaning": "nhân viên phục vụ trong văn phòng"
     },
     {
-      "word": "仕度",
-      "reading": "したく",
-      "meaning": "sự chuẩn bị"
+      "word": "仕切る",
+      "reading": "しきる",
+      "meaning": "chia ra"
+    },
+    {
+      "word": "仕事中",
+      "reading": "しごとちゅう",
+      "meaning": "trong công việc"
+    },
+    {
+      "word": "大仕事",
+      "reading": "おおしごと",
+      "meaning": "đại sự"
     }
   ]
 }

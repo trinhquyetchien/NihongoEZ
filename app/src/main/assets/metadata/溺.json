@@ -103,9 +103,9 @@
   ],
   "vocabulary": [
     {
-      "word": "耽溺",
-      "reading": "たんでき",
-      "meaning": "sự đắm đuối"
+      "word": "溺れる",
+      "reading": "おぼれる",
+      "meaning": "chết đuối"
     },
     {
       "word": "溺愛",
@@ -113,24 +113,9 @@
       "meaning": "nuông chiều một cách mù quáng"
     },
     {
-      "word": "溺水",
-      "reading": "できすい",
-      "meaning": "sự chết đuối"
-    },
-    {
-      "word": "惑溺",
-      "reading": "わくでき",
-      "meaning": "u mê"
-    },
-    {
       "word": "溺死",
       "reading": "できし",
       "meaning": "chết đuối"
-    },
-    {
-      "word": "沈溺",
-      "reading": "ちんでき",
-      "meaning": "sa đà"
     },
     {
       "word": "溺死者",
@@ -143,9 +128,24 @@
       "meaning": "xác chết đuối"
     },
     {
-      "word": "溺れる",
-      "reading": "おぼれる",
-      "meaning": "chết đuối"
+      "word": "耽溺",
+      "reading": "たんでき",
+      "meaning": "sự đắm đuối"
+    },
+    {
+      "word": "溺水",
+      "reading": "できすい",
+      "meaning": "sự chết đuối"
+    },
+    {
+      "word": "惑溺",
+      "reading": "わくでき",
+      "meaning": "u mê"
+    },
+    {
+      "word": "沈溺",
+      "reading": "ちんでき",
+      "meaning": "sa đà"
     },
     {
       "word": "溺らす",

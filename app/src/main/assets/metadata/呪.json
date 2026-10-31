@@ -95,9 +95,14 @@
   ],
   "vocabulary": [
     {
-      "word": "呪",
-      "reading": "じゅ",
-      "meaning": "dharani"
+      "word": "呪い",
+      "reading": "のろい",
+      "meaning": "lời nguyền rủa"
+    },
+    {
+      "word": "お呪い",
+      "reading": "おまじない",
+      "meaning": "thần chú"
     },
     {
       "word": "呪文",
@@ -105,29 +110,19 @@
       "meaning": "thần chú"
     },
     {
-      "word": "呪う",
-      "reading": "のろう",
+      "word": "呪",
+      "reading": "じゅ",
+      "meaning": "dharani"
+    },
+    {
+      "word": "呪り",
+      "reading": "かしり",
       "meaning": "nguyền rủa"
     },
     {
-      "word": "呪術",
-      "reading": "じゅじゅつ",
-      "meaning": "ma thuật"
-    },
-    {
-      "word": "符呪",
-      "reading": "ふじゅ",
-      "meaning": "câu thần chú"
-    },
-    {
-      "word": "呪力",
-      "reading": "じゅりょく",
-      "meaning": "năng lực kì diệu"
-    },
-    {
-      "word": "神呪",
-      "reading": "しんじゅ",
-      "meaning": "thần chú"
+      "word": "呪具",
+      "reading": "じゅぐ",
+      "meaning": "bùa chú"
     },
     {
       "word": "明呪",
@@ -135,14 +130,19 @@
       "meaning": "lời nói chân thật"
     },
     {
-      "word": "呪い",
-      "reading": "のろい",
-      "meaning": "lời nguyền rủa"
+      "word": "呪言",
+      "reading": "じゅごん",
+      "meaning": "câu thấn chú nguyền rủa"
     },
     {
-      "word": "呪縛",
-      "reading": "じゅばく",
-      "meaning": "nguyền rủa"
+      "word": "呪禁",
+      "reading": "じゅごん",
+      "meaning": "niệm chú"
+    },
+    {
+      "word": "禁呪",
+      "reading": "きんじゅ",
+      "meaning": "bùa chú"
     }
   ]
 }

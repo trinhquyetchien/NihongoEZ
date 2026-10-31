@@ -83,14 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "劾",
-      "reading": "",
-      "meaning": "sự khảo sát phạm tội"
-    },
-    {
       "word": "弾劾",
       "reading": "だんがい",
       "meaning": "sự đàn hặc"
+    },
+    {
+      "word": "劾",
+      "reading": "",
+      "meaning": "sự khảo sát phạm tội"
     },
     {
       "word": "劾奏",

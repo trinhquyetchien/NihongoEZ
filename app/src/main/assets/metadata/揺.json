@@ -96,29 +96,9 @@
   ],
   "vocabulary": [
     {
-      "word": "揺",
-      "reading": "ゆり",
-      "meaning": "sự rung động"
-    },
-    {
-      "word": "揺ら揺ら",
-      "reading": "ゆらゆら",
-      "meaning": "lắc lư"
-    },
-    {
-      "word": "揺籃",
-      "reading": "ようらん",
-      "meaning": "cái nôi"
-    },
-    {
-      "word": "揺曳",
-      "reading": "ようえい",
-      "meaning": "đu đưa"
-    },
-    {
-      "word": "揺動",
-      "reading": "ようどう",
-      "meaning": "sự đi lảo đảo"
+      "word": "揺れる",
+      "reading": "ゆれる",
+      "meaning": "bập bồng"
     },
     {
       "word": "動揺",
@@ -126,8 +106,13 @@
       "meaning": "dao động"
     },
     {
-      "word": "揺る",
-      "reading": "ゆる",
+      "word": "揺らぐ",
+      "reading": "ゆらぐ",
+      "meaning": "dao động"
+    },
+    {
+      "word": "揺さぶる",
+      "reading": "ゆさぶる",
       "meaning": "rung"
     },
     {
@@ -136,14 +121,29 @@
       "meaning": "sự rung động"
     },
     {
-      "word": "揺藻",
-      "reading": "ゆれも",
-      "meaning": "tảo xoắn nhật bản"
+      "word": "大揺れ",
+      "reading": "おおゆれ",
+      "meaning": "sự nhiễu loạn"
     },
     {
-      "word": "揺蕩",
-      "reading": "ようとう",
-      "meaning": "bồng bềnh"
+      "word": "横揺れ",
+      "reading": "よこゆれ",
+      "meaning": "sự tròng trành"
+    },
+    {
+      "word": "縦揺れ",
+      "reading": "たてゆれ",
+      "meaning": "rung chuyển"
+    },
+    {
+      "word": "動揺病",
+      "reading": "どーよーびょー",
+      "meaning": "say tàu xe"
+    },
+    {
+      "word": "揺らぎ",
+      "reading": "ゆらぎ",
+      "meaning": "dao động"
     }
   ]
 }

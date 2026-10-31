@@ -111,24 +111,9 @@
       "meaning": "đá"
     },
     {
-      "word": "蹴鞠",
-      "reading": "けまり",
-      "meaning": "đá cầu kiểu truyền thống của nhật"
-    },
-    {
-      "word": "足蹴",
-      "reading": "あしげ",
-      "meaning": "đá vật gì đó bằng chân"
-    },
-    {
-      "word": "先蹴",
-      "reading": "せんしゅう",
-      "meaning": "sự bắt đầu"
-    },
-    {
-      "word": "蹴球",
-      "reading": "しゅうきゅう",
-      "meaning": "đá banh"
+      "word": "蹴飛ばす",
+      "reading": "けとばす",
+      "meaning": "đá ra khỏi"
     },
     {
       "word": "蹴り",
@@ -136,24 +121,39 @@
       "meaning": "sự đá"
     },
     {
-      "word": "蹴爪",
-      "reading": "けづめ",
-      "meaning": "cựa gà"
-    },
-    {
-      "word": "蹴子",
-      "reading": "しゅうし",
-      "meaning": "bơm phụt"
-    },
-    {
-      "word": "一蹴",
-      "reading": "いっしゅう",
-      "meaning": "một cú đá hậu"
+      "word": "一蹴り",
+      "reading": "ひとけり",
+      "meaning": "một cú đá"
     },
     {
       "word": "前蹴り",
       "reading": "まえげり",
       "meaning": "đá tống"
+    },
+    {
+      "word": "石蹴り",
+      "reading": "いしけり",
+      "meaning": "trò chơi ô lò cò"
+    },
+    {
+      "word": "玉蹴り",
+      "reading": "たまけり",
+      "meaning": "bóng đá"
+    },
+    {
+      "word": "缶蹴り",
+      "reading": "かんけり",
+      "meaning": "trò đá lon"
+    },
+    {
+      "word": "膝蹴り",
+      "reading": "ひざげり",
+      "meaning": "sự lên gối"
+    },
+    {
+      "word": "蹴子",
+      "reading": "しゅうし",
+      "meaning": "bơm phụt"
     }
   ]
 }

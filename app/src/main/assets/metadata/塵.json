@@ -85,19 +85,24 @@
   ],
   "vocabulary": [
     {
+      "word": "微塵",
+      "reading": "みじん",
+      "meaning": "một chút"
+    },
+    {
       "word": "塵",
       "reading": "ごみ",
       "meaning": "bụi"
     },
     {
-      "word": "塵入れ塵出し",
-      "reading": "ちりいれちりだし",
-      "meaning": "rác bên trong"
+      "word": "市塵",
+      "reading": "しじん",
+      "meaning": "bụi trên đường phố"
     },
     {
-      "word": "塵塚",
-      "reading": "ちりづか",
-      "meaning": "bãi rác"
+      "word": "春塵",
+      "reading": "しゅんじん",
+      "meaning": "bụi mùa xuân"
     },
     {
       "word": "発塵",
@@ -105,34 +110,29 @@
       "meaning": "phát sinh bụi"
     },
     {
-      "word": "黄塵",
-      "reading": "こうじん",
-      "meaning": "đám bụi màu vàng"
-    },
-    {
-      "word": "吸塵",
-      "reading": "きゅうじん",
-      "meaning": "sự hút bụi"
-    },
-    {
       "word": "塵箱",
       "reading": "ごみばこ",
       "meaning": "thùng rác"
     },
     {
-      "word": "余塵",
-      "reading": "よじん",
-      "meaning": "vệt bụi kéo sau xe"
+      "word": "塵取り",
+      "reading": "ちりとり",
+      "meaning": "cái hót rác"
     },
     {
-      "word": "塵バケツ",
-      "reading": "ごみバケツ",
-      "meaning": "xô đựng rác"
+      "word": "集塵",
+      "reading": "しゅうじん",
+      "meaning": "hút bụi"
     },
     {
-      "word": "煤塵",
-      "reading": "ばいじん",
-      "meaning": "bụi bồ hóng"
+      "word": "塵入",
+      "reading": "ごみいれ",
+      "meaning": "<mỹ> thùng rác"
+    },
+    {
+      "word": "集塵袋",
+      "reading": "しゅうじんぶくろ",
+      "meaning": "người lau chùi chân không phồng lên"
     }
   ]
 }

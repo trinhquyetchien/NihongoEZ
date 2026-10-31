@@ -88,34 +88,19 @@
   ],
   "vocabulary": [
     {
-      "word": "冷媒",
-      "reading": "れいばい",
-      "meaning": "chất làm mát"
+      "word": "媒体",
+      "reading": "ばいたい",
+      "meaning": "media"
     },
     {
-      "word": "媒質",
-      "reading": "ばいしつ",
-      "meaning": "môi trường"
+      "word": "超媒体",
+      "reading": "ちょうばいたい",
+      "meaning": "siêu phương tiện"
     },
     {
-      "word": "媒酌",
-      "reading": "ばいしゃく",
-      "meaning": "sự làm mai"
-    },
-    {
-      "word": "媒染",
-      "reading": "ばいせん",
-      "meaning": "tô màu sự cố định"
-    },
-    {
-      "word": "溶媒",
-      "reading": "ようばい",
-      "meaning": "dung môi"
-    },
-    {
-      "word": "媒介",
-      "reading": "ばいかい",
-      "meaning": "môi giới"
+      "word": "紙媒体",
+      "reading": "かみばいたい",
+      "meaning": "phương tiện giấy"
     },
     {
       "word": "触媒",
@@ -123,19 +108,34 @@
       "meaning": "chất xúc tác"
     },
     {
-      "word": "媒体",
-      "reading": "ばいたい",
-      "meaning": "media"
+      "word": "光触媒",
+      "reading": "ひかりしょくばい",
+      "meaning": "xúc tác quang"
     },
     {
-      "word": "虫媒",
-      "reading": "ちゅうばい",
-      "meaning": "thụ phấn nhờ côn trùng"
+      "word": "正触媒",
+      "reading": "せいしょくばい",
+      "meaning": "chất xúc tác tích cực"
     },
     {
-      "word": "霊媒",
-      "reading": "れいばい",
-      "meaning": "thuật gọi hồn"
+      "word": "負触媒",
+      "reading": "ふしょくばい",
+      "meaning": "chất xúc tác ngược"
+    },
+    {
+      "word": "媒介",
+      "reading": "ばいかい",
+      "meaning": "môi giới"
+    },
+    {
+      "word": "媒介者",
+      "reading": "ばいかいしゃ",
+      "meaning": "người trung gian"
+    },
+    {
+      "word": "媒介物",
+      "reading": "ばいかいぶつ",
+      "meaning": "sự môi giới"
     }
   ]
 }

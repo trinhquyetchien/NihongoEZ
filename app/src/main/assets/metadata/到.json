@@ -106,39 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "到る",
-      "reading": "いたる",
-      "meaning": "đạt tới"
-    },
-    {
-      "word": "殺到",
-      "reading": "さっとう",
-      "meaning": "sự chen lấn"
-    },
-    {
-      "word": "到頭",
-      "reading": "とうとう",
-      "meaning": "cuối cùng"
-    },
-    {
-      "word": "想到",
-      "reading": "そうとう",
-      "meaning": "nghĩ về"
-    },
-    {
-      "word": "到来",
-      "reading": "とうらい",
-      "meaning": "đến"
-    },
-    {
       "word": "到着",
       "reading": "とうちゃく",
       "meaning": "đến"
-    },
-    {
-      "word": "到底",
-      "reading": "とうてい",
-      "meaning": "hoàn toàn"
     },
     {
       "word": "到達",
@@ -146,14 +116,44 @@
       "meaning": "sự đạt đến"
     },
     {
-      "word": "周到",
-      "reading": "しゅうとう",
-      "meaning": "cực kỳ cẩn thận"
+      "word": "到着日",
+      "reading": "とうちゃくび",
+      "meaning": "ngày đến"
     },
     {
-      "word": "未到",
-      "reading": "みとう",
-      "meaning": "chưa ai đạt được"
+      "word": "到着駅",
+      "reading": "とうちゃくえき",
+      "meaning": "ga đến"
+    },
+    {
+      "word": "到着地",
+      "reading": "とうちっくち",
+      "meaning": "điểm đến"
+    },
+    {
+      "word": "到着船",
+      "reading": "とうちゃくせん",
+      "meaning": "tàu đã đến"
+    },
+    {
+      "word": "到着港",
+      "reading": "とうちゃくこう",
+      "meaning": "cảng đến"
+    },
+    {
+      "word": "到達性",
+      "reading": "とうたつせい",
+      "meaning": "khả năng tiếp cận"
+    },
+    {
+      "word": "到達点",
+      "reading": "とうたつてん",
+      "meaning": "điểm đến"
+    },
+    {
+      "word": "殺到",
+      "reading": "さっとう",
+      "meaning": "sự chen lấn"
     }
   ]
 }

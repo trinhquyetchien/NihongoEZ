@@ -89,19 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "爆",
-      "reading": "ばく",
-      "meaning": "tiếng kêu"
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "sự bộc phát"
     },
     {
-      "word": "爆笑",
-      "reading": "ばくしょう",
-      "meaning": "sự cười rần lên"
+      "word": "爆弾",
+      "reading": "ばくだん",
+      "meaning": "bom"
     },
     {
-      "word": "防爆",
-      "reading": "ぼうばく",
-      "meaning": "ngăn chặn thiệt hại của vụ nổ"
+      "word": "爆破",
+      "reading": "ばくは",
+      "meaning": "sự làm nổ tung"
     },
     {
       "word": "原爆",
@@ -109,34 +109,34 @@
       "meaning": "bom nguyên tử"
     },
     {
-      "word": "誤爆",
-      "reading": "ごばく",
-      "meaning": "sự ném bom đích sai"
+      "word": "爆発音",
+      "reading": "ばくはつおん",
+      "meaning": "âm thanh của một vụ nổ"
     },
     {
-      "word": "空爆",
-      "reading": "くうばく",
-      "meaning": "cuộc oanh tạc bằng máy bay"
+      "word": "爆撃",
+      "reading": "ばくげき",
+      "meaning": "sự ném bom"
     },
     {
-      "word": "爆走",
-      "reading": "ばくそう",
-      "meaning": "sự phóng nhanh"
+      "word": "爆笑",
+      "reading": "ばくしょう",
+      "meaning": "sự cười rần lên"
     },
     {
-      "word": "爆睡",
-      "reading": "ばくすい",
-      "meaning": "ngủ say"
+      "word": "大爆笑",
+      "reading": "だいばくしょう",
+      "meaning": "tiếng cười to"
     },
     {
-      "word": "爆燃",
-      "reading": "ばくねん",
-      "meaning": "sự bùng cháy"
+      "word": "爆",
+      "reading": "ばく",
+      "meaning": "tiếng kêu"
     },
     {
-      "word": "爆乳",
-      "reading": "ばくにゅう",
-      "meaning": "bộ ngực khổng lồ"
+      "word": "重爆",
+      "reading": "じゅうばく",
+      "meaning": "máy bay ném bom nặng"
     }
   ]
 }

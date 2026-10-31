@@ -93,14 +93,29 @@
       "meaning": "bục"
     },
     {
-      "word": "華壇",
+      "word": "花壇",
       "reading": "かだん",
-      "meaning": "luống hoa"
+      "meaning": "vườn hoa"
     },
     {
-      "word": "祭壇",
-      "reading": "さいだん",
-      "meaning": "bệ thờ"
+      "word": "登壇",
+      "reading": "とうだん",
+      "meaning": "lên sân khấu"
+    },
+    {
+      "word": "登壇者",
+      "reading": "とうだんしゃ",
+      "meaning": "diễn giả"
+    },
+    {
+      "word": "壇家",
+      "reading": "だんか",
+      "meaning": "người dân trong giáo khu"
+    },
+    {
+      "word": "壇場",
+      "reading": "だんじょう",
+      "meaning": "trình diễn"
     },
     {
       "word": "黒壇",
@@ -108,34 +123,19 @@
       "meaning": "gỗ mun"
     },
     {
-      "word": "講壇",
-      "reading": "こうだん",
-      "meaning": "diễn đàn"
-    },
-    {
       "word": "土壇",
       "reading": "どだん",
       "meaning": "bệ đất"
     },
     {
-      "word": "仏壇",
-      "reading": "ぶつだん",
+      "word": "聖壇",
+      "reading": "せいだん",
       "meaning": "bàn thờ"
     },
     {
-      "word": "文壇",
-      "reading": "ぶんだん",
-      "meaning": "văn đàn"
-    },
-    {
-      "word": "教壇",
-      "reading": "きょうだん",
-      "meaning": "bục giảng"
-    },
-    {
-      "word": "歌壇",
+      "word": "華壇",
       "reading": "かだん",
-      "meaning": "ca đàn"
+      "meaning": "luống hoa"
     }
   ]
 }

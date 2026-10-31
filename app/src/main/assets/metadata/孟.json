@@ -70,9 +70,19 @@
   ],
   "vocabulary": [
     {
-      "word": "孟夏",
-      "reading": "もうか",
-      "meaning": "đầu mùa hè"
+      "word": "孟女",
+      "reading": "もうじょ",
+      "meaning": "con gái eldest"
+    },
+    {
+      "word": "論孟",
+      "reading": "ろんもう",
+      "meaning": "luận ngữ và mạnh tử"
+    },
+    {
+      "word": "孔孟",
+      "reading": "こうもう",
+      "meaning": "khổng tử và mạnh tử"
     },
     {
       "word": "孟子",
@@ -80,14 +90,19 @@
       "meaning": "mencius anh ấy)"
     },
     {
+      "word": "孟宗竹",
+      "reading": "もうそうちく",
+      "meaning": "tre mạnh tông"
+    },
+    {
+      "word": "孟夏",
+      "reading": "もうか",
+      "meaning": "đầu mùa hè"
+    },
+    {
       "word": "孟春",
       "reading": "もうしゅん",
       "meaning": "đầu xuân"
-    },
-    {
-      "word": "孟女",
-      "reading": "もうじょ",
-      "meaning": "con gái eldest"
     },
     {
       "word": "孟秋",
@@ -100,24 +115,9 @@
       "meaning": "đầu mùa đông"
     },
     {
-      "word": "孔孟",
-      "reading": "こうもう",
-      "meaning": "khổng tử và mạnh tử"
-    },
-    {
-      "word": "論孟",
-      "reading": "ろんもう",
-      "meaning": "luận ngữ và mạnh tử"
-    },
-    {
-      "word": "孟宗竹",
-      "reading": "もうそうちく",
-      "meaning": "tre mạnh tông"
-    },
-    {
-      "word": "孟母三遷",
-      "reading": "もうぼさんせん",
-      "meaning": "tầm quan trọng của môi trường sống và giáo dục đối với sự trưởng thành của trẻ em"
+      "word": "孔孟の教え",
+      "reading": "こうもうのおしえ",
+      "meaning": "lời giáo huấn [sự giảng dạy) của không tử và mạnh tử"
     }
   ]
 }

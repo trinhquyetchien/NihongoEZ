@@ -86,41 +86,6 @@
   ],
   "vocabulary": [
     {
-      "word": "更訂",
-      "reading": "こうてい",
-      "meaning": "sửa lại nội dung và cách diễn đạt của câu"
-    },
-    {
-      "word": "増訂",
-      "reading": "ぞうてい",
-      "meaning": "việc tăng thêm và sửa lại"
-    },
-    {
-      "word": "再訂",
-      "reading": "さいてい",
-      "meaning": "sự đính chính lần hai"
-    },
-    {
-      "word": "修訂",
-      "reading": "しゅうてい",
-      "meaning": "sự sửa chữa"
-    },
-    {
-      "word": "校訂",
-      "reading": "こうてい",
-      "meaning": "sự hiệu đính"
-    },
-    {
-      "word": "新訂",
-      "reading": "しんてい",
-      "meaning": "sự duyệt lại mới"
-    },
-    {
-      "word": "補訂",
-      "reading": "ほてい",
-      "meaning": "xem lại"
-    },
-    {
       "word": "訂正",
       "reading": "ていせい",
       "meaning": "hiệu đính"
@@ -131,9 +96,44 @@
       "meaning": "sự đính chính"
     },
     {
+      "word": "訂正書",
+      "reading": "ていせいしょ",
+      "meaning": "bản sửa đổi"
+    },
+    {
+      "word": "訂正印",
+      "reading": "ていせいいん",
+      "meaning": "con dấu sửa đổi"
+    },
+    {
+      "word": "大改訂",
+      "reading": "だいかいてい",
+      "meaning": "sự sửa đổi lớn"
+    },
+    {
       "word": "改訂版",
       "reading": "かいていばん",
       "meaning": "bản in tái bản"
+    },
+    {
+      "word": "改訂書",
+      "reading": "かいていしょ",
+      "meaning": "bản sửa đổi"
+    },
+    {
+      "word": "新訂",
+      "reading": "しんてい",
+      "meaning": "sự duyệt lại mới"
+    },
+    {
+      "word": "訂する",
+      "reading": "ていする",
+      "meaning": "chỉnh đúng"
+    },
+    {
+      "word": "新訂版",
+      "reading": "しんていばん",
+      "meaning": "mới và xem lại phiên bản"
     }
   ]
 }

@@ -95,34 +95,9 @@
       "meaning": "ngực"
     },
     {
-      "word": "胸板",
-      "reading": "むないた",
-      "meaning": "đấu tranh"
-    },
-    {
-      "word": "胸筋",
-      "reading": "きょうきん",
-      "meaning": "cơ ngực"
-    },
-    {
-      "word": "気胸",
-      "reading": "ききょう",
-      "meaning": "chứng tràn khí ngực"
-    },
-    {
-      "word": "胸乳",
-      "reading": "むなち",
-      "meaning": "ngực"
-    },
-    {
-      "word": "胸章",
-      "reading": "きょうしょう",
-      "meaning": "huy chương"
-    },
-    {
-      "word": "胸鰭",
-      "reading": "むなびれ",
-      "meaning": "vây ngực"
+      "word": "胸声",
+      "reading": "きょうせい",
+      "meaning": "thấp đốt sém tiếng nói"
     },
     {
       "word": "胸黒",
@@ -130,14 +105,39 @@
       "meaning": "choi choi vàng"
     },
     {
-      "word": "胸像",
-      "reading": "きょうぞう",
-      "meaning": "tượng bán thân"
+      "word": "胸肉",
+      "reading": "むねにく",
+      "meaning": "thịt ức"
     },
     {
-      "word": "胸裏",
-      "reading": "きょうり",
-      "meaning": "học thuyết chủ nghĩa"
+      "word": "左胸",
+      "reading": "ひだりむね",
+      "meaning": "ngực trái"
+    },
+    {
+      "word": "胸悪",
+      "reading": "むねわる",
+      "meaning": "khó ưa"
+    },
+    {
+      "word": "血胸",
+      "reading": "けっきょう",
+      "meaning": "hemothorax"
+    },
+    {
+      "word": "胸熱",
+      "reading": "むねあつ",
+      "meaning": "trở nên đầy cảm xúc"
+    },
+    {
+      "word": "胸筋",
+      "reading": "きょうきん",
+      "meaning": "cơ ngực"
+    },
+    {
+      "word": "胸章",
+      "reading": "きょうしょう",
+      "meaning": "huy chương"
     }
   ]
 }

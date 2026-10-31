@@ -95,34 +95,9 @@
       "meaning": "gã ấy"
     },
     {
-      "word": "何奴も此奴も",
-      "reading": "どいつもこいつも",
-      "meaning": "mọi người cuối cùng"
-    },
-    {
-      "word": "冷奴",
-      "reading": "ひややっこ",
-      "meaning": "tofu lạnh"
-    },
-    {
-      "word": "奴隷",
-      "reading": "どれい",
-      "meaning": "nô lệ"
-    },
-    {
-      "word": "奴婢",
-      "reading": "ぬひ",
-      "meaning": "nàng hầu"
-    },
-    {
-      "word": "彼奴",
-      "reading": "あいつ",
-      "meaning": "anh ta"
-    },
-    {
-      "word": "御奴",
-      "reading": "みやつこ",
-      "meaning": "người hầu cận"
+      "word": "三一奴",
+      "reading": "さんぴんやっこ",
+      "meaning": "low-ranking samurai"
     },
     {
       "word": "奴頭",
@@ -130,14 +105,39 @@
       "meaning": "kiểu tóc hình lưỡi liềm"
     },
     {
-      "word": "黒奴",
-      "reading": "こくど",
-      "meaning": "người đen"
+      "word": "奴め",
+      "reading": "やつめ",
+      "meaning": "gã đó"
     },
     {
-      "word": "奴輩",
-      "reading": "どはい",
-      "meaning": "gã đó"
+      "word": "御奴",
+      "reading": "みやつこ",
+      "meaning": "người hầu cận"
+    },
+    {
+      "word": "奴隷",
+      "reading": "どれい",
+      "meaning": "nô lệ"
+    },
+    {
+      "word": "性奴隷",
+      "reading": "せいどれい",
+      "meaning": "nô lệ tình dục"
+    },
+    {
+      "word": "臭い奴",
+      "reading": "くさいやつ",
+      "meaning": "thằng cha đáng ngờ"
+    },
+    {
+      "word": "女奴隷",
+      "reading": "じょどれい",
+      "meaning": "nô tỳ"
+    },
+    {
+      "word": "彼奴ら",
+      "reading": "あいつら",
+      "meaning": "họ"
     }
   ]
 }

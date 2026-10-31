@@ -66,11 +66,6 @@
   ],
   "vocabulary": [
     {
-      "word": "晃晃たる",
-      "reading": "こうこうたる",
-      "meaning": "rực rỡ"
-    },
-    {
       "word": "晃朗",
       "reading": "こうろう",
       "meaning": "sáng sủa"
@@ -84,6 +79,11 @@
       "word": "晃朗たる",
       "reading": "あきらろうたる",
       "meaning": "rực rỡ và sáng sủa"
+    },
+    {
+      "word": "晃晃たる",
+      "reading": "こうこうたる",
+      "meaning": "rực rỡ"
     }
   ]
 }

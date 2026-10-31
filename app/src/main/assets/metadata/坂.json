@@ -94,34 +94,29 @@
       "meaning": "cái dốc"
     },
     {
+      "word": "急な坂",
+      "reading": "きゅうなさか",
+      "meaning": "con dốc hiểm trở"
+    },
+    {
+      "word": "上り坂",
+      "reading": "のぼりざか",
+      "meaning": "đường dốc"
+    },
+    {
       "word": "坂道",
       "reading": "さかみち",
       "meaning": "đường đèo"
     },
     {
-      "word": "下坂",
-      "reading": "しもさか",
-      "meaning": "dốc"
+      "word": "坂田鮫",
+      "reading": "さかたざめ",
+      "meaning": "cá giống dài lưỡi cày"
     },
     {
-      "word": "急坂",
-      "reading": "きゅうはん",
-      "meaning": "con dốc đứng"
-    },
-    {
-      "word": "男坂",
-      "reading": "おとこざか",
-      "meaning": "thùng ngâm hai ngọn đồi"
-    },
-    {
-      "word": "女坂",
-      "reading": "おんなざか",
-      "meaning": "dễ hơn hai tràn ra"
-    },
-    {
-      "word": "登坂",
-      "reading": "とうはん",
-      "meaning": "leo một dốc"
+      "word": "談合坂",
+      "reading": "だんごうざか",
+      "meaning": "quá giang"
     },
     {
       "word": "坂東",
@@ -129,14 +124,19 @@
       "meaning": "tên cũ của vùng kantō"
     },
     {
-      "word": "坂路",
-      "reading": "はんろ",
-      "meaning": "đường dốc"
+      "word": "下り坂",
+      "reading": "くだりざか",
+      "meaning": "dốc xuống"
     },
     {
-      "word": "坂田鮫",
-      "reading": "さかたざめ",
-      "meaning": "cá giống dài lưỡi cày"
+      "word": "登坂",
+      "reading": "とうはん",
+      "meaning": "leo một dốc"
+    },
+    {
+      "word": "急坂",
+      "reading": "きゅうはん",
+      "meaning": "con dốc đứng"
     }
   ]
 }

@@ -34,9 +34,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "薙ぐ",
-      "reading": "なぐ",
-      "meaning": "cạo đầu"
+      "word": "水薙鳥",
+      "reading": "みずなぎどり",
+      "meaning": "các loài chim biển thuộc họ petrel"
     },
     {
       "word": "薙刀",
@@ -49,14 +49,14 @@
       "meaning": "nghệ thuật việc sử dụng một naginata"
     },
     {
-      "word": "水薙鳥",
-      "reading": "みずなぎどり",
-      "meaning": "các loài chim biển thuộc họ petrel"
-    },
-    {
       "word": "横薙ぎ",
       "reading": "よこなぎ",
       "meaning": "sự chém theo chiều ngang"
+    },
+    {
+      "word": "薙ぐ",
+      "reading": "なぐ",
+      "meaning": "cạo đầu"
     },
     {
       "word": "草薙の剣",
@@ -69,14 +69,14 @@
       "meaning": "chim hải âu đuôi ngắn"
     },
     {
-      "word": "薙ぎ倒す",
-      "reading": "なぎたおす",
-      "meaning": "làm đổ rạp xuống"
-    },
-    {
       "word": "薙ぎ払う",
       "reading": "なぎはらう",
       "meaning": "chặt ngang"
+    },
+    {
+      "word": "薙ぎ倒す",
+      "reading": "なぎたおす",
+      "meaning": "làm đổ rạp xuống"
     }
   ]
 }

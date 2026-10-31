@@ -94,9 +94,29 @@
       "meaning": "năm"
     },
     {
-      "word": "年年",
-      "reading": "ねんねん",
-      "meaning": "hàng năm"
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "năm ngoái"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "năm sau"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "nam nhi"
+    },
+    {
+      "word": "年月",
+      "reading": "としつき",
+      "meaning": "năm tháng"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "năm đầu tiên của một thời kỳ một nhà vua trị vì"
     },
     {
       "word": "年が年",
@@ -104,39 +124,19 @@
       "meaning": "việc xem xét điều này già đi"
     },
     {
-      "word": "年末年始",
-      "reading": "ねんまつねんし",
-      "meaning": "kỳ nghỉ năm mới"
+      "word": "三年",
+      "reading": "さんねん",
+      "meaning": "ba năm"
     },
     {
-      "word": "万年青年",
-      "reading": "まんねんせいねん",
-      "meaning": "người luôn trẻ trung đầy năng lượng"
+      "word": "十年",
+      "reading": "じゅうねん",
+      "meaning": "10 năm"
     },
     {
-      "word": "年が年中",
-      "reading": "ねんがねんじゅう",
-      "meaning": "quanh năm suốt tháng"
-    },
-    {
-      "word": "年百年中",
-      "reading": "ねんびゃくねんじゅう",
-      "meaning": "quanh năm suốt tháng"
-    },
-    {
-      "word": "年年歳歳",
-      "reading": "ねんねんさいさい",
-      "meaning": "hàng năm"
-    },
-    {
-      "word": "年がら年中",
-      "reading": "ねんがらねんじゅう",
-      "meaning": "năm này qua năm khác"
-    },
-    {
-      "word": "来年",
-      "reading": "らいねん",
-      "meaning": "năm sau"
+      "word": "周年",
+      "reading": "しゅうねん",
+      "meaning": "ngày kỷ niệm"
     }
   ]
 }

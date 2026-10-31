@@ -90,34 +90,19 @@
       "meaning": "lớp học thêm"
     },
     {
-      "word": "私塾",
-      "reading": "しじゅく",
-      "meaning": "tư thục"
-    },
-    {
-      "word": "入塾",
-      "reading": "にゅうじゅく",
-      "meaning": "sự nhập học trường tư"
-    },
-    {
-      "word": "塾生",
-      "reading": "じゅくせい",
-      "meaning": "học sinh trường tư thục"
-    },
-    {
-      "word": "義塾",
-      "reading": "ぎじゅく",
-      "meaning": "trường học riêng tư"
-    },
-    {
-      "word": "塾長",
-      "reading": "じゅくちょう",
-      "meaning": "người đứng đầu một trường học riêng tư"
-    },
-    {
       "word": "家塾",
       "reading": "かじゅく",
       "meaning": "trường học tư"
+    },
+    {
+      "word": "英語塾",
+      "reading": "えいごじゅく",
+      "meaning": "trường anh ngữ tư thục"
+    },
+    {
+      "word": "塾帰り",
+      "reading": "じゅくかえり",
+      "meaning": "học thêm về"
     },
     {
       "word": "画塾",
@@ -125,14 +110,29 @@
       "meaning": "trường dạy vẽ tư nhân"
     },
     {
-      "word": "塾す",
-      "reading": "じゅくす",
-      "meaning": "chín"
+      "word": "学習塾",
+      "reading": "がくしゅうじゅく",
+      "meaning": "trường bổ túc"
     },
     {
       "word": "進学塾",
       "reading": "しんがくじゅく",
       "meaning": "học thêm"
+    },
+    {
+      "word": "義塾",
+      "reading": "ぎじゅく",
+      "meaning": "trường học riêng tư"
+    },
+    {
+      "word": "塾通い",
+      "reading": "じゅくがよい",
+      "meaning": "việc đi học thêm"
+    },
+    {
+      "word": "塾生",
+      "reading": "じゅくせい",
+      "meaning": "học sinh trường tư thục"
     }
   ]
 }

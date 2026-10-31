@@ -83,9 +83,19 @@
   ],
   "vocabulary": [
     {
-      "word": "訟務",
-      "reading": "しょうむ",
+      "word": "訴訟",
+      "reading": "そしょう",
       "meaning": "sự kiện tụng"
+    },
+    {
+      "word": "訴訟人",
+      "reading": "そしょうにん",
+      "meaning": "người kiện"
+    },
+    {
+      "word": "訴訟法",
+      "reading": "そしょうほう",
+      "meaning": "luật tiến hành xét xử"
     },
     {
       "word": "争訟",
@@ -93,8 +103,8 @@
       "meaning": "sự tranh tụng"
     },
     {
-      "word": "訴訟",
-      "reading": "そしょう",
+      "word": "訟務",
+      "reading": "しょうむ",
       "meaning": "sự kiện tụng"
     },
     {
@@ -103,34 +113,24 @@
       "meaning": "ban kiện tụng bộ công lý)"
     },
     {
-      "word": "訴訟法",
-      "reading": "そしょうほう",
-      "meaning": "luật tiến hành xét xử"
-    },
-    {
       "word": "壁訴訟",
       "reading": "かべそしょう",
       "meaning": "càu nhàu hoặc nói lầm bầm một mình"
     },
     {
-      "word": "訴訟人",
-      "reading": "そしょうにん",
-      "meaning": "người kiện"
+      "word": "訴訟する",
+      "reading": "そしょうする",
+      "meaning": "kiện tùng"
     },
     {
-      "word": "刑事訴訟",
-      "reading": "けいじそしょう",
-      "meaning": "tố tụng hình sự"
+      "word": "訴訟事件",
+      "reading": "そしょうじけん",
+      "meaning": "việc kiện cáo"
     },
     {
-      "word": "訴訟係属",
-      "reading": "そしょうけいぞく",
-      "meaning": "vụ án còn để treo đó"
-    },
-    {
-      "word": "訴訟指揮",
-      "reading": "そしょうしき",
-      "meaning": "quản lý cuộc xử án"
+      "word": "訴訟記録",
+      "reading": "そしょうきろく",
+      "meaning": "bản ghi những cách tiến hành hợp pháp trong một sân)"
     }
   ]
 }

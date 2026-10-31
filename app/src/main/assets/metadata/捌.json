@@ -53,21 +53,6 @@
   ],
   "vocabulary": [
     {
-      "word": "捌く",
-      "reading": "さばく",
-      "meaning": "làm thịt"
-    },
-    {
-      "word": "捌け",
-      "reading": "はけ",
-      "meaning": "hệ thống thoát"
-    },
-    {
-      "word": "荷捌",
-      "reading": "にさばき",
-      "meaning": "sự bán"
-    },
-    {
       "word": "捌き",
       "reading": "さばき",
       "meaning": "sự phán xử"
@@ -78,14 +63,29 @@
       "meaning": "kỹ thuật siết chặt tay đối phương để chủ động và tạo thế trận có lợi"
     },
     {
-      "word": "手捌き",
-      "reading": "てさばき",
-      "meaning": "sự vận dụng bằng tay"
+      "word": "体捌き",
+      "reading": "たいさばき",
+      "meaning": "taisabaki là 1 trong những thế căn bản của aikido"
     },
     {
       "word": "荷捌き",
       "reading": "にさばき",
       "meaning": "phân loại và xử lý hàng"
+    },
+    {
+      "word": "捌く",
+      "reading": "さばく",
+      "meaning": "làm thịt"
+    },
+    {
+      "word": "捌け",
+      "reading": "はけ",
+      "meaning": "hệ thống thoát"
+    },
+    {
+      "word": "捌ける",
+      "reading": "さばける",
+      "meaning": "đang đặt hàng"
     },
     {
       "word": "捌け口",
@@ -98,9 +98,9 @@
       "meaning": "tình trạng thoát nước"
     },
     {
-      "word": "捌ける",
-      "reading": "さばける",
-      "meaning": "đang đặt hàng"
+      "word": "荷捌",
+      "reading": "にさばき",
+      "meaning": "sự bán"
     }
   ]
 }

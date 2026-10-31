@@ -71,19 +71,9 @@
   ],
   "vocabulary": [
     {
-      "word": "蒼穹",
-      "reading": "そうきゅう",
-      "meaning": "trời xanh"
-    },
-    {
-      "word": "蒼生",
-      "reading": "そうせい",
-      "meaning": "nhân dân"
-    },
-    {
-      "word": "蒼氓",
-      "reading": "そうぼう",
-      "meaning": "mọi người"
+      "word": "蒼波",
+      "reading": "そうは",
+      "meaning": "sóng xanh"
     },
     {
       "word": "蒼竜",
@@ -91,9 +81,29 @@
       "meaning": "chòm sao thanh long"
     },
     {
-      "word": "蒼茫",
-      "reading": "そうぼう",
-      "meaning": "đầy bóng tối"
+      "word": "蒼紅",
+      "reading": "そうこう",
+      "meaning": "xanh dương và đỏ"
+    },
+    {
+      "word": "蒼浪",
+      "reading": "そうろう",
+      "meaning": "sóng xanh"
+    },
+    {
+      "word": "淡蒼球",
+      "reading": "あわあおたま",
+      "meaning": "cầu nhạt"
+    },
+    {
+      "word": "蒼天",
+      "reading": "そうてん",
+      "meaning": "bầu trời xanh"
+    },
+    {
+      "word": "蒼穹",
+      "reading": "そうきゅう",
+      "meaning": "trời xanh"
     },
     {
       "word": "蒼い",
@@ -101,24 +111,14 @@
       "meaning": "xanh da trời"
     },
     {
-      "word": "蒼鉛",
-      "reading": "そうえん",
-      "meaning": "bitmut"
+      "word": "欝蒼",
+      "reading": "うっそう",
+      "meaning": "rậm rạp"
     },
     {
-      "word": "蒼海",
-      "reading": "そうかい",
-      "meaning": "biển xanh"
-    },
-    {
-      "word": "蒼然",
-      "reading": "そうぜん",
-      "meaning": "màu xanh"
-    },
-    {
-      "word": "蒼天",
-      "reading": "そうてん",
-      "meaning": "bầu trời xanh"
+      "word": "蒼白",
+      "reading": "そうはく",
+      "meaning": "tái nhợt"
     }
   ]
 }

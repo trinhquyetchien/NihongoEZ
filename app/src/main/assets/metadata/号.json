@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "号",
-      "reading": "ごう",
-      "meaning": "thứ"
-    },
-    {
-      "word": "号棟",
-      "reading": "ごうとう",
-      "meaning": "ký hiệu căn số 1 căn số 2 “1号棟。2号棟"
-    },
-    {
-      "word": "番号記号",
-      "reading": "ばんごうきごう",
-      "meaning": "số ký tên"
-    },
-    {
       "word": "信号",
       "reading": "しんごう",
       "meaning": "báo hiệu"
     },
     {
-      "word": "称号",
-      "reading": "しょうごう",
-      "meaning": "danh hiệu"
+      "word": "符号",
+      "reading": "ふごう",
+      "meaning": "ký hiệu"
     },
     {
-      "word": "号室",
-      "reading": "ごうしつ",
-      "meaning": "đi sau một số"
+      "word": "号",
+      "reading": "ごう",
+      "meaning": "thứ"
     },
     {
-      "word": "暗号",
-      "reading": "あんごう",
-      "meaning": "ám hiệu"
+      "word": "年号",
+      "reading": "ねんごう",
+      "meaning": "năm"
     },
     {
-      "word": "宝号",
-      "reading": "ほうごう",
-      "meaning": "name"
+      "word": "一号",
+      "reading": "いちごう",
+      "meaning": "ghi số một"
     },
     {
-      "word": "屋号",
-      "reading": "やごう",
-      "meaning": "tên thương nghiệp"
+      "word": "前号",
+      "reading": "ぜんごう",
+      "meaning": "số phát hành trước đó"
     },
     {
-      "word": "元号",
-      "reading": "げんごう",
-      "meaning": "niên hiệu"
+      "word": "号数",
+      "reading": "ごうすう",
+      "meaning": "số hiệu"
+    },
+    {
+      "word": "別号",
+      "reading": "べつごう",
+      "meaning": "biệt danh"
+    },
+    {
+      "word": "道号",
+      "reading": "どうごう",
+      "meaning": "số đường"
+    },
+    {
+      "word": "号口",
+      "reading": "ごうぐち",
+      "meaning": "việc sản xuất hàng loạt"
     }
   ]
 }

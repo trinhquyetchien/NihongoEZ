@@ -91,19 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "虚",
-      "reading": "きょ",
-      "meaning": "sự giả dối"
+      "word": "謙虚",
+      "reading": "けんきょ",
+      "meaning": "khiêm nhường"
     },
     {
-      "word": "虚虚実実",
-      "reading": "きょきょじつじつ",
-      "meaning": "sự thông minh phù hợp với sự thông minh"
+      "word": "虚しい",
+      "reading": "むなしい",
+      "meaning": "không cuộc sống"
     },
     {
-      "word": "虚虚実実の戦い",
-      "reading": "きょきょじつじつのたたかい",
-      "meaning": "phù hợp giữa bằng nhau người trong khôn ngoan"
+      "word": "虚ろ",
+      "reading": "うつろ",
+      "meaning": "trống rỗng"
     },
     {
       "word": "虚偽",
@@ -111,34 +111,34 @@
       "meaning": "sự giả dối"
     },
     {
-      "word": "謙虚",
-      "reading": "けんきょ",
-      "meaning": "khiêm nhường"
+      "word": "虚",
+      "reading": "きょ",
+      "meaning": "sự giả dối"
     },
     {
-      "word": "虚勢",
-      "reading": "きょせい",
-      "meaning": "lừa gạt"
+      "word": "虚式",
+      "reading": "きょしき",
+      "meaning": "cách diễn đạt hư cấu"
     },
     {
-      "word": "虚弱",
-      "reading": "きょじゃく",
-      "meaning": "còm"
-    },
-    {
-      "word": "虚構",
-      "reading": "きょこう",
-      "meaning": "hư cấu"
-    },
-    {
-      "word": "虚言",
-      "reading": "きょげん",
-      "meaning": "lời nói dối"
+      "word": "虚語",
+      "reading": "きょご",
+      "meaning": "sự dối trá"
     },
     {
       "word": "虚学",
       "reading": "きょがく",
       "meaning": "khoa học thuần túy"
+    },
+    {
+      "word": "虚無",
+      "reading": "きょむ",
+      "meaning": "hư vô"
+    },
+    {
+      "word": "虚血",
+      "reading": "きょけつ",
+      "meaning": "thiếu máu cục bộ"
     }
   ]
 }

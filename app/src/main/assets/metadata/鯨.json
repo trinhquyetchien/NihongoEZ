@@ -86,44 +86,14 @@
   ],
   "vocabulary": [
     {
+      "word": "捕鯨",
+      "reading": "ほげい",
+      "meaning": "sự bắt cá voi"
+    },
+    {
       "word": "鯨",
       "reading": "くじら",
       "meaning": "cá voi"
-    },
-    {
-      "word": "似鯨",
-      "reading": "にたりくじら",
-      "meaning": "bryde's whale"
-    },
-    {
-      "word": "鰯鯨",
-      "reading": "いわしくじら",
-      "meaning": "cá voi sei"
-    },
-    {
-      "word": "鯨蝋",
-      "reading": "げいろう",
-      "meaning": "sáp cá nhà táng"
-    },
-    {
-      "word": "鯨鬚",
-      "reading": "くじらひげ",
-      "meaning": "tấm sừng hàm"
-    },
-    {
-      "word": "槌鯨",
-      "reading": "つちくじら",
-      "meaning": "cá voi mõm khoằm baird"
-    },
-    {
-      "word": "鬚鯨",
-      "reading": "ひげくじら",
-      "meaning": "cá voi tấm sừng hàm"
-    },
-    {
-      "word": "鯨飲",
-      "reading": "げいいん",
-      "meaning": "sự uống rượu ừng ực"
     },
     {
       "word": "子鯨",
@@ -131,9 +101,39 @@
       "meaning": "cá voi con"
     },
     {
-      "word": "克鯨",
-      "reading": "こくくじら",
-      "meaning": "cá voi xám"
+      "word": "似鯨",
+      "reading": "にたりくじら",
+      "meaning": "bryde's whale"
+    },
+    {
+      "word": "白鯨",
+      "reading": "しろくじら",
+      "meaning": "cá voi trắng"
+    },
+    {
+      "word": "鯨肉",
+      "reading": "げいにく",
+      "meaning": "thịt cá voi"
+    },
+    {
+      "word": "鯨類",
+      "reading": "げいるい",
+      "meaning": "bộ cá voi"
+    },
+    {
+      "word": "鯨帯",
+      "reading": "くじらおび",
+      "meaning": "obi hai mặt có màu và họa tiết khác nhau"
+    },
+    {
+      "word": "鯨座",
+      "reading": "くじらざ",
+      "meaning": "chòm sao kình ngư"
+    },
+    {
+      "word": "歯鯨",
+      "reading": "はくじら",
+      "meaning": "cá voi có răng"
     }
   ]
 }

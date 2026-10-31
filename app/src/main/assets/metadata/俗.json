@@ -92,24 +92,29 @@
       "meaning": "lóng"
     },
     {
-      "word": "俗趣",
-      "reading": "ぞくしゅ",
-      "meaning": "thú vui thô tục"
+      "word": "俗見",
+      "reading": "ぞっけん",
+      "meaning": "cảnh quan đại chúng"
     },
     {
-      "word": "俗臭",
-      "reading": "ぞくしゅう",
-      "meaning": "sự trần tục"
+      "word": "俗に",
+      "reading": "ぞくに",
+      "meaning": "thường thường"
     },
     {
-      "word": "俗流",
-      "reading": "ぞくりゅう",
-      "meaning": "dân chúng"
+      "word": "俗話",
+      "reading": "ぞくわ",
+      "meaning": "phát biểu câu chuyện"
     },
     {
-      "word": "俗調",
-      "reading": "ぞくちょう",
-      "meaning": "âm nhạc đại chúng"
+      "word": "俗形",
+      "reading": "ぞくぎょう",
+      "meaning": "hình người đàn ông chung"
+    },
+    {
+      "word": "俗情",
+      "reading": "ぞくじょう",
+      "meaning": "sự hướng thế gian"
     },
     {
       "word": "俗衆",
@@ -117,24 +122,19 @@
       "meaning": "quần chúng"
     },
     {
-      "word": "俗縁",
-      "reading": "ぞくえん",
-      "meaning": "tục duyên"
-    },
-    {
-      "word": "俗眼",
-      "reading": "ぞくがん",
+      "word": "俗議",
+      "reading": "ぞくぎ",
       "meaning": "quan điểm đại chúng"
     },
     {
-      "word": "俗念",
-      "reading": "ぞくねん",
-      "meaning": "tính chất trần tục"
+      "word": "俗趣",
+      "reading": "ぞくしゅ",
+      "meaning": "thú vui thô tục"
     },
     {
-      "word": "俗見",
-      "reading": "ぞっけん",
-      "meaning": "cảnh quan đại chúng"
+      "word": "低俗",
+      "reading": "ていぞく",
+      "meaning": "sự thô tục"
     }
   ]
 }

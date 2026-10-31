@@ -105,54 +105,54 @@
   ],
   "vocabulary": [
     {
+      "word": "博士",
+      "reading": "はかせ",
+      "meaning": "chuyên gia"
+    },
+    {
+      "word": "博物館",
+      "reading": "はくぶつかん",
+      "meaning": "viện bảo tàng"
+    },
+    {
+      "word": "三博士",
+      "reading": "さんはかせ",
+      "meaning": "ba nhà hiền triết"
+    },
+    {
+      "word": "音博士",
+      "reading": "おんはかせ",
+      "meaning": "tiến sỹ chuyên đọc chữ hán trong các văn bản nho giáo cổ điển"
+    },
+    {
+      "word": "博士号",
+      "reading": "はかせごう",
+      "meaning": "bằng tiến sĩ"
+    },
+    {
+      "word": "博多弁",
+      "reading": "はかたべん",
+      "meaning": "phương ngữ hakata"
+    },
+    {
       "word": "博",
       "reading": "ひろし",
       "meaning": "sự trình bày"
     },
     {
-      "word": "博打",
-      "reading": "ばくち",
-      "meaning": "trò cờ bạc"
+      "word": "世界博",
+      "reading": "せかいはく",
+      "meaning": "triển lãm thế giới"
     },
     {
-      "word": "博す",
-      "reading": "はくす",
-      "meaning": "giành chiến thắng"
+      "word": "法博",
+      "reading": "ほうはく",
+      "meaning": "săn sóc những pháp luật"
     },
     {
-      "word": "農博",
-      "reading": "のうはく",
-      "meaning": "tiến sĩ nông nghiệp"
-    },
-    {
-      "word": "文博",
-      "reading": "ぶんはく",
-      "meaning": "tiến sỹ văn chương"
-    },
-    {
-      "word": "該博",
-      "reading": "がいはく",
-      "meaning": "uyên thâm"
-    },
-    {
-      "word": "博徒",
-      "reading": "ばくと",
-      "meaning": "người đánh bạc"
-    },
-    {
-      "word": "博物",
-      "reading": "はくぶつ",
-      "meaning": "vạn vật học"
-    },
-    {
-      "word": "博聞",
-      "reading": "はくぶん",
-      "meaning": "sự uyên bác"
-    },
-    {
-      "word": "博覧",
-      "reading": "はくらん",
-      "meaning": "sự đọc nhiều hiểu rộng lớn"
+      "word": "宇宙博",
+      "reading": "うちゅうはく",
+      "meaning": "nhà khoa học vũ trụ"
     }
   ]
 }

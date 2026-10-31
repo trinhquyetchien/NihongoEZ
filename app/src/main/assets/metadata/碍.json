@@ -50,6 +50,26 @@
   ],
   "vocabulary": [
     {
+      "word": "障碍",
+      "reading": "しょうがい",
+      "meaning": "sự cản trở"
+    },
+    {
+      "word": "障碍者",
+      "reading": "しょうがいしゃ",
+      "meaning": "người khuyết tật"
+    },
+    {
+      "word": "低障碍",
+      "reading": "ていしょうがい",
+      "meaning": "môn chạy vượt rào thấp"
+    },
+    {
+      "word": "無碍",
+      "reading": "むげ",
+      "meaning": "tự do từ những chướng ngại"
+    },
+    {
       "word": "碍子",
       "reading": "がいし",
       "meaning": "vật cách điện"
@@ -60,39 +80,19 @@
       "meaning": "sự rối loạn"
     },
     {
-      "word": "無碍",
-      "reading": "むげ",
-      "meaning": "tự do từ những chướng ngại"
-    },
-    {
-      "word": "障碍",
-      "reading": "しょうがい",
-      "meaning": "sự cản trở"
-    },
-    {
-      "word": "低障碍",
-      "reading": "ていしょうがい",
-      "meaning": "môn chạy vượt rào thấp"
-    },
-    {
-      "word": "障碍者",
-      "reading": "しょうがいしゃ",
-      "meaning": "người khuyết tật"
-    },
-    {
       "word": "傘形碍子",
       "reading": "かさがたがいし",
       "meaning": "vật cách ly ô"
     },
     {
-      "word": "融通無碍",
-      "reading": "ゆうずうむげ",
-      "meaning": "tính linh hoạt"
-    },
-    {
       "word": "絶縁碍子",
       "reading": "ぜつえんがいし",
       "meaning": "khả năng cách nhiệt"
+    },
+    {
+      "word": "融通無碍",
+      "reading": "ゆうずうむげ",
+      "meaning": "tính linh hoạt"
     }
   ]
 }

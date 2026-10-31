@@ -66,39 +66,9 @@
   ],
   "vocabulary": [
     {
-      "word": "試煉",
-      "reading": "しれん",
-      "meaning": "sự thử thách"
-    },
-    {
-      "word": "洗煉",
-      "reading": "せんれん",
-      "meaning": "sự tinh luyện"
-    },
-    {
-      "word": "精煉",
-      "reading": "せいれん",
-      "meaning": "tinh luyện kim loại"
-    },
-    {
-      "word": "修煉",
-      "reading": "しゅうれん",
-      "meaning": "sự huấn luyện"
-    },
-    {
-      "word": "煉炭",
-      "reading": "れんたん",
-      "meaning": "than bánh"
-    },
-    {
       "word": "煉獄",
       "reading": "れんごく",
       "meaning": "nơi chuộc tội"
-    },
-    {
-      "word": "煉瓦",
-      "reading": "れんが",
-      "meaning": "gạch"
     },
     {
       "word": "薬煉",
@@ -106,14 +76,44 @@
       "meaning": "nấu thuốc"
     },
     {
-      "word": "煉乳",
-      "reading": "れんにゅう",
-      "meaning": "sữa đặc"
+      "word": "修煉",
+      "reading": "しゅうれん",
+      "meaning": "sự huấn luyện"
+    },
+    {
+      "word": "煉瓦",
+      "reading": "れんが",
+      "meaning": "gạch"
+    },
+    {
+      "word": "赤煉瓦",
+      "reading": "あかれんが",
+      "meaning": "gạch đỏ"
+    },
+    {
+      "word": "木煉瓦",
+      "reading": "もくれんが",
+      "meaning": "ngói gỗ"
     },
     {
       "word": "煉瓦塀",
       "reading": "れんがべい",
       "meaning": "bức tường gạch"
+    },
+    {
+      "word": "煉瓦窯",
+      "reading": "れんがかま",
+      "meaning": "lò gạch"
+    },
+    {
+      "word": "煉炭",
+      "reading": "れんたん",
+      "meaning": "than bánh"
+    },
+    {
+      "word": "試煉",
+      "reading": "しれん",
+      "meaning": "sự thử thách"
     }
   ]
 }

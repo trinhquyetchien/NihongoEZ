@@ -109,39 +109,9 @@
       "meaning": "con"
     },
     {
-      "word": "匹夫匹婦",
-      "reading": "ひっぷひっぷ",
-      "meaning": "những người đàn ông và phụ nữ thô"
-    },
-    {
-      "word": "匹儔",
-      "reading": "ひっちゅう",
-      "meaning": "cân bằng với"
-    },
-    {
-      "word": "匹夫",
-      "reading": "ひっぷ",
-      "meaning": "người quê mùa"
-    },
-    {
-      "word": "匹婦",
-      "reading": "ひっぷ",
-      "meaning": "phụ nữ quê mùa"
-    },
-    {
-      "word": "馬匹",
-      "reading": "ばひつ",
-      "meaning": "ngựa"
-    },
-    {
       "word": "匹敵",
       "reading": "ひってき",
       "meaning": "ngang tầm"
-    },
-    {
-      "word": "数匹",
-      "reading": "すうひき",
-      "meaning": "vài động vật"
     },
     {
       "word": "一匹",
@@ -149,9 +119,39 @@
       "meaning": "một con vật"
     },
     {
+      "word": "数匹",
+      "reading": "すうひき",
+      "meaning": "vài động vật"
+    },
+    {
+      "word": "匹婦",
+      "reading": "ひっぷ",
+      "meaning": "phụ nữ quê mùa"
+    },
+    {
+      "word": "絹一匹",
+      "reading": "きぬいっぴき",
+      "meaning": "một hiki tơ"
+    },
+    {
       "word": "一匹狼",
       "reading": "いっぴきおおかみ",
       "meaning": "người thui thủi một mình"
+    },
+    {
+      "word": "男一匹",
+      "reading": "おとこいっぴき",
+      "meaning": "là một đấng nam nhi"
+    },
+    {
+      "word": "匹夫",
+      "reading": "ひっぷ",
+      "meaning": "người quê mùa"
+    },
+    {
+      "word": "匹儔",
+      "reading": "ひっちゅう",
+      "meaning": "cân bằng với"
     }
   ]
 }

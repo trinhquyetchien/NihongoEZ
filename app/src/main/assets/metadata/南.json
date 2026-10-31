@@ -95,34 +95,19 @@
       "meaning": "nam"
     },
     {
-      "word": "南南東",
-      "reading": "なんなんとう",
-      "meaning": "nam-đông nam"
+      "word": "真南",
+      "reading": "まみなみ",
+      "meaning": "đúng hướng nam"
     },
     {
-      "word": "南南西",
-      "reading": "なんなんせい",
-      "meaning": "nam-tây nam"
+      "word": "最南",
+      "reading": "さいなん",
+      "meaning": "cực nam"
     },
     {
-      "word": "南画",
-      "reading": "なんが",
-      "meaning": "viết tắt của cụm từ 南宗画（なんしゅうがい-nam tôn họa). đây là một trong hai trường học hội họa nổi tiếng ở trung quốc"
-    },
-    {
-      "word": "海南",
-      "reading": "かいなん",
-      "meaning": "vùng biển phía nam"
-    },
-    {
-      "word": "指南",
-      "reading": "しなん",
-      "meaning": "sự hướng dẫn"
-    },
-    {
-      "word": "南燭",
-      "reading": "しゃしゃんぼ",
-      "meaning": "sea bilberry"
+      "word": "南行",
+      "reading": "なんこう",
+      "meaning": "đi về phía nam"
     },
     {
       "word": "図南",
@@ -130,14 +115,29 @@
       "meaning": "chí lớn"
     },
     {
+      "word": "南門",
+      "reading": "なんもん",
+      "meaning": "cổng phía nam"
+    },
+    {
       "word": "斗南",
       "reading": "となん",
       "meaning": "toàn bộ thế giới"
     },
     {
-      "word": "南鮮",
-      "reading": "なんせん",
-      "meaning": "nam hàn"
+      "word": "南満",
+      "reading": "なんまん",
+      "meaning": "phía nam manchuria"
+    },
+    {
+      "word": "南隅",
+      "reading": "なんぐう",
+      "meaning": "góc phía nam"
+    },
+    {
+      "word": "越南",
+      "reading": "えつなん",
+      "meaning": "việt nam"
     }
   ]
 }

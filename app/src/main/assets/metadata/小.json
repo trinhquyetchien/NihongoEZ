@@ -92,29 +92,24 @@
   ],
   "vocabulary": [
     {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaning": "tiểu thuyết"
+    },
+    {
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "chim nhỏ"
+    },
+    {
       "word": "小",
       "reading": "しょう",
       "meaning": "nhỏ"
     },
     {
-      "word": "小便小僧",
-      "reading": "しょうべんこぞう",
-      "meaning": "con trai thần vệ nữ nhỏ bé - như những pho tượng đái vào trong một suối"
-    },
-    {
-      "word": "小者小者",
-      "reading": "こもの",
-      "meaning": "người hầu"
-    },
-    {
-      "word": "小川小抹香",
-      "reading": "おがわこまっこう",
-      "meaning": "cá nhà táng lùn"
-    },
-    {
-      "word": "小袋と小娘",
-      "reading": "こぶくろとこむすめ",
-      "meaning": "nuôi con gái tốn kém hơn ta nghĩ"
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "túp lều"
     },
     {
       "word": "小麦",
@@ -122,24 +117,29 @@
       "meaning": "lúa mì"
     },
     {
+      "word": "縮小",
+      "reading": "しゅくしょう",
+      "meaning": "sự co nhỏ"
+    },
+    {
+      "word": "小指",
+      "reading": "こゆび",
+      "meaning": "ngón tay út"
+    },
+    {
+      "word": "小売",
+      "reading": "こうり",
+      "meaning": "bán lẻ"
+    },
+    {
+      "word": "小銭",
+      "reading": "こぜに",
+      "meaning": "tiền lẻ"
+    },
+    {
       "word": "小柄",
       "reading": "こがら",
       "meaning": "lùn"
-    },
-    {
-      "word": "小径",
-      "reading": "しょうけい",
-      "meaning": "đường"
-    },
-    {
-      "word": "小帯",
-      "reading": "しょうたい",
-      "meaning": "vòng"
-    },
-    {
-      "word": "小円",
-      "reading": "しょうえん",
-      "meaning": "vòng tròn nhỏ"
     }
   ]
 }

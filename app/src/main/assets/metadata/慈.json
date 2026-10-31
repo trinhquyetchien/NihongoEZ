@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "慈",
-      "reading": "いつくしむ",
-      "meaning": "sự thương hại"
-    },
-    {
       "word": "慈善",
       "reading": "じぜん",
       "meaning": "sự từ thiện"
+    },
+    {
+      "word": "慈善家",
+      "reading": "じぜんか",
+      "meaning": "người yêu người"
+    },
+    {
+      "word": "慈善心",
+      "reading": "じぜんしん",
+      "meaning": "lòng nhân từ"
+    },
+    {
+      "word": "慈善箱",
+      "reading": "じぜんばこ",
+      "meaning": "thùng từ thiện"
+    },
+    {
+      "word": "慈善鍋",
+      "reading": "じぜんなべ",
+      "meaning": "chậu quyên tiền từ thiện"
     },
     {
       "word": "慈悲",
@@ -104,39 +119,24 @@
       "meaning": "sự từ bi"
     },
     {
-      "word": "慈愛",
-      "reading": "じあい",
-      "meaning": "sự âu yếm"
+      "word": "慈悲心",
+      "reading": "じひしん",
+      "meaning": "lòng nhân từ"
     },
     {
-      "word": "慈雨",
-      "reading": "じう",
-      "meaning": "mưa đúng lúc"
+      "word": "慈悲殺",
+      "reading": "じひさつ",
+      "meaning": "an tử"
     },
     {
-      "word": "慈鳥",
-      "reading": "じちょう",
-      "meaning": "con quạ"
+      "word": "無慈悲",
+      "reading": "むじひ",
+      "meaning": "nhẫn tâm"
     },
     {
-      "word": "仁慈",
-      "reading": "じんじ",
-      "meaning": "nhân từ"
-    },
-    {
-      "word": "慈尊",
-      "reading": "じそん",
-      "meaning": "maitreya"
-    },
-    {
-      "word": "慈母",
-      "reading": "じぼ",
-      "meaning": "từ nay"
-    },
-    {
-      "word": "慈訓",
-      "reading": "じくん",
-      "meaning": "loại khuyên răn"
+      "word": "久慈目",
+      "reading": "くじめ",
+      "meaning": "đánh máy greenling"
     }
   ]
 }

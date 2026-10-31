@@ -86,18 +86,28 @@
   ],
   "vocabulary": [
     {
+      "word": "基礎",
+      "reading": "きそ",
+      "meaning": "căn bản"
+    },
+    {
+      "word": "基礎的",
+      "reading": "きそてき",
+      "meaning": "cơ sở"
+    },
+    {
+      "word": "基礎率",
+      "reading": "きそりつ",
+      "meaning": "tỷ lệ cơ bản"
+    },
+    {
+      "word": "杭基礎",
+      "reading": "くいきそ",
+      "meaning": "móng cọc"
+    },
+    {
       "word": "礎",
       "reading": "いしずえ",
-      "meaning": "đá lót nền"
-    },
-    {
-      "word": "礎材",
-      "reading": "そざい",
-      "meaning": "nguyên liệu nền tảng"
-    },
-    {
-      "word": "礎石",
-      "reading": "そせき",
       "meaning": "đá lót nền"
     },
     {
@@ -116,24 +126,14 @@
       "meaning": "đặt một cornerstone"
     },
     {
-      "word": "基礎",
-      "reading": "きそ",
-      "meaning": "căn bản"
-    },
-    {
-      "word": "基礎的",
-      "reading": "きそてき",
-      "meaning": "cơ sở"
-    },
-    {
-      "word": "基礎率",
-      "reading": "きそりつ",
-      "meaning": "tỷ lệ cơ bản"
-    },
-    {
       "word": "定礎式",
       "reading": "ていそしき",
       "meaning": "lễ khởi công"
+    },
+    {
+      "word": "礎石",
+      "reading": "そせき",
+      "meaning": "đá lót nền"
     }
   ]
 }

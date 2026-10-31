@@ -60,19 +60,9 @@
       "meaning": "đền miếu"
     },
     {
-      "word": "廟堂",
-      "reading": "びょうどう",
-      "meaning": "sân"
-    },
-    {
       "word": "廟号",
       "reading": "びょうごう",
       "meaning": "miếu hiệu"
-    },
-    {
-      "word": "帝廟",
-      "reading": "ていびょう",
-      "meaning": "lăng tẩm hoàng đế"
     },
     {
       "word": "古廟",
@@ -85,14 +75,19 @@
       "meaning": "lăng"
     },
     {
-      "word": "聖廟",
-      "reading": "せいびょう",
-      "meaning": "<vt> vd bệnh hoa liễu"
-    },
-    {
       "word": "宗廟",
       "reading": "そうびょう",
       "meaning": "miếu thờ tổ tiên"
+    },
+    {
+      "word": "帝廟",
+      "reading": "ていびょう",
+      "meaning": "lăng tẩm hoàng đế"
+    },
+    {
+      "word": "聖廟",
+      "reading": "せいびょう",
+      "meaning": "<vt> vd bệnh hoa liễu"
     },
     {
       "word": "祖廟",
@@ -103,6 +98,11 @@
       "word": "御廟",
       "reading": "ごびょう",
       "meaning": "lăng mộ"
+    },
+    {
+      "word": "廟堂",
+      "reading": "びょうどう",
+      "meaning": "sân"
     }
   ]
 }

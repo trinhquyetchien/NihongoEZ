@@ -69,6 +69,11 @@
   ],
   "vocabulary": [
     {
+      "word": "聡敏",
+      "reading": "そうびん",
+      "meaning": "sự thông minh"
+    },
+    {
       "word": "聡明",
       "reading": "そうめい",
       "meaning": "tính khôn ngoan"
@@ -77,11 +82,6 @@
       "word": "聡い",
       "reading": "さとい",
       "meaning": "thông minh"
-    },
-    {
-      "word": "聡敏",
-      "reading": "そうびん",
-      "meaning": "sự thông minh"
     },
     {
       "word": "耳聡い",

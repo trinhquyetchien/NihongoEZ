@@ -88,29 +88,14 @@
   ],
   "vocabulary": [
     {
+      "word": "教諭",
+      "reading": "きょうゆ",
+      "meaning": "giáo viên"
+    },
+    {
       "word": "諭吉",
       "reading": "ゆきち",
       "meaning": "yuichi"
-    },
-    {
-      "word": "諭示",
-      "reading": "ゆし",
-      "meaning": "chỉ thị"
-    },
-    {
-      "word": "諭旨",
-      "reading": "ゆし",
-      "meaning": "sự có lý do"
-    },
-    {
-      "word": "勅諭",
-      "reading": "ちょくゆ",
-      "meaning": "sắc dụ"
-    },
-    {
-      "word": "説諭",
-      "reading": "せつゆ",
-      "meaning": "sự thuyết phục"
     },
     {
       "word": "上諭",
@@ -118,9 +103,9 @@
       "meaning": "sắc lệnh đế quốc"
     },
     {
-      "word": "教諭",
-      "reading": "きょうゆ",
-      "meaning": "giáo viên"
+      "word": "比諭",
+      "reading": "ひゆ",
+      "meaning": "ví von"
     },
     {
       "word": "訓諭",
@@ -128,14 +113,29 @@
       "meaning": "huấn dụ"
     },
     {
+      "word": "諭示",
+      "reading": "ゆし",
+      "meaning": "chỉ thị"
+    },
+    {
       "word": "諭し",
       "reading": "さとし",
       "meaning": "sự chỉ đạo"
     },
     {
-      "word": "告諭",
-      "reading": "こくゆ",
-      "meaning": "viên chức chú ý"
+      "word": "勅諭",
+      "reading": "ちょくゆ",
+      "meaning": "sắc dụ"
+    },
+    {
+      "word": "諭す",
+      "reading": "さとす",
+      "meaning": "dạy bảo"
+    },
+    {
+      "word": "諭旨",
+      "reading": "ゆし",
+      "meaning": "sự có lý do"
     }
   ]
 }

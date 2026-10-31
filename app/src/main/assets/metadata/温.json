@@ -110,24 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "温",
-      "reading": "ぬく",
-      "meaning": "nóng"
-    },
-    {
-      "word": "温温",
-      "reading": "ぬくぬく",
-      "meaning": "ấm áp"
-    },
-    {
-      "word": "低温恒温水槽",
-      "reading": "ていおんこうおんすいそう",
-      "meaning": "bể ổn nhiệt nhiệt độ thấp"
-    },
-    {
-      "word": "室温",
-      "reading": "しつおん",
-      "meaning": "nhiệt độ trong phòng"
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "nhiệt độ"
     },
     {
       "word": "温暖",
@@ -135,29 +120,44 @@
       "meaning": "ấm"
     },
     {
-      "word": "水温",
-      "reading": "すいおん",
-      "meaning": "nhiệt độ nước"
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "nhiệt độ cơ thể"
     },
     {
-      "word": "気温",
-      "reading": "きおん",
-      "meaning": "nhiệt độ"
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "suối nước nóng"
     },
     {
-      "word": "高温",
-      "reading": "こうおん",
-      "meaning": "nhiệt độ cao"
+      "word": "保温",
+      "reading": "ほおん",
+      "meaning": "sự giữ độ ấm"
     },
     {
-      "word": "適温",
-      "reading": "てきおん",
-      "meaning": "nhiệt độ thích hợp"
+      "word": "温和",
+      "reading": "おんわ",
+      "meaning": "ôn hòa"
     },
     {
-      "word": "温存",
-      "reading": "おんぞん",
-      "meaning": "giữ gìn"
+      "word": "温",
+      "reading": "ぬく",
+      "meaning": "nóng"
+    },
+    {
+      "word": "温点",
+      "reading": "おんてん",
+      "meaning": "điểm nóng chảy"
+    },
+    {
+      "word": "温風",
+      "reading": "おんぷう",
+      "meaning": "làn gió ấm áp"
+    },
+    {
+      "word": "温々",
+      "reading": "ぬくぬく",
+      "meaning": "1. ấm áp 2. ấm cúng"
     }
   ]
 }

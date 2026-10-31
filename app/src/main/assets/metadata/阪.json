@@ -89,9 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "阪大",
-      "reading": "はんだい",
-      "meaning": "trường đại học osaka"
+      "word": "大阪",
+      "reading": "おおさか",
+      "meaning": "osaka"
+    },
+    {
+      "word": "大阪人",
+      "reading": "おおさかじん",
+      "meaning": "người vùng osaka"
+    },
+    {
+      "word": "大阪市",
+      "reading": "おおさかし",
+      "meaning": "thành phố osaka"
+    },
+    {
+      "word": "大阪石",
+      "reading": "おおさかせき",
+      "meaning": "osakaite"
+    },
+    {
+      "word": "大阪府",
+      "reading": "おおさかふ",
+      "meaning": "chức quận trưởng osaka"
     },
     {
       "word": "阪神",
@@ -99,14 +119,14 @@
       "meaning": "osaka và kobe"
     },
     {
+      "word": "大阪弁",
+      "reading": "おおさかべん",
+      "meaning": "tiếng vùng osaka"
+    },
+    {
       "word": "来阪",
       "reading": "らいはん",
       "meaning": "sự đến osaka"
-    },
-    {
-      "word": "帰阪",
-      "reading": "きはん",
-      "meaning": "việc trở về osaka"
     },
     {
       "word": "下阪",
@@ -114,29 +134,9 @@
       "meaning": "theo đuổi từ tokyo đến osaka"
     },
     {
-      "word": "京阪",
-      "reading": "けいはん",
-      "meaning": "kyoto và osaka"
-    },
-    {
-      "word": "大阪",
-      "reading": "おおさか",
-      "meaning": "osaka"
-    },
-    {
       "word": "在阪",
       "reading": "ざいはん",
       "meaning": "ở tại osaka"
-    },
-    {
-      "word": "京阪奈",
-      "reading": "けいはんな",
-      "meaning": "kyoto-osaka-nara"
-    },
-    {
-      "word": "大阪弁",
-      "reading": "おおさかべん",
-      "meaning": "tiếng vùng osaka"
     }
   ]
 }

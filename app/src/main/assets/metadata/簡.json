@@ -91,9 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "簡",
-      "reading": "かん",
-      "meaning": "sự đơn giản"
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "đơn giản"
+    },
+    {
+      "word": "簡易",
+      "reading": "かんい",
+      "meaning": "giản dị"
+    },
+    {
+      "word": "簡潔",
+      "reading": "かんけつ",
+      "meaning": "sự thanh khiết"
     },
     {
       "word": "簡素",
@@ -101,43 +111,33 @@
       "meaning": "sự chất phác"
     },
     {
-      "word": "断簡",
-      "reading": "だんかん",
-      "meaning": "những phần"
+      "word": "簡単な",
+      "reading": "かんたんな",
+      "meaning": "dị"
     },
     {
-      "word": "簡勁",
-      "reading": "かんけい",
-      "meaning": "ngắn gọn"
+      "word": "簡単服",
+      "reading": "かんたんふく",
+      "meaning": "váy áo đơn giản mặc ở nhà vào mùa hè"
     },
     {
-      "word": "簡捷",
-      "reading": "かんしょう",
-      "meaning": "mau lẹ"
+      "word": "簡易な",
+      "reading": "かんいな",
+      "meaning": "giản dị"
     },
     {
-      "word": "簡約",
-      "reading": "かんやく",
-      "meaning": "sự ngắn gọn"
+      "word": "簡易化",
+      "reading": "かんいか",
+      "meaning": "sự đơn giản hoá"
     },
     {
-      "word": "簡明",
-      "reading": "かんめい",
-      "meaning": "sự súc tích"
-    },
-    {
-      "word": "貴簡",
-      "reading": "きかん",
-      "meaning": "bức thư của ngài"
+      "word": "超簡易",
+      "reading": "ちょうかんい",
+      "meaning": "rất đơn giản"
     },
     {
       "word": "簡略",
       "reading": "かんりゃく",
-      "meaning": "đơn giản"
-    },
-    {
-      "word": "単簡",
-      "reading": "たんかん",
       "meaning": "đơn giản"
     }
   ]

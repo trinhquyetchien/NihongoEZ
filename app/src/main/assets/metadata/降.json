@@ -112,14 +112,14 @@
   ],
   "vocabulary": [
     {
-      "word": "降りみ降らずみ",
-      "reading": "ふりみふらずみ",
-      "meaning": "mưa bóng mây"
+      "word": "降る",
+      "reading": "ふる",
+      "meaning": "rơi"
     },
     {
-      "word": "降伏",
-      "reading": "こうふく",
-      "meaning": "sự đầu hàng"
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "bước xuống"
     },
     {
       "word": "以降",
@@ -132,19 +132,9 @@
       "meaning": "rơi xuống"
     },
     {
-      "word": "降雪",
-      "reading": "こうせつ",
-      "meaning": "tuyết rơi"
-    },
-    {
-      "word": "降下",
-      "reading": "こうか",
-      "meaning": "sự rơi từ trên cao xuống"
-    },
-    {
-      "word": "降雨",
-      "reading": "こうう",
-      "meaning": "trận mưa rào"
+      "word": "降伏",
+      "reading": "こうふく",
+      "meaning": "sự đầu hàng"
     },
     {
       "word": "降水",
@@ -157,9 +147,19 @@
       "meaning": "sự rơi xuống"
     },
     {
-      "word": "降る",
-      "reading": "ふる",
-      "meaning": "rơi"
+      "word": "雪降り",
+      "reading": "ゆきふり",
+      "meaning": "tuyết rơi"
+    },
+    {
+      "word": "降下",
+      "reading": "こうか",
+      "meaning": "sự rơi từ trên cao xuống"
+    },
+    {
+      "word": "降臨",
+      "reading": "こうりん",
+      "meaning": "sự giáng sinh của chúa giêxu"
     }
   ]
 }

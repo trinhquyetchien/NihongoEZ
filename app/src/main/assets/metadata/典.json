@@ -91,9 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "典",
-      "reading": "のり",
-      "meaning": "bộ luật"
+      "word": "辞典",
+      "reading": "じてん",
+      "meaning": "từ điển"
+    },
+    {
+      "word": "典型",
+      "reading": "てんけい",
+      "meaning": "điển hình"
     },
     {
       "word": "古典",
@@ -101,44 +106,39 @@
       "meaning": "cổ điển"
     },
     {
-      "word": "出典",
-      "reading": "しゅってん",
-      "meaning": "xuất xứ điển cố"
-    },
-    {
-      "word": "祝典",
-      "reading": "しゅくてん",
-      "meaning": "khánh điển"
-    },
-    {
-      "word": "教典",
-      "reading": "きょうてん",
-      "meaning": "pháp tạng"
-    },
-    {
-      "word": "事典",
-      "reading": "じてん",
-      "meaning": "bộ sách bách khoa"
-    },
-    {
-      "word": "祭典",
-      "reading": "さいてん",
-      "meaning": "ngày hội"
-    },
-    {
       "word": "原典",
       "reading": "げんてん",
       "meaning": "bản chính"
     },
     {
-      "word": "正典",
-      "reading": "せいてん",
-      "meaning": "chính điển"
+      "word": "特典",
+      "reading": "とくてん",
+      "meaning": "đặc quyền"
+    },
+    {
+      "word": "出典",
+      "reading": "しゅってん",
+      "meaning": "xuất xứ điển cố"
+    },
+    {
+      "word": "典",
+      "reading": "のり",
+      "meaning": "bộ luật"
+    },
+    {
+      "word": "典物",
+      "reading": "てんぶつ",
+      "meaning": "cầm đồ mục"
     },
     {
       "word": "主典",
       "reading": "さかん",
       "meaning": "chủ điển"
+    },
+    {
+      "word": "旧典",
+      "reading": "きゅうてん",
+      "meaning": "truyền thống"
     }
   ]
 }

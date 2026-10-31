@@ -88,24 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "愉楽",
-      "reading": "ゆらく",
-      "meaning": "sự thoải mái"
-    },
-    {
-      "word": "愉悦",
-      "reading": "ゆえつ",
-      "meaning": "niềm vui"
-    },
-    {
       "word": "愉快",
       "reading": "ゆかい",
       "meaning": "hài lòng"
     },
     {
-      "word": "愉色",
-      "reading": "ゆしょく",
-      "meaning": "vẻ mặt vui mừng"
+      "word": "不愉快",
+      "reading": "ふゆかい",
+      "meaning": "không khoan khoái"
     },
     {
       "word": "愉快な",
@@ -113,19 +103,19 @@
       "meaning": "khoái"
     },
     {
+      "word": "愉快犯",
+      "reading": "ゆかいはん",
+      "meaning": "kẻ tội phạm có niềm thích thú trước phản ứng của người khác với hành vi tội ác của hắn"
+    },
+    {
       "word": "愉しみ",
       "reading": "たのしみ",
       "meaning": "sự thích thú"
     },
     {
-      "word": "愉しい",
-      "reading": "たのしい",
-      "meaning": "thú vị"
-    },
-    {
-      "word": "愉快犯",
-      "reading": "ゆかいはん",
-      "meaning": "kẻ tội phạm có niềm thích thú trước phản ứng của người khác với hành vi tội ác của hắn"
+      "word": "愉しん",
+      "reading": "",
+      "meaning": "dễ chịu"
     },
     {
       "word": "愉しげ",
@@ -133,9 +123,19 @@
       "meaning": "hạnh phúc"
     },
     {
-      "word": "不愉快",
-      "reading": "ふゆかい",
-      "meaning": "không khoan khoái"
+      "word": "愉悦",
+      "reading": "ゆえつ",
+      "meaning": "niềm vui"
+    },
+    {
+      "word": "愉しい",
+      "reading": "たのしい",
+      "meaning": "thú vị"
+    },
+    {
+      "word": "愉楽",
+      "reading": "ゆらく",
+      "meaning": "sự thoải mái"
     }
   ]
 }

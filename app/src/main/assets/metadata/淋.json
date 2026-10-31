@@ -84,6 +84,26 @@
   ],
   "vocabulary": [
     {
+      "word": "淋しい",
+      "reading": "さびしい",
+      "meaning": "người ở ẩn"
+    },
+    {
+      "word": "淋病",
+      "reading": "りんびょう",
+      "meaning": "lậu"
+    },
+    {
+      "word": "油淋鶏",
+      "reading": "ユーリンチー",
+      "meaning": "gà chiên xì dầu"
+    },
+    {
+      "word": "淋菌",
+      "reading": "りんきん",
+      "meaning": "vi khuẩn gây bệnh lậu"
+    },
+    {
       "word": "淋巴",
       "reading": "リンパ",
       "meaning": "bạch huyết"
@@ -97,26 +117,6 @@
       "word": "淋疾",
       "reading": "りんしつ",
       "meaning": "bệnh lậu"
-    },
-    {
-      "word": "淋菌",
-      "reading": "りんきん",
-      "meaning": "vi khuẩn gây bệnh lậu"
-    },
-    {
-      "word": "淋病",
-      "reading": "りんびょう",
-      "meaning": "lậu"
-    },
-    {
-      "word": "淋しい",
-      "reading": "さびしい",
-      "meaning": "người ở ẩn"
-    },
-    {
-      "word": "油淋鶏",
-      "reading": "ユーリンチー",
-      "meaning": "gà chiên xì dầu"
     },
     {
       "word": "淋巴腺",

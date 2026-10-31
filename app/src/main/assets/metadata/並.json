@@ -94,54 +94,54 @@
   ],
   "vocabulary": [
     {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "được xếp"
+    },
+    {
+      "word": "並行",
+      "reading": "へいこう",
+      "meaning": "song hành"
+    },
+    {
+      "word": "並木",
+      "reading": "なみき",
+      "meaning": "hàng cây"
+    },
+    {
       "word": "並",
       "reading": "なみ",
       "meaning": "bình thường"
     },
     {
-      "word": "並並",
-      "reading": "なみなみ",
-      "meaning": "bình thường"
-    },
-    {
-      "word": "並み並み",
-      "reading": "なみなみ",
-      "meaning": "bình thường"
-    },
-    {
-      "word": "並並ならぬ",
-      "reading": "なみなみならぬ",
-      "meaning": "khác thường"
-    },
-    {
-      "word": "並み並みならぬ",
-      "reading": "なみなみならぬ",
-      "meaning": "khác thường"
-    },
-    {
-      "word": "並進",
-      "reading": "へいしん",
-      "meaning": "tịnh tiến"
-    },
-    {
-      "word": "並盛",
-      "reading": "なみもり",
-      "meaning": "thường"
-    },
-    {
-      "word": "軒並",
-      "reading": "のきなみ",
-      "meaning": "dãy nhà sát nhau"
-    },
-    {
-      "word": "並肉",
-      "reading": "なみにく",
-      "meaning": "thịt có chất lượng trung bình"
+      "word": "並びに",
+      "reading": "ならびに",
+      "meaning": "và"
     },
     {
       "word": "並列",
       "reading": "へいれつ",
       "meaning": "sự song song"
+    },
+    {
+      "word": "軒並み",
+      "reading": "のきなみ",
+      "meaning": "dãy nhà sát nhau"
+    },
+    {
+      "word": "並んで",
+      "reading": "ならんで",
+      "meaning": "xếp hàng đi"
+    },
+    {
+      "word": "並み",
+      "reading": "なみ",
+      "meaning": "giống"
+    },
+    {
+      "word": "並用",
+      "reading": "へいよう",
+      "meaning": "sử dụng cùng nhau"
     }
   ]
 }

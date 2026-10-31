@@ -29,6 +29,16 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "銅鐸",
+      "reading": "どうたく",
+      "meaning": "làm thành màu đồng cái chuông"
+    },
+    {
+      "word": "木鐸",
+      "reading": "ぼくたく",
+      "meaning": "cái chuông với quả lắc làm bằng gỗ"
+    },
+    {
       "word": "鐸",
       "reading": "たく",
       "meaning": "chuông trung quốc cổ đại với một cái lươi và một tay cầm dài"
@@ -37,16 +47,6 @@
       "word": "風鐸",
       "reading": "ふうたく",
       "meaning": "chuông gió"
-    },
-    {
-      "word": "木鐸",
-      "reading": "ぼくたく",
-      "meaning": "cái chuông với quả lắc làm bằng gỗ"
-    },
-    {
-      "word": "銅鐸",
-      "reading": "どうたく",
-      "meaning": "làm thành màu đồng cái chuông"
     },
     {
       "word": "馬鐸",

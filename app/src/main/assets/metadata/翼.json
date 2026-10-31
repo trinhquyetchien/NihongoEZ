@@ -94,49 +94,49 @@
       "meaning": "lá"
     },
     {
-      "word": "翼翼",
+      "word": "上翼",
+      "reading": "じょうよく",
+      "meaning": "trên bay một máy bay"
+    },
+    {
+      "word": "翼手目",
+      "reading": "よくしゅもく",
+      "meaning": "bộ dơi"
+    },
+    {
+      "word": "翼形",
+      "reading": "よくがた",
+      "meaning": "hình cánh máy bay"
+    },
+    {
+      "word": "翼長",
+      "reading": "よくちょう",
+      "meaning": "chiều dài cánh"
+    },
+    {
+      "word": "翼々",
       "reading": "よくよく",
       "meaning": "thận trọng"
-    },
-    {
-      "word": "小心翼翼",
-      "reading": "しょうしんよくよく",
-      "meaning": "rất nhút nhát"
-    },
-    {
-      "word": "左翼",
-      "reading": "さよく",
-      "meaning": "cánh trái"
-    },
-    {
-      "word": "有翼",
-      "reading": "ゆうよく",
-      "meaning": "có cánh"
-    },
-    {
-      "word": "翼廊",
-      "reading": "よくろう",
-      "meaning": "cánh ngang"
-    },
-    {
-      "word": "翼竜",
-      "reading": "よくりゅう",
-      "meaning": "thằn lằn bay"
-    },
-    {
-      "word": "翼鏡",
-      "reading": "よくきょう",
-      "meaning": "gương cánh"
-    },
-    {
-      "word": "翼果",
-      "reading": "よっか",
-      "meaning": "quả cánh"
     },
     {
       "word": "低翼",
       "reading": "ていよく",
       "meaning": "cánh thấp"
+    },
+    {
+      "word": "耳翼",
+      "reading": "じよく",
+      "meaning": "tai"
+    },
+    {
+      "word": "翼葉",
+      "reading": "よくよう",
+      "meaning": "cánh lá"
+    },
+    {
+      "word": "翼鏡",
+      "reading": "よくきょう",
+      "meaning": "gương cánh"
     }
   ]
 }

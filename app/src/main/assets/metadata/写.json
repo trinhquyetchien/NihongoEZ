@@ -93,24 +93,14 @@
   ],
   "vocabulary": [
     {
-      "word": "写",
-      "reading": "うつし",
-      "meaning": "sự chụp ảnh"
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "ảnh"
     },
     {
-      "word": "写真写り",
-      "reading": "しゃしんうつり",
-      "meaning": "sự ăn ảnh"
-    },
-    {
-      "word": "写真を写す",
-      "reading": "しゃしんをうつす",
-      "meaning": "chụp ảnh"
-    },
-    {
-      "word": "写真複写機",
-      "reading": "しゃしんふくしゃき",
-      "meaning": "máy photocopy"
+      "word": "写す",
+      "reading": "うつす",
+      "meaning": "chép"
     },
     {
       "word": "写る",
@@ -118,14 +108,19 @@
       "meaning": "chiếu"
     },
     {
-      "word": "写本",
-      "reading": "しゃほん",
-      "meaning": "bản viết"
+      "word": "複写",
+      "reading": "ふくしゃ",
+      "meaning": "bản sao"
     },
     {
-      "word": "写真",
-      "reading": "しゃしん",
-      "meaning": "ảnh"
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "vẽ phác"
+    },
+    {
+      "word": "描写",
+      "reading": "びょうしゃ",
+      "meaning": "sự phác họa"
     },
     {
       "word": "写し",
@@ -133,14 +128,19 @@
       "meaning": "bản sao"
     },
     {
-      "word": "筆写",
-      "reading": "ひっしゃ",
-      "meaning": "sự sao chép"
+      "word": "映写",
+      "reading": "えいしゃ",
+      "meaning": "sự chiếu phim"
     },
     {
-      "word": "写メール",
-      "reading": "しゃメール",
-      "meaning": "email có đính kèm ảnh"
+      "word": "実写",
+      "reading": "じっしゃ",
+      "meaning": "trên - - phát hiện quay phim hoặc nhiếp ảnh"
+    },
+    {
+      "word": "写",
+      "reading": "うつし",
+      "meaning": "sự chụp ảnh"
     }
   ]
 }

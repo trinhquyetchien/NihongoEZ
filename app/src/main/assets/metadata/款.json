@@ -86,8 +86,18 @@
   ],
   "vocabulary": [
     {
-      "word": "款",
-      "reading": "かん",
+      "word": "定款",
+      "reading": "ていかん",
+      "meaning": "điều lệ"
+    },
+    {
+      "word": "仮定款",
+      "reading": "かりていかん",
+      "meaning": "những mục tạm thời"
+    },
+    {
+      "word": "約款",
+      "reading": "やっかん",
       "meaning": "điều khoản"
     },
     {
@@ -96,9 +106,14 @@
       "meaning": "khoản vay"
     },
     {
-      "word": "款待",
-      "reading": "かんたい",
-      "meaning": "lòng mến khách"
+      "word": "円借款",
+      "reading": "えんしゃっかん",
+      "meaning": "khoản vay quốc tế bằng đồng yên"
+    },
+    {
+      "word": "款",
+      "reading": "かん",
+      "meaning": "điều khoản"
     },
     {
       "word": "条款",
@@ -106,34 +121,19 @@
       "meaning": "quy định"
     },
     {
-      "word": "約款",
-      "reading": "やっかん",
-      "meaning": "điều khoản"
-    },
-    {
-      "word": "款冬",
-      "reading": "ふき",
-      "meaning": "cúc móng ngựa"
-    },
-    {
-      "word": "交款",
-      "reading": "こうかん",
-      "meaning": "giao lưu"
-    },
-    {
-      "word": "定款",
-      "reading": "ていかん",
-      "meaning": "điều lệ"
-    },
-    {
       "word": "落款",
       "reading": "らっかん",
       "meaning": "sự ký và đóng dấu"
     },
     {
-      "word": "仮定款",
-      "reading": "かりていかん",
-      "meaning": "những mục tạm thời"
+      "word": "款待",
+      "reading": "かんたい",
+      "meaning": "lòng mến khách"
+    },
+    {
+      "word": "款冬",
+      "reading": "ふき",
+      "meaning": "cúc móng ngựa"
     }
   ]
 }

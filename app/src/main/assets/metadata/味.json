@@ -95,34 +95,14 @@
       "meaning": "vị"
     },
     {
-      "word": "三味",
-      "reading": "さみ",
-      "meaning": "đàn nhật ba dây"
-    },
-    {
-      "word": "うま味調味料",
-      "reading": "うまみちょうみりょう",
-      "meaning": "chất tăng cường hương vị"
-    },
-    {
-      "word": "一味も二味も",
-      "reading": "ひとあじもふたあじも",
-      "meaning": "hoàn toàn"
-    },
-    {
-      "word": "地味に美味い",
-      "reading": "じみにうまい",
-      "meaning": "ngon không tưởng"
-    },
-    {
-      "word": "賞味",
-      "reading": "しょうみ",
-      "meaning": "thưởng thức"
-    },
-    {
       "word": "趣味",
       "reading": "しゅみ",
       "meaning": "cái thú vị"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "cảm thụ"
     },
     {
       "word": "吟味",
@@ -130,14 +110,34 @@
       "meaning": "sự nếm"
     },
     {
-      "word": "後味",
-      "reading": "あとあじ",
-      "meaning": "dư vị"
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "sự cho thêm gia vị"
     },
     {
-      "word": "大味",
-      "reading": "おおあじ",
-      "meaning": "không có mùi vị"
+      "word": "円味",
+      "reading": "まるみ",
+      "meaning": "sự tròn"
+    },
+    {
+      "word": "金味",
+      "reading": "かなあじ",
+      "meaning": "kim loại"
+    },
+    {
+      "word": "場味",
+      "reading": "ばあじ",
+      "meaning": "tiếp thị tình cảm"
+    },
+    {
+      "word": "口味",
+      "reading": "こうみ",
+      "meaning": "nếm mùi hương vị"
+    },
+    {
+      "word": "真味",
+      "reading": "しんみ",
+      "meaning": "thật có nghĩa"
     }
   ]
 }

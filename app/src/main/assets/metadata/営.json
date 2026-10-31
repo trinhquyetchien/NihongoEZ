@@ -95,9 +95,29 @@
       "meaning": "doanh nghiệp"
     },
     {
-      "word": "営営",
-      "reading": "えいえい",
-      "meaning": "chăm chỉ"
+      "word": "経営",
+      "reading": "けいえい",
+      "meaning": "quản lý"
+    },
+    {
+      "word": "営む",
+      "reading": "いとなむ",
+      "meaning": "điều khiển"
+    },
+    {
+      "word": "陣営",
+      "reading": "じんえい",
+      "meaning": "doanh trại"
+    },
+    {
+      "word": "民営",
+      "reading": "みんえい",
+      "meaning": "quản lý tư nhân"
+    },
+    {
+      "word": "国営",
+      "reading": "こくえい",
+      "meaning": "quốc doanh"
     },
     {
       "word": "市営",
@@ -105,39 +125,19 @@
       "meaning": "sự quản lý của thành phố"
     },
     {
-      "word": "経営",
-      "reading": "けいえい",
-      "meaning": "quản lý"
+      "word": "公営",
+      "reading": "こうえい",
+      "meaning": "quản lý công"
     },
     {
-      "word": "自営",
-      "reading": "じえい",
-      "meaning": "sự độc lập kinh doanh"
-    },
-    {
-      "word": "県営",
-      "reading": "けんえい",
-      "meaning": "nơi làm việc của quận trưởng"
-    },
-    {
-      "word": "軍営",
-      "reading": "ぐんえい",
-      "meaning": "trại lính"
-    },
-    {
-      "word": "兼営",
-      "reading": "けんえい",
-      "meaning": "việc đồng thời thực hiện nhiều công việc kinh doanh"
+      "word": "設営",
+      "reading": "せつえい",
+      "meaning": "xây dựng"
     },
     {
       "word": "直営",
       "reading": "ちょくえい",
       "meaning": "sự điều hành trực tiếp"
-    },
-    {
-      "word": "営養",
-      "reading": "えいよう",
-      "meaning": "dinh dưỡng"
     }
   ]
 }

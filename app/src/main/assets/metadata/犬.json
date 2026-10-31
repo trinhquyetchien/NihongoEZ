@@ -95,39 +95,9 @@
       "meaning": "cẩu"
     },
     {
-      "word": "唐犬",
-      "reading": "からいぬ",
-      "meaning": "chó ngoại nhập"
-    },
-    {
-      "word": "子犬",
-      "reading": "こいぬ",
-      "meaning": "con chó con"
-    },
-    {
-      "word": "犬桜",
-      "reading": "いぬざくら",
-      "meaning": "cây padus buergeriana"
-    },
-    {
-      "word": "犬歯",
-      "reading": "けんし",
-      "meaning": "răng nanh"
-    },
-    {
-      "word": "愛犬",
-      "reading": "あいけん",
-      "meaning": "con chó yêu"
-    },
-    {
-      "word": "犬猫",
-      "reading": "いぬねこ",
-      "meaning": "chó mèo"
-    },
-    {
-      "word": "忠犬",
-      "reading": "ちゅうけん",
-      "meaning": "con chó trung thành với chủ"
+      "word": "一犬",
+      "reading": "いっけん",
+      "meaning": "một con chó"
     },
     {
       "word": "家犬",
@@ -138,6 +108,36 @@
       "word": "犬子",
       "reading": "えのこ",
       "meaning": "chú chó nhỏ"
+    },
+    {
+      "word": "軍犬",
+      "reading": "ぐんけん",
+      "meaning": "chó trận"
+    },
+    {
+      "word": "犬猫",
+      "reading": "いぬねこ",
+      "meaning": "chó mèo"
+    },
+    {
+      "word": "犬種",
+      "reading": "けんしゅ",
+      "meaning": "giống chó"
+    },
+    {
+      "word": "犬桜",
+      "reading": "いぬざくら",
+      "meaning": "cây padus buergeriana"
+    },
+    {
+      "word": "豚犬",
+      "reading": "とんけん",
+      "meaning": "chó và lợn"
+    },
+    {
+      "word": "洋犬",
+      "reading": "ようけん",
+      "meaning": "nước ngoài sinh sản con chó"
     }
   ]
 }

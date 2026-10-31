@@ -90,49 +90,49 @@
       "meaning": "nằn ngửa"
     },
     {
-      "word": "横臥",
-      "reading": "おうが",
-      "meaning": "nằm ngang"
-    },
-    {
-      "word": "仰臥",
-      "reading": "ぎょうが",
-      "meaning": "sự nằm ngủ ngước mặt lên"
-    },
-    {
-      "word": "臥す",
-      "reading": "ふす",
+      "word": "臥する",
+      "reading": "がする",
       "meaning": "nằm xuống"
-    },
-    {
-      "word": "平臥",
-      "reading": "へいが",
-      "meaning": "nói dối xuống"
-    },
-    {
-      "word": "安臥",
-      "reading": "あんが",
-      "meaning": "nằm nghỉ hoặc ngủ với tư thế thoải mái"
-    },
-    {
-      "word": "起臥",
-      "reading": "きが",
-      "meaning": "cuộc sống hàng ngày"
-    },
-    {
-      "word": "臥床",
-      "reading": "がしょう",
-      "meaning": "nghỉ ngơi tại giường"
-    },
-    {
-      "word": "臥所",
-      "reading": "ふしど",
-      "meaning": "cái giường"
     },
     {
       "word": "臥龍",
       "reading": "がりゅう",
       "meaning": "dựa vào con rồng người đàn ông lớn"
+    },
+    {
+      "word": "座臥",
+      "reading": "ざが",
+      "meaning": "hàng ngày là cuộc sống"
+    },
+    {
+      "word": "臥ゆ",
+      "reading": "こゆ",
+      "meaning": "nằm xuống"
+    },
+    {
+      "word": "腹臥位",
+      "reading": "ふくがい",
+      "meaning": "tư thế nằm sấp"
+    },
+    {
+      "word": "臥具",
+      "reading": "がぐ",
+      "meaning": "đồ ngủ"
+    },
+    {
+      "word": "臥やす",
+      "reading": "こやす",
+      "meaning": "nằm xuống"
+    },
+    {
+      "word": "臥待月",
+      "reading": "ふしまちづき",
+      "meaning": "trăng đêm 19 tháng 8 âm lịch"
+    },
+    {
+      "word": "仰臥",
+      "reading": "ぎょうが",
+      "meaning": "sự nằm ngủ ngước mặt lên"
     }
   ]
 }

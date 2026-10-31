@@ -88,11 +88,6 @@
   ],
   "vocabulary": [
     {
-      "word": "遭う",
-      "reading": "あう",
-      "meaning": "gặp"
-    },
-    {
       "word": "遭難",
       "reading": "そうなん",
       "meaning": "thảm họa"
@@ -103,14 +98,14 @@
       "meaning": "cuộc chạm trán"
     },
     {
-      "word": "遭難船",
-      "reading": "そうなんせん",
-      "meaning": "tàu gặp nạn"
-    },
-    {
       "word": "遭遇戦",
       "reading": "そうぐうせん",
       "meaning": "gặp"
+    },
+    {
+      "word": "遭遇説",
+      "reading": "そうぐうせつ",
+      "meaning": "giả thuyết thủy triều"
     },
     {
       "word": "遭難者",
@@ -123,19 +118,24 @@
       "meaning": "nạn nhân"
     },
     {
-      "word": "遭遇説",
-      "reading": "そうぐうせつ",
-      "meaning": "giả thuyết thủy triều"
+      "word": "遭難船",
+      "reading": "そうなんせん",
+      "meaning": "tàu gặp nạn"
     },
     {
-      "word": "難に遭う",
-      "reading": "なんにあう",
-      "meaning": "gặp tai hoạ"
+      "word": "遭う",
+      "reading": "あう",
+      "meaning": "gặp"
     },
     {
-      "word": "遭難信号",
-      "reading": "そうなんしんごう",
-      "meaning": "tín hiệu cấp cứu"
+      "word": "遭遇する",
+      "reading": "そうぐうする",
+      "meaning": "đụng đầu"
+    },
+    {
+      "word": "事故に遭う",
+      "reading": "じこにあう",
+      "meaning": "gặp tai nạn"
     }
   ]
 }

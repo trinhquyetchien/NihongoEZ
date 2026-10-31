@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "萎む",
-      "reading": "しぼむ",
-      "meaning": "chắc chắn"
-    },
-    {
-      "word": "陰萎",
-      "reading": "いんい",
-      "meaning": "sự bất lực"
-    },
-    {
-      "word": "萎靡",
-      "reading": "いび",
-      "meaning": "sự suy sụp"
+      "word": "萎える",
+      "reading": "なえる",
+      "meaning": "trở nên yếu"
     },
     {
       "word": "萎縮",
@@ -107,24 +97,9 @@
       "meaning": "làm héo"
     },
     {
-      "word": "萎れる",
-      "reading": "しおれる",
-      "meaning": "héo"
-    },
-    {
-      "word": "萎びる",
-      "reading": "しなびる",
-      "meaning": "mất nước và bị nhăn"
-    },
-    {
-      "word": "萎黄病",
-      "reading": "いおうびょう",
-      "meaning": "bệnh úa vàng"
-    },
-    {
-      "word": "萎縮病",
-      "reading": "いしゅくびょう",
-      "meaning": "bệnh teo cơ"
+      "word": "萎縮性",
+      "reading": "いしゅくせい",
+      "meaning": "tính hao mòn"
     },
     {
       "word": "萎縮症",
@@ -132,9 +107,34 @@
       "meaning": "sự teo"
     },
     {
+      "word": "萎縮病",
+      "reading": "いしゅくびょう",
+      "meaning": "bệnh teo cơ"
+    },
+    {
+      "word": "筋萎縮",
+      "reading": "きんいしゅく",
+      "meaning": "nhược cơ"
+    },
+    {
       "word": "萎縮腎",
       "reading": "いしゅくじん",
       "meaning": "chứng teo thận"
+    },
+    {
+      "word": "萎れた",
+      "reading": "しおれた",
+      "meaning": "bèo nhèo"
+    },
+    {
+      "word": "萎む",
+      "reading": "しぼむ",
+      "meaning": "chắc chắn"
+    },
+    {
+      "word": "萎れる",
+      "reading": "しおれる",
+      "meaning": "héo"
     }
   ]
 }

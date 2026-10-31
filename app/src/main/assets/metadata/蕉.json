@@ -49,39 +49,9 @@
   ],
   "vocabulary": [
     {
-      "word": "蕉門",
-      "reading": "しょうもん",
-      "meaning": "hỏi"
-    },
-    {
       "word": "芭蕉",
       "reading": "ばしょう",
       "meaning": "cây chuối"
-    },
-    {
-      "word": "蕉風",
-      "reading": "しょうふう",
-      "meaning": "sửa chữa kiểu trong một haiku"
-    },
-    {
-      "word": "香蕉",
-      "reading": "こうしょう",
-      "meaning": "chuối"
-    },
-    {
-      "word": "蕉葉",
-      "reading": "しょうよう",
-      "meaning": "lá chuối"
-    },
-    {
-      "word": "甘蕉",
-      "reading": "かんしょう",
-      "meaning": "quả chuối"
-    },
-    {
-      "word": "水芭蕉",
-      "reading": "みずばしょう",
-      "meaning": "cây hồng môn"
     },
     {
       "word": "扇芭蕉",
@@ -89,14 +59,44 @@
       "meaning": "chuối rẻ quạt"
     },
     {
-      "word": "アメリカ水芭蕉",
-      "reading": "アメリカみずばしょう",
-      "meaning": "lysichiton americanus"
+      "word": "水芭蕉",
+      "reading": "みずばしょう",
+      "meaning": "cây hồng môn"
+    },
+    {
+      "word": "香蕉",
+      "reading": "こうしょう",
+      "meaning": "chuối"
+    },
+    {
+      "word": "甘蕉",
+      "reading": "かんしょう",
+      "meaning": "quả chuối"
+    },
+    {
+      "word": "蕉門",
+      "reading": "しょうもん",
+      "meaning": "hỏi"
+    },
+    {
+      "word": "蕉風",
+      "reading": "しょうふう",
+      "meaning": "sửa chữa kiểu trong một haiku"
+    },
+    {
+      "word": "蕉葉",
+      "reading": "しょうよう",
+      "meaning": "lá chuối"
     },
     {
       "word": "芭蕉梶木",
       "reading": "ばしょうかじき",
       "meaning": "cá cờ"
+    },
+    {
+      "word": "アメリカ水芭蕉",
+      "reading": "アメリカみずばしょう",
+      "meaning": "lysichiton americanus"
     }
   ]
 }

@@ -93,44 +93,29 @@
   ],
   "vocabulary": [
     {
-      "word": "凝",
-      "reading": "しこり",
-      "meaning": "đóng băng"
-    },
-    {
       "word": "凝る",
       "reading": "こる",
       "meaning": "đông lại"
     },
     {
-      "word": "凝立",
-      "reading": "ぎょうりつ",
-      "meaning": "đứng im"
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaning": "tập trung"
     },
     {
-      "word": "凝塊",
-      "reading": "ぎょうかい",
-      "meaning": "đóng cục"
+      "word": "凝った",
+      "reading": "こった",
+      "meaning": "tinh tế"
     },
     {
-      "word": "凝血",
-      "reading": "ぎょうけつ",
-      "meaning": "máu đông"
-    },
-    {
-      "word": "凝集",
-      "reading": "ぎょうしゅう",
+      "word": "凝縮",
+      "reading": "ぎょうしゅく",
       "meaning": "sự cô đọng"
     },
     {
-      "word": "凝脂",
-      "reading": "ぎょうし",
-      "meaning": "dầu đông đặc lại"
-    },
-    {
-      "word": "凝望",
-      "reading": "ぎょうぼう",
-      "meaning": "sự nhìn chằm chằm"
+      "word": "凝縮器",
+      "reading": "ぎょうしゅくき",
+      "meaning": "bình ngưng"
     },
     {
       "word": "凝固",
@@ -138,9 +123,24 @@
       "meaning": "sự đông"
     },
     {
-      "word": "凝縮",
-      "reading": "ぎょうしゅく",
-      "meaning": "sự cô đọng"
+      "word": "凝固点",
+      "reading": "ぎょうこてん",
+      "meaning": "điểm đông"
+    },
+    {
+      "word": "光凝固",
+      "reading": "ひかりぎょーこ",
+      "meaning": "đông tụ ánh sáng"
+    },
+    {
+      "word": "凝固剤",
+      "reading": "ぎょうこざい",
+      "meaning": "chất làm đông cứng"
+    },
+    {
+      "word": "抗凝固",
+      "reading": "こうぎょうこ",
+      "meaning": "thuốc chống đông tụ"
     }
   ]
 }

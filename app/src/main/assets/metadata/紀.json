@@ -104,54 +104,54 @@
   ],
   "vocabulary": [
     {
+      "word": "世紀",
+      "reading": "せいき",
+      "meaning": "thế kỷ"
+    },
+    {
+      "word": "一世紀",
+      "reading": "いっせいき",
+      "meaning": "một thế kỷ"
+    },
+    {
+      "word": "前世紀",
+      "reading": "ぜんせいき",
+      "meaning": "thế kỷ trước"
+    },
+    {
+      "word": "来世紀",
+      "reading": "らいせいき",
+      "meaning": "thế kỷ sau"
+    },
+    {
+      "word": "新世紀",
+      "reading": "しんせいき",
+      "meaning": "thế kỷ mới"
+    },
+    {
+      "word": "半世紀",
+      "reading": "はんせいき",
+      "meaning": "nửa thế kỷ"
+    },
+    {
+      "word": "世紀末",
+      "reading": "せいきまつ",
+      "meaning": "chấm dứt một thế kỷ"
+    },
+    {
       "word": "紀",
       "reading": "き",
       "meaning": "nihon-shoki"
     },
     {
-      "word": "綱紀",
-      "reading": "こうき",
-      "meaning": "kỷ cương"
+      "word": "第四紀",
+      "reading": "だいよんき",
+      "meaning": "thời kỳ thứ tư"
     },
     {
-      "word": "オルドビス紀",
-      "reading": "オルドビスき",
-      "meaning": "kỷ ordovic"
-    },
-    {
-      "word": "カンブリア紀",
-      "reading": "カンブリアき",
-      "meaning": "kỷ cambri"
-    },
-    {
-      "word": "軍紀",
-      "reading": "ぐんき",
-      "meaning": "kỷ luật quân đội"
-    },
-    {
-      "word": "紀行",
-      "reading": "きこう",
-      "meaning": "sự ghi chép"
-    },
-    {
-      "word": "紀要",
-      "reading": "きよう",
-      "meaning": "thông cáo"
-    },
-    {
-      "word": "校紀",
-      "reading": "こうき",
-      "meaning": "kỷ luật nhà trường"
-    },
-    {
-      "word": "皇紀",
-      "reading": "こうき",
-      "meaning": "kỷ nguyên hoàng đế"
-    },
-    {
-      "word": "ペルム紀",
-      "reading": "ペルムき",
-      "meaning": "kỷ địa chất permi"
+      "word": "二畳紀",
+      "reading": "にじょうき",
+      "meaning": "kỷ permi"
     }
   ]
 }

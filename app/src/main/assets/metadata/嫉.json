@@ -92,6 +92,11 @@
       "meaning": "lòng ghen tị"
     },
     {
+      "word": "嫉妬心",
+      "reading": "しっとしん",
+      "meaning": "lòng đố kị"
+    },
+    {
       "word": "嫉む",
       "reading": "ねたむ",
       "meaning": "đố"
@@ -100,11 +105,6 @@
       "word": "嫉視",
       "reading": "しっし",
       "meaning": "cái nhìn ghen tị"
-    },
-    {
-      "word": "嫉妬心",
-      "reading": "しっとしん",
-      "meaning": "lòng đố kị"
     },
     {
       "word": "嫉妬する",
@@ -122,6 +122,11 @@
       "meaning": "những ngọn lửa lòng ghen tị"
     },
     {
+      "word": "嫉妬に狂う",
+      "reading": "しっとにくるう",
+      "meaning": "điên cuồng vì ghen tị"
+    },
+    {
       "word": "嫉視反目",
       "reading": "しっしはんもく",
       "meaning": "ghen tị và thù địch"
@@ -130,11 +135,6 @@
       "word": "反目嫉視",
       "reading": "はんもくしっし",
       "meaning": "thù địch"
-    },
-    {
-      "word": "嫉妬に狂う",
-      "reading": "しっとにくるう",
-      "meaning": "điên cuồng vì ghen tị"
     }
   ]
 }

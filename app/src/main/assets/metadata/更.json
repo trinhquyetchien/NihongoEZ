@@ -92,34 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "更",
-      "reading": "こもごも",
-      "meaning": "một phần năm đêm"
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "sự biến đổi"
     },
     {
-      "word": "更更",
-      "reading": "さらさら",
-      "meaning": "sự xào xạc"
-    },
-    {
-      "word": "更更ない",
-      "reading": "さらさらない",
-      "meaning": "không phải trong bé nhất"
-    },
-    {
-      "word": "更訂",
-      "reading": "こうてい",
-      "meaning": "sửa lại nội dung và cách diễn đạt của câu"
-    },
-    {
-      "word": "更新",
-      "reading": "こうしん",
-      "meaning": "gia hạn"
-    },
-    {
-      "word": "更正",
-      "reading": "こうせい",
-      "meaning": "sự sửa lại"
+      "word": "更ける",
+      "reading": "ふける",
+      "meaning": "trở nên khuya"
     },
     {
       "word": "今更",
@@ -127,9 +107,14 @@
       "meaning": "đến lúc này"
     },
     {
-      "word": "更迭",
-      "reading": "こうてつ",
-      "meaning": "di dịch"
+      "word": "夜更け",
+      "reading": "よふけ",
+      "meaning": "đêm khuya"
+    },
+    {
+      "word": "更新",
+      "reading": "こうしん",
+      "meaning": "gia hạn"
     },
     {
       "word": "更に",
@@ -137,9 +122,24 @@
       "meaning": "hơn nữa"
     },
     {
-      "word": "四更",
-      "reading": "しこう",
-      "meaning": "canh tư đêm"
+      "word": "更新世",
+      "reading": "こうしんせい",
+      "meaning": "pleistocene epoch"
+    },
+    {
+      "word": "変更届",
+      "reading": "へんこうとどけ",
+      "meaning": "thông báo thay đổi"
+    },
+    {
+      "word": "今更感",
+      "reading": "いまさらかん",
+      "meaning": "đã quá trễ để"
+    },
+    {
+      "word": "更",
+      "reading": "こもごも",
+      "meaning": "một phần năm đêm"
     }
   ]
 }

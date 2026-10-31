@@ -89,19 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "庶務",
-      "reading": "しょむ",
-      "meaning": "tổng hợp"
+      "word": "義務",
+      "reading": "ぎむ",
+      "meaning": "nghĩa vụ"
     },
     {
       "word": "事務",
       "reading": "じむ",
       "meaning": "công việc"
-    },
-    {
-      "word": "常務",
-      "reading": "じょうむ",
-      "meaning": "sự thông thường"
     },
     {
       "word": "公務",
@@ -114,29 +109,34 @@
       "meaning": "nhiệm vụ"
     },
     {
-      "word": "国務",
-      "reading": "こくむ",
-      "meaning": "công việc quốc gia đại sự"
+      "word": "任務",
+      "reading": "にんむ",
+      "meaning": "nhiệm vụ"
     },
     {
-      "word": "義務",
-      "reading": "ぎむ",
-      "meaning": "nghĩa vụ"
+      "word": "責務",
+      "reading": "せきむ",
+      "meaning": "nhiệm vụ"
     },
     {
-      "word": "実務",
-      "reading": "じつむ",
-      "meaning": "công việc thực tiễn"
+      "word": "庶務",
+      "reading": "しょむ",
+      "meaning": "tổng hợp"
+    },
+    {
+      "word": "務め",
+      "reading": "つとめ",
+      "meaning": "chức vụ"
+    },
+    {
+      "word": "総務",
+      "reading": "そうむ",
+      "meaning": "giám đốc"
     },
     {
       "word": "財務",
       "reading": "ざいむ",
       "meaning": "công việc tài chính"
-    },
-    {
-      "word": "軍務",
-      "reading": "ぐんむ",
-      "meaning": "binh vụ"
     }
   ]
 }

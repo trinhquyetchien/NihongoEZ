@@ -87,9 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "愛玩",
-      "reading": "あいがん",
-      "meaning": "thích"
+      "word": "玩具",
+      "reading": "おもちゃ",
+      "meaning": "đồ chơi"
     },
     {
       "word": "食玩",
@@ -97,9 +97,29 @@
       "meaning": "đồ chơi nhỏ bán cùng với thức ăn"
     },
     {
+      "word": "愛玩",
+      "reading": "あいがん",
+      "meaning": "thích"
+    },
+    {
+      "word": "愛玩物",
+      "reading": "あいがんぶつ",
+      "meaning": "vật được đánh giá cao"
+    },
+    {
+      "word": "愛玩犬",
+      "reading": "あいがんけん",
+      "meaning": "chó cưng"
+    },
+    {
       "word": "玩弄",
       "reading": "がんろう",
       "meaning": "sự chế nhạo"
+    },
+    {
+      "word": "玩弄物",
+      "reading": "がんろうぶつ",
+      "meaning": "đồ chơi"
     },
     {
       "word": "賞玩",
@@ -115,26 +135,6 @@
       "word": "玩味",
       "reading": "がんみ",
       "meaning": "sự thưởng thức"
-    },
-    {
-      "word": "玩具",
-      "reading": "おもちゃ",
-      "meaning": "đồ chơi"
-    },
-    {
-      "word": "玩弄物",
-      "reading": "がんろうぶつ",
-      "meaning": "đồ chơi"
-    },
-    {
-      "word": "愛玩物",
-      "reading": "あいがんぶつ",
-      "meaning": "vật được đánh giá cao"
-    },
-    {
-      "word": "愛玩犬",
-      "reading": "あいがんけん",
-      "meaning": "chó cưng"
     }
   ]
 }

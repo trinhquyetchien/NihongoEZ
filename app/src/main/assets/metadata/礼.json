@@ -88,44 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "礼",
-      "reading": "れい",
-      "meaning": "sự biểu lộ lòng biết ơn"
-    },
-    {
-      "word": "御礼",
-      "reading": "おれい",
-      "meaning": "cám ơn"
-    },
-    {
-      "word": "謝礼",
-      "reading": "しゃれい",
-      "meaning": "lễ vật"
-    },
-    {
-      "word": "婚礼",
-      "reading": "こんれい",
-      "meaning": "hỷ sự"
-    },
-    {
       "word": "お礼",
       "reading": "おれい",
       "meaning": "cám ơn"
     },
     {
-      "word": "礼砲",
-      "reading": "れいほう",
-      "meaning": "chào"
+      "word": "礼",
+      "reading": "れい",
+      "meaning": "sự biểu lộ lòng biết ơn"
     },
     {
-      "word": "立礼",
-      "reading": "りつれい",
-      "meaning": "cúi chào"
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "sự không có lễ độ"
     },
     {
-      "word": "礼部",
-      "reading": "れいぶ",
-      "meaning": "bộ lễ"
+      "word": "年礼",
+      "reading": "ねんれい",
+      "meaning": "lời chào năm mới"
     },
     {
       "word": "手礼",
@@ -133,9 +113,29 @@
       "meaning": "chuyển động tay biểu thị lòng biết ơn"
     },
     {
+      "word": "三礼",
+      "reading": "さんらい",
+      "meaning": "ba lần thờ phường"
+    },
+    {
+      "word": "礼部",
+      "reading": "れいぶ",
+      "meaning": "bộ lễ"
+    },
+    {
       "word": "軍礼",
       "reading": "ぐんれい",
       "meaning": "những danh dự quân đội"
+    },
+    {
+      "word": "座礼",
+      "reading": "ざれい",
+      "meaning": "cúi đầu trong khi ngồi"
+    },
+    {
+      "word": "昼礼",
+      "reading": "ちゅうれい",
+      "meaning": "buổi họp chiều"
     }
   ]
 }

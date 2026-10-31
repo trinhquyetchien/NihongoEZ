@@ -87,49 +87,49 @@
   ],
   "vocabulary": [
     {
+      "word": "立派",
+      "reading": "りっぱ",
+      "meaning": "sự tuyệt vời"
+    },
+    {
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "lòe loẹt"
+    },
+    {
       "word": "派",
       "reading": "は",
       "meaning": "nhóm"
     },
     {
-      "word": "門派",
-      "reading": "もんぱ",
-      "meaning": "môn phái"
-    },
-    {
-      "word": "宗派",
-      "reading": "しゅうは",
+      "word": "派遣",
+      "reading": "はけん",
       "meaning": "phái"
     },
     {
-      "word": "左派",
-      "reading": "さは",
-      "meaning": "cánh tả"
+      "word": "特派",
+      "reading": "とくは",
+      "meaning": "đặc phái"
     },
     {
-      "word": "ワッハーブ派",
-      "reading": "ワッハーブは",
-      "meaning": "wahhabism"
+      "word": "無派",
+      "reading": "むは",
+      "meaning": "không thuộc về đảng phái nào"
     },
     {
-      "word": "サドカイ派",
-      "reading": "サドカイは",
-      "meaning": "người sa-đu-sê"
+      "word": "派米",
+      "reading": "はべい",
+      "meaning": "sự đặc phái đến mỹ"
     },
     {
-      "word": "教派",
-      "reading": "きょうは",
-      "meaning": "giáo phái"
+      "word": "語派",
+      "reading": "ごは",
+      "meaning": "trường phái ngôn ngữ"
     },
     {
-      "word": "硬派",
-      "reading": "こうは",
-      "meaning": "những phần tử cứng"
-    },
-    {
-      "word": "スンナ派",
-      "reading": "スンナは",
-      "meaning": "hồi giáo sunni"
+      "word": "毛派",
+      "reading": "もうは",
+      "meaning": "maoist group"
     },
     {
       "word": "自派",

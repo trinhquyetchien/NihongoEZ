@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "標",
-      "reading": "しるし",
-      "meaning": "đánh dấu"
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "bia"
     },
     {
-      "word": "指標",
-      "reading": "しひょう",
-      "meaning": "chỉ tiêu"
+      "word": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "hạn mức"
     },
     {
-      "word": "路標",
-      "reading": "ろひょう",
-      "meaning": "biển chỉ đường"
+      "word": "標識",
+      "reading": "ひょうしき",
+      "meaning": "dấu tích"
+    },
+    {
+      "word": "標本",
+      "reading": "ひょうほん",
+      "meaning": "mẫu vật"
     },
     {
       "word": "座標",
@@ -110,34 +115,29 @@
       "meaning": "tọa độ"
     },
     {
-      "word": "澪標",
-      "reading": "みおつくし",
-      "meaning": "cọc cắm trên sông"
-    },
-    {
-      "word": "標目",
-      "reading": "ひょうもく",
-      "meaning": "tiêu đề"
-    },
-    {
-      "word": "標徴",
-      "reading": "ひょうちょう",
-      "meaning": "đặc trưng"
-    },
-    {
-      "word": "標榜",
-      "reading": "ひょうぼう",
-      "meaning": "biện hộ"
-    },
-    {
       "word": "標語",
       "reading": "ひょうご",
       "meaning": "biểu ngữ"
     },
     {
-      "word": "標定",
-      "reading": "ひょうてい",
-      "meaning": "sự tiêu chuẩn hóa"
+      "word": "標的",
+      "reading": "ひょうてき",
+      "meaning": "bia"
+    },
+    {
+      "word": "商標",
+      "reading": "しょうひょう",
+      "meaning": "nhãn hiệu thương mại"
+    },
+    {
+      "word": "指標",
+      "reading": "しひょう",
+      "meaning": "chỉ tiêu"
+    },
+    {
+      "word": "指標名",
+      "reading": "しひょうめい",
+      "meaning": "tên chỉ mục"
     }
   ]
 }

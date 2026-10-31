@@ -89,19 +89,9 @@
       "meaning": "cãi nhau"
     },
     {
-      "word": "喧嘩腰",
-      "reading": "けんかごし",
-      "meaning": "tham chiến"
-    },
-    {
       "word": "大喧嘩",
       "reading": "おおげんか",
       "meaning": "cuộc cãi vã lớn"
-    },
-    {
-      "word": "口喧嘩",
-      "reading": "くちげんか",
-      "meaning": "cãi nhau"
     },
     {
       "word": "水喧嘩",
@@ -109,14 +99,29 @@
       "meaning": "tranh chấp về việc phân phối nước vào ruộng trong mùa hè"
     },
     {
-      "word": "喧嘩早い",
-      "reading": "けんかばやい",
-      "meaning": "hay câi nhau"
+      "word": "口喧嘩",
+      "reading": "くちげんか",
+      "meaning": "cãi nhau"
     },
     {
-      "word": "喧嘩別れ",
-      "reading": "けんかわかれ",
-      "meaning": "chia ra từng cặp đánh nhau"
+      "word": "喧嘩腰",
+      "reading": "けんかごし",
+      "meaning": "tham chiến"
+    },
+    {
+      "word": "喧嘩します",
+      "reading": "けんかします",
+      "meaning": "cãi nhau"
+    },
+    {
+      "word": "喧嘩をする",
+      "reading": "けんかをする",
+      "meaning": "đánh nhau"
+    },
+    {
+      "word": "喧嘩を買う",
+      "reading": "けんかをかう",
+      "meaning": "gây hấn"
     },
     {
       "word": "仲間喧嘩",
@@ -124,14 +129,9 @@
       "meaning": "xung đột nội bộ"
     },
     {
-      "word": "喧嘩沙汰",
-      "reading": "けんかざた",
-      "meaning": "sự phát triển thành cuộc cãi vã"
-    },
-    {
-      "word": "兄妹喧嘩",
-      "reading": "きょうだいげんか",
-      "meaning": "anh chị em cãi nhau"
+      "word": "喧嘩早い",
+      "reading": "けんかばやい",
+      "meaning": "hay câi nhau"
     }
   ]
 }

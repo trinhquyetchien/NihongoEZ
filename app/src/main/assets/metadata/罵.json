@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "面罵罵倒",
-      "reading": "めんばばとう",
-      "meaning": "sự nhục mạ"
+      "word": "罵る",
+      "reading": "ののしる",
+      "meaning": "chửi"
     },
     {
-      "word": "悪罵",
-      "reading": "あくば",
-      "meaning": "sự nguyền rủa"
+      "word": "罵倒",
+      "reading": "ばとう",
+      "meaning": "nhục mạ"
     },
     {
       "word": "罵声",
@@ -104,24 +104,9 @@
       "meaning": "la ó"
     },
     {
-      "word": "罵る",
-      "reading": "ののしる",
-      "meaning": "chửi"
-    },
-    {
       "word": "罵り",
       "reading": "ののしり",
       "meaning": "sự lạm dụng"
-    },
-    {
-      "word": "漫罵",
-      "reading": "まんば",
-      "meaning": "lời chửi rủa"
-    },
-    {
-      "word": "面罵",
-      "reading": "めんば",
-      "meaning": "nhục mạ ai ngay trước mặt"
     },
     {
       "word": "罵詈",
@@ -129,14 +114,29 @@
       "meaning": "nhục mạ"
     },
     {
+      "word": "罵言",
+      "reading": "ばげん",
+      "meaning": "từ ngữ để nhục mạ"
+    },
+    {
+      "word": "悪罵",
+      "reading": "あくば",
+      "meaning": "sự nguyền rủa"
+    },
+    {
+      "word": "面罵",
+      "reading": "めんば",
+      "meaning": "nhục mạ ai ngay trước mặt"
+    },
+    {
       "word": "痛罵",
       "reading": "つうば",
       "meaning": "khiển trách"
     },
     {
-      "word": "罵言",
-      "reading": "ばげん",
-      "meaning": "từ ngữ để nhục mạ"
+      "word": "漫罵",
+      "reading": "まんば",
+      "meaning": "lời chửi rủa"
     }
   ]
 }

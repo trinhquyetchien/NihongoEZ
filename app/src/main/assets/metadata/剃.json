@@ -88,34 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "剃",
-      "reading": "そ",
-      "meaning": "cạo râu"
-    },
-    {
       "word": "剃る",
       "reading": "そる",
       "meaning": "cạo"
-    },
-    {
-      "word": "剃毛",
-      "reading": "ていもう",
-      "meaning": "shaving"
-    },
-    {
-      "word": "剃髪",
-      "reading": "ていはつ",
-      "meaning": "lễ cạo đầu"
-    },
-    {
-      "word": "剃刀",
-      "reading": "かみそり",
-      "meaning": "dao cạo"
-    },
-    {
-      "word": "剃頭",
-      "reading": "ていとう",
-      "meaning": "trọc"
     },
     {
       "word": "中剃り",
@@ -123,19 +98,44 @@
       "meaning": "cạo đỉnh đầu"
     },
     {
-      "word": "剃刀砥",
-      "reading": "かみそりど",
-      "meaning": "đá mài"
-    },
-    {
       "word": "下剃り",
       "reading": "したぞり",
       "meaning": "người học nghề cắt tóc"
     },
     {
-      "word": "逆剃り",
-      "reading": "さかぞり",
-      "meaning": "cạo hướng lên"
+      "word": "剃り跡",
+      "reading": "そりあと",
+      "meaning": "dấu vết còn lại trên da sau khi cạo"
+    },
+    {
+      "word": "髭剃り",
+      "reading": "ひげそり",
+      "meaning": "cạo râu"
+    },
+    {
+      "word": "剃刀",
+      "reading": "かみそり",
+      "meaning": "dao cạo"
+    },
+    {
+      "word": "剃刀負",
+      "reading": "かみそりまけ",
+      "meaning": "chứng phát ban sau khi cạo râu"
+    },
+    {
+      "word": "剃刀触",
+      "reading": "かみそりかぶれ",
+      "meaning": "chứng phát ban sau khi cạo râu"
+    },
+    {
+      "word": "剃",
+      "reading": "そ",
+      "meaning": "cạo râu"
+    },
+    {
+      "word": "剃毛",
+      "reading": "ていもう",
+      "meaning": "shaving"
     }
   ]
 }

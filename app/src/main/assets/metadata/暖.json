@@ -110,9 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "暖",
-      "reading": "だん",
-      "meaning": "ấm áp"
+      "word": "暖かい",
+      "reading": "あたたかい",
+      "meaning": "đầm ấm"
+    },
+    {
+      "word": "暖房",
+      "reading": "だんぼう",
+      "meaning": "hệ thống sưởi"
     },
     {
       "word": "温暖",
@@ -120,29 +125,24 @@
       "meaning": "ấm"
     },
     {
-      "word": "暖気",
-      "reading": "だんき",
-      "meaning": "sự ấm áp"
+      "word": "温暖化",
+      "reading": "おんだんか",
+      "meaning": "trái đất nóng lên"
     },
     {
-      "word": "春暖",
-      "reading": "しゅんだん",
-      "meaning": "tiết trời mùa xuân ấm áp"
+      "word": "暖房機",
+      "reading": "だんぼうき",
+      "meaning": "máy làm ấm"
     },
     {
-      "word": "暖機",
-      "reading": "だんき",
-      "meaning": "hâm nóng"
+      "word": "暖房器",
+      "reading": "だんぼうき",
+      "meaning": "bếp lò"
     },
     {
-      "word": "暖簾",
-      "reading": "のれん",
-      "meaning": "tấm rèm che trước cửa"
-    },
-    {
-      "word": "暖色",
-      "reading": "だんしょく",
-      "meaning": "màu sắc ấm áp"
+      "word": "床暖房",
+      "reading": "ゆかだんぼう",
+      "meaning": "sưởi nóng sàn nhà"
     },
     {
       "word": "暖か",
@@ -150,14 +150,14 @@
       "meaning": "ấm"
     },
     {
-      "word": "暖国",
-      "reading": "だんごく",
-      "meaning": "đất nước có khí hậu ấm áp"
+      "word": "暖かさ",
+      "reading": "あたたかさ",
+      "meaning": "sức nóng"
     },
     {
-      "word": "暖帯",
-      "reading": "だんたい",
-      "meaning": "khu vực nằm giữ vùng ôn đới và vùng á nhiệt đới"
+      "word": "暖",
+      "reading": "だん",
+      "meaning": "ấm áp"
     }
   ]
 }

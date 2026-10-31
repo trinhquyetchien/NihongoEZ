@@ -94,26 +94,6 @@
   ],
   "vocabulary": [
     {
-      "word": "難",
-      "reading": "なん",
-      "meaning": "tai nạn"
-    },
-    {
-      "word": "難中の難",
-      "reading": "なんちゅうのなん",
-      "meaning": "điều khó nhất"
-    },
-    {
-      "word": "非難する",
-      "reading": "ひなんする",
-      "meaning": "bắt bẻ"
-    },
-    {
-      "word": "無難",
-      "reading": "ぶなん",
-      "meaning": "an toàn"
-    },
-    {
       "word": "困難",
       "reading": "こんなん",
       "meaning": "gai góc"
@@ -124,24 +104,44 @@
       "meaning": "khốn khổ"
     },
     {
-      "word": "小難",
-      "reading": "しょうなん",
-      "meaning": "tai nạn nhỏ"
+      "word": "難",
+      "reading": "なん",
+      "meaning": "tai nạn"
     },
     {
-      "word": "大難",
-      "reading": "だいなん",
-      "meaning": "đại nạn"
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "an toàn"
     },
     {
-      "word": "難場",
-      "reading": "なんば",
-      "meaning": "nơi khó vượt qua"
+      "word": "難易",
+      "reading": "なんい",
+      "meaning": "sự khó khăn"
     },
     {
-      "word": "患難",
-      "reading": "かんなん",
-      "meaning": "sự lo lắng"
+      "word": "難度",
+      "reading": "なんど",
+      "meaning": "mức độ khó khăn"
+    },
+    {
+      "word": "百難",
+      "reading": "ひゃくなん",
+      "meaning": "tất cả các chướng ngại"
+    },
+    {
+      "word": "難敵",
+      "reading": "なんてき",
+      "meaning": "kẻ thù ghê gớm"
+    },
+    {
+      "word": "難し",
+      "reading": "がたし",
+      "meaning": "khó"
+    },
+    {
+      "word": "病難",
+      "reading": "びょうなん",
+      "meaning": "sự chịu đựng bệnh tật"
     }
   ]
 }

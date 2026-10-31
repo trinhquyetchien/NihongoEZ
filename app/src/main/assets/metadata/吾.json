@@ -99,34 +99,9 @@
       "meaning": "tôi"
     },
     {
-      "word": "吾兄",
-      "reading": "あせ",
-      "meaning": "đại từ nhân xưng ngôi thứ hai"
-    },
-    {
       "word": "吾人",
       "reading": "ごじん",
       "meaning": "chúng ta"
-    },
-    {
-      "word": "吾妹",
-      "reading": "わぎも",
-      "meaning": "vợ tôi"
-    },
-    {
-      "word": "吾子",
-      "reading": "あこ",
-      "meaning": "đứa con của tôi"
-    },
-    {
-      "word": "吾が",
-      "reading": "わが",
-      "meaning": "tôi"
-    },
-    {
-      "word": "故吾",
-      "reading": "こご",
-      "meaning": "bản thân ai đó trong quá khứ"
     },
     {
       "word": "今吾",
@@ -137,6 +112,31 @@
       "word": "吾等",
       "reading": "われら",
       "meaning": "chúng tôi"
+    },
+    {
+      "word": "吾兄",
+      "reading": "あせ",
+      "meaning": "đại từ nhân xưng ngôi thứ hai"
+    },
+    {
+      "word": "故吾",
+      "reading": "こご",
+      "meaning": "bản thân ai đó trong quá khứ"
+    },
+    {
+      "word": "吾妻鏡",
+      "reading": "あずまかがみ",
+      "meaning": "biên niên sử phương đông"
+    },
+    {
+      "word": "吾輩",
+      "reading": "わがはい",
+      "meaning": "đôi ta"
+    },
+    {
+      "word": "吾が",
+      "reading": "わが",
+      "meaning": "tôi"
     }
   ]
 }

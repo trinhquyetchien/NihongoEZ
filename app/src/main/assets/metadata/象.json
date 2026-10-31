@@ -90,39 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "象",
-      "reading": "ぞう",
-      "meaning": "con voi"
-    },
-    {
-      "word": "有象無象",
-      "reading": "うぞうむぞう",
-      "meaning": "quần chúng"
-    },
-    {
-      "word": "気象現象",
-      "reading": "きしょうげんしょう",
-      "meaning": "hiện tượng khí tượng"
-    },
-    {
-      "word": "象徴",
-      "reading": "しょうちょう",
-      "meaning": "biểu tượng"
-    },
-    {
-      "word": "事象",
-      "reading": "じしょう",
-      "meaning": "hiện tượng"
-    },
-    {
-      "word": "象牙",
-      "reading": "ぞうげ",
-      "meaning": "ngà"
-    },
-    {
-      "word": "現象",
-      "reading": "げんしょう",
-      "meaning": "hiện tượng"
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "đối tượng"
     },
     {
       "word": "印象",
@@ -130,14 +100,44 @@
       "meaning": "ấn tượng"
     },
     {
-      "word": "四象",
-      "reading": "ししょう",
-      "meaning": "bốn hình ảnh"
+      "word": "現象",
+      "reading": "げんしょう",
+      "meaning": "hiện tượng"
     },
     {
-      "word": "アジア象",
-      "reading": "アジアぞう",
-      "meaning": "voi châu á"
+      "word": "象",
+      "reading": "ぞう",
+      "meaning": "con voi"
+    },
+    {
+      "word": "抽象",
+      "reading": "ちゅうしょう",
+      "meaning": "sự trừu tượng"
+    },
+    {
+      "word": "象徴",
+      "reading": "しょうちょう",
+      "meaning": "biểu tượng"
+    },
+    {
+      "word": "気象",
+      "reading": "きしょう",
+      "meaning": "khí trời"
+    },
+    {
+      "word": "対象化",
+      "reading": "たいしょうか",
+      "meaning": "sự đối tượng hóa"
+    },
+    {
+      "word": "象徴的",
+      "reading": "しょうちょうてき",
+      "meaning": "tượng trưng"
+    },
+    {
+      "word": "小象",
+      "reading": "こぞう",
+      "meaning": "con voi con"
     }
   ]
 }

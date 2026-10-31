@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "nhạc cụ"
+    },
+    {
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "bát đĩa"
+    },
+    {
       "word": "器",
       "reading": "うつわ",
       "meaning": "chậu"
     },
     {
-      "word": "器具洗浄器",
-      "reading": "きぐせんじょうき",
-      "meaning": "rửa dụng cụ/ máy rửa siêu âm"
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "bộ máy"
     },
     {
-      "word": "計器用変圧器",
-      "reading": "けいきようへんあつき",
-      "meaning": "biến áp cho thiết bị đo lường"
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "thước đo"
     },
     {
-      "word": "水準器/水平器",
-      "reading": "すいじゅんき/すいへいき",
-      "meaning": "đồng hồ thủy chuẩn / thước thủy chuẩn"
+      "word": "金器",
+      "reading": "きんき",
+      "meaning": "bát đĩa bằng vàng"
     },
     {
-      "word": "計器用変成器",
-      "reading": "けいきようへんせいき",
-      "meaning": "bộ biến đổi cho thiết bị đo lường"
+      "word": "愛器",
+      "reading": "あいき",
+      "meaning": "các thiết bị mà chúng ta thích sử dụng và trân trọng"
     },
     {
-      "word": "ディスプレイ切替器/分配器",
-      "reading": "ディスプレイきりかえきぶんぱいきディスプレーきりかえき/ぶんぱいき",
-      "meaning": "chuyển đổi/bộ phân phối màn hình"
+      "word": "軍器",
+      "reading": "ぐんき",
+      "meaning": "vũ khí"
     },
     {
-      "word": "噴霧器と気化器",
-      "reading": "ふんむきときかき",
-      "meaning": "máy phun sương và máy hóa hơi"
+      "word": "量器",
+      "reading": "りょうき",
+      "meaning": "dụng cụ đo cho thể tích"
     },
     {
-      "word": "切替器/分配器/コンバーター",
-      "reading": "きりかえき/ぶんぱいき/コンバーター",
-      "meaning": "chuyển đổi / bộ phân phối / bộ chuyển đổi"
-    },
-    {
-      "word": "抽出器/冷却器/エバポレーター",
-      "reading": "ちゅうしゅつうつわ/れいきゃくうつわ/エバポレーター",
-      "meaning": "lõi lọc cartridge"
-    },
-    {
-      "word": "臓器",
-      "reading": "ぞうき",
-      "meaning": "nội tạng"
+      "word": "不器",
+      "reading": "ふき",
+      "meaning": "sự vụng về"
     }
   ]
 }

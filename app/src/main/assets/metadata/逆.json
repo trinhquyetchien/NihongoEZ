@@ -97,34 +97,9 @@
       "meaning": "ngược"
     },
     {
-      "word": "真逆",
-      "reading": "まぎゃく",
-      "meaning": "không ngờ"
-    },
-    {
       "word": "逆転",
       "reading": "ぎゃくてん",
       "meaning": "sự xoay ngược"
-    },
-    {
-      "word": "逆側",
-      "reading": "ぎゃくがわ",
-      "meaning": "đối diện"
-    },
-    {
-      "word": "逆コンパイラ",
-      "reading": "ぎゃくコンパイラ",
-      "meaning": "trình biên dịch ngược"
-    },
-    {
-      "word": "逆説",
-      "reading": "ぎゃくせつ",
-      "meaning": "ý kiến ngược đời"
-    },
-    {
-      "word": "逆行",
-      "reading": "ぎゃっこう",
-      "meaning": "chuyển động thuận và nghịch"
     },
     {
       "word": "逆に",
@@ -132,14 +107,39 @@
       "meaning": "ngược lại"
     },
     {
-      "word": "逆上",
-      "reading": "ぎゃくじょう",
-      "meaning": "cơn giận"
+      "word": "逆側",
+      "reading": "ぎゃくがわ",
+      "meaning": "đối diện"
     },
     {
-      "word": "逆調",
-      "reading": "ぎゃくちょう",
-      "meaning": "điều kiện bất lợi"
+      "word": "真逆",
+      "reading": "まぎゃく",
+      "meaning": "không ngờ"
+    },
+    {
+      "word": "逆毛",
+      "reading": "さかげ",
+      "meaning": "tóc dựng đứng"
+    },
+    {
+      "word": "逆玉",
+      "reading": "ぎゃくたま",
+      "meaning": "người đàn ông lấy vợ giàu"
+    },
+    {
+      "word": "逆運",
+      "reading": "ぎゃくうん",
+      "meaning": "sự không may"
+    },
+    {
+      "word": "逆相",
+      "reading": "ぎゃくそう",
+      "meaning": "sự đối pha"
+    },
+    {
+      "word": "逆比",
+      "reading": "ぎゃくひ",
+      "meaning": "tỷ lệ nghịch"
     }
   ]
 }

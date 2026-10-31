@@ -53,6 +53,16 @@
   ],
   "vocabulary": [
     {
+      "word": "錯綜",
+      "reading": "さくそう",
+      "meaning": "sự phức tạp"
+    },
+    {
+      "word": "綜合",
+      "reading": "そうごう",
+      "meaning": "kết hợp chặt chẽ"
+    },
+    {
       "word": "綜",
       "reading": "あぜ",
       "meaning": "sọt sợi"
@@ -66,16 +76,6 @@
       "word": "綜覧",
       "reading": "そうらん",
       "meaning": "thư mục toàn diện"
-    },
-    {
-      "word": "錯綜",
-      "reading": "さくそう",
-      "meaning": "sự phức tạp"
-    },
-    {
-      "word": "綜合",
-      "reading": "そうごう",
-      "meaning": "kết hợp chặt chẽ"
     },
     {
       "word": "綜芸",

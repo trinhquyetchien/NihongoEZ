@@ -87,39 +87,14 @@
   ],
   "vocabulary": [
     {
+      "word": "副詞",
+      "reading": "ふくし",
+      "meaning": "phó từ"
+    },
+    {
       "word": "副",
       "reading": "ふく",
       "meaning": "phụ"
-    },
-    {
-      "word": "副子",
-      "reading": "ふくし",
-      "meaning": "thanh nẹp"
-    },
-    {
-      "word": "副長",
-      "reading": "ふくちょう",
-      "meaning": "vai trò hỗ trợ cho người đứng đầu"
-    },
-    {
-      "word": "関副",
-      "reading": "かんふく",
-      "meaning": "trạng từ quan hệ"
-    },
-    {
-      "word": "副レコードキー",
-      "reading": "ふくレコードキー",
-      "meaning": "phím ghi thay đổi"
-    },
-    {
-      "word": "副プログラム",
-      "reading": "ふくプログラム",
-      "meaning": "chương trình con"
-    },
-    {
-      "word": "副腎",
-      "reading": "ふくじん",
-      "meaning": "tuyến thượng thận"
     },
     {
       "word": "副う",
@@ -127,14 +102,39 @@
       "meaning": "đáp ứng"
     },
     {
-      "word": "副虹",
-      "reading": "ふくにじ",
-      "meaning": "cầu vồng thứ nhì"
+      "word": "副子",
+      "reading": "ふくし",
+      "meaning": "thanh nẹp"
     },
     {
-      "word": "副食",
-      "reading": "ふくしょく",
-      "meaning": "thức ăn"
+      "word": "副生",
+      "reading": "ふくせい",
+      "meaning": "sản phẩm phụ"
+    },
+    {
+      "word": "副層",
+      "reading": "ふくそう",
+      "meaning": "tầng con"
+    },
+    {
+      "word": "副要求",
+      "reading": "ふくようきゅう",
+      "meaning": "yêu cầu phụ"
+    },
+    {
+      "word": "副首相",
+      "reading": "ふくしゅしょう",
+      "meaning": "phó thủ tướng"
+    },
+    {
+      "word": "副収入",
+      "reading": "ふくしゅうにゅう",
+      "meaning": "thu nhập thêm"
+    },
+    {
+      "word": "副鏡",
+      "reading": "ふくきょう",
+      "meaning": "gương phụ"
     }
   ]
 }

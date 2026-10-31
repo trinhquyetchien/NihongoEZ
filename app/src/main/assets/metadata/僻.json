@@ -52,14 +52,19 @@
   ],
   "vocabulary": [
     {
+      "word": "僻地",
+      "reading": "へきち",
+      "meaning": "vùng sâu"
+    },
+    {
+      "word": "僻み",
+      "reading": "ひがみ",
+      "meaning": "sự trái tính"
+    },
+    {
       "word": "僻",
       "reading": "ひが",
       "meaning": "tội lỗi"
-    },
-    {
-      "word": "僻心",
-      "reading": "ひがみごころ",
-      "meaning": "làm cong tâm trí"
     },
     {
       "word": "僻在",
@@ -67,39 +72,34 @@
       "meaning": "bị lệch sang một bên"
     },
     {
-      "word": "僻村",
-      "reading": "へきそん",
-      "meaning": "làng xa xôi"
+      "word": "僻邑",
+      "reading": "へきゆう",
+      "meaning": "làng hẻo lánh"
     },
     {
-      "word": "僻論",
-      "reading": "へきろん",
-      "meaning": "có định kiến quan điểm"
+      "word": "僻境",
+      "reading": "へききょう",
+      "meaning": "những vùng sâu"
     },
     {
-      "word": "僻遠",
-      "reading": "へきえん",
-      "meaning": "từ xa"
+      "word": "僻言",
+      "reading": "へきげん",
+      "meaning": "vô lý nói"
     },
     {
-      "word": "僻見",
-      "reading": "へきけん",
-      "meaning": "có định kiến"
+      "word": "僻書",
+      "reading": "へきしょ",
+      "meaning": "thiên lệch viết"
     },
     {
-      "word": "僻陬",
-      "reading": "へきすう",
-      "meaning": "chỗ từ xa"
+      "word": "僻隅",
+      "reading": "へきぐう",
+      "meaning": "xó xỉnh"
     },
     {
-      "word": "僻事",
-      "reading": "ひがごと",
-      "meaning": "đồi bại hành động"
-    },
-    {
-      "word": "僻説",
-      "reading": "へきせつ",
-      "meaning": "có định kiến quan điểm"
+      "word": "僻根性",
+      "reading": "ひがみこんじょう",
+      "meaning": "tính định kiến"
     }
   ]
 }

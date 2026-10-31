@@ -114,19 +114,9 @@
   ],
   "vocabulary": [
     {
-      "word": "通",
-      "reading": "つう",
-      "meaning": "bức"
-    },
-    {
-      "word": "通常",
-      "reading": "つうじょう",
-      "meaning": "bình thường"
-    },
-    {
-      "word": "流通",
-      "reading": "りゅうつう",
-      "meaning": "sự lưu thông"
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "giao thông"
     },
     {
       "word": "共通",
@@ -139,29 +129,39 @@
       "meaning": "khai thông"
     },
     {
-      "word": "交通",
-      "reading": "こうつう",
-      "meaning": "giao thông"
+      "word": "通常",
+      "reading": "つうじょう",
+      "meaning": "bình thường"
     },
     {
-      "word": "通い",
-      "reading": "かよい",
-      "meaning": "đi đi về về"
+      "word": "通",
+      "reading": "つう",
+      "meaning": "bức"
     },
     {
-      "word": "通し",
-      "reading": "とおし",
-      "meaning": "suốt"
+      "word": "流通",
+      "reading": "りゅうつう",
+      "meaning": "sự lưu thông"
     },
     {
-      "word": "通じ",
-      "reading": "つうじ",
-      "meaning": "sự thông qua"
+      "word": "二通",
+      "reading": "につう",
+      "meaning": "2 bức"
+    },
+    {
+      "word": "通名",
+      "reading": "とおりな",
+      "meaning": "tên chung"
     },
     {
       "word": "通販",
       "reading": "つうはん",
       "meaning": "mua bán qua mạng"
+    },
+    {
+      "word": "通紙",
+      "reading": "つうし",
+      "meaning": "nạp giấy qua thiết bị"
     }
   ]
 }

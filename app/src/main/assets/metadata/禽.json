@@ -84,9 +84,34 @@
   ],
   "vocabulary": [
     {
+      "word": "猛禽",
+      "reading": "もうきん",
+      "meaning": "chim săn mồi"
+    },
+    {
+      "word": "猛禽類",
+      "reading": "もうきんるい",
+      "meaning": "loài chim ăn thịt"
+    },
+    {
+      "word": "家禽",
+      "reading": "かきん",
+      "meaning": "gia cầm"
+    },
+    {
+      "word": "家禽類",
+      "reading": "かきんるい",
+      "meaning": "gia cầm"
+    },
+    {
       "word": "禽獣",
       "reading": "きんじゅう",
       "meaning": "chim thú"
+    },
+    {
+      "word": "水禽",
+      "reading": "すいきん",
+      "meaning": "chim ở nước"
     },
     {
       "word": "禽鳥",
@@ -104,34 +129,9 @@
       "meaning": "các loài chim sống trên mặt đất và có khả năng chạy nhanh"
     },
     {
-      "word": "家禽",
-      "reading": "かきん",
-      "meaning": "gia cầm"
-    },
-    {
-      "word": "猛禽",
-      "reading": "もうきん",
-      "meaning": "chim săn mồi"
-    },
-    {
       "word": "野禽",
       "reading": "やきん",
       "meaning": "dã cầm"
-    },
-    {
-      "word": "水禽",
-      "reading": "すいきん",
-      "meaning": "chim ở nước"
-    },
-    {
-      "word": "鳴禽",
-      "reading": "めいきん",
-      "meaning": "chim biết hót"
-    },
-    {
-      "word": "禽竜",
-      "reading": "きんりゅう",
-      "meaning": "iguanadon"
     }
   ]
 }

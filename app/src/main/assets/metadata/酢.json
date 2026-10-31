@@ -94,19 +94,14 @@
       "meaning": "dấm"
     },
     {
-      "word": "バルサミコ酢",
-      "reading": "バルサミコす",
-      "meaning": "giấm balsamic"
+      "word": "米酢",
+      "reading": "よねず",
+      "meaning": "giấm gạo"
     },
     {
-      "word": "甘酢",
-      "reading": "あまず",
-      "meaning": "dấm ngọt"
-    },
-    {
-      "word": "ポン酢",
-      "reading": "ポンず",
-      "meaning": "nước ép từ một quả cam chua gắt"
+      "word": "白酢",
+      "reading": "しろず",
+      "meaning": "dấm trắng"
     },
     {
       "word": "黒酢",
@@ -114,29 +109,34 @@
       "meaning": "giấm đen"
     },
     {
+      "word": "酢料理",
+      "reading": "すりょうり",
+      "meaning": "thức ăn nấu rượu"
+    },
+    {
+      "word": "赤酢",
+      "reading": "あかず",
+      "meaning": "giấm đỏ"
+    },
+    {
+      "word": "青酢",
+      "reading": "あおず",
+      "meaning": "gia vị làm bằng cách luộc rau xanh luộc và trộn với giấm"
+    },
+    {
       "word": "酢飯",
       "reading": "すめし",
       "meaning": "cơm tẩm giấm"
     },
     {
-      "word": "米酢",
-      "reading": "よねず",
-      "meaning": "giấm gạo"
+      "word": "香母酢",
+      "reading": "かぼす",
+      "meaning": "quả quất"
     },
     {
-      "word": "酢豚",
-      "reading": "すぶた",
-      "meaning": "thịt lợn xào chua ngọt"
-    },
-    {
-      "word": "酢酸",
-      "reading": "さくさん",
-      "meaning": "a-xít axetic"
-    },
-    {
-      "word": "酢蛸",
-      "reading": "すだこ",
-      "meaning": "món bạch tuộc luộc ngâm dấm"
+      "word": "加減酢",
+      "reading": "かげんず",
+      "meaning": "giấm đã pha"
     }
   ]
 }

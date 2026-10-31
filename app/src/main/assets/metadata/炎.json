@@ -94,34 +94,19 @@
       "meaning": "sự đốt cháy"
     },
     {
-      "word": "炎炎",
-      "reading": "えんえん",
-      "meaning": "sự cháy bùng"
+      "word": "内炎",
+      "reading": "ないえん",
+      "meaning": "ngọn lửa bên trong"
     },
     {
-      "word": "すいたい尖炎",
-      "reading": "錐体尖炎",
-      "meaning": "viêm xương đá"
+      "word": "炎色",
+      "reading": "えんしょく",
+      "meaning": "màu đỏ rực"
     },
     {
-      "word": "鼻炎",
-      "reading": "びえん",
-      "meaning": "viêm mũi"
-    },
-    {
-      "word": "消炎",
-      "reading": "しょうえん",
-      "meaning": "dập tắt lửa"
-    },
-    {
-      "word": "炎暑",
-      "reading": "えんしょ",
-      "meaning": "cái nóng cháy da"
-    },
-    {
-      "word": "炎光",
-      "reading": "えんこう",
-      "meaning": "cháy"
+      "word": "風炎",
+      "reading": "ふうえん",
+      "meaning": "gió nóng khô thổi xuống từ ngọn núi"
     },
     {
       "word": "口炎",
@@ -129,14 +114,29 @@
       "meaning": "nhiệt mồm"
     },
     {
-      "word": "余炎",
-      "reading": "よえん",
-      "meaning": "tàn lửa"
+      "word": "炎夏",
+      "reading": "えんか",
+      "meaning": "mùa hè cháy bỏng"
     },
     {
-      "word": "膵炎",
-      "reading": "すいえん",
-      "meaning": "viêm tụy"
+      "word": "炎光",
+      "reading": "えんこう",
+      "meaning": "cháy"
+    },
+    {
+      "word": "光炎",
+      "reading": "こうえん",
+      "meaning": "cháy"
+    },
+    {
+      "word": "耳炎",
+      "reading": "じえん",
+      "meaning": "viêm tai"
+    },
+    {
+      "word": "骨炎",
+      "reading": "こつえん",
+      "meaning": "osteitis"
     }
   ]
 }

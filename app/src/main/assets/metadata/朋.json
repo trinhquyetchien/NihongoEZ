@@ -85,11 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "同朋",
-      "reading": "どうぼう",
-      "meaning": "những bạn"
-    },
-    {
       "word": "友朋",
       "reading": "ゆうほう",
       "meaning": "người bạn"
@@ -100,14 +95,19 @@
       "meaning": "người bạn"
     },
     {
-      "word": "朋党",
-      "reading": "ほうとう",
-      "meaning": "nhóm người cùng chung quyền lợi"
+      "word": "同朋",
+      "reading": "どうぼう",
+      "meaning": "những bạn"
     },
     {
       "word": "朋輩",
       "reading": "ほうばい",
       "meaning": "đồng chí"
+    },
+    {
+      "word": "朋党",
+      "reading": "ほうとう",
+      "meaning": "nhóm người cùng chung quyền lợi"
     },
     {
       "word": "知己朋友",

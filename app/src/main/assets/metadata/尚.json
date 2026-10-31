@@ -89,34 +89,14 @@
   ],
   "vocabulary": [
     {
+      "word": "高尚",
+      "reading": "こうしょう",
+      "meaning": "lịch sự"
+    },
+    {
       "word": "尚",
       "reading": "なお",
       "meaning": "chưa"
-    },
-    {
-      "word": "尚尚",
-      "reading": "なおなお",
-      "meaning": "vẫn hơn thế nữa"
-    },
-    {
-      "word": "尚氏",
-      "reading": "しょうし",
-      "meaning": "hoàng tộc vương quốc ryukyu"
-    },
-    {
-      "word": "好尚",
-      "reading": "こうしょう",
-      "meaning": "nếm mùi"
-    },
-    {
-      "word": "尚更",
-      "reading": "なおさら",
-      "meaning": "hơn nữa"
-    },
-    {
-      "word": "尚武",
-      "reading": "しょうぶ",
-      "meaning": "chủ nghĩa quân phiệt"
     },
     {
       "word": "今尚",
@@ -124,9 +104,14 @@
       "meaning": "làm dịu"
     },
     {
-      "word": "尚古",
-      "reading": "しょうこ",
-      "meaning": "tôn trọng những ngày thời xưa"
+      "word": "尚の事",
+      "reading": "なおのこと",
+      "meaning": "hơn thế nữa"
+    },
+    {
+      "word": "尚氏",
+      "reading": "しょうし",
+      "meaning": "hoàng tộc vương quốc ryukyu"
     },
     {
       "word": "尚々",
@@ -134,9 +119,24 @@
       "meaning": "hơn thế nữa"
     },
     {
+      "word": "尚書き",
+      "reading": "なおがき",
+      "meaning": "điều khoản"
+    },
+    {
+      "word": "早尚",
+      "reading": "そうしょう",
+      "meaning": "tính hấp tấp"
+    },
+    {
       "word": "尚又",
       "reading": "なおまた",
       "meaning": "hơn nữa"
+    },
+    {
+      "word": "尚以て",
+      "reading": "なおもって",
+      "meaning": "hơn thế nữa"
     }
   ]
 }

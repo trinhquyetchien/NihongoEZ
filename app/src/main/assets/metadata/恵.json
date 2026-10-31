@@ -91,9 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "恵",
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "trí tuệ"
+    },
+    {
+      "word": "恩恵",
+      "reading": "おんけい",
+      "meaning": "ân huệ"
+    },
+    {
+      "word": "恵まれる",
+      "reading": "めぐまれる",
+      "meaning": "được ban cho"
+    },
+    {
+      "word": "恵み",
       "reading": "めぐみ",
-      "meaning": "sự thông minh"
+      "meaning": "trời ban"
     },
     {
       "word": "恵む",
@@ -101,44 +116,29 @@
       "meaning": "cứu trợ"
     },
     {
-      "word": "天恵",
-      "reading": "てんけい",
-      "meaning": "lộc của trời"
+      "word": "恵",
+      "reading": "めぐみ",
+      "meaning": "sự thông minh"
     },
     {
-      "word": "仁恵",
-      "reading": "じんけい",
-      "meaning": "sự nhã nhặn"
+      "word": "恵雨",
+      "reading": "けいう",
+      "meaning": "cơn mưa được mong đợi"
     },
     {
-      "word": "慈恵",
-      "reading": "じけい",
-      "meaning": "lòng từ bi và tình thương yêu"
+      "word": "後知恵",
+      "reading": "あとぢえ",
+      "meaning": "sự khôn ngoan muộn màng"
     },
     {
-      "word": "恵沢",
-      "reading": "けいたく",
-      "meaning": "ban phúc"
+      "word": "知恵熱",
+      "reading": "ちえねつ",
+      "meaning": "sốt mọc răng"
     },
     {
-      "word": "互恵",
-      "reading": "ごけい",
-      "meaning": "sự tương trợ lẫn nhau giữa hai quốc gia"
-    },
-    {
-      "word": "恵与",
-      "reading": "けいよ",
-      "meaning": "sự biếu"
-    },
-    {
-      "word": "恵方",
-      "reading": "えほう",
-      "meaning": "phương hướng thuận tiện hoặc may mắn"
-    },
-    {
-      "word": "特恵",
-      "reading": "とっけい",
-      "meaning": "ân huệ đặc biệt"
+      "word": "恵比寿",
+      "reading": "えびす",
+      "meaning": "thần tài"
     }
   ]
 }

@@ -85,6 +85,36 @@
   ],
   "vocabulary": [
     {
+      "word": "吠える",
+      "reading": "ほえる",
+      "meaning": "khóc lớn"
+    },
+    {
+      "word": "吠え声",
+      "reading": "ほえごえ",
+      "meaning": "tiếng sủa"
+    },
+    {
+      "word": "遠吠え",
+      "reading": "とおぼえ",
+      "meaning": "hú lên"
+    },
+    {
+      "word": "吠る",
+      "reading": "",
+      "meaning": "sủa"
+    },
+    {
+      "word": "吠瑠璃",
+      "reading": "べいるり",
+      "meaning": "beryl"
+    },
+    {
+      "word": "吠え面",
+      "reading": "ほえづら",
+      "meaning": "khuôn mặt đẫm nước mắt"
+    },
+    {
       "word": "吠猿",
       "reading": "ほえざる",
       "meaning": "khỉ rú"
@@ -103,36 +133,6 @@
       "word": "吠陀",
       "reading": "ヴェーダ",
       "meaning": "kinh vệ-đà"
-    },
-    {
-      "word": "吠る",
-      "reading": "",
-      "meaning": "sủa"
-    },
-    {
-      "word": "吠える",
-      "reading": "ほえる",
-      "meaning": "khóc lớn"
-    },
-    {
-      "word": "吠え面",
-      "reading": "ほえづら",
-      "meaning": "khuôn mặt đẫm nước mắt"
-    },
-    {
-      "word": "吠瑠璃",
-      "reading": "べいるり",
-      "meaning": "beryl"
-    },
-    {
-      "word": "吠え声",
-      "reading": "ほえごえ",
-      "meaning": "tiếng sủa"
-    },
-    {
-      "word": "マント吠猿",
-      "reading": "マントほえざる",
-      "meaning": "khỉ hú áo choàng"
     }
   ]
 }

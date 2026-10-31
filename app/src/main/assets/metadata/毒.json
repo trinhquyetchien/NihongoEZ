@@ -92,14 +92,19 @@
       "meaning": "độc hại"
     },
     {
-      "word": "毒毒しい",
-      "reading": "どくどくしい",
-      "meaning": "độc"
+      "word": "消毒",
+      "reading": "しょうどく",
+      "meaning": "sự tiêu độc"
     },
     {
-      "word": "以毒制毒",
-      "reading": "いどくせいどく",
-      "meaning": "lấy độc trị độc"
+      "word": "中毒",
+      "reading": "ちゅうどく",
+      "meaning": "nghiền"
+    },
+    {
+      "word": "三毒",
+      "reading": "さんどく",
+      "meaning": "tam độc"
     },
     {
       "word": "毒男",
@@ -107,14 +112,14 @@
       "meaning": "kẻ thất bại"
     },
     {
-      "word": "フグ毒",
-      "reading": "ふぐどく",
-      "meaning": "độc cá nóc"
+      "word": "毒酒",
+      "reading": "どくしゅ",
+      "meaning": "rượu độc"
     },
     {
-      "word": "毒針",
-      "reading": "どくばり",
-      "meaning": "kim có độc"
+      "word": "毒質",
+      "reading": "どくしつ",
+      "meaning": "chất độc"
     },
     {
       "word": "毒菌",
@@ -122,19 +127,14 @@
       "meaning": "vi khuẩn có độc"
     },
     {
-      "word": "煙毒",
-      "reading": "えんどく",
-      "meaning": "hút thuốc sự ô nhiễm"
-    },
-    {
       "word": "菌毒",
       "reading": "きんどく",
       "meaning": "nấm độc"
     },
     {
-      "word": "弱毒",
-      "reading": "じゃくどく",
-      "meaning": "chất độc yếu"
+      "word": "毒針",
+      "reading": "どくばり",
+      "meaning": "kim có độc"
     }
   ]
 }

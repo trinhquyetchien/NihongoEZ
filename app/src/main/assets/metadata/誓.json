@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "偽誓",
-      "reading": "ぎせい",
-      "meaning": "sự thề ẩu"
-    },
-    {
-      "word": "誓文",
-      "reading": "せいもん",
-      "meaning": "lời thề được viết bằng văn bản"
-    },
-    {
-      "word": "誓言",
-      "reading": "せいげん",
-      "meaning": "sự tuyên thệ"
-    },
-    {
-      "word": "誓願",
-      "reading": "せいがん",
-      "meaning": "lời thề"
-    },
-    {
-      "word": "祈誓",
-      "reading": "きせい",
-      "meaning": "lời nguyền"
-    },
-    {
-      "word": "弘誓",
-      "reading": "ぐぜい",
-      "meaning": "lời thề vĩ đại của phật"
-    },
-    {
-      "word": "誓紙",
-      "reading": "せいし",
-      "meaning": "viết lời thề"
-    },
-    {
-      "word": "誓詞",
-      "reading": "せいし",
-      "meaning": "thề"
-    },
-    {
       "word": "誓う",
       "reading": "ちかう",
       "meaning": "thề"
     },
     {
+      "word": "誓い",
+      "reading": "ちかい",
+      "meaning": "lời thề"
+    },
+    {
+      "word": "誓って",
+      "reading": "ちかって",
+      "meaning": "chắc chắn"
+    },
+    {
       "word": "宣誓",
       "reading": "せんせい",
       "meaning": "lời nguyền"
+    },
+    {
+      "word": "宣誓人",
+      "reading": "せんせいじん",
+      "meaning": "người đọc lời tuyên thệ"
+    },
+    {
+      "word": "宣誓式",
+      "reading": "せんせいしき",
+      "meaning": "sự quản trị một lời thề"
+    },
+    {
+      "word": "宣誓書",
+      "reading": "せんせいしょ",
+      "meaning": "lời thề"
+    },
+    {
+      "word": "誓約",
+      "reading": "せいやく",
+      "meaning": "thề ước"
+    },
+    {
+      "word": "誓約書",
+      "reading": "せいやくしょ",
+      "meaning": "hiệp ước"
+    },
+    {
+      "word": "偽誓",
+      "reading": "ぎせい",
+      "meaning": "sự thề ẩu"
     }
   ]
 }

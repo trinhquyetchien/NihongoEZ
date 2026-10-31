@@ -86,19 +86,29 @@
   ],
   "vocabulary": [
     {
+      "word": "今宵",
+      "reading": "こよい",
+      "meaning": "đêm nay"
+    },
+    {
       "word": "宵",
       "reading": "よい",
       "meaning": "chiều"
     },
     {
-      "word": "宵闇",
-      "reading": "よいやみ",
-      "meaning": "hoàng hôn"
+      "word": "一宵",
+      "reading": "いっしょう",
+      "meaning": "một tối"
     },
     {
-      "word": "徹宵",
-      "reading": "てっしょう",
-      "meaning": "tất cả đêm"
+      "word": "宵月",
+      "reading": "よいづき",
+      "meaning": "trăng đầu đêm"
+    },
+    {
+      "word": "春の宵",
+      "reading": "はるのよい",
+      "meaning": "buổi tối mùa xuân"
     },
     {
       "word": "半宵",
@@ -106,34 +116,24 @@
       "meaning": "nửa đêm"
     },
     {
-      "word": "春宵",
-      "reading": "しゅんしょう",
-      "meaning": "chiều xuân"
-    },
-    {
-      "word": "宵宮",
-      "reading": "よみや",
-      "meaning": "chiều một liên hoan"
-    },
-    {
       "word": "終宵",
       "reading": "しゅうしょう",
       "meaning": "tất cả dài đêm"
     },
     {
-      "word": "宵寝",
-      "reading": "よいね",
-      "meaning": "đi ngủ sớm"
+      "word": "宵積み",
+      "reading": "よいづみ",
+      "meaning": "hàng hóa tải vào buổi chiều cho sự giao hàng buổi sáng sau"
     },
     {
-      "word": "宵祭",
-      "reading": "よいまつり",
-      "meaning": "hội nhỏ tiến hành vào đêm trước ngày hội chính"
+      "word": "待宵",
+      "reading": "まつよい",
+      "meaning": "đêm chờ trăng"
     },
     {
-      "word": "今宵",
-      "reading": "こよい",
-      "meaning": "đêm nay"
+      "word": "待宵草",
+      "reading": "まつよいぐさ",
+      "meaning": "<thực> cây anh thảo"
     }
   ]
 }

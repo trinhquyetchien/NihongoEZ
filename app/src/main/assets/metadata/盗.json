@@ -90,19 +90,39 @@
   ],
   "vocabulary": [
     {
-      "word": "盗撮",
-      "reading": "とうさつ",
-      "meaning": "chụp trộm"
+      "word": "盗む",
+      "reading": "ぬすむ",
+      "meaning": "ăn cắp"
     },
     {
-      "word": "劫盗",
+      "word": "強盗",
       "reading": "ごうとう",
-      "meaning": "kẻ cướp đại lộ"
+      "meaning": "cường lực"
     },
     {
-      "word": "盗る",
-      "reading": "とる",
-      "meaning": "lấy cắp"
+      "word": "盗難",
+      "reading": "とうなん",
+      "meaning": "vụ trộm"
+    },
+    {
+      "word": "盗み",
+      "reading": "ぬすみ",
+      "meaning": "sự ăn trộm"
+    },
+    {
+      "word": "本盗",
+      "reading": "ほんとう",
+      "meaning": "cướp căn cứ"
+    },
+    {
+      "word": "酒盗",
+      "reading": "しゅとう",
+      "meaning": "mắm bao tử cá ngừ"
+    },
+    {
+      "word": "重盗",
+      "reading": "じゅうとう",
+      "meaning": "gấp hai lẻn đi"
     },
     {
       "word": "野盗",
@@ -110,34 +130,14 @@
       "meaning": "kẻ cướp"
     },
     {
-      "word": "盗取",
-      "reading": "とうしゅ",
-      "meaning": "sự ăn trộm"
+      "word": "強盗罪",
+      "reading": "ごうとうざい",
+      "meaning": "tội trộm cướp"
     },
     {
-      "word": "盗用",
-      "reading": "とうよう",
-      "meaning": "sự tham ô"
-    },
-    {
-      "word": "鼠盗",
-      "reading": "そとう",
-      "meaning": "ăn cắp vặt"
-    },
-    {
-      "word": "怪盗",
-      "reading": "かいとう",
-      "meaning": "kẻ trộm huyền bí"
-    },
-    {
-      "word": "盗作",
-      "reading": "とうさく",
-      "meaning": "đạo văn"
-    },
-    {
-      "word": "盗癖",
-      "reading": "とうへき",
-      "meaning": "thói ăn cắp vặt"
+      "word": "強盗団",
+      "reading": "ごうとうだん",
+      "meaning": "băng cướp"
     }
   ]
 }

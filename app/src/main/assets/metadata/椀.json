@@ -64,19 +64,9 @@
       "meaning": "cái bát kim loại"
     },
     {
-      "word": "汁椀",
-      "reading": "しるわん",
-      "meaning": "tô xúp"
-    },
-    {
       "word": "椀形",
       "reading": "わんがた",
       "meaning": "hình cái bát"
-    },
-    {
-      "word": "椀飯",
-      "reading": "おうばん",
-      "meaning": "cơm trong bát"
     },
     {
       "word": "椀種",
@@ -84,19 +74,29 @@
       "meaning": "nguyên liệu chính trong món súp nhật bản như đậu hũ"
     },
     {
+      "word": "止め椀",
+      "reading": "とめわん",
+      "meaning": "món súp kết thúc"
+    },
+    {
+      "word": "椀飯",
+      "reading": "おうばん",
+      "meaning": "cơm trong bát"
+    },
+    {
       "word": "飯椀",
       "reading": "めしわん",
       "meaning": "bát ăn cơm"
     },
     {
+      "word": "汁椀",
+      "reading": "しるわん",
+      "meaning": "tô xúp"
+    },
+    {
       "word": "椀ぐ",
       "reading": "もぐ",
       "meaning": "hái"
-    },
-    {
-      "word": "止め椀",
-      "reading": "とめわん",
-      "meaning": "món súp kết thúc"
     }
   ]
 }

@@ -90,9 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "闘う",
-      "reading": "たたかう",
+      "word": "戦闘",
+      "reading": "せんとう",
       "meaning": "chiến đấu"
+    },
+    {
+      "word": "奮闘",
+      "reading": "ふんとう",
+      "meaning": "sự đấu tranh"
+    },
+    {
+      "word": "戦闘員",
+      "reading": "せんとういん",
+      "meaning": "chiến sĩ"
+    },
+    {
+      "word": "戦闘服",
+      "reading": "せんとうふく",
+      "meaning": "đồng phục"
     },
     {
       "word": "闘い",
@@ -100,44 +115,29 @@
       "meaning": "đấu tranh"
     },
     {
-      "word": "決闘",
-      "reading": "けっとう",
-      "meaning": "quyết đấu"
-    },
-    {
-      "word": "闘志",
-      "reading": "とうし",
-      "meaning": "ý chí đấu tranh"
-    },
-    {
-      "word": "拳闘",
-      "reading": "けんとう",
-      "meaning": "đấu võ"
-    },
-    {
-      "word": "死闘",
-      "reading": "しとう",
-      "meaning": "sự chiến đấu đến chết"
-    },
-    {
-      "word": "闘魚",
-      "reading": "とうぎょ",
-      "meaning": "cá betta"
-    },
-    {
-      "word": "争闘",
-      "reading": "そうとう",
-      "meaning": "sự đấu tranh"
-    },
-    {
-      "word": "挌闘",
+      "word": "格闘",
       "reading": "かくとう",
-      "meaning": "đánh sự nhau tay đôi"
+      "meaning": "sự giao tranh bằng tay"
     },
     {
-      "word": "暗闘",
-      "reading": "あんとう",
-      "meaning": "sự thù hận ngầm"
+      "word": "闘争",
+      "reading": "とうそう",
+      "meaning": "đấu tranh"
+    },
+    {
+      "word": "闘争心",
+      "reading": "とうそうしん",
+      "meaning": "hiếu chiến"
+    },
+    {
+      "word": "戦闘帽",
+      "reading": "せんとうぼう",
+      "meaning": "mũ chiến đấu"
+    },
+    {
+      "word": "共闘",
+      "reading": "きょうとう",
+      "meaning": "cùng nhau đấu tranh"
     }
   ]
 }

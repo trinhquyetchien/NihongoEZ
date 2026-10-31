@@ -94,34 +94,39 @@
       "meaning": "loại"
     },
     {
-      "word": "根圏",
-      "reading": "こんけん",
-      "meaning": "bầu rễ"
+      "word": "時圏",
+      "reading": "じけん",
+      "meaning": "một đường tròn lớn đi qua cả hai cực trên thiên cầu và cắt xích đạo thiên thể theo góc vuông"
     },
     {
-      "word": "気圏",
-      "reading": "きけん",
-      "meaning": "quyển khí"
+      "word": "生活圏",
+      "reading": "せいかつけん",
+      "meaning": "khu vực sống"
     },
     {
-      "word": "岩圏",
-      "reading": "がんけん",
-      "meaning": "thạch quyển"
+      "word": "影響圏",
+      "reading": "えいきょうけん",
+      "meaning": "tầm ảnh hưởng"
     },
     {
-      "word": "水圏",
-      "reading": "すいけん",
-      "meaning": "thủy quyển"
+      "word": "安全圏",
+      "reading": "あんぜんけん",
+      "meaning": "vùng an toàn"
     },
     {
-      "word": "圏谷",
-      "reading": "けんこく",
-      "meaning": "thung lũng hình vòng cung"
+      "word": "行動圏",
+      "reading": "こうどうけん",
+      "meaning": "phạm vi nhà"
     },
     {
-      "word": "圏外",
-      "reading": "けんがい",
-      "meaning": "vùng bên ngoài"
+      "word": "文化圏",
+      "reading": "ぶんかけん",
+      "meaning": "khu vực"
+    },
+    {
+      "word": "語圏",
+      "reading": "かたりけん",
+      "meaning": "cộng đồng các nước nói tiếng"
     },
     {
       "word": "圏論",
@@ -129,14 +134,9 @@
       "meaning": "lý thuyết phạm trù"
     },
     {
-      "word": "圏域",
-      "reading": "けんいき",
-      "meaning": "trong phạm vi giới hạn"
-    },
-    {
-      "word": "商圏",
-      "reading": "しょうけん",
-      "meaning": "khu vực thương mại"
+      "word": "交通圏",
+      "reading": "こうつうけん",
+      "meaning": "khu vực giao thông"
     }
   ]
 }

@@ -112,29 +112,39 @@
       "meaning": "đức phật"
     },
     {
-      "word": "木仏金仏石仏",
-      "reading": "きぶつかなぶついしぼとけ",
-      "meaning": "những người không linh hoạt"
-    },
-    {
-      "word": "仏文",
-      "reading": "ふつぶん",
-      "meaning": "văn bản tiếng pháp"
-    },
-    {
-      "word": "駐仏",
-      "reading": "ちゅうふつ",
-      "meaning": "đóng quân"
-    },
-    {
-      "word": "仏幕",
-      "reading": "ぶつまく",
-      "meaning": "màn thờ phật"
-    },
-    {
       "word": "見仏",
       "reading": "けんぶつ",
       "meaning": "chiêm ngưỡng phật"
+    },
+    {
+      "word": "仏名",
+      "reading": "ぶつみょう",
+      "meaning": "tên hiệu theo nhà phật"
+    },
+    {
+      "word": "仏様",
+      "reading": "ほとけさま",
+      "meaning": "bụt"
+    },
+    {
+      "word": "仏顔",
+      "reading": "ほとけがお",
+      "meaning": "khuôn mặt dịu dàng"
+    },
+    {
+      "word": "仏花",
+      "reading": "ぶっか",
+      "meaning": "hoa dâng lên bàn thờ phật"
+    },
+    {
+      "word": "観仏",
+      "reading": "かんぶつ",
+      "meaning": "chiêm ngưỡng phật"
+    },
+    {
+      "word": "仏器",
+      "reading": "ぶっき",
+      "meaning": "những đồ thờ tự trên bàn thờ phật"
     },
     {
       "word": "七仏",
@@ -145,16 +155,6 @@
       "word": "和仏",
       "reading": "わふつ",
       "meaning": "nhật pháp"
-    },
-    {
-      "word": "仏花",
-      "reading": "ぶっか",
-      "meaning": "hoa dâng lên bàn thờ phật"
-    },
-    {
-      "word": "仏頂",
-      "reading": "ぶっちょう",
-      "meaning": "sự cau có"
     }
   ]
 }

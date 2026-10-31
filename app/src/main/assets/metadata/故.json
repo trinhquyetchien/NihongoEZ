@@ -91,26 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "故",
-      "reading": "ふる",
-      "meaning": "lý do"
-    },
-    {
-      "word": "故人",
-      "reading": "こじん",
-      "meaning": "cố nhân"
-    },
-    {
-      "word": "故に",
-      "reading": "ゆえに",
-      "meaning": "do đó"
-    },
-    {
-      "word": "故国",
-      "reading": "ここく",
-      "meaning": "cố quốc"
-    },
-    {
       "word": "事故",
       "reading": "じこ",
       "meaning": "biến cố"
@@ -121,24 +101,44 @@
       "meaning": "sự cố"
     },
     {
-      "word": "故意",
-      "reading": "こい",
-      "meaning": "sự cố ý"
+      "word": "故",
+      "reading": "ふる",
+      "meaning": "lý do"
     },
     {
-      "word": "縁故",
-      "reading": "えんこ",
-      "meaning": "duyên cớ"
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "cố nhân"
     },
     {
-      "word": "典故",
-      "reading": "てんこ",
-      "meaning": "điển cố"
+      "word": "大事故",
+      "reading": "だいじこ",
+      "meaning": "tai nạn nghiêm trọng"
     },
     {
-      "word": "旧故",
-      "reading": "きゅうこ",
-      "meaning": "cổ nhân"
+      "word": "事故機",
+      "reading": "じこき",
+      "meaning": "tai nạn máy bay"
+    },
+    {
+      "word": "事故る",
+      "reading": "じこる",
+      "meaning": "tai nạn"
+    },
+    {
+      "word": "事故米",
+      "reading": "じこまい",
+      "meaning": "gạo gặp sự cố"
+    },
+    {
+      "word": "何故",
+      "reading": "なぜ",
+      "meaning": "cớ gì"
+    },
+    {
+      "word": "故障中",
+      "reading": "こしょうちゅう",
+      "meaning": "bị hỏng"
     }
   ]
 }

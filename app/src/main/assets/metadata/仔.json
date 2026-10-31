@@ -37,19 +37,9 @@
       "meaning": "con vật"
     },
     {
-      "word": "仔虫",
-      "reading": "しちゅう",
-      "meaning": "ấu trùng"
-    },
-    {
-      "word": "胎仔",
-      "reading": "たいじ",
-      "meaning": "thai nhi"
-    },
-    {
-      "word": "仔羊",
-      "reading": "こひつじ",
-      "meaning": "cừu non"
+      "word": "仔犬",
+      "reading": "こいぬ",
+      "meaning": "con chó con"
     },
     {
       "word": "仔猫",
@@ -57,19 +47,24 @@
       "meaning": "mèo con"
     },
     {
+      "word": "仔牛",
+      "reading": "こうし",
+      "meaning": "con bê"
+    },
+    {
       "word": "仔細",
       "reading": "しさい",
       "meaning": "suy luận"
     },
     {
-      "word": "仔犬",
-      "reading": "こいぬ",
-      "meaning": "con chó con"
+      "word": "仔羊",
+      "reading": "こひつじ",
+      "meaning": "cừu non"
     },
     {
-      "word": "仔牛",
-      "reading": "こうし",
-      "meaning": "con bê"
+      "word": "胎仔",
+      "reading": "たいじ",
+      "meaning": "thai nhi"
     },
     {
       "word": "同腹仔",
@@ -77,9 +72,14 @@
       "meaning": "xả rác"
     },
     {
-      "word": "ウシ胎仔トリコモナス",
-      "reading": "ウシたいしトリコモナス",
-      "meaning": "ký sinh trùng tritrichomonas foetus"
+      "word": "仔虫",
+      "reading": "しちゅう",
+      "meaning": "ấu trùng"
+    },
+    {
+      "word": "仔牛用品",
+      "reading": "こうしようひん",
+      "meaning": "đồ dùng cho con bê"
     }
   ]
 }

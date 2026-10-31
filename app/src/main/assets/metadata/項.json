@@ -89,21 +89,6 @@
   ],
   "vocabulary": [
     {
-      "word": "項",
-      "reading": "こう",
-      "meaning": "mục"
-    },
-    {
-      "word": "立項",
-      "reading": "りっこう",
-      "meaning": "lập mục từ"
-    },
-    {
-      "word": "条項",
-      "reading": "じょうこう",
-      "meaning": "điều khoản"
-    },
-    {
       "word": "項目",
       "reading": "こうもく",
       "meaning": "hạng mục"
@@ -114,19 +99,34 @@
       "meaning": "điều khoản"
     },
     {
-      "word": "要項",
-      "reading": "ようこう",
-      "meaning": "các mục yêu cầu"
+      "word": "子項目",
+      "reading": "ここうもく",
+      "meaning": "tiểu mục"
     },
     {
-      "word": "変項",
-      "reading": "へんこう",
-      "meaning": "biến đổi"
+      "word": "項目名",
+      "reading": "こうもくめい",
+      "meaning": "tên mục"
     },
     {
-      "word": "項番",
-      "reading": "こうばん",
+      "word": "項目別",
+      "reading": "こうもくべつ",
+      "meaning": "theo từng mục"
+    },
+    {
+      "word": "項",
+      "reading": "こう",
       "meaning": "mục"
+    },
+    {
+      "word": "中項",
+      "reading": "ちゅうこう",
+      "meaning": "trung độ"
+    },
+    {
+      "word": "一項",
+      "reading": "いっこう",
+      "meaning": "khoản"
     },
     {
       "word": "二項",
@@ -134,9 +134,9 @@
       "meaning": "đôi"
     },
     {
-      "word": "前項",
-      "reading": "ぜんこう",
-      "meaning": "đoạn văn trước"
+      "word": "後項",
+      "reading": "こうこう",
+      "meaning": "điều khoản sau"
     }
   ]
 }

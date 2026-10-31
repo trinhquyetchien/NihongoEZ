@@ -111,14 +111,9 @@
   ],
   "vocabulary": [
     {
-      "word": "当",
-      "reading": "とう",
-      "meaning": "điều này"
-    },
-    {
-      "word": "当選当確",
-      "reading": "とうせんとうかく",
-      "meaning": "sự chắc chắn trúng cử"
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "hướng"
     },
     {
       "word": "あてはまる 当てはまる",
@@ -126,39 +121,44 @@
       "meaning": "được áp dụng"
     },
     {
-      "word": "当社",
-      "reading": "とうしゃ",
-      "meaning": "công ty này"
+      "word": "手当",
+      "reading": "てあて",
+      "meaning": "sự chữa bệnh"
     },
     {
-      "word": "当店",
-      "reading": "とうてん",
-      "meaning": "kho này"
+      "word": "日当",
+      "reading": "にっとう",
+      "meaning": "lương ngày"
     },
     {
-      "word": "当腹",
-      "reading": "とうふく",
-      "meaning": "đứa con do người vợ hiện tại sinh ra"
-    },
-    {
-      "word": "当り",
-      "reading": "あたり",
-      "meaning": "trúng đích"
-    },
-    {
-      "word": "引当",
-      "reading": "ひきあて",
-      "meaning": "dự trữ"
-    },
-    {
-      "word": "割当",
-      "reading": "わりあて",
-      "meaning": "sự phân công"
+      "word": "当",
+      "reading": "とう",
+      "meaning": "điều này"
     },
     {
       "word": "当国",
       "reading": "とうこく",
       "meaning": "bản quốc"
+    },
+    {
+      "word": "当駅",
+      "reading": "とうえき",
+      "meaning": "nhà ga này"
+    },
+    {
+      "word": "当量",
+      "reading": "とうりょう",
+      "meaning": "tương đương"
+    },
+    {
+      "word": "当板",
+      "reading": "あていた",
+      "meaning": "lát gỗ mỏng"
+    },
+    {
+      "word": "当院",
+      "reading": "とういん",
+      "meaning": "tổ chức này"
     }
   ]
 }

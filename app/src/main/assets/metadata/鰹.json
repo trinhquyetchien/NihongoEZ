@@ -49,34 +49,24 @@
   ],
   "vocabulary": [
     {
-      "word": "鰹",
-      "reading": "かつお",
-      "meaning": "cá ngừ vằn"
-    },
-    {
       "word": "鰹節",
       "reading": "かつおぶし",
       "meaning": "khô cá ngừ xắt thành miếng nhỏ"
     },
     {
-      "word": "花鰹",
-      "reading": "はながつお",
-      "meaning": "cá ngừ khô lát mỏng"
+      "word": "鰹節虫",
+      "reading": "かつおぶしむし",
+      "meaning": "loài côn trùng cánh cứng"
     },
     {
-      "word": "鰹木",
-      "reading": "かつおぎ",
-      "meaning": "những thanh ngang nằm trên nóc nhà"
+      "word": "鰹",
+      "reading": "かつお",
+      "meaning": "cá ngừ vằn"
     },
     {
-      "word": "初鰹",
-      "reading": "はつがつお",
-      "meaning": "đợt bắt cá ngừ đầu mùa"
-    },
-    {
-      "word": "縞鰹",
-      "reading": "しまがつお",
-      "meaning": "cá vền"
+      "word": "鰹だし",
+      "reading": "かつおだし",
+      "meaning": "nước dùng cá ngừ"
     },
     {
       "word": "秋鰹",
@@ -94,9 +84,19 @@
       "meaning": "chim điên"
     },
     {
-      "word": "鰹だし",
-      "reading": "かつおだし",
-      "meaning": "nước dùng cá ngừ"
+      "word": "鰹味噌",
+      "reading": "かつおみそ",
+      "meaning": "miso cá ngừ"
+    },
+    {
+      "word": "縞鰹",
+      "reading": "しまがつお",
+      "meaning": "cá vền"
+    },
+    {
+      "word": "初鰹",
+      "reading": "はつがつお",
+      "meaning": "đợt bắt cá ngừ đầu mùa"
     }
   ]
 }

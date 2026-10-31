@@ -93,34 +93,24 @@
       "meaning": "rùa"
     },
     {
-      "word": "亀腹",
-      "reading": "かめばら",
-      "meaning": "gờ chân tường hình mai rùa"
+      "word": "お亀",
+      "reading": "おかめ",
+      "meaning": "người phụ nữ mộc mạc"
+    },
+    {
+      "word": "亀の手",
+      "reading": "かめのて",
+      "meaning": "con hà"
+    },
+    {
+      "word": "亀の子",
+      "reading": "かめのこ",
+      "meaning": "con rùa con"
     },
     {
       "word": "亀頭",
       "reading": "きとう",
       "meaning": "đầu rùa"
-    },
-    {
-      "word": "亀レス",
-      "reading": "かめレス",
-      "meaning": "việc trả lời tin nhắn hoặc email chậm như rùa"
-    },
-    {
-      "word": "宝亀",
-      "reading": "ほうき",
-      "meaning": "thời houki"
-    },
-    {
-      "word": "文亀",
-      "reading": "ぶんき",
-      "meaning": "thời bunki"
-    },
-    {
-      "word": "霊亀",
-      "reading": "れいき",
-      "meaning": "rùa thần"
     },
     {
       "word": "神亀",
@@ -133,9 +123,19 @@
       "meaning": "genki era"
     },
     {
+      "word": "長亀",
+      "reading": "おさがめ",
+      "meaning": "rùa da hay rùa luýt"
+    },
+    {
       "word": "海亀",
       "reading": "うみがめ",
       "meaning": "rùa biển"
+    },
+    {
+      "word": "亀の肉",
+      "reading": "かめのにく",
+      "meaning": "thịt rùa"
     }
   ]
 }

@@ -87,6 +87,21 @@
   ],
   "vocabulary": [
     {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "vấn đề"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "bài tập về nhà"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "chủ đề"
+    },
+    {
       "word": "題",
       "reading": "だい",
       "meaning": "vấn đề"
@@ -97,14 +112,14 @@
       "meaning": "nhan đề"
     },
     {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "chủ đề"
+    },
+    {
       "word": "出題",
       "reading": "しゅつだい",
       "meaning": "việc đề ra câu hỏi"
-    },
-    {
-      "word": "宿題",
-      "reading": "しゅくだい",
-      "meaning": "bài tập về nhà"
     },
     {
       "word": "主題",
@@ -112,29 +127,14 @@
       "meaning": "đề tài"
     },
     {
-      "word": "論題",
-      "reading": "ろんだい",
-      "meaning": "luận cương"
+      "word": "議題",
+      "reading": "ぎだい",
+      "meaning": "đề án hội nghị"
     },
     {
-      "word": "題詠",
-      "reading": "だいえい",
-      "meaning": "sự sáng tác thơ theo chủ đề"
-    },
-    {
-      "word": "題目",
-      "reading": "だいもく",
-      "meaning": "đề mục"
-    },
-    {
-      "word": "勅題",
-      "reading": "ちょくだい",
-      "meaning": "đề tài cuộc thi nghệ thuật thơ đế quốc"
-    },
-    {
-      "word": "改題",
-      "reading": "かいだい",
-      "meaning": "thay đổi một tiêu đề"
+      "word": "放題",
+      "reading": "ほうだい",
+      "meaning": "không giới hạn"
     }
   ]
 }

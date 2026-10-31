@@ -91,14 +91,9 @@
       "meaning": "ảnh chân dung"
     },
     {
-      "word": "不肖",
-      "reading": "ふしょう",
-      "meaning": "sự thiếu khả năng"
-    },
-    {
-      "word": "肖る",
-      "reading": "あやかる",
-      "meaning": "chia sẻ may mắn"
+      "word": "肖像権",
+      "reading": "しょうぞうけん",
+      "meaning": "quyền liên quan đến chân dung"
     },
     {
       "word": "肖像画",
@@ -106,9 +101,9 @@
       "meaning": "bức chân dung"
     },
     {
-      "word": "肖り者",
-      "reading": "あやかりもの",
-      "meaning": "người may mắn"
+      "word": "不肖",
+      "reading": "ふしょう",
+      "meaning": "sự thiếu khả năng"
     },
     {
       "word": "不肖私",
@@ -116,9 +111,14 @@
       "meaning": "self không xứng đáng tôi"
     },
     {
-      "word": "肖像権",
-      "reading": "しょうぞうけん",
-      "meaning": "quyền liên quan đến chân dung"
+      "word": "肖る",
+      "reading": "あやかる",
+      "meaning": "chia sẻ may mắn"
+    },
+    {
+      "word": "肖り者",
+      "reading": "あやかりもの",
+      "meaning": "người may mắn"
     },
     {
       "word": "肖像画家",

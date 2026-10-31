@@ -83,9 +83,19 @@
   ],
   "vocabulary": [
     {
+      "word": "允恭",
+      "reading": "いんぎょう",
+      "meaning": "sự lịch sự"
+    },
+    {
       "word": "恭順",
       "reading": "きょうじゅん",
       "meaning": "lòng trung thành"
+    },
+    {
+      "word": "恭しく",
+      "reading": "うやうやしく",
+      "meaning": "tỏ vẻ tôn kính"
     },
     {
       "word": "恭謙",
@@ -108,19 +118,9 @@
       "meaning": "những lời chúc mừng kính trọng"
     },
     {
-      "word": "允恭",
-      "reading": "いんぎょう",
-      "meaning": "sự lịch sự"
-    },
-    {
       "word": "恭しい",
       "reading": "うやうやしい",
       "meaning": "tôn kính"
-    },
-    {
-      "word": "恭しく",
-      "reading": "うやうやしく",
-      "meaning": "tỏ vẻ tôn kính"
     },
     {
       "word": "恭賀新年",

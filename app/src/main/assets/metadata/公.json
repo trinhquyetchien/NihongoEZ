@@ -107,34 +107,24 @@
   ],
   "vocabulary": [
     {
-      "word": "公",
-      "reading": "こう",
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "công viên"
+    },
+    {
+      "word": "公平",
+      "reading": "こうへい",
+      "meaning": "công bình"
+    },
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "công thức"
+    },
+    {
+      "word": "公共",
+      "reading": "こうきょう",
       "meaning": "công cộng"
-    },
-    {
-      "word": "公公然",
-      "reading": "こうこうぜん",
-      "meaning": "công khai"
-    },
-    {
-      "word": "公地公民",
-      "reading": "こうちこうみん",
-      "meaning": "chế độ người dân và đất đai đều thuộc quản lý của nhà nước"
-    },
-    {
-      "word": "熊公八公",
-      "reading": "くまこうはちこう",
-      "meaning": "the average joe"
-    },
-    {
-      "word": "公租公課",
-      "reading": "こうそこうか",
-      "meaning": "những quyền được hưởng thuế và quần chúng"
-    },
-    {
-      "word": "公公然と",
-      "reading": "こうこうぜんと",
-      "meaning": "công khai"
     },
     {
       "word": "公表",
@@ -142,19 +132,29 @@
       "meaning": "sự công bố"
     },
     {
-      "word": "ダチ公",
-      "reading": "ダチこう",
-      "meaning": "bạn thân"
+      "word": "公衆",
+      "reading": "こうしゅう",
+      "meaning": "công chúng"
     },
     {
-      "word": "王公",
-      "reading": "おうこう",
-      "meaning": "vua và những hoàng tử"
+      "word": "公務",
+      "reading": "こうむ",
+      "meaning": "công vụ"
     },
     {
-      "word": "公用",
-      "reading": "こうよう",
-      "meaning": "sử dụng công cộng"
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "ô nhiễm do công nghiệp"
+    },
+    {
+      "word": "公開",
+      "reading": "こうかい",
+      "meaning": "sự công khai"
+    },
+    {
+      "word": "公演",
+      "reading": "こうえん",
+      "meaning": "sự công diễn"
     }
   ]
 }

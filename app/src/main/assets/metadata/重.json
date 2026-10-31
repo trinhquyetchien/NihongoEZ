@@ -96,54 +96,54 @@
   ],
   "vocabulary": [
     {
+      "word": "重い",
+      "reading": "おもい",
+      "meaning": "nặng"
+    },
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "sự trọng yếu"
+    },
+    {
+      "word": "貴重",
+      "reading": "きちょう",
+      "meaning": "đắt đỏ"
+    },
+    {
+      "word": "重視",
+      "reading": "じゅうし",
+      "meaning": "chú trọng"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "sự trọng đại"
+    },
+    {
+      "word": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "sức nặng"
+    },
+    {
+      "word": "重力",
+      "reading": "じゅうりょく",
+      "meaning": "sức nặng"
+    },
+    {
+      "word": "厳重",
+      "reading": "げんじゅう",
+      "meaning": "nghiêm ngặt"
+    },
+    {
+      "word": "重役",
+      "reading": "じゅうやく",
+      "meaning": "vị trí có vai trò quan trọng"
+    },
+    {
       "word": "重",
       "reading": "おも",
       "meaning": "lần"
-    },
-    {
-      "word": "重重",
-      "reading": "じゅうじゅう",
-      "meaning": "nhiều lần nhắc đi nhắc lại"
-    },
-    {
-      "word": "重重に",
-      "reading": "じゅうじゅうに",
-      "meaning": "vô cùng"
-    },
-    {
-      "word": "八重八重",
-      "reading": "やえやえ",
-      "meaning": "tầng tầng lớp lớp"
-    },
-    {
-      "word": "二重三重",
-      "reading": "にじゅうさんじゅう",
-      "meaning": "sự chồng chéo"
-    },
-    {
-      "word": "重重しい",
-      "reading": "おもおもしい",
-      "meaning": "thường xuyên"
-    },
-    {
-      "word": "重ね重ね",
-      "reading": "かさねがさね",
-      "meaning": "thông thường"
-    },
-    {
-      "word": "重重にも",
-      "reading": "じゅうじゅうにも",
-      "meaning": "lặp đi lặp lại nhiều lần"
-    },
-    {
-      "word": "十重二十重",
-      "reading": "とえはたえ",
-      "meaning": "vô số"
-    },
-    {
-      "word": "重解",
-      "reading": "じゅうかい",
-      "meaning": "nghiệm bội"
     }
   ]
 }

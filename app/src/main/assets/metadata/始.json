@@ -101,19 +101,19 @@
       "meaning": "bắt đầu"
     },
     {
+      "word": "始める",
+      "reading": "はじめる",
+      "meaning": "bắt đầu"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "sự khởi đầu"
+    },
+    {
       "word": "原始",
       "reading": "げんし",
       "meaning": "thuở sơ khai"
-    },
-    {
-      "word": "年始",
-      "reading": "ねんし",
-      "meaning": "đầu năm"
-    },
-    {
-      "word": "始発",
-      "reading": "しはつ",
-      "meaning": "chuyến tàu đầu tiên"
     },
     {
       "word": "始終",
@@ -121,9 +121,9 @@
       "meaning": "thường xuyên"
     },
     {
-      "word": "始動",
-      "reading": "しどう",
-      "meaning": "bắt đầu di chuyển"
+      "word": "始末",
+      "reading": "しまつ",
+      "meaning": "đầu cuối"
     },
     {
       "word": "終始",
@@ -131,14 +131,14 @@
       "meaning": "từ lúc bắt đầu đến khi kết thúc"
     },
     {
-      "word": "始業",
-      "reading": "しぎょう",
-      "meaning": "sự bắt đầu công việc"
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "chuyến tàu đầu tiên"
     },
     {
-      "word": "更始",
-      "reading": "こうし",
-      "meaning": "sự đổi mới"
+      "word": "始めに",
+      "reading": "はじめに",
+      "meaning": "đầu tiên"
     }
   ]
 }

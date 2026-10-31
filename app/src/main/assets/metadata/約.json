@@ -91,29 +91,19 @@
   ],
   "vocabulary": [
     {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "dự ước"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "lời hứa"
+    },
+    {
       "word": "約",
       "reading": "やく",
       "meaning": "giao kèo"
-    },
-    {
-      "word": "氷約款（用船契約）",
-      "reading": "ひょうやっかん(ようせんけいやく)",
-      "meaning": "điều khoản đóng băng"
-    },
-    {
-      "word": "氷約款(用船契約)",
-      "reading": "ひょうやっかん（ようせんけいやく）",
-      "meaning": "điều khoản đóng băng"
-    },
-    {
-      "word": "和約",
-      "reading": "わやく",
-      "meaning": "hiệp ước hòa bình"
-    },
-    {
-      "word": "倹約",
-      "reading": "けんやく",
-      "meaning": "sự tiết kiệm"
     },
     {
       "word": "契約",
@@ -121,14 +111,24 @@
       "meaning": "giao kèo"
     },
     {
-      "word": "公約",
-      "reading": "こうやく",
-      "meaning": "công ước"
+      "word": "婚約",
+      "reading": "こんやく",
+      "meaning": "đính hôn"
     },
     {
-      "word": "集約",
-      "reading": "しゅうやく",
-      "meaning": "thu thập lại"
+      "word": "節約",
+      "reading": "せつやく",
+      "meaning": "sự tiết kiệm"
+    },
+    {
+      "word": "条約",
+      "reading": "じょうやく",
+      "meaning": "điều ước"
+    },
+    {
+      "word": "規約",
+      "reading": "きやく",
+      "meaning": "qui ước"
     },
     {
       "word": "制約",
@@ -136,9 +136,9 @@
       "meaning": "điều kiện"
     },
     {
-      "word": "婚約",
-      "reading": "こんやく",
-      "meaning": "đính hôn"
+      "word": "倹約",
+      "reading": "けんやく",
+      "meaning": "sự tiết kiệm"
     }
   ]
 }

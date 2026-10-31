@@ -93,24 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "怖",
-      "reading": "こわ",
-      "meaning": "sợ"
-    },
-    {
-      "word": "怖怖",
-      "reading": "こわごわ",
-      "meaning": "bồn chồn"
-    },
-    {
-      "word": "怖ず怖ず",
-      "reading": "おずおず",
-      "meaning": "rụt rè"
-    },
-    {
-      "word": "怖る",
-      "reading": "おそる",
-      "meaning": "sợ hãi"
+      "word": "怖い",
+      "reading": "こわい",
+      "meaning": "hãi hùng"
     },
     {
       "word": "恐怖",
@@ -118,13 +103,33 @@
       "meaning": "khủng bố"
     },
     {
-      "word": "怖い",
-      "reading": "こわい",
-      "meaning": "hãi hùng"
+      "word": "怖い顔",
+      "reading": "こわいかお",
+      "meaning": "khuôn mặt tức giận"
     },
     {
-      "word": "怖気",
-      "reading": "おぞけ",
+      "word": "恐怖感",
+      "reading": "きょうふかん",
+      "meaning": "cảm giác sợ hãi"
+    },
+    {
+      "word": "恐怖心",
+      "reading": "きょうふしん",
+      "meaning": "sợ hãi"
+    },
+    {
+      "word": "怖",
+      "reading": "こわ",
+      "meaning": "sợ"
+    },
+    {
+      "word": "怖っ",
+      "reading": "こわっ",
+      "meaning": "sợ quá"
+    },
+    {
+      "word": "怖る",
+      "reading": "おそる",
       "meaning": "sợ hãi"
     },
     {
@@ -133,14 +138,9 @@
       "meaning": "bồn chồn"
     },
     {
-      "word": "畏怖",
-      "reading": "いふ",
-      "meaning": "sợ hãi"
-    },
-    {
-      "word": "怖っ",
-      "reading": "こわっ",
-      "meaning": "sợ quá"
+      "word": "怖怖",
+      "reading": "こわごわ",
+      "meaning": "bồn chồn"
     }
   ]
 }

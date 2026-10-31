@@ -78,19 +78,24 @@
       "meaning": "trẻ sơ sinh"
     },
     {
-      "word": "嬰音",
-      "reading": "えいおん",
-      "meaning": "âm cao"
-    },
-    {
       "word": "退嬰的",
       "reading": "たいえいてき",
       "meaning": "bảo thủ"
     },
     {
+      "word": "嬰音",
+      "reading": "えいおん",
+      "meaning": "âm cao"
+    },
+    {
       "word": "嬰記号",
       "reading": "えいきごう",
       "meaning": "nốt thăng"
+    },
+    {
+      "word": "嬰ヘ長調",
+      "reading": "えいヘちょうちょう",
+      "meaning": "fa thăng trưởng"
     },
     {
       "word": "退嬰政策",
@@ -101,11 +106,6 @@
       "word": "退嬰主義",
       "reading": "たいえいしゅぎ",
       "meaning": "triết học lạc hậu"
-    },
-    {
-      "word": "嬰ヘ長調",
-      "reading": "えいヘちょうちょう",
-      "meaning": "fa thăng trưởng"
     },
     {
       "word": "重嬰記号",

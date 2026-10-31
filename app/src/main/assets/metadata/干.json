@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "干",
-      "reading": "ほし",
-      "meaning": "khô đi"
-    },
-    {
-      "word": "梅干",
-      "reading": "うめぼし",
-      "meaning": "ô mai"
+      "word": "干す",
+      "reading": "ほす",
+      "meaning": "hong"
     },
     {
       "word": "若干",
@@ -107,39 +102,44 @@
       "meaning": "ít nhiều"
     },
     {
-      "word": "干満",
-      "reading": "かんまん",
-      "meaning": "nước triều lên xuống"
-    },
-    {
-      "word": "干与",
-      "reading": "かんよ",
-      "meaning": "sự tham gia"
-    },
-    {
-      "word": "水干",
-      "reading": "すいかん",
-      "meaning": "suikan"
-    },
-    {
-      "word": "天干",
-      "reading": "てんかん",
-      "meaning": "thiên can"
-    },
-    {
-      "word": "潮干",
-      "reading": "しおひ",
-      "meaning": "lúc thuỷ triều xuống thấp"
-    },
-    {
-      "word": "干る",
-      "reading": "ひる",
-      "meaning": "khô"
+      "word": "干渉",
+      "reading": "かんしょう",
+      "meaning": "hiện tượng giao thoa"
     },
     {
       "word": "干し",
       "reading": "ほし",
       "meaning": "sấy khô"
+    },
+    {
+      "word": "梅干し",
+      "reading": "うめぼし",
+      "meaning": "ô mai"
+    },
+    {
+      "word": "干し物",
+      "reading": "ほしもの",
+      "meaning": "sự phơi khô"
+    },
+    {
+      "word": "干",
+      "reading": "ほし",
+      "meaning": "khô đi"
+    },
+    {
+      "word": "物干",
+      "reading": "ものほし",
+      "meaning": "phơi"
+    },
+    {
+      "word": "夜干",
+      "reading": "よぼし",
+      "meaning": "việc phơi đồ vào ban đêm"
+    },
+    {
+      "word": "干肉",
+      "reading": "ほしにく",
+      "meaning": "ruốc"
     }
   ]
 }

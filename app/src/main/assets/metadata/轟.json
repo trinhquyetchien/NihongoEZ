@@ -93,36 +93,6 @@
       "meaning": "ầm ầm"
     },
     {
-      "word": "轟轟",
-      "reading": "ごうごう",
-      "meaning": "như sấm"
-    },
-    {
-      "word": "轟音",
-      "reading": "ごうおん",
-      "meaning": "tiếng nổ lớn"
-    },
-    {
-      "word": "轟然",
-      "reading": "ごうぜん",
-      "meaning": "gào"
-    },
-    {
-      "word": "轟く",
-      "reading": "とどろく",
-      "meaning": "để gào"
-    },
-    {
-      "word": "轟沈",
-      "reading": "ごうちん",
-      "meaning": "sự chìm ngay tức khắc"
-    },
-    {
-      "word": "轟き",
-      "reading": "とどろき",
-      "meaning": "tiếng gào"
-    },
-    {
       "word": "轟々",
       "reading": "ごうごう",
       "meaning": "như sấm"
@@ -133,9 +103,39 @@
       "meaning": "todorokite"
     },
     {
+      "word": "轟沈",
+      "reading": "ごうちん",
+      "meaning": "sự chìm ngay tức khắc"
+    },
+    {
+      "word": "轟音",
+      "reading": "ごうおん",
+      "meaning": "tiếng nổ lớn"
+    },
+    {
+      "word": "轟く",
+      "reading": "とどろく",
+      "meaning": "để gào"
+    },
+    {
+      "word": "轟き",
+      "reading": "とどろき",
+      "meaning": "tiếng gào"
+    },
+    {
+      "word": "轟轟",
+      "reading": "ごうごう",
+      "meaning": "như sấm"
+    },
+    {
       "word": "爆轟",
       "reading": "ばくごう",
       "meaning": "nổ siêu thanh"
+    },
+    {
+      "word": "轟かす",
+      "reading": "とどろかす",
+      "meaning": "tạo ra tiếng gầm"
     }
   ]
 }

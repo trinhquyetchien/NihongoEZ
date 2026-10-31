@@ -89,26 +89,6 @@
   ],
   "vocabulary": [
     {
-      "word": "賢",
-      "reading": "かしこ",
-      "meaning": "học thức cao"
-    },
-    {
-      "word": "賢答",
-      "reading": "けんとう",
-      "meaning": "câu trả lời khôn ngoan"
-    },
-    {
-      "word": "賢人",
-      "reading": "けんじん",
-      "meaning": "hiền triết"
-    },
-    {
-      "word": "賢者",
-      "reading": "けんじゃ",
-      "meaning": "người hiền"
-    },
-    {
       "word": "賢い",
       "reading": "かしこい",
       "meaning": "thông minh"
@@ -119,14 +99,29 @@
       "meaning": "khôn ngoan"
     },
     {
-      "word": "賢才",
-      "reading": "けんさい",
-      "meaning": "nhân tài"
+      "word": "賢",
+      "reading": "かしこ",
+      "meaning": "học thức cao"
     },
     {
-      "word": "聖賢",
-      "reading": "せいけん",
-      "meaning": "thánh kinh"
+      "word": "賢妻",
+      "reading": "けんさい",
+      "meaning": "người vợ khôn ngoan"
+    },
+    {
+      "word": "七賢",
+      "reading": "しちけん",
+      "meaning": "trúc lâm thất hiền"
+    },
+    {
+      "word": "古賢",
+      "reading": "こけん",
+      "meaning": "văn bản ghi nhận việc mua bán tài sản tư nhân"
+    },
+    {
+      "word": "賢者",
+      "reading": "けんじゃ",
+      "meaning": "người hiền"
     },
     {
       "word": "賢臣",
@@ -134,9 +129,14 @@
       "meaning": "đầy tớ khôn ngoan và có năng lực"
     },
     {
-      "word": "前賢",
-      "reading": "ぜんけん",
-      "meaning": "những người đàn ông khôn ngoan của quá khứ"
+      "word": "俊賢",
+      "reading": "しゅんけん",
+      "meaning": "tính khôn ngoan tuyệt vời"
+    },
+    {
+      "word": "賢人",
+      "reading": "けんじん",
+      "meaning": "hiền triết"
     }
   ]
 }

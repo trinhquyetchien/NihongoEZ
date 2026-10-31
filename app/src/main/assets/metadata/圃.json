@@ -33,14 +33,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "田圃",
-      "reading": "たんぼ",
-      "meaning": "ruộng nước"
-    },
-    {
       "word": "圃場",
       "reading": "ほじょう",
       "meaning": "khu trồng trọt"
+    },
+    {
+      "word": "田圃",
+      "reading": "たんぼ",
+      "meaning": "ruộng nước"
     },
     {
       "word": "苗圃",

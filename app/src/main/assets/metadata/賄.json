@@ -89,6 +89,11 @@
   ],
   "vocabulary": [
     {
+      "word": "賄う",
+      "reading": "まかなう",
+      "meaning": "chịu chi trả"
+    },
+    {
       "word": "賄賂",
       "reading": "わいろ",
       "meaning": "hối lộ"
@@ -99,14 +104,9 @@
       "meaning": "nhận hối lộ"
     },
     {
-      "word": "賄う",
-      "reading": "まかなう",
-      "meaning": "chịu chi trả"
-    },
-    {
-      "word": "贈賄",
-      "reading": "ぞうわい",
-      "meaning": "việc tặng quà để hối lộ"
+      "word": "収賄罪",
+      "reading": "しゅうわいざい",
+      "meaning": "sự hối lộ"
     },
     {
       "word": "賄い",
@@ -114,24 +114,24 @@
       "meaning": "ăn cơm tháng"
     },
     {
-      "word": "賄費",
-      "reading": "わいひ",
-      "meaning": "tiền ăn hỗ trợ"
-    },
-    {
-      "word": "贈賄罪",
-      "reading": "ぞうわいざい",
-      "meaning": "tội đưa hối lộ"
-    },
-    {
       "word": "賄い方",
       "reading": "まかないかた",
       "meaning": "đầu bếp"
     },
     {
-      "word": "収賄罪",
-      "reading": "しゅうわいざい",
-      "meaning": "sự hối lộ"
+      "word": "賄い婦",
+      "reading": "まかないふ",
+      "meaning": "nữ nấu"
+    },
+    {
+      "word": "贈賄",
+      "reading": "ぞうわい",
+      "meaning": "việc tặng quà để hối lộ"
+    },
+    {
+      "word": "贈賄罪",
+      "reading": "ぞうわいざい",
+      "meaning": "tội đưa hối lộ"
     },
     {
       "word": "贈収賄",

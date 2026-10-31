@@ -90,6 +90,26 @@
       "meaning": "cán cân"
     },
     {
+      "word": "天秤",
+      "reading": "てんびん",
+      "meaning": "cái cân đứng"
+    },
+    {
+      "word": "天秤台",
+      "reading": "てんびんだい",
+      "meaning": "bàn cân bằng"
+    },
+    {
+      "word": "天秤座",
+      "reading": "てんびんざ",
+      "meaning": "cung thiên bình"
+    },
+    {
+      "word": "天秤宮",
+      "reading": "てんびんきゅう",
+      "meaning": "cung thiên bình"
+    },
+    {
       "word": "秤動",
       "reading": "ひょうどう",
       "meaning": "tình trạng đu đưa"
@@ -100,39 +120,19 @@
       "meaning": "đo trọng lượng"
     },
     {
-      "word": "台秤",
-      "reading": "だいばかり",
-      "meaning": "nền tảng tróc vảy"
+      "word": "秤量瓶",
+      "reading": "ひょうりょうかめ",
+      "meaning": "chén cân"
     },
     {
-      "word": "皿秤",
-      "reading": "さらばかり",
-      "meaning": "cân bằng"
-    },
-    {
-      "word": "棹秤",
-      "reading": "さおばかり",
-      "meaning": "cái cân dọc"
-    },
-    {
-      "word": "天秤",
-      "reading": "てんびん",
-      "meaning": "cái cân đứng"
-    },
-    {
-      "word": "水秤",
-      "reading": "みずばかり",
-      "meaning": "ống thủy"
+      "word": "秤量皿",
+      "reading": "ひょうりょうさら",
+      "meaning": "đĩa cân"
     },
     {
       "word": "杠秤",
       "reading": "ちぎばかり",
       "meaning": "cái cân đòn"
-    },
-    {
-      "word": "竿秤",
-      "reading": "さおばかり",
-      "meaning": "cái cân dọc"
     }
   ]
 }

@@ -87,9 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "閲",
-      "reading": "えつ",
-      "meaning": "kiểm tra"
+      "word": "閲覧",
+      "reading": "えつらん",
+      "meaning": "sự đọc"
+    },
+    {
+      "word": "閲覧者",
+      "reading": "えつらんしゃ",
+      "meaning": "người xem"
+    },
+    {
+      "word": "閲覧中",
+      "reading": "えつらんちゅう",
+      "meaning": "trong khi đang xem"
+    },
+    {
+      "word": "閲覧室",
+      "reading": "えつらんしつ",
+      "meaning": "phòng đọc sách"
     },
     {
       "word": "検閲",
@@ -97,44 +112,29 @@
       "meaning": "sự kiểm duyệt"
     },
     {
+      "word": "検閲官",
+      "reading": "けんえつかん",
+      "meaning": "người kiểm duyệt"
+    },
+    {
       "word": "校閲",
       "reading": "こうえつ",
       "meaning": "sự duyệt lại"
     },
     {
-      "word": "閲読",
-      "reading": "えつどく",
-      "meaning": "sự đọc"
+      "word": "校閲者",
+      "reading": "こうえつしゃ",
+      "meaning": "người đánh giá"
     },
     {
-      "word": "閲歴",
-      "reading": "えつれき",
-      "meaning": "sự nghiệp"
+      "word": "校閲係",
+      "reading": "こうえつがかり",
+      "meaning": "người soát lỗi"
     },
     {
-      "word": "閲兵",
-      "reading": "えっぺい",
-      "meaning": "diễu hành"
-    },
-    {
-      "word": "内閲",
-      "reading": "ないえつ",
-      "meaning": "xét duyệt trước"
-    },
-    {
-      "word": "査閲",
-      "reading": "さえつ",
-      "meaning": "sự xem xét kỹ"
-    },
-    {
-      "word": "親閲",
-      "reading": "しんえつ",
-      "meaning": "kiểm tra cá nhân"
-    },
-    {
-      "word": "観閲",
-      "reading": "かんえつ",
-      "meaning": "sự duyệt binh"
+      "word": "閲",
+      "reading": "えつ",
+      "meaning": "kiểm tra"
     }
   ]
 }

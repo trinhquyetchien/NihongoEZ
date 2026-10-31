@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "宗",
-      "reading": "そう",
-      "meaning": "bè phái"
-    },
-    {
       "word": "宗教",
       "reading": "しゅうきょう",
       "meaning": "đạo"
     },
     {
-      "word": "宗派",
-      "reading": "しゅうは",
-      "meaning": "phái"
+      "word": "宗教的",
+      "reading": "しゅうきょうてき",
+      "meaning": "tôn giáo"
     },
     {
-      "word": "真宗",
-      "reading": "しんしゅう",
-      "meaning": "jodo shinshu"
+      "word": "宗教家",
+      "reading": "しゅうきょうか",
+      "meaning": "đạo sĩ"
     },
     {
-      "word": "宗伯",
-      "reading": "そうはく",
-      "meaning": "thượng thư bộ lễ"
+      "word": "大宗教",
+      "reading": "だいしゅうきょう",
+      "meaning": "tôn giáo lớn"
     },
     {
-      "word": "八宗",
-      "reading": "はっしゅう",
-      "meaning": "tám tông phái phật giáo"
+      "word": "新宗教",
+      "reading": "しんしゅうきょう",
+      "meaning": "tôn giáo mới"
     },
     {
-      "word": "同宗",
-      "reading": "どうしゅう",
-      "meaning": "cùng giáo phái đó"
+      "word": "宗教心",
+      "reading": "しゅうきょうしん",
+      "meaning": "lòng mộ đạo"
     },
     {
-      "word": "他宗",
-      "reading": "たしゅう",
-      "meaning": "giáo phái khác"
+      "word": "宗教法",
+      "reading": "しゅうきょうほう",
+      "meaning": "luật tôn giáo"
     },
     {
-      "word": "禅宗",
-      "reading": "ぜんしゅう",
-      "meaning": "phái thiền"
+      "word": "宗教画",
+      "reading": "しゅうきょうが",
+      "meaning": "tranh về đề tài tôn giáo"
     },
     {
-      "word": "正宗",
-      "reading": "まさむね",
-      "meaning": "lưỡi thanh gươm bởi masamune"
+      "word": "宗",
+      "reading": "そう",
+      "meaning": "bè phái"
+    },
+    {
+      "word": "一宗",
+      "reading": "いっしゅう",
+      "meaning": "một giáo phái"
     }
   ]
 }

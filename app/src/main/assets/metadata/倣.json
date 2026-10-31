@@ -85,21 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "倣",
-      "reading": "",
-      "meaning": "mô phỏng"
-    },
-    {
-      "word": "摸倣",
-      "reading": "もほう",
-      "meaning": "sự bắt chước"
-    },
-    {
-      "word": "倣う",
-      "reading": "ならう",
-      "meaning": "mô phỏng"
-    },
-    {
       "word": "模倣",
       "reading": "もほう",
       "meaning": "sự bắt chước"
@@ -110,19 +95,29 @@
       "meaning": "người hay bắt chước"
     },
     {
-      "word": "模倣犯",
-      "reading": "もほうはん",
-      "meaning": "tội bắt chước"
-    },
-    {
       "word": "模倣品",
       "reading": "もほうひん",
       "meaning": "hàng giả"
     },
     {
-      "word": "右へ倣え",
-      "reading": "みぎへならえ",
-      "meaning": "rập khuôn"
+      "word": "模倣犯",
+      "reading": "もほうはん",
+      "meaning": "tội bắt chước"
+    },
+    {
+      "word": "倣う",
+      "reading": "ならう",
+      "meaning": "mô phỏng"
+    },
+    {
+      "word": "倣",
+      "reading": "",
+      "meaning": "mô phỏng"
+    },
+    {
+      "word": "摸倣",
+      "reading": "もほう",
+      "meaning": "sự bắt chước"
     },
     {
       "word": "模倣する",
@@ -133,6 +128,11 @@
       "word": "模倣行動",
       "reading": "もほうこうどう",
       "meaning": "hành động bắt chước"
+    },
+    {
+      "word": "前例に倣う",
+      "reading": "ぜんれいにならう",
+      "meaning": "làm theo tiền lệ"
     }
   ]
 }

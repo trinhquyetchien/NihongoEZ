@@ -108,6 +108,26 @@
   ],
   "vocabulary": [
     {
+      "word": "怒る",
+      "reading": "おこる",
+      "meaning": "bực tức"
+    },
+    {
+      "word": "怒鳴る",
+      "reading": "どなる",
+      "meaning": "gào lên"
+    },
+    {
+      "word": "怒り",
+      "reading": "いかり",
+      "meaning": "căm"
+    },
+    {
+      "word": "怒り鼻",
+      "reading": "いかりばな",
+      "meaning": "lỗ mũi mở rộng do tức giận: lỗ mũi phòng lên"
+    },
+    {
       "word": "激怒",
       "reading": "げきど",
       "meaning": "sự tức giận"
@@ -118,24 +138,14 @@
       "meaning": "gương mặt tức giận"
     },
     {
-      "word": "怒涛",
-      "reading": "どとう",
-      "meaning": "sóng dữ"
-    },
-    {
       "word": "怒筋",
       "reading": "どすじ",
       "meaning": "gân nổi lên khi tức giận"
     },
     {
-      "word": "怒号",
-      "reading": "どごう",
-      "meaning": "tiếng gầm lên"
-    },
-    {
-      "word": "怒濤",
+      "word": "怒涛",
       "reading": "どとう",
-      "meaning": "sóng cồn"
+      "meaning": "sóng dữ"
     },
     {
       "word": "憤怒",
@@ -143,19 +153,9 @@
       "meaning": "sự phẫn nộ"
     },
     {
-      "word": "怒張",
-      "reading": "どちょう",
-      "meaning": "căng cơ"
-    },
-    {
-      "word": "怒声",
-      "reading": "どせい",
-      "meaning": "giọng giận dữ"
-    },
-    {
-      "word": "嚇怒",
-      "reading": "かくど",
-      "meaning": "giận dữ"
+      "word": "怒濤",
+      "reading": "どとう",
+      "meaning": "sóng cồn"
     }
   ]
 }

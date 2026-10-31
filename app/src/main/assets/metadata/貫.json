@@ -91,19 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "貫",
-      "reading": "かん",
-      "meaning": "đơn vị tính khối lượng"
+      "word": "貫く",
+      "reading": "つらぬく",
+      "meaning": "xuyên qua"
     },
     {
-      "word": "裸一貫",
-      "reading": "はだかいっかん",
-      "meaning": "sự không có cái gì"
-    },
-    {
-      "word": "貫手",
-      "reading": "ぬきて",
-      "meaning": "kỹ thuật dùng đầu ngón tay chọc vào cổ họng"
+      "word": "貫禄",
+      "reading": "かんろく",
+      "meaning": "chững chạc"
     },
     {
       "word": "一貫",
@@ -111,34 +106,39 @@
       "meaning": "nhất quán"
     },
     {
-      "word": "貫流",
-      "reading": "かんりゅう",
-      "meaning": "sự chảy qua"
+      "word": "一貫性",
+      "reading": "いっかんせい",
+      "meaning": "tính nhất quán"
     },
     {
-      "word": "看貫",
-      "reading": "かんかん",
-      "meaning": "cân"
+      "word": "一貫校",
+      "reading": "いっかんこう",
+      "meaning": "trường liên cấp"
     },
     {
-      "word": "指貫",
-      "reading": "ゆびぬき",
-      "meaning": ""
+      "word": "貫通",
+      "reading": "かんつう",
+      "meaning": "sự thâm nhập"
     },
     {
-      "word": "貫目",
-      "reading": "かんめ",
-      "meaning": "đơn vị trọng lượng"
+      "word": "貫",
+      "reading": "かん",
+      "meaning": "đơn vị tính khối lượng"
     },
     {
-      "word": "満貫",
-      "reading": "マンガン",
-      "meaning": "điểm \"mangan\""
+      "word": "貫手",
+      "reading": "ぬきて",
+      "meaning": "kỹ thuật dùng đầu ngón tay chọc vào cổ họng"
     },
     {
-      "word": "貫首",
-      "reading": "かんじゅ",
-      "meaning": "tu viện trưởng chính một miếu tín đồ phật giáo)"
+      "word": "腕貫",
+      "reading": "うでぬき",
+      "meaning": "găng tay"
+    },
+    {
+      "word": "通貫",
+      "reading": "つうかん",
+      "meaning": "xuyên vào"
     }
   ]
 }

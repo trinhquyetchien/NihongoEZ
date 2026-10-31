@@ -91,9 +91,19 @@
       "meaning": "những mảnh shoogi"
     },
     {
-      "word": "駒鶇",
-      "reading": "こまつぐみ",
-      "meaning": "chim cổ đỏ"
+      "word": "一駒",
+      "reading": "ひとこま",
+      "meaning": "một cảnh"
+    },
+    {
+      "word": "駒落ち",
+      "reading": "こまおち",
+      "meaning": "cuộc thi có chấp"
+    },
+    {
+      "word": "捨て駒",
+      "reading": "すてごま",
+      "meaning": "con tốt thí"
     },
     {
       "word": "合駒",
@@ -101,39 +111,29 @@
       "meaning": "quân chặn"
     },
     {
+      "word": "駒草",
+      "reading": "こまくさ",
+      "meaning": "dicentra peregrina"
+    },
+    {
       "word": "駒座",
       "reading": "こまざ",
       "meaning": "chòm sao mã"
     },
     {
-      "word": "駒鳥",
-      "reading": "こまどり",
-      "meaning": "chim cổ đỏ"
-    },
-    {
-      "word": "一駒",
-      "reading": "ひとこま",
-      "meaning": "một cảnh"
-    },
-    {
-      "word": "駒損",
-      "reading": "こまそん",
-      "meaning": "sự mất mát vật chất"
-    },
-    {
-      "word": "荒駒",
-      "reading": "あらごま",
-      "meaning": "con ngựa hoang"
-    },
-    {
-      "word": "手駒",
-      "reading": "てごま",
-      "meaning": "dưới một có điều khiển"
+      "word": "待ち駒",
+      "reading": "まちごま",
+      "meaning": "quân chờ"
     },
     {
       "word": "野駒",
       "reading": "のごま",
       "meaning": "một siberian rubythroat"
+    },
+    {
+      "word": "駒損",
+      "reading": "こまそん",
+      "meaning": "sự mất mát vật chất"
     }
   ]
 }

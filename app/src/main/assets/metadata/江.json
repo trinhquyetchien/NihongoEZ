@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "江",
-      "reading": "こう",
-      "meaning": "vịnh nhỏ"
-    },
-    {
       "word": "江戸",
       "reading": "えど",
       "meaning": "ê-đô"
     },
     {
-      "word": "江頭",
-      "reading": "こうとう",
-      "meaning": "bờ sông"
+      "word": "江戸者",
+      "reading": "えどもの",
+      "meaning": "người edo"
     },
     {
-      "word": "江鮭",
-      "reading": "あめのうお",
-      "meaning": "cá hồi biwa"
+      "word": "江戸間",
+      "reading": "えどま",
+      "meaning": "tiêu chuẩn đo lường edo"
     },
     {
-      "word": "江湖",
-      "reading": "こうこ",
-      "meaning": "sông và hồ"
+      "word": "江戸語",
+      "reading": "えどご",
+      "meaning": "ngôn ngữ thời edo"
     },
     {
-      "word": "江河",
-      "reading": "こうが",
-      "meaning": "yangtze và những dòng sông vàng"
+      "word": "江",
+      "reading": "こう",
+      "meaning": "vịnh nhỏ"
     },
     {
-      "word": "江山",
-      "reading": "こうざん",
-      "meaning": "sông núi"
+      "word": "江戸弁",
+      "reading": "えどべん",
+      "meaning": "tiếng vùng edo"
     },
     {
-      "word": "江上",
-      "reading": "こうじょう",
-      "meaning": "trên bờ một dòng sông lớn"
+      "word": "江都",
+      "reading": "こうと",
+      "meaning": "edo"
     },
     {
-      "word": "入江",
-      "reading": "いりえ",
-      "meaning": "sự vào"
+      "word": "江戸菊",
+      "reading": "えどぎく",
+      "meaning": "cúc mâm xôi"
     },
     {
-      "word": "長江",
-      "reading": "ちょうこう",
-      "meaning": "sông trường giang"
+      "word": "堀江",
+      "reading": "ほりえ",
+      "meaning": "kênh"
+    },
+    {
+      "word": "江戸川",
+      "reading": "えどがわ",
+      "meaning": "dòng sông edo"
     }
   ]
 }

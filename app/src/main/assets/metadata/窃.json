@@ -86,39 +86,29 @@
   ],
   "vocabulary": [
     {
-      "word": "窃取",
-      "reading": "せっしゅ",
-      "meaning": "sự ăn trộm"
-    },
-    {
-      "word": "窃用",
-      "reading": "せつよう",
-      "meaning": "sử dụng bí mật"
-    },
-    {
       "word": "窃盗",
       "reading": "せっとう",
       "meaning": "sự trộm cắp"
     },
     {
-      "word": "窃視",
-      "reading": "せっし",
-      "meaning": "thị dâm"
+      "word": "窃盗品",
+      "reading": "せっとうひん",
+      "meaning": "hàng mất trộm"
     },
     {
-      "word": "剽窃",
-      "reading": "ひょうせつ",
-      "meaning": "sự ăn cắp văn"
+      "word": "窃盗罪",
+      "reading": "せっとうざい",
+      "meaning": "tội ăn trộm"
     },
     {
-      "word": "鼠窃",
-      "reading": "そせつ",
-      "meaning": "kẻ trộm"
+      "word": "窃盗団",
+      "reading": "せっとうだん",
+      "meaning": "nhóm ăn trộm"
     },
     {
-      "word": "窃か",
-      "reading": "ひそか",
-      "meaning": "bí mật"
+      "word": "窃盗犯",
+      "reading": "せっとうはん",
+      "meaning": "sự ăn trộm"
     },
     {
       "word": "窃盗癖",
@@ -131,9 +121,19 @@
       "meaning": "người ăn cắp vặt"
     },
     {
-      "word": "窃盗団",
-      "reading": "せっとうだん",
-      "meaning": "nhóm ăn trộm"
+      "word": "剽窃",
+      "reading": "ひょうせつ",
+      "meaning": "sự ăn cắp văn"
+    },
+    {
+      "word": "窃取",
+      "reading": "せっしゅ",
+      "meaning": "sự ăn trộm"
+    },
+    {
+      "word": "窃視",
+      "reading": "せっし",
+      "meaning": "thị dâm"
     }
   ]
 }

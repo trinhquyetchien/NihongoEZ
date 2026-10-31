@@ -92,26 +92,6 @@
       "meaning": "vách đá dốc đứng"
     },
     {
-      "word": "懸崖",
-      "reading": "けんがい",
-      "meaning": "vách đá nhô ra ngoài"
-    },
-    {
-      "word": "崎崖",
-      "reading": "きがい",
-      "meaning": "độ dốc của ngọn núi"
-    },
-    {
-      "word": "崖道",
-      "reading": "がけみち",
-      "meaning": "đường ven vách đá"
-    },
-    {
-      "word": "断崖",
-      "reading": "だんがい",
-      "meaning": "hàng vách đá dốc đứng"
-    },
-    {
       "word": "崖上",
       "reading": "がいじょう",
       "meaning": "cliff top"
@@ -127,14 +107,34 @@
       "meaning": "thời điểm quan trọng"
     },
     {
+      "word": "崖崩れ",
+      "reading": "がけくずれ",
+      "meaning": "sạt lở đất"
+    },
+    {
+      "word": "崎崖",
+      "reading": "きがい",
+      "meaning": "độ dốc của ngọn núi"
+    },
+    {
+      "word": "断層崖",
+      "reading": "だんそうがい",
+      "meaning": "vách đứt gãy"
+    },
+    {
+      "word": "断崖",
+      "reading": "だんがい",
+      "meaning": "hàng vách đá dốc đứng"
+    },
+    {
       "word": "海食崖",
       "reading": "かいしょくがい",
       "meaning": "vách đá nhô ra biển"
     },
     {
-      "word": "崖崩れ",
-      "reading": "がけくずれ",
-      "meaning": "sạt lở đất"
+      "word": "磨崖仏",
+      "reading": "まがいぶつ",
+      "meaning": "phật chạm khắc"
     }
   ]
 }

@@ -86,14 +86,34 @@
   ],
   "vocabulary": [
     {
+      "word": "弘大",
+      "reading": "こうだい",
+      "meaning": "vĩ đại"
+    },
+    {
+      "word": "弘化",
+      "reading": "こうか",
+      "meaning": "thời đại koka"
+    },
+    {
+      "word": "弘長",
+      "reading": "こうちょう",
+      "meaning": "thời kouchou"
+    },
+    {
+      "word": "弘仁",
+      "reading": "こうにん",
+      "meaning": "thời kounin"
+    },
+    {
       "word": "弘遠",
       "reading": "こうえん",
       "meaning": "tác dụng lớn và rộng lớn"
     },
     {
-      "word": "弘大",
-      "reading": "こうだい",
-      "meaning": "vĩ đại"
+      "word": "弘仁格",
+      "reading": "こうにんきゃく",
+      "meaning": "quy định kỷ nguyên konin"
     },
     {
       "word": "弘法",
@@ -109,26 +129,6 @@
       "word": "元弘",
       "reading": "げんこう",
       "meaning": "genkou era"
-    },
-    {
-      "word": "弘仁",
-      "reading": "こうにん",
-      "meaning": "thời kounin"
-    },
-    {
-      "word": "寛弘",
-      "reading": "かんこう",
-      "meaning": "thời kankou"
-    },
-    {
-      "word": "弘長",
-      "reading": "こうちょう",
-      "meaning": "thời kouchou"
-    },
-    {
-      "word": "弘化",
-      "reading": "こうか",
-      "meaning": "thời đại koka"
     },
     {
       "word": "弘治",

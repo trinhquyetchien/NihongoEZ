@@ -93,19 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "混播",
-      "reading": "こんぱ",
-      "meaning": "hạt giống hỗn hợp"
-    },
-    {
-      "word": "混む",
-      "reading": "こむ",
-      "meaning": "đông đúc"
-    },
-    {
-      "word": "混戦",
-      "reading": "こんせん",
-      "meaning": "hỗn chiến"
+      "word": "混乱",
+      "reading": "こんらん",
+      "meaning": "hỗn độn"
     },
     {
       "word": "混雑",
@@ -118,11 +108,6 @@
       "meaning": "hỗn hợp"
     },
     {
-      "word": "混和",
-      "reading": "こんわ",
-      "meaning": "thứ pha trộn"
-    },
-    {
       "word": "混同",
       "reading": "こんどう",
       "meaning": "sự lẫn lộn"
@@ -133,14 +118,29 @@
       "meaning": "lai"
     },
     {
-      "word": "混乱",
-      "reading": "こんらん",
-      "meaning": "hỗn độn"
+      "word": "大混乱",
+      "reading": "だいこんらん",
+      "meaning": "cuộc hỗn loạn lớn"
     },
     {
-      "word": "三混",
-      "reading": "さんこん",
-      "meaning": "vắc-xin kết hợp phòng bệnh bạch hầu"
+      "word": "混ぜ物",
+      "reading": "まぜもの",
+      "meaning": "vật bị pha trộn"
+    },
+    {
+      "word": "混合気",
+      "reading": "こんごうき",
+      "meaning": "hỗn hợp khí"
+    },
+    {
+      "word": "混合物",
+      "reading": "こんごうぶつ",
+      "meaning": "hợp chất"
+    },
+    {
+      "word": "混合体",
+      "reading": "こんごうたい",
+      "meaning": "hỗn hợp"
     }
   ]
 }

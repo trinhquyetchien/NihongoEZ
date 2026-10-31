@@ -37,6 +37,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "疏水",
+      "reading": "そすい",
+      "meaning": "kênh"
+    },
+    {
       "word": "上疏",
       "reading": "じょうそ",
       "meaning": "sớ tâu vua"
@@ -45,11 +50,6 @@
       "word": "弁疏",
       "reading": "べんそ",
       "meaning": "tha lỗi"
-    },
-    {
-      "word": "疏水",
-      "reading": "そすい",
-      "meaning": "kênh"
     },
     {
       "word": "疏注",

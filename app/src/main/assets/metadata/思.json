@@ -91,34 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "思い思い",
-      "reading": "おもいおもい",
-      "meaning": "tùy ý"
-    },
-    {
-      "word": "思考",
-      "reading": "しこう",
-      "meaning": "sự suy nghĩ"
-    },
-    {
-      "word": "思慮",
-      "reading": "しりょ",
-      "meaning": "sự thận trọng"
-    },
-    {
-      "word": "思惑",
-      "reading": "おもわく",
-      "meaning": "đầu cơ"
-    },
-    {
-      "word": "意思",
-      "reading": "いし",
-      "meaning": "dự định"
-    },
-    {
-      "word": "思索",
-      "reading": "しさく",
-      "meaning": "sự ngẫm nghĩ"
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "nghĩ"
     },
     {
       "word": "思想",
@@ -126,19 +101,44 @@
       "meaning": "tâm ý"
     },
     {
-      "word": "思弁",
-      "reading": "しべん",
-      "meaning": "sự suy nghĩ nhận thức bằng tư duy logic thông thường"
+      "word": "意思",
+      "reading": "いし",
+      "meaning": "dự định"
     },
     {
-      "word": "思潮",
-      "reading": "しちょう",
-      "meaning": "hướng về tư duy"
+      "word": "思わず",
+      "reading": "おもわず",
+      "meaning": "bất giác"
     },
     {
-      "word": "思惟",
-      "reading": "しい",
-      "meaning": "tư duy"
+      "word": "思考",
+      "reading": "しこう",
+      "meaning": "sự suy nghĩ"
+    },
+    {
+      "word": "思うに",
+      "reading": "おもうに",
+      "meaning": "thử nghĩ rằng"
+    },
+    {
+      "word": "思い",
+      "reading": "おもい",
+      "meaning": "cảm thấy"
+    },
+    {
+      "word": "主思い",
+      "reading": "しゅうおもい",
+      "meaning": "làm cho lo lắng khoảng người chủ ai đó có những quan hệ"
+    },
+    {
+      "word": "思わく",
+      "reading": "おもわく",
+      "meaning": "cách nghĩ"
+    },
+    {
+      "word": "思わぬ",
+      "reading": "おもわぬ",
+      "meaning": "bất ngờ"
     }
   ]
 }

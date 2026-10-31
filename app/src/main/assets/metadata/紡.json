@@ -88,44 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "混紡",
-      "reading": "こんぼう",
-      "meaning": "chỉ hỗn hợp"
-    },
-    {
-      "word": "綿紡",
-      "reading": "めんぼう",
-      "meaning": "bông quay"
-    },
-    {
-      "word": "紡糸",
-      "reading": "ぼうし",
-      "meaning": "sự xe chỉ"
-    },
-    {
       "word": "紡績",
       "reading": "ぼうせき",
       "meaning": "dệt"
-    },
-    {
-      "word": "紡錘",
-      "reading": "ぼうすい",
-      "meaning": "con suốt xe chỉ"
-    },
-    {
-      "word": "紡毛",
-      "reading": "ぼうもう",
-      "meaning": "len được chảy"
-    },
-    {
-      "word": "紡織",
-      "reading": "ぼうしょく",
-      "meaning": "dệt"
-    },
-    {
-      "word": "紡機",
-      "reading": "ぼうき",
-      "meaning": "quay máy"
     },
     {
       "word": "紡ぐ",
@@ -133,9 +98,44 @@
       "meaning": "kéo sợi"
     },
     {
-      "word": "紡車",
-      "reading": "ぼうしゃ",
-      "meaning": "bánh xe xoay tròn"
+      "word": "紡ぎ歌",
+      "reading": "つむぎうた",
+      "meaning": "quay bài hát"
+    },
+    {
+      "word": "綿紡",
+      "reading": "めんぼう",
+      "meaning": "bông quay"
+    },
+    {
+      "word": "紡績工",
+      "reading": "ぼうせきこう",
+      "meaning": "công nhân kéo sợi"
+    },
+    {
+      "word": "紡績糸",
+      "reading": "ぼうせきいと",
+      "meaning": "mệt lử nói chuyện"
+    },
+    {
+      "word": "紡錘",
+      "reading": "ぼうすい",
+      "meaning": "con suốt xe chỉ"
+    },
+    {
+      "word": "筋紡錘",
+      "reading": "きんぼうすい",
+      "meaning": "thoi cơ"
+    },
+    {
+      "word": "紡錘体",
+      "reading": "ぼうすいたい",
+      "meaning": "bộ máy trục chính"
+    },
+    {
+      "word": "紡錘車",
+      "reading": "ぼうすいしゃ",
+      "meaning": "bánh xe trục chính"
     }
   ]
 }

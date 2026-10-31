@@ -87,34 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "詠誦",
-      "reading": "えいしょう",
-      "meaning": "kể lại nghệ thuật thơ"
-    },
-    {
-      "word": "吟詠",
-      "reading": "ぎんえい",
-      "meaning": "sự đọc thuộc lòng bài thơ"
-    },
-    {
-      "word": "偶詠",
-      "reading": "ぐうえい",
-      "meaning": "sự ngâm thơ ngẫu hứng"
-    },
-    {
-      "word": "題詠",
-      "reading": "だいえい",
-      "meaning": "sự sáng tác thơ theo chủ đề"
-    },
-    {
-      "word": "諷詠",
-      "reading": "ふうえい",
-      "meaning": "sự sáng tác thơ"
-    },
-    {
-      "word": "詠進",
-      "reading": "えいしん",
-      "meaning": "sự biểu diễn thơ ở hoàng cung hoặc điện thờ"
+      "word": "旧詠",
+      "reading": "きゅうえい",
+      "meaning": "những bài thơ cổ xưa"
     },
     {
       "word": "詠唱",
@@ -122,19 +97,44 @@
       "meaning": "sự niệm chú"
     },
     {
-      "word": "詠歌",
-      "reading": "えいか",
-      "meaning": "thơ"
-    },
-    {
       "word": "詠吟",
       "reading": "えいぎん",
       "meaning": "sự ngâm thơ"
     },
     {
-      "word": "詠草",
-      "reading": "えいそう",
-      "meaning": "bản thảo"
+      "word": "詠み人",
+      "reading": "よみびと",
+      "meaning": "tác giả"
+    },
+    {
+      "word": "詠む",
+      "reading": "よむ",
+      "meaning": "đếm"
+    },
+    {
+      "word": "賦詠",
+      "reading": "ふえい",
+      "meaning": "bài thơ"
+    },
+    {
+      "word": "詠う",
+      "reading": "うたう",
+      "meaning": "đếm"
+    },
+    {
+      "word": "吟詠",
+      "reading": "ぎんえい",
+      "meaning": "sự đọc thuộc lòng bài thơ"
+    },
+    {
+      "word": "詠嘆",
+      "reading": "えいたん",
+      "meaning": "sự cảm thán"
+    },
+    {
+      "word": "御詠歌",
+      "reading": "ごえいか",
+      "meaning": "một bài hát được hát bởi những tín đồ bình thường không phải là nhà sư trong những chuyến hành hương đến các ngôi chùa và các địa điểm linh thiêng"
     }
   ]
 }

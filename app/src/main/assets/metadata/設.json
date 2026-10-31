@@ -89,19 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "施設の設計と建設",
-      "reading": "しせつのせっけいとけんせつ",
-      "meaning": "thiết kế và xây dựng các cơ sở"
-    },
-    {
-      "word": "病院の設計と建設",
-      "reading": "びょういんのせっけいとけんせつ",
-      "meaning": "thiết kế và xây dựng bệnh viện"
-    },
-    {
-      "word": "施設",
-      "reading": "しせつ",
-      "meaning": "cơ sở hạ tầng"
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "sự thiết kế"
     },
     {
       "word": "建設",
@@ -109,34 +99,44 @@
       "meaning": "sự kiến thiết"
     },
     {
-      "word": "既設",
-      "reading": "きせつ",
-      "meaning": "đã thiết lập"
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "sự trang bị"
     },
     {
-      "word": "私設",
+      "word": "設定",
+      "reading": "せってい",
+      "meaning": "sự cài đặt"
+    },
+    {
+      "word": "施設",
       "reading": "しせつ",
-      "meaning": "tư lập"
+      "meaning": "cơ sở hạ tầng"
     },
     {
-      "word": "設変",
-      "reading": "せっぺん",
-      "meaning": "sự thay đổi thiết kế"
-    },
-    {
-      "word": "常設",
-      "reading": "じょうせつ",
-      "meaning": "lâu dài"
-    },
-    {
-      "word": "設問",
-      "reading": "せつもん",
-      "meaning": "hỏi"
-    },
-    {
-      "word": "併設",
-      "reading": "へいせつ",
+      "word": "設置",
+      "reading": "せっち",
       "meaning": "sự thành lập"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaning": "sự thiết lập"
+    },
+    {
+      "word": "設定時",
+      "reading": "せっていじ",
+      "meaning": "giờ cài đặt"
+    },
+    {
+      "word": "建設的",
+      "reading": "けんせつてき",
+      "meaning": "có tính cách xây dựng"
+    },
+    {
+      "word": "建設者",
+      "reading": "けんせつしゃ",
+      "meaning": "kiến trúc sư"
     }
   ]
 }

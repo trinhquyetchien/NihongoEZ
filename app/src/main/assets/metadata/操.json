@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "操",
-      "reading": "みさお",
-      "meaning": "danh dự"
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "sự thao tác"
     },
     {
-      "word": "情操",
-      "reading": "じょうそう",
-      "meaning": "tình cảm"
+      "word": "体操",
+      "reading": "たいそう",
+      "meaning": "môn thể dục"
     },
     {
-      "word": "操短",
-      "reading": "そうたん",
-      "meaning": "sự cắt bớt hay rút ngắn các thao tác"
+      "word": "操縦",
+      "reading": "そうじゅう",
+      "meaning": "việc điều hành"
     },
     {
-      "word": "操守",
-      "reading": "そうしゅ",
-      "meaning": "sự kiên định"
+      "word": "操る",
+      "reading": "あやつる",
+      "meaning": "kéo sợi dây"
     },
     {
-      "word": "操船",
-      "reading": "そうせん",
-      "meaning": "điều khiển một ship"
+      "word": "操作的",
+      "reading": "そうさてき",
+      "meaning": "thuộc quá trình hoạt động"
     },
     {
-      "word": "貞操",
-      "reading": "ていそう",
-      "meaning": "trinh tháo"
+      "word": "操作者",
+      "reading": "そうさしゃ",
+      "meaning": "người vận hành"
     },
     {
-      "word": "操行",
-      "reading": "そうこう",
-      "meaning": "chỉ đạo"
+      "word": "操作性",
+      "reading": "そうさせい",
+      "meaning": "tính khả dụng"
     },
     {
-      "word": "操車",
-      "reading": "そうしゃ",
-      "meaning": "thao tác những tàu hỏa)"
+      "word": "手操作",
+      "reading": "てそうさ",
+      "meaning": "quy trình thủ công"
     },
     {
-      "word": "操舵",
-      "reading": "そうだ",
-      "meaning": "sự lái tàu"
+      "word": "子操作",
+      "reading": "こそうさ",
+      "meaning": "phép tính con"
     },
     {
-      "word": "節操",
-      "reading": "せっそう",
-      "meaning": "sự kiên định"
+      "word": "操作部",
+      "reading": "そうさぶ",
+      "meaning": "phòng vận hành"
     }
   ]
 }

@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "bạn"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "sự phát triển"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "sự đưa cho"
+    },
+    {
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaning": "giao gấp"
+    },
+    {
+      "word": "達成",
+      "reading": "たっせい",
+      "meaning": "thành tựu"
+    },
+    {
+      "word": "到達",
+      "reading": "とうたつ",
+      "meaning": "sự đạt đến"
+    },
+    {
+      "word": "伝達",
+      "reading": "でんたつ",
+      "meaning": "sự truyền"
+    },
+    {
       "word": "達",
       "reading": "たち",
       "meaning": "những"
     },
     {
+      "word": "達て",
+      "reading": "たって",
+      "meaning": "trạng thái hy vọng hoặc yêu cầu mạnh mẽ"
+    },
+    {
       "word": "私達",
       "reading": "わたしたち",
       "meaning": "chúng tôi"
-    },
-    {
-      "word": "遅達",
-      "reading": "ちたつ",
-      "meaning": "sự chuyển phát muộn"
-    },
-    {
-      "word": "熟達",
-      "reading": "じゅくたつ",
-      "meaning": "sự thông hiểu"
-    },
-    {
-      "word": "達す",
-      "reading": "たっす",
-      "meaning": "tiếp cận"
-    },
-    {
-      "word": "俺達",
-      "reading": "おれたち",
-      "meaning": "chúng tôi"
-    },
-    {
-      "word": "達し",
-      "reading": "たっし",
-      "meaning": "sự báo"
-    },
-    {
-      "word": "女達",
-      "reading": "おんなたち",
-      "meaning": "phụ nữ"
-    },
-    {
-      "word": "達観",
-      "reading": "たっかん",
-      "meaning": "sự viễn thị"
-    },
-    {
-      "word": "必達",
-      "reading": "ひったつ",
-      "meaning": "điều nhất định phải đạt được"
     }
   ]
 }

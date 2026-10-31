@@ -97,9 +97,24 @@
       "meaning": "khiêm tốn"
     },
     {
+      "word": "謙遜語",
+      "reading": "けんそんご",
+      "meaning": "khiêm tốn ngữ"
+    },
+    {
+      "word": "謙辞",
+      "reading": "けんじ",
+      "meaning": "khiêm nhường"
+    },
+    {
       "word": "謙譲",
       "reading": "けんじょう",
       "meaning": "khiêm nhường"
+    },
+    {
+      "word": "謙譲語",
+      "reading": "けんじょうご",
+      "meaning": "từ khiêm tốn"
     },
     {
       "word": "謙称",
@@ -117,24 +132,9 @@
       "meaning": "sự hạ mình"
     },
     {
-      "word": "謙辞",
-      "reading": "けんじ",
-      "meaning": "khiêm nhường"
-    },
-    {
       "word": "謙る",
       "reading": "へりくだる",
       "meaning": "nhún nhường"
-    },
-    {
-      "word": "謙遜語",
-      "reading": "けんそんご",
-      "meaning": "khiêm tốn ngữ"
-    },
-    {
-      "word": "謙譲語",
-      "reading": "けんじょうご",
-      "meaning": "từ khiêm tốn"
     }
   ]
 }

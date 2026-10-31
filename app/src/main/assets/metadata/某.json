@@ -95,34 +95,9 @@
       "meaning": "nào đó"
     },
     {
-      "word": "某某",
-      "reading": "ぼうぼう",
-      "meaning": "người tưởng tượng ra"
-    },
-    {
-      "word": "某省",
-      "reading": "ぼうしょう",
-      "meaning": "một bộ nào đó trong chính phủ"
-    },
-    {
-      "word": "誰某",
-      "reading": "だれそれ",
-      "meaning": "người nào đó"
-    },
-    {
-      "word": "某所",
-      "reading": "ぼうしょ",
-      "meaning": "một nơi nào đó"
-    },
-    {
       "word": "某日",
       "reading": "ぼうじつ",
       "meaning": "ngày nào đó"
-    },
-    {
-      "word": "某国",
-      "reading": "ぼうこく",
-      "meaning": "một nước nọ"
     },
     {
       "word": "某月",
@@ -130,14 +105,39 @@
       "meaning": "một tháng nào đó"
     },
     {
-      "word": "某誌",
-      "reading": "ぼうし",
-      "meaning": "một sự công bố nhất định"
+      "word": "何の某",
+      "reading": "なんのなにがし",
+      "meaning": "...gì đó"
+    },
+    {
+      "word": "誰某",
+      "reading": "だれそれ",
+      "meaning": "người nào đó"
     },
     {
       "word": "某々",
       "reading": "ぼうぼう",
       "meaning": "ông này"
+    },
+    {
+      "word": "某高校",
+      "reading": "ぼうこうこう",
+      "meaning": "một trường học cao nhất định"
+    },
+    {
+      "word": "某誌",
+      "reading": "ぼうし",
+      "meaning": "một sự công bố nhất định"
+    },
+    {
+      "word": "某省",
+      "reading": "ぼうしょう",
+      "meaning": "một bộ nào đó trong chính phủ"
+    },
+    {
+      "word": "某所",
+      "reading": "ぼうしょ",
+      "meaning": "một nơi nào đó"
     }
   ]
 }

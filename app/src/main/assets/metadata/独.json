@@ -90,29 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "独",
-      "reading": "どく",
-      "meaning": "độc"
+      "word": "独特",
+      "reading": "どくとく",
+      "meaning": "độc đáo"
     },
     {
-      "word": "独立独歩",
-      "reading": "どくりつどっぽ",
-      "meaning": "sự tự lực"
-    },
-    {
-      "word": "独立独行",
-      "reading": "どくりつどっこう",
-      "meaning": "độc lập hành động"
-    },
-    {
-      "word": "独り",
-      "reading": "ひとり",
-      "meaning": "độc"
-    },
-    {
-      "word": "独女",
-      "reading": "どくじょ",
-      "meaning": "người phụ nữ độc thân"
+      "word": "独身",
+      "reading": "どくしん",
+      "meaning": "đời sống độc thân"
     },
     {
       "word": "孤独",
@@ -120,24 +105,39 @@
       "meaning": "cô đơn"
     },
     {
-      "word": "独語",
-      "reading": "どくご",
-      "meaning": "tiếng đức"
+      "word": "単独",
+      "reading": "たんどく",
+      "meaning": "đơn độc"
     },
     {
-      "word": "抗独",
-      "reading": "こうどく",
-      "meaning": "sự chống lại nước đức"
+      "word": "独占",
+      "reading": "どくせん",
+      "meaning": "độc chiếm"
+    },
+    {
+      "word": "独裁",
+      "reading": "どくさい",
+      "meaning": "chế độ độc tài"
+    },
+    {
+      "word": "独創",
+      "reading": "どくそう",
+      "meaning": "sự tự sáng tác"
+    },
+    {
+      "word": "独",
+      "reading": "どく",
+      "meaning": "độc"
+    },
+    {
+      "word": "日独",
+      "reading": "にちどく",
+      "meaning": "nhật-đức"
     },
     {
       "word": "数独",
       "reading": "すうどく",
       "meaning": "trò chơi sudoku"
-    },
-    {
-      "word": "独文",
-      "reading": "どくぶん",
-      "meaning": "văn học đức"
     }
   ]
 }

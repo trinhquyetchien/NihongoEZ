@@ -107,14 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "特捜",
-      "reading": "とくそう",
-      "meaning": "sự khảo sát đặc biệt"
-    },
-    {
-      "word": "博捜",
-      "reading": "はくそう",
-      "meaning": "tìm kiếm rộng rãi"
+      "word": "捜査",
+      "reading": "そうさ",
+      "meaning": "sự điều tra"
     },
     {
       "word": "捜索",
@@ -122,29 +117,19 @@
       "meaning": "sự tìm kiếm"
     },
     {
-      "word": "捜す",
-      "reading": "さがす",
-      "meaning": "tìm kiếm"
-    },
-    {
-      "word": "捜査",
-      "reading": "そうさ",
-      "meaning": "sự điều tra"
-    },
-    {
       "word": "捜査員",
       "reading": "そうさいん",
       "meaning": "điều tra viên"
     },
     {
-      "word": "捜索隊",
-      "reading": "そうさくたい",
-      "meaning": "đội tìm kiếm"
+      "word": "捜査線",
+      "reading": "そうさせん",
+      "meaning": "phương hướng điều tra"
     },
     {
-      "word": "捜し物",
-      "reading": "さがしもの",
-      "meaning": "vật đang được tìm kiếm"
+      "word": "再捜査",
+      "reading": "さいそうさ",
+      "meaning": "điều tra lại"
     },
     {
       "word": "捜査官",
@@ -152,9 +137,24 @@
       "meaning": "điều tra viên"
     },
     {
-      "word": "科捜研",
-      "reading": "かそうけん",
-      "meaning": "khoa nghiện cứu"
+      "word": "捜査権",
+      "reading": "そうさけん",
+      "meaning": "quyền điều tra"
+    },
+    {
+      "word": "捜査陣",
+      "reading": "そうさじん",
+      "meaning": "tổ khảo sát phạm tội"
+    },
+    {
+      "word": "捜査課",
+      "reading": "そうさか",
+      "meaning": "ban điều tra"
+    },
+    {
+      "word": "捜査網",
+      "reading": "そうさもう",
+      "meaning": "mạng lưới điều tra"
     }
   ]
 }

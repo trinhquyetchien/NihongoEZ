@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "勧",
-      "reading": "カン",
-      "meaning": "giới thiệu"
+      "word": "勧める",
+      "reading": "すすめる",
+      "meaning": "khuyên"
     },
     {
       "word": "勧め",
@@ -100,44 +100,44 @@
       "meaning": "khuyến cáo"
     },
     {
-      "word": "勧請",
-      "reading": "かんじょう",
-      "meaning": "việc thỉnh thần về để thờ cúng"
+      "word": "勧誘",
+      "reading": "かんゆう",
+      "meaning": "sự khuyên bảo"
     },
     {
-      "word": "勧学",
-      "reading": "かんがく",
-      "meaning": "sự động viên việc học"
+      "word": "勧告",
+      "reading": "かんこく",
+      "meaning": "sự khuyến cáo"
     },
     {
-      "word": "勧進",
-      "reading": "かんじん",
-      "meaning": "sự hướng thiện"
+      "word": "お勧め",
+      "reading": "おすすめ",
+      "meaning": "đề xuất"
     },
     {
-      "word": "勧説",
-      "reading": "かんぜい",
-      "meaning": "giải thích rõ ràng và khuyến khích"
+      "word": "勧誘員",
+      "reading": "かんゆういん",
+      "meaning": "người đi vận động bỏ phiếu"
     },
     {
-      "word": "勧化",
-      "reading": "かんげ",
-      "meaning": "sự đi quyên góp để xây dựng"
+      "word": "勧告者",
+      "reading": "かんこくしゃ",
+      "meaning": "người khuyên bảo"
     },
     {
-      "word": "勧賞",
-      "reading": "かんしょう",
-      "meaning": "việc khen thưởng"
+      "word": "勧告状",
+      "reading": "かんこくじょう",
+      "meaning": "thư thông báo"
     },
     {
-      "word": "勧農",
-      "reading": "かんのう",
-      "meaning": "sự khuyến nông"
+      "word": "勧告案",
+      "reading": "かんこくあん",
+      "meaning": "khuyến cáo"
     },
     {
-      "word": "勧降",
-      "reading": "かんこう",
-      "meaning": "gọi để dâng nộp"
+      "word": "勧",
+      "reading": "カン",
+      "meaning": "giới thiệu"
     }
   ]
 }

@@ -88,16 +88,6 @@
       "meaning": "mộ cổ"
     },
     {
-      "word": "墳丘",
-      "reading": "ふんきゅう",
-      "meaning": "phần mộ"
-    },
-    {
-      "word": "方墳",
-      "reading": "ほうふん",
-      "meaning": "ngôi mộ được đắp theo hình vuông"
-    },
-    {
       "word": "円墳",
       "reading": "えんふん",
       "meaning": "đất chôn cất"
@@ -108,9 +98,19 @@
       "meaning": "phần mộ"
     },
     {
+      "word": "墳丘",
+      "reading": "ふんきゅう",
+      "meaning": "phần mộ"
+    },
+    {
       "word": "墳丘墓",
       "reading": "ふんきゅうぼ",
       "meaning": "nấm mồ"
+    },
+    {
+      "word": "方墳",
+      "reading": "ほうふん",
+      "meaning": "ngôi mộ được đắp theo hình vuông"
     },
     {
       "word": "古墳時代",
@@ -118,14 +118,14 @@
       "meaning": "thời kỳ phần mộ lịch sử tiếng nhật)"
     },
     {
-      "word": "前方後円墳",
-      "reading": "ぜんぽうこうえんふん",
-      "meaning": "lăng mộ của các hoàng đế ngày xưa"
-    },
-    {
       "word": "上円下方墳",
       "reading": "じょうえんかほうふん",
       "meaning": "gò mộ có đáy vuông"
+    },
+    {
+      "word": "前方後円墳",
+      "reading": "ぜんぽうこうえんふん",
+      "meaning": "lăng mộ của các hoàng đế ngày xưa"
     }
   ]
 }

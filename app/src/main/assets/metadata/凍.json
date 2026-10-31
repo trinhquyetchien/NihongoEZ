@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "凍",
-      "reading": "こお",
+      "word": "凍る",
+      "reading": "こおる",
+      "meaning": "đặc"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "sự làm đông lạnh"
+    },
+    {
+      "word": "凍える",
+      "reading": "こごえる",
       "meaning": "đóng băng"
     },
     {
-      "word": "凍港",
-      "reading": "とうこう",
-      "meaning": "cảng đóng băng"
+      "word": "冷凍の",
+      "reading": "れいとうの",
+      "meaning": "đông lạnh"
     },
     {
-      "word": "凍肉",
-      "reading": "とうにく",
-      "meaning": "thịt đông lạnh"
+      "word": "冷凍車",
+      "reading": "れいとうしゃ",
+      "meaning": "ô tô tủ ướp lạnh"
     },
     {
-      "word": "凍害",
-      "reading": "とうがい",
-      "meaning": "sự thiệt hại do sương giá"
+      "word": "冷凍機",
+      "reading": "れいとうき",
+      "meaning": "tủ ướp lạnh"
     },
     {
-      "word": "凍原",
-      "reading": "とうげん",
-      "meaning": "tunđra"
+      "word": "冷凍室",
+      "reading": "れいとうしつ",
+      "meaning": "phòng lạnh"
     },
     {
-      "word": "凍土",
-      "reading": "とうど",
-      "meaning": "đất bị đông cứng"
+      "word": "冷凍品",
+      "reading": "れいとうひん",
+      "meaning": "hàng đông lạnh"
     },
     {
-      "word": "凍雨",
-      "reading": "とうう",
-      "meaning": "mưa mùa đông"
+      "word": "冷凍船",
+      "reading": "れいとうせん",
+      "meaning": "tủ ướp lạnh ship"
     },
     {
-      "word": "解凍",
-      "reading": "かいとう",
-      "meaning": "sự rã đông"
-    },
-    {
-      "word": "凍寒",
-      "reading": "とうかん",
-      "meaning": "sự buốt giá"
-    },
-    {
-      "word": "凍瘡",
-      "reading": "とうそう",
-      "meaning": "chứng cước ở chân tay"
+      "word": "冷凍肉",
+      "reading": "れいとうにく",
+      "meaning": "thịt đông"
     }
   ]
 }

@@ -91,34 +91,9 @@
       "meaning": "cái vịnh nhỏ"
     },
     {
-      "word": "津津浦浦",
-      "reading": "つつうらうら",
-      "meaning": "mọi nơi mọi chỗ"
-    },
-    {
-      "word": "全国津津浦浦",
-      "reading": "ぜんこくつつうらうら",
-      "meaning": "tất cả qua nước"
-    },
-    {
-      "word": "浦波",
-      "reading": "うらなみ",
-      "meaning": "sóng bên bờ biển"
-    },
-    {
-      "word": "浦辺",
-      "reading": "うらべ",
-      "meaning": "bờ biển"
-    },
-    {
-      "word": "浦里",
-      "reading": "うらざと",
-      "meaning": "làng ven biển"
-    },
-    {
-      "word": "曲浦",
-      "reading": "きょくほ",
-      "meaning": "cuốn bờ biển"
+      "word": "浦人",
+      "reading": "うらびと",
+      "meaning": "người cư trú"
     },
     {
       "word": "浦回",
@@ -126,14 +101,39 @@
       "meaning": "việc chèo thuyền vòng quanh một vịnh"
     },
     {
+      "word": "曲浦",
+      "reading": "きょくほ",
+      "meaning": "cuốn bờ biển"
+    },
+    {
       "word": "浦曲",
       "reading": "うらみ",
       "meaning": "bờ biển gồ ghề"
     },
     {
-      "word": "浦人",
-      "reading": "うらびと",
-      "meaning": "người cư trú"
+      "word": "浦風",
+      "reading": "うらかぜ",
+      "meaning": "gió thoảng từ biển"
+    },
+    {
+      "word": "浦波",
+      "reading": "うらなみ",
+      "meaning": "sóng bên bờ biển"
+    },
+    {
+      "word": "浦菊",
+      "reading": "うらぎく",
+      "meaning": "thảo mộc lâu năm thuộc họ asteraceae"
+    },
+    {
+      "word": "浦島草",
+      "reading": "うらしまそう",
+      "meaning": "cây bắt mồi"
+    },
+    {
+      "word": "浦辺",
+      "reading": "うらべ",
+      "meaning": "bờ biển"
     }
   ]
 }

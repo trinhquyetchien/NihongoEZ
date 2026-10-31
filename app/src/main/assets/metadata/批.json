@@ -87,26 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "批点",
-      "reading": "ひてん",
-      "meaning": "sự sửa chữa đánh dấu"
-    },
-    {
-      "word": "批准",
-      "reading": "ひじゅん",
-      "meaning": "sự phê chuẩn"
-    },
-    {
-      "word": "批難",
-      "reading": "ひなん",
-      "meaning": "khiển trách"
-    },
-    {
-      "word": "高批",
-      "reading": "こうひ",
-      "meaning": "sự phê bình"
-    },
-    {
       "word": "批判",
       "reading": "ひはん",
       "meaning": "phê phán"
@@ -117,9 +97,29 @@
       "meaning": "sự bình luận"
     },
     {
-      "word": "批議",
-      "reading": "ひぎ",
-      "meaning": "khiển trách"
+      "word": "批判的",
+      "reading": "ひはんてき",
+      "meaning": "một cách phê phán"
+    },
+    {
+      "word": "批判者",
+      "reading": "ひはんしゃ",
+      "meaning": "nhà phê bình"
+    },
+    {
+      "word": "批判力",
+      "reading": "ひはんりょく",
+      "meaning": "sức mạnh phê bình"
+    },
+    {
+      "word": "無批判",
+      "reading": "むひはん",
+      "meaning": "thiếu óc phê bình"
+    },
+    {
+      "word": "批評家",
+      "reading": "ひひょうか",
+      "meaning": "nhà phê bình"
     },
     {
       "word": "批評眼",
@@ -127,9 +127,9 @@
       "meaning": "con mắt phê bình"
     },
     {
-      "word": "批判者",
-      "reading": "ひはんしゃ",
-      "meaning": "nhà phê bình"
+      "word": "批准",
+      "reading": "ひじゅん",
+      "meaning": "sự phê chuẩn"
     },
     {
       "word": "批准書",

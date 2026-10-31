@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "幹",
-      "reading": "みき",
-      "meaning": "thân cây"
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "tàu siêu tốc"
     },
     {
       "word": "幹部",
@@ -99,44 +99,44 @@
       "meaning": "phụ trách"
     },
     {
-      "word": "幹ポリマー",
-      "reading": "かんポリマー",
-      "meaning": "polyme nền"
-    },
-    {
-      "word": "幹理",
-      "reading": "かんり",
-      "meaning": "sự trông nom"
-    },
-    {
-      "word": "才幹",
-      "reading": "さいかん",
-      "meaning": "tài cán"
-    },
-    {
-      "word": "根幹",
-      "reading": "こんかん",
-      "meaning": "cái cốt lõi"
-    },
-    {
-      "word": "語幹",
-      "reading": "ごかん",
-      "meaning": "gốc từ"
-    },
-    {
-      "word": "樹幹",
-      "reading": "じゅかん",
+      "word": "幹",
+      "reading": "みき",
       "meaning": "thân cây"
-    },
-    {
-      "word": "幹竹",
-      "reading": "からたけ",
-      "meaning": "tre madake"
     },
     {
       "word": "幹線",
       "reading": "かんせん",
       "meaning": "tuyến chính"
+    },
+    {
+      "word": "幹部会",
+      "reading": "かんぶかい",
+      "meaning": "ban cán bộ"
+    },
+    {
+      "word": "党幹部",
+      "reading": "とうかんぶ",
+      "meaning": "đảng viên cao cấp"
+    },
+    {
+      "word": "幹事",
+      "reading": "かんじ",
+      "meaning": "sự điều phối"
+    },
+    {
+      "word": "幹事会",
+      "reading": "かんじかい",
+      "meaning": "ăn cơm tháng những thống đốc"
+    },
+    {
+      "word": "幹事長",
+      "reading": "かんじちょう",
+      "meaning": "trưởng cán sự"
+    },
+    {
+      "word": "体幹",
+      "reading": "たいかん",
+      "meaning": "bộ phận thân mình"
     }
   ]
 }

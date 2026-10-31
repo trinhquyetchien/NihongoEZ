@@ -94,34 +94,14 @@
       "meaning": "bảo"
     },
     {
-      "word": "宝永通宝",
-      "reading": "ほうえいつうほう",
-      "meaning": "coin used during the hōei period"
+      "word": "宝石",
+      "reading": "ほうせき",
+      "meaning": "bảo thạch"
     },
     {
-      "word": "宝字",
-      "reading": "ほうじ",
-      "meaning": "chữ kanji \"宝\" trên mặt trước của đồng xu"
-    },
-    {
-      "word": "東宝",
-      "reading": "とうほう",
-      "meaning": "toho"
-    },
-    {
-      "word": "宝塚",
-      "reading": "たからづか",
-      "meaning": "cosplay"
-    },
-    {
-      "word": "国宝",
-      "reading": "こくほう",
-      "meaning": "quốc bảo"
-    },
-    {
-      "word": "財宝",
-      "reading": "ざいほう",
-      "meaning": "kho báu"
+      "word": "宝器",
+      "reading": "ほうき",
+      "meaning": "bảo vật"
     },
     {
       "word": "重宝",
@@ -129,14 +109,34 @@
       "meaning": "báu vật"
     },
     {
-      "word": "宝刀",
-      "reading": "ほうとう",
-      "meaning": "tích lũy thanh gươm"
+      "word": "万宝",
+      "reading": "ばんぽう",
+      "meaning": "nhiều bảo vật"
     },
     {
       "word": "宝号",
       "reading": "ほうごう",
       "meaning": "name"
+    },
+    {
+      "word": "宝箱",
+      "reading": "たからばこ",
+      "meaning": "hộp châu báu"
+    },
+    {
+      "word": "宝字",
+      "reading": "ほうじ",
+      "meaning": "chữ kanji \"宝\" trên mặt trước của đồng xu"
+    },
+    {
+      "word": "宝玉",
+      "reading": "ほうぎょく",
+      "meaning": "đá quí"
+    },
+    {
+      "word": "輪宝",
+      "reading": "りんぼう",
+      "meaning": "kho báu năm bánh xe"
     }
   ]
 }

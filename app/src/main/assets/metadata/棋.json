@@ -94,6 +94,16 @@
       "meaning": "cờ bạc"
     },
     {
+      "word": "将棋盤",
+      "reading": "しょうぎばん",
+      "meaning": "bàn cờ"
+    },
+    {
+      "word": "棋士",
+      "reading": "きし",
+      "meaning": "ngưòi chơi cờ chuyên nghiệp"
+    },
+    {
       "word": "棋譜",
       "reading": "きふ",
       "meaning": "kết quả trò chơi"
@@ -104,14 +114,19 @@
       "meaning": "việc đánh cờ"
     },
     {
+      "word": "棋聖",
+      "reading": "きせい",
+      "meaning": "người chơi cờ shogi giỏi"
+    },
+    {
+      "word": "棋力",
+      "reading": "きりょく",
+      "meaning": "trình độ trong đánh cờ"
+    },
+    {
       "word": "象棋",
       "reading": "しょうぎ",
       "meaning": "cờ tướng"
-    },
-    {
-      "word": "棋道",
-      "reading": "きどう",
-      "meaning": "nghệ thuật chơi cờ shogi hay cờ go"
     },
     {
       "word": "棋界",
@@ -119,24 +134,9 @@
       "meaning": "thế giới của những người chơi cờ go"
     },
     {
-      "word": "棋客",
-      "reading": "きかく",
-      "meaning": "người chơi cờ"
-    },
-    {
       "word": "棋風",
       "reading": "きふう",
       "meaning": "phong cách chơi cờ"
-    },
-    {
-      "word": "棋士",
-      "reading": "きし",
-      "meaning": "ngưòi chơi cờ chuyên nghiệp"
-    },
-    {
-      "word": "棋局",
-      "reading": "ききょく",
-      "meaning": "bàn cờ vây"
     }
   ]
 }

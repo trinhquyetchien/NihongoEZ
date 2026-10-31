@@ -83,29 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "逮夜",
-      "reading": "たいや",
-      "meaning": "đêm trước ngày tiến hành chôn cất người chết"
-    },
-    {
       "word": "逮捕",
       "reading": "たいほ",
       "meaning": "bắt bỏ tù"
     },
     {
-      "word": "逮捕歴",
-      "reading": "たいほれき",
-      "meaning": "bản ghi phạm tội"
-    },
-    {
       "word": "逮捕者",
       "reading": "たいほしゃ",
       "meaning": "người bắt giam"
-    },
-    {
-      "word": "逮捕状",
-      "reading": "たいほじょう",
-      "meaning": "giấy chứng nhận bắt giữ"
     },
     {
       "word": "再逮捕",
@@ -118,19 +103,34 @@
       "meaning": "quyền bắt giữ"
     },
     {
+      "word": "逮捕状",
+      "reading": "たいほじょう",
+      "meaning": "giấy chứng nhận bắt giữ"
+    },
+    {
+      "word": "逮捕歴",
+      "reading": "たいほれき",
+      "meaning": "bản ghi phạm tội"
+    },
+    {
+      "word": "逮夜",
+      "reading": "たいや",
+      "meaning": "đêm trước ngày tiến hành chôn cất người chết"
+    },
+    {
       "word": "逮捕する",
       "reading": "たいほする",
       "meaning": "bắt"
     },
     {
-      "word": "常人逮捕",
-      "reading": "じょうじんたいほ",
-      "meaning": "người dân bình thường"
+      "word": "逮捕される",
+      "reading": "たいほされる",
+      "meaning": "để được giữ"
     },
     {
-      "word": "逮捕許諾",
-      "reading": "たいほきょだく",
-      "meaning": "tước bỏ một thành viên ¡n kiêng sự miễn trừ giữ"
+      "word": "逮捕記録",
+      "reading": "たいほきろく",
+      "meaning": "bản ghi giữ"
     }
   ]
 }

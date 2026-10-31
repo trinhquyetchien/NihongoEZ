@@ -92,11 +92,6 @@
       "meaning": "trong"
     },
     {
-      "word": "に於ける",
-      "reading": "における",
-      "meaning": "liên quan đến"
-    },
-    {
       "word": "に於いて",
       "reading": "において",
       "meaning": "trong"
@@ -105,6 +100,11 @@
       "word": "此処に於て",
       "reading": "ここにおいて",
       "meaning": "tại đây"
+    },
+    {
+      "word": "に於ける",
+      "reading": "における",
+      "meaning": "liên quan đến"
     },
     {
       "word": "正義の名に於て",

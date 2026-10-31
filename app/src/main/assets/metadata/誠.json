@@ -94,9 +94,29 @@
       "meaning": "niềm tin"
     },
     {
-      "word": "誠心誠意",
-      "reading": "せいしんせいい",
-      "meaning": "sự thành tâm thành ý"
+      "word": "誠実",
+      "reading": "せいじつ",
+      "meaning": "sự thành thật"
+    },
+    {
+      "word": "誠に",
+      "reading": "まことに",
+      "meaning": "thực sự"
+    },
+    {
+      "word": "誠実な",
+      "reading": "せいじつな",
+      "meaning": "thực thà"
+    },
+    {
+      "word": "忠誠",
+      "reading": "ちゅうせい",
+      "meaning": "sự trung thành"
+    },
+    {
+      "word": "忠誠心",
+      "reading": "ちゅうせいしん",
+      "meaning": "lòng trung thành"
     },
     {
       "word": "誠情",
@@ -109,34 +129,14 @@
       "meaning": "chân thành"
     },
     {
-      "word": "丹誠",
-      "reading": "たんせい",
-      "meaning": "sự hết lòng"
+      "word": "不誠意",
+      "reading": "ふせいい",
+      "meaning": "không có thành ý"
     },
     {
-      "word": "熱誠",
-      "reading": "ねっせい",
-      "meaning": "lòng nhiệt thành"
-    },
-    {
-      "word": "誠忠",
-      "reading": "せいちゅう",
-      "meaning": "lòng trung thành"
-    },
-    {
-      "word": "誠心",
-      "reading": "せいしん",
-      "meaning": "thành tâm"
-    },
-    {
-      "word": "赤誠",
-      "reading": "せきせい",
-      "meaning": "sự thật thà"
-    },
-    {
-      "word": "至誠",
-      "reading": "しせい",
-      "meaning": "thành thật"
+      "word": "不誠実",
+      "reading": "ふせいじつ",
+      "meaning": "tính không thành thực"
     }
   ]
 }

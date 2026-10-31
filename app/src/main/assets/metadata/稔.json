@@ -52,16 +52,6 @@
   ],
   "vocabulary": [
     {
-      "word": "豊稔",
-      "reading": "ほうねん",
-      "meaning": "cái cản gặt hái"
-    },
-    {
-      "word": "稔り",
-      "reading": "みのり",
-      "meaning": "chín"
-    },
-    {
       "word": "稔性",
       "reading": "ねんせい",
       "meaning": "khả năng sinh sản"
@@ -72,14 +62,24 @@
       "meaning": "tính không màu mỡ"
     },
     {
-      "word": "稔実不良",
-      "reading": "ねんじつふりょう",
-      "meaning": "vụ mùa thất bát"
+      "word": "豊稔",
+      "reading": "ほうねん",
+      "meaning": "cái cản gặt hái"
+    },
+    {
+      "word": "稔り",
+      "reading": "みのり",
+      "meaning": "chín"
     },
     {
       "word": "植物不稔性",
       "reading": "しょくぶつふねんせー",
       "meaning": "không tạo ra hạt"
+    },
+    {
+      "word": "稔実不良",
+      "reading": "ねんじつふりょう",
+      "meaning": "vụ mùa thất bát"
     }
   ]
 }

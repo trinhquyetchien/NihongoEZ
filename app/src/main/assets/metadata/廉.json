@@ -92,24 +92,9 @@
       "meaning": "góc"
     },
     {
-      "word": "低廉",
-      "reading": "ていれん",
-      "meaning": "rẻ"
-    },
-    {
-      "word": "清廉",
-      "reading": "せいれん",
-      "meaning": "sự thanh liêm"
-    },
-    {
-      "word": "廉直",
-      "reading": "れんちょく",
-      "meaning": "sự thanh liêm"
-    },
-    {
-      "word": "一廉",
-      "reading": "ひとかど",
-      "meaning": "sự vượt trội"
+      "word": "廉々",
+      "reading": "かどかど",
+      "meaning": "từng điểm"
     },
     {
       "word": "廉価",
@@ -117,24 +102,39 @@
       "meaning": "giá rẻ"
     },
     {
+      "word": "廉価版",
+      "reading": "れんかばん",
+      "meaning": "phiên bản đại chúng"
+    },
+    {
+      "word": "廉価品",
+      "reading": "れんかひん",
+      "meaning": "hàng hóa rẻ"
+    },
+    {
+      "word": "清廉",
+      "reading": "せいれん",
+      "meaning": "sự thanh liêm"
+    },
+    {
+      "word": "清廉な",
+      "reading": "せいれんな",
+      "meaning": "thanh liêm"
+    },
+    {
+      "word": "破廉恥",
+      "reading": "はれんち",
+      "meaning": "sự ô nhục"
+    },
+    {
+      "word": "低廉",
+      "reading": "ていれん",
+      "meaning": "rẻ"
+    },
+    {
       "word": "廉売",
       "reading": "れんばい",
       "meaning": "sự giao kèo mua bán"
-    },
-    {
-      "word": "廉恥",
-      "reading": "れんち",
-      "meaning": "liêm sỉ"
-    },
-    {
-      "word": "廉々",
-      "reading": "かどかど",
-      "meaning": "từng điểm"
-    },
-    {
-      "word": "廉潔",
-      "reading": "れんけつ",
-      "meaning": "trung thực"
     }
   ]
 }

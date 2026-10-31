@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "測光測定器レンタル",
-      "reading": "そっこうそくていきレンタル",
-      "meaning": "cho thuê máy đo ánh sáng"
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "sự báo trước"
     },
     {
-      "word": "測定測量機器レンタル",
-      "reading": "そくていそくりょうききレンタル",
-      "meaning": "cho thuê thiết bị đo đạc"
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "sự quan trắc"
     },
     {
-      "word": "がいそく 概測",
-      "reading": "概測",
-      "meaning": "đo đạc sơ bộ"
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "việc đo đạc có sử dụng máy móc"
     },
     {
-      "word": "計測",
-      "reading": "けいそく",
-      "meaning": "sự đo lường"
+      "word": "測量",
+      "reading": "そくりょう",
+      "meaning": "dò"
     },
     {
-      "word": "測鎖",
-      "reading": "そくさ",
-      "meaning": "xích bằng sắt dùng để đo khoảng cách"
+      "word": "推測",
+      "reading": "すいそく",
+      "meaning": "sự đoán"
     },
     {
-      "word": "探測",
-      "reading": "たんそく",
-      "meaning": "thăm dò"
+      "word": "観測者",
+      "reading": "かんそくしゃ",
+      "meaning": "người theo dõi"
     },
     {
-      "word": "天測",
-      "reading": "てんそく",
-      "meaning": "sự quan sát thiên văn"
+      "word": "観測所",
+      "reading": "かんそくじょ",
+      "meaning": "đài quan sát"
     },
     {
-      "word": "測地",
-      "reading": "そくち",
-      "meaning": "trắc địa"
+      "word": "観測船",
+      "reading": "かんそくせん",
+      "meaning": "quan sát ship"
     },
     {
-      "word": "測度",
-      "reading": "そくど",
-      "meaning": "phép đo"
+      "word": "観測値",
+      "reading": "かんそくち",
+      "meaning": "giá trị được quan sát"
     },
     {
-      "word": "不測",
-      "reading": "ふそく",
-      "meaning": "bất trắc"
+      "word": "測定法",
+      "reading": "そくていほう",
+      "meaning": "phương pháp phép đo"
     }
   ]
 }

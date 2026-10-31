@@ -92,9 +92,34 @@
       "meaning": "khoảng cách"
     },
     {
-      "word": "側溝",
-      "reading": "そっこう",
-      "meaning": "chảy"
+      "word": "溝入れ",
+      "reading": "みぞいれ",
+      "meaning": "sự đục rãnh"
+    },
+    {
+      "word": "溝水",
+      "reading": "どぶみず",
+      "meaning": "nước cống"
+    },
+    {
+      "word": "溝型",
+      "reading": "みぞかた",
+      "meaning": "loại có rãnh"
+    },
+    {
+      "word": "脳溝",
+      "reading": "のうこう",
+      "meaning": "khe"
+    },
+    {
+      "word": "溝五位",
+      "reading": "みぞごい",
+      "meaning": "japanese night heron"
+    },
+    {
+      "word": "逃げ溝",
+      "reading": "にげみぞ",
+      "meaning": "rãnh giải phóng mặt bằng"
     },
     {
       "word": "キー溝",
@@ -102,39 +127,14 @@
       "meaning": "rãnh then"
     },
     {
-      "word": "溝鼠",
-      "reading": "どぶねずみ",
-      "meaning": "màu nâu chuột"
-    },
-    {
-      "word": "溝渠",
-      "reading": "こうきょ",
-      "meaning": "mương rãnh"
-    },
-    {
-      "word": "溝レール",
-      "reading": "みぞレール",
-      "meaning": "làm rãnh mòn đường ray"
-    },
-    {
-      "word": "海溝",
-      "reading": "かいこう",
-      "meaning": "chiều sâu"
-    },
-    {
-      "word": "畝溝",
-      "reading": "うねみぞ",
-      "meaning": "cày những đỉnh"
-    },
-    {
       "word": "溝板",
       "reading": "どぶいた",
       "meaning": "tấm bê tông phủ bên trên rãnh thoát nước"
     },
     {
-      "word": "溝川",
-      "reading": "どぶがわ",
-      "meaning": "rãnh bẩn"
+      "word": "共同溝",
+      "reading": "きょうどうこう",
+      "meaning": "hầm tiện ích"
     }
   ]
 }

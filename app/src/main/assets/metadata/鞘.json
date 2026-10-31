@@ -55,24 +55,9 @@
       "meaning": "phần bao bên ngoài"
     },
     {
-      "word": "海鞘",
-      "reading": "ほや",
-      "meaning": "biển làm nước vọt ra"
-    },
-    {
-      "word": "鮫鞘",
-      "reading": "さめざや",
-      "meaning": "bao kiếm da cá mập"
-    },
-    {
-      "word": "髄鞘",
-      "reading": "ずいしょう",
-      "meaning": "bao myelin"
-    },
-    {
-      "word": "ミエリン鞘",
-      "reading": "ミエリンしょう",
-      "meaning": "bao myelin"
+      "word": "元鞘",
+      "reading": "もとさや",
+      "meaning": "sự trở lại bình thường"
     },
     {
       "word": "鞘長",
@@ -80,24 +65,39 @@
       "meaning": "loligo bleekeri"
     },
     {
-      "word": "朱鞘",
-      "reading": "しゅざや",
-      "meaning": "vỏ sơn màu đỏ son"
-    },
-    {
-      "word": "元鞘",
-      "reading": "もとさや",
-      "meaning": "sự trở lại bình thường"
-    },
-    {
-      "word": "利鞘",
-      "reading": "りざや",
-      "meaning": "chênh lệch lợi nhuận+ lợi nhuận của từng đơn vị sản lượng được biểu hiện dưới dạng một số phần trăm của giá"
-    },
-    {
       "word": "逆鞘",
       "reading": "ぎゃくざや",
       "meaning": "phủ định lan truyền"
+    },
+    {
+      "word": "鞘入り",
+      "reading": "さやいり",
+      "meaning": "bao bọc"
+    },
+    {
+      "word": "鞘尻",
+      "reading": "さやじり",
+      "meaning": "đuôi vỏ kiếm"
+    },
+    {
+      "word": "鞘葉",
+      "reading": "しょうよう",
+      "meaning": "lá đầu tiên của mạ"
+    },
+    {
+      "word": "鞘入",
+      "reading": "さやいり",
+      "meaning": "được bảo vệ"
+    },
+    {
+      "word": "金利鞘",
+      "reading": "きんりしょう",
+      "meaning": "làm quan tâm lề"
+    },
+    {
+      "word": "朱鞘",
+      "reading": "しゅざや",
+      "meaning": "vỏ sơn màu đỏ son"
     }
   ]
 }

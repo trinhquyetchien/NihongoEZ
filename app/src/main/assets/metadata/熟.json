@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "熟",
-      "reading": "つくづく",
-      "meaning": "tỉ mỉ"
-    },
-    {
-      "word": "熟睡",
-      "reading": "じゅくすい",
-      "meaning": "sự ngủ say"
-    },
-    {
-      "word": "熟達",
-      "reading": "じゅくたつ",
-      "meaning": "sự thông hiểu"
-    },
-    {
-      "word": "習熟",
-      "reading": "しゅうじゅく",
-      "meaning": "sự thành thạo"
-    },
-    {
       "word": "熟語",
       "reading": "じゅくご",
       "meaning": "cụm từ"
     },
     {
-      "word": "熟慮",
-      "reading": "じゅくりょ",
-      "meaning": "sự suy nghĩ cân nhắc kỹ"
+      "word": "未熟",
+      "reading": "みじゅく",
+      "meaning": "chưa có kinh nghiệm"
     },
     {
-      "word": "熟練",
-      "reading": "じゅくれん",
-      "meaning": "kĩ năng"
+      "word": "成熟",
+      "reading": "せいじゅく",
+      "meaning": "sự thành thục"
     },
     {
-      "word": "熟成",
-      "reading": "じゅくせい",
-      "meaning": "trưởng thành"
+      "word": "熟",
+      "reading": "つくづく",
+      "meaning": "tỉ mỉ"
     },
     {
-      "word": "練熟",
-      "reading": "れんじゅく",
-      "meaning": "sự tài giỏi"
+      "word": "熟せる",
+      "reading": "こなせる",
+      "meaning": "nghiền"
     },
     {
-      "word": "熟字",
-      "reading": "じゅくじ",
-      "meaning": "từ ghép chữ hán"
+      "word": "熟食",
+      "reading": "じゅくしょく",
+      "meaning": "thức ăn được nấu kỹ"
+    },
+    {
+      "word": "過熟児",
+      "reading": "かじゅくじ",
+      "meaning": "đứa trẻ sinh muộn ngày"
+    },
+    {
+      "word": "性成熟",
+      "reading": "せいせいじゅく",
+      "meaning": "sự trưởng thành tình dục"
+    },
+    {
+      "word": "成熟度",
+      "reading": "せいじゅくど",
+      "meaning": "sự thành thục"
+    },
+    {
+      "word": "成熟期",
+      "reading": "せいじゅくき",
+      "meaning": "thời thanh niên"
     }
   ]
 }

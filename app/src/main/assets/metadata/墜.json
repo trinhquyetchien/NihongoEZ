@@ -88,19 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "撃墜",
-      "reading": "げきつい",
-      "meaning": "sự bắn rơi máy bay"
-    },
-    {
-      "word": "墜死",
-      "reading": "ついし",
-      "meaning": "cái chết do rơi từ trên cao"
-    },
-    {
       "word": "墜落",
       "reading": "ついらく",
       "meaning": "sự rơi từ trên cao"
+    },
+    {
+      "word": "撃墜",
+      "reading": "げきつい",
+      "meaning": "sự bắn rơi máy bay"
     },
     {
       "word": "失墜",
@@ -113,9 +108,14 @@
       "meaning": "rơi xuống"
     },
     {
-      "word": "墜落事故",
-      "reading": "ついらくじこ",
-      "meaning": "vụ va chạm máy bay"
+      "word": "墜死",
+      "reading": "ついし",
+      "meaning": "cái chết do rơi từ trên cao"
+    },
+    {
+      "word": "墜落する",
+      "reading": "ついらくする",
+      "meaning": "rớt"
     },
     {
       "word": "墜落場所",
@@ -123,19 +123,19 @@
       "meaning": "địa điểm rơi"
     },
     {
-      "word": "巨星墜つ",
-      "reading": "きょせいおつ",
-      "meaning": "sự ra đi của một vĩ nhân"
+      "word": "墜落事故",
+      "reading": "ついらくじこ",
+      "meaning": "vụ va chạm máy bay"
     },
     {
-      "word": "人気失墜",
-      "reading": "にんきしっつい",
-      "meaning": "giảm nhiệt"
+      "word": "撃墜する",
+      "reading": "げきつい",
+      "meaning": "bắn rơi máy bay"
     },
     {
-      "word": "失墜する",
-      "reading": "しっつい",
-      "meaning": "làm nhục"
+      "word": "撃墜される",
+      "reading": "げきついされる",
+      "meaning": "bị bắn"
     }
   ]
 }

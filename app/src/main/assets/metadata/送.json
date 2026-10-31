@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
+      "word": "送る",
+      "reading": "おくる",
+      "meaning": "gửi"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "sự phát thanh"
+    },
+    {
+      "word": "輸送",
+      "reading": "ゆそう",
+      "meaning": "chuyên chở"
+    },
+    {
       "word": "運送",
       "reading": "うんそう",
       "meaning": "sự vận chuyển"
     },
     {
-      "word": "急送",
-      "reading": "きゅうそう",
-      "meaning": "gửi đi"
+      "word": "送金",
+      "reading": "そうきん",
+      "meaning": "sự gửi tiền"
     },
     {
-      "word": "再送",
-      "reading": "さいそう",
-      "meaning": "gửi lại"
+      "word": "回送",
+      "reading": "かいそう",
+      "meaning": "xe không đón khách"
     },
     {
-      "word": "送話",
-      "reading": "そうわ",
-      "meaning": "sự truyền"
+      "word": "送り",
+      "reading": "おくり",
+      "meaning": "gửi"
     },
     {
-      "word": "宅送",
-      "reading": "たくそう",
-      "meaning": "sự chuyển phát tận nhà"
+      "word": "発送",
+      "reading": "はっそう",
+      "meaning": "bốc hàng"
     },
     {
-      "word": "送像",
-      "reading": "そうぞう",
-      "meaning": "truyền tải"
+      "word": "配送",
+      "reading": "はいそう",
+      "meaning": "sự giao hàng"
     },
     {
-      "word": "同送",
-      "reading": "どうそう",
-      "meaning": "gửi cùng lúc với các vật khác"
-    },
-    {
-      "word": "給送",
-      "reading": "きゅうそう",
-      "meaning": "cung cấp"
-    },
-    {
-      "word": "送電",
-      "reading": "そうでん",
-      "meaning": "sự tải điện"
-    },
-    {
-      "word": "送出",
-      "reading": "そうしゅつ",
-      "meaning": "sự gửi"
+      "word": "移送",
+      "reading": "いそう",
+      "meaning": "sự di chuyển"
     }
   ]
 }

@@ -74,14 +74,9 @@
   ],
   "vocabulary": [
     {
-      "word": "古",
-      "reading": "いにしえ",
-      "meaning": "cổ"
-    },
-    {
-      "word": "千古万古",
-      "reading": "せんこばんこ",
-      "meaning": "sự trường tồn mãi mãi"
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "cũ"
     },
     {
       "word": "古典",
@@ -94,34 +89,39 @@
       "meaning": "sự khổ luyện"
     },
     {
-      "word": "古里",
-      "reading": "ふるさと",
-      "meaning": "quê hương"
+      "word": "古代",
+      "reading": "こだい",
+      "meaning": "cổ"
     },
     {
-      "word": "古跡",
-      "reading": "こせき",
-      "meaning": "cổ tích"
+      "word": "古",
+      "reading": "いにしえ",
+      "meaning": "cổ"
     },
     {
-      "word": "古蹟",
-      "reading": "こせき",
-      "meaning": "lịch sử làm đổ nát"
+      "word": "古女",
+      "reading": "ごまめ",
+      "meaning": "người đàn bà lớn tuổi"
     },
     {
-      "word": "古来",
-      "reading": "こらい",
-      "meaning": "tử biệt"
+      "word": "先古",
+      "reading": "せんこ",
+      "meaning": "thời báo cổ xưa"
     },
     {
-      "word": "古都",
-      "reading": "こと",
-      "meaning": "thành phố cổ xưa"
+      "word": "古曲",
+      "reading": "こきょく",
+      "meaning": "âm nhạc thời cổ đại"
     },
     {
-      "word": "古風",
-      "reading": "こふう",
-      "meaning": "kiểu cổ"
+      "word": "古す",
+      "reading": "ふるす",
+      "meaning": "cũ đi"
+    },
+    {
+      "word": "古訳",
+      "reading": "こやく",
+      "meaning": "bản dịch kinh sau huyền trang đời đường"
     }
   ]
 }

@@ -91,39 +91,29 @@
   ],
   "vocabulary": [
     {
-      "word": "潤い",
-      "reading": "うるおい",
-      "meaning": "độ ẩm"
-    },
-    {
-      "word": "適潤",
-      "reading": "てきじゅん",
-      "meaning": "đủ ẩm"
-    },
-    {
-      "word": "浸潤",
-      "reading": "しんじゅん",
-      "meaning": "sự thấm qua"
-    },
-    {
       "word": "潤う",
       "reading": "うるおう",
       "meaning": "ẩm ướt"
     },
     {
-      "word": "湿潤",
-      "reading": "しつじゅん",
-      "meaning": "sự ẩm ướt"
+      "word": "利潤",
+      "reading": "りじゅん",
+      "meaning": "lời lãi"
     },
     {
-      "word": "潤色",
-      "reading": "じゅんしょく",
-      "meaning": "sự hoa mỹ"
+      "word": "潤目",
+      "reading": "うるめ",
+      "meaning": "cá trích tròn"
     },
     {
-      "word": "潤み",
-      "reading": "うるみ",
-      "meaning": "mờ đục đi"
+      "word": "潤ける",
+      "reading": "うるける",
+      "meaning": "trở thành ẩm ướt"
+    },
+    {
+      "word": "潤かす",
+      "reading": "うるかす",
+      "meaning": "ngâm"
     },
     {
       "word": "潤滑",
@@ -131,9 +121,19 @@
       "meaning": "sự bình lặng"
     },
     {
-      "word": "潤目",
-      "reading": "うるめ",
-      "meaning": "cá trích tròn"
+      "word": "潤滑剤",
+      "reading": "じゅんかつざい",
+      "meaning": "chất bôi trơn"
+    },
+    {
+      "word": "潤滑油",
+      "reading": "じゅんかつゆ",
+      "meaning": "dầu nhờn"
+    },
+    {
+      "word": "適潤",
+      "reading": "てきじゅん",
+      "meaning": "đủ ẩm"
     },
     {
       "word": "潤飾",

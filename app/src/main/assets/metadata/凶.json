@@ -87,44 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "凶",
-      "reading": "きょう",
-      "meaning": "tội lỗi"
-    },
-    {
-      "word": "凶歉",
-      "reading": "きょうけん",
-      "meaning": "mất mùa"
-    },
-    {
       "word": "凶作",
       "reading": "きょうさく",
       "meaning": "sự mất mùa"
     },
     {
-      "word": "凶器",
-      "reading": "きょうき",
-      "meaning": "vũ khí nguy hiểm"
+      "word": "凶悪",
+      "reading": "きょうあく",
+      "meaning": "hung ác"
     },
     {
-      "word": "凶音",
-      "reading": "きょういん",
-      "meaning": "tin tức xấu"
+      "word": "凶悪性",
+      "reading": "きょうあくせい",
+      "meaning": "tính hung bạo"
     },
     {
-      "word": "凶荒",
-      "reading": "きょうこう",
-      "meaning": "nạn đói kém"
+      "word": "凶",
+      "reading": "きょう",
+      "meaning": "tội lỗi"
     },
     {
-      "word": "凶相",
-      "reading": "きょうそう",
-      "meaning": "vận xui"
-    },
-    {
-      "word": "凶党",
-      "reading": "きょうとう",
-      "meaning": "băng đảng giang hồ"
+      "word": "凶人",
+      "reading": "きょうじん",
+      "meaning": "tên vô lại"
     },
     {
       "word": "凶歳",
@@ -132,9 +117,24 @@
       "meaning": "vụ mùa thất thu"
     },
     {
-      "word": "凶事",
-      "reading": "きょうじ",
-      "meaning": "tai hoạ"
+      "word": "凶音",
+      "reading": "きょういん",
+      "meaning": "tin tức xấu"
+    },
+    {
+      "word": "凶夢",
+      "reading": "きょうむ",
+      "meaning": "ác mộng"
+    },
+    {
+      "word": "四凶",
+      "reading": "しきょう",
+      "meaning": "bốn con thú xui xẻo trong thần thoại trung quốc"
+    },
+    {
+      "word": "凶暴",
+      "reading": "きょうぼう",
+      "meaning": "hung bạo"
     }
   ]
 }

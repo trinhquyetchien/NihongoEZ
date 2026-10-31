@@ -91,34 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "跳び跳ねる",
-      "reading": "とびはねる",
-      "meaning": "nhảy nhót"
-    },
-    {
-      "word": "跳鼠",
-      "reading": "とびねずみ",
-      "meaning": "jerboas"
-    },
-    {
-      "word": "跳虫",
-      "reading": "とびむし",
-      "meaning": "bọ đuôi bật"
-    },
-    {
-      "word": "跳箱",
-      "reading": "とびばこ",
-      "meaning": "bục nhảy dùng để tập thể dục"
-    },
-    {
-      "word": "跳馬",
-      "reading": "ちょうば",
-      "meaning": "sự nhảy sào"
-    },
-    {
-      "word": "跳梁",
-      "reading": "ちょうりょう",
-      "meaning": "nhảy nhót"
+      "word": "跳ねる",
+      "reading": "はねる",
+      "meaning": "bắn"
     },
     {
       "word": "跳ね",
@@ -126,19 +101,44 @@
       "meaning": "bắn văng lên"
     },
     {
-      "word": "跳ぶ",
-      "reading": "とぶ",
-      "meaning": "nhảy lên"
+      "word": "跳ね馬",
+      "reading": "はねうま",
+      "meaning": "ngựa chứng"
     },
     {
-      "word": "跳躍",
-      "reading": "ちょうやく",
-      "meaning": "sự nhảy"
+      "word": "跳ね板",
+      "reading": "はねいた",
+      "meaning": "tấm ván nhảy"
     },
     {
-      "word": "跳人",
-      "reading": "はねと",
-      "meaning": "vũ công biểu diễn trong lễ hội nebuta"
+      "word": "泥跳ね",
+      "reading": "どろはね",
+      "meaning": "lội lõm bõm bùn"
+    },
+    {
+      "word": "高跳び",
+      "reading": "たかとび",
+      "meaning": "cao nhảy"
+    },
+    {
+      "word": "跳び板",
+      "reading": "とびいた",
+      "meaning": "ván nhún"
+    },
+    {
+      "word": "跳び虫",
+      "reading": "とびむし",
+      "meaning": "bọ đuôi bật"
+    },
+    {
+      "word": "兎跳び",
+      "reading": "うさぎとび",
+      "meaning": "nhảy lò cò về phía trước như thỏ"
+    },
+    {
+      "word": "蛙跳び",
+      "reading": "かえるとび",
+      "meaning": "trò nhảy ngựa"
     }
   ]
 }

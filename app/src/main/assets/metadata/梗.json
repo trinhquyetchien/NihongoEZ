@@ -86,34 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "梗概",
-      "reading": "こうがい",
-      "meaning": "phác thảo"
-    },
-    {
       "word": "梗塞",
       "reading": "こうそく",
       "meaning": "sự nhồi máu"
-    },
-    {
-      "word": "桔梗",
-      "reading": "ききょう",
-      "meaning": "hoa cát cánh"
-    },
-    {
-      "word": "花梗",
-      "reading": "かこう",
-      "meaning": "cuống"
-    },
-    {
-      "word": "ラクナ梗塞",
-      "reading": "ラクナこうそく",
-      "meaning": "nhồi máu&amp"
-    },
-    {
-      "word": "青梗菜",
-      "reading": "チンゲンサイ",
-      "meaning": "cải chíp"
     },
     {
       "word": "脳梗塞",
@@ -121,9 +96,14 @@
       "meaning": "nhồi máu não"
     },
     {
-      "word": "小花梗",
-      "reading": "しょうかこう",
-      "meaning": "cuống nhỏ"
+      "word": "肺梗塞",
+      "reading": "はいこうそく",
+      "meaning": "nhồi máu phổi"
+    },
+    {
+      "word": "桔梗",
+      "reading": "ききょう",
+      "meaning": "hoa cát cánh"
     },
     {
       "word": "沢桔梗",
@@ -131,9 +111,29 @@
       "meaning": "lobelia sessilifolia"
     },
     {
-      "word": "肺梗塞",
-      "reading": "はいこうそく",
-      "meaning": "nhồi máu phổi"
+      "word": "梗概",
+      "reading": "こうがい",
+      "meaning": "phác thảo"
+    },
+    {
+      "word": "青梗菜",
+      "reading": "チンゲンサイ",
+      "meaning": "cải chíp"
+    },
+    {
+      "word": "花梗",
+      "reading": "かこう",
+      "meaning": "cuống"
+    },
+    {
+      "word": "小花梗",
+      "reading": "しょうかこう",
+      "meaning": "cuống nhỏ"
+    },
+    {
+      "word": "心臓梗塞",
+      "reading": "しんぞうこうそく",
+      "meaning": "nhồi máu cơ tim"
     }
   ]
 }

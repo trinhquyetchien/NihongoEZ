@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "銘柄",
+      "reading": "めいがら",
+      "meaning": "nhãn hàng"
+    },
+    {
+      "word": "感銘",
+      "reading": "かんめい",
+      "meaning": "cảm động sâu sắc"
+    },
+    {
       "word": "銘",
       "reading": "めい",
       "meaning": "câu khắc"
     },
     {
-      "word": "銘銘",
-      "reading": "めいめい",
-      "meaning": "mỗi"
+      "word": "銘する",
+      "reading": "めいする",
+      "meaning": "khắc"
     },
     {
-      "word": "銘銘皿",
-      "reading": "めいめいざら",
-      "meaning": "đĩa nhỏ đựng thức ăn"
+      "word": "茶銘",
+      "reading": "ちゃめい",
+      "meaning": "tên trà"
     },
     {
-      "word": "銘銘膳",
-      "reading": "めいめいぜん",
-      "meaning": "bữa ăn phục vụ riêng cho từng người"
+      "word": "記銘",
+      "reading": "きめい",
+      "meaning": "sự ghi nhớ"
     },
     {
-      "word": "銘板",
-      "reading": "めいばん",
-      "meaning": "nameplate những máy)"
+      "word": "銘旗",
+      "reading": "めいき",
+      "meaning": "lá cờ có tên"
     },
     {
-      "word": "銘醸",
-      "reading": "めいじょう",
-      "meaning": "làm rượu bằng nguyên liệu đặc biệt"
-    },
-    {
-      "word": "肝銘",
-      "reading": "かんめい",
-      "meaning": "ấn tượng sâu"
-    },
-    {
-      "word": "碑銘",
-      "reading": "ひめい",
-      "meaning": "văn bia"
-    },
-    {
-      "word": "正銘",
-      "reading": "しょうめい",
-      "meaning": "bút tích viết tay xác thực"
+      "word": "銘菓",
+      "reading": "めいか",
+      "meaning": "bánh ngọt cao cấp mang nhãn hiệu nổi tiếng"
     },
     {
       "word": "無銘",
       "reading": "むめい",
       "meaning": "không đề tên tác giả"
+    },
+    {
+      "word": "銘酒",
+      "reading": "めいしゅ",
+      "meaning": "rượu ngon có nhãn hiệu riêng"
     }
   ]
 }

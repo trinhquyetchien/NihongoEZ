@@ -73,54 +73,54 @@
   ],
   "vocabulary": [
     {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "hàng ngày"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "hàng năm"
+    },
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "hàng tuần"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "hàng tháng"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "hàng sáng"
+    },
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "đêm đêm"
+    },
+    {
+      "word": "毎度",
+      "reading": "まいど",
+      "meaning": "mỗi lần"
+    },
+    {
+      "word": "毎回",
+      "reading": "まいかい",
+      "meaning": "mỗi lần"
+    },
+    {
       "word": "毎",
       "reading": "ごと",
       "meaning": "hàng"
     },
     {
-      "word": "毎毎",
-      "reading": "まいまい",
-      "meaning": "mỗi lần"
-    },
-    {
-      "word": "毎日毎日",
-      "reading": "まいにちまいにち",
-      "meaning": "ngày qua ngày"
-    },
-    {
-      "word": "日毎夜毎",
-      "reading": "ひごとよごと",
-      "meaning": "ngày và đêm"
-    },
-    {
-      "word": "毎食",
-      "reading": "まいしょく",
-      "meaning": "mỗi bữa ăn"
-    },
-    {
-      "word": "日毎",
-      "reading": "ひごと",
-      "meaning": "hằng ngày"
-    },
-    {
-      "word": "年毎",
-      "reading": "としごと",
-      "meaning": "mỗi năm"
-    },
-    {
-      "word": "毎夕",
-      "reading": "まいゆう",
-      "meaning": "mỗi buổi tối"
-    },
-    {
-      "word": "人毎",
-      "reading": "ひとごと",
-      "meaning": "cá nhân"
-    },
-    {
-      "word": "度毎",
-      "reading": "たびごと",
-      "meaning": "mọi lần"
+      "word": "毎に",
+      "reading": "ごとに",
+      "meaning": "mỗi"
     }
   ]
 }

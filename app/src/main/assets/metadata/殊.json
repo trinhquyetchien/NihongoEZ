@@ -88,24 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "行殊",
-      "reading": "ぎょうじょ",
-      "meaning": "sự kiện"
-    },
-    {
-      "word": "文殊",
-      "reading": "もんじゅ",
-      "meaning": "tính khôn ngoan siêu việt"
-    },
-    {
-      "word": "殊勲",
-      "reading": "しゅくん",
-      "meaning": "hành động đáng khen"
-    },
-    {
-      "word": "殊更",
-      "reading": "ことさら",
-      "meaning": "cố ý"
+      "word": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "đặc biệt"
     },
     {
       "word": "殊に",
@@ -113,29 +98,44 @@
       "meaning": "đặc biệt là"
     },
     {
-      "word": "殊勝",
-      "reading": "しゅしょう",
-      "meaning": "đáng quí"
-    },
-    {
-      "word": "殊遇",
-      "reading": "しゅぐう",
-      "meaning": "ưu đãi đặc biệt"
-    },
-    {
-      "word": "殊功",
-      "reading": "しゅこう",
-      "meaning": "phân biệt service"
-    },
-    {
-      "word": "特殊",
-      "reading": "とくしゅ",
-      "meaning": "đặc biệt"
+      "word": "特殊性",
+      "reading": "とくしゅせい",
+      "meaning": "tính đặc thù"
     },
     {
       "word": "特殊名",
       "reading": "とくしゅめい",
       "meaning": "tên đặc biệt"
+    },
+    {
+      "word": "特殊服",
+      "reading": "とくしゅふく",
+      "meaning": "trang phục bảo hộ đặc dụng"
+    },
+    {
+      "word": "特殊針",
+      "reading": "とくしゅはり",
+      "meaning": "kim chuyên dụng"
+    },
+    {
+      "word": "特殊鋼",
+      "reading": "とくしゅこう",
+      "meaning": "thép đặc biệt"
+    },
+    {
+      "word": "特殊解",
+      "reading": "とくしゅかい",
+      "meaning": "lời giải riêng"
+    },
+    {
+      "word": "特殊錠",
+      "reading": "とくしゅじょう",
+      "meaning": "khóa đặc biệt"
+    },
+    {
+      "word": "特殊債",
+      "reading": "とくしゅさい",
+      "meaning": "trái phiếu đặc thù"
     }
   ]
 }

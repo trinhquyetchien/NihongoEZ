@@ -91,24 +91,34 @@
       "meaning": "cây thục quỳ"
     },
     {
-      "word": "山葵",
-      "reading": "わさび",
-      "meaning": "cây rau sơn quì"
-    },
-    {
-      "word": "葵祭",
-      "reading": "あおいまつり",
-      "meaning": "lễ hội aoi được tổ chức vào ngày 15 tháng 5 của nhật bản"
-    },
-    {
-      "word": "戎葵",
-      "reading": "じゅうき",
-      "meaning": "cây thục quỳ"
+      "word": "水葵",
+      "reading": "みずあおい",
+      "meaning": "monochoria korsakowii"
     },
     {
       "word": "葵花",
       "reading": "きか",
       "meaning": "cây hướng dương"
+    },
+    {
+      "word": "花葵",
+      "reading": "はなあおい",
+      "meaning": "hoa thục quỳ"
+    },
+    {
+      "word": "冬葵",
+      "reading": "ふゆあおい",
+      "meaning": "cây dâm bụt chùm"
+    },
+    {
+      "word": "立ち葵",
+      "reading": "たちあおい",
+      "meaning": "cây thục quỳ"
+    },
+    {
+      "word": "寒葵",
+      "reading": "かんあおい",
+      "meaning": "asarum nipponicum"
     },
     {
       "word": "銭葵",
@@ -121,19 +131,9 @@
       "meaning": "giấy nautilus"
     },
     {
-      "word": "花葵",
-      "reading": "はなあおい",
-      "meaning": "hoa thục quỳ"
-    },
-    {
-      "word": "立葵",
-      "reading": "たちあおい",
-      "meaning": "cây thục quỳ"
-    },
-    {
-      "word": "寒葵",
-      "reading": "かんあおい",
-      "meaning": "asarum nipponicum"
+      "word": "向日葵",
+      "reading": "ひまわり",
+      "meaning": "hoa hướng dương"
     }
   ]
 }

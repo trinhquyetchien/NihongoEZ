@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "審尋",
-      "reading": "しんじん",
-      "meaning": "việc thẩm vấn"
-    },
-    {
-      "word": "審美",
-      "reading": "しんび",
-      "meaning": "thẩm mỹ"
-    },
-    {
       "word": "審判",
       "reading": "しんぱん",
       "meaning": "trọng tài"
     },
     {
-      "word": "政審",
-      "reading": "せいしん",
-      "meaning": "ủy ban xem xét chính sách"
+      "word": "審査",
+      "reading": "しんさ",
+      "meaning": "sự thẩm tra"
     },
     {
-      "word": "米審",
-      "reading": "べいしん",
-      "meaning": "gạo đặt giá hội đồng thảo luận"
+      "word": "審議",
+      "reading": "しんぎ",
+      "meaning": "thẩm nghị"
     },
     {
-      "word": "審決",
-      "reading": "しんけつ",
-      "meaning": "quyết định xét xử"
+      "word": "不審",
+      "reading": "ふしん",
+      "meaning": "không rõ ràng"
     },
     {
-      "word": "対審",
-      "reading": "たいしん",
-      "meaning": "đối chất"
+      "word": "審査員",
+      "reading": "しんさいん",
+      "meaning": "thẩm tra viên"
     },
     {
-      "word": "前審",
-      "reading": "ぜんしん",
-      "meaning": "những cuộc xử án sơ bộ"
+      "word": "再審査",
+      "reading": "さいしんさ",
+      "meaning": "sự xem xét lại"
     },
     {
-      "word": "勘審",
-      "reading": "かんしん",
-      "meaning": "sự khảo sát cẩn thận"
+      "word": "審査官",
+      "reading": "しんさかん",
+      "meaning": "giám khảo"
     },
     {
-      "word": "審問",
-      "reading": "しんもん",
-      "meaning": "sự thẩm vấn"
+      "word": "審議会",
+      "reading": "しんぎかい",
+      "meaning": "ủy nhiệm điều tra"
+    },
+    {
+      "word": "審議官",
+      "reading": "しんぎかん",
+      "meaning": "thứ trưởng"
+    },
+    {
+      "word": "不審者",
+      "reading": "ふしんしゃ",
+      "meaning": "kẻ khả nghi"
     }
   ]
 }

@@ -36,24 +36,9 @@
       "meaning": "chim hải âu"
     },
     {
-      "word": "フルマ鴎",
-      "reading": "フルマかもめ",
-      "meaning": "hải âu fumma"
-    },
-    {
-      "word": "鴎髱",
-      "reading": "かもめづと",
-      "meaning": "búi tóc giống như lông đuôi xòe của hải âu"
-    },
-    {
       "word": "笑い鴎",
       "reading": "わらいかもめ",
       "meaning": "mòng biển cười"
-    },
-    {
-      "word": "斑フルマ鴎",
-      "reading": "まだらフルマかもめ",
-      "meaning": "daption capense"
     },
     {
       "word": "背黒鴎",
@@ -61,14 +46,14 @@
       "meaning": "mòng biển cá trích châu âu"
     },
     {
+      "word": "水鴎流",
+      "reading": "すいおうりゅう",
+      "meaning": "suio ryu"
+    },
+    {
       "word": "盗賊鴎",
       "reading": "とうぞくかもめ",
       "meaning": "chim cướp biển"
-    },
-    {
-      "word": "大フルマ鴎",
-      "reading": "おおフルマかもめ",
-      "meaning": "chim hải yến khổng lồ phương nam"
     },
     {
       "word": "三指鴎",
@@ -76,9 +61,24 @@
       "meaning": "kittiwake đen - chân"
     },
     {
-      "word": "水鴎流",
-      "reading": "すいおうりゅう",
-      "meaning": "suio ryu"
+      "word": "鴎髱",
+      "reading": "かもめづと",
+      "meaning": "búi tóc giống như lông đuôi xòe của hải âu"
+    },
+    {
+      "word": "百合鴎",
+      "reading": "ゆりかもめ",
+      "meaning": "chim mòng biển đầu đen"
+    },
+    {
+      "word": "黒盗賊鴎",
+      "reading": "くろとうぞくかもめ",
+      "meaning": "stercorarius parasiticus"
+    },
+    {
+      "word": "白腹盗賊鴎",
+      "reading": "しろはらとうぞくかもめ",
+      "meaning": "hải âu đuôi dài"
     }
   ]
 }

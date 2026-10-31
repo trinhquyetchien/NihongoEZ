@@ -90,19 +90,14 @@
   ],
   "vocabulary": [
     {
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning": "giá sách"
+    },
+    {
       "word": "棚",
       "reading": "たな",
       "meaning": "cái giá"
-    },
-    {
-      "word": "軽量棚専用棚",
-      "reading": "けいりょうたなせんようたな",
-      "meaning": "kệ chuyên dụng cho kệ nhẹ"
-    },
-    {
-      "word": "中量棚専用棚",
-      "reading": "ちゅうりょうたなせんようたな",
-      "meaning": "kệ chuyên dụng cho kệ trung tải"
     },
     {
       "word": "戸棚",
@@ -110,9 +105,14 @@
       "meaning": "giá đựng bát đĩa"
     },
     {
-      "word": "本棚",
-      "reading": "ほんだな",
-      "meaning": "giá sách"
+      "word": "店棚",
+      "reading": "みせだな",
+      "meaning": "kệ bày đồ trong cửa hàng"
+    },
+    {
+      "word": "薬棚",
+      "reading": "やくだな",
+      "meaning": "kệ để thuốc"
     },
     {
       "word": "棚板",
@@ -120,14 +120,9 @@
       "meaning": "kệ sách"
     },
     {
-      "word": "書棚",
-      "reading": "しょだな",
-      "meaning": "giá sách"
-    },
-    {
-      "word": "岩棚",
-      "reading": "いわだな",
-      "meaning": "một khu vực đá nhô ra bằng phẳng như một cái kệ"
+      "word": "棚経",
+      "reading": "たなぎょう",
+      "meaning": "việc tụng kinh trước bàn thờ bon hoặc bàn thờ phật trong thời gian lễ hội obon"
     },
     {
       "word": "棚氷",
@@ -135,9 +130,14 @@
       "meaning": "thềm băng"
     },
     {
-      "word": "棚田",
-      "reading": "たなだ",
-      "meaning": "ruộng bậc thang"
+      "word": "岩棚",
+      "reading": "いわだな",
+      "meaning": "một khu vực đá nhô ra bằng phẳng như một cái kệ"
+    },
+    {
+      "word": "釣り棚",
+      "reading": "つりだな",
+      "meaning": "giá treo"
     }
   ]
 }

@@ -91,9 +91,29 @@
   ],
   "vocabulary": [
     {
+      "word": "旦那",
+      "reading": "だんな",
+      "meaning": "ông chủ"
+    },
+    {
+      "word": "大旦那",
+      "reading": "おおだんな",
+      "meaning": "ông chủ"
+    },
+    {
+      "word": "旦那様",
+      "reading": "だんなさま",
+      "meaning": "người chồng"
+    },
+    {
       "word": "末那",
       "reading": "まな",
       "meaning": "chấp ngã thức"
+    },
+    {
+      "word": "旦那衆",
+      "reading": "だんなしゅう",
+      "meaning": "nhà vệ sinh đàn ông"
     },
     {
       "word": "支那",
@@ -101,44 +121,24 @@
       "meaning": "trung quốc"
     },
     {
-      "word": "遮那",
-      "reading": "しゃな",
-      "meaning": "mahavairocana"
+      "word": "支那人",
+      "reading": "しなじん",
+      "meaning": "người trung quốc"
     },
     {
-      "word": "禅那",
-      "reading": "ぜんな",
-      "meaning": "thiền trong phật giáo"
+      "word": "中支那",
+      "reading": "なかしな",
+      "meaning": "đất nước trung hoa"
     },
     {
-      "word": "檀那",
-      "reading": "だんな",
-      "meaning": "chủ nhà"
+      "word": "支那語",
+      "reading": "しなご",
+      "meaning": "tiếng trung"
     },
     {
-      "word": "那辺",
-      "reading": "なへん",
-      "meaning": "ở đâu"
-    },
-    {
-      "word": "刹那",
-      "reading": "せつな",
-      "meaning": "chốc lát"
-    },
-    {
-      "word": "旦那",
-      "reading": "だんな",
-      "meaning": "ông chủ"
-    },
-    {
-      "word": "維那",
-      "reading": "いな",
-      "meaning": "một trong sáu người quản lý của một ngôi chùa thiền"
-    },
-    {
-      "word": "規那",
-      "reading": "キナ",
-      "meaning": "cây thuốc hạ sốt"
+      "word": "支那学",
+      "reading": "しながく",
+      "meaning": "sự nghiên cứu về trung quốc"
     }
   ]
 }

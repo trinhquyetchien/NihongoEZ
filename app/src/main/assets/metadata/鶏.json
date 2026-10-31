@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "鶏",
-      "reading": "にわとり",
-      "meaning": "gà"
-    },
-    {
-      "word": "若鶏",
-      "reading": "わかどり",
-      "meaning": "gà tơ"
-    },
-    {
-      "word": "牝鶏",
-      "reading": "ひんけい",
-      "meaning": "gà mái"
-    },
-    {
       "word": "鶏肉",
       "reading": "とりにく",
       "meaning": "thịt gà"
     },
     {
-      "word": "鶏舎",
-      "reading": "けいしゃ",
-      "meaning": "chuồng gà"
+      "word": "鶏",
+      "reading": "にわとり",
+      "meaning": "gà"
     },
     {
-      "word": "鶏口",
-      "reading": "けいこう",
-      "meaning": "cái mỏ của con gà"
+      "word": "初鶏",
+      "reading": "はつとり",
+      "meaning": "tiếng gà gáy đầu tiên trong năm"
     },
     {
-      "word": "鶏ガラ",
-      "reading": "とりガラ",
-      "meaning": "phần xương và cổ gà"
+      "word": "鶏足",
+      "reading": "けいそく",
+      "meaning": "chân gà"
     },
     {
-      "word": "黄鶏",
-      "reading": "かしわ",
-      "meaning": "thịt gà"
+      "word": "三番鶏",
+      "reading": "さんばんどり",
+      "meaning": "cockcrowing ba"
     },
     {
-      "word": "巣鶏",
-      "reading": "すどり",
-      "meaning": "đặt gà mái"
+      "word": "種鶏",
+      "reading": "しゅけい",
+      "meaning": "gà giống"
     },
     {
-      "word": "軍鶏",
-      "reading": "しゃも",
-      "meaning": "gamecock"
+      "word": "鶏飯",
+      "reading": "けいはん",
+      "meaning": "món gà tẩm gia vị với cơm"
+    },
+    {
+      "word": "野鶏",
+      "reading": "やけい",
+      "meaning": "gia cầm"
+    },
+    {
+      "word": "鶏群",
+      "reading": "けいぐん",
+      "meaning": "tụ tập những gà"
+    },
+    {
+      "word": "若鶏",
+      "reading": "わかどり",
+      "meaning": "gà tơ"
     }
   ]
 }

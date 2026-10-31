@@ -89,44 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "室",
-      "reading": "しつ",
-      "meaning": "gian phòng"
-    },
-    {
-      "word": "室温",
-      "reading": "しつおん",
-      "meaning": "nhiệt độ trong phòng"
-    },
-    {
-      "word": "麹室",
-      "reading": "こうじむろ",
-      "meaning": "room for producing kōji"
-    },
-    {
-      "word": "客室",
-      "reading": "きゃくしつ",
-      "meaning": "buồng khách"
-    },
-    {
-      "word": "号室",
-      "reading": "ごうしつ",
-      "meaning": "đi sau một số"
-    },
-    {
       "word": "教室",
       "reading": "きょうしつ",
       "meaning": "buồng học"
     },
     {
-      "word": "室内",
-      "reading": "しつない",
-      "meaning": "phần nội thất"
+      "word": "室",
+      "reading": "しつ",
+      "meaning": "gian phòng"
     },
     {
-      "word": "個室",
-      "reading": "こしつ",
-      "meaning": "tư gia"
+      "word": "気室",
+      "reading": "きしつ",
+      "meaning": "hộp không khí"
     },
     {
       "word": "車室",
@@ -134,9 +109,34 @@
       "meaning": "gian"
     },
     {
-      "word": "自室",
-      "reading": "じしつ",
-      "meaning": "tư thất"
+      "word": "号室",
+      "reading": "ごうしつ",
+      "meaning": "đi sau một số"
+    },
+    {
+      "word": "薬室",
+      "reading": "やくしつ",
+      "meaning": "buồng"
+    },
+    {
+      "word": "脳室",
+      "reading": "のうしつ",
+      "meaning": "não thất"
+    },
+    {
+      "word": "室料",
+      "reading": "しつりょう",
+      "meaning": "phòng được cho thuê"
+    },
+    {
+      "word": "個室",
+      "reading": "こしつ",
+      "meaning": "tư gia"
+    },
+    {
+      "word": "室内",
+      "reading": "しつない",
+      "meaning": "phần nội thất"
     }
   ]
 }

@@ -54,24 +54,14 @@
   ],
   "vocabulary": [
     {
-      "word": "悉曇",
-      "reading": "しったん",
-      "meaning": "chữ siddham"
-    },
-    {
       "word": "悉く",
       "reading": "ことごとく",
       "meaning": "tất cả"
     },
     {
-      "word": "不悉",
-      "reading": "ふしつ",
-      "meaning": "rất chân thành là của bạn"
-    },
-    {
-      "word": "悉に",
-      "reading": "つぶさに",
-      "meaning": "hoàn toàn"
+      "word": "悉皆",
+      "reading": "しっかい",
+      "meaning": "mọi thứ"
     },
     {
       "word": "知悉",
@@ -79,9 +69,19 @@
       "meaning": "kiến thức hoàn thiện"
     },
     {
-      "word": "悉皆",
-      "reading": "しっかい",
-      "meaning": "mọi thứ"
+      "word": "悉に",
+      "reading": "つぶさに",
+      "meaning": "hoàn toàn"
+    },
+    {
+      "word": "悉曇",
+      "reading": "しったん",
+      "meaning": "chữ siddham"
+    },
+    {
+      "word": "不悉",
+      "reading": "ふしつ",
+      "meaning": "rất chân thành là của bạn"
     },
     {
       "word": "悉曇学",
@@ -94,14 +94,14 @@
       "meaning": "thắng ăn cả"
     },
     {
-      "word": "蘇悉地経",
-      "reading": "そしつじきょう",
-      "meaning": "một trong những kinh điển"
-    },
-    {
       "word": "悉皆成仏",
       "reading": "しっかいじょうぶつ",
       "meaning": "tất cả mọi sinh vật đều có thể được tạo thành phật quả"
+    },
+    {
+      "word": "蘇悉地経",
+      "reading": "そしつじきょう",
+      "meaning": "một trong những kinh điển"
     }
   ]
 }

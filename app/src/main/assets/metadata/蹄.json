@@ -73,34 +73,19 @@
       "meaning": "móng vuốt"
     },
     {
-      "word": "腐蹄しょー",
-      "reading": "腐蹄症",
-      "meaning": "bệnh lở chân"
+      "word": "蹄行性",
+      "reading": "ていこうせい",
+      "meaning": "đi bằng móng guốc"
     },
     {
-      "word": "蹄叉",
-      "reading": "ていさ",
-      "meaning": "xương ức"
+      "word": "有蹄類",
+      "reading": "ゆうているい",
+      "meaning": "loài động vật có móng guốc"
     },
     {
-      "word": "羊蹄",
-      "reading": "ぎしぎし",
-      "meaning": "rumex japonicus"
-    },
-    {
-      "word": "蹄鉄",
-      "reading": "ていてつ",
-      "meaning": "đóng đế giày"
-    },
-    {
-      "word": "双蹄",
-      "reading": "そうてい",
-      "meaning": "bàn chân cloven"
-    },
-    {
-      "word": "馬蹄",
-      "reading": "ばてい",
-      "meaning": "móng ngựa"
+      "word": "蹄葉炎",
+      "reading": "ていようえん",
+      "meaning": "bệnh viêm móng"
     },
     {
       "word": "装蹄",
@@ -108,14 +93,29 @@
       "meaning": "sự đóng móng ngựa"
     },
     {
+      "word": "装蹄師",
+      "reading": "そうていし",
+      "meaning": "thợ đóng móng ngựa"
+    },
+    {
+      "word": "双蹄",
+      "reading": "そうてい",
+      "meaning": "bàn chân cloven"
+    },
+    {
       "word": "奇蹄目",
       "reading": "きていもく",
       "meaning": "guốc lẻ"
     },
     {
-      "word": "口蹄疫",
-      "reading": "こうていえき",
-      "meaning": "bệnh lở mồm long móng"
+      "word": "奇蹄類",
+      "reading": "きているい",
+      "meaning": "bộ guốc lẻ"
+    },
+    {
+      "word": "蹄叉",
+      "reading": "ていさ",
+      "meaning": "xương ức"
     }
   ]
 }

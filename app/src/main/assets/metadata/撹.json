@@ -50,14 +50,14 @@
   ],
   "vocabulary": [
     {
-      "word": "撹拌",
-      "reading": "かくはん",
-      "meaning": "khuấy"
-    },
-    {
       "word": "撹乱",
       "reading": "かくらん",
       "meaning": "làm loạn"
+    },
+    {
+      "word": "撹拌",
+      "reading": "かくはん",
+      "meaning": "khuấy"
     },
     {
       "word": "撹拌機",
@@ -85,14 +85,14 @@
       "meaning": "chiến thuật gây rối"
     },
     {
-      "word": "撹拌機器",
-      "reading": "かくはんきき",
-      "meaning": "máy khuấy"
-    },
-    {
       "word": "撹乱戦法",
       "reading": "かくらんせんぽう",
       "meaning": "chiến thuật gây rối"
+    },
+    {
+      "word": "撹拌機器",
+      "reading": "かくはんきき",
+      "meaning": "máy khuấy"
     },
     {
       "word": "撹拌用部品",

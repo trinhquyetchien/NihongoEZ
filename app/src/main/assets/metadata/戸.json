@@ -111,24 +111,9 @@
       "meaning": "cánh cửa"
     },
     {
-      "word": "戸戸",
-      "reading": "ここ",
-      "meaning": "từng cái cho ở"
-    },
-    {
-      "word": "網戸用戸車",
-      "reading": "あみどようとぐるま",
-      "meaning": "bánh xe đẩy cửa lưới"
-    },
-    {
-      "word": "戸冠",
-      "reading": "とかんむり",
-      "meaning": "dạng biến thể của bộ thủ \"戸\" trong kanji"
-    },
-    {
-      "word": "引戸用戸当り",
-      "reading": "ひきどようこあたり",
-      "meaning": "bản lề cửa cho cửa trượt"
+      "word": "井戸",
+      "reading": "いど",
+      "meaning": "cái giếng"
     },
     {
       "word": "戸棚",
@@ -141,19 +126,34 @@
       "meaning": "hộ tịch"
     },
     {
-      "word": "戸別",
-      "reading": "こべつ",
-      "meaning": "mỗi nhà"
+      "word": "神戸",
+      "reading": "こうべ",
+      "meaning": "kobe"
     },
     {
-      "word": "戸口",
-      "reading": "とぐち",
-      "meaning": "cửa"
+      "word": "江戸",
+      "reading": "えど",
+      "meaning": "ê-đô"
     },
     {
-      "word": "戸外",
-      "reading": "こがい",
-      "meaning": "ở ngoài trời"
+      "word": "一戸",
+      "reading": "いっこ",
+      "meaning": "một ngôi nhà"
+    },
+    {
+      "word": "万戸",
+      "reading": "ばんこ",
+      "meaning": "tất cả các cái nhà"
+    },
+    {
+      "word": "別戸",
+      "reading": "べっこ",
+      "meaning": "phân ra cái nhà"
+    },
+    {
+      "word": "戸々",
+      "reading": "ここ",
+      "meaning": "từng cái cho ở"
     }
   ]
 }

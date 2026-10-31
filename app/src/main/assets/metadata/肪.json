@@ -84,19 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "脂肪酸合成酵素（脂肪酸シンターゼ）",
-      "reading": "しぼうさんごうせいこうそ（しぼうさんシンターゼ）",
-      "meaning": "fatty acid synthase"
-    },
-    {
       "word": "脂肪",
       "reading": "しぼう",
       "meaning": "mỡ"
     },
     {
-      "word": "脂肪便",
-      "reading": "しぼうべん",
-      "meaning": "chứng phân mỡ"
+      "word": "脂肪心",
+      "reading": "しぼうしん",
+      "meaning": "tim nhiễm mỡ"
     },
     {
       "word": "体脂肪",
@@ -104,19 +99,24 @@
       "meaning": "lượng mỡ trong cơ thể"
     },
     {
+      "word": "脂肪体",
+      "reading": "しぼうたい",
+      "meaning": "tập sao lục adiposum"
+    },
+    {
+      "word": "無脂肪",
+      "reading": "むしぼう",
+      "meaning": "không có chất béo"
+    },
+    {
+      "word": "脂肪線",
+      "reading": "しぼうせん",
+      "meaning": "rạn da"
+    },
+    {
       "word": "低脂肪",
       "reading": "ていしぼう",
       "meaning": "ít béo"
-    },
-    {
-      "word": "脂肪肝",
-      "reading": "しぼうかん",
-      "meaning": "gan nhiễm mỡ"
-    },
-    {
-      "word": "脂肪酸",
-      "reading": "しぼうさん",
-      "meaning": "a-xít béo"
     },
     {
       "word": "脂肪層",
@@ -124,14 +124,14 @@
       "meaning": "lớp mỡ"
     },
     {
-      "word": "脂肪体",
-      "reading": "しぼうたい",
-      "meaning": "tập sao lục adiposum"
+      "word": "脂肪便",
+      "reading": "しぼうべん",
+      "meaning": "chứng phân mỡ"
     },
     {
-      "word": "脂肪滴",
-      "reading": "しぼうてき",
-      "meaning": "giọt chất béo"
+      "word": "脂肪質",
+      "reading": "しぼうしつ",
+      "meaning": "chất béo"
     }
   ]
 }

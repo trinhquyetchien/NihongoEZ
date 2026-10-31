@@ -32,6 +32,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "充盈",
+      "reading": "じゅうえい",
+      "meaning": "tràn đầy"
+    },
+    {
       "word": "盈虧",
       "reading": "えいき",
       "meaning": "sự thịnh suy"
@@ -40,11 +45,6 @@
       "word": "盈虚",
       "reading": "えいきょ",
       "meaning": "sự hưng thịnh và suy yếu"
-    },
-    {
-      "word": "充盈",
-      "reading": "じゅうえい",
-      "meaning": "tràn đầy"
     },
     {
       "word": "盈ちる",

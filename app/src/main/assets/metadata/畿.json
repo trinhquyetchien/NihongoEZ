@@ -68,11 +68,6 @@
   ],
   "vocabulary": [
     {
-      "word": "五畿",
-      "reading": "ごき",
-      "meaning": "5 quốc gia đã từng ở quanh kyoto"
-    },
-    {
       "word": "近畿",
       "reading": "きんき",
       "meaning": "vùng kinki"
@@ -91,6 +86,11 @@
       "word": "四畿内",
       "reading": "しきない",
       "meaning": "bốn quốc gia gần thủ đô"
+    },
+    {
+      "word": "五畿",
+      "reading": "ごき",
+      "meaning": "5 quốc gia đã từng ở quanh kyoto"
     },
     {
       "word": "近畿地方",

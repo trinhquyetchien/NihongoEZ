@@ -86,44 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "痕",
-      "reading": "こん",
-      "meaning": "vết"
-    },
-    {
-      "word": "打痕",
-      "reading": "だこん",
-      "meaning": "móp"
-    },
-    {
       "word": "痕跡",
       "reading": "こんせき",
       "meaning": "dấu tích"
     },
     {
-      "word": "血痕",
-      "reading": "けっこん",
-      "meaning": "vết máu"
-    },
-    {
-      "word": "痘痕",
-      "reading": "あばた",
-      "meaning": "sẹo đậu mùa"
-    },
-    {
-      "word": "擦痕",
-      "reading": "さっこん",
-      "meaning": "vân"
-    },
-    {
-      "word": "条痕",
-      "reading": "じょうこん",
-      "meaning": "tuyến tính đánh dấu"
-    },
-    {
-      "word": "聖痕",
-      "reading": "せいこん",
-      "meaning": "kỳ thị"
+      "word": "痕",
+      "reading": "こん",
+      "meaning": "vết"
     },
     {
       "word": "生痕",
@@ -131,9 +101,39 @@
       "meaning": "dấu vết"
     },
     {
-      "word": "刀痕",
-      "reading": "とうこん",
-      "meaning": "vết sẹo do dao gươm gây ra"
+      "word": "条痕",
+      "reading": "じょうこん",
+      "meaning": "tuyến tính đánh dấu"
+    },
+    {
+      "word": "手術痕",
+      "reading": "しゅじゅつこん",
+      "meaning": "vết sẹo phẫu thuật"
+    },
+    {
+      "word": "聖痕",
+      "reading": "せいこん",
+      "meaning": "kỳ thị"
+    },
+    {
+      "word": "衝突痕",
+      "reading": "しょうとつこん",
+      "meaning": "vết đánh dấu sự tác động"
+    },
+    {
+      "word": "注射痕",
+      "reading": "ちゅうしゃこん",
+      "meaning": "vết sẹo do tiêm"
+    },
+    {
+      "word": "打痕",
+      "reading": "だこん",
+      "meaning": "móp"
+    },
+    {
+      "word": "蹴子痕",
+      "reading": "しゅうしこん",
+      "meaning": "dấu đầu phun"
     }
   ]
 }

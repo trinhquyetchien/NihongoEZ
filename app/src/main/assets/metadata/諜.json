@@ -58,26 +58,6 @@
       "meaning": "thông tin bí mật"
     },
     {
-      "word": "間諜",
-      "reading": "かんちょう",
-      "meaning": "một gián điệp"
-    },
-    {
-      "word": "防諜",
-      "reading": "ぼうちょう",
-      "meaning": "sự ngăn chặn các hoạt động tình báo"
-    },
-    {
-      "word": "諜者",
-      "reading": "ちょうじゃ",
-      "meaning": "spy"
-    },
-    {
-      "word": "諜す",
-      "reading": "ちょうす",
-      "meaning": "do thám"
-    },
-    {
       "word": "諜報員",
       "reading": "ちょうほういん",
       "meaning": "nhân viên trí tuệ"
@@ -86,6 +66,26 @@
       "word": "諜報網",
       "reading": "ちょうほうもう",
       "meaning": "mạng lưới gián điệp"
+    },
+    {
+      "word": "防諜",
+      "reading": "ぼうちょう",
+      "meaning": "sự ngăn chặn các hoạt động tình báo"
+    },
+    {
+      "word": "間諜",
+      "reading": "かんちょう",
+      "meaning": "một gián điệp"
+    },
+    {
+      "word": "諜す",
+      "reading": "ちょうす",
+      "meaning": "do thám"
+    },
+    {
+      "word": "諜者",
+      "reading": "ちょうじゃ",
+      "meaning": "spy"
     },
     {
       "word": "諜報機関",

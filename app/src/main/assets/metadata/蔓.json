@@ -68,54 +68,54 @@
   ],
   "vocabulary": [
     {
-      "word": "蔓",
-      "reading": "つる",
-      "meaning": "một thuật ngữ chung cho cây dây leo"
-    },
-    {
-      "word": "手蔓藻蔓",
-      "reading": "てづるもづる",
-      "meaning": "sao giòn giỏ"
-    },
-    {
-      "word": "蝦蔓",
-      "reading": "えびづる",
-      "meaning": "vitis ficifolia"
-    },
-    {
-      "word": "靫蔓",
-      "reading": "うつぼかずら",
-      "meaning": "cây nắp ấm"
-    },
-    {
-      "word": "蔓生",
-      "reading": "まんせい",
-      "meaning": "sự sinh trưởng theo dạng bò lan hoặc leo bám"
-    },
-    {
-      "word": "芋蔓",
-      "reading": "いもづる",
-      "meaning": "dây khoai lang"
-    },
-    {
-      "word": "金蔓",
-      "reading": "かねづる",
-      "meaning": "nguồn lợi tức"
-    },
-    {
       "word": "蔓延",
       "reading": "まんえん",
       "meaning": "căng bệnh"
     },
     {
-      "word": "藤蔓",
-      "reading": "ふじづる",
-      "meaning": "cây nho wisteria"
+      "word": "蔓",
+      "reading": "つる",
+      "meaning": "một thuật ngữ chung cho cây dây leo"
     },
     {
-      "word": "蔦蔓",
-      "reading": "つたかずら",
-      "meaning": "cây trường xuân và những cây nho"
+      "word": "蔓性",
+      "reading": "つるせい",
+      "meaning": "thân leo"
+    },
+    {
+      "word": "蔓巻",
+      "reading": "つるまき",
+      "meaning": "cá bơn vằn"
+    },
+    {
+      "word": "合器蔓",
+      "reading": "ごきづる",
+      "meaning": "actinostemma lobatum"
+    },
+    {
+      "word": "蔓紫",
+      "reading": "つるむらさき",
+      "meaning": "rau mồng tơi"
+    },
+    {
+      "word": "蔓金梅",
+      "reading": "つるきんばい",
+      "meaning": "cây potentilla"
+    },
+    {
+      "word": "青蔓藤",
+      "reading": "あおつづらふじ",
+      "meaning": "san hô nữ hoàng"
+    },
+    {
+      "word": "蔓穂",
+      "reading": "つるぼ",
+      "meaning": "scilla scilloides"
+    },
+    {
+      "word": "草杉蔓",
+      "reading": "くさすぎかずら",
+      "meaning": "thiên môn đông"
     }
   ]
 }

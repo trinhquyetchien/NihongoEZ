@@ -67,11 +67,6 @@
   ],
   "vocabulary": [
     {
-      "word": "埴瓮",
-      "reading": "はにべ",
-      "meaning": "đồ đựng làm từ đất sét"
-    },
-    {
       "word": "埴輪",
       "reading": "はにわ",
       "meaning": "haniwa"
@@ -85,6 +80,11 @@
       "word": "埴破",
       "reading": "はんなり",
       "meaning": "hannari"
+    },
+    {
+      "word": "埴瓮",
+      "reading": "はにべ",
+      "meaning": "đồ đựng làm từ đất sét"
     }
   ]
 }

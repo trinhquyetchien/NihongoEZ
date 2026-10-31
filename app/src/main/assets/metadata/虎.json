@@ -91,24 +91,9 @@
       "meaning": "hổ"
     },
     {
-      "word": "虎冠",
-      "reading": "とらかんむり",
-      "meaning": "bộ thủ của một số chữ có chứa \"虎\""
-    },
-    {
-      "word": "虎穴に入らずんば虎子を得ず",
-      "reading": "こけつにいらずんばこじをえず",
-      "meaning": "không có gì mạo hiểm"
-    },
-    {
-      "word": "シベリア虎",
-      "reading": "シベリアとら",
-      "meaning": "hổ siberia"
-    },
-    {
-      "word": "虎児",
-      "reading": "こじ",
-      "meaning": "hổ con"
+      "word": "大虎",
+      "reading": "おおとら",
+      "meaning": "người uống"
     },
     {
       "word": "虎子",
@@ -116,24 +101,39 @@
       "meaning": "cọp con"
     },
     {
-      "word": "虎鶫",
-      "reading": "とらつぐみ",
-      "meaning": "zoothera dauma"
-    },
-    {
-      "word": "虎杖",
-      "reading": "いたどり",
-      "meaning": "cây hà thủ ô nhật bản"
-    },
-    {
-      "word": "白虎",
-      "reading": "びゃっこ",
-      "meaning": "bạch hổ"
-    },
-    {
       "word": "虎頭",
       "reading": "とらがしら",
       "meaning": "kanji gốc \"hổ\""
+    },
+    {
+      "word": "小虎",
+      "reading": "ことら",
+      "meaning": "con hổ con"
+    },
+    {
+      "word": "虎巻",
+      "reading": "とらかん",
+      "meaning": "một quyển binh pháp bí truyền của trung quốc"
+    },
+    {
+      "word": "虎パン",
+      "reading": "とらパン",
+      "meaning": "bánh mì cọp"
+    },
+    {
+      "word": "虎目石",
+      "reading": "とらめいし",
+      "meaning": "đá mắt hổ"
+    },
+    {
+      "word": "龍虎",
+      "reading": "りゅうこ",
+      "meaning": "người anh hùng"
+    },
+    {
+      "word": "虎児",
+      "reading": "こじ",
+      "meaning": "hổ con"
     }
   ]
 }

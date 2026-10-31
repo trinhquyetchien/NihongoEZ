@@ -89,14 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "食糧",
+      "reading": "しょくりょう",
+      "meaning": "lương thực"
+    },
+    {
       "word": "糧",
       "reading": "かて",
       "meaning": "thực phẩm"
     },
     {
-      "word": "食糧",
-      "reading": "しょくりょう",
-      "meaning": "lương thực"
+      "word": "心の糧",
+      "reading": "こころのかて",
+      "meaning": "món ăn tinh thần"
+    },
+    {
+      "word": "兵糧",
+      "reading": "ひょうろう",
+      "meaning": "lương của quân đội"
+    },
+    {
+      "word": "兵糧米",
+      "reading": "ひょうろうまい",
+      "meaning": "binh lương"
+    },
+    {
+      "word": "糧食",
+      "reading": "りょうしょく",
+      "meaning": "thực phẩm dự trữ"
+    },
+    {
+      "word": "糧食部",
+      "reading": "りょうしょくぶ",
+      "meaning": "bộ lương thực"
+    },
+    {
+      "word": "糧道",
+      "reading": "りょうどう",
+      "meaning": "con đường chở lương thực"
     },
     {
       "word": "衣糧",
@@ -107,36 +137,6 @@
       "word": "糧秣",
       "reading": "りょうまつ",
       "meaning": "lương thực"
-    },
-    {
-      "word": "糧道",
-      "reading": "りょうどう",
-      "meaning": "con đường chở lương thực"
-    },
-    {
-      "word": "口糧",
-      "reading": "こうりょう",
-      "meaning": "khẩu phần ăn của một binh sĩ"
-    },
-    {
-      "word": "馬糧",
-      "reading": "ばりょう",
-      "meaning": "thức ăn cho ngựa"
-    },
-    {
-      "word": "兵糧",
-      "reading": "ひょうろう",
-      "meaning": "lương của quân đội"
-    },
-    {
-      "word": "糧食",
-      "reading": "りょうしょく",
-      "meaning": "thực phẩm dự trữ"
-    },
-    {
-      "word": "糧米",
-      "reading": "りょうまい",
-      "meaning": "gạo"
     }
   ]
 }

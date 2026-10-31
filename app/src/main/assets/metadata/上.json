@@ -110,24 +110,34 @@
       "meaning": "trên"
     },
     {
-      "word": "上上",
-      "reading": "じょうじょう",
-      "meaning": "tốt nhất"
+      "word": "上る",
+      "reading": "のぼる",
+      "meaning": "đưa ra"
     },
     {
-      "word": "上へ上へ",
-      "reading": "うえへうえへ",
-      "meaning": "càng lên cao hơn nữa"
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "cấp trên"
     },
     {
-      "word": "真上",
-      "reading": "まうえ",
-      "meaning": "ngay phía trên"
+      "word": "上り",
+      "reading": "のぼり",
+      "meaning": "sự leo lên"
     },
     {
-      "word": "仕上",
-      "reading": "しあげ",
-      "meaning": "chấm dứt"
+      "word": "上旬",
+      "reading": "じょうじゅん",
+      "meaning": "thượng tuần"
+    },
+    {
+      "word": "上位",
+      "reading": "じょうい",
+      "meaning": "máy chủ"
+    },
+    {
+      "word": "向上",
+      "reading": "こうじょう",
+      "meaning": "sự tăng cường"
     },
     {
       "word": "上陸",
@@ -135,24 +145,14 @@
       "meaning": "sự bốc dỡ"
     },
     {
-      "word": "地上",
-      "reading": "ちじょう",
-      "meaning": "trên mặt đất"
+      "word": "上空",
+      "reading": "じょうくう",
+      "meaning": "bầu trời"
     },
     {
-      "word": "売上",
-      "reading": "うりあげ",
-      "meaning": "số thu nhập"
-    },
-    {
-      "word": "値上",
-      "reading": "ねあげ",
-      "meaning": "sự tăng giá"
-    },
-    {
-      "word": "上野",
-      "reading": "うえの",
-      "meaning": "tokyo)"
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "bản tưồng"
     }
   ]
 }

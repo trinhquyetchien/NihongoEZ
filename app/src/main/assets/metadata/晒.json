@@ -85,6 +85,46 @@
   ],
   "vocabulary": [
     {
+      "word": "晒し",
+      "reading": "さらし",
+      "meaning": "tẩy trắng"
+    },
+    {
+      "word": "晒し者",
+      "reading": "さらしもの",
+      "meaning": "người bị làm cho xấu hổ trước nhiều người"
+    },
+    {
+      "word": "未晒し",
+      "reading": "みさらし",
+      "meaning": "chưa được phơi nắng"
+    },
+    {
+      "word": "晒し首",
+      "reading": "さらしくび",
+      "meaning": "sự bêu đầu"
+    },
+    {
+      "word": "恥晒し",
+      "reading": "はじさらし",
+      "meaning": "sự ô nhục"
+    },
+    {
+      "word": "晒し粉",
+      "reading": "さらしこ",
+      "meaning": "vôi clorua"
+    },
+    {
+      "word": "晒す",
+      "reading": "さらす",
+      "meaning": "dấn"
+    },
+    {
+      "word": "晒し飴",
+      "reading": "さらしあめ",
+      "meaning": "mứt kẹo"
+    },
+    {
       "word": "晒",
       "reading": "さらし",
       "meaning": "tẩy trắng"
@@ -93,46 +133,6 @@
       "word": "夜晒",
       "reading": "よざらし",
       "meaning": "rời bỏ các thứ phơi bày bên ngoài tất cả đêm"
-    },
-    {
-      "word": "晒者",
-      "reading": "さらしもの",
-      "meaning": "người bị bêu riếu"
-    },
-    {
-      "word": "晒す",
-      "reading": "さらす",
-      "meaning": "dấn"
-    },
-    {
-      "word": "晒し",
-      "reading": "さらし",
-      "meaning": "tẩy trắng"
-    },
-    {
-      "word": "晒裏",
-      "reading": "さらしうら",
-      "meaning": "lớp vải lót đã được tẩy trắng"
-    },
-    {
-      "word": "店晒し",
-      "reading": "たなざらし",
-      "meaning": "hàng hóa shopworn"
-    },
-    {
-      "word": "晒木綿",
-      "reading": "さらしもめん",
-      "meaning": "tẩy trắng vải bông"
-    },
-    {
-      "word": "晒し首",
-      "reading": "さらしくび",
-      "meaning": "sự bêu đầu"
-    },
-    {
-      "word": "晒し粉",
-      "reading": "さらしこ",
-      "meaning": "vôi clorua"
     }
   ]
 }

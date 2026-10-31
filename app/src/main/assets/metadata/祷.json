@@ -56,9 +56,39 @@
       "meaning": "lễ cầu nguyện"
     },
     {
+      "word": "祈祷者",
+      "reading": "きとうしゃ",
+      "meaning": "người cầu nguyện"
+    },
+    {
+      "word": "祈祷会",
+      "reading": "きとうかい",
+      "meaning": "buổi cầu nguyện"
+    },
+    {
+      "word": "祈祷書",
+      "reading": "きとうしょ",
+      "meaning": "sách kinh"
+    },
+    {
+      "word": "祈祷師",
+      "reading": "きとうし",
+      "meaning": "thầy tu"
+    },
+    {
       "word": "黙祷",
       "reading": "もくとう",
       "meaning": "sự thầm cầu nguyện"
+    },
+    {
+      "word": "主祷文",
+      "reading": "しゅとうぶん",
+      "meaning": "kinh lạy cha"
+    },
+    {
+      "word": "時祷書",
+      "reading": "じとうしょ",
+      "meaning": "sách cầu nguyện"
     },
     {
       "word": "祝祷",
@@ -69,36 +99,6 @@
       "word": "祷り",
       "reading": "いのり",
       "meaning": "cầu nguyện"
-    },
-    {
-      "word": "祈祷会",
-      "reading": "きとうかい",
-      "meaning": "buổi cầu nguyện"
-    },
-    {
-      "word": "祈祷師",
-      "reading": "きとうし",
-      "meaning": "thầy tu"
-    },
-    {
-      "word": "主祷文",
-      "reading": "しゅとうぶん",
-      "meaning": "kinh lạy cha"
-    },
-    {
-      "word": "祈祷者",
-      "reading": "きとうしゃ",
-      "meaning": "người cầu nguyện"
-    },
-    {
-      "word": "祈祷書",
-      "reading": "きとうしょ",
-      "meaning": "sách kinh"
-    },
-    {
-      "word": "時祷書",
-      "reading": "じとうしょ",
-      "meaning": "sách cầu nguyện"
     }
   ]
 }

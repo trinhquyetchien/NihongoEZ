@@ -89,24 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "麦",
-      "reading": "むぎ",
-      "meaning": "lúa mạch"
-    },
-    {
       "word": "小麦",
       "reading": "こむぎ",
       "meaning": "lúa mì"
     },
     {
-      "word": "烏麦",
-      "reading": "からすむぎ",
-      "meaning": "yến mạch"
+      "word": "麦",
+      "reading": "むぎ",
+      "meaning": "lúa mạch"
     },
     {
-      "word": "ライ麦",
-      "reading": "ライむぎ",
+      "word": "蕎麦",
+      "reading": "そば",
+      "meaning": "mỳ soba"
+    },
+    {
+      "word": "全麦",
+      "reading": "ぜんばく",
+      "meaning": "whole - lúa mì"
+    },
+    {
+      "word": "米麦",
+      "reading": "べいばく",
+      "meaning": "gạo và lúa mạch"
+    },
+    {
+      "word": "黒麦",
+      "reading": "くろむぎ",
       "meaning": "lúa mạch đen"
+    },
+    {
+      "word": "割麦",
+      "reading": "わりむぎ",
+      "meaning": "làm cho lúa mạch không cất cánh"
     },
     {
       "word": "真麦",
@@ -119,24 +134,9 @@
       "meaning": "các loại lúa mạch"
     },
     {
-      "word": "麦隴",
-      "reading": "ばくろう",
-      "meaning": "cánh đồng lúa mạch"
-    },
-    {
-      "word": "オート麦",
-      "reading": "オートむぎ",
-      "meaning": "yến mạch"
-    },
-    {
-      "word": "麦球",
-      "reading": "むぎきゅう",
-      "meaning": "bóng đèn mini"
-    },
-    {
-      "word": "麦汁",
-      "reading": "ばくじゅう",
-      "meaning": "một chất lỏng chứa đường mạch nha được sản xuất trong quá trình đường hóa của quá trình nấu bia"
+      "word": "毒麦",
+      "reading": "どくむぎ",
+      "meaning": "lolium temulentum"
     }
   ]
 }

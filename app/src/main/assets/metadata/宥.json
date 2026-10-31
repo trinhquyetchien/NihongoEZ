@@ -67,6 +67,11 @@
   ],
   "vocabulary": [
     {
+      "word": "宥める",
+      "reading": "なだめる",
+      "meaning": "an ủi"
+    },
+    {
       "word": "宥和",
       "reading": "ゆうわ",
       "meaning": "sự khuyên giải"
@@ -77,24 +82,14 @@
       "meaning": "ân xá"
     },
     {
-      "word": "宥恕",
-      "reading": "ゆうじょ",
-      "meaning": "sự tha thứ"
-    },
-    {
-      "word": "宥める",
-      "reading": "なだめる",
-      "meaning": "an ủi"
-    },
-    {
       "word": "贖宥状",
       "reading": "しょくゆうじょう",
       "meaning": "phép ân xá"
     },
     {
-      "word": "宥め賺す",
-      "reading": "なだめすかす",
-      "meaning": "dỗ dành"
+      "word": "宥恕",
+      "reading": "ゆうじょ",
+      "meaning": "sự tha thứ"
     },
     {
       "word": "宥和政策",
@@ -102,14 +97,19 @@
       "meaning": "chính sách nhân nhượng"
     },
     {
+      "word": "宥和えさる",
+      "reading": "ゆうわえさる",
+      "meaning": "dung hoà"
+    },
+    {
       "word": "宥めすかす",
       "reading": "なだめすかす",
       "meaning": "xoa dịu"
     },
     {
-      "word": "宥和えさる",
-      "reading": "ゆうわえさる",
-      "meaning": "dung hoà"
+      "word": "宥め賺す",
+      "reading": "なだめすかす",
+      "meaning": "dỗ dành"
     }
   ]
 }

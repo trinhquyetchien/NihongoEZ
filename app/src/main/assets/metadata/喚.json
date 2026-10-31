@@ -92,29 +92,9 @@
       "meaning": "lệnh triệu tập"
     },
     {
-      "word": "喚く",
-      "reading": "わめく",
-      "meaning": "kêu lên"
-    },
-    {
-      "word": "喚声",
-      "reading": "かんせい",
-      "meaning": "tiếng hét lên"
-    },
-    {
-      "word": "叫喚",
-      "reading": "きょうかん",
-      "meaning": "la hét"
-    },
-    {
-      "word": "喚問",
-      "reading": "かんもん",
-      "meaning": "sự truyền hỏi"
-    },
-    {
-      "word": "喚呼",
-      "reading": "かんこ",
-      "meaning": "gọi to"
+      "word": "召喚状",
+      "reading": "しょうかんじょう",
+      "meaning": "gọi"
     },
     {
       "word": "喚起",
@@ -122,19 +102,39 @@
       "meaning": "sự thức tỉnh"
     },
     {
+      "word": "喚問",
+      "reading": "かんもん",
+      "meaning": "sự truyền hỏi"
+    },
+    {
+      "word": "喚く",
+      "reading": "わめく",
+      "meaning": "kêu lên"
+    },
+    {
       "word": "喚き声",
       "reading": "わめきごえ",
       "meaning": "tiếng hét"
     },
     {
-      "word": "召喚状",
-      "reading": "しょうかんじょう",
-      "meaning": "gọi"
+      "word": "叫喚",
+      "reading": "きょうかん",
+      "meaning": "la hét"
     },
     {
-      "word": "証人喚問",
-      "reading": "しょうにんかんもん",
-      "meaning": "việc yêu cầu nhân chứng phải ra làm chứng nhằm điều tra các sự vụ liên quan đến chính sự hoặc nghị viện"
+      "word": "喚声",
+      "reading": "かんせい",
+      "meaning": "tiếng hét lên"
+    },
+    {
+      "word": "喚呼",
+      "reading": "かんこ",
+      "meaning": "gọi to"
+    },
+    {
+      "word": "召喚する",
+      "reading": "しょうかん",
+      "meaning": "gọi đến"
     }
   ]
 }

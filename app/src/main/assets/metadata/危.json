@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "危",
-      "reading": "き",
-      "meaning": "mối nguy"
+      "word": "危ない",
+      "reading": "あぶない",
+      "meaning": "nghi ngờ"
     },
     {
-      "word": "危な危な",
-      "reading": "あぶなあぶな",
-      "meaning": "rụt rè"
+      "word": "危険",
+      "reading": "きけん",
+      "meaning": "sự nguy hiểm"
     },
     {
-      "word": "危惧",
-      "reading": "きぐ",
-      "meaning": "sợ hãi"
+      "word": "危うい",
+      "reading": "あやうい",
+      "meaning": "nguy hiểm"
     },
     {
-      "word": "危殆",
-      "reading": "きたい",
-      "meaning": "mối nguy hiểm"
+      "word": "危機",
+      "reading": "きき",
+      "meaning": "khủng hoảng"
     },
     {
-      "word": "危疑",
-      "reading": "きぎ",
-      "meaning": "nỗi e sợ"
+      "word": "危害",
+      "reading": "きがい",
+      "meaning": "sự nguy hại"
     },
     {
-      "word": "危座",
-      "reading": "きざ",
-      "meaning": "ngồi"
+      "word": "危ぶむ",
+      "reading": "あやぶむ",
+      "meaning": "lo sợ"
     },
     {
-      "word": "危地",
-      "reading": "きち",
-      "meaning": "nơi nguy hiểm"
+      "word": "危険な",
+      "reading": "きけんな",
+      "meaning": "gập gềnh"
     },
     {
-      "word": "危坐",
-      "reading": "きざ",
-      "meaning": "sự ngồi thẳng"
+      "word": "危険日",
+      "reading": "きけんび",
+      "meaning": "ngày nguy hiểm"
     },
     {
-      "word": "危宿",
-      "reading": "うみやめぼし",
-      "meaning": "sao nguy"
+      "word": "危険性",
+      "reading": "きけんせい",
+      "meaning": "sự nguy hiểm"
     },
     {
-      "word": "危峰",
-      "reading": "きほう",
-      "meaning": "đỉnh núi cao hiểm trở"
+      "word": "危険物",
+      "reading": "きけんぶつ",
+      "meaning": "hàng hóa nguy hiểm"
     }
   ]
 }

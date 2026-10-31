@@ -66,6 +66,11 @@
   ],
   "vocabulary": [
     {
+      "word": "肋骨",
+      "reading": "あばらぼね",
+      "meaning": "xương sườn"
+    },
+    {
       "word": "肋",
       "reading": "あばら",
       "meaning": "sườn"
@@ -76,29 +81,9 @@
       "meaning": "midrib"
     },
     {
-      "word": "肋凹",
-      "reading": "ろくおう",
-      "meaning": "hõm sườn"
-    },
-    {
-      "word": "肋木",
-      "reading": "ろくぼく",
-      "meaning": "thang thẳng đứng"
-    },
-    {
-      "word": "肋膜",
-      "reading": "ろくまく",
-      "meaning": "màng phổi"
-    },
-    {
       "word": "肋肉",
       "reading": "ばらにく",
       "meaning": "boned thịt lợn)"
-    },
-    {
-      "word": "肋骨",
-      "reading": "あばらぼね",
-      "meaning": "xương sườn"
     },
     {
       "word": "肋筋",
@@ -106,14 +91,29 @@
       "meaning": "thép đai"
     },
     {
+      "word": "季肋部",
+      "reading": "きろくぶ",
+      "meaning": "vùng hạ sườn"
+    },
+    {
+      "word": "肋軟骨",
+      "reading": "ろくなんこつ",
+      "meaning": "sụn sườn"
+    },
+    {
+      "word": "肋凹",
+      "reading": "ろくおう",
+      "meaning": "hõm sườn"
+    },
+    {
       "word": "肋間",
       "reading": "ろっかん",
       "meaning": "ở giữa các xương sườn"
     },
     {
-      "word": "肋材",
-      "reading": "ろくざい",
-      "meaning": "gỗ xẻ"
+      "word": "肋間筋",
+      "reading": "ろっかんきん",
+      "meaning": "cơ liên sườn"
     }
   ]
 }

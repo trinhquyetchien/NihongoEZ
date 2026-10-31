@@ -95,14 +95,9 @@
       "meaning": "yêu kiều"
     },
     {
-      "word": "艶艶",
-      "reading": "つやつや",
-      "meaning": "bóng loáng"
-    },
-    {
-      "word": "艶艶した",
-      "reading": "つやつやした",
-      "meaning": "sáng sủa"
+      "word": "艶やか",
+      "reading": "あでやか",
+      "meaning": "quyến rũ"
     },
     {
       "word": "艶事",
@@ -110,14 +105,29 @@
       "meaning": "chuyện yêu đương"
     },
     {
-      "word": "凄艶",
-      "reading": "せいえん",
-      "meaning": "đẹp kỳ dị"
+      "word": "艶物",
+      "reading": "つやもの",
+      "meaning": "yêu câu chuyện"
+    },
+    {
+      "word": "艶出し",
+      "reading": "つやだし",
+      "meaning": "việc mài để tạo độ bóng"
+    },
+    {
+      "word": "色艶",
+      "reading": "いろつや",
+      "meaning": "màu sắc rực rỡ"
     },
     {
       "word": "艶書",
       "reading": "えんしょ",
       "meaning": "yêu bức thư"
+    },
+    {
+      "word": "艶々",
+      "reading": "つやつや",
+      "meaning": "bóng bảy"
     },
     {
       "word": "艶歌",
@@ -128,16 +138,6 @@
       "word": "艶種",
       "reading": "つやだね",
       "meaning": "đề tài về tình yêu"
-    },
-    {
-      "word": "優艶",
-      "reading": "ゆうえん",
-      "meaning": "đẹp"
-    },
-    {
-      "word": "艶物",
-      "reading": "つやもの",
-      "meaning": "yêu câu chuyện"
     }
   ]
 }

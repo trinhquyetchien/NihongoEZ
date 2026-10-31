@@ -91,14 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "摩尼",
-      "reading": "まに",
-      "meaning": "viên ngọc quý trong phật giáo"
+      "word": "摩擦",
+      "reading": "まさつ",
+      "meaning": "sự ma sát"
     },
     {
-      "word": "摩訶",
-      "reading": "まか",
-      "meaning": "những điều tuyệt vời"
+      "word": "摩擦熱",
+      "reading": "まさつねつ",
+      "meaning": "ma sát nóng lên"
+    },
+    {
+      "word": "摩擦比",
+      "reading": "まさつひ",
+      "meaning": "tỷ lệ ma sát"
+    },
+    {
+      "word": "動摩擦",
+      "reading": "どうまさつ",
+      "meaning": "ma sát động"
+    },
+    {
+      "word": "薩摩",
+      "reading": "さつま",
+      "meaning": "satsuma"
+    },
+    {
+      "word": "薩摩汁",
+      "reading": "さつまじる",
+      "meaning": "súp miso được làm bằng cách thêm củ cải"
+    },
+    {
+      "word": "摩擦力",
+      "reading": "まさつりょく",
+      "meaning": "lực ma sát"
     },
     {
       "word": "摩多",
@@ -106,39 +131,14 @@
       "meaning": "tên gọi của các nguyên âm trong chữ siddham"
     },
     {
-      "word": "削摩",
-      "reading": "さくま",
-      "meaning": "sự mài mòn"
+      "word": "夜摩天",
+      "reading": "やまてん",
+      "meaning": "một trong sáu tầng trời của cõi dục vọng"
     },
     {
-      "word": "按摩",
-      "reading": "あんま",
-      "meaning": "sự xoa bóp"
-    },
-    {
-      "word": "摩損",
-      "reading": "まそん",
-      "meaning": "sự mài mòn do ma sát"
-    },
-    {
-      "word": "摩る",
-      "reading": "さする",
-      "meaning": "xoa bóp"
-    },
-    {
-      "word": "護摩",
-      "reading": "ごま",
-      "meaning": "cây thông tuyết"
-    },
-    {
-      "word": "減摩",
-      "reading": "げんま",
-      "meaning": "sự giảm ma sát"
-    },
-    {
-      "word": "研摩",
-      "reading": "けんま",
-      "meaning": "sự mài"
+      "word": "多摩川",
+      "reading": "たまがわ",
+      "meaning": "sông tama"
     }
   ]
 }

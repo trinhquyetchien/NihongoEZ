@@ -111,39 +111,9 @@
       "meaning": "sắt thép"
     },
     {
-      "word": "鉄筋",
-      "reading": "てっきん",
-      "meaning": "cốt thép chịu lực"
-    },
-    {
-      "word": "神鉄",
-      "reading": "しんてつ",
-      "meaning": "đường sắt tư nhân nhỏ và vừa thuộc tập đoàn đường sắt kobe"
-    },
-    {
-      "word": "鉄槌",
-      "reading": "てっつい",
-      "meaning": "búa sắt"
-    },
-    {
-      "word": "相鉄",
-      "reading": "そうてつ",
-      "meaning": "đường sắt sagami"
-    },
-    {
-      "word": "満鉄",
-      "reading": "まんてつ",
-      "meaning": "công ty đường sắt nam mãn châu"
-    },
-    {
-      "word": "近鉄",
-      "reading": "きんてつ",
-      "meaning": "sự vững chắc"
-    },
-    {
-      "word": "鋼鉄",
-      "reading": "こうてつ",
-      "meaning": "thép"
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "đường sắt tư doanh"
     },
     {
       "word": "鉄片",
@@ -151,9 +121,39 @@
       "meaning": "sắt vụn"
     },
     {
-      "word": "鉄アレイ",
-      "reading": "てつアレイ",
-      "meaning": "quả tạ"
+      "word": "神鉄",
+      "reading": "しんてつ",
+      "meaning": "đường sắt tư nhân nhỏ và vừa thuộc tập đoàn đường sắt kobe"
+    },
+    {
+      "word": "鉄窓",
+      "reading": "てっそう",
+      "meaning": "song sắt"
+    },
+    {
+      "word": "満鉄",
+      "reading": "まんてつ",
+      "meaning": "công ty đường sắt nam mãn châu"
+    },
+    {
+      "word": "甲鉄",
+      "reading": "こうてつ",
+      "meaning": "giáp sắt"
+    },
+    {
+      "word": "鉄粉",
+      "reading": "てっぷん",
+      "meaning": "bột sắt"
+    },
+    {
+      "word": "鉄尺",
+      "reading": "てつじゃく",
+      "meaning": "vảy sắt"
+    },
+    {
+      "word": "鉄板",
+      "reading": "てっぱん",
+      "meaning": "sắt lá"
     }
   ]
 }

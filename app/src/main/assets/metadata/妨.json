@@ -87,6 +87,26 @@
   ],
   "vocabulary": [
     {
+      "word": "妨げる",
+      "reading": "さまたげる",
+      "meaning": "gàn"
+    },
+    {
+      "word": "妨害",
+      "reading": "ぼうがい",
+      "meaning": "sự phương hại"
+    },
+    {
+      "word": "妨害物",
+      "reading": "ぼうがいぶつ",
+      "meaning": "vật chướng ngại"
+    },
+    {
+      "word": "妨げ",
+      "reading": "さまたげ",
+      "meaning": "sự tắc nghẽn"
+    },
+    {
       "word": "妨碍",
       "reading": "ぼうがい",
       "meaning": "sự rối loạn"
@@ -97,44 +117,24 @@
       "meaning": "sự phá ngầm"
     },
     {
-      "word": "妨げ",
-      "reading": "さまたげ",
-      "meaning": "sự tắc nghẽn"
-    },
-    {
-      "word": "妨害",
-      "reading": "ぼうがい",
-      "meaning": "sự phương hại"
-    },
-    {
       "word": "妨業員",
       "reading": "ぼうぎょういん",
       "meaning": "người phá ngầm"
     },
     {
-      "word": "妨害物",
-      "reading": "ぼうがいぶつ",
-      "meaning": "vật chướng ngại"
-    },
-    {
-      "word": "妨げる",
-      "reading": "さまたげる",
-      "meaning": "gàn"
-    },
-    {
-      "word": "営業妨害",
-      "reading": "えいぎょうぼうがい",
-      "meaning": "con sâu làm rầu nồi canh"
-    },
-    {
-      "word": "議事妨害",
-      "reading": "ぎじぼうがい",
-      "meaning": "sự tắc nghẽn những cách tiến hành"
+      "word": "妨害する",
+      "reading": "ぼうがい",
+      "meaning": "phương hại"
     },
     {
       "word": "妨害放送",
       "reading": "ぼうがいほうそう",
       "meaning": "truyền đi bằng rađiô sự ép chặt"
+    },
+    {
+      "word": "営業妨害",
+      "reading": "えいぎょうぼうがい",
+      "meaning": "con sâu làm rầu nồi canh"
     }
   ]
 }

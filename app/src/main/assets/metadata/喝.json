@@ -87,29 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "喝",
-      "reading": "かつ",
-      "meaning": "tiếng quát trong thiền tông để khai ngộ hoặc răn đe"
-    },
-    {
       "word": "恐喝",
       "reading": "きょうかつ",
       "meaning": "sự dọa nạt"
     },
     {
-      "word": "喝破",
-      "reading": "かっぱ",
-      "meaning": "sự công bố"
+      "word": "恐喝罪",
+      "reading": "きょうかつざい",
+      "meaning": "tội tống tiền"
     },
     {
-      "word": "威喝",
-      "reading": "いかつ",
-      "meaning": "sự đe doạ"
-    },
-    {
-      "word": "脅喝",
-      "reading": "きょうかつ",
-      "meaning": "sự đe doạ"
+      "word": "喝采",
+      "reading": "かっさい",
+      "meaning": "sự hoan hô nhiệt liệt"
     },
     {
       "word": "恫喝",
@@ -117,14 +107,9 @@
       "meaning": "sự đe dọa"
     },
     {
-      "word": "大喝",
-      "reading": "だいかつ",
-      "meaning": "hét lớn"
-    },
-    {
-      "word": "一喝",
-      "reading": "いっかつ",
-      "meaning": "sự la hét"
+      "word": "喝",
+      "reading": "かつ",
+      "meaning": "tiếng quát trong thiền tông để khai ngộ hoặc răn đe"
     },
     {
       "word": "喝食",
@@ -132,9 +117,24 @@
       "meaning": "noh mask resembling a young attendant who announces mealtimes in a zen monastery"
     },
     {
-      "word": "喝采",
-      "reading": "かっさい",
-      "meaning": "sự hoan hô nhiệt liệt"
+      "word": "喝上げ",
+      "reading": "かつあげ",
+      "meaning": "sự trấn lột tiền"
+    },
+    {
+      "word": "一喝",
+      "reading": "いっかつ",
+      "meaning": "sự la hét"
+    },
+    {
+      "word": "喝破",
+      "reading": "かっぱ",
+      "meaning": "sự công bố"
+    },
+    {
+      "word": "大喝",
+      "reading": "だいかつ",
+      "meaning": "hét lớn"
     }
   ]
 }

@@ -66,34 +66,9 @@
   ],
   "vocabulary": [
     {
-      "word": "牽束",
-      "reading": "けんそく",
-      "meaning": "sự kiềm chế chỉ riêng được hút trong cái gì đó"
-    },
-    {
       "word": "牽引",
       "reading": "けんいん",
       "meaning": "kéo mạnh"
-    },
-    {
-      "word": "牽制",
-      "reading": "けんせい",
-      "meaning": "sự kiểm tra"
-    },
-    {
-      "word": "牽強",
-      "reading": "けんきょう",
-      "meaning": "sự khiên cưỡng"
-    },
-    {
-      "word": "牽連",
-      "reading": "けんれん",
-      "meaning": "liên quan đến"
-    },
-    {
-      "word": "牽制球",
-      "reading": "けんせいきゅう",
-      "meaning": "ném bóng cho một người bảo vệ để người bảo vệ có thể đuổi theo một người đang dẫn đầu hoặc sắp bắt đầu đánh cắp căn cứ tiếp theo"
     },
     {
       "word": "牽引車",
@@ -106,6 +81,26 @@
       "meaning": "kéo sức mạnh"
     },
     {
+      "word": "牽引役",
+      "reading": "けんいんやく",
+      "meaning": "động lực thúc đẩy"
+    },
+    {
+      "word": "被牽引",
+      "reading": "ひけんいん",
+      "meaning": "phần sau của xe đầu kéo-thùng hàng"
+    },
+    {
+      "word": "牽制",
+      "reading": "けんせい",
+      "meaning": "sự kiểm tra"
+    },
+    {
+      "word": "牽制球",
+      "reading": "けんせいきゅう",
+      "meaning": "ném bóng cho một người bảo vệ để người bảo vệ có thể đuổi theo một người đang dẫn đầu hoặc sắp bắt đầu đánh cắp căn cứ tiếp theo"
+    },
+    {
       "word": "牽牛星",
       "reading": "けんぎゅうせい",
       "meaning": "sao ngưu lang"
@@ -114,6 +109,11 @@
       "word": "牽牛子",
       "reading": "けんごし",
       "meaning": "hạt cây bìm bìm"
+    },
+    {
+      "word": "牽束",
+      "reading": "けんそく",
+      "meaning": "sự kiềm chế chỉ riêng được hút trong cái gì đó"
     }
   ]
 }

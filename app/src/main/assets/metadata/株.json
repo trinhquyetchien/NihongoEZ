@@ -94,19 +94,39 @@
       "meaning": "cổ phiếu"
     },
     {
+      "word": "株式",
+      "reading": "かぶしき",
+      "meaning": "cổ phần"
+    },
+    {
+      "word": "前株",
+      "reading": "まえかぶ",
+      "meaning": "tiền cổ"
+    },
+    {
       "word": "後株",
       "reading": "あとかぶ",
       "meaning": "tên công ty mà có cụm 株式会社 đặt ở phía sau"
     },
     {
-      "word": "浮動株基準株価指数",
-      "reading": "ふどーかぶきじゅんかぶかしすー",
-      "meaning": "chỉ số chứng khoán thả nổi"
+      "word": "株金",
+      "reading": "かぶきん",
+      "meaning": "cung cấp đầu tư"
     },
     {
-      "word": "ダウ・ジョーンズ工業株平均株価",
-      "reading": "ダウ・ジョーンズこーぎょーかぶへーきんかぶか",
-      "meaning": "chỉ số trung bình công nghiệp dow jones"
+      "word": "株高",
+      "reading": "かぶだか",
+      "meaning": "giá chứng khoán tăng cao"
+    },
+    {
+      "word": "株元",
+      "reading": "かぶもと",
+      "meaning": "gốc cây"
+    },
+    {
+      "word": "株屋",
+      "reading": "かぶや",
+      "meaning": "người mua bán cổ phần chứng khoán"
     },
     {
       "word": "米株",
@@ -114,29 +134,9 @@
       "meaning": "cổ phiếu mỹ"
     },
     {
-      "word": "株札",
-      "reading": "かぶふだ",
-      "meaning": "hóa đơn chứng khoán"
-    },
-    {
-      "word": "古株",
-      "reading": "ふるかぶ",
-      "meaning": "dân kỳ cựu"
-    },
-    {
-      "word": "株券",
-      "reading": "かぶけん",
-      "meaning": "cổ phiếu"
-    },
-    {
-      "word": "お株",
-      "reading": "おかぶ",
-      "meaning": "sở trường"
-    },
-    {
-      "word": "借株",
-      "reading": "かりかぶ",
-      "meaning": "thuê cổ phiếu huấn luyện"
+      "word": "株仲間",
+      "reading": "かぶなかま",
+      "meaning": "hội thương nhân"
     }
   ]
 }

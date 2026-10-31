@@ -89,9 +89,34 @@
   ],
   "vocabulary": [
     {
-      "word": "拘縮",
-      "reading": "こうしゅく",
-      "meaning": "sự co cứng"
+      "word": "拘束",
+      "reading": "こうそく",
+      "meaning": "sự câu thúc"
+    },
+    {
+      "word": "拘束力",
+      "reading": "こうそくりょく",
+      "meaning": "trói lực lượng"
+    },
+    {
+      "word": "拘束衣",
+      "reading": "こうそくい",
+      "meaning": "áo trói tay"
+    },
+    {
+      "word": "拘束圧",
+      "reading": "こうそくあつ",
+      "meaning": "giam hãm sức ép"
+    },
+    {
+      "word": "拘置",
+      "reading": "こうち",
+      "meaning": "sự bắt giam"
+    },
+    {
+      "word": "拘置所",
+      "reading": "こうちしょ",
+      "meaning": "nhà giam"
     },
     {
       "word": "拘り",
@@ -104,39 +129,14 @@
       "meaning": "bị bắt giữ"
     },
     {
-      "word": "拘置",
-      "reading": "こうち",
-      "meaning": "sự bắt giam"
+      "word": "拘らず",
+      "reading": "かかわらず",
+      "meaning": "không chú ý đến"
     },
     {
-      "word": "拘束",
-      "reading": "こうそく",
-      "meaning": "sự câu thúc"
-    },
-    {
-      "word": "拘泥",
-      "reading": "こうでい",
-      "meaning": "sự câu nệ"
-    },
-    {
-      "word": "拘引",
-      "reading": "こういん",
-      "meaning": "giữ"
-    },
-    {
-      "word": "拘禁",
-      "reading": "こうきん",
-      "meaning": "sự giam giữ"
-    },
-    {
-      "word": "拘置所",
-      "reading": "こうちしょ",
-      "meaning": "nhà giam"
-    },
-    {
-      "word": "拘わる",
-      "reading": "こだわる",
-      "meaning": "sự chọn lọc kỹ càng"
+      "word": "再拘留",
+      "reading": "さいこうりゅう",
+      "meaning": "việc tạm giam lại"
     }
   ]
 }

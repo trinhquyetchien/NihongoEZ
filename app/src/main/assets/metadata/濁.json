@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "比濁法と濁度測定",
-      "reading": "ひだくほーとだくどそくてー",
-      "meaning": "phương pháp đo độ đục"
-    },
-    {
       "word": "濁る",
       "reading": "にごる",
       "meaning": "đục"
     },
     {
-      "word": "懸濁",
-      "reading": "けんだく",
-      "meaning": "huyền phù"
+      "word": "清濁",
+      "reading": "せいだく",
+      "meaning": "điều tốt đẹp và điều xấu xa"
+    },
+    {
+      "word": "濁った",
+      "reading": "にごった",
+      "meaning": "đục"
+    },
+    {
+      "word": "白濁",
+      "reading": "はくだく",
+      "meaning": "tinh vân"
     },
     {
       "word": "濁度",
@@ -110,34 +115,29 @@
       "meaning": "độ đục"
     },
     {
+      "word": "乳濁",
+      "reading": "にゅうだく",
+      "meaning": "nhũ tương"
+    },
+    {
+      "word": "濁度計",
+      "reading": "だくどけい",
+      "meaning": "thiết bị đo độ đục"
+    },
+    {
       "word": "濁り",
       "reading": "にごり",
       "meaning": "dấu phụ âm trong tiếng nhật"
     },
     {
-      "word": "濁音",
-      "reading": "だくおん",
-      "meaning": "âm đục"
+      "word": "濁す",
+      "reading": "にごす",
+      "meaning": "làm đục"
     },
     {
-      "word": "濁点",
-      "reading": "だくてん",
-      "meaning": "điểm đục"
-    },
-    {
-      "word": "濁流",
-      "reading": "だくりゅう",
-      "meaning": "dòng đục"
-    },
-    {
-      "word": "汚濁",
-      "reading": "おだく",
-      "meaning": "sự ô uế"
-    },
-    {
-      "word": "乳濁",
-      "reading": "にゅうだく",
-      "meaning": "nhũ tương"
+      "word": "濁り水",
+      "reading": "にごりみず",
+      "meaning": "nước bẩn"
     }
   ]
 }

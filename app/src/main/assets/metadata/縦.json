@@ -94,14 +94,14 @@
       "meaning": "bề dọc"
     },
     {
-      "word": "縦横",
-      "reading": "たてよこ",
-      "meaning": "dọc ngang"
+      "word": "操縦",
+      "reading": "そうじゅう",
+      "meaning": "việc điều hành"
     },
     {
-      "word": "縦走",
-      "reading": "じゅうそう",
-      "meaning": "đi ngang qua"
+      "word": "縦社会",
+      "reading": "たてしゃかい",
+      "meaning": "xã hội có cấu trúc theo chiều dọc"
     },
     {
       "word": "縦型",
@@ -109,9 +109,9 @@
       "meaning": "kiểu đứng"
     },
     {
-      "word": "縦続",
-      "reading": "じゅうぞく",
-      "meaning": "ghép"
+      "word": "縦書",
+      "reading": "たてがき",
+      "meaning": "sự viết dọc"
     },
     {
       "word": "縦線",
@@ -119,24 +119,24 @@
       "meaning": "đường thẳng đứng"
     },
     {
-      "word": "縦断",
-      "reading": "じゅうだん",
-      "meaning": "sự cắt dọc"
+      "word": "縦読み",
+      "reading": "たてよみ",
+      "meaning": "đọc dọc"
     },
     {
-      "word": "縦書",
+      "word": "操縦法",
+      "reading": "そうじゅうほう",
+      "meaning": "phương pháp điều khiển"
+    },
+    {
+      "word": "操縦室",
+      "reading": "そうじゅうしつ",
+      "meaning": "phòng điều khiển"
+    },
+    {
+      "word": "縦書き",
       "reading": "たてがき",
       "meaning": "sự viết dọc"
-    },
-    {
-      "word": "縦覧",
-      "reading": "じゅうらん",
-      "meaning": "sự xem xét kỹ"
-    },
-    {
-      "word": "縦縞",
-      "reading": "たてじま",
-      "meaning": "sọc dọc"
     }
   ]
 }

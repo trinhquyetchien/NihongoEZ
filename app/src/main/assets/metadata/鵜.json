@@ -36,14 +36,14 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "鵜呑み",
+      "reading": "うのみ",
+      "meaning": "nuốt trọn"
+    },
+    {
       "word": "鵜",
       "reading": "う",
       "meaning": "chim cốc"
-    },
-    {
-      "word": "川鵜",
-      "reading": "かわう",
-      "meaning": "chim cốc đế"
     },
     {
       "word": "海鵜",
@@ -51,9 +51,9 @@
       "meaning": "phalacrocorax capillatus"
     },
     {
-      "word": "鵜匠",
-      "reading": "うしょう",
-      "meaning": "người đánh cá chim cốc"
+      "word": "川鵜",
+      "reading": "かわう",
+      "meaning": "chim cốc đế"
     },
     {
       "word": "姫鵜",
@@ -61,14 +61,9 @@
       "meaning": "phalacrocorax pelagicus"
     },
     {
-      "word": "小羽鵜",
-      "reading": "こばねう",
-      "meaning": "chim cốc nhỏ"
-    },
-    {
-      "word": "鵜呑み",
-      "reading": "うのみ",
-      "meaning": "nuốt trọn"
+      "word": "鵜飼薬",
+      "reading": "うがいやく",
+      "meaning": "thuốc súc họng"
     },
     {
       "word": "鵜飼い",
@@ -76,14 +71,19 @@
       "meaning": "câu cá bằng chim cốc"
     },
     {
-      "word": "ヨーロッパ姫鵜",
-      "reading": "ヨーロッパひめう",
-      "meaning": "phalacrocorax aristotelis"
+      "word": "鵜匠",
+      "reading": "うしょう",
+      "meaning": "người đánh cá chim cốc"
     },
     {
-      "word": "鵜飼薬",
-      "reading": "うがいやく",
-      "meaning": "thuốc súc họng"
+      "word": "小羽鵜",
+      "reading": "こばねう",
+      "meaning": "chim cốc nhỏ"
+    },
+    {
+      "word": "千島鵜烏",
+      "reading": "ちしまうがらす",
+      "meaning": "chim cốc mặt đỏ"
     }
   ]
 }

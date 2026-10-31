@@ -93,29 +93,34 @@
   ],
   "vocabulary": [
     {
-      "word": "狭",
-      "reading": "せ",
-      "meaning": "bị chật chội"
-    },
-    {
-      "word": "手狭",
-      "reading": "てぜま",
-      "meaning": "chật hẹp"
-    },
-    {
-      "word": "狭量",
-      "reading": "きょうりょう",
-      "meaning": "hẹp hòi"
-    },
-    {
       "word": "狭い",
       "reading": "せまい",
       "meaning": "bé"
     },
     {
-      "word": "広狭",
-      "reading": "こうきょう",
-      "meaning": "độ rộng"
+      "word": "所狭い",
+      "reading": "ところせまい",
+      "meaning": "đông đúc"
+    },
+    {
+      "word": "狭",
+      "reading": "せ",
+      "meaning": "bị chật chội"
+    },
+    {
+      "word": "狭に",
+      "reading": "せに",
+      "meaning": "hẹp lại"
+    },
+    {
+      "word": "狭端体",
+      "reading": "きょうたんたい",
+      "meaning": "stenotele"
+    },
+    {
+      "word": "狭域",
+      "reading": "きょういき",
+      "meaning": "phạm vi hẹp"
     },
     {
       "word": "狭む",
@@ -123,24 +128,19 @@
       "meaning": "ép vào"
     },
     {
-      "word": "偏狭",
-      "reading": "へんきょう",
-      "meaning": "hẹp hòi"
+      "word": "狭視野",
+      "reading": "きょうしや",
+      "meaning": "tầm nhìn hạn hẹp"
     },
     {
-      "word": "狭義",
-      "reading": "きょうぎ",
-      "meaning": "nghĩa hẹp"
+      "word": "狭間",
+      "reading": "はざま",
+      "meaning": "khoảng giữa"
     },
     {
-      "word": "狭軌",
-      "reading": "きょうき",
-      "meaning": "khoảng cách đường ray hẹp"
-    },
-    {
-      "word": "狭隘",
-      "reading": "きょうあい",
-      "meaning": "hẹp"
+      "word": "矢狭間",
+      "reading": "やざま",
+      "meaning": "lỗ châu mai"
     }
   ]
 }

@@ -109,14 +109,19 @@
   ],
   "vocabulary": [
     {
+      "word": "弱い",
+      "reading": "よわい",
+      "meaning": "hèn yếu"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "nhược điểm"
+    },
+    {
       "word": "弱",
       "reading": "じゃく",
       "meaning": "người yếu thế"
-    },
-    {
-      "word": "弱弱しい",
-      "reading": "よわよわしい",
-      "meaning": "còm nhom"
     },
     {
       "word": "貧弱",
@@ -124,39 +129,34 @@
       "meaning": "gầy yếu"
     },
     {
-      "word": "弱さ",
-      "reading": "よわさ",
-      "meaning": "tính nhu nhược"
-    },
-    {
-      "word": "弱い",
-      "reading": "よわい",
-      "meaning": "hèn yếu"
-    },
-    {
-      "word": "弱者",
-      "reading": "じゃくしゃ",
-      "meaning": "yếu"
-    },
-    {
       "word": "弱る",
       "reading": "よわる",
       "meaning": "khốn quẫn"
     },
     {
-      "word": "虚弱",
-      "reading": "きょじゃく",
-      "meaning": "còm"
+      "word": "弱さ",
+      "reading": "よわさ",
+      "meaning": "tính nhu nhược"
     },
     {
-      "word": "弱気",
-      "reading": "よわき",
-      "meaning": "nhát gan"
+      "word": "弱弟",
+      "reading": "じゃくてい",
+      "meaning": "anh trai trẻ"
     },
     {
-      "word": "弱点",
-      "reading": "じゃくてん",
-      "meaning": "nhược điểm"
+      "word": "脆弱",
+      "reading": "ぜいじゃく",
+      "meaning": "mỏng manh"
+    },
+    {
+      "word": "弱体",
+      "reading": "じゃくたい",
+      "meaning": "mềm yếu"
+    },
+    {
+      "word": "弱者",
+      "reading": "じゃくしゃ",
+      "meaning": "yếu"
     }
   ]
 }

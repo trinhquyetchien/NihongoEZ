@@ -90,19 +90,44 @@
   ],
   "vocabulary": [
     {
-      "word": "齢",
-      "reading": "よわい",
-      "meaning": "tuổi tác"
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaning": "tuổi"
     },
     {
-      "word": "高齢社会",
-      "reading": "こうれいしゃかい",
-      "meaning": "những người trên 65 tuổi chiếm 14% dân số của quốc gia sẽ đk gọi là 高齢社会"
+      "word": "高年齢",
+      "reading": "こうねんれい",
+      "meaning": "cao tuổi"
     },
     {
-      "word": "樹齢",
-      "reading": "じゅれい",
-      "meaning": "già đi một cái cây"
+      "word": "年齢別",
+      "reading": "ねんれいべつ",
+      "meaning": "theo độ tuổi"
+    },
+    {
+      "word": "同年齢",
+      "reading": "どうねんれい",
+      "meaning": "cùng tuổi"
+    },
+    {
+      "word": "年齢差",
+      "reading": "ねんれいさ",
+      "meaning": "sự chênh lệch tuổi tác"
+    },
+    {
+      "word": "脳年齢",
+      "reading": "のうねんれい",
+      "meaning": "tuổi trí tuệ"
+    },
+    {
+      "word": "低年齢",
+      "reading": "ていねんれい",
+      "meaning": "trẻ tuổi"
+    },
+    {
+      "word": "年齢層",
+      "reading": "ねんれいそう",
+      "meaning": "nhóm tuổi"
     },
     {
       "word": "高齢",
@@ -110,34 +135,9 @@
       "meaning": "tuổi cao"
     },
     {
-      "word": "頽齢",
-      "reading": "たいれい",
-      "meaning": "già đi"
-    },
-    {
-      "word": "学齢",
-      "reading": "がくれい",
-      "meaning": "tuổi đến trường"
-    },
-    {
-      "word": "弱齢",
-      "reading": "じゃくれい",
-      "meaning": "thanh niên"
-    },
-    {
-      "word": "月齢",
-      "reading": "げつれい",
-      "meaning": "tuần trăng"
-    },
-    {
-      "word": "寿齢",
-      "reading": "じゅれい",
-      "meaning": "sống lâu"
-    },
-    {
-      "word": "加齢",
-      "reading": "かれい",
-      "meaning": "thêm tuổi"
+      "word": "高齢者",
+      "reading": "こうれいしゃ",
+      "meaning": "người cao tuổi"
     }
   ]
 }

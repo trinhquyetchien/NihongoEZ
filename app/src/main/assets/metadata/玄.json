@@ -105,44 +105,44 @@
   ],
   "vocabulary": [
     {
-      "word": "玄人",
-      "reading": "くろうと",
-      "meaning": "chuyên gia"
-    },
-    {
       "word": "玄関",
       "reading": "げんかん",
       "meaning": "phòng ngoài"
     },
     {
-      "word": "幽玄",
-      "reading": "ゆうげん",
-      "meaning": "huyền bí"
+      "word": "玄人",
+      "reading": "くろうと",
+      "meaning": "chuyên gia"
     },
     {
-      "word": "玄冥",
-      "reading": "げんめい",
-      "meaning": "huyền minh"
+      "word": "玄関先",
+      "reading": "げんかんさき",
+      "meaning": "chỗ lối vào"
     },
     {
-      "word": "玄武",
-      "reading": "げんぶ",
-      "meaning": "huyền vũ"
+      "word": "玄関口",
+      "reading": "げんかんぐち",
+      "meaning": "cửa vào"
     },
     {
-      "word": "玄孫",
-      "reading": "げんそん",
-      "meaning": "cháu sơ"
+      "word": "玄冬",
+      "reading": "げんとう",
+      "meaning": "mùa đông"
     },
     {
-      "word": "玄麦",
-      "reading": "げんばく",
-      "meaning": "lúa mì"
+      "word": "玄鳥",
+      "reading": "げんちょう",
+      "meaning": "chim én"
     },
     {
-      "word": "玄黄",
-      "reading": "げんこう",
-      "meaning": "tơ vàng và đen"
+      "word": "玄草",
+      "reading": "げんそう",
+      "meaning": "geranium thunbergii"
+    },
+    {
+      "word": "玄猿",
+      "reading": "げんえん",
+      "meaning": "con vượn"
     },
     {
       "word": "玄能",
@@ -150,9 +150,9 @@
       "meaning": "cái búa"
     },
     {
-      "word": "玄翁",
-      "reading": "げんのう",
-      "meaning": "bushhammer"
+      "word": "玄兎",
+      "reading": "げんと",
+      "meaning": "moon"
     }
   ]
 }

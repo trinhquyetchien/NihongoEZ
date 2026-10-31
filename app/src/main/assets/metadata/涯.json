@@ -86,19 +86,39 @@
   ],
   "vocabulary": [
     {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "sinh nhai"
+    },
+    {
+      "word": "一生涯",
+      "reading": "いっしょうがい",
+      "meaning": "cả cuộc đời"
+    },
+    {
+      "word": "全生涯",
+      "reading": "ぜんしょうがい",
+      "meaning": "một có toàn bộ cuộc sống"
+    },
+    {
+      "word": "公生涯",
+      "reading": "こうしょうがい",
+      "meaning": "nghề làm dâu trăm họ"
+    },
+    {
       "word": "涯",
       "reading": "はて",
       "meaning": "bờ"
     },
     {
-      "word": "境涯",
-      "reading": "きょうがい",
-      "meaning": "tình huống"
-    },
-    {
       "word": "水涯",
       "reading": "すいがい",
       "meaning": "mép nước"
+    },
+    {
+      "word": "境涯",
+      "reading": "きょうがい",
+      "meaning": "tình huống"
     },
     {
       "word": "天涯",
@@ -111,29 +131,9 @@
       "meaning": "ranh giới"
     },
     {
-      "word": "生涯",
-      "reading": "しょうがい",
-      "meaning": "sinh nhai"
-    },
-    {
-      "word": "公生涯",
-      "reading": "こうしょうがい",
-      "meaning": "nghề làm dâu trăm họ"
-    },
-    {
-      "word": "全生涯",
-      "reading": "ぜんしょうがい",
-      "meaning": "một có toàn bộ cuộc sống"
-    },
-    {
-      "word": "一生涯",
-      "reading": "いっしょうがい",
-      "meaning": "cả cuộc đời"
-    },
-    {
-      "word": "天涯地角",
-      "reading": "てんがいちかく",
-      "meaning": "chân trời góc bể"
+      "word": "生涯教育",
+      "reading": "しょうがいきょういく",
+      "meaning": "sự giáo dục cho cuộc sống"
     }
   ]
 }

@@ -87,14 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "猛烈",
+      "reading": "もうれつ",
+      "meaning": "mãnh liệt"
+    },
+    {
       "word": "猛",
       "reading": "もう",
       "meaning": "năng động"
     },
     {
-      "word": "猛猛しい",
-      "reading": "たけだけしい",
-      "meaning": "dữ tợn"
+      "word": "猛し",
+      "reading": "たけし",
+      "meaning": "người dũng cảm"
     },
     {
       "word": "猛き",
@@ -102,39 +107,34 @@
       "meaning": "dũng cảm"
     },
     {
-      "word": "猛スピード",
-      "reading": "もうスピード",
-      "meaning": "tốc độ nhanh"
+      "word": "猛攻撃",
+      "reading": "もうこうげき",
+      "meaning": "dữ tợn tấn công"
     },
     {
-      "word": "猛る",
-      "reading": "たける",
-      "meaning": "giận dữ"
+      "word": "猛勉強",
+      "reading": "もうべんきょう",
+      "meaning": "học thêm quá nhiều"
     },
     {
-      "word": "猛禽",
-      "reading": "もうきん",
-      "meaning": "chim săn mồi"
+      "word": "猛練習",
+      "reading": "もうれんしゅう",
+      "meaning": "sự huấn luyện cứng"
     },
     {
-      "word": "猛者",
-      "reading": "もさ",
-      "meaning": "người dũng cảm"
+      "word": "猛牛",
+      "reading": "もうぎゅう",
+      "meaning": "con bò dữ"
+    },
+    {
+      "word": "猛勢",
+      "reading": "もうせい",
+      "meaning": "sức mạnh dữ dội"
     },
     {
       "word": "勇猛",
       "reading": "ゆうもう",
       "meaning": "dũng mãnh"
-    },
-    {
-      "word": "猛虎",
-      "reading": "もうこ",
-      "meaning": "con hổ dữ tợn"
-    },
-    {
-      "word": "猛攻",
-      "reading": "もうこう",
-      "meaning": "dữ tợn tấn công"
     }
   ]
 }

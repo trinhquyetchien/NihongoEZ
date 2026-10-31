@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "譜",
-      "reading": "ふ",
-      "meaning": "âm nhạc"
-    },
-    {
-      "word": "棋譜",
-      "reading": "きふ",
-      "meaning": "kết quả trò chơi"
-    },
-    {
       "word": "楽譜",
       "reading": "がくふ",
       "meaning": "bảng tổng phổ"
     },
     {
-      "word": "曲譜",
-      "reading": "きょくふ",
-      "meaning": "sự phổ nhạc"
+      "word": "楽譜台",
+      "reading": "がくふだい",
+      "meaning": "âm nhạc đứng"
     },
     {
-      "word": "記譜",
-      "reading": "きふ",
-      "meaning": "việc viết âm nhạc ghi điểm"
+      "word": "譜面",
+      "reading": "ふめん",
+      "meaning": "âm nhạc"
     },
     {
-      "word": "算譜",
-      "reading": "さんぷ",
-      "meaning": "sự rải"
+      "word": "譜面台",
+      "reading": "ふめんだい",
+      "meaning": "âm nhạc đứng"
     },
     {
-      "word": "画譜",
-      "reading": "がふ",
-      "meaning": "sách tranh"
+      "word": "系譜",
+      "reading": "けいふ",
+      "meaning": "phả hệ"
     },
     {
-      "word": "印譜",
-      "reading": "いんぷ",
-      "meaning": "sổ đăng ký con dấu"
+      "word": "譜",
+      "reading": "ふ",
+      "meaning": "âm nhạc"
     },
     {
-      "word": "音譜",
-      "reading": "おんぷ",
-      "meaning": "nhạc phổ"
+      "word": "家譜",
+      "reading": "かふ",
+      "meaning": "gia phả"
+    },
+    {
+      "word": "譜本",
+      "reading": "ふほん",
+      "meaning": "sách âm nhạc truyền thống nhật bản"
     },
     {
       "word": "花譜",
       "reading": "かふ",
       "meaning": "album"
+    },
+    {
+      "word": "作譜",
+      "reading": "さくふ",
+      "meaning": "đốn khúc"
     }
   ]
 }

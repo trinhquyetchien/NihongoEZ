@@ -91,24 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "釣",
-      "reading": "つり",
-      "meaning": "sự đánh cá"
-    },
-    {
-      "word": "釣銭",
-      "reading": "つりせん",
-      "meaning": "tiền thừa"
-    },
-    {
-      "word": "お釣",
+      "word": "お釣り",
       "reading": "おつり",
-      "meaning": "tiền thối lại"
+      "meaning": "tiền lẻ"
     },
     {
-      "word": "釣果",
-      "reading": "ちょうか",
-      "meaning": "lượng cá đánh bắt được"
+      "word": "釣る",
+      "reading": "つる",
+      "meaning": "câu cá"
+    },
+    {
+      "word": "釣り",
+      "reading": "つり",
+      "meaning": "sự câu cá"
     },
     {
       "word": "釣鐘",
@@ -116,29 +111,34 @@
       "meaning": "chuông phật"
     },
     {
-      "word": "釣糸",
-      "reading": "つりいと",
-      "meaning": "cước câu cá"
+      "word": "釣り人",
+      "reading": "つりびと",
+      "meaning": "người câu cá"
     },
     {
-      "word": "釣瓶",
-      "reading": "つるべ",
-      "meaning": "tốt là thùng"
+      "word": "夜釣り",
+      "reading": "よづり",
+      "meaning": "đi câu cá ban đêm"
     },
     {
-      "word": "磯釣",
-      "reading": "いそづり",
-      "meaning": "sự câu cá ở bờ biển"
+      "word": "釣り花",
+      "reading": "つりばな",
+      "meaning": "hoa cắm trong bình treo"
     },
     {
-      "word": "釣具",
-      "reading": "つりぐ",
-      "meaning": "dụng cụ câu cá"
-    },
-    {
-      "word": "海釣",
+      "word": "海釣り",
       "reading": "うみづり",
-      "meaning": "biển câu cá"
+      "meaning": "việc câu cá biển"
+    },
+    {
+      "word": "釣り台",
+      "reading": "つりだい",
+      "meaning": "ván đứng câu"
+    },
+    {
+      "word": "釣り師",
+      "reading": "つりし",
+      "meaning": "người câu cá"
     }
   ]
 }

@@ -87,39 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "遥遥",
-      "reading": "はるばる",
-      "meaning": "khoảng cách lớn"
-    },
-    {
-      "word": "遥拝",
-      "reading": "ようはい",
-      "meaning": "sự tôn kính từ xa"
-    },
-    {
-      "word": "逍遥",
-      "reading": "しょうよう",
-      "meaning": "đi dạo chơi"
-    },
-    {
-      "word": "遥遠",
-      "reading": "ようえん",
-      "meaning": "rất xa"
-    },
-    {
-      "word": "遥々",
-      "reading": "はるばる",
-      "meaning": "từ xa"
-    },
-    {
       "word": "遥か",
       "reading": "はるか",
       "meaning": "xa xưa"
-    },
-    {
-      "word": "遥か昔",
-      "reading": "はるかむかし",
-      "meaning": "trước đây rất lâu"
     },
     {
       "word": "遥かに",
@@ -127,9 +97,39 @@
       "meaning": "hơn nữa"
     },
     {
-      "word": "逍遥学派",
-      "reading": "しょうようがくは",
-      "meaning": "trường phái triết học a-ris-tot"
+      "word": "遥か昔",
+      "reading": "はるかむかし",
+      "meaning": "trước đây rất lâu"
+    },
+    {
+      "word": "遥々",
+      "reading": "はるばる",
+      "meaning": "từ xa"
+    },
+    {
+      "word": "遥遥",
+      "reading": "はるばる",
+      "meaning": "khoảng cách lớn"
+    },
+    {
+      "word": "逍遥",
+      "reading": "しょうよう",
+      "meaning": "đi dạo chơi"
+    },
+    {
+      "word": "遥拝",
+      "reading": "ようはい",
+      "meaning": "sự tôn kính từ xa"
+    },
+    {
+      "word": "遥遠",
+      "reading": "ようえん",
+      "meaning": "rất xa"
+    },
+    {
+      "word": "遥か遠く",
+      "reading": "はるかとおく",
+      "meaning": "xa tít"
     },
     {
       "word": "遥か彼方",

@@ -88,44 +88,14 @@
   ],
   "vocabulary": [
     {
+      "word": "大臣",
+      "reading": "だいじん",
+      "meaning": "bộ trưởng"
+    },
+    {
       "word": "臣",
       "reading": "おみ",
       "meaning": "kẻ hầu cận"
-    },
-    {
-      "word": "君臣",
-      "reading": "くんしん",
-      "meaning": "chủ tớ"
-    },
-    {
-      "word": "義臣",
-      "reading": "ぎしん",
-      "meaning": "vật giữ trung thành"
-    },
-    {
-      "word": "文臣",
-      "reading": "ぶんしん",
-      "meaning": "quan văn"
-    },
-    {
-      "word": "賢臣",
-      "reading": "けんしん",
-      "meaning": "đầy tớ khôn ngoan và có năng lực"
-    },
-    {
-      "word": "廷臣",
-      "reading": "ていしん",
-      "meaning": "quan cận thần"
-    },
-    {
-      "word": "人臣",
-      "reading": "じんしん",
-      "meaning": "những đề tài"
-    },
-    {
-      "word": "家臣",
-      "reading": "かしん",
-      "meaning": "lão bộc"
     },
     {
       "word": "下臣",
@@ -133,9 +103,39 @@
       "meaning": "người giữ chức vụ thấp"
     },
     {
-      "word": "武臣",
-      "reading": "ぶしん",
-      "meaning": "vật giữ quân đội"
+      "word": "外臣",
+      "reading": "がいしん",
+      "meaning": "thần tử ngoại quốc"
+    },
+    {
+      "word": "不臣",
+      "reading": "ふしん",
+      "meaning": "sự không trung thành"
+    },
+    {
+      "word": "文臣",
+      "reading": "ぶんしん",
+      "meaning": "quan văn"
+    },
+    {
+      "word": "直臣",
+      "reading": "じきしん",
+      "meaning": "thuộc hạ thân cận"
+    },
+    {
+      "word": "義臣",
+      "reading": "ぎしん",
+      "meaning": "vật giữ trung thành"
+    },
+    {
+      "word": "賢臣",
+      "reading": "けんしん",
+      "meaning": "đầy tớ khôn ngoan và có năng lực"
+    },
+    {
+      "word": "家臣",
+      "reading": "かしん",
+      "meaning": "lão bộc"
     }
   ]
 }

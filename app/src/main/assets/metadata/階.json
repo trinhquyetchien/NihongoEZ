@@ -89,9 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "階段",
+      "reading": "かいだん",
+      "meaning": "cầu thang"
+    },
+    {
+      "word": "段階",
+      "reading": "だんかい",
+      "meaning": "cấp độ"
+    },
+    {
       "word": "階",
       "reading": "かい",
       "meaning": "lầu"
+    },
+    {
+      "word": "階級",
+      "reading": "かいきゅう",
+      "meaning": "giai cấp"
+    },
+    {
+      "word": "階層",
+      "reading": "かいそう",
+      "meaning": "giai tầng"
     },
     {
       "word": "一階",
@@ -99,14 +119,14 @@
       "meaning": "tầng trệt"
     },
     {
-      "word": "音階",
-      "reading": "おんかい",
-      "meaning": "âm giai"
+      "word": "二階",
+      "reading": "にかい",
+      "meaning": "tầng hai"
     },
     {
-      "word": "階下",
-      "reading": "かいか",
-      "meaning": "tầng dưới"
+      "word": "上階",
+      "reading": "じょうかい",
+      "meaning": "tầng trên"
     },
     {
       "word": "三階",
@@ -114,29 +134,9 @@
       "meaning": "tầng ba"
     },
     {
-      "word": "階上",
-      "reading": "かいじょう",
-      "meaning": "tầng trên"
-    },
-    {
-      "word": "階調",
-      "reading": "かいちょう",
-      "meaning": "sự chuyển màu"
-    },
-    {
-      "word": "階建",
-      "reading": "かいだて",
-      "meaning": "một tòa nhà n tầng"
-    },
-    {
-      "word": "階高",
-      "reading": "かいだか",
-      "meaning": "chiều cao của tầng"
-    },
-    {
-      "word": "階位",
-      "reading": "かいい",
-      "meaning": "thứ hạng"
+      "word": "階名",
+      "reading": "かいめい",
+      "meaning": "ký âm"
     }
   ]
 }

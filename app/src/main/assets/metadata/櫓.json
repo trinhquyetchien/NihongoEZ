@@ -37,21 +37,6 @@
       "meaning": "giàn"
     },
     {
-      "word": "櫓櫂",
-      "reading": "ろかい",
-      "meaning": "mái chèo"
-    },
-    {
-      "word": "櫓杭",
-      "reading": "ろぐい",
-      "meaning": "cọc móng"
-    },
-    {
-      "word": "櫓臍",
-      "reading": "ろべそ",
-      "meaning": "chốt điểm tựa"
-    },
-    {
       "word": "見櫓",
       "reading": "みせやぐら",
       "meaning": "đài quan sát"
@@ -62,14 +47,29 @@
       "meaning": "kỹ thuật túm lấy dây lưng của đối phương"
     },
     {
-      "word": "櫓太鼓",
-      "reading": "やぐらだいこ",
-      "meaning": "một chiếc trống được đánh trên tháp pháo để báo hiệu việc mở và đóng cửa một hội trường đấu vật sumo hoặc một nhà hát cũ"
+      "word": "櫓杭",
+      "reading": "ろぐい",
+      "meaning": "cọc móng"
+    },
+    {
+      "word": "櫓櫂",
+      "reading": "ろかい",
+      "meaning": "mái chèo"
     },
     {
       "word": "物見櫓",
       "reading": "ものみやぐら",
       "meaning": "tháp canh"
+    },
+    {
+      "word": "櫓臍",
+      "reading": "ろべそ",
+      "meaning": "chốt điểm tựa"
+    },
+    {
+      "word": "櫓太鼓",
+      "reading": "やぐらだいこ",
+      "meaning": "một chiếc trống được đánh trên tháp pháo để báo hiệu việc mở và đóng cửa một hội trường đấu vật sumo hoặc một nhà hát cũ"
     },
     {
       "word": "火の見櫓",

@@ -60,9 +60,24 @@
       "meaning": "tuổi trẻ"
     },
     {
-      "word": "瑞瑞しい",
-      "reading": "みずみずしい",
-      "meaning": "hoạt bát và trẻ"
+      "word": "日瑞",
+      "reading": "にっすい",
+      "meaning": "nhật - thụy điển"
+    },
+    {
+      "word": "権瑞",
+      "reading": "ごんずい",
+      "meaning": "cá ngát sọc"
+    },
+    {
+      "word": "四瑞",
+      "reading": "しずい",
+      "meaning": "tứ linh"
+    },
+    {
+      "word": "瑞西",
+      "reading": "スイス",
+      "meaning": "thụy sĩ"
     },
     {
       "word": "瑞獣",
@@ -70,9 +85,14 @@
       "meaning": "thụy thú"
     },
     {
-      "word": "奇瑞",
-      "reading": "きずい",
-      "meaning": "dấu hiệu điềm lành"
+      "word": "瑞鳥",
+      "reading": "ずいちょう",
+      "meaning": "chim báo điềm lành"
+    },
+    {
+      "word": "瑞典",
+      "reading": "スウェーデン",
+      "meaning": "thụy điển"
     },
     {
       "word": "瑞雲",
@@ -80,29 +100,9 @@
       "meaning": "mây báo điềm lành"
     },
     {
-      "word": "瑞鳥",
-      "reading": "ずいちょう",
-      "meaning": "chim báo điềm lành"
-    },
-    {
-      "word": "瑞気",
-      "reading": "ずいき",
-      "meaning": "dấu hiệu tốt"
-    },
-    {
-      "word": "瑞兆",
-      "reading": "ずいちょう",
-      "meaning": "điềm lành ký tên"
-    },
-    {
       "word": "瑞祥",
       "reading": "ずいしょう",
       "meaning": "điềm lành ký tên"
-    },
-    {
-      "word": "四瑞",
-      "reading": "しずい",
-      "meaning": "tứ linh"
     }
   ]
 }

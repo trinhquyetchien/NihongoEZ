@@ -109,29 +109,24 @@
   ],
   "vocabulary": [
     {
-      "word": "覚",
-      "reading": "さとり",
-      "meaning": "satori"
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "cảm giác"
     },
     {
-      "word": "超感覚的知覚",
-      "reading": "ちょうかんかくてきちかく",
-      "meaning": "ngoại cảm"
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "sự kiên quyết"
     },
     {
-      "word": "覚知",
-      "reading": "かくち",
-      "meaning": "kiến thức"
+      "word": "覚ます",
+      "reading": "さます",
+      "meaning": "đánh thức dậy"
     },
     {
-      "word": "筋覚",
-      "reading": "きんかく",
-      "meaning": "giác quan cơ bắp"
-    },
-    {
-      "word": "幻覚",
-      "reading": "げんかく",
-      "meaning": "ảo giác"
+      "word": "覚え",
+      "reading": "おぼえ",
+      "meaning": "ghi nhớ"
     },
     {
       "word": "自覚",
@@ -144,19 +139,24 @@
       "meaning": "thị giác"
     },
     {
-      "word": "感覚",
-      "reading": "かんかく",
-      "meaning": "cảm giác"
+      "word": "錯覚",
+      "reading": "さっかく",
+      "meaning": "ảo giác"
     },
     {
-      "word": "臭覚",
-      "reading": "しゅうかく",
-      "meaning": "khứu giác"
+      "word": "味覚",
+      "reading": "みかく",
+      "meaning": "thuộc về vị giác"
     },
     {
-      "word": "才覚",
-      "reading": "さいかく",
-      "meaning": "sự thông minh sẵn sàng"
+      "word": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "thính giác"
+    },
+    {
+      "word": "感覚的",
+      "reading": "かんかくてき",
+      "meaning": "có thể nhận biết được bằng cách giác quan"
     }
   ]
 }

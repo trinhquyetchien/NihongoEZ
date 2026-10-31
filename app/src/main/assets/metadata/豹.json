@@ -53,19 +53,9 @@
       "meaning": "báo"
     },
     {
-      "word": "豹海豹",
-      "reading": "ひょうあざらし",
-      "meaning": "con hải báo"
-    },
-    {
-      "word": "全豹",
-      "reading": "ぜんぴょう",
-      "meaning": "toàn bộ"
-    },
-    {
-      "word": "海豹",
-      "reading": "あざらし",
-      "meaning": "chó biển"
+      "word": "豹変",
+      "reading": "ひょうへん",
+      "meaning": "sự thay đổi đột ngột"
     },
     {
       "word": "黒豹",
@@ -73,9 +63,9 @@
       "meaning": "con báo đen"
     },
     {
-      "word": "豹変",
-      "reading": "ひょうへん",
-      "meaning": "sự thay đổi đột ngột"
+      "word": "雪豹",
+      "reading": "ゆきひょう",
+      "meaning": "con báo tuyết"
     },
     {
       "word": "雲豹",
@@ -88,14 +78,24 @@
       "meaning": "hyoubi"
     },
     {
-      "word": "インド豹",
-      "reading": "インドひょう",
-      "meaning": "báo ấn độ"
+      "word": "狩猟豹",
+      "reading": "しゅりょうひょう",
+      "meaning": "báo săn"
     },
     {
-      "word": "アムール豹",
-      "reading": "アムールひょう",
-      "meaning": "loài báo amur"
+      "word": "豹紋蛸",
+      "reading": "ひょうもんだこ",
+      "meaning": "bạch tuộc vòng xanh"
+    },
+    {
+      "word": "豹海豹",
+      "reading": "ひょうあざらし",
+      "meaning": "con hải báo"
+    },
+    {
+      "word": "海豹",
+      "reading": "あざらし",
+      "meaning": "chó biển"
     }
   ]
 }

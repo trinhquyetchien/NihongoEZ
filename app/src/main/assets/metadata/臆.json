@@ -85,14 +85,34 @@
   ],
   "vocabulary": [
     {
-      "word": "臆",
-      "reading": "おく",
-      "meaning": "rụt rè"
-    },
-    {
       "word": "臆病",
       "reading": "おくびょう",
       "meaning": "sự nhát gan"
+    },
+    {
+      "word": "臆病な",
+      "reading": "おくびょうな",
+      "meaning": "nhát"
+    },
+    {
+      "word": "臆病神",
+      "reading": "おくびょうがみ",
+      "meaning": "thần rụt rè"
+    },
+    {
+      "word": "臆病風",
+      "reading": "おくびょうかぜ",
+      "meaning": "sự mất mát dây thần kinh"
+    },
+    {
+      "word": "臆病者",
+      "reading": "おくびょうもの",
+      "meaning": "người nhát gan"
+    },
+    {
+      "word": "臆",
+      "reading": "おく",
+      "meaning": "rụt rè"
     },
     {
       "word": "剛臆",
@@ -100,39 +120,19 @@
       "meaning": "sự can đảm và sự hèn nhát"
     },
     {
-      "word": "臆す",
-      "reading": "おくす",
-      "meaning": "do dự"
-    },
-    {
       "word": "臆面",
       "reading": "おくめん",
       "meaning": "khuôn mặt bẽn lẽn"
     },
     {
-      "word": "臆説",
-      "reading": "おくせつ",
-      "meaning": "sự phỏng đoán"
-    },
-    {
-      "word": "胸臆",
-      "reading": "きょうおく",
-      "meaning": "suy nghĩ sâu thẳm tận đáy lòng"
-    },
-    {
-      "word": "臆断",
-      "reading": "おくだん",
-      "meaning": "phỏng đoán"
+      "word": "臆する",
+      "reading": "おくする",
+      "meaning": "sợ hãi"
     },
     {
       "word": "臆測",
       "reading": "おくそく",
       "meaning": "đoán"
-    },
-    {
-      "word": "臆見",
-      "reading": "おっけん",
-      "meaning": "sự phỏng đoán"
     }
   ]
 }

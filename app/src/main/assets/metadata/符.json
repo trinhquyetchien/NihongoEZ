@@ -87,29 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "符",
-      "reading": "ふ",
-      "meaning": "bùa hộ mệnh"
-    },
-    {
-      "word": "符呪",
-      "reading": "ふじゅ",
-      "meaning": "câu thần chú"
-    },
-    {
-      "word": "漫符",
-      "reading": "まんぷ",
-      "meaning": "dấu hiệu"
-    },
-    {
-      "word": "霊符",
-      "reading": "れいふ",
-      "meaning": "bùa hộ mệnh"
-    },
-    {
-      "word": "符丁",
-      "reading": "ふちょう",
-      "meaning": "đánh dấu"
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "vé"
     },
     {
       "word": "符号",
@@ -117,24 +97,44 @@
       "meaning": "ký hiệu"
     },
     {
-      "word": "符牒",
-      "reading": "ふちょう",
-      "meaning": "đánh dấu"
+      "word": "符",
+      "reading": "ふ",
+      "meaning": "bùa hộ mệnh"
     },
     {
-      "word": "護符",
-      "reading": "ごふ",
+      "word": "神符",
+      "reading": "しんぷ",
       "meaning": "bùa"
     },
     {
-      "word": "休符",
-      "reading": "きゅうふ",
-      "meaning": "dấu lặng"
+      "word": "声符",
+      "reading": "しょうふ",
+      "meaning": "thanh phù"
     },
     {
-      "word": "呪符",
-      "reading": "じゅふ",
-      "meaning": "bùa chú"
+      "word": "半切符",
+      "reading": "はんきっぷ",
+      "meaning": "thẻ nửa - giá"
+    },
+    {
+      "word": "三連符",
+      "reading": "さんれんぷ",
+      "meaning": "liên ba"
+    },
+    {
+      "word": "引用符",
+      "reading": "いんようふ",
+      "meaning": "ngoặc kép"
+    },
+    {
+      "word": "霊符",
+      "reading": "れいふ",
+      "meaning": "bùa hộ mệnh"
+    },
+    {
+      "word": "合い符",
+      "reading": "あいふ",
+      "meaning": "vật biểu hiện cho tình bạn"
     }
   ]
 }

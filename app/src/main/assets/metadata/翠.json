@@ -87,24 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "翡翠",
-      "reading": "かわせみ",
-      "meaning": "ngọc phỉ thúy"
-    },
-    {
-      "word": "翠玉",
-      "reading": "すいぎょく",
-      "meaning": "ngọc bích"
-    },
-    {
       "word": "翠嵐",
       "reading": "すいらん",
       "meaning": "cảm giác về được nhận chìm trong một khí quyển xanh lục"
-    },
-    {
-      "word": "翠色",
-      "reading": "みどりいろ",
-      "meaning": "màu xanh lá cây"
     },
     {
       "word": "翠松",
@@ -112,14 +97,14 @@
       "meaning": "cây thông xanh"
     },
     {
-      "word": "翠黛",
-      "reading": "すいたい",
-      "meaning": "màu xanh mờ"
+      "word": "翡翠",
+      "reading": "かわせみ",
+      "meaning": "ngọc phỉ thúy"
     },
     {
-      "word": "翠雲",
-      "reading": "かわすみくも",
-      "meaning": "thúy vân"
+      "word": "翡翠色",
+      "reading": "ひすいいろ",
+      "meaning": "màu xanh phỉ thúy"
     },
     {
       "word": "山翡翠",
@@ -132,9 +117,24 @@
       "meaning": "chim bói cá mỏ đỏ"
     },
     {
+      "word": "翠玉",
+      "reading": "すいぎょく",
+      "meaning": "ngọc bích"
+    },
+    {
       "word": "翠銅鉱",
       "reading": "すいどうこう",
       "meaning": "dioptase"
+    },
+    {
+      "word": "翠色",
+      "reading": "みどりいろ",
+      "meaning": "màu xanh lá cây"
+    },
+    {
+      "word": "翠黛",
+      "reading": "すいたい",
+      "meaning": "màu xanh mờ"
     }
   ]
 }

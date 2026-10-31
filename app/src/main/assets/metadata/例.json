@@ -111,39 +111,14 @@
       "meaning": "ví dụ"
     },
     {
-      "word": "正比例 / 比例",
-      "reading": "せいひれい",
-      "meaning": "direct proportion"
-    },
-    {
-      "word": "例によって例の如し",
-      "reading": "れいによってれいのごとし",
-      "meaning": "như thường lệ"
-    },
-    {
-      "word": "例年",
-      "reading": "れいねん",
-      "meaning": "hàng năm"
-    },
-    {
-      "word": "条例",
-      "reading": "じょうれい",
-      "meaning": "điều lệnh"
-    },
-    {
-      "word": "月例",
-      "reading": "げつれい",
-      "meaning": "việc được thực hiện định kỳ hàng tháng"
-    },
-    {
-      "word": "異例",
-      "reading": "いれい",
-      "meaning": "ngoại lệ"
-    },
-    {
-      "word": "事例",
-      "reading": "じれい",
+      "word": "例え",
+      "reading": "たとえ",
       "meaning": "ví dụ"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "ngoại lệ"
     },
     {
       "word": "実例",
@@ -151,9 +126,34 @@
       "meaning": "ví dụ bằng thực tế"
     },
     {
-      "word": "恒例",
-      "reading": "こうれい",
-      "meaning": "thói quen"
+      "word": "比例",
+      "reading": "ひれい",
+      "meaning": "tỉ lệ"
+    },
+    {
+      "word": "前例",
+      "reading": "ぜんれい",
+      "meaning": "tiền lệ"
+    },
+    {
+      "word": "慣例",
+      "reading": "かんれい",
+      "meaning": "có tính lề thói tập quán"
+    },
+    {
+      "word": "例の",
+      "reading": "れいの",
+      "meaning": "bình thường"
+    },
+    {
+      "word": "例時",
+      "reading": "れいじ",
+      "meaning": "thời gian thông thường"
+    },
+    {
+      "word": "上例",
+      "reading": "じょうれい",
+      "meaning": "ví dụ ở trên"
     }
   ]
 }

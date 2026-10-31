@@ -61,29 +61,9 @@
       "meaning": "sự chọn lọc giới tính"
     },
     {
-      "word": "整理淘汰",
-      "reading": "せいりとうた",
-      "meaning": "việc sắp xếp và loại bỏ những thứ không cần thiết"
-    },
-    {
       "word": "社会淘汰",
       "reading": "しゃかいとうた",
       "meaning": "sự chọn lọc mang tính xã hội"
-    },
-    {
-      "word": "血縁淘汰",
-      "reading": "けつえんとうた",
-      "meaning": "sự chọn lọc theo dòng dõi"
-    },
-    {
-      "word": "人為淘汰",
-      "reading": "じんいとうた",
-      "meaning": "sự chọn lọc nhân tạo"
-    },
-    {
-      "word": "人員淘汰",
-      "reading": "じんいんとうた",
-      "meaning": "sự giảm nhân sự"
     },
     {
       "word": "自然淘汰",
@@ -91,14 +71,34 @@
       "meaning": "sự chọn lọc tự nhiên"
     },
     {
-      "word": "雌雄淘汰",
-      "reading": "しゆうとうた",
-      "meaning": "sự chọn lọc giới tính"
+      "word": "整理淘汰",
+      "reading": "せいりとうた",
+      "meaning": "việc sắp xếp và loại bỏ những thứ không cần thiết"
     },
     {
       "word": "淘汰作用",
       "reading": "とうたさよう",
       "meaning": "sàng lọc"
+    },
+    {
+      "word": "人員淘汰",
+      "reading": "じんいんとうた",
+      "meaning": "sự giảm nhân sự"
+    },
+    {
+      "word": "人為淘汰",
+      "reading": "じんいとうた",
+      "meaning": "sự chọn lọc nhân tạo"
+    },
+    {
+      "word": "血縁淘汰",
+      "reading": "けつえんとうた",
+      "meaning": "sự chọn lọc theo dòng dõi"
+    },
+    {
+      "word": "雌雄淘汰",
+      "reading": "しゆうとうた",
+      "meaning": "sự chọn lọc giới tính"
     }
   ]
 }

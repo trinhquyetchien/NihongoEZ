@@ -111,39 +111,14 @@
       "meaning": "ban sáng"
     },
     {
-      "word": "朝鮮朝顔",
-      "reading": "ちょうせんあさがお",
-      "meaning": "cà độc dược"
+      "word": "日朝",
+      "reading": "にっちょう",
+      "meaning": "nhật bản và triều tiên"
     },
     {
-      "word": "朝な朝な",
-      "reading": "あさなあさな",
-      "meaning": "mỗi buổi sáng"
-    },
-    {
-      "word": "朝幕",
-      "reading": "ちょうばく",
-      "meaning": "chính quyền mạc phủ trong thời kỳ edo"
-    },
-    {
-      "word": "朝刊",
-      "reading": "ちょうかん",
-      "meaning": "báo ra buổi sáng"
-    },
-    {
-      "word": "翌朝",
-      "reading": "よくあさ",
-      "meaning": "sáng hôm sau"
-    },
-    {
-      "word": "朝風",
-      "reading": "あさかぜ",
-      "meaning": "gió thổi vào buổi sáng"
-    },
-    {
-      "word": "六朝",
-      "reading": "りくちょう",
-      "meaning": "sáu triều đại"
+      "word": "朝型",
+      "reading": "あさがた",
+      "meaning": "thích dậy sớm"
     },
     {
       "word": "米朝",
@@ -151,9 +126,34 @@
       "meaning": "mỹ và triều tiên"
     },
     {
-      "word": "王朝",
-      "reading": "おうちょう",
-      "meaning": "triều đại"
+      "word": "正朝",
+      "reading": "せいちょう",
+      "meaning": "hợp pháp hóa triều đại"
+    },
+    {
+      "word": "唐朝",
+      "reading": "とうちょう",
+      "meaning": "triều nhà đường"
+    },
+    {
+      "word": "朝幕",
+      "reading": "ちょうばく",
+      "meaning": "chính quyền mạc phủ trong thời kỳ edo"
+    },
+    {
+      "word": "朝涼",
+      "reading": "あさすず",
+      "meaning": "buổi sáng se lạnh"
+    },
+    {
+      "word": "李朝",
+      "reading": "りちょう",
+      "meaning": "triều nhà lý"
+    },
+    {
+      "word": "漢朝",
+      "reading": "かんちょう",
+      "meaning": "triều nhà hán"
     }
   ]
 }

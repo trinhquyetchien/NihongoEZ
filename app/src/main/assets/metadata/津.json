@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "津波",
+      "reading": "つなみ",
+      "meaning": "sóng thần"
+    },
+    {
+      "word": "天津",
+      "reading": "あまつ",
+      "meaning": "thiên tân"
+    },
+    {
+      "word": "風津波",
+      "reading": "かぜつなみ",
+      "meaning": "triều cường đổ bộ vào bờ biển do ảnh hưởng của bão"
+    },
+    {
       "word": "津",
       "reading": "つ",
       "meaning": "bến cảng"
     },
     {
-      "word": "国津神",
-      "reading": "くにつかみ",
-      "meaning": "quốc thần"
+      "word": "入津",
+      "reading": "にゅうしん",
+      "meaning": "sự nhập cảng"
     },
     {
-      "word": "津津",
-      "reading": "しんしん",
-      "meaning": "như brimful"
+      "word": "京津",
+      "reading": "けいしん",
+      "meaning": "kyoto-otsu"
     },
     {
-      "word": "興味津津",
-      "reading": "きょうみしんしん",
-      "meaning": "rất thích thú"
+      "word": "潮津波",
+      "reading": "しおつなみ",
+      "meaning": "tidal bore"
     },
     {
-      "word": "津津浦浦",
-      "reading": "つつうらうら",
-      "meaning": "mọi nơi mọi chỗ"
+      "word": "津液",
+      "reading": "しんえき",
+      "meaning": "tân dịch"
     },
     {
-      "word": "全国津津浦浦",
-      "reading": "ぜんこくつつうらうら",
-      "meaning": "tất cả qua nước"
-    },
-    {
-      "word": "興味津津たる",
-      "reading": "きょうみしんしんたる",
-      "meaning": "quan tâm sâu sắc"
+      "word": "大津波",
+      "reading": "おおつなみ",
+      "meaning": "sóng thần lớn"
     },
     {
       "word": "草津",
       "reading": "くさつ",
       "meaning": "tên địa danh"
-    },
-    {
-      "word": "国津",
-      "reading": "くにつ",
-      "meaning": "quốc giới"
-    },
-    {
-      "word": "駄津",
-      "reading": "だつ",
-      "meaning": "cá nhói"
     }
   ]
 }

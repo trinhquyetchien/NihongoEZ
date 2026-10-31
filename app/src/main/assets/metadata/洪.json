@@ -84,9 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "洪積",
-      "reading": "こうせき",
-      "meaning": "thời kỳ hồng hoang"
+      "word": "洪水",
+      "reading": "こうずい",
+      "meaning": "hồng thuỷ"
+    },
+    {
+      "word": "大洪水",
+      "reading": "だいこうずい",
+      "meaning": "bão lụt"
     },
     {
       "word": "洪大",
@@ -94,9 +99,14 @@
       "meaning": "to lớn"
     },
     {
-      "word": "洪水",
-      "reading": "こうずい",
-      "meaning": "hồng thuỷ"
+      "word": "洪牙利",
+      "reading": "ハンガリー",
+      "meaning": "nước hungary"
+    },
+    {
+      "word": "洪積",
+      "reading": "こうせき",
+      "meaning": "thời kỳ hồng hoang"
     },
     {
       "word": "洪積層",
@@ -109,14 +119,9 @@
       "meaning": "thời kỳ hồng hoang"
     },
     {
-      "word": "大洪水",
-      "reading": "だいこうずい",
-      "meaning": "bão lụt"
-    },
-    {
-      "word": "洪牙利",
-      "reading": "ハンガリー",
-      "meaning": "nước hungary"
+      "word": "洪水を防ぐ",
+      "reading": "こうずいをふせぐ",
+      "meaning": "chống lụt"
     },
     {
       "word": "洪水神話",
@@ -127,11 +132,6 @@
       "word": "日洪親善",
       "reading": "にっこうしんぜん",
       "meaning": "tình hữu nghị nhật bản - hungary"
-    },
-    {
-      "word": "洪積台地",
-      "reading": "こうせきだいち",
-      "meaning": "đồng bằng cao"
     }
   ]
 }

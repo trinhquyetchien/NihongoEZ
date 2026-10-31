@@ -86,9 +86,24 @@
   ],
   "vocabulary": [
     {
-      "word": "過褒",
-      "reading": "かほう",
-      "meaning": "sự khen quá lời"
+      "word": "褒める",
+      "reading": "ほめる",
+      "meaning": "khen ngợi"
+    },
+    {
+      "word": "褒美",
+      "reading": "ほうび",
+      "meaning": "phần thưởng"
+    },
+    {
+      "word": "ご褒美",
+      "reading": "ごほうび",
+      "meaning": "phần thưởng"
+    },
+    {
+      "word": "褒め詞",
+      "reading": "ほめことば",
+      "meaning": "phát biểu lời khen"
     },
     {
       "word": "褒章",
@@ -101,14 +116,14 @@
       "meaning": "khen thưởng"
     },
     {
-      "word": "褒奨",
-      "reading": "ほうしょう",
-      "meaning": "sự bồi thường"
+      "word": "仲間褒",
+      "reading": "なかまぼめ",
+      "meaning": "logrolling"
     },
     {
-      "word": "褒辞",
-      "reading": "ほうじ",
-      "meaning": "khen ngợi"
+      "word": "褒言葉",
+      "reading": "ほめことば",
+      "meaning": "lời khen ngợi"
     },
     {
       "word": "褒貶",
@@ -116,24 +131,9 @@
       "meaning": "khen ngợi và kiểm duyệt"
     },
     {
-      "word": "褒状",
-      "reading": "ほうじょう",
-      "meaning": "chứng chỉ tài trí"
-    },
-    {
-      "word": "褒美",
-      "reading": "ほうび",
-      "meaning": "phần thưởng"
-    },
-    {
-      "word": "褒称",
-      "reading": "ほうしょう",
-      "meaning": "ngưỡng mộ"
-    },
-    {
-      "word": "ご褒美",
-      "reading": "ごほうび",
-      "meaning": "phần thưởng"
+      "word": "過褒",
+      "reading": "かほう",
+      "meaning": "sự khen quá lời"
     }
   ]
 }

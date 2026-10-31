@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "懸垂",
-      "reading": "けんすい",
-      "meaning": "sự buông người xuống rồi nâng người lên trong tập xà đơn"
-    },
-    {
       "word": "懸賞",
       "reading": "けんしょう",
       "meaning": "giải thưởng"
     },
     {
-      "word": "懸架",
-      "reading": "けんか",
-      "meaning": "sự treo một xe ô tô)"
+      "word": "懸念",
+      "reading": "けねん",
+      "meaning": "sự lo lắng"
     },
     {
-      "word": "懸濁",
-      "reading": "けんだく",
-      "meaning": "huyền phù"
+      "word": "懸賞金",
+      "reading": "けんしょうきん",
+      "meaning": "đánh giá cao tiền"
     },
     {
-      "word": "懸軍",
-      "reading": "けんぐん",
-      "meaning": "quân thám hiểm"
+      "word": "懸命",
+      "reading": "けんめい",
+      "meaning": "háo hức"
     },
     {
-      "word": "倒懸",
-      "reading": "とうけん",
-      "meaning": "sự treo ngược"
+      "word": "懸け紙",
+      "reading": "かけがみ",
+      "meaning": "giấy gói quà"
     },
     {
-      "word": "懸案",
-      "reading": "けんあん",
-      "meaning": "câu hỏi bỏ ngỏ"
+      "word": "刀懸け",
+      "reading": "かたなかけ",
+      "meaning": "giá để gươm"
     },
     {
-      "word": "懸絶",
-      "reading": "けんぜつ",
-      "meaning": "sự khác nhau lớn"
+      "word": "命懸け",
+      "reading": "いのちがけ",
+      "meaning": "liều mạng"
     },
     {
-      "word": "懸隔",
-      "reading": "けんかく",
-      "meaning": "sự khác nhau"
+      "word": "懸け詞",
+      "reading": "かけことば",
+      "meaning": "sự chơi chữ"
     },
     {
-      "word": "懸崖",
-      "reading": "けんがい",
-      "meaning": "vách đá nhô ra ngoài"
+      "word": "懸垂",
+      "reading": "けんすい",
+      "meaning": "sự buông người xuống rồi nâng người lên trong tập xà đơn"
+    },
+    {
+      "word": "懸垂線",
+      "reading": "けんすいせん",
+      "meaning": "dây xích"
     }
   ]
 }

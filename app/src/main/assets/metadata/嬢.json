@@ -88,24 +88,14 @@
   ],
   "vocabulary": [
     {
+      "word": "お嬢さん",
+      "reading": "おじょうさん",
+      "meaning": "thưa cô"
+    },
+    {
       "word": "嬢",
       "reading": "じょう",
       "meaning": "cô gái"
-    },
-    {
-      "word": "ソープ嬢",
-      "reading": "ソープじょう",
-      "meaning": "nhân viên nữ làm việc trong các quán soapland"
-    },
-    {
-      "word": "耶嬢",
-      "reading": "やじょう",
-      "meaning": "cha và mẹ"
-    },
-    {
-      "word": "トルコ嬢",
-      "reading": "トルコじょう",
-      "meaning": "gái mại dâm làm việc tại nhà thổ xà phòng"
     },
     {
       "word": "お嬢",
@@ -113,29 +103,39 @@
       "meaning": "con gái"
     },
     {
-      "word": "愛嬢",
-      "reading": "あいじょう",
-      "meaning": "con gái yêu"
-    },
-    {
-      "word": "老嬢",
-      "reading": "ろうじょう",
-      "meaning": "người phụ nữ đứng tuổi chưa chồng"
-    },
-    {
-      "word": "令嬢",
-      "reading": "れいじょう",
+      "word": "嬢さん",
+      "reading": "とうさん",
       "meaning": "cô gái"
+    },
+    {
+      "word": "交換嬢",
+      "reading": "こうかんじょう",
+      "meaning": "người trực tổng đài"
+    },
+    {
+      "word": "案内嬢",
+      "reading": "あんないじょう",
+      "meaning": "người đàn bà chỉ chỗ ngồi"
+    },
+    {
+      "word": "御嬢様",
+      "reading": "おじょうさま",
+      "meaning": "con gái của một gia đình tầng lớp thượng lưu"
+    },
+    {
+      "word": "受付嬢",
+      "reading": "うけつけじょう",
+      "meaning": "lễ tân"
+    },
+    {
+      "word": "風俗嬢",
+      "reading": "ふうぞくじょう",
+      "meaning": "gà/cave"
     },
     {
       "word": "貴嬢",
       "reading": "きじょう",
       "meaning": "quý bà"
-    },
-    {
-      "word": "ヘルス嬢",
-      "reading": "ヘルスじょう",
-      "meaning": "gái gọi"
     }
   ]
 }

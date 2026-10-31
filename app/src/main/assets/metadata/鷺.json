@@ -62,16 +62,6 @@
       "meaning": "diệc trung"
     },
     {
-      "word": "箆鷺",
-      "reading": "へらさぎ",
-      "meaning": "chim cò thìa"
-    },
-    {
-      "word": "烏鷺",
-      "reading": "うろ",
-      "meaning": "con quạ và con diệc"
-    },
-    {
       "word": "小鷺",
       "reading": "こさぎ",
       "meaning": "cò trắng nhỏ"
@@ -82,16 +72,6 @@
       "meaning": "platanthera"
     },
     {
-      "word": "鷺苔",
-      "reading": "さぎごけ",
-      "meaning": "mazus miquelii"
-    },
-    {
-      "word": "尼鷺",
-      "reading": "あまさぎ",
-      "meaning": "cò ruồi"
-    },
-    {
       "word": "黒鷺",
       "reading": "くろさぎ",
       "meaning": "một loại diệc có màu đen"
@@ -100,6 +80,26 @@
       "word": "大鷺",
       "reading": "だいさぎ",
       "meaning": "một loại diệc to"
+    },
+    {
+      "word": "青鷺",
+      "reading": "あおさぎ",
+      "meaning": "con diệc"
+    },
+    {
+      "word": "鷺笛",
+      "reading": "さぎふえ",
+      "meaning": "cá rẽ"
+    },
+    {
+      "word": "尼鷺",
+      "reading": "あまさぎ",
+      "meaning": "cò ruồi"
+    },
+    {
+      "word": "鷺苔",
+      "reading": "さぎごけ",
+      "meaning": "mazus miquelii"
     }
   ]
 }

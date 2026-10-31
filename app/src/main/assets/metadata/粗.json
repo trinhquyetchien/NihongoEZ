@@ -90,39 +90,29 @@
   ],
   "vocabulary": [
     {
+      "word": "粗末",
+      "reading": "そまつ",
+      "meaning": "sự hèn mọn"
+    },
+    {
+      "word": "粗い",
+      "reading": "あらい",
+      "meaning": "thô"
+    },
+    {
       "word": "粗",
       "reading": "ほぼ",
       "meaning": "gần như"
     },
     {
-      "word": "粗粗",
-      "reading": "あらあら",
-      "meaning": "thô nhám"
+      "word": "粗率",
+      "reading": "あらりつ",
+      "meaning": "thu nhập lề lợi nhuận"
     },
     {
-      "word": "粗酒粗肴",
-      "reading": "そしゅそこう",
-      "meaning": "rượu rẻ tiền và món ăn đơn giản"
-    },
-    {
-      "word": "粗衣粗食",
-      "reading": "そいそしょく",
-      "meaning": "cuộc sống đơn giản hoặc thanh đạm"
-    },
-    {
-      "word": "粗筋",
-      "reading": "あらすじ",
-      "meaning": "nét phác thảo"
-    },
-    {
-      "word": "粗相",
-      "reading": "そそう",
-      "meaning": "sự cẩu thả"
-    },
-    {
-      "word": "粗樫",
-      "reading": "あらかし",
-      "meaning": "quercus glauca"
+      "word": "粗玉",
+      "reading": "あらたま",
+      "meaning": "viên ngọc thô"
     },
     {
       "word": "粗熱",
@@ -130,14 +120,24 @@
       "meaning": "để nguội tự nhiên"
     },
     {
-      "word": "粗木",
-      "reading": "あらき",
-      "meaning": "đốn khúc bên trong sủa"
+      "word": "粗利",
+      "reading": "あらり",
+      "meaning": "tổng lợi nhuận+ xem profit"
     },
     {
-      "word": "粗金",
-      "reading": "あらがね",
-      "meaning": "quặng"
+      "word": "粗煮",
+      "reading": "あらに",
+      "meaning": "món ăn gồm có đầu và xương cá nấu với nước tương"
+    },
+    {
+      "word": "粗縄",
+      "reading": "あらなわ",
+      "meaning": "dây thừng"
+    },
+    {
+      "word": "粗粗",
+      "reading": "あらあら",
+      "meaning": "thô nhám"
     }
   ]
 }

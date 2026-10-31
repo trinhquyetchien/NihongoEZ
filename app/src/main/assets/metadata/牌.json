@@ -40,49 +40,49 @@
       "meaning": "lợp ngói"
     },
     {
-      "word": "洗牌",
-      "reading": "シーパイ",
-      "meaning": "xáo mạt chược"
+      "word": "手牌",
+      "reading": "てはい",
+      "meaning": "quân bài mạt chược của mỗi người chơi"
     },
     {
-      "word": "聴牌",
-      "reading": "テンパイ",
-      "meaning": "tenpai - trạng thái chờ đợi quân bất kì nào đó để hoàn thành bài"
+      "word": "花牌",
+      "reading": "はなはい",
+      "meaning": "bộ hoa"
     },
     {
-      "word": "位牌",
-      "reading": "いはい",
-      "meaning": "bài vị"
+      "word": "風牌",
+      "reading": "フォンパイ",
+      "meaning": "bốn loại quân cờ mạt chược: đông"
     },
     {
-      "word": "雀牌",
-      "reading": "ジャンパイ",
-      "meaning": "gạch mạt chược"
+      "word": "三元牌",
+      "reading": "さんげんパイ",
+      "meaning": "dragon tiles"
     },
     {
-      "word": "賞牌",
-      "reading": "しょうはい",
-      "meaning": "giải thưởng"
+      "word": "王牌",
+      "reading": "ワンパイ",
+      "meaning": "tường chết"
     },
     {
-      "word": "銀牌",
-      "reading": "ぎんぱい",
-      "meaning": "mạ bạc huy chương"
+      "word": "見せ牌",
+      "reading": "みせはい",
+      "meaning": "quân bài lật"
     },
     {
-      "word": "摸牌",
-      "reading": "モーパイ",
-      "meaning": "việc xác định một mảnh gần phác họa một trò chơi mahjong"
+      "word": "場風牌",
+      "reading": "ばかぜはい",
+      "meaning": "quân bài phong"
     },
     {
-      "word": "銅牌",
-      "reading": "どうはい",
-      "meaning": "làm thành màu đồng hoặc huy chương đồng"
+      "word": "役牌",
+      "reading": "やくはい",
+      "meaning": "nhóm quân bài đặc biệt trong mạt chược"
     },
     {
-      "word": "金牌",
-      "reading": "きんぱい",
-      "meaning": "huy chương vàng"
+      "word": "壁牌",
+      "reading": "ピーパイ",
+      "meaning": "gạch ốp tường"
     }
   ]
 }

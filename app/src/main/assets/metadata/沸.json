@@ -106,18 +106,23 @@
   ],
   "vocabulary": [
     {
-      "word": "沸沸",
-      "reading": "ふつふつ",
+      "word": "沸く",
+      "reading": "わく",
+      "meaning": "sôi lên"
+    },
+    {
+      "word": "沸かす",
+      "reading": "わかす",
+      "meaning": "đun"
+    },
+    {
+      "word": "沸騰",
+      "reading": "ふっとう",
       "meaning": "sắp sôi"
     },
     {
-      "word": "煮沸",
-      "reading": "しゃふつ",
-      "meaning": "sự sôi"
-    },
-    {
-      "word": "沸点",
-      "reading": "ふってん",
+      "word": "沸騰点",
+      "reading": "ふっとうてん",
       "meaning": "điểm sôi"
     },
     {
@@ -126,34 +131,29 @@
       "meaning": "sắp sôi"
     },
     {
-      "word": "沸く",
-      "reading": "わく",
-      "meaning": "sôi lên"
-    },
-    {
-      "word": "沸騰",
-      "reading": "ふっとう",
-      "meaning": "sắp sôi"
-    },
-    {
       "word": "沸石",
       "reading": "ふっせき",
       "meaning": "zeolite"
     },
     {
+      "word": "沸立つ",
+      "reading": "わきたつ",
+      "meaning": "sôi động"
+    },
+    {
+      "word": "沸沸",
+      "reading": "ふつふつ",
+      "meaning": "sắp sôi"
+    },
+    {
+      "word": "沸点",
+      "reading": "ふってん",
+      "meaning": "điểm sôi"
+    },
+    {
       "word": "沸き",
       "reading": "わき",
       "meaning": "sôi"
-    },
-    {
-      "word": "突沸",
-      "reading": "とっぷつ",
-      "meaning": "nước sôi"
-    },
-    {
-      "word": "沸騰点",
-      "reading": "ふっとうてん",
-      "meaning": "điểm sôi"
     }
   ]
 }

@@ -87,44 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "渉る",
-      "reading": "わたる",
-      "meaning": "đi qua"
-    },
-    {
       "word": "交渉",
       "reading": "こうしょう",
       "meaning": "sự đàm phán"
-    },
-    {
-      "word": "盤渉",
-      "reading": "ばんしき",
-      "meaning": "âm thứ 10 trong hệ âm giai thập nhị luật cổ đại"
-    },
-    {
-      "word": "徒渉",
-      "reading": "としょう",
-      "meaning": "sự lội qua"
-    },
-    {
-      "word": "渉外",
-      "reading": "しょうがい",
-      "meaning": "mối liên hệ với quần chúng"
-    },
-    {
-      "word": "渉猟",
-      "reading": "しょうりょう",
-      "meaning": "reo qua hoặc do thám ở ngoài một lãnh thổ"
-    },
-    {
-      "word": "跋渉",
-      "reading": "ばっしょう",
-      "meaning": "đi lang thang"
-    },
-    {
-      "word": "渡渉",
-      "reading": "としょう",
-      "meaning": "sự lội qua"
     },
     {
       "word": "干渉",
@@ -132,9 +97,44 @@
       "meaning": "hiện tượng giao thoa"
     },
     {
+      "word": "交渉人",
+      "reading": "こうしょうにん",
+      "meaning": "người đàm phán"
+    },
+    {
+      "word": "性交渉",
+      "reading": "せいこうしょう",
+      "meaning": "quan hệ tình dục"
+    },
+    {
+      "word": "交渉員",
+      "reading": "こうしょういん",
+      "meaning": "người đàm phán"
+    },
+    {
+      "word": "再交渉",
+      "reading": "さいこうしょう",
+      "meaning": "đàm phán lại"
+    },
+    {
       "word": "交渉団",
       "reading": "こうしょうだん",
       "meaning": "đoàn đàm phán"
+    },
+    {
+      "word": "干渉的",
+      "reading": "かんしょうてき",
+      "meaning": "đèn dẫn sóng"
+    },
+    {
+      "word": "干渉性",
+      "reading": "かんしょうせい",
+      "meaning": "tính liên kết"
+    },
+    {
+      "word": "干渉法",
+      "reading": "かんしょうほう",
+      "meaning": "phương pháp giao thoa"
     }
   ]
 }

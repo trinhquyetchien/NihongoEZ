@@ -66,29 +66,19 @@
   ],
   "vocabulary": [
     {
-      "word": "洛中洛外",
-      "reading": "らくちゅうらくがい",
-      "meaning": "trong và xung quanh khu vực kyoto"
-    },
-    {
-      "word": "洛中洛外図",
-      "reading": "らくちゅうらくがいず",
-      "meaning": "tranh nội thành và ngoại thành kyoto"
-    },
-    {
-      "word": "洛中",
-      "reading": "らくちゅう",
+      "word": "洛内",
+      "reading": "らくない",
       "meaning": "bên trong thủ đô"
     },
     {
-      "word": "上洛",
-      "reading": "じょうらく",
-      "meaning": "việc đi lên kinh đô"
+      "word": "洛学",
+      "reading": "らくがく",
+      "meaning": "lạc học"
     },
     {
-      "word": "入洛",
-      "reading": "じゅらく",
-      "meaning": "sự đến thăm kyoto"
+      "word": "洛南",
+      "reading": "らくなん",
+      "meaning": "phía nam kinh đô"
     },
     {
       "word": "参洛",
@@ -96,8 +86,18 @@
       "meaning": "việc từ địa phương khác đến kyoto"
     },
     {
-      "word": "洛内",
-      "reading": "らくない",
+      "word": "洛叉",
+      "reading": "らくしゃ",
+      "meaning": "một lakh tương đương 100"
+    },
+    {
+      "word": "上洛",
+      "reading": "じょうらく",
+      "meaning": "việc đi lên kinh đô"
+    },
+    {
+      "word": "洛中",
+      "reading": "らくちゅう",
       "meaning": "bên trong thủ đô"
     },
     {
@@ -106,14 +106,14 @@
       "meaning": "ngoại ô thành phố"
     },
     {
+      "word": "摩洛哥",
+      "reading": "モロッコ",
+      "meaning": "morocco"
+    },
+    {
       "word": "京洛",
       "reading": "きょうらく",
       "meaning": "thủ đô"
-    },
-    {
-      "word": "洛南",
-      "reading": "らくなん",
-      "meaning": "phía nam kinh đô"
     }
   ]
 }

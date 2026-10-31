@@ -95,34 +95,14 @@
       "meaning": "thủ đô"
     },
     {
-      "word": "都連",
-      "reading": "とれん",
-      "meaning": "là từ viết tắt của từ 東京都連合"
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "sự thuận tiện"
     },
     {
-      "word": "都内",
-      "reading": "とない",
-      "meaning": "khu vực thủ đô"
-    },
-    {
-      "word": "都心",
-      "reading": "としん",
-      "meaning": "trung tâm thành phố"
-    },
-    {
-      "word": "都電",
-      "reading": "とでん",
-      "meaning": "đường sắt điện thủ đô"
-    },
-    {
-      "word": "学都",
-      "reading": "がくと",
-      "meaning": "thị trấn đại học"
-    },
-    {
-      "word": "古都",
-      "reading": "こと",
-      "meaning": "thành phố cổ xưa"
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "đô thị"
     },
     {
       "word": "首都",
@@ -130,14 +110,34 @@
       "meaning": "kinh đô"
     },
     {
-      "word": "州都",
-      "reading": "しゅうと",
-      "meaning": "thành phố của một bang"
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "đô hội"
+    },
+    {
+      "word": "都心",
+      "reading": "としん",
+      "meaning": "trung tâm thành phố"
+    },
+    {
+      "word": "京都",
+      "reading": "きょうと",
+      "meaning": "thành phố kyoto"
     },
     {
       "word": "県都",
       "reading": "けんと",
       "meaning": "thủ phủ của tỉnh"
+    },
+    {
+      "word": "国都",
+      "reading": "こくと",
+      "meaning": "thủ đô"
+    },
+    {
+      "word": "全都",
+      "reading": "ぜんと",
+      "meaning": "toàn bộ thủ phủ"
     }
   ]
 }

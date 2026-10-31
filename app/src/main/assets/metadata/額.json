@@ -111,41 +111,6 @@
       "meaning": "trán"
     },
     {
-      "word": "額/額縁",
-      "reading": "ひたい/がくぶち",
-      "meaning": "khung tranh"
-    },
-    {
-      "word": "額面金額",
-      "reading": "がくめんきんがく",
-      "meaning": "giá trị danh nghĩa"
-    },
-    {
-      "word": "額面超過額",
-      "reading": "がくめんちょうかがく",
-      "meaning": "tiền thưởng"
-    },
-    {
-      "word": "月額",
-      "reading": "げつがく",
-      "meaning": "mức tiền cần hàng tháng"
-    },
-    {
-      "word": "小額",
-      "reading": "しょうがく",
-      "meaning": "một khoản tiền nhỏ"
-    },
-    {
-      "word": "巨額",
-      "reading": "きょがく",
-      "meaning": "khoản tiền khổng lồ"
-    },
-    {
-      "word": "高額",
-      "reading": "こうがく",
-      "meaning": "tổng lớn"
-    },
-    {
       "word": "金額",
       "reading": "きんがく",
       "meaning": "số tiền"
@@ -154,6 +119,41 @@
       "word": "差額",
       "reading": "さがく",
       "meaning": "khoản chênh lệch"
+    },
+    {
+      "word": "出額",
+      "reading": "でびたい",
+      "meaning": "trán dô"
+    },
+    {
+      "word": "最高額",
+      "reading": "さいこうがく",
+      "meaning": "số tiền tối đa"
+    },
+    {
+      "word": "猫の額",
+      "reading": "ねこのひたい",
+      "meaning": "nhỏ xíu"
+    },
+    {
+      "word": "白額",
+      "reading": "しろびたい",
+      "meaning": "vùng trán sáng"
+    },
+    {
+      "word": "額髪",
+      "reading": "ひたいがみ",
+      "meaning": "tóc mái"
+    },
+    {
+      "word": "額角",
+      "reading": "がっかく",
+      "meaning": "rostrum"
+    },
+    {
+      "word": "純額",
+      "reading": "じゅんがく",
+      "meaning": "số lượng tịnh"
     }
   ]
 }

@@ -108,39 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "書",
-      "reading": "しょ",
-      "meaning": "bản"
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "viết"
     },
     {
-      "word": "願書を書く",
-      "reading": "がんしょをかく",
-      "meaning": "viết đơn"
-    },
-    {
-      "word": "じつよう書 じつようしょ",
-      "reading": "実用書",
-      "meaning": "sách hướng dẫn sử dụng"
-    },
-    {
-      "word": "書面",
-      "reading": "しょめん",
-      "meaning": "tài liệu"
-    },
-    {
-      "word": "ビジネス書",
-      "reading": "ビジネスしょ",
-      "meaning": "sách kinh doanh"
-    },
-    {
-      "word": "書道",
-      "reading": "しょどう",
-      "meaning": "thư đạo"
-    },
-    {
-      "word": "証書",
-      "reading": "しょうしょ",
-      "meaning": "bằng cấp"
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "tự điển"
     },
     {
       "word": "書類",
@@ -148,14 +123,39 @@
       "meaning": "chứng từ"
     },
     {
-      "word": "書店",
-      "reading": "しょてん",
-      "meaning": "cửa hàng sách"
+      "word": "書物",
+      "reading": "しょもつ",
+      "meaning": "sách vở"
+    },
+    {
+      "word": "書斎",
+      "reading": "しょさい",
+      "meaning": "thư phòng"
     },
     {
       "word": "書籍",
       "reading": "しょせき",
       "meaning": "sách vở"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "cửa hàng sách"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "thư đạo"
+    },
+    {
+      "word": "書評",
+      "reading": "しょひょう",
+      "meaning": "bài phê bình sách"
+    },
+    {
+      "word": "原書",
+      "reading": "げんしょ",
+      "meaning": "tài liệu gốc"
     }
   ]
 }

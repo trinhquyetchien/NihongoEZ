@@ -91,14 +91,9 @@
       "meaning": "hẻm"
     },
     {
-      "word": "巷談",
-      "reading": "こうだん",
-      "meaning": "lời đồn của thiên hạ"
-    },
-    {
-      "word": "陋巷",
-      "reading": "ろうこう",
-      "meaning": "phố hẹp và bẩn thỉu"
+      "word": "悪の巷",
+      "reading": "あくのちまた",
+      "meaning": "thế giới tội ác ngầm"
     },
     {
       "word": "巷間",
@@ -111,9 +106,19 @@
       "meaning": "ngồi lê mách lẻo"
     },
     {
-      "word": "悪の巷",
-      "reading": "あくのちまた",
-      "meaning": "thế giới tội ác ngầm"
+      "word": "巷談",
+      "reading": "こうだん",
+      "meaning": "lời đồn của thiên hạ"
+    },
+    {
+      "word": "陋巷",
+      "reading": "ろうこう",
+      "meaning": "phố hẹp và bẩn thỉu"
+    },
+    {
+      "word": "修羅の巷",
+      "reading": "しゅらのちまた",
+      "meaning": "cảnh sự tàn sát"
     },
     {
       "word": "柳巷花街",
@@ -129,11 +134,6 @@
       "word": "街談巷説",
       "reading": "がいだんこうせつ",
       "meaning": "những tin đồn vu vơ"
-    },
-    {
-      "word": "修羅の巷",
-      "reading": "しゅらのちまた",
-      "meaning": "cảnh sự tàn sát"
     }
   ]
 }

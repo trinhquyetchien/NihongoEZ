@@ -92,19 +92,29 @@
       "meaning": "hạt nhân"
     },
     {
-      "word": "核心",
-      "reading": "かくしん",
-      "meaning": "trọng tâm"
-    },
-    {
       "word": "結核",
       "reading": "けっかく",
       "meaning": "lao"
     },
     {
-      "word": "核シェルター",
-      "reading": "かくシェルター",
-      "meaning": "hầm trú bom hạt nhân"
+      "word": "二核",
+      "reading": "にかく",
+      "meaning": "có 2 hạt nhân"
+    },
+    {
+      "word": "核力",
+      "reading": "かくりょく",
+      "meaning": "lực tách hạt nhân"
+    },
+    {
+      "word": "核子",
+      "reading": "かくし",
+      "meaning": "nucleon"
+    },
+    {
+      "word": "核型",
+      "reading": "かくがた",
+      "meaning": "loại hình dựa theo hình thái và số nhiễm sắc thể có sẵn trong các loài sinh vật"
     },
     {
       "word": "娘核",
@@ -117,24 +127,14 @@
       "meaning": "nhân tế bào trước khi tế bào phân chia"
     },
     {
-      "word": "核子",
-      "reading": "かくし",
-      "meaning": "nucleon"
+      "word": "核科学",
+      "reading": "かくかがく",
+      "meaning": "khoa học hạt nhân"
     },
     {
-      "word": "果核",
-      "reading": "かかく",
-      "meaning": "hạch"
-    },
-    {
-      "word": "ハイパー核",
-      "reading": "ハイパーかく",
-      "meaning": "siêu hạt nhân"
-    },
-    {
-      "word": "非核",
-      "reading": "ひかく",
-      "meaning": "phi hạt nhân"
+      "word": "赤核",
+      "reading": "せきかく",
+      "meaning": "nhân đỏ"
     }
   ]
 }

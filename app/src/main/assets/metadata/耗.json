@@ -82,34 +82,9 @@
   ],
   "vocabulary": [
     {
-      "word": "損耗",
-      "reading": "そんもう",
-      "meaning": "sự mất"
-    },
-    {
-      "word": "衰耗",
-      "reading": "すいもう",
-      "meaning": "làm yếu đi và suy sụp"
-    },
-    {
-      "word": "減耗",
-      "reading": "げんもう",
-      "meaning": "hao hụt"
-    },
-    {
-      "word": "磨耗",
-      "reading": "まもう",
-      "meaning": "mang"
-    },
-    {
       "word": "消耗",
       "reading": "しょうもう",
       "meaning": "sự tiêu thụ"
-    },
-    {
-      "word": "摩耗",
-      "reading": "まもう",
-      "meaning": "sự mòn"
     },
     {
       "word": "消耗的",
@@ -117,19 +92,44 @@
       "meaning": "đầy đủ"
     },
     {
-      "word": "消耗品",
-      "reading": "しょうもうひん",
-      "meaning": "hàng hóa có thể tiêu thụ"
-    },
-    {
       "word": "消耗戦",
       "reading": "しょうもうせん",
       "meaning": "chiến tranh tiêu hao"
     },
     {
-      "word": "石油減耗",
-      "reading": "せきゆげんもう",
-      "meaning": "sự cạn kiệt dầu"
+      "word": "消耗品",
+      "reading": "しょうもうひん",
+      "meaning": "hàng hóa có thể tiêu thụ"
+    },
+    {
+      "word": "摩耗",
+      "reading": "まもう",
+      "meaning": "sự mòn"
+    },
+    {
+      "word": "磨耗",
+      "reading": "まもう",
+      "meaning": "mang"
+    },
+    {
+      "word": "損耗",
+      "reading": "そんもう",
+      "meaning": "sự mất"
+    },
+    {
+      "word": "減耗",
+      "reading": "げんもう",
+      "meaning": "hao hụt"
+    },
+    {
+      "word": "衰耗",
+      "reading": "すいもう",
+      "meaning": "làm yếu đi và suy sụp"
+    },
+    {
+      "word": "消耗する",
+      "reading": "しょうもう",
+      "meaning": "tiêu thụ"
     }
   ]
 }

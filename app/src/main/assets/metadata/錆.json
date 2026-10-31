@@ -90,28 +90,18 @@
       "meaning": "gỉ"
     },
     {
-      "word": "錆び錆び",
-      "reading": "さびさび",
-      "meaning": "rỉ sét"
+      "word": "錆びる",
+      "reading": "さびる",
+      "meaning": "gỉ"
     },
     {
-      "word": "錆止め/錆転換剤",
-      "reading": "さびどめ/さびてんかんざい",
-      "meaning": "chất ngừng rỉ sét/chất chuyển đổi rỉ sét"
+      "word": "防錆剤",
+      "reading": "ぼうせいざい",
+      "meaning": "chất chống rỉ sét"
     },
     {
       "word": "錆び",
       "reading": "さび",
-      "meaning": "gỉ sét"
-    },
-    {
-      "word": "防錆",
-      "reading": "ぼうせい",
-      "meaning": "chất chống rỉ sét"
-    },
-    {
-      "word": "赤錆",
-      "reading": "あかさび",
       "meaning": "gỉ sét"
     },
     {
@@ -125,14 +115,24 @@
       "meaning": "rỉ sét"
     },
     {
-      "word": "防錆剤",
-      "reading": "ぼうせいざい",
-      "meaning": "chất chống rỉ sét"
+      "word": "錆つく",
+      "reading": "さびつく",
+      "meaning": "bị gỉ sét"
     },
     {
       "word": "不錆鋼",
       "reading": "ふせいこう",
       "meaning": "thép không gỉ"
+    },
+    {
+      "word": "防錆",
+      "reading": "ぼうせい",
+      "meaning": "chất chống rỉ sét"
+    },
+    {
+      "word": "防錆紙",
+      "reading": "ぼうせいし",
+      "meaning": "giấy chống rỉ sét"
     }
   ]
 }

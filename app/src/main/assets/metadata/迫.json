@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
+      "word": "迫る",
+      "reading": "せまる",
+      "meaning": "cưỡng bức"
+    },
+    {
       "word": "脅迫",
       "reading": "きょうはく",
       "meaning": "sự cưỡng bức"
-    },
-    {
-      "word": "迫力",
-      "reading": "はくりょく",
-      "meaning": "sức lôi cuốn"
     },
     {
       "word": "圧迫",
@@ -104,39 +104,39 @@
       "meaning": "sự áp bức"
     },
     {
-      "word": "促迫",
-      "reading": "そくはく",
-      "meaning": "sự thúc ép"
+      "word": "迫害",
+      "reading": "はくがい",
+      "meaning": "sự đàn áp"
     },
     {
-      "word": "威迫",
-      "reading": "いはく",
+      "word": "脅迫者",
+      "reading": "きょうはくしゃ",
+      "meaning": "kẻ hăm doạ"
+    },
+    {
+      "word": "脅迫的",
+      "reading": "きょうはくてき",
+      "meaning": "hăm doạ"
+    },
+    {
+      "word": "脅迫罪",
+      "reading": "きょうはくざい",
       "meaning": "sự hăm doạ"
     },
     {
-      "word": "肉迫",
-      "reading": "にくはく",
-      "meaning": "sự tiến đến gần"
+      "word": "脅迫文",
+      "reading": "きょうはくぶん",
+      "meaning": "thư đe dọa"
     },
     {
-      "word": "迫真",
-      "reading": "はくしん",
-      "meaning": "vẻ thật"
+      "word": "迫力",
+      "reading": "はくりょく",
+      "meaning": "sức lôi cuốn"
     },
     {
-      "word": "迫持",
-      "reading": "せりもち",
-      "meaning": "uốn cong"
-    },
-    {
-      "word": "節迫",
-      "reading": "せっぱく",
-      "meaning": "chấm dứt năm"
-    },
-    {
-      "word": "窮迫",
-      "reading": "きゅうはく",
-      "meaning": "cảnh khốn cùng"
+      "word": "脅迫状",
+      "reading": "きょうはくじょう",
+      "meaning": "thư khủng bố"
     }
   ]
 }

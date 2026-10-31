@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "歯磨",
+      "word": "磨く",
+      "reading": "みがく",
+      "meaning": "đánh bóng"
+    },
+    {
+      "word": "歯磨き",
       "reading": "はみがき",
-      "meaning": "đánh răng"
+      "meaning": "bột đánh răng"
     },
     {
-      "word": "達磨",
-      "reading": "だるま",
-      "meaning": "daruma"
+      "word": "磨き",
+      "reading": "みがき",
+      "meaning": "đánh bóng"
     },
     {
-      "word": "不磨",
-      "reading": "ふま",
-      "meaning": "tính thường xuyên"
+      "word": "女磨き",
+      "reading": "おんなみがき",
+      "meaning": "việc làm đẹp của phụ nữ"
     },
     {
-      "word": "磨損",
-      "reading": "まそん",
-      "meaning": "hao mòn"
+      "word": "磨き紙",
+      "reading": "みがきがみ",
+      "meaning": "giấy bột mài"
+    },
+    {
+      "word": "靴磨き",
+      "reading": "くつみがき",
+      "meaning": "sự đánh giày"
+    },
+    {
+      "word": "磨き液",
+      "reading": "みがきえき",
+      "meaning": "dung dịch đánh bóng"
+    },
+    {
+      "word": "磨き砂",
+      "reading": "みがきずな",
+      "meaning": "bột trắng dùng đánh bóng đồ bằng kim loại"
+    },
+    {
+      "word": "磨面",
+      "reading": "まめん",
+      "meaning": "bề mặt đánh bóng"
     },
     {
       "word": "磨石",
       "reading": "とぎいし",
       "meaning": "đá mài"
-    },
-    {
-      "word": "研磨",
-      "reading": "けんま",
-      "meaning": "sự mài"
-    },
-    {
-      "word": "磨ぐ",
-      "reading": "とぐ",
-      "meaning": "mài"
-    },
-    {
-      "word": "消磨",
-      "reading": "しょうま",
-      "meaning": "mòn"
-    },
-    {
-      "word": "琢磨",
-      "reading": "たくま",
-      "meaning": "đánh bóng"
-    },
-    {
-      "word": "錬磨",
-      "reading": "れんま",
-      "meaning": "huấn luyện"
     }
   ]
 }

@@ -84,6 +84,21 @@
   ],
   "vocabulary": [
     {
+      "word": "ご馳走",
+      "reading": "ごちそう",
+      "meaning": "chiêu đãi"
+    },
+    {
+      "word": "馳せる",
+      "reading": "はせる",
+      "meaning": "để điều khiển"
+    },
+    {
+      "word": "馳走",
+      "reading": "ちそう",
+      "meaning": "sự đối đãi từ tận đáy lòng"
+    },
+    {
       "word": "背馳",
       "reading": "はいち",
       "meaning": "sự mâu thuẫn"
@@ -94,24 +109,9 @@
       "meaning": "quất ngựa chạy nhanh"
     },
     {
-      "word": "馳走",
-      "reading": "ちそう",
-      "meaning": "sự đối đãi từ tận đáy lòng"
-    },
-    {
-      "word": "馳せる",
-      "reading": "はせる",
-      "meaning": "để điều khiển"
-    },
-    {
-      "word": "ご馳走",
-      "reading": "ごちそう",
+      "word": "ご馳走する",
+      "reading": "ごちそうする",
       "meaning": "chiêu đãi"
-    },
-    {
-      "word": "御馳走様",
-      "reading": "ごちそうさま",
-      "meaning": "dự tiệc"
     },
     {
       "word": "後れ馳せ",
@@ -119,9 +119,9 @@
       "meaning": "đến muộn"
     },
     {
-      "word": "遅れ馳せ",
-      "reading": "おくればせ",
-      "meaning": "đến muộn"
+      "word": "ご馳走さま",
+      "reading": "ごちそうさま",
+      "meaning": "xin cám ơn đã chiêu đãi"
     },
     {
       "word": "馳走する",
@@ -129,9 +129,9 @@
       "meaning": "thết đãi"
     },
     {
-      "word": "ご馳走する",
-      "reading": "ごちそうする",
-      "meaning": "chiêu đãi"
+      "word": "馳せ参じる",
+      "reading": "はせさんじる",
+      "meaning": "để vội vàng để gặp nhau"
     }
   ]
 }

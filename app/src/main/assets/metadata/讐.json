@@ -68,24 +68,19 @@
   ],
   "vocabulary": [
     {
-      "word": "恩讐",
-      "reading": "おんしゅう",
-      "meaning": "tình yêu và thù hận"
-    },
-    {
       "word": "復讐",
       "reading": "ふくしゅう",
       "meaning": "báo oán"
     },
     {
-      "word": "復讐心",
-      "reading": "ふくしゅうしん",
-      "meaning": "mong muốn trả thù"
-    },
-    {
       "word": "復讐者",
       "reading": "ふくしゅうしゃ",
       "meaning": "kẻ phục thù"
+    },
+    {
+      "word": "復讐心",
+      "reading": "ふくしゅうしん",
+      "meaning": "mong muốn trả thù"
     },
     {
       "word": "復讐戦",
@@ -98,14 +93,19 @@
       "meaning": "báo thù bi kịch"
     },
     {
-      "word": "復讐の念",
-      "reading": "ふくしゅうのねん",
-      "meaning": "sự khao khát báo thù"
+      "word": "恩讐",
+      "reading": "おんしゅう",
+      "meaning": "tình yêu và thù hận"
     },
     {
       "word": "復讐する",
       "reading": "ふくしゅうする",
       "meaning": "báo thù"
+    },
+    {
+      "word": "復讐の念",
+      "reading": "ふくしゅうのねん",
+      "meaning": "sự khao khát báo thù"
     },
     {
       "word": "君父の讐は倶に天を戴かず",

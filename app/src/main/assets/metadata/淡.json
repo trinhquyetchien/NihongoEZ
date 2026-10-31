@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "淡淡",
-      "reading": "たんたん",
-      "meaning": "khai quật"
+      "word": "淡水",
+      "reading": "たんすい",
+      "meaning": "nước ngọt"
     },
     {
-      "word": "淡淡たる",
-      "reading": "たんたんたる",
+      "word": "冷淡",
+      "reading": "れいたん",
       "meaning": "lãnh đạm"
-    },
-    {
-      "word": "淡白",
-      "reading": "たんぱく",
-      "meaning": "đơn giản"
-    },
-    {
-      "word": "淡竹",
-      "reading": "はちく",
-      "meaning": "cây trúc lịch"
-    },
-    {
-      "word": "淡雪",
-      "reading": "あわゆき",
-      "meaning": "tuyết rơi vào mùa xuân"
-    },
-    {
-      "word": "淡彩",
-      "reading": "たんさい",
-      "meaning": "màu nhạt"
-    },
-    {
-      "word": "濃淡",
-      "reading": "のうたん",
-      "meaning": "sự đậm nhạt"
-    },
-    {
-      "word": "平淡",
-      "reading": "へいたん",
-      "meaning": "đơn giản"
-    },
-    {
-      "word": "枯淡",
-      "reading": "こたん",
-      "meaning": "tính bình dị thanh lịch"
     },
     {
       "word": "淡々",
       "reading": "たんたん",
       "meaning": "khai quật"
+    },
+    {
+      "word": "淡い",
+      "reading": "あわい",
+      "meaning": "nhạt"
+    },
+    {
+      "word": "淡い影",
+      "reading": "あわいかげ",
+      "meaning": "bóng mờ"
+    },
+    {
+      "word": "淡路島",
+      "reading": "あわじしま",
+      "meaning": "tên một hòn đảo thuộc huyện hyogo"
+    },
+    {
+      "word": "淡血性",
+      "reading": "たんけっせい",
+      "meaning": "màu máu nhạt"
+    },
+    {
+      "word": "淡黄色",
+      "reading": "たんこうしょく",
+      "meaning": "tái nhợt nhuốm vàng"
+    },
+    {
+      "word": "淡緑色",
+      "reading": "たんりょくしょく",
+      "meaning": "màu xanh lục nhẹ"
+    },
+    {
+      "word": "淡蒼球",
+      "reading": "あわあおたま",
+      "meaning": "cầu nhạt"
     }
   ]
 }

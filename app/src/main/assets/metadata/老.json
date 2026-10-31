@@ -112,29 +112,19 @@
       "meaning": "tuổi già"
     },
     {
-      "word": "バナメイ海老",
-      "reading": "バナメイえび",
-      "meaning": "tôm thẻ chân trắng"
+      "word": "老頭",
+      "reading": "おいがしら",
+      "meaning": "ông già"
     },
     {
-      "word": "老舗",
-      "reading": "しにせ",
-      "meaning": "cửa hàng có từ lâu đời"
+      "word": "老番",
+      "reading": "おいばん",
+      "meaning": "số lớn"
     },
     {
-      "word": "海老",
-      "reading": "えび",
-      "meaning": "con tôm"
-    },
-    {
-      "word": "老働",
-      "reading": "ろうどう",
-      "meaning": "sự làm việc sau độ tuổi nghỉ hưu"
-    },
-    {
-      "word": "老爺",
-      "reading": "ろうや",
-      "meaning": "bố"
+      "word": "老犬",
+      "reading": "ろうけん",
+      "meaning": "con chó già"
     },
     {
       "word": "老友",
@@ -147,14 +137,24 @@
       "meaning": "lão thị"
     },
     {
-      "word": "初老",
-      "reading": "しょろう",
-      "meaning": "trung niên"
+      "word": "老舗",
+      "reading": "しにせ",
+      "meaning": "cửa hàng có từ lâu đời"
     },
     {
-      "word": "老女",
-      "reading": "ろうじょ",
-      "meaning": "bà già"
+      "word": "老杉",
+      "reading": "ろうさん",
+      "meaning": "cây tuyết tùng nhật già"
+    },
+    {
+      "word": "海老",
+      "reading": "えび",
+      "meaning": "con tôm"
+    },
+    {
+      "word": "老冠",
+      "reading": "おいかんむり",
+      "meaning": "bộ \"lão\" nằm ở trên"
     }
   ]
 }

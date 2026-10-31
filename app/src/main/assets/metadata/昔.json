@@ -112,24 +112,34 @@
       "meaning": "cổ"
     },
     {
-      "word": "昔昔",
-      "reading": "むかしむかし",
+      "word": "昔から",
+      "reading": "むかしから",
+      "meaning": "từ xưa đến nay"
+    },
+    {
+      "word": "その昔",
+      "reading": "そのむかし",
+      "meaning": "từ lâu rồi"
+    },
+    {
+      "word": "昔者",
+      "reading": "むかしもの",
+      "meaning": "người thời xưa"
+    },
+    {
+      "word": "今は昔",
+      "reading": "いまはむかし",
       "meaning": "ngày xửa ngày xưa"
     },
     {
-      "word": "昔は昔今は今",
-      "reading": "むかしはむかしいまはいま",
-      "meaning": "quá khứ là quá khứ"
+      "word": "昔の事",
+      "reading": "むかしのこと",
+      "meaning": "việc cũ"
     },
     {
-      "word": "昔時",
-      "reading": "せきじ",
-      "meaning": "thời xưa"
-    },
-    {
-      "word": "往昔",
-      "reading": "おうせき",
-      "meaning": "thời cổ xưa"
+      "word": "昔人間",
+      "reading": "むかしにんげん",
+      "meaning": "người lỗi thời"
     },
     {
       "word": "昔風",
@@ -142,19 +152,9 @@
       "meaning": "cổ điển"
     },
     {
-      "word": "一昔",
-      "reading": "ひとむかし",
-      "meaning": "ngày xưa"
-    },
-    {
-      "word": "古昔",
-      "reading": "こせき",
-      "meaning": "sự điều tra số dân"
-    },
-    {
-      "word": "昔年",
-      "reading": "せきねん",
-      "meaning": "năm xưa"
+      "word": "昔昔",
+      "reading": "むかしむかし",
+      "meaning": "ngày xửa ngày xưa"
     }
   ]
 }

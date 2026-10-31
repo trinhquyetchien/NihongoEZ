@@ -89,29 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "障",
-      "reading": "しょう",
-      "meaning": "chướng"
-    },
-    {
-      "word": "囲障",
-      "reading": "いしょう",
-      "meaning": "hàng rào"
-    },
-    {
-      "word": "堡障",
-      "reading": "ほしょう",
-      "meaning": "phòng thủ"
-    },
-    {
-      "word": "障子",
-      "reading": "しょうじ",
-      "meaning": "vách ngăn"
-    },
-    {
-      "word": "障壁",
-      "reading": "しょうへき",
-      "meaning": "chướng ngại"
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "sự cố"
     },
     {
       "word": "障害",
@@ -119,24 +99,44 @@
       "meaning": "trở ngại"
     },
     {
-      "word": "支障",
-      "reading": "ししょう",
+      "word": "障子",
+      "reading": "しょうじ",
+      "meaning": "vách ngăn"
+    },
+    {
+      "word": "障る",
+      "reading": "さわる",
       "meaning": "trở ngại"
     },
     {
-      "word": "故障",
-      "reading": "こしょう",
-      "meaning": "sự cố"
+      "word": "障害者",
+      "reading": "しょうがいしゃ",
+      "meaning": "người tàn tật"
     },
     {
-      "word": "気障",
-      "reading": "きざ",
-      "meaning": "tự phụ"
+      "word": "障害物",
+      "reading": "しょうがいぶつ",
+      "meaning": "vật cản"
     },
     {
-      "word": "内障",
-      "reading": "ないしょう",
-      "meaning": "rối loạn thị giác gây ra bởi một vấn đề trong mắt nói chung"
+      "word": "高障害",
+      "reading": "こうしょうがい",
+      "meaning": "cao chạy vượt rào"
+    },
+    {
+      "word": "保障",
+      "reading": "ほしょう",
+      "meaning": "đảm bảo"
+    },
+    {
+      "word": "故障中",
+      "reading": "こしょうちゅう",
+      "meaning": "bị hỏng"
+    },
+    {
+      "word": "障",
+      "reading": "しょう",
+      "meaning": "chướng"
     }
   ]
 }

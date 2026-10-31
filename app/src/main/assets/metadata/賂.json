@@ -84,23 +84,23 @@
   ],
   "vocabulary": [
     {
-      "word": "賂",
-      "reading": "まいない",
-      "meaning": "mua chuộc"
-    },
-    {
       "word": "賄賂",
       "reading": "わいろ",
       "meaning": "hối lộ"
     },
     {
-      "word": "賄賂を贈る",
-      "reading": "わいろをおくる",
-      "meaning": "đút lót"
+      "word": "賂",
+      "reading": "まいない",
+      "meaning": "mua chuộc"
     },
     {
       "word": "賄賂を使う",
       "reading": "わいろをつかう",
+      "meaning": "đút lót"
+    },
+    {
+      "word": "賄賂を贈る",
+      "reading": "わいろをおくる",
       "meaning": "đút lót"
     }
   ]

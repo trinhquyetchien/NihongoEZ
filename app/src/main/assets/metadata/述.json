@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "申し述べる",
-      "reading": "もうしのべる",
-      "meaning": "phát biểu"
+      "word": "述べる",
+      "reading": "のべる",
+      "meaning": "bày tỏ"
     },
     {
-      "word": "申述",
-      "reading": "しんじゅつ",
-      "meaning": "lời tuyên bố"
-    },
-    {
-      "word": "縷述",
-      "reading": "るじゅつ",
-      "meaning": "nêu ra một cách chi tiết"
-    },
-    {
-      "word": "上述",
-      "reading": "じょうじゅつ",
-      "meaning": "việc đã nói ở trước"
-    },
-    {
-      "word": "述部",
-      "reading": "じゅつぶ",
-      "meaning": "xác nhận"
-    },
-    {
-      "word": "供述",
-      "reading": "きょうじゅつ",
-      "meaning": "khẩu cung"
-    },
-    {
-      "word": "口述",
-      "reading": "こうじゅつ",
-      "meaning": "sự trình bày bằng lời"
+      "word": "述語",
+      "reading": "じゅつご",
+      "meaning": "vị ngữ"
     },
     {
       "word": "記述",
@@ -129,14 +104,39 @@
       "meaning": "sự ghi chép"
     },
     {
-      "word": "講述",
+      "word": "口述",
       "reading": "こうじゅつ",
-      "meaning": "giảng đường đại học"
+      "meaning": "sự trình bày bằng lời"
     },
     {
-      "word": "述作",
-      "reading": "じゅっさく",
-      "meaning": "viết sách"
+      "word": "記述的",
+      "reading": "きじゅつてき",
+      "meaning": "có tính mô tả"
+    },
+    {
+      "word": "記述名",
+      "reading": "きじゅつめい",
+      "meaning": "tên mô tả"
+    },
+    {
+      "word": "記述子",
+      "reading": "きじゅつし",
+      "meaning": "nó là một số nguyên mô tả cấu trúc và nội dung của một tệp"
+    },
+    {
+      "word": "記述部",
+      "reading": "きじゅつぶ",
+      "meaning": "phần mô tả"
+    },
+    {
+      "word": "記述項",
+      "reading": "きじゅつこう",
+      "meaning": "mục ghi chú"
+    },
+    {
+      "word": "供述",
+      "reading": "きょうじゅつ",
+      "meaning": "khẩu cung"
     }
   ]
 }

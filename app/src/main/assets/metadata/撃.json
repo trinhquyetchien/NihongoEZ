@@ -89,29 +89,14 @@
   ],
   "vocabulary": [
     {
+      "word": "攻撃",
+      "reading": "こうげき",
+      "meaning": "sự công kích"
+    },
+    {
       "word": "撃つ",
       "reading": "うつ",
       "meaning": "bắn"
-    },
-    {
-      "word": "迎撃",
-      "reading": "げいげき",
-      "meaning": "sự phục kích tấn công"
-    },
-    {
-      "word": "撃墜",
-      "reading": "げきつい",
-      "meaning": "sự bắn rơi máy bay"
-    },
-    {
-      "word": "撃破",
-      "reading": "げきは",
-      "meaning": "làm tan nát"
-    },
-    {
-      "word": "襲撃",
-      "reading": "しゅうげき",
-      "meaning": "sự tập kích"
     },
     {
       "word": "衝撃",
@@ -119,24 +104,39 @@
       "meaning": "sự sốc"
     },
     {
-      "word": "進撃",
-      "reading": "しんげき",
-      "meaning": "tấn công"
+      "word": "襲撃",
+      "reading": "しゅうげき",
+      "meaning": "sự tập kích"
     },
     {
-      "word": "出撃",
-      "reading": "しゅつげき",
-      "meaning": "sự xuất kích"
+      "word": "反撃",
+      "reading": "はんげき",
+      "meaning": "sự phản kích"
     },
     {
-      "word": "挟撃",
-      "reading": "きょうげき",
-      "meaning": "thế gọng kìm"
+      "word": "打撃",
+      "reading": "だげき",
+      "meaning": "đòn đánh"
     },
     {
-      "word": "攻撃",
-      "reading": "こうげき",
-      "meaning": "sự công kích"
+      "word": "目撃",
+      "reading": "もくげき",
+      "meaning": "mục kích"
+    },
+    {
+      "word": "爆撃",
+      "reading": "ばくげき",
+      "meaning": "sự ném bom"
+    },
+    {
+      "word": "射撃",
+      "reading": "しゃげき",
+      "meaning": "bắn đạn từ súng và súng và nhắm vào mục tiêu"
+    },
+    {
+      "word": "突撃",
+      "reading": "とつげき",
+      "meaning": "đột kích"
     }
   ]
 }

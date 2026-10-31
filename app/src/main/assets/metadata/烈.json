@@ -89,34 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "烈烈",
-      "reading": "れつれつ",
-      "meaning": "nhiệt thành"
-    },
-    {
       "word": "強烈",
       "reading": "きょうれつ",
       "meaning": "chói chang"
     },
     {
-      "word": "激烈",
-      "reading": "げきれつ",
-      "meaning": "quyết liệt"
-    },
-    {
-      "word": "酷烈",
-      "reading": "こくれつ",
-      "meaning": "tính nghiêm khắc"
-    },
-    {
-      "word": "壮烈",
-      "reading": "そうれつ",
-      "meaning": "anh hùng"
-    },
-    {
-      "word": "痛烈",
-      "reading": "つうれつ",
+      "word": "猛烈",
+      "reading": "もうれつ",
       "meaning": "mãnh liệt"
+    },
+    {
+      "word": "熱烈",
+      "reading": "ねつれつ",
+      "meaning": "nhiệt liệt"
     },
     {
       "word": "武烈",
@@ -129,14 +114,29 @@
       "meaning": "sự can đảm"
     },
     {
+      "word": "凄烈",
+      "reading": "せいれつ",
+      "meaning": "hung dữ"
+    },
+    {
+      "word": "凛烈",
+      "reading": "りんれつ",
+      "meaning": "cắn"
+    },
+    {
       "word": "偉烈",
       "reading": "いれつ",
       "meaning": "thành tích lớn"
     },
     {
-      "word": "苛烈",
-      "reading": "かれつ",
-      "meaning": "khốc liệt"
+      "word": "余烈",
+      "reading": "よれつ",
+      "meaning": "xứng đáng tổ tiên chứng nhượng"
+    },
+    {
+      "word": "忠烈",
+      "reading": "ちゅうれつ",
+      "meaning": "sự trung liệt"
     }
   ]
 }

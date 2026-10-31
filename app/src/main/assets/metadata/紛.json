@@ -93,29 +93,39 @@
   ],
   "vocabulary": [
     {
-      "word": "紛紛",
-      "reading": "ふんぷん",
-      "meaning": "sự lẫn lộn"
+      "word": "紛争",
+      "reading": "ふんそう",
+      "meaning": "cuộc tranh chấp"
     },
     {
-      "word": "諸説紛紛",
-      "reading": "しょせつふんぷん",
-      "meaning": "những quan điểm phân kỳ có rất nhiều"
+      "word": "紛失",
+      "reading": "ふんしつ",
+      "meaning": "việc làm mất"
     },
     {
-      "word": "珍紛漢紛",
-      "reading": "ちんぷんかんぷん",
-      "meaning": "hoàn toàn không hiểu câu chuyện mà người khác đang nói"
+      "word": "紛れる",
+      "reading": "まぎれる",
+      "meaning": "bị làm hướng sang hướng khác"
     },
     {
-      "word": "紛う",
-      "reading": "まごう",
-      "meaning": "bị nhầm lẫn"
+      "word": "紛れ",
+      "reading": "まぐれ",
+      "meaning": "sự may mắn"
     },
     {
-      "word": "繽紛",
-      "reading": "ひんぷん",
-      "meaning": "sự hỗn loạn"
+      "word": "紛失物",
+      "reading": "ふんしつぶつ",
+      "meaning": "tài sản bị mất"
+    },
+    {
+      "word": "紛失届",
+      "reading": "ふんしつとどけ",
+      "meaning": "báo cáo sự mất mát một mục"
+    },
+    {
+      "word": "内紛",
+      "reading": "ないふん",
+      "meaning": "sự bất hòa nội bộ"
     },
     {
       "word": "紛糾",
@@ -128,19 +138,9 @@
       "meaning": "hàng giả"
     },
     {
-      "word": "紛擾",
-      "reading": "ふんじょう",
-      "meaning": "sự rối loạn"
-    },
-    {
-      "word": "紛議",
-      "reading": "ふんぎ",
-      "meaning": "mối bất đồng"
-    },
-    {
-      "word": "紛然",
-      "reading": "ふんぜん",
-      "meaning": "sự lẫn lộn"
+      "word": "気紛れ",
+      "reading": "きまぐれ",
+      "meaning": "tính khí thất thường"
     }
   ]
 }

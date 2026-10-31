@@ -104,29 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "刊",
-      "reading": "かん",
-      "meaning": "xuất bản"
-    },
-    {
-      "word": "朝刊",
-      "reading": "ちょうかん",
-      "meaning": "báo ra buổi sáng"
-    },
-    {
-      "word": "旧刊",
-      "reading": "きゅうかん",
-      "meaning": "số cũ"
-    },
-    {
-      "word": "追刊",
-      "reading": "ついかん",
-      "meaning": "sự phát hành thêm"
-    },
-    {
-      "word": "増刊",
-      "reading": "ぞうかん",
-      "meaning": "phiên bản đặc biệt"
+      "word": "夕刊",
+      "reading": "ゆうかん",
+      "meaning": "báo phát hành vào buổi chiều"
     },
     {
       "word": "刊行",
@@ -134,24 +114,44 @@
       "meaning": "sự ấn loát"
     },
     {
+      "word": "創刊",
+      "reading": "そうかん",
+      "meaning": "sự xuất bản"
+    },
+    {
+      "word": "季刊",
+      "reading": "きかん",
+      "meaning": "hàng quý"
+    },
+    {
+      "word": "週刊",
+      "reading": "しゅうかん",
+      "meaning": "tuần san"
+    },
+    {
+      "word": "週刊紙",
+      "reading": "しゅうかんし",
+      "meaning": "tuần san"
+    },
+    {
+      "word": "週刊誌",
+      "reading": "しゅうかんし",
+      "meaning": "báo hàng tuần"
+    },
+    {
       "word": "日刊",
       "reading": "にっかん",
       "meaning": "nhật san"
     },
     {
-      "word": "復刊",
-      "reading": "ふっかん",
-      "meaning": "sự tái bản"
+      "word": "日刊紙",
+      "reading": "にっかんし",
+      "meaning": "báo ngày"
     },
     {
-      "word": "年刊",
-      "reading": "ねんかん",
-      "meaning": "sách xuất bản hàng năm"
-    },
-    {
-      "word": "未刊",
-      "reading": "みかん",
-      "meaning": "không xuất bản"
+      "word": "月刊",
+      "reading": "げっかん",
+      "meaning": "nguyệt san"
     }
   ]
 }

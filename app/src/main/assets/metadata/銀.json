@@ -72,29 +72,24 @@
   ],
   "vocabulary": [
     {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "ngân hàng"
+    },
+    {
       "word": "銀",
       "reading": "ぎん",
       "meaning": "bạc"
     },
     {
-      "word": "日本銀行（日銀）",
-      "reading": "にっぽんぎんこー（にちぎん）",
-      "meaning": "ngân hàng nhật bản"
+      "word": "中銀",
+      "reading": "ちゅうぎん",
+      "meaning": "ngân hàng trung ương"
     },
     {
-      "word": "世界銀行（世銀）",
-      "reading": "せかいぎんこー（せぎん）",
-      "meaning": "ngân hàng thế giới"
-    },
-    {
-      "word": "銀貨",
-      "reading": "ぎんか",
-      "meaning": "tiền xu"
-    },
-    {
-      "word": "拓銀",
-      "reading": "たくぎん",
-      "meaning": "takushoku đắp bờ"
+      "word": "外銀",
+      "reading": "がいぎん",
+      "meaning": "ngân hàng nước ngoài"
     },
     {
       "word": "全銀",
@@ -102,9 +97,19 @@
       "meaning": "hiệp hội ngân hàng nhật bản"
     },
     {
-      "word": "埼銀",
-      "reading": "さいぎん",
-      "meaning": "saitama đắp bờ"
+      "word": "為銀",
+      "reading": "ためぎん",
+      "meaning": "ngân hàng giao dịch hối đoái"
+    },
+    {
+      "word": "銀経",
+      "reading": "ぎんけい",
+      "meaning": "kinh độ ngân hà"
+    },
+    {
+      "word": "銀塩",
+      "reading": "ぎんえん",
+      "meaning": "bạc clorua"
     },
     {
       "word": "銀座",
@@ -112,14 +117,9 @@
       "meaning": "con đường mua sắm"
     },
     {
-      "word": "銀行",
-      "reading": "ぎんこう",
-      "meaning": "ngân hàng"
-    },
-    {
-      "word": "長銀",
-      "reading": "ちょうぎん",
-      "meaning": "ngân hàng tín dụng dài hạn nhật bản"
+      "word": "軽銀",
+      "reading": "けいぎん",
+      "meaning": "nhôm"
     }
   ]
 }

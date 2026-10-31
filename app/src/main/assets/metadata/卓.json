@@ -87,9 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "卓",
-      "reading": "たく",
-      "meaning": "giá đỡ mọi thứ"
+      "word": "食卓",
+      "reading": "しょくたく",
+      "meaning": "bàn ăn"
     },
     {
       "word": "卓球",
@@ -97,9 +97,34 @@
       "meaning": "bóng bàn"
     },
     {
-      "word": "電卓",
-      "reading": "でんたく",
-      "meaning": "máy tính cầm tay dùng để tính toán"
+      "word": "卓",
+      "reading": "たく",
+      "meaning": "giá đỡ mọi thứ"
+    },
+    {
+      "word": "卓用",
+      "reading": "たくよう",
+      "meaning": "bàn"
+    },
+    {
+      "word": "卓話会",
+      "reading": "たくわかい",
+      "meaning": "xung quanh cuộc gặp bảng hoặc những cuộc trò chuyện"
+    },
+    {
+      "word": "操作卓",
+      "reading": "そうさたく",
+      "meaning": "bàn điều khiển"
+    },
+    {
+      "word": "座卓",
+      "reading": "ざたく",
+      "meaning": "bàn thấp"
+    },
+    {
+      "word": "制御卓",
+      "reading": "せいぎょたく",
+      "meaning": "bàn điều khiển"
     },
     {
       "word": "聖卓",
@@ -110,31 +135,6 @@
       "word": "満卓",
       "reading": "まんたく",
       "meaning": "phòng họp đầy người dự"
-    },
-    {
-      "word": "雀卓",
-      "reading": "ジャンたく",
-      "meaning": "tấm bảng mahjong"
-    },
-    {
-      "word": "卓識",
-      "reading": "たくしき",
-      "meaning": "clearsightedness"
-    },
-    {
-      "word": "卓用",
-      "reading": "たくよう",
-      "meaning": "bàn"
-    },
-    {
-      "word": "卓上",
-      "reading": "たくじょう",
-      "meaning": "để bàn"
-    },
-    {
-      "word": "卓筆",
-      "reading": "たくひつ",
-      "meaning": "nét chữ đẹp"
     }
   ]
 }

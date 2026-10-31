@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "展",
-      "reading": "てん",
-      "meaning": "triển lãm"
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaning": "cuộc triển lãm"
     },
     {
-      "word": "伸展",
-      "reading": "しんてん",
-      "meaning": "sự mở rộng"
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "sự phát triển"
     },
     {
-      "word": "卒展",
-      "reading": "そつてん",
-      "meaning": "buổi lễ tốt nghiệp"
+      "word": "展開",
+      "reading": "てんかい",
+      "meaning": "sự triển khai"
     },
     {
-      "word": "出展",
-      "reading": "しゅってん",
+      "word": "展示",
+      "reading": "てんじ",
       "meaning": "sự trưng bày"
     },
     {
-      "word": "親展",
+      "word": "進展",
       "reading": "しんてん",
-      "meaning": "sự bí mật"
+      "meaning": "sự tiến triển"
     },
     {
-      "word": "個展",
-      "reading": "こてん",
-      "meaning": "cuộc triển lãm cá nhân"
+      "word": "展望",
+      "reading": "てんぼう",
+      "meaning": "sự quan sát"
     },
     {
-      "word": "展墓",
-      "reading": "てんぼ",
-      "meaning": "sự tảo mộ"
+      "word": "超展開",
+      "reading": "ちょうてんかい",
+      "meaning": "thay đổi cốt truyện đột ngột"
     },
     {
-      "word": "官展",
-      "reading": "かんてん",
-      "meaning": "cuộc triển lãm do chính phủ tài trợ"
+      "word": "展示会",
+      "reading": "てんじかい",
+      "meaning": "cuộc triển lãm"
     },
     {
-      "word": "展性",
-      "reading": "てんせい",
-      "meaning": "sự dễ uốn"
+      "word": "発展的",
+      "reading": "はってんてき",
+      "meaning": "phát triển"
     },
     {
-      "word": "展観",
-      "reading": "てんかん",
-      "meaning": "sự trưng bày"
+      "word": "発展中",
+      "reading": "はってんちゅう",
+      "meaning": "dưới sự phát triển"
     }
   ]
 }

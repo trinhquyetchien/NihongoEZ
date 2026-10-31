@@ -87,34 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "堤",
-      "reading": "つつみ",
-      "meaning": "bờ đê"
-    },
-    {
-      "word": "堰堤",
-      "reading": "えんてい",
-      "meaning": "đê"
-    },
-    {
-      "word": "突堤",
-      "reading": "とってい",
-      "meaning": "đê tránh sóng"
-    },
-    {
-      "word": "墨堤",
-      "reading": "ぼくてい",
-      "meaning": "hai bờ đê của dòng sông sumida"
-    },
-    {
-      "word": "築堤",
-      "reading": "ちくてい",
-      "meaning": "đê"
-    },
-    {
       "word": "堤防",
       "reading": "ていぼう",
       "meaning": "đê điều"
+    },
+    {
+      "word": "堤",
+      "reading": "つつみ",
+      "meaning": "bờ đê"
     },
     {
       "word": "土堤",
@@ -127,14 +107,34 @@
       "meaning": "bờ kè được xây dựng bằng cách xếp các khối tuyết cứng như một bức tường đá dọc theo đường ray để ngăn tuyết trượt xuống dốc"
     },
     {
+      "word": "神経堤",
+      "reading": "しんけいてい",
+      "meaning": "mào thần kinh"
+    },
+    {
+      "word": "堤間幅",
+      "reading": "ていかんはば",
+      "meaning": "chiều rộng lòng kênh"
+    },
+    {
+      "word": "墨堤",
+      "reading": "ぼくてい",
+      "meaning": "hai bờ đê của dòng sông sumida"
+    },
+    {
+      "word": "防波堤",
+      "reading": "ぼうはてい",
+      "meaning": "đê ngăn sóng"
+    },
+    {
       "word": "堤燈",
       "reading": "ちょうちん",
       "meaning": "đèn lồng"
     },
     {
-      "word": "神経堤",
-      "reading": "しんけいてい",
-      "meaning": "mào thần kinh"
+      "word": "防潮堤",
+      "reading": "ぼうちょうてい",
+      "meaning": "đê ngăn nước biển"
     }
   ]
 }

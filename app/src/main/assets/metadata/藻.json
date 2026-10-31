@@ -92,34 +92,9 @@
       "meaning": "loài thực vật trong ao đầm sông hồ biển như bèo rong tảo"
     },
     {
-      "word": "カナダ藻",
-      "reading": "カナダも",
-      "meaning": "elodea canadensis"
-    },
-    {
-      "word": "珪藻",
-      "reading": "けいそう",
-      "meaning": "tảo cát"
-    },
-    {
-      "word": "才藻",
-      "reading": "さいそう",
-      "meaning": "tài năng về thơ văn"
-    },
-    {
-      "word": "紅藻",
-      "reading": "こうそう",
-      "meaning": "tảo đỏ"
-    },
-    {
-      "word": "松藻",
-      "reading": "まつも",
-      "meaning": "rong biển xanh nâu"
-    },
-    {
-      "word": "房藻",
-      "reading": "ふさも",
-      "meaning": "tảo chùm"
+      "word": "藻場",
+      "reading": "もば",
+      "meaning": "rừng rong biển"
     },
     {
       "word": "光藻",
@@ -127,14 +102,39 @@
       "meaning": "tảo biển ochromonas vischeri"
     },
     {
-      "word": "藻類",
-      "reading": "そうるい",
-      "meaning": "rong biển"
+      "word": "黒藻",
+      "reading": "くろも",
+      "meaning": "rong gai"
     },
     {
-      "word": "藻草",
-      "reading": "もぐさ",
-      "meaning": "thực vật thủy sinh"
+      "word": "円石藻",
+      "reading": "えんせきそう",
+      "meaning": "tảo cầu gai"
+    },
+    {
+      "word": "藻抜け",
+      "reading": "もぬけ",
+      "meaning": "xác da rắn"
+    },
+    {
+      "word": "角藻",
+      "reading": "つのも",
+      "meaning": "chi tảo ceratium"
+    },
+    {
+      "word": "品字藻",
+      "reading": "ひんじも",
+      "meaning": "bèo cám ba sóng"
+    },
+    {
+      "word": "松藻",
+      "reading": "まつも",
+      "meaning": "rong biển xanh nâu"
+    },
+    {
+      "word": "甘藻",
+      "reading": "あまも",
+      "meaning": "rong lươn"
     }
   ]
 }

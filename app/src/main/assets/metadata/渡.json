@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "手渡し譲渡",
-      "reading": "てわたしじょうと",
-      "meaning": "chuyển nhượng trao tay"
+      "word": "渡る",
+      "reading": "わたる",
+      "meaning": "băng qua"
     },
     {
-      "word": "譲渡(譲渡書)",
-      "reading": "じょうと（じょうとしょ）",
-      "meaning": "chuyển nhượng"
+      "word": "渡す",
+      "reading": "わたす",
+      "meaning": "trao"
     },
     {
-      "word": "譲渡（譲渡書）",
-      "reading": "じょうと(じょうとしょ)",
-      "meaning": "chuyển nhượng"
+      "word": "見渡す",
+      "reading": "みわたす",
+      "meaning": "nhìn quanh"
     },
     {
-      "word": "渡し場を渡る",
-      "reading": "わたしばをわたる",
-      "meaning": "qua đò"
+      "word": "渡し",
+      "reading": "わたし",
+      "meaning": "chở người"
     },
     {
-      "word": "船側渡し(引渡し)",
-      "reading": "せんがわわたし（ひきわたし）",
-      "meaning": "chuyển mạn"
+      "word": "値渡し",
+      "reading": "あたいわたし",
+      "meaning": "chuyển theo giá trị"
     },
     {
-      "word": "船側渡し（引渡し）",
-      "reading": "せんがわわたし(ひきわたし)",
-      "meaning": "chuyển mạn"
+      "word": "譲渡",
+      "reading": "じょうと",
+      "meaning": "chuyển giao"
     },
     {
-      "word": "鳥渡",
-      "reading": "ちょっと",
-      "meaning": "dễ dàng"
+      "word": "渡り",
+      "reading": "わたり",
+      "meaning": "chở phà"
     },
     {
-      "word": "渡鴉",
-      "reading": "わたりがらす",
-      "meaning": "con quạ"
+      "word": "渡日",
+      "reading": "とにち",
+      "meaning": "việc đi đến nước nhật"
     },
     {
-      "word": "渡満",
-      "reading": "とまん",
-      "meaning": "việc đi mãn châu"
+      "word": "渡中",
+      "reading": "とちゅう",
+      "meaning": "đi đến trung quốc"
     },
     {
-      "word": "渡露",
-      "reading": "とろ",
-      "meaning": "việc đi đến nước nga"
+      "word": "一渡",
+      "reading": "いちわたる",
+      "meaning": "ngắn gọn"
     }
   ]
 }

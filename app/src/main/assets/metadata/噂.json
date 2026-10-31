@@ -90,14 +90,14 @@
       "meaning": "lời đồn đại"
     },
     {
-      "word": "噂話",
-      "reading": "うわさばなし",
-      "meaning": "ngồi lê mách lẻo"
-    },
-    {
       "word": "噂する",
       "reading": "うわさする",
       "meaning": "đồn"
+    },
+    {
+      "word": "噂話",
+      "reading": "うわさばなし",
+      "meaning": "ngồi lê mách lẻo"
     },
     {
       "word": "噂通り",
@@ -110,9 +110,9 @@
       "meaning": "ngồi lê mách lẻo"
     },
     {
-      "word": "浮いた噂",
-      "reading": "ういたうわさ",
-      "meaning": "tin đồn tình ái"
+      "word": "噂をする",
+      "reading": "うわさをする",
+      "meaning": "bàn tán"
     },
     {
       "word": "噂を聞く",
@@ -120,9 +120,9 @@
       "meaning": "nghe tin đồn"
     },
     {
-      "word": "噂に上る",
-      "reading": "うわさにのぼる",
-      "meaning": "buôn chuyện"
+      "word": "噂が流れる",
+      "reading": "うわさがながれる",
+      "meaning": "lan truyền tin đồn"
     },
     {
       "word": "噂を流す",
@@ -130,9 +130,9 @@
       "meaning": "lan truyền tin đồn"
     },
     {
-      "word": "噂をする",
-      "reading": "うわさをする",
-      "meaning": "bàn tán"
+      "word": "浮いた噂",
+      "reading": "ういたうわさ",
+      "meaning": "tin đồn tình ái"
     }
   ]
 }

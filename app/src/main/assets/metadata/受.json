@@ -91,34 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "受",
-      "reading": "じゅ",
-      "meaning": "những cảm giác dễ chịu"
-    },
-    {
-      "word": "手形の受引受",
-      "reading": "てがたのうけひきうけ",
-      "meaning": "chấp nhận hối phiếu"
-    },
-    {
-      "word": "引受",
-      "reading": "ひきうけ",
-      "meaning": "chấp hành"
-    },
-    {
-      "word": "受講",
-      "reading": "じゅこう",
-      "meaning": "tham gia lớp học"
-    },
-    {
-      "word": "受動",
-      "reading": "じゅどう",
-      "meaning": "sự bị động"
-    },
-    {
-      "word": "受賞",
-      "reading": "じゅしょう",
-      "meaning": "chiến thắng"
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "nhân viên thường trực"
     },
     {
       "word": "受験",
@@ -126,9 +101,24 @@
       "meaning": "sự tham gia kì thi"
     },
     {
-      "word": "受諾",
-      "reading": "じゅだく",
-      "meaning": "chấp hành"
+      "word": "享受",
+      "reading": "きょうじゅ",
+      "meaning": "sự hưởng thụ"
+    },
+    {
+      "word": "受身",
+      "reading": "うけみ",
+      "meaning": "dạng bị động"
+    },
+    {
+      "word": "受け",
+      "reading": "うけ",
+      "meaning": "nhận"
+    },
+    {
+      "word": "受賞",
+      "reading": "じゅしょう",
+      "meaning": "chiến thắng"
     },
     {
       "word": "受信",
@@ -136,9 +126,19 @@
       "meaning": "sự thu tín hiệu"
     },
     {
-      "word": "受理",
-      "reading": "じゅり",
-      "meaning": "sự tiếp thu"
+      "word": "受注",
+      "reading": "じゅちゅう",
+      "meaning": "chấp nhận những thứ tự"
+    },
+    {
+      "word": "受給",
+      "reading": "じゅきゅう",
+      "meaning": "nhận tiền"
+    },
+    {
+      "word": "受講",
+      "reading": "じゅこう",
+      "meaning": "tham gia lớp học"
     }
   ]
 }

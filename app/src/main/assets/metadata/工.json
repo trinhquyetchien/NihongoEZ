@@ -106,36 +106,6 @@
   ],
   "vocabulary": [
     {
-      "word": "工",
-      "reading": "こう",
-      "meaning": "công nhân"
-    },
-    {
-      "word": "工工四",
-      "reading": "くんくんしい",
-      "meaning": "kunkunshi"
-    },
-    {
-      "word": "木工細工",
-      "reading": "もっこうざいく",
-      "meaning": "chế biến gỗ"
-    },
-    {
-      "word": "木工工具",
-      "reading": "もっこうこうぐ",
-      "meaning": "dụng cụ mộc"
-    },
-    {
-      "word": "移動支保工工法",
-      "reading": "いどうしほこうこうほう",
-      "meaning": "movable scaffold system mss/ phuơng pháp đúc trên đà giáo di động mss"
-    },
-    {
-      "word": "大工",
-      "reading": "だいく",
-      "meaning": "người xây dựng và sửa chữa các công trình kiến trúc bằng gỗ"
-    },
-    {
       "word": "工業",
       "reading": "こうぎょう",
       "meaning": "công nghiệp"
@@ -146,14 +116,44 @@
       "meaning": "công sự"
     },
     {
-      "word": "工具",
-      "reading": "こうぐ",
-      "meaning": "công cụ"
+      "word": "工夫",
+      "reading": "くふう",
+      "meaning": "công nhân"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaning": "nghề thủ công"
+    },
+    {
+      "word": "大工",
+      "reading": "だいく",
+      "meaning": "người xây dựng và sửa chữa các công trình kiến trúc bằng gỗ"
+    },
+    {
+      "word": "工員",
+      "reading": "こういん",
+      "meaning": "công nhân"
+    },
+    {
+      "word": "工作",
+      "reading": "こうさく",
+      "meaning": "nghề thủ công"
+    },
+    {
+      "word": "工学",
+      "reading": "こうがく",
+      "meaning": "môn kỹ thuật công nghiệp"
     },
     {
       "word": "細工",
       "reading": "さいく",
       "meaning": "tác phẩm"
+    },
+    {
+      "word": "工",
+      "reading": "こう",
+      "meaning": "công nhân"
     }
   ]
 }

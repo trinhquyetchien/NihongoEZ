@@ -56,14 +56,19 @@
       "meaning": "mày"
     },
     {
+      "word": "汝自身を知れ",
+      "reading": "なんじじしんをしれ",
+      "meaning": "hiểu chính mình"
+    },
+    {
       "word": "汝自らを知れ",
       "reading": "なんじみずからをしれ",
       "meaning": "hãy tự biết mình"
     },
     {
-      "word": "汝自身を知れ",
-      "reading": "なんじじしんをしれ",
-      "meaning": "hiểu chính mình"
+      "word": "弱き者よ汝の名は女也",
+      "reading": "よわきものよなんじのなはおんななり",
+      "meaning": "yếu đuối"
     },
     {
       "word": "艱難汝を玉にす",
@@ -79,11 +84,6 @@
       "word": "汝の隣人を愛せよ",
       "reading": "なんじのりんじんをあいせよ",
       "meaning": "hãy yêu thương hàng xóm của ngươi"
-    },
-    {
-      "word": "弱き者よ汝の名は女也",
-      "reading": "よわきものよなんじのなはおんななり",
-      "meaning": "yếu đuối"
     }
   ]
 }

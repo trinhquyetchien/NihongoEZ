@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "誤認",
-      "reading": "ごにん",
-      "meaning": "sự ngộ nhận"
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "sự xác nhận"
     },
     {
       "word": "承認",
@@ -100,44 +100,44 @@
       "meaning": "sự thừa nhận"
     },
     {
-      "word": "確認",
-      "reading": "かくにん",
-      "meaning": "sự xác nhận"
+      "word": "認識",
+      "reading": "にんしき",
+      "meaning": "sự nhận thức"
     },
     {
-      "word": "現認",
-      "reading": "げんにん",
-      "meaning": "chứng kiến"
+      "word": "公認",
+      "reading": "こうにん",
+      "meaning": "sự công nhận"
     },
     {
-      "word": "音認",
-      "reading": "おんにん",
-      "meaning": "xác nhận bằng âm thanh"
+      "word": "確認者",
+      "reading": "かくにんしゃ",
+      "meaning": "người xác nhận"
     },
     {
-      "word": "視認",
-      "reading": "しにん",
-      "meaning": "xác nhận bằng mắt"
+      "word": "認め",
+      "reading": "みとめ",
+      "meaning": "sự thừa nhận"
     },
     {
-      "word": "認諾",
-      "reading": "にんだく",
-      "meaning": "phê duyệt"
+      "word": "再確認",
+      "reading": "さいかくにん",
+      "meaning": "sự xác nhận một lần nữa"
     },
     {
-      "word": "体認",
-      "reading": "たいにん",
-      "meaning": "thể nghiệm"
+      "word": "未確認",
+      "reading": "みかくにん",
+      "meaning": "chưa xác nhận"
     },
     {
-      "word": "追認",
-      "reading": "ついにん",
-      "meaning": "sự phê chuẩn"
+      "word": "認定",
+      "reading": "にんてい",
+      "meaning": "sự thừa nhận"
     },
     {
-      "word": "認否",
-      "reading": "にんぴ",
-      "meaning": "sự thừa nhận và không thừa nhận"
+      "word": "承認者",
+      "reading": "しょうにんしゃ",
+      "meaning": "người phê duyệt"
     }
   ]
 }

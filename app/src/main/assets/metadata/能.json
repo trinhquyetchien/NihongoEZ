@@ -107,9 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "能",
-      "reading": "のう",
-      "meaning": "hiệu lực"
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "cơ năng"
     },
     {
       "word": "能力",
@@ -117,44 +117,44 @@
       "meaning": "chú tiểu"
     },
     {
-      "word": "能カ",
-      "reading": "のうりょく",
-      "meaning": "năng lực"
-    },
-    {
       "word": "才能",
       "reading": "さいのう",
       "meaning": "tài năng"
     },
     {
-      "word": "技能",
-      "reading": "ぎのう",
-      "meaning": "kỹ thuật"
+      "word": "能",
+      "reading": "のう",
+      "meaning": "hiệu lực"
     },
     {
-      "word": "効能",
-      "reading": "こうのう",
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "trí thông minh"
+    },
+    {
+      "word": "有能",
+      "reading": "ゆうのう",
+      "meaning": "có khả năng"
+    },
+    {
+      "word": "性能",
+      "reading": "せいのう",
+      "meaning": "tính năng"
+    },
+    {
+      "word": "芸能",
+      "reading": "げいのう",
+      "meaning": "nghệ thuật"
+    },
+    {
+      "word": "能率",
+      "reading": "のうりつ",
       "meaning": "hiệu quả"
     },
     {
-      "word": "能所",
-      "reading": "のうじょ",
-      "meaning": "bằng chứng / dấu hiệu hiển thị chính hành vi đó chẳng hạn như một hành vi phạm tội"
-    },
-    {
-      "word": "能管",
-      "reading": "のうかん",
-      "meaning": "sáo noh"
-    },
-    {
-      "word": "能う",
-      "reading": "よう",
-      "meaning": "có thể"
-    },
-    {
-      "word": "薪能",
-      "reading": "たきぎのう",
-      "meaning": "nhà hát được biểu diễn vào ban đêm bên đống lửa"
+      "word": "本能",
+      "reading": "ほんのう",
+      "meaning": "bản năng"
     }
   ]
 }

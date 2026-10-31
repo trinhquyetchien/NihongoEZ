@@ -76,9 +76,19 @@
       "meaning": "cạnh"
     },
     {
+      "word": "岩稜",
+      "reading": "がんりょう",
+      "meaning": "dãy núi đá"
+    },
+    {
       "word": "稜線",
       "reading": "りょうせん",
       "meaning": "đường đỉnh đồi núi"
+    },
+    {
+      "word": "五稜郭",
+      "reading": "ごりょうかく",
+      "meaning": "công sự năm mặt"
     },
     {
       "word": "山稜",
@@ -86,9 +96,9 @@
       "meaning": "dãy núi"
     },
     {
-      "word": "岩稜",
-      "reading": "がんりょう",
-      "meaning": "dãy núi đá"
+      "word": "五稜堡",
+      "reading": "ごりょうほ",
+      "meaning": "pháo đài 5 cạnh"
     },
     {
       "word": "稜角",
@@ -99,16 +109,6 @@
       "word": "三稜鏡",
       "reading": "さんりょうきょう",
       "meaning": "lăng trụ"
-    },
-    {
-      "word": "五稜堡",
-      "reading": "ごりょうほ",
-      "meaning": "pháo đài 5 cạnh"
-    },
-    {
-      "word": "五稜郭",
-      "reading": "ごりょうかく",
-      "meaning": "công sự năm mặt"
     },
     {
       "word": "気骨稜々",

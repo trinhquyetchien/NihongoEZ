@@ -91,39 +91,29 @@
   ],
   "vocabulary": [
     {
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "sở nguyện"
+    },
+    {
+      "word": "希望的",
+      "reading": "きぼうてき",
+      "meaning": "thèm muốn ao ước"
+    },
+    {
+      "word": "希望者",
+      "reading": "きぼうしゃ",
+      "meaning": "người quan tâm làm cái gì đó"
+    },
+    {
       "word": "希",
       "reading": "まれ",
       "meaning": "hiếm có"
     },
     {
-      "word": "希ガス",
-      "reading": "きガス",
-      "meaning": "khí hiếm"
-    },
-    {
-      "word": "希求",
-      "reading": "ききゅう",
-      "meaning": "sự mong mỏi"
-    },
-    {
-      "word": "希釈",
-      "reading": "きしゃく",
-      "meaning": "sự làm loãng"
-    },
-    {
-      "word": "希世",
-      "reading": "きせい",
-      "meaning": "hiếm có"
-    },
-    {
-      "word": "希図",
-      "reading": "きと",
-      "meaning": "kế hoạch đầy hy vọng"
-    },
-    {
-      "word": "古希",
-      "reading": "こき",
-      "meaning": "tuổi bảy mươi"
+      "word": "中希",
+      "reading": "ちゅうき",
+      "meaning": "lệch màu vải"
     },
     {
       "word": "希土",
@@ -131,14 +121,24 @@
       "meaning": "<hóa> đất hiếm"
     },
     {
-      "word": "希有",
-      "reading": "けう",
-      "meaning": "hiếm có"
+      "word": "希ガス",
+      "reading": "きガス",
+      "meaning": "khí hiếm"
     },
     {
-      "word": "希代",
-      "reading": "きたい",
-      "meaning": "sự hiếm có"
+      "word": "類い希",
+      "reading": "たぐいまれ",
+      "meaning": "duy nhất"
+    },
+    {
+      "word": "希図",
+      "reading": "きと",
+      "meaning": "kế hoạch đầy hy vọng"
+    },
+    {
+      "word": "希酸",
+      "reading": "きさん",
+      "meaning": "axit loãng"
     }
   ]
 }

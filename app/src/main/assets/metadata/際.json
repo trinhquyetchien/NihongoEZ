@@ -107,21 +107,6 @@
   ],
   "vocabulary": [
     {
-      "word": "際",
-      "reading": "さい",
-      "meaning": "dịp này"
-    },
-    {
-      "word": "今際の際",
-      "reading": "いまわのきわ",
-      "meaning": "lúc lâm chung"
-    },
-    {
-      "word": "交際",
-      "reading": "こうさい",
-      "meaning": "mối quan hệ"
-    },
-    {
       "word": "国際",
       "reading": "こくさい",
       "meaning": "quốc tế"
@@ -132,29 +117,44 @@
       "meaning": "sự thực"
     },
     {
+      "word": "際",
+      "reading": "さい",
+      "meaning": "dịp này"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "mối quan hệ"
+    },
+    {
+      "word": "手際",
+      "reading": "てぎわ",
+      "meaning": "phương pháp"
+    },
+    {
+      "word": "実際に",
+      "reading": "じっさいに",
+      "meaning": "thật là"
+    },
+    {
       "word": "際に",
       "reading": "さいに",
       "meaning": "trong trường hợp"
     },
     {
-      "word": "際限",
-      "reading": "さいげん",
-      "meaning": "giới hạn"
+      "word": "際する",
+      "reading": "さいする",
+      "meaning": "đến"
     },
     {
-      "word": "際物",
-      "reading": "きわもの",
-      "meaning": "tạm thời"
+      "word": "出際",
+      "reading": "でぎわ",
+      "meaning": "khi định ra ngoài"
     },
     {
-      "word": "天際",
-      "reading": "てんさい",
-      "meaning": "chân trời"
-    },
-    {
-      "word": "一際",
-      "reading": "ひときわ",
-      "meaning": "đáng chú ý"
+      "word": "国際人",
+      "reading": "こくさいじん",
+      "meaning": "chủ nghĩa thế giới"
     }
   ]
 }

@@ -87,14 +87,39 @@
   ],
   "vocabulary": [
     {
+      "word": "泥棒",
+      "reading": "どろぼう",
+      "meaning": "kẻ trộm"
+    },
+    {
       "word": "棒",
       "reading": "ぼう",
       "meaning": "gậy"
     },
     {
-      "word": "後棒",
-      "reading": "あとぼう",
-      "meaning": "người khiêng phần sau của cáng"
+      "word": "金棒",
+      "reading": "かなぼう",
+      "meaning": "thanh kim loại"
+    },
+    {
+      "word": "点棒",
+      "reading": "てんぼう",
+      "meaning": "que điểm"
+    },
+    {
+      "word": "曲棒",
+      "reading": "きょくぼう",
+      "meaning": "dụng cụ uốn cong"
+    },
+    {
+      "word": "棒線",
+      "reading": "ぼうせん",
+      "meaning": "đường gạch ngang"
+    },
+    {
+      "word": "木棒",
+      "reading": "きぼう",
+      "meaning": "cây gậy bằng gỗ"
     },
     {
       "word": "肉棒",
@@ -102,39 +127,14 @@
       "meaning": "dick"
     },
     {
-      "word": "警棒",
-      "reading": "けいぼう",
-      "meaning": "gậy"
+      "word": "赤棒",
+      "reading": "あかぼう",
+      "meaning": "miếng chà màu đỏ"
     },
     {
-      "word": "心棒",
-      "reading": "しんぼう",
-      "meaning": "trục xe càng xe"
-    },
-    {
-      "word": "マッチ棒",
-      "reading": "マッチぼう",
-      "meaning": "que diêm"
-    },
-    {
-      "word": "泥棒",
-      "reading": "どろぼう",
-      "meaning": "kẻ trộm"
-    },
-    {
-      "word": "横棒",
-      "reading": "よこぼう",
-      "meaning": "xà ngang"
-    },
-    {
-      "word": "片棒",
-      "reading": "かたぼう",
-      "meaning": "đối tác"
-    },
-    {
-      "word": "棒鱈",
-      "reading": "ぼうだら",
-      "meaning": "cá tuyết khô ngâm trong nước vài ngày"
+      "word": "丸棒",
+      "reading": "まるぼう",
+      "meaning": "thanh tròn"
     }
   ]
 }

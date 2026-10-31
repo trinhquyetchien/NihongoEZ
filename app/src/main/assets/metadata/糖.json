@@ -87,44 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "糖",
-      "reading": "とう",
-      "meaning": "đường"
-    },
-    {
-      "word": "果糖ぶどう糖液糖",
-      "reading": "かとうぶどうとうえきとう",
-      "meaning": "xi-rô fructose-glucose"
-    },
-    {
-      "word": "単糖",
-      "reading": "たんとう",
-      "meaning": "monosaccharide hay đường đơn"
-    },
-    {
-      "word": "糖鎖",
-      "reading": "とうさ",
-      "meaning": "các hợp chất bao gồm một số lượng lớn các monosacarit liên kết glycosid"
-    },
-    {
-      "word": "糖ペプチド",
-      "reading": "とうペプチド",
-      "meaning": "nhóm kháng sinh glycopeptides"
-    },
-    {
-      "word": "血糖",
-      "reading": "けっとう",
-      "meaning": "đường trong máu"
-    },
-    {
       "word": "砂糖",
       "reading": "さとう",
       "meaning": "đường"
     },
     {
-      "word": "糖菓",
-      "reading": "とうか",
-      "meaning": "bánh trái"
+      "word": "糖",
+      "reading": "とう",
+      "meaning": "đường"
     },
     {
       "word": "二糖",
@@ -132,9 +102,39 @@
       "meaning": "đường đôi"
     },
     {
-      "word": "微糖",
-      "reading": "びとう",
+      "word": "車糖",
+      "reading": "くるまとう",
+      "meaning": "đường tinh luyện"
+    },
+    {
+      "word": "無糖",
+      "reading": "むとう",
+      "meaning": "không có đường"
+    },
+    {
+      "word": "木糖",
+      "reading": "もくとう",
+      "meaning": "loại đường pentose"
+    },
+    {
+      "word": "低糖",
+      "reading": "ていとう",
       "meaning": "ít đường"
+    },
+    {
+      "word": "糖質",
+      "reading": "とうしつ",
+      "meaning": "tính chất đường"
+    },
+    {
+      "word": "糖乳",
+      "reading": "とうにゅう",
+      "meaning": "sữa có đường"
+    },
+    {
+      "word": "原糖",
+      "reading": "げんとう",
+      "meaning": "đường thô"
     }
   ]
 }

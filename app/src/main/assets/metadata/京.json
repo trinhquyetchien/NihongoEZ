@@ -91,34 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "京",
-      "reading": "きょう",
-      "meaning": "mười triệu tỷ"
-    },
-    {
-      "word": "京戸",
-      "reading": "きょうこ",
-      "meaning": "京内に住む民衆"
-    },
-    {
-      "word": "京大",
-      "reading": "きょうだい",
-      "meaning": "trường đại học kyoto"
-    },
-    {
-      "word": "京成",
-      "reading": "けいせい",
-      "meaning": "huấn luyện hàng tokyo - narita"
-    },
-    {
-      "word": "来京",
-      "reading": "らいきょう",
-      "meaning": "đến kyoto"
-    },
-    {
-      "word": "京菜",
-      "reading": "きょうな",
-      "meaning": "cải đuôi phụng"
+      "word": "上京",
+      "reading": "じょうきょう",
+      "meaning": "việc đi tới tokyo"
     },
     {
       "word": "帰京",
@@ -126,19 +101,44 @@
       "meaning": "sự trở về thủ đô"
     },
     {
-      "word": "京劇",
-      "reading": "きょうげき",
-      "meaning": "ô-pe-ra tiếng trung hoa cổ điển"
+      "word": "東京",
+      "reading": "とうきょう",
+      "meaning": "tokyo nhật bản)"
     },
     {
-      "word": "京浜",
-      "reading": "けいひん",
-      "meaning": "tokyo và yokohama"
+      "word": "京都",
+      "reading": "きょうと",
+      "meaning": "thành phố kyoto"
     },
     {
-      "word": "中京",
-      "reading": "ちゅうきょう",
-      "meaning": "nagoya và bao quanh"
+      "word": "京",
+      "reading": "きょう",
+      "meaning": "mười triệu tỷ"
+    },
+    {
+      "word": "京人",
+      "reading": "けいじん",
+      "meaning": "công dân của thủ đô"
+    },
+    {
+      "word": "京方",
+      "reading": "きょうがた",
+      "meaning": "phương hướng vùng kyoto"
+    },
+    {
+      "word": "出京",
+      "reading": "しゅっきょう",
+      "meaning": "việc rời quê lên thành phố"
+    },
+    {
+      "word": "来京",
+      "reading": "らいきょう",
+      "meaning": "đến kyoto"
+    },
+    {
+      "word": "京物",
+      "reading": "きょうもの",
+      "meaning": "những sản phẩm của kyoto"
     }
   ]
 }

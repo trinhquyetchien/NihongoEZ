@@ -89,19 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "普遍",
+      "reading": "ふへん",
+      "meaning": "bất biến"
+    },
+    {
+      "word": "普遍的",
+      "reading": "ふへんてき",
+      "meaning": "phổ biến"
+    },
+    {
+      "word": "普遍性",
+      "reading": "ふへんせい",
+      "meaning": "tính phổ biến"
+    },
+    {
+      "word": "普遍化",
+      "reading": "ふへんか",
+      "meaning": "sự phổ cập"
+    },
+    {
       "word": "遍",
       "reading": "へん",
       "meaning": "số lần"
-    },
-    {
-      "word": "遍羅",
-      "reading": "べら",
-      "meaning": "cá bàng chài"
-    },
-    {
-      "word": "遍照",
-      "reading": "へんじょう",
-      "meaning": "chiếu sáng phổ quát"
     },
     {
       "word": "何遍",
@@ -109,34 +119,24 @@
       "meaning": "bao nhiêu lần"
     },
     {
-      "word": "遍歴",
-      "reading": "へんれき",
-      "meaning": "sự đi khắp nơi"
-    },
-    {
-      "word": "遍在",
-      "reading": "へんざい",
-      "meaning": "sự có mặt ở khắp mọi nơi"
-    },
-    {
-      "word": "普遍",
-      "reading": "ふへん",
-      "meaning": "bất biến"
-    },
-    {
-      "word": "遍路",
-      "reading": "へんろ",
-      "meaning": "người hành hương"
-    },
-    {
-      "word": "一遍",
-      "reading": "いっぺん",
-      "meaning": "một lần"
+      "word": "何遍も",
+      "reading": "なんべんも",
+      "meaning": "lặp đi lặp lại nhiều lần"
     },
     {
       "word": "天遍",
       "reading": "てんぺん",
       "meaning": "tai họa tự nhiên"
+    },
+    {
+      "word": "百万遍",
+      "reading": "ひゃくまんべん",
+      "meaning": "triệu lần"
+    },
+    {
+      "word": "遍歴",
+      "reading": "へんれき",
+      "meaning": "sự đi khắp nơi"
     }
   ]
 }

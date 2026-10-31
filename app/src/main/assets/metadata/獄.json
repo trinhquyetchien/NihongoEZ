@@ -87,19 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "獄",
-      "reading": "ごく",
-      "meaning": "jail"
+      "word": "地獄",
+      "reading": "じごく",
+      "meaning": "địa ngục"
     },
     {
-      "word": "出獄",
-      "reading": "しゅつごく",
-      "meaning": "sự thả"
+      "word": "地獄道",
+      "reading": "じごくどう",
+      "meaning": "địa ngục"
     },
     {
-      "word": "獄舎",
-      "reading": "ごくしゃ",
-      "meaning": "nhà tù"
+      "word": "地獄絵",
+      "reading": "じごくえ",
+      "meaning": "hình ảnh địa ngục"
+    },
+    {
+      "word": "監獄",
+      "reading": "かんごく",
+      "meaning": "nhà giam"
     },
     {
       "word": "脱獄",
@@ -107,34 +112,29 @@
       "meaning": "sự vượt ngục"
     },
     {
-      "word": "獄囚",
-      "reading": "ごくしゅう",
-      "meaning": "tù nhân"
+      "word": "脱獄犯",
+      "reading": "だつごくはん",
+      "meaning": "tù nhân vượt ngục"
+    },
+    {
+      "word": "投獄",
+      "reading": "とうごく",
+      "meaning": "sự bỏ tù"
+    },
+    {
+      "word": "獄",
+      "reading": "ごく",
+      "meaning": "jail"
+    },
+    {
+      "word": "獄所",
+      "reading": "ごくしょ",
+      "meaning": "prison"
     },
     {
       "word": "刑獄",
       "reading": "けいごく",
       "meaning": "nhà tù"
-    },
-    {
-      "word": "獄衣",
-      "reading": "ごくい",
-      "meaning": "đồng phục tù nhân"
-    },
-    {
-      "word": "獄死",
-      "reading": "ごくし",
-      "meaning": "sự chết trong tù"
-    },
-    {
-      "word": "獄吏",
-      "reading": "ごくり",
-      "meaning": "cai ngục"
-    },
-    {
-      "word": "獄中",
-      "reading": "ごくちゅう",
-      "meaning": "trong nhà tù"
     }
   ]
 }

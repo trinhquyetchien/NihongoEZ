@@ -113,39 +113,14 @@
       "meaning": "ngón"
     },
     {
-      "word": "人指し指",
-      "reading": "ひとさしゆび",
-      "meaning": "ngón tay trỏ"
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "nhẫn"
     },
     {
-      "word": "後ろ指を指す",
-      "reading": "うしろゆびをさす",
-      "meaning": "chỉ trích sau lưng"
-    },
-    {
-      "word": "指標付き色指定",
-      "reading": "しひょうつきいろしてい",
-      "meaning": "màu có chỉ số xác định"
-    },
-    {
-      "word": "指名",
-      "reading": "しめい",
-      "meaning": "sự chỉ tên"
-    },
-    {
-      "word": "指揮",
-      "reading": "しき",
-      "meaning": "chỉ huy"
-    },
-    {
-      "word": "目指",
-      "reading": "めざし",
-      "meaning": "tập trung vào"
-    },
-    {
-      "word": "親指",
-      "reading": "おやゆび",
-      "meaning": "ngón cái"
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "hướng dẫn"
     },
     {
       "word": "指す",
@@ -153,9 +128,34 @@
       "meaning": "dâng lên"
     },
     {
-      "word": "指輪",
-      "reading": "ゆびわ",
-      "meaning": "nhẫn"
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "chỉ định"
+    },
+    {
+      "word": "物指",
+      "reading": "ものさし",
+      "meaning": "cái thước đo"
+    },
+    {
+      "word": "親指",
+      "reading": "おやゆび",
+      "meaning": "ngón cái"
+    },
+    {
+      "word": "中指",
+      "reading": "なかゆび",
+      "meaning": "ngón giữa"
+    },
+    {
+      "word": "小指",
+      "reading": "こゆび",
+      "meaning": "ngón tay út"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "meaning": "ngón áp út"
     }
   ]
 }

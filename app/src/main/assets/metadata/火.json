@@ -96,16 +96,6 @@
       "meaning": "lửa"
     },
     {
-      "word": "火偏",
-      "reading": "ひへん",
-      "meaning": "bộ \"hòa\""
-    },
-    {
-      "word": "列火",
-      "reading": "れっか",
-      "meaning": "bộ thủ hỏa 火 ở vị trí phía dưới trong các chữ như liệttiêu"
-    },
-    {
       "word": "火曜",
       "reading": "かよう",
       "meaning": "thứ ba"
@@ -116,21 +106,6 @@
       "meaning": "pháo bông"
     },
     {
-      "word": "火遁",
-      "reading": "かとん",
-      "meaning": "quả cầu lửa"
-    },
-    {
-      "word": "火燵",
-      "reading": "こたつ",
-      "meaning": "lò sưởi"
-    },
-    {
-      "word": "火船",
-      "reading": "かせん",
-      "meaning": "thuyền lửa"
-    },
-    {
       "word": "噴火",
       "reading": "ふんか",
       "meaning": "sự phun lửa"
@@ -139,6 +114,31 @@
       "word": "火星",
       "reading": "かせい",
       "meaning": "hỏa thinh"
+    },
+    {
+      "word": "点火",
+      "reading": "てんか",
+      "meaning": "bộ phận đánh lửa trong động cơ"
+    },
+    {
+      "word": "月火",
+      "reading": "げつか",
+      "meaning": "thứ 2 và thứ 3"
+    },
+    {
+      "word": "火車",
+      "reading": "かしゃ",
+      "meaning": "cỗ xe lửa"
+    },
+    {
+      "word": "火先",
+      "reading": "ひさき",
+      "meaning": "ngọn lửa"
+    },
+    {
+      "word": "火光",
+      "reading": "かこう",
+      "meaning": "ánh lửa"
     }
   ]
 }

@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "拠る",
-      "reading": "よる",
-      "meaning": "bởi vì"
-    },
-    {
-      "word": "拠点",
-      "reading": "きょてん",
-      "meaning": "cứ điểm"
+      "word": "証拠",
+      "reading": "しょうこ",
+      "meaning": "bằng cớ"
     },
     {
       "word": "根拠",
@@ -105,39 +100,44 @@
       "meaning": "căn cứ"
     },
     {
-      "word": "拠出",
-      "reading": "きょしゅつ",
-      "meaning": "tài trợ"
+      "word": "証拠金",
+      "reading": "しょうこきん",
+      "meaning": "tiền đặt cọc"
     },
     {
-      "word": "拠金",
-      "reading": "きょきん",
-      "meaning": "tiền quyên góp"
+      "word": "証拠物",
+      "reading": "しょうこぶつ",
+      "meaning": "vật chứng"
     },
     {
-      "word": "典拠",
-      "reading": "てんきょ",
-      "meaning": "bài luận"
+      "word": "証拠品",
+      "reading": "しょうこひん",
+      "meaning": "bằng chứng"
     },
     {
-      "word": "割拠",
-      "reading": "かっきょ",
-      "meaning": "sự cát cứ"
+      "word": "拠点",
+      "reading": "きょてん",
+      "meaning": "cứ điểm"
+    },
+    {
+      "word": "無根拠",
+      "reading": "むこんきょ",
+      "meaning": "không có cơ sở"
+    },
+    {
+      "word": "占拠",
+      "reading": "せんきょ",
+      "meaning": "chiếm lấy"
+    },
+    {
+      "word": "占拠地",
+      "reading": "せんきょち",
+      "meaning": "chiếm giữ lãnh thổ"
     },
     {
       "word": "準拠",
       "reading": "じゅんきょ",
       "meaning": "căn cứ"
-    },
-    {
-      "word": "拠守",
-      "reading": "きょしゅ",
-      "meaning": "sự phòng thủ"
-    },
-    {
-      "word": "原拠",
-      "reading": "げんきょ",
-      "meaning": "nền tảng"
     }
   ]
 }

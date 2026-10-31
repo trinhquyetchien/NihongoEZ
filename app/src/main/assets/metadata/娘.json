@@ -112,24 +112,34 @@
       "meaning": "con gái"
     },
     {
+      "word": "娘さん",
+      "reading": "むすめさん",
+      "meaning": "con gái"
+    },
+    {
+      "word": "町娘",
+      "reading": "まちむすめ",
+      "meaning": "cô gái thành phố"
+    },
+    {
+      "word": "中国娘",
+      "reading": "ちゅうごくじょう",
+      "meaning": "người con gái trung quốc"
+    },
+    {
+      "word": "まま娘",
+      "reading": "ままむすめ",
+      "meaning": "con ghẻ"
+    },
+    {
       "word": "娘娘",
       "reading": "ニャンニャン",
       "meaning": "nương nương"
     },
     {
-      "word": "小娘",
-      "reading": "こむすめ",
-      "meaning": "thiếu nữ"
-    },
-    {
-      "word": "娘核",
-      "reading": "じょうかく",
-      "meaning": "nhân con"
-    },
-    {
-      "word": "継娘",
-      "reading": "ままむすめ",
-      "meaning": "con gái riêng"
+      "word": "親娘",
+      "reading": "おやこ",
+      "meaning": "cha mẹ và con cái"
     },
     {
       "word": "娘役",
@@ -137,24 +147,14 @@
       "meaning": "vai diễn con gái"
     },
     {
-      "word": "愛娘",
-      "reading": "まなむすめ",
-      "meaning": "cô con gái yêu"
-    },
-    {
-      "word": "娘心",
-      "reading": "むすめごころ",
-      "meaning": "trái tim con gái"
+      "word": "娘の夫",
+      "reading": "むすめのおっと",
+      "meaning": "chàng rể"
     },
     {
       "word": "妹娘",
       "reading": "いもうとむすめ",
       "meaning": "con gái trẻ hơn"
-    },
-    {
-      "word": "生娘",
-      "reading": "きむすめ",
-      "meaning": "gái trinh"
     }
   ]
 }

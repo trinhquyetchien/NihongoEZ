@@ -90,29 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "久久",
-      "reading": "ひさびさ",
-      "meaning": "thời gian dài"
-    },
-    {
-      "word": "恒久",
-      "reading": "こうきゅう",
+      "word": "永久",
+      "reading": "えいきゅう",
       "meaning": "sự vĩnh cửu"
     },
     {
-      "word": "弥久",
-      "reading": "びきゅう",
-      "meaning": "trải dài trong cả một thời gian dài"
+      "word": "久しい",
+      "reading": "ひさしい",
+      "meaning": "đã lâu"
     },
     {
-      "word": "良久",
-      "reading": "りょうきゅう",
-      "meaning": "cho một tốt trong khi"
+      "word": "久々",
+      "reading": "ひさびさ",
+      "meaning": "thời gian lâu dài"
     },
     {
-      "word": "久安",
-      "reading": "きゅうあん",
-      "meaning": "kyūan"
+      "word": "永久に",
+      "reading": "えいきゅうに",
+      "meaning": "mãi mãi"
+    },
+    {
+      "word": "永久性",
+      "reading": "えいきゅうせい",
+      "meaning": "permanent"
     },
     {
       "word": "お久",
@@ -120,24 +120,24 @@
       "meaning": "lâu rồi không gặp"
     },
     {
+      "word": "耐久",
+      "reading": "たいきゅう",
+      "meaning": "sự chịu đựng"
+    },
+    {
+      "word": "耐久性",
+      "reading": "たいきゅうせい",
+      "meaning": "tính bền"
+    },
+    {
+      "word": "耐久力",
+      "reading": "たいきゅうりょく",
+      "meaning": "sức chịu đựng"
+    },
+    {
       "word": "建久",
       "reading": "けんきゅう",
       "meaning": "thời kenkyuu"
-    },
-    {
-      "word": "文久",
-      "reading": "ぶんきゅう",
-      "meaning": "thời bunkyuu"
-    },
-    {
-      "word": "承久",
-      "reading": "じょうきゅう",
-      "meaning": "joukyuu era"
-    },
-    {
-      "word": "延久",
-      "reading": "えんきゅう",
-      "meaning": "thời enkyuu"
     }
   ]
 }

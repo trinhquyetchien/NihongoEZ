@@ -55,14 +55,24 @@
       "meaning": "sự thở dài"
     },
     {
-      "word": "驚歎",
-      "reading": "きょうたん",
-      "meaning": "sự hâm mộ"
-    },
-    {
       "word": "歎き",
       "reading": "なげき",
       "meaning": "nỗi đau"
+    },
+    {
+      "word": "傷歎",
+      "reading": "しょうたん",
+      "meaning": "khóc trong sự đau"
+    },
+    {
+      "word": "歎じる",
+      "reading": "たんじる",
+      "meaning": "đau buồn"
+    },
+    {
+      "word": "驚歎",
+      "reading": "きょうたん",
+      "meaning": "sự hâm mộ"
     },
     {
       "word": "歎願",
@@ -88,16 +98,6 @@
       "word": "悲歎",
       "reading": "ひたん",
       "meaning": "buồn rầu"
-    },
-    {
-      "word": "長歎",
-      "reading": "ちょうたん",
-      "meaning": "sự thở dài"
-    },
-    {
-      "word": "嗟歎",
-      "reading": "さたん",
-      "meaning": "deploration"
     }
   ]
 }

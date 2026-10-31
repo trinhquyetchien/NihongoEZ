@@ -87,29 +87,9 @@
       "meaning": "sự tĩnh lặng"
     },
     {
-      "word": "逆凪",
-      "reading": "さかなぎ",
-      "meaning": "khoảng trống"
-    },
-    {
       "word": "夜凪",
       "reading": "よなぎ",
       "meaning": "sự êm đềm vào buổi tối"
-    },
-    {
-      "word": "朝凪",
-      "reading": "あさなぎ",
-      "meaning": "lúc lặng gió trên biển buổi sáng"
-    },
-    {
-      "word": "夕凪",
-      "reading": "ゆうなぎ",
-      "meaning": "buổi tối làm dịu đi"
-    },
-    {
-      "word": "凪ぐ",
-      "reading": "なぐ",
-      "meaning": "yếu dần"
     },
     {
       "word": "初凪",
@@ -117,9 +97,29 @@
       "meaning": "việc biển lặng sóng vào ngày mùng 1 tết"
     },
     {
+      "word": "逆凪",
+      "reading": "さかなぎ",
+      "meaning": "khoảng trống"
+    },
+    {
       "word": "凪相場",
       "reading": "なぎそーば",
       "meaning": "trạng thái khối lượng giao dịch thấp"
+    },
+    {
+      "word": "夕凪",
+      "reading": "ゆうなぎ",
+      "meaning": "buổi tối làm dịu đi"
+    },
+    {
+      "word": "朝凪",
+      "reading": "あさなぎ",
+      "meaning": "lúc lặng gió trên biển buổi sáng"
+    },
+    {
+      "word": "凪ぐ",
+      "reading": "なぐ",
+      "meaning": "yếu dần"
     }
   ]
 }

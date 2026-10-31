@@ -90,49 +90,49 @@
       "meaning": "cặn"
     },
     {
-      "word": "歯垢",
-      "reading": "しこう",
-      "meaning": "bựa răng"
-    },
-    {
-      "word": "恥垢",
-      "reading": "ちこう",
-      "meaning": "smegma"
-    },
-    {
-      "word": "無垢",
-      "reading": "むく",
-      "meaning": "độ thuần khiết"
-    },
-    {
-      "word": "手垢",
-      "reading": "てあか",
-      "meaning": "dấu tay bẩn"
-    },
-    {
-      "word": "湯垢",
-      "reading": "ゆあか",
-      "meaning": "cáu cặn nước"
-    },
-    {
-      "word": "垢離",
-      "reading": "こり",
-      "meaning": "lễ rửa tội"
-    },
-    {
       "word": "目垢",
       "reading": "めあか",
       "meaning": "dịch nhầy từ mắt"
     },
     {
-      "word": "水垢",
-      "reading": "みずあか",
-      "meaning": "cặn bã"
-    },
-    {
       "word": "頭垢",
       "reading": "ふけ",
       "meaning": "gàu"
+    },
+    {
+      "word": "耳垢",
+      "reading": "みみあか",
+      "meaning": "cứt ráy"
+    },
+    {
+      "word": "耳垢水",
+      "reading": "みみあかみず",
+      "meaning": "ráy tai chảy nước"
+    },
+    {
+      "word": "歯垢",
+      "reading": "しこう",
+      "meaning": "bựa răng"
+    },
+    {
+      "word": "サブ垢",
+      "reading": "サブアカ",
+      "meaning": "tài khoản phụ"
+    },
+    {
+      "word": "皮垢",
+      "reading": "かわあか",
+      "meaning": "miếng da khô"
+    },
+    {
+      "word": "爪の垢",
+      "reading": "つめのあか",
+      "meaning": "vết móng tay"
+    },
+    {
+      "word": "恥垢",
+      "reading": "ちこう",
+      "meaning": "smegma"
     }
   ]
 }

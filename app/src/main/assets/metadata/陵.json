@@ -86,29 +86,14 @@
   ],
   "vocabulary": [
     {
+      "word": "丘陵",
+      "reading": "きゅうりょう",
+      "meaning": "đồi núi"
+    },
+    {
       "word": "陵",
       "reading": "みささぎ",
       "meaning": "lăng mộ hoàng đế"
-    },
-    {
-      "word": "陵戸",
-      "reading": "りょうこ",
-      "meaning": "bảo vệ lăng mộ hoàng gia"
-    },
-    {
-      "word": "御陵",
-      "reading": "ごりょう",
-      "meaning": "lăng mộ của người thuộc hoàng gia hay quan chức"
-    },
-    {
-      "word": "皇陵",
-      "reading": "こうりょう",
-      "meaning": "lăng mộ của hoàng đế"
-    },
-    {
-      "word": "帝陵",
-      "reading": "ていりょう",
-      "meaning": "lăng tẩm hoàng đế"
     },
     {
       "word": "ご陵",
@@ -116,24 +101,39 @@
       "meaning": "lăng"
     },
     {
+      "word": "陵戸",
+      "reading": "りょうこ",
+      "meaning": "bảo vệ lăng mộ hoàng gia"
+    },
+    {
+      "word": "陵丘",
+      "reading": "りょうきゅう",
+      "meaning": "gò"
+    },
+    {
+      "word": "陵辱",
+      "reading": "りょうじょく",
+      "meaning": "sự xúc phạm"
+    },
+    {
+      "word": "帝陵",
+      "reading": "ていりょう",
+      "meaning": "lăng tẩm hoàng đế"
+    },
+    {
       "word": "岡陵",
       "reading": "こうりょう",
       "meaning": "ngọn đồi"
     },
     {
-      "word": "陵墓",
-      "reading": "りょうぼ",
-      "meaning": "lăng"
+      "word": "皇陵",
+      "reading": "こうりょう",
+      "meaning": "lăng mộ của hoàng đế"
     },
     {
-      "word": "山陵",
-      "reading": "さんりょう",
-      "meaning": "núi đồi"
-    },
-    {
-      "word": "丘陵",
-      "reading": "きゅうりょう",
-      "meaning": "đồi núi"
+      "word": "低丘陵",
+      "reading": "ていきゅうりょう",
+      "meaning": "những ngọn đồi thấp"
     }
   ]
 }

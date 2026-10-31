@@ -100,14 +100,9 @@
       "meaning": "nhắm vào"
     },
     {
-      "word": "狙撃",
-      "reading": "そげき",
-      "meaning": "bắn tỉa"
-    },
-    {
-      "word": "穴狙い",
-      "reading": "あなねらい",
-      "meaning": "đặt cược may mắn"
+      "word": "狙い目",
+      "reading": "ねらいめ",
+      "meaning": "cơ hội"
     },
     {
       "word": "狙い所",
@@ -115,14 +110,14 @@
       "meaning": "đích"
     },
     {
-      "word": "狙撃兵",
-      "reading": "そげきへい",
-      "meaning": "người bắn tỉa"
+      "word": "穴狙い",
+      "reading": "あなねらい",
+      "meaning": "đặt cược may mắn"
     },
     {
-      "word": "狙い目",
-      "reading": "ねらいめ",
-      "meaning": "cơ hội"
+      "word": "狙撃",
+      "reading": "そげき",
+      "meaning": "bắn tỉa"
     },
     {
       "word": "狙撃手",
@@ -135,9 +130,14 @@
       "meaning": "súng bắn tỉa"
     },
     {
-      "word": "ウケ狙い",
-      "reading": "うけねらい",
-      "meaning": "pha trò"
+      "word": "狙撃兵",
+      "reading": "そげきへい",
+      "meaning": "người bắn tỉa"
+    },
+    {
+      "word": "車上狙い",
+      "reading": "しゃじょうねらい",
+      "meaning": "sự lấy trộm đồ trong xe ô tô"
     }
   ]
 }

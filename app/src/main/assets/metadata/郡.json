@@ -90,16 +90,6 @@
       "meaning": "huyện"
     },
     {
-      "word": "郡部",
-      "reading": "ぐんぶ",
-      "meaning": "vùng nông thôn"
-    },
-    {
-      "word": "郡制",
-      "reading": "ぐんせい",
-      "meaning": "hệ thống lãnh địa"
-    },
-    {
       "word": "郡県",
       "reading": "ぐんけん",
       "meaning": "tỉnh và huyện"
@@ -110,9 +100,9 @@
       "meaning": "quận trưởng"
     },
     {
-      "word": "郡役所",
-      "reading": "ぐんやくしょ",
-      "meaning": "những văn phòng lãnh địa"
+      "word": "郡制",
+      "reading": "ぐんせい",
+      "meaning": "hệ thống lãnh địa"
     },
     {
       "word": "郡内織",
@@ -120,14 +110,24 @@
       "meaning": "hàng dệt được sản xuất tại vùng gunnai của tỉnh yamanashi"
     },
     {
-      "word": "国郡里制",
-      "reading": "こくぐんりせい",
-      "meaning": "hệ thống quản lý đơn vị hành chính theo cấp quốc gia"
+      "word": "郡役所",
+      "reading": "ぐんやくしょ",
+      "meaning": "những văn phòng lãnh địa"
+    },
+    {
+      "word": "郡部",
+      "reading": "ぐんぶ",
+      "meaning": "vùng nông thôn"
     },
     {
       "word": "郡県制度",
       "reading": "ぐんけんせいど",
       "meaning": "chế độ quận huyện"
+    },
+    {
+      "word": "国郡里制",
+      "reading": "こくぐんりせい",
+      "meaning": "hệ thống quản lý đơn vị hành chính theo cấp quốc gia"
     },
     {
       "word": "郡保安官",

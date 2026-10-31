@@ -95,14 +95,39 @@
       "meaning": "sao quỷ"
     },
     {
-      "word": "鬼滅",
-      "reading": "きめつ",
-      "meaning": "diệt quỷ"
+      "word": "神鬼",
+      "reading": "しんき",
+      "meaning": "quỷ thần"
     },
     {
-      "word": "鬼札",
-      "reading": "おにふだ",
-      "meaning": "lá bài quỷ"
+      "word": "鬼す",
+      "reading": "おにす",
+      "meaning": "cuộn"
+    },
+    {
+      "word": "色鬼",
+      "reading": "しきき",
+      "meaning": "trò chơi thẻ màu"
+    },
+    {
+      "word": "小鬼",
+      "reading": "こおに",
+      "meaning": "yêu tinh"
+    },
+    {
+      "word": "鬼星",
+      "reading": "おにぼし",
+      "meaning": "sao quỷ"
+    },
+    {
+      "word": "赤鬼",
+      "reading": "あかおに",
+      "meaning": "quỷ đỏ"
+    },
+    {
+      "word": "青鬼",
+      "reading": "あおおに",
+      "meaning": "quỷ xanh"
     },
     {
       "word": "剣鬼",
@@ -110,34 +135,9 @@
       "meaning": "người múa kiếm quái quỷ"
     },
     {
-      "word": "鬼女",
-      "reading": "きじょ",
-      "meaning": "nữ quỷ"
-    },
-    {
-      "word": "鬼頭",
-      "reading": "おにがしら",
-      "meaning": "tua trang trí treo đầu cờ"
-    },
-    {
-      "word": "鬼繞",
-      "reading": "きにょう",
-      "meaning": "bộ quỷ"
-    },
-    {
-      "word": "鬼宿",
-      "reading": "きしゅく",
-      "meaning": "sao quỷ"
-    },
-    {
-      "word": "鬼魣",
-      "reading": "おにかます",
-      "meaning": "cá nhồng lớn"
-    },
-    {
-      "word": "餓鬼",
-      "reading": "がき",
-      "meaning": "đứa trẻ hỗn xược"
+      "word": "鬼板",
+      "reading": "おにいた",
+      "meaning": "tấm ván gỗ được lợp ở đầu mái nhà"
     }
   ]
 }

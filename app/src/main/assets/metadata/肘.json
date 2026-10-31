@@ -88,34 +88,9 @@
       "meaning": "khuỷu"
     },
     {
-      "word": "テニス肘",
-      "reading": "テニスひじ",
-      "meaning": "sự sưng và đau khủyu tay"
-    },
-    {
-      "word": "肘鉄",
-      "reading": "ひじてつ",
-      "meaning": "từ chối dứt khoát"
-    },
-    {
-      "word": "肩肘",
-      "reading": "かたひじ",
-      "meaning": "khuỷu vai"
-    },
-    {
-      "word": "肘枕",
-      "reading": "ひじまくら",
-      "meaning": "sự lấy tay gối đầu"
-    },
-    {
-      "word": "肘掛",
-      "reading": "ひじかけ",
-      "meaning": "nơi cất vũ khí"
-    },
-    {
-      "word": "掣肘",
-      "reading": "せいちゅう",
-      "meaning": "sự kiềm chế"
+      "word": "肘用",
+      "reading": "ひじよう",
+      "meaning": "dành cho khuỷu tay"
     },
     {
       "word": "両肘",
@@ -123,14 +98,39 @@
       "meaning": "hai khuỷu tay"
     },
     {
-      "word": "肘木",
-      "reading": "ひじき",
-      "meaning": "vật liệu ngang hình shiraku tạo thành một hình tượng trưng trong việc xây dựng đền thờ"
+      "word": "肘当て",
+      "reading": "ひじあて",
+      "meaning": "đòn đánh chỏ"
     },
     {
-      "word": "肘用",
-      "reading": "ひじよう",
-      "meaning": "dành cho khuỷu tay"
+      "word": "肘打ち",
+      "reading": "ひじうち",
+      "meaning": "đòn củi chỏ"
+    },
+    {
+      "word": "肘関節",
+      "reading": "ちゅうかんせつ",
+      "meaning": "khớp khủy tay"
+    },
+    {
+      "word": "肘掛け",
+      "reading": "ひじかけ",
+      "meaning": "tay vịn ghế"
+    },
+    {
+      "word": "肩肘",
+      "reading": "かたひじ",
+      "meaning": "khuỷu vai"
+    },
+    {
+      "word": "肘掛",
+      "reading": "ひじかけ",
+      "meaning": "nơi cất vũ khí"
+    },
+    {
+      "word": "肘鉄",
+      "reading": "ひじてつ",
+      "meaning": "từ chối dứt khoát"
     }
   ]
 }

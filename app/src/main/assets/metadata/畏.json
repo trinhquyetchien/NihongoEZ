@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "畏",
-      "reading": "かしこ",
-      "meaning": "cách kết thư lịch sự"
+      "word": "畏怖",
+      "reading": "いふ",
+      "meaning": "sợ hãi"
     },
     {
       "word": "畏敬",
@@ -100,34 +100,9 @@
       "meaning": "sự tôn kính"
     },
     {
-      "word": "畏懼",
-      "reading": "いく",
-      "meaning": "sự kinh hãi"
-    },
-    {
-      "word": "畏縮",
-      "reading": "いしゅく",
-      "meaning": "co rúm lại"
-    },
-    {
-      "word": "畏友",
-      "reading": "いゆう",
-      "meaning": "người bạn kính mến"
-    },
-    {
-      "word": "畏服",
-      "reading": "いふく",
-      "meaning": "sự kính nể"
-    },
-    {
-      "word": "畏怖",
-      "reading": "いふ",
-      "meaning": "sợ hãi"
-    },
-    {
-      "word": "畏まる",
-      "reading": "かしこまる",
-      "meaning": "tuân theo với vẻ kính trọng"
+      "word": "畏",
+      "reading": "かしこ",
+      "meaning": "cách kết thư lịch sự"
     },
     {
       "word": "畏れる",
@@ -135,9 +110,34 @@
       "meaning": "sợ hãi"
     },
     {
+      "word": "畏懼",
+      "reading": "いく",
+      "meaning": "sự kinh hãi"
+    },
+    {
+      "word": "畏友",
+      "reading": "いゆう",
+      "meaning": "người bạn kính mến"
+    },
+    {
       "word": "畏くも",
       "reading": "かしこくも",
       "meaning": "hoà nhã"
+    },
+    {
+      "word": "畏縮",
+      "reading": "いしゅく",
+      "meaning": "co rúm lại"
+    },
+    {
+      "word": "畏服",
+      "reading": "いふく",
+      "meaning": "sự kính nể"
+    },
+    {
+      "word": "畏まる",
+      "reading": "かしこまる",
+      "meaning": "tuân theo với vẻ kính trọng"
     }
   ]
 }

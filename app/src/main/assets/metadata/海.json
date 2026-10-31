@@ -94,29 +94,34 @@
       "meaning": "bể"
     },
     {
-      "word": "バナメイ海老",
-      "reading": "バナメイえび",
-      "meaning": "tôm thẻ chân trắng"
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "hải ngoại"
     },
     {
-      "word": "海原",
-      "reading": "うなばら",
-      "meaning": "đại dương"
+      "word": "航海",
+      "reading": "こうかい",
+      "meaning": "chuyến đi bằng tàu thủy"
     },
     {
-      "word": "海幸",
-      "reading": "うみさち",
-      "meaning": "những sản phẩm biển"
+      "word": "海峡",
+      "reading": "かいきょう",
+      "meaning": "eo biển"
     },
     {
-      "word": "海老",
-      "reading": "えび",
-      "meaning": "con tôm"
+      "word": "海口",
+      "reading": "かいこう",
+      "meaning": "hải khẩu"
     },
     {
-      "word": "海湾",
-      "reading": "かいわん",
-      "meaning": "vịnh"
+      "word": "海地",
+      "reading": "ハイチ",
+      "meaning": "nước haiti"
+    },
+    {
+      "word": "海パン",
+      "reading": "かいパン",
+      "meaning": "quần bơi"
     },
     {
       "word": "海総",
@@ -124,19 +129,14 @@
       "meaning": "rong biển"
     },
     {
-      "word": "海禁",
-      "reading": "かいきん",
-      "meaning": "chính sách hải cấm"
+      "word": "海塩",
+      "reading": "かいえん",
+      "meaning": "muối biển"
     },
     {
-      "word": "海南",
-      "reading": "かいなん",
-      "meaning": "vùng biển phía nam"
-    },
-    {
-      "word": "海口",
-      "reading": "かいこう",
-      "meaning": "hải khẩu"
+      "word": "海自",
+      "reading": "かいじ",
+      "meaning": "lực lượng tuần tra biển của nhật bản"
     }
   ]
 }

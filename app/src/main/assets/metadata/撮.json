@@ -91,14 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "撮む",
-      "reading": "つまむ",
-      "meaning": "véo"
-    },
-    {
       "word": "撮る",
       "reading": "とる",
       "meaning": "chụp"
+    },
+    {
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning": "sự chụp ảnh"
+    },
+    {
+      "word": "撮影者",
+      "reading": "さつえいしゃ",
+      "meaning": "thợ chụp ảnh"
+    },
+    {
+      "word": "撮影会",
+      "reading": "さつえいかい",
+      "meaning": "hội nhiếp ảnh"
+    },
+    {
+      "word": "撮影所",
+      "reading": "さつえいじょ",
+      "meaning": "xưởng phim"
+    },
+    {
+      "word": "撮影機",
+      "reading": "さつえいき",
+      "meaning": "máy chụp hình"
+    },
+    {
+      "word": "撮影隊",
+      "reading": "さつえいたい",
+      "meaning": "đoàn quay phim"
     },
     {
       "word": "撮り",
@@ -106,39 +131,14 @@
       "meaning": "việc chụp"
     },
     {
-      "word": "盗撮",
-      "reading": "とうさつ",
-      "meaning": "chụp trộm"
+      "word": "前撮り",
+      "reading": "まえどり",
+      "meaning": "việc chụp ảnh trước"
     },
     {
-      "word": "空撮",
-      "reading": "くうさつ",
-      "meaning": "quay phim từ trên không"
-    },
-    {
-      "word": "一撮",
-      "reading": "ひとつまみ",
-      "meaning": "một sự kềm kẹp cái gì đó)"
-    },
-    {
-      "word": "特撮",
-      "reading": "とくさつ",
-      "meaning": "những hiệu ứng đặc biệt"
-    },
-    {
-      "word": "撮要",
-      "reading": "さつよう",
-      "meaning": "sự phác thảo"
-    },
-    {
-      "word": "撮土",
-      "reading": "さつど",
-      "meaning": "vùng nhỏ"
-    },
-    {
-      "word": "撮影",
-      "reading": "さつえい",
-      "meaning": "sự chụp ảnh"
+      "word": "自撮り",
+      "reading": "じどり",
+      "meaning": "chụp ảnh hoặc quay video của chính mình"
     }
   ]
 }

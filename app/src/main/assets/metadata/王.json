@@ -110,19 +110,39 @@
       "meaning": "vua"
     },
     {
-      "word": "王偏",
-      "reading": "おうへん",
-      "meaning": "bộ thủ 王 ở bên trái"
-    },
-    {
-      "word": "王公",
-      "reading": "おうこう",
-      "meaning": "vua và những hoàng tử"
-    },
-    {
       "word": "女王",
       "reading": "じょおう",
       "meaning": "nữ hoàng"
+    },
+    {
+      "word": "国王",
+      "reading": "こくおう",
+      "meaning": "quốc vương"
+    },
+    {
+      "word": "王女",
+      "reading": "おうじょ",
+      "meaning": "công chúa"
+    },
+    {
+      "word": "前王",
+      "reading": "ぜんのう",
+      "meaning": "vị vua đời trước"
+    },
+    {
+      "word": "王物",
+      "reading": "おうもの",
+      "meaning": "vua"
+    },
+    {
+      "word": "敵王",
+      "reading": "てきおう",
+      "meaning": "vua đối phương"
+    },
+    {
+      "word": "王弟",
+      "reading": "おうてい",
+      "meaning": "hoàng huynh"
     },
     {
       "word": "王国",
@@ -130,29 +150,9 @@
       "meaning": "vương quốc"
     },
     {
-      "word": "王政",
-      "reading": "おうせい",
-      "meaning": "nền quân chủ"
-    },
-    {
-      "word": "王位",
-      "reading": "おうい",
-      "meaning": "ngai vàng"
-    },
-    {
-      "word": "天王",
-      "reading": "てんのう",
-      "meaning": "ngưu đầu thiên vương"
-    },
-    {
-      "word": "閻王",
-      "reading": "えんおう",
-      "meaning": "yama"
-    },
-    {
-      "word": "王統",
-      "reading": "おうとう",
-      "meaning": "dòng dõi hoàng gia"
+      "word": "教王",
+      "reading": "きょうおう",
+      "meaning": "giáo hoàng"
     }
   ]
 }

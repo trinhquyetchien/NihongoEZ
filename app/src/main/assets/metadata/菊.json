@@ -89,34 +89,24 @@
       "meaning": "cúc"
     },
     {
-      "word": "菊炭",
-      "reading": "きくずみ",
-      "meaning": "than hoa cúc"
+      "word": "菊見",
+      "reading": "きくみ",
+      "meaning": "ngắm hoa cúc"
     },
     {
-      "word": "菊酒",
-      "reading": "きくざけ",
-      "meaning": "rượu sake hoa cúc"
+      "word": "一菊",
+      "reading": "いっきく",
+      "meaning": "một bông hoa cúc"
     },
     {
-      "word": "春菊",
-      "reading": "しゅんぎく",
-      "meaning": "cây tần ô"
+      "word": "中菊",
+      "reading": "ちゅうぎく",
+      "meaning": "hoa cúc"
     },
     {
-      "word": "菊芋",
-      "reading": "きくいも",
-      "meaning": "cây cúc vu"
-    },
-    {
-      "word": "菊戴",
-      "reading": "きくいただき",
-      "meaning": "chim mào vàng"
-    },
-    {
-      "word": "菊菜",
-      "reading": "きくな",
-      "meaning": "rau cải cúc"
+      "word": "菊の花",
+      "reading": "きくのはな",
+      "meaning": "hoa cúc"
     },
     {
       "word": "夏菊",
@@ -124,14 +114,24 @@
       "meaning": "cây hoa cúc nở sớm vào mùa hè"
     },
     {
-      "word": "黄菊",
-      "reading": "きぎく",
-      "meaning": "cây hoa cúc vàng"
+      "word": "菊酒",
+      "reading": "きくざけ",
+      "meaning": "rượu sake hoa cúc"
     },
     {
-      "word": "白菊",
-      "reading": "しらぎく",
-      "meaning": "cây cúc trắng"
+      "word": "菊作り",
+      "reading": "きくづくり",
+      "meaning": "việc trồng hoa cúc"
+    },
+    {
+      "word": "料理菊",
+      "reading": "りょうりぎく",
+      "meaning": "hoa cúc dùng trong nấu ăn"
+    },
+    {
+      "word": "菊石",
+      "reading": "きくいし",
+      "meaning": "đá hoa cúc"
     }
   ]
 }

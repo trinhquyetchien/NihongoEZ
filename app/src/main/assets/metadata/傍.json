@@ -110,44 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "傍",
-      "reading": "そば",
-      "meaning": "bên cạnh"
-    },
-    {
       "word": "傍ら",
       "reading": "かたわら",
       "meaning": "bên cạnh"
     },
     {
-      "word": "近傍",
-      "reading": "きんぼう",
-      "meaning": "khu vực lân cận"
-    },
-    {
-      "word": "傍論",
-      "reading": "ぼうろん",
-      "meaning": "sự lạc đề"
-    },
-    {
-      "word": "傍目",
-      "reading": "おかめ",
-      "meaning": "góc nhìn của người ngoài cuộc"
-    },
-    {
-      "word": "傍耳",
-      "reading": "かたみみ",
-      "meaning": "điều nghe lỏm được"
-    },
-    {
-      "word": "傍人",
-      "reading": "ぼうじん",
-      "meaning": "người đứng ngoài xem"
-    },
-    {
-      "word": "傍視",
-      "reading": "わきみ",
-      "meaning": "nhìn từ cạnh"
+      "word": "傍",
+      "reading": "そば",
+      "meaning": "bên cạnh"
     },
     {
       "word": "傍見",
@@ -155,9 +125,39 @@
       "meaning": "sự nhìn từ bên ngoài"
     },
     {
-      "word": "傍系",
-      "reading": "ぼうけい",
-      "meaning": "bàng hệ"
+      "word": "傍心",
+      "reading": "ぼうしん",
+      "meaning": "bàng tâm"
+    },
+    {
+      "word": "道傍",
+      "reading": "どうぼう",
+      "meaning": "lề đường"
+    },
+    {
+      "word": "傍耳",
+      "reading": "かたみみ",
+      "meaning": "điều nghe lỏm được"
+    },
+    {
+      "word": "傍論",
+      "reading": "ぼうろん",
+      "meaning": "sự lạc đề"
+    },
+    {
+      "word": "傍視",
+      "reading": "わきみ",
+      "meaning": "nhìn từ cạnh"
+    },
+    {
+      "word": "傍軒",
+      "reading": "そばのき",
+      "meaning": "sà lan"
+    },
+    {
+      "word": "傍惚れ",
+      "reading": "おかぼれ",
+      "meaning": "tình yêu không được đền đáp"
     }
   ]
 }

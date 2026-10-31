@@ -56,29 +56,14 @@
       "meaning": "bồ tát"
     },
     {
-      "word": "菩提",
-      "reading": "ぼだい",
-      "meaning": "bồ đề"
-    },
-    {
-      "word": "仏菩薩",
-      "reading": "ぶつぼさつ",
-      "meaning": "chư phật và bồ tát"
-    },
-    {
       "word": "菩提寺",
       "reading": "ぼだいじ",
       "meaning": "một có miếu gia đình"
     },
     {
-      "word": "如菩薩",
-      "reading": "にょぼさつ",
-      "meaning": "giàu lòng thương"
-    },
-    {
-      "word": "菩提心",
-      "reading": "ぼだいしん",
-      "meaning": "tâm bồ đề"
+      "word": "菩提",
+      "reading": "ぼだい",
+      "meaning": "bồ đề"
     },
     {
       "word": "菩提樹",
@@ -86,19 +71,34 @@
       "meaning": "bồ đề"
     },
     {
-      "word": "勢至菩薩",
-      "reading": "せいしぼさつ",
-      "meaning": "bồ tát giám hộ"
+      "word": "菩提心",
+      "reading": "ぼだいしん",
+      "meaning": "tâm bồ đề"
     },
     {
-      "word": "文殊菩薩",
-      "reading": "もんじゅぼさつ",
-      "meaning": "văn thù bồ tát - vị bồ tát đại diện cho trí tuệ"
+      "word": "仏菩薩",
+      "reading": "ぶつぼさつ",
+      "meaning": "chư phật và bồ tát"
     },
     {
-      "word": "月光菩薩",
-      "reading": "がっこうぼさつ",
-      "meaning": "nguyệt quang bồ tát"
+      "word": "如菩薩",
+      "reading": "にょぼさつ",
+      "meaning": "giàu lòng thương"
+    },
+    {
+      "word": "薬王菩薩",
+      "reading": "やくおうぼさつ",
+      "meaning": "dược vương"
+    },
+    {
+      "word": "菩薩揚げ",
+      "reading": "ぼさあげ",
+      "meaning": "nghi lễ được thực hiện bởi các thương nhân trung quốc lên bờ ở nagasaki"
+    },
+    {
+      "word": "日光菩薩",
+      "reading": "にっこうぼさつ",
+      "meaning": "nhật quang bồ tát"
     }
   ]
 }

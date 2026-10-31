@@ -91,14 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "威",
-      "reading": "い",
-      "meaning": "quyền lực"
-    },
-    {
-      "word": "霊威",
-      "reading": "れいい",
-      "meaning": "sức mạnh bí ẩn"
+      "word": "威張る",
+      "reading": "いばる",
+      "meaning": "kiêu ngạo"
     },
     {
       "word": "権威",
@@ -106,39 +101,44 @@
       "meaning": "khí thế"
     },
     {
-      "word": "威圧",
-      "reading": "いあつ",
-      "meaning": "sự ép buộc"
+      "word": "威力",
+      "reading": "いりょく",
+      "meaning": "bề thế"
     },
     {
-      "word": "威厳",
-      "reading": "いげん",
-      "meaning": "oai nghiêm"
+      "word": "脅威",
+      "reading": "きょうい",
+      "meaning": "sự uy hiếp"
     },
     {
-      "word": "国威",
-      "reading": "こくい",
-      "meaning": "vinh quang quốc gia"
+      "word": "権威的",
+      "reading": "けんいてき",
+      "meaning": "người độc đoán"
     },
     {
-      "word": "示威",
-      "reading": "じい",
-      "meaning": "sự phô diễn"
+      "word": "権威者",
+      "reading": "けんいしゃ",
+      "meaning": "một uy quyền"
     },
     {
-      "word": "威迫",
-      "reading": "いはく",
-      "meaning": "sự hăm doạ"
+      "word": "権威筋",
+      "reading": "けんいすじ",
+      "meaning": "người có quyền uy"
     },
     {
-      "word": "帝威",
-      "reading": "ていい",
-      "meaning": "majesty đế quốc"
+      "word": "威嚇",
+      "reading": "いかく",
+      "meaning": "dọa dẫm"
     },
     {
-      "word": "天威",
-      "reading": "てんい",
-      "meaning": "quyền uy của vua"
+      "word": "威嚇的",
+      "reading": "いかくてき",
+      "meaning": "sự đe doạ"
+    },
+    {
+      "word": "威",
+      "reading": "い",
+      "meaning": "quyền lực"
     }
   ]
 }

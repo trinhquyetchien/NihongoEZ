@@ -84,54 +84,54 @@
   ],
   "vocabulary": [
     {
+      "word": "不倫",
+      "reading": "ふりん",
+      "meaning": "bất luân"
+    },
+    {
+      "word": "不倫罪",
+      "reading": "ふりんざい",
+      "meaning": "sự ngoại tình"
+    },
+    {
+      "word": "倫理",
+      "reading": "りんり",
+      "meaning": "đạo nghĩa"
+    },
+    {
+      "word": "倫理的",
+      "reading": "りんりてき",
+      "meaning": "đạo đức"
+    },
+    {
+      "word": "倫理性",
+      "reading": "りんりせい",
+      "meaning": "đức hạnh"
+    },
+    {
+      "word": "倫理観",
+      "reading": "りんりかん",
+      "meaning": "quan điểm về đạo đức"
+    },
+    {
+      "word": "倫理学",
+      "reading": "りんりがく",
+      "meaning": "luân lý học"
+    },
+    {
       "word": "倫",
       "reading": "りん",
       "meaning": "bạn"
     },
     {
-      "word": "人倫",
-      "reading": "じんりん",
-      "meaning": "đạo lý làm người"
-    },
-    {
-      "word": "絶倫",
-      "reading": "ぜつりん",
-      "meaning": "sự tuyệt luân"
-    },
-    {
-      "word": "倫敦",
-      "reading": "ロンドン",
-      "meaning": "london"
-    },
-    {
-      "word": "映倫",
-      "reading": "えいりん",
-      "meaning": "ra hiệu mã bức tranh ủy ban luân lý học"
-    },
-    {
-      "word": "乱倫",
-      "reading": "らんりん",
-      "meaning": "sự trái đạo đức"
-    },
-    {
-      "word": "比倫",
-      "reading": "ひりん",
-      "meaning": "nhìn chăm chú"
+      "word": "倫社",
+      "reading": "りんしゃ",
+      "meaning": "luân lý học và thị dân"
     },
     {
       "word": "破倫",
       "reading": "はりん",
       "meaning": "tội loạn luân"
-    },
-    {
-      "word": "五倫",
-      "reading": "ごりん",
-      "meaning": "ngũ luân"
-    },
-    {
-      "word": "不倫",
-      "reading": "ふりん",
-      "meaning": "bất luân"
     }
   ]
 }

@@ -52,9 +52,34 @@
   ],
   "vocabulary": [
     {
+      "word": "聯合",
+      "reading": "れんごう",
+      "meaning": "sự kết hợp"
+    },
+    {
       "word": "対聯",
       "reading": "ついれん",
       "meaning": "cặp câu"
+    },
+    {
+      "word": "聯隊",
+      "reading": "れんたい",
+      "meaning": "trung đoàn"
+    },
+    {
+      "word": "聯盟",
+      "reading": "れんめい",
+      "meaning": "liên hiệp"
+    },
+    {
+      "word": "聯想",
+      "reading": "れんそう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "聯邦",
+      "reading": "れんぽう",
+      "meaning": "sự liên minh"
     },
     {
       "word": "関聯",
@@ -72,34 +97,9 @@
       "meaning": "cờ ca rô"
     },
     {
-      "word": "聯想",
-      "reading": "れんそう",
-      "meaning": "sự kết hợp"
-    },
-    {
-      "word": "聯邦",
-      "reading": "れんぽう",
-      "meaning": "sự liên minh"
-    },
-    {
-      "word": "聯合",
-      "reading": "れんごう",
-      "meaning": "sự kết hợp"
-    },
-    {
-      "word": "聯隊",
-      "reading": "れんたい",
-      "meaning": "trung đoàn"
-    },
-    {
       "word": "聯絡",
       "reading": "れんらく",
       "meaning": "sự liên lạc"
-    },
-    {
-      "word": "聯立",
-      "reading": "れんりつ",
-      "meaning": "liên minh"
     }
   ]
 }

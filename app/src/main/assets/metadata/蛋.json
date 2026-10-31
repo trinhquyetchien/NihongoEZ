@@ -36,24 +36,9 @@
       "meaning": "lòng trắng trứng"
     },
     {
-      "word": "皮蛋",
-      "reading": "ピータン",
-      "meaning": "trứng vịt bắc thảo"
-    },
-    {
-      "word": "蛋白石",
-      "reading": "たんぱくせき",
-      "meaning": "opan"
-    },
-    {
       "word": "蛋白質",
       "reading": "たんぱくしつ",
       "meaning": "chất đạm"
-    },
-    {
-      "word": "蛋白尿",
-      "reading": "たんぱくにょう",
-      "meaning": "chứng đái anbumin"
     },
     {
       "word": "蛋白源",
@@ -66,19 +51,34 @@
       "meaning": "chất hữu cơ ferroprotein"
     },
     {
-      "word": "リポ蛋白質",
-      "reading": "リポたんぱくしつ",
-      "meaning": "lipoprotein"
+      "word": "蛋白尿",
+      "reading": "たんぱくにょう",
+      "meaning": "chứng đái anbumin"
+    },
+    {
+      "word": "皮蛋",
+      "reading": "ピータン",
+      "meaning": "trứng vịt bắc thảo"
+    },
+    {
+      "word": "蛋白石",
+      "reading": "たんぱくせき",
+      "meaning": "opan"
+    },
+    {
+      "word": "動物性蛋白",
+      "reading": "どうぶつせいたんぱく",
+      "meaning": "protein động vật"
+    },
+    {
+      "word": "植物性蛋白",
+      "reading": "しょくぶつせいたんぱく",
+      "meaning": "protein thực vật"
     },
     {
       "word": "核蛋白質",
       "reading": "かくたんぱくしつ",
       "meaning": "protein có cấu trúc liên kết với axit nucleic"
-    },
-    {
-      "word": "燐蛋白質",
-      "reading": "りんたんぱくしつ",
-      "meaning": "phosphoprotein"
     }
   ]
 }

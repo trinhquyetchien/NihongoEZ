@@ -114,14 +114,29 @@
       "meaning": "giá"
     },
     {
-      "word": "ふれとりだい 振れ取り台",
-      "reading": "振れ取り台",
-      "meaning": "bàn cân bằng"
+      "word": "一台",
+      "reading": "いちだい",
+      "meaning": "một cái"
     },
     {
-      "word": "台詞",
-      "reading": "せりふ",
-      "meaning": "lời nói"
+      "word": "台名",
+      "reading": "たいめい",
+      "meaning": "ra lệnh một tướng quân hoặc một viên chức cao"
+    },
+    {
+      "word": "台顔",
+      "reading": "たいがん",
+      "meaning": "khuôn mặt"
+    },
+    {
+      "word": "海台",
+      "reading": "かいだい",
+      "meaning": "cao nguyên"
+    },
+    {
+      "word": "台石",
+      "reading": "だいいし",
+      "meaning": "cái bệ đá"
     },
     {
       "word": "台湾",
@@ -129,34 +144,19 @@
       "meaning": "đài loan"
     },
     {
-      "word": "テレビ台",
-      "reading": "テレビだい",
-      "meaning": "kệ đỡ"
+      "word": "台輪",
+      "reading": "だいわ",
+      "meaning": "cây dầm trên đầu cột"
     },
     {
-      "word": "スタンプ台",
-      "reading": "スタンプだい",
-      "meaning": "hộp mực dấu"
-    },
-    {
-      "word": "演台",
-      "reading": "えんだい",
-      "meaning": "bục phát biểu"
-    },
-    {
-      "word": "高台",
-      "reading": "たかだい",
-      "meaning": "đồi"
+      "word": "仙台",
+      "reading": "せんだい",
+      "meaning": "sendai"
     },
     {
       "word": "台流",
       "reading": "たいりゅう",
       "meaning": "trào lưu văn hóa đài loan"
-    },
-    {
-      "word": "屋台",
-      "reading": "やたい",
-      "meaning": "quầy hàng lưu động"
     }
   ]
 }

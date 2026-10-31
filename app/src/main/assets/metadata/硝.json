@@ -84,9 +84,19 @@
   ],
   "vocabulary": [
     {
-      "word": "芒硝",
-      "reading": "ぼうしょう",
-      "meaning": "muối natri sunfat"
+      "word": "硝子",
+      "reading": "ガラス",
+      "meaning": "lắp kính"
+    },
+    {
+      "word": "硝子体",
+      "reading": "しょうしたい",
+      "meaning": "thể thủy tinh"
+    },
+    {
+      "word": "硝子屋",
+      "reading": "ガラスや",
+      "meaning": "cửa hàng kính"
     },
     {
       "word": "硝酸",
@@ -94,39 +104,29 @@
       "meaning": "axít nitric"
     },
     {
-      "word": "硝化",
-      "reading": "しょうか",
-      "meaning": "sự nitrat hoá"
+      "word": "硝酸系",
+      "reading": "しょうさんけい",
+      "meaning": "chuỗi axit nitric"
     },
     {
-      "word": "硝安",
-      "reading": "しょうあん",
-      "meaning": "hợp chất hóa học amoni-nitrat"
+      "word": "希硝酸",
+      "reading": "きしょうさん",
+      "meaning": "axit nitric loãng"
     },
     {
-      "word": "焔硝",
-      "reading": "えんしょう",
-      "meaning": "thuốc súng"
+      "word": "亜硝酸",
+      "reading": "あしょうさん",
+      "meaning": "a-xít nitrơ"
     },
     {
-      "word": "煙硝",
-      "reading": "えんしょう",
-      "meaning": "thuốc súng"
+      "word": "硝酸菌",
+      "reading": "しょうさんきん",
+      "meaning": "vi khuẩn nitrit-nitrat hóa"
     },
     {
-      "word": "硝薬",
-      "reading": "しょうやく",
-      "meaning": "thuốc súng"
-    },
-    {
-      "word": "硝子",
-      "reading": "ガラス",
-      "meaning": "lắp kính"
-    },
-    {
-      "word": "硝石",
-      "reading": "しょうせき",
-      "meaning": "diêm tiêu"
+      "word": "硝酸塩",
+      "reading": "しょうさんえん",
+      "meaning": "nitrat"
     },
     {
       "word": "硝煙",

@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "死",
-      "reading": "し",
-      "meaning": "sự chết"
-    },
-    {
-      "word": "死後",
-      "reading": "しご",
-      "meaning": "sau khi chết"
-    },
-    {
-      "word": "死人",
-      "reading": "しにん",
-      "meaning": "người chết"
-    },
-    {
-      "word": "死体",
-      "reading": "したい",
-      "meaning": "hình hài"
+      "word": "死ぬ",
+      "reading": "しぬ",
+      "meaning": "chết"
     },
     {
       "word": "死亡",
@@ -115,29 +100,44 @@
       "meaning": "sự tử vong"
     },
     {
-      "word": "死因",
-      "reading": "しいん",
-      "meaning": "nguyên nhân cái chết"
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "hình hài"
+    },
+    {
+      "word": "死",
+      "reading": "し",
+      "meaning": "sự chết"
+    },
+    {
+      "word": "死に",
+      "reading": "しに",
+      "meaning": "cái chết. sự chết"
+    },
+    {
+      "word": "死肉",
+      "reading": "しにく",
+      "meaning": "thịt chết"
+    },
+    {
+      "word": "半死",
+      "reading": "はんし",
+      "meaning": "sự sắp chết"
+    },
+    {
+      "word": "死有",
+      "reading": "しう",
+      "meaning": "khoảnh khắc của cái chết"
+    },
+    {
+      "word": "死軸",
+      "reading": "しじく",
+      "meaning": "trục xe chết"
     },
     {
       "word": "死者",
       "reading": "ししゃ",
       "meaning": "người chết"
-    },
-    {
-      "word": "死神",
-      "reading": "しにがみ",
-      "meaning": "sự chết"
-    },
-    {
-      "word": "死期",
-      "reading": "しき",
-      "meaning": "thời gian sự chết"
-    },
-    {
-      "word": "死ぬ",
-      "reading": "しぬ",
-      "meaning": "chết"
     }
   ]
 }

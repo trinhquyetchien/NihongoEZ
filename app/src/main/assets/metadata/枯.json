@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "枯れ枯れ",
-      "reading": "かれがれ",
-      "meaning": "khô héo"
+      "word": "枯れる",
+      "reading": "かれる",
+      "meaning": "héo queo"
     },
     {
-      "word": "枯滝",
-      "reading": "かれたき",
-      "meaning": "thác cạn"
+      "word": "草枯れ",
+      "reading": "くさがれ",
+      "meaning": "mùa thu"
     },
     {
-      "word": "乾枯",
-      "reading": "かんこ",
-      "meaning": "khô cạn"
-    },
-    {
-      "word": "枯死",
-      "reading": "こし",
-      "meaning": "sự khô héo"
-    },
-    {
-      "word": "枯枝",
-      "reading": "かれえだ",
-      "meaning": "nhánh chết"
-    },
-    {
-      "word": "枯淡",
-      "reading": "こたん",
-      "meaning": "tính bình dị thanh lịch"
-    },
-    {
-      "word": "枯野",
+      "word": "枯れ野",
       "reading": "かれの",
-      "meaning": "tàn phá lĩnh vực"
+      "meaning": "cánh đồng khô héo"
     },
     {
-      "word": "枯燥",
-      "reading": "こそう",
-      "meaning": "khổ cạn"
+      "word": "枯れ専",
+      "reading": "かれせん",
+      "meaning": "người có xu hướng bị thu hút bởi đàn ông lớn tuổi"
     },
     {
-      "word": "枯草",
-      "reading": "かれくさ",
-      "meaning": "cỏ héo"
+      "word": "枯渇",
+      "reading": "こかつ",
+      "meaning": "sự cạn"
     },
     {
-      "word": "枯木",
+      "word": "枯葉",
+      "reading": "かれは",
+      "meaning": "lá vàng"
+    },
+    {
+      "word": "枯葉剤",
+      "reading": "かれはざい",
+      "meaning": "chất làm rụng lá"
+    },
+    {
+      "word": "枯れ木",
       "reading": "かれき",
       "meaning": "cây khô"
+    },
+    {
+      "word": "枯山水",
+      "reading": "かれさんすい",
+      "meaning": "vườn cảnh truyền thống"
+    },
+    {
+      "word": "枯れ葉",
+      "reading": "かれは",
+      "meaning": "lá vàng"
     }
   ]
 }

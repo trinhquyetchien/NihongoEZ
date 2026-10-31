@@ -87,39 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "督責",
-      "reading": "とくせき",
-      "meaning": "yêu cầu"
+      "word": "監督",
+      "reading": "かんとく",
+      "meaning": "đạo diễn"
     },
     {
-      "word": "都督",
-      "reading": "ととく",
-      "meaning": "chung thống đốc"
+      "word": "監督者",
+      "reading": "かんとくしゃ",
+      "meaning": "giám sát viên"
     },
     {
-      "word": "総督",
-      "reading": "そうとく",
-      "meaning": "tổng đốc"
+      "word": "監督生",
+      "reading": "かんとくせい",
+      "meaning": "huynh trưởng"
     },
     {
-      "word": "家督",
-      "reading": "かとく",
-      "meaning": "đứa con nối dõi tông đường"
+      "word": "監督官",
+      "reading": "かんとくかん",
+      "meaning": "người thanh tra"
     },
     {
-      "word": "督励",
-      "reading": "とくれい",
-      "meaning": "sự cổ vũ"
-    },
-    {
-      "word": "督促",
-      "reading": "とくそく",
-      "meaning": "sự đốc thúc"
-    },
-    {
-      "word": "督戦",
-      "reading": "とくせん",
-      "meaning": "sự đốc chiến"
+      "word": "総監督",
+      "reading": "そうかんとく",
+      "meaning": "giám đốc chung"
     },
     {
       "word": "提督",
@@ -127,14 +117,24 @@
       "meaning": "đô đốc"
     },
     {
-      "word": "基督",
-      "reading": "キリスト",
-      "meaning": "chúa giê"
+      "word": "総督",
+      "reading": "そうとく",
+      "meaning": "tổng đốc"
     },
     {
-      "word": "督脈",
-      "reading": "とくみゃく",
-      "meaning": "đốc mạch"
+      "word": "総督府",
+      "reading": "そうとくふ",
+      "meaning": "phủ tổng đốc"
+    },
+    {
+      "word": "都督",
+      "reading": "ととく",
+      "meaning": "chung thống đốc"
+    },
+    {
+      "word": "督学官",
+      "reading": "とくがくかん",
+      "meaning": "thanh tra giáo dục"
     }
   ]
 }

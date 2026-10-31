@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "疎",
-      "reading": "そ",
-      "meaning": "sự thưa thớt"
-    },
-    {
-      "word": "疎疎しい",
-      "reading": "うとうとしい",
-      "meaning": "không quen thuộc hay không quan tâm"
-    },
-    {
-      "word": "疎隔",
-      "reading": "そかく",
-      "meaning": "sự làm cho giận"
-    },
-    {
-      "word": "疎か",
-      "reading": "おろそか",
-      "meaning": "thờ ơ"
-    },
-    {
-      "word": "疎漏",
-      "reading": "そろう",
-      "meaning": "sự cẩu thả"
-    },
-    {
-      "word": "疎む",
-      "reading": "うとむ",
-      "meaning": "thờ ơ"
-    },
-    {
       "word": "過疎",
       "reading": "かそ",
       "meaning": "sự giảm dân số"
     },
     {
-      "word": "空疎",
-      "reading": "くうそ",
-      "meaning": "sáo rỗng"
+      "word": "過疎化",
+      "reading": "かそか",
+      "meaning": "suy giảm dân số"
     },
     {
-      "word": "疎ら",
-      "reading": "まばら",
-      "meaning": "sự thưa thớt"
+      "word": "過疎る",
+      "reading": "かそる",
+      "meaning": "giảm dân số"
+    },
+    {
+      "word": "過疎地",
+      "reading": "かそち",
+      "meaning": "khu vực ít dân cư"
+    },
+    {
+      "word": "疎通",
+      "reading": "そつう",
+      "meaning": "sự thoát nước"
+    },
+    {
+      "word": "過疎債",
+      "reading": "かそさい",
+      "meaning": "trái phiếu giảm dân số"
+    },
+    {
+      "word": "疎遠",
+      "reading": "そえん",
+      "meaning": "hững hờ"
+    },
+    {
+      "word": "疎遠な",
+      "reading": "そえんな",
+      "meaning": "xa cách"
     },
     {
       "word": "疎開",
       "reading": "そかい",
       "meaning": "sự dàn quân"
+    },
+    {
+      "word": "疎開者",
+      "reading": "そかいしゃ",
+      "meaning": "người sơ tán"
     }
   ]
 }

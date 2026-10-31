@@ -94,24 +94,29 @@
       "meaning": "thị trấn"
     },
     {
-      "word": "小町",
-      "reading": "こまち",
-      "meaning": "người đàn bà đẹp nhất"
+      "word": "下町",
+      "reading": "したまち",
+      "meaning": "phần thành phố phía dưới"
     },
     {
-      "word": "隣町",
-      "reading": "となりまち",
-      "meaning": "neighboring thị thành"
+      "word": "日本町",
+      "reading": "にほんまち",
+      "meaning": "khu phố nhật bản"
     },
     {
-      "word": "谷町",
-      "reading": "たにまち",
-      "meaning": "nhà tài trợ của các đô vật"
+      "word": "町娘",
+      "reading": "まちむすめ",
+      "meaning": "cô gái thành phố"
     },
     {
-      "word": "市町",
-      "reading": "しちょう",
-      "meaning": "một khu thương mại tồn tại trước thời hiện đại"
+      "word": "花町",
+      "reading": "はなまち",
+      "meaning": "chốn lầu xanh"
+    },
+    {
+      "word": "町全体",
+      "reading": "まちぜんたい",
+      "meaning": "toàn thành phố"
     },
     {
       "word": "町石",
@@ -119,24 +124,19 @@
       "meaning": "cột mốc đá đặt ven đường"
     },
     {
-      "word": "町村",
-      "reading": "ちょうそん",
-      "meaning": "thị trấn và làng mạc"
+      "word": "隣町",
+      "reading": "となりまち",
+      "meaning": "neighboring thị thành"
     },
     {
-      "word": "町歩",
-      "reading": "ちょうぶ",
-      "meaning": "hecta"
+      "word": "町角",
+      "reading": "まちかど",
+      "meaning": "góc phố"
     },
     {
-      "word": "同町",
-      "reading": "どうちょう",
-      "meaning": "sự thông cảm"
-    },
-    {
-      "word": "町会",
-      "reading": "ちょうかい",
-      "meaning": "hội đồng thành phố"
+      "word": "町湯",
+      "reading": "まちゆ",
+      "meaning": "nhà tắm công cộng nằm trong thành phố hoặc thị trấn"
     }
   ]
 }

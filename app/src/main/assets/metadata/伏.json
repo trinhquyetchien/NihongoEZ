@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "伏",
-      "reading": "ふく",
-      "meaning": "cúi"
-    },
-    {
-      "word": "懾伏",
-      "reading": "しょうふく",
-      "meaning": "cúi đầu vì sợ hãi"
+      "word": "降伏",
+      "reading": "こうふく",
+      "meaning": "sự đầu hàng"
     },
     {
       "word": "起伏",
@@ -105,39 +100,44 @@
       "meaning": "nhấp nhô"
     },
     {
-      "word": "降伏",
-      "reading": "こうふく",
-      "meaning": "sự đầu hàng"
+      "word": "伏せ籠",
+      "reading": "ふせご",
+      "meaning": "lồng gà"
     },
     {
-      "word": "山伏",
-      "reading": "やまぶし",
-      "meaning": "thầy tu trên núi"
+      "word": "潜伏",
+      "reading": "せんぷく",
+      "meaning": "sự ẩn náu"
     },
     {
-      "word": "雌伏",
-      "reading": "しふく",
-      "meaning": "phần bị che khuất"
+      "word": "潜伏性",
+      "reading": "せんぷくせい",
+      "meaning": "sự ngấm ngầm"
     },
     {
-      "word": "倒伏",
-      "reading": "とうふく",
-      "meaning": "sự đổ ngã"
+      "word": "伏線",
+      "reading": "ふくせん",
+      "meaning": "chuẩn bị"
     },
     {
-      "word": "野伏",
-      "reading": "のぶし",
-      "meaning": "ẩn sỹ"
+      "word": "伏",
+      "reading": "ふく",
+      "meaning": "cúi"
     },
     {
-      "word": "伏在",
+      "word": "伏する",
+      "reading": "ふくする",
+      "meaning": "bỏ"
+    },
+    {
+      "word": "伏水",
+      "reading": "ふくすい",
+      "meaning": "nước đi là ngầm"
+    },
+    {
+      "word": "伏罪",
       "reading": "ふくざい",
-      "meaning": "nằm được giấu"
-    },
-    {
-      "word": "伏奏",
-      "reading": "ふくそう",
-      "meaning": "sự hội tụ"
+      "meaning": "biện hộ phạm tội"
     }
   ]
 }

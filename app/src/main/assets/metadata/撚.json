@@ -52,14 +52,14 @@
   ],
   "vocabulary": [
     {
-      "word": "撚る",
-      "reading": "ひねる",
-      "meaning": "đánh chéo"
-    },
-    {
       "word": "撚糸",
       "reading": "ねんし",
       "meaning": "sợi xoắn"
+    },
+    {
+      "word": "糸撚鯛",
+      "reading": "いとよりだい",
+      "meaning": "golden threadfin bream"
     },
     {
       "word": "撚翅",
@@ -67,14 +67,14 @@
       "meaning": "strepsipteran"
     },
     {
+      "word": "撚る",
+      "reading": "ひねる",
+      "meaning": "đánh chéo"
+    },
+    {
       "word": "紙撚り",
       "reading": "こより",
       "meaning": "dây giấy"
-    },
-    {
-      "word": "糸撚鯛",
-      "reading": "いとよりだい",
-      "meaning": "golden threadfin bream"
     },
     {
       "word": "漁業用ロープ/撚糸",

@@ -78,14 +78,14 @@
       "meaning": "sợ hãi"
     },
     {
-      "word": "憂虞",
-      "reading": "ゆうぐ",
-      "meaning": "mối lo"
-    },
-    {
       "word": "不虞",
       "reading": "ふぐ",
       "meaning": "khẩn cấp"
+    },
+    {
+      "word": "憂虞",
+      "reading": "ゆうぐ",
+      "meaning": "mối lo"
     },
     {
       "word": "虞犯",
@@ -98,6 +98,11 @@
       "meaning": "sợ hãi"
     },
     {
+      "word": "失敗の虞",
+      "reading": "しっぱいのおそれ",
+      "meaning": "mạo hiểm sự thất bại"
+    },
+    {
       "word": "虞美人草",
       "reading": "ぐびじんそう",
       "meaning": "cây anh túc"
@@ -106,11 +111,6 @@
       "word": "虞犯少年",
       "reading": "ぐはんしょうねん",
       "meaning": "chỉ những bạn thiếu niên được đánh giá là có khả năng thực hiện hành vi phạm tội trong tương lai"
-    },
-    {
-      "word": "失敗の虞",
-      "reading": "しっぱいのおそれ",
-      "meaning": "mạo hiểm sự thất bại"
     },
     {
       "word": "感染の虞を無くす",

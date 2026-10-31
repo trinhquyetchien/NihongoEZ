@@ -67,19 +67,9 @@
   ],
   "vocabulary": [
     {
-      "word": "輿",
-      "reading": "こし",
-      "meaning": "kiệu"
-    },
-    {
-      "word": "輿地",
-      "reading": "よち",
-      "meaning": "trái đất"
-    },
-    {
-      "word": "前輿",
-      "reading": "さきごし",
-      "meaning": "khiêng đòn kiệu phía trước"
+      "word": "神輿",
+      "reading": "みこし",
+      "meaning": "kiệu rước thần"
     },
     {
       "word": "御輿",
@@ -87,24 +77,24 @@
       "meaning": "chuyển miếu thờ"
     },
     {
-      "word": "神輿",
-      "reading": "みこし",
-      "meaning": "kiệu rước thần"
+      "word": "お御輿",
+      "reading": "おみこし",
+      "meaning": "quan tài"
     },
     {
-      "word": "鸞輿",
-      "reading": "らんよ",
-      "meaning": "sự chuyên chở thượng hạng"
+      "word": "玉の輿",
+      "reading": "たまのこし",
+      "meaning": "cái kiệu đẹp"
     },
     {
-      "word": "輿望",
-      "reading": "よぼう",
-      "meaning": "nguyện vọng"
+      "word": "輿",
+      "reading": "こし",
+      "meaning": "kiệu"
     },
     {
-      "word": "輿論",
-      "reading": "よろん",
-      "meaning": "dư luận"
+      "word": "前輿",
+      "reading": "さきごし",
+      "meaning": "khiêng đòn kiệu phía trước"
     },
     {
       "word": "相輿",
@@ -115,6 +105,16 @@
       "word": "輿丁",
       "reading": "よてい",
       "meaning": "người khiêng kiệu"
+    },
+    {
+      "word": "御神輿",
+      "reading": "おみこし",
+      "meaning": "chuyển miếu thờ"
+    },
+    {
+      "word": "お神輿",
+      "reading": "おみこし",
+      "meaning": "điện thờ di động"
     }
   ]
 }

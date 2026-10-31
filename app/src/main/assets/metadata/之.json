@@ -93,11 +93,6 @@
       "meaning": "đây"
     },
     {
-      "word": "之繞",
-      "reading": "しんにょう",
-      "meaning": "bộ sước"
-    },
-    {
       "word": "加之",
       "reading": "しかのみならず",
       "meaning": "không những...mà còn"
@@ -108,14 +103,24 @@
       "meaning": "tổ chim"
     },
     {
+      "word": "之繞",
+      "reading": "しんにょう",
+      "meaning": "bộ sước"
+    },
+    {
+      "word": "雄之万年草",
+      "reading": "おのまんねんぐさ",
+      "meaning": "thực vật thân thảo"
+    },
+    {
+      "word": "実業之日本",
+      "reading": "じつぎょうのにっぽん",
+      "meaning": "tên một công ty xuất bản"
+    },
+    {
       "word": "隠熊之実",
       "reading": "かくれくまのみ",
       "meaning": "amphiprion ocellaris"
-    },
-    {
-      "word": "承知之助",
-      "reading": "しょうちのすけ",
-      "meaning": "thỏa thuận"
     },
     {
       "word": "美之主貝",
@@ -128,14 +133,9 @@
       "meaning": "nghêu vỏ cứng"
     },
     {
-      "word": "眼鏡黐之魚",
-      "reading": "めがねもちのうお",
-      "meaning": "cá la hán đầu bưu"
-    },
-    {
-      "word": "雄之万年草",
-      "reading": "おのまんねんぐさ",
-      "meaning": "thực vật thân thảo"
+      "word": "承知之助",
+      "reading": "しょうちのすけ",
+      "meaning": "thỏa thuận"
     }
   ]
 }

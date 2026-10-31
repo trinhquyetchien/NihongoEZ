@@ -107,29 +107,39 @@
   ],
   "vocabulary": [
     {
-      "word": "歓喜",
-      "reading": "かんき",
-      "meaning": "sự vui mừng"
+      "word": "喜ぶ",
+      "reading": "よろこぶ",
+      "meaning": "hí hửng"
     },
     {
-      "word": "喜捨",
-      "reading": "きしゃ",
-      "meaning": "sự bố thí"
+      "word": "喜び",
+      "reading": "よろこび",
+      "meaning": "hân hạnh"
     },
     {
-      "word": "喜寿",
-      "reading": "きじゅ",
-      "meaning": "mừng thọ lần thứ 77"
+      "word": "喜劇",
+      "reading": "きげき",
+      "meaning": "hí kịch"
     },
     {
-      "word": "延喜",
-      "reading": "えんぎ",
-      "meaning": "may mắn"
+      "word": "喜んで",
+      "reading": "よろこんで",
+      "meaning": "hân hoan"
     },
     {
-      "word": "寛喜",
-      "reading": "かんぎ",
-      "meaning": "kangi era"
+      "word": "喜び事",
+      "reading": "よろこびごと",
+      "meaning": "chuyện vui"
+    },
+    {
+      "word": "大喜び",
+      "reading": "おおよろこび",
+      "meaning": "rất vui sướng"
+    },
+    {
+      "word": "喜雨",
+      "reading": "きう",
+      "meaning": "cơn mưa sau những ngày nắng hạn"
     },
     {
       "word": "天喜",
@@ -137,24 +147,14 @@
       "meaning": "thời tengi"
     },
     {
-      "word": "喜悦",
-      "reading": "きえつ",
+      "word": "小四喜",
+      "reading": "シャオスーシー",
+      "meaning": "tiểu tứ hỷ"
+    },
+    {
+      "word": "歓喜",
+      "reading": "かんき",
       "meaning": "sự vui mừng"
-    },
-    {
-      "word": "驚喜",
-      "reading": "きょうき",
-      "meaning": "niềm vui bất ngờ"
-    },
-    {
-      "word": "喜色",
-      "reading": "きしょく",
-      "meaning": "nét mặt hân hoan"
-    },
-    {
-      "word": "欣喜",
-      "reading": "きんき",
-      "meaning": "thích thú"
     }
   ]
 }

@@ -49,24 +49,24 @@
   ],
   "vocabulary": [
     {
-      "word": "庖厨",
-      "reading": "ほうちゅう",
-      "meaning": "phòng bếp"
-    },
-    {
       "word": "庖丁",
       "reading": "ほうちょう",
       "meaning": "con dao nhà bếp"
     },
     {
-      "word": "裁ち庖丁",
-      "reading": "たちぼうちょう",
-      "meaning": "may có con dao"
+      "word": "庖厨",
+      "reading": "ほうちゅう",
+      "meaning": "phòng bếp"
     },
     {
       "word": "肉切り庖丁",
       "reading": "にくきりぼうちょう",
       "meaning": "dao thái thịt"
+    },
+    {
+      "word": "裁ち庖丁",
+      "reading": "たちぼうちょう",
+      "meaning": "may có con dao"
     }
   ]
 }

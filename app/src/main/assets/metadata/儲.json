@@ -92,29 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "儲",
-      "reading": "もうけ",
-      "meaning": "có lợi"
+      "word": "儲かる",
+      "reading": "もうかる",
+      "meaning": "sinh lời"
     },
     {
-      "word": "儲位",
-      "reading": "ちょい",
-      "meaning": "quyền thừa kế"
-    },
-    {
-      "word": "儲蓄",
-      "reading": "ちょちく",
-      "meaning": "sự cất giữ"
-    },
-    {
-      "word": "儲役",
-      "reading": "もうけやく",
-      "meaning": "vị trí có lợi"
-    },
-    {
-      "word": "儲口",
-      "reading": "もうけぐち",
-      "meaning": "có lợi làm việc"
+      "word": "儲ける",
+      "reading": "もうける",
+      "meaning": "có con"
     },
     {
       "word": "儲け",
@@ -122,24 +107,39 @@
       "meaning": "lợi nhuận"
     },
     {
-      "word": "嫌儲",
-      "reading": "けんちょ",
-      "meaning": "thuật ngữ internet chỉ những người hoặc thái độ ghét bỏ việc sao chép"
-    },
-    {
-      "word": "儲物",
-      "reading": "もうけもの",
-      "meaning": "tốt mặc cả"
-    },
-    {
-      "word": "一儲",
+      "word": "一儲け",
       "reading": "ひともうけ",
-      "meaning": "sự đúc tiền"
+      "meaning": "kiếm tiền"
+    },
+    {
+      "word": "儲け話",
+      "reading": "もうけばなし",
+      "meaning": "chuyện kiếm lời"
+    },
+    {
+      "word": "儲け物",
+      "reading": "もうけもの",
+      "meaning": "của trời cho"
+    },
+    {
+      "word": "儲け役",
+      "reading": "もうけやく",
+      "meaning": "vị trí có lợi"
     },
     {
       "word": "金儲け",
       "reading": "かねもうけ",
       "meaning": "kiếm tiền"
+    },
+    {
+      "word": "大儲け",
+      "reading": "おおもうけ",
+      "meaning": "lợi nhuận lớn"
+    },
+    {
+      "word": "儲",
+      "reading": "もうけ",
+      "meaning": "có lợi"
     }
   ]
 }

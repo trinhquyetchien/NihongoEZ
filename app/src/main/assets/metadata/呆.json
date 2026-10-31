@@ -92,24 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "踊る阿呆に見る阿呆",
-      "reading": "おどるあほうにみるあほう",
-      "meaning": "bạn là một kẻ ngốc nếu bạn nhảy"
-    },
-    {
-      "word": "呆け",
-      "reading": "ぼけ",
-      "meaning": "người ngốc nghếch"
-    },
-    {
-      "word": "痴呆",
-      "reading": "ちほう",
-      "meaning": "chứng loạn trí"
-    },
-    {
-      "word": "呆気",
-      "reading": "あっけ",
-      "meaning": "sự sửng sốt"
+      "word": "呆れる",
+      "reading": "あきれる",
+      "meaning": "ngạc nhiên"
     },
     {
       "word": "呆然",
@@ -117,9 +102,24 @@
       "meaning": "sốc không nói nên lời"
     },
     {
+      "word": "呆れ顔",
+      "reading": "あきれがお",
+      "meaning": "bộ mặt kinh ngạc"
+    },
+    {
       "word": "阿呆",
       "reading": "あほ",
       "meaning": "kẻ ngốc"
+    },
+    {
+      "word": "阿呆口",
+      "reading": "あほうぐち",
+      "meaning": "trò chuyện tào lao"
+    },
+    {
+      "word": "阿呆面",
+      "reading": "あほづら",
+      "meaning": "khuôn mặt ngu ngốc"
     },
     {
       "word": "阿呆臭",
@@ -127,19 +127,19 @@
       "meaning": "buồn cười"
     },
     {
-      "word": "ど阿呆",
-      "reading": "どあほ",
-      "meaning": "thằng ngốc"
+      "word": "痴呆",
+      "reading": "ちほう",
+      "meaning": "chứng loạn trí"
     },
     {
-      "word": "呆ける",
-      "reading": "ぼける",
-      "meaning": "phai"
+      "word": "痴呆症",
+      "reading": "ちほうしょう",
+      "meaning": "chứng mất trí"
     },
     {
-      "word": "呆れ顔",
-      "reading": "あきれがお",
-      "meaning": "bộ mặt kinh ngạc"
+      "word": "呆け",
+      "reading": "ぼけ",
+      "meaning": "người ngốc nghếch"
     }
   ]
 }

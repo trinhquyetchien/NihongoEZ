@@ -84,16 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "阜",
-      "reading": "つかさ",
-      "meaning": "đồi"
-    },
-    {
-      "word": "陰阜",
-      "reading": "いんぷ",
-      "meaning": "xương mu"
-    },
-    {
       "word": "岐阜",
       "reading": "ぎふ",
       "meaning": "tỉnh gifu"
@@ -102,6 +92,16 @@
       "word": "岐阜県",
       "reading": "ぎふけん",
       "meaning": "tỉnh gifu nhật bản"
+    },
+    {
+      "word": "阜",
+      "reading": "つかさ",
+      "meaning": "đồi"
+    },
+    {
+      "word": "陰阜",
+      "reading": "いんぷ",
+      "meaning": "xương mu"
     }
   ]
 }

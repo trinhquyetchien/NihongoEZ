@@ -95,19 +95,24 @@
       "meaning": "núi"
     },
     {
-      "word": "山山",
-      "reading": "やまやま",
-      "meaning": "rất nhiều"
+      "word": "山林",
+      "reading": "さんりん",
+      "meaning": "sơn lâm"
     },
     {
-      "word": "山頂",
-      "reading": "さんちょう",
-      "meaning": "chỏm núi"
+      "word": "鉱山",
+      "reading": "こうざん",
+      "meaning": "mỏ"
     },
     {
-      "word": "山名",
-      "reading": "さんめい",
-      "meaning": "tên của ngọn núi"
+      "word": "山岳",
+      "reading": "さんがく",
+      "meaning": "vùng núi"
+    },
+    {
+      "word": "山腹",
+      "reading": "さんぷく",
+      "meaning": "sườn núi"
     },
     {
       "word": "三山",
@@ -115,14 +120,9 @@
       "meaning": "ba ngọn núi"
     },
     {
-      "word": "山幸",
-      "reading": "やまさち",
-      "meaning": "thức ăn của núi"
-    },
-    {
-      "word": "猿山",
-      "reading": "さるやま",
-      "meaning": "núi khỉ"
+      "word": "晋山",
+      "reading": "しんざん",
+      "meaning": "cầm lên một vị trí mới như thầy tu chính một miếu tín đồ phật giáo"
     },
     {
       "word": "小山",
@@ -130,14 +130,14 @@
       "meaning": "ngọn đồi"
     },
     {
-      "word": "山道",
-      "reading": "やまみち",
-      "meaning": "con đường trên núi"
-    },
-    {
       "word": "高山",
       "reading": "こうざん",
       "meaning": "núi cao"
+    },
+    {
+      "word": "山頂",
+      "reading": "さんちょう",
+      "meaning": "chỏm núi"
     }
   ]
 }

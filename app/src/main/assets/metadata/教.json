@@ -90,29 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "宗教教育",
-      "reading": "しゅうきょうきょういく",
-      "meaning": "sự giáo dục tôn giáo"
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "buồng học"
     },
     {
-      "word": "司教座教会",
-      "reading": "しきょうざきょうかい",
-      "meaning": "tòa giám mục"
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "giáo hội"
     },
     {
-      "word": "教委",
-      "reading": "きょうい",
-      "meaning": "bộ giáo dục"
-    },
-    {
-      "word": "カトリック教",
-      "reading": "カトリックきょう",
-      "meaning": "đạo thiên chúa"
-    },
-    {
-      "word": "司教",
-      "reading": "しきょう",
-      "meaning": "đức cha"
+      "word": "教師",
+      "reading": "きょうし",
+      "meaning": "giáo sư"
     },
     {
       "word": "宗教",
@@ -120,24 +110,34 @@
       "meaning": "đạo"
     },
     {
-      "word": "教皇",
-      "reading": "きょうこう",
-      "meaning": "đức giáo hoàng"
+      "word": "教養",
+      "reading": "きょうよう",
+      "meaning": "sự nuôi dưỡng"
     },
     {
-      "word": "教官",
-      "reading": "きょうかん",
-      "meaning": "giáo viên"
+      "word": "教科",
+      "reading": "きょうか",
+      "meaning": "đề tài"
+    },
+    {
+      "word": "宣教",
+      "reading": "せんきょう",
+      "meaning": "tuyên giáo"
+    },
+    {
+      "word": "教母",
+      "reading": "きょうぼ",
+      "meaning": "mẹ đỡ đầu"
+    },
+    {
+      "word": "武教",
+      "reading": "ぶきょう",
+      "meaning": "dạy bushido"
     },
     {
       "word": "教徒",
       "reading": "きょうと",
       "meaning": "tín đồ"
-    },
-    {
-      "word": "教養",
-      "reading": "きょうよう",
-      "meaning": "sự nuôi dưỡng"
     }
   ]
 }

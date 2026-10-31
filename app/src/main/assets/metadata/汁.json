@@ -96,19 +96,29 @@
       "meaning": "nước ép hoa quả"
     },
     {
-      "word": "胆汁酸と胆汁酸塩",
-      "reading": "たんじゅーさんとたんじゅーさんしお",
-      "meaning": "axit và muối axit của túi mật tiết ra"
-    },
-    {
-      "word": "出汁",
-      "reading": "だし",
-      "meaning": "nước dùng"
-    },
-    {
       "word": "お汁",
       "reading": "おつゆ",
       "meaning": "súp"
+    },
+    {
+      "word": "汁気",
+      "reading": "しるけ",
+      "meaning": "ép"
+    },
+    {
+      "word": "汁次",
+      "reading": "しるつぎ",
+      "meaning": "nước dùng"
+    },
+    {
+      "word": "青汁",
+      "reading": "あおじる",
+      "meaning": "nước ép rau làm từ rau lá xanh"
+    },
+    {
+      "word": "魚汁",
+      "reading": "いしる",
+      "meaning": "súp cá"
     },
     {
       "word": "塩汁",
@@ -116,14 +126,9 @@
       "meaning": "nước muối"
     },
     {
-      "word": "レモン汁",
-      "reading": "レモンじる",
-      "meaning": "nước cốt chanh"
-    },
-    {
-      "word": "潮汁",
-      "reading": "うしおじる",
-      "meaning": "món súp hải sản loãng"
+      "word": "汁液",
+      "reading": "じゅうえき",
+      "meaning": "nhựa cây"
     },
     {
       "word": "麦汁",
@@ -131,14 +136,9 @@
       "meaning": "một chất lỏng chứa đường mạch nha được sản xuất trong quá trình đường hóa của quá trình nấu bia"
     },
     {
-      "word": "胆汁",
-      "reading": "たんじゅう",
-      "meaning": "mật"
-    },
-    {
-      "word": "果汁",
-      "reading": "かじゅう",
-      "meaning": "nước ép hoa quả"
+      "word": "味噌汁",
+      "reading": "みそしる",
+      "meaning": "súp tương"
     }
   ]
 }

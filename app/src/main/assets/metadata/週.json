@@ -70,14 +70,29 @@
   ],
   "vocabulary": [
     {
-      "word": "週",
-      "reading": "しゅう",
-      "meaning": "tuần"
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "tuần lễ này"
     },
     {
-      "word": "週足",
-      "reading": "しゅうあし",
-      "meaning": "sự chuyển động giá hàng tuần"
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "hàng tuần"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "tuần lễ trước"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "tuần lễ sau"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "tuần sau nữa"
     },
     {
       "word": "週間",
@@ -85,39 +100,24 @@
       "meaning": "hàng tuần"
     },
     {
-      "word": "週末",
-      "reading": "しゅうまつ",
-      "meaning": "cuối tuần"
+      "word": "週",
+      "reading": "しゅう",
+      "meaning": "tuần"
     },
     {
-      "word": "一週",
-      "reading": "いっしゅう",
-      "meaning": "một tuần"
+      "word": "先先週",
+      "reading": "せんせんしゅう",
+      "meaning": "tuần trước trước"
     },
     {
-      "word": "今週",
-      "reading": "こんしゅう",
-      "meaning": "tuần lễ này"
+      "word": "隔週",
+      "reading": "かくしゅう",
+      "meaning": "cách mỗi tuần"
     },
     {
-      "word": "週休",
-      "reading": "しゅうきゅう",
-      "meaning": "kì nghỉ hàng tuần"
-    },
-    {
-      "word": "昨週",
-      "reading": "さくしゅう",
-      "meaning": "tuần trước"
-    },
-    {
-      "word": "週給",
-      "reading": "しゅうきゅう",
-      "meaning": "lương tuần"
-    },
-    {
-      "word": "週日",
-      "reading": "しゅうじつ",
-      "meaning": "ngày thường trong tuần"
+      "word": "一週間",
+      "reading": "いっしゅうかん",
+      "meaning": "tuần lễ"
     }
   ]
 }

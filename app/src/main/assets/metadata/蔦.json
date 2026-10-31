@@ -38,9 +38,19 @@
       "meaning": "cây trường xuân"
     },
     {
+      "word": "黒木蔦",
+      "reading": "くろきづた",
+      "meaning": "caulerpa scalpelliformis"
+    },
+    {
       "word": "蔦漆",
       "reading": "つたうるし",
       "meaning": "toxicodendron orientale"
+    },
+    {
+      "word": "括れ蔦",
+      "reading": "くびれづた",
+      "meaning": "rong nho"
     },
     {
       "word": "蔦葛",
@@ -63,19 +73,9 @@
       "meaning": "cây trường xuân"
     },
     {
-      "word": "黒木蔦",
-      "reading": "くろきづた",
-      "meaning": "caulerpa scalpelliformis"
-    },
-    {
       "word": "蔦紅葉",
       "reading": "つたもみじ",
       "meaning": "cây thích"
-    },
-    {
-      "word": "括れ蔦",
-      "reading": "くびれづた",
-      "meaning": "rong nho"
     }
   ]
 }

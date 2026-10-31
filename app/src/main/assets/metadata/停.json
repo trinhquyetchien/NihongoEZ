@@ -107,9 +107,19 @@
   ],
   "vocabulary": [
     {
-      "word": "停",
-      "reading": "てい",
-      "meaning": "sự dừng"
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "bến đỗ xe buýt"
+    },
+    {
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "sự đình chỉ"
+    },
+    {
+      "word": "停電",
+      "reading": "ていでん",
+      "meaning": "cúp điện"
     },
     {
       "word": "停車",
@@ -117,44 +127,34 @@
       "meaning": "sự dừng xe"
     },
     {
-      "word": "各停",
-      "reading": "かくてい",
-      "meaning": "tàu dừng ở tất cả các ga"
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaning": "sự đình trệ"
     },
     {
-      "word": "電停",
-      "reading": "でんてい",
-      "meaning": "sự dừng của xe điện"
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "hòa giải"
     },
     {
-      "word": "免停",
-      "reading": "めんてい",
-      "meaning": "đình chỉ giấy phép lái xe"
+      "word": "心停止",
+      "reading": "しんていし",
+      "meaning": "tim ngừng đập"
     },
     {
-      "word": "停年",
-      "reading": "ていねん",
-      "meaning": "tuổi về hưu"
+      "word": "停止線",
+      "reading": "ていしせん",
+      "meaning": "vạch dừng"
     },
     {
-      "word": "停船",
-      "reading": "ていせん",
-      "meaning": "sự neo đậu tàu"
+      "word": "停電日",
+      "reading": "ていでんび",
+      "meaning": "ngày mất điện"
     },
     {
-      "word": "停職",
-      "reading": "ていしょく",
-      "meaning": "sự treo từ văn phòng"
-    },
-    {
-      "word": "停会",
-      "reading": "ていかい",
-      "meaning": "tạm dừng cuộc họp"
-    },
-    {
-      "word": "停頓",
-      "reading": "ていとん",
-      "meaning": "bế tắc"
+      "word": "停",
+      "reading": "てい",
+      "meaning": "sự dừng"
     }
   ]
 }

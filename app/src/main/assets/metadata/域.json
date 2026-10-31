@@ -104,19 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "域",
-      "reading": "いき",
-      "meaning": "vực"
-    },
-    {
-      "word": "領域 / 定義域",
-      "reading": "りょういき",
-      "meaning": "miền"
-    },
-    {
-      "word": "墓域",
-      "reading": "ぼいき",
-      "meaning": "khu vực nghĩa trang"
+      "word": "地域",
+      "reading": "ちいき",
+      "meaning": "cõi"
     },
     {
       "word": "区域",
@@ -124,34 +114,44 @@
       "meaning": "địa hạt"
     },
     {
-      "word": "海域",
-      "reading": "かいいき",
-      "meaning": "vùng biển"
+      "word": "流域",
+      "reading": "りゅういき",
+      "meaning": "lưu vực"
     },
     {
-      "word": "値域",
-      "reading": "ちいき",
-      "meaning": "dải"
+      "word": "領域",
+      "reading": "りょういき",
+      "meaning": "lãnh thổ"
     },
     {
-      "word": "商域",
-      "reading": "しょういき",
-      "meaning": "khu vực thương mại"
+      "word": "域外",
+      "reading": "いきがい",
+      "meaning": "bên ngoài vùng"
     },
     {
-      "word": "極域",
-      "reading": "きょくいき",
-      "meaning": "vùng cực"
+      "word": "域",
+      "reading": "いき",
+      "meaning": "vực"
     },
     {
-      "word": "圏域",
-      "reading": "けんいき",
-      "meaning": "trong phạm vi giới hạn"
+      "word": "円域",
+      "reading": "えんいき",
+      "meaning": "khối đồng yên"
     },
     {
-      "word": "寺域",
-      "reading": "じいき",
-      "meaning": "khu vực đền"
+      "word": "高域",
+      "reading": "こういき",
+      "meaning": "khu vực cao"
+    },
+    {
+      "word": "町域",
+      "reading": "ちょういき",
+      "meaning": "khu phố"
+    },
+    {
+      "word": "変域",
+      "reading": "へんいき",
+      "meaning": "miền"
     }
   ]
 }

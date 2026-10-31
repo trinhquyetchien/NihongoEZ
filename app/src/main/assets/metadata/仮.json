@@ -91,44 +91,14 @@
   ],
   "vocabulary": [
     {
+      "word": "仮名",
+      "reading": "かめい",
+      "meaning": "tên giả mạo"
+    },
+    {
       "word": "仮",
       "reading": "かり",
       "meaning": "tạm"
-    },
-    {
-      "word": "仮構",
-      "reading": "かこう",
-      "meaning": "sự chế tạo"
-    },
-    {
-      "word": "仮骨",
-      "reading": "かこつ",
-      "meaning": "mô sẹo xương"
-    },
-    {
-      "word": "仮装",
-      "reading": "かそう",
-      "meaning": "sự cải trang"
-    },
-    {
-      "word": "仮根",
-      "reading": "かこん",
-      "meaning": "rhizoid"
-    },
-    {
-      "word": "仮足",
-      "reading": "かそく",
-      "meaning": "chân giả của sinh vật đơn bào"
-    },
-    {
-      "word": "仮葬",
-      "reading": "かそう",
-      "meaning": "việc chôn cất tạm thời"
-    },
-    {
-      "word": "仮託",
-      "reading": "かたく",
-      "meaning": "viện cớ"
     },
     {
       "word": "仮家",
@@ -136,9 +106,39 @@
       "meaning": "nhà tạm"
     },
     {
+      "word": "仮声",
+      "reading": "かせい",
+      "meaning": "giọng the thé"
+    },
+    {
+      "word": "仮足",
+      "reading": "かそく",
+      "meaning": "chân giả của sinh vật đơn bào"
+    },
+    {
+      "word": "仮役",
+      "reading": "かりやく",
+      "meaning": "vị trí tạm thời"
+    },
+    {
+      "word": "仮字",
+      "reading": "かな",
+      "meaning": "chữ kana"
+    },
+    {
       "word": "仮相",
       "reading": "かそう",
       "meaning": "vẻ bề ngoài"
+    },
+    {
+      "word": "仮骨",
+      "reading": "かこつ",
+      "meaning": "mô sẹo xương"
+    },
+    {
+      "word": "仮橋",
+      "reading": "かりばし",
+      "meaning": "cầu tạm"
     }
   ]
 }

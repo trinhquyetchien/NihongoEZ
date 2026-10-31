@@ -79,9 +79,19 @@
       "meaning": "máng nước"
     },
     {
-      "word": "樋川",
-      "reading": "ひがわ",
-      "meaning": "kênh nước nhỏ"
+      "word": "呼び樋",
+      "reading": "よびどい",
+      "meaning": "ống nối dẫn nước giữa các phần máng mưa"
+    },
+    {
+      "word": "樋殿",
+      "reading": "ひどの",
+      "meaning": "toilet"
+    },
+    {
+      "word": "縦樋",
+      "reading": "たてどい",
+      "meaning": "ống thoát từ trên mái xuống"
     },
     {
       "word": "軒樋",
@@ -94,19 +104,9 @@
       "meaning": "buộc những cúp để trang trí treo từ một ống máng"
     },
     {
-      "word": "樋殿",
-      "reading": "ひどの",
-      "meaning": "toilet"
-    },
-    {
-      "word": "竪樋",
-      "reading": "たてどい",
-      "meaning": "máng xối"
-    },
-    {
-      "word": "縦樋",
-      "reading": "たてどい",
-      "meaning": "ống thoát từ trên mái xuống"
+      "word": "伏せ樋",
+      "reading": "ふせどい",
+      "meaning": "bao trùm rãnh"
     },
     {
       "word": "伏樋",
@@ -114,9 +114,9 @@
       "meaning": "bao trùm rãnh"
     },
     {
-      "word": "呼び樋",
-      "reading": "よびどい",
-      "meaning": "ống nối dẫn nước giữa các phần máng mưa"
+      "word": "竪樋",
+      "reading": "たてどい",
+      "meaning": "máng xối"
     }
   ]
 }

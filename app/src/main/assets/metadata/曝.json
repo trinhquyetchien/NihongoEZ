@@ -85,19 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "曝す",
-      "reading": "さらす",
-      "meaning": "phơi"
-    },
-    {
       "word": "被曝",
       "reading": "ひばく",
       "meaning": "sự phơi nhiễm"
-    },
-    {
-      "word": "曝書",
-      "reading": "ばくしょ",
-      "meaning": "phơi những sách"
     },
     {
       "word": "曝露",
@@ -105,9 +95,19 @@
       "meaning": "sự tiết lộ"
     },
     {
-      "word": "曝涼",
-      "reading": "ばくりょう",
-      "meaning": "việc phơi đồ để tránh ẩm mốc"
+      "word": "曝し首",
+      "reading": "さらしくび",
+      "meaning": "sự bóc trần một tách ra cái đầu"
+    },
+    {
+      "word": "曝し者",
+      "reading": "さらしもの",
+      "meaning": "người bị làm nhục"
+    },
+    {
+      "word": "曝す",
+      "reading": "さらす",
+      "meaning": "phơi"
     },
     {
       "word": "曝気",
@@ -115,9 +115,14 @@
       "meaning": "sục khí"
     },
     {
-      "word": "曝し首",
-      "reading": "さらしくび",
-      "meaning": "sự bóc trần một tách ra cái đầu"
+      "word": "曝書",
+      "reading": "ばくしょ",
+      "meaning": "phơi những sách"
+    },
+    {
+      "word": "曝涼",
+      "reading": "ばくりょう",
+      "meaning": "việc phơi đồ để tránh ẩm mốc"
     },
     {
       "word": "雨曝し",
@@ -128,11 +133,6 @@
       "word": "恥曝し",
       "reading": "はじさらし",
       "meaning": "một sự ô nhục"
-    },
-    {
-      "word": "曝し者",
-      "reading": "さらしもの",
-      "meaning": "người bị làm nhục"
     }
   ]
 }

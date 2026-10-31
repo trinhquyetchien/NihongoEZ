@@ -96,34 +96,9 @@
       "meaning": "xem nhẹ"
     },
     {
-      "word": "蔑視",
-      "reading": "べっし",
-      "meaning": "sự miệt thị"
-    },
-    {
-      "word": "蔑む",
-      "reading": "さげすむ",
-      "meaning": "coi thường"
-    },
-    {
-      "word": "蔑ろ",
-      "reading": "ないがしろ",
-      "meaning": "việc coi thường"
-    },
-    {
-      "word": "蔑称",
-      "reading": "べっしょう",
-      "meaning": "tên để gọi người hoặc vật một cách khinh thường"
-    },
-    {
-      "word": "侮蔑",
-      "reading": "ぶべつ",
-      "meaning": "sự coi thường"
-    },
-    {
-      "word": "蔑み",
-      "reading": "さげすみ",
-      "meaning": "sự coi thường"
+      "word": "軽蔑的",
+      "reading": "けいべつてき",
+      "meaning": "tính khinh khỉnh"
     },
     {
       "word": "軽蔑語",
@@ -131,14 +106,39 @@
       "meaning": "từ ngữ miệt thị"
     },
     {
-      "word": "蔑する",
-      "reading": "なみする",
-      "meaning": "coi thường"
+      "word": "侮蔑",
+      "reading": "ぶべつ",
+      "meaning": "sự coi thường"
     },
     {
       "word": "侮蔑的",
       "reading": "ぶべつてき",
       "meaning": "mang tính khinh miệt"
+    },
+    {
+      "word": "侮蔑語",
+      "reading": "ぶべつご",
+      "meaning": "ngôn từ xúc phạm"
+    },
+    {
+      "word": "蔑視",
+      "reading": "べっし",
+      "meaning": "sự miệt thị"
+    },
+    {
+      "word": "蔑称",
+      "reading": "べっしょう",
+      "meaning": "tên để gọi người hoặc vật một cách khinh thường"
+    },
+    {
+      "word": "蔑ろ",
+      "reading": "ないがしろ",
+      "meaning": "việc coi thường"
+    },
+    {
+      "word": "蔑む",
+      "reading": "さげすむ",
+      "meaning": "coi thường"
     }
   ]
 }

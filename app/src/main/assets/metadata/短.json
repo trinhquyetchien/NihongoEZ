@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "短い",
+      "reading": "みじかい",
+      "meaning": "cụt"
+    },
+    {
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "đoản kỳ"
+    },
+    {
+      "word": "短編",
+      "reading": "たんぺん",
+      "meaning": "truyện ngắn"
+    },
+    {
+      "word": "長短",
+      "reading": "ちょうたん",
+      "meaning": "dài ngắn"
+    },
+    {
+      "word": "短歌",
+      "reading": "たんか",
+      "meaning": "đoản ca"
+    },
+    {
+      "word": "短大",
+      "reading": "たんだい",
+      "meaning": "trường cao đẳng"
+    },
+    {
+      "word": "短気",
+      "reading": "たんき",
+      "meaning": "nóng nảy"
+    },
+    {
+      "word": "短波",
+      "reading": "たんぱ",
+      "meaning": "sóng ngắn"
+    },
+    {
       "word": "短",
       "reading": "たん",
       "meaning": "ngắn"
     },
     {
-      "word": "短辺",
-      "reading": "たんぺん",
-      "meaning": "chiều ngắn"
-    },
-    {
-      "word": "最短",
-      "reading": "さいたん",
-      "meaning": "ngắn nhất"
-    },
-    {
-      "word": "気短",
-      "reading": "きみじか",
-      "meaning": "hay cáu gắt"
-    },
-    {
-      "word": "短め",
-      "reading": "みじかめ",
-      "meaning": "khá ngắn"
-    },
-    {
-      "word": "短評",
-      "reading": "たんぴょう",
-      "meaning": "bình luận tóm tắt"
-    },
-    {
-      "word": "赤短",
-      "reading": "あかたん",
-      "meaning": "bộ sưu tập ba thẻ ruy băng thơ đỏ"
-    },
-    {
-      "word": "短路",
-      "reading": "たんろ",
-      "meaning": "mạch ngắn"
-    },
-    {
-      "word": "短筒",
-      "reading": "たんづつ",
-      "meaning": "súng lục"
-    },
-    {
-      "word": "短絡",
-      "reading": "たんらく",
-      "meaning": "chập mạch điện"
+      "word": "短日",
+      "reading": "たんじつ",
+      "meaning": "sự không làm việc cả ngày"
     }
   ]
 }

@@ -89,6 +89,21 @@
       "meaning": "tình bạn"
     },
     {
+      "word": "誼み",
+      "reading": "よしみ",
+      "meaning": "tình bạn"
+    },
+    {
+      "word": "友誼",
+      "reading": "ゆうぎ",
+      "meaning": "tình bạn"
+    },
+    {
+      "word": "厚誼",
+      "reading": "こうぎ",
+      "meaning": "lòng tử tế của bạn"
+    },
+    {
       "word": "交誼",
       "reading": "こうぎ",
       "meaning": "tình bạn"
@@ -97,11 +112,6 @@
       "word": "高誼",
       "reading": "こうぎ",
       "meaning": "tử tế hoặc đặc ân"
-    },
-    {
-      "word": "厚誼",
-      "reading": "こうぎ",
-      "meaning": "lòng tử tế của bạn"
     },
     {
       "word": "旧誼",
@@ -119,19 +129,9 @@
       "meaning": "sưởi ấm tình bạn"
     },
     {
-      "word": "誼み",
-      "reading": "よしみ",
-      "meaning": "tình bạn"
-    },
-    {
       "word": "恩誼",
       "reading": "おんぎ",
       "meaning": "trách nhiệm"
-    },
-    {
-      "word": "友誼",
-      "reading": "ゆうぎ",
-      "meaning": "tình bạn"
     }
   ]
 }

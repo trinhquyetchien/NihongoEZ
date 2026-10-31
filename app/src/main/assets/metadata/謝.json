@@ -89,34 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "謝謝",
-      "reading": "シェシェ",
-      "meaning": "cảm ơn"
-    },
-    {
-      "word": "中間代謝物|中間代謝体",
-      "reading": "ちゅうかんたいしゃぶつ|ちゅうかんたいしゃたい",
-      "meaning": "chất chuyển hóa trung gian"
-    },
-    {
-      "word": "謝意",
-      "reading": "しゃい",
-      "meaning": "lòng biết ơn"
-    },
-    {
-      "word": "謝礼",
-      "reading": "しゃれい",
-      "meaning": "lễ vật"
-    },
-    {
       "word": "謝る",
       "reading": "あやまる",
       "meaning": "xin lỗi"
     },
     {
-      "word": "謝罪",
-      "reading": "しゃざい",
-      "meaning": "sự tạ tội"
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "sự cảm tạ"
     },
     {
       "word": "月謝",
@@ -124,19 +104,39 @@
       "meaning": "tiền học hàng tháng"
     },
     {
-      "word": "謝す",
-      "reading": "しゃす",
-      "meaning": "cảm tạ"
+      "word": "謝絶",
+      "reading": "しゃぜつ",
+      "meaning": "sự từ chối"
     },
     {
-      "word": "厚謝",
-      "reading": "こうしゃ",
-      "meaning": "biết ơn sâu sắc"
+      "word": "大感謝",
+      "reading": "だいかんしゃ",
+      "meaning": "vô cùng biết ơn"
+    },
+    {
+      "word": "感謝祭",
+      "reading": "かんしゃさい",
+      "meaning": "lễ tạ ơn chúa"
+    },
+    {
+      "word": "感謝状",
+      "reading": "かんしゃじょう",
+      "meaning": "thư cảm ơn"
+    },
+    {
+      "word": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "sự tạ tội"
     },
     {
       "word": "代謝",
       "reading": "たいしゃ",
       "meaning": "sự đổi mới"
+    },
+    {
+      "word": "代謝物",
+      "reading": "たいしゃぶつ",
+      "meaning": "chất chuyển hóa"
     }
   ]
 }

@@ -92,9 +92,9 @@
       "meaning": "giây"
     },
     {
-      "word": "フェムト秒",
-      "reading": "フェムトびょう",
-      "meaning": "femto giây"
+      "word": "一秒",
+      "reading": "いちびょう",
+      "meaning": "một giây"
     },
     {
       "word": "数秒",
@@ -102,14 +102,9 @@
       "meaning": "vài giây"
     },
     {
-      "word": "閏秒",
-      "reading": "うるうびょう",
-      "meaning": "một giây nhuận"
-    },
-    {
-      "word": "ナノ秒",
-      "reading": "ナノびょう",
-      "meaning": "nano giây"
+      "word": "秒時計",
+      "reading": "びょうどけい",
+      "meaning": "đồng hồ bấm giây"
     },
     {
       "word": "ミリ秒",
@@ -117,9 +112,14 @@
       "meaning": "mili giây"
     },
     {
-      "word": "マイクロ秒",
-      "reading": "マイクロびょう",
-      "meaning": "micrô giây"
+      "word": "秒殺",
+      "reading": "びょうさつ",
+      "meaning": "đánh nhanh thắng nhanh"
+    },
+    {
+      "word": "ナノ秒",
+      "reading": "ナノびょう",
+      "meaning": "nano giây"
     },
     {
       "word": "ピコ秒",
@@ -127,14 +127,14 @@
       "meaning": "picô giây"
     },
     {
-      "word": "一秒",
-      "reading": "いちびょう",
-      "meaning": "một giây"
+      "word": "秒速",
+      "reading": "びょうそく",
+      "meaning": "tính trên đơn vị giây"
     },
     {
-      "word": "秒針",
-      "reading": "びょうしん",
-      "meaning": "kim giây"
+      "word": "秒読み",
+      "reading": "びょうよみ",
+      "meaning": "giai đoạn khẩn trương"
     }
   ]
 }

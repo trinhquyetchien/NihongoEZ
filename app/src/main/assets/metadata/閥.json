@@ -86,14 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "閥",
-      "reading": "ばつ",
-      "meaning": "bè đảng"
+      "word": "派閥",
+      "reading": "はばつ",
+      "meaning": "bè phái"
     },
     {
-      "word": "軍閥",
-      "reading": "ぐんばつ",
-      "meaning": "quân phiệt"
+      "word": "無派閥",
+      "reading": "むはばつ",
+      "meaning": "phái trung lập"
     },
     {
       "word": "財閥",
@@ -101,24 +101,24 @@
       "meaning": "đa thần"
     },
     {
-      "word": "学閥",
-      "reading": "がくばつ",
-      "meaning": "tập đoàn trường học"
+      "word": "大財閥",
+      "reading": "たいざいばつ",
+      "meaning": "đại tài phiệt"
     },
     {
-      "word": "閥族",
-      "reading": "ばつぞく",
-      "meaning": "thị tộc"
+      "word": "閥",
+      "reading": "ばつ",
+      "meaning": "bè đảng"
     },
     {
-      "word": "藩閥",
-      "reading": "はんばつ",
-      "meaning": "sự kết bè phái"
+      "word": "薩摩閥",
+      "reading": "さつまばつ",
+      "meaning": "thị tộc satsuma"
     },
     {
-      "word": "門閥",
-      "reading": "もんばつ",
-      "meaning": "nòi giống"
+      "word": "軍閥",
+      "reading": "ぐんばつ",
+      "meaning": "quân phiệt"
     },
     {
       "word": "閨閥",
@@ -126,14 +126,14 @@
       "meaning": "thị tộc"
     },
     {
-      "word": "派閥",
-      "reading": "はばつ",
-      "meaning": "bè phái"
+      "word": "学閥",
+      "reading": "がくばつ",
+      "meaning": "tập đoàn trường học"
     },
     {
-      "word": "党閥",
-      "reading": "とうばつ",
-      "meaning": "đảng phái"
+      "word": "門閥",
+      "reading": "もんばつ",
+      "meaning": "nòi giống"
     }
   ]
 }

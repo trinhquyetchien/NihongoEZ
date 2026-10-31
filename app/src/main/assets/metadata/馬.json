@@ -113,34 +113,9 @@
       "meaning": "ngựa"
     },
     {
-      "word": "馬車馬",
-      "reading": "ばしゃうま",
-      "meaning": "ngựa kéo xe"
-    },
-    {
-      "word": "競馬馬",
-      "reading": "けいばうま",
-      "meaning": "ngựa đua"
-    },
-    {
-      "word": "馬場馬術",
-      "reading": "ばばばじゅつ",
-      "meaning": "cưỡi ngựa biểu diễn"
-    },
-    {
-      "word": "白馬非馬",
-      "reading": "はくばひば",
-      "meaning": "sự nguỵ biện"
-    },
-    {
-      "word": "競馬の馬",
-      "reading": "けいばのうま",
-      "meaning": "ngựa đua"
-    },
-    {
-      "word": "馬は馬連れ",
-      "reading": "うまはうまづれ",
-      "meaning": "ngưu tầm ngưu mã tầm mã"
+      "word": "子馬",
+      "reading": "こうま",
+      "meaning": "ngựa con"
     },
     {
       "word": "父馬",
@@ -148,14 +123,39 @@
       "meaning": "ngựa đực giống"
     },
     {
-      "word": "乗馬",
-      "reading": "じょうば",
-      "meaning": "cưỡi con ngựa"
+      "word": "小馬",
+      "reading": "こうま",
+      "meaning": "ngựa nhỏ"
+    },
+    {
+      "word": "鳥馬",
+      "reading": "ちょうま",
+      "meaning": "hoét lưng hung"
+    },
+    {
+      "word": "肌馬",
+      "reading": "はだうま",
+      "meaning": "ngựa cái giống"
+    },
+    {
+      "word": "競馬馬",
+      "reading": "けいばうま",
+      "meaning": "ngựa đua"
+    },
+    {
+      "word": "羅馬",
+      "reading": "ローマ",
+      "meaning": "roma"
     },
     {
       "word": "出馬",
       "reading": "しゅつば",
       "meaning": "cưỡi ngựa"
+    },
+    {
+      "word": "馬券",
+      "reading": "ばけん",
+      "meaning": "vé cá cược"
     }
   ]
 }

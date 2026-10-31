@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
+      "word": "尊敬",
+      "reading": "そんけい",
+      "meaning": "sự tôn kính"
+    },
+    {
+      "word": "尊重",
+      "reading": "そんちょう",
+      "meaning": "sự tôn trọng"
+    },
+    {
+      "word": "尊い",
+      "reading": "とうとい",
+      "meaning": "hiếm"
+    },
+    {
       "word": "尊",
       "reading": "そん",
       "meaning": "quý giá"
     },
     {
-      "word": "尊ぶ",
-      "reading": "とうとぶ",
-      "meaning": "đánh giá cao"
+      "word": "中尊",
+      "reading": "ちゅうぞん",
+      "meaning": "hình ảnh giữa ba)"
     },
     {
-      "word": "尊師",
-      "reading": "そんし",
-      "meaning": "holy master"
+      "word": "尊上",
+      "reading": "そんじょう",
+      "meaning": "một có cấp trên"
     },
     {
-      "word": "世尊",
-      "reading": "せそん",
-      "meaning": "thế tôn"
+      "word": "尊君",
+      "reading": "そんくん",
+      "meaning": "người nào đó có cha"
     },
     {
-      "word": "慈尊",
-      "reading": "じそん",
-      "meaning": "maitreya"
+      "word": "尊下",
+      "reading": "そんか",
+      "meaning": "từ kính xưng dùng cho nam giới có vai vế tương đương"
     },
     {
-      "word": "独尊",
-      "reading": "どくそん",
-      "meaning": "tự trọng"
+      "word": "尊体",
+      "reading": "そんたい",
+      "meaning": "từ dùng để tôn vinh chân dung và tượng phật"
     },
     {
-      "word": "尊宅",
-      "reading": "そんたく",
-      "meaning": "cái nhà bạn"
-    },
-    {
-      "word": "尊名",
-      "reading": "そんめい",
-      "meaning": "quí danh"
-    },
-    {
-      "word": "尊慮",
-      "reading": "そんりょ",
-      "meaning": "bạn sẽ"
-    },
-    {
-      "word": "尊書",
-      "reading": "そんしょ",
-      "meaning": "người nào đó có bức thư"
+      "word": "尊長",
+      "reading": "そんちょう",
+      "meaning": "xếp"
     }
   ]
 }

@@ -84,14 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "地租",
-      "reading": "ちそ",
+      "word": "租税",
+      "reading": "そぜい",
       "meaning": "điền tô"
-    },
-    {
-      "word": "租界",
-      "reading": "そかい",
-      "meaning": "nhượng địa"
     },
     {
       "word": "租借",
@@ -104,19 +99,14 @@
       "meaning": "thuế hàng năm"
     },
     {
-      "word": "租税",
-      "reading": "そぜい",
-      "meaning": "điền tô"
+      "word": "租借地",
+      "reading": "そしゃくち",
+      "meaning": "đất cho thuê"
     },
     {
-      "word": "免租",
-      "reading": "めんそ",
-      "meaning": "đánh thuế sự miễn"
-    },
-    {
-      "word": "公租",
-      "reading": "こうそ",
-      "meaning": "thuế nhà nước"
+      "word": "租借権",
+      "reading": "そしゃくけん",
+      "meaning": "quyền thuê nhượng đất"
     },
     {
       "word": "貢租",
@@ -124,14 +114,24 @@
       "meaning": "thuế hàng năm"
     },
     {
-      "word": "田租",
-      "reading": "でんそ",
-      "meaning": "tô thuế"
+      "word": "地租",
+      "reading": "ちそ",
+      "meaning": "điền tô"
     },
     {
-      "word": "免租地",
-      "reading": "めんそち",
-      "meaning": "đất được miễn thuế"
+      "word": "租界",
+      "reading": "そかい",
+      "meaning": "nhượng địa"
+    },
+    {
+      "word": "公租",
+      "reading": "こうそ",
+      "meaning": "thuế nhà nước"
+    },
+    {
+      "word": "免租",
+      "reading": "めんそ",
+      "meaning": "đánh thuế sự miễn"
     }
   ]
 }

@@ -107,9 +107,24 @@
   ],
   "vocabulary": [
     {
-      "word": "駆る",
-      "reading": "かる",
-      "meaning": "bị... chi phối"
+      "word": "駆ける",
+      "reading": "かける",
+      "meaning": "chạy nhanh"
+    },
+    {
+      "word": "駆け足",
+      "reading": "かけあし",
+      "meaning": "sự chạy nhanh"
+    },
+    {
+      "word": "駆逐",
+      "reading": "くちく",
+      "meaning": "sự tiêu diệt"
+    },
+    {
+      "word": "駆逐艦",
+      "reading": "くちくかん",
+      "meaning": "khu trục hạm"
     },
     {
       "word": "駆使",
@@ -117,24 +132,9 @@
       "meaning": "tận dụng triệt để"
     },
     {
-      "word": "駆け",
-      "reading": "かけ",
-      "meaning": "phi nước đại"
-    },
-    {
-      "word": "四駆",
-      "reading": "よんく",
-      "meaning": "xe truyền động 4 bánh"
-    },
-    {
-      "word": "前駆",
-      "reading": "ぜんく",
-      "meaning": "những người tiên phong"
-    },
-    {
-      "word": "長駆",
-      "reading": "ちょうく",
-      "meaning": "một dài diễu hành"
+      "word": "駆除",
+      "reading": "くじょ",
+      "meaning": "sự tiêu diệt"
     },
     {
       "word": "駆動",
@@ -142,19 +142,19 @@
       "meaning": "lực truyền"
     },
     {
-      "word": "馳駆",
-      "reading": "ちく",
-      "meaning": "quất ngựa chạy nhanh"
+      "word": "駆動系",
+      "reading": "くどうけい",
+      "meaning": "hệ thống truyền động"
     },
     {
-      "word": "疾駆",
-      "reading": "しっく",
-      "meaning": "cưỡi nhanh"
+      "word": "駆動力",
+      "reading": "くどうりょく",
+      "meaning": "lực kéo"
     },
     {
-      "word": "先駆",
-      "reading": "せんく",
-      "meaning": "điềm báo trước"
+      "word": "駆動機",
+      "reading": "くどうき",
+      "meaning": "điều khiển"
     }
   ]
 }

@@ -89,29 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "幽幽たる",
-      "reading": "かそけかそけたる",
-      "meaning": "sâu"
+      "word": "幽霊",
+      "reading": "ゆうれい",
+      "meaning": "ma"
     },
     {
-      "word": "幽か",
-      "reading": "かすか",
-      "meaning": "ngất"
+      "word": "幽霊株",
+      "reading": "ゆうれいかぶ",
+      "meaning": "tưới nước kho"
     },
     {
-      "word": "幽玄",
-      "reading": "ゆうげん",
-      "meaning": "huyền bí"
-    },
-    {
-      "word": "幽景",
-      "reading": "ゆうけい",
-      "meaning": "sự yên tĩnh cô lập cảnh"
-    },
-    {
-      "word": "幽窓",
-      "reading": "ゆうそう",
-      "meaning": "làm yên cửa sổ"
+      "word": "幽体",
+      "reading": "ゆうたい",
+      "meaning": "thân thể ê-te"
     },
     {
       "word": "幽室",
@@ -119,24 +109,34 @@
       "meaning": "căn phòng âm u mờ tối"
     },
     {
+      "word": "幽々",
+      "reading": "ゆうゆう",
+      "meaning": "sâu"
+    },
+    {
+      "word": "幽居",
+      "reading": "ゆうきょ",
+      "meaning": "nơi ẩn dật"
+    },
+    {
+      "word": "幽客",
+      "reading": "ゆうかく",
+      "meaning": "cây lan"
+    },
+    {
+      "word": "幽鳥",
+      "reading": "ゆうちょう",
+      "meaning": "con chim núi"
+    },
+    {
+      "word": "幽窓",
+      "reading": "ゆうそう",
+      "meaning": "làm yên cửa sổ"
+    },
+    {
       "word": "幽勝",
       "reading": "ゆうしょう",
       "meaning": "cảnh yên tĩnh và đẹp"
-    },
-    {
-      "word": "幽閑",
-      "reading": "ゆうかん",
-      "meaning": "u nhàn"
-    },
-    {
-      "word": "幽谷",
-      "reading": "ゆうこく",
-      "meaning": "hẻm núi sâu"
-    },
-    {
-      "word": "幽邃",
-      "reading": "ゆうすい",
-      "meaning": "sự tĩnh lặng và sâu thẳm"
     }
   ]
 }

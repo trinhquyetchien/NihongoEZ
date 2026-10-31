@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "相互互換性",
-      "reading": "そうごごかんせい",
-      "meaning": "sự tương kết"
-    },
-    {
-      "word": "両方向交互相互動作",
-      "reading": "りょうほうこうこうごそうごどうさ",
-      "meaning": "tương tác thay thế hai chiều"
-    },
-    {
-      "word": "互角",
-      "reading": "ごかく",
-      "meaning": "sự bằng nhau"
+      "word": "お互い",
+      "reading": "おたがい",
+      "meaning": "của nhau"
     },
     {
       "word": "互い",
@@ -110,34 +100,44 @@
       "meaning": "cả hai bên"
     },
     {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "lẫn nhau"
+    },
+    {
+      "word": "交互",
+      "reading": "こうご",
+      "meaning": "sự tương tác lẫn nhau"
+    },
+    {
+      "word": "互いに",
+      "reading": "たがいに",
+      "meaning": "cùng nhau"
+    },
+    {
       "word": "互換",
       "reading": "ごかん",
       "meaning": "có thể thay cho nhau"
     },
     {
-      "word": "互生",
-      "reading": "ごせい",
-      "meaning": "xen nhau"
+      "word": "互換性",
+      "reading": "ごかんせい",
+      "meaning": "tính hợp nhau"
     },
     {
-      "word": "互譲",
-      "reading": "ごじょう",
-      "meaning": "sự nhượng bộ nhau"
+      "word": "互換機",
+      "reading": "ごかんき",
+      "meaning": "máy tương thích"
     },
     {
-      "word": "互助",
-      "reading": "ごじょ",
-      "meaning": "sự hợp tác với nhau"
+      "word": "御互い",
+      "reading": "おたがい",
+      "meaning": "lẫn nhau"
     },
     {
-      "word": "互市",
-      "reading": "ごし",
-      "meaning": "sự buôn bán với nhau"
-    },
-    {
-      "word": "互用",
-      "reading": "ごよう",
-      "meaning": "sử dụng cùng nhau"
+      "word": "互角",
+      "reading": "ごかく",
+      "meaning": "sự bằng nhau"
     }
   ]
 }

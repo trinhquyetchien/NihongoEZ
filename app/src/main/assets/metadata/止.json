@@ -102,29 +102,14 @@
   ],
   "vocabulary": [
     {
-      "word": "止むに止まれず",
-      "reading": "やむにやまれず",
-      "meaning": "không chống lại được"
+      "word": "止まる",
+      "reading": "とまる",
+      "meaning": "cố định"
     },
     {
-      "word": "止むに止まれぬ",
-      "reading": "やむにやまれぬ",
-      "meaning": "mất kiểm soát"
-    },
-    {
-      "word": "日やけ止め ひやけどめ",
-      "reading": "日やけ止め",
-      "meaning": "chống nắng"
-    },
-    {
-      "word": "阻止",
-      "reading": "そし",
-      "meaning": "sự cản trở"
-    },
-    {
-      "word": "禁止",
-      "reading": "きんし",
-      "meaning": "cấm chỉ"
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "dừng"
     },
     {
       "word": "止む",
@@ -132,24 +117,39 @@
       "meaning": "đình chỉ"
     },
     {
-      "word": "止す",
-      "reading": "よす",
-      "meaning": "bỏ"
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "cấm chỉ"
     },
     {
-      "word": "止め",
-      "reading": "とめ",
-      "meaning": "dừng lại"
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "sự cấm"
     },
     {
-      "word": "止し",
-      "reading": "さし",
-      "meaning": "dừng lại"
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "sự đình chỉ"
     },
     {
-      "word": "係止",
-      "reading": "けいし",
-      "meaning": "khóa"
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "phòng cháy"
+    },
+    {
+      "word": "廃止",
+      "reading": "はいし",
+      "meaning": "sự hủy bỏ"
+    },
+    {
+      "word": "阻止",
+      "reading": "そし",
+      "meaning": "sự cản trở"
+    },
+    {
+      "word": "静止",
+      "reading": "せいし",
+      "meaning": "sự yên lặng"
     }
   ]
 }

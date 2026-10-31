@@ -111,29 +111,39 @@
       "meaning": "huyện"
     },
     {
-      "word": "県鳥",
+      "word": "県庁",
       "reading": "けんちょう",
-      "meaning": "loại chim đặc chưng của tỉnh"
+      "meaning": "tòa nhà ủy ban hành chính tỉnh"
     },
     {
-      "word": "県道",
-      "reading": "けんどう",
-      "meaning": "tỉnh lộ"
+      "word": "来県",
+      "reading": "らいけん",
+      "meaning": "đến tỉnh"
     },
     {
-      "word": "県警",
-      "reading": "けんけい",
-      "meaning": "cảnh sát tỉnh"
+      "word": "他県",
+      "reading": "たけん",
+      "meaning": "tỉnh khác"
     },
     {
-      "word": "県境",
-      "reading": "けんざかい",
-      "meaning": "ranh giới giữa hai tỉnh"
+      "word": "県会",
+      "reading": "けんかい",
+      "meaning": "hội đồng tỉnh"
     },
     {
-      "word": "県都",
-      "reading": "けんと",
-      "meaning": "thủ phủ của tỉnh"
+      "word": "県外",
+      "reading": "けんがい",
+      "meaning": "bên ngoài chức quận trưởng"
+    },
+    {
+      "word": "県病院",
+      "reading": "けんびょういん",
+      "meaning": "bệnh viện tỉnh"
+    },
+    {
+      "word": "同県",
+      "reading": "どうけん",
+      "meaning": "sự nhìn thấu được bên trong sự vật"
     },
     {
       "word": "県社",
@@ -141,19 +151,9 @@
       "meaning": "đền thờ tỉnh"
     },
     {
-      "word": "県連",
-      "reading": "けんれん",
-      "meaning": "liên đoàn tỉnh"
-    },
-    {
-      "word": "県営",
-      "reading": "けんえい",
-      "meaning": "nơi làm việc của quận trưởng"
-    },
-    {
-      "word": "県外",
-      "reading": "けんがい",
-      "meaning": "bên ngoài chức quận trưởng"
+      "word": "県主",
+      "reading": "あがたぬし",
+      "meaning": "người đứng đầu tỉnh"
     }
   ]
 }

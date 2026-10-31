@@ -93,6 +93,16 @@
       "meaning": "chết"
     },
     {
+      "word": "逝去",
+      "reading": "せいきょ",
+      "meaning": "sự chết"
+    },
+    {
+      "word": "逝け面",
+      "reading": "いけめん",
+      "meaning": "đẹp trai"
+    },
+    {
       "word": "急逝",
       "reading": "きゅうせい",
       "meaning": "sự chết đột tử"
@@ -103,9 +113,9 @@
       "meaning": "thiện thệ"
     },
     {
-      "word": "長逝",
-      "reading": "ちょうせい",
-      "meaning": "sự chết"
+      "word": "遠逝",
+      "reading": "えんせい",
+      "meaning": "đi đến 1 nơi xa xôi"
     },
     {
       "word": "夭逝",
@@ -113,24 +123,14 @@
       "meaning": "sự chết còn non"
     },
     {
-      "word": "逝去",
-      "reading": "せいきょ",
+      "word": "長逝",
+      "reading": "ちょうせい",
       "meaning": "sự chết"
     },
     {
       "word": "永逝",
       "reading": "えいせい",
       "meaning": "chết"
-    },
-    {
-      "word": "遠逝",
-      "reading": "えんせい",
-      "meaning": "đi đến 1 nơi xa xôi"
-    },
-    {
-      "word": "逝け面",
-      "reading": "いけめん",
-      "meaning": "đẹp trai"
     }
   ]
 }

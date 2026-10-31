@@ -96,14 +96,9 @@
       "meaning": "chiếu"
     },
     {
-      "word": "起きて半畳寝て一畳",
-      "reading": "おきてはんじょうねていちじょう",
-      "meaning": "<span style=\"background-color: rgb"
-    },
-    {
-      "word": "畳韻",
-      "reading": "じょういん",
-      "meaning": "lặp lại những vần"
+      "word": "一畳",
+      "reading": "いちじょう",
+      "meaning": "một chiếu"
     },
     {
       "word": "畳数",
@@ -111,34 +106,39 @@
       "meaning": "số lượng chiếu tatami"
     },
     {
-      "word": "畳縁",
-      "reading": "たたみべり",
-      "meaning": "phần cạnh của chiếu tatami"
-    },
-    {
-      "word": "畳床",
-      "reading": "たたみとこ",
-      "meaning": "lõi chiếu tatami"
-    },
-    {
       "word": "畳物",
       "reading": "たたみもの",
       "meaning": "đồ dùng có thể gấp gọn"
     },
     {
-      "word": "畳尺",
-      "reading": "たたみじゃく",
-      "meaning": "thước gấp gọn được"
+      "word": "畳花",
+      "reading": "たたみはな",
+      "meaning": "sự hội nhập về văn hoá"
     },
     {
-      "word": "一畳",
-      "reading": "いちじょう",
-      "meaning": "một chiếu"
+      "word": "上げ畳",
+      "reading": "あげだたみ",
+      "meaning": "chỗ ngủ hay chỗ ngồi của khách quí được lót bằng hai tấm thảm ngồi đặt chồng lên nhau"
     },
     {
-      "word": "半畳",
-      "reading": "はんじょう",
-      "meaning": "tấm thảm có kích thước bằng một nửa tấm chiếu tatami dành cho một người khách ngồi"
+      "word": "六畳",
+      "reading": "ろくじょう",
+      "meaning": "đo theo đơn vị của chiếu tatami"
+    },
+    {
+      "word": "六畳間",
+      "reading": "ろくじょうま",
+      "meaning": "sáu tấm chiếu"
+    },
+    {
+      "word": "畳職",
+      "reading": "たたみしょく",
+      "meaning": "nhà sản xuất tatami"
+    },
+    {
+      "word": "畳床",
+      "reading": "たたみとこ",
+      "meaning": "lõi chiếu tatami"
     }
   ]
 }

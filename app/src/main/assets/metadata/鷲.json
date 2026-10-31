@@ -58,14 +58,9 @@
       "meaning": "đại bàng"
     },
     {
-      "word": "冠鷲",
-      "reading": "かんむりわし",
-      "meaning": "đại bàng mào"
-    },
-    {
-      "word": "大鷲",
-      "reading": "おおわし",
-      "meaning": "đại bàng vai trắng"
+      "word": "鷲手",
+      "reading": "わして",
+      "meaning": "bàn tay vuốt"
     },
     {
       "word": "犬鷲",
@@ -73,19 +68,19 @@
       "meaning": "chim ưng vàng"
     },
     {
-      "word": "禿鷲",
-      "reading": "はげわし",
-      "meaning": "con kền kền"
-    },
-    {
       "word": "鷲座",
       "reading": "わしざ",
       "meaning": "chòm sao thiên ưng"
     },
     {
-      "word": "鷲鼻",
-      "reading": "わしばな",
-      "meaning": "cái mũi diều hâu"
+      "word": "肩白鷲",
+      "reading": "かたしろわし",
+      "meaning": "đại bàng đầu nâu"
+    },
+    {
+      "word": "蛇食鷲",
+      "reading": "へびくいわし",
+      "meaning": "diều ăn rắn"
     },
     {
       "word": "髭鷲",
@@ -93,14 +88,19 @@
       "meaning": "kền kền râu"
     },
     {
-      "word": "ハルパゴルニス鷲",
-      "reading": "ハルパゴルニスわし",
-      "meaning": "đại bàng haast"
+      "word": "冠鷲",
+      "reading": "かんむりわし",
+      "meaning": "đại bàng mào"
     },
     {
-      "word": "鷲手",
-      "reading": "わして",
-      "meaning": "bàn tay vuốt"
+      "word": "鷲掴み",
+      "reading": "わしづかみ",
+      "meaning": "chụp giật sự cầm giữ"
+    },
+    {
+      "word": "樺太鷲",
+      "reading": "からふとわし",
+      "meaning": "đại bàng đen"
     }
   ]
 }

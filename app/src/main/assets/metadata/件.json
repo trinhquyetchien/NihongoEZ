@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "件",
-      "reading": "けん",
-      "meaning": "vụ"
-    },
-    {
-      "word": "件の一件",
-      "reading": "くだんのいっけん",
-      "meaning": "vấn đề trong câu hỏi"
-    },
-    {
-      "word": "条件名条件",
-      "reading": "じょうけんめいじょうけん",
-      "meaning": "điều kiện tên điều kiện"
-    },
-    {
-      "word": "件名",
-      "reading": "けんめい",
-      "meaning": "đề tài"
-    },
-    {
-      "word": "件数",
-      "reading": "けんすう",
-      "meaning": "số vụ"
-    },
-    {
-      "word": "案件",
-      "reading": "あんけん",
-      "meaning": "phương án"
-    },
-    {
       "word": "事件",
       "reading": "じけん",
       "meaning": "đương sự"
     },
     {
-      "word": "本件",
-      "reading": "ほんけん",
-      "meaning": "vấn đề này"
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "điều kiện"
     },
     {
-      "word": "前件",
-      "reading": "ぜんけん",
-      "meaning": "về trước"
+      "word": "用件",
+      "reading": "ようけん",
+      "meaning": "việc"
     },
     {
-      "word": "別件",
-      "reading": "べっけん",
-      "meaning": "phân ra trường hợp khác quan trọng"
+      "word": "件",
+      "reading": "けん",
+      "meaning": "vụ"
+    },
+    {
+      "word": "大事件",
+      "reading": "だいじけん",
+      "meaning": "sự kiện lớn"
+    },
+    {
+      "word": "一件",
+      "reading": "いっけん",
+      "meaning": "một sự kiện"
+    },
+    {
+      "word": "数件",
+      "reading": "すうけん",
+      "meaning": "một vài mục"
+    },
+    {
+      "word": "事件屋",
+      "reading": "じけんや",
+      "meaning": "người giải quyết vấn đề"
+    },
+    {
+      "word": "小事件",
+      "reading": "しょうじけん",
+      "meaning": "sự kiện nhỏ"
+    },
+    {
+      "word": "条件名",
+      "reading": "じょうけんめい",
+      "meaning": "tên điều kiện"
     }
   ]
 }

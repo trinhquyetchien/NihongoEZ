@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "酌",
-      "reading": "しゃく",
-      "meaning": "việc rót rượu"
-    },
-    {
-      "word": "酌量",
-      "reading": "しゃくりょう",
-      "meaning": "sự xem xét"
-    },
-    {
-      "word": "参酌",
-      "reading": "さんしゃく",
-      "meaning": "sự so sánh và đưa ra lựa chọn tốt"
+      "word": "酌む",
+      "reading": "くむ",
+      "meaning": "phục vụ"
     },
     {
       "word": "晩酌",
@@ -107,34 +97,44 @@
       "meaning": "đồ uống buổi tối"
     },
     {
-      "word": "独酌",
-      "reading": "どくしゃく",
-      "meaning": "sự uống một mình"
+      "word": "酌量",
+      "reading": "しゃくりょう",
+      "meaning": "sự xem xét"
     },
     {
-      "word": "媒酌",
-      "reading": "ばいしゃく",
-      "meaning": "sự làm mai"
-    },
-    {
-      "word": "酌む",
-      "reading": "くむ",
-      "meaning": "phục vụ"
-    },
-    {
-      "word": "献酌",
-      "reading": "けんしゃく",
-      "meaning": "sự đề nghị tặng một đồ uống"
-    },
-    {
-      "word": "酌婦",
-      "reading": "しゃくふ",
-      "meaning": "cô gái phục vụ ở quán rượu"
+      "word": "酌",
+      "reading": "しゃく",
+      "meaning": "việc rót rượu"
     },
     {
       "word": "御酌",
       "reading": "おしゃく",
       "meaning": "vũ nữ nhật"
+    },
+    {
+      "word": "お酌",
+      "reading": "おしゃく",
+      "meaning": "gái nhảy"
+    },
+    {
+      "word": "相酌",
+      "reading": "あいじゃく",
+      "meaning": "cùng nhau uống rượu bằng cách rót cho nhau"
+    },
+    {
+      "word": "斟酌",
+      "reading": "しんしゃく",
+      "meaning": "sự xem xét"
+    },
+    {
+      "word": "媒酌人",
+      "reading": "ばいしゃくにん",
+      "meaning": "người làm mai"
+    },
+    {
+      "word": "手酌",
+      "reading": "てじゃく",
+      "meaning": "sự tự rót rượu cho mình"
     }
   ]
 }

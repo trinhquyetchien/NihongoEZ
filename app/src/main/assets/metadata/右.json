@@ -95,9 +95,14 @@
       "meaning": "bên phải"
     },
     {
-      "word": "右側",
-      "reading": "みぎがわ",
-      "meaning": "bên hữu"
+      "word": "左右",
+      "reading": "さゆう",
+      "meaning": "phải trái"
+    },
+    {
+      "word": "右方",
+      "reading": "うほう",
+      "meaning": "bên phải"
     },
     {
       "word": "右上",
@@ -105,24 +110,9 @@
       "meaning": "trên quyền"
     },
     {
-      "word": "右足",
-      "reading": "みぎあし",
-      "meaning": "chân phải"
-    },
-    {
-      "word": "座右",
-      "reading": "ざゆう",
-      "meaning": "ở cạnh ai đó"
-    },
-    {
-      "word": "右左",
-      "reading": "みぎひだり",
-      "meaning": "phải trái"
-    },
-    {
-      "word": "右横",
-      "reading": "みぎよこ",
-      "meaning": "phía bên phải"
+      "word": "上右",
+      "reading": "うえみぎ",
+      "meaning": "góc trên bên phải"
     },
     {
       "word": "下右",
@@ -130,14 +120,24 @@
       "meaning": "phía dưới bên phải"
     },
     {
-      "word": "右フック",
-      "reading": "みぎフック",
-      "meaning": "cú móc phải"
+      "word": "右下",
+      "reading": "みぎした",
+      "meaning": "thấp hơn quyền"
     },
     {
-      "word": "右辺",
-      "reading": "うへん",
-      "meaning": "vế phải"
+      "word": "右面",
+      "reading": "うめん",
+      "meaning": "mặt bên phải"
+    },
+    {
+      "word": "右巻",
+      "reading": "みぎまき",
+      "meaning": "theo chiều kim đồng hồ"
+    },
+    {
+      "word": "右横",
+      "reading": "みぎよこ",
+      "meaning": "phía bên phải"
     }
   ]
 }

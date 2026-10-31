@@ -94,14 +94,9 @@
       "meaning": "quân đội"
     },
     {
-      "word": "将軍",
-      "reading": "しょうぐん",
-      "meaning": "tướng quân"
-    },
-    {
-      "word": "軍職",
-      "reading": "ぐんしょく",
-      "meaning": "quan chức trong quân đội"
+      "word": "軍隊",
+      "reading": "ぐんたい",
+      "meaning": "binh"
     },
     {
       "word": "軍事",
@@ -109,34 +104,39 @@
       "meaning": "binh quyền"
     },
     {
-      "word": "軍部",
-      "reading": "ぐんぶ",
-      "meaning": "bộ binh"
+      "word": "軍車",
+      "reading": "ぐんしゃ",
+      "meaning": "xe tăng"
     },
     {
-      "word": "軍勢",
-      "reading": "ぐんぜい",
-      "meaning": "sức mạnh quân đội"
+      "word": "軍道",
+      "reading": "ぐんどう",
+      "meaning": "con đường quân đội"
     },
     {
-      "word": "軍隊",
-      "reading": "ぐんたい",
-      "meaning": "binh"
+      "word": "軍長",
+      "reading": "ぐんちょう",
+      "meaning": "trung sĩ"
     },
     {
-      "word": "軍団",
-      "reading": "ぐんだん",
-      "meaning": "đoàn quân"
+      "word": "白軍",
+      "reading": "はくぐん",
+      "meaning": "bạch vệ nga"
     },
     {
-      "word": "軍手",
-      "reading": "ぐんて",
-      "meaning": "găng tay dùng trong lao động"
+      "word": "軍士",
+      "reading": "ぐんし",
+      "meaning": "đi lính"
     },
     {
-      "word": "自軍",
-      "reading": "じぐん",
-      "meaning": "đội của riêng mình"
+      "word": "軍器",
+      "reading": "ぐんき",
+      "meaning": "vũ khí"
+    },
+    {
+      "word": "将軍",
+      "reading": "しょうぐん",
+      "meaning": "tướng quân"
     }
   ]
 }

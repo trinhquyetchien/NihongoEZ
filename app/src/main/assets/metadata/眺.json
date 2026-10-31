@@ -87,13 +87,18 @@
   ],
   "vocabulary": [
     {
-      "word": "眺望",
-      "reading": "ちょうぼう",
+      "word": "眺め",
+      "reading": "ながめ",
       "meaning": "tầm nhìn"
     },
     {
-      "word": "眺め",
-      "reading": "ながめ",
+      "word": "眺める",
+      "reading": "ながめる",
+      "meaning": "nhìn"
+    },
+    {
+      "word": "眺望",
+      "reading": "ちょうぼう",
       "meaning": "tầm nhìn"
     },
     {
@@ -102,24 +107,19 @@
       "meaning": "quyền được ngắm một cảnh quan"
     },
     {
-      "word": "眺める",
-      "reading": "ながめる",
-      "meaning": "nhìn"
-    },
-    {
       "word": "眺めやる",
       "reading": "ながめやる",
       "meaning": "nhìn xa xăm"
     },
     {
-      "word": "眺め回す",
-      "reading": "ながめまわす",
-      "meaning": "nhìn xung quanh"
-    },
-    {
       "word": "模様眺め",
       "reading": "もようながめ",
       "meaning": "sự quan sát tình hình"
+    },
+    {
+      "word": "眺め回す",
+      "reading": "ながめまわす",
+      "meaning": "nhìn xung quanh"
     },
     {
       "word": "月を眺める",

@@ -108,39 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "絶え絶え",
-      "reading": "たえだえ",
-      "meaning": "yếu ớt"
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "sự tuyệt đối"
     },
     {
-      "word": "絶対絶命",
-      "reading": "ぜったいぜつめい",
-      "meaning": "tình trạng tuyệt vọng"
-    },
-    {
-      "word": "絶体絶命",
-      "reading": "ぜったいぜつめい",
-      "meaning": "sự không có lối thoát"
-    },
-    {
-      "word": "息も絶え絶え",
-      "reading": "いきもたえだえ",
-      "meaning": "thở hổn hển"
-    },
-    {
-      "word": "絶版",
-      "reading": "ぜっぱん",
-      "meaning": "bản chỉ in một lần rồi bỏ"
-    },
-    {
-      "word": "絶大",
-      "reading": "ぜつだい",
-      "meaning": "sự tuyệt đại"
-    },
-    {
-      "word": "根絶",
-      "reading": "こんぜつ",
-      "meaning": "sự diệt tận gốc"
+      "word": "絶望",
+      "reading": "ぜつぼう",
+      "meaning": "sự tuyệt vọng"
     },
     {
       "word": "拒絶",
@@ -148,14 +123,39 @@
       "meaning": "sự cự tuyệt"
     },
     {
-      "word": "絶世",
-      "reading": "ぜっせい",
-      "meaning": "có một không hai"
+      "word": "絶版",
+      "reading": "ぜっぱん",
+      "meaning": "bản chỉ in một lần rồi bỏ"
     },
     {
-      "word": "絶食",
-      "reading": "ぜっしょく",
-      "meaning": "tuyệt thực"
+      "word": "謝絶",
+      "reading": "しゃぜつ",
+      "meaning": "sự từ chối"
+    },
+    {
+      "word": "超絶",
+      "reading": "ちょうぜつ",
+      "meaning": "tính siêu việt"
+    },
+    {
+      "word": "絶妙",
+      "reading": "ぜつみょう",
+      "meaning": "sự tuyệt diệu"
+    },
+    {
+      "word": "絶頂",
+      "reading": "ぜっちょう",
+      "meaning": "tuyệt đỉnh"
+    },
+    {
+      "word": "絶大",
+      "reading": "ぜつだい",
+      "meaning": "sự tuyệt đại"
+    },
+    {
+      "word": "壮絶",
+      "reading": "そうぜつ",
+      "meaning": "chính"
     }
   ]
 }

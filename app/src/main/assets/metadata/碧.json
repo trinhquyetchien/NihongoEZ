@@ -67,34 +67,14 @@
   ],
   "vocabulary": [
     {
-      "word": "碧色",
-      "reading": "へきしょく",
-      "meaning": "màu ngọc lục bảo"
-    },
-    {
-      "word": "丹碧",
-      "reading": "たんぺき",
-      "meaning": "xanh đỏ"
-    },
-    {
       "word": "碧い",
       "reading": "あおい",
       "meaning": "xanh da trời"
     },
     {
-      "word": "碧眼",
-      "reading": "へきがん",
-      "meaning": "mắt xanh"
-    },
-    {
-      "word": "碧水",
-      "reading": "へきすい",
-      "meaning": "biển cả"
-    },
-    {
-      "word": "碧空",
-      "reading": "へきくう",
-      "meaning": "bầu trời xanh"
+      "word": "碧色",
+      "reading": "へきしょく",
+      "meaning": "màu ngọc lục bảo"
     },
     {
       "word": "碧山",
@@ -102,14 +82,34 @@
       "meaning": "những núi xanh lục"
     },
     {
-      "word": "碧玉",
-      "reading": "へきぎょく",
-      "meaning": "ngọc bích"
+      "word": "丹碧",
+      "reading": "たんぺき",
+      "meaning": "xanh đỏ"
+    },
+    {
+      "word": "碧眼",
+      "reading": "へきがん",
+      "meaning": "mắt xanh"
     },
     {
       "word": "紺碧",
       "reading": "こんぺき",
       "meaning": "xanh đậm"
+    },
+    {
+      "word": "碧玉",
+      "reading": "へきぎょく",
+      "meaning": "ngọc bích"
+    },
+    {
+      "word": "黄碧玉",
+      "reading": "こうへきぎょく",
+      "meaning": "nhuốm vàng vân thạch"
+    },
+    {
+      "word": "碧空",
+      "reading": "へきくう",
+      "meaning": "bầu trời xanh"
     },
     {
       "word": "三碧",

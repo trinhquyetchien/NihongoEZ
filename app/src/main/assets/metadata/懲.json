@@ -90,14 +90,34 @@
   ],
   "vocabulary": [
     {
-      "word": "懲り懲り",
-      "reading": "こりごり",
-      "meaning": "chán ngấy"
+      "word": "懲りる",
+      "reading": "こりる",
+      "meaning": "nhận được một bài học"
+    },
+    {
+      "word": "懲役",
+      "reading": "ちょうえき",
+      "meaning": "phạt tù cải tạo"
     },
     {
       "word": "懲戒",
       "reading": "ちょうかい",
       "meaning": "sự phạt"
+    },
+    {
+      "word": "懲役刑",
+      "reading": "ちょうえきけい",
+      "meaning": "án tù"
+    },
+    {
+      "word": "懲罰",
+      "reading": "ちょうばつ",
+      "meaning": "sự trừng phạt"
+    },
+    {
+      "word": "性懲り",
+      "reading": "しょうこり",
+      "meaning": "bền bỉ"
     },
     {
       "word": "懲悪",
@@ -110,21 +130,6 @@
       "meaning": "sự trừng phạt nghiêm khắc"
     },
     {
-      "word": "懲役",
-      "reading": "ちょうえき",
-      "meaning": "phạt tù cải tạo"
-    },
-    {
-      "word": "懲罰",
-      "reading": "ちょうばつ",
-      "meaning": "sự trừng phạt"
-    },
-    {
-      "word": "懲役刑",
-      "reading": "ちょうえきけい",
-      "meaning": "án tù"
-    },
-    {
       "word": "懲治監",
       "reading": "ちょうじかん",
       "meaning": "trại giáo dưỡng"
@@ -133,11 +138,6 @@
       "word": "懲らす",
       "reading": "こらす",
       "meaning": "trừng trị"
-    },
-    {
-      "word": "性懲り",
-      "reading": "しょうこり",
-      "meaning": "bền bỉ"
     }
   ]
 }

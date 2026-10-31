@@ -112,24 +112,9 @@
       "meaning": "câu chuyện"
     },
     {
-      "word": "話話",
-      "reading": "はなしばなし",
-      "meaning": "chuyện phiếm"
-    },
-    {
-      "word": "電話対話",
-      "reading": "でんわたいわ",
-      "meaning": "đối thoại qua điện thoại"
-    },
-    {
-      "word": "再話",
-      "reading": "さいわ",
-      "meaning": "sự nói lại"
-    },
-    {
-      "word": "神話",
-      "reading": "しんわ",
-      "meaning": "thần thoại"
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "điện thoại"
     },
     {
       "word": "世話",
@@ -137,24 +122,39 @@
       "meaning": "sự chăm sóc"
     },
     {
-      "word": "寓話",
-      "reading": "ぐうわ",
-      "meaning": "truyện ngụ ngôn"
+      "word": "神話",
+      "reading": "しんわ",
+      "meaning": "thần thoại"
     },
     {
-      "word": "お話",
-      "reading": "おはなし",
-      "meaning": "câu chuyện"
+      "word": "童話",
+      "reading": "どうわ",
+      "meaning": "truyện đồng thoại"
     },
     {
-      "word": "噂話",
-      "reading": "うわさばなし",
-      "meaning": "ngồi lê mách lẻo"
+      "word": "話話",
+      "reading": "はなしばなし",
+      "meaning": "chuyện phiếm"
     },
     {
-      "word": "送話",
-      "reading": "そうわ",
-      "meaning": "sự truyền"
+      "word": "口話",
+      "reading": "こうわ",
+      "meaning": "phương pháp đọc khẩu hình"
+    },
+    {
+      "word": "話し",
+      "reading": "はなし",
+      "meaning": "nói"
+    },
+    {
+      "word": "米話",
+      "reading": "べいわ",
+      "meaning": "người mỹ nói"
+    },
+    {
+      "word": "話々",
+      "reading": "はなしばなし",
+      "meaning": "chuyện phiếm"
     }
   ]
 }

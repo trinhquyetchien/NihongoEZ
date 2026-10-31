@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
+      "word": "豊富",
+      "reading": "ほうふ",
+      "meaning": "phong phú"
+    },
+    {
       "word": "富",
       "reading": "とみ",
       "meaning": "của cải"
     },
     {
-      "word": "国富",
-      "reading": "こくふ",
-      "meaning": "sự giàu có của quốc gia"
+      "word": "富豪",
+      "reading": "ふごう",
+      "meaning": "phú ông"
     },
     {
-      "word": "富鉱",
-      "reading": "ふこう",
-      "meaning": "quặng giàu"
+      "word": "富む",
+      "reading": "とむ",
+      "meaning": "giàu có"
     },
     {
-      "word": "富魚",
-      "reading": "とみよ",
-      "meaning": "cá pungitius sinensis"
+      "word": "豊富な",
+      "reading": "ほうふな",
+      "meaning": "chan chát"
     },
     {
-      "word": "富有",
-      "reading": "ふゆう",
-      "meaning": "giàu"
+      "word": "富山県",
+      "reading": "とやまけん",
+      "meaning": "chức quận trưởng trong vùng hokuriku"
     },
     {
-      "word": "富力",
-      "reading": "ふりょく",
-      "meaning": "của cải"
+      "word": "初富士",
+      "reading": "はつふじ",
+      "meaning": "việc ngắm núi phú sĩ vào ngày đầu năm mới"
     },
     {
-      "word": "富強",
-      "reading": "ふきょう",
-      "meaning": "giàu có hùng mạnh"
+      "word": "富士派",
+      "reading": "ふじは",
+      "meaning": "phái fuji trong nghệ thuật nhật bản"
     },
     {
-      "word": "富貴",
-      "reading": "ふうき",
-      "meaning": "phú quý"
+      "word": "赤富士",
+      "reading": "あかふじ",
+      "meaning": "khi núi phú sĩ xuất hiện màu đỏ do ánh nắng mặt trời"
     },
     {
-      "word": "巨富",
-      "reading": "きょふ",
-      "meaning": "giàu sụ"
-    },
-    {
-      "word": "富嶽",
-      "reading": "ふがく",
-      "meaning": "mt. fuji"
+      "word": "富士桜",
+      "reading": "ふじざくら",
+      "meaning": "anh đào phú sĩ"
     }
   ]
 }

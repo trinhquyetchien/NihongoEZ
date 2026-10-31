@@ -112,19 +112,14 @@
       "meaning": "bóng tối"
     },
     {
-      "word": "陰陰",
-      "reading": "いんいん",
-      "meaning": "cô đơn"
+      "word": "陰で",
+      "reading": "かげで",
+      "meaning": "đằng sau sau ai đó"
     },
     {
-      "word": "陰陰滅滅",
-      "reading": "いんいんめつめつ",
-      "meaning": "tối tăm"
-    },
-    {
-      "word": "お陰",
-      "reading": "おかげ",
-      "meaning": "cái bóng"
+      "word": "陰に",
+      "reading": "いんに",
+      "meaning": "một cách bí mật"
     },
     {
       "word": "陰的",
@@ -132,29 +127,34 @@
       "meaning": "ẩn"
     },
     {
-      "word": "陰線",
-      "reading": "いんせん",
-      "meaning": "nét khuất"
+      "word": "会陰",
+      "reading": "えいん",
+      "meaning": "tầng sinh môn"
     },
     {
-      "word": "樹陰",
-      "reading": "じゅいん",
-      "meaning": "bóng râm của cái cây"
+      "word": "お陰",
+      "reading": "おかげ",
+      "meaning": "cái bóng"
     },
     {
-      "word": "光陰",
-      "reading": "こういん",
-      "meaning": "thời gian"
+      "word": "陰道",
+      "reading": "いんどう",
+      "meaning": "âm đạo"
     },
     {
-      "word": "太陰",
-      "reading": "たいいん",
-      "meaning": "mặt trăng"
+      "word": "五陰",
+      "reading": "ごおん",
+      "meaning": "ngũ uẩn"
     },
     {
-      "word": "陰で",
-      "reading": "かげで",
-      "meaning": "đằng sau sau ai đó"
+      "word": "陰府",
+      "reading": "いんぷ",
+      "meaning": "địa ngục"
+    },
+    {
+      "word": "陰核",
+      "reading": "いんかく",
+      "meaning": "âm vật"
     }
   ]
 }

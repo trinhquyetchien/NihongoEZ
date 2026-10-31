@@ -87,34 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "指揮",
-      "reading": "しき",
-      "meaning": "chỉ huy"
-    },
-    {
-      "word": "揮う",
-      "reading": "ふるう",
-      "meaning": "sử dụng"
-    },
-    {
-      "word": "揮毫",
-      "reading": "きごう",
-      "meaning": "viết tay"
-    },
-    {
       "word": "発揮",
       "reading": "はっき",
       "meaning": "sự phát huy"
     },
     {
-      "word": "揮発",
-      "reading": "きはつ",
-      "meaning": "sự bay hơi"
-    },
-    {
-      "word": "揮散",
-      "reading": "きさん",
-      "meaning": "sự bay hơi"
+      "word": "指揮",
+      "reading": "しき",
+      "meaning": "chỉ huy"
     },
     {
       "word": "指揮者",
@@ -122,19 +102,39 @@
       "meaning": "người chỉ huy"
     },
     {
+      "word": "指揮所",
+      "reading": "しきじょ",
+      "meaning": "sở chỉ huy"
+    },
+    {
       "word": "指揮官",
       "reading": "しきかん",
       "meaning": "sĩ quan chỉ huy"
     },
     {
+      "word": "指揮権",
+      "reading": "しきけん",
+      "meaning": "phải để ra lệnh"
+    },
+    {
+      "word": "総指揮",
+      "reading": "そうしき",
+      "meaning": "tối cao ra lệnh"
+    },
+    {
+      "word": "揮発",
+      "reading": "きはつ",
+      "meaning": "sự bay hơi"
+    },
+    {
+      "word": "揮発性",
+      "reading": "きはつせい",
+      "meaning": "tính bay hơi"
+    },
+    {
       "word": "揮発度",
       "reading": "きはつど",
       "meaning": "tính chất dễ bay hơi"
-    },
-    {
-      "word": "指揮所",
-      "reading": "しきじょ",
-      "meaning": "sở chỉ huy"
     }
   ]
 }

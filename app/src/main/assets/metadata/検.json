@@ -106,39 +106,24 @@
   ],
   "vocabulary": [
     {
-      "word": "検出検査紙",
-      "reading": "けんしゅつけんさかみ",
-      "meaning": "giấy thử"
-    },
-    {
-      "word": "検出検査キット",
-      "reading": "けんしゅつけんさキット",
-      "meaning": "bộ thử"
-    },
-    {
-      "word": "検眼鏡検査",
-      "reading": "けんがんきょうけんさ",
-      "meaning": "soi đáy mắt"
-    },
-    {
-      "word": "検出検査紙/キット",
-      "reading": "けんしゅつけんさかみ/キット",
-      "meaning": "ống tiếp xúc vi khuẩn"
-    },
-    {
-      "word": "検視",
-      "reading": "けんし",
-      "meaning": "khám nghiệm"
-    },
-    {
       "word": "検査",
       "reading": "けんさ",
       "meaning": "sự kiểm tra"
     },
     {
-      "word": "検眼",
-      "reading": "けんがん",
-      "meaning": "phép đo thị lực"
+      "word": "検討",
+      "reading": "けんとう",
+      "meaning": "thảo luận"
+    },
+    {
+      "word": "検事",
+      "reading": "けんじ",
+      "meaning": "công tố viên"
+    },
+    {
+      "word": "検証",
+      "reading": "けんしょう",
+      "meaning": "kiểm tra"
     },
     {
       "word": "検出",
@@ -146,14 +131,29 @@
       "meaning": "sự dò tìm"
     },
     {
-      "word": "検閲",
-      "reading": "けんえつ",
-      "meaning": "sự kiểm duyệt"
+      "word": "検定",
+      "reading": "けんてい",
+      "meaning": "sự kiểm định"
     },
     {
-      "word": "検問",
-      "reading": "けんもん",
-      "meaning": "hỏi và kiểm tra xem có bất kỳ vi phạm hoặc nghi ngờ nào không. đặc biệt"
+      "word": "生検",
+      "reading": "せいけん",
+      "meaning": "sinh thiết"
+    },
+    {
+      "word": "内検",
+      "reading": "ないけん",
+      "meaning": "sự kiểm tra sơ bộ"
+    },
+    {
+      "word": "検図",
+      "reading": "けんず",
+      "meaning": "kiểm tra bản vẽ"
+    },
+    {
+      "word": "英検",
+      "reading": "えいけん",
+      "meaning": "bài kiểm tra tiếng anh"
     }
   ]
 }

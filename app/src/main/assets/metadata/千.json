@@ -77,34 +77,29 @@
       "meaning": "con số một nghìn"
     },
     {
-      "word": "千千",
-      "reading": "ちぢ",
-      "meaning": "đa dạng"
+      "word": "千日",
+      "reading": "せんにち",
+      "meaning": "một nghìn ngày"
     },
     {
-      "word": "千千に",
-      "reading": "ちぢに",
-      "meaning": "trong những mảnh"
+      "word": "千年",
+      "reading": "せんねん",
+      "meaning": "nghìn năm"
     },
     {
-      "word": "海千山千",
-      "reading": "うみせんやません",
-      "meaning": "cáo già"
+      "word": "何千",
+      "reading": "なんぜん",
+      "meaning": "vài ngàn"
     },
     {
-      "word": "千人千色",
-      "reading": "せんにんせんしょく",
-      "meaning": "mỗi người mỗi ý"
+      "word": "一千",
+      "reading": "いっせん",
+      "meaning": "1"
     },
     {
-      "word": "三千大千世界",
-      "reading": "さんぜんだいせんせかい",
-      "meaning": "toàn bộ vũ trụ"
-    },
-    {
-      "word": "千代に八千代に",
-      "reading": "ちよにやちよに",
-      "meaning": "ngàn năm"
+      "word": "千分",
+      "reading": "せんぶん",
+      "meaning": "bộ phận bởi 1000"
     },
     {
       "word": "千円",
@@ -112,14 +107,19 @@
       "meaning": "1000 đồng yên"
     },
     {
-      "word": "千歳",
-      "reading": "ちとせ",
-      "meaning": "nghìn năm"
+      "word": "数千",
+      "reading": "すうせん",
+      "meaning": "hàng nghìn"
     },
     {
-      "word": "千載",
-      "reading": "せんざい",
-      "meaning": "nghìn năm"
+      "word": "万千",
+      "reading": "ばんせん",
+      "meaning": "số kinh khủng"
+    },
+    {
+      "word": "千度",
+      "reading": "せんど",
+      "meaning": "nghìn lần"
     }
   ]
 }

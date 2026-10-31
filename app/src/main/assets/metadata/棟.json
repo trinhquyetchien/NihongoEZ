@@ -94,19 +94,39 @@
       "meaning": "nóc nhà"
     },
     {
+      "word": "一棟",
+      "reading": "ひとむね",
+      "meaning": "một căn nhà"
+    },
+    {
+      "word": "大棟",
+      "reading": "おおむね",
+      "meaning": "mái kèo chính"
+    },
+    {
       "word": "号棟",
       "reading": "ごうとう",
       "meaning": "ký hiệu căn số 1 căn số 2 “1号棟。2号棟"
     },
     {
-      "word": "隅棟",
-      "reading": "すみむね",
-      "meaning": "cạnh đỉnh hồi"
+      "word": "管理棟",
+      "reading": "かんりとう",
+      "meaning": "tòa nhà hành chính"
     },
     {
-      "word": "棟瓦",
-      "reading": "むながわら",
-      "meaning": "ngói bò"
+      "word": "期棟",
+      "reading": "きとう",
+      "meaning": "nhà máy"
+    },
+    {
+      "word": "翼棟",
+      "reading": "よくとう",
+      "meaning": "cánh một tòa nhà)"
+    },
+    {
+      "word": "寄せ棟",
+      "reading": "よせむね",
+      "meaning": "mái có mái hồi"
     },
     {
       "word": "棟札",
@@ -114,29 +134,9 @@
       "meaning": "thẻ mô tả lịch sử"
     },
     {
-      "word": "一棟",
-      "reading": "ひとむね",
-      "meaning": "một căn nhà"
-    },
-    {
-      "word": "病棟",
-      "reading": "びょうとう",
-      "meaning": "phòng bệnh"
-    },
-    {
-      "word": "棟木",
-      "reading": "むなぎ",
-      "meaning": "gỗ làm nóc nhà"
-    },
-    {
-      "word": "上棟",
-      "reading": "じょうとう",
-      "meaning": "sự dựng nhà"
-    },
-    {
-      "word": "別棟",
-      "reading": "べつむね",
-      "meaning": "tòa nhà riêng biệt"
+      "word": "山棟蛇",
+      "reading": "やまかがし",
+      "meaning": "con rắn độc)"
     }
   ]
 }

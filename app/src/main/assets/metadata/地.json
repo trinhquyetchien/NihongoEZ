@@ -88,39 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "地",
-      "reading": "ち",
-      "meaning": "đất"
-    },
-    {
       "word": "地震",
       "reading": "じしん",
       "meaning": "động đất"
-    },
-    {
-      "word": "地対地",
-      "reading": "ちたいち",
-      "meaning": "đất đối đất"
-    },
-    {
-      "word": "地震地帯",
-      "reading": "じしんちたい",
-      "meaning": "phần địa chấn"
-    },
-    {
-      "word": "白地地域",
-      "reading": "しろじちいき",
-      "meaning": "khu vực trắng"
-    },
-    {
-      "word": "地産地消",
-      "reading": "ちさんちしょう",
-      "meaning": "tự cung tự cấp"
-    },
-    {
-      "word": "地点遠隔地",
-      "reading": "ちてんえんかくち",
-      "meaning": "vị trí ở xa"
     },
     {
       "word": "地理",
@@ -128,14 +98,44 @@
       "meaning": "địa lý"
     },
     {
+      "word": "地",
+      "reading": "ち",
+      "meaning": "đất"
+    },
+    {
       "word": "地区",
       "reading": "ちく",
       "meaning": "cõi"
     },
     {
+      "word": "産地",
+      "reading": "さんち",
+      "meaning": "nơi sản xuất"
+    },
+    {
       "word": "無地",
       "reading": "むじ",
       "meaning": "sự trơn"
+    },
+    {
+      "word": "耕地",
+      "reading": "こうち",
+      "meaning": "đất canh tác"
+    },
+    {
+      "word": "現地",
+      "reading": "げんち",
+      "meaning": "tại chỗ"
+    },
+    {
+      "word": "心地",
+      "reading": "ここち",
+      "meaning": "tâm địa"
+    },
+    {
+      "word": "下地",
+      "reading": "したじ",
+      "meaning": "nền"
     }
   ]
 }

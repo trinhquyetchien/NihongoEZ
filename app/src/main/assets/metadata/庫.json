@@ -90,19 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "入庫/出庫伝票",
-      "reading": "にゅうこ/しゅっこでんぴょう",
-      "meaning": "phiếu nhập kho/phiếu xuất kho"
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "kho ướp lạnh"
     },
     {
-      "word": "書庫",
-      "reading": "しょこ",
-      "meaning": "kho sách"
+      "word": "金庫",
+      "reading": "きんこ",
+      "meaning": "két bạc"
     },
     {
-      "word": "国庫",
-      "reading": "こっこ",
-      "meaning": "kho bạc nhà nước"
+      "word": "倉庫",
+      "reading": "そうこ",
+      "meaning": "kho hàng"
     },
     {
       "word": "車庫",
@@ -115,29 +115,29 @@
       "meaning": "lưu kho"
     },
     {
-      "word": "府庫",
-      "reading": "ふこ",
-      "meaning": "kho bạc"
+      "word": "兵庫県",
+      "reading": "ひょうごけん",
+      "meaning": "tỉnh hyougo"
     },
     {
-      "word": "庫内",
-      "reading": "こない",
-      "meaning": "bên trong"
+      "word": "文庫",
+      "reading": "ぶんこ",
+      "meaning": "bảo tàng sách"
     },
     {
-      "word": "艇庫",
-      "reading": "ていこ",
-      "meaning": "kho đặt trên tàu"
+      "word": "文庫化",
+      "reading": "ぶんこか",
+      "meaning": "xuất bản trong bìa thường"
     },
     {
-      "word": "武庫",
-      "reading": "ぶこ",
-      "meaning": "kho vũ khí"
+      "word": "横兵庫",
+      "reading": "よこひょうご",
+      "meaning": "kiểu tóc của các kỹ nữ thời edo"
     },
     {
-      "word": "入庫",
-      "reading": "にゅうこ",
-      "meaning": "nhập kho"
+      "word": "文庫版",
+      "reading": "ぶんこばん",
+      "meaning": "phiên bản bìa mềm"
     }
   ]
 }

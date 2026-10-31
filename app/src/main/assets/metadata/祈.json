@@ -94,39 +94,9 @@
       "meaning": "cầu nguyện"
     },
     {
-      "word": "祈祷",
-      "reading": "きとう",
-      "meaning": "lễ cầu nguyện"
-    },
-    {
-      "word": "祈願",
-      "reading": "きがん",
-      "meaning": "đảo"
-    },
-    {
-      "word": "祈誓",
-      "reading": "きせい",
-      "meaning": "lời nguyền"
-    },
-    {
-      "word": "祈念",
-      "reading": "きねん",
-      "meaning": "kinh cầu nguyện"
-    },
-    {
-      "word": "祈請",
-      "reading": "きせい",
-      "meaning": "lời cầu xin"
-    },
-    {
       "word": "祈り",
       "reading": "いのり",
       "meaning": "cầu nguyện"
-    },
-    {
-      "word": "お祈り",
-      "reading": "おいのり",
-      "meaning": "lời cầu xin"
     },
     {
       "word": "祈り会",
@@ -134,9 +104,39 @@
       "meaning": "buổi cầu nguyện"
     },
     {
+      "word": "お祈り",
+      "reading": "おいのり",
+      "meaning": "lời cầu xin"
+    },
+    {
+      "word": "祈願",
+      "reading": "きがん",
+      "meaning": "đảo"
+    },
+    {
+      "word": "祈願所",
+      "reading": "きがんじょ",
+      "meaning": "các đền thờ do triều đình và mạc phủ xây dựng để cầu nguyện"
+    },
+    {
+      "word": "祈祷",
+      "reading": "きとう",
+      "meaning": "lễ cầu nguyện"
+    },
+    {
+      "word": "祈祷者",
+      "reading": "きとうしゃ",
+      "meaning": "người cầu nguyện"
+    },
+    {
       "word": "祈祷会",
       "reading": "きとうかい",
       "meaning": "buổi cầu nguyện"
+    },
+    {
+      "word": "祈祷書",
+      "reading": "きとうしょ",
+      "meaning": "sách kinh"
     }
   ]
 }

@@ -94,24 +94,9 @@
       "meaning": "một thước"
     },
     {
-      "word": "直尺",
-      "reading": "ちょくじゃく",
-      "meaning": "thước thẳng"
-    },
-    {
-      "word": "縮尺",
-      "reading": "しゅくしゃく",
-      "meaning": "tỉ lệ thu nhỏ"
-    },
-    {
-      "word": "尺度",
-      "reading": "しゃくど",
-      "meaning": "chừng mực"
-    },
-    {
-      "word": "周尺",
-      "reading": "しゅうしゃく",
-      "meaning": "thước nhật bản"
+      "word": "一尺",
+      "reading": "いっしゃく",
+      "meaning": "một xích"
     },
     {
       "word": "大尺",
@@ -119,24 +104,39 @@
       "meaning": "đơn vị đo lường chiều dài ~35"
     },
     {
-      "word": "間尺",
-      "reading": "けんじゃく",
-      "meaning": "đơn vị đo"
-    },
-    {
-      "word": "枝尺",
-      "reading": "えだしゃく",
-      "meaning": "bướm đêm thuộc phân họ edasiakinae"
-    },
-    {
-      "word": "尺蛾",
-      "reading": "しゃくが",
-      "meaning": "bướm đêm"
-    },
-    {
       "word": "三尺",
       "reading": "さんじゃく",
       "meaning": "dây nịt"
+    },
+    {
+      "word": "生尺",
+      "reading": "なまさし",
+      "meaning": "massage bằng lưỡi"
+    },
+    {
+      "word": "長尺",
+      "reading": "ちょうじゃく",
+      "meaning": "vật hay kích thước quá dài so với thông thường"
+    },
+    {
+      "word": "周尺",
+      "reading": "しゅうしゃく",
+      "meaning": "thước nhật bản"
+    },
+    {
+      "word": "倍尺",
+      "reading": "ばいしゃく",
+      "meaning": "phóng lớn"
+    },
+    {
+      "word": "長尺物",
+      "reading": "ちょうじゃくもの",
+      "meaning": "hàng quá dài"
+    },
+    {
+      "word": "冬尺",
+      "reading": "ふゆしゃく",
+      "meaning": "sâu bướm mùa đông"
     }
   ]
 }

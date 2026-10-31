@@ -128,24 +128,29 @@
   ],
   "vocabulary": [
     {
-      "word": "準",
-      "reading": "じゅん",
-      "meaning": "chuẩn"
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "sự chuẩn bị"
     },
     {
-      "word": "準準決勝",
-      "reading": "じゅんじゅんけっしょう",
-      "meaning": "trạng tứ kết"
+      "word": "水準",
+      "reading": "すいじゅん",
+      "meaning": "tiêu chuẩn"
     },
     {
-      "word": "標準準拠",
-      "reading": "ひょうじゅんじゅんきょ",
-      "meaning": "tuân thủ tiêu chuẩn"
+      "word": "基準",
+      "reading": "きじゅん",
+      "meaning": "tiêu chuẩn"
     },
     {
-      "word": "準準決勝戦",
-      "reading": "じゅんじゅんけっしょうせん",
-      "meaning": "quarterfinal chơi một cuộc đấu"
+      "word": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "hạn mức"
+    },
+    {
+      "word": "準急",
+      "reading": "じゅんきゅう",
+      "meaning": "tàu tốc hành thường"
     },
     {
       "word": "準じる",
@@ -153,29 +158,24 @@
       "meaning": "tuân theo"
     },
     {
-      "word": "準線",
-      "reading": "じゅんせん",
-      "meaning": "đường chuẩn"
+      "word": "金準備",
+      "reading": "きんじゅんび",
+      "meaning": "dự trữ vàng"
     },
     {
-      "word": "準備",
-      "reading": "じゅんび",
-      "meaning": "sự chuẩn bị"
+      "word": "下準備",
+      "reading": "したじゅんび",
+      "meaning": "sự chuẩn bị trước"
     },
     {
-      "word": "準正",
-      "reading": "じゅんせい",
-      "meaning": "hợp pháp hóa"
+      "word": "基準点",
+      "reading": "きじゅんてん",
+      "meaning": "điểm tiêu chuẩn"
     },
     {
-      "word": "準州",
-      "reading": "じゅんしゅう",
-      "meaning": "vùng lãnh thổ"
-    },
-    {
-      "word": "垂準",
-      "reading": "すいじゅん",
-      "meaning": "dây dọi"
+      "word": "基準値",
+      "reading": "きじゅんち",
+      "meaning": "giá trị tiêu chuẩn"
     }
   ]
 }

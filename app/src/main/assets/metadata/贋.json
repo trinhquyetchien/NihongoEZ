@@ -53,14 +53,14 @@
   ],
   "vocabulary": [
     {
-      "word": "贋",
-      "reading": "にせ",
+      "word": "贋作",
+      "reading": "がんさく",
       "meaning": "sự làm giả"
     },
     {
-      "word": "贋物",
-      "reading": "にせもの",
-      "meaning": "sự bắt chước"
+      "word": "贋作者",
+      "reading": "がんさくしゃ",
+      "meaning": "kẻ làm giả"
     },
     {
       "word": "真贋",
@@ -68,34 +68,34 @@
       "meaning": "xác thực và giả mạo"
     },
     {
+      "word": "贋",
+      "reading": "にせ",
+      "meaning": "sự làm giả"
+    },
+    {
       "word": "贋印",
       "reading": "にせいん",
       "meaning": "con dấu giả"
     },
     {
-      "word": "贋首",
-      "reading": "にせくび",
-      "meaning": "đầu giả"
+      "word": "贋手紙",
+      "reading": "にせてがみ",
+      "meaning": "bức thư giả mạo"
+    },
+    {
+      "word": "贋物",
+      "reading": "にせもの",
+      "meaning": "sự bắt chước"
+    },
+    {
+      "word": "贋札",
+      "reading": "にせさつ",
+      "meaning": "tiền giấy giả"
     },
     {
       "word": "贋金",
       "reading": "にせがね",
       "meaning": "tiền giả"
-    },
-    {
-      "word": "贋アカシア",
-      "reading": "にせアカシア",
-      "meaning": "cây dương hòe"
-    },
-    {
-      "word": "贋者",
-      "reading": "にせもの",
-      "meaning": "kẻ nói dối"
-    },
-    {
-      "word": "贋作",
-      "reading": "がんさく",
-      "meaning": "sự làm giả"
     },
     {
       "word": "贋造",

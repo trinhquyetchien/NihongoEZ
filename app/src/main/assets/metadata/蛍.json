@@ -86,24 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "蛍",
-      "reading": "ほたる",
-      "meaning": "con đom đóm"
-    },
-    {
-      "word": "蛍族",
-      "reading": "ほたるぞく",
-      "meaning": "người hút thuốc bị buộc phải hút thuốc bên ngoài"
-    },
-    {
-      "word": "蛍藺",
-      "reading": "ほたるい",
-      "meaning": "scirpus juncoides"
-    },
-    {
-      "word": "蛍火",
-      "reading": "ほたるび",
-      "meaning": "ánh sáng của một con đom đóm"
+      "word": "蛍光灯",
+      "reading": "けいこうとう",
+      "meaning": "đèn huỳnh quang"
     },
     {
       "word": "蛍光",
@@ -111,9 +96,34 @@
       "meaning": "sự huỳnh quang"
     },
     {
-      "word": "土蛍",
-      "reading": "つちぼたる",
-      "meaning": "con sâu đất"
+      "word": "蛍光体",
+      "reading": "けいこうたい",
+      "meaning": "chất huỳnh quang"
+    },
+    {
+      "word": "蛍光色",
+      "reading": "けいこうしょく",
+      "meaning": "màu huỳnh quang"
+    },
+    {
+      "word": "蛍",
+      "reading": "ほたる",
+      "meaning": "con đom đóm"
+    },
+    {
+      "word": "海蛍",
+      "reading": "うみほたる",
+      "meaning": "đom đóm biển"
+    },
+    {
+      "word": "蛍の光",
+      "reading": "ほたるのひかり",
+      "meaning": "ngày xưa"
+    },
+    {
+      "word": "蛍光管",
+      "reading": "けいこうかん",
+      "meaning": "ống huỳnh quang"
     },
     {
       "word": "蛍石",
@@ -121,19 +131,9 @@
       "meaning": "fluorite"
     },
     {
-      "word": "蛍袋",
-      "reading": "ほたるぶくろ",
-      "meaning": "giống cây hoa chuông"
-    },
-    {
-      "word": "蛍雪",
-      "reading": "けいせつ",
-      "meaning": "siêng năng"
-    },
-    {
-      "word": "海蛍",
-      "reading": "うみほたる",
-      "meaning": "đom đóm biển"
+      "word": "土蛍",
+      "reading": "つちぼたる",
+      "meaning": "con sâu đất"
     }
   ]
 }

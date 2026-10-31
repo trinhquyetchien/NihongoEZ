@@ -89,44 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "遇不遇",
-      "reading": "ぐうふぐう",
-      "meaning": "hạnh phúc và những nỗi đau đớn"
+      "word": "待遇",
+      "reading": "たいぐう",
+      "meaning": "chế độ đãi ngộ"
     },
     {
-      "word": "遇う",
-      "reading": "あしらう",
-      "meaning": "gặp gỡ tình cờ"
+      "word": "境遇",
+      "reading": "きょうぐう",
+      "meaning": "cảnh ngộ"
     },
     {
-      "word": "接遇",
-      "reading": "せつぐう",
-      "meaning": "tiếp đón và phục vụ khách một cách lịch sự"
+      "word": "遭遇",
+      "reading": "そうぐう",
+      "meaning": "cuộc chạm trán"
     },
     {
-      "word": "奇遇",
-      "reading": "きぐう",
-      "meaning": "kỳ ngộ"
+      "word": "遭遇戦",
+      "reading": "そうぐうせん",
+      "meaning": "gặp"
     },
     {
-      "word": "値遇",
-      "reading": "ちぐう",
-      "meaning": "cuộc gặp"
-    },
-    {
-      "word": "知遇",
-      "reading": "ちぐう",
-      "meaning": "tri ngộ"
-    },
-    {
-      "word": "一遇",
-      "reading": "いちぐう",
-      "meaning": "một lần gặp gỡ"
-    },
-    {
-      "word": "処遇",
-      "reading": "しょぐう",
-      "meaning": "sự đối xử"
+      "word": "遭遇説",
+      "reading": "そうぐうせつ",
+      "meaning": "giả thuyết thủy triều"
     },
     {
       "word": "優遇",
@@ -134,9 +119,24 @@
       "meaning": "kinh nghiệm"
     },
     {
-      "word": "厚遇",
-      "reading": "こうぐう",
-      "meaning": "sự chào đón chân thành"
+      "word": "最優遇",
+      "reading": "さいゆうぐう",
+      "meaning": "đa số các sự nghiên cứu thuận tiện"
+    },
+    {
+      "word": "処遇",
+      "reading": "しょぐう",
+      "meaning": "sự đối xử"
+    },
+    {
+      "word": "奇遇",
+      "reading": "きぐう",
+      "meaning": "kỳ ngộ"
+    },
+    {
+      "word": "奇遇性",
+      "reading": "きぐうせい",
+      "meaning": "tính chẵn lẻ"
     }
   ]
 }

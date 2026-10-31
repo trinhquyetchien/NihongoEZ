@@ -94,9 +94,9 @@
       "meaning": "tàu"
     },
     {
-      "word": "小舟",
-      "reading": "こぶね",
-      "meaning": "tàu nhỏ"
+      "word": "箱舟",
+      "reading": "はこぶね",
+      "meaning": "con thuyền"
     },
     {
       "word": "舟券",
@@ -104,19 +104,9 @@
       "meaning": "vé đặt cược đua thuyền"
     },
     {
-      "word": "笹舟",
-      "reading": "ささぶね",
-      "meaning": "thuyền làm bằng lá tre"
-    },
-    {
-      "word": "竜舟",
-      "reading": "りゅうしゅう",
-      "meaning": "thuyền rồng"
-    },
-    {
-      "word": "舟形",
-      "reading": "ふながた",
-      "meaning": "hình thuyền"
+      "word": "舟祭り",
+      "reading": "ふなまつり",
+      "meaning": "lễ hội đua thuyền"
     },
     {
       "word": "舟状",
@@ -124,19 +114,29 @@
       "meaning": "hình con thuyền"
     },
     {
-      "word": "泥舟",
-      "reading": "どろぶね",
-      "meaning": "thuyền chở đất"
+      "word": "龍舟",
+      "reading": "りゅうしゅう",
+      "meaning": "thuyền rồng"
     },
     {
-      "word": "舟偏",
-      "reading": "ふねへん",
-      "meaning": "bộ chu"
+      "word": "軽舟",
+      "reading": "けいしゅう",
+      "meaning": "thuyền nhẹ"
     },
     {
-      "word": "同舟",
-      "reading": "どうしゅう",
-      "meaning": "sự đi cùng tàu"
+      "word": "釣り舟",
+      "reading": "つりぶね",
+      "meaning": "thuyền đánh cá"
+    },
+    {
+      "word": "竜舟",
+      "reading": "りゅうしゅう",
+      "meaning": "thuyền rồng"
+    },
+    {
+      "word": "舟状骨",
+      "reading": "しゅうじょうこつ",
+      "meaning": "xương thuyền"
     }
   ]
 }

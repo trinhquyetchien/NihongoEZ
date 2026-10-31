@@ -52,9 +52,19 @@
   ],
   "vocabulary": [
     {
+      "word": "芳醇",
+      "reading": "ほうじゅん",
+      "meaning": "thơm và ngọt giọng"
+    },
+    {
       "word": "醇正",
       "reading": "じゅんせい",
       "meaning": "thuần khiết"
+    },
+    {
+      "word": "木糖醇",
+      "reading": "もくとうじゅん",
+      "meaning": "xylose"
     },
     {
       "word": "醇朴",
@@ -67,19 +77,9 @@
       "meaning": "trong"
     },
     {
-      "word": "芳醇",
-      "reading": "ほうじゅん",
-      "meaning": "thơm và ngọt giọng"
-    },
-    {
       "word": "醇化",
       "reading": "じゅんか",
       "meaning": "thuyết phục bởi độc đoán những phương pháp"
-    },
-    {
-      "word": "木糖醇",
-      "reading": "もくとうじゅん",
-      "meaning": "xylose"
     },
     {
       "word": "醇風美俗",

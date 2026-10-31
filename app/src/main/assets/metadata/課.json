@@ -87,24 +87,34 @@
   ],
   "vocabulary": [
     {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "khoa trưởng"
+    },
+    {
       "word": "課",
       "reading": "か",
       "meaning": "bài"
     },
     {
-      "word": "考課",
-      "reading": "こうか",
-      "meaning": "sự đánh giá"
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "thuế khoá"
     },
     {
-      "word": "課制",
-      "reading": "かせい",
-      "meaning": "hệ thống phân lớp"
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "giáo trình giảng dạy"
     },
     {
-      "word": "課員",
-      "reading": "かいん",
-      "meaning": "nhân viên bộ phận"
+      "word": "日課",
+      "reading": "にっか",
+      "meaning": "bài học hàng ngày"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "chủ đề"
     },
     {
       "word": "課外",
@@ -112,29 +122,19 @@
       "meaning": "ngoại khóa"
     },
     {
-      "word": "正課",
-      "reading": "せいか",
-      "meaning": "chương trình học bình thường"
+      "word": "課題曲",
+      "reading": "かだいきょく",
+      "meaning": "mảnh tập hợp âm nhạc)"
     },
     {
-      "word": "分課",
-      "reading": "ぶんか",
-      "meaning": "sự chia nhỏ"
+      "word": "課金",
+      "reading": "かきん",
+      "meaning": "việc tính phí"
     },
     {
-      "word": "賦課",
-      "reading": "ふか",
-      "meaning": "thuế khóa"
-    },
-    {
-      "word": "公課",
-      "reading": "こうか",
-      "meaning": "những thuế nhập khẩu công cộng"
-    },
-    {
-      "word": "課業",
-      "reading": "かぎょう",
-      "meaning": "bài học"
+      "word": "第一課",
+      "reading": "だいいっか",
+      "meaning": "bài thứ nhất"
     }
   ]
 }

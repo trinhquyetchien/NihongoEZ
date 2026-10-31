@@ -74,19 +74,14 @@
       "meaning": "điều đã đươc nói"
     },
     {
-      "word": "謂れ",
-      "reading": "いわれ",
-      "meaning": "lý do"
-    },
-    {
       "word": "所謂",
       "reading": "いわゆる",
       "meaning": "cái gọi là"
     },
     {
-      "word": "謂う",
-      "reading": "いう",
-      "meaning": "nói ra"
+      "word": "謂れ",
+      "reading": "いわれ",
+      "meaning": "lý do"
     },
     {
       "word": "謂われ",
@@ -99,19 +94,24 @@
       "meaning": "như vậy để gọi nó"
     },
     {
+      "word": "謂う",
+      "reading": "いう",
+      "meaning": "nói ra"
+    },
+    {
       "word": "謂れ無い",
       "reading": "いわれない",
+      "meaning": "không có căn cứ"
+    },
+    {
+      "word": "謂れのない",
+      "reading": "いわれのない",
       "meaning": "không có căn cứ"
     },
     {
       "word": "謂れ因縁",
       "reading": "いわれいんねん",
       "meaning": "nguồn gốc"
-    },
-    {
-      "word": "謂れのない",
-      "reading": "いわれのない",
-      "meaning": "không có căn cứ"
     },
     {
       "word": "過ちて改めざる是を過ちと謂う",

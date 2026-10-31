@@ -91,34 +91,19 @@
   ],
   "vocabulary": [
     {
+      "word": "童貞",
+      "reading": "どうてい",
+      "meaning": "đồng trinh"
+    },
+    {
+      "word": "童貞説",
+      "reading": "どうていせつ",
+      "meaning": "thuyết đồng trinh"
+    },
+    {
       "word": "貞",
       "reading": "てい",
       "meaning": "tuân thủ vững chắc các nguyên tắc của một người"
-    },
-    {
-      "word": "貞和",
-      "reading": "じょうわ",
-      "meaning": "thời jouwa"
-    },
-    {
-      "word": "貞応",
-      "reading": "じょうおう",
-      "meaning": "thời jouou"
-    },
-    {
-      "word": "安貞",
-      "reading": "あんてい",
-      "meaning": "antei era"
-    },
-    {
-      "word": "貞永",
-      "reading": "じょうえい",
-      "meaning": "thời đại jouei"
-    },
-    {
-      "word": "貞享",
-      "reading": "じょうきょう",
-      "meaning": "thời joukyou"
     },
     {
       "word": "貞観",
@@ -126,19 +111,34 @@
       "meaning": "jōgan"
     },
     {
-      "word": "貞元",
-      "reading": "じょうげん",
-      "meaning": "thời jougen"
+      "word": "貞門",
+      "reading": "ていもん",
+      "meaning": "viết bởi komon s"
     },
     {
-      "word": "貞治",
-      "reading": "じょうじ",
-      "meaning": "jōji"
+      "word": "貞観殿",
+      "reading": "じょうがんでん",
+      "meaning": "gian hàng chứa sảnh tiếp tân của hoàng hậu"
     },
     {
-      "word": "貞節",
-      "reading": "ていせつ",
-      "meaning": "đoan trinh"
+      "word": "貞はる",
+      "reading": "さだはる",
+      "meaning": "nói lải nhải"
+    },
+    {
+      "word": "貞永",
+      "reading": "じょうえい",
+      "meaning": "thời đại jouei"
+    },
+    {
+      "word": "貞応",
+      "reading": "じょうおう",
+      "meaning": "thời jouou"
+    },
+    {
+      "word": "貞操",
+      "reading": "ていそう",
+      "meaning": "trinh tháo"
     }
   ]
 }

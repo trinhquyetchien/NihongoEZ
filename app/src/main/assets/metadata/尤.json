@@ -84,6 +84,11 @@
   ],
   "vocabulary": [
     {
+      "word": "尤も",
+      "reading": "もっとも",
+      "meaning": "khá đúng"
+    },
+    {
       "word": "尤",
       "reading": "ゆう",
       "meaning": "hợp lý"
@@ -92,21 +97,6 @@
       "word": "尤度",
       "reading": "ゆうど",
       "meaning": "hợp lẽ"
-    },
-    {
-      "word": "尤物",
-      "reading": "ゆうぶつ",
-      "meaning": "cái gì đó cấp trên"
-    },
-    {
-      "word": "尤も",
-      "reading": "もっとも",
-      "meaning": "khá đúng"
-    },
-    {
-      "word": "蚩尤",
-      "reading": "しゆう",
-      "meaning": "xi vưu - một trong những vị vua của thần thoại trung quốc"
     },
     {
       "word": "尤なる",
@@ -127,6 +117,16 @@
       "word": "尤度比",
       "reading": "ゆうどひ",
       "meaning": "dùng tỉ số khả dĩ"
+    },
+    {
+      "word": "蚩尤",
+      "reading": "しゆう",
+      "meaning": "xi vưu - một trong những vị vua của thần thoại trung quốc"
+    },
+    {
+      "word": "尤物",
+      "reading": "ゆうぶつ",
+      "meaning": "cái gì đó cấp trên"
     },
     {
       "word": "最尤法",

@@ -89,39 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "外挿",
-      "reading": "がいそう",
-      "meaning": "ngoại suy"
-    },
-    {
-      "word": "挿錠",
-      "reading": "さしじょう",
-      "meaning": "bolt"
-    },
-    {
-      "word": "内挿",
-      "reading": "ないそう",
-      "meaning": "phép nội suy"
-    },
-    {
-      "word": "挿話",
-      "reading": "そうわ",
-      "meaning": "tình tiết"
-    },
-    {
-      "word": "挿花",
-      "reading": "そうか",
-      "meaning": "ra hoa sự sắp đặt"
-    },
-    {
-      "word": "挿図",
-      "reading": "そうず",
-      "meaning": "sự minh hoạ"
-    },
-    {
-      "word": "挿画",
-      "reading": "そうが",
-      "meaning": "sách) sự minh họa"
+      "word": "挿す",
+      "reading": "さす",
+      "meaning": "đính thêm"
     },
     {
       "word": "挿入",
@@ -129,9 +99,39 @@
       "meaning": "sự lồng vào"
     },
     {
-      "word": "挿す",
-      "reading": "さす",
-      "meaning": "đính thêm"
+      "word": "挿入点",
+      "reading": "そうにゅうてん",
+      "meaning": "điểm chèn"
+    },
+    {
+      "word": "挿入口",
+      "reading": "そうにゅうぐち",
+      "meaning": "điểm chèn"
+    },
+    {
+      "word": "挿入歌",
+      "reading": "そうにゅうか",
+      "meaning": "nhạc nền"
+    },
+    {
+      "word": "挿入文",
+      "reading": "そうにゅうぶん",
+      "meaning": "câu ở giữa dấu ngoặc"
+    },
+    {
+      "word": "挿入図",
+      "reading": "そうにゅうず",
+      "meaning": "được chèn vào xuất hiện"
+    },
+    {
+      "word": "誤挿入",
+      "reading": "ごそうにゅう",
+      "meaning": "sự lồng vào sai thiết bị"
+    },
+    {
+      "word": "挿入句",
+      "reading": "そうにゅうく",
+      "meaning": "biểu thức ở giữa dấu ngoặc"
     },
     {
       "word": "挿絵",

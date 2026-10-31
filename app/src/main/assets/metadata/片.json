@@ -107,34 +107,24 @@
   ],
   "vocabulary": [
     {
+      "word": "鉄片",
+      "reading": "てっぺん",
+      "meaning": "sắt vụn"
+    },
+    {
       "word": "片",
       "reading": "かた",
       "meaning": "một"
     },
     {
-      "word": "片片",
-      "reading": "へんぺん",
-      "meaning": "những mảnh chắp vá"
+      "word": "弾片",
+      "reading": "だんぺん",
+      "meaning": "đạn trái phá"
     },
     {
-      "word": "片隅",
-      "reading": "かたすみ",
-      "meaning": "góc"
-    },
-    {
-      "word": "防爆片目片口スパナ",
-      "reading": "ぼうばくかためかたぐちスパナ",
-      "meaning": "cờ lê mở khóa chống nổ với đầu lẻ"
-    },
-    {
-      "word": "プラスチック片",
-      "reading": "プラスチックへん",
-      "meaning": "miếng nhựa"
-    },
-    {
-      "word": "片刃",
-      "reading": "かたは",
-      "meaning": "dao một lưỡi"
+      "word": "条片",
+      "reading": "じょうへん",
+      "meaning": "tước bỏ"
     },
     {
       "word": "片方",
@@ -142,19 +132,29 @@
       "meaning": "một hướng"
     },
     {
-      "word": "片親",
-      "reading": "かたおや",
-      "meaning": "cha hoặc mẹ"
+      "word": "片輪",
+      "reading": "かたわ",
+      "meaning": "có khuyết tật ở một bộ phận của cơ thể"
     },
     {
-      "word": "鉄片",
-      "reading": "てっぺん",
-      "meaning": "sắt vụn"
+      "word": "氷片",
+      "reading": "ひょうへん",
+      "meaning": "mảnh băng"
     },
     {
-      "word": "片耳",
-      "reading": "かたみみ",
-      "meaning": "một bên tai"
+      "word": "片眼",
+      "reading": "かため",
+      "meaning": "một mắt"
+    },
+    {
+      "word": "素片",
+      "reading": "そへん",
+      "meaning": "vỡ ra từng mảnh"
+    },
+    {
+      "word": "片膝",
+      "reading": "かたひざ",
+      "meaning": "một đầu gối"
     }
   ]
 }

@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "lữ hành"
+    },
+    {
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaning": "chỗ trọ"
+    },
+    {
       "word": "旅",
       "reading": "たび",
       "meaning": "chuyến đi"
     },
     {
-      "word": "旅人",
-      "reading": "たびびと",
-      "meaning": "người du lịch"
+      "word": "旅客",
+      "reading": "りょかく",
+      "meaning": "hành khách"
     },
     {
-      "word": "旅鼠",
-      "reading": "たびねずみ",
-      "meaning": "lemming"
+      "word": "旅券",
+      "reading": "りょけん",
+      "meaning": "hộ chiếu"
     },
     {
-      "word": "軍旅",
-      "reading": "ぐんりょ",
-      "meaning": "quân đội"
+      "word": "旅する",
+      "reading": "たびする",
+      "meaning": "đi du lịch"
     },
     {
-      "word": "旅愁",
-      "reading": "りょしゅう",
-      "meaning": "nỗi cô đơn trong hành trình"
+      "word": "旅子",
+      "reading": "たびこ",
+      "meaning": "phụ nữ quý tộc nhật bản sống vào thời kỳ nara"
     },
     {
-      "word": "旅亭",
-      "reading": "りょてい",
+      "word": "旅次",
+      "reading": "りょじ",
       "meaning": "khách sạn nhỏ"
     },
     {
-      "word": "旅衣",
-      "reading": "たびごろも",
-      "meaning": "quần áo đi du lịch"
+      "word": "旅行先",
+      "reading": "りょこうさき",
+      "meaning": "nơi du lịch"
     },
     {
-      "word": "旅鳥",
-      "reading": "たびどり",
-      "meaning": "chim di cư"
-    },
-    {
-      "word": "股旅",
-      "reading": "またたび",
-      "meaning": "đi lang thang khắp nơi"
-    },
-    {
-      "word": "逆旅",
-      "reading": "げきりょ",
-      "meaning": "quán trọ"
+      "word": "旅行社",
+      "reading": "りょこうしゃ",
+      "meaning": "công ty du lịch"
     }
   ]
 }

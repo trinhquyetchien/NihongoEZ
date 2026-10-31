@@ -83,44 +83,9 @@
   ],
   "vocabulary": [
     {
-      "word": "乾酪",
-      "reading": "かんらく",
-      "meaning": "pho mát"
-    },
-    {
-      "word": "乳酪",
-      "reading": "にゅうらく",
-      "meaning": "bơ"
-    },
-    {
-      "word": "牛酪",
-      "reading": "ぎゅうらく",
-      "meaning": "phết bơ"
-    },
-    {
-      "word": "酪酸",
-      "reading": "らくさん",
-      "meaning": "a-xít bu-ty-ríc"
-    },
-    {
       "word": "酪農",
       "reading": "らくのう",
       "meaning": "sự sản xuất bơ sữa"
-    },
-    {
-      "word": "酪素",
-      "reading": "らくそ",
-      "meaning": "casein"
-    },
-    {
-      "word": "酪漿",
-      "reading": "らくしょう",
-      "meaning": "sữa"
-    },
-    {
-      "word": "酪製品",
-      "reading": "らくせいひん",
-      "meaning": "sản phẩm chế biến từ bơ sữa"
     },
     {
       "word": "酪農家",
@@ -128,9 +93,44 @@
       "meaning": "người sản xuất bơ sữa"
     },
     {
+      "word": "酪農場",
+      "reading": "らくのうじょう",
+      "meaning": "trại sản xuất bơ sữa"
+    },
+    {
+      "word": "酪農業",
+      "reading": "らくのうぎょう",
+      "meaning": "chăn nuôi gia súc lấy sữa"
+    },
+    {
+      "word": "酪酸",
+      "reading": "らくさん",
+      "meaning": "a-xít bu-ty-ríc"
+    },
+    {
+      "word": "酪酸菌",
+      "reading": "らくさんきん",
+      "meaning": "trực khuẩn sinh axit butyric"
+    },
+    {
+      "word": "酪製品",
+      "reading": "らくせいひん",
+      "meaning": "sản phẩm chế biến từ bơ sữa"
+    },
+    {
+      "word": "乾酪",
+      "reading": "かんらく",
+      "meaning": "pho mát"
+    },
+    {
       "word": "乾酪素",
       "reading": "かんらくそ",
       "meaning": "chất casein"
+    },
+    {
+      "word": "乾酪化",
+      "reading": "かんらくか",
+      "meaning": "hoại tử"
     }
   ]
 }

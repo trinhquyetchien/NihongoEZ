@@ -57,29 +57,14 @@
       "meaning": "tỵ"
     },
     {
-      "word": "初巳",
-      "reading": "はつみ",
-      "meaning": "ngày tỵ đầu tiên trong năm"
-    },
-    {
-      "word": "己巳",
-      "reading": "つちのとみ",
-      "meaning": "kỷ tỵ"
-    },
-    {
-      "word": "上巳",
-      "reading": "じょうし",
-      "meaning": "lễ hội ngày 3 tháng 3 âm lịch"
-    },
-    {
       "word": "巳年",
       "reading": "みどし",
       "meaning": "năm con rắn"
     },
     {
-      "word": "辰巳",
-      "reading": "たつみ",
-      "meaning": "hướng đông nam"
+      "word": "初巳",
+      "reading": "はつみ",
+      "meaning": "ngày tỵ đầu tiên trong năm"
     },
     {
       "word": "丁巳",
@@ -92,14 +77,29 @@
       "meaning": "ất tỵ"
     },
     {
-      "word": "癸巳",
-      "reading": "みずのとみ",
-      "meaning": "năm quý tỵ"
+      "word": "己巳",
+      "reading": "つちのとみ",
+      "meaning": "kỷ tỵ"
     },
     {
       "word": "辛巳",
       "reading": "かのとみ",
       "meaning": "tân tỵ"
+    },
+    {
+      "word": "辰巳",
+      "reading": "たつみ",
+      "meaning": "hướng đông nam"
+    },
+    {
+      "word": "上巳",
+      "reading": "じょうし",
+      "meaning": "lễ hội ngày 3 tháng 3 âm lịch"
+    },
+    {
+      "word": "癸巳",
+      "reading": "みずのとみ",
+      "meaning": "năm quý tỵ"
     }
   ]
 }

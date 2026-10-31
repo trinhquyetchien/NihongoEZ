@@ -110,29 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "殺",
-      "reading": "さつ",
-      "meaning": "thối"
-    },
-    {
-      "word": "殺虫殺菌剤",
-      "reading": "さっちゅうさっきんざい",
-      "meaning": "thuốc diệt côn trùng và diệt khuẩn"
-    },
-    {
       "word": "自殺",
       "reading": "じさつ",
       "meaning": "sự tự sát"
-    },
-    {
-      "word": "殺人",
-      "reading": "さつじん",
-      "meaning": "tên sát nhân"
-    },
-    {
-      "word": "射殺",
-      "reading": "しゃさつ",
-      "meaning": "sự bắn chết"
     },
     {
       "word": "殺す",
@@ -140,14 +120,9 @@
       "meaning": "cướp lời"
     },
     {
-      "word": "殺到",
-      "reading": "さっとう",
-      "meaning": "sự chen lấn"
-    },
-    {
-      "word": "殺意",
-      "reading": "さつい",
-      "meaning": "chủ ý để giết"
+      "word": "殺人",
+      "reading": "さつじん",
+      "meaning": "tên sát nhân"
     },
     {
       "word": "暗殺",
@@ -155,9 +130,34 @@
       "meaning": "sự ám sát"
     },
     {
-      "word": "絞殺",
-      "reading": "こうさつ",
-      "meaning": "bóp cổ"
+      "word": "殺し",
+      "reading": "ころし",
+      "meaning": "tên sát nhân"
+    },
+    {
+      "word": "殺害",
+      "reading": "さつがい",
+      "meaning": "sát hại"
+    },
+    {
+      "word": "殺",
+      "reading": "さつ",
+      "meaning": "thối"
+    },
+    {
+      "word": "必殺",
+      "reading": "ひっさつ",
+      "meaning": "nhất định giết"
+    },
+    {
+      "word": "重殺",
+      "reading": "じゅうさつ",
+      "meaning": "chặn đôi"
+    },
+    {
+      "word": "射殺",
+      "reading": "しゃさつ",
+      "meaning": "sự bắn chết"
     }
   ]
 }

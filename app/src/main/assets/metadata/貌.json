@@ -85,39 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "相貌",
-      "reading": "そうぼう",
-      "meaning": "nhìn"
-    },
-    {
-      "word": "醜貌",
-      "reading": "しゅうぼう",
-      "meaning": "khuôn mặt gớm ghiếc"
-    },
-    {
-      "word": "顔貌",
-      "reading": "かおかたち",
-      "meaning": "dung mạo khuôn mặt"
-    },
-    {
-      "word": "体貌",
-      "reading": "たいぼう",
-      "meaning": "sự xuất hiện"
-    },
-    {
-      "word": "風貌",
-      "reading": "ふうぼう",
-      "meaning": "vẻ bề ngoài"
-    },
-    {
-      "word": "面貌",
-      "reading": "めんぼう",
-      "meaning": "nhìn"
-    },
-    {
-      "word": "外貌",
-      "reading": "がいぼう",
-      "meaning": "sự xuất hiện bên ngoài"
+      "word": "変貌",
+      "reading": "へんぼう",
+      "meaning": "sự biến hình"
     },
     {
       "word": "美貌",
@@ -125,14 +95,44 @@
       "meaning": "đẹp mắt"
     },
     {
-      "word": "変貌",
-      "reading": "へんぼう",
-      "meaning": "sự biến hình"
-    },
-    {
       "word": "全貌",
       "reading": "ぜんぼう",
       "meaning": "toàn bộ câu chuyện"
+    },
+    {
+      "word": "風貌",
+      "reading": "ふうぼう",
+      "meaning": "vẻ bề ngoài"
+    },
+    {
+      "word": "容貌",
+      "reading": "ようぼう",
+      "meaning": "dung mạo"
+    },
+    {
+      "word": "象貌",
+      "reading": "しょうぼう",
+      "meaning": "bề ngoài"
+    },
+    {
+      "word": "醜貌",
+      "reading": "しゅうぼう",
+      "meaning": "khuôn mặt gớm ghiếc"
+    },
+    {
+      "word": "外貌",
+      "reading": "がいぼう",
+      "meaning": "sự xuất hiện bên ngoài"
+    },
+    {
+      "word": "相貌",
+      "reading": "そうぼう",
+      "meaning": "nhìn"
+    },
+    {
+      "word": "顔貌",
+      "reading": "かおかたち",
+      "meaning": "dung mạo khuôn mặt"
     }
   ]
 }

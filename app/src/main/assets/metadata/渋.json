@@ -92,21 +92,6 @@
   ],
   "vocabulary": [
     {
-      "word": "渋",
-      "reading": "しぶ",
-      "meaning": "nước quả chất làm co những quả hồng còn xanh)"
-    },
-    {
-      "word": "渋渋",
-      "reading": "しぶしぶ",
-      "meaning": "miễn cưỡng"
-    },
-    {
-      "word": "渋々",
-      "reading": "しぶしぶ",
-      "meaning": "miễn cưỡng"
-    },
-    {
       "word": "渋滞",
       "reading": "じゅうたい",
       "meaning": "sự kẹt xe"
@@ -117,19 +102,29 @@
       "meaning": "chát"
     },
     {
-      "word": "渋草",
-      "reading": "しぶくさ",
-      "meaning": "cây chút chít"
+      "word": "大渋滞",
+      "reading": "だいじゅうたい",
+      "meaning": "tắc nghẽn giao thông lớn"
     },
     {
-      "word": "難渋",
-      "reading": "なんじゅう",
-      "meaning": "sự chậm"
+      "word": "渋滞税",
+      "reading": "じゅうたいぜい",
+      "meaning": "phí tắc nghẽn"
     },
     {
-      "word": "渋柿",
-      "reading": "しぶがき",
-      "meaning": "quả hồng chát"
+      "word": "渋",
+      "reading": "しぶ",
+      "meaning": "nước quả chất làm co những quả hồng còn xanh)"
+    },
+    {
+      "word": "渋さ",
+      "reading": "しぶさ",
+      "meaning": "chỉ khái niệm mỹ học đặc biệt về vẻ đẹp giản dị"
+    },
+    {
+      "word": "渋々",
+      "reading": "しぶしぶ",
+      "meaning": "miễn cưỡng"
     },
     {
       "word": "渋味",
@@ -137,9 +132,14 @@
       "meaning": "trang nhã"
     },
     {
-      "word": "渋る",
-      "reading": "しぶる",
-      "meaning": "không trôi chảy thuận lợi"
+      "word": "渋抜き",
+      "reading": "しぶぬき",
+      "meaning": "loại bỏ vị giác chất làm co"
+    },
+    {
+      "word": "渋い色",
+      "reading": "しぶいいろ",
+      "meaning": "chỉnh trang màu"
     }
   ]
 }

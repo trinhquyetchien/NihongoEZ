@@ -108,29 +108,34 @@
   ],
   "vocabulary": [
     {
-      "word": "給",
-      "reading": "きゅう",
-      "meaning": "lương"
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "bổng lộc"
     },
     {
-      "word": "給与と付加給付",
-      "reading": "きゅーよとふかきゅーふ",
-      "meaning": "tiền lương và các phúc lợi khác đi kèm"
+      "word": "供給",
+      "reading": "きょうきゅう",
+      "meaning": "sự cung cấp"
     },
     {
-      "word": "給料を支給する",
-      "reading": "きゅうりょうをしきゅうする",
-      "meaning": "cấp lương"
+      "word": "支給",
+      "reading": "しきゅう",
+      "meaning": "cung cấp"
     },
     {
-      "word": "需給",
-      "reading": "じゅきゅう",
-      "meaning": "nhu cầu và cung cấp"
+      "word": "給与",
+      "reading": "きゅうよ",
+      "meaning": "tiền lương"
     },
     {
-      "word": "昇給",
-      "reading": "しょうきゅう",
-      "meaning": "sự tăng lương"
+      "word": "月給",
+      "reading": "げっきゅう",
+      "meaning": "tiền lương hàng tháng"
+    },
+    {
+      "word": "補給",
+      "reading": "ほきゅう",
+      "meaning": "sự cho thêm"
     },
     {
       "word": "給食",
@@ -138,9 +143,9 @@
       "meaning": "bữa cơm ở trường"
     },
     {
-      "word": "給う",
-      "reading": "たまう",
-      "meaning": "nhận"
+      "word": "配給",
+      "reading": "はいきゅう",
+      "meaning": "sự phân phối"
     },
     {
       "word": "給仕",
@@ -148,14 +153,9 @@
       "meaning": "nhân viên phục vụ trong văn phòng"
     },
     {
-      "word": "高給",
-      "reading": "こうきゅう",
-      "meaning": "lương cao"
-    },
-    {
-      "word": "給与",
-      "reading": "きゅうよ",
-      "meaning": "tiền lương"
+      "word": "給う",
+      "reading": "たまう",
+      "meaning": "nhận"
     }
   ]
 }

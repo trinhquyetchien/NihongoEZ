@@ -127,19 +127,14 @@
   ],
   "vocabulary": [
     {
-      "word": "通勤電車/通勤列車",
-      "reading": "つうきんでんしゃ・つきんれっしゃ",
-      "meaning": "tàu điện dành cho người đi làm"
+      "word": "勤め",
+      "reading": "つとめ",
+      "meaning": "công việc"
     },
     {
-      "word": "連勤",
-      "reading": "れんきん",
-      "meaning": "làm việc liên tục nhiều ngày không nghỉ&amp"
-    },
-    {
-      "word": "欠勤",
-      "reading": "けっきん",
-      "meaning": "sự nghỉ làm việc"
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "sự đi làm"
     },
     {
       "word": "出勤",
@@ -147,34 +142,39 @@
       "meaning": "sự đi làm"
     },
     {
-      "word": "勤続",
-      "reading": "きんぞく",
-      "meaning": "sự phục vụ liên tục"
+      "word": "勤務",
+      "reading": "きんむ",
+      "meaning": "cần vụ"
     },
     {
-      "word": "勤め",
-      "reading": "つとめ",
-      "meaning": "công việc"
+      "word": "転勤",
+      "reading": "てんきん",
+      "meaning": "việc chuyển"
     },
     {
-      "word": "在勤",
-      "reading": "ざいきん",
-      "meaning": "làm việc trong hoặc ở hoặc cho"
+      "word": "勤労",
+      "reading": "きんろう",
+      "meaning": "cần cán"
     },
     {
-      "word": "勤求",
-      "reading": "ごんぐ",
-      "meaning": "hỏi phật thích ca cách"
+      "word": "勤勉",
+      "reading": "きんべん",
+      "meaning": "cần cù"
     },
     {
-      "word": "勤倹",
-      "reading": "きんけん",
-      "meaning": "sự cần kiệm"
+      "word": "勤め先",
+      "reading": "つとめさき",
+      "meaning": "nơi làm việc"
     },
     {
-      "word": "勤惰",
-      "reading": "きんだ",
-      "meaning": "sự cần mẫn và sự lười biếng"
+      "word": "勤まる",
+      "reading": "つとまる",
+      "meaning": "có thể làm được"
+    },
+    {
+      "word": "勤務者",
+      "reading": "きんむしゃ",
+      "meaning": "những công nhân"
     }
   ]
 }

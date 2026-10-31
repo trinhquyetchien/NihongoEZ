@@ -91,9 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "崎",
-      "reading": "さき",
-      "meaning": "mũi đất"
+      "word": "宮崎県",
+      "reading": "みやざきけん",
+      "meaning": "tỉnh miyazaki"
     },
     {
       "word": "長崎",
@@ -101,29 +101,9 @@
       "meaning": "thành phố nagasaki"
     },
     {
-      "word": "州崎",
-      "reading": "すさき",
-      "meaning": "mũi đất suzaki"
-    },
-    {
       "word": "川崎",
       "reading": "かわさき",
       "meaning": "thành phố kawasaki"
-    },
-    {
-      "word": "崎崖",
-      "reading": "きがい",
-      "meaning": "độ dốc của ngọn núi"
-    },
-    {
-      "word": "崎陽",
-      "reading": "きよう",
-      "meaning": "nagasaki"
-    },
-    {
-      "word": "山崎派",
-      "reading": "やまさきは",
-      "meaning": "yamasaki faction"
     },
     {
       "word": "長崎県",
@@ -131,14 +111,34 @@
       "meaning": "chức quận trưởng trên hòn đảo kyuushuu"
     },
     {
-      "word": "宮崎県",
-      "reading": "みやざきけん",
-      "meaning": "tỉnh miyazaki"
+      "word": "山崎派",
+      "reading": "やまさきは",
+      "meaning": "yamasaki faction"
     },
     {
-      "word": "岡崎フラグメント",
-      "reading": "おかざきフラグメント",
-      "meaning": "đoạn okazaki"
+      "word": "崎",
+      "reading": "さき",
+      "meaning": "mũi đất"
+    },
+    {
+      "word": "崎陽",
+      "reading": "きよう",
+      "meaning": "nagasaki"
+    },
+    {
+      "word": "崎崖",
+      "reading": "きがい",
+      "meaning": "độ dốc của ngọn núi"
+    },
+    {
+      "word": "川崎病",
+      "reading": "かわさきびょう",
+      "meaning": "bệnh mẫn cảm"
+    },
+    {
+      "word": "州崎",
+      "reading": "すさき",
+      "meaning": "mũi đất suzaki"
     }
   ]
 }

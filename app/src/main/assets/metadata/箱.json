@@ -94,29 +94,14 @@
       "meaning": "hộp"
     },
     {
-      "word": "筒式箱/スリーブ式箱",
-      "reading": "つつしきはこ/スリーブしきはこ",
-      "meaning": "hộp ống/ hộp tay áo"
+      "word": "一箱",
+      "reading": "ひとはこ",
+      "meaning": "một hộp"
     },
     {
-      "word": "箱根",
-      "reading": "はこね",
-      "meaning": "tên của chuyến tàu"
-    },
-    {
-      "word": "大箱",
-      "reading": "おおばこ",
-      "meaning": "hộp lớn"
-    },
-    {
-      "word": "マッチ箱",
-      "reading": "マッチばこ",
-      "meaning": "hộp diêm"
-    },
-    {
-      "word": "ドル箱",
-      "reading": "ドルばこ",
-      "meaning": "người bảo trợ"
+      "word": "上箱",
+      "reading": "うわばこ",
+      "meaning": "vỏ bọc ở phía ngoài"
     },
     {
       "word": "小箱",
@@ -124,19 +109,34 @@
       "meaning": "hộp nhỏ"
     },
     {
-      "word": "暗箱",
-      "reading": "あんばこ",
-      "meaning": "hộp đen"
+      "word": "木箱",
+      "reading": "きばこ",
+      "meaning": "hòm gỗ"
     },
     {
-      "word": "トロ箱",
-      "reading": "トロばこ",
-      "meaning": "sóng cá"
+      "word": "薬箱",
+      "reading": "くすりばこ",
+      "meaning": "hộp thuốc"
     },
     {
-      "word": "ダンボール箱",
-      "reading": "だんボールばこ",
-      "meaning": "thùng carton"
+      "word": "空箱",
+      "reading": "からばこ",
+      "meaning": "hộp rỗng"
+    },
+    {
+      "word": "ドル箱",
+      "reading": "ドルばこ",
+      "meaning": "người bảo trợ"
+    },
+    {
+      "word": "紙箱",
+      "reading": "かみばこ",
+      "meaning": "hộp giấy"
+    },
+    {
+      "word": "骨箱",
+      "reading": "こつばこ",
+      "meaning": "hộp đựng di cốt"
     }
   ]
 }

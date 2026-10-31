@@ -111,54 +111,54 @@
   ],
   "vocabulary": [
     {
-      "word": "違法",
-      "reading": "いほう",
-      "meaning": "sự vi phạm luật pháp"
+      "word": "違う",
+      "reading": "ちがう",
+      "meaning": "khác"
     },
     {
-      "word": "違変",
-      "reading": "いへん",
-      "meaning": "phá vỡ"
-    },
-    {
-      "word": "差違",
-      "reading": "さい",
+      "word": "違い",
+      "reading": "ちがい",
       "meaning": "sự khác nhau"
     },
     {
-      "word": "違和",
-      "reading": "いわ",
-      "meaning": "tình trạng thể chất không khoẻ lắm"
-    },
-    {
-      "word": "違例",
-      "reading": "いれい",
-      "meaning": "tính không theo quy ước"
-    },
-    {
-      "word": "違約",
-      "reading": "いやく",
-      "meaning": "sai ước"
-    },
-    {
-      "word": "違背",
-      "reading": "いはい",
+      "word": "違反",
+      "reading": "いはん",
       "meaning": "vi phạm"
     },
     {
-      "word": "違式",
-      "reading": "いしき",
-      "meaning": "tính chất không theo thủ tục quy định"
+      "word": "相違",
+      "reading": "そうい",
+      "meaning": "sự khác nhau"
     },
     {
-      "word": "違憲",
-      "reading": "いけん",
-      "meaning": "sự vi phạm hiến pháp"
+      "word": "違える",
+      "reading": "ちがえる",
+      "meaning": "nhầm lẫn"
     },
     {
-      "word": "違令",
-      "reading": "いれい",
-      "meaning": "sự phạm luật"
+      "word": "出違う",
+      "reading": "でちがう",
+      "meaning": "để nhớ một người đến thăm"
+    },
+    {
+      "word": "見違い",
+      "reading": "みちがい",
+      "meaning": "nhìn nhầm"
+    },
+    {
+      "word": "大違い",
+      "reading": "おおちがい",
+      "meaning": "khác biệt lớn"
+    },
+    {
+      "word": "色違い",
+      "reading": "いろちがい",
+      "meaning": "màu sắc khác nhau"
+    },
+    {
+      "word": "間違え",
+      "reading": "まちがえ",
+      "meaning": "sai sót"
     }
   ]
 }

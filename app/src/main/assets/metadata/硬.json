@@ -89,39 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "硬",
-      "reading": "こう",
-      "meaning": "cứng"
-    },
-    {
-      "word": "硬音",
-      "reading": "こうおん",
-      "meaning": "âm căng"
-    },
-    {
-      "word": "硬鋼",
-      "reading": "こうこう",
-      "meaning": "thép cứng"
-    },
-    {
-      "word": "超硬",
-      "reading": "ちょうこう",
-      "meaning": "siêu cứng"
-    },
-    {
       "word": "硬い",
       "reading": "かたい",
       "meaning": "cứng"
-    },
-    {
-      "word": "硬水",
-      "reading": "こうすい",
-      "meaning": "nước cứng"
-    },
-    {
-      "word": "硬度",
-      "reading": "こうど",
-      "meaning": "độ cứng"
     },
     {
       "word": "硬貨",
@@ -134,9 +104,39 @@
       "meaning": "ngoan cường"
     },
     {
-      "word": "硬直",
-      "reading": "こうちょく",
-      "meaning": "sự khắt khe"
+      "word": "硬",
+      "reading": "こう",
+      "meaning": "cứng"
+    },
+    {
+      "word": "硬さ",
+      "reading": "かたさ",
+      "meaning": "độ cứng"
+    },
+    {
+      "word": "超硬",
+      "reading": "ちょうこう",
+      "meaning": "siêu cứng"
+    },
+    {
+      "word": "硬音",
+      "reading": "こうおん",
+      "meaning": "âm căng"
+    },
+    {
+      "word": "硬変",
+      "reading": "こうへん",
+      "meaning": "bệnh xơ gan"
+    },
+    {
+      "word": "硬木",
+      "reading": "こうぼく",
+      "meaning": "gỗ cứng"
+    },
+    {
+      "word": "硬券",
+      "reading": "こうけん",
+      "meaning": "vé tàu in trên giấy cứng"
     }
   ]
 }

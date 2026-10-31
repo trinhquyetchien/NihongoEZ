@@ -88,34 +88,29 @@
   ],
   "vocabulary": [
     {
+      "word": "矛盾",
+      "reading": "むじゅん",
+      "meaning": "sự mâu thuẫn"
+    },
+    {
+      "word": "相矛盾",
+      "reading": "あいむじゅん",
+      "meaning": "mâu thuẫn"
+    },
+    {
+      "word": "矛盾律",
+      "reading": "むじゅんりつ",
+      "meaning": "luật mâu thuẫn"
+    },
+    {
       "word": "矛",
       "reading": "ほこ",
       "meaning": "mâu"
     },
     {
-      "word": "矛偏",
-      "reading": "ほこへん",
-      "meaning": "bộ thủ 矛 mâu nằm bên trái các từ kanji như căngduật"
-    },
-    {
-      "word": "銅矛",
-      "reading": "どうほこ",
-      "meaning": "ngọn giáo bằng đồng"
-    },
-    {
-      "word": "瓊矛",
-      "reading": "ぬほこ",
-      "meaning": "ngọn giáo ngọc"
-    },
-    {
       "word": "矛先",
       "reading": "ほこさき",
       "meaning": "mũi mâu"
-    },
-    {
-      "word": "矛盾",
-      "reading": "むじゅん",
-      "meaning": "sự mâu thuẫn"
     },
     {
       "word": "矛杉",
@@ -128,14 +123,19 @@
       "meaning": "dương vật"
     },
     {
-      "word": "相矛盾",
-      "reading": "あいむじゅん",
-      "meaning": "mâu thuẫn"
+      "word": "銅矛",
+      "reading": "どうほこ",
+      "meaning": "ngọn giáo bằng đồng"
     },
     {
-      "word": "矛盾データ",
-      "reading": "むじゅんデータ",
-      "meaning": "dữ liệu không nhất quán"
+      "word": "矛偏",
+      "reading": "ほこへん",
+      "meaning": "bộ thủ 矛 mâu nằm bên trái các từ kanji như căngduật"
+    },
+    {
+      "word": "瓊矛",
+      "reading": "ぬほこ",
+      "meaning": "ngọn giáo ngọc"
     }
   ]
 }

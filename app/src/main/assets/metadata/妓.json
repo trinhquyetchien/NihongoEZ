@@ -33,29 +33,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "妓",
-      "reading": "ぎ",
-      "meaning": "geisha"
-    },
-    {
-      "word": "妓夫",
-      "reading": "ぎゅう",
-      "meaning": "người đàn ông bảo kê"
-    },
-    {
-      "word": "妓生",
-      "reading": "キーセン",
-      "meaning": "kỹ nữ triều tiên"
-    },
-    {
       "word": "舞妓",
       "reading": "まいこ",
       "meaning": "tiền thân geisha"
     },
     {
-      "word": "娼妓",
-      "reading": "しょうぎ",
-      "meaning": "gái bán hoa"
+      "word": "芸舞妓",
+      "reading": "げいまいこ",
+      "meaning": "kỹ nữ"
     },
     {
       "word": "芸妓",
@@ -63,24 +48,39 @@
       "meaning": "vũ nữ nhật"
     },
     {
+      "word": "娼妓",
+      "reading": "しょうぎ",
+      "meaning": "gái bán hoa"
+    },
+    {
+      "word": "芸娼妓",
+      "reading": "げいしょうぎ",
+      "meaning": "người làm nghệ thuật và gái mại dâm"
+    },
+    {
+      "word": "妓生",
+      "reading": "キーセン",
+      "meaning": "kỹ nữ triều tiên"
+    },
+    {
+      "word": "妓",
+      "reading": "ぎ",
+      "meaning": "geisha"
+    },
+    {
       "word": "妓楼",
       "reading": "ぎろう",
       "meaning": "nhà chứa"
     },
     {
-      "word": "老妓",
-      "reading": "ろうぎ",
-      "meaning": "vũ nữ nhật có tuổi"
+      "word": "雛妓",
+      "reading": "すうぎ",
+      "meaning": "geisha chưa chính thức"
     },
     {
-      "word": "名妓",
-      "reading": "めいぎ",
-      "meaning": "vũ nữ nhật có tài hoặc đẹp"
-    },
-    {
-      "word": "妓院",
-      "reading": "ぎいん",
-      "meaning": "brothel"
+      "word": "歌妓",
+      "reading": "かぎ",
+      "meaning": "kỹ nữ"
     }
   ]
 }

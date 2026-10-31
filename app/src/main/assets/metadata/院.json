@@ -104,24 +104,19 @@
   ],
   "vocabulary": [
     {
-      "word": "院",
-      "reading": "いん",
-      "meaning": "viện"
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "nhà thương"
     },
     {
-      "word": "上院議院",
-      "reading": "じょういんぎいん",
-      "meaning": "thượng nghị viện"
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "sự nhập viện"
     },
     {
-      "word": "衆院",
-      "reading": "しゅういん",
-      "meaning": "hạ nghị viện"
-    },
-    {
-      "word": "参院",
-      "reading": "さんいん",
-      "meaning": "toà nhà dành cho hội viên hội đồng"
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "sự ra viện"
     },
     {
       "word": "寺院",
@@ -129,24 +124,29 @@
       "meaning": "chùa chiền"
     },
     {
-      "word": "転院",
-      "reading": "てんいん",
-      "meaning": "việc chuyển viện"
+      "word": "院",
+      "reading": "いん",
+      "meaning": "viện"
     },
     {
-      "word": "院外",
-      "reading": "いんがい",
-      "meaning": "không nghị trường"
+      "word": "分院",
+      "reading": "ぶんいん",
+      "meaning": "phân nhánh một cơ quan)"
     },
     {
-      "word": "来院",
-      "reading": "らいいん",
-      "meaning": "vào bênh viện"
+      "word": "本院",
+      "reading": "ほんいん",
+      "meaning": "cơ quan này"
     },
     {
       "word": "子院",
       "reading": "しいん",
       "meaning": "chùa con"
+    },
+    {
+      "word": "法院",
+      "reading": "ほういん",
+      "meaning": "sân"
     },
     {
       "word": "当院",

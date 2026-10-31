@@ -68,34 +68,9 @@
   ],
   "vocabulary": [
     {
-      "word": "煽動",
-      "reading": "せんどう",
-      "meaning": "xúi bẩy"
-    },
-    {
-      "word": "煽情",
-      "reading": "せんじょう",
-      "meaning": "sự khêu gợi"
-    },
-    {
       "word": "煽り",
       "reading": "あおり",
       "meaning": "sự ảnh hưởng"
-    },
-    {
-      "word": "煽て",
-      "reading": "おだて",
-      "meaning": "sự xúi giục"
-    },
-    {
-      "word": "煽る",
-      "reading": "あおる",
-      "meaning": "làm lay động"
-    },
-    {
-      "word": "煽てる",
-      "reading": "おだてる",
-      "meaning": "tâng bốc"
     },
     {
       "word": "煽り足",
@@ -103,19 +78,44 @@
       "meaning": "quạt chân"
     },
     {
+      "word": "煽る",
+      "reading": "あおる",
+      "meaning": "làm lay động"
+    },
+    {
+      "word": "煽動",
+      "reading": "せんどう",
+      "meaning": "xúi bẩy"
+    },
+    {
+      "word": "煽て",
+      "reading": "おだて",
+      "meaning": "sự xúi giục"
+    },
+    {
+      "word": "煽情",
+      "reading": "せんじょう",
+      "meaning": "sự khêu gợi"
+    },
+    {
       "word": "煽情的",
       "reading": "せんじょうてき",
       "meaning": "có tính chất khích động"
     },
     {
+      "word": "煽てる",
+      "reading": "おだてる",
+      "meaning": "tâng bốc"
+    },
+    {
+      "word": "煽り運転",
+      "reading": "あおりうんてん",
+      "meaning": "lái xe lạng lách"
+    },
+    {
       "word": "煽り止め",
       "reading": "あおりどめ",
       "meaning": "hãm cửa"
-    },
-    {
-      "word": "買い煽る",
-      "reading": "かいあおる",
-      "meaning": "tăng giá thầu"
     }
   ]
 }

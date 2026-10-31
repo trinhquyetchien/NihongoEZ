@@ -90,29 +90,9 @@
       "meaning": "sửa chữa"
     },
     {
-      "word": "繕草",
-      "reading": "つくろいぐさ",
-      "meaning": "japanese mugwort"
-    },
-    {
-      "word": "営繕",
-      "reading": "えいぜん",
-      "meaning": "sự xây mới và cơi nới"
-    },
-    {
-      "word": "繕い",
-      "reading": "つくろい",
-      "meaning": "sự tu sửa"
-    },
-    {
       "word": "繕う",
       "reading": "つくろう",
       "meaning": "sắp xếp gọn gàng sạch sẽ"
-    },
-    {
-      "word": "修繕費",
-      "reading": "しゅうぜんひ",
-      "meaning": "sửa chữa chi phí"
     },
     {
       "word": "修繕中",
@@ -120,19 +100,39 @@
       "meaning": "trong quá trình việc được sửa chữa"
     },
     {
-      "word": "身繕い",
-      "reading": "みづくろい",
-      "meaning": "chính mình mặc quần áo"
+      "word": "修繕費",
+      "reading": "しゅうぜんひ",
+      "meaning": "sửa chữa chi phí"
+    },
+    {
+      "word": "修繕工",
+      "reading": "しゅうぜんこう",
+      "meaning": "thợ sửa chữa"
+    },
+    {
+      "word": "繕い",
+      "reading": "つくろい",
+      "meaning": "sự tu sửa"
+    },
+    {
+      "word": "金繕い",
+      "reading": "きんつくろい",
+      "meaning": "nghệ thuật sửa chữa đồ gốm bằng bột vàng"
+    },
+    {
+      "word": "営繕",
+      "reading": "えいぜん",
+      "meaning": "sự xây mới và cơi nới"
+    },
+    {
+      "word": "垣繕う",
+      "reading": "かきつくろう",
+      "meaning": "sự sửa chữa hàng rào"
     },
     {
       "word": "羽繕い",
       "reading": "はづくろい",
       "meaning": "sự rỉa lông"
-    },
-    {
-      "word": "見繕う",
-      "reading": "みつくろう",
-      "meaning": "cân nhắc lựa chọn phù hợp"
     }
   ]
 }

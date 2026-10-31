@@ -104,24 +104,44 @@
   ],
   "vocabulary": [
     {
-      "word": "月曜",
-      "reading": "げつよう",
-      "meaning": "thứ hai"
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "chủ nhật"
     },
     {
-      "word": "水曜",
-      "reading": "すいよう",
-      "meaning": "thứ tư"
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "ngày thứ bẩy"
     },
     {
-      "word": "火曜",
-      "reading": "かよう",
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "ngày thứ sáu"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "ngày thứ hai"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
       "meaning": "thứ ba"
     },
     {
-      "word": "木曜",
-      "reading": "もくよう",
-      "meaning": "thứ năm"
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "ngày thứ tư"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "ngày thứ năm"
+    },
+    {
+      "word": "日曜",
+      "reading": "にちよう",
+      "meaning": "chủ nhật"
     },
     {
       "word": "土曜",
@@ -132,26 +152,6 @@
       "word": "金曜",
       "reading": "きんよう",
       "meaning": "thứ sáu"
-    },
-    {
-      "word": "宿曜",
-      "reading": "すくよう",
-      "meaning": "form of astrology based on the xiuyaojing"
-    },
-    {
-      "word": "七曜",
-      "reading": "しちよう",
-      "meaning": "mặt trăng"
-    },
-    {
-      "word": "晃曜",
-      "reading": "こうよう",
-      "meaning": "làm loá mắt độ chói"
-    },
-    {
-      "word": "六曜",
-      "reading": "ろくよう",
-      "meaning": "lịch lục diệu của nhật"
     }
   ]
 }

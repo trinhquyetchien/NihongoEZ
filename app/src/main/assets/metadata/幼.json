@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "幼",
-      "reading": "いと",
-      "meaning": "young child"
+      "word": "幼い",
+      "reading": "おさない",
+      "meaning": "trẻ con"
     },
     {
-      "word": "幼子",
-      "reading": "おさなご",
-      "meaning": "đứa trẻ"
+      "word": "幼稚園",
+      "reading": "ようちえん",
+      "meaning": "mẫu giáo"
     },
     {
       "word": "幼児",
@@ -104,39 +104,39 @@
       "meaning": "trẻ từ 1 tuổi đến khi bước vào trường tiểu học"
     },
     {
-      "word": "幼気",
-      "reading": "いたいけ",
-      "meaning": "vô tội"
+      "word": "幼稚",
+      "reading": "ようち",
+      "meaning": "ấu trĩ"
     },
     {
-      "word": "幼き",
-      "reading": "おさなき",
-      "meaning": "trẻ"
-    },
-    {
-      "word": "幼魚",
-      "reading": "ようぎょ",
-      "meaning": "nghề nuôi cá"
-    },
-    {
-      "word": "幼若",
-      "reading": "ようじゃく",
-      "meaning": "tính trẻ con"
-    },
-    {
-      "word": "幼時",
-      "reading": "ようじ",
+      "word": "幼い頃",
+      "reading": "おさないころ",
       "meaning": "thời thơ ấu"
     },
     {
-      "word": "幼顔",
-      "reading": "おさながお",
-      "meaning": "nét mặt lúc còn trẻ thơ"
+      "word": "幼児期",
+      "reading": "ようじき",
+      "meaning": "tuổi ấu thơ"
     },
     {
-      "word": "老幼",
-      "reading": "ろうよう",
-      "meaning": "trẻ và cũ"
+      "word": "幼児語",
+      "reading": "ようじご",
+      "meaning": "ngôn ngữ trẻ thơ"
+    },
+    {
+      "word": "幼女",
+      "reading": "ようじょ",
+      "meaning": "cô gái nhỏ"
+    },
+    {
+      "word": "幼少",
+      "reading": "ようしょう",
+      "meaning": "ấu thơ"
+    },
+    {
+      "word": "幼少期",
+      "reading": "ようしょうき",
+      "meaning": "thời thơ ấu"
     }
   ]
 }

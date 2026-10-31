@@ -91,34 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "擦れ擦れ",
-      "reading": "すれすれ",
-      "meaning": "là là"
+      "word": "摩擦",
+      "reading": "まさつ",
+      "meaning": "sự ma sát"
     },
     {
-      "word": "擦過",
-      "reading": "さっか",
-      "meaning": "việc vắt kiệt"
+      "word": "擦れる",
+      "reading": "すれる",
+      "meaning": "mòn"
     },
     {
-      "word": "擦筆",
-      "reading": "さっぴつ",
-      "meaning": "kỹ thuật loang màu"
+      "word": "摩擦熱",
+      "reading": "まさつねつ",
+      "meaning": "ma sát nóng lên"
     },
     {
-      "word": "擦傷",
-      "reading": "さっしょう",
-      "meaning": "làm xước"
+      "word": "摩擦比",
+      "reading": "まさつひ",
+      "meaning": "tỷ lệ ma sát"
     },
     {
-      "word": "擦痕",
-      "reading": "さっこん",
-      "meaning": "vân"
+      "word": "動摩擦",
+      "reading": "どうまさつ",
+      "meaning": "ma sát động"
     },
     {
-      "word": "擦る",
-      "reading": "こする",
-      "meaning": "chà xát"
+      "word": "摩擦力",
+      "reading": "まさつりょく",
+      "meaning": "lực ma sát"
     },
     {
       "word": "擦り",
@@ -126,19 +126,19 @@
       "meaning": "chà xát"
     },
     {
-      "word": "悪擦",
-      "reading": "わるずれ",
-      "meaning": "qua - ngụy biện"
+      "word": "擦り半",
+      "reading": "すりばん",
+      "meaning": "chuông báo cháy"
     },
     {
-      "word": "摩擦",
-      "reading": "まさつ",
-      "meaning": "sự ma sát"
+      "word": "擦れ",
+      "reading": "すれ",
+      "meaning": "vết sờn"
     },
     {
-      "word": "塗擦",
-      "reading": "とさつ",
-      "meaning": "sự bôi thuốc"
+      "word": "手擦れ",
+      "reading": "てずれ",
+      "meaning": "thích hợp mang hoặc dễ bẩn với sự dùng lỗi thời"
     }
   ]
 }

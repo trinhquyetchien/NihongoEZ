@@ -92,24 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "辛",
-      "reading": "かのと",
-      "meaning": "thứ tám"
-    },
-    {
-      "word": "辛辛",
-      "reading": "からがら",
-      "meaning": "việc thoát được nguy hiểm may mắn chỉ giữ lại được tính mạng"
-    },
-    {
-      "word": "命辛辛",
-      "reading": "いのちからがら",
-      "meaning": "cho cuộc sống thân mến"
-    },
-    {
       "word": "辛い",
       "reading": "からい",
       "meaning": "cay"
+    },
+    {
+      "word": "塩辛い",
+      "reading": "しおからい",
+      "meaning": "mặn"
     },
     {
       "word": "辛抱",
@@ -117,29 +107,39 @@
       "meaning": "sự kiên nhẫn"
     },
     {
-      "word": "辛口",
-      "reading": "からくち",
-      "meaning": "cay"
+      "word": "香辛料",
+      "reading": "こうしんりょう",
+      "meaning": "gia vị"
     },
     {
-      "word": "辛酉",
-      "reading": "かのととり",
-      "meaning": "tân dậu"
+      "word": "え辛い",
+      "reading": "えがらい",
+      "meaning": "chát"
     },
     {
-      "word": "激辛",
-      "reading": "げきから",
-      "meaning": "siêu cay"
+      "word": "辛い味",
+      "reading": "からいあじ",
+      "meaning": "vị cay"
     },
     {
-      "word": "塩辛",
-      "reading": "しおから",
-      "meaning": "món mắm cá"
+      "word": "辛",
+      "reading": "かのと",
+      "meaning": "thứ tám"
     },
     {
-      "word": "辛辣",
-      "reading": "しんらつ",
-      "meaning": "gắt"
+      "word": "辛さ",
+      "reading": "つらさ",
+      "meaning": "đau đớn"
+    },
+    {
+      "word": "中辛",
+      "reading": "ちゅうから",
+      "meaning": "cay vừa"
+    },
+    {
+      "word": "大辛",
+      "reading": "おおから",
+      "meaning": "rất cay"
     }
   ]
 }

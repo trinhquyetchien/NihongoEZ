@@ -114,9 +114,29 @@
       "meaning": "lưng"
     },
     {
-      "word": "背筋",
-      "reading": "せすじ",
-      "meaning": "cột sống"
+      "word": "背広",
+      "reading": "せびろ",
+      "meaning": "bộ com lê"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "lưng"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaning": "bối cảnh"
+    },
+    {
+      "word": "背後",
+      "reading": "はいご",
+      "meaning": "phía sau lưng"
+    },
+    {
+      "word": "背く",
+      "reading": "そむく",
+      "meaning": "bội phản"
     },
     {
       "word": "円背",
@@ -124,39 +144,19 @@
       "meaning": "còng lưng"
     },
     {
-      "word": "鯔背",
-      "reading": "いなせ",
-      "meaning": "người ga lăng"
+      "word": "背高",
+      "reading": "せいたか",
+      "meaning": "cao"
     },
     {
-      "word": "上背",
-      "reading": "うわぜい",
-      "meaning": "vóc dáng cao"
+      "word": "背約",
+      "reading": "はいやく",
+      "meaning": "một lời hứa vỡ"
     },
     {
-      "word": "棄背",
-      "reading": "きはい",
-      "meaning": "sự bỏ và xoay lùi lại"
-    },
-    {
-      "word": "背圧",
-      "reading": "はいあつ",
-      "meaning": "áp sức khí thải ra ở trong máy"
-    },
-    {
-      "word": "足背",
+      "word": "側背",
       "reading": "そくはい",
-      "meaning": "mu bàn chân"
-    },
-    {
-      "word": "背幅",
-      "reading": "せはば",
-      "meaning": "chiều rộng lưng"
-    },
-    {
-      "word": "榻背",
-      "reading": "とうはい",
-      "meaning": "lưng ghế"
+      "meaning": "cạnh bên"
     }
   ]
 }

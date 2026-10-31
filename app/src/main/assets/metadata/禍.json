@@ -92,29 +92,9 @@
       "meaning": "bệnh về xã hội giải trí"
     },
     {
-      "word": "禍禍しい",
-      "reading": "まがまがしい",
-      "meaning": "xui xẻo"
-    },
-    {
-      "word": "惨禍",
-      "reading": "さんか",
-      "meaning": "thảm khốc"
-    },
-    {
-      "word": "禍根",
-      "reading": "かこん",
-      "meaning": "tai ương"
-    },
-    {
-      "word": "黄禍",
-      "reading": "こうか",
-      "meaning": "hiểm họa da vàng"
-    },
-    {
-      "word": "禍因",
-      "reading": "かいん",
-      "meaning": "nguyên nhân của rắc rối"
+      "word": "大禍時",
+      "reading": "おおまがとき",
+      "meaning": "thời kỳ tai họa lớn"
     },
     {
       "word": "白禍",
@@ -122,9 +102,9 @@
       "meaning": "tai họa do sự bành trướng của người da trắng"
     },
     {
-      "word": "舌禍",
-      "reading": "ぜっか",
-      "meaning": "điều lỡ lời"
+      "word": "交通禍",
+      "reading": "こうつうか",
+      "meaning": "tai hoạ giao thông"
     },
     {
       "word": "兵禍",
@@ -132,9 +112,29 @@
       "meaning": "sự tàn phá của chiến tranh"
     },
     {
-      "word": "災禍",
-      "reading": "さいか",
-      "meaning": "tai hoạ"
+      "word": "禍の府",
+      "reading": "わざわいのふ",
+      "meaning": "tai nạn"
+    },
+    {
+      "word": "禍源",
+      "reading": "かげん",
+      "meaning": "nguồn vận rủi"
+    },
+    {
+      "word": "禍言",
+      "reading": "まがごと",
+      "meaning": "từ gở"
+    },
+    {
+      "word": "豪雨禍",
+      "reading": "ごううか",
+      "meaning": "sự tàn phá của lũ lụt"
+    },
+    {
+      "word": "禍因",
+      "reading": "かいん",
+      "meaning": "nguyên nhân của rắc rối"
     }
   ]
 }

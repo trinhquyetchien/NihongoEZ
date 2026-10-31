@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "逸らす",
+      "reading": "そらす",
+      "meaning": "trốn"
+    },
+    {
+      "word": "逸脱",
+      "reading": "いつだつ",
+      "meaning": "sự lệch hướng"
+    },
+    {
+      "word": "秀逸",
+      "reading": "しゅういつ",
+      "meaning": "sự xuất sắc"
+    },
+    {
+      "word": "逸話",
+      "reading": "いつわ",
+      "meaning": "giai thoại"
+    },
+    {
       "word": "逸",
       "reading": "いっち",
       "meaning": "xuất sắc"
     },
     {
-      "word": "逸品",
-      "reading": "いっぴん",
-      "meaning": "sản phẩm tuyệt vời"
+      "word": "逸材",
+      "reading": "いつざい",
+      "meaning": "tài năng nổi bật"
     },
     {
-      "word": "隠逸",
-      "reading": "いんいつ",
-      "meaning": "sự ẩn dật"
+      "word": "逸球",
+      "reading": "いっきゅう",
+      "meaning": "đánh trượt quả bóng"
     },
     {
-      "word": "奔逸",
-      "reading": "ほんいつ",
-      "meaning": "sự phóng nhanh"
+      "word": "逸言",
+      "reading": "いつげん",
+      "meaning": "phóng đại"
     },
     {
-      "word": "飄逸",
-      "reading": "ひょういつ",
-      "meaning": "dễ tính"
+      "word": "卓逸",
+      "reading": "たくいつ",
+      "meaning": "xuất sắc"
     },
     {
-      "word": "逸出",
-      "reading": "いっしゅつ",
-      "meaning": "sự trốn thoát"
-    },
-    {
-      "word": "逸文",
-      "reading": "いつぶん",
-      "meaning": "không biết hoặc bị mất viết"
-    },
-    {
-      "word": "逸足",
-      "reading": "いっそく",
-      "meaning": "người chạy nhanh"
-    },
-    {
-      "word": "逸聞",
-      "reading": "いつぶん",
-      "meaning": "chuyện gì đó rất ít người có thể biết"
-    },
-    {
-      "word": "逸事",
-      "reading": "いつじ",
-      "meaning": "chuyện vặt"
+      "word": "阿逸多",
+      "reading": "あいった",
+      "meaning": "ajita"
     }
   ]
 }

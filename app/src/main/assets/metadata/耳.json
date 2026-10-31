@@ -77,9 +77,14 @@
       "meaning": "cái tai"
     },
     {
-      "word": "耳鳴",
-      "reading": "じめい",
-      "meaning": "ù tai"
+      "word": "初耳",
+      "reading": "はつみみ",
+      "meaning": "cái mới nghe lần đầu"
+    },
+    {
+      "word": "目耳",
+      "reading": "めみみ",
+      "meaning": "mắt và tai của chính mình"
     },
     {
       "word": "大耳",
@@ -87,9 +92,9 @@
       "meaning": "nấm mọc nhĩ"
     },
     {
-      "word": "初耳",
-      "reading": "はつみみ",
-      "meaning": "cái mới nghe lần đầu"
+      "word": "口耳",
+      "reading": "こうじ",
+      "meaning": "mồm và tai"
     },
     {
       "word": "左耳",
@@ -97,29 +102,24 @@
       "meaning": "tai trái"
     },
     {
-      "word": "片耳",
-      "reading": "かたみみ",
-      "meaning": "một bên tai"
+      "word": "パン耳",
+      "reading": "パンみみ",
+      "meaning": "vỏ bánh"
     },
     {
-      "word": "耳管",
-      "reading": "じかん",
-      "meaning": "ống"
+      "word": "両耳",
+      "reading": "りょうみみ",
+      "meaning": "hai cái tai"
     },
     {
-      "word": "耳ピアス",
-      "reading": "みみピアス",
-      "meaning": "khuyên tai"
+      "word": "耳垢",
+      "reading": "みみあか",
+      "meaning": "cứt ráy"
     },
     {
-      "word": "耳絎",
-      "reading": "みみぐけ",
-      "meaning": "mép vải được gia công tạo thành nếp gấp"
-    },
-    {
-      "word": "耳ピ",
-      "reading": "みみピ",
-      "meaning": "khuyên tai"
+      "word": "耳糞",
+      "reading": "みみくそ",
+      "meaning": "ráy tai"
     }
   ]
 }

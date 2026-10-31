@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "hành động"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "sự di chuyển"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "tự động"
+    },
+    {
+      "word": "動詞",
+      "reading": "どうし",
+      "meaning": "động từ"
+    },
+    {
+      "word": "変動",
+      "reading": "へんどう",
+      "meaning": "sự biến động"
+    },
+    {
+      "word": "出動",
+      "reading": "しゅつどう",
+      "meaning": "sự đi thuyền"
+    },
+    {
+      "word": "異動",
+      "reading": "いどう",
+      "meaning": "sự thay đổi"
+    },
+    {
+      "word": "起動",
+      "reading": "きどう",
+      "meaning": "sự khởi động"
+    },
+    {
       "word": "動",
       "reading": "どう",
       "meaning": "hoạt động"
     },
     {
-      "word": "動と反動",
-      "reading": "どうとはんどう",
-      "meaning": "hoạt động và phản ứng"
-    },
-    {
-      "word": "動態動詞",
-      "reading": "どうたいどうし",
-      "meaning": "dynamic verb"
-    },
-    {
-      "word": "自動動作",
-      "reading": "じどうどうさ",
-      "meaning": "tự hoạt động"
-    },
-    {
-      "word": "蠕動運動",
-      "reading": "ぜんどううんどう",
-      "meaning": "nhu động ruột"
-    },
-    {
-      "word": "移動運動",
-      "reading": "いどううんどう",
-      "meaning": "sự vận động di chuyển"
-    },
-    {
-      "word": "電動発動機",
-      "reading": "でんどうはつどうき",
-      "meaning": "động cơ điện"
-    },
-    {
-      "word": "動物行動学",
-      "reading": "どうぶつこうどうがく",
-      "meaning": "phong tục học"
-    },
-    {
-      "word": "動物の移動",
-      "reading": "どうぶつのいどう",
-      "meaning": "sự di cư của động vật"
-    },
-    {
-      "word": "衝動的行動",
-      "reading": "しょーどーてきこーどー",
-      "meaning": "hành vi bốc đồng"
+      "word": "回動",
+      "reading": "かいどう",
+      "meaning": "chuyển động quay"
     }
   ]
 }

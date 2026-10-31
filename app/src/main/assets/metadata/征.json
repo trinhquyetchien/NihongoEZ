@@ -104,34 +104,44 @@
   ],
   "vocabulary": [
     {
-      "word": "征く",
-      "reading": "ゆく",
-      "meaning": "chinh phục"
+      "word": "征服",
+      "reading": "せいふく",
+      "meaning": "sự chinh phục"
     },
     {
-      "word": "東征",
-      "reading": "とうせい",
-      "meaning": "cuộc thám hiểm phương đông"
-    },
-    {
-      "word": "外征",
-      "reading": "がいせい",
+      "word": "遠征",
+      "reading": "えんせい",
       "meaning": "viễn chinh"
     },
     {
-      "word": "征伐",
-      "reading": "せいばつ",
-      "meaning": "sự chinh phạt"
+      "word": "遠征軍",
+      "reading": "えんせいぐん",
+      "meaning": "lực lượng viễn chinh"
     },
     {
-      "word": "出征",
-      "reading": "しゅっせい",
-      "meaning": "sự ra trận"
+      "word": "遠征隊",
+      "reading": "えんせいたい",
+      "meaning": "quân viễn chinh"
     },
     {
-      "word": "再征",
-      "reading": "さいせい",
-      "meaning": "ủng hộ cuộc thám hiểm trừng phạt"
+      "word": "征服者",
+      "reading": "せいふくしゃ",
+      "meaning": "người chinh phục"
+    },
+    {
+      "word": "征服欲",
+      "reading": "せいふくよく",
+      "meaning": "lòng khao khát cho sự chinh phục"
+    },
+    {
+      "word": "来征",
+      "reading": "らいせい",
+      "meaning": "chinh phạt"
+    },
+    {
+      "word": "征く",
+      "reading": "ゆく",
+      "meaning": "chinh phục"
     },
     {
       "word": "長征",
@@ -139,19 +149,9 @@
       "meaning": "sự trường chinh"
     },
     {
-      "word": "征討",
-      "reading": "せいとう",
-      "meaning": "sự chinh phục"
-    },
-    {
-      "word": "征矢",
-      "reading": "そや",
-      "meaning": "sử dụng mũi tên"
-    },
-    {
-      "word": "征衣",
-      "reading": "せいい",
-      "meaning": "đi du lịch quần áo"
+      "word": "再征",
+      "reading": "さいせい",
+      "meaning": "ủng hộ cuộc thám hiểm trừng phạt"
     }
   ]
 }

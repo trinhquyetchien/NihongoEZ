@@ -87,14 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "熊本県",
+      "reading": "くまもとけん",
+      "meaning": "tỉnh kumamoto"
+    },
+    {
       "word": "熊",
       "reading": "くま",
       "meaning": "gấu"
     },
     {
-      "word": "小熊",
-      "reading": "こぐま",
-      "meaning": "gấu nhỏ"
+      "word": "母熊",
+      "reading": "ははぐま",
+      "meaning": "gấu mẹ"
     },
     {
       "word": "熊猫",
@@ -102,39 +107,34 @@
       "meaning": "gấu trúc"
     },
     {
-      "word": "懶熊",
-      "reading": "なまけぐま",
-      "meaning": "gấu lười"
+      "word": "熊四手",
+      "reading": "くましで",
+      "meaning": "họ betulaceae"
     },
     {
-      "word": "熊鼠",
-      "reading": "くまねずみ",
-      "meaning": "chuột đen"
+      "word": "熊の実",
+      "reading": "くまのみ",
+      "meaning": "clownfish"
     },
     {
-      "word": "マレー熊",
-      "reading": "マレーぐま",
-      "meaning": "gấu chó"
+      "word": "熊祭り",
+      "reading": "くままつり",
+      "meaning": "lễ hội gấu"
     },
     {
-      "word": "熊手",
-      "reading": "くまで",
-      "meaning": "cào"
+      "word": "鼻熊",
+      "reading": "はなぐま",
+      "meaning": "cầy hương"
+    },
+    {
+      "word": "袋熊",
+      "reading": "ふくろぐま",
+      "meaning": "gấu túi mũi trần"
     },
     {
       "word": "熊虫",
       "reading": "くまむし",
       "meaning": "gấu nước"
-    },
-    {
-      "word": "熊羆",
-      "reading": "ゆうひ",
-      "meaning": "gấu nâu"
-    },
-    {
-      "word": "熊蟻",
-      "reading": "くまあり",
-      "meaning": "kiến thợ mộc nhật bản"
     }
   ]
 }

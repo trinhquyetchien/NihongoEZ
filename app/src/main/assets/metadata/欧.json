@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "欧風",
-      "reading": "おうふう",
+      "word": "欧米",
+      "reading": "おうべい",
       "meaning": "âu mỹ"
     },
     {
-      "word": "欧字",
-      "reading": "おうじ",
-      "meaning": "theo vần chữ cái"
-    },
-    {
-      "word": "欧文",
-      "reading": "おうぶん",
-      "meaning": "văn bản viết bằng ngôn ngữ phương tây"
-    },
-    {
-      "word": "全欧",
-      "reading": "ぜんおう",
-      "meaning": "toàn châu âu"
-    },
-    {
-      "word": "中欧",
-      "reading": "ちゅうおう",
-      "meaning": "trung âu"
-    },
-    {
-      "word": "欧露",
-      "reading": "おうろ",
-      "meaning": "châu âu và nước nga"
-    },
-    {
-      "word": "欧洲",
+      "word": "欧州",
       "reading": "おうしゅう",
       "meaning": "châu âu"
     },
     {
-      "word": "欧亜",
-      "reading": "おうあ",
-      "meaning": "âu á"
+      "word": "欧州版",
+      "reading": "おうしゅうばん",
+      "meaning": "phiên bản châu ¢u"
     },
     {
-      "word": "亜欧",
-      "reading": "あおう",
-      "meaning": "á âu"
+      "word": "欧米人",
+      "reading": "おうべいじん",
+      "meaning": "europeans và người mỹ"
     },
     {
-      "word": "南欧",
-      "reading": "なんおう",
-      "meaning": "nam âu"
+      "word": "北欧",
+      "reading": "ほくおう",
+      "meaning": "bắc âu"
+    },
+    {
+      "word": "北欧人",
+      "reading": "ほくおうじん",
+      "meaning": "người bắc âu"
+    },
+    {
+      "word": "西欧",
+      "reading": "せいおう",
+      "meaning": "tây"
+    },
+    {
+      "word": "西欧人",
+      "reading": "せいおうじん",
+      "meaning": "người phương tây"
+    },
+    {
+      "word": "西欧化",
+      "reading": "せいおうか",
+      "meaning": "sự tây phương hoá"
+    },
+    {
+      "word": "東欧",
+      "reading": "とうおう",
+      "meaning": "đông âu"
     }
   ]
 }

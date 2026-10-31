@@ -88,34 +88,19 @@
   ],
   "vocabulary": [
     {
+      "word": "水槽",
+      "reading": "すいそう",
+      "meaning": "thùng chứa nước"
+    },
+    {
+      "word": "水槽車",
+      "reading": "すいそうしゃ",
+      "meaning": "xe bồn chở nước cứu hoả"
+    },
+    {
       "word": "槽",
       "reading": "ふね",
       "meaning": "bể chứa"
-    },
-    {
-      "word": "馬槽",
-      "reading": "うまぶね",
-      "meaning": "máng ăn cho ngựa"
-    },
-    {
-      "word": "酒槽",
-      "reading": "さかぶね",
-      "meaning": "thùng chứa rượu"
-    },
-    {
-      "word": "湯槽",
-      "reading": "ゆぶね",
-      "meaning": "bồn tắm"
-    },
-    {
-      "word": "歯槽",
-      "reading": "しそう",
-      "meaning": "túi phổi"
-    },
-    {
-      "word": "油槽",
-      "reading": "ゆそう",
-      "meaning": "thùng dầu"
     },
     {
       "word": "浴槽",
@@ -123,19 +108,34 @@
       "meaning": "bể tắm"
     },
     {
-      "word": "水槽",
-      "reading": "すいそう",
-      "meaning": "thùng chứa nước"
+      "word": "二槽式",
+      "reading": "にそうしき",
+      "meaning": "máy rửa kiểu hai bể"
     },
     {
-      "word": "便槽",
-      "reading": "べんそう",
-      "meaning": "bể chứa chất thải"
+      "word": "一槽式",
+      "reading": "いっそうしき",
+      "meaning": "một - chia ra rửa máy"
     },
     {
       "word": "木槽",
       "reading": "もくそう",
       "meaning": "bồn hoặc thùng gỗ"
+    },
+    {
+      "word": "丸槽",
+      "reading": "まるそう",
+      "meaning": "rãnh tròn"
+    },
+    {
+      "word": "脳槽内",
+      "reading": "のうそうない",
+      "meaning": "sự chứa nước"
+    },
+    {
+      "word": "便槽",
+      "reading": "べんそう",
+      "meaning": "bể chứa chất thải"
     }
   ]
 }

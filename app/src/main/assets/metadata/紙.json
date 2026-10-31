@@ -94,19 +94,9 @@
       "meaning": "giấy"
     },
     {
-      "word": "紙表紙",
-      "reading": "かみびょうし",
-      "meaning": "sách đóng trên bìa giấy mềm"
-    },
-    {
-      "word": "タブロイド紙",
-      "reading": "タブロイドし",
-      "meaning": "báo khổ nhỏ"
-    },
-    {
-      "word": "印紙",
-      "reading": "いんし",
-      "meaning": "cái tem"
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "bức thơ"
     },
     {
       "word": "紙幣",
@@ -114,29 +104,39 @@
       "meaning": "giấy bạc"
     },
     {
-      "word": "手紙",
-      "reading": "てがみ",
-      "meaning": "bức thơ"
+      "word": "米紙",
+      "reading": "べいし",
+      "meaning": "báo chí mỹ"
     },
     {
-      "word": "厚紙",
-      "reading": "あつがみ",
-      "meaning": "giấy bìa"
+      "word": "紙箱",
+      "reading": "かみばこ",
+      "meaning": "hộp giấy"
     },
     {
-      "word": "紙面",
-      "reading": "しめん",
-      "meaning": "mặt giấy"
+      "word": "画紙",
+      "reading": "がし",
+      "meaning": "vẽ giấy"
     },
     {
-      "word": "紙袋",
-      "reading": "かみぶくろ",
-      "meaning": "túi giấy"
+      "word": "通紙",
+      "reading": "つうし",
+      "meaning": "nạp giấy qua thiết bị"
     },
     {
-      "word": "各紙",
-      "reading": "かくし",
-      "meaning": "mỗi tờ báo"
+      "word": "紙表紙",
+      "reading": "かみびょうし",
+      "meaning": "sách đóng trên bìa giấy mềm"
+    },
+    {
+      "word": "単紙",
+      "reading": "たんし",
+      "meaning": "giấy rời"
+    },
+    {
+      "word": "傘紙",
+      "reading": "かさがみ",
+      "meaning": "giấy dầu dán vào cái ô"
     }
   ]
 }

@@ -96,29 +96,9 @@
       "meaning": "khó chịu"
     },
     {
-      "word": "厭厭",
-      "reading": "いやいや",
-      "meaning": "sự không bằng lòng"
-    },
-    {
-      "word": "厭き厭き",
-      "reading": "あきあき",
-      "meaning": "chán"
-    },
-    {
-      "word": "倦厭",
-      "reading": "けんえん",
-      "meaning": "sự mệt mỏi"
-    },
-    {
-      "word": "厭戦",
-      "reading": "えんせん",
-      "meaning": "sự căm ghét chiến tranh"
-    },
-    {
-      "word": "厭世",
-      "reading": "えんせい",
-      "meaning": "chủ nghĩa bi quan"
+      "word": "厭や",
+      "reading": "いやや",
+      "meaning": "khó chịu"
     },
     {
       "word": "厭悪",
@@ -126,19 +106,39 @@
       "meaning": "sự ghét cay ghét đắng"
     },
     {
-      "word": "会厭",
-      "reading": "ええん",
-      "meaning": "nắp thanh quản"
+      "word": "厭々",
+      "reading": "いやいや",
+      "meaning": "bất đắc dĩ"
     },
     {
-      "word": "厭う",
-      "reading": "いとう",
-      "meaning": "chán ghét"
+      "word": "厭む",
+      "reading": "あぐむ",
+      "meaning": "chán"
     },
     {
-      "word": "厭人",
-      "reading": "えんじん",
-      "meaning": "tính ghét người"
+      "word": "厭魅",
+      "reading": "えんみ",
+      "meaning": "nguyền rủa"
+    },
+    {
+      "word": "厭厭",
+      "reading": "いやいや",
+      "meaning": "sự không bằng lòng"
+    },
+    {
+      "word": "厭世",
+      "reading": "えんせい",
+      "meaning": "chủ nghĩa bi quan"
+    },
+    {
+      "word": "厭世家",
+      "reading": "えんせいか",
+      "meaning": "kẻ bi quan"
+    },
+    {
+      "word": "厭世観",
+      "reading": "えんせいかん",
+      "meaning": "chủ nghĩa bi quan"
     }
   ]
 }

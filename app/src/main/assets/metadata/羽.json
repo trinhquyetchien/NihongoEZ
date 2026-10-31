@@ -113,29 +113,9 @@
       "meaning": "cánh"
     },
     {
-      "word": "絵羽羽織",
-      "reading": "えばばおり",
-      "meaning": "haori có họa tiết lông vũ"
-    },
-    {
-      "word": "絵羽羽織り",
-      "reading": "えばはおりり",
-      "meaning": "haori có hình vẽ"
-    },
-    {
-      "word": "羽田",
-      "reading": "はねだ",
-      "meaning": "haneda"
-    },
-    {
-      "word": "揚羽",
-      "reading": "あげは",
-      "meaning": "loài bướm đuôi én"
-    },
-    {
-      "word": "羽車",
-      "reading": "はぐるま",
-      "meaning": "cánh quạt"
+      "word": "一羽",
+      "reading": "いちわ",
+      "meaning": "một"
     },
     {
       "word": "大羽",
@@ -143,19 +123,39 @@
       "meaning": "lông cánh"
     },
     {
-      "word": "冠羽",
-      "reading": "かんう",
-      "meaning": "mào chim"
+      "word": "夏羽",
+      "reading": "なつばね",
+      "meaning": "lông chim trong mùa sinh sản"
     },
     {
-      "word": "羽白",
-      "reading": "はじろ",
-      "meaning": "loài vịt có gương cánh trắng"
+      "word": "絵羽",
+      "reading": "えば",
+      "meaning": "hoa văn dạng tranh trên kimono và haori"
     },
     {
-      "word": "羽枝",
-      "reading": "うし",
-      "meaning": "ngạnh"
+      "word": "羽裏",
+      "reading": "はうら",
+      "meaning": "lớp lót của haori"
+    },
+    {
+      "word": "差羽",
+      "reading": "さしば",
+      "meaning": "diều ấn độ"
+    },
+    {
+      "word": "羽軸",
+      "reading": "うじく",
+      "meaning": "trục lông vũ"
+    },
+    {
+      "word": "羽柄",
+      "reading": "うへい",
+      "meaning": "gỗ phụ"
+    },
+    {
+      "word": "矢羽",
+      "reading": "やばね",
+      "meaning": "những lông chim mũi tên"
     }
   ]
 }

@@ -87,19 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "直角定規(三角定規・T定規等)",
-      "reading": "ちょっかくじょーぎ(さんかくじょーぎ・Tじょーぎとー)",
-      "meaning": "thước tam giác"
+      "word": "規則",
+      "reading": "きそく",
+      "meaning": "khuôn phép"
     },
     {
-      "word": "規範",
-      "reading": "きはん",
-      "meaning": "quy phạm"
+      "word": "規律",
+      "reading": "きりつ",
+      "meaning": "luật"
     },
     {
-      "word": "新規",
-      "reading": "しんき",
-      "meaning": "mới lạ"
+      "word": "定規",
+      "reading": "じょうぎ",
+      "meaning": "thước"
+    },
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "qui mô"
+    },
+    {
+      "word": "規制",
+      "reading": "きせい",
+      "meaning": "định mức"
     },
     {
       "word": "規定",
@@ -107,14 +117,9 @@
       "meaning": "điều luật"
     },
     {
-      "word": "規約",
-      "reading": "きやく",
-      "meaning": "qui ước"
-    },
-    {
-      "word": "軍規",
-      "reading": "ぐんき",
-      "meaning": "quy tắc quân đội"
+      "word": "正規",
+      "reading": "せいき",
+      "meaning": "chính quy"
     },
     {
       "word": "規格",
@@ -122,19 +127,14 @@
       "meaning": "khuôn khổ"
     },
     {
-      "word": "子規",
-      "reading": "ほととぎす",
-      "meaning": "một tên gọi khác của chim cu cu nhỏ"
+      "word": "規約",
+      "reading": "きやく",
+      "meaning": "qui ước"
     },
     {
-      "word": "会規",
-      "reading": "かいき",
-      "meaning": "quy tắc của xã hội"
-    },
-    {
-      "word": "円規",
-      "reading": "えんき",
-      "meaning": "compa"
+      "word": "新規",
+      "reading": "しんき",
+      "meaning": "mới lạ"
     }
   ]
 }

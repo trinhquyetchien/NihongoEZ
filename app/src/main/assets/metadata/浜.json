@@ -94,14 +94,19 @@
       "meaning": "bãi biển"
     },
     {
+      "word": "浜辺",
+      "reading": "はまべ",
+      "meaning": "bãi biển"
+    },
+    {
       "word": "横浜",
       "reading": "よこはま",
       "meaning": "thành phố yokohama"
     },
     {
-      "word": "浜菱",
-      "reading": "はまびし",
-      "meaning": "cây củ ấu"
+      "word": "横浜市",
+      "reading": "よこはまし",
+      "meaning": "thành phố yokohama"
     },
     {
       "word": "浜松",
@@ -109,34 +114,29 @@
       "meaning": "&amp"
     },
     {
-      "word": "浜菅",
-      "reading": "はますげ",
-      "meaning": "củ gấu"
+      "word": "入り浜",
+      "reading": "いりはま",
+      "meaning": "ruộng muối"
     },
     {
-      "word": "京浜",
-      "reading": "けいひん",
-      "meaning": "tokyo và yokohama"
+      "word": "浜焼き",
+      "reading": "はまやき",
+      "meaning": "món cá uớp muối nướng"
     },
     {
-      "word": "養浜",
-      "reading": "ようひん",
-      "meaning": "nuôi dưỡng bãi biển"
+      "word": "浜菜",
+      "reading": "はまな",
+      "meaning": "rau cải biển"
     },
     {
-      "word": "海浜",
-      "reading": "かいひん",
-      "meaning": "bờ biển"
+      "word": "揚げ浜",
+      "reading": "あげはま",
+      "meaning": "ruộng muối nhân tạo trên mực nước thủy triều cao"
     },
     {
-      "word": "白浜",
-      "reading": "しらはま",
-      "meaning": "bãi biển có cát trắng"
-    },
-    {
-      "word": "浜風",
-      "reading": "はまかぜ",
-      "meaning": "gió thổi vào bờ"
+      "word": "浜っ子",
+      "reading": "はまっこ",
+      "meaning": "tự nhiên yokohama"
     }
   ]
 }

@@ -91,14 +91,14 @@
   ],
   "vocabulary": [
     {
+      "word": "或いは",
+      "reading": "あるいは",
+      "meaning": "hoặc"
+    },
+    {
       "word": "或",
       "reading": "ある",
       "meaning": "mỗi"
-    },
-    {
-      "word": "或は",
-      "reading": "あるは",
-      "meaning": "hoặc"
     },
     {
       "word": "或る",
@@ -111,24 +111,24 @@
       "meaning": "một ngày"
     },
     {
-      "word": "或る時",
-      "reading": "あるとき",
-      "meaning": "một lần"
-    },
-    {
       "word": "或る人",
       "reading": "あるひと",
       "meaning": "người nào đó"
     },
     {
-      "word": "或いは",
-      "reading": "あるいは",
-      "meaning": "hoặc"
-    },
-    {
       "word": "と或る",
       "reading": "とある",
-      "meaning": "một số.."
+      "meaning": "một số"
+    },
+    {
+      "word": "或る時",
+      "reading": "あるとき",
+      "meaning": "một lần"
+    },
+    {
+      "word": "或は",
+      "reading": "あるは",
+      "meaning": "hoặc"
     }
   ]
 }

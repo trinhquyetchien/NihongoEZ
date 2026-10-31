@@ -92,24 +92,34 @@
       "meaning": "bệnh ho"
     },
     {
+      "word": "咳薬",
+      "reading": "せきぐすり",
+      "meaning": "thuốc ho"
+    },
+    {
+      "word": "咳止め",
+      "reading": "せきどめ",
+      "meaning": "thuốc ho"
+    },
+    {
+      "word": "咳払い",
+      "reading": "せきばらい",
+      "meaning": "sự đằng hắng"
+    },
+    {
+      "word": "百日咳",
+      "reading": "ひゃくにちぜき",
+      "meaning": "chứng ho gà"
+    },
+    {
       "word": "咳嗽",
       "reading": "がいそう",
       "meaning": "sự ho"
     },
     {
-      "word": "乾咳",
-      "reading": "からぜき",
-      "meaning": "chứng ho khan"
-    },
-    {
-      "word": "咳く",
-      "reading": "しわぶく",
-      "meaning": "để ho"
-    },
-    {
-      "word": "謦咳",
-      "reading": "けいがい",
-      "meaning": "vui lòng gặp gỡ"
+      "word": "鎮咳薬",
+      "reading": "ちんがいやく",
+      "meaning": "thuốc ho"
     },
     {
       "word": "空咳",
@@ -122,19 +132,9 @@
       "meaning": "bệnh lao phổi"
     },
     {
-      "word": "咳薬",
-      "reading": "せきぐすり",
-      "meaning": "thuốc ho"
-    },
-    {
-      "word": "鎮咳薬",
-      "reading": "ちんがいやく",
-      "meaning": "thuốc ho"
-    },
-    {
-      "word": "鎮咳剤",
-      "reading": "ちんがいざい",
-      "meaning": "chất chống ho"
+      "word": "乾咳",
+      "reading": "からぜき",
+      "meaning": "chứng ho khan"
     }
   ]
 }

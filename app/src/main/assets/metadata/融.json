@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "祝融",
-      "reading": "しゅくゆう",
-      "meaning": "tiên vị hoả thần chúc dung"
+      "word": "金融",
+      "reading": "きんゆう",
+      "meaning": "tài chính"
     },
     {
-      "word": "熔融",
-      "reading": "ようゆう",
-      "meaning": "sự nấu chảy"
+      "word": "融資",
+      "reading": "ゆうし",
+      "meaning": "cấp vốn"
     },
     {
-      "word": "融雪",
-      "reading": "ゆうせつ",
-      "meaning": "nấu chảy tuyết"
+      "word": "融通",
+      "reading": "ゆうずう",
+      "meaning": "khoản vay"
     },
     {
-      "word": "融朗",
-      "reading": "ゆうろう",
-      "meaning": "sự sáng ngời"
+      "word": "金融家",
+      "reading": "きんゆうか",
+      "meaning": "nhà tài chính"
     },
     {
-      "word": "特融",
-      "reading": "とくゆう",
-      "meaning": "khoản vay đặc biệt"
+      "word": "金融街",
+      "reading": "きんゆうがい",
+      "meaning": "phố wall"
     },
     {
-      "word": "融点",
-      "reading": "ゆうてん",
-      "meaning": "sự nấu chảy chỉ"
+      "word": "闇金融",
+      "reading": "やみきんゆう",
+      "meaning": "tín dụng đen"
     },
     {
-      "word": "融除",
-      "reading": "ゆうじょ",
-      "meaning": "cắt bỏ shield"
+      "word": "金融界",
+      "reading": "きんゆうかい",
+      "meaning": "tài chính xoay quanh"
     },
     {
-      "word": "融解",
-      "reading": "ゆうかい",
-      "meaning": "sự tan chảy"
-    },
-    {
-      "word": "溶融",
-      "reading": "ようゆう",
-      "meaning": "sự nấu chảy"
+      "word": "金融業",
+      "reading": "きんゆうぎょう",
+      "meaning": "tài chính hoặc doanh nghiệp moneylending"
     },
     {
       "word": "融合",
       "reading": "ゆうごう",
       "meaning": "sự dung hợp"
+    },
+    {
+      "word": "核融合",
+      "reading": "かくゆうごう",
+      "meaning": "sự tách hạt nhân"
     }
   ]
 }

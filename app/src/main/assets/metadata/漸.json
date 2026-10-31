@@ -90,19 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "漸",
-      "reading": "やや",
-      "meaning": "tiến triển dần dần"
-    },
-    {
-      "word": "漸漸",
-      "reading": "ぜんぜん",
-      "meaning": "dần dần"
-    },
-    {
       "word": "漸く",
       "reading": "ようやく",
       "meaning": "cuối cùng"
+    },
+    {
+      "word": "漸",
+      "reading": "やや",
+      "meaning": "tiến triển dần dần"
     },
     {
       "word": "漸悟",
@@ -110,19 +105,24 @@
       "meaning": "dần dần nhận ra. khai sáng theo thứ tự"
     },
     {
-      "word": "漸近",
-      "reading": "ぜんきん",
-      "meaning": "tiến gần đến"
+      "word": "漸化式",
+      "reading": "ぜんかしき",
+      "meaning": "công thức truy toán"
+    },
+    {
+      "word": "漸新世",
+      "reading": "ぜんしんせい",
+      "meaning": "oligocene epoch"
+    },
+    {
+      "word": "漸変流",
+      "reading": "ぜんぺんりょう",
+      "meaning": "dòng chảy biến đổi chậm"
     },
     {
       "word": "漸減",
       "reading": "ぜんげん",
       "meaning": "sự giảm xuống một cách từ từ"
-    },
-    {
-      "word": "東漸",
-      "reading": "とうぜん",
-      "meaning": "tiến về phía đông"
     },
     {
       "word": "漸次",
@@ -135,9 +135,9 @@
       "meaning": "sự tiến triển từ từ"
     },
     {
-      "word": "漸増",
-      "reading": "ぜんぞう",
-      "meaning": "sự tăng chậm chạp"
+      "word": "漸次的",
+      "reading": "ぜんじてき",
+      "meaning": "dần dần"
     }
   ]
 }

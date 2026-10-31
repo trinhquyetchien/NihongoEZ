@@ -90,6 +90,16 @@
       "meaning": "khiêm tốn"
     },
     {
+      "word": "謙遜語",
+      "reading": "けんそんご",
+      "meaning": "khiêm tốn ngữ"
+    },
+    {
+      "word": "遜色",
+      "reading": "そんしょく",
+      "meaning": "vị trí thấp hơn"
+    },
+    {
       "word": "不遜",
       "reading": "ふそん",
       "meaning": "tính kiêu ngạo"
@@ -100,31 +110,6 @@
       "meaning": "nhún nhường"
     },
     {
-      "word": "遜色",
-      "reading": "そんしょく",
-      "meaning": "vị trí thấp hơn"
-    },
-    {
-      "word": "謙遜語",
-      "reading": "けんそんご",
-      "meaning": "khiêm tốn ngữ"
-    },
-    {
-      "word": "尊大不遜",
-      "reading": "そんだいふそん",
-      "meaning": "kiêu căng ngạo mạn"
-    },
-    {
-      "word": "傲岸不遜",
-      "reading": "ごうがんふそん",
-      "meaning": "sự kiêu ngạo"
-    },
-    {
-      "word": "傲慢不遜",
-      "reading": "ごうまんふそん",
-      "meaning": "kiêu kỳ"
-    },
-    {
       "word": "謙遜する",
       "reading": "けんそんする",
       "meaning": "khiêm tốn"
@@ -133,6 +118,21 @@
       "word": "遜色のない",
       "reading": "そんしょくのない",
       "meaning": "không thua kém"
+    },
+    {
+      "word": "遜色がある",
+      "reading": "そんしょくがある",
+      "meaning": "sự tự ti"
+    },
+    {
+      "word": "遜色がない",
+      "reading": "そんしょくがない",
+      "meaning": "có thể so sánh với"
+    },
+    {
+      "word": "傲慢不遜",
+      "reading": "ごうまんふそん",
+      "meaning": "kiêu kỳ"
     }
   ]
 }

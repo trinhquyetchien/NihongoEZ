@@ -51,6 +51,41 @@
   ],
   "vocabulary": [
     {
+      "word": "水漉し",
+      "reading": "みずこし",
+      "meaning": "lọc nước"
+    },
+    {
+      "word": "漉し紙",
+      "reading": "こしがみ",
+      "meaning": "giấy lọc"
+    },
+    {
+      "word": "粗漉し",
+      "reading": "あらごし",
+      "meaning": "lọc thô"
+    },
+    {
+      "word": "漉し袋",
+      "reading": "こしぶくろ",
+      "meaning": "túi đồ nghề"
+    },
+    {
+      "word": "紙漉き",
+      "reading": "かみすき",
+      "meaning": "sự làm giấy"
+    },
+    {
+      "word": "手漉き",
+      "reading": "てすき",
+      "meaning": "giấy thủ công"
+    },
+    {
+      "word": "手漉",
+      "reading": "てすき",
+      "meaning": "giấy handmade"
+    },
+    {
       "word": "漉す",
       "reading": "こす",
       "meaning": "sàng"
@@ -61,44 +96,9 @@
       "meaning": "để làm cái gì đó như giấy"
     },
     {
-      "word": "手漉",
-      "reading": "てすき",
-      "meaning": "giấy handmade"
-    },
-    {
-      "word": "漉油",
-      "reading": "こしあぶら",
-      "meaning": "cây acanthopanax sciadophylloides"
-    },
-    {
-      "word": "裏漉し",
-      "reading": "うらごし",
-      "meaning": "cái lọc"
-    },
-    {
-      "word": "水漉し",
-      "reading": "みずこし",
-      "meaning": "lọc nước"
-    },
-    {
-      "word": "紙漉き",
-      "reading": "かみすき",
-      "meaning": "sự làm giấy"
-    },
-    {
-      "word": "漉し紙",
-      "reading": "こしがみ",
-      "meaning": "giấy lọc"
-    },
-    {
-      "word": "絹漉し",
-      "reading": "きぬごし",
-      "meaning": "lọc qua vải tơ"
-    },
-    {
-      "word": "手漉き",
-      "reading": "てすき",
-      "meaning": "giấy thủ công"
+      "word": "茶漉し",
+      "reading": "ちゃこし",
+      "meaning": "cái lọc nước chè"
     }
   ]
 }

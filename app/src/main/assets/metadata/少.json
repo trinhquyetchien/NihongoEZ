@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "少",
-      "reading": "しょう",
-      "meaning": "nhỏ"
-    },
-    {
-      "word": "少少",
-      "reading": "しょうしょう",
-      "meaning": "chỉ là một phút"
-    },
-    {
-      "word": "少年少女",
-      "reading": "しょうねんしょうじょ",
-      "meaning": "những cậu bé và những cô gái"
-    },
-    {
-      "word": "少少足りない",
-      "reading": "しょうしょうたりない",
-      "meaning": "có phần thiếu"
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "chút đỉnh"
     },
     {
       "word": "少女",
@@ -115,14 +100,24 @@
       "meaning": "thiếu nữ"
     },
     {
-      "word": "少し",
-      "reading": "すこし",
-      "meaning": "chút đỉnh"
-    },
-    {
       "word": "少年",
       "reading": "しょうねん",
       "meaning": "nam nhi"
+    },
+    {
+      "word": "多少",
+      "reading": "たしょう",
+      "meaning": "số lượng nhiều hay ít"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "một chút"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "hao"
     },
     {
       "word": "少数",
@@ -130,14 +125,19 @@
       "meaning": "số thập phân"
     },
     {
-      "word": "少佐",
-      "reading": "しょうさ",
-      "meaning": "thiếu tá"
+      "word": "僅少",
+      "reading": "きんしょう",
+      "meaning": "ít"
     },
     {
-      "word": "減少",
-      "reading": "げんしょう",
-      "meaning": "hao"
+      "word": "少",
+      "reading": "しょう",
+      "meaning": "nhỏ"
+    },
+    {
+      "word": "少者",
+      "reading": "しょうしゃ",
+      "meaning": "người trẻ"
     }
   ]
 }

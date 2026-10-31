@@ -50,11 +50,6 @@
   ],
   "vocabulary": [
     {
-      "word": "天網恢恢疎にして漏らさず",
-      "reading": "てんもうかいかいそにしてもらさず",
-      "meaning": "lưới trời thưa mà khó thoát"
-    },
-    {
       "word": "恢復",
       "reading": "かいふく",
       "meaning": "khôi phục"
@@ -63,6 +58,11 @@
       "word": "天網恢々",
       "reading": "てんもうかいかい",
       "meaning": "lưới trời lồng lộng"
+    },
+    {
+      "word": "天網恢恢疎にして漏らさず",
+      "reading": "てんもうかいかいそにしてもらさず",
+      "meaning": "lưới trời thưa mà khó thoát"
     }
   ]
 }

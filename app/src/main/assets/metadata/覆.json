@@ -91,24 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "反覆",
-      "reading": "はんぷく",
-      "meaning": "sự lặp lại"
+      "word": "覆う",
+      "reading": "おおう",
+      "meaning": "gói"
     },
     {
-      "word": "傾覆",
-      "reading": "けいふく",
-      "meaning": "úp mặt xuống"
-    },
-    {
-      "word": "顛覆",
-      "reading": "てんぷく",
-      "meaning": "sự lật úp"
-    },
-    {
-      "word": "上覆",
-      "reading": "うわおおい",
-      "meaning": "vải phủ"
+      "word": "覆面",
+      "reading": "ふくめん",
+      "meaning": "mạng che mặt"
     },
     {
       "word": "覆す",
@@ -116,29 +106,39 @@
       "meaning": "lật ngược"
     },
     {
+      "word": "覆われ",
+      "reading": "おおわれ",
+      "meaning": "bao phủ"
+    },
+    {
+      "word": "覆い",
+      "reading": "おおい",
+      "meaning": "che chắn"
+    },
+    {
+      "word": "耳覆い",
+      "reading": "みみおおい",
+      "meaning": "bao bịt tai"
+    },
+    {
+      "word": "転覆",
+      "reading": "てんぷく",
+      "meaning": "sự lật úp"
+    },
+    {
       "word": "被覆",
       "reading": "ひふく",
       "meaning": "sự cách ly"
     },
     {
-      "word": "覆る",
-      "reading": "くつがえる",
-      "meaning": "bị lật ngược"
+      "word": "被覆剤",
+      "reading": "ひふくざい",
+      "meaning": "thuốc vỏ"
     },
     {
-      "word": "覆刻",
-      "reading": "ふっこく",
-      "meaning": "tái bản"
-    },
-    {
-      "word": "覆土",
-      "reading": "ふくど",
-      "meaning": "che đậy những hạt giống với đất"
-    },
-    {
-      "word": "覆審",
-      "reading": "ふくしん",
-      "meaning": "sự phúc thẩm"
+      "word": "上覆",
+      "reading": "うわおおい",
+      "meaning": "vải phủ"
     }
   ]
 }

@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
+      "word": "保険",
+      "reading": "ほけん",
+      "meaning": "sự bảo hiểm"
+    },
+    {
+      "word": "保育",
+      "reading": "ほいく",
+      "meaning": "sự nuôi dạy"
+    },
+    {
+      "word": "保養",
+      "reading": "ほよう",
+      "meaning": "bổ dưỡng"
+    },
+    {
+      "word": "保温",
+      "reading": "ほおん",
+      "meaning": "sự giữ độ ấm"
+    },
+    {
+      "word": "保障",
+      "reading": "ほしょう",
+      "meaning": "đảm bảo"
+    },
+    {
       "word": "保",
       "reading": "ほ",
       "meaning": "bảo đảm"
     },
     {
-      "word": "保証保険",
-      "reading": "ほしょうほけん",
-      "meaning": "bảo hiểm bảo hành"
+      "word": "保元",
+      "reading": "ほうげん",
+      "meaning": "hougen era"
     },
     {
-      "word": "保守・保全",
-      "reading": "ほしゅ・ほぜん",
-      "meaning": "bảo trì"
+      "word": "保無",
+      "reading": "ほむ",
+      "meaning": "bảo thủ không có sự nhập hội phe"
     },
     {
-      "word": "医療保障保険",
-      "reading": "いりょうほしょうほけん",
-      "meaning": "bảo hiểm nhân thọ y tế"
+      "word": "品保",
+      "reading": "ひんぽ",
+      "meaning": "đảm bảo chất lượng"
     },
     {
-      "word": "全損担保保険",
-      "reading": "ぜんそんたんぽほけん",
-      "meaning": "bảo hiểm mất toàn bộ"
-    },
-    {
-      "word": "全危険担保保険",
-      "reading": "ぜんきけんたんぽほけん",
-      "meaning": "bảo hiểm mọi rủi ro"
-    },
-    {
-      "word": "担保商品保管証",
-      "reading": "たんぽしょうひんほかんしょう",
-      "meaning": "biên lai tín thác"
-    },
-    {
-      "word": "保冷剤/保冷用品",
-      "reading": "ほれいざい/ほれいようひん",
-      "meaning": "chất giữ nhiệt"
-    },
-    {
-      "word": "特保",
-      "reading": "とくほ",
-      "meaning": "thực phẩm cho mục đích y tế"
-    },
-    {
-      "word": "健保",
-      "reading": "けんぽ",
-      "meaning": "bảo hiểm y tế"
+      "word": "文保",
+      "reading": "ぶんぽう",
+      "meaning": "thời bumpou"
     }
   ]
 }

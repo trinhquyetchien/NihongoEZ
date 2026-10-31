@@ -92,19 +92,14 @@
   ],
   "vocabulary": [
     {
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "song thân"
+    },
+    {
       "word": "親",
       "reading": "おや",
       "meaning": "cha mẹ"
-    },
-    {
-      "word": "親愛",
-      "reading": "しんあい",
-      "meaning": "thân ái"
-    },
-    {
-      "word": "親睦",
-      "reading": "しんぼく",
-      "meaning": "sự thân thiết"
     },
     {
       "word": "親指",
@@ -112,34 +107,39 @@
       "meaning": "ngón cái"
     },
     {
-      "word": "親子",
-      "reading": "おやこ",
-      "meaning": "cha mẹ và con cái"
+      "word": "親善",
+      "reading": "しんぜん",
+      "meaning": "sự thân thiện"
     },
     {
-      "word": "両親",
-      "reading": "りょうしん",
-      "meaning": "song thân"
+      "word": "男親",
+      "reading": "おとこおや",
+      "meaning": "bố"
     },
     {
-      "word": "片親",
-      "reading": "かたおや",
-      "meaning": "cha hoặc mẹ"
+      "word": "女親",
+      "reading": "おんなおや",
+      "meaning": "người mẹ"
     },
     {
-      "word": "親鳥",
-      "reading": "おやどり",
-      "meaning": "con chim cha mẹ"
+      "word": "親機",
+      "reading": "おやき",
+      "meaning": "điện thoại mẹ"
     },
     {
-      "word": "親トモ",
-      "reading": "おやトモ",
-      "meaning": "giữ liên lạc với nhau qua tin nhắn"
+      "word": "親バカ",
+      "reading": "おやばか",
+      "meaning": "cha mẹ yêu chiều con cái quá mức"
     },
     {
-      "word": "雄親",
-      "reading": "ゆうしん",
-      "meaning": "quan hệ cha con"
+      "word": "親局",
+      "reading": "おやきょく",
+      "meaning": "trạm chủ"
+    },
+    {
+      "word": "親字",
+      "reading": "おやじ",
+      "meaning": "đặc tính đầu tiên một mục vào từ điển)"
     }
   ]
 }

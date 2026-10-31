@@ -91,19 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "興",
-      "reading": "きょう",
+      "word": "興味",
+      "reading": "きょうみ",
       "meaning": "hứng"
     },
     {
-      "word": "興る",
-      "reading": "おこる",
-      "meaning": "được dựng lại"
+      "word": "興奮",
+      "reading": "こうふん",
+      "meaning": "sự hưng phấn"
     },
     {
-      "word": "興す",
-      "reading": "おこす",
-      "meaning": "làm phục hồi"
+      "word": "復興",
+      "reading": "ふっこう",
+      "meaning": "sự phục hưng"
+    },
+    {
+      "word": "振興",
+      "reading": "しんこう",
+      "meaning": "sự khuyến khích"
+    },
+    {
+      "word": "新興",
+      "reading": "しんこう",
+      "meaning": "sự tăng lên"
+    },
+    {
+      "word": "余興",
+      "reading": "よきょう",
+      "meaning": "trò biểu diễn sau buổi tiệc"
     },
     {
       "word": "興業",
@@ -111,34 +126,19 @@
       "meaning": "sự khởi nghiệp"
     },
     {
-      "word": "興亜",
-      "reading": "こうあ",
-      "meaning": "sự phát triển vùng châu á"
+      "word": "興じる",
+      "reading": "きょうじる",
+      "meaning": "tiêu khiển"
     },
     {
-      "word": "興国",
-      "reading": "こうこく",
-      "meaning": "làm cho đất nước thịnh vượng"
+      "word": "興奮剤",
+      "reading": "こうふんざい",
+      "meaning": "chất kích thích"
     },
     {
-      "word": "興亡",
-      "reading": "こうぼう",
-      "meaning": "sự thăng trầm"
-    },
-    {
-      "word": "興替",
-      "reading": "こうたい",
-      "meaning": "sự lên và sự rơi những dân tộc)"
-    },
-    {
-      "word": "作興",
-      "reading": "さっこう",
-      "meaning": "đẩy mạnh"
-    },
-    {
-      "word": "余興",
-      "reading": "よきょう",
-      "meaning": "trò biểu diễn sau buổi tiệc"
+      "word": "興行",
+      "reading": "こうぎょう",
+      "meaning": "ngành giải trí"
     }
   ]
 }

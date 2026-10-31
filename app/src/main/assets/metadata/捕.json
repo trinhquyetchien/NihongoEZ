@@ -95,54 +95,54 @@
   ],
   "vocabulary": [
     {
-      "word": "採捕",
-      "reading": "さいほ",
-      "meaning": "thu hoạch"
+      "word": "逮捕",
+      "reading": "たいほ",
+      "meaning": "bắt bỏ tù"
     },
     {
-      "word": "捕囚",
-      "reading": "ほしゅう",
-      "meaning": "sự giam cầm"
+      "word": "捕る",
+      "reading": "とる",
+      "meaning": "nắm"
     },
     {
-      "word": "捕失",
-      "reading": "ほしつ",
-      "meaning": "lỗi những người bắt"
+      "word": "捕虜",
+      "reading": "ほりょ",
+      "meaning": "tù binh"
     },
     {
-      "word": "捕方",
-      "reading": "とりかた",
-      "meaning": "cảnh sát"
+      "word": "捕獲",
+      "reading": "ほかく",
+      "meaning": "sự bắt được"
     },
     {
-      "word": "捕逸",
-      "reading": "ほいつ",
-      "meaning": "bắt trượt"
-    },
-    {
-      "word": "捕縄",
-      "reading": "とりなわ",
-      "meaning": "dây thừng của cảnh sát"
-    },
-    {
-      "word": "捕球",
-      "reading": "ほきゅう",
-      "meaning": "bắt bóng"
-    },
-    {
-      "word": "捕手",
-      "reading": "ほしゅ",
-      "meaning": "người bắt bóng"
-    },
-    {
-      "word": "捕捉",
-      "reading": "ほそく",
-      "meaning": "bắt"
+      "word": "捕鯨",
+      "reading": "ほげい",
+      "meaning": "sự bắt cá voi"
     },
     {
       "word": "捕吏",
       "reading": "ほり",
       "meaning": "cảnh sát"
+    },
+    {
+      "word": "逮捕者",
+      "reading": "たいほしゃ",
+      "meaning": "người bắt giam"
+    },
+    {
+      "word": "再逮捕",
+      "reading": "さいたいほ",
+      "meaning": "bị bắt giữ lại 1 lần nữa"
+    },
+    {
+      "word": "逮捕権",
+      "reading": "たいほけん",
+      "meaning": "quyền bắt giữ"
+    },
+    {
+      "word": "逮捕状",
+      "reading": "たいほじょう",
+      "meaning": "giấy chứng nhận bắt giữ"
     }
   ]
 }

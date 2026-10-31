@@ -52,19 +52,9 @@
   ],
   "vocabulary": [
     {
-      "word": "檀越",
-      "reading": "だんおつ",
-      "meaning": "người ủng hộ tiền xây chùa"
-    },
-    {
-      "word": "黒檀",
-      "reading": "こくたん",
-      "meaning": "gỗ mun"
-    },
-    {
-      "word": "栴檀",
-      "reading": "せんだん",
-      "meaning": "cây chiên đàn"
+      "word": "檀君",
+      "reading": "だんくん",
+      "meaning": "thần thoại chìm korea"
     },
     {
       "word": "檀尻",
@@ -77,14 +67,9 @@
       "meaning": "cây trục"
     },
     {
-      "word": "檀君",
-      "reading": "だんくん",
-      "meaning": "thần thoại chìm korea"
-    },
-    {
-      "word": "檀那",
-      "reading": "だんな",
-      "meaning": "chủ nhà"
+      "word": "阿檀",
+      "reading": "あだん",
+      "meaning": "cây dứa dại pandanus fascicularis"
     },
     {
       "word": "檀家",
@@ -92,14 +77,29 @@
       "meaning": "người dân trong giáo khu"
     },
     {
-      "word": "檀徒",
-      "reading": "だんと",
-      "meaning": "người ủng hộ miếu"
+      "word": "離檀",
+      "reading": "りだん",
+      "meaning": "cắt đứt mối quan hệ giữa một ngôi đền và những người ủng hộ nó"
+    },
+    {
+      "word": "黒檀",
+      "reading": "こくたん",
+      "meaning": "gỗ mun"
     },
     {
       "word": "白檀",
       "reading": "びゃくだん",
       "meaning": "cây đàn hương"
+    },
+    {
+      "word": "白檀油",
+      "reading": "びゃくだんゆ",
+      "meaning": "dầu đàn hương"
+    },
+    {
+      "word": "紫檀",
+      "reading": "したん",
+      "meaning": "gỗ hồng mộc"
     }
   ]
 }

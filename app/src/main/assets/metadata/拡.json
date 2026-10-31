@@ -92,18 +92,18 @@
   ],
   "vocabulary": [
     {
-      "word": "拡充",
-      "reading": "かくじゅう",
+      "word": "拡大",
+      "reading": "かくだい",
       "meaning": "sự mở rộng"
-    },
-    {
-      "word": "拡声",
-      "reading": "かくせい",
-      "meaning": "sự khuếch đại âm thanh"
     },
     {
       "word": "拡張",
       "reading": "かくちょう",
+      "meaning": "sự mở rộng"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
       "meaning": "sự mở rộng"
     },
     {
@@ -112,34 +112,34 @@
       "meaning": "sự khuyếch tán"
     },
     {
-      "word": "拡販",
-      "reading": "かくはん",
-      "meaning": "sự xúc tiến mở rộng bán hàng"
+      "word": "心拡大",
+      "reading": "しんかくだい",
+      "meaning": "phình tim"
     },
     {
-      "word": "軍拡",
-      "reading": "ぐんかく",
-      "meaning": "sự tăng cường vũ trang"
+      "word": "拡大体",
+      "reading": "かくだいたい",
+      "meaning": "mở rộng trường"
     },
     {
-      "word": "拡幅",
-      "reading": "かくふく",
-      "meaning": "sự mở rộng"
+      "word": "拡大率",
+      "reading": "かくだいりつ",
+      "meaning": "tỷ lệ khuyếch đại"
     },
     {
-      "word": "拡大",
-      "reading": "かくだい",
-      "meaning": "sự mở rộng"
+      "word": "急拡大",
+      "reading": "きゅうかくだい",
+      "meaning": "lan rộng đột biến"
     },
     {
-      "word": "拡縮",
-      "reading": "かくしゅく",
-      "meaning": "co giãn"
+      "word": "拡大図",
+      "reading": "かくだいず",
+      "meaning": "bản vẽ thực tế hoặc bản vẽ gốc được phóng to theo một tỷ lệ nhất định"
     },
     {
-      "word": "拡売",
-      "reading": "かくばい",
-      "meaning": "mở rộng bán hàng"
+      "word": "拡散率",
+      "reading": "かくさんりつ",
+      "meaning": "hệ số mở rộng"
     }
   ]
 }

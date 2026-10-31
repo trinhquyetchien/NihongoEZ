@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "hình sự"
+    },
+    {
+      "word": "死刑",
+      "reading": "しけい",
+      "meaning": "sự tử hình"
+    },
+    {
       "word": "刑",
       "reading": "けい",
       "meaning": "án"
     },
     {
-      "word": "刑事",
-      "reading": "けいじ",
-      "meaning": "hình sự"
+      "word": "刑罰",
+      "reading": "けいばつ",
+      "meaning": "hình phạt"
     },
     {
       "word": "処刑",
@@ -102,39 +112,29 @@
       "meaning": "sự hành hình"
     },
     {
-      "word": "刑期",
-      "reading": "けいき",
-      "meaning": "thời hạn bỏ tù"
-    },
-    {
-      "word": "五刑",
-      "reading": "ごけい",
-      "meaning": "năm hình phạt của trung quốc cổ đại: xăm mình"
-    },
-    {
-      "word": "刑死",
-      "reading": "けいし",
-      "meaning": "sự thực hiện"
-    },
-    {
-      "word": "極刑",
-      "reading": "きょっけい",
-      "meaning": "cực hình"
-    },
-    {
-      "word": "刑戮",
-      "reading": "けいりく",
-      "meaning": "trừng phạt"
-    },
-    {
-      "word": "刑場",
-      "reading": "けいじょう",
-      "meaning": "nơi thi hành án"
-    },
-    {
-      "word": "刑獄",
-      "reading": "けいごく",
+      "word": "刑務所",
+      "reading": "けいむしょ",
       "meaning": "nhà tù"
+    },
+    {
+      "word": "刑名",
+      "reading": "けいめい",
+      "meaning": "tên hình phạt"
+    },
+    {
+      "word": "歳刑",
+      "reading": "さいきょう",
+      "meaning": "saikyo"
+    },
+    {
+      "word": "主刑",
+      "reading": "しゅけい",
+      "meaning": "hình phạt chính"
+    },
+    {
+      "word": "肉刑",
+      "reading": "にくけい",
+      "meaning": "tra tấn"
     }
   ]
 }

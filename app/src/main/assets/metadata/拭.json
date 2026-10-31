@@ -89,14 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "乾拭",
-      "reading": "からぶき",
-      "meaning": "đánh bóng bằng vải khô"
-    },
-    {
       "word": "拭く",
       "reading": "ふく",
       "meaning": "chùi"
+    },
+    {
+      "word": "水拭き",
+      "reading": "みずぶき",
+      "meaning": "lau bằng khăn ẩm"
+    },
+    {
+      "word": "口拭き",
+      "reading": "くちふき",
+      "meaning": "khăn ăn"
+    },
+    {
+      "word": "窓拭き",
+      "reading": "まどふき",
+      "meaning": "lau dọn cửa sổ"
+    },
+    {
+      "word": "靴拭き",
+      "reading": "くつふき",
+      "meaning": "thảm chùi chân"
+    },
+    {
+      "word": "鼻拭き",
+      "reading": "はなふき",
+      "meaning": "khăn tay"
+    },
+    {
+      "word": "汗拭き",
+      "reading": "あせふき",
+      "meaning": "lau mồ hôi"
     },
     {
       "word": "払拭",
@@ -104,39 +129,14 @@
       "meaning": "lau chùi ngoài"
     },
     {
-      "word": "手拭",
-      "reading": "てぬぐい",
-      "meaning": "khăn lau tay"
-    },
-    {
-      "word": "汗拭",
-      "reading": "あせふき",
-      "meaning": "vải để lau chùi mồ hôi ra khỏi"
-    },
-    {
-      "word": "拭う",
-      "reading": "ぬぐう",
-      "meaning": "lau"
-    },
-    {
-      "word": "清拭",
-      "reading": "せいしき",
-      "meaning": "lau người"
-    },
-    {
-      "word": "拭布",
-      "reading": "ふきのの",
-      "meaning": "dish towel"
-    },
-    {
       "word": "尻拭い",
       "reading": "しりぬぐい",
       "meaning": "sạch lên trên hoặc bao trùm cho khác"
     },
     {
-      "word": "口拭き",
-      "reading": "くちふき",
-      "meaning": "khăn ăn"
+      "word": "手拭い",
+      "reading": "てぬぐい",
+      "meaning": "khăn tắm"
     }
   ]
 }

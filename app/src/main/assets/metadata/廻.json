@@ -71,14 +71,24 @@
   ],
   "vocabulary": [
     {
-      "word": "廻心",
-      "reading": "えしん",
-      "meaning": "đổi"
-    },
-    {
       "word": "廻り",
       "reading": "めぐり",
       "meaning": "sự quay"
+    },
+    {
+      "word": "水廻り",
+      "reading": "みずまわり",
+      "meaning": "chia ra một tòa nhà nơi nước được lưu hành"
+    },
+    {
+      "word": "廻り縁",
+      "reading": "まわりへり",
+      "meaning": "viền xoay quanh trần"
+    },
+    {
+      "word": "輪廻",
+      "reading": "りんね",
+      "meaning": "luân hồi"
     },
     {
       "word": "廻縁",
@@ -86,24 +96,9 @@
       "meaning": "gờ"
     },
     {
-      "word": "旋廻",
-      "reading": "せんかい",
-      "meaning": "cuộc cách mạng"
-    },
-    {
-      "word": "廻覧",
-      "reading": "かいらん",
-      "meaning": "sự truyền nhau xem"
-    },
-    {
-      "word": "廻文",
-      "reading": "かいぶん",
-      "meaning": "đọc xuôi ngược đều giống như nhau"
-    },
-    {
-      "word": "廻廊",
-      "reading": "かいろう",
-      "meaning": "hành lang"
+      "word": "廻向",
+      "reading": "えこう",
+      "meaning": "lễ truy điệu tín đồ phật giáo"
     },
     {
       "word": "廻る",
@@ -111,14 +106,19 @@
       "meaning": "tranh dành"
     },
     {
-      "word": "廻状",
-      "reading": "かいじょう",
-      "meaning": "thông tư"
+      "word": "廻船",
+      "reading": "かいせん",
+      "meaning": "thuyền bốc dỡ hàng"
     },
     {
-      "word": "廻送",
-      "reading": "かいそう",
-      "meaning": "chuyển tiếp"
+      "word": "廻廊",
+      "reading": "かいろう",
+      "meaning": "hành lang"
+    },
+    {
+      "word": "旋廻",
+      "reading": "せんかい",
+      "meaning": "cuộc cách mạng"
     }
   ]
 }

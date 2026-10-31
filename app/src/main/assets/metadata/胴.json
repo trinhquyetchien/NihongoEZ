@@ -90,24 +90,9 @@
       "meaning": "cơ thể"
     },
     {
-      "word": "輪胴",
-      "reading": "りんどう",
-      "meaning": "than tròn"
-    },
-    {
-      "word": "胴乱",
-      "reading": "どうらん",
-      "meaning": "trường hợp cho những mẫu thực vật học"
-    },
-    {
-      "word": "胴着",
-      "reading": "どうぎ",
-      "meaning": "quần áo lót"
-    },
-    {
-      "word": "胴中",
-      "reading": "どうなか",
-      "meaning": "phần giữa cơ thể"
+      "word": "胴部",
+      "reading": "どうぶ",
+      "meaning": "phần thân"
     },
     {
       "word": "胴長",
@@ -115,24 +100,39 @@
       "meaning": "bộ quần áo cao su dài đến ngực dùng để lội nước"
     },
     {
-      "word": "胴元",
-      "reading": "どうもと",
-      "meaning": "người quản lý"
+      "word": "胴掛け",
+      "reading": "どうかけ",
+      "meaning": "tấm chắn trượt"
     },
     {
-      "word": "胴慾",
-      "reading": "どうよく",
-      "meaning": "tính hám lợi"
+      "word": "輪胴",
+      "reading": "りんどう",
+      "meaning": "than tròn"
     },
     {
-      "word": "胴衣",
-      "reading": "どうい",
-      "meaning": "áo choàng"
+      "word": "胴当て",
+      "reading": "どうあて",
+      "meaning": "tấm chắn trượt"
     },
     {
-      "word": "胴欲",
-      "reading": "どうよく",
-      "meaning": "tính hám lợi"
+      "word": "輪胴式",
+      "reading": "りんどうしき",
+      "meaning": "kiểu buồng xoay"
+    },
+    {
+      "word": "胴縁",
+      "reading": "どうぶち",
+      "meaning": "tường đệm"
+    },
+    {
+      "word": "胴揚げ",
+      "reading": "どうあげ",
+      "meaning": "sự tung người nào đó lên cao"
+    },
+    {
+      "word": "胴体",
+      "reading": "どうたい",
+      "meaning": "cơ thể"
     }
   ]
 }

@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "異存",
-      "reading": "いぞん",
-      "meaning": "sự phản đối"
-    },
-    {
-      "word": "既存",
-      "reading": "きそん",
-      "meaning": "tồn tại"
-    },
-    {
-      "word": "現存",
-      "reading": "げんそん",
-      "meaning": "sự tồn tại hiện tại"
-    },
-    {
-      "word": "温存",
-      "reading": "おんぞん",
-      "meaning": "giữ gìn"
-    },
-    {
-      "word": "厳存",
-      "reading": "げんそん",
-      "meaning": "sự tồn tại thực"
-    },
-    {
-      "word": "残存",
-      "reading": "ざんぞん",
-      "meaning": "sự còn lại"
-    },
-    {
-      "word": "賦存",
-      "reading": "ふぞん",
+      "word": "存在",
+      "reading": "そんざい",
       "meaning": "sự tồn tại"
     },
     {
-      "word": "溶存",
-      "reading": "ようぞん",
-      "meaning": "sự hòa tan"
+      "word": "保存",
+      "reading": "ほぞん",
+      "meaning": "sự bảo tồn"
     },
     {
-      "word": "存置",
-      "reading": "そんち",
-      "meaning": "bảo trì"
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "sự sinh tồn"
     },
     {
-      "word": "一存",
-      "reading": "いちぞん",
-      "meaning": "một suy xét cá nhân"
+      "word": "依存",
+      "reading": "いぞん",
+      "meaning": "sự phụ thuộc"
+    },
+    {
+      "word": "存続",
+      "reading": "そんぞく",
+      "meaning": "khoảng thời gian mà một việc tồn tại"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうぞん",
+      "meaning": "sự chung sống"
+    },
+    {
+      "word": "存在者",
+      "reading": "そんざいしゃ",
+      "meaning": "thực thể"
+    },
+    {
+      "word": "存在感",
+      "reading": "そんざいかん",
+      "meaning": "sự hiện diện có sức ảnh hưởng"
+    },
+    {
+      "word": "存在論",
+      "reading": "そんざいろん",
+      "meaning": "bản thể học"
+    },
+    {
+      "word": "保存力",
+      "reading": "ほぞんりょく",
+      "meaning": "lực bảo toàn"
     }
   ]
 }

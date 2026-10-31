@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "脈",
-      "reading": "みゃく",
-      "meaning": "mạch"
-    },
-    {
-      "word": "脈脈",
-      "reading": "みゃくみゃく",
-      "meaning": "liên tục"
-    },
-    {
-      "word": "脈脈たる",
-      "reading": "みゃくみゃくたる",
-      "meaning": "liên tiếp"
-    },
-    {
-      "word": "動脈-動脈瘻",
-      "reading": "どうみゃく-どうみゃくろう",
-      "meaning": "động mạch - rò động mạch"
-    },
-    {
       "word": "文脈",
       "reading": "ぶんみゃく",
       "meaning": "văn cảnh"
     },
     {
-      "word": "翅脈",
-      "reading": "しみゃく",
-      "meaning": "mạch cánh"
+      "word": "脈",
+      "reading": "みゃく",
+      "meaning": "mạch"
     },
     {
-      "word": "金脈",
-      "reading": "きんみゃく",
-      "meaning": "những kết nối tài chính"
-    },
-    {
-      "word": "支脈",
-      "reading": "しみゃく",
-      "meaning": "thúc ngựa"
-    },
-    {
-      "word": "脈理",
-      "reading": "みゃくり",
-      "meaning": "dây thừng nhỏ"
+      "word": "山脈",
+      "reading": "さんみゃく",
+      "meaning": "dãy núi"
     },
     {
       "word": "動脈",
       "reading": "どうみゃく",
       "meaning": "động mạch"
+    },
+    {
+      "word": "脳動脈",
+      "reading": "のうどうみゃく",
+      "meaning": "động mạch não"
+    },
+    {
+      "word": "動脈炎",
+      "reading": "どうみゃくえん",
+      "meaning": "viêm động mạch"
+    },
+    {
+      "word": "眼動脈",
+      "reading": "がんどうみゃく",
+      "meaning": "động mạch mắt"
+    },
+    {
+      "word": "動脈管",
+      "reading": "どうみゃくかん",
+      "meaning": "còn ống động mạch"
+    },
+    {
+      "word": "銃脈",
+      "reading": "じゅうみゃく",
+      "meaning": "tiêm vào tĩnh mạch"
+    },
+    {
+      "word": "経脈",
+      "reading": "けいみゃく",
+      "meaning": "thông kinh mạch"
     }
   ]
 }

@@ -111,24 +111,19 @@
       "meaning": "bóng"
     },
     {
-      "word": "幻影",
-      "reading": "げんえい",
-      "meaning": "ảo tưởng"
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning": "sự chụp ảnh"
     },
     {
-      "word": "敵影",
-      "reading": "てきえい",
-      "meaning": "bóng quân địch"
+      "word": "ご影",
+      "reading": "ごえい",
+      "meaning": "tranh thần thánh"
     },
     {
-      "word": "形影",
-      "reading": "けいえい",
-      "meaning": "hình ảnh"
-    },
-    {
-      "word": "月影",
-      "reading": "げつえい",
-      "meaning": "bóng trăng"
+      "word": "本影",
+      "reading": "ほんえい",
+      "meaning": "bóng"
     },
     {
       "word": "機影",
@@ -136,24 +131,29 @@
       "meaning": "hình dáng / hình bóng của một chiếc máy bay đang bay"
     },
     {
+      "word": "敵影",
+      "reading": "てきえい",
+      "meaning": "bóng quân địch"
+    },
+    {
+      "word": "黒影",
+      "reading": "こくえい",
+      "meaning": "bóng"
+    },
+    {
+      "word": "半影",
+      "reading": "はんえい",
+      "meaning": "vùng nửa tối"
+    },
+    {
       "word": "魚影",
       "reading": "ぎょえい",
       "meaning": "phác thảo của một con cá đơn độc"
     },
     {
-      "word": "倒影",
-      "reading": "とうえい",
-      "meaning": "phản xạ"
-    },
-    {
-      "word": "灯影",
-      "reading": "ほかげ",
-      "meaning": "ánh sáng lung linh"
-    },
-    {
-      "word": "影像",
-      "reading": "えいぞう",
-      "meaning": "hình bóng"
+      "word": "鳥影",
+      "reading": "とりかげ",
+      "meaning": "bóng của một con chim"
     }
   ]
 }

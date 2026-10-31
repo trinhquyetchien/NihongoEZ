@@ -112,34 +112,19 @@
       "meaning": "mẹ"
     },
     {
-      "word": "酵母",
-      "reading": "こうぼ",
-      "meaning": "men"
-    },
-    {
       "word": "お母",
       "reading": "おふくろ",
       "meaning": "mẹ"
     },
     {
-      "word": "完母",
-      "reading": "かんぼ",
-      "meaning": "sự nuôi trẻ sơ sinh hoàn toàn bằng sữa mẹ"
+      "word": "母家",
+      "reading": "おもや",
+      "meaning": "chính bay cái nhà"
     },
     {
-      "word": "御母",
-      "reading": "みおも",
-      "meaning": "mẹ"
-    },
-    {
-      "word": "叔母",
-      "reading": "おば",
-      "meaning": "dì"
-    },
-    {
-      "word": "継母",
-      "reading": "ままはは",
-      "meaning": "mẹ kế"
+      "word": "母数",
+      "reading": "ぼすう",
+      "meaning": "tham số"
     },
     {
       "word": "母様",
@@ -147,14 +132,29 @@
       "meaning": "mẹ người khác"
     },
     {
-      "word": "母鳥",
-      "reading": "ははどり",
-      "meaning": "sinh thành con chim"
+      "word": "母君",
+      "reading": "ははぎみ",
+      "meaning": "mẹ"
     },
     {
-      "word": "母数",
-      "reading": "ぼすう",
-      "meaning": "tham số"
+      "word": "声母",
+      "reading": "せいぼ",
+      "meaning": "phụ âm đầu"
+    },
+    {
+      "word": "代母",
+      "reading": "だいぼ",
+      "meaning": "mẹ đỡ đầu"
+    },
+    {
+      "word": "母形",
+      "reading": "ぼけい",
+      "meaning": "tử cung"
+    },
+    {
+      "word": "酒母",
+      "reading": "しゅぼ",
+      "meaning": "men nghiền"
     }
   ]
 }

@@ -96,49 +96,49 @@
       "meaning": "phong cách"
     },
     {
-      "word": "風台風",
-      "reading": "かぜたいふう",
-      "meaning": "giông"
-    },
-    {
-      "word": "風俗画風",
-      "reading": "ふうぞくがふう",
-      "meaning": "tranh miêu tả cảnh sinh hoạt đời thường"
-    },
-    {
-      "word": "風潮",
-      "reading": "ふうちょう",
-      "meaning": "phong trào"
-    },
-    {
-      "word": "颱風",
-      "reading": "たいふう",
-      "meaning": "bão"
-    },
-    {
-      "word": "野風",
-      "reading": "のかぜ",
-      "meaning": "gió trên cánh đồng"
-    },
-    {
-      "word": "古風",
-      "reading": "こふう",
-      "meaning": "kiểu cổ"
-    },
-    {
-      "word": "秋風",
-      "reading": "あきかぜ",
-      "meaning": "gió thu"
-    },
-    {
       "word": "風車",
       "reading": "かざぐるま",
       "meaning": "cối xay gió"
     },
     {
-      "word": "朝風",
-      "reading": "あさかぜ",
-      "meaning": "gió thổi vào buổi sáng"
+      "word": "黒風",
+      "reading": "こくふう",
+      "meaning": "gió mạnh mang theo mây đen hay bụi mù"
+    },
+    {
+      "word": "歌風",
+      "reading": "かふう",
+      "meaning": "phong cách thơ ca"
+    },
+    {
+      "word": "空風",
+      "reading": "からかぜ",
+      "meaning": "cơn gió khô"
+    },
+    {
+      "word": "島風",
+      "reading": "しまかぜ",
+      "meaning": "cơn gió hòn đảo"
+    },
+    {
+      "word": "真風",
+      "reading": "まじ",
+      "meaning": "gió từ phía nam hoặc tây nam"
+    },
+    {
+      "word": "都風",
+      "reading": "みやこふう",
+      "meaning": "kiểu thành phố"
+    },
+    {
+      "word": "川風",
+      "reading": "かわかぜ",
+      "meaning": "gió thổi trên sông"
+    },
+    {
+      "word": "ビル風",
+      "reading": "ビルかぜ",
+      "meaning": "những xoáy nước cơn gió xung quanh những tòa nhà cao"
     }
   ]
 }

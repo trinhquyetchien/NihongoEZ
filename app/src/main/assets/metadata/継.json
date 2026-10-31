@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "継手",
-      "reading": "つぎて",
-      "meaning": "mối nối"
-    },
-    {
-      "word": "引継",
-      "reading": "ひきつぎ",
-      "meaning": "tiếp quản"
-    },
-    {
-      "word": "継母",
-      "reading": "ままはは",
-      "meaning": "mẹ kế"
-    },
-    {
-      "word": "継ぎ",
-      "reading": "つぎ",
-      "meaning": "một miếng vá"
-    },
-    {
-      "word": "継端",
-      "reading": "つぎは",
-      "meaning": "cơ hội để tiếp tục một cuộc trò chuyện"
-    },
-    {
-      "word": "継娘",
-      "reading": "ままむすめ",
-      "meaning": "con gái riêng"
-    },
-    {
-      "word": "継夫",
-      "reading": "けいふ",
-      "meaning": "chồng kế"
-    },
-    {
-      "word": "乗継",
-      "reading": "のりつぎ",
-      "meaning": "quá cảnh"
-    },
-    {
-      "word": "継受",
-      "reading": "けいじゅ",
-      "meaning": "hưởng"
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "kế tục"
     },
     {
       "word": "中継",
       "reading": "ちゅうけい",
       "meaning": "truyền thanh"
+    },
+    {
+      "word": "継ぐ",
+      "reading": "つぐ",
+      "meaning": "thừa kế"
+    },
+    {
+      "word": "継ぎ目",
+      "reading": "つぎめ",
+      "meaning": "chỗ nối"
+    },
+    {
+      "word": "継続的",
+      "reading": "けいぞくてき",
+      "meaning": "đằng đẵng"
+    },
+    {
+      "word": "継続性",
+      "reading": "けいぞくせい",
+      "meaning": "liên tục"
+    },
+    {
+      "word": "中継所",
+      "reading": "ちゅうけいじょ",
+      "meaning": "đài tiếp âm"
+    },
+    {
+      "word": "継続文",
+      "reading": "けいぞくぶん",
+      "meaning": "câu liên tục"
+    },
+    {
+      "word": "中継地",
+      "reading": "ちゅうけいじ",
+      "meaning": "điểm dừng"
+    },
+    {
+      "word": "中継器",
+      "reading": "ちゅうけいき",
+      "meaning": "bộ phát đáp"
     }
   ]
 }

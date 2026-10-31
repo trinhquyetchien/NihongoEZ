@@ -110,19 +110,9 @@
       "meaning": "<thực> cây đậu tía"
     },
     {
-      "word": "葛藤",
-      "reading": "かっとう",
-      "meaning": "băn khoăn"
-    },
-    {
-      "word": "夏藤",
-      "reading": "なつふじ",
-      "meaning": "tử đằng"
-    },
-    {
-      "word": "藤豆",
-      "reading": "ふじまめ",
-      "meaning": "đậu ván"
+      "word": "藤氏",
+      "reading": "とうし",
+      "meaning": "gia đình"
     },
     {
       "word": "藤色",
@@ -130,29 +120,39 @@
       "meaning": "màu đỏ tía"
     },
     {
-      "word": "藤氏",
-      "reading": "とうし",
-      "meaning": "gia đình"
+      "word": "藤の花",
+      "reading": "ふじのはな",
+      "meaning": "hoa tử đằng"
     },
     {
-      "word": "藤本",
-      "reading": "とうほん",
-      "meaning": "dây leo"
+      "word": "夏藤",
+      "reading": "なつふじ",
+      "meaning": "tử đằng"
     },
     {
-      "word": "藤袴",
-      "reading": "ふじばかま",
-      "meaning": "cây hoa trạch lan"
+      "word": "山藤",
+      "reading": "やまふじ",
+      "meaning": "wisteria brachybotrys"
     },
     {
-      "word": "藤蔓",
-      "reading": "ふじづる",
-      "meaning": "cây nho wisteria"
+      "word": "草藤",
+      "reading": "くさふじ",
+      "meaning": "liên đậu"
     },
     {
-      "word": "藤棚",
-      "reading": "ふじだな",
-      "meaning": "kệ đan bằng mây để treo cây hoa"
+      "word": "藤紫",
+      "reading": "ふじむらさき",
+      "meaning": "tím hoa cà"
+    },
+    {
+      "word": "藤豆",
+      "reading": "ふじまめ",
+      "meaning": "đậu ván"
+    },
+    {
+      "word": "藤黄",
+      "reading": "とうおう",
+      "meaning": "gamboge"
     }
   ]
 }

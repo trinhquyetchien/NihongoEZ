@@ -91,29 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "張",
-      "reading": "ちょう",
-      "meaning": "mang nghĩa kéo dài"
-    },
-    {
-      "word": "張網/張り網",
-      "reading": "はりあみ",
-      "meaning": "dây chằng"
-    },
-    {
-      "word": "出張",
-      "reading": "しゅっちょう",
-      "meaning": "chuyến đi kinh doanh"
+      "word": "張る",
+      "reading": "はる",
+      "meaning": "căng cứng"
     },
     {
       "word": "主張",
       "reading": "しゅちょう",
       "meaning": "chủ trương"
-    },
-    {
-      "word": "誇張",
-      "reading": "こちょう",
-      "meaning": "sự khoa trương"
     },
     {
       "word": "緊張",
@@ -126,19 +111,34 @@
       "meaning": "sự mở rộng"
     },
     {
-      "word": "一張",
-      "reading": "いっちょう",
-      "meaning": "một bộ"
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "chuyến đi kinh doanh"
     },
     {
-      "word": "眼張",
-      "reading": "めばる",
-      "meaning": "cá mú đá"
+      "word": "膨張",
+      "reading": "ぼうちょう",
+      "meaning": "sự bành trướng"
     },
     {
-      "word": "張出",
-      "reading": "はりだし",
-      "meaning": "trong cầu đường: cánh hẫng"
+      "word": "誇張",
+      "reading": "こちょう",
+      "meaning": "sự khoa trương"
+    },
+    {
+      "word": "緊張感",
+      "reading": "きんちょうかん",
+      "meaning": "cảm giác căng thẳng"
+    },
+    {
+      "word": "頑張れ",
+      "reading": "がんばれ",
+      "meaning": "cố lên"
+    },
+    {
+      "word": "拡張性",
+      "reading": "かくちょうせい",
+      "meaning": "tính mở rộng"
     }
   ]
 }

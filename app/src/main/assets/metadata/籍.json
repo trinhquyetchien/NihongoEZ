@@ -121,16 +121,6 @@
   ],
   "vocabulary": [
     {
-      "word": "籍",
-      "reading": "せき",
-      "meaning": "gia đình"
-    },
-    {
-      "word": "戸籍",
-      "reading": "こせき",
-      "meaning": "hộ tịch"
-    },
-    {
       "word": "書籍",
       "reading": "しょせき",
       "meaning": "sách vở"
@@ -141,34 +131,44 @@
       "meaning": "quốc tịch"
     },
     {
-      "word": "軍籍",
-      "reading": "ぐんせき",
-      "meaning": "quân tịch"
+      "word": "戸籍",
+      "reading": "こせき",
+      "meaning": "hộ tịch"
     },
     {
-      "word": "皇籍",
-      "reading": "こうせき",
-      "meaning": "thân phận hoàng tộc"
+      "word": "書籍館",
+      "reading": "しょじゃくかん",
+      "meaning": "kho sách"
     },
     {
-      "word": "籍船",
-      "reading": "せきせん",
-      "meaning": "tàu đã đăng ký"
+      "word": "国籍法",
+      "reading": "こくせきほう",
+      "meaning": "luật về quốc tịch nhật bản"
     },
     {
-      "word": "僧籍",
-      "reading": "そうせき",
-      "meaning": "chức thầy tu"
+      "word": "無国籍",
+      "reading": "むこくせき",
+      "meaning": "tình trạng không được nước nào nhận là công dân"
     },
     {
-      "word": "典籍",
-      "reading": "てんせき",
-      "meaning": "sách"
+      "word": "多国籍",
+      "reading": "たこくせき",
+      "meaning": "bao gồm nhiều nước"
     },
     {
-      "word": "縁籍",
-      "reading": "えんせき",
-      "meaning": "bà con thân thuộc"
+      "word": "在籍",
+      "reading": "ざいせき",
+      "meaning": "sự đăng ký"
+    },
+    {
+      "word": "移籍",
+      "reading": "いせき",
+      "meaning": "chuyển nhượng"
+    },
+    {
+      "word": "移籍金",
+      "reading": "いせききん",
+      "meaning": "tiền chuyển nhượng"
     }
   ]
 }

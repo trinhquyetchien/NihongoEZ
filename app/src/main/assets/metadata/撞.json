@@ -43,6 +43,11 @@
       "meaning": "đánh"
     },
     {
+      "word": "撞木鮫",
+      "reading": "しゅもくざめ",
+      "meaning": "cá mập đầu búa"
+    },
+    {
       "word": "撞球",
       "reading": "どうきゅう",
       "meaning": "trò chơi bi"
@@ -68,19 +73,14 @@
       "meaning": "tháp chuông"
     },
     {
-      "word": "撞木鮫",
-      "reading": "しゅもくざめ",
-      "meaning": "cá mập đầu búa"
-    },
-    {
       "word": "撞木反り",
       "reading": "しゅもくぞり",
       "meaning": "kỹ thuật nâng đối thủ trên vai sau đó lật ngược lại"
     },
     {
-      "word": "自己撞着",
-      "reading": "じこどうちゃく",
-      "meaning": "nói một đằng làm một nẻo"
+      "word": "平撞木鮫",
+      "reading": "ひらしゅもくざめ",
+      "meaning": "cá nhám búa không rãnh"
     }
   ]
 }

@@ -87,34 +87,29 @@
   ],
   "vocabulary": [
     {
+      "word": "閑散",
+      "reading": "かんさん",
+      "meaning": "nhàn tản"
+    },
+    {
+      "word": "閑散期",
+      "reading": "かんさんき",
+      "meaning": "ngoài thời gian"
+    },
+    {
+      "word": "閑静",
+      "reading": "かんせい",
+      "meaning": "nhàn tĩnh"
+    },
+    {
+      "word": "閑古鳥",
+      "reading": "かんこどり",
+      "meaning": "chim cu cu"
+    },
+    {
       "word": "閑",
       "reading": "ひま",
       "meaning": "thì giờ nhàn rỗi"
-    },
-    {
-      "word": "悠悠閑閑",
-      "reading": "ゆうゆうかんかん",
-      "meaning": "cuộc sống trời quang mây tạnh"
-    },
-    {
-      "word": "休閑",
-      "reading": "きゅうかん",
-      "meaning": "tình trạng hoang hoá"
-    },
-    {
-      "word": "閑寂",
-      "reading": "かんじゃく",
-      "meaning": "sự yên tĩnh"
-    },
-    {
-      "word": "閑談",
-      "reading": "かんだん",
-      "meaning": "chuyện rỗi"
-    },
-    {
-      "word": "閑居",
-      "reading": "かんきょ",
-      "meaning": "làm yên và tách biệt cuộc sống"
     },
     {
       "word": "幽閑",
@@ -122,19 +117,24 @@
       "meaning": "u nhàn"
     },
     {
+      "word": "有閑",
+      "reading": "ゆうかん",
+      "meaning": "nhàn rỗi"
+    },
+    {
+      "word": "閑職",
+      "reading": "かんしょく",
+      "meaning": "chức ngồi không ăn lương"
+    },
+    {
       "word": "長閑",
       "reading": "のどか",
       "meaning": "thanh bình"
     },
     {
-      "word": "閑人",
-      "reading": "ひまじん",
-      "meaning": "người đàn ông thì giờ nhàn rỗi"
-    },
-    {
-      "word": "閑暇",
-      "reading": "かんか",
-      "meaning": "thì giờ rỗi rãi"
+      "word": "長閑さ",
+      "reading": "のどかさ",
+      "meaning": "sự thanh bình"
     }
   ]
 }

@@ -106,24 +106,39 @@
   ],
   "vocabulary": [
     {
+      "word": "木綿",
+      "reading": "もめん",
+      "meaning": "bông"
+    },
+    {
       "word": "綿",
       "reading": "わた",
       "meaning": "cotton"
     },
     {
-      "word": "綿綿",
-      "reading": "めんめん",
-      "meaning": "liên miên"
+      "word": "米綿",
+      "reading": "べいめん",
+      "meaning": "bông mỹ"
     },
     {
-      "word": "木綿綿",
-      "reading": "もめんわた",
-      "meaning": "sợi bông"
+      "word": "綿作",
+      "reading": "めんさく",
+      "meaning": "việc trồng bông"
     },
     {
-      "word": "綿綿たる",
-      "reading": "めんめんたる",
-      "meaning": "liên tục"
+      "word": "綿パン",
+      "reading": "めんパン",
+      "meaning": "quần dài bông"
+    },
+    {
+      "word": "綿実",
+      "reading": "めんじつ",
+      "meaning": "hạt bông"
+    },
+    {
+      "word": "入綿",
+      "reading": "いれわた",
+      "meaning": "sự lót bông"
     },
     {
       "word": "綿球",
@@ -131,29 +146,14 @@
       "meaning": "dây bông"
     },
     {
-      "word": "海綿",
-      "reading": "かいめん",
-      "meaning": "bọt biển"
+      "word": "綿羽",
+      "reading": "めんう",
+      "meaning": "lông tơ"
     },
     {
-      "word": "木綿",
-      "reading": "もめん",
-      "meaning": "bông"
-    },
-    {
-      "word": "連綿",
-      "reading": "れんめん",
-      "meaning": "không đứt quãng"
-    },
-    {
-      "word": "綿花",
-      "reading": "めんか",
-      "meaning": "bông"
-    },
-    {
-      "word": "綿布",
-      "reading": "めんぷ",
-      "meaning": "vải cốt tông"
+      "word": "岩綿",
+      "reading": "がんめん",
+      "meaning": "rock wool"
     }
   ]
 }

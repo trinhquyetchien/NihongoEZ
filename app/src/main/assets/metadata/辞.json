@@ -107,44 +107,19 @@
   ],
   "vocabulary": [
     {
-      "word": "辞",
-      "reading": "じ",
-      "meaning": "bài phát biểu"
-    },
-    {
-      "word": "辞書/辞典ソフト",
-      "reading": "じしょ/じてんソフト",
-      "meaning": "phần mềm từ điển"
-    },
-    {
-      "word": "固辞",
-      "reading": "こじ",
-      "meaning": "chủ động từ chối"
-    },
-    {
-      "word": "賛辞",
-      "reading": "さんじ",
-      "meaning": "lời khen ngợi"
-    },
-    {
-      "word": "祝辞",
-      "reading": "しゅくじ",
-      "meaning": "lời chúc mừng"
-    },
-    {
-      "word": "世辞",
-      "reading": "せじ",
-      "meaning": "sự tâng bốc"
-    },
-    {
-      "word": "辞令",
-      "reading": "じれい",
-      "meaning": "chú ý sự thay đổi nhân sự"
-    },
-    {
       "word": "辞書",
       "reading": "じしょ",
       "meaning": "tự điển"
+    },
+    {
+      "word": "辞典",
+      "reading": "じてん",
+      "meaning": "từ điển"
+    },
+    {
+      "word": "辞職",
+      "reading": "じしょく",
+      "meaning": "sự từ chức"
     },
     {
       "word": "辞退",
@@ -152,9 +127,34 @@
       "meaning": "sự khước từ"
     },
     {
-      "word": "辞表",
-      "reading": "じひょう",
-      "meaning": "đơn từ chức"
+      "word": "世辞",
+      "reading": "せじ",
+      "meaning": "sự tâng bốc"
+    },
+    {
+      "word": "辞任",
+      "reading": "じにん",
+      "meaning": "sự từ chức"
+    },
+    {
+      "word": "辞",
+      "reading": "じ",
+      "meaning": "bài phát biểu"
+    },
+    {
+      "word": "名辞",
+      "reading": "めいじ",
+      "meaning": "thuật ngữ"
+    },
+    {
+      "word": "辞令",
+      "reading": "じれい",
+      "meaning": "chú ý sự thay đổi nhân sự"
+    },
+    {
+      "word": "辞柄",
+      "reading": "じへい",
+      "meaning": "cái cớ"
     }
   ]
 }

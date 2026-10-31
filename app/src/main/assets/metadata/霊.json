@@ -90,44 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "幽霊",
+      "reading": "ゆうれい",
+      "meaning": "ma"
+    },
+    {
       "word": "霊",
       "reading": "れい",
       "meaning": "linh hồn"
     },
     {
-      "word": "霊威",
-      "reading": "れいい",
-      "meaning": "sức mạnh bí ẩn"
+      "word": "地霊",
+      "reading": "ちれい",
+      "meaning": "địa linh"
     },
     {
-      "word": "心霊",
-      "reading": "しんれい",
-      "meaning": "tinh thần"
-    },
-    {
-      "word": "御霊",
-      "reading": "みたま",
-      "meaning": "tinh thần một người đã chết"
-    },
-    {
-      "word": "皇霊",
-      "reading": "こうれい",
-      "meaning": "linh hồn của các vị thiên hoàng trong quá khứ"
-    },
-    {
-      "word": "霊力",
-      "reading": "れいりょく",
-      "meaning": "sức mạnh tinh thần"
-    },
-    {
-      "word": "神霊",
-      "reading": "しんれい",
-      "meaning": "thần linh"
-    },
-    {
-      "word": "祖霊",
-      "reading": "それい",
-      "meaning": "linh hồn tổ tiên"
+      "word": "霊猫",
+      "reading": "れいびょう",
+      "meaning": "cầy hương"
     },
     {
       "word": "霊亀",
@@ -135,9 +115,29 @@
       "meaning": "rùa thần"
     },
     {
-      "word": "分霊",
-      "reading": "ぶんれい",
-      "meaning": "phân thân của thần linh"
+      "word": "善霊",
+      "reading": "ぜんれい",
+      "meaning": "tinh thần lòng tốt"
+    },
+    {
+      "word": "精霊",
+      "reading": "せいれい",
+      "meaning": "linh hồn người chết"
+    },
+    {
+      "word": "霊符",
+      "reading": "れいふ",
+      "meaning": "bùa hộ mệnh"
+    },
+    {
+      "word": "心霊",
+      "reading": "しんれい",
+      "meaning": "tinh thần"
+    },
+    {
+      "word": "祖霊",
+      "reading": "それい",
+      "meaning": "linh hồn tổ tiên"
     }
   ]
 }

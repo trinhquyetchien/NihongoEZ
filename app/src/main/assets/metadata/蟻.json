@@ -54,24 +54,9 @@
       "meaning": "con kiến"
     },
     {
-      "word": "防蟻",
-      "reading": "ぼうぎ",
-      "meaning": "chống mối mọt"
-    },
-    {
-      "word": "姫蟻",
-      "reading": "ひめあり",
-      "meaning": "kiến monomorium nipponense"
-    },
-    {
-      "word": "赤蟻",
-      "reading": "あかあり",
-      "meaning": "kiến đỏ"
-    },
-    {
-      "word": "黄蟻",
-      "reading": "きあり",
-      "meaning": "kiến vàng"
+      "word": "蟻んこ",
+      "reading": "ありんこ",
+      "meaning": "con kiến"
     },
     {
       "word": "黒蟻",
@@ -79,24 +64,39 @@
       "meaning": "kiến đen"
     },
     {
-      "word": "蟻吸",
-      "reading": "ありすい",
-      "meaning": "chim vẹo cổ"
-    },
-    {
-      "word": "熊蟻",
-      "reading": "くまあり",
-      "meaning": "kiến thợ mộc nhật bản"
-    },
-    {
       "word": "山蟻",
       "reading": "やまあり",
       "meaning": "kiến gỗ"
     },
     {
-      "word": "侍蟻",
-      "reading": "さむらいあり",
-      "meaning": "polyergus samurai"
+      "word": "黒大蟻",
+      "reading": "くろおおあり",
+      "meaning": "kiến thợ mộc nhật bản"
+    },
+    {
+      "word": "赤蟻",
+      "reading": "あかあり",
+      "meaning": "kiến đỏ"
+    },
+    {
+      "word": "姫蟻",
+      "reading": "ひめあり",
+      "meaning": "kiến monomorium nipponense"
+    },
+    {
+      "word": "兵蟻",
+      "reading": "へいぎ",
+      "meaning": "kiến lính"
+    },
+    {
+      "word": "蟻食い",
+      "reading": "ありくい",
+      "meaning": "thú ăn kiến"
+    },
+    {
+      "word": "女王蟻",
+      "reading": "じょおうあり",
+      "meaning": "con kiến chúa"
     }
   ]
 }

@@ -86,14 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "徐徐",
+      "word": "徐々",
       "reading": "じょじょ",
       "meaning": "dần dần"
-    },
-    {
-      "word": "徐徐に",
-      "reading": "じょじょに",
-      "meaning": "chầm chậm"
     },
     {
       "word": "徐行",
@@ -101,19 +96,14 @@
       "meaning": "sự diễn tiến chậm"
     },
     {
-      "word": "徐々",
-      "reading": "じょじょ",
-      "meaning": "dần dần"
+      "word": "徐々に",
+      "reading": "じょじょに",
+      "meaning": "chầm chậm"
     },
     {
-      "word": "緩徐",
-      "reading": "かんじょ",
-      "meaning": "sự yên tĩnh và dịu dàng"
-    },
-    {
-      "word": "徐脈",
-      "reading": "じょみゃく",
-      "meaning": "tình trạng nhịp mạch giảm"
+      "word": "徐ろに",
+      "reading": "おもむろに",
+      "meaning": "chầm chậm"
     },
     {
       "word": "徐歩",
@@ -126,14 +116,24 @@
       "meaning": "sóng chậm"
     },
     {
-      "word": "徐々に",
-      "reading": "じょじょに",
-      "meaning": "chầm chậm"
+      "word": "徐脈",
+      "reading": "じょみゃく",
+      "meaning": "tình trạng nhịp mạch giảm"
     },
     {
-      "word": "緩徐曲",
-      "reading": "かんじょきょく",
-      "meaning": "khoan thai"
+      "word": "徐徐",
+      "reading": "じょじょ",
+      "meaning": "dần dần"
+    },
+    {
+      "word": "最徐行",
+      "reading": "さいじょこう",
+      "meaning": "tốc độ chậm nhất"
+    },
+    {
+      "word": "緩徐",
+      "reading": "かんじょ",
+      "meaning": "sự yên tĩnh và dịu dàng"
     }
   ]
 }

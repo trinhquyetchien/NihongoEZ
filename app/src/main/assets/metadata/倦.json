@@ -75,14 +75,14 @@
       "meaning": "sự mệt mỏi"
     },
     {
-      "word": "倦厭",
-      "reading": "けんえん",
-      "meaning": "sự mệt mỏi"
+      "word": "倦怠感",
+      "reading": "けんたいかん",
+      "meaning": "cảm giác suy nhược"
     },
     {
-      "word": "倦憊",
-      "reading": "けんぱい",
-      "meaning": "mệt mỏi cực độ"
+      "word": "倦怠期",
+      "reading": "けんたいき",
+      "meaning": "giai đoạn chán yêu"
     },
     {
       "word": "倦む",
@@ -95,14 +95,19 @@
       "meaning": "khó khăn"
     },
     {
-      "word": "倦怠期",
-      "reading": "けんたいき",
-      "meaning": "giai đoạn chán yêu"
+      "word": "倦厭",
+      "reading": "けんえん",
+      "meaning": "sự mệt mỏi"
     },
     {
-      "word": "倦怠感",
-      "reading": "けんたいかん",
-      "meaning": "cảm giác suy nhược"
+      "word": "倦憊",
+      "reading": "けんぱい",
+      "meaning": "mệt mỏi cực độ"
+    },
+    {
+      "word": "倦怠した",
+      "reading": "けんたいした",
+      "meaning": "biếng chơi"
     },
     {
       "word": "待ち倦む",
@@ -113,11 +118,6 @@
       "word": "攻め倦む",
       "reading": "せめあぐむ",
       "meaning": "để mất tấn công sáng kiến"
-    },
-    {
-      "word": "倦怠した",
-      "reading": "けんたいした",
-      "meaning": "biếng chơi"
     }
   ]
 }

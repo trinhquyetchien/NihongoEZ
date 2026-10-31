@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "旨",
-      "reading": "むね",
-      "meaning": "chân lý"
-    },
-    {
-      "word": "旨旨と",
-      "reading": "うまむねと",
-      "meaning": "thành công"
-    },
-    {
-      "word": "旨く",
-      "reading": "うまく",
-      "meaning": "kỹ năng"
-    },
-    {
-      "word": "主旨",
-      "reading": "しゅし",
-      "meaning": "quan điểm"
+      "word": "要旨",
+      "reading": "ようし",
+      "meaning": "cái cốt yếu"
     },
     {
       "word": "趣旨",
@@ -115,29 +100,44 @@
       "meaning": "ý đồ"
     },
     {
-      "word": "勅旨",
-      "reading": "ちょくし",
-      "meaning": "sắc chỉ"
+      "word": "旨",
+      "reading": "むね",
+      "meaning": "chân lý"
     },
     {
-      "word": "叡旨",
-      "reading": "えいし",
-      "meaning": "chiếu chỉ"
+      "word": "その旨",
+      "reading": "そのむね",
+      "meaning": "nội dung đấy"
     },
     {
-      "word": "旨い",
-      "reading": "うまい",
-      "meaning": "hấp dẫn"
+      "word": "上旨",
+      "reading": "じょうし",
+      "meaning": "hoàng đế có những tư duy"
     },
     {
-      "word": "諭旨",
-      "reading": "ゆし",
-      "meaning": "sự có lý do"
+      "word": "内旨",
+      "reading": "ないし",
+      "meaning": "mật chỉ"
     },
     {
-      "word": "綸旨",
-      "reading": "りんじ",
-      "meaning": "lệnh của hoàng đế"
+      "word": "旨酒",
+      "reading": "うまさけ",
+      "meaning": "rượu nho tốt"
+    },
+    {
+      "word": "旨々",
+      "reading": "うまうま",
+      "meaning": "thành công"
+    },
+    {
+      "word": "旨々と",
+      "reading": "むね々と",
+      "meaning": "thành công"
+    },
+    {
+      "word": "御旨",
+      "reading": "ぎょし",
+      "meaning": "suy nghĩ"
     }
   ]
 }

@@ -86,19 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "措辞",
-      "reading": "そじ",
-      "meaning": "cách dùng từ và sắp xếp các cụm từ trong thơ và câu"
-    },
-    {
-      "word": "挙措",
-      "reading": "きょそ",
-      "meaning": "hành vi"
-    },
-    {
-      "word": "措く",
-      "reading": "おく",
-      "meaning": "để cho lên trên"
+      "word": "措置",
+      "reading": "そち",
+      "meaning": "biện pháp"
     },
     {
       "word": "措定",
@@ -106,9 +96,24 @@
       "meaning": "assumption"
     },
     {
-      "word": "措置",
-      "reading": "そち",
-      "meaning": "biện pháp"
+      "word": "挙措",
+      "reading": "きょそ",
+      "meaning": "hành vi"
+    },
+    {
+      "word": "措いて",
+      "reading": "おいて",
+      "meaning": "trừ"
+    },
+    {
+      "word": "措く",
+      "reading": "おく",
+      "meaning": "để cho lên trên"
+    },
+    {
+      "word": "措辞",
+      "reading": "そじ",
+      "meaning": "cách dùng từ và sắp xếp các cụm từ trong thơ và câu"
     },
     {
       "word": "特措",
@@ -129,11 +134,6 @@
       "word": "窮措大",
       "reading": "きゅうそだい",
       "meaning": "học trò nghèo"
-    },
-    {
-      "word": "措いて",
-      "reading": "おいて",
-      "meaning": "trừ"
     }
   ]
 }

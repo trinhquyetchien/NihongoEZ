@@ -92,34 +92,39 @@
       "meaning": "bệnh ung thư"
     },
     {
-      "word": "遺伝性乳癌卵巣癌症候群",
-      "reading": "いでんせーにゅーがんらんそーがんしょーこーぐん",
-      "meaning": "hội chứng ung thư vú và buồng trứng di truyền"
+      "word": "癌化",
+      "reading": "がんか",
+      "meaning": "ung thư"
     },
     {
-      "word": "肝癌",
-      "reading": "かんがん",
-      "meaning": "ung thư gan"
+      "word": "前癌の",
+      "reading": "ぜんがんの",
+      "meaning": "gia đoạn tiền ung thư"
     },
     {
-      "word": "胃癌",
-      "reading": "いがん",
-      "meaning": "bệnh ung thư bao tử"
+      "word": "水癌",
+      "reading": "すいがん",
+      "meaning": "viêm miệng hoại tử"
     },
     {
-      "word": "発癌",
-      "reading": "はつがん",
-      "meaning": "sự phát sinh ung thư"
+      "word": "癌死",
+      "reading": "がんし",
+      "meaning": "việc chết vì ung thư"
     },
     {
-      "word": "癌腫",
-      "reading": "がんしゅ",
-      "meaning": "ung độc"
+      "word": "癌細胞",
+      "reading": "がんさいぼう",
+      "meaning": "tế bào ung thư"
     },
     {
-      "word": "癌研",
-      "reading": "がんけん",
-      "meaning": "viện nghiên cứu ung thư"
+      "word": "癌診断",
+      "reading": "がんしんだん",
+      "meaning": "sự chẩn đoán ung thư"
+    },
+    {
+      "word": "癌原性",
+      "reading": "がんげんせい",
+      "meaning": "khả năng gây ung thư"
     },
     {
       "word": "舌癌",
@@ -127,14 +132,9 @@
       "meaning": "ung thư lưỡi"
     },
     {
-      "word": "肺癌",
-      "reading": "はいがん",
-      "meaning": "bệnh ung thư phổi"
-    },
-    {
-      "word": "乳癌",
-      "reading": "にゅうがん",
-      "meaning": "bệnh ung thư vú"
+      "word": "皮膚癌",
+      "reading": "ひふがん",
+      "meaning": "bệnh ung thư da"
     }
   ]
 }

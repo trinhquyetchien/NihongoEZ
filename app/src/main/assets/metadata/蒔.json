@@ -85,9 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "麦蒔",
-      "reading": "むぎまき",
-      "meaning": "lúa mì gieo trồng"
+      "word": "蒔く",
+      "reading": "まく",
+      "meaning": "gieo hạt"
     },
     {
       "word": "蒔絵",
@@ -95,9 +95,9 @@
       "meaning": "vàng hoặc bạc sơn"
     },
     {
-      "word": "蒔く",
-      "reading": "まく",
-      "meaning": "gieo hạt"
+      "word": "金蒔絵",
+      "reading": "きんまきえ",
+      "meaning": "vàng sơn"
     },
     {
       "word": "散蒔く",
@@ -110,29 +110,29 @@
       "meaning": "gieo bên trong nứt rạn"
     },
     {
-      "word": "金蒔絵",
-      "reading": "きんまきえ",
-      "meaning": "vàng sơn"
-    },
-    {
       "word": "麦蒔き",
       "reading": "むぎまき",
       "meaning": "gieo lúa mì hoặc lúa mạch"
     },
     {
-      "word": "高蒔絵",
-      "reading": "たかまきえ",
-      "meaning": "sơn mài chạm khắc nổi"
+      "word": "秋蒔き",
+      "reading": "あきまき",
+      "meaning": "vụ cấy thu"
+    },
+    {
+      "word": "蒔き灰",
+      "reading": "まきばい",
+      "meaning": "tro để rải"
+    },
+    {
+      "word": "麦蒔",
+      "reading": "むぎまき",
+      "meaning": "lúa mì gieo trồng"
     },
     {
       "word": "種蒔き",
       "reading": "たねまき",
       "meaning": "sự gieo hạt"
-    },
-    {
-      "word": "遅蒔き",
-      "reading": "おそまき",
-      "meaning": "sự chậm trễ"
     }
   ]
 }

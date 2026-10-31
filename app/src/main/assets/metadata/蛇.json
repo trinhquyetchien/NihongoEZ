@@ -92,44 +92,34 @@
   ],
   "vocabulary": [
     {
-      "word": "蛇",
-      "reading": "へび",
-      "meaning": "rắn"
-    },
-    {
-      "word": "蛇の道は蛇",
-      "reading": "じゃのみちはへび",
-      "meaning": "đồng bọn thường hiểu rõ thủ đoạn của nhau"
-    },
-    {
-      "word": "ツノクサリ蛇",
-      "reading": "ツノクサリへび",
-      "meaning": "rắn lục sừng sa mạc"
-    },
-    {
       "word": "蛇口",
       "reading": "じゃぐち",
       "meaning": "rô-bi-nê"
     },
     {
-      "word": "裸蛇",
-      "reading": "はだかへび",
-      "meaning": "lưỡng cư không chân"
+      "word": "蛇",
+      "reading": "へび",
+      "meaning": "rắn"
     },
     {
-      "word": "川蛇",
-      "reading": "かわへび",
-      "meaning": "rắn sông"
+      "word": "神蛇",
+      "reading": "しんじゃ",
+      "meaning": "con rắn thần thánh"
     },
     {
-      "word": "鎖蛇",
-      "reading": "くさりへび",
-      "meaning": "rắn lục"
+      "word": "蛇頭",
+      "reading": "じゃとう",
+      "meaning": "đầu rắn"
     },
     {
-      "word": "錦蛇",
-      "reading": "にしきへび",
-      "meaning": "trăn"
+      "word": "王蛇",
+      "reading": "おうじゃ",
+      "meaning": "rắn chúa"
+    },
+    {
+      "word": "蛇酒",
+      "reading": "へびざけ",
+      "meaning": "rượu rắn"
     },
     {
       "word": "黒蛇",
@@ -137,9 +127,19 @@
       "meaning": "con rắn đen"
     },
     {
-      "word": "大蛇",
-      "reading": "おろち",
-      "meaning": "con rắn lớn"
+      "word": "川蛇",
+      "reading": "かわへび",
+      "meaning": "rắn sông"
+    },
+    {
+      "word": "青蛇",
+      "reading": "あおくちなわ",
+      "meaning": "rắn xanh"
+    },
+    {
+      "word": "蛇座",
+      "reading": "へびざ",
+      "meaning": "chòm sao thiên hà"
     }
   ]
 }

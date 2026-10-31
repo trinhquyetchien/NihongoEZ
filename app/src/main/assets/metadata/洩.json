@@ -57,9 +57,9 @@
       "meaning": "sự tiết lộ"
     },
     {
-      "word": "洩る",
-      "reading": "もる",
-      "meaning": "rỉ"
+      "word": "洩らす",
+      "reading": "もらす",
+      "meaning": "làm rò rỉ"
     },
     {
       "word": "洩れる",
@@ -67,9 +67,29 @@
       "meaning": "rò rỉ ra ngoài"
     },
     {
-      "word": "洩らす",
-      "reading": "もらす",
-      "meaning": "làm rò rỉ"
+      "word": "洩る",
+      "reading": "もる",
+      "meaning": "rỉ"
+    },
+    {
+      "word": "秘密漏洩",
+      "reading": "ひみつろうえい",
+      "meaning": "sự tiết lộ bí mật"
+    },
+    {
+      "word": "秘密漏洩罪",
+      "reading": "ひみつろうえいざい",
+      "meaning": "tội tiết lộ bí mật"
+    },
+    {
+      "word": "歯科漏洩",
+      "reading": "しかろーえー",
+      "meaning": "rò rỉ nha khoa"
+    },
+    {
+      "word": "機密漏洩",
+      "reading": "きみつろうえい",
+      "meaning": "sự tiết lộ bí mật"
     },
     {
       "word": "漏洩電流",
@@ -80,26 +100,6 @@
       "word": "木洩れ陽",
       "reading": "こもれび",
       "meaning": "ánh sáng mặt trời xuyên qua tán cây"
-    },
-    {
-      "word": "木洩れ日",
-      "reading": "こもれび",
-      "meaning": "ánh sáng mặt trời xuyên qua tán cây"
-    },
-    {
-      "word": "秘密漏洩",
-      "reading": "ひみつろうえい",
-      "meaning": "sự tiết lộ bí mật"
-    },
-    {
-      "word": "機密漏洩",
-      "reading": "きみつろうえい",
-      "meaning": "sự tiết lộ bí mật"
-    },
-    {
-      "word": "葉洩れ日",
-      "reading": "はもれび",
-      "meaning": "nắng xuyên qua kẽ lá"
     }
   ]
 }

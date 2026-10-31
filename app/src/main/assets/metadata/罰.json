@@ -91,14 +91,14 @@
   ],
   "vocabulary": [
     {
+      "word": "罰する",
+      "reading": "ばっする",
+      "meaning": "bắt tội"
+    },
+    {
       "word": "罰",
       "reading": "ばつ",
       "meaning": "tội"
-    },
-    {
-      "word": "厳罰",
-      "reading": "げんばつ",
-      "meaning": "hình phạt nghiêm khắc"
     },
     {
       "word": "処罰",
@@ -106,39 +106,39 @@
       "meaning": "sự phạt"
     },
     {
-      "word": "重罰",
-      "reading": "じゅうばつ",
-      "meaning": "hình phạt nặng"
+      "word": "刑罰",
+      "reading": "けいばつ",
+      "meaning": "hình phạt"
     },
     {
-      "word": "劫罰",
-      "reading": "ごうばつ",
-      "meaning": "trừng phạt vĩnh cửu"
+      "word": "罰一",
+      "reading": "ばついち",
+      "meaning": "ly hôn"
     },
     {
-      "word": "罰ゲーム",
-      "reading": "ばつゲーム",
-      "meaning": "game có phạt"
+      "word": "内罰的",
+      "reading": "ないばつてき",
+      "meaning": "sự tự trừng phạt"
     },
     {
-      "word": "必罰",
-      "reading": "ひつばつ",
-      "meaning": "sự trừng phạt không thể tránh được"
+      "word": "外罰的",
+      "reading": "がいばつてき",
+      "meaning": "xu hướng đổ lỗi cho người khác"
     },
     {
-      "word": "賞罰",
-      "reading": "しょうばつ",
-      "meaning": "sự thưởng phạt"
+      "word": "罰室",
+      "reading": "ばっしつ",
+      "meaning": "phòng để trừng phạt"
     },
     {
-      "word": "冥罰",
-      "reading": "みょうばつ",
+      "word": "無罰的",
+      "reading": "むばつてき",
+      "meaning": "không bị trừng phạt"
+    },
+    {
+      "word": "科罰",
+      "reading": "かばつ",
       "meaning": "sự trừng phạt"
-    },
-    {
-      "word": "神罰",
-      "reading": "しんばつ",
-      "meaning": "sự trừng phạt của chúa"
     }
   ]
 }

@@ -90,29 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "郷愁",
+      "reading": "きょうしゅう",
+      "meaning": "nỗi nhớ nhà"
+    },
+    {
+      "word": "郷里",
+      "reading": "きょうり",
+      "meaning": "quê"
+    },
+    {
+      "word": "故郷",
+      "reading": "こきょう",
+      "meaning": "cố hương"
+    },
+    {
       "word": "郷",
       "reading": "ごう",
       "meaning": "quê hương"
-    },
-    {
-      "word": "郷に入らば郷に従え",
-      "reading": "ごうにいらばごうにしたがえ",
-      "meaning": "nhập gia tùy tục"
-    },
-    {
-      "word": "郷に入れば郷に従え",
-      "reading": "ごうにいればごうにしたがえ",
-      "meaning": "nhập gia tùy tục"
-    },
-    {
-      "word": "郷に入っては郷に従え",
-      "reading": "ごうにいってはごうにしたがえ",
-      "meaning": "nhập gia tùy tục"
-    },
-    {
-      "word": "郷に入りては郷に従え",
-      "reading": "きょうにはいりたはきょうにしたがえ",
-      "meaning": "nhập gia tuỳ tục"
     },
     {
       "word": "郷軍",
@@ -120,24 +115,29 @@
       "meaning": "người kỳ cựu"
     },
     {
-      "word": "近郷",
-      "reading": "きんごう",
-      "meaning": "vùng lân cận"
+      "word": "郷村",
+      "reading": "ごうそん",
+      "meaning": "những làng"
     },
     {
-      "word": "郷土",
-      "reading": "きょうど",
-      "meaning": "cố hương"
+      "word": "郷学",
+      "reading": "ごうがく",
+      "meaning": "trường ở quê"
     },
     {
-      "word": "郷邑",
+      "word": "郷友",
       "reading": "きょうゆう",
-      "meaning": "làng nhỏ"
+      "meaning": "bạn cùng quê"
     },
     {
-      "word": "他郷",
-      "reading": "たきょう",
-      "meaning": "nơi tha hương"
+      "word": "郷友会",
+      "reading": "きょうゆうかい",
+      "meaning": "hội đồng hương"
+    },
+    {
+      "word": "寒郷",
+      "reading": "かんきょう",
+      "meaning": "ngôi làng nghèo nàn và hoang vắng"
     }
   ]
 }

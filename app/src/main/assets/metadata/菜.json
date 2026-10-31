@@ -106,34 +106,24 @@
   ],
   "vocabulary": [
     {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "rau"
+    },
+    {
       "word": "菜",
       "reading": "な",
       "meaning": "rau cỏ"
     },
     {
-      "word": "菜種菜",
-      "reading": "なたねな",
-      "meaning": "cải dầu"
+      "word": "主菜",
+      "reading": "しゅさい",
+      "meaning": "món chính"
     },
     {
-      "word": "果菜",
-      "reading": "かさい",
-      "meaning": "trái cây và rau quả"
-    },
-    {
-      "word": "青菜",
-      "reading": "あおな",
-      "meaning": "rau có lá màu xanh đậm"
-    },
-    {
-      "word": "総菜",
-      "reading": "そうざい",
-      "meaning": "món ăn kèm"
-    },
-    {
-      "word": "お菜",
-      "reading": "おかず",
-      "meaning": "món ăn thêm"
+      "word": "冬菜",
+      "reading": "ふゆな",
+      "meaning": "rau củ mùa đông"
     },
     {
       "word": "御菜",
@@ -141,19 +131,29 @@
       "meaning": "đứng bên món ăn"
     },
     {
-      "word": "根菜",
-      "reading": "こんさい",
-      "meaning": "bén rễ gieo trồng"
+      "word": "葉菜",
+      "reading": "ようさい",
+      "meaning": "rau sống"
     },
     {
-      "word": "京菜",
-      "reading": "きょうな",
-      "meaning": "cải đuôi phụng"
+      "word": "副菜",
+      "reading": "ふくさい",
+      "meaning": "món phụ"
     },
     {
-      "word": "苦菜",
-      "reading": "にがな",
-      "meaning": "rau diếp đắng lá răng"
+      "word": "豚菜",
+      "reading": "ぶたな",
+      "meaning": "tai mèo"
+    },
+    {
+      "word": "甘菜",
+      "reading": "かんさい",
+      "meaning": "bọc đường cây củ cải đường"
+    },
+    {
+      "word": "菜単",
+      "reading": "さいたん",
+      "meaning": "thực đơn trong ẩm thực trung quốc"
     }
   ]
 }

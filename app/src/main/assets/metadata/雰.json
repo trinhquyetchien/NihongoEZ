@@ -83,6 +83,11 @@
   ],
   "vocabulary": [
     {
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaning": "bầu không khí"
+    },
+    {
       "word": "霜雰",
       "reading": "そうふん",
       "meaning": "không khí băng giá"
@@ -93,19 +98,9 @@
       "meaning": "không khí mù sương"
     },
     {
-      "word": "雰囲気",
-      "reading": "ふんいき",
-      "meaning": "bầu không khí"
-    },
-    {
-      "word": "雰囲気を壊す",
-      "reading": "ふんいきをこわす",
-      "meaning": "làm hỏng bầu không khí"
-    },
-    {
-      "word": "神秘的雰囲気",
-      "reading": "しんぴてきふんいき",
-      "meaning": "không khí thần bí"
+      "word": "家族的な雰囲気",
+      "reading": "かぞくてきなふんいき",
+      "meaning": "bầu không khí như gia đình"
     },
     {
       "word": "犯罪を雰囲気",
@@ -113,9 +108,14 @@
       "meaning": "sát khí"
     },
     {
-      "word": "家族的な雰囲気",
-      "reading": "かぞくてきなふんいき",
-      "meaning": "bầu không khí như gia đình"
+      "word": "神秘的雰囲気",
+      "reading": "しんぴてきふんいき",
+      "meaning": "không khí thần bí"
+    },
+    {
+      "word": "雰囲気を壊す",
+      "reading": "ふんいきをこわす",
+      "meaning": "làm hỏng bầu không khí"
     }
   ]
 }

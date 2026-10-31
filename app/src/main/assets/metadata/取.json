@@ -110,54 +110,54 @@
   ],
   "vocabulary": [
     {
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "bắt giữ"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "sự giao dịch"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "sự điều tra"
+    },
+    {
+      "word": "とりかえ あなたは取り替えが利くんだからと言った",
+      "reading": "取り替え",
+      "meaning": "sự đổi lại"
+    },
+    {
+      "word": "取得",
+      "reading": "しゅとく",
+      "meaning": "sự giành được"
+    },
+    {
+      "word": "買取",
+      "reading": "かいとり",
+      "meaning": "việc mua lại"
+    },
+    {
+      "word": "取扱",
+      "reading": "とりあつかい",
+      "meaning": "sự đãi ngộ"
+    },
+    {
+      "word": "採取",
+      "reading": "さいしゅ",
+      "meaning": "hái lượm"
+    },
+    {
       "word": "取",
       "reading": "とり",
       "meaning": "một từ tiếng phạn và tiếng pali có nghĩa là \"nhiên liệu"
     },
     {
-      "word": "取り取り",
-      "reading": "とりどり",
-      "meaning": "khác nhau"
-    },
-    {
-      "word": "取舵を取る",
-      "reading": "とりかじをとる",
-      "meaning": "lái tới cảng"
-    },
-    {
-      "word": "手取り足取り",
-      "reading": "てとりあしとり",
-      "meaning": "chăm chú"
-    },
-    {
-      "word": "取り舵を取る",
-      "reading": "とりかじをとる",
-      "meaning": "lái tàu sang hướng bên trái"
-    },
-    {
-      "word": "選り取り見取り",
-      "reading": "よりどりみどり",
-      "meaning": "lựa chọn tùy ý"
-    },
-    {
-      "word": "場外取引(取引所)",
-      "reading": "じょうがいとりひき（とりひきじょ）",
-      "meaning": "giao dịch hành lang"
-    },
-    {
-      "word": "場外取引（取引所）",
-      "reading": "じょうがいとりひき(とりひきじょ)",
-      "meaning": "giao dịch hành lang"
-    },
-    {
-      "word": "現金取引(取引所)",
-      "reading": "げんきんとりひき（とりひきじょ）",
-      "meaning": "giao dịch tiền mặt"
-    },
-    {
-      "word": "現金取引（取引所）",
-      "reading": "げんきんとりひき(とりひきじょ)",
-      "meaning": "giao dịch tiền mặt"
+      "word": "聴取",
+      "reading": "ちょうしゅ",
+      "meaning": "sự nghe"
     }
   ]
 }

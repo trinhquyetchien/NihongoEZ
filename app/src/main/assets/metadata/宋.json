@@ -46,16 +46,6 @@
       "meaning": "bắc tống"
     },
     {
-      "word": "宋詞",
-      "reading": "そうし",
-      "meaning": "nghệ thuật thơ bài hát"
-    },
-    {
-      "word": "宋音",
-      "reading": "そうおん",
-      "meaning": "tống âm"
-    },
-    {
       "word": "南宋",
       "reading": "なんそう",
       "meaning": "triều đại nam tống"
@@ -66,9 +56,19 @@
       "meaning": "đến nhà tống"
     },
     {
+      "word": "宋詞",
+      "reading": "そうし",
+      "meaning": "nghệ thuật thơ bài hát"
+    },
+    {
       "word": "宋朝",
       "reading": "そうちょう",
       "meaning": "triều nhà tống"
+    },
+    {
+      "word": "宋音",
+      "reading": "そうおん",
+      "meaning": "tống âm"
     },
     {
       "word": "唐宋音",

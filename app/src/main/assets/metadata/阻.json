@@ -92,26 +92,6 @@
       "meaning": "sự cản trở"
     },
     {
-      "word": "険阻",
-      "reading": "けんそ",
-      "meaning": "dốc"
-    },
-    {
-      "word": "阻却",
-      "reading": "そきゃく",
-      "meaning": "sự từ chối"
-    },
-    {
-      "word": "阻隔",
-      "reading": "そかく",
-      "meaning": "sự tách ra"
-    },
-    {
-      "word": "阻喪",
-      "reading": "そそう",
-      "meaning": "mất tinh thần"
-    },
-    {
       "word": "阻む",
       "reading": "はばむ",
       "meaning": "cản trở"
@@ -122,9 +102,9 @@
       "meaning": "sự cản trở"
     },
     {
-      "word": "悪阻",
-      "reading": "つわり",
-      "meaning": "ốm nghén"
+      "word": "阻害音",
+      "reading": "そがいおん",
+      "meaning": "âm gây cản trở"
     },
     {
       "word": "阻害剤",
@@ -132,9 +112,29 @@
       "meaning": "chất ức chế"
     },
     {
-      "word": "阻害音",
-      "reading": "そがいおん",
-      "meaning": "âm gây cản trở"
+      "word": "悪阻",
+      "reading": "つわり",
+      "meaning": "ốm nghén"
+    },
+    {
+      "word": "阻却",
+      "reading": "そきゃく",
+      "meaning": "sự từ chối"
+    },
+    {
+      "word": "険阻",
+      "reading": "けんそ",
+      "meaning": "dốc"
+    },
+    {
+      "word": "阻隔",
+      "reading": "そかく",
+      "meaning": "sự tách ra"
+    },
+    {
+      "word": "阻喪",
+      "reading": "そそう",
+      "meaning": "mất tinh thần"
     }
   ]
 }

@@ -89,34 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "陶器",
+      "reading": "とうき",
+      "meaning": "đồ gốm"
+    },
+    {
+      "word": "陶器商",
+      "reading": "とうきしょう",
+      "meaning": "cửa hàng gốm sứ"
+    },
+    {
+      "word": "陶芸",
+      "reading": "とうげい",
+      "meaning": "nghệ thuật chế tác gốm"
+    },
+    {
+      "word": "陶芸家",
+      "reading": "とうげいか",
+      "meaning": "thợ gốm"
+    },
+    {
       "word": "陶",
       "reading": "すえ",
       "meaning": "đồ sứ"
     },
     {
-      "word": "茶陶",
-      "reading": "ちゃとう",
-      "meaning": "bát chà"
+      "word": "陶物",
+      "reading": "すえもの",
+      "meaning": "đồ gốm"
     },
     {
-      "word": "陶酔",
-      "reading": "とうすい",
-      "meaning": "sự say sưa"
-    },
-    {
-      "word": "陶工",
-      "reading": "とうこう",
-      "meaning": "thợ gốm"
-    },
-    {
-      "word": "陶磁",
-      "reading": "とうじ",
-      "meaning": "đất sét"
-    },
-    {
-      "word": "薫陶",
-      "reading": "くんとう",
-      "meaning": "sự cảm hoá"
+      "word": "作陶",
+      "reading": "さくとう",
+      "meaning": "sự làm gốm"
     },
     {
       "word": "製陶",
@@ -124,19 +129,14 @@
       "meaning": "đồ sứ sản xuất"
     },
     {
-      "word": "陶然",
-      "reading": "とうぜん",
-      "meaning": "say sưa"
+      "word": "製陶業",
+      "reading": "せいとうぎょう",
+      "meaning": "ngành sản xuất gốm sứ"
     },
     {
-      "word": "陶器",
-      "reading": "とうき",
-      "meaning": "đồ gốm"
-    },
-    {
-      "word": "陶芸",
-      "reading": "とうげい",
-      "meaning": "nghệ thuật chế tác gốm"
+      "word": "茶陶",
+      "reading": "ちゃとう",
+      "meaning": "bát chà"
     }
   ]
 }

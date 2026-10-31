@@ -95,29 +95,19 @@
       "meaning": "con rồng"
     },
     {
+      "word": "金龍",
+      "reading": "きんりゅう",
+      "meaning": "rồng vàng"
+    },
+    {
       "word": "神龍",
       "reading": "しんりゅう",
       "meaning": "rồng thần"
     },
     {
-      "word": "牙龍",
-      "reading": "がりゅう",
-      "meaning": "dragon's fang"
-    },
-    {
-      "word": "青龍",
-      "reading": "せいりょう",
-      "meaning": "thanh long"
-    },
-    {
-      "word": "恐龍",
-      "reading": "きょうりゅう",
-      "meaning": "khủng long"
-    },
-    {
-      "word": "龍王",
-      "reading": "りゅうおう",
-      "meaning": "long vương"
+      "word": "黒龍",
+      "reading": "こくりゅう",
+      "meaning": "rồng đen"
     },
     {
       "word": "龍馬",
@@ -125,19 +115,29 @@
       "meaning": "splendid horse"
     },
     {
-      "word": "臥龍",
-      "reading": "がりゅう",
-      "meaning": "dựa vào con rồng người đàn ông lớn"
+      "word": "土龍",
+      "reading": "もぐら",
+      "meaning": "một con chuột chũi"
     },
     {
-      "word": "蛟龍",
-      "reading": "こうりょう",
-      "meaning": "mưa con rồng"
+      "word": "龍魚",
+      "reading": "りゅうぎょ",
+      "meaning": "cá rồng"
     },
     {
-      "word": "龍神",
-      "reading": "りゅうじん",
-      "meaning": "rồng thần"
+      "word": "降り龍",
+      "reading": "くだりりゅう",
+      "meaning": "rồng hạ cánh"
+    },
+    {
+      "word": "雲龍型",
+      "reading": "うんりゅうがた",
+      "meaning": "lễ trao nhẫn của nhà vô địch lớn theo phong cách unryu"
+    },
+    {
+      "word": "龍虎",
+      "reading": "りゅうこ",
+      "meaning": "người anh hùng"
     }
   ]
 }

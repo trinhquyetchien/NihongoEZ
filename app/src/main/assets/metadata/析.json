@@ -86,31 +86,6 @@
   ],
   "vocabulary": [
     {
-      "word": "透析(分析化学)",
-      "reading": "とーせき(ぶんせきかがく)",
-      "meaning": "lọc máu"
-    },
-    {
-      "word": "解析",
-      "reading": "かいせき",
-      "meaning": "sự phân tích"
-    },
-    {
-      "word": "晶析",
-      "reading": "しょうせき",
-      "meaning": "sự kết tinh"
-    },
-    {
-      "word": "析出",
-      "reading": "せきしゅつ",
-      "meaning": "tái thăng hoa"
-    },
-    {
-      "word": "透析",
-      "reading": "とうせき",
-      "meaning": "sự thẩm tách"
-    },
-    {
       "word": "分析",
       "reading": "ぶんせき",
       "meaning": "sự phân tích"
@@ -121,19 +96,44 @@
       "meaning": "nhà phân tích"
     },
     {
+      "word": "分析的",
+      "reading": "ぶんせきてき",
+      "meaning": "phân tích"
+    },
+    {
       "word": "分析官",
       "reading": "ぶんせきかん",
       "meaning": "chuyên viên phân tích"
     },
     {
-      "word": "アクセス解析",
-      "reading": "アクセスかいせき",
-      "meaning": "phân tích lưu lượng"
+      "word": "分析学",
+      "reading": "ぶんせきがく",
+      "meaning": "môn phân tích"
     },
     {
-      "word": "マクロ分析",
-      "reading": "マクロぶんせき",
-      "meaning": "phân tích vĩ mô"
+      "word": "分析表",
+      "reading": "ぶんせきひょう",
+      "meaning": "bảng phân tích"
+    },
+    {
+      "word": "解析",
+      "reading": "かいせき",
+      "meaning": "sự phân tích"
+    },
+    {
+      "word": "解析性",
+      "reading": "かいせきせい",
+      "meaning": "tính giải tích"
+    },
+    {
+      "word": "解析部",
+      "reading": "かいせきぶ",
+      "meaning": "ban phân tích"
+    },
+    {
+      "word": "解析学",
+      "reading": "かいせきがく",
+      "meaning": "giải tích toán học"
     }
   ]
 }

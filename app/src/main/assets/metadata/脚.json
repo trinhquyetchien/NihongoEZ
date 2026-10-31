@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "脚本",
+      "reading": "きゃくほん",
+      "meaning": "kịch bản"
+    },
+    {
+      "word": "脚色",
+      "reading": "きゃくしょく",
+      "meaning": "việc soạn thành kịch"
+    },
+    {
       "word": "脚",
       "reading": "あし",
       "meaning": "chân"
     },
     {
-      "word": "一脚/三脚",
-      "reading": "いっきゃく/さんきゃく",
-      "meaning": "một chân/ba chân"
+      "word": "前脚",
+      "reading": "まえあし",
+      "meaning": "những chân trước"
     },
     {
-      "word": "三脚脚立",
-      "reading": "さんきゃくきゃたつ",
-      "meaning": "thang gấp 3 chân"
+      "word": "後脚",
+      "reading": "あとあし",
+      "meaning": "chân sau của động vật bốn chân"
     },
     {
-      "word": "脚伸縮脚立",
-      "reading": "あししんしゅくきゃたつ",
-      "meaning": "bậc kê thang"
+      "word": "手脚",
+      "reading": "しゅきゃく",
+      "meaning": "tay chân"
     },
     {
-      "word": "三脚/一脚用ケース",
-      "reading": "さんきゃく/いっきゃくようケース",
-      "meaning": "hộp đựng chân máy ba chân/ một chân"
+      "word": "脚車",
+      "reading": "きゃくしゃ",
+      "meaning": "caster"
     },
     {
-      "word": "脚立用オプション脚カバー",
-      "reading": "きゃたつようオプションあしカバー",
-      "meaning": "lót chân thang gấp"
+      "word": "下脚",
+      "reading": "かきゃく",
+      "meaning": "chân"
     },
     {
-      "word": "三脚/一脚用クイックシュー",
-      "reading": "さんきゃく/いっきゃくようクイックシュー",
-      "meaning": "giá đỡ ba chân/đỡ một chân với khóa nhanh"
+      "word": "脚部",
+      "reading": "きゃくぶ",
+      "meaning": "chân"
     },
     {
-      "word": "三脚/一脚付属品",
-      "reading": "さんきゃく/いっきゃくふぞくひん",
-      "meaning": "ba chân/phụ kiện một chân"
-    },
-    {
-      "word": "赤脚",
-      "reading": "せっきゃく",
-      "meaning": "chân trần"
-    },
-    {
-      "word": "失脚",
-      "reading": "しっきゃく",
-      "meaning": "sự đổ vỡ"
+      "word": "Ｘ脚",
+      "reading": "エックスきゃく",
+      "meaning": "chân hình chữ x"
     }
   ]
 }

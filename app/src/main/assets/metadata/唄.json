@@ -92,9 +92,9 @@
       "meaning": "bài hát"
     },
     {
-      "word": "梵唄",
-      "reading": "ぼんばい",
-      "meaning": "bài hát để cầu nguyện đức phật"
+      "word": "唄方",
+      "reading": "うたかた",
+      "meaning": "ca sĩ"
     },
     {
       "word": "島唄",
@@ -102,14 +102,19 @@
       "meaning": "dân ca của quần đảo amami"
     },
     {
-      "word": "鼻唄",
-      "reading": "はなうた",
-      "meaning": "vo ve"
+      "word": "組み唄",
+      "reading": "くみうた",
+      "meaning": "bản nhạc hỗn hợp"
     },
     {
-      "word": "地唄",
-      "reading": "じうた",
-      "meaning": "một kiểu hát dân gian"
+      "word": "子守唄",
+      "reading": "こもりうた",
+      "meaning": "bài hát ru"
+    },
+    {
+      "word": "唄う",
+      "reading": "うたう",
+      "meaning": "hát"
     },
     {
       "word": "小唄",
@@ -122,19 +127,14 @@
       "meaning": "bản anh hùng ca dài với sự đệm của đàn shamisen"
     },
     {
-      "word": "唄う",
-      "reading": "うたう",
-      "meaning": "hát"
+      "word": "鼻唄",
+      "reading": "はなうた",
+      "meaning": "vo ve"
     },
     {
-      "word": "端唄",
-      "reading": "はうた",
-      "meaning": "bản tình ca ngắn"
-    },
-    {
-      "word": "唄方",
-      "reading": "うたかた",
-      "meaning": "ca sĩ"
+      "word": "地唄",
+      "reading": "じうた",
+      "meaning": "một kiểu hát dân gian"
     }
   ]
 }

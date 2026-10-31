@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "英",
-      "reading": "えい",
-      "meaning": "vương quốc anh"
-    },
-    {
-      "word": "英英語",
-      "reading": "えいえいご",
-      "meaning": "tiếng anh anh"
-    },
-    {
-      "word": "英英辞典",
-      "reading": "えいえいじてん",
-      "meaning": "tiếng anh -e nglish"
-    },
-    {
-      "word": "英英辞書",
-      "reading": "えいえいじしょ",
-      "meaning": "tiếng anh -e nglish"
-    },
-    {
       "word": "英文",
       "reading": "えいぶん",
       "meaning": "câu tiếng anh"
     },
     {
-      "word": "英国",
-      "reading": "えいこく",
-      "meaning": "nước anh"
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "anh - nhật"
     },
     {
-      "word": "英検",
-      "reading": "えいけん",
-      "meaning": "bài kiểm tra tiếng anh"
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "nhật-anh"
     },
     {
-      "word": "英作",
-      "reading": "えいさく",
-      "meaning": "sáng tác tiếng anh"
+      "word": "英字",
+      "reading": "えいじ",
+      "meaning": "chữ tiếng anh"
     },
     {
-      "word": "英人",
-      "reading": "えいじん",
-      "meaning": "người anh"
+      "word": "英",
+      "reading": "えい",
+      "meaning": "vương quốc anh"
     },
     {
       "word": "日英",
       "reading": "にちえい",
       "meaning": "nhật-anh"
+    },
+    {
+      "word": "英日",
+      "reading": "えいにち",
+      "meaning": "anh-nhật"
+    },
+    {
+      "word": "英数",
+      "reading": "えいすう",
+      "meaning": "tiếng anh đánh lừa"
+    },
+    {
+      "word": "英法",
+      "reading": "えいほう",
+      "meaning": "pháp luật của nước anh"
+    },
+    {
+      "word": "英音",
+      "reading": "えいおん",
+      "meaning": "phát âm tiếng anh"
     }
   ]
 }

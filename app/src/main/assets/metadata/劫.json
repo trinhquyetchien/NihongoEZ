@@ -68,6 +68,16 @@
   ],
   "vocabulary": [
     {
+      "word": "億劫",
+      "reading": "おっくう",
+      "meaning": "sự khó khăn"
+    },
+    {
+      "word": "永劫",
+      "reading": "えいごう",
+      "meaning": "tính vĩnh hằng"
+    },
+    {
       "word": "劫",
       "reading": "こう",
       "meaning": "sự đe doạ"
@@ -93,16 +103,6 @@
       "meaning": "trừng phạt vĩnh cửu"
     },
     {
-      "word": "劫火",
-      "reading": "ごうか",
-      "meaning": "đám cháy lớn tiêu diệt thế giới"
-    },
-    {
-      "word": "壊劫",
-      "reading": "えこう",
-      "meaning": "vị thứ ba trong bốn kalpa"
-    },
-    {
       "word": "四劫",
       "reading": "しこう",
       "meaning": "bốn kiếp gồm hình thành"
@@ -113,9 +113,9 @@
       "meaning": "thời điểm loài người an cư lạc nghiệp"
     },
     {
-      "word": "億劫",
-      "reading": "おっくう",
-      "meaning": "sự khó khăn"
+      "word": "劫かす",
+      "reading": "おびやかす",
+      "meaning": "doạ"
     }
   ]
 }

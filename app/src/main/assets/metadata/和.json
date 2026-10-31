@@ -95,19 +95,19 @@
   ],
   "vocabulary": [
     {
+      "word": "漢和",
+      "reading": "かんわ",
+      "meaning": "tiếng nhật lấy từ chữ hán"
+    },
+    {
       "word": "和",
       "reading": "なぎ",
       "meaning": "hòa bình"
     },
     {
-      "word": "和む",
-      "reading": "なごむ",
-      "meaning": "bình tĩnh"
-    },
-    {
-      "word": "令和",
-      "reading": "れいわ",
-      "meaning": "thời kỳ lệnh hòa"
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "sự bão hòa"
     },
     {
       "word": "人和",
@@ -115,9 +115,9 @@
       "meaning": "sự hòa hợp giữa mọi người"
     },
     {
-      "word": "和布",
-      "reading": "わかめ",
-      "meaning": "tảo biển"
+      "word": "水和",
+      "reading": "すいわ",
+      "meaning": "sự thủy hóa"
     },
     {
       "word": "和約",
@@ -125,24 +125,24 @@
       "meaning": "hiệp ước hòa bình"
     },
     {
-      "word": "柔和",
-      "reading": "にゅうわ",
-      "meaning": "nhẹ nhàng"
+      "word": "和西",
+      "reading": "わせい",
+      "meaning": "tiếng nhật - tiếng tây ban nha"
     },
     {
-      "word": "混和",
-      "reading": "こんわ",
-      "meaning": "thứ pha trộn"
+      "word": "付和",
+      "reading": "ふわ",
+      "meaning": "mù quáng đi theo những người khác"
     },
     {
-      "word": "講和",
-      "reading": "こうわ",
-      "meaning": "giảng hòa"
+      "word": "和仏",
+      "reading": "わふつ",
+      "meaning": "nhật pháp"
     },
     {
-      "word": "和琴",
-      "reading": "わごん",
-      "meaning": "yamatogoto"
+      "word": "令和",
+      "reading": "れいわ",
+      "meaning": "thời kỳ lệnh hòa"
     }
   ]
 }

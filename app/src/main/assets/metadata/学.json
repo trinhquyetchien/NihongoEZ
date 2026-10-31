@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "khoa học"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "y học"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "văn học"
+    },
+    {
       "word": "学",
       "reading": "がく",
       "meaning": "học"
     },
     {
-      "word": "科学哲学",
-      "reading": "かがくてつがく",
-      "meaning": "triết học khoa học"
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "đèn sách"
     },
     {
-      "word": "学士入学",
-      "reading": "がくしにゅうがく",
-      "meaning": "nhập học hệ cử nhân"
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "hiền triết"
     },
     {
-      "word": "大学進学",
-      "reading": "だいがくしんがく",
-      "meaning": "lên đại học"
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "học kỳ"
     },
     {
-      "word": "語学学習",
-      "reading": "ごがくがくしゅう",
-      "meaning": "việc học ngôn ngữ"
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "ngôn ngữ học"
     },
     {
-      "word": "化学工学",
-      "reading": "かがくこうがく",
-      "meaning": "kỹ nghệ hóa học"
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "tham quan với mục đích học tập"
     },
     {
-      "word": "学部学生",
-      "reading": "がくぶがくせい",
-      "meaning": "sinh viên đại học"
-    },
-    {
-      "word": "勤学学生",
-      "reading": "きんがくがくせい",
-      "meaning": "học sinh chăm chỉ"
-    },
-    {
-      "word": "学芸大学",
-      "reading": "がくげいだいがく",
-      "meaning": "trường cao đẳng những nghệ thuật tự do"
-    },
-    {
-      "word": "薬学大学",
-      "reading": "やくがくだいがく",
-      "meaning": "đại học dược khoa"
+      "word": "学力",
+      "reading": "がくりょく",
+      "meaning": "học lực"
     }
   ]
 }

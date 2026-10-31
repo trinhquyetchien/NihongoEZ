@@ -99,44 +99,44 @@
       "meaning": "rừng rú"
     },
     {
-      "word": "雨林",
-      "reading": "うりん",
-      "meaning": "rừng mưa nhiệt đới"
-    },
-    {
-      "word": "杉林",
-      "reading": "すぎばやし",
-      "meaning": "rừng cây tuyết tùng"
-    },
-    {
-      "word": "林鐘",
-      "reading": "りんしょう",
-      "meaning": "tên gọi khác của tháng 6 âm lịch"
-    },
-    {
       "word": "山林",
       "reading": "さんりん",
       "meaning": "sơn lâm"
     },
     {
-      "word": "林務",
-      "reading": "りんむ",
+      "word": "林業",
+      "reading": "りんぎょう",
       "meaning": "lâm nghiệp"
     },
     {
-      "word": "造林",
-      "reading": "ぞうりん",
-      "meaning": "sự trồng rừng"
+      "word": "林木",
+      "reading": "りんぼく",
+      "meaning": "cái cây rừng"
     },
     {
-      "word": "叢林",
-      "reading": "そうりん",
-      "meaning": "tu viện zen"
+      "word": "桃林",
+      "reading": "とうりん",
+      "meaning": "rừng đào"
     },
     {
-      "word": "営林",
-      "reading": "えいりん",
-      "meaning": "sự quản lý rừng"
+      "word": "少林",
+      "reading": "しょうはやし",
+      "meaning": "shaolin"
+    },
+    {
+      "word": "楓林",
+      "reading": "ふうりん",
+      "meaning": "rừng cây thích"
+    },
+    {
+      "word": "茂林",
+      "reading": "もりん",
+      "meaning": "rừng rậm"
+    },
+    {
+      "word": "桂林",
+      "reading": "けいりん",
+      "meaning": "rừng quế"
     }
   ]
 }

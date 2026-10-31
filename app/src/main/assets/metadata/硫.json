@@ -86,34 +86,24 @@
   ],
   "vocabulary": [
     {
-      "word": "硫酸",
-      "reading": "りゅうさん",
-      "meaning": "a-xít sulfuric"
-    },
-    {
-      "word": "加硫",
-      "reading": "かりゅう",
-      "meaning": "sự lưu hoá"
-    },
-    {
-      "word": "硫安",
-      "reading": "りゅうあん",
-      "meaning": "chất amoni sunfat"
-    },
-    {
-      "word": "脱硫",
-      "reading": "だつりゅう",
-      "meaning": "sự khử lưu huỳnh"
-    },
-    {
-      "word": "硫化",
-      "reading": "りゅうか",
-      "meaning": "sự cho ngấm lưu huỳnh"
-    },
-    {
       "word": "硫黄",
       "reading": "いおう",
       "meaning": "diêm sinh"
+    },
+    {
+      "word": "硫黄華",
+      "reading": "いおうか",
+      "meaning": "ra hoa sulfur"
+    },
+    {
+      "word": "硫黄泉",
+      "reading": "いおうせん",
+      "meaning": "sulfur nứt rạn"
+    },
+    {
+      "word": "硫酸",
+      "reading": "りゅうさん",
+      "meaning": "a-xít sulfuric"
     },
     {
       "word": "硫酸化",
@@ -121,19 +111,29 @@
       "meaning": "sulfat hóa"
     },
     {
-      "word": "硫酸バリウム",
-      "reading": "りゅうさんバリウム",
-      "meaning": "barium sulfate"
+      "word": "硫酸塩",
+      "reading": "りゅうさんえん",
+      "meaning": "muối sunfat -so4"
     },
     {
-      "word": "硫化カドミウム",
-      "reading": "りゅうかカドミウム",
-      "meaning": "cadmi sulfide"
+      "word": "硫酸鉄",
+      "reading": "りゅうさんてつ",
+      "meaning": "sắt sunfat"
     },
     {
-      "word": "硫酸カルシウム",
-      "reading": "りゅうさんカルシウム",
-      "meaning": "canxi sunfat"
+      "word": "希硫酸",
+      "reading": "きりゅうさん",
+      "meaning": "a-xít sulfuric pha loãng"
+    },
+    {
+      "word": "稀硫酸",
+      "reading": "きりゅうさん",
+      "meaning": "pha loãng a-xít sulfuric"
+    },
+    {
+      "word": "過硫酸",
+      "reading": "かりゅうさん",
+      "meaning": "a-xít sun-fu-ric mạnh"
     }
   ]
 }

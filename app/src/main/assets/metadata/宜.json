@@ -90,19 +90,34 @@
   ],
   "vocabulary": [
     {
+      "word": "便宜",
+      "reading": "べんぎ",
+      "meaning": "sự tiện lợi"
+    },
+    {
+      "word": "適宜",
+      "reading": "てきぎ",
+      "meaning": "tùy ý"
+    },
+    {
+      "word": "宜しく",
+      "reading": "よろしく",
+      "meaning": "cần phải"
+    },
+    {
+      "word": "便宜的",
+      "reading": "べんぎてき",
+      "meaning": "tạm thời"
+    },
+    {
+      "word": "宜しい",
+      "reading": "よろしい",
+      "meaning": "được"
+    },
+    {
       "word": "宜",
       "reading": "むべ",
       "meaning": "thích hợp"
-    },
-    {
-      "word": "禰宜",
-      "reading": "ねぎ",
-      "meaning": "linh mục cao cấp"
-    },
-    {
-      "word": "機宜",
-      "reading": "きぎ",
-      "meaning": "cơ hội"
     },
     {
       "word": "高宜",
@@ -115,29 +130,14 @@
       "meaning": "phù hợp với thứ"
     },
     {
-      "word": "時宜",
-      "reading": "じぎ",
-      "meaning": "sự đúng lúc"
-    },
-    {
-      "word": "交宜",
-      "reading": "こうぎ",
-      "meaning": "tình bạn"
-    },
-    {
-      "word": "情宜",
-      "reading": "じょうぎ",
-      "meaning": "thân thiện cảm thấy"
-    },
-    {
       "word": "友宜",
       "reading": "ゆうぎ",
       "meaning": "tình bạn"
     },
     {
-      "word": "便宜",
-      "reading": "べんぎ",
-      "meaning": "sự tiện lợi"
+      "word": "好宜",
+      "reading": "こうぎ",
+      "meaning": "sưởi ấm tình bạn"
     }
   ]
 }

@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "祝",
-      "reading": "いわい",
-      "meaning": "chúc mừng"
+      "word": "お祝い",
+      "reading": "おいわい",
+      "meaning": "sự chúc mừng"
     },
     {
       "word": "祝い",
@@ -105,39 +105,39 @@
       "meaning": "ăn mừng"
     },
     {
-      "word": "祝詞",
-      "reading": "のりと",
-      "meaning": "cầu nguyện nghi thức shinto"
-    },
-    {
-      "word": "祝辞",
-      "reading": "しゅくじ",
-      "meaning": "lời chúc mừng"
-    },
-    {
-      "word": "祝福",
-      "reading": "しゅくふく",
-      "meaning": "sự chúc phúc"
-    },
-    {
-      "word": "祝宴",
-      "reading": "しゅくえん",
-      "meaning": "tiệc mừng"
-    },
-    {
-      "word": "祝杯",
-      "reading": "しゅくはい",
-      "meaning": "chúc rượu"
-    },
-    {
-      "word": "祝典",
-      "reading": "しゅくてん",
-      "meaning": "khánh điển"
-    },
-    {
       "word": "祝日",
       "reading": "しゅくじつ",
       "meaning": "ngày lễ"
+    },
+    {
+      "word": "祝賀",
+      "reading": "しゅくが",
+      "meaning": "chúc hạ"
+    },
+    {
+      "word": "祝",
+      "reading": "いわい",
+      "meaning": "chúc mừng"
+    },
+    {
+      "word": "祝女",
+      "reading": "のろ",
+      "meaning": "noro"
+    },
+    {
+      "word": "祝別",
+      "reading": "しゅくべつ",
+      "meaning": "dâng hiến"
+    },
+    {
+      "word": "祝い物",
+      "reading": "いわいもの",
+      "meaning": "quà tặng để chúc mừng"
+    },
+    {
+      "word": "心祝い",
+      "reading": "こころいわい",
+      "meaning": "lời chúc chân thành"
     }
   ]
 }

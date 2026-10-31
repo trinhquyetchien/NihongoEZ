@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "井戸",
+      "reading": "いど",
+      "meaning": "cái giếng"
+    },
+    {
+      "word": "天井",
+      "reading": "てんじょう",
+      "meaning": "trần nhà"
+    },
+    {
+      "word": "福井県",
+      "reading": "ふくいけん",
+      "meaning": "chức quận trưởng trong vùng hokuriku"
+    },
+    {
       "word": "井",
       "reading": "い",
       "meaning": "cái giếng"
     },
     {
-      "word": "市井",
-      "reading": "しせい",
-      "meaning": "phố"
+      "word": "井水",
+      "reading": "せいすい",
+      "meaning": "nước giếng"
     },
     {
-      "word": "井筒",
-      "reading": "いづつ",
-      "meaning": "bờ rào quanh miệng giếng"
+      "word": "大天井",
+      "reading": "だいてんじょう",
+      "meaning": "đạt mức giá cao nhất"
     },
     {
-      "word": "井守",
-      "reading": "いもり",
-      "meaning": "động vật bơi dưới nước giống thằn lằn. cơ thể có màu đen đến nâu nâu"
+      "word": "円天井",
+      "reading": "まるてんじょう",
+      "meaning": "trần nhà vòng tròn"
     },
     {
-      "word": "井綱",
-      "reading": "いづな",
-      "meaning": "tốt là dây thừng"
+      "word": "天井裏",
+      "reading": "てんじょううら",
+      "meaning": "ở trên trần nhà"
+    },
+    {
+      "word": "天井画",
+      "reading": "てんじょうが",
+      "meaning": "tranh trần nhà"
     },
     {
       "word": "井底",
       "reading": "せいてい",
       "meaning": "đáy giếng"
-    },
-    {
-      "word": "井桁",
-      "reading": "いげた",
-      "meaning": "thành giếng"
-    },
-    {
-      "word": "井泉",
-      "reading": "せいせん",
-      "meaning": "giếng nước"
-    },
-    {
-      "word": "雲井",
-      "reading": "くもい",
-      "meaning": "bầu trời"
-    },
-    {
-      "word": "井堰",
-      "reading": "いせき",
-      "meaning": "cửa cống"
     }
   ]
 }

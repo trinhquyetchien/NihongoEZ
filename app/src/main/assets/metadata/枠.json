@@ -92,39 +92,24 @@
       "meaning": "khung"
     },
     {
-      "word": "太枠",
-      "reading": "ふとわく",
-      "meaning": "hộp hoặc bảng có viền dày"
+      "word": "内枠",
+      "reading": "うちわく",
+      "meaning": "kết cấu bên trong"
     },
     {
-      "word": "糸枠",
-      "reading": "いとわく",
-      "meaning": "cuộn chỉ"
+      "word": "枠内",
+      "reading": "わくない",
+      "meaning": "sự trong phạm vi"
     },
     {
-      "word": "枠線",
-      "reading": "わくせん",
-      "meaning": "lưới - hàng"
+      "word": "参加枠",
+      "reading": "さんかわく",
+      "meaning": "khung tham gia"
     },
     {
-      "word": "別枠",
-      "reading": "べつわく",
-      "meaning": "bổ sung"
-    },
-    {
-      "word": "大枠",
-      "reading": "おおわく",
-      "meaning": "đại khái"
-    },
-    {
-      "word": "ページ枠",
-      "reading": "ページわく",
-      "meaning": "đường viền trang"
-    },
-    {
-      "word": "行枠",
-      "reading": "ぎょうわく",
-      "meaning": "khung đường"
+      "word": "型枠",
+      "reading": "かたわく",
+      "meaning": "khuôn"
     },
     {
       "word": "外枠",
@@ -132,9 +117,24 @@
       "meaning": "viền"
     },
     {
-      "word": "黒枠",
-      "reading": "くろわく",
-      "meaning": "khung viền màu đen"
+      "word": "無目枠",
+      "reading": "むめわく",
+      "meaning": "khung không mắt"
+    },
+    {
+      "word": "枠線",
+      "reading": "わくせん",
+      "meaning": "lưới - hàng"
+    },
+    {
+      "word": "文字枠",
+      "reading": "もじわく",
+      "meaning": "thân ký tự"
+    },
+    {
+      "word": "木枠",
+      "reading": "きわく",
+      "meaning": "khung gỗ"
     }
   ]
 }

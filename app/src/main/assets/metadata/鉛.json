@@ -88,24 +88,39 @@
   ],
   "vocabulary": [
     {
+      "word": "鉛筆",
+      "reading": "えんぴつ",
+      "meaning": "bút chì"
+    },
+    {
       "word": "鉛",
       "reading": "なまり",
       "meaning": "chì"
     },
     {
-      "word": "鉛筆キャップ/鉛筆ホルダー",
-      "reading": "えんぴつキャップ/えんぴつホルダー",
-      "meaning": "nắp bút chì / giá đựng bút chì"
+      "word": "鉛筆画",
+      "reading": "えんぴつが",
+      "meaning": "nét bút chì"
     },
     {
-      "word": "鉛釉",
-      "reading": "えんゆう",
-      "meaning": "men chì"
+      "word": "鉛色",
+      "reading": "なまりいろ",
+      "meaning": "màu xám chì"
     },
     {
-      "word": "亜鉛",
-      "reading": "あえん",
-      "meaning": "kẽm"
+      "word": "鉛白",
+      "reading": "えんぱく",
+      "meaning": "chì trắng"
+    },
+    {
+      "word": "鉛製",
+      "reading": "えんせい",
+      "meaning": "bằng chì"
+    },
+    {
+      "word": "鉛室法",
+      "reading": "えんしつほう",
+      "meaning": "dẫn dắt quá trình buồng"
     },
     {
       "word": "鉛板",
@@ -113,29 +128,14 @@
       "meaning": "tấm chì"
     },
     {
-      "word": "黄鉛",
-      "reading": "おうえん",
-      "meaning": "màu vàng tươi"
+      "word": "鉛樹",
+      "reading": "えんじゅ",
+      "meaning": "cây chì"
     },
     {
-      "word": "黒鉛",
-      "reading": "こくえん",
-      "meaning": "than chì"
-    },
-    {
-      "word": "鉛槧",
-      "reading": "えんざん",
-      "meaning": "sáng tác văn học"
-    },
-    {
-      "word": "鉛粉",
-      "reading": "えんぷん",
-      "meaning": "phấn phủ trắng"
-    },
-    {
-      "word": "鉛管",
-      "reading": "えんかん",
-      "meaning": "ống dẫn bằng chì"
+      "word": "亜鉛",
+      "reading": "あえん",
+      "meaning": "kẽm"
     }
   ]
 }

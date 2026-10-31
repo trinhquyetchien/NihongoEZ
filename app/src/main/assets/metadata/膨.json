@@ -90,24 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "膨満",
-      "reading": "ぼうまん",
-      "meaning": "sự căng phồng"
+      "word": "膨大",
+      "reading": "ぼうだい",
+      "meaning": "lớn lên"
     },
     {
-      "word": "膨脹",
-      "reading": "ぼうちょう",
-      "meaning": "sự mở rộng"
+      "word": "膨らむ",
+      "reading": "ふくらむ",
+      "meaning": "làm bành trướng"
     },
     {
-      "word": "海膨",
-      "reading": "かいぼう",
-      "meaning": "sự lên"
-    },
-    {
-      "word": "膨隆",
-      "reading": "ぼうりゅう",
-      "meaning": "làm phình lên lên trên"
+      "word": "膨らます",
+      "reading": "ふくらます",
+      "meaning": "thổi phồng"
     },
     {
       "word": "膨張",
@@ -115,29 +110,34 @@
       "meaning": "sự bành trướng"
     },
     {
-      "word": "膨大",
-      "reading": "ぼうだい",
-      "meaning": "lớn lên"
+      "word": "膨れる",
+      "reading": "ふくれる",
+      "meaning": "bành trướng"
     },
     {
-      "word": "膨れ",
-      "reading": "ふくれ",
-      "meaning": "sưng tấy"
+      "word": "膨大部",
+      "reading": "ぼうだいぶ",
+      "meaning": "ampulla"
     },
     {
-      "word": "膨潤",
-      "reading": "ぼうじゅん",
-      "meaning": "sưng"
+      "word": "膨張度",
+      "reading": "ぼうちょうど",
+      "meaning": "sự làm giãn nở một sóng âm thanh trong những âm học)"
     },
     {
-      "word": "膨圧",
-      "reading": "ぼうあつ",
-      "meaning": "áp suất turgor"
+      "word": "膨張式",
+      "reading": "ぼうちょうしき",
+      "meaning": "dạng giãn nở"
     },
     {
-      "word": "膨疹",
-      "reading": "ぼーしん",
-      "meaning": "nốt phỏng"
+      "word": "膨張率",
+      "reading": "ぼうちょうりつ",
+      "meaning": "tỷ lệ mở rộng"
+    },
+    {
+      "word": "膨張剤",
+      "reading": "ぼうちょうざい",
+      "meaning": "men"
     }
   ]
 }

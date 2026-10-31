@@ -107,44 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "失血",
-      "reading": "しっけつ",
-      "meaning": "sự mất máu"
-    },
-    {
-      "word": "失禁",
-      "reading": "しっきん",
-      "meaning": "sự không kiềm chế được"
-    },
-    {
-      "word": "失言",
-      "reading": "しつげん",
-      "meaning": "thất ngôn"
-    },
-    {
-      "word": "失脚",
-      "reading": "しっきゃく",
-      "meaning": "sự đổ vỡ"
-    },
-    {
-      "word": "失職",
-      "reading": "しっしょく",
-      "meaning": "sự mất việc"
-    },
-    {
-      "word": "消失",
-      "reading": "しょうしつ",
-      "meaning": "sự mất đi"
-    },
-    {
-      "word": "失敬",
-      "reading": "しっけい",
-      "meaning": "cầm trộm"
-    },
-    {
-      "word": "失意",
-      "reading": "しつい",
-      "meaning": "sự bất hạnh"
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "sự thất bại"
     },
     {
       "word": "失格",
@@ -152,9 +117,44 @@
       "meaning": "sự mất tư cách"
     },
     {
+      "word": "失調",
+      "reading": "しっちょう",
+      "meaning": "thiếu hòa điệu"
+    },
+    {
+      "word": "失点",
+      "reading": "しってん",
+      "meaning": "mất điểm"
+    },
+    {
       "word": "失踪",
       "reading": "しっそう",
       "meaning": "sự biến đi"
+    },
+    {
+      "word": "一失",
+      "reading": "いっしつ",
+      "meaning": "một sự bất lợi"
+    },
+    {
+      "word": "失名",
+      "reading": "しつめい",
+      "meaning": "sự không biết tên ai đó"
+    },
+    {
+      "word": "失着",
+      "reading": "しっちゃく",
+      "meaning": "sơ suất"
+    },
+    {
+      "word": "失命",
+      "reading": "しつめい",
+      "meaning": "sự chết"
+    },
+    {
+      "word": "失対",
+      "reading": "しったい",
+      "meaning": "biện pháp đối phó với sự thất nghiệp"
     }
   ]
 }

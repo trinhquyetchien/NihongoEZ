@@ -59,27 +59,12 @@
       "meaning": "che"
     },
     {
-      "word": "日蔭",
-      "reading": "ひかげ",
-      "meaning": "bóng"
-    },
-    {
-      "word": "お蔭",
-      "reading": "おかげ",
-      "meaning": "sự giúp đỡ"
-    },
-    {
-      "word": "木蔭",
-      "reading": "こかげ",
-      "meaning": "bóng cây"
-    },
-    {
       "word": "蔭口",
       "reading": "かげぐち",
       "meaning": "sự nói vụng"
     },
     {
-      "word": "御蔭",
+      "word": "お蔭",
       "reading": "おかげ",
       "meaning": "sự giúp đỡ"
     },
@@ -89,14 +74,29 @@
       "meaning": "nhờ"
     },
     {
-      "word": "お蔭様",
-      "reading": "おかげさま",
-      "meaning": "nhờ trời"
+      "word": "御蔭",
+      "reading": "おかげ",
+      "meaning": "sự giúp đỡ"
     },
     {
       "word": "御蔭で",
       "reading": "おかげで",
       "meaning": "nhờ vào bạn"
+    },
+    {
+      "word": "お蔭様",
+      "reading": "おかげさま",
+      "meaning": "nhờ trời"
+    },
+    {
+      "word": "日蔭",
+      "reading": "ひかげ",
+      "meaning": "bóng"
+    },
+    {
+      "word": "木蔭",
+      "reading": "こかげ",
+      "meaning": "bóng cây"
     },
     {
       "word": "御蔭様",

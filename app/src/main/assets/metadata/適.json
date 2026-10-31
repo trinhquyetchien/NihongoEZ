@@ -89,19 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "適",
-      "reading": "たまたま",
-      "meaning": "thích hợp"
+      "word": "適当",
+      "reading": "てきとう",
+      "meaning": "sự tương thích"
     },
     {
-      "word": "適不適",
-      "reading": "てきふてき",
-      "meaning": "sự hợp"
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "sự ứng dụng"
     },
     {
-      "word": "適材適所",
-      "reading": "てきざいてきしょ",
-      "meaning": "người phù hợp ở nơi phù hợp"
+      "word": "適切",
+      "reading": "てきせつ",
+      "meaning": "sự thích đáng"
     },
     {
       "word": "快適",
@@ -109,34 +109,34 @@
       "meaning": "sảng khoái"
     },
     {
-      "word": "最適",
-      "reading": "さいてき",
-      "meaning": "sự thích hợp nhất"
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "mức độ vừa phải"
     },
     {
-      "word": "適所",
-      "reading": "てきしょ",
-      "meaning": "nơi phù hợp"
+      "word": "適応",
+      "reading": "てきおう",
+      "meaning": "sự thích ứng"
     },
     {
-      "word": "適温",
-      "reading": "てきおん",
-      "meaning": "nhiệt độ thích hợp"
+      "word": "適性",
+      "reading": "てきせい",
+      "meaning": "năng khiếu"
     },
     {
-      "word": "適語",
-      "reading": "てきご",
-      "meaning": "từ thích hợp"
+      "word": "適宜",
+      "reading": "てきぎ",
+      "meaning": "tùy ý"
     },
     {
-      "word": "適す",
-      "reading": "てきす",
+      "word": "適当な",
+      "reading": "てきとうな",
       "meaning": "phù hợp"
     },
     {
-      "word": "適潤",
-      "reading": "てきじゅん",
-      "meaning": "đủ ẩm"
+      "word": "適切な",
+      "reading": "てきせつな",
+      "meaning": "thiết thực"
     }
   ]
 }

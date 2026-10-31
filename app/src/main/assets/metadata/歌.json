@@ -95,39 +95,19 @@
       "meaning": "bài hát"
     },
     {
-      "word": "演歌歌手",
-      "reading": "えんかかしゅ",
-      "meaning": "ca sĩ enka"
-    },
-    {
-      "word": "国歌",
-      "reading": "こっか",
-      "meaning": "quốc ca"
-    },
-    {
-      "word": "校歌",
-      "reading": "こうか",
-      "meaning": "bài hát của trường"
-    },
-    {
-      "word": "詩歌",
-      "reading": "しいか",
-      "meaning": "thơ ca"
-    },
-    {
       "word": "歌う",
       "reading": "うたう",
       "meaning": "ca"
     },
     {
-      "word": "本歌",
-      "reading": "ほんか",
-      "meaning": "bài hát này"
+      "word": "短歌",
+      "reading": "たんか",
+      "meaning": "đoản ca"
     },
     {
-      "word": "譚歌",
-      "reading": "たんか",
-      "meaning": "nhạc ballad"
+      "word": "大歌",
+      "reading": "おおうた",
+      "meaning": "bài hát trong yến tiệc hay tế lễ ở triều đình trong thời kỳ heian"
     },
     {
       "word": "歌物",
@@ -135,9 +115,29 @@
       "meaning": "bài hát có lời"
     },
     {
-      "word": "演歌",
+      "word": "歌風",
+      "reading": "かふう",
+      "meaning": "phong cách thơ ca"
+    },
+    {
+      "word": "船歌",
+      "reading": "ふなうた",
+      "meaning": "bài hò"
+    },
+    {
+      "word": "歌格",
+      "reading": "かかく",
+      "meaning": "luật thơ"
+    },
+    {
+      "word": "雅歌",
+      "reading": "がか",
+      "meaning": "bài hát của solomon"
+    },
+    {
+      "word": "艶歌",
       "reading": "えんか",
-      "meaning": "bài hát nhật theo kiểu truyền thống rất nổi tiếng"
+      "meaning": "trubađua"
     }
   ]
 }

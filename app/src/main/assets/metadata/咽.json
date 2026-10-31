@@ -88,44 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "咽",
-      "reading": "のど",
-      "meaning": "cổ họng"
-    },
-    {
-      "word": "咽る",
-      "reading": "むせる",
-      "meaning": "bị nghẹt thở"
-    },
-    {
-      "word": "咽ぶ",
-      "reading": "むせぶ",
-      "meaning": "bị nghẹn"
-    },
-    {
-      "word": "咽喉",
-      "reading": "いんこう",
-      "meaning": "họng"
-    },
-    {
       "word": "咽頭",
       "reading": "いんとう",
       "meaning": "hầu"
     },
     {
-      "word": "鳴咽",
-      "reading": "おえつ",
-      "meaning": "thổn thức"
+      "word": "中咽頭",
+      "reading": "ちゅういんとう",
+      "meaning": "miệng hầu"
     },
     {
-      "word": "嗚咽",
-      "reading": "おえつ",
-      "meaning": "sự thổn thức"
+      "word": "上咽頭",
+      "reading": "じょういんとう",
+      "meaning": "mũi hầu"
     },
     {
-      "word": "哀咽",
-      "reading": "あいえつ",
-      "meaning": "khóc và chìm đắm trong đau khổ"
+      "word": "下咽頭",
+      "reading": "かいんとう",
+      "meaning": "hạ họng"
     },
     {
       "word": "咽頭炎",
@@ -133,9 +113,29 @@
       "meaning": "viêm họng"
     },
     {
-      "word": "咽喉マイク",
-      "reading": "いんこうマイク",
-      "meaning": "micrô họng"
+      "word": "咽頭歯",
+      "reading": "いんとうし",
+      "meaning": "răng hầu"
+    },
+    {
+      "word": "鼻咽頭",
+      "reading": "びいんとう",
+      "meaning": "vòm họng"
+    },
+    {
+      "word": "咽頭筋",
+      "reading": "いんとうすじ",
+      "meaning": "cơ ở hầu họng"
+    },
+    {
+      "word": "咽頭弓",
+      "reading": "いんとうきゅう",
+      "meaning": "cung họng"
+    },
+    {
+      "word": "嗚咽",
+      "reading": "おえつ",
+      "meaning": "sự thổn thức"
     }
   ]
 }

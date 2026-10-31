@@ -94,34 +94,29 @@
       "meaning": "vận mệnh"
     },
     {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "may"
+    },
+    {
+      "word": "不運",
+      "reading": "ふうん",
+      "meaning": "hạn vận"
+    },
+    {
       "word": "運送",
       "reading": "うんそう",
       "meaning": "sự vận chuyển"
     },
     {
-      "word": "運び",
-      "reading": "はこび",
-      "meaning": "vận chuyển"
+      "word": "金運",
+      "reading": "きんうん",
+      "meaning": "vận may về tiền bạc"
     },
     {
-      "word": "運ゲー",
-      "reading": "うんゲー",
-      "meaning": "game vận may"
-    },
-    {
-      "word": "運漕",
-      "reading": "うんそう",
-      "meaning": "sự chuyên chở"
-    },
-    {
-      "word": "運行",
-      "reading": "うんこう",
-      "meaning": "sự vận hành"
-    },
-    {
-      "word": "悪運",
-      "reading": "あくうん",
-      "meaning": "hạn vận"
+      "word": "逆運",
+      "reading": "ぎゃくうん",
+      "meaning": "sự không may"
     },
     {
       "word": "強運",
@@ -129,14 +124,19 @@
       "meaning": "may mắn tốt"
     },
     {
-      "word": "運痴",
-      "reading": "うんち",
-      "meaning": "chạy chậm lại trong những sự chuyển động ai đó"
+      "word": "運指",
+      "reading": "うんし",
+      "meaning": "sờ nắn một dụng cụ âm nhạc)"
     },
     {
-      "word": "革運",
-      "reading": "かくうん",
-      "meaning": "năm boshin"
+      "word": "運ゲー",
+      "reading": "うんゲー",
+      "meaning": "game vận may"
+    },
+    {
+      "word": "勢運",
+      "reading": "せいうん",
+      "meaning": "khuynh hướng"
     }
   ]
 }

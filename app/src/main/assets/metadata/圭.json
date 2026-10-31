@@ -82,19 +82,14 @@
   ],
   "vocabulary": [
     {
-      "word": "刀圭",
-      "reading": "とうけい",
-      "meaning": "săn sóc"
-    },
-    {
       "word": "圭璧",
       "reading": "けいへき",
       "meaning": "những ngọc bích nghi thức được mang bởi phong kiến khống chế trong trung quốc cổ xưa"
     },
     {
-      "word": "尖圭コンジローム",
-      "reading": "せんけいコンジローム",
-      "meaning": "mụn cóc sinh dục"
+      "word": "刀圭",
+      "reading": "とうけい",
+      "meaning": "săn sóc"
     },
     {
       "word": "刀圭家",
@@ -107,14 +102,19 @@
       "meaning": "nước paraguay"
     },
     {
+      "word": "圭角の有る",
+      "reading": "けいかくのある",
+      "meaning": "thô nhám - cư xử"
+    },
+    {
       "word": "尖圭コンジローマ",
       "reading": "せんけいコンジローマ",
       "meaning": "bệnh sùi mào gà"
     },
     {
-      "word": "圭角の有る",
-      "reading": "けいかくのある",
-      "meaning": "thô nhám - cư xử"
+      "word": "尖圭コンジローム",
+      "reading": "せんけいコンジローム",
+      "meaning": "mụn cóc sinh dục"
     }
   ]
 }

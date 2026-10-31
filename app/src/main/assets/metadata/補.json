@@ -89,9 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "補",
-      "reading": "ほ",
-      "meaning": "bù đắp"
+      "word": "候補",
+      "reading": "こうほ",
+      "meaning": "dự khuyết"
+    },
+    {
+      "word": "補う",
+      "reading": "おぎなう",
+      "meaning": "đền bù"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaning": "sự bổ trợ"
+    },
+    {
+      "word": "補給",
+      "reading": "ほきゅう",
+      "meaning": "sự cho thêm"
+    },
+    {
+      "word": "補償",
+      "reading": "ほしょう",
+      "meaning": "bù lỗ"
+    },
+    {
+      "word": "補足",
+      "reading": "ほそく",
+      "meaning": "sự bổ túc"
+    },
+    {
+      "word": "補充",
+      "reading": "ほじゅう",
+      "meaning": "việc bổ sung"
     },
     {
       "word": "補正",
@@ -99,44 +129,14 @@
       "meaning": "sự bổ chính"
     },
     {
-      "word": "候補",
-      "reading": "こうほ",
-      "meaning": "dự khuyết"
-    },
-    {
       "word": "補佐",
       "reading": "ほさ",
       "meaning": "sự trợ lý"
     },
     {
-      "word": "補選",
-      "reading": "ほせん",
-      "meaning": "sự bầu cử bổ sung"
-    },
-    {
-      "word": "補作",
-      "reading": "ほさく",
-      "meaning": "công việc bổ sung"
-    },
-    {
-      "word": "補論",
-      "reading": "ほろん",
-      "meaning": "phụ lục"
-    },
-    {
-      "word": "補筆",
-      "reading": "ほひつ",
-      "meaning": "sự chấm sửa lại"
-    },
-    {
-      "word": "補説",
-      "reading": "ほせつ",
-      "meaning": "thuyết minh bổ sung"
-    },
-    {
-      "word": "補す",
-      "reading": "ふす",
-      "meaning": "bổ nhiệm"
+      "word": "補完",
+      "reading": "ほかん",
+      "meaning": "hoàn thành"
     }
   ]
 }

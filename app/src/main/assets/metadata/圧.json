@@ -94,39 +94,29 @@
   ],
   "vocabulary": [
     {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "áp suất không khí"
+    },
+    {
+      "word": "血圧",
+      "reading": "けつあつ",
+      "meaning": "huyết áp"
+    },
+    {
+      "word": "圧力",
+      "reading": "あつりょく",
+      "meaning": "sức ép"
+    },
+    {
+      "word": "圧迫",
+      "reading": "あっぱく",
+      "meaning": "sự áp bức"
+    },
+    {
       "word": "圧",
       "reading": "あつ",
       "meaning": "áp lực"
-    },
-    {
-      "word": "降圧変圧器",
-      "reading": "こうあつへんあつき",
-      "meaning": "máy giảm thế"
-    },
-    {
-      "word": "圧痕（圧こん）",
-      "reading": "あっこん（あつこん）",
-      "meaning": "sự đóng"
-    },
-    {
-      "word": "油圧減圧弁",
-      "reading": "ゆあつげんあつべん",
-      "meaning": "van giảm áp thủy lực"
-    },
-    {
-      "word": "油圧(高圧)用カプラ",
-      "reading": "ゆあつ(こうあつ)ようカプラ",
-      "meaning": "đầu nối dùng cho dầu thủy lực"
-    },
-    {
-      "word": "変圧器/電圧計",
-      "reading": "へんあつき/でんあつけい",
-      "meaning": "biến áp/đồng hồ đo điện áp"
-    },
-    {
-      "word": "圧条",
-      "reading": "あつじょう",
-      "meaning": "chiết cành"
     },
     {
       "word": "分圧",
@@ -134,14 +124,24 @@
       "meaning": "áp suất riêng phần"
     },
     {
-      "word": "動圧",
-      "reading": "どうあつ",
-      "meaning": "áp lực động"
+      "word": "土圧",
+      "reading": "どあつ",
+      "meaning": "áp lực đất"
     },
     {
-      "word": "血圧",
-      "reading": "けつあつ",
-      "meaning": "huyết áp"
+      "word": "電圧",
+      "reading": "でんあつ",
+      "meaning": "điện áp"
+    },
+    {
+      "word": "背圧",
+      "reading": "はいあつ",
+      "meaning": "áp sức khí thải ra ở trong máy"
+    },
+    {
+      "word": "加圧",
+      "reading": "かあつ",
+      "meaning": "sự gia tăng sức ép"
     }
   ]
 }

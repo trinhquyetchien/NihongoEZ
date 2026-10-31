@@ -106,34 +106,44 @@
   ],
   "vocabulary": [
     {
-      "word": "永永",
+      "word": "永遠",
+      "reading": "えいえん",
+      "meaning": "sự vĩnh viễn"
+    },
+    {
+      "word": "永久",
+      "reading": "えいきゅう",
+      "meaning": "sự vĩnh cửu"
+    },
+    {
+      "word": "永万",
+      "reading": "えいまん",
+      "meaning": "thời kỳ eiman"
+    },
+    {
+      "word": "大永",
+      "reading": "たいえい",
+      "meaning": "taiei era"
+    },
+    {
+      "word": "永々",
       "reading": "えいえい",
       "meaning": "mãi mãi"
     },
     {
-      "word": "永字八法",
-      "reading": "えいじはっぽう",
-      "meaning": "tám nguyên tắc của yong"
+      "word": "天永",
+      "reading": "てんえい",
+      "meaning": "ten'ei era"
     },
     {
-      "word": "永い",
-      "reading": "ながい",
-      "meaning": "dài"
+      "word": "文永",
+      "reading": "ぶんえい",
+      "meaning": "thời bun\bei"
     },
     {
-      "word": "永世",
-      "reading": "えいせい",
-      "meaning": "tính vĩnh hằng"
-    },
-    {
-      "word": "応永",
-      "reading": "おうえい",
-      "meaning": "thời ouei"
-    },
-    {
-      "word": "寛永",
-      "reading": "かんえい",
-      "meaning": "thời kanei"
+      "word": "永正",
+      "reading": "えいしょう",
+      "meaning": "thời eishou"
     },
     {
       "word": "永保",
@@ -141,19 +151,9 @@
       "meaning": "eihō"
     },
     {
-      "word": "永観",
-      "reading": "えいかん",
-      "meaning": "thời eikan"
-    },
-    {
-      "word": "永享",
-      "reading": "えいきょう",
-      "meaning": "thời eikyou"
-    },
-    {
-      "word": "永承",
-      "reading": "えいしょう",
-      "meaning": "thời eishou"
+      "word": "永仁",
+      "reading": "えいにん",
+      "meaning": "thời einin"
     }
   ]
 }

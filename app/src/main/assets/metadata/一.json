@@ -96,9 +96,39 @@
       "meaning": "một"
     },
     {
+      "word": "一人一人",
+      "reading": "ひとりひとり",
+      "meaning": "từng người"
+    },
+    {
       "word": "一対一",
       "reading": "いちたいいち",
       "meaning": "một thành viên của nhóm này tương ứng với một thành viên của nhóm kia"
+    },
+    {
+      "word": "一上一下",
+      "reading": "いちじょういちげ",
+      "meaning": "trên và dưới"
+    },
+    {
+      "word": "一つ一つ",
+      "reading": "ひとつひとつ",
+      "meaning": "từng cái một"
+    },
+    {
+      "word": "一個一個",
+      "reading": "いっこいっこ",
+      "meaning": "từng cái từng cái một"
+    },
+    {
+      "word": "一高一低",
+      "reading": "いっこういってい",
+      "meaning": "lúc cao lúc thấp"
+    },
+    {
+      "word": "一点一画",
+      "reading": "いってんいっかく",
+      "meaning": "từng chi tiết nhỏ nhặt"
     },
     {
       "word": "一生一度",
@@ -106,39 +136,9 @@
       "meaning": "một lần trong đời"
     },
     {
-      "word": "一語一語",
-      "reading": "いちごいちご",
-      "meaning": "từng từ từng từ một"
-    },
-    {
-      "word": "一喜一憂",
-      "reading": "いっきいちゆう",
-      "meaning": "lúc vui lúc buồn"
-    },
-    {
-      "word": "一宿一飯",
-      "reading": "いっしゅくいっぱん",
-      "meaning": "chỉ cần ở lại cho một đêm và một bữa ăn"
-    },
-    {
-      "word": "一軒一軒",
-      "reading": "いっけんいっけん",
-      "meaning": "từng nhà"
-    },
-    {
-      "word": "一人一人",
-      "reading": "ひとりひとり",
-      "meaning": "từng người"
-    },
-    {
-      "word": "一言一句",
-      "reading": "いちごんいっく",
-      "meaning": "mỗi từ"
-    },
-    {
-      "word": "一芸一能",
-      "reading": "いちげいいちのう",
-      "meaning": "một lĩnh vực hoặc kỹ năng"
+      "word": "一杯一杯",
+      "reading": "いっぱいいっぱい",
+      "meaning": "giới hạn có thể thực hiện được"
     }
   ]
 }

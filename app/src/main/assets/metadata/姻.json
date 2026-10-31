@@ -83,6 +83,26 @@
   ],
   "vocabulary": [
     {
+      "word": "婚姻",
+      "reading": "こんいん",
+      "meaning": "hôn nhân"
+    },
+    {
+      "word": "婚姻法",
+      "reading": "こんいんほう",
+      "meaning": "luật hôn nhân"
+    },
+    {
+      "word": "婚姻色",
+      "reading": "こんいんしょく",
+      "meaning": "màu sắc của động vật trong mùa sinh sản"
+    },
+    {
+      "word": "婚姻届",
+      "reading": "こんいんとどけ",
+      "meaning": "giấy hôn thú"
+    },
+    {
       "word": "姻戚",
       "reading": "いんせき",
       "meaning": "tương đối bởi sự kết hôn"
@@ -93,24 +113,9 @@
       "meaning": "gia đình nhà bên vợ"
     },
     {
-      "word": "婚姻",
+      "word": "婚姻する",
       "reading": "こんいん",
-      "meaning": "hôn nhân"
-    },
-    {
-      "word": "婚姻届",
-      "reading": "こんいんとどけ",
-      "meaning": "giấy hôn thú"
-    },
-    {
-      "word": "婚姻色",
-      "reading": "こんいんしょく",
-      "meaning": "màu sắc của động vật trong mùa sinh sản"
-    },
-    {
-      "word": "婚姻法",
-      "reading": "こんいんほう",
-      "meaning": "luật hôn nhân"
+      "meaning": "kết hôn"
     },
     {
       "word": "婚姻届書",
@@ -121,11 +126,6 @@
       "word": "婚姻手続",
       "reading": "こんいんてつづき",
       "meaning": "thủ tục kết hôn"
-    },
-    {
-      "word": "姻戚関係",
-      "reading": "いんせきかんけい",
-      "meaning": "mối quan hệ thông gia"
     },
     {
       "word": "婚姻適齢",

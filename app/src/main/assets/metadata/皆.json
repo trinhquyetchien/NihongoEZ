@@ -107,18 +107,18 @@
   ],
   "vocabulary": [
     {
+      "word": "皆さん",
+      "reading": "みなさん",
+      "meaning": "mọi người"
+    },
+    {
       "word": "皆",
       "reading": "みな",
       "meaning": "mọi người"
     },
     {
-      "word": "皆が皆",
-      "reading": "みんながみんな",
-      "meaning": "tất cả mọi người"
-    },
-    {
-      "word": "皆皆様",
-      "reading": "みなみなさま",
+      "word": "皆の者",
+      "reading": "みなのもの",
       "meaning": "mọi người"
     },
     {
@@ -127,34 +127,34 @@
       "meaning": "đánh tất cả các mục tiêu"
     },
     {
-      "word": "皆既",
-      "reading": "かいき",
-      "meaning": "toàn bộ"
-    },
-    {
-      "word": "皆無",
-      "reading": "かいむ",
-      "meaning": "không có gì"
-    },
-    {
-      "word": "皆勤",
-      "reading": "かいきん",
-      "meaning": "có mặt đầy đủ"
-    },
-    {
-      "word": "皆済",
-      "reading": "かいさい",
-      "meaning": "thanh toán đầy đủ"
-    },
-    {
-      "word": "皆納",
-      "reading": "かいのう",
-      "meaning": "sự thanh toán đầy đủ"
+      "word": "皆々",
+      "reading": "みなみな",
+      "meaning": "tất cả mọi người"
     },
     {
       "word": "皆様",
       "reading": "みなさま",
       "meaning": "mọi người"
+    },
+    {
+      "word": "皆が皆",
+      "reading": "みんながみんな",
+      "meaning": "tất cả mọi người"
+    },
+    {
+      "word": "皆保険",
+      "reading": "かいほけん",
+      "meaning": "bảo hiểm toàn dân"
+    },
+    {
+      "word": "皆皆様",
+      "reading": "みなみなさま",
+      "meaning": "mọi người"
+    },
+    {
+      "word": "皆脚類",
+      "reading": "かいきゃくるい",
+      "meaning": "loài giáp xác có nhiều chân"
     }
   ]
 }

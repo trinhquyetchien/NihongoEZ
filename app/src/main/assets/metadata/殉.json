@@ -85,9 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "殉難",
-      "reading": "じゅんなん",
-      "meaning": "hy sinh vì sự nguy khốn của đất nước"
+      "word": "殉教者",
+      "reading": "じゅんきょうしゃ",
+      "meaning": "kẻ chết vì đạo"
     },
     {
       "word": "殉職",
@@ -95,9 +95,9 @@
       "meaning": "sự hy sinh vì nhiệm vụ"
     },
     {
-      "word": "殉死",
-      "reading": "じゅんし",
-      "meaning": "sự tuẫn tiết"
+      "word": "殉職者",
+      "reading": "じゅんしょくしゃ",
+      "meaning": "người mà đã chết ở cái trụ anh ấy (trong sự thực hiện những nhiệm vụ anh ấy)"
     },
     {
       "word": "殉教",
@@ -105,19 +105,14 @@
       "meaning": "sự chết vì nghĩa"
     },
     {
-      "word": "殉国",
-      "reading": "じゅんこく",
-      "meaning": "sự chết vì đất nước"
+      "word": "殉死",
+      "reading": "じゅんし",
+      "meaning": "sự tuẫn tiết"
     },
     {
-      "word": "殉じる",
-      "reading": "じゅんじる",
-      "meaning": "hy sinh vì"
-    },
-    {
-      "word": "殉教者",
-      "reading": "じゅんきょうしゃ",
-      "meaning": "kẻ chết vì đạo"
+      "word": "殉難",
+      "reading": "じゅんなん",
+      "meaning": "hy sinh vì sự nguy khốn của đất nước"
     },
     {
       "word": "殉難者",
@@ -125,9 +120,14 @@
       "meaning": "nạn nhân"
     },
     {
-      "word": "殉職者",
-      "reading": "じゅんしょくしゃ",
-      "meaning": "người mà đã chết ở cái trụ anh ấy (trong sự thực hiện những nhiệm vụ anh ấy)"
+      "word": "殉じる",
+      "reading": "じゅんじる",
+      "meaning": "hy sinh vì"
+    },
+    {
+      "word": "殉国",
+      "reading": "じゅんこく",
+      "meaning": "sự chết vì đất nước"
     },
     {
       "word": "殉職する",

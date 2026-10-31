@@ -94,29 +94,19 @@
       "meaning": "bóng dáng"
     },
     {
-      "word": "似姿",
-      "reading": "にすがた",
-      "meaning": "mô phỏng"
-    },
-    {
-      "word": "勇姿",
-      "reading": "ゆうし",
-      "meaning": "tư thế hùng dũng"
-    },
-    {
-      "word": "姿見",
-      "reading": "すがたみ",
-      "meaning": "gương lớn"
-    },
-    {
       "word": "姿勢",
       "reading": "しせい",
       "meaning": "tư thế"
     },
     {
-      "word": "パジャマ姿",
-      "reading": "パジャマすがた",
-      "meaning": "trong bộ đồ ngủ"
+      "word": "男姿",
+      "reading": "おとこすがた",
+      "meaning": "ngoại hình của người đàn ông"
+    },
+    {
+      "word": "女姿",
+      "reading": "おんなすがた",
+      "meaning": "ngoại hình của người phụ nữ"
     },
     {
       "word": "姿形",
@@ -124,19 +114,29 @@
       "meaning": "bề ngoài"
     },
     {
-      "word": "姿態",
-      "reading": "したい",
-      "meaning": "dáng điệu"
+      "word": "形姿",
+      "reading": "なりすがた",
+      "meaning": "ngoại hình"
     },
     {
-      "word": "姿図",
-      "reading": "すがたず",
-      "meaning": "bản vẽ mô tả hình dáng"
+      "word": "似姿",
+      "reading": "にすがた",
+      "meaning": "mô phỏng"
     },
     {
-      "word": "英姿",
-      "reading": "えいし",
-      "meaning": "dáng vẻ anh dũng"
+      "word": "寝姿",
+      "reading": "ねすがた",
+      "meaning": "tư thế ngủ"
+    },
+    {
+      "word": "姿絵",
+      "reading": "すがたえ",
+      "meaning": "tranh họa ngoại hình"
+    },
+    {
+      "word": "服姿",
+      "reading": "ふくすがた",
+      "meaning": "quần áo"
     }
   ]
 }

@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "漁",
-      "reading": "りょう",
-      "meaning": "câu cá"
-    },
-    {
-      "word": "漁網/漁具",
-      "reading": "ぎょもう/ぎょぐ",
-      "meaning": "lưới/thiết bị đánh bắt cá"
-    },
-    {
-      "word": "漁業機械/漁労機器",
-      "reading": "ぎょぎょうきかい/ぎょろうきき",
-      "meaning": "máy móc đánh bắt cá"
-    },
-    {
-      "word": "遊漁",
-      "reading": "ゆうぎょ",
-      "meaning": "câu cá giải trí hay câu cá thể thao là loại hình câu cá có sự cạnh tranh hay thi đua với nhau"
-    },
-    {
-      "word": "漁獲",
-      "reading": "ぎょかく",
-      "meaning": "sự đánh bắt cá"
+      "word": "漁師",
+      "reading": "りょうし",
+      "meaning": "ngư dân"
     },
     {
       "word": "漁業",
@@ -125,19 +105,39 @@
       "meaning": "tàu đánh cá"
     },
     {
+      "word": "漁村",
+      "reading": "ぎょそん",
+      "meaning": "làng chài"
+    },
+    {
+      "word": "漁業者",
+      "reading": "ぎょぎょうしゃ",
+      "meaning": "ngư dân"
+    },
+    {
+      "word": "漁",
+      "reading": "りょう",
+      "meaning": "câu cá"
+    },
+    {
+      "word": "漁する",
+      "reading": "ぎょする",
+      "meaning": "đánh bắt cá"
+    },
+    {
+      "word": "漁す",
+      "reading": "ぎょす",
+      "meaning": "đánh bắt cá"
+    },
+    {
+      "word": "初漁",
+      "reading": "はつりょう",
+      "meaning": "con cá đầu tiên của năm"
+    },
+    {
       "word": "漁史",
       "reading": "ぎょし",
       "meaning": "hậu tố thường được thêm sau bút danh của nhà văn"
-    },
-    {
-      "word": "エビ漁",
-      "reading": "エビりょう",
-      "meaning": "nghề thủy sản tôm"
-    },
-    {
-      "word": "禁漁",
-      "reading": "きんりょう",
-      "meaning": "sự cấm đánh bắt cá"
     }
   ]
 }

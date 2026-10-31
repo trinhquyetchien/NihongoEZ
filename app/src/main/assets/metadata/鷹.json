@@ -93,29 +93,14 @@
       "meaning": "chim ưng"
     },
     {
-      "word": "鷹野",
-      "reading": "たかの",
+      "word": "鷹の爪",
+      "reading": "たかのつめ",
+      "meaning": "loài cây rụng lá"
+    },
+    {
+      "word": "鷹狩り",
+      "reading": "たかがり",
       "meaning": "nghề nuôi chim ưng"
-    },
-    {
-      "word": "大鷹",
-      "reading": "おおたか",
-      "meaning": "diều hâu lớn"
-    },
-    {
-      "word": "放鷹",
-      "reading": "ほうよう",
-      "meaning": "nghề nuôi chim ưng"
-    },
-    {
-      "word": "小鷹",
-      "reading": "こたか",
-      "meaning": "chim săn mồi nhỏ"
-    },
-    {
-      "word": "鷹詞",
-      "reading": "たかことば",
-      "meaning": "falconry term"
     },
     {
       "word": "鷹柱",
@@ -123,19 +108,34 @@
       "meaning": "nhóm chim ó"
     },
     {
-      "word": "禿鷹",
-      "reading": "はげたか",
-      "meaning": "chim kền kền"
+      "word": "鷹隼",
+      "reading": "ようしゅん",
+      "meaning": "chim ưng và chim ưng"
     },
     {
-      "word": "兀鷹",
-      "reading": "はげたか",
-      "meaning": "chim kền kền"
+      "word": "放鷹",
+      "reading": "ほうよう",
+      "meaning": "nghề nuôi chim ưng"
     },
     {
-      "word": "夜鷹",
-      "reading": "よたか",
-      "meaning": "chim diều hâu đêm"
+      "word": "鷹詞",
+      "reading": "たかことば",
+      "meaning": "falconry term"
+    },
+    {
+      "word": "鷹匠",
+      "reading": "たかじょう",
+      "meaning": "người nuôi chim ưng"
+    },
+    {
+      "word": "馬糞鷹",
+      "reading": "まぐそだか",
+      "meaning": "chim cắt lùn"
+    },
+    {
+      "word": "鷹野",
+      "reading": "たかの",
+      "meaning": "nghề nuôi chim ưng"
     }
   ]
 }

@@ -41,6 +41,11 @@
       "meaning": "phật thích ca"
     },
     {
+      "word": "阿弥陀",
+      "reading": "あみだ",
+      "meaning": "a di- đà phật"
+    },
+    {
       "word": "弥陀",
       "reading": "みだ",
       "meaning": "phật a di đà"
@@ -51,14 +56,14 @@
       "meaning": "rượu vang đỏ từ bồ đào nha"
     },
     {
-      "word": "吠陀",
-      "reading": "ヴェーダ",
-      "meaning": "kinh vệ-đà"
+      "word": "お陀仏",
+      "reading": "おだぶつ",
+      "meaning": "sự tự giết chết"
     },
     {
-      "word": "首陀羅",
-      "reading": "シュードラ",
-      "meaning": "sudra"
+      "word": "曼陀羅",
+      "reading": "まんだら",
+      "meaning": "hình tròn tượng trưng cho tôn giáo của vũ trụ"
     },
     {
       "word": "陀羅尼",
@@ -66,24 +71,19 @@
       "meaning": "dharani"
     },
     {
-      "word": "阿弥陀",
-      "reading": "あみだ",
-      "meaning": "a di- đà phật"
+      "word": "御陀仏",
+      "reading": "おだぶつ",
+      "meaning": "sự chết"
+    },
+    {
+      "word": "首陀羅",
+      "reading": "シュードラ",
+      "meaning": "sudra"
     },
     {
       "word": "阿蘭陀",
       "reading": "オランダ",
       "meaning": "vải lanh hà lan"
-    },
-    {
-      "word": "お陀仏",
-      "reading": "おだぶつ",
-      "meaning": "sự tự giết chết"
-    },
-    {
-      "word": "頭陀袋",
-      "reading": "ずだぶくろ",
-      "meaning": "đóng vào bao tải"
     }
   ]
 }

@@ -89,34 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "採用",
-      "reading": "さいよう",
-      "meaning": "tuyển dụng"
-    },
-    {
       "word": "採点",
       "reading": "さいてん",
       "meaning": "sự chấm điểm"
     },
     {
-      "word": "採捕",
-      "reading": "さいほ",
-      "meaning": "thu hoạch"
+      "word": "採る",
+      "reading": "とる",
+      "meaning": "tuyển dụng"
     },
     {
-      "word": "採食",
-      "reading": "さいしょく",
-      "meaning": "thu thập thức ăn"
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "tuyển dụng"
     },
     {
-      "word": "採火",
-      "reading": "さいか",
-      "meaning": "việc châm lửa"
-    },
-    {
-      "word": "採血",
-      "reading": "さいけつ",
-      "meaning": "lấy máu ra để xét nghiệm hay truyền máu"
+      "word": "採掘",
+      "reading": "さいくつ",
+      "meaning": "khai mỏ"
     },
     {
       "word": "採択",
@@ -124,9 +114,9 @@
       "meaning": "sự lựa chọn"
     },
     {
-      "word": "採集",
-      "reading": "さいしゅう",
-      "meaning": "sự sưu tập"
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "lợi nhuận"
     },
     {
       "word": "採決",
@@ -134,9 +124,19 @@
       "meaning": "sự bỏ phiếu"
     },
     {
-      "word": "採算",
-      "reading": "さいさん",
-      "meaning": "lợi nhuận"
+      "word": "採集",
+      "reading": "さいしゅう",
+      "meaning": "sự sưu tập"
+    },
+    {
+      "word": "本採用",
+      "reading": "ほんさいよう",
+      "meaning": "tuyển dụng chính thức"
+    },
+    {
+      "word": "不採用",
+      "reading": "ふさいよう",
+      "meaning": "rớt phỏng vấn"
     }
   ]
 }

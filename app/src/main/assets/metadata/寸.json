@@ -87,14 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "寸",
-      "reading": "すん",
-      "meaning": "đơn vị đo lường"
-    },
-    {
-      "word": "寸寸",
-      "reading": "ずたずた",
-      "meaning": "thành từng mảnh"
+      "word": "寸法",
+      "reading": "すんぽう",
+      "meaning": "kích cỡ"
     },
     {
       "word": "寸前",
@@ -102,14 +97,9 @@
       "meaning": "sắp"
     },
     {
-      "word": "一寸",
-      "reading": "ちょっと",
-      "meaning": "một chút"
-    },
-    {
-      "word": "寸分",
-      "reading": "すんぶん",
-      "meaning": "nhỏ xíu"
+      "word": "寸",
+      "reading": "すん",
+      "meaning": "đơn vị đo lường"
     },
     {
       "word": "三寸",
@@ -117,24 +107,34 @@
       "meaning": "hùng biện"
     },
     {
-      "word": "八寸",
-      "reading": "はっすん",
-      "meaning": "tám tấc"
-    },
-    {
       "word": "外寸",
       "reading": "がいすん",
       "meaning": "kích thước ngoài"
     },
     {
-      "word": "燐寸",
-      "reading": "マッチ",
-      "meaning": "hợp... vừa khớp với cái gì đó"
+      "word": "寸止め",
+      "reading": "すんどめ",
+      "meaning": "dừng đúng lúc"
     },
     {
-      "word": "寸志",
-      "reading": "すんし",
-      "meaning": "một chút lòng thành"
+      "word": "八寸",
+      "reading": "はっすん",
+      "meaning": "tám tấc"
+    },
+    {
+      "word": "特寸",
+      "reading": "とくすん",
+      "meaning": "loại đặc biệt"
+    },
+    {
+      "word": "舌三寸",
+      "reading": "したさんずん",
+      "meaning": "tài ăn nói"
+    },
+    {
+      "word": "寸法線",
+      "reading": "すんぽうせん",
+      "meaning": "đường kích thước"
     }
   ]
 }

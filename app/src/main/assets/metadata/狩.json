@@ -39,14 +39,34 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "狩",
+      "word": "狩り",
       "reading": "かり",
-      "meaning": "cuộc đi săn"
+      "meaning": "gom"
     },
     {
-      "word": "狩人",
-      "reading": "かりゅうど",
-      "meaning": "người đi săn"
+      "word": "狩り子",
+      "reading": "かりこ",
+      "meaning": "thợ săn phụ"
+    },
+    {
+      "word": "桜狩り",
+      "reading": "さくらがり",
+      "meaning": "nhìn cho hoặc ở màu anh đào ra hoa"
+    },
+    {
+      "word": "虎狩り",
+      "reading": "とらがり",
+      "meaning": "việc săn hổ"
+    },
+    {
+      "word": "熊狩り",
+      "reading": "くまがり",
+      "meaning": "săn gấu"
+    },
+    {
+      "word": "鷹狩り",
+      "reading": "たかがり",
+      "meaning": "nghề nuôi chim ưng"
     },
     {
       "word": "狩猟",
@@ -54,39 +74,19 @@
       "meaning": "sự đi săn"
     },
     {
-      "word": "狩り",
-      "reading": "かり",
-      "meaning": "gom"
+      "word": "狩猟期",
+      "reading": "しゅりょうき",
+      "meaning": "thời kì đi săn"
     },
     {
-      "word": "狩る",
-      "reading": "かる",
-      "meaning": "săn bắn"
+      "word": "狩猟隊",
+      "reading": "しゅりょうたい",
+      "meaning": "bữa tiệc săn bắn"
     },
     {
-      "word": "狩衣",
-      "reading": "かりぎぬ",
-      "meaning": "kariginu"
-    },
-    {
-      "word": "虫狩",
-      "reading": "むしかり",
-      "meaning": "bắt sâu bọ"
-    },
-    {
-      "word": "巡狩",
-      "reading": "じゅんしゅ",
-      "meaning": "đế quốc đến thăm"
-    },
-    {
-      "word": "狩場",
-      "reading": "かりば",
-      "meaning": "bãi săn"
-    },
-    {
-      "word": "狩競",
-      "reading": "かりくら",
-      "meaning": "cuộc thi săn bắn"
+      "word": "兎狩り",
+      "reading": "うさぎがり",
+      "meaning": "con thỏ đi săn"
     }
   ]
 }

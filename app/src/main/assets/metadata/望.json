@@ -91,29 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "望",
-      "reading": "もち",
-      "meaning": "trăng rằm"
+      "word": "望む",
+      "reading": "のぞむ",
+      "meaning": "nguyện"
     },
     {
-      "word": "望み通り",
-      "reading": "のぞみどおり",
-      "meaning": "đúng như mong muốn vd: 望みどおりの品が手に入る. có được món hàng đúng như mong muốn"
+      "word": "望み",
+      "reading": "のぞみ",
+      "meaning": "sự trông mong"
     },
     {
-      "word": "怨望",
-      "reading": "えんぼう",
-      "meaning": "sự tức giận"
+      "word": "絶望",
+      "reading": "ぜつぼう",
+      "meaning": "sự tuyệt vọng"
     },
     {
-      "word": "嘱望",
-      "reading": "しょくぼう",
-      "meaning": "sự kỳ vọng"
+      "word": "要望",
+      "reading": "ようぼう",
+      "meaning": "sự mong muốn"
     },
     {
-      "word": "信望",
-      "reading": "しんぼう",
-      "meaning": "sự tin cậy"
+      "word": "欲望",
+      "reading": "よくぼう",
+      "meaning": "dục vọng"
+    },
+    {
+      "word": "展望",
+      "reading": "てんぼう",
+      "meaning": "sự quan sát"
     },
     {
       "word": "志望",
@@ -121,24 +126,19 @@
       "meaning": "ước muốn"
     },
     {
-      "word": "朔望",
-      "reading": "さくぼう",
-      "meaning": "ngày mùng 1 và ngày rằm trong lịch âm"
+      "word": "待望",
+      "reading": "たいぼう",
+      "meaning": "sự kỳ vọng"
     },
     {
-      "word": "遠望",
-      "reading": "えんぼう",
-      "meaning": "cảnh từ xa"
+      "word": "有望",
+      "reading": "ゆうぼう",
+      "meaning": "có hy vọng"
     },
     {
-      "word": "凝望",
-      "reading": "ぎょうぼう",
-      "meaning": "sự nhìn chằm chằm"
-    },
-    {
-      "word": "懇望",
-      "reading": "こんもう",
-      "meaning": "lời cầu xin"
+      "word": "望",
+      "reading": "もち",
+      "meaning": "trăng rằm"
     }
   ]
 }

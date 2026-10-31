@@ -107,19 +107,9 @@
       "meaning": "một tờ"
     },
     {
-      "word": "改頁",
-      "reading": "かいページ",
-      "meaning": "ngắt trang"
-    },
-    {
       "word": "頁数",
       "reading": "ページすう",
       "meaning": "số những trang"
-    },
-    {
-      "word": "頁岩",
-      "reading": "けつがん",
-      "meaning": "đá phiền sét"
     },
     {
       "word": "次頁",
@@ -137,19 +127,29 @@
       "meaning": "trang chủ"
     },
     {
-      "word": "網頁",
-      "reading": "もうよう",
-      "meaning": "trang web"
-    },
-    {
       "word": "頁付け",
       "reading": "ページづけ",
       "meaning": "sự đánh số trang"
     },
     {
-      "word": "油頁岩",
-      "reading": "ゆけつがん",
-      "meaning": "đá phiến dầu"
+      "word": "頁の裏",
+      "reading": "ページのうら",
+      "meaning": "ở mặt sau"
+    },
+    {
+      "word": "頁送り",
+      "reading": "ページおくり",
+      "meaning": "ff"
+    },
+    {
+      "word": "網頁",
+      "reading": "もうよう",
+      "meaning": "trang web"
+    },
+    {
+      "word": "改頁",
+      "reading": "かいページ",
+      "meaning": "ngắt trang"
     }
   ]
 }

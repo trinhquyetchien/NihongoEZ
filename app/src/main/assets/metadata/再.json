@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "再び",
+      "reading": "ふたたび",
+      "meaning": "lại"
+    },
+    {
       "word": "再",
       "reading": "さい",
       "meaning": "tái"
     },
     {
-      "word": "再再",
-      "reading": "さいさい",
-      "meaning": "thường thường"
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "sự tái sinh"
     },
     {
-      "word": "再三再四",
-      "reading": "さいさんさいし",
-      "meaning": "lặp đi lặp lại nhiều lần"
+      "word": "再現",
+      "reading": "さいげん",
+      "meaning": "sự lại xuất hiện"
     },
     {
       "word": "再会",
@@ -110,34 +115,29 @@
       "meaning": "sự gặp lại"
     },
     {
-      "word": "再話",
-      "reading": "さいわ",
-      "meaning": "sự nói lại"
-    },
-    {
-      "word": "再鑑",
-      "reading": "さいかん",
-      "meaning": "kiểm tra lại"
-    },
-    {
-      "word": "再インストール",
-      "reading": "さいインストール",
-      "meaning": "cài đặt lại"
-    },
-    {
-      "word": "再燃",
-      "reading": "さいねん",
-      "meaning": "sự làm sống lại"
-    },
-    {
       "word": "再建",
       "reading": "さいけん",
       "meaning": "sự xây dựng lại"
     },
     {
-      "word": "再起",
-      "reading": "さいき",
-      "meaning": "sự quay lại"
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "sự tái phát"
+    },
+    {
+      "word": "再変",
+      "reading": "さいへん",
+      "meaning": "thứ hai thay đổi"
+    },
+    {
+      "word": "再勝",
+      "reading": "さいしょう",
+      "meaning": "chiến thắng khác"
+    },
+    {
+      "word": "再入",
+      "reading": "さいにゅう",
+      "meaning": "sự vào lại"
     }
   ]
 }

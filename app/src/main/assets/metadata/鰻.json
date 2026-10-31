@@ -89,39 +89,19 @@
       "meaning": "con lươn"
     },
     {
-      "word": "ヨーロッパ鰻",
-      "reading": "ヨーロッパうなぎ",
-      "meaning": "cá chình châu âu"
-    },
-    {
-      "word": "盲鰻",
-      "reading": "めくらうなぎ",
-      "meaning": "lươn nhầy"
-    },
-    {
-      "word": "痺鰻",
-      "reading": "しびれうなぎ",
-      "meaning": "electric eel"
-    },
-    {
       "word": "大鰻",
       "reading": "おおうなぎ",
       "meaning": "lươn đốm khổng lồ"
     },
     {
-      "word": "田鰻",
-      "reading": "たうなぎ",
-      "meaning": "lươn nhật"
+      "word": "日本鰻",
+      "reading": "にほんうなぎ",
+      "meaning": "con lươn nhật"
     },
     {
-      "word": "鰻丼",
-      "reading": "うなどん",
-      "meaning": "cơm với lươn nướng"
-    },
-    {
-      "word": "針鰻",
-      "reading": "はりうなぎ",
-      "meaning": "con chạch"
+      "word": "鰻屋",
+      "reading": "うなぎや",
+      "meaning": "quán ăn lươn"
     },
     {
       "word": "海鰻",
@@ -129,9 +109,29 @@
       "meaning": "con lươn biển"
     },
     {
-      "word": "鰻筒",
-      "reading": "うなぎづつ",
-      "meaning": "cái bẫy lươn"
+      "word": "落ち鰻",
+      "reading": "おちうなぎ",
+      "meaning": "lươn xuôi theo dòng nước để đẻ trứng"
+    },
+    {
+      "word": "袋鰻",
+      "reading": "ふくろうなぎ",
+      "meaning": "cá chình bồ nông"
+    },
+    {
+      "word": "鰻丼",
+      "reading": "うなどん",
+      "meaning": "cơm với lươn nướng"
+    },
+    {
+      "word": "鰻巻き",
+      "reading": "うまき",
+      "meaning": "lươn xiên nướng và cuộn trong trứng rán"
+    },
+    {
+      "word": "田鰻",
+      "reading": "たうなぎ",
+      "meaning": "lươn nhật"
     }
   ]
 }

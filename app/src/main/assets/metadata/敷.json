@@ -90,9 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "桟敷",
-      "reading": "さじき",
-      "meaning": "xem lại đứng"
+      "word": "敷地",
+      "reading": "しきち",
+      "meaning": "nền đất"
     },
     {
       "word": "座敷",
@@ -100,24 +100,29 @@
       "meaning": "phòng khách"
     },
     {
-      "word": "石敷",
-      "reading": "いしじき",
-      "meaning": "đường lát đá"
+      "word": "敷く",
+      "reading": "しく",
+      "meaning": "trải"
     },
     {
-      "word": "折敷",
-      "reading": "おしき",
-      "meaning": "khay gỗ có viền thấp"
+      "word": "風呂敷",
+      "reading": "ふろしき",
+      "meaning": "khăn bọc đồ"
     },
     {
-      "word": "下敷",
-      "reading": "したじき",
-      "meaning": "vật dùng để trải phía dưới"
+      "word": "屋敷",
+      "reading": "やしき",
+      "meaning": "dinh cơ"
     },
     {
-      "word": "敷布",
-      "reading": "しきふ",
-      "meaning": "khăn trải giường"
+      "word": "屋敷町",
+      "reading": "やしきまち",
+      "meaning": "nơi cư ngụ"
+    },
+    {
+      "word": "敷地内",
+      "reading": "しきちない",
+      "meaning": "trong khuôn viên này"
     },
     {
       "word": "倉敷",
@@ -125,19 +130,14 @@
       "meaning": "sự lưu kho"
     },
     {
-      "word": "居敷",
-      "reading": "いしき",
-      "meaning": "chỗ ngồi"
+      "word": "敷居",
+      "reading": "しきい",
+      "meaning": "ngưỡng cửa"
     },
     {
-      "word": "畳敷",
-      "reading": "たたみじき",
-      "meaning": "tatami - trải lên"
-    },
-    {
-      "word": "敷石",
-      "reading": "しきいし",
-      "meaning": "đá phẳng xếp thành lối đi"
+      "word": "中敷",
+      "reading": "なかじき",
+      "meaning": "vật nằm ở trong"
     }
   ]
 }

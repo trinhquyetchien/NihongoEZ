@@ -106,29 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "泣く泣く",
-      "reading": "なくなく",
-      "meaning": "đang khóc"
-    },
-    {
-      "word": "号泣",
-      "reading": "ごうきゅう",
-      "meaning": "sự khóc lóc"
-    },
-    {
-      "word": "悲泣",
-      "reading": "ひきゅう",
-      "meaning": "sự khóc với nỗi buồn"
-    },
-    {
-      "word": "天泣",
-      "reading": "てんきゅう",
-      "meaning": "mưa bóng mây"
-    },
-    {
-      "word": "感泣",
-      "reading": "かんきゅう",
-      "meaning": "dễ rơi nước mắt"
+      "word": "泣く",
+      "reading": "なく",
+      "meaning": "khóc"
     },
     {
       "word": "泣き",
@@ -136,24 +116,44 @@
       "meaning": "việc khóc lóc"
     },
     {
-      "word": "泣く",
-      "reading": "なく",
-      "meaning": "khóc"
+      "word": "嘘泣き",
+      "reading": "うそなき",
+      "meaning": "mít ướt"
     },
     {
-      "word": "啼泣",
-      "reading": "ていきゅう",
-      "meaning": "khóc thét"
+      "word": "半泣き",
+      "reading": "はんなき",
+      "meaning": "sắp khóc"
     },
     {
-      "word": "哀泣",
-      "reading": "あいきゅう",
-      "meaning": "khóc với sự đau buồn"
+      "word": "泣き処",
+      "reading": "なきどころ",
+      "meaning": "điểm yếu"
     },
     {
-      "word": "泣訴",
-      "reading": "きゅうそ",
-      "meaning": "vừa khóc vừa cầu khẩn"
+      "word": "泣ける",
+      "reading": "なける",
+      "meaning": "khóc vì quá cảm động"
+    },
+    {
+      "word": "号泣",
+      "reading": "ごうきゅう",
+      "meaning": "sự khóc lóc"
+    },
+    {
+      "word": "天泣",
+      "reading": "てんきゅう",
+      "meaning": "mưa bóng mây"
+    },
+    {
+      "word": "泣き虫",
+      "reading": "なきむし",
+      "meaning": "mít ướt"
+    },
+    {
+      "word": "泣き声",
+      "reading": "なきごえ",
+      "meaning": "tiếng khóc"
     }
   ]
 }

@@ -85,34 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "顕彰",
-      "reading": "けんしょう",
-      "meaning": "sự khen thưởng"
-    },
-    {
       "word": "表彰",
       "reading": "ひょうしょう",
       "meaning": "biểu chương"
-    },
-    {
-      "word": "彰徳",
-      "reading": "しょうとく",
-      "meaning": "lời khen công cộng"
-    },
-    {
-      "word": "受彰",
-      "reading": "じゅしょう",
-      "meaning": "phần thưởng"
-    },
-    {
-      "word": "彰明",
-      "reading": "しょうめい",
-      "meaning": "trưng bày rõ ràng"
-    },
-    {
-      "word": "表彰状",
-      "reading": "ひょうしょうじょう",
-      "meaning": "giấy biểu dương"
     },
     {
       "word": "表彰式",
@@ -120,9 +95,34 @@
       "meaning": "lời khen ngợi hoặc nghi lễ những tặng thưởng"
     },
     {
+      "word": "彰明",
+      "reading": "しょうめい",
+      "meaning": "trưng bày rõ ràng"
+    },
+    {
+      "word": "彰徳",
+      "reading": "しょうとく",
+      "meaning": "lời khen công cộng"
+    },
+    {
       "word": "表彰台",
       "reading": "ひょうしょうだい",
       "meaning": "bục chiến thắng"
+    },
+    {
+      "word": "顕彰",
+      "reading": "けんしょう",
+      "meaning": "sự khen thưởng"
+    },
+    {
+      "word": "表彰状",
+      "reading": "ひょうしょうじょう",
+      "meaning": "giấy biểu dương"
+    },
+    {
+      "word": "受彰",
+      "reading": "じゅしょう",
+      "meaning": "phần thưởng"
     },
     {
       "word": "顕彰する",

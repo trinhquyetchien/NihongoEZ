@@ -51,19 +51,19 @@
   ],
   "vocabulary": [
     {
-      "word": "閃く",
-      "reading": "ひらめく",
-      "meaning": "lóe sáng"
-    },
-    {
-      "word": "一閃",
-      "reading": "いっせん",
-      "meaning": "một tia sáng loé lên"
-    },
-    {
       "word": "閃光",
       "reading": "せんこう",
       "meaning": "tia sáng"
+    },
+    {
+      "word": "緑閃光",
+      "reading": "りょくせんこう",
+      "meaning": "tia chớp lục"
+    },
+    {
+      "word": "閃光灯",
+      "reading": "せんこうとう",
+      "meaning": "ánh sáng phát ra từ ngọn hải đăng vào ban đêm"
     },
     {
       "word": "閃き",
@@ -71,9 +71,14 @@
       "meaning": "sáng loáng"
     },
     {
-      "word": "閃電",
-      "reading": "せんでん",
-      "meaning": "tia chớp"
+      "word": "一閃",
+      "reading": "いっせん",
+      "meaning": "một tia sáng loé lên"
+    },
+    {
+      "word": "閃く",
+      "reading": "ひらめく",
+      "meaning": "lóe sáng"
     },
     {
       "word": "直閃石",
@@ -81,24 +86,19 @@
       "meaning": "anthophyllite"
     },
     {
-      "word": "閃緑岩",
-      "reading": "せんりょくがん",
-      "meaning": "diorit"
-    },
-    {
       "word": "角閃石",
       "reading": "かくせんせき",
       "meaning": "amphibol"
     },
     {
-      "word": "閃ウラン鉱",
-      "reading": "せんウランこう",
-      "meaning": "mỏ uranium"
+      "word": "透閃石",
+      "reading": "とうせんせき",
+      "meaning": "tremolit ₂)"
     },
     {
-      "word": "閃かす",
-      "reading": "ひらめかす",
-      "meaning": "khua"
+      "word": "藍閃石",
+      "reading": "らんせんせき",
+      "meaning": "glaucophan ₂ )"
     }
   ]
 }

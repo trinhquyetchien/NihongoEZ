@@ -89,49 +89,49 @@
   ],
   "vocabulary": [
     {
-      "word": "裁縫道具/裁縫用品",
-      "reading": "さいほうどうぐ/さいほうようひん",
-      "meaning": "dụng cụ may"
-    },
-    {
       "word": "裁縫",
       "reading": "さいほう",
       "meaning": "khâu vá"
     },
     {
-      "word": "縫工",
-      "reading": "ほうこう",
-      "meaning": "thợ may quần áo"
+      "word": "縫う",
+      "reading": "ぬう",
+      "meaning": "khâu"
     },
     {
-      "word": "縫腋",
-      "reading": "ほうえき",
-      "meaning": "quần áo với một mặt khâu"
+      "word": "縫い",
+      "reading": "ぬい",
+      "meaning": "việc khâu vá"
     },
     {
-      "word": "弥縫",
-      "reading": "びほう",
-      "meaning": "tạm thời giải quyết những thất bại và thiếu sót"
+      "word": "裁縫師",
+      "reading": "さいほうし",
+      "meaning": "thợ may"
     },
     {
-      "word": "縫目",
-      "reading": "ぬいめ",
-      "meaning": "mũi kim"
+      "word": "縫い方",
+      "reading": "ぬいかた",
+      "meaning": "cách khâu"
     },
     {
-      "word": "縫針",
+      "word": "本縫い",
+      "reading": "ほんぬい",
+      "meaning": "chuyên nghành may"
+    },
+    {
+      "word": "裁縫箱",
+      "reading": "さいほうばこ",
+      "meaning": "hộp đựng đồ may"
+    },
+    {
+      "word": "縫い針",
       "reading": "ぬいばり",
       "meaning": "kim khâu"
     },
     {
-      "word": "縫製",
-      "reading": "ほうせい",
-      "meaning": "sự may vá"
-    },
-    {
-      "word": "伏縫",
-      "reading": "ふせぬい",
-      "meaning": "e hèm"
+      "word": "縫い紋",
+      "reading": "ぬいもん",
+      "meaning": "huy hiệu thêu"
     },
     {
       "word": "縫合",

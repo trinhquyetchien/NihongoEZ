@@ -91,9 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "再訪",
-      "reading": "さいほう",
-      "meaning": "đi thăm lại"
+      "word": "訪ねる",
+      "reading": "たずねる",
+      "meaning": "thăm"
+    },
+    {
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "sự thăm hỏi"
+    },
+    {
+      "word": "訪れる",
+      "reading": "おとずれる",
+      "meaning": "ghé thăm"
+    },
+    {
+      "word": "訪問者",
+      "reading": "ほうもんしゃ",
+      "meaning": "người nước ngoài đến để làm việc hay du học"
     },
     {
       "word": "訪れ",
@@ -101,44 +116,29 @@
       "meaning": "sự thăm hỏi"
     },
     {
-      "word": "訪中",
-      "reading": "ほうちゅう",
-      "meaning": "thăm trung quốc"
+      "word": "訪問先",
+      "reading": "ほうもんさき",
+      "meaning": "điểm đến"
     },
     {
-      "word": "訪比",
-      "reading": "ほうひ",
-      "meaning": "chuyến thăm philippin"
+      "word": "訪問地",
+      "reading": "ほうもんち",
+      "meaning": "điểm dừng"
     },
     {
-      "word": "探訪",
-      "reading": "たんぼう",
-      "meaning": "phóng sự điều tra"
+      "word": "訪問着",
+      "reading": "ほうもんぎ",
+      "meaning": "áo kimônô nửa hình thức cho phụ nữ"
     },
     {
-      "word": "往訪",
-      "reading": "おうほう",
-      "meaning": "sự đến thăm nhà người khác"
-    },
-    {
-      "word": "訪う",
-      "reading": "とう",
-      "meaning": "thăm"
-    },
-    {
-      "word": "訪米",
-      "reading": "ほうべい",
-      "meaning": "sự đến thăm mỹ"
-    },
-    {
-      "word": "訪客",
-      "reading": "ほうきゃく",
+      "word": "訪問客",
+      "reading": "ほうもんきゃく",
       "meaning": "khách"
     },
     {
-      "word": "訪欧",
-      "reading": "ほうおう",
-      "meaning": "sự đi đến châu âu"
+      "word": "来訪",
+      "reading": "らいほう",
+      "meaning": "sự đến thăm"
     }
   ]
 }

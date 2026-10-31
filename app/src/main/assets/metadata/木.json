@@ -96,29 +96,9 @@
       "meaning": "cây cối"
     },
     {
-      "word": "木木",
-      "reading": "きぎ",
-      "meaning": "cây cối"
-    },
-    {
-      "word": "大木葉木菟",
-      "reading": "おおこのはずく",
-      "meaning": "cú đại mộc điệp"
-    },
-    {
-      "word": "木の葉木菟",
-      "reading": "このはずく",
-      "meaning": "chim cú mèo"
-    },
-    {
-      "word": "木偏",
-      "reading": "きへん",
-      "meaning": "bộ mộc trong chữ hán"
-    },
-    {
-      "word": "木管",
-      "reading": "もっかん",
-      "meaning": "ống làm bằng gỗ"
+      "word": "木綿",
+      "reading": "もめん",
+      "meaning": "bông"
     },
     {
       "word": "木曜",
@@ -126,19 +106,39 @@
       "meaning": "thứ năm"
     },
     {
-      "word": "木星",
-      "reading": "もくせい",
-      "meaning": "mộc tinh"
+      "word": "材木",
+      "reading": "ざいもく",
+      "meaning": "gỗ"
     },
     {
-      "word": "栃木",
-      "reading": "とちぎ",
-      "meaning": "cây dẻ ngựa"
+      "word": "樹木",
+      "reading": "じゅもく",
+      "meaning": "lùm cây"
     },
     {
-      "word": "木裏",
-      "reading": "きうら",
-      "meaning": "mặt trong của gỗ"
+      "word": "雑木",
+      "reading": "ぞうき",
+      "meaning": "nhiều loại nhỏ bắt phải nấp trên cây"
+    },
+    {
+      "word": "木金",
+      "reading": "もくきん",
+      "meaning": "thứ năm và thứ sáu"
+    },
+    {
+      "word": "木所",
+      "reading": "きどころ",
+      "meaning": "việc phân loại các loại gỗ thơm dùng làm hương"
+    },
+    {
+      "word": "木木",
+      "reading": "きぎ",
+      "meaning": "cây cối"
+    },
+    {
+      "word": "木板",
+      "reading": "もくはん",
+      "meaning": "bảng gỗ"
     }
   ]
 }

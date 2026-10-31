@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "繊月",
-      "reading": "せんげつ",
-      "meaning": "trăng lưỡi liềm"
-    },
-    {
-      "word": "繊指",
-      "reading": "せんし",
-      "meaning": "phụ nữ có những ngón tay mảnh khảnh"
-    },
-    {
-      "word": "繊条",
-      "reading": "せんじょう",
-      "meaning": "sợi kim loại mỏng"
+      "word": "繊維",
+      "reading": "せんい",
+      "meaning": "sợi"
     },
     {
       "word": "化繊",
@@ -107,34 +97,44 @@
       "meaning": "sợi tổng hợp"
     },
     {
-      "word": "繊巧",
-      "reading": "せんこう",
-      "meaning": "phạt tiền tài nghệ"
+      "word": "繊維性",
+      "reading": "せんいせい",
+      "meaning": "có sợi"
     },
     {
-      "word": "繊度",
-      "reading": "せんど",
-      "meaning": "vẻ đẹp"
+      "word": "繊維板",
+      "reading": "せんいばん",
+      "meaning": "tấm ván sợi"
     },
     {
-      "word": "繊弱",
-      "reading": "せんじゃく",
-      "meaning": "mỏng manh"
+      "word": "繊維質",
+      "reading": "せんいしつ",
+      "meaning": "chất xơ"
     },
     {
-      "word": "繊手",
-      "reading": "せんしゅ",
-      "meaning": "bàn tay mảnh khảnh"
+      "word": "原繊維",
+      "reading": "げんせんい",
+      "meaning": "sợi thô"
     },
     {
-      "word": "繊毛",
-      "reading": "せんもう",
-      "meaning": "lông mi"
+      "word": "繊細",
+      "reading": "せんさい",
+      "meaning": "sự tinh vi"
     },
     {
-      "word": "合繊",
-      "reading": "ごうせん",
-      "meaning": "sợi phíp tổng hợp"
+      "word": "繊維束",
+      "reading": "せんいそく",
+      "meaning": "bó"
+    },
+    {
+      "word": "綿繊維",
+      "reading": "めんせんい",
+      "meaning": "xơ bông"
+    },
+    {
+      "word": "筋繊維",
+      "reading": "きんせんい",
+      "meaning": "sợi cơ"
     }
   ]
 }

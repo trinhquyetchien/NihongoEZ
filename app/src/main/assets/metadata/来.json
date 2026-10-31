@@ -113,44 +113,9 @@
   ],
   "vocabulary": [
     {
-      "word": "来",
-      "reading": "らい",
-      "meaning": "sự tới"
-    },
-    {
-      "word": "来賓",
-      "reading": "らいひん",
-      "meaning": "khách"
-    },
-    {
-      "word": "来来週",
-      "reading": "らいらいしゅう",
-      "meaning": "tuần sau nữa"
-    },
-    {
-      "word": "出来不出来",
-      "reading": "できふでき",
-      "meaning": "không phẳng kết quả"
-    },
-    {
       "word": "来年",
       "reading": "らいねん",
       "meaning": "năm sau"
-    },
-    {
-      "word": "来京",
-      "reading": "らいきょう",
-      "meaning": "đến kyoto"
-    },
-    {
-      "word": "古来",
-      "reading": "こらい",
-      "meaning": "tử biệt"
-    },
-    {
-      "word": "従来",
-      "reading": "じゅうらい",
-      "meaning": "cho đến giờ"
     },
     {
       "word": "将来",
@@ -158,9 +123,44 @@
       "meaning": "đời sau"
     },
     {
+      "word": "来",
+      "reading": "らい",
+      "meaning": "sự tới"
+    },
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "kể từ đó"
+    },
+    {
+      "word": "従来",
+      "reading": "じゅうらい",
+      "meaning": "cho đến giờ"
+    },
+    {
       "word": "元来",
       "reading": "がんらい",
       "meaning": "từ trước đến nay"
+    },
+    {
+      "word": "出来",
+      "reading": "でき",
+      "meaning": "sự xảy ra"
+    },
+    {
+      "word": "万来",
+      "reading": "ばんらい",
+      "meaning": "việc nhiều người đến"
+    },
+    {
+      "word": "来園",
+      "reading": "らいえん",
+      "meaning": "việc đến công viên"
+    },
+    {
+      "word": "来来週",
+      "reading": "らいらいしゅう",
+      "meaning": "tuần sau nữa"
     }
   ]
 }

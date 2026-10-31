@@ -96,39 +96,9 @@
       "meaning": "danh nghĩa"
     },
     {
-      "word": "有名無名",
-      "reading": "ゆうめいむめい",
-      "meaning": "nổi tiếng và không nổi tiếng"
-    },
-    {
-      "word": "名称領域名",
-      "reading": "めいしょうりょういきめい",
-      "meaning": "tên miền"
-    },
-    {
-      "word": "名表",
-      "reading": "なおもて",
-      "meaning": "viết tắt của"
-    },
-    {
-      "word": "ながうれる 名が売れる",
-      "reading": "名が売れる",
-      "meaning": "danh tiếng được biết đến trên toàn thế giới"
-    },
-    {
-      "word": "指名",
-      "reading": "しめい",
-      "meaning": "sự chỉ tên"
-    },
-    {
-      "word": "名案",
-      "reading": "めいあん",
-      "meaning": "ý kiến hay"
-    },
-    {
-      "word": "名札",
-      "reading": "なふだ",
-      "meaning": "bảng tên"
+      "word": "署名",
+      "reading": "しょめい",
+      "meaning": "bí danh"
     },
     {
       "word": "題名",
@@ -136,9 +106,39 @@
       "meaning": "nhan đề"
     },
     {
-      "word": "アカウント名",
-      "reading": "アカウントめい",
-      "meaning": "tên tài khoản"
+      "word": "名字",
+      "reading": "みょうじ",
+      "meaning": "họ"
+    },
+    {
+      "word": "名札",
+      "reading": "なふだ",
+      "meaning": "bảng tên"
+    },
+    {
+      "word": "名大",
+      "reading": "めいだい",
+      "meaning": "trường đại học nagoya"
+    },
+    {
+      "word": "車名",
+      "reading": "しゃめい",
+      "meaning": "tên xe ô tô"
+    },
+    {
+      "word": "名機",
+      "reading": "めいき",
+      "meaning": "máy móc hiệu suất cao"
+    },
+    {
+      "word": "員名",
+      "reading": "いんめい",
+      "meaning": "tên thành viên"
+    },
+    {
+      "word": "薬名",
+      "reading": "やくめい",
+      "meaning": "tên thuốc y học"
     }
   ]
 }

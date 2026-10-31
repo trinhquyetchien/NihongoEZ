@@ -77,39 +77,14 @@
       "meaning": "đông"
     },
     {
-      "word": "冬頭",
-      "reading": "ふゆがしら",
-      "meaning": "bộ thủ \"đông\" đứng ở phía trên của một chữ hán"
+      "word": "冬眠",
+      "reading": "とうみん",
+      "meaning": "sự ngủ đông"
     },
     {
-      "word": "冬場",
-      "reading": "ふゆば",
-      "meaning": "mùa đông"
-    },
-    {
-      "word": "冬芽",
-      "reading": "とうが",
-      "meaning": "mầm đông"
-    },
-    {
-      "word": "今冬",
-      "reading": "こんとう",
-      "meaning": "mùa đông này"
-    },
-    {
-      "word": "三冬",
-      "reading": "さんとう",
-      "meaning": "ba tháng mùa đông"
-    },
-    {
-      "word": "忍冬",
-      "reading": "すいかずら",
-      "meaning": "cây kim ngân"
-    },
-    {
-      "word": "孟冬",
-      "reading": "もうとう",
-      "meaning": "đầu mùa đông"
+      "word": "冬月",
+      "reading": "とうげつ",
+      "meaning": "tháng mùa đông"
     },
     {
       "word": "上冬",
@@ -117,9 +92,34 @@
       "meaning": "đầu đông"
     },
     {
-      "word": "季冬",
-      "reading": "きとう",
-      "meaning": "cuối mùa đông"
+      "word": "三冬",
+      "reading": "さんとう",
+      "meaning": "ba tháng mùa đông"
+    },
+    {
+      "word": "夏冬",
+      "reading": "かとう",
+      "meaning": "mùa hè với mùa đông"
+    },
+    {
+      "word": "冬服",
+      "reading": "ふゆふく",
+      "meaning": "quần áo mùa đông"
+    },
+    {
+      "word": "冬官",
+      "reading": "とうかん",
+      "meaning": "bộ công trong triều đại nhà chu"
+    },
+    {
+      "word": "冬桜",
+      "reading": "ふゆざくら",
+      "meaning": "hoa anh đào mùa đông"
+    },
+    {
+      "word": "冬毛",
+      "reading": "ふゆげ",
+      "meaning": "áo lông"
     }
   ]
 }

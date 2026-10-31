@@ -93,9 +93,34 @@
   ],
   "vocabulary": [
     {
-      "word": "遣う",
-      "reading": "つかう",
-      "meaning": "cho"
+      "word": "小遣い",
+      "reading": "こづかい",
+      "meaning": "tiền tiêu vặt"
+    },
+    {
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "cách sử dụng từ ngữ"
+    },
+    {
+      "word": "派遣",
+      "reading": "はけん",
+      "meaning": "phái"
+    },
+    {
+      "word": "派遣軍",
+      "reading": "はけんぐん",
+      "meaning": "quân viễn chinh"
+    },
+    {
+      "word": "派遣隊",
+      "reading": "はけんたい",
+      "meaning": "chi đội"
+    },
+    {
+      "word": "派遣団",
+      "reading": "はけんだん",
+      "meaning": "phái đoàn"
     },
     {
       "word": "遣い",
@@ -103,44 +128,19 @@
       "meaning": "sứ mệnh"
     },
     {
-      "word": "先遣",
-      "reading": "せんけん",
-      "meaning": "nhắn phía trước"
+      "word": "頭遣い",
+      "reading": "かしらつかい",
+      "meaning": "người điều khiển con rối cho cái đầu"
     },
     {
-      "word": "分遣",
-      "reading": "ぶんけん",
-      "meaning": "sự tách riêng ra"
+      "word": "足遣い",
+      "reading": "あしづかい",
+      "meaning": "nghệ sĩ múa rối chuyên điều khiển chân của con rối"
     },
     {
-      "word": "遣外",
-      "reading": "けんがい",
-      "meaning": "gửi đi công tác nước ngoài"
-    },
-    {
-      "word": "遣す",
-      "reading": "よこす",
-      "meaning": "bàn giao"
-    },
-    {
-      "word": "遣る",
-      "reading": "やる",
-      "meaning": "giúp"
-    },
-    {
-      "word": "遣米",
-      "reading": "けんべい",
-      "meaning": "phái đi công tác ở mỹ"
-    },
-    {
-      "word": "遣悶",
-      "reading": "けんもん",
-      "meaning": "sự xua đuổi nỗi phiền muộn"
-    },
-    {
-      "word": "派遣",
-      "reading": "はけん",
-      "meaning": "phái"
+      "word": "主遣い",
+      "reading": "おもづかい",
+      "meaning": "nghệ sĩ múa rối chính"
     }
   ]
 }

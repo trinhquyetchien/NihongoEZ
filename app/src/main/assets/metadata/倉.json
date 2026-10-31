@@ -89,39 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "倉庫",
+      "reading": "そうこ",
+      "meaning": "kho hàng"
+    },
+    {
+      "word": "倉庫番",
+      "reading": "そうこばん",
+      "meaning": "sokoban là trò chơi dạng câu đố trong đó người chơi phải đẩy một số khối vuông vượt qua chướng ngại vật để đến đích"
+    },
+    {
+      "word": "倉庫業",
+      "reading": "そうこぎょう",
+      "meaning": "cất vào kho doanh nghiệp"
+    },
+    {
+      "word": "倉庫港",
+      "reading": "そうここう",
+      "meaning": "cảng trung chuyển"
+    },
+    {
       "word": "倉",
       "reading": "くら",
       "meaning": "nhà kho"
-    },
-    {
-      "word": "穀倉",
-      "reading": "こくそう",
-      "meaning": "kho ngũ cốc"
-    },
-    {
-      "word": "倉廩",
-      "reading": "そうりん",
-      "meaning": "kho lương thực"
-    },
-    {
-      "word": "倉主",
-      "reading": "くらぬし",
-      "meaning": "chủ nhà kho"
-    },
-    {
-      "word": "倉荷",
-      "reading": "くらに",
-      "meaning": "hàng hóa trong kho"
-    },
-    {
-      "word": "倉卒",
-      "reading": "そうそつ",
-      "meaning": "rất bận rộn"
-    },
-    {
-      "word": "営倉",
-      "reading": "えいそう",
-      "meaning": "phòng nghỉ của lính gác"
     },
     {
       "word": "内倉",
@@ -129,14 +119,24 @@
       "meaning": "kho trong"
     },
     {
-      "word": "倉皇",
-      "reading": "そうこう",
-      "meaning": "khẩn trương"
+      "word": "倉主",
+      "reading": "くらぬし",
+      "meaning": "chủ nhà kho"
     },
     {
-      "word": "倉敷",
-      "reading": "くらしき",
-      "meaning": "sự lưu kho"
+      "word": "倉作り",
+      "reading": "くらづくり",
+      "meaning": "cất vào kho kiểu"
+    },
+    {
+      "word": "武器倉",
+      "reading": "ぶきぐら",
+      "meaning": "kho vũ khí"
+    },
+    {
+      "word": "正倉",
+      "reading": "しょうそう",
+      "meaning": "kho chính"
     }
   ]
 }

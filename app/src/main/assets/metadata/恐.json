@@ -110,39 +110,19 @@
   ],
   "vocabulary": [
     {
-      "word": "恐恐",
-      "reading": "きょうきょう",
-      "meaning": "một cụm từ cực kỳ trang trọng"
-    },
-    {
-      "word": "恐恐謹言",
-      "reading": "きょうきょうきんげん",
-      "meaning": "một cách kết thư cực kỳ trang trọng"
-    },
-    {
-      "word": "恐る恐る",
-      "reading": "おそるおそる",
-      "meaning": "rụt rè"
-    },
-    {
-      "word": "戦戦恐恐",
-      "reading": "せんせんきょうきょう",
-      "meaning": "run sợ với sự sợ hãi"
-    },
-    {
-      "word": "戦戦恐恐として",
-      "reading": "せんせんきょうきょうとして",
-      "meaning": "với sự sợ hãi và run sợ"
-    },
-    {
-      "word": "恐い",
-      "reading": "こわい",
-      "meaning": "làm hoảng sợ"
-    },
-    {
       "word": "恐怖",
       "reading": "きょうふ",
       "meaning": "khủng bố"
+    },
+    {
+      "word": "恐れる",
+      "reading": "おそれる",
+      "meaning": "e"
+    },
+    {
+      "word": "恐縮",
+      "reading": "きょうしゅく",
+      "meaning": "không dám!"
     },
     {
       "word": "恐れ",
@@ -150,9 +130,29 @@
       "meaning": "ngại"
     },
     {
-      "word": "恐喝",
-      "reading": "きょうかつ",
-      "meaning": "sự dọa nạt"
+      "word": "恐れ入る",
+      "reading": "おそれいる",
+      "meaning": "biết ơn"
+    },
+    {
+      "word": "恐れ気",
+      "reading": "おそれげ",
+      "meaning": "vẻ sợ hãi"
+    },
+    {
+      "word": "恐怖感",
+      "reading": "きょうふかん",
+      "meaning": "cảm giác sợ hãi"
+    },
+    {
+      "word": "恐怖心",
+      "reading": "きょうふしん",
+      "meaning": "sợ hãi"
+    },
+    {
+      "word": "恐らく",
+      "reading": "おそらく",
+      "meaning": "có lẽ"
     },
     {
       "word": "恐竜",

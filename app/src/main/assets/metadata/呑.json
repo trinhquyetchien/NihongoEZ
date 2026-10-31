@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "呑気",
-      "reading": "のんき",
-      "meaning": "vô tư"
+      "word": "一呑み",
+      "reading": "ひとのみ",
+      "meaning": "nuốt chửng"
     },
     {
-      "word": "呑酸",
-      "reading": "どんさん",
-      "meaning": "nóng rát vùng thượng vị"
+      "word": "呑み代",
+      "reading": "のみしろ",
+      "meaning": "uống tiền"
+    },
+    {
+      "word": "呑み口",
+      "reading": "のみくち",
+      "meaning": "cái vòi"
+    },
+    {
+      "word": "呑み助",
+      "reading": "のみすけ",
+      "meaning": "người thích rượu"
+    },
+    {
+      "word": "鵜呑み",
+      "reading": "うのみ",
+      "meaning": "nuốt trọn"
     },
     {
       "word": "呑む",
@@ -104,24 +119,14 @@
       "meaning": "uống"
     },
     {
-      "word": "呑口",
-      "reading": "のみくち",
-      "meaning": "cái vòi"
+      "word": "呑気",
+      "reading": "のんき",
+      "meaning": "vô tư"
     },
     {
-      "word": "雲呑",
-      "reading": "ワンタン",
-      "meaning": "vằn thắn"
-    },
-    {
-      "word": "呑吐",
-      "reading": "どんと",
-      "meaning": "uống và nôn ra"
-    },
-    {
-      "word": "剣呑",
-      "reading": "けんのん",
-      "meaning": "nguy hiểm"
+      "word": "呑気者",
+      "reading": "のんきもの",
+      "meaning": "người vô tư lự"
     },
     {
       "word": "酒呑",
@@ -129,14 +134,9 @@
       "meaning": "người nghiện rượu"
     },
     {
-      "word": "併呑",
-      "reading": "へいどん",
-      "meaning": "sự phụ vào"
-    },
-    {
-      "word": "并呑",
-      "reading": "へいどん",
-      "meaning": "sự phụ vào"
+      "word": "薬呑",
+      "reading": "くすりどん",
+      "meaning": "thuốc uống"
     }
   ]
 }

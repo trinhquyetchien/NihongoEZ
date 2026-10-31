@@ -89,14 +89,19 @@
   ],
   "vocabulary": [
     {
+      "word": "睦月",
+      "reading": "むつき",
+      "meaning": "tháng giêng theo âm lịch"
+    },
+    {
       "word": "親睦",
       "reading": "しんぼく",
       "meaning": "sự thân thiết"
     },
     {
-      "word": "睦む",
-      "reading": "むつむ",
-      "meaning": "hòa hợp"
+      "word": "親睦会",
+      "reading": "しんぼくかい",
+      "meaning": "buổi họp mặt thân mật không hình thức tụ lại"
     },
     {
       "word": "睦ぶ",
@@ -104,17 +109,7 @@
       "meaning": "hòa thuận"
     },
     {
-      "word": "睦月",
-      "reading": "むつき",
-      "meaning": "tháng giêng theo âm lịch"
-    },
-    {
-      "word": "睦言",
-      "reading": "むつごと",
-      "meaning": "cuộc trò chuyện những người yêu"
-    },
-    {
-      "word": "惇睦",
+      "word": "敦睦",
       "reading": "とんぼく",
       "meaning": "thân thiện và chân thành"
     },
@@ -124,14 +119,19 @@
       "meaning": "hòa bình"
     },
     {
-      "word": "敦睦",
+      "word": "惇睦",
       "reading": "とんぼく",
       "meaning": "thân thiện và chân thành"
     },
     {
-      "word": "親睦会",
-      "reading": "しんぼくかい",
-      "meaning": "buổi họp mặt thân mật không hình thức tụ lại"
+      "word": "睦言",
+      "reading": "むつごと",
+      "meaning": "cuộc trò chuyện những người yêu"
+    },
+    {
+      "word": "睦む",
+      "reading": "むつむ",
+      "meaning": "hòa hợp"
     },
     {
       "word": "睦まじい",

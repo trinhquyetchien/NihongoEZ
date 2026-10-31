@@ -89,44 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "掃き掃除",
-      "reading": "はきそうじ",
-      "meaning": "quét và sự dọn dẹp"
-    },
-    {
-      "word": "掃引",
-      "reading": "そういん",
-      "meaning": "việc quét"
-    },
-    {
-      "word": "掃海",
-      "reading": "そうかい",
-      "meaning": "quét mìn"
-    },
-    {
-      "word": "掃蕩",
-      "reading": "そうとう",
-      "meaning": "quét hoặc thu dọn"
-    },
-    {
-      "word": "掃射",
-      "reading": "そうしゃ",
-      "meaning": "quét với lửa"
-    },
-    {
-      "word": "掃く",
-      "reading": "はく",
-      "meaning": "quét"
-    },
-    {
       "word": "掃除",
       "reading": "そうじ",
       "meaning": "sự quét tước"
-    },
-    {
-      "word": "掃討",
-      "reading": "そうとう",
-      "meaning": "sự thu dọn"
     },
     {
       "word": "清掃",
@@ -134,9 +99,44 @@
       "meaning": "sự quét tước"
     },
     {
-      "word": "掃滅",
-      "reading": "そうめつ",
-      "meaning": "sự tiêu diệt"
+      "word": "掃く",
+      "reading": "はく",
+      "meaning": "quét"
+    },
+    {
+      "word": "掃除人",
+      "reading": "そうじにん",
+      "meaning": "người lau chùi"
+    },
+    {
+      "word": "大掃除",
+      "reading": "おおそうじ",
+      "meaning": "việc quét dọn nhà cửa sạch sẽ nhà cửa vào dịp mùa xuân"
+    },
+    {
+      "word": "掃除機",
+      "reading": "そうじき",
+      "meaning": "máy hút bụi"
+    },
+    {
+      "word": "掃除口",
+      "reading": "そうじくち",
+      "meaning": "cống vệ sinh"
+    },
+    {
+      "word": "掃除器",
+      "reading": "そうじき",
+      "meaning": "máy hút bụi"
+    },
+    {
+      "word": "耳掃除",
+      "reading": "みみそうじ",
+      "meaning": "làm sạch tai"
+    },
+    {
+      "word": "掃除魚",
+      "reading": "そうじうお",
+      "meaning": "cá lau chùi"
     }
   ]
 }

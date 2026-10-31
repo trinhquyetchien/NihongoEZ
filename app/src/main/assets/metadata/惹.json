@@ -89,24 +89,19 @@
       "meaning": "thu hút"
     },
     {
-      "word": "惹句",
-      "reading": "じゃっく",
-      "meaning": "khẩu hiệu"
-    },
-    {
       "word": "惹起",
       "reading": "じゃっき",
       "meaning": "dẫn đến"
     },
     {
-      "word": "惹起する",
-      "reading": "じゃっきする",
-      "meaning": "dẫn đến"
+      "word": "惹句",
+      "reading": "じゃっく",
+      "meaning": "khẩu hiệu"
     },
     {
-      "word": "心を惹く",
-      "reading": "こころをひく",
-      "meaning": "dễ coi"
+      "word": "心惹かれる",
+      "reading": "こころひかれる",
+      "meaning": "bị thu hút"
     },
     {
       "word": "惹きつける",
@@ -119,9 +114,14 @@
       "meaning": "thu hút"
     },
     {
-      "word": "心惹かれる",
-      "reading": "こころひかれる",
-      "meaning": "bị thu hút"
+      "word": "心を惹く",
+      "reading": "こころをひく",
+      "meaning": "dễ coi"
+    },
+    {
+      "word": "惹起する",
+      "reading": "じゃっきする",
+      "meaning": "dẫn đến"
     },
     {
       "word": "声に惹かれる",

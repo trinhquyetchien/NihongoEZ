@@ -90,14 +90,29 @@
   ],
   "vocabulary": [
     {
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "gái"
+    },
+    {
       "word": "性",
       "reading": "せい",
       "meaning": "giới tính"
     },
     {
-      "word": "男性性",
-      "reading": "だんせいせい",
-      "meaning": "tính nam tính"
+      "word": "酸性",
+      "reading": "さんせい",
+      "meaning": "tính a xít"
+    },
+    {
+      "word": "異性",
+      "reading": "いせい",
+      "meaning": "giới tính khác"
+    },
+    {
+      "word": "間性",
+      "reading": "かんせい",
+      "meaning": "tính"
     },
     {
       "word": "女性性",
@@ -105,39 +120,24 @@
       "meaning": "tính nữ"
     },
     {
-      "word": "性同一性",
-      "reading": "せいどういつせい",
-      "meaning": "bản dạng giới"
+      "word": "法性",
+      "reading": "ほっしょう",
+      "meaning": "bản chất thực sự của tất cả các hiện tượng hiển hiện"
     },
     {
-      "word": "性能特性",
-      "reading": "せいのうとくせい",
-      "meaning": "đặc trưng thực hiện"
+      "word": "男性性",
+      "reading": "だんせいせい",
+      "meaning": "tính nam tính"
     },
     {
-      "word": "女性性器",
-      "reading": "じょせいせいき",
-      "meaning": "cơ quan sinh dục nữ"
-    },
-    {
-      "word": "性器的性格",
-      "reading": "せいきてきせいかく",
-      "meaning": "sự phát triển của tâm lý sinh dục"
+      "word": "食性",
+      "reading": "しょくせい",
+      "meaning": "thuộc tính ăn"
     },
     {
       "word": "性技",
       "reading": "せいぎ",
       "meaning": "kỹ năng làm tình"
-    },
-    {
-      "word": "溶性",
-      "reading": "ようせい",
-      "meaning": "độ hoà tan"
-    },
-    {
-      "word": "アルカリ性",
-      "reading": "アルカリせい",
-      "meaning": "tính bazơ"
     }
   ]
 }

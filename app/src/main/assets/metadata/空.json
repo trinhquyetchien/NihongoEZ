@@ -101,39 +101,14 @@
       "meaning": "bầu trời"
     },
     {
-      "word": "空空",
-      "reading": "くうくう",
-      "meaning": "rỗng"
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "không khí"
     },
     {
-      "word": "空対空",
-      "reading": "くうたいくう",
-      "meaning": "không đối không"
-    },
-    {
-      "word": "空理空論",
-      "reading": "くうりくうろん",
-      "meaning": "lý thuyết không thực tế hoặc vô ích"
-    },
-    {
-      "word": "空対空ミサイル",
-      "reading": "くうたいくうミサイル",
-      "meaning": "tên lửa không"
-    },
-    {
-      "word": "空空漠漠",
-      "reading": "くうくうばくばく",
-      "meaning": "rộng lớn"
-    },
-    {
-      "word": "空空しい",
-      "reading": "そらぞらしい",
-      "meaning": "sai"
-    },
-    {
-      "word": "時空空間",
-      "reading": "じくうくうかん",
-      "meaning": "không gian thời gian"
+      "word": "航空",
+      "reading": "こうくう",
+      "meaning": "hàng không"
     },
     {
       "word": "空き",
@@ -141,9 +116,34 @@
       "meaning": "chỗ trống"
     },
     {
+      "word": "空く",
+      "reading": "あく",
+      "meaning": "trống"
+    },
+    {
+      "word": "空中",
+      "reading": "くうちゅう",
+      "meaning": "không trung"
+    },
+    {
+      "word": "真空",
+      "reading": "しんくう",
+      "meaning": "chân không"
+    },
+    {
       "word": "空想",
       "reading": "くうそう",
       "meaning": "sự không tưởng"
+    },
+    {
+      "word": "上空",
+      "reading": "じょうくう",
+      "meaning": "bầu trời"
+    },
+    {
+      "word": "空の",
+      "reading": "からの",
+      "meaning": "trống"
     }
   ]
 }

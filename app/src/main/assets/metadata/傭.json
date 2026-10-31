@@ -52,6 +52,11 @@
   ],
   "vocabulary": [
     {
+      "word": "傭兵",
+      "reading": "ようへい",
+      "meaning": "lính đánh thuê"
+    },
+    {
       "word": "傭",
       "reading": "やとい",
       "meaning": "người lao động"
@@ -62,14 +67,19 @@
       "meaning": "sự thuê tàu"
     },
     {
-      "word": "傭聘",
-      "reading": "ようへい",
-      "meaning": "chiêu mộ và tuyển dụng"
-    },
-    {
       "word": "雇傭",
       "reading": "こよう",
       "meaning": "việc làm"
+    },
+    {
+      "word": "雇傭者",
+      "reading": "こようしゃ",
+      "meaning": "người làm"
+    },
+    {
+      "word": "傭聘",
+      "reading": "ようへい",
+      "meaning": "chiêu mộ và tuyển dụng"
     },
     {
       "word": "日傭",
@@ -87,19 +97,9 @@
       "meaning": "người làm"
     },
     {
-      "word": "傭兵",
-      "reading": "ようへい",
-      "meaning": "lính đánh thuê"
-    },
-    {
       "word": "傭い兵",
       "reading": "やといへい",
       "meaning": "lính đánh thuê đi lính"
-    },
-    {
-      "word": "雇傭者",
-      "reading": "こようしゃ",
-      "meaning": "người làm"
     }
   ]
 }

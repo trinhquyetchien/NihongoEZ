@@ -96,29 +96,39 @@
       "meaning": "khói"
     },
     {
-      "word": "卒煙",
-      "reading": "そつえん",
-      "meaning": "bỏ thuốc"
+      "word": "禁煙",
+      "reading": "きんえん",
+      "meaning": "cấm hỏa"
     },
     {
-      "word": "防煙",
-      "reading": "ぼうえん",
-      "meaning": "sự chống khói"
+      "word": "煙い",
+      "reading": "けむい",
+      "meaning": "ngạt khói"
     },
     {
-      "word": "煙霞",
-      "reading": "えんか",
-      "meaning": "khói và sương mù"
+      "word": "喫煙",
+      "reading": "きつえん",
+      "meaning": "sự hút thuốc"
     },
     {
-      "word": "煙毒",
-      "reading": "えんどく",
-      "meaning": "hút thuốc sự ô nhiễm"
+      "word": "煙道",
+      "reading": "えんどう",
+      "meaning": "ống dẫn khí từ nồi súp de ra ống khói"
     },
     {
-      "word": "煙雨",
-      "reading": "えんう",
-      "meaning": "mưa phùn"
+      "word": "白煙",
+      "reading": "はくえん",
+      "meaning": "khói trắng"
+    },
+    {
+      "word": "煙死",
+      "reading": "えんし",
+      "meaning": "sự tử vong do nghẹt thở vì khói hay khí độc"
+    },
+    {
+      "word": "黒煙",
+      "reading": "こくえん",
+      "meaning": "khói đen"
     },
     {
       "word": "煙弾",
@@ -126,19 +136,9 @@
       "meaning": "hút thuốc bom"
     },
     {
-      "word": "煙管",
-      "reading": "えんかん",
-      "meaning": "ống khói"
-    },
-    {
-      "word": "濃煙",
-      "reading": "のうえん",
-      "meaning": "khói thuốc dày"
-    },
-    {
-      "word": "人煙",
-      "reading": "じんえん",
-      "meaning": "hút thuốc từ những chỗ ở con người"
+      "word": "煙玉",
+      "reading": "けむりだま",
+      "meaning": "bom khói"
     }
   ]
 }

@@ -87,9 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "苛苛",
-      "reading": "いらいら",
-      "meaning": "lo lắng"
+      "word": "苛立ち",
+      "reading": "いらだち",
+      "meaning": "khó chịu"
     },
     {
       "word": "苛ち",
@@ -97,19 +97,19 @@
       "meaning": "vội vàng"
     },
     {
-      "word": "苛斂",
-      "reading": "かれん",
-      "meaning": "sự đàn áp"
+      "word": "苛々",
+      "reading": "いらいら",
+      "meaning": "sốt ruột"
     },
     {
-      "word": "苛政",
-      "reading": "かせい",
-      "meaning": "chế độ chuyên chế"
+      "word": "苛つく",
+      "reading": "いらつく",
+      "meaning": "để bị chọc tức"
     },
     {
-      "word": "苛性",
-      "reading": "かせい",
-      "meaning": "chất ăn da"
+      "word": "苛め",
+      "reading": "いじめ",
+      "meaning": "sự bắt nạt"
     },
     {
       "word": "苛烈",
@@ -117,24 +117,24 @@
       "meaning": "khốc liệt"
     },
     {
-      "word": "苛虐",
-      "reading": "かぎゃく",
-      "meaning": "sự đối xử tàn bạo"
+      "word": "苛酷",
+      "reading": "かこく",
+      "meaning": "tính nghiêm khắc"
     },
     {
-      "word": "苛税",
-      "reading": "かぜい",
-      "meaning": "thuế nặng"
+      "word": "苛立つ",
+      "reading": "いらだつ",
+      "meaning": "bị chọc tức"
     },
     {
-      "word": "苛む",
-      "reading": "さいなむ",
-      "meaning": "sự giày vò"
+      "word": "苛める",
+      "reading": "いじめる",
+      "meaning": "bắt nạt"
     },
     {
-      "word": "苛め",
-      "reading": "いじめ",
-      "meaning": "sự bắt nạt"
+      "word": "苛政",
+      "reading": "かせい",
+      "meaning": "chế độ chuyên chế"
     }
   ]
 }

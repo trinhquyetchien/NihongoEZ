@@ -72,24 +72,9 @@
       "meaning": "ngọn cây"
     },
     {
-      "word": "黄梢",
-      "reading": "こうしょう",
-      "meaning": "bất ngờ đưa ra màu vàng những chồi nụ"
-    },
-    {
-      "word": "梢子",
-      "reading": "しょうし",
-      "meaning": "người chèo thuyền"
-    },
-    {
       "word": "末梢",
       "reading": "まっしょう",
       "meaning": "bắt đỉnh trốn lên cây"
-    },
-    {
-      "word": "樹梢",
-      "reading": "じゅしょう",
-      "meaning": "ngọn cây"
     },
     {
       "word": "末梢的",
@@ -97,9 +82,24 @@
       "meaning": "bình thường"
     },
     {
+      "word": "梢子",
+      "reading": "しょうし",
+      "meaning": "người chèo thuyền"
+    },
+    {
+      "word": "樹梢",
+      "reading": "じゅしょう",
+      "meaning": "ngọn cây"
+    },
+    {
       "word": "松の梢",
       "reading": "まつのこずえ",
       "meaning": "ngọn cây thông"
+    },
+    {
+      "word": "黄梢",
+      "reading": "こうしょう",
+      "meaning": "bất ngờ đưa ra màu vàng những chồi nụ"
     },
     {
       "word": "末梢神経",
@@ -107,14 +107,14 @@
       "meaning": "thần kinh ngoại vi"
     },
     {
-      "word": "未梢血管",
-      "reading": "みこずえけっかん",
-      "meaning": "mạch máu ở cơ thể người giống nguyên lí của 1 cái cây"
-    },
-    {
       "word": "末梢神経系",
       "reading": "まっしょうしんけいけい",
       "meaning": "hệ thần kinh ngoại biên"
+    },
+    {
+      "word": "未梢血管",
+      "reading": "みこずえけっかん",
+      "meaning": "mạch máu ở cơ thể người giống nguyên lí của 1 cái cây"
     }
   ]
 }

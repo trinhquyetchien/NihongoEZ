@@ -66,14 +66,14 @@
   ],
   "vocabulary": [
     {
-      "word": "渾沌",
-      "reading": "こんとん",
-      "meaning": "sự lộn xộn"
-    },
-    {
       "word": "混沌",
       "reading": "こんとん",
       "meaning": "sự lẫn lộn"
+    },
+    {
+      "word": "渾沌",
+      "reading": "こんとん",
+      "meaning": "sự lộn xộn"
     },
     {
       "word": "混沌としている",

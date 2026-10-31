@@ -89,29 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "快",
-      "reading": "かい",
-      "meaning": "sự dễ chịu"
+      "word": "快適",
+      "reading": "かいてき",
+      "meaning": "sảng khoái"
     },
     {
-      "word": "快快的",
-      "reading": "カイカイデ",
-      "meaning": "vội"
-    },
-    {
-      "word": "快食快便",
-      "reading": "かいしょくかいべん",
-      "meaning": "khoẻ mạnh"
-    },
-    {
-      "word": "快食快眠",
-      "reading": "かいしょくかいみん",
-      "meaning": "ăn tốt"
-    },
-    {
-      "word": "快-不快の原則",
-      "reading": "かい-ふかいのげんそく",
-      "meaning": "nguyên tắc niềm vui - nỗi đau"
+      "word": "愉快",
+      "reading": "ゆかい",
+      "meaning": "hài lòng"
     },
     {
       "word": "軽快",
@@ -119,9 +104,19 @@
       "meaning": "nhịp nhàng"
     },
     {
-      "word": "快適",
-      "reading": "かいてき",
-      "meaning": "sảng khoái"
+      "word": "全快",
+      "reading": "ぜんかい",
+      "meaning": "sự khôi phục lại hoàn toàn sức khoẻ"
+    },
+    {
+      "word": "不快",
+      "reading": "ふかい",
+      "meaning": "không khoái"
+    },
+    {
+      "word": "快感",
+      "reading": "かいかん",
+      "meaning": "cảm giác thú vị"
     },
     {
       "word": "快楽",
@@ -129,14 +124,19 @@
       "meaning": "lạc thú"
     },
     {
-      "word": "快調",
-      "reading": "かいちょう",
-      "meaning": "sự hài hoà"
+      "word": "快",
+      "reading": "かい",
+      "meaning": "sự dễ chịu"
     },
     {
-      "word": "快活",
-      "reading": "かいかつ",
-      "meaning": "vui vẻ"
+      "word": "快心",
+      "reading": "かいしん",
+      "meaning": "dễ chịu"
+    },
+    {
+      "word": "快味",
+      "reading": "かいみ",
+      "meaning": "thích thú"
     }
   ]
 }

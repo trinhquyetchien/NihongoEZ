@@ -83,39 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "儒",
-      "reading": "じゅ",
-      "meaning": "đạo khổng"
+      "word": "儒教",
+      "reading": "じゅきょう",
+      "meaning": "nho giáo"
     },
     {
-      "word": "大儒",
-      "reading": "たいじゅ",
-      "meaning": "người có học lớn"
-    },
-    {
-      "word": "俗儒",
-      "reading": "ぞくじゅ",
-      "meaning": "người có học tầm thường"
-    },
-    {
-      "word": "師儒",
-      "reading": "しじゅ",
-      "meaning": "giáo viên"
-    },
-    {
-      "word": "碩儒",
-      "reading": "せきじゅ",
-      "meaning": "người có học"
-    },
-    {
-      "word": "儒道",
-      "reading": "じゅどう",
-      "meaning": "đạo khổng"
-    },
-    {
-      "word": "儒生",
-      "reading": "じゅせい",
-      "meaning": "người có học nho giáo"
+      "word": "儒教的",
+      "reading": "じゅきょうてき",
+      "meaning": "người ủng hộ khổng tử"
     },
     {
       "word": "儒学",
@@ -123,14 +98,39 @@
       "meaning": "nho học"
     },
     {
-      "word": "儒仏",
-      "reading": "じゅぶつ",
-      "meaning": "học thuyết khổng tử và đạo phật"
+      "word": "儒学者",
+      "reading": "じゅがくしゃ",
+      "meaning": "đồ nho"
     },
     {
-      "word": "儒官",
-      "reading": "じゅかん",
-      "meaning": "người phụ trách về nho giáo"
+      "word": "儒学界",
+      "reading": "じゅがくかい",
+      "meaning": "nhà nho xoay quanh"
+    },
+    {
+      "word": "儒",
+      "reading": "じゅ",
+      "meaning": "đạo khổng"
+    },
+    {
+      "word": "師儒",
+      "reading": "しじゅ",
+      "meaning": "giáo viên"
+    },
+    {
+      "word": "儒者",
+      "reading": "じゅしゃ",
+      "meaning": "người theo đạo khổng"
+    },
+    {
+      "word": "坑儒",
+      "reading": "こうじゅ",
+      "meaning": "việc chôn sống những người theo nho học"
+    },
+    {
+      "word": "儒家",
+      "reading": "じゅか",
+      "meaning": "người theo đạo khổng"
     }
   ]
 }

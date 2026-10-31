@@ -88,29 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "潟",
-      "reading": "かた",
-      "meaning": "phá"
-    },
-    {
       "word": "新潟",
       "reading": "にいがた",
       "meaning": "tỉnh niigata"
-    },
-    {
-      "word": "潟湖",
-      "reading": "せきこ",
-      "meaning": "phá"
-    },
-    {
-      "word": "干潟",
-      "reading": "ひがた",
-      "meaning": "bãi cát lộ ra sau khi thủy triều xuống"
-    },
-    {
-      "word": "難波潟",
-      "reading": "なにわがた",
-      "meaning": "vịnh naniwa"
     },
     {
       "word": "新潟県",
@@ -118,14 +98,34 @@
       "meaning": "tỉnh niigata"
     },
     {
-      "word": "潮干潟",
-      "reading": "しおひがた",
-      "meaning": "bãi triều"
+      "word": "潟",
+      "reading": "かた",
+      "meaning": "phá"
+    },
+    {
+      "word": "潟湖",
+      "reading": "せきこ",
+      "meaning": "phá"
+    },
+    {
+      "word": "難波潟",
+      "reading": "なにわがた",
+      "meaning": "vịnh naniwa"
     },
     {
       "word": "明石潟",
       "reading": "あかしがた",
       "meaning": "hoa sơn trà mùa đông"
+    },
+    {
+      "word": "干潟",
+      "reading": "ひがた",
+      "meaning": "bãi cát lộ ra sau khi thủy triều xuống"
+    },
+    {
+      "word": "潮干潟",
+      "reading": "しおひがた",
+      "meaning": "bãi triều"
     },
     {
       "word": "八郎潟",

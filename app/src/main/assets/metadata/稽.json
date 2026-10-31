@@ -94,29 +94,29 @@
       "meaning": "sự khổ luyện"
     },
     {
-      "word": "稽首",
-      "reading": "けいしゅ",
-      "meaning": "sự cúi lạy"
-    },
-    {
       "word": "滑稽",
       "reading": "こっけい",
       "meaning": "buồn cười"
     },
     {
-      "word": "無稽",
-      "reading": "むけい",
-      "meaning": "không được hỗ trợ"
+      "word": "稽古日",
+      "reading": "けいこび",
+      "meaning": "ngày cho bài học ai đó"
     },
     {
-      "word": "稽古場",
-      "reading": "けいこば",
-      "meaning": "phòng tập thể dục"
+      "word": "お稽古",
+      "reading": "おけいこ",
+      "meaning": "sự luyện tập"
     },
     {
-      "word": "山稽古",
-      "reading": "やまげいこ",
-      "meaning": "thực hành ngoài trời"
+      "word": "稽古事",
+      "reading": "けいこごと",
+      "meaning": "những bài học"
+    },
+    {
+      "word": "稽古本",
+      "reading": "けいこぼん",
+      "meaning": "sách dùng để tập các bài noh"
     },
     {
       "word": "代稽古",
@@ -124,19 +124,19 @@
       "meaning": "giáo viên dạy thay"
     },
     {
+      "word": "稽古場",
+      "reading": "けいこば",
+      "meaning": "phòng tập thể dục"
+    },
+    {
       "word": "朝稽古",
       "reading": "あさげいこ",
       "meaning": "thể dục buổi sáng"
     },
     {
-      "word": "下稽古",
-      "reading": "したげいこ",
-      "meaning": "sự luyện tập để trình diễn"
-    },
-    {
-      "word": "滑稽本",
-      "reading": "こっけいぼん",
-      "meaning": "sách hài hước"
+      "word": "稽古着",
+      "reading": "けいこぎ",
+      "meaning": "quần áo thể thao"
     }
   ]
 }

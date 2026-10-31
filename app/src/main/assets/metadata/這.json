@@ -87,39 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "這這",
-      "reading": "ほうほう",
-      "meaning": "không rõ ràng"
-    },
-    {
-      "word": "這い這い",
-      "reading": "はいはい",
-      "meaning": "dần dần"
-    },
-    {
       "word": "這う",
       "reading": "はう",
       "meaning": "bò"
-    },
-    {
-      "word": "這々",
-      "reading": "ほうほう",
-      "meaning": "không rõ ràng"
-    },
-    {
-      "word": "這杜松",
-      "reading": "はいねず",
-      "meaning": "cây bách xù bờ biển"
-    },
-    {
-      "word": "夜這い",
-      "reading": "よばい",
-      "meaning": "sự đến thăm nhà bạn gái vào ban đêm"
-    },
-    {
-      "word": "這柏槇",
-      "reading": "はいびゃくしん",
-      "meaning": "cây bách xù vườn nhật lùn"
     },
     {
       "word": "這い松",
@@ -127,14 +97,44 @@
       "meaning": "việc bò héo hon"
     },
     {
-      "word": "腹這い",
-      "reading": "はらばい",
-      "meaning": "nói dối trên một có căng phồng"
+      "word": "夜這い",
+      "reading": "よばい",
+      "meaning": "sự đến thăm nhà bạn gái vào ban đêm"
     },
     {
       "word": "腹這う",
       "reading": "はらばう",
       "meaning": "ngủ nằm sấp"
+    },
+    {
+      "word": "這々",
+      "reading": "ほうほう",
+      "meaning": "không rõ ràng"
+    },
+    {
+      "word": "腹這い",
+      "reading": "はらばい",
+      "meaning": "nói dối trên một có căng phồng"
+    },
+    {
+      "word": "横這い",
+      "reading": "よこばい",
+      "meaning": "qua một bên bò một cua bể)"
+    },
+    {
+      "word": "夜這星",
+      "reading": "よばいぼし",
+      "meaning": "sao băng"
+    },
+    {
+      "word": "這這",
+      "reading": "ほうほう",
+      "meaning": "không rõ ràng"
+    },
+    {
+      "word": "這杜松",
+      "reading": "はいねず",
+      "meaning": "cây bách xù bờ biển"
     }
   ]
 }

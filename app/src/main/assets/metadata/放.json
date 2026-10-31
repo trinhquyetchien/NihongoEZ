@@ -111,19 +111,14 @@
   ],
   "vocabulary": [
     {
-      "word": "民放",
-      "reading": "みんぽう",
-      "meaning": "đài truyền hình tư nhân"
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "sự phát thanh"
     },
     {
-      "word": "放射能ハザードの放出",
-      "reading": "ほーしゃのーハザードのほーしゅつ",
-      "meaning": "nguy cơ rò rỉ phóng xạ"
-    },
-    {
-      "word": "釈放",
-      "reading": "しゃくほう",
-      "meaning": "sự phóng thích"
+      "word": "放す",
+      "reading": "はなす",
+      "meaning": "buông tay"
     },
     {
       "word": "解放",
@@ -131,34 +126,39 @@
       "meaning": "giải cấp phát"
     },
     {
-      "word": "放漫",
-      "reading": "ほうまん",
-      "meaning": "tính chất kỳ dị"
+      "word": "放る",
+      "reading": "ほうる",
+      "meaning": "bỏ"
     },
     {
-      "word": "放鷹",
-      "reading": "ほうよう",
-      "meaning": "nghề nuôi chim ưng"
+      "word": "放置",
+      "reading": "ほうち",
+      "meaning": "đặt để tự do không để ý đến vị trí"
     },
     {
-      "word": "放光",
-      "reading": "ほうこう",
-      "meaning": "sự phát xạ ánh sáng"
+      "word": "放棄",
+      "reading": "ほうき",
+      "meaning": "sự vứt bỏ"
     },
     {
-      "word": "放く",
-      "reading": "こく",
-      "meaning": "thả ra"
+      "word": "放射",
+      "reading": "ほうしゃ",
+      "meaning": "phóng xạ"
     },
     {
-      "word": "下放",
-      "reading": "かほう",
-      "meaning": "hạ nhanh"
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "sự đuổi đi"
     },
     {
-      "word": "放言",
-      "reading": "ほうげん",
-      "meaning": "tiếng địa phương"
+      "word": "放題",
+      "reading": "ほうだい",
+      "meaning": "không giới hạn"
+    },
+    {
+      "word": "放映",
+      "reading": "ほうえい",
+      "meaning": "sự phát hình"
     }
   ]
 }

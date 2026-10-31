@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "移植",
-      "reading": "いしょく",
-      "meaning": "việc mang cây đi trồng chỗ khác"
-    },
-    {
-      "word": "移住",
-      "reading": "いじゅう",
-      "meaning": "sự di trú"
-    },
-    {
-      "word": "移行",
-      "reading": "いこう",
-      "meaning": "di chuyển"
+      "word": "移る",
+      "reading": "うつる",
+      "meaning": "chuyển sang"
     },
     {
       "word": "移動",
@@ -110,9 +100,24 @@
       "meaning": "sự di chuyển"
     },
     {
+      "word": "移す",
+      "reading": "うつす",
+      "meaning": "di"
+    },
+    {
       "word": "移転",
       "reading": "いてん",
       "meaning": "di"
+    },
+    {
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "di chuyển"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaning": "sự di trú"
     },
     {
       "word": "移民",
@@ -120,24 +125,19 @@
       "meaning": "dân di cư"
     },
     {
-      "word": "移り",
-      "reading": "うつり",
-      "meaning": "sự di chuyển"
+      "word": "移動式",
+      "reading": "いどうしき",
+      "meaning": "di động"
     },
     {
-      "word": "移築",
-      "reading": "いちく",
-      "meaning": "tháo dỡ một tòa nhà lịch sử và xây dựng lại nó ở nơi khác"
+      "word": "移動局",
+      "reading": "いどうきょく",
+      "meaning": "trạm đầu cuối di động"
     },
     {
-      "word": "移入",
-      "reading": "いにゅう",
-      "meaning": "nhập cư"
-    },
-    {
-      "word": "移牒",
-      "reading": "いちょう",
-      "meaning": "thông báo cho chính quyền"
+      "word": "移行性",
+      "reading": "いこうせい",
+      "meaning": "chuyển tiếp"
     }
   ]
 }

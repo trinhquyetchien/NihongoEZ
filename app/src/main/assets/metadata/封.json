@@ -88,39 +88,29 @@
   ],
   "vocabulary": [
     {
+      "word": "封筒",
+      "reading": "ふうとう",
+      "meaning": "bao thư"
+    },
+    {
+      "word": "封鎖",
+      "reading": "ふうさ",
+      "meaning": "sự phong tỏa"
+    },
+    {
       "word": "封",
       "reading": "ふう",
       "meaning": "miệng bì thư"
     },
     {
-      "word": "封筒(クラフト封筒 等)",
-      "reading": "",
-      "meaning": "phong bì"
+      "word": "封建",
+      "reading": "ほうけん",
+      "meaning": "phong kiến"
     },
     {
-      "word": "開封",
-      "reading": "かいふう",
-      "meaning": "thư không niêm phong"
-    },
-    {
-      "word": "一封",
-      "reading": "いっぷう",
-      "meaning": "thư niêm phong"
-    },
-    {
-      "word": "密封",
-      "reading": "みっぷう",
-      "meaning": "sự bịt kín"
-    },
-    {
-      "word": "封禅",
-      "reading": "ほうぜん",
-      "meaning": "nghi thức cúng thần cổ xưa của trung hoa"
-    },
-    {
-      "word": "完封",
-      "reading": "かんぷう",
-      "meaning": "1. sự đóng hoàn toàn 2. sự ngăn chặn không cho đối phương ghi bàn"
+      "word": "同封",
+      "reading": "どうふう",
+      "meaning": "sự gửi kèm theo"
     },
     {
       "word": "封印",
@@ -128,14 +118,24 @@
       "meaning": "niêm phong"
     },
     {
-      "word": "二封",
-      "reading": "にふう",
-      "meaning": "bắt buộc ngoài trên giây"
+      "word": "開封",
+      "reading": "かいふう",
+      "meaning": "thư không niêm phong"
     },
     {
-      "word": "三封",
-      "reading": "さんぷう",
-      "meaning": "việc bị loại ở gôn ba do luật ép buộc chạy"
+      "word": "未開封",
+      "reading": "みかいふう",
+      "meaning": "chưa bóc vỏ"
+    },
+    {
+      "word": "再封鎖",
+      "reading": "さいふうさ",
+      "meaning": "sự phong tỏa lại"
+    },
+    {
+      "word": "一封",
+      "reading": "いっぷう",
+      "meaning": "thư niêm phong"
     }
   ]
 }

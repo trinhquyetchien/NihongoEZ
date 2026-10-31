@@ -106,44 +106,24 @@
   ],
   "vocabulary": [
     {
-      "word": "消防/防災/防犯標識",
-      "reading": "しょうぼう/ぼうさい/ぼうはんひょうしき",
-      "meaning": "biển báo phòng cháy chữa cháy/ phòng chống thiên tai/ phòng chống tội phạm"
-    },
-    {
-      "word": "防振ゴム/防振パッド/防振装置",
-      "reading": "ぼうしんゴム/ぼうしんパッド/ぼうしんそうち",
-      "meaning": "cao su chống rung/pad chống rung/thiết bị chống rung"
-    },
-    {
-      "word": "防腐/防虫",
-      "reading": "ぼうふ/ぼうちゅう",
-      "meaning": "chống thấm/chống côn trùng"
-    },
-    {
-      "word": "防災防犯標識",
-      "reading": "ぼうさいぼうはんひょうしき",
-      "meaning": "biển báo phòng chống thiên tai và tội phạm"
-    },
-    {
-      "word": "ぼうとり 防鳥ネット",
-      "reading": "防鳥ネット",
-      "meaning": "lưới chống chim"
-    },
-    {
-      "word": "防蟻",
-      "reading": "ぼうぎ",
-      "meaning": "chống mối mọt"
-    },
-    {
-      "word": "防爆",
-      "reading": "ぼうばく",
-      "meaning": "ngăn chặn thiệt hại của vụ nổ"
-    },
-    {
       "word": "消防",
       "reading": "しょうぼう",
       "meaning": "sự cứu hoả"
+    },
+    {
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "phòng cháy"
+    },
+    {
+      "word": "防犯",
+      "reading": "ぼうはん",
+      "meaning": "sự phòng chống tội phạm"
+    },
+    {
+      "word": "防衛",
+      "reading": "ぼうえい",
+      "meaning": "sự bảo vệ"
     },
     {
       "word": "国防",
@@ -151,9 +131,29 @@
       "meaning": "quốc phòng"
     },
     {
-      "word": "防錆",
-      "reading": "ぼうせい",
-      "meaning": "chất chống rỉ sét"
+      "word": "堤防",
+      "reading": "ていぼう",
+      "meaning": "đê điều"
+    },
+    {
+      "word": "防災",
+      "reading": "ぼうさい",
+      "meaning": "sự phòng chống thiên tai"
+    },
+    {
+      "word": "防備",
+      "reading": "ぼうび",
+      "meaning": "sự phòng thủ"
+    },
+    {
+      "word": "防水",
+      "reading": "ぼうすい",
+      "meaning": "chống nước"
+    },
+    {
+      "word": "防炎",
+      "reading": "ぼうえん",
+      "meaning": "sự ngăn ngừa hoả hoạn"
     }
   ]
 }

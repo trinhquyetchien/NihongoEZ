@@ -204,25 +204,18 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                     painter = painterResource(id = R.drawable.logo),
                     contentDescription = "Onis Logo",
                     modifier = Modifier
-                        .size(52.dp)
-                        .clip(RoundedCornerShape(12.dp))
+                        .size(40.dp)
+                        .clip(RoundedCornerShape(10.dp))
                 )
-                Spacer(Modifier.width(16.dp))
-                Column {
-                    Text(
-                        "Onis Kanji",
-                        style = MaterialTheme.typography.headlineMedium,
-                        fontWeight = FontWeight.ExtraBold,
-                        color = MaterialTheme.colorScheme.primary
-                    )
-                    Text(
-                        "Vẽ và nhận diện chữ Hán Offline",
-                        style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                    )
-                }
+                Spacer(Modifier.width(12.dp))
+                Text(
+                    "Onis Kanji",
+                    style = MaterialTheme.typography.titleLarge,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.primary
+                )
             }
-            Spacer(Modifier.height(20.dp))
+            Spacer(Modifier.height(14.dp))
         }
 
         item {
@@ -423,16 +416,11 @@ fun TranslateAnalyzeScreen(
         item {
             Text(
                 "Phân tích Từ & Ngữ pháp",
-                style = MaterialTheme.typography.headlineSmall,
+                style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.primary
             )
-            Text(
-                "Nhập câu tiếng Nhật hoặc vẽ chữ Hán để phân tích 100% Offline",
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
-            Spacer(Modifier.height(16.dp))
+            Spacer(Modifier.height(12.dp))
         }
 
         item {
@@ -441,7 +429,6 @@ fun TranslateAnalyzeScreen(
                 value = viewModel.inputText,
                 onValueChange = { viewModel.inputText = it },
                 label = { Text("Nhập câu hoặc văn bản tiếng Nhật") },
-                placeholder = { Text("Ví dụ: 私は日本語を勉強しています。明日学校へ行きます。") },
                 modifier = Modifier.fillMaxWidth(),
                 trailingIcon = {
                     IconButton(onClick = {
@@ -842,7 +829,7 @@ fun TranslateAnalyzeScreen(
 }
 
 // -------------------------------------------------------------------------
-// COMPONENT TỪ VỰNG 1 DÒNG (SINGLE LINE)
+// COMPONENT TỪ VỰNG (CARD LINH HOẠT XUỐNG DÒNG)
 // -------------------------------------------------------------------------
 @Composable
 fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
@@ -856,57 +843,60 @@ fun SingleLineTokenCard(index: Int, token: TokenAnalysis) {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(horizontal = 10.dp, vertical = 7.dp),
-            verticalAlignment = Alignment.CenterVertically
+            verticalAlignment = Alignment.Top
         ) {
             Text(
                 "$index.",
                 style = MaterialTheme.typography.labelMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.width(24.dp)
+                modifier = Modifier
+                    .width(24.dp)
+                    .padding(top = 2.dp)
             )
 
-            // Từ vựng + Furigana
-            Row(
-                verticalAlignment = Alignment.CenterVertically,
+            // Từ vựng + Furigana + Nghĩa
+            Column(
                 modifier = Modifier.weight(1f)
             ) {
-                Text(
-                    token.surface,
-                    fontWeight = FontWeight.Bold,
-                    style = MaterialTheme.typography.bodyLarge,
-                    color = MaterialTheme.colorScheme.onSurface
-                )
-                if (token.reading.isNotBlank() && token.reading != token.surface) {
-                    Spacer(Modifier.width(6.dp))
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier.fillMaxWidth()
+                ) {
                     Text(
-                        "[${token.reading}]",
-                        style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.primary
+                        token.surface,
+                        fontWeight = FontWeight.Bold,
+                        style = MaterialTheme.typography.bodyLarge,
+                        color = MaterialTheme.colorScheme.onSurface
                     )
+                    if (token.reading.isNotBlank() && token.reading != token.surface) {
+                        Spacer(Modifier.width(6.dp))
+                        Text(
+                            "[${token.reading}]",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                    }
+                    Spacer(Modifier.weight(1f))
+                    Surface(
+                        color = Color(0xFFF1F5F9),
+                        shape = RoundedCornerShape(4.dp)
+                    ) {
+                        Text(
+                            token.partOfSpeech,
+                            style = MaterialTheme.typography.labelSmall,
+                            color = Color(0xFF475569),
+                            modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
+                        )
+                    }
                 }
                 if (!token.meaning.isNullOrBlank()) {
-                    Spacer(Modifier.width(8.dp))
+                    Spacer(Modifier.height(2.dp))
                     Text(
-                        "• ${token.meaning}",
+                        token.meaning,
                         style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        maxLines = 1,
-                        overflow = TextOverflow.Ellipsis
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
                     )
                 }
-            }
-
-            Spacer(Modifier.width(6.dp))
-            Surface(
-                color = Color(0xFFF1F5F9),
-                shape = RoundedCornerShape(4.dp)
-            ) {
-                Text(
-                    token.partOfSpeech,
-                    style = MaterialTheme.typography.labelSmall,
-                    color = Color(0xFF475569),
-                    modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp)
-                )
             }
         }
     }
@@ -1038,7 +1028,6 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
         )
         Spacer(Modifier.height(8.dp))
 
-        // Hiển thị 1 hàng line gọn gàng
         Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
             vocabulary.forEachIndexed { index, vocab ->
                 Surface(
@@ -1051,40 +1040,42 @@ fun VocabularySection(vocabulary: List<KanjiVocab>) {
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(horizontal = 10.dp, vertical = 7.dp),
-                        verticalAlignment = Alignment.CenterVertically
+                        verticalAlignment = Alignment.Top
                     ) {
                         Text(
                             "${index + 1}.",
                             style = MaterialTheme.typography.labelMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
-                            modifier = Modifier.width(22.dp)
+                            modifier = Modifier
+                                .width(22.dp)
+                                .padding(top = 2.dp)
                         )
-                        Row(
-                            verticalAlignment = Alignment.CenterVertically,
-                            modifier = Modifier.weight(1f)
-                        ) {
-                            Text(
-                                vocab.word,
-                                style = MaterialTheme.typography.bodyLarge,
-                                fontWeight = FontWeight.Bold,
-                                color = MaterialTheme.colorScheme.onSurface
-                            )
-                            if (vocab.reading.isNotBlank()) {
-                                Spacer(Modifier.width(6.dp))
+                        Column(modifier = Modifier.weight(1f)) {
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
                                 Text(
-                                    "[${vocab.reading}]",
-                                    style = MaterialTheme.typography.bodyMedium,
-                                    color = MaterialTheme.colorScheme.primary
+                                    vocab.word,
+                                    style = MaterialTheme.typography.bodyLarge,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.onSurface
                                 )
+                                if (vocab.reading.isNotBlank()) {
+                                    Spacer(Modifier.width(6.dp))
+                                    Text(
+                                        "[${vocab.reading}]",
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        color = MaterialTheme.colorScheme.primary
+                                    )
+                                }
                             }
                             if (vocab.meaning.isNotBlank()) {
-                                Spacer(Modifier.width(8.dp))
+                                Spacer(Modifier.height(2.dp))
                                 Text(
-                                    "• ${vocab.meaning}",
+                                    vocab.meaning,
                                     style = MaterialTheme.typography.bodyMedium,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                    maxLines = 1,
-                                    overflow = TextOverflow.Ellipsis
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant
                                 )
                             }
                         }

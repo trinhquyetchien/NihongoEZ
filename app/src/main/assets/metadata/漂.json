@@ -88,34 +88,39 @@
   ],
   "vocabulary": [
     {
-      "word": "漂漂",
-      "reading": "ひょうひょう",
-      "meaning": "nổi"
+      "word": "漂う",
+      "reading": "ただよう",
+      "meaning": "dạt dào"
     },
     {
-      "word": "漂鳥",
-      "reading": "ひょうちょう",
-      "meaning": "loài chim di cư theo mùa"
+      "word": "漂流",
+      "reading": "ひょうりゅう",
+      "meaning": "sự phiêu dạt"
     },
     {
-      "word": "漂動",
-      "reading": "ひょうどう",
-      "meaning": "sự trôi dạt"
+      "word": "漂流者",
+      "reading": "ひょうりゅうしゃ",
+      "meaning": "người trôi dạt trên biển"
     },
     {
-      "word": "漂浪",
-      "reading": "ひょうろう",
-      "meaning": "sự phiêu lãng"
+      "word": "漂流物",
+      "reading": "ひょうりゅうぶつ",
+      "meaning": "vật trôi nổi"
     },
     {
-      "word": "浮漂",
-      "reading": "ふひょう",
-      "meaning": "nổi"
+      "word": "漂流木",
+      "reading": "ひょうりゅうぼく",
+      "meaning": "cây gỗ trôi nổi"
     },
     {
-      "word": "漂着",
-      "reading": "ひょうちゃく",
-      "meaning": "sự dạt vào"
+      "word": "漂流船",
+      "reading": "ひょうりゅうせん",
+      "meaning": "con thuyền trôi dạt"
+    },
+    {
+      "word": "漂流記",
+      "reading": "ひょうりゅうき",
+      "meaning": "kì nghỉ hè 2 năm"
     },
     {
       "word": "漂白",
@@ -123,19 +128,14 @@
       "meaning": "sự tẩy trắng"
     },
     {
-      "word": "漂失",
-      "reading": "ひょうしつ",
-      "meaning": "trôi giạt mất"
+      "word": "漂白剤",
+      "reading": "ひょうはくざい",
+      "meaning": "chất tẩy trắng"
     },
     {
-      "word": "漂砂",
-      "reading": "ひょうさ",
-      "meaning": "trôi dạt cát"
-    },
-    {
-      "word": "漂々",
-      "reading": "ひょうひょう",
-      "meaning": "sự thảnh thơi"
+      "word": "漂着",
+      "reading": "ひょうちゃく",
+      "meaning": "sự dạt vào"
     }
   ]
 }

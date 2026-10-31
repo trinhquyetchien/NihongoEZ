@@ -106,9 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "吸蔵",
-      "reading": "きゅうぞう",
-      "meaning": "hấp thụ"
+      "word": "吸う",
+      "reading": "すう",
+      "meaning": "bú"
+    },
+    {
+      "word": "吸収",
+      "reading": "きゅうしゅう",
+      "meaning": "sự hấp thụ"
     },
     {
       "word": "呼吸",
@@ -116,44 +121,39 @@
       "meaning": "hơi thở"
     },
     {
-      "word": "吸殻",
-      "reading": "すいがら",
-      "meaning": "tàn thuốc lá"
+      "word": "吸収缶",
+      "reading": "きゅうしゅうかん",
+      "meaning": "phin lọc"
     },
     {
-      "word": "吸虫",
-      "reading": "きゅうちゅう",
-      "meaning": "trematoda"
+      "word": "吸収性",
+      "reading": "きゅうしゅうせい",
+      "meaning": "tính hấp thụ"
     },
     {
-      "word": "吸塵",
-      "reading": "きゅうじん",
-      "meaning": "sự hút bụi"
+      "word": "吸収力",
+      "reading": "きゅうしゅうりょく",
+      "meaning": "hút sức mạnh"
     },
     {
-      "word": "蟻吸",
-      "reading": "ありすい",
-      "meaning": "chim vẹo cổ"
+      "word": "内呼吸",
+      "reading": "ないこきゅう",
+      "meaning": "hô hấp nội"
     },
     {
-      "word": "吸血",
-      "reading": "きゅうけつ",
-      "meaning": "sự hút máu"
+      "word": "外呼吸",
+      "reading": "がいこきゅう",
+      "meaning": "hô hấp bên ngoài"
     },
     {
-      "word": "吸着",
-      "reading": "きゅうちゃく",
-      "meaning": "sự hấp thụ"
+      "word": "呼吸法",
+      "reading": "こきゅうほう",
+      "meaning": "kỹ thuật hít thở"
     },
     {
-      "word": "吸入",
-      "reading": "きゅうにゅう",
-      "meaning": "sự hô hấp"
-    },
-    {
-      "word": "吸盤",
-      "reading": "きゅうばん",
-      "meaning": "cơ quan của một số động vật giúp cho chúng bám chặt vào một bề mặt bằng sức hút"
+      "word": "呼吸音",
+      "reading": "こきゅうおん",
+      "meaning": "tiếng thở"
     }
   ]
 }

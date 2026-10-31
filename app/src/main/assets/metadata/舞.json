@@ -91,39 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaning": "bệ"
+    },
+    {
+      "word": "見舞う",
+      "reading": "みまう",
+      "meaning": "đi thăm"
+    },
+    {
+      "word": "舞う",
+      "reading": "まう",
+      "meaning": "cuộn"
+    },
+    {
       "word": "舞",
       "reading": "まい",
       "meaning": "nhảy"
-    },
-    {
-      "word": "舞舞",
-      "reading": "まいまい",
-      "meaning": "con ốc sên"
-    },
-    {
-      "word": "舞を舞う",
-      "reading": "まいをまう",
-      "meaning": "nhảy múa"
-    },
-    {
-      "word": "歌舞伎舞踊",
-      "reading": "かぶきぶよう",
-      "meaning": "điệu nhảy trong kịch kabuki"
-    },
-    {
-      "word": "仕舞",
-      "reading": "しまい",
-      "meaning": "sự kết thúc"
-    },
-    {
-      "word": "舞代",
-      "reading": "ぶだい",
-      "meaning": "vũ đài"
-    },
-    {
-      "word": "鼓舞",
-      "reading": "こぶ",
-      "meaning": "sự cổ vũ"
     },
     {
       "word": "舞人",
@@ -131,14 +116,29 @@
       "meaning": "vũ công"
     },
     {
-      "word": "舞車",
-      "reading": "まいぐるま",
-      "meaning": "festival float"
+      "word": "舞手",
+      "reading": "まいて",
+      "meaning": "vũ công"
     },
     {
-      "word": "楽舞",
-      "reading": "がくぶ",
-      "meaning": "hát và nhảy"
+      "word": "男舞",
+      "reading": "おとこまい",
+      "meaning": "điệu múa kabuki được thực hiện bởi những người đàn ông ăn mặc giống shirabyōshi"
+    },
+    {
+      "word": "舞代",
+      "reading": "ぶだい",
+      "meaning": "vũ đài"
+    },
+    {
+      "word": "曲舞",
+      "reading": "くせまい",
+      "meaning": "vũ khúc"
+    },
+    {
+      "word": "舞姿",
+      "reading": "まいすがた",
+      "meaning": "tư thế khi múa"
     }
   ]
 }

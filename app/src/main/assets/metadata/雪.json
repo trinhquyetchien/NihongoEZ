@@ -111,14 +111,34 @@
       "meaning": "tuyết"
     },
     {
-      "word": "握雪おと",
-      "reading": "握雪音",
-      "meaning": "âm thanh tuyết rơi"
-    },
-    {
       "word": "吹雪",
       "reading": "ふぶき",
       "meaning": "bão tuyết"
+    },
+    {
+      "word": "雪中",
+      "reading": "せっちゅう",
+      "meaning": "trong tuyết"
+    },
+    {
+      "word": "雪目",
+      "reading": "ゆきめ",
+      "meaning": "tuyết rơi sự mù"
+    },
+    {
+      "word": "雪下",
+      "reading": "せっか",
+      "meaning": "quạt - theo dõi chim chích"
+    },
+    {
+      "word": "雪風",
+      "reading": "ゆきかぜ",
+      "meaning": "cơn gió tuyết"
+    },
+    {
+      "word": "雪花",
+      "reading": "ゆきばな",
+      "meaning": "bông tuyết"
     },
     {
       "word": "秋雪",
@@ -126,34 +146,14 @@
       "meaning": "tuyết mùa thu"
     },
     {
-      "word": "小雪",
-      "reading": "こゆき",
-      "meaning": "tuyết nhẹ"
+      "word": "雪玉",
+      "reading": "ゆきだま",
+      "meaning": "hòn tuyết"
     },
     {
-      "word": "除雪",
-      "reading": "じょせつ",
-      "meaning": "việc dọn tuyết"
-    },
-    {
-      "word": "初雪",
-      "reading": "はつゆき",
-      "meaning": "đợt tuyết đầu tiên"
-    },
-    {
-      "word": "降雪",
-      "reading": "こうせつ",
-      "meaning": "tuyết rơi"
-    },
-    {
-      "word": "豪雪",
-      "reading": "ごうせつ",
-      "meaning": "tuyết rơi dữ dội"
-    },
-    {
-      "word": "雪山",
-      "reading": "ゆきやま",
-      "meaning": "núi tuyết"
+      "word": "雪質",
+      "reading": "ゆきしつ",
+      "meaning": "chất lượng của tuyết rơi"
     }
   ]
 }

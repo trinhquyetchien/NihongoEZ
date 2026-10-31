@@ -94,24 +94,14 @@
       "meaning": "lãnh thổ"
     },
     {
-      "word": "准看",
-      "reading": "じゅんかん",
-      "meaning": "hộ lý thực tập"
+      "word": "准教授",
+      "reading": "じゅんきょうじゅ",
+      "meaning": "phó giáo sư"
     },
     {
-      "word": "批准",
-      "reading": "ひじゅん",
-      "meaning": "sự phê chuẩn"
-    },
-    {
-      "word": "准尉",
-      "reading": "じゅんい",
-      "meaning": "chuẩn uý"
-    },
-    {
-      "word": "准許",
-      "reading": "じゅんきょ",
-      "meaning": "sự thừa nhận"
+      "word": "准教員",
+      "reading": "じゅんきょういん",
+      "meaning": "cấp dưới giáo viên"
     },
     {
       "word": "准将",
@@ -124,14 +114,24 @@
       "meaning": "bảo đảm sĩ quan"
     },
     {
-      "word": "准教授",
-      "reading": "じゅんきょうじゅ",
-      "meaning": "phó giáo sư"
+      "word": "准許",
+      "reading": "じゅんきょ",
+      "meaning": "sự thừa nhận"
+    },
+    {
+      "word": "批准",
+      "reading": "ひじゅん",
+      "meaning": "sự phê chuẩn"
     },
     {
       "word": "批准書",
       "reading": "ひじゅんしょ",
       "meaning": "thư phê chuẩn"
+    },
+    {
+      "word": "准尉",
+      "reading": "じゅんい",
+      "meaning": "chuẩn uý"
     }
   ]
 }

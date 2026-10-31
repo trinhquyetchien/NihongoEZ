@@ -109,34 +109,19 @@
   ],
   "vocabulary": [
     {
-      "word": "返す返す",
-      "reading": "かえすがえす",
-      "meaning": "lặp đi lặp lại nhiều lần"
+      "word": "返す",
+      "reading": "かえす",
+      "meaning": "trả"
     },
     {
-      "word": "往返",
-      "reading": "おうへん",
-      "meaning": "xung quanh đi nhẹ bước"
+      "word": "返事",
+      "reading": "へんじ",
+      "meaning": "sự trả lời"
     },
     {
-      "word": "返値",
-      "reading": "かえりち",
-      "meaning": "giá trị trả về"
-    },
-    {
-      "word": "代返",
-      "reading": "だいへん",
-      "meaning": "trả lời gọi điểm danh thay cho người vắng mặt"
-    },
-    {
-      "word": "返報",
-      "reading": "へんぽう",
-      "meaning": "sự báo đáp"
-    },
-    {
-      "word": "返歌",
-      "reading": "へんか",
-      "meaning": "thơ ca trả lời"
+      "word": "返る",
+      "reading": "かえる",
+      "meaning": "trở lại"
     },
     {
       "word": "返還",
@@ -144,9 +129,14 @@
       "meaning": "sự trở về"
     },
     {
-      "word": "返辞",
-      "reading": "へんじ",
-      "meaning": "câu trả lời"
+      "word": "返済",
+      "reading": "へんさい",
+      "meaning": "hoàn trả"
+    },
+    {
+      "word": "返答",
+      "reading": "へんとう",
+      "meaning": "sự trả lời"
     },
     {
       "word": "返し",
@@ -154,9 +144,19 @@
       "meaning": "đảo ngược"
     },
     {
-      "word": "返納",
-      "reading": "へんのう",
-      "meaning": "trả lại"
+      "word": "半返し",
+      "reading": "はんがえし",
+      "meaning": "sự bán lùi"
+    },
+    {
+      "word": "御返し",
+      "reading": "おかえし",
+      "meaning": "trả lại quà tặng"
+    },
+    {
+      "word": "返信",
+      "reading": "へんしん",
+      "meaning": "sự trả lời"
     }
   ]
 }

@@ -89,9 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "蓄熱",
-      "reading": "ちくねつ",
-      "meaning": "trữ nhiệt"
+      "word": "蓄える",
+      "reading": "たくわえる",
+      "meaning": "tích trữ"
+    },
+    {
+      "word": "蓄積",
+      "reading": "ちくせき",
+      "meaning": "sự tích lũy"
+    },
+    {
+      "word": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "sự tiết kiệm"
+    },
+    {
+      "word": "蓄積症",
+      "reading": "ちくせきしょう",
+      "meaning": "bệnh tích tụ"
+    },
+    {
+      "word": "蓄積管",
+      "reading": "ちくせきかん",
+      "meaning": "kho đặt ống"
     },
     {
       "word": "蓄え",
@@ -99,19 +119,9 @@
       "meaning": "dự trữ"
     },
     {
-      "word": "含蓄",
-      "reading": "がんちく",
-      "meaning": "sự hàm súc"
-    },
-    {
-      "word": "蓄妾",
-      "reading": "ちくしょう",
-      "meaning": "nuôi thê thiếp"
-    },
-    {
-      "word": "蓄財",
-      "reading": "ちくざい",
-      "meaning": "tích cóp của cải"
+      "word": "蓄えて",
+      "reading": "たくわえて",
+      "meaning": "giữ"
     },
     {
       "word": "備蓄",
@@ -119,24 +129,14 @@
       "meaning": "sự tích trữ"
     },
     {
-      "word": "儲蓄",
-      "reading": "ちょちく",
-      "meaning": "sự cất giữ"
+      "word": "備蓄米",
+      "reading": "びちくまい",
+      "meaning": "gạo dự trữ"
     },
     {
-      "word": "電蓄",
-      "reading": "でんちく",
-      "meaning": "máy hát"
-    },
-    {
-      "word": "蘊蓄",
-      "reading": "うんちく",
-      "meaning": "một kho lớn kiến thức"
-    },
-    {
-      "word": "貯蓄",
-      "reading": "ちょちく",
-      "meaning": "sự tiết kiệm"
+      "word": "蓄電池",
+      "reading": "ちくでんち",
+      "meaning": "pin tích điện"
     }
   ]
 }

@@ -89,44 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "樹",
-      "reading": "き",
-      "meaning": "cây cổ thụ"
-    },
-    {
-      "word": "榕樹",
-      "reading": "ようじゅ",
-      "meaning": "cái cây okinawan banyan"
-    },
-    {
-      "word": "双樹",
-      "reading": "そうじゅ",
-      "meaning": "cây đôi"
-    },
-    {
-      "word": "樹高",
-      "reading": "じゅこう",
-      "meaning": "chiều cao của cây"
-    },
-    {
-      "word": "樹陰",
-      "reading": "じゅいん",
-      "meaning": "bóng râm của cái cây"
-    },
-    {
       "word": "樹木",
       "reading": "じゅもく",
       "meaning": "lùm cây"
-    },
-    {
-      "word": "樹氷",
-      "reading": "じゅひょう",
-      "meaning": "cây cối phủ đầy băng"
-    },
-    {
-      "word": "樹皮",
-      "reading": "じゅひ",
-      "meaning": "vỏ cây"
     },
     {
       "word": "樹立",
@@ -134,9 +99,44 @@
       "meaning": "sự thành lập"
     },
     {
-      "word": "樹齢",
-      "reading": "じゅれい",
-      "meaning": "già đi một cái cây"
+      "word": "樹",
+      "reading": "き",
+      "meaning": "cây cổ thụ"
+    },
+    {
+      "word": "樹上",
+      "reading": "じゅじょう",
+      "meaning": "lên trên trong một cái cây"
+    },
+    {
+      "word": "樹間",
+      "reading": "じゅかん",
+      "meaning": "khoảng không giữa các cây"
+    },
+    {
+      "word": "神樹",
+      "reading": "しんじゅ",
+      "meaning": "cái cây chúa trời"
+    },
+    {
+      "word": "花樹",
+      "reading": "かじゅ",
+      "meaning": "ra hoa cái cây"
+    },
+    {
+      "word": "樹形",
+      "reading": "じゅけい",
+      "meaning": "hình dáng của cây"
+    },
+    {
+      "word": "樹種",
+      "reading": "じゅしゅ",
+      "meaning": "loài cây"
+    },
+    {
+      "word": "樹雨",
+      "reading": "きさめ",
+      "meaning": "nước rơi từ lá"
     }
   ]
 }

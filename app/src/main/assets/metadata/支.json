@@ -91,24 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "支繞",
-      "reading": "しにょう",
-      "meaning": "chữ có bộ 支 vây quanh"
+      "word": "支配",
+      "reading": "しはい",
+      "meaning": "sự ảnh hưởng"
     },
     {
-      "word": "支社",
-      "reading": "ししゃ",
-      "meaning": "chi nhánh"
+      "word": "支給",
+      "reading": "しきゅう",
+      "meaning": "cung cấp"
     },
     {
-      "word": "支払",
-      "reading": "しはらい",
-      "meaning": "sự chi trả"
+      "word": "支店",
+      "reading": "してん",
+      "meaning": "công ty chi nhánh"
     },
     {
-      "word": "支承",
-      "reading": "ししょう",
-      "meaning": "gối cầu"
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaning": "chi trả"
+    },
+    {
+      "word": "支出",
+      "reading": "ししゅつ",
+      "meaning": "sự chi ra"
+    },
+    {
+      "word": "支度",
+      "reading": "したく",
+      "meaning": "sự chuẩn bị"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaning": "nâng"
     },
     {
       "word": "収支",
@@ -121,24 +136,9 @@
       "meaning": "chi viện"
     },
     {
-      "word": "支出",
-      "reading": "ししゅつ",
-      "meaning": "sự chi ra"
-    },
-    {
-      "word": "支店",
-      "reading": "してん",
-      "meaning": "công ty chi nhánh"
-    },
-    {
-      "word": "支部",
-      "reading": "しぶ",
-      "meaning": "chi bộ"
-    },
-    {
-      "word": "支流",
-      "reading": "しりゅう",
-      "meaning": "ngách sông"
+      "word": "支援金",
+      "reading": "しえんきん",
+      "meaning": "tiền hỗ trợ"
     }
   ]
 }

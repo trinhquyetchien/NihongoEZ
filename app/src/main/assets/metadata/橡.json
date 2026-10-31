@@ -43,11 +43,6 @@
       "meaning": "xám nhạt"
     },
     {
-      "word": "橡の木",
-      "reading": "とちのき",
-      "meaning": "cây dẻ ngựa"
-    },
-    {
       "word": "赤白橡",
       "reading": "あかしろつるばみ",
       "meaning": "đỏ nhạt pha xám"
@@ -56,6 +51,11 @@
       "word": "青白橡",
       "reading": "あおしらつるばみ",
       "meaning": "màu xanh vàng nhạt pha chút xám"
+    },
+    {
+      "word": "橡の木",
+      "reading": "とちのき",
+      "meaning": "cây dẻ ngựa"
     }
   ]
 }

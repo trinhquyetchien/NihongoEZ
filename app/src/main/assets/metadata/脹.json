@@ -85,9 +85,24 @@
   ],
   "vocabulary": [
     {
+      "word": "腫脹",
+      "reading": "しゅちょう",
+      "meaning": "sự sưng phồng"
+    },
+    {
+      "word": "脹脛",
+      "reading": "ふくらはぎ",
+      "meaning": "bắp chân"
+    },
+    {
       "word": "膨脹",
       "reading": "ぼうちょう",
       "meaning": "sự mở rộng"
+    },
+    {
+      "word": "脹ら脛",
+      "reading": "ふくらはぎ",
+      "meaning": "bắp chân"
     },
     {
       "word": "脹満",
@@ -98,16 +113,6 @@
       "word": "脹れ",
       "reading": "はれ",
       "meaning": "làm phình lên"
-    },
-    {
-      "word": "脹脛",
-      "reading": "ふくらはぎ",
-      "meaning": "bắp chân"
-    },
-    {
-      "word": "腫脹",
-      "reading": "しゅちょう",
-      "meaning": "sự sưng phồng"
     },
     {
       "word": "脹れる",
@@ -123,11 +128,6 @@
       "word": "脹らみ",
       "reading": "ふくらみ",
       "meaning": "phồng lên"
-    },
-    {
-      "word": "脹ら脛",
-      "reading": "ふくらはぎ",
-      "meaning": "bắp chân"
     },
     {
       "word": "火脹れ",

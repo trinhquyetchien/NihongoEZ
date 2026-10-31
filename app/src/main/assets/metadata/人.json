@@ -97,19 +97,19 @@
       "meaning": "con người"
     },
     {
-      "word": "人人",
-      "reading": "ひとびと",
-      "meaning": "mỗi người"
-    },
-    {
-      "word": "人非人",
-      "reading": "にんぴにん",
-      "meaning": "kẻ mất hết tính người"
-    },
-    {
-      "word": "個人個人",
-      "reading": "こじんこじん",
+      "word": "個人",
+      "reading": "こじん",
       "meaning": "cá nhân"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "bản mạng"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "nhân vật"
     },
     {
       "word": "一人一人",
@@ -117,29 +117,29 @@
       "meaning": "từng người"
     },
     {
-      "word": "人造人間",
-      "reading": "じんぞうにんげん",
-      "meaning": "người máy"
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaning": "người lao động"
     },
     {
-      "word": "人食い人種",
-      "reading": "ひとくいじんしゅ",
-      "meaning": "bộ tộc ăn thịt người"
+      "word": "殺人",
+      "reading": "さつじん",
+      "meaning": "tên sát nhân"
     },
     {
-      "word": "暗愚な人人",
-      "reading": "あんぐなひとびと",
-      "meaning": "những linh hồn tối"
+      "word": "人民",
+      "reading": "じんみん",
+      "meaning": "nhân dân"
     },
     {
-      "word": "本人対本人",
-      "reading": "ほんにんたいほんにん",
-      "meaning": "giữa người ủy thác với người ủy thác"
+      "word": "証人",
+      "reading": "しょうにん",
+      "meaning": "người làm chứng"
     },
     {
-      "word": "差し出し人 さしだしにん",
-      "reading": "差し出し人",
-      "meaning": "người gửi"
+      "word": "人柄",
+      "reading": "ひとがら",
+      "meaning": "chỉ cá nhân một người"
     }
   ]
 }

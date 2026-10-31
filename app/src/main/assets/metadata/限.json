@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "限流",
-      "reading": "げんりゅう",
-      "meaning": "giới hạn dòng điện"
-    },
-    {
-      "word": "一限",
-      "reading": "いちげん",
-      "meaning": "có 1 tiết học"
-    },
-    {
-      "word": "限度",
-      "reading": "げんど",
-      "meaning": "điều độ"
+      "word": "制限",
+      "reading": "せいげん",
+      "meaning": "hạn chế"
     },
     {
       "word": "限界",
@@ -111,34 +101,44 @@
       "meaning": "giới hạn"
     },
     {
-      "word": "限定",
-      "reading": "げんてい",
-      "meaning": "sự hạn định"
-    },
-    {
       "word": "限る",
       "reading": "かぎる",
       "meaning": "giới hạn"
     },
     {
-      "word": "際限",
-      "reading": "さいげん",
+      "word": "期限",
+      "reading": "きげん",
       "meaning": "giới hạn"
     },
     {
-      "word": "時限",
-      "reading": "じげん",
-      "meaning": "thời gian lên lớp"
+      "word": "無限",
+      "reading": "むげん",
+      "meaning": "sự vô hạn"
     },
     {
-      "word": "限月",
-      "reading": "げんげつ",
-      "meaning": "tháng chuyển giao hàng hóa theo lịch trình trên hợp đồng"
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "điều độ"
     },
     {
-      "word": "極限",
+      "word": "限定",
+      "reading": "げんてい",
+      "meaning": "sự hạn định"
+    },
+    {
+      "word": "権限",
+      "reading": "けんげん",
+      "meaning": "căn nguyên"
+    },
+    {
+      "word": "局限",
       "reading": "きょくげん",
-      "meaning": "cực hạn"
+      "meaning": "sự giới hạn"
+    },
+    {
+      "word": "限定的",
+      "reading": "げんていてき",
+      "meaning": "định ra giới hạn"
     }
   ]
 }

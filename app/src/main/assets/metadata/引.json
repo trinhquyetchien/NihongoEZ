@@ -107,14 +107,29 @@
   ],
   "vocabulary": [
     {
-      "word": "引用索引",
-      "reading": "いんようさくいん",
-      "meaning": "chỉ mục trích dẫn"
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "từ điển"
     },
     {
-      "word": "寄引どーじせん",
-      "reading": "寄引同時線",
-      "meaning": "mô hình nến doji"
+      "word": "索引",
+      "reading": "さくいん",
+      "meaning": "phụ lục"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "sự giao dịch"
+    },
+    {
+      "word": "引き",
+      "reading": "ひき",
+      "meaning": "giật"
+    },
+    {
+      "word": "引け",
+      "reading": "ひけ",
+      "meaning": "bỏ đi"
     },
     {
       "word": "引換",
@@ -122,39 +137,24 @@
       "meaning": "trên sự trái ngược"
     },
     {
-      "word": "引越",
-      "reading": "ひっこし",
-      "meaning": "di chuyển"
+      "word": "吸引",
+      "reading": "きゅういん",
+      "meaning": "việc hút"
     },
     {
-      "word": "引受",
-      "reading": "ひきうけ",
-      "meaning": "chấp hành"
+      "word": "牽引",
+      "reading": "けんいん",
+      "meaning": "kéo mạnh"
     },
     {
-      "word": "引当",
-      "reading": "ひきあて",
-      "meaning": "dự trữ"
+      "word": "画引",
+      "reading": "かくびき",
+      "meaning": "thu xếp bởi những cú đánh"
     },
     {
-      "word": "引継",
-      "reading": "ひきつぎ",
-      "meaning": "tiếp quản"
-    },
-    {
-      "word": "字引",
-      "reading": "じびき",
-      "meaning": "từ điển"
-    },
-    {
-      "word": "勾引",
-      "reading": "こういん",
-      "meaning": "sự bắt giữ"
-    },
-    {
-      "word": "索引",
-      "reading": "さくいん",
-      "meaning": "phụ lục"
+      "word": "引数",
+      "reading": "ひきすう",
+      "meaning": "tham số"
     }
   ]
 }

@@ -85,54 +85,54 @@
   ],
   "vocabulary": [
     {
-      "word": "膚",
-      "reading": "はだ",
+      "word": "皮膚",
+      "reading": "ひふ",
       "meaning": "da"
     },
     {
-      "word": "両膚",
-      "reading": "りょうはだ",
-      "meaning": "hai phần thân"
+      "word": "皮膚科",
+      "reading": "ひふか",
+      "meaning": "khoa da liễu"
     },
     {
-      "word": "山膚",
-      "reading": "やまはだ",
-      "meaning": "bề mặt của núi trọc"
+      "word": "皮膚剤",
+      "reading": "ひふざい",
+      "meaning": "vỏ bọc"
+    },
+    {
+      "word": "皮膚病",
+      "reading": "ひふびょう",
+      "meaning": "bệnh ghẻ chốc"
+    },
+    {
+      "word": "皮膚炎",
+      "reading": "ひふえん",
+      "meaning": "viêm da"
+    },
+    {
+      "word": "皮膚弁",
+      "reading": "ひふべん",
+      "meaning": "flap"
+    },
+    {
+      "word": "皮膚癌",
+      "reading": "ひふがん",
+      "meaning": "bệnh ung thư da"
+    },
+    {
+      "word": "皮膚温",
+      "reading": "ひふおん",
+      "meaning": "nhiệt độ da"
+    },
+    {
+      "word": "皮膚腺",
+      "reading": "ひふせん",
+      "meaning": "tuyến da"
     },
     {
       "word": "完膚",
       "reading": "かんぷ",
       "meaning": "làn da không tỳ vết"
-    },
-    {
-      "word": "青膚",
-      "reading": "あおはだ",
-      "meaning": "ilex macropoda"
-    },
-    {
-      "word": "膚着",
-      "reading": "はだぎ",
-      "meaning": "quần áo lót"
-    },
-    {
-      "word": "肌膚",
-      "reading": "きふ",
-      "meaning": "bóc vỏ"
-    },
-    {
-      "word": "雪膚",
-      "reading": "ゆきはだ",
-      "meaning": "tuyết rơi có bề mặt"
-    },
-    {
-      "word": "膚身",
-      "reading": "はだみ",
-      "meaning": "thân thể"
-    },
-    {
-      "word": "鮫膚",
-      "reading": "さめはだ",
-      "meaning": "da cá mập"
     }
   ]
 }

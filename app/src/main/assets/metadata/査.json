@@ -104,6 +104,11 @@
   ],
   "vocabulary": [
     {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "sự điều tra"
+    },
+    {
       "word": "検査",
       "reading": "けんさ",
       "meaning": "sự kiểm tra"
@@ -114,44 +119,39 @@
       "meaning": "cảnh sát tuần tiễu"
     },
     {
-      "word": "査定",
-      "reading": "さてい",
-      "meaning": "đưa ra quyết định sau khi điều tra số tiền"
-    },
-    {
-      "word": "査読",
-      "reading": "さどく",
-      "meaning": "sự nghiên cứu"
-    },
-    {
-      "word": "考査",
-      "reading": "こうさ",
-      "meaning": "giám khảo"
-    },
-    {
-      "word": "査問",
-      "reading": "さもん",
-      "meaning": "sự thẩm vấn"
-    },
-    {
-      "word": "査収",
-      "reading": "さしゅう",
-      "meaning": "sự kiểm tra và chấp nhận"
-    },
-    {
-      "word": "踏査",
-      "reading": "とうさ",
-      "meaning": "sự khảo sát"
-    },
-    {
-      "word": "探査",
-      "reading": "たんさ",
+      "word": "捜査",
+      "reading": "そうさ",
       "meaning": "sự điều tra"
     },
     {
-      "word": "走査",
-      "reading": "そうさ",
-      "meaning": "quét"
+      "word": "審査",
+      "reading": "しんさ",
+      "meaning": "sự thẩm tra"
+    },
+    {
+      "word": "調査役",
+      "reading": "ちょうさやく",
+      "meaning": "trợ lý"
+    },
+    {
+      "word": "検査法",
+      "reading": "けんさほう",
+      "meaning": "phương pháp điều tra"
+    },
+    {
+      "word": "検査員",
+      "reading": "けんさいん",
+      "meaning": "kiểm soát viên"
+    },
+    {
+      "word": "調査団",
+      "reading": "ちょうさだん",
+      "meaning": "ủy nhiệm điều tra"
+    },
+    {
+      "word": "再検査",
+      "reading": "さいけんさ",
+      "meaning": "kiểm tra lại"
     }
   ]
 }

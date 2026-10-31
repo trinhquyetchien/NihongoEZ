@@ -111,9 +111,39 @@
       "meaning": "dược"
     },
     {
-      "word": "十薬",
-      "reading": "じゅうやく",
-      "meaning": "cây tắc kè"
+      "word": "薬中",
+      "reading": "やくちゅう",
+      "meaning": "sự nghiện thuốc"
+    },
+    {
+      "word": "薬名",
+      "reading": "やくめい",
+      "meaning": "tên thuốc y học"
+    },
+    {
+      "word": "下薬",
+      "reading": "げやく",
+      "meaning": "nhuận tràng"
+    },
+    {
+      "word": "薬室",
+      "reading": "やくしつ",
+      "meaning": "buồng"
+    },
+    {
+      "word": "薬傷",
+      "reading": "やくしょう",
+      "meaning": "bỏng do hóa chất"
+    },
+    {
+      "word": "傷薬",
+      "reading": "きずぐすり",
+      "meaning": "thuốc xoa vết thương"
+    },
+    {
+      "word": "原薬",
+      "reading": "げんやく",
+      "meaning": "chất thuốc"
     },
     {
       "word": "薬歴",
@@ -121,39 +151,9 @@
       "meaning": "bản ghi lại các nội dung về cách pha chế và hướng dẫn dùng thuốc do dược sĩ đưa ra liên quan đến lịch sử sử dụng thuốc"
     },
     {
-      "word": "薬匙",
-      "reading": "やくさじ",
-      "meaning": "muỗng thuốc"
-    },
-    {
-      "word": "薬袋",
-      "reading": "やくたい",
-      "meaning": "túi đựng thuốc"
-    },
-    {
-      "word": "医薬",
-      "reading": "いやく",
-      "meaning": "y dược"
-    },
-    {
-      "word": "薬中",
-      "reading": "やくちゅう",
-      "meaning": "sự nghiện thuốc"
-    },
-    {
-      "word": "新薬",
-      "reading": "しんやく",
-      "meaning": "tân dược"
-    },
-    {
-      "word": "良薬",
-      "reading": "りょうやく",
-      "meaning": "y học tốt"
-    },
-    {
-      "word": "薬室",
-      "reading": "やくしつ",
-      "meaning": "buồng"
+      "word": "弾薬",
+      "reading": "だんやく",
+      "meaning": "đạn dược"
     }
   ]
 }

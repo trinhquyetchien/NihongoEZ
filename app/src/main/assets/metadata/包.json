@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "包",
-      "reading": "パオ",
-      "meaning": "bọc"
-    },
-    {
-      "word": "包埋(包理)用品",
-      "reading": "ほうまい(つつみり)ようひん",
-      "meaning": "chất gắn kết"
+      "word": "包む",
+      "reading": "つつむ",
+      "meaning": "chít"
     },
     {
       "word": "包み",
@@ -105,14 +100,19 @@
       "meaning": "gói"
     },
     {
-      "word": "凸包",
-      "reading": "とつほう",
-      "meaning": "bao lồi"
+      "word": "小包",
+      "reading": "こづつみ",
+      "meaning": "bưu kiện"
     },
     {
-      "word": "梱包",
-      "reading": "こんぽう",
-      "meaning": "đóng gói"
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "con dao"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "bao"
     },
     {
       "word": "包帯",
@@ -120,24 +120,24 @@
       "meaning": "băng"
     },
     {
-      "word": "包虫",
-      "reading": "ほうちゅう",
-      "meaning": "hydatid"
+      "word": "包囲",
+      "reading": "ほうい",
+      "meaning": "sự bao vây"
     },
     {
-      "word": "空包",
-      "reading": "くうほう",
-      "meaning": "đạn không nạp chì"
-    },
-    {
-      "word": "薬包",
-      "reading": "やくほう",
-      "meaning": "bao đựng thuốc"
+      "word": "包",
+      "reading": "パオ",
+      "meaning": "bọc"
     },
     {
       "word": "金包",
       "reading": "きんぽう",
       "meaning": "phong bì chứa đựng tiền đính hôn"
+    },
+    {
+      "word": "薬包",
+      "reading": "やくほう",
+      "meaning": "bao đựng thuốc"
     }
   ]
 }

@@ -92,6 +92,26 @@
       "meaning": "hoàng hậu"
     },
     {
+      "word": "后町",
+      "reading": "きさきまち",
+      "meaning": "hậu cung"
+    },
+    {
+      "word": "王后",
+      "reading": "おうこう",
+      "meaning": "nữ hoàng"
+    },
+    {
+      "word": "天后",
+      "reading": "てんこう",
+      "meaning": "thiên hậu"
+    },
+    {
+      "word": "太后",
+      "reading": "たいこう",
+      "meaning": "hoàng thái hậu"
+    },
+    {
       "word": "后宮",
       "reading": "こうぐう",
       "meaning": "cung điện"
@@ -102,39 +122,19 @@
       "meaning": "hoàng hậu"
     },
     {
-      "word": "王后",
-      "reading": "おうこう",
-      "meaning": "nữ hoàng"
+      "word": "三皇后",
+      "reading": "さんこうごう",
+      "meaning": "ba hoàng hậu"
     },
     {
-      "word": "三后",
-      "reading": "さんこう",
-      "meaning": "tam hậu"
+      "word": "皇后宮",
+      "reading": "こうごうぐう",
+      "meaning": "cung điện của hoàng hậu"
     },
     {
-      "word": "天后",
-      "reading": "てんこう",
-      "meaning": "thiên hậu"
-    },
-    {
-      "word": "午后",
-      "reading": "ごご",
-      "meaning": "buổi chiều"
-    },
-    {
-      "word": "太后",
-      "reading": "たいこう",
+      "word": "皇太后",
+      "reading": "こうたいごう",
       "meaning": "hoàng thái hậu"
-    },
-    {
-      "word": "母后",
-      "reading": "ぼこう",
-      "meaning": "mẫu hậu"
-    },
-    {
-      "word": "后妃",
-      "reading": "こうひ",
-      "meaning": "nữ hoàng"
     }
   ]
 }

@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "疾く疾く",
-      "reading": "とくとく",
-      "meaning": "nhanh lên"
-    },
-    {
-      "word": "血液疾患とリンパ疾患",
-      "reading": "けつえきしっかんとリンパしっかん",
-      "meaning": "bệnh lý về máu và bạch huyết"
-    },
-    {
-      "word": "疾走",
-      "reading": "しっそう",
-      "meaning": "sự chạy nhanh"
-    },
-    {
       "word": "疾患",
       "reading": "しっかん",
       "meaning": "bệnh hoạn"
     },
     {
-      "word": "疾く",
-      "reading": "とく",
-      "meaning": "nhanh chóng"
+      "word": "心疾患",
+      "reading": "しんしっかん",
+      "meaning": "bệnh tim mạch"
     },
     {
-      "word": "癈疾",
-      "reading": "はいしつ",
-      "meaning": "bệnh không thể phục hồi và để lại khuyết tật cho cơ thể"
+      "word": "脳疾患",
+      "reading": "のうしっかん",
+      "meaning": "bệnh não"
     },
     {
-      "word": "疾う",
-      "reading": "とう",
-      "meaning": "nhanh chóng"
+      "word": "耳疾患",
+      "reading": "じしっかん",
+      "meaning": "các bệnh về tai"
     },
     {
-      "word": "廃疾",
-      "reading": "はいしつ",
-      "meaning": "sự ốm yếu"
+      "word": "筋疾患",
+      "reading": "きんしっかん",
+      "meaning": "bệnh về cơ"
     },
     {
-      "word": "鼻疾",
-      "reading": "びしつ",
-      "meaning": "bệnh mũi"
+      "word": "鼻疾患",
+      "reading": "びしっかん",
+      "meaning": "bệnh về mũi"
     },
     {
-      "word": "疾風",
-      "reading": "しっぷう",
-      "meaning": "gió lốc"
+      "word": "骨疾患",
+      "reading": "こつしっかん",
+      "meaning": "bệnh về xương"
+    },
+    {
+      "word": "眼疾患",
+      "reading": "がんしっかん",
+      "meaning": "bệnh về mắt"
+    },
+    {
+      "word": "爪疾患",
+      "reading": "つめしっかん",
+      "meaning": "bệnh móng"
+    },
+    {
+      "word": "舌疾患",
+      "reading": "ぜつしっかん",
+      "meaning": "bệnh về lưỡi"
     }
   ]
 }

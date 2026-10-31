@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "洗濯洗剤",
-      "reading": "せんたくせんざい",
-      "meaning": "nước giặt"
+      "word": "洗濯",
+      "reading": "せんたく",
+      "meaning": "sự giặt giũ"
     },
     {
-      "word": "手洗い洗剤",
-      "reading": "てあらいせんざい",
-      "meaning": "dung dịch rửa tay"
+      "word": "洗う",
+      "reading": "あらう",
+      "meaning": "giặt"
     },
     {
-      "word": "洗濯用洗剤",
-      "reading": "せんたくようせんざい",
-      "meaning": "nước giặt"
+      "word": "洗剤",
+      "reading": "せんざい",
+      "meaning": "chất tẩy rửa"
     },
     {
-      "word": "洗車用洗浄機",
-      "reading": "せんしゃようせんじょうき",
-      "meaning": "máy rửa xe"
+      "word": "手洗い",
+      "reading": "てあらい",
+      "meaning": "bồn"
     },
     {
-      "word": "洗車機用洗剤",
-      "reading": "せんしゃきようせんざい",
-      "meaning": "chất tẩy rửa dành cho máy rửa xe"
+      "word": "水洗",
+      "reading": "すいせん",
+      "meaning": "sự rửa bằng nước"
     },
     {
-      "word": "洗面器/洗面台",
-      "reading": "せんめんき/せんめんだい",
-      "meaning": "máy kiểm tra độ bền"
+      "word": "洗濯物",
+      "reading": "せんたくもの",
+      "meaning": "quần áo để giặt giũ"
     },
     {
-      "word": "食洗器用洗剤",
-      "reading": "しょくせんきようせんざい",
-      "meaning": "chất tẩy rửa dành cho máy rửa chén"
+      "word": "洗脳",
+      "reading": "せんのう",
+      "meaning": "sự tẩy não"
     },
     {
-      "word": "洗髪",
-      "reading": "せんぱつ",
-      "meaning": "gội đầu"
+      "word": "洗浄",
+      "reading": "せんじょう",
+      "meaning": "sự làm sạch"
     },
     {
-      "word": "洗掘",
-      "reading": "せんくつ",
-      "meaning": "xói lở"
+      "word": "洗浄剤",
+      "reading": "せんじょうざい",
+      "meaning": "chất tẩy rửa"
     },
     {
-      "word": "洗牌",
-      "reading": "シーパイ",
-      "meaning": "xáo mạt chược"
+      "word": "洗い",
+      "reading": "あらい",
+      "meaning": "rửa"
     }
   ]
 }

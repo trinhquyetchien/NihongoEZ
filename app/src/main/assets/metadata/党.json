@@ -112,39 +112,24 @@
       "meaning": "đảng"
     },
     {
-      "word": "野党党首",
-      "reading": "やとうとうしゅ",
-      "meaning": "lãnh đạo đảng đối lập"
-    },
-    {
-      "word": "党利党略",
-      "reading": "とうりとうりゃく",
-      "meaning": "lợi ích của một đảng phái và chiến lược để đạt được lợi ích đó"
-    },
-    {
       "word": "与党",
       "reading": "よとう",
       "meaning": "đảng cầm quyền"
     },
     {
-      "word": "ワフド党",
-      "reading": "ワフドとう",
-      "meaning": "đảng wafd"
+      "word": "一党",
+      "reading": "いっとう",
+      "meaning": "một phe"
     },
     {
-      "word": "新党",
-      "reading": "しんとう",
-      "meaning": "phe mới"
+      "word": "分党",
+      "reading": "ぶんとう",
+      "meaning": "sự ly khai từ một phe"
     },
     {
-      "word": "自党",
-      "reading": "じとう",
-      "meaning": "đảng thuộc phe mình"
-    },
-    {
-      "word": "離党",
-      "reading": "りとう",
-      "meaning": "sự rời khỏi đảng phái chính trị"
+      "word": "他党",
+      "reading": "たとう",
+      "meaning": "các đảng khác"
     },
     {
       "word": "会党",
@@ -152,9 +137,24 @@
       "meaning": "băng nhóm"
     },
     {
-      "word": "左党",
-      "reading": "さとう",
-      "meaning": "người uống"
+      "word": "同党",
+      "reading": "どうとう",
+      "meaning": "cùng đảng phái"
+    },
+    {
+      "word": "不党",
+      "reading": "ふとう",
+      "meaning": "phi đảng phái"
+    },
+    {
+      "word": "友党",
+      "reading": "ゆうとう",
+      "meaning": "chính đảng liên minh"
+    },
+    {
+      "word": "反党",
+      "reading": "はんとう",
+      "meaning": "đảng phản lại"
     }
   ]
 }

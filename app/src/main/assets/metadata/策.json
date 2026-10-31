@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "対策",
+      "reading": "たいさく",
+      "meaning": "biện pháp"
+    },
+    {
+      "word": "政策",
+      "reading": "せいさく",
+      "meaning": "chánh sách"
+    },
+    {
       "word": "策",
       "reading": "さく",
       "meaning": "sách"
     },
     {
-      "word": "策士策に溺れる",
-      "reading": "さくしさくにおぼれる",
-      "meaning": "gậy ông đập lưng ông"
+      "word": "方策",
+      "reading": "ほうさく",
+      "meaning": "phương kế"
     },
     {
-      "word": "術策",
-      "reading": "じゅっさく",
-      "meaning": "kế sách"
-    },
-    {
-      "word": "策略",
-      "reading": "さくりゃく",
-      "meaning": "sách lược"
-    },
-    {
-      "word": "策動",
-      "reading": "さくどう",
-      "meaning": "thủ đoạn"
-    },
-    {
-      "word": "無策",
-      "reading": "むさく",
-      "meaning": "không có chủ định"
-    },
-    {
-      "word": "下策",
-      "reading": "げさく",
-      "meaning": "hạ sách"
-    },
-    {
-      "word": "奇策",
-      "reading": "きさく",
-      "meaning": "thông minh lên sơ đồ"
-    },
-    {
-      "word": "施策",
-      "reading": "しさく",
+      "word": "悪策",
+      "reading": "あくさく",
       "meaning": "chính sách"
     },
     {
-      "word": "策励",
-      "reading": "さくれい",
-      "meaning": "thúc đẩy"
+      "word": "防衛策",
+      "reading": "ぼうえいさく",
+      "meaning": "kế sách phòng vệ"
+    },
+    {
+      "word": "具体策",
+      "reading": "ぐたいさく",
+      "meaning": "kế hoạch cụ thể"
+    },
+    {
+      "word": "商策",
+      "reading": "しょうさく",
+      "meaning": "chính sách doanh nghiệp"
+    },
+    {
+      "word": "建策",
+      "reading": "けんさく",
+      "meaning": "sự lập kế hoạch"
+    },
+    {
+      "word": "策定",
+      "reading": "さくてい",
+      "meaning": "lập ra"
     }
   ]
 }

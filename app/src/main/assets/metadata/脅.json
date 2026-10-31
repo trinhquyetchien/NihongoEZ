@@ -108,24 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "脅",
-      "reading": "きょう",
-      "meaning": "doạ"
+      "word": "脅かす",
+      "reading": "おどかす",
+      "meaning": "đe doạ"
     },
     {
       "word": "脅迫",
       "reading": "きょうはく",
       "meaning": "sự cưỡng bức"
-    },
-    {
-      "word": "脅し",
-      "reading": "おどし",
-      "meaning": "sự đe doạ"
-    },
-    {
-      "word": "脅喝",
-      "reading": "きょうかつ",
-      "meaning": "sự đe doạ"
     },
     {
       "word": "脅す",
@@ -138,14 +128,14 @@
       "meaning": "sự uy hiếp"
     },
     {
-      "word": "脅嚇",
-      "reading": "きょうかく",
-      "meaning": "sự đe doạ"
+      "word": "脅迫者",
+      "reading": "きょうはくしゃ",
+      "meaning": "kẻ hăm doạ"
     },
     {
-      "word": "脅かす",
-      "reading": "おどかす",
-      "meaning": "đe doạ"
+      "word": "脅迫的",
+      "reading": "きょうはくてき",
+      "meaning": "hăm doạ"
     },
     {
       "word": "脅迫罪",
@@ -153,9 +143,19 @@
       "meaning": "sự hăm doạ"
     },
     {
-      "word": "脅迫者",
-      "reading": "きょうはくしゃ",
-      "meaning": "kẻ hăm doạ"
+      "word": "脅迫文",
+      "reading": "きょうはくぶん",
+      "meaning": "thư đe dọa"
+    },
+    {
+      "word": "脅迫状",
+      "reading": "きょうはくじょう",
+      "meaning": "thư khủng bố"
+    },
+    {
+      "word": "脅し",
+      "reading": "おどし",
+      "meaning": "sự đe doạ"
     }
   ]
 }

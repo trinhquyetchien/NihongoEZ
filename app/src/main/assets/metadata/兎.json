@@ -55,39 +55,24 @@
       "meaning": "con thỏ"
     },
     {
-      "word": "二兎を追う者は一兎をも得ず",
-      "reading": "にとをおうものはいっとをもえず",
-      "meaning": "cùng theo đuổi cả hai thì đều mất cả hai"
+      "word": "一兎",
+      "reading": "いっと",
+      "meaning": "một con thỏ"
     },
     {
-      "word": "脱兎",
-      "reading": "だっと",
-      "meaning": "va mạnh hoặc giáp giới ra khỏi"
+      "word": "家兎",
+      "reading": "かと",
+      "meaning": "thuần hóa con thỏ"
     },
     {
-      "word": "飼兎",
-      "reading": "かいうさぎ",
-      "meaning": "giống thỏ châu âu"
+      "word": "昔兎",
+      "reading": "むかしうさぎ",
+      "meaning": "loài thỏ xưa"
     },
     {
-      "word": "白兎",
-      "reading": "しろうさぎ",
-      "meaning": "thỏ trắng"
-    },
-    {
-      "word": "兎口",
-      "reading": "すぐち",
-      "meaning": "tật sứt môi trên"
-    },
-    {
-      "word": "穴兎",
-      "reading": "あなうさぎ",
-      "meaning": "thỏ châu âu"
-    },
-    {
-      "word": "啼兎",
-      "reading": "なきうさぎ",
-      "meaning": "thỏ pika"
+      "word": "山兎",
+      "reading": "やまうさぎ",
+      "meaning": "thỏ rừng sống ở vùng núi"
     },
     {
       "word": "兎肉",
@@ -95,9 +80,24 @@
       "meaning": "thịt thỏ"
     },
     {
+      "word": "兎の肉",
+      "reading": "うさぎのにく",
+      "meaning": "thịt thỏ"
+    },
+    {
       "word": "兎耳",
       "reading": "うさぎみみ",
       "meaning": "sự ngu độn"
+    },
+    {
+      "word": "穴兎",
+      "reading": "あなうさぎ",
+      "meaning": "thỏ châu âu"
+    },
+    {
+      "word": "玉兎",
+      "reading": "ぎょくと",
+      "meaning": "mặt trăng"
     }
   ]
 }

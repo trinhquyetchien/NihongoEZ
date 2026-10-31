@@ -90,44 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "時",
-      "reading": "とき",
-      "meaning": "giờ phút"
-    },
-    {
-      "word": "時時",
-      "reading": "ときどき",
-      "meaning": "đôi khi"
-    },
-    {
-      "word": "時分時",
-      "reading": "じぶんどき",
-      "meaning": "giờ ăn"
-    },
-    {
-      "word": "時世時節",
-      "reading": "ときよじせつ",
-      "meaning": "thời đại và thời điểm"
-    },
-    {
-      "word": "何時何時",
-      "reading": "いついつ",
-      "meaning": "không cùng nhau"
-    },
-    {
-      "word": "時時刻刻",
-      "reading": "じじこっこく",
-      "meaning": "từ giờ này sang giờ khác"
-    },
-    {
-      "word": "何時時分",
-      "reading": "いつじぶん",
-      "meaning": "vào khoảng thời gian nào"
-    },
-    {
-      "word": "瞬時",
-      "reading": "しゅんじ",
-      "meaning": "khoảnh khắc"
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "giờ đồng hồ"
     },
     {
       "word": "時計",
@@ -135,9 +100,44 @@
       "meaning": "đồng hồ"
     },
     {
-      "word": "時分",
-      "reading": "じぶん",
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "thời đại"
+    },
+    {
+      "word": "時",
+      "reading": "とき",
       "meaning": "giờ phút"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "một lần"
+    },
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "lúc"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "tốc độ tính theo giờ"
+    },
+    {
+      "word": "２時",
+      "reading": "にじ",
+      "meaning": "2 giờ"
+    },
+    {
+      "word": "等時",
+      "reading": "とうじ",
+      "meaning": "đẳng thời"
+    },
+    {
+      "word": "時点",
+      "reading": "じてん",
+      "meaning": "chỉ đúng lúc"
     }
   ]
 }

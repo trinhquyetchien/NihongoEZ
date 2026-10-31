@@ -90,14 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaning": "tiểu thuyết"
+    },
+    {
       "word": "説",
       "reading": "せつ",
       "meaning": "thuyết"
     },
     {
-      "word": "不可説不可説転",
-      "reading": "ふかせつふかせつてん",
-      "meaning": "số lớn"
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "chú văn"
     },
     {
       "word": "伝説",
@@ -105,39 +110,34 @@
       "meaning": "truyện ký"
     },
     {
-      "word": "他説",
-      "reading": "たせつ",
-      "meaning": "thuyết khác"
-    },
-    {
-      "word": "言説",
-      "reading": "げんせつ",
-      "meaning": "nhận xét"
-    },
-    {
-      "word": "小説",
-      "reading": "しょうせつ",
-      "meaning": "tiểu thuyết"
-    },
-    {
-      "word": "逆説",
-      "reading": "ぎゃくせつ",
-      "meaning": "ý kiến ngược đời"
-    },
-    {
-      "word": "自説",
-      "reading": "じせつ",
-      "meaning": "quan điểm riêng"
-    },
-    {
       "word": "概説",
       "reading": "がいせつ",
       "meaning": "sự phác thảo"
     },
     {
-      "word": "解説",
-      "reading": "かいせつ",
-      "meaning": "chú văn"
+      "word": "私説",
+      "reading": "しせつ",
+      "meaning": "quan điểm cá nhân"
+    },
+    {
+      "word": "他説",
+      "reading": "たせつ",
+      "meaning": "thuyết khác"
+    },
+    {
+      "word": "曲説",
+      "reading": "きょくせつ",
+      "meaning": "giả thuyết sai"
+    },
+    {
+      "word": "同説",
+      "reading": "どうせつ",
+      "meaning": "cùng quan điểm đó"
+    },
+    {
+      "word": "説服",
+      "reading": "せっぷく",
+      "meaning": "sự tin"
     }
   ]
 }

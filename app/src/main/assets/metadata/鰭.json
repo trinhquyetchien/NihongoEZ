@@ -60,16 +60,6 @@
       "meaning": "vây mỡ"
     },
     {
-      "word": "臀鰭",
-      "reading": "しりびれ",
-      "meaning": "vây phần đuôi"
-    },
-    {
-      "word": "鱶鰭",
-      "reading": "ふかひれ",
-      "meaning": "vi cá mập"
-    },
-    {
       "word": "胸鰭",
       "reading": "むなびれ",
       "meaning": "vây ngực"
@@ -95,9 +85,19 @@
       "meaning": "cạo râu"
     },
     {
-      "word": "尾鰭",
-      "reading": "おひれ",
-      "meaning": "đuôi cá"
+      "word": "赤鰭",
+      "reading": "あかひれ",
+      "meaning": "tanichthys albonubes"
+    },
+    {
+      "word": "鰭脚類",
+      "reading": "ききゃくるい",
+      "meaning": "động vật có chân màng"
+    },
+    {
+      "word": "肉鰭類",
+      "reading": "にくきるい",
+      "meaning": "giống cá vây thùy"
     }
   ]
 }

@@ -90,9 +90,9 @@
       "meaning": "cửa"
     },
     {
-      "word": "門扉",
-      "reading": "もんぴ",
-      "meaning": "cánh cổng"
+      "word": "自動扉",
+      "reading": "じどうとびら",
+      "meaning": "cửa tự động"
     },
     {
       "word": "裏扉",
@@ -100,19 +100,19 @@
       "meaning": "lùi lại lá cây"
     },
     {
+      "word": "回転扉",
+      "reading": "かいてんとびら",
+      "meaning": "cửa quay"
+    },
+    {
+      "word": "扉部品",
+      "reading": "とびらぶひん",
+      "meaning": "phụ kiện cửa"
+    },
+    {
       "word": "開扉",
       "reading": "かいひ",
       "meaning": "việc mở cửa"
-    },
-    {
-      "word": "鉄扉",
-      "reading": "てっぴ",
-      "meaning": "cửa sắt"
-    },
-    {
-      "word": "扉絵",
-      "reading": "とびらえ",
-      "meaning": "tranh đầu sách"
     },
     {
       "word": "小開扉",
@@ -120,19 +120,19 @@
       "meaning": "việc mở cửa trong giây lát"
     },
     {
+      "word": "防水扉",
+      "reading": "ぼうすいひ",
+      "meaning": "cái cửa watertight"
+    },
+    {
+      "word": "観音扉",
+      "reading": "かんのんとびら",
+      "meaning": "cửa đôi mở từ trung tâm sang hai bên"
+    },
+    {
       "word": "防火扉",
       "reading": "ぼうかとびら",
       "meaning": "khai hỏa cái cửa"
-    },
-    {
-      "word": "自動扉",
-      "reading": "じどうとびら",
-      "meaning": "cửa tự động"
-    },
-    {
-      "word": "回転扉",
-      "reading": "かいてんとびら",
-      "meaning": "cửa quay"
     }
   ]
 }

@@ -83,19 +83,34 @@
   ],
   "vocabulary": [
     {
-      "word": "陪都",
-      "reading": "ばいと",
-      "meaning": "thủ đô thứ cấp"
+      "word": "陪審",
+      "reading": "ばいしん",
+      "meaning": "hội thẩm"
     },
     {
-      "word": "陪侍",
-      "reading": "ばいじ",
-      "meaning": "lão bộc"
+      "word": "大陪審",
+      "reading": "だいばいしん",
+      "meaning": "ban hội thẩm"
     },
     {
-      "word": "陪食",
-      "reading": "ばいしょく",
-      "meaning": "việc ăn uống với những người cấp cao hơn mình"
+      "word": "陪審員",
+      "reading": "ばいしんいん",
+      "meaning": "bồi thẩm"
+    },
+    {
+      "word": "小陪審",
+      "reading": "しょうばいしん",
+      "meaning": "tiểu bồi thẩm đoàn"
+    },
+    {
+      "word": "陪審制",
+      "reading": "ばいしんせい",
+      "meaning": "hệ thống giám khảo"
+    },
+    {
+      "word": "陪審団",
+      "reading": "ばいしんだん",
+      "meaning": "bồi thẩm đoàn"
     },
     {
       "word": "陪席",
@@ -103,34 +118,19 @@
       "meaning": "phụ tá"
     },
     {
-      "word": "陪観",
-      "reading": "ばいかん",
-      "meaning": "nhìn với một cấp trên"
-    },
-    {
       "word": "陪臣",
       "reading": "ばいしん",
       "meaning": "nâng lên kẻ lệ thuộc"
     },
     {
-      "word": "陪従",
-      "reading": "ばいじゅう",
-      "meaning": "hộ tống"
-    },
-    {
-      "word": "陪審",
-      "reading": "ばいしん",
-      "meaning": "hội thẩm"
-    },
-    {
-      "word": "陪堂",
-      "reading": "ほいとう",
-      "meaning": "được phục vụ thức ăn bên ngoài thiền đường"
-    },
-    {
       "word": "陪餐",
       "reading": "ばいさん",
       "meaning": "bữa tối của chúa"
+    },
+    {
+      "word": "陪都",
+      "reading": "ばいと",
+      "meaning": "thủ đô thứ cấp"
     }
   ]
 }

@@ -84,44 +84,34 @@
   ],
   "vocabulary": [
     {
+      "word": "海苔",
+      "reading": "のり",
+      "meaning": "rong biển"
+    },
+    {
+      "word": "新海苔",
+      "reading": "しんのり",
+      "meaning": "rong biển mới"
+    },
+    {
       "word": "苔",
       "reading": "こけ",
       "meaning": "rêu"
     },
     {
-      "word": "苔庭",
-      "reading": "こけにわ",
-      "meaning": "bãi cỏ rêu"
+      "word": "水苔",
+      "reading": "みずごけ",
+      "meaning": "rêu đầm lầy"
     },
     {
-      "word": "苔桃",
-      "reading": "こけもも",
-      "meaning": "quả việt quất"
+      "word": "花苔",
+      "reading": "はなごけ",
+      "meaning": "loại rêu tuần lộc"
     },
     {
-      "word": "アイスランド苔",
-      "reading": "アイスランドごけ",
-      "meaning": "địa y iceland"
-    },
-    {
-      "word": "鷺苔",
-      "reading": "さぎごけ",
-      "meaning": "mazus miquelii"
-    },
-    {
-      "word": "苔虫",
-      "reading": "こけむし",
-      "meaning": "sâu rêu"
-    },
-    {
-      "word": "苔癬",
-      "reading": "たいせん",
-      "meaning": "địa y"
-    },
-    {
-      "word": "苔状",
-      "reading": "たいじょう",
-      "meaning": "phủ đầy rêu"
+      "word": "青苔",
+      "reading": "せいたい",
+      "meaning": "rêu xanh"
     },
     {
       "word": "苔類",
@@ -129,9 +119,19 @@
       "meaning": "ngành địa tiền"
     },
     {
-      "word": "銭苔",
-      "reading": "ぜにごけ",
-      "meaning": "cây rêu"
+      "word": "苔状",
+      "reading": "たいじょう",
+      "meaning": "phủ đầy rêu"
+    },
+    {
+      "word": "角苔",
+      "reading": "つのごけ",
+      "meaning": "rêu sừng"
+    },
+    {
+      "word": "苔虫",
+      "reading": "こけむし",
+      "meaning": "sâu rêu"
     }
   ]
 }

@@ -85,14 +85,19 @@
   ],
   "vocabulary": [
     {
-      "word": "且つ飲み且つ歌う",
-      "reading": "かつのみかつうたう",
-      "meaning": "vừa uống vừa hát"
-    },
-    {
       "word": "且つ",
       "reading": "かつ",
       "meaning": "ngoài ra"
+    },
+    {
+      "word": "尚且つ",
+      "reading": "なおかつ",
+      "meaning": "ngoài ra"
+    },
+    {
+      "word": "且つ又",
+      "reading": "かつまた",
+      "meaning": "bên cạnh đó"
     },
     {
       "word": "苟且",
@@ -110,14 +115,9 @@
       "meaning": "trong chốc lát"
     },
     {
-      "word": "尚且つ",
-      "reading": "なおかつ",
-      "meaning": "ngoài ra"
-    },
-    {
-      "word": "且つ又",
-      "reading": "かつまた",
-      "meaning": "bên cạnh đó"
+      "word": "且つ飲み且つ歌う",
+      "reading": "かつのみかつうたう",
+      "meaning": "vừa uống vừa hát"
     }
   ]
 }

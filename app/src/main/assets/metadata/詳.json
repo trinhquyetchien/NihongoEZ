@@ -90,14 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "詳しい",
+      "reading": "くわしい",
+      "meaning": "chi tiết"
+    },
+    {
       "word": "詳細",
       "reading": "しょうさい",
       "meaning": "một cách chi tiết"
     },
     {
-      "word": "詳察",
-      "reading": "しょうさつ",
-      "meaning": "pamfơlê"
+      "word": "詳細な",
+      "reading": "しょうさいな",
+      "meaning": "tỷ mỉ"
+    },
+    {
+      "word": "詳しく",
+      "reading": "くわしく",
+      "meaning": "một cách chi tiết"
     },
     {
       "word": "不詳",
@@ -105,9 +115,19 @@
       "meaning": "không rõ ràng"
     },
     {
+      "word": "詳報",
+      "reading": "しょうほう",
+      "meaning": "báo cáo tường tận"
+    },
+    {
       "word": "詳述",
       "reading": "しょうじゅつ",
       "meaning": "sự giải thích tường tận"
+    },
+    {
+      "word": "詳らか",
+      "reading": "つまびらか",
+      "meaning": "cặn kẽ"
     },
     {
       "word": "詳解",
@@ -118,26 +138,6 @@
       "word": "未詳",
       "reading": "みしょう",
       "meaning": "chưa biết được"
-    },
-    {
-      "word": "詳伝",
-      "reading": "しょうでん",
-      "meaning": "trình bày chi tiết tiểu sử"
-    },
-    {
-      "word": "詳注",
-      "reading": "しょうちゅう",
-      "meaning": "ghi chú chi tiết"
-    },
-    {
-      "word": "詳註",
-      "reading": "しょうちゅう",
-      "meaning": "chú thích chi tiết"
-    },
-    {
-      "word": "詳録",
-      "reading": "しょうろく",
-      "meaning": "sự ghi lại một cách chi tiết"
     }
   ]
 }

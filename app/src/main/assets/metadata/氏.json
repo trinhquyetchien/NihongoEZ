@@ -112,9 +112,29 @@
       "meaning": "anh"
     },
     {
-      "word": "尚氏",
-      "reading": "しょうし",
-      "meaning": "hoàng tộc vương quốc ryukyu"
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "họ tên"
+    },
+    {
+      "word": "氏人",
+      "reading": "うじびと",
+      "meaning": "người dòng dõi máu"
+    },
+    {
+      "word": "月氏",
+      "reading": "げっし",
+      "meaning": "yuezhi"
+    },
+    {
+      "word": "氏上",
+      "reading": "うじのかみ",
+      "meaning": "tộc trưởng"
+    },
+    {
+      "word": "氏ぬ",
+      "reading": "しぬ",
+      "meaning": "to die"
     },
     {
       "word": "氏文",
@@ -122,39 +142,19 @@
       "meaning": "gia phả"
     },
     {
-      "word": "カ氏",
-      "reading": "カし",
-      "meaning": "độ fahrenheit"
+      "word": "彼氏",
+      "reading": "かれし",
+      "meaning": "bạn trai"
     },
     {
-      "word": "氏子",
-      "reading": "うじこ",
-      "meaning": "giáo dân"
+      "word": "平氏",
+      "reading": "へいし",
+      "meaning": "những người thuộc dòng họ taira thời nara ở nhật bản"
     },
     {
-      "word": "氏神",
-      "reading": "うじがみ",
-      "meaning": "thần hộ mạng"
-    },
-    {
-      "word": "華氏",
-      "reading": "かし",
-      "meaning": "độ fahrenheit"
-    },
-    {
-      "word": "杜氏",
-      "reading": "とうじ",
-      "meaning": "người ủ rượu bia chính ở một nhà máy bia mục đích nhà phát minh viện dẫn mục đích)"
-    },
-    {
-      "word": "該氏",
-      "reading": "がいし",
-      "meaning": "người nói"
-    },
-    {
-      "word": "同氏",
-      "reading": "どうし",
-      "meaning": "người này"
+      "word": "源氏",
+      "reading": "げんじ",
+      "meaning": "genji"
     }
   ]
 }

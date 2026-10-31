@@ -123,54 +123,54 @@
   ],
   "vocabulary": [
     {
-      "word": "算",
-      "reading": "ざん",
-      "meaning": "bói toán gậy"
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "kế"
     },
     {
-      "word": "算術演算",
-      "reading": "さんじゅつえんざん",
-      "meaning": "phép tính số học"
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "phép toán"
     },
     {
-      "word": "算術加算",
-      "reading": "さんじゅつかさん",
-      "meaning": "phép cộng số học"
+      "word": "決算",
+      "reading": "けっさん",
+      "meaning": "sự cân đối tài khoản"
     },
     {
-      "word": "算術乗算",
-      "reading": "さんじゅつじょうざん",
-      "meaning": "phép nhân số học"
+      "word": "清算",
+      "reading": "せいさん",
+      "meaning": "sự thanh toán"
     },
     {
-      "word": "算術計算",
-      "reading": "さんじゅつけいさん",
-      "meaning": "tính toán số học"
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "lợi nhuận"
     },
     {
-      "word": "算術演算子",
-      "reading": "さんじゅつえんざんし",
-      "meaning": "toán tử số học"
+      "word": "暗算",
+      "reading": "あんざん",
+      "meaning": "sự tính nhẩm"
     },
     {
-      "word": "除算演算子",
-      "reading": "じょさんえんざんし",
-      "meaning": "toán tử chia"
+      "word": "通算",
+      "reading": "つうさん",
+      "meaning": "tổng cộng"
     },
     {
-      "word": "算術演算機構",
-      "reading": "さんじゅつえんざんきこう",
-      "meaning": "bộ phận số học"
+      "word": "算出",
+      "reading": "さんしゅつ",
+      "meaning": "sự tính toán"
     },
     {
-      "word": "算術演算装置",
-      "reading": "さんじゅつえんざんそうち",
-      "meaning": "bộ số học-logic"
+      "word": "演算",
+      "reading": "えんざん",
+      "meaning": "tính toán"
     },
     {
-      "word": "算術演算命令",
-      "reading": "さんじゅつえんざんめいれい",
-      "meaning": "chỉ thị số học"
+      "word": "試算",
+      "reading": "しさん",
+      "meaning": "sự tính toán thử"
     }
   ]
 }

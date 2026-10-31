@@ -93,14 +93,9 @@
       "meaning": "bồ câu"
     },
     {
-      "word": "蓑鳩",
-      "reading": "みのばと",
-      "meaning": "trúc bạch"
-    },
-    {
-      "word": "白鳩",
-      "reading": "しろはと",
-      "meaning": "chim bồ câu trắng"
+      "word": "家鳩",
+      "reading": "いえばと",
+      "meaning": "bồ câu nhà"
     },
     {
       "word": "金鳩",
@@ -108,34 +103,39 @@
       "meaning": "chim cu luồng"
     },
     {
-      "word": "緑鳩",
-      "reading": "あおばと",
-      "meaning": "cu xanh bụng trắng"
+      "word": "子鳩",
+      "reading": "こばと",
+      "meaning": "squab"
     },
     {
-      "word": "家鳩",
-      "reading": "いえばと",
-      "meaning": "bồ câu nhà"
+      "word": "初鳩",
+      "reading": "はつばと",
+      "meaning": "con bồ câu đầu tiên được nhìn thấy trong năm mới"
     },
     {
-      "word": "鳩舎",
-      "reading": "きゅうしゃ",
-      "meaning": "chuồng bồ câu"
+      "word": "鳩派",
+      "reading": "はとは",
+      "meaning": "chim bồ câu"
     },
     {
-      "word": "鳩合",
-      "reading": "きゅうごう",
-      "meaning": "một sự vận động"
+      "word": "海鳩",
+      "reading": "うみばと",
+      "meaning": "bồ câu biển"
     },
     {
-      "word": "烏鳩",
-      "reading": "からすばと",
-      "meaning": "một loại bồ câu nhật bản"
+      "word": "白鳩",
+      "reading": "しろはと",
+      "meaning": "chim bồ câu trắng"
     },
     {
-      "word": "鳩信",
-      "reading": "きゅうしん",
-      "meaning": "việc trao đổi thông tin nhờ bồ câu đưa thư"
+      "word": "旅行鳩",
+      "reading": "りょこうばと",
+      "meaning": "bồ câu viễn khách"
+    },
+    {
+      "word": "鳩座",
+      "reading": "はとざ",
+      "meaning": "chòm sao thiên cáp"
     }
   ]
 }

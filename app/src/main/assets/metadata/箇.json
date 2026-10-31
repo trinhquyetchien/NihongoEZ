@@ -82,29 +82,34 @@
   ],
   "vocabulary": [
     {
+      "word": "箇所",
+      "reading": "かしょ",
+      "meaning": "chỗ"
+    },
+    {
       "word": "箇",
       "reading": "こ",
       "meaning": "lượng từ dùng để đếm vật"
     },
     {
-      "word": "箇箇",
-      "reading": "ここ",
-      "meaning": "từng cái một"
+      "word": "箇条書き",
+      "reading": "かじょうがき",
+      "meaning": "sự ghi thành từng khoản"
+    },
+    {
+      "word": "一箇所",
+      "reading": "いっかしょ",
+      "meaning": "một chỗ"
+    },
+    {
+      "word": "二箇所",
+      "reading": "にかしょ",
+      "meaning": "hai nơi"
     },
     {
       "word": "箇条",
       "reading": "かじょう",
       "meaning": "điều khoản"
-    },
-    {
-      "word": "別箇",
-      "reading": "べっこ",
-      "meaning": "riêng"
-    },
-    {
-      "word": "箇月",
-      "reading": "かげつ",
-      "meaning": "tháng"
     },
     {
       "word": "一箇",
@@ -122,14 +127,9 @@
       "meaning": "bao nhiêu cái"
     },
     {
-      "word": "箇所",
-      "reading": "かしょ",
-      "meaning": "chỗ"
-    },
-    {
-      "word": "箇数",
-      "reading": "こすう",
-      "meaning": "ghi số những mục"
+      "word": "箇月",
+      "reading": "かげつ",
+      "meaning": "tháng"
     }
   ]
 }

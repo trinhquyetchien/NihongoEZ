@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "問",
-      "reading": "もん",
+      "word": "問題",
+      "reading": "もんだい",
       "meaning": "vấn đề"
-    },
-    {
-      "word": "問い",
-      "reading": "とい",
-      "meaning": "câu hỏi"
-    },
-    {
-      "word": "検問",
-      "reading": "けんもん",
-      "meaning": "hỏi và kiểm tra xem có bất kỳ vi phạm hoặc nghi ngờ nào không. đặc biệt"
     },
     {
       "word": "質問",
@@ -111,34 +101,44 @@
       "meaning": "câu hỏi"
     },
     {
-      "word": "拷問",
-      "reading": "ごうもん",
-      "meaning": "sự tra tấn"
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "sự nghi vấn"
     },
     {
-      "word": "全問",
-      "reading": "ぜんもん",
-      "meaning": "tất cả các câu hỏi"
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "sự thăm hỏi"
     },
     {
-      "word": "下問",
-      "reading": "かもん",
-      "meaning": "sự điều tra cấp dưới"
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "học vấn"
     },
     {
-      "word": "査問",
-      "reading": "さもん",
-      "meaning": "sự thẩm vấn"
+      "word": "問い",
+      "reading": "とい",
+      "meaning": "câu hỏi"
     },
     {
-      "word": "試問",
-      "reading": "しもん",
-      "meaning": "phỏng vấn"
+      "word": "問答",
+      "reading": "もんどう",
+      "meaning": "sự hỏi đáp"
     },
     {
-      "word": "珍問",
-      "reading": "ちんもん",
-      "meaning": "không thích hợp hỏi"
+      "word": "問",
+      "reading": "もん",
+      "meaning": "vấn đề"
+    },
+    {
+      "word": "問う",
+      "reading": "とう",
+      "meaning": "cật vấn"
+    },
+    {
+      "word": "問屋",
+      "reading": "とんや",
+      "meaning": "hãng buôn bán"
     }
   ]
 }

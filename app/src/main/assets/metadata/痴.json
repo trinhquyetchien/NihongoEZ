@@ -90,29 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "痴",
-      "reading": "ち",
-      "meaning": "sự ngu ngốc"
-    },
-    {
-      "word": "運痴",
-      "reading": "うんち",
-      "meaning": "chạy chậm lại trong những sự chuyển động ai đó"
-    },
-    {
       "word": "愚痴",
       "reading": "ぐち",
       "meaning": "than thở"
     },
     {
-      "word": "情痴",
-      "reading": "じょうち",
-      "meaning": "yêu sự khờ dại"
+      "word": "痴漢",
+      "reading": "ちかん",
+      "meaning": "sự quấy rối tình dục"
     },
     {
-      "word": "書痴",
-      "reading": "しょち",
-      "meaning": "mọt sách"
+      "word": "愚痴話",
+      "reading": "ぐちばなし",
+      "meaning": "lời phàn nàn nhàm chán"
     },
     {
       "word": "痴女",
@@ -120,24 +110,34 @@
       "meaning": "nữ biến thái"
     },
     {
-      "word": "痴態",
-      "reading": "ちたい",
-      "meaning": "sự ngu ngốc"
+      "word": "音痴",
+      "reading": "おんち",
+      "meaning": "sự mù tịt về âm nhạc"
     },
     {
-      "word": "痴人",
-      "reading": "ちじん",
-      "meaning": "người ngớ ngẩn"
+      "word": "白痴",
+      "reading": "はくち",
+      "meaning": "thằng ngốc"
     },
     {
-      "word": "痴情",
-      "reading": "ちじょう",
-      "meaning": "sự si tình"
+      "word": "白痴美",
+      "reading": "はくちび",
+      "meaning": "khuôn mặt xinh đẹp nhưng thiếu biểu cảm và trông vô tri"
     },
     {
       "word": "痴呆",
       "reading": "ちほう",
       "meaning": "chứng loạn trí"
+    },
+    {
+      "word": "痴呆症",
+      "reading": "ちほうしょう",
+      "meaning": "chứng mất trí"
+    },
+    {
+      "word": "愚痴る",
+      "reading": "ぐちる",
+      "meaning": "lèm bèm"
     }
   ]
 }

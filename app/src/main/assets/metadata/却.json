@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "却",
-      "reading": "きゃく",
-      "meaning": "thay vào đó"
+      "word": "売却",
+      "reading": "ばいきゃく",
+      "meaning": "sự bán đi"
     },
     {
-      "word": "没却",
-      "reading": "ぼっきゃく",
-      "meaning": "vứt bỏ và lờ đi"
+      "word": "売却損",
+      "reading": "ばいきゃくぞん",
+      "meaning": "doanh số bán hàng bị mất"
     },
     {
-      "word": "棄却",
-      "reading": "ききゃく",
-      "meaning": "sự bác bỏ lời khởi tố"
+      "word": "冷却",
+      "reading": "れいきゃく",
+      "meaning": "sự làm lạnh"
     },
     {
-      "word": "廃却",
-      "reading": "はいきゃく",
-      "meaning": "loại bỏ"
+      "word": "冷却用",
+      "reading": "れいきゃくよう",
+      "meaning": "dùng để làm mát"
     },
     {
-      "word": "阻却",
-      "reading": "そきゃく",
-      "meaning": "sự từ chối"
+      "word": "冷却水",
+      "reading": "れいきゃくすい",
+      "meaning": "chất lỏng làm nguội"
     },
     {
-      "word": "焼却",
-      "reading": "しょうきゃく",
-      "meaning": "sự thiêu hủy"
+      "word": "冷却器",
+      "reading": "れいきゃくき",
+      "meaning": "tủ ướp lạnh"
     },
     {
-      "word": "償却",
-      "reading": "しょうきゃく",
-      "meaning": "trả lại"
+      "word": "冷却剤",
+      "reading": "れいきゃくざい",
+      "meaning": "chất lỏng làm nguội"
     },
     {
-      "word": "忘却",
-      "reading": "ぼうきゃく",
-      "meaning": "sự lãng quên"
+      "word": "売却益",
+      "reading": "ばいきゃくえき",
+      "meaning": "kiếm lợi để bán"
     },
     {
-      "word": "滅却",
-      "reading": "めっきゃく",
-      "meaning": "sự dập tắt"
+      "word": "冷却材",
+      "reading": "れいきゃくざい",
+      "meaning": "chất làm mát"
     },
     {
-      "word": "閑却",
-      "reading": "かんきゃく",
-      "meaning": "tính cẩu thả"
+      "word": "冷却液",
+      "reading": "れいきゃくえき",
+      "meaning": "chất lỏng làm nguội"
     }
   ]
 }

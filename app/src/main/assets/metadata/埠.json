@@ -61,9 +61,9 @@
       "meaning": "phí cầu cảng"
     },
     {
-      "word": "陸揚埠頭",
-      "reading": "りくあげふとう",
-      "meaning": "bến dỡ"
+      "word": "埠頭使用量",
+      "reading": "ふとうしようりょう",
+      "meaning": "phí cầu cảng"
     },
     {
       "word": "埠頭倉庫",
@@ -76,29 +76,29 @@
       "meaning": "điều khoản cập cầu"
     },
     {
-      "word": "積込埠頭",
-      "reading": "つみこみふとう",
-      "meaning": "bến bốc"
-    },
-    {
       "word": "荷上げ埠頭",
       "reading": "にあげふとう",
       "meaning": "bến dỡ"
     },
     {
-      "word": "埠頭使用量",
-      "reading": "ふとうしようりょう",
-      "meaning": "phí cầu cảng"
+      "word": "積込埠頭",
+      "reading": "つみこみふとう",
+      "meaning": "bến bốc"
+    },
+    {
+      "word": "陸揚埠頭",
+      "reading": "りくあげふとう",
+      "meaning": "bến dỡ"
+    },
+    {
+      "word": "埠頭管理人保管証券",
+      "reading": "ふとうかんりにんほかんしょうけん",
+      "meaning": "phiếu lưu kho cầu cảng"
     },
     {
       "word": "荷下ろし埠頭",
       "reading": "におろしふとう",
       "meaning": "bến dỡ"
-    },
-    {
-      "word": "埠頭倉庫受取書",
-      "reading": "ふとうそうこうけとりしょ",
-      "meaning": "phiếu lưu kho cảng"
     }
   ]
 }

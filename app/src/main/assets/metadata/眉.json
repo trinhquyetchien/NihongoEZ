@@ -94,14 +94,19 @@
       "meaning": "lông mày"
     },
     {
-      "word": "眉毛",
-      "reading": "まゆげ",
-      "meaning": "lông mày"
+      "word": "眉月",
+      "reading": "まゆづき",
+      "meaning": "trăng hình lưỡi liềm"
     },
     {
-      "word": "眉唾",
-      "reading": "まゆつば",
-      "meaning": "không xác thực"
+      "word": "一本眉",
+      "reading": "いっぽんまゆ",
+      "meaning": "unibrow"
+    },
+    {
+      "word": "眉頭",
+      "reading": "まゆがしら",
+      "meaning": "phần đầu chân mày"
     },
     {
       "word": "眉白",
@@ -109,24 +114,14 @@
       "meaning": "lông mày trắng"
     },
     {
-      "word": "眉目",
-      "reading": "びもく",
-      "meaning": "khuôn mặt"
-    },
-    {
       "word": "眉雪",
       "reading": "びせつ",
       "meaning": "lông mày trắng như tuyết"
     },
     {
-      "word": "眉間",
-      "reading": "みけん",
-      "meaning": "mày"
-    },
-    {
-      "word": "眉宇",
-      "reading": "びう",
-      "meaning": "mày"
+      "word": "引き眉",
+      "reading": "ひきまゆ",
+      "meaning": "lông mày được kẻ"
     },
     {
       "word": "眉尻",
@@ -134,9 +129,14 @@
       "meaning": "đuôi chân mày"
     },
     {
-      "word": "柳眉",
-      "reading": "りゅうび",
-      "meaning": "lông mày là liễu"
+      "word": "画眉",
+      "reading": "がび",
+      "meaning": "những lông mày bút chì"
+    },
+    {
+      "word": "片眉",
+      "reading": "かたまゆ",
+      "meaning": "một bên lông mày"
     }
   ]
 }

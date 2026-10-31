@@ -86,39 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "岳",
-      "reading": "だけ",
-      "meaning": "núi cao"
-    },
-    {
       "word": "山岳",
       "reading": "さんがく",
       "meaning": "vùng núi"
     },
     {
-      "word": "岳樺",
-      "reading": "だけかんば",
-      "meaning": "betula ermanii"
-    },
-    {
-      "word": "岳父",
-      "reading": "がくふ",
-      "meaning": "bố vợ"
-    },
-    {
-      "word": "岳人",
-      "reading": "たけひと",
-      "meaning": "người leo núi"
-    },
-    {
-      "word": "岳麓",
-      "reading": "がくろく",
-      "meaning": "chân núi"
-    },
-    {
-      "word": "富岳",
-      "reading": "ふがく",
-      "meaning": "núi phú sĩ"
+      "word": "岳",
+      "reading": "だけ",
+      "meaning": "núi cao"
     },
     {
       "word": "岳神",
@@ -126,14 +101,39 @@
       "meaning": "thần núi"
     },
     {
-      "word": "岳烏",
-      "reading": "だけがらす",
-      "meaning": "nucifraga caryocatactes"
+      "word": "岳友会",
+      "reading": "がくゆうかい",
+      "meaning": "hội bạn leo núi"
+    },
+    {
+      "word": "山岳会",
+      "reading": "さんがくかい",
+      "meaning": "câu lạc bộ leo núi"
+    },
+    {
+      "word": "山岳部",
+      "reading": "さんがくぶ",
+      "meaning": "vùng đồi núi"
+    },
+    {
+      "word": "山岳地",
+      "reading": "さんがくち",
+      "meaning": "vùng núi"
+    },
+    {
+      "word": "山岳病",
+      "reading": "さんがくびょう",
+      "meaning": "sự đau yếu độ cao"
     },
     {
       "word": "旭岳",
       "reading": "あさひだけ",
       "meaning": "1 ngọn núi ở nhật bản nằm ở thị trấn higashikawa"
+    },
+    {
+      "word": "岳烏",
+      "reading": "だけがらす",
+      "meaning": "nucifraga caryocatactes"
     }
   ]
 }

@@ -93,19 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "仰仰しい",
-      "reading": "ぎょうぎょうしい",
-      "meaning": "phóng đại"
-    },
-    {
-      "word": "仰天",
-      "reading": "ぎょうてん",
-      "meaning": "việc vô cùng kinh ngạc"
-    },
-    {
-      "word": "仰る",
-      "reading": "おっしゃる",
-      "meaning": "nói"
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "tín ngưỡng"
     },
     {
       "word": "仰ぐ",
@@ -113,34 +103,44 @@
       "meaning": "lệ thuộc"
     },
     {
-      "word": "仰臥",
-      "reading": "ぎょうが",
-      "meaning": "sự nằm ngủ ngước mặt lên"
+      "word": "信仰的",
+      "reading": "しんこうてき",
+      "meaning": "tôn giáo"
     },
     {
-      "word": "仰せ",
-      "reading": "おおせ",
-      "meaning": "lệnh"
+      "word": "信仰者",
+      "reading": "しんこうしゃ",
+      "meaning": "tín đồ"
     },
     {
-      "word": "仰視",
-      "reading": "ぎょうし",
-      "meaning": "sự tôn kính"
+      "word": "信仰心",
+      "reading": "しんこうしん",
+      "meaning": "lòng thành kính"
     },
     {
-      "word": "仰山",
-      "reading": "ぎょうさん",
-      "meaning": "số lượng lớn"
+      "word": "無信仰",
+      "reading": "むしんこう",
+      "meaning": "vô thần"
     },
     {
-      "word": "渇仰",
-      "reading": "かつごう",
-      "meaning": "sự tôn sùng"
+      "word": "不信仰",
+      "reading": "ふしんこう",
+      "meaning": "thiếu lòng tin"
     },
     {
-      "word": "大仰",
-      "reading": "おおぎょう",
-      "meaning": "phóng đại"
+      "word": "仰る",
+      "reading": "おっしゃる",
+      "meaning": "nói"
+    },
+    {
+      "word": "仰天",
+      "reading": "ぎょうてん",
+      "meaning": "việc vô cùng kinh ngạc"
+    },
+    {
+      "word": "仰向け",
+      "reading": "あおむけ",
+      "meaning": "sự nằm ngửa"
     }
   ]
 }

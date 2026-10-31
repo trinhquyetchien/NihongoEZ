@@ -31,24 +31,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "罫",
-      "reading": "けい",
-      "meaning": "đường kẻ"
-    },
-    {
       "word": "罫線",
       "reading": "けいせん",
       "meaning": "hàng kẻ"
-    },
-    {
-      "word": "罫紙",
-      "reading": "けいし",
-      "meaning": "giấy kẻ dòng"
-    },
-    {
-      "word": "折罫",
-      "reading": "おりけい",
-      "meaning": "nếp gấp"
     },
     {
       "word": "罫線表",
@@ -56,9 +41,24 @@
       "meaning": "vẽ biểu đồ"
     },
     {
+      "word": "罫",
+      "reading": "けい",
+      "meaning": "đường kẻ"
+    },
+    {
+      "word": "折罫",
+      "reading": "おりけい",
+      "meaning": "nếp gấp"
+    },
+    {
       "word": "罫引き",
       "reading": "けびき",
       "meaning": "thước vạch đường"
+    },
+    {
+      "word": "罫紙",
+      "reading": "けいし",
+      "meaning": "giấy kẻ dòng"
     },
     {
       "word": "罫線を引く",

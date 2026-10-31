@@ -111,9 +111,9 @@
       "meaning": "sự thịnh vượng"
     },
     {
-      "word": "旺然",
-      "reading": "おうぜん",
-      "meaning": "rực rỡ"
+      "word": "旺盛な",
+      "reading": "おうせい",
+      "meaning": "mạnh mẽ"
     },
     {
       "word": "旺文社",
@@ -121,14 +121,9 @@
       "meaning": "nhà xuất bản oubunsha"
     },
     {
-      "word": "旺盛な",
-      "reading": "おうせい",
-      "meaning": "mạnh mẽ"
-    },
-    {
-      "word": "士気旺盛",
-      "reading": "しきおうせい",
-      "meaning": "tinh thần chiến đấu cao"
+      "word": "旺然",
+      "reading": "おうぜん",
+      "meaning": "rực rỡ"
     },
     {
       "word": "元気旺盛",
@@ -136,9 +131,9 @@
       "meaning": "tràn đầy năng lượng"
     },
     {
-      "word": "気力旺盛",
-      "reading": "きりょくおうせい",
-      "meaning": "tràn đầy năng lượng"
+      "word": "食欲旺盛な",
+      "reading": "しょくよくおうせいな",
+      "meaning": "thèm ăn quá trời"
     },
     {
       "word": "好奇心旺盛",
@@ -146,9 +141,14 @@
       "meaning": "tràn đầy tò mò"
     },
     {
-      "word": "食欲旺盛な",
-      "reading": "しょくよくおうせいな",
-      "meaning": "thèm ăn quá trời"
+      "word": "気力旺盛",
+      "reading": "きりょくおうせい",
+      "meaning": "tràn đầy năng lượng"
+    },
+    {
+      "word": "士気旺盛",
+      "reading": "しきおうせい",
+      "meaning": "tinh thần chiến đấu cao"
     }
   ]
 }

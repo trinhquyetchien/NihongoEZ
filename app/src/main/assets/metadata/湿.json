@@ -110,9 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "乾湿球湿度計",
-      "reading": "かんしつきゅうしつどけい",
-      "meaning": "nhiệt kế đo độ khô ẩm"
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "độ ẩm"
     },
     {
       "word": "湿気",
@@ -125,39 +125,39 @@
       "meaning": "ẩm ướt"
     },
     {
-      "word": "湿疹",
-      "reading": "しっしん",
-      "meaning": "bệnh ghẻ lở"
+      "word": "湿気る",
+      "reading": "しける",
+      "meaning": "ỉu"
     },
     {
-      "word": "湿度",
-      "reading": "しつど",
-      "meaning": "độ ẩm"
+      "word": "除湿剤",
+      "reading": "じょしつざい",
+      "meaning": "hạt hút ẩm"
     },
     {
-      "word": "湿布",
-      "reading": "しっぷ",
-      "meaning": "miếng dán"
-    },
-    {
-      "word": "除湿",
-      "reading": "じょしつ",
-      "meaning": "việc làm mất sự ẩm ướt trong không khí"
-    },
-    {
-      "word": "保湿",
-      "reading": "ほしつ",
-      "meaning": "giữ ẩm"
-    },
-    {
-      "word": "低湿",
-      "reading": "ていしつ",
-      "meaning": "sự ẩm thấp"
-    },
-    {
-      "word": "多湿",
-      "reading": "たしつ",
+      "word": "高湿度",
+      "reading": "こうしつど",
       "meaning": "độ ẩm cao"
+    },
+    {
+      "word": "湿度計",
+      "reading": "しつどけい",
+      "meaning": "cái đo ẩm"
+    },
+    {
+      "word": "湿生",
+      "reading": "しっせい",
+      "meaning": "sinh ra từ độ ẩm"
+    },
+    {
+      "word": "土湿",
+      "reading": "どしつ",
+      "meaning": "độ ẩm của đất"
+    },
+    {
+      "word": "湿雪",
+      "reading": "しっせつ",
+      "meaning": "tuyết ướt"
     }
   ]
 }

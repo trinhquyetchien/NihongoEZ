@@ -86,9 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "げきこう 激昂 げっこう",
-      "reading": "激昂",
-      "meaning": "kích thích"
+      "word": "昂揚",
+      "reading": "こうよう",
+      "meaning": "sự tăng cao"
     },
     {
       "word": "昂奮",
@@ -96,24 +96,9 @@
       "meaning": "sự kích động"
     },
     {
-      "word": "昂揚",
-      "reading": "こうよう",
-      "meaning": "sự tăng cao"
-    },
-    {
-      "word": "昂騰",
-      "reading": "こうとう",
-      "meaning": "giá thình lình nhảy vọt"
-    },
-    {
       "word": "軒昂",
       "reading": "けんこう",
       "meaning": "hưng phấn"
-    },
-    {
-      "word": "昂然",
-      "reading": "こうぜん",
-      "meaning": "hăng hái"
     },
     {
       "word": "昂進",
@@ -121,19 +106,34 @@
       "meaning": "lên"
     },
     {
+      "word": "昂騰",
+      "reading": "こうとう",
+      "meaning": "giá thình lình nhảy vọt"
+    },
+    {
+      "word": "昂然",
+      "reading": "こうぜん",
+      "meaning": "hăng hái"
+    },
+    {
+      "word": "激昂する",
+      "reading": "げっこうする",
+      "meaning": "phẫn uất"
+    },
+    {
       "word": "意気軒昂",
       "reading": "いきけんこう",
       "meaning": "sự phấn chấn"
     },
     {
-      "word": "心悸昂進",
-      "reading": "しんきこうしん",
-      "meaning": "những hồi hộp trái tim)"
-    },
-    {
       "word": "軒昂たる",
       "reading": "けんこうたる",
       "meaning": "trong rượu cao"
+    },
+    {
+      "word": "心悸昂進",
+      "reading": "しんきこうしん",
+      "meaning": "những hồi hộp trái tim)"
     }
   ]
 }

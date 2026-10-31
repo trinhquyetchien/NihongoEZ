@@ -115,29 +115,14 @@
       "meaning": "bề phải"
     },
     {
-      "word": "表表紙",
-      "reading": "おもてびょうし",
-      "meaning": "đối diện vỏ"
-    },
-    {
-      "word": "グラフ / 図表 / 表",
-      "reading": "グラフ",
-      "meaning": "đồ thị"
-    },
-    {
-      "word": "名表",
-      "reading": "なおもて",
-      "meaning": "viết tắt của"
-    },
-    {
       "word": "代表",
       "reading": "だいひょう",
       "meaning": "cán sự"
     },
     {
-      "word": "ひょうり おもてうら 表裏",
-      "reading": "表裏",
-      "meaning": "hai mặt"
+      "word": "表す",
+      "reading": "あらわす",
+      "meaning": "biểu thị"
     },
     {
       "word": "公表",
@@ -145,19 +130,34 @@
       "meaning": "sự công bố"
     },
     {
-      "word": "表明",
-      "reading": "ひょうめい",
-      "meaning": "việc bày tỏ"
+      "word": "図表",
+      "reading": "ずひょう",
+      "meaning": "biểu đồ"
     },
     {
-      "word": "表れ",
-      "reading": "あらわれ",
-      "meaning": "sự biểu thị"
+      "word": "前表",
+      "reading": "ぜんぴょう",
+      "meaning": "báo hiệu"
     },
     {
-      "word": "表す",
-      "reading": "あらわす",
-      "meaning": "biểu thị"
+      "word": "名表",
+      "reading": "なおもて",
+      "meaning": "viết tắt của"
+    },
+    {
+      "word": "次表",
+      "reading": "じひょう",
+      "meaning": "bảng bên dưới"
+    },
+    {
+      "word": "表内",
+      "reading": "ひょうない",
+      "meaning": "bên trong một bảng hoặc danh sách"
+    },
+    {
+      "word": "星表",
+      "reading": "せいひょう",
+      "meaning": "star catalog"
     }
   ]
 }

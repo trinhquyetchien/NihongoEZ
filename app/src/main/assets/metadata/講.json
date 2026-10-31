@@ -104,34 +104,14 @@
   ],
   "vocabulary": [
     {
-      "word": "講",
-      "reading": "こう",
-      "meaning": "họp giảng"
+      "word": "講義",
+      "reading": "こうぎ",
+      "meaning": "bài giảng"
     },
     {
-      "word": "休講",
-      "reading": "きゅうこう",
-      "meaning": "sự ngừng lên lớp"
-    },
-    {
-      "word": "講会",
-      "reading": "こうえ",
-      "meaning": "buổi họp giảng"
-    },
-    {
-      "word": "講習",
-      "reading": "こうしゅう",
-      "meaning": "hướng ngắn"
-    },
-    {
-      "word": "受講",
-      "reading": "じゅこう",
-      "meaning": "tham gia lớp học"
-    },
-    {
-      "word": "講座",
-      "reading": "こうざ",
-      "meaning": "bàn toán"
+      "word": "講堂",
+      "reading": "こうどう",
+      "meaning": "giảng đường"
     },
     {
       "word": "講演",
@@ -144,14 +124,34 @@
       "meaning": "giảng viên"
     },
     {
-      "word": "講義",
-      "reading": "こうぎ",
-      "meaning": "bài giảng"
+      "word": "休講",
+      "reading": "きゅうこう",
+      "meaning": "sự ngừng lên lớp"
     },
     {
-      "word": "講堂",
-      "reading": "こうどう",
-      "meaning": "giảng đường"
+      "word": "講習",
+      "reading": "こうしゅう",
+      "meaning": "hướng ngắn"
+    },
+    {
+      "word": "講読",
+      "reading": "こうどく",
+      "meaning": "đọc và diễn giải"
+    },
+    {
+      "word": "聴講",
+      "reading": "ちょうこう",
+      "meaning": "sự nghe giảng"
+    },
+    {
+      "word": "講座",
+      "reading": "こうざ",
+      "meaning": "bàn toán"
+    },
+    {
+      "word": "講演者",
+      "reading": "こうえんしゃ",
+      "meaning": "diễn giả"
     }
   ]
 }

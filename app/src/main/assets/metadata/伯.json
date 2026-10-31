@@ -87,29 +87,44 @@
   ],
   "vocabulary": [
     {
+      "word": "伯爵",
+      "reading": "はくしゃく",
+      "meaning": "bá tước"
+    },
+    {
+      "word": "伯父",
+      "reading": "おじ",
+      "meaning": "bác"
+    },
+    {
+      "word": "伯父御",
+      "reading": "おじご",
+      "meaning": "bác"
+    },
+    {
+      "word": "伯父貴",
+      "reading": "おじき",
+      "meaning": "chú"
+    },
+    {
       "word": "伯",
       "reading": "はく",
       "meaning": "bác"
     },
     {
-      "word": "宗伯",
-      "reading": "そうはく",
-      "meaning": "thượng thư bộ lễ"
+      "word": "方伯",
+      "reading": "ほうはく",
+      "meaning": "tước vị của quan cai trị vùng lãnh thổ rộng"
     },
     {
-      "word": "画伯",
-      "reading": "がはく",
-      "meaning": "họa sĩ"
+      "word": "伯人",
+      "reading": "はくじん",
+      "meaning": "brazilian"
     },
     {
-      "word": "医伯",
-      "reading": "いはく",
-      "meaning": "săn sóc"
-    },
-    {
-      "word": "伯叔",
-      "reading": "はくしゅく",
-      "meaning": "anh em"
+      "word": "日伯",
+      "reading": "にっぱく",
+      "meaning": "nhật bản và brazil"
     },
     {
       "word": "伯兄",
@@ -117,24 +132,9 @@
       "meaning": "con trai eldest"
     },
     {
-      "word": "伯爵",
-      "reading": "はくしゃく",
-      "meaning": "bá tước"
-    },
-    {
-      "word": "侯伯",
-      "reading": "こうはく",
-      "meaning": "người quý tộc"
-    },
-    {
-      "word": "伯林",
-      "reading": "ベルリン",
-      "meaning": "berlin"
-    },
-    {
-      "word": "伯楽",
-      "reading": "ばくろう",
-      "meaning": "người có khả năng xét đoán tốt về ngựa hoặc thú nuôi"
+      "word": "医伯",
+      "reading": "いはく",
+      "meaning": "săn sóc"
     }
   ]
 }

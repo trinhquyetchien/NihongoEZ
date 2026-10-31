@@ -106,19 +106,24 @@
   ],
   "vocabulary": [
     {
-      "word": "養護",
-      "reading": "ようご",
+      "word": "看護師",
+      "reading": "かんごし",
+      "meaning": "y tá"
+    },
+    {
+      "word": "保護",
+      "reading": "ほご",
+      "meaning": "sự bảo hộ"
+    },
+    {
+      "word": "看護",
+      "reading": "かんご",
       "meaning": "sự chăm sóc"
     },
     {
-      "word": "擁護",
-      "reading": "ようご",
-      "meaning": "bảo vệ"
-    },
-    {
-      "word": "護る",
-      "reading": "まもる",
-      "meaning": "bảo vệ"
+      "word": "介護",
+      "reading": "かいご",
+      "meaning": "sự chăm sóc bệnh nhân"
     },
     {
       "word": "護衛",
@@ -126,34 +131,29 @@
       "meaning": "hộ vệ"
     },
     {
-      "word": "援護",
-      "reading": "えんご",
-      "meaning": "sự trợ giúp"
+      "word": "弁護",
+      "reading": "べんご",
+      "meaning": "biện hộ"
     },
     {
-      "word": "護国",
-      "reading": "ごこく",
-      "meaning": "sự phòng thủ một có nước"
+      "word": "養護",
+      "reading": "ようご",
+      "meaning": "sự chăm sóc"
     },
     {
-      "word": "戒護",
-      "reading": "かいご",
-      "meaning": "sự trong nom cẩn thận"
+      "word": "保護区",
+      "reading": "ほごく",
+      "meaning": "khu bảo tồn"
     },
     {
-      "word": "愛護",
-      "reading": "あいご",
-      "meaning": "sự bảo vệ"
+      "word": "介護者",
+      "reading": "かいごしゃ",
+      "meaning": "điều dưỡng viên"
     },
     {
-      "word": "護符",
-      "reading": "ごふ",
-      "meaning": "bùa"
-    },
-    {
-      "word": "護憲",
-      "reading": "ごけん",
-      "meaning": "bảo vệ hiến pháp"
+      "word": "看護学",
+      "reading": "かんごがく",
+      "meaning": "khoa điều dưỡng"
     }
   ]
 }

@@ -52,54 +52,54 @@
   ],
   "vocabulary": [
     {
-      "word": "手摺",
-      "reading": "てすり",
-      "meaning": "lan can"
-    },
-    {
-      "word": "摺本",
-      "reading": "しょうほん",
-      "meaning": "gấp sách"
-    },
-    {
-      "word": "笈摺",
-      "reading": "おいずり",
-      "meaning": "áo ngoài mỏng"
-    },
-    {
-      "word": "足摺",
-      "reading": "あしずり",
-      "meaning": "giậm chân để thể hiện sự tiếc nuối"
-    },
-    {
-      "word": "摺足",
+      "word": "摺り足",
       "reading": "すりあし",
-      "meaning": "việc kéo lê chân khi bước đi"
+      "meaning": "cách đi không nhấc gót"
     },
     {
-      "word": "草摺",
-      "reading": "くさずり",
-      "meaning": "thuốc nhuộm thực vật"
+      "word": "千摺り",
+      "reading": "せんずり",
+      "meaning": "thủ dâm"
     },
     {
-      "word": "摺箔",
-      "reading": "すりはく",
-      "meaning": "kỹ thuật dán vàng bạc lá lên vải"
+      "word": "摺り本",
+      "reading": "すりほん",
+      "meaning": "in"
     },
     {
-      "word": "摺動",
-      "reading": "しゅうどう",
-      "meaning": "chuyển động trượt"
+      "word": "下摺り",
+      "reading": "したずり",
+      "meaning": "sự chứng minh in"
     },
     {
-      "word": "沓摺",
-      "reading": "くつずり",
-      "meaning": "phần khung bục dưới của cửa lối ra vào"
+      "word": "手摺り",
+      "reading": "てすり",
+      "meaning": "tay vịn"
     },
     {
       "word": "靴摺り",
       "reading": "くつずり",
       "meaning": "ngưỡng cửa"
+    },
+    {
+      "word": "石摺り",
+      "reading": "いしずり",
+      "meaning": "sự cọ xát"
+    },
+    {
+      "word": "藍摺り",
+      "reading": "あいずり",
+      "meaning": "in chàm"
+    },
+    {
+      "word": "摺り鉢",
+      "reading": "すりばち",
+      "meaning": "cái cối đồ gốm"
+    },
+    {
+      "word": "摺動",
+      "reading": "しゅうどう",
+      "meaning": "chuyển động trượt"
     }
   ]
 }

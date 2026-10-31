@@ -90,6 +90,16 @@
   ],
   "vocabulary": [
     {
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaning": "chỗ trọ"
+    },
+    {
+      "word": "会館",
+      "reading": "かいかん",
+      "meaning": "hội quán"
+    },
+    {
       "word": "館",
       "reading": "かん",
       "meaning": "dinh thự"
@@ -100,44 +110,34 @@
       "meaning": "tòa nhà chính"
     },
     {
-      "word": "函館",
-      "reading": "はこだて",
-      "meaning": ""
+      "word": "写真館",
+      "reading": "しゃしんかん",
+      "meaning": "trường quay bức ảnh"
     },
     {
-      "word": "館員",
-      "reading": "かんいん",
-      "meaning": "nhân sự tòa nhà công cộng)"
+      "word": "館外",
+      "reading": "かんがい",
+      "meaning": "bên ngoài một tòa nhà"
     },
     {
-      "word": "号館",
-      "reading": "ごうかん",
-      "meaning": "- xây dựng số"
+      "word": "夏館",
+      "reading": "なつやかた",
+      "meaning": "biệt thự mùa hè"
     },
     {
-      "word": "来館",
-      "reading": "らいかん",
-      "meaning": "việc đến đại sứ quán"
+      "word": "記念館",
+      "reading": "きねんかん",
+      "meaning": "phòng lớn vật kỷ niệm"
     },
     {
-      "word": "全館",
-      "reading": "ぜんかん",
-      "meaning": "toàn bộ tòa nhà"
+      "word": "資料館",
+      "reading": "しりょうかん",
+      "meaning": "phòng tư liệu"
     },
     {
-      "word": "館長",
-      "reading": "かんちょう",
-      "meaning": "giám sát viên"
-    },
-    {
-      "word": "商館",
-      "reading": "しょうかん",
-      "meaning": "hãng"
-    },
-    {
-      "word": "新館",
-      "reading": "しんかん",
-      "meaning": "tòa nhà mới"
+      "word": "書籍館",
+      "reading": "しょじゃくかん",
+      "meaning": "kho sách"
     }
   ]
 }

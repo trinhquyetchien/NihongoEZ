@@ -89,44 +89,44 @@
   ],
   "vocabulary": [
     {
-      "word": "追い追いに",
-      "reading": "おいおいに",
-      "meaning": "dần dần"
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "bận rộn"
     },
     {
-      "word": "追いつ追われつ",
-      "reading": "おいつおわれつ",
-      "meaning": "mèo vờn&amp"
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "sự đuổi đi"
     },
     {
-      "word": "追突",
-      "reading": "ついとつ",
-      "meaning": "sự va từ phía sau"
+      "word": "追跡",
+      "reading": "ついせき",
+      "meaning": "sự truy đuổi"
     },
     {
-      "word": "追従",
-      "reading": "ついしょう",
-      "meaning": "thói a dua"
-    },
-    {
-      "word": "追試",
-      "reading": "ついし",
-      "meaning": "kỳ thi bổ sung"
-    },
-    {
-      "word": "追刊",
-      "reading": "ついかん",
-      "meaning": "sự phát hành thêm"
-    },
-    {
-      "word": "追河",
-      "reading": "おいかわ",
-      "meaning": "cá chuôn bụng tròn"
-    },
-    {
-      "word": "追給",
+      "word": "追及",
       "reading": "ついきゅう",
-      "meaning": "sự thanh toán bổ sung"
+      "meaning": "sự điều tra"
+    },
+    {
+      "word": "追求",
+      "reading": "ついきゅう",
+      "meaning": "theo đuổi"
+    },
+    {
+      "word": "追悼",
+      "reading": "ついとう",
+      "meaning": "sự truy điệu"
+    },
+    {
+      "word": "追白",
+      "reading": "ついはく",
+      "meaning": "tái bút"
+    },
+    {
+      "word": "追記",
+      "reading": "ついき",
+      "meaning": "tái bút"
     },
     {
       "word": "追走",
@@ -134,9 +134,9 @@
       "meaning": "đuổi theo"
     },
     {
-      "word": "追補",
-      "reading": "ついほ",
-      "meaning": "phần bổ sung"
+      "word": "追河",
+      "reading": "おいかわ",
+      "meaning": "cá chuôn bụng tròn"
     }
   ]
 }

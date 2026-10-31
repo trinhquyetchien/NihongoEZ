@@ -88,29 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "怯え",
-      "reading": "おびえ",
-      "meaning": "cơn khủng hoảng"
-    },
-    {
-      "word": "怯む",
-      "reading": "ひるむ",
-      "meaning": "dao động"
-    },
-    {
-      "word": "怯懦",
-      "reading": "きょうだ",
-      "meaning": "tính nhát gan"
-    },
-    {
       "word": "卑怯",
       "reading": "ひきょう",
       "meaning": "bần tiện"
-    },
-    {
-      "word": "怯弱",
-      "reading": "きょうじゃく",
-      "meaning": "coward"
     },
     {
       "word": "怯える",
@@ -128,14 +108,34 @@
       "meaning": "người hèn nhát"
     },
     {
-      "word": "悪怯れる",
-      "reading": "わるびれる",
-      "meaning": "hồi hộp"
+      "word": "怯え",
+      "reading": "おびえ",
+      "meaning": "cơn khủng hoảng"
+    },
+    {
+      "word": "怯む",
+      "reading": "ひるむ",
+      "meaning": "dao động"
+    },
+    {
+      "word": "怯懦",
+      "reading": "きょうだ",
+      "meaning": "tính nhát gan"
+    },
+    {
+      "word": "怯弱",
+      "reading": "きょうじゃく",
+      "meaning": "coward"
     },
     {
       "word": "卑怯千万",
       "reading": "ひきょうせんばん",
       "meaning": "đê tiện"
+    },
+    {
+      "word": "気が怯む",
+      "reading": "きがひるむ",
+      "meaning": "thất thần"
     }
   ]
 }

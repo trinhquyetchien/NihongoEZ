@@ -89,14 +89,19 @@
   ],
   "vocabulary": [
     {
+      "word": "邸宅",
+      "reading": "ていたく",
+      "meaning": "tòa biệt thự"
+    },
+    {
       "word": "邸",
       "reading": "てい",
       "meaning": "lâu đài"
     },
     {
-      "word": "私邸",
-      "reading": "してい",
-      "meaning": "nhà riêng"
+      "word": "来邸",
+      "reading": "らいてい",
+      "meaning": "việc đến thăm dinh thự của ai đó"
     },
     {
       "word": "邸内",
@@ -109,9 +114,14 @@
       "meaning": "quan to"
     },
     {
-      "word": "別邸",
-      "reading": "べってい",
+      "word": "大邸宅",
+      "reading": "だいていたく",
       "meaning": "biệt thự"
+    },
+    {
+      "word": "豪邸",
+      "reading": "ごうてい",
+      "meaning": "dinh thự nguy nga"
     },
     {
       "word": "公邸",
@@ -119,24 +129,14 @@
       "meaning": "dinh thự của quan chức cấp cao để làm việc công"
     },
     {
-      "word": "本邸",
-      "reading": "ほんてい",
-      "meaning": "dinh thự thiết yếu"
+      "word": "私邸",
+      "reading": "してい",
+      "meaning": "nhà riêng"
     },
     {
-      "word": "藩邸",
-      "reading": "はんてい",
-      "meaning": "dinh thự của các lãnh chúa daimyo trong thời edo"
-    },
-    {
-      "word": "来邸",
-      "reading": "らいてい",
-      "meaning": "việc đến thăm dinh thự của ai đó"
-    },
-    {
-      "word": "邸宅",
-      "reading": "ていたく",
-      "meaning": "tòa biệt thự"
+      "word": "別邸",
+      "reading": "べってい",
+      "meaning": "biệt thự"
     }
   ]
 }

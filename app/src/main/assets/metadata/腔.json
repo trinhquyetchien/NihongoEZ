@@ -64,19 +64,44 @@
   ],
   "vocabulary": [
     {
+      "word": "口腔",
+      "reading": "こうこう",
+      "meaning": "khoang miệng"
+    },
+    {
+      "word": "口腔底",
+      "reading": "こうこうてい",
+      "meaning": "sàn miệng"
+    },
+    {
+      "word": "口腔癌",
+      "reading": "こうこうがん",
+      "meaning": "ung thư vòm họng"
+    },
+    {
+      "word": "腹腔",
+      "reading": "ふくくう",
+      "meaning": "hốc bụng"
+    },
+    {
+      "word": "腹腔鏡",
+      "reading": "ふくくうきょう",
+      "meaning": "nội soi ổ bụng"
+    },
+    {
+      "word": "鼻腔",
+      "reading": "びこう",
+      "meaning": "hốc mũi"
+    },
+    {
+      "word": "副鼻腔",
+      "reading": "ふくびこう",
+      "meaning": "paranasal"
+    },
+    {
       "word": "腔",
       "reading": "こう",
       "meaning": "hốc"
-    },
-    {
-      "word": "腔線",
-      "reading": "こうせん",
-      "meaning": "súng cầm tay"
-    },
-    {
-      "word": "体腔",
-      "reading": "たいこう",
-      "meaning": "hốc thân thể"
     },
     {
       "word": "内腔",
@@ -87,31 +112,6 @@
       "word": "耳腔",
       "reading": "じこう",
       "meaning": "bên trong cái tai"
-    },
-    {
-      "word": "胸腔",
-      "reading": "きょうこう",
-      "meaning": "lồng ngực"
-    },
-    {
-      "word": "満腔",
-      "reading": "まんこう",
-      "meaning": "hết lòng"
-    },
-    {
-      "word": "腹腔",
-      "reading": "ふくくう",
-      "meaning": "hốc bụng"
-    },
-    {
-      "word": "鼻腔",
-      "reading": "びこう",
-      "meaning": "hốc mũi"
-    },
-    {
-      "word": "口腔",
-      "reading": "こうこう",
-      "meaning": "khoang miệng"
     }
   ]
 }

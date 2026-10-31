@@ -93,29 +93,29 @@
   ],
   "vocabulary": [
     {
-      "word": "軽",
-      "reading": "けい",
+      "word": "軽い",
+      "reading": "かるい",
       "meaning": "nhẹ"
     },
     {
-      "word": "軽軽",
-      "reading": "かるがる",
+      "word": "気軽",
+      "reading": "きがる",
+      "meaning": "khoan khoái"
+    },
+    {
+      "word": "軽減",
+      "reading": "けいげん",
+      "meaning": "sự giảm bớt"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
       "meaning": "nhẹ nhàng"
     },
     {
-      "word": "軽軽と",
-      "reading": "かるがると",
-      "meaning": "nhẹ nhàng"
-    },
-    {
-      "word": "軽軽しい",
-      "reading": "かるがるしい",
-      "meaning": "không kín đáo"
-    },
-    {
-      "word": "軽羹",
-      "reading": "かるかん",
-      "meaning": "karukan"
+      "word": "軽蔑",
+      "reading": "けいべつ",
+      "meaning": "xem nhẹ"
     },
     {
       "word": "軽率",
@@ -123,24 +123,24 @@
       "meaning": "khinh suất"
     },
     {
-      "word": "軽傷",
-      "reading": "けいしょう",
-      "meaning": "vết thương nhẹ"
+      "word": "軽快",
+      "reading": "けいかい",
+      "meaning": "nhịp nhàng"
     },
     {
-      "word": "軽い",
-      "reading": "かるい",
+      "word": "軽",
+      "reading": "けい",
       "meaning": "nhẹ"
     },
     {
-      "word": "軽石",
-      "reading": "かるいし",
-      "meaning": "đá bọt"
+      "word": "軽さ",
+      "reading": "かるさ",
+      "meaning": "sự nhẹ"
     },
     {
-      "word": "軽薄",
-      "reading": "けいはく",
-      "meaning": "nông cạn"
+      "word": "軽機",
+      "reading": "けいき",
+      "meaning": "nhẹ làm bằng máy súng"
     }
   ]
 }

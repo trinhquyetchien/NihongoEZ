@@ -52,14 +52,14 @@
   ],
   "vocabulary": [
     {
-      "word": "帰趨",
-      "reading": "きすう",
-      "meaning": "xu hướng"
-    },
-    {
       "word": "趨勢",
       "reading": "すうせい",
       "meaning": "xu thế"
+    },
+    {
+      "word": "帰趨",
+      "reading": "きすう",
+      "meaning": "xu hướng"
     },
     {
       "word": "拝趨",

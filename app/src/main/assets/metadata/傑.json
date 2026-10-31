@@ -88,14 +88,19 @@
   ],
   "vocabulary": [
     {
+      "word": "傑作",
+      "reading": "けっさく",
+      "meaning": "kiệt tác"
+    },
+    {
       "word": "傑",
       "reading": "けつ",
       "meaning": "sự ưu tú"
     },
     {
-      "word": "傑作",
-      "reading": "けっさく",
-      "meaning": "kiệt tác"
+      "word": "傑れる",
+      "reading": "すぐれる",
+      "meaning": "xuất sắc"
     },
     {
       "word": "傑出",
@@ -103,23 +108,8 @@
       "meaning": "sự kiệt xuất"
     },
     {
-      "word": "傑物",
-      "reading": "けつぶつ",
-      "meaning": "nhân vật kiệt xuất"
-    },
-    {
-      "word": "女傑",
-      "reading": "じょけつ",
-      "meaning": "nữ anh hùng"
-    },
-    {
-      "word": "怪傑",
-      "reading": "かいけつ",
-      "meaning": "quái kiệt"
-    },
-    {
-      "word": "人傑",
-      "reading": "じんけつ",
+      "word": "英傑",
+      "reading": "えいけつ",
       "meaning": "người anh hùng"
     },
     {
@@ -128,14 +118,24 @@
       "meaning": "hào kiệt"
     },
     {
-      "word": "傑士",
-      "reading": "けっし",
-      "meaning": "người anh hùng"
+      "word": "女傑",
+      "reading": "じょけつ",
+      "meaning": "nữ anh hùng"
     },
     {
-      "word": "傑人",
-      "reading": "けつじん",
-      "meaning": "người nổi bật"
+      "word": "傑物",
+      "reading": "けつぶつ",
+      "meaning": "nhân vật kiệt xuất"
+    },
+    {
+      "word": "怪傑",
+      "reading": "かいけつ",
+      "meaning": "quái kiệt"
+    },
+    {
+      "word": "俊傑",
+      "reading": "しゅんけつ",
+      "meaning": "người tuấn kiệt"
     }
   ]
 }

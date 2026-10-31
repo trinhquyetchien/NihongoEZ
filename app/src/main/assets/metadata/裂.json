@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "裂く",
+      "reading": "さく",
+      "meaning": "xé"
+    },
+    {
       "word": "分裂",
       "reading": "ぶんれつ",
       "meaning": "sự phân liệt"
     },
     {
-      "word": "裂地",
-      "reading": "きれじ",
-      "meaning": "vải"
-    },
-    {
-      "word": "決裂",
-      "reading": "けつれつ",
-      "meaning": "quyết liệt"
-    },
-    {
-      "word": "秘裂",
-      "reading": "ひれつ",
-      "meaning": "cơ quan sinh dục nữ"
-    },
-    {
-      "word": "鰓裂",
-      "reading": "さいれつ",
-      "meaning": "khe mang"
-    },
-    {
-      "word": "裂果",
-      "reading": "れっか",
-      "meaning": "trái cây nứt"
-    },
-    {
-      "word": "乾裂",
-      "reading": "かんれつ",
-      "meaning": "vết khô nứt"
-    },
-    {
-      "word": "滅裂",
-      "reading": "めつれつ",
-      "meaning": "không mạch lạc"
-    },
-    {
-      "word": "断裂",
-      "reading": "だんれつ",
-      "meaning": "nứt ra"
-    },
-    {
       "word": "破裂",
       "reading": "はれつ",
       "meaning": "sự đổ bể"
+    },
+    {
+      "word": "裂ける",
+      "reading": "さける",
+      "meaning": "bị xé"
+    },
+    {
+      "word": "分裂性",
+      "reading": "ぶんれつせい",
+      "meaning": "có thể phân hạt nhân"
+    },
+    {
+      "word": "分裂症",
+      "reading": "ぶんれつしょう",
+      "meaning": "chứng tâm thần phân liệt"
+    },
+    {
+      "word": "分裂病",
+      "reading": "ぶんれつびょう",
+      "meaning": "bệnh tâm thần phân liệt"
+    },
+    {
+      "word": "心破裂",
+      "reading": "しんはれつ",
+      "meaning": "vỡ tim"
+    },
+    {
+      "word": "破裂音",
+      "reading": "はれつおん",
+      "meaning": "âm thanh âm bật"
+    },
+    {
+      "word": "破裂板",
+      "reading": "はれつばん",
+      "meaning": "đĩa vỡ"
     }
   ]
 }

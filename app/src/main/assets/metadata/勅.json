@@ -87,19 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "勅語",
+      "reading": "ちょくご",
+      "meaning": "sắc ngữ"
+    },
+    {
       "word": "勅",
       "reading": "みことのり",
       "meaning": "tờ sắc"
     },
     {
-      "word": "勅祭",
-      "reading": "ちょくさい",
-      "meaning": "lễ sắc tế tổ chức hoặc có sự tham gia chính thức.)"
-    },
-    {
-      "word": "勅旨",
-      "reading": "ちょくし",
-      "meaning": "sắc chỉ"
+      "word": "回勅",
+      "reading": "かいちょく",
+      "meaning": "thông điệp"
     },
     {
       "word": "神勅",
@@ -107,14 +107,24 @@
       "meaning": "lời tiên tri"
     },
     {
-      "word": "勅願",
-      "reading": "ちょくがん",
-      "meaning": "lời cầu nguyện của vua chúa"
+      "word": "勅祭",
+      "reading": "ちょくさい",
+      "meaning": "lễ sắc tế tổ chức hoặc có sự tham gia chính thức.)"
     },
     {
-      "word": "勅任",
-      "reading": "ちょくにん",
+      "word": "勅選",
+      "reading": "ちょくせん",
       "meaning": "sự chỉ định đế quốc"
+    },
+    {
+      "word": "勅祭社",
+      "reading": "ちょくさいしゃ",
+      "meaning": "chokusaisha"
+    },
+    {
+      "word": "勅問",
+      "reading": "ちょくもん",
+      "meaning": "sắc vấn"
     },
     {
       "word": "勅意",
@@ -122,19 +132,9 @@
       "meaning": "có nghĩa hoặc căn bản một sắc lệnh"
     },
     {
-      "word": "勅裁",
-      "reading": "ちょくさい",
-      "meaning": "quyết định đế quốc hoặc sự phê chuẩn"
-    },
-    {
-      "word": "勅題",
-      "reading": "ちょくだい",
-      "meaning": "đề tài cuộc thi nghệ thuật thơ đế quốc"
-    },
-    {
-      "word": "勅額",
-      "reading": "ちょくがく",
-      "meaning": "đế quốc cuộn"
+      "word": "勅令",
+      "reading": "ちょくれい",
+      "meaning": "sắc lệnh"
     }
   ]
 }

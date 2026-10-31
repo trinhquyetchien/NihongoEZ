@@ -50,24 +50,19 @@
   ],
   "vocabulary": [
     {
-      "word": "麻疹-ムンプス-風疹ワクチン",
-      "reading": "ましん-ムンプス-ふうしんワクチン",
-      "meaning": "measles-mumps-rubella vaccine"
+      "word": "発疹",
+      "reading": "ほっしん",
+      "meaning": "mụn"
     },
     {
-      "word": "麻疹ムンプス風疹ワクチン",
-      "reading": "ましんムンプスふうしんワクチン",
-      "meaning": "vắc-xin sởi"
+      "word": "原発疹",
+      "reading": "はらはっしん",
+      "meaning": "phát ban nguyên phát"
     },
     {
-      "word": "帯状疱疹-無疱疹性",
-      "reading": "たいじょうほうしん-むほうしんせい",
-      "meaning": "bệnh giời leo-herpes zoster"
-    },
-    {
-      "word": "湿疹",
-      "reading": "しっしん",
-      "meaning": "bệnh ghẻ lở"
+      "word": "続発疹",
+      "reading": "ぞくはっしん",
+      "meaning": "phát ban thứ phát"
     },
     {
       "word": "麻疹",
@@ -75,29 +70,34 @@
       "meaning": "ban đỏ"
     },
     {
-      "word": "皮疹",
-      "reading": "ひしん",
-      "meaning": "phát ban"
-    },
-    {
-      "word": "痒疹",
-      "reading": "ようしん",
-      "meaning": "bệnh sẩn ngứa"
-    },
-    {
       "word": "風疹",
       "reading": "ふうしん",
       "meaning": "bệnh ban sởi"
     },
     {
-      "word": "丘疹",
-      "reading": "きゅうしん",
-      "meaning": "mụn nhọt"
+      "word": "蕁麻疹",
+      "reading": "じんましん",
+      "meaning": "nổi mề đay"
+    },
+    {
+      "word": "湿疹",
+      "reading": "しっしん",
+      "meaning": "bệnh ghẻ lở"
     },
     {
       "word": "薬疹",
       "reading": "やくしん",
       "meaning": "chứng phát ban do thuốc"
+    },
+    {
+      "word": "皮疹",
+      "reading": "ひしん",
+      "meaning": "phát ban"
+    },
+    {
+      "word": "丘疹",
+      "reading": "きゅうしん",
+      "meaning": "mụn nhọt"
     }
   ]
 }

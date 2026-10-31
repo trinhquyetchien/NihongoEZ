@@ -106,6 +106,11 @@
   ],
   "vocabulary": [
     {
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "nhẫn"
+    },
+    {
       "word": "輪",
       "reading": "わ",
       "meaning": "bánh xe"
@@ -116,19 +121,29 @@
       "meaning": "bánh xe"
     },
     {
-      "word": "指輪",
-      "reading": "ゆびわ",
-      "meaning": "nhẫn"
-    },
-    {
       "word": "首輪",
       "reading": "くびわ",
       "meaning": "vòng cổ"
     },
     {
-      "word": "前輪",
-      "reading": "ぜんりん",
-      "meaning": "bánh xe trước"
+      "word": "年輪",
+      "reading": "ねんりん",
+      "meaning": "vòng năm"
+    },
+    {
+      "word": "後輪",
+      "reading": "こうりん",
+      "meaning": "bánh xe sau"
+    },
+    {
+      "word": "二輪",
+      "reading": "にりん",
+      "meaning": "hai bánh xe"
+    },
+    {
+      "word": "三輪",
+      "reading": "さんりん",
+      "meaning": "ba bánh"
     },
     {
       "word": "足輪",
@@ -136,24 +151,9 @@
       "meaning": "trang sức đeo chân"
     },
     {
-      "word": "輪湖",
-      "reading": "りんこ",
-      "meaning": "kỷ nguyên giữa những năm 1970 do các nhà vô địch lớn wajima và kitanoumi thống trị"
-    },
-    {
-      "word": "輪タク",
-      "reading": "りんタク",
-      "meaning": "xe xích lô"
-    },
-    {
-      "word": "輪業",
-      "reading": "りんぎょう",
-      "meaning": "miền rừng"
-    },
-    {
-      "word": "輪距",
-      "reading": "りんきょ",
-      "meaning": "đẩy vệt"
+      "word": "台輪",
+      "reading": "だいわ",
+      "meaning": "cây dầm trên đầu cột"
     }
   ]
 }

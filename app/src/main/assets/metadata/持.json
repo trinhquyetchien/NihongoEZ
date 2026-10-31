@@ -91,24 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "持て持て",
-      "reading": "もてもて",
-      "meaning": "nổi tiếng"
+      "word": "持つ",
+      "reading": "もつ",
+      "meaning": "cầm"
     },
     {
-      "word": "持ちつ持たれつ",
-      "reading": "もちつもたれつ",
-      "meaning": "có qua có lại"
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "sự duy trì"
     },
     {
-      "word": "丸持ち",
-      "reading": "まるもち",
-      "meaning": "người giàu"
+      "word": "持参",
+      "reading": "じさん",
+      "meaning": "sự đem theo"
     },
     {
-      "word": "ほんの気持ちです",
-      "reading": "ほんのきもちです",
-      "meaning": "chỉ là chút lòng thành thôi"
+      "word": "持ち",
+      "reading": "もち",
+      "meaning": "sự cầm nắm"
     },
     {
       "word": "支持",
@@ -121,24 +121,24 @@
       "meaning": "sự sở hữu"
     },
     {
-      "word": "持つ",
-      "reading": "もつ",
-      "meaning": "cầm"
+      "word": "持続",
+      "reading": "じぞく",
+      "meaning": "sự kéo dài"
     },
     {
-      "word": "持参",
-      "reading": "じさん",
-      "meaning": "sự đem theo"
+      "word": "持針器",
+      "reading": "じしんき",
+      "meaning": "kẹp kim"
     },
     {
-      "word": "堅持",
-      "reading": "けんじ",
-      "meaning": "sự kiên trì"
+      "word": "支持者",
+      "reading": "しじしゃ",
+      "meaning": "người ủng hộ"
     },
     {
-      "word": "持薬",
-      "reading": "じやく",
-      "meaning": "thuốc thường uống"
+      "word": "支持線",
+      "reading": "しじせん",
+      "meaning": "đường hỗ trợ"
     }
   ]
 }

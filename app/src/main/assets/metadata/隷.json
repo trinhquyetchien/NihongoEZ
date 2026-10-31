@@ -92,24 +92,19 @@
       "meaning": "nô lệ"
     },
     {
-      "word": "隷下",
-      "reading": "れいか",
-      "meaning": "thủ hạ"
+      "word": "性奴隷",
+      "reading": "せいどれい",
+      "meaning": "nô lệ tình dục"
     },
     {
-      "word": "篆隷",
-      "reading": "てんれい",
-      "meaning": "đóng dấu kiểu và cổ xưa làm vuông kiểu"
+      "word": "女奴隷",
+      "reading": "じょどれい",
+      "meaning": "nô tỳ"
     },
     {
-      "word": "蛮隷",
-      "reading": "ばんれい",
-      "meaning": "làm việc đầu tắt mặt tối những người man rợ"
-    },
-    {
-      "word": "隷書",
-      "reading": "れいしょ",
-      "meaning": "cổ xưa thanh toán với kiểu kanji"
+      "word": "奴隷制",
+      "reading": "どれいせい",
+      "meaning": "chế độ nô lệ"
     },
     {
       "word": "隷属",
@@ -117,24 +112,29 @@
       "meaning": "sự lệ thuộc"
     },
     {
-      "word": "隷従",
-      "reading": "れいじゅう",
-      "meaning": "cảnh nô lệ"
-    },
-    {
       "word": "隷属的",
       "reading": "れいぞくてき",
       "meaning": "mang tính lệ thuộc"
     },
     {
-      "word": "性奴隷",
-      "reading": "せいどれい",
-      "meaning": "nô lệ tình dục"
+      "word": "隷属国",
+      "reading": "れいぞくこく",
+      "meaning": "quốc gia phụ thuộc"
     },
     {
-      "word": "奴隷制",
-      "reading": "どれいせい",
-      "meaning": "chế độ nô lệ"
+      "word": "隷属民",
+      "reading": "れいぞくみん",
+      "meaning": "người dân lệ thuộc"
+    },
+    {
+      "word": "隷従",
+      "reading": "れいじゅう",
+      "meaning": "cảnh nô lệ"
+    },
+    {
+      "word": "隷書",
+      "reading": "れいしょ",
+      "meaning": "cổ xưa thanh toán với kiểu kanji"
     }
   ]
 }

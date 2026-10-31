@@ -90,9 +90,9 @@
       "meaning": "cờ gô"
     },
     {
-      "word": "碁席",
-      "reading": "ごせき",
-      "meaning": "đi là câu lạc bộ"
+      "word": "碁盤",
+      "reading": "ごばん",
+      "meaning": "bàn cờ gô"
     },
     {
       "word": "囲碁",
@@ -100,29 +100,9 @@
       "meaning": "cờ vây"
     },
     {
-      "word": "碁石",
-      "reading": "ごいし",
-      "meaning": "quân cờ gô"
-    },
-    {
-      "word": "碁盤",
-      "reading": "ごばん",
-      "meaning": "bàn cờ gô"
-    },
-    {
-      "word": "持碁",
-      "reading": "じご",
-      "meaning": "đi kết quả trò chơi trong tie hoặc sự vẽ"
-    },
-    {
-      "word": "碁笥",
-      "reading": "ごけ",
-      "meaning": "đi - côngtenơ đá"
-    },
-    {
-      "word": "詰碁",
-      "reading": "つめご",
-      "meaning": "các bài tập về một thế cờ nhất định"
+      "word": "碁席",
+      "reading": "ごせき",
+      "meaning": "đi là câu lạc bộ"
     },
     {
       "word": "相碁",
@@ -130,9 +110,29 @@
       "meaning": "trình độ tương đương"
     },
     {
-      "word": "碁敵",
-      "reading": "ごがたき",
-      "meaning": "đối thủ"
+      "word": "置き碁",
+      "reading": "おきご",
+      "meaning": "trò chơi cờ vây với điểm chấp"
+    },
+    {
+      "word": "詰め碁",
+      "reading": "つめご",
+      "meaning": "biên soạn đi là vấn đề"
+    },
+    {
+      "word": "西洋碁",
+      "reading": "せいようご",
+      "meaning": "cờ đam"
+    },
+    {
+      "word": "賭け碁",
+      "reading": "かけご",
+      "meaning": "chơi cờ vây vì đánh cược"
+    },
+    {
+      "word": "詰碁",
+      "reading": "つめご",
+      "meaning": "các bài tập về một thế cờ nhất định"
     }
   ]
 }

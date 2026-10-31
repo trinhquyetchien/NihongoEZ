@@ -90,24 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "滞在",
+      "reading": "たいざい",
+      "meaning": "sự lưu lại"
+    },
+    {
       "word": "渋滞",
       "reading": "じゅうたい",
       "meaning": "sự kẹt xe"
     },
     {
-      "word": "滞留",
-      "reading": "たいりゅう",
-      "meaning": "sự trì trệ"
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaning": "sự đình trệ"
     },
     {
-      "word": "凝滞",
-      "reading": "ぎょうたい",
-      "meaning": "chậm trễ"
-    },
-    {
-      "word": "遅滞",
-      "reading": "ちたい",
-      "meaning": "sự trì hoãn"
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "nộp muộn"
     },
     {
       "word": "滞る",
@@ -115,29 +115,29 @@
       "meaning": "đọng"
     },
     {
-      "word": "沈滞",
-      "reading": "ちんたい",
-      "meaning": "sự đình trệ"
+      "word": "滞在中",
+      "reading": "たいざいちゅう",
+      "meaning": "trong thời gian một sự ở lại"
     },
     {
-      "word": "滞英",
-      "reading": "たいえい",
-      "meaning": "đang sinh sống ở anh"
+      "word": "滞在地",
+      "reading": "たいざいち",
+      "meaning": "chỗ ở đâu một cư trú hoặc đang ở lại"
     },
     {
-      "word": "滞欧",
-      "reading": "たいおう",
-      "meaning": "sự ảnh hưởng lẫn nhau"
+      "word": "滞在客",
+      "reading": "たいざいきゃく",
+      "meaning": "một vị khách"
     },
     {
-      "word": "滞米",
-      "reading": "たいべい",
-      "meaning": "ở lại hoặc cư trú ở hoa kỳ"
+      "word": "滞在費",
+      "reading": "たいざいひ",
+      "meaning": "những chi phí khách sạn"
     },
     {
-      "word": "鬱滞",
-      "reading": "うったい",
-      "meaning": "sự đông nghịt"
+      "word": "大渋滞",
+      "reading": "だいじゅうたい",
+      "meaning": "tắc nghẽn giao thông lớn"
     }
   ]
 }

@@ -107,29 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "担",
-      "reading": "たん",
-      "meaning": "bờ giậu"
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "chịu trách nhiệm"
     },
     {
-      "word": "担ぎ",
-      "reading": "かつぎ",
-      "meaning": "1. sự gánh"
-    },
-    {
-      "word": "担架",
-      "reading": "たんか",
-      "meaning": "cái cáng"
-    },
-    {
-      "word": "担体",
-      "reading": "たんたい",
-      "meaning": "vectơ"
-    },
-    {
-      "word": "荷担",
-      "reading": "かたん",
-      "meaning": "hỗ trợ"
+      "word": "担ぐ",
+      "reading": "かつぐ",
+      "meaning": "vác"
     },
     {
       "word": "負担",
@@ -137,24 +122,39 @@
       "meaning": "sự gánh vác"
     },
     {
+      "word": "担う",
+      "reading": "になう",
+      "meaning": "cáng đáng"
+    },
+    {
       "word": "分担",
       "reading": "ぶんたん",
       "meaning": "sự gánh vác"
     },
     {
-      "word": "担当",
-      "reading": "たんとう",
-      "meaning": "chịu trách nhiệm"
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "cái cáng"
     },
     {
-      "word": "担保",
-      "reading": "たんぽ",
-      "meaning": "đảm bảo"
+      "word": "担当者",
+      "reading": "たんとうしゃ",
+      "meaning": "người phụ trách"
     },
     {
-      "word": "担任",
-      "reading": "たんにん",
-      "meaning": "giáo viên chủ nhiệm"
+      "word": "担当官",
+      "reading": "たんとうかん",
+      "meaning": "cán bộ phụ trách"
+    },
+    {
+      "word": "負担金",
+      "reading": "ふたんきん",
+      "meaning": "số tiền phải chịu"
+    },
+    {
+      "word": "負担感",
+      "reading": "ふたんかん",
+      "meaning": "cảm thấy gánh nặng"
     }
   ]
 }

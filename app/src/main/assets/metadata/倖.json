@@ -84,6 +84,11 @@
   ],
   "vocabulary": [
     {
+      "word": "僥倖",
+      "reading": "ぎょうこう",
+      "meaning": "may mắn tình cờ"
+    },
+    {
       "word": "倖",
       "reading": "",
       "meaning": "vận may"
@@ -107,11 +112,6 @@
       "word": "薄倖",
       "reading": "はっこう",
       "meaning": "bất hạnh"
-    },
-    {
-      "word": "僥倖",
-      "reading": "ぎょうこう",
-      "meaning": "may mắn tình cờ"
     },
     {
       "word": "射倖心",

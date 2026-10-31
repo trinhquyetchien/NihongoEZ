@@ -52,6 +52,11 @@
   ],
   "vocabulary": [
     {
+      "word": "桧皮葺",
+      "reading": "ひわだぶき",
+      "meaning": "cây bách làm trầy da mái nhà"
+    },
+    {
       "word": "桧葉",
       "reading": "ひば",
       "meaning": "cây hiba"
@@ -65,11 +70,6 @@
       "word": "桧舞台",
       "reading": "ひのきぶたい",
       "meaning": "trình diễn làm tiếng nhật cây bách"
-    },
-    {
-      "word": "桧皮葺",
-      "reading": "ひわだぶき",
-      "meaning": "cây bách làm trầy da mái nhà"
     },
     {
       "word": "桧扇貝",

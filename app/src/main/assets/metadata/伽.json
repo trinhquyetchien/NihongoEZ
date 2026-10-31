@@ -60,24 +60,14 @@
       "meaning": "chăm sóc"
     },
     {
-      "word": "閼伽",
-      "reading": "あか",
-      "meaning": "nước dâng phật"
+      "word": "伽話",
+      "reading": "とぎばなし",
+      "meaning": "truyện ngắn tiên"
     },
     {
-      "word": "伽藍",
-      "reading": "がらん",
-      "meaning": "miếu"
-    },
-    {
-      "word": "夜伽",
-      "reading": "よとぎ",
-      "meaning": "sự theo dõi ai đó xuyên đêm"
-    },
-    {
-      "word": "伽羅",
-      "reading": "きゃら",
-      "meaning": "cây gỗ thơm"
+      "word": "伽芝居",
+      "reading": "とぎしばい",
+      "meaning": "kịch câm"
     },
     {
       "word": "僧伽",
@@ -90,19 +80,29 @@
       "meaning": "chú ý"
     },
     {
-      "word": "お伽",
-      "reading": "おとぎ",
-      "meaning": "thần tiên"
+      "word": "御伽話",
+      "reading": "おとぎばなし",
+      "meaning": "câu chuyện cổ tích"
     },
     {
-      "word": "瑜伽",
-      "reading": "ゆが",
-      "meaning": "yoga"
+      "word": "伽羅",
+      "reading": "きゃら",
+      "meaning": "cây gỗ thơm"
     },
     {
-      "word": "伽話",
-      "reading": "とぎばなし",
-      "meaning": "truyện ngắn tiên"
+      "word": "伽藍",
+      "reading": "がらん",
+      "meaning": "miếu"
+    },
+    {
+      "word": "大伽藍",
+      "reading": "だいがらん",
+      "meaning": "quần thể chùa lớn"
+    },
+    {
+      "word": "伽藍鳥",
+      "reading": "がらんちょう",
+      "meaning": "con bồ nông"
     }
   ]
 }

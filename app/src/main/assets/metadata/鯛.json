@@ -56,24 +56,14 @@
       "meaning": "cá tráp"
     },
     {
-      "word": "瘤鯛",
-      "reading": "こぶだい",
-      "meaning": "cá bàng chài đầu cừu châu á"
+      "word": "的鯛",
+      "reading": "まとうだい",
+      "meaning": "cá dây nhật bản"
     },
     {
-      "word": "寒鯛",
-      "reading": "かんだい",
-      "meaning": "cá bàng chài đầu gù"
-    },
-    {
-      "word": "スペイン鯛",
-      "reading": "スペインだい",
-      "meaning": "cá tráp đỏ nhật bản"
-    },
-    {
-      "word": "黄鯛",
-      "reading": "きだい",
-      "meaning": "cá tráp vàng"
+      "word": "千年鯛",
+      "reading": "せんねんだい",
+      "meaning": "cá hồng đế lutjanus sebae"
     },
     {
       "word": "赤鯛",
@@ -81,9 +71,9 @@
       "meaning": "cá chẽm đỏ"
     },
     {
-      "word": "平鯛",
-      "reading": "へだい",
-      "meaning": "silver sea bream"
+      "word": "桜鯛",
+      "reading": "さくらだい",
+      "meaning": "chi cá biển anthias"
     },
     {
       "word": "血鯛",
@@ -91,14 +81,24 @@
       "meaning": "cá tráp đỏ thẫm"
     },
     {
-      "word": "笛鯛",
-      "reading": "ふえだい",
-      "meaning": "cá hồng sao"
+      "word": "姫鯛",
+      "reading": "ひめだい",
+      "meaning": "cá hồng hoa"
     },
     {
-      "word": "真鯛",
-      "reading": "まだい",
-      "meaning": "cá tráp biển đỏ"
+      "word": "銀目鯛",
+      "reading": "ぎんめだい",
+      "meaning": "cá râu"
+    },
+    {
+      "word": "平鯛",
+      "reading": "へだい",
+      "meaning": "silver sea bream"
+    },
+    {
+      "word": "鯛焼き",
+      "reading": "たいやき",
+      "meaning": "câu cá - bánh đa theo khuôn làm đầy sự bế tắc đậu"
     }
   ]
 }

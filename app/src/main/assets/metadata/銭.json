@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "銭",
-      "reading": "せん",
-      "meaning": "một phần trăm của một yên"
-    },
-    {
-      "word": "釣銭",
-      "reading": "つりせん",
-      "meaning": "tiền thừa"
-    },
-    {
-      "word": "古銭",
-      "reading": "こせん",
-      "meaning": "tiền cổ"
+      "word": "金銭",
+      "reading": "きんせん",
+      "meaning": "đồng tiền"
     },
     {
       "word": "小銭",
@@ -111,34 +101,44 @@
       "meaning": "tiền lẻ"
     },
     {
-      "word": "口銭",
-      "reading": "こうせん",
-      "meaning": "tiền hoa hồng"
+      "word": "金銭的",
+      "reading": "きんせんてき",
+      "meaning": "tiền tệ"
     },
     {
-      "word": "懐銭",
-      "reading": "ふところぜに",
-      "meaning": "bỏ vào túi tiền"
+      "word": "銭",
+      "reading": "せん",
+      "meaning": "một phần trăm của một yên"
     },
     {
-      "word": "銭貨",
-      "reading": "せんか",
-      "meaning": "đồng xu"
+      "word": "銭金",
+      "reading": "ぜにかね",
+      "meaning": "tiền"
     },
     {
-      "word": "刀銭",
-      "reading": "とうせん",
-      "meaning": "tiền xu hình lưỡi kiếm"
+      "word": "間銭",
+      "reading": "あいせん",
+      "meaning": "phí hoa hồng"
     },
     {
-      "word": "布銭",
-      "reading": "ふせん",
-      "meaning": "tiền xu hình lưỡi xẻng"
+      "word": "銭入れ",
+      "reading": "ぜにいれ",
+      "meaning": "ví tiền"
+    },
+    {
+      "word": "絵銭",
+      "reading": "えぜに",
+      "meaning": "bùa số nhật bản"
     },
     {
       "word": "銭箱",
       "reading": "ぜにばこ",
       "meaning": "hòm tiền"
+    },
+    {
+      "word": "銀銭",
+      "reading": "ぎんせん",
+      "meaning": "đồng xu bằng bạc"
     }
   ]
 }

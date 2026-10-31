@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "歓",
-      "reading": "かん",
-      "meaning": "niềm vui"
+      "word": "歓迎",
+      "reading": "かんげい",
+      "meaning": "sự hoan nghênh"
+    },
+    {
+      "word": "歓声",
+      "reading": "かんせい",
+      "meaning": "sự hoan hô"
+    },
+    {
+      "word": "大歓迎",
+      "reading": "だいかんげい",
+      "meaning": "nhiệt liệt chào mừng"
+    },
+    {
+      "word": "歓迎会",
+      "reading": "かんげいかい",
+      "meaning": "buổi đón chào"
     },
     {
       "word": "歓喜",
@@ -99,19 +114,19 @@
       "meaning": "sự vui mừng"
     },
     {
-      "word": "歓呼",
-      "reading": "かんこ",
-      "meaning": "sự tung hô"
+      "word": "歓迎宴",
+      "reading": "かんげいえん",
+      "meaning": "đón tiếp ân cần phe"
     },
     {
-      "word": "歓楽",
-      "reading": "かんらく",
-      "meaning": "thích thú"
+      "word": "大歓声",
+      "reading": "だいかんせい",
+      "meaning": "tiếng hoan hô"
     },
     {
-      "word": "歓談",
-      "reading": "かんだん",
-      "meaning": "cuộc chuyện trò vui vẻ"
+      "word": "歓",
+      "reading": "かん",
+      "meaning": "niềm vui"
     },
     {
       "word": "新歓",
@@ -119,24 +134,9 @@
       "meaning": "bữa tiệc chào mừng thành viên mới"
     },
     {
-      "word": "歓待",
-      "reading": "かんたい",
-      "meaning": "sự khoản đãi"
-    },
-    {
-      "word": "歓然",
-      "reading": "かんぜん",
-      "meaning": "vui mừng"
-    },
-    {
-      "word": "歓心",
-      "reading": "かんしん",
-      "meaning": "sự vui lòng"
-    },
-    {
-      "word": "哀歓",
-      "reading": "あいかん",
-      "meaning": "nỗi buồn và niềm vui"
+      "word": "旧歓",
+      "reading": "きゅうかん",
+      "meaning": "niềm vui cũ"
     }
   ]
 }

@@ -115,29 +115,14 @@
   ],
   "vocabulary": [
     {
+      "word": "回る",
+      "reading": "まわる",
+      "meaning": "đi quanh"
+    },
+    {
       "word": "回",
       "reading": "かい",
       "meaning": "lần"
-    },
-    {
-      "word": "回転",
-      "reading": "かいてん",
-      "meaning": "sự xoay chuyển"
-    },
-    {
-      "word": "旋回",
-      "reading": "せんかい",
-      "meaning": "sự xoay vòng"
-    },
-    {
-      "word": "回路",
-      "reading": "かいろ",
-      "meaning": "mạch kín"
-    },
-    {
-      "word": "巡回",
-      "reading": "じゅんかい",
-      "meaning": "đi tuần tiễu"
     },
     {
       "word": "今回",
@@ -145,24 +130,39 @@
       "meaning": "kỳ này"
     },
     {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaning": "hồi phục"
+    },
+    {
+      "word": "回り",
+      "reading": "まわり",
+      "meaning": "sự quay"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "sự xoay chuyển"
+    },
+    {
       "word": "回数",
       "reading": "かいすう",
       "meaning": "số lần"
     },
     {
-      "word": "回顧",
-      "reading": "かいこ",
-      "meaning": "sự hồi tưởng"
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "sự thu hồi"
     },
     {
-      "word": "回避",
-      "reading": "かいひ",
-      "meaning": "sự tránh"
+      "word": "回路",
+      "reading": "かいろ",
+      "meaning": "mạch kín"
     },
     {
-      "word": "回目",
-      "reading": "かいめ",
-      "meaning": "- thời gian sau cùng vòng quanh"
+      "word": "回送",
+      "reading": "かいそう",
+      "meaning": "xe không đón khách"
     }
   ]
 }

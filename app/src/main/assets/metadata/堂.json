@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "buồng ăn"
+    },
+    {
+      "word": "講堂",
+      "reading": "こうどう",
+      "meaning": "giảng đường"
+    },
+    {
+      "word": "堂々",
+      "reading": "どうどう",
+      "meaning": "đàng hoàng"
+    },
+    {
       "word": "堂",
       "reading": "どう",
       "meaning": "chính"
     },
     {
-      "word": "堂堂",
-      "reading": "どうどう",
-      "meaning": "lộng lẫy"
+      "word": "別堂",
+      "reading": "べつどう",
+      "meaning": "phân ra tòa nhà"
     },
     {
-      "word": "堂堂と",
-      "reading": "どうどうと",
-      "meaning": "không có sự xin lỗi"
+      "word": "法堂",
+      "reading": "はっとう",
+      "meaning": "pháp sự đường"
     },
     {
-      "word": "堂堂巡り",
-      "reading": "どうどうめぐり",
-      "meaning": "đi vòng quanh bên trong xoay quanh"
+      "word": "北堂",
+      "reading": "ほくどう",
+      "meaning": "northern pavilion of a house"
     },
     {
-      "word": "威風堂堂",
-      "reading": "いふうどうどう",
-      "meaning": "uy nghi"
+      "word": "涙堂",
+      "reading": "るいどう",
+      "meaning": "bọng mắt"
     },
     {
-      "word": "堂堂回り",
-      "reading": "どうどうめぐり",
-      "meaning": "đi vòng trong những vòng tròn"
+      "word": "聖堂",
+      "reading": "せいどう",
+      "meaning": "chùa chiền"
     },
     {
-      "word": "正正堂堂",
-      "reading": "せいせいどうどう",
-      "meaning": "thái độ tốt"
-    },
-    {
-      "word": "堂堂たる",
-      "reading": "どうどうたる",
-      "meaning": "lộng lẫy"
-    },
-    {
-      "word": "正正堂堂たる",
-      "reading": "せいせいどうどうたる",
-      "meaning": "lương thiện"
-    },
-    {
-      "word": "正々堂堂たる",
-      "reading": "ただし々どうどうたる",
-      "meaning": "đường đường chính chính"
+      "word": "令堂",
+      "reading": "れいどう",
+      "meaning": "quý gia"
     }
   ]
 }

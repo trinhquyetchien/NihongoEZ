@@ -31,6 +31,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "銀箭",
+      "reading": "ぎんせん",
+      "meaning": "mũi tên bạc"
+    },
+    {
       "word": "弓箭",
       "reading": "ゆみや",
       "meaning": "cung và tên"
@@ -39,11 +44,6 @@
       "word": "火箭",
       "reading": "ひや",
       "meaning": "tên lửa"
-    },
-    {
-      "word": "銀箭",
-      "reading": "ぎんせん",
-      "meaning": "mũi tên bạc"
     }
   ]
 }

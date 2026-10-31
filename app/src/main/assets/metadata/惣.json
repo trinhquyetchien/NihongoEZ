@@ -86,14 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "惣領",
-      "reading": "そうりょう",
-      "meaning": "chính phủ"
-    },
-    {
       "word": "惣菜",
       "reading": "そうざい",
       "meaning": "món ăn thường ngày"
+    },
+    {
+      "word": "惣菜店",
+      "reading": "そうざいてん",
+      "meaning": "cửa hàng bán đồ chế biến sẵn"
     },
     {
       "word": "惣嫁",
@@ -101,14 +101,14 @@
       "meaning": "streetwalker"
     },
     {
-      "word": "惣社",
-      "reading": "そうじゃ",
-      "meaning": "miếu thờ cất giữ thánh vật vài chúa trời"
-    },
-    {
       "word": "惣管領",
       "reading": "そうかんりょう",
-      "meaning": ""
+      "meaning": "(viên toàn quyền hist.)"
+    },
+    {
+      "word": "惣領",
+      "reading": "そうりょう",
+      "meaning": "chính phủ"
     },
     {
       "word": "惣領制",
@@ -116,9 +116,9 @@
       "meaning": "hệ thống soryo"
     },
     {
-      "word": "惣菜店",
-      "reading": "そうざいてん",
-      "meaning": "cửa hàng bán đồ chế biến sẵn"
+      "word": "惣社",
+      "reading": "そうじゃ",
+      "meaning": "miếu thờ cất giữ thánh vật vài chúa trời"
     },
     {
       "word": "調理/惣菜缶詰",

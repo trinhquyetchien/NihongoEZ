@@ -63,16 +63,6 @@
       "meaning": "na"
     },
     {
-      "word": "波波迦",
-      "reading": "ははか",
-      "meaning": "tên cũ của uwamizuzakura"
-    },
-    {
-      "word": "迦楼羅",
-      "reading": "かるら",
-      "meaning": "garuda"
-    },
-    {
       "word": "御釈迦",
       "reading": "おしゃか",
       "meaning": "hàng kém chất lượng"
@@ -88,9 +78,19 @@
       "meaning": "phật ca diếp"
     },
     {
-      "word": "摩ご羅迦",
-      "reading": "まごらが",
-      "meaning": "mahoraga"
+      "word": "波波迦",
+      "reading": "ははか",
+      "meaning": "tên cũ của uwamizuzakura"
+    },
+    {
+      "word": "迦楼羅",
+      "reading": "かるら",
+      "meaning": "garuda"
+    },
+    {
+      "word": "釈迦占地",
+      "reading": "しゃかしめじ",
+      "meaning": "lyophyllum fumosum"
     },
     {
       "word": "お釈迦様",
@@ -98,9 +98,9 @@
       "meaning": "đức phật"
     },
     {
-      "word": "釈迦三尊",
-      "reading": "しゃかさんぞん",
-      "meaning": "hình ảnh đức phật gautama với hai thị giả"
+      "word": "釈迦に説法",
+      "reading": "しゃかにせっぽう",
+      "meaning": "múa rìu qua mắt thợ"
     }
   ]
 }

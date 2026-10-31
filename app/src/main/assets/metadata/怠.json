@@ -90,29 +90,44 @@
   ],
   "vocabulary": [
     {
-      "word": "倦怠",
-      "reading": "けんたい",
-      "meaning": "sự mệt mỏi"
+      "word": "怠ける",
+      "reading": "なまける",
+      "meaning": "làm biếng"
     },
     {
-      "word": "勤怠",
-      "reading": "きんたい",
-      "meaning": "sự cần mẫn và sự lười biếng"
+      "word": "怠る",
+      "reading": "おこたる",
+      "meaning": "bỏ bê"
     },
     {
-      "word": "怠業",
-      "reading": "たいぎょう",
-      "meaning": "sự phá hoại"
+      "word": "怠慢",
+      "reading": "たいまん",
+      "meaning": "cẩu thả"
     },
     {
-      "word": "休怠",
-      "reading": "きゅうたい",
+      "word": "怠惰",
+      "reading": "たいだ",
+      "meaning": "lười biếng"
+    },
+    {
+      "word": "怠惰な",
+      "reading": "たいだな",
+      "meaning": "biếng"
+    },
+    {
+      "word": "怠慢な",
+      "reading": "たいまんな",
+      "meaning": "dài lưng"
+    },
+    {
+      "word": "怠け癖",
+      "reading": "なまけぐせ",
       "meaning": "sự lười biếng"
     },
     {
-      "word": "過怠",
-      "reading": "かたい",
-      "meaning": "tính cẩu thả"
+      "word": "怠け者",
+      "reading": "なまけもの",
+      "meaning": "đại lãn"
     },
     {
       "word": "怠い",
@@ -120,24 +135,9 @@
       "meaning": "mệt mỏi"
     },
     {
-      "word": "怠り",
-      "reading": "おこたり",
-      "meaning": "tính cẩu thả"
-    },
-    {
-      "word": "懈怠",
-      "reading": "けたい",
-      "meaning": "quên thực hiện một hành vi bắt buộc nào đó trong một khoảng thời gian nhất định"
-    },
-    {
-      "word": "緩怠",
-      "reading": "かんたい",
-      "meaning": "sự biếng trễ"
-    },
-    {
-      "word": "怠惰",
-      "reading": "たいだ",
-      "meaning": "lười biếng"
+      "word": "間怠い",
+      "reading": "まだるい",
+      "meaning": "chậm"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "điều kiện"
+    },
+    {
+      "word": "条約",
+      "reading": "じょうやく",
+      "meaning": "điều ước"
+    },
+    {
       "word": "条",
       "reading": "じょう",
       "meaning": "điều khoản"
     },
     {
-      "word": "条件名条件",
-      "reading": "じょうけんめいじょうけん",
-      "meaning": "điều kiện tên điều kiện"
-    },
-    {
-      "word": "圧条",
-      "reading": "あつじょう",
-      "meaning": "chiết cành"
-    },
-    {
-      "word": "条項",
-      "reading": "じょうこう",
-      "meaning": "điều khoản"
-    },
-    {
-      "word": "条例",
-      "reading": "じょうれい",
-      "meaning": "điều lệnh"
-    },
-    {
-      "word": "軟条",
+      "word": "何条",
       "reading": "なんじょう",
-      "meaning": "tia mềm"
+      "meaning": "đường phố nào?"
     },
     {
-      "word": "棘条",
-      "reading": "きょくじょう",
-      "meaning": "spiny ray"
+      "word": "一条",
+      "reading": "いちじょう",
+      "meaning": "một vệt"
     },
     {
-      "word": "条痕",
-      "reading": "じょうこん",
-      "meaning": "tuyến tính đánh dấu"
+      "word": "条数",
+      "reading": "じょーすー",
+      "meaning": "số đầu mối ren trên 1 vít"
     },
     {
-      "word": "条虫",
-      "reading": "じょうちゅう",
-      "meaning": "sán dây"
+      "word": "次条",
+      "reading": "じじょう",
+      "meaning": "điều khoản tiếp theo"
     },
     {
-      "word": "斑条",
-      "reading": "はんじょう",
-      "meaning": "những vệt hoa văn có màu sắc lẫn lộn nhau"
+      "word": "条件形",
+      "reading": "じょうけんけい",
+      "meaning": "thể điều kiện"
+    },
+    {
+      "word": "条線",
+      "reading": "じょうせん",
+      "meaning": "đường sọc"
+    },
+    {
+      "word": "光条",
+      "reading": "こうじょう",
+      "meaning": "hệ thống tia"
     }
   ]
 }

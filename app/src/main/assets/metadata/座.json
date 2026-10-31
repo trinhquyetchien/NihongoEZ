@@ -106,9 +106,34 @@
   ],
   "vocabulary": [
     {
+      "word": "座る",
+      "reading": "すわる",
+      "meaning": "ngồi"
+    },
+    {
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "chỗ ngồi"
+    },
+    {
+      "word": "座敷",
+      "reading": "ざしき",
+      "meaning": "phòng khách"
+    },
+    {
+      "word": "座標",
+      "reading": "ざひょう",
+      "meaning": "tọa độ"
+    },
+    {
       "word": "座",
       "reading": "ざ",
       "meaning": "chỗ ngồi"
+    },
+    {
+      "word": "何座",
+      "reading": "なにざ",
+      "meaning": "cung gì"
     },
     {
       "word": "座位",
@@ -121,39 +146,14 @@
       "meaning": "việc ngồi không ngủ cho đến khuya"
     },
     {
-      "word": "銀座",
-      "reading": "ぎんざ",
-      "meaning": "con đường mua sắm"
+      "word": "法座",
+      "reading": "ほうざ",
+      "meaning": "pháp tòa"
     },
     {
-      "word": "座禅",
-      "reading": "ざぜん",
-      "meaning": "tham thiền"
-    },
-    {
-      "word": "口座",
-      "reading": "こうざ",
-      "meaning": "ngân khoản"
-    },
-    {
-      "word": "講座",
-      "reading": "こうざ",
-      "meaning": "bàn toán"
-    },
-    {
-      "word": "座る",
-      "reading": "すわる",
-      "meaning": "ngồi"
-    },
-    {
-      "word": "座席",
-      "reading": "ざせき",
-      "meaning": "chỗ ngồi"
-    },
-    {
-      "word": "座右",
-      "reading": "ざゆう",
-      "meaning": "ở cạnh ai đó"
+      "word": "座学",
+      "reading": "ざがく",
+      "meaning": "việc học lý thuyết"
     }
   ]
 }

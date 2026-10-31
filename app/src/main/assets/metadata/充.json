@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "充電池用充電器",
-      "reading": "じゅうでんちようじゅうでんき",
-      "meaning": "bộ sạc cho pin sạc"
-    },
-    {
       "word": "拡充",
       "reading": "かくじゅう",
       "meaning": "sự mở rộng"
-    },
-    {
-      "word": "充分",
-      "reading": "じゅうぶん",
-      "meaning": "đầy đủ"
-    },
-    {
-      "word": "充足",
-      "reading": "じゅうそく",
-      "meaning": "sự bổ sung"
-    },
-    {
-      "word": "充満",
-      "reading": "じゅうまん",
-      "meaning": "đầy rẫy"
     },
     {
       "word": "充実",
@@ -120,9 +100,9 @@
       "meaning": "sự đầy đủ"
     },
     {
-      "word": "充当",
-      "reading": "じゅうとう",
-      "meaning": "sự định vị"
+      "word": "補充",
+      "reading": "ほじゅう",
+      "meaning": "việc bổ sung"
     },
     {
       "word": "充電",
@@ -130,14 +110,34 @@
       "meaning": "lưu trữ năng lượng"
     },
     {
-      "word": "充員",
-      "reading": "じゅういん",
-      "meaning": "những tân binh"
+      "word": "充電中",
+      "reading": "じゅうでんちゅう",
+      "meaning": "nạp năng lượng"
     },
     {
-      "word": "充用",
-      "reading": "じゅうよう",
-      "meaning": "sự chiếm đoạt làm của riêng"
+      "word": "充電機",
+      "reading": "じゅうでんき",
+      "meaning": "máy nạp bình điện"
+    },
+    {
+      "word": "充電式",
+      "reading": "じゅうでんしき",
+      "meaning": "có thể sạc lại"
+    },
+    {
+      "word": "充実感",
+      "reading": "じゅうじつかん",
+      "meaning": "cảm giác hoàn thành"
+    },
+    {
+      "word": "充電器",
+      "reading": "じゅうでんき",
+      "meaning": "máy nạp bình điện"
+    },
+    {
+      "word": "充分",
+      "reading": "じゅうぶん",
+      "meaning": "đầy đủ"
     }
   ]
 }

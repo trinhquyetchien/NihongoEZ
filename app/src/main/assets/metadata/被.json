@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "thiệt hại"
+    },
+    {
+      "word": "被害者",
+      "reading": "ひがいしゃ",
+      "meaning": "nạn nhân"
+    },
+    {
+      "word": "被害額",
+      "reading": "ひがいがく",
+      "meaning": "số lượng thiệt hại"
+    },
+    {
+      "word": "被害届",
+      "reading": "ひがいとどけ",
+      "meaning": "báo cáo thiệt hại"
+    },
+    {
+      "word": "被災",
+      "reading": "ひさい",
+      "meaning": "bị gặp thiên tai. tai họa"
+    },
+    {
+      "word": "被災地",
+      "reading": "ひさいち",
+      "meaning": "vùng đánh"
+    },
+    {
+      "word": "被告",
+      "reading": "ひこく",
+      "meaning": "bị cáo"
+    },
+    {
+      "word": "被告側",
+      "reading": "ひこくがわ",
+      "meaning": "bên bị cáo"
+    },
+    {
       "word": "被",
       "reading": "ひ",
       "meaning": "đối tượng"
     },
     {
-      "word": "被殻",
-      "reading": "ひかく",
-      "meaning": "nhân vỏ hến"
-    },
-    {
-      "word": "被験",
-      "reading": "ひけん",
-      "meaning": "bị kiểm tra"
-    },
-    {
       "word": "被す",
       "reading": "かぶす",
       "meaning": "đậy lên"
-    },
-    {
-      "word": "被約",
-      "reading": "ひやく",
-      "meaning": "giảm"
-    },
-    {
-      "word": "被リンク",
-      "reading": "ひリンク",
-      "meaning": "liên kết trả về"
-    },
-    {
-      "word": "被せ",
-      "reading": "きせ",
-      "meaning": "xi mạ"
-    },
-    {
-      "word": "被く",
-      "reading": "かずく",
-      "meaning": "đắp mặt"
-    },
-    {
-      "word": "被り",
-      "reading": "かぶり",
-      "meaning": "mũ"
-    },
-    {
-      "word": "花被",
-      "reading": "かひ",
-      "meaning": "bao hoa"
     }
   ]
 }

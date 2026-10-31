@@ -89,9 +89,34 @@
   ],
   "vocabulary": [
     {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "đích"
+    },
+    {
+      "word": "的確",
+      "reading": "てきかく",
+      "meaning": "đích xác"
+    },
+    {
       "word": "的",
       "reading": "てき",
       "meaning": "cái đích"
+    },
+    {
+      "word": "知的",
+      "reading": "ちてき",
+      "meaning": "trí tuệ"
+    },
+    {
+      "word": "動的",
+      "reading": "どうてき",
+      "meaning": "tính động"
+    },
+    {
+      "word": "静的",
+      "reading": "せいてき",
+      "meaning": "tính tĩnh"
     },
     {
       "word": "目的的",
@@ -99,44 +124,19 @@
       "meaning": "mang tính mục đích"
     },
     {
+      "word": "面的",
+      "reading": "めんてき",
+      "meaning": "toàn diện"
+    },
+    {
+      "word": "質的",
+      "reading": "しつてき",
+      "meaning": "chất"
+    },
+    {
       "word": "的極的",
       "reading": "てききょくてき",
       "meaning": "mang tính tích cực"
-    },
-    {
-      "word": "合目的的",
-      "reading": "ごうもくてきてき",
-      "meaning": "thích hợp"
-    },
-    {
-      "word": "目的論的証明",
-      "reading": "もくてきろんてきしょうめい",
-      "meaning": "luận cứ mục đích"
-    },
-    {
-      "word": "陰的",
-      "reading": "いんてき",
-      "meaning": "ẩn"
-    },
-    {
-      "word": "公的",
-      "reading": "こうてき",
-      "meaning": "công cộng"
-    },
-    {
-      "word": "史的",
-      "reading": "してき",
-      "meaning": "có tính chất lịch sử"
-    },
-    {
-      "word": "劇的",
-      "reading": "げきてき",
-      "meaning": "kịch tính"
-    },
-    {
-      "word": "詩的",
-      "reading": "してき",
-      "meaning": "thơ ca"
     }
   ]
 }

@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "純",
-      "reading": "じゅん",
-      "meaning": "thuần khiết"
-    },
-    {
-      "word": "純色",
-      "reading": "じゅんしょく",
-      "meaning": "màu đơn sắc"
-    },
-    {
-      "word": "純正",
-      "reading": "じゅんせい",
-      "meaning": "xác thực"
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "đơn giản"
     },
     {
       "word": "純粋",
@@ -107,34 +97,44 @@
       "meaning": "chung thuỷ"
     },
     {
-      "word": "純金",
-      "reading": "じゅんきん",
-      "meaning": "vàng nguyên chất"
-    },
-    {
       "word": "純情",
       "reading": "じゅんじょう",
       "meaning": "thuần tính"
     },
     {
-      "word": "純潔",
-      "reading": "じゅんけつ",
+      "word": "清純",
+      "reading": "せいじゅん",
+      "meaning": "thanh khiết"
+    },
+    {
+      "word": "単純な",
+      "reading": "たんじゅんな",
+      "meaning": "mộc mạc"
+    },
+    {
+      "word": "純",
+      "reading": "じゅん",
       "meaning": "thuần khiết"
     },
     {
-      "word": "純毛",
-      "reading": "じゅんもう",
-      "meaning": "bông nguyên chất"
+      "word": "純水",
+      "reading": "じゅんすい",
+      "meaning": "nước tinh khiết"
     },
     {
-      "word": "純白",
-      "reading": "じゅんぱく",
-      "meaning": "trắng tinh"
+      "word": "純色",
+      "reading": "じゅんしょく",
+      "meaning": "màu đơn sắc"
     },
     {
-      "word": "純利",
-      "reading": "じゅんり",
-      "meaning": "lợi nhuận ròng.+ là phần còn lại của tổng số lợi nhuận sau khi đã trừ đi thuế và khấu hao"
+      "word": "純音",
+      "reading": "じゅんおん",
+      "meaning": "âm thuần"
+    },
+    {
+      "word": "純米",
+      "reading": "じゅんまい",
+      "meaning": "rượu sake được làm mà không cần thêm cồn hoặc đường"
     }
   ]
 }

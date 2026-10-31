@@ -87,9 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "sự xuất bản"
+    },
+    {
       "word": "版",
       "reading": "はん",
       "meaning": "bản in"
+    },
+    {
+      "word": "版画",
+      "reading": "はんが",
+      "meaning": "tranh khắc gỗ"
     },
     {
       "word": "絶版",
@@ -97,44 +107,34 @@
       "meaning": "bản chỉ in một lần rồi bỏ"
     },
     {
-      "word": "版面",
-      "reading": "はんめん",
-      "meaning": "phạm vi thiết kế"
-    },
-    {
-      "word": "刷版",
-      "reading": "さっぱん",
-      "meaning": "tấm in"
-    },
-    {
-      "word": "出版",
-      "reading": "しゅっぱん",
-      "meaning": "sự xuất bản"
-    },
-    {
-      "word": "重版",
-      "reading": "じゅうはん",
-      "meaning": "phiên bản thứ hai"
-    },
-    {
       "word": "初版",
       "reading": "しょはん",
       "meaning": "xuất bản đầu tiên"
     },
     {
-      "word": "ベータ版",
-      "reading": "ベータばん",
-      "meaning": "bản thử nghiệm"
+      "word": "一版",
+      "reading": "いっぱん",
+      "meaning": "một ấn bản"
     },
     {
-      "word": "原版",
-      "reading": "げんぱん",
-      "meaning": "bản gốc"
+      "word": "版数",
+      "reading": "はんすう",
+      "meaning": "số phiên bản"
     },
     {
-      "word": "再版",
-      "reading": "さいはん",
-      "meaning": "sự tái bản"
+      "word": "プロ版",
+      "reading": "プロばん",
+      "meaning": "phiên bản chuyên nghiệp"
+    },
+    {
+      "word": "版面",
+      "reading": "はんめん",
+      "meaning": "phạm vi thiết kế"
+    },
+    {
+      "word": "デモ版",
+      "reading": "デモばん",
+      "meaning": "phiên bản giới thiệu"
     }
   ]
 }

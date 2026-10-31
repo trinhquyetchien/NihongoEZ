@@ -89,9 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "低迷",
-      "reading": "ていめい",
-      "meaning": "sự mờ mịt"
+      "word": "迷惑",
+      "reading": "めいわく",
+      "meaning": "phiền"
+    },
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning": "đi lạc"
+    },
+    {
+      "word": "迷信",
+      "reading": "めいしん",
+      "meaning": "dị đoan"
+    },
+    {
+      "word": "迷惑な",
+      "reading": "めいわくな",
+      "meaning": "phiền phức"
+    },
+    {
+      "word": "ご迷惑",
+      "reading": "ごめいわく",
+      "meaning": "lo lắng"
+    },
+    {
+      "word": "大迷惑",
+      "reading": "だいめいわく",
+      "meaning": "sự bất tiện lớn"
+    },
+    {
+      "word": "御迷惑",
+      "reading": "ごめいわく",
+      "meaning": "lo lắng"
     },
     {
       "word": "迷い",
@@ -99,44 +129,14 @@
       "meaning": "sự ngập ngừng"
     },
     {
-      "word": "莢迷",
-      "reading": "がまずみ",
-      "meaning": "cây kim ngân hoa"
+      "word": "迷い星",
+      "reading": "まよいぼし",
+      "meaning": "hành tinh"
     },
     {
-      "word": "混迷",
-      "reading": "こんめい",
-      "meaning": "sự hôn mê"
-    },
-    {
-      "word": "昏迷",
-      "reading": "こんめい",
-      "meaning": "sự ngỡ ngàng"
-    },
-    {
-      "word": "迷夢",
-      "reading": "めいむ",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "迷訳",
-      "reading": "めいやく",
-      "meaning": "bản dịch lộn xộn"
-    },
-    {
-      "word": "迷妄",
-      "reading": "めいもう",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "頑迷",
-      "reading": "がんめい",
-      "meaning": "ngoan cố"
-    },
-    {
-      "word": "迷論",
-      "reading": "めいろん",
-      "meaning": "lý lẽ gian dối"
+      "word": "迷う",
+      "reading": "まよう",
+      "meaning": "bị lúng túng"
     }
   ]
 }

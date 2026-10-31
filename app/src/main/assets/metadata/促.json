@@ -94,26 +94,6 @@
       "meaning": "sự thúc giục"
     },
     {
-      "word": "販促",
-      "reading": "はんそく",
-      "meaning": "khuyến mãi"
-    },
-    {
-      "word": "促迫",
-      "reading": "そくはく",
-      "meaning": "sự thúc ép"
-    },
-    {
-      "word": "促成",
-      "reading": "そくせい",
-      "meaning": "sự thúc đẩy phát triển"
-    },
-    {
-      "word": "督促",
-      "reading": "とくそく",
-      "meaning": "sự đốc thúc"
-    },
-    {
       "word": "促進",
       "reading": "そくしん",
       "meaning": "sự thúc đẩy"
@@ -124,19 +104,39 @@
       "meaning": "thúc giục"
     },
     {
-      "word": "促音",
-      "reading": "そくおん",
-      "meaning": "tiêu hóa âm thanh"
-    },
-    {
-      "word": "促音便",
-      "reading": "そくおんびん",
-      "meaning": "sự biến đổi âm mũi thành phụ âm ngắt"
+      "word": "促進率",
+      "reading": "そくしんりつ",
+      "meaning": "tỷ lệ thúc đẩy"
     },
     {
       "word": "促進剤",
       "reading": "そくしんざい",
       "meaning": "chất xúc tác"
+    },
+    {
+      "word": "販促",
+      "reading": "はんそく",
+      "meaning": "khuyến mãi"
+    },
+    {
+      "word": "販促物",
+      "reading": "はんそくぶつ",
+      "meaning": "đồ quảng cáo"
+    },
+    {
+      "word": "催促状",
+      "reading": "さいそくじょう",
+      "meaning": "màu nâu sẫm"
+    },
+    {
+      "word": "督促",
+      "reading": "とくそく",
+      "meaning": "sự đốc thúc"
+    },
+    {
+      "word": "督促状",
+      "reading": "とくそくじょう",
+      "meaning": "thư yêu cầu"
     }
   ]
 }

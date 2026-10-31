@@ -49,6 +49,11 @@
   ],
   "vocabulary": [
     {
+      "word": "碩老",
+      "reading": "せきろう",
+      "meaning": "người già khôn ngoan và có hiểu biết"
+    },
+    {
       "word": "碩学",
       "reading": "せきがく",
       "meaning": "học giả lớn"
@@ -57,11 +62,6 @@
       "word": "碩儒",
       "reading": "せきじゅ",
       "meaning": "người có học"
-    },
-    {
-      "word": "碩老",
-      "reading": "せきろう",
-      "meaning": "người già khôn ngoan và có hiểu biết"
     }
   ]
 }

@@ -108,39 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "共",
-      "reading": "ども",
-      "meaning": "sự cùng nhau"
-    },
-    {
-      "word": "共共",
-      "reading": "ともども",
-      "meaning": "cùng nhau"
-    },
-    {
-      "word": "共共に",
-      "reading": "ともどもに",
-      "meaning": "cùng nhau"
-    },
-    {
-      "word": "共存共栄",
-      "reading": "きょうそんきょうえい",
-      "meaning": "tồn tại và thịnh vượng"
-    },
-    {
-      "word": "共謀共同正犯",
-      "reading": "きょうぼうきょうどうせいはん",
-      "meaning": "tội đồng phạm khi có sự bàn bạc"
-    },
-    {
-      "word": "共食",
-      "reading": "きょうしょく",
-      "meaning": "ăn chung"
-    },
-    {
-      "word": "共力",
-      "reading": "きょうりょく",
-      "meaning": "sự hợp tác"
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "chung"
     },
     {
       "word": "公共",
@@ -148,14 +118,44 @@
       "meaning": "công cộng"
     },
     {
-      "word": "共有",
-      "reading": "きょうゆう",
-      "meaning": "sự sở hữu công cộng"
+      "word": "共産",
+      "reading": "きょうさん",
+      "meaning": "chủ nghĩa cộng sản"
     },
     {
       "word": "共鳴",
       "reading": "きょうめい",
       "meaning": "sự đồng cảm"
+    },
+    {
+      "word": "共学",
+      "reading": "きょうがく",
+      "meaning": "sự học chung"
+    },
+    {
+      "word": "共",
+      "reading": "ども",
+      "meaning": "sự cùng nhau"
+    },
+    {
+      "word": "日共",
+      "reading": "にっきょう",
+      "meaning": "đảng cộng sản nhật bản"
+    },
+    {
+      "word": "私共",
+      "reading": "わたくしども",
+      "meaning": "chúng tôi"
+    },
+    {
+      "word": "事共",
+      "reading": "ことども",
+      "meaning": "các thứ"
+    },
+    {
+      "word": "共力",
+      "reading": "きょうりょく",
+      "meaning": "sự hợp tác"
     }
   ]
 }

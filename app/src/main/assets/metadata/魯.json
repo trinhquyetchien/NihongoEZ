@@ -33,6 +33,11 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "魯肉飯",
+      "reading": "ルーローハン",
+      "meaning": "cơm thịt băm"
+    },
+    {
       "word": "魯鈍",
       "reading": "ろどん",
       "meaning": "sự khờ dại"
@@ -46,11 +51,6 @@
       "word": "普魯西",
       "reading": "プロシア",
       "meaning": "prussia"
-    },
-    {
-      "word": "魯肉飯",
-      "reading": "ルーローハン",
-      "meaning": "cơm thịt băm"
     },
     {
       "word": "烏焉魯魚",

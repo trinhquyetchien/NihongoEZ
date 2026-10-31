@@ -50,44 +50,19 @@
   ],
   "vocabulary": [
     {
+      "word": "紙屑",
+      "reading": "かみくず",
+      "meaning": "giấy lộn"
+    },
+    {
       "word": "屑",
       "reading": "くず",
       "meaning": "vụn rác"
     },
     {
-      "word": "屑入れ屑出し",
-      "reading": "くずいれくずだし",
-      "meaning": "rác ở ngoài"
-    },
-    {
-      "word": "落屑",
-      "reading": "らくせつ",
-      "meaning": "sự tróc vảy"
-    },
-    {
-      "word": "屑籠",
-      "reading": "くずかご",
+      "word": "屑入れ",
+      "reading": "くずいれ",
       "meaning": "thùng rác"
-    },
-    {
-      "word": "糸屑",
-      "reading": "いとくず",
-      "meaning": "làm cho mịn những đám nùi bông"
-    },
-    {
-      "word": "星屑",
-      "reading": "ほしくず",
-      "meaning": "bụi sao"
-    },
-    {
-      "word": "麻屑",
-      "reading": "あさくず",
-      "meaning": "sợi gai thô dùng để làm dây thừng"
-    },
-    {
-      "word": "鋸屑",
-      "reading": "のこくず",
-      "meaning": "mùn cưa"
     },
     {
       "word": "パン屑",
@@ -95,9 +70,34 @@
       "meaning": "vụn bánh mì"
     },
     {
-      "word": "木屑",
-      "reading": "きくず",
-      "meaning": "vỏ bào"
+      "word": "切れ屑",
+      "reading": "きれくず",
+      "meaning": "những mảnh nhỏ vải"
+    },
+    {
+      "word": "鉄屑",
+      "reading": "てつくず",
+      "meaning": "mạt sắt"
+    },
+    {
+      "word": "切り屑",
+      "reading": "きりくず",
+      "meaning": "mẩu cắt thải ra"
+    },
+    {
+      "word": "金属屑",
+      "reading": "きんぞくくず",
+      "meaning": "sắt vụn"
+    },
+    {
+      "word": "糸屑",
+      "reading": "いとくず",
+      "meaning": "làm cho mịn những đám nùi bông"
+    },
+    {
+      "word": "麻屑",
+      "reading": "あさくず",
+      "meaning": "sợi gai thô dùng để làm dây thừng"
     }
   ]
 }

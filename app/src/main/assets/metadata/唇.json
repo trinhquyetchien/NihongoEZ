@@ -90,14 +90,19 @@
       "meaning": "môi"
     },
     {
-      "word": "口唇",
-      "reading": "こうしん",
-      "meaning": "môi"
+      "word": "下唇",
+      "reading": "したくちびる",
+      "meaning": "môi dưới"
     },
     {
-      "word": "紅唇",
-      "reading": "こうしん",
-      "meaning": "môi hồng"
+      "word": "非円唇",
+      "reading": "ひえんしん",
+      "meaning": "không tròn môi"
+    },
+    {
+      "word": "唇小帯",
+      "reading": "くちびるこおび",
+      "meaning": "labial frenum"
     },
     {
       "word": "陰唇",
@@ -105,34 +110,29 @@
       "meaning": "môi âm hộ"
     },
     {
-      "word": "唇音",
-      "reading": "しんおん",
-      "meaning": "âm môi"
+      "word": "大陰唇",
+      "reading": "だいいんしん",
+      "meaning": "môi ngoài âm đạo"
     },
     {
-      "word": "朱唇",
-      "reading": "しゅしん",
-      "meaning": "đôi môi đỏ"
-    },
-    {
-      "word": "下唇",
-      "reading": "したくちびる",
-      "meaning": "môi dưới"
-    },
-    {
-      "word": "兎唇",
-      "reading": "いぐち",
-      "meaning": "tật sứt môi trên"
-    },
-    {
-      "word": "上唇",
-      "reading": "うわくちびる",
-      "meaning": "môi trên"
+      "word": "鼻唇溝",
+      "reading": "びしんこう",
+      "meaning": "nasolabial sulcus"
     },
     {
       "word": "唇腺",
       "reading": "しんせん",
       "meaning": "labial gland"
+    },
+    {
+      "word": "紅い唇",
+      "reading": "あかいくちびる",
+      "meaning": "môi hồng"
+    },
+    {
+      "word": "口唇",
+      "reading": "こうしん",
+      "meaning": "môi"
     }
   ]
 }

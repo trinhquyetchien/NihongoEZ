@@ -107,29 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "突っ突く",
-      "reading": "つっつく",
-      "meaning": "xúi giục"
-    },
-    {
-      "word": "突き出す",
-      "reading": "つきだす",
-      "meaning": "đẩy ra ngoài"
-    },
-    {
-      "word": "突破",
-      "reading": "とっぱ",
-      "meaning": "đột phá"
-    },
-    {
-      "word": "追突",
-      "reading": "ついとつ",
-      "meaning": "sự va từ phía sau"
-    },
-    {
-      "word": "突如",
-      "reading": "とつじょ",
-      "meaning": "đột nhiên"
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "bạo"
     },
     {
       "word": "衝突",
@@ -137,24 +117,44 @@
       "meaning": "sự xung khắc"
     },
     {
-      "word": "激突",
-      "reading": "げきとつ",
-      "meaning": "cú va chạm mạnh"
+      "word": "突く",
+      "reading": "つく",
+      "meaning": "chống"
     },
     {
-      "word": "突兀",
-      "reading": "とっこつ",
-      "meaning": "nhô hẳn ra"
+      "word": "煙突",
+      "reading": "えんとつ",
+      "meaning": "ống khói"
     },
     {
-      "word": "剣突",
-      "reading": "けんつく",
-      "meaning": "sự khiển trách nghiêm khắc"
+      "word": "突破",
+      "reading": "とっぱ",
+      "meaning": "đột phá"
     },
     {
-      "word": "牛突",
-      "reading": "うしつつき",
-      "meaning": "chim đậu lưng bò"
+      "word": "突如",
+      "reading": "とつじょ",
+      "meaning": "đột nhiên"
+    },
+    {
+      "word": "突入",
+      "reading": "とつにゅう",
+      "meaning": "đột nhập"
+    },
+    {
+      "word": "突撃",
+      "reading": "とつげき",
+      "meaning": "đột kích"
+    },
+    {
+      "word": "突き",
+      "reading": "つき",
+      "meaning": "nhát đâm"
+    },
+    {
+      "word": "突き膝",
+      "reading": "つきひざ",
+      "meaning": "tư thế quỳ chống đầu gối"
     }
   ]
 }

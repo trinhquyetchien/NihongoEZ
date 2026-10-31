@@ -97,54 +97,54 @@
   ],
   "vocabulary": [
     {
-      "word": "剥",
-      "reading": "はぎ",
-      "meaning": "bong ra"
-    },
-    {
-      "word": "剥す",
-      "reading": "はがす",
-      "meaning": "bóc ra"
-    },
-    {
       "word": "剥ぐ",
       "reading": "はぐ",
       "meaning": "bóc"
     },
     {
-      "word": "生剥",
-      "reading": "なまはげ",
-      "meaning": "namahage"
+      "word": "剥奪",
+      "reading": "はくだつ",
+      "meaning": "sự mất"
     },
     {
-      "word": "皮剥",
+      "word": "剥離",
+      "reading": "はくり",
+      "meaning": "tách ra"
+    },
+    {
+      "word": "剥離子",
+      "reading": "はくりこ",
+      "meaning": "dao bóc tách"
+    },
+    {
+      "word": "剥離紙",
+      "reading": "はくりし",
+      "meaning": "giấy tách"
+    },
+    {
+      "word": "剥離剤",
+      "reading": "はくりざい",
+      "meaning": "chất tách rời"
+    },
+    {
+      "word": "皮剥ぎ",
       "reading": "かわはぎ",
-      "meaning": "cá nóc"
+      "meaning": "da cá"
     },
     {
-      "word": "剥身",
-      "reading": "すきみ",
-      "meaning": "lát mỏng thịt hoặc cá"
+      "word": "剥がす",
+      "reading": "はがす",
+      "meaning": "bóc ra"
+    },
+    {
+      "word": "剥き物",
+      "reading": "むきもの",
+      "meaning": "nghệ thuật cắt tỉa rau củ"
     },
     {
       "word": "剥製",
       "reading": "はくせい",
       "meaning": "thú nhồi bông"
-    },
-    {
-      "word": "剥る",
-      "reading": "へずる",
-      "meaning": "ăn cắp vặt"
-    },
-    {
-      "word": "剥く",
-      "reading": "むく",
-      "meaning": "bóc"
-    },
-    {
-      "word": "剥落",
-      "reading": "はくらく",
-      "meaning": "tách ra"
     }
   ]
 }

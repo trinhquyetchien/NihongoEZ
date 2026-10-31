@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "２進−５進",
-      "reading": "にしんごしん",
-      "meaning": "cơ số hai-năm"
+      "word": "進む",
+      "reading": "すすむ",
+      "meaning": "tiến lên"
     },
     {
-      "word": "前進!前進!",
-      "reading": "ぜんしん！ぜんしん！",
-      "meaning": "tiến liên"
+      "word": "推進",
+      "reading": "すいしん",
+      "meaning": "đẩy mạnh"
     },
     {
-      "word": "２進−５進法",
-      "reading": "にしんうごしんほう",
-      "meaning": "biểu diễn nhị-ngũ phân"
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaning": "sự chuyển động lên phía trước"
     },
     {
-      "word": "１０進２進変換",
-      "reading": "じっしんにしんへんかん",
-      "meaning": "chuyển đổi thập phân sang nhị phân"
+      "word": "行進",
+      "reading": "こうしん",
+      "meaning": "cuộc diễu hành"
     },
     {
-      "word": "２進化１０進数",
-      "reading": "にしんかじっしんすう",
-      "meaning": "bcd"
+      "word": "進呈",
+      "reading": "しんてい",
+      "meaning": "sự biếu"
     },
     {
-      "word": "２進化１０進法",
-      "reading": "にしんかじっしんほう",
-      "meaning": "ký hiệu bcd"
+      "word": "進度",
+      "reading": "しんど",
+      "meaning": "tiến độ"
     },
     {
-      "word": "２進化１０進コード",
-      "reading": "にしんかじっしんコード",
-      "meaning": "mã thập phân được mã hóa nhị phân"
+      "word": "分進",
+      "reading": "ぶんしん",
+      "meaning": "sự chia ra và tiến lên"
     },
     {
-      "word": "二進化十進数",
-      "reading": "にしんかじっしんすう",
-      "meaning": "mã bcd"
+      "word": "上進",
+      "reading": "じょうしん",
+      "meaning": "sự tiến triển"
     },
     {
-      "word": "二進も三進も",
-      "reading": "にっちもさっちも",
-      "meaning": "không trong cách nào"
+      "word": "未進",
+      "reading": "みしん",
+      "meaning": "nonpayment vật cống"
     },
     {
-      "word": "2進化10進数",
-      "reading": "にしんかじゅうしんすう",
-      "meaning": "mã bcd"
+      "word": "勇進",
+      "reading": "ゆうしん",
+      "meaning": "dũng cảm tiến về phía trước"
     }
   ]
 }

@@ -109,24 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "痛",
-      "reading": "つう",
+      "word": "痛い",
+      "reading": "いたい",
       "meaning": "đau"
     },
     {
-      "word": "痛痛しい",
-      "reading": "いたいたしい",
-      "meaning": "cảm động"
-    },
-    {
-      "word": "痛み|疼痛",
-      "reading": "いたみ|とうつう",
-      "meaning": "pain"
-    },
-    {
-      "word": "痛い痛い病",
-      "reading": "イタイイタイびょう",
-      "meaning": "bênh \"itai-itai\""
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "nỗi đau"
     },
     {
       "word": "頭痛",
@@ -134,29 +124,39 @@
       "meaning": "đau đầu"
     },
     {
-      "word": "疝痛",
-      "reading": "せんつう",
-      "meaning": "khóc dạ đề"
+      "word": "痛む",
+      "reading": "いたむ",
+      "meaning": "đau đớn"
     },
     {
-      "word": "筋痛",
-      "reading": "きんつう",
-      "meaning": "đau cơ"
+      "word": "痛感",
+      "reading": "つうかん",
+      "meaning": "cảm thấy sắc bén"
     },
     {
-      "word": "腰痛",
-      "reading": "ようつう",
-      "meaning": "đau thắt lưng"
+      "word": "痛切",
+      "reading": "つうせつ",
+      "meaning": "sắc sảo"
     },
     {
-      "word": "胃痛",
-      "reading": "いつう",
-      "meaning": "đau dạ dày"
+      "word": "痛",
+      "reading": "つう",
+      "meaning": "đau"
     },
     {
       "word": "痛車",
       "reading": "いたしゃ",
       "meaning": "xe ô tô trang trí hình nhân vật anime"
+    },
+    {
+      "word": "痛っ",
+      "reading": "いたっ",
+      "meaning": "a đau"
+    },
+    {
+      "word": "筋痛",
+      "reading": "きんつう",
+      "meaning": "đau cơ"
     }
   ]
 }

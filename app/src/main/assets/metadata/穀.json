@@ -92,9 +92,9 @@
       "meaning": "ngũ cốc"
     },
     {
-      "word": "穀類",
-      "reading": "こくるい",
-      "meaning": "ngũ cốc"
+      "word": "穀物酢",
+      "reading": "こくもつす",
+      "meaning": "giấm ngũ cốc"
     },
     {
       "word": "九穀",
@@ -102,29 +102,9 @@
       "meaning": "chín loại ngũ cốc"
     },
     {
-      "word": "穀粉",
-      "reading": "こくふん",
-      "meaning": "hạt nghiền thành bột"
-    },
-    {
-      "word": "穀食",
-      "reading": "こくしょく",
-      "meaning": "sự ăn ngũ cốc"
-    },
-    {
       "word": "穀粒",
       "reading": "こくりゅう",
       "meaning": "hạt ngũ cốc"
-    },
-    {
-      "word": "穀倉",
-      "reading": "こくそう",
-      "meaning": "kho ngũ cốc"
-    },
-    {
-      "word": "穀雨",
-      "reading": "こくう",
-      "meaning": "cốc vũ"
     },
     {
       "word": "沙穀",
@@ -132,9 +112,29 @@
       "meaning": "sago"
     },
     {
+      "word": "雑穀",
+      "reading": "ざっこく",
+      "meaning": "tạp cốc"
+    },
+    {
+      "word": "雑穀米",
+      "reading": "ざっこくまい",
+      "meaning": "gạo ngũ cốc tạp"
+    },
+    {
+      "word": "穀類",
+      "reading": "こくるい",
+      "meaning": "ngũ cốc"
+    },
+    {
       "word": "脱穀",
       "reading": "だっこく",
       "meaning": "sự đập"
+    },
+    {
+      "word": "脱穀機",
+      "reading": "だっこくき",
+      "meaning": "máy đập lúa"
     }
   ]
 }

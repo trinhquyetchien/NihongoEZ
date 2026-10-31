@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "括弧（ ） （丸括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc đơn"
+      "word": "一括",
+      "reading": "いっかつ",
+      "meaning": "gộp"
     },
     {
-      "word": "括弧{ } （中括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc nhọn"
+      "word": "一括式",
+      "reading": "いっかつしき",
+      "meaning": "chế độ theo lô"
     },
     {
-      "word": "括弧[ ] （角括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc vuông"
+      "word": "一括め",
+      "reading": "ひとくるめ",
+      "meaning": "một bó"
     },
     {
-      "word": "括弧(( )) （二重括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc kép"
+      "word": "包括",
+      "reading": "ほうかつ",
+      "meaning": "sự bao quát"
     },
     {
-      "word": "括り",
-      "reading": "くくり",
-      "meaning": "sự buộc"
+      "word": "包括的",
+      "reading": "ほうかつてき",
+      "meaning": "có tính bao quát"
     },
     {
-      "word": "小括",
-      "reading": "しょうかつ",
-      "meaning": "sự tóm tắt"
+      "word": "総括",
+      "reading": "そうかつ",
+      "meaning": "sự tổng hợp"
     },
     {
-      "word": "括れ",
-      "reading": "くびれ",
-      "meaning": "sự thắt"
+      "word": "総括的",
+      "reading": "そうかつてき",
+      "meaning": "bao gồm tất cả"
     },
     {
-      "word": "括弧",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc đơn"
+      "word": "総括編",
+      "reading": "そうかつへん",
+      "meaning": "bản tóm tắt"
     },
     {
-      "word": "括る",
-      "reading": "くくる",
-      "meaning": "buộc chặt"
+      "word": "総括票",
+      "reading": "そうかつひょう",
+      "meaning": "bảng tổng hợp"
     },
     {
-      "word": "概括",
-      "reading": "がいかつ",
-      "meaning": "khái quát"
+      "word": "統括",
+      "reading": "とうかつ",
+      "meaning": "sự thống nhất"
     }
   ]
 }

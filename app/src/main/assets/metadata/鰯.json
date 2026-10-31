@@ -52,36 +52,6 @@
       "meaning": "cá mòi"
     },
     {
-      "word": "鰯鯨",
-      "reading": "いわしくじら",
-      "meaning": "cá voi sei"
-    },
-    {
-      "word": "鰯雲",
-      "reading": "いわしぐも",
-      "meaning": "mây ti tích"
-    },
-    {
-      "word": "真鰯",
-      "reading": "まいわし",
-      "meaning": "cá trích"
-    },
-    {
-      "word": "干鰯",
-      "reading": "ほしか",
-      "meaning": "làm khô cá xacđin"
-    },
-    {
-      "word": "赤鰯",
-      "reading": "あかいわし",
-      "meaning": "cá xacđin dầm giấm hoặc làm khô"
-    },
-    {
-      "word": "畳鰯",
-      "reading": "たたみいわし",
-      "meaning": "đậy làm khô những cá xacđin"
-    },
-    {
       "word": "鰯油",
       "reading": "いわしゆ",
       "meaning": "dầu cá mòi"
@@ -92,9 +62,39 @@
       "meaning": "axit clupanodonic"
     },
     {
+      "word": "外鰯",
+      "reading": "そといわし",
+      "meaning": "cá mòi đường"
+    },
+    {
       "word": "鰯節",
       "reading": "いわしぶし",
       "meaning": "cá mòi khô"
+    },
+    {
+      "word": "裸鰯",
+      "reading": "はだかいわし",
+      "meaning": "cá lồng đèn"
+    },
+    {
+      "word": "唐鰯",
+      "reading": "からいわし",
+      "meaning": "cá karaiwashi"
+    },
+    {
+      "word": "潤目鰯",
+      "reading": "うるめいわし",
+      "meaning": "xung quanh cá trích"
+    },
+    {
+      "word": "鰯鯨",
+      "reading": "いわしくじら",
+      "meaning": "cá voi sei"
+    },
+    {
+      "word": "小鰯鯨",
+      "reading": "こいわしくじら",
+      "meaning": "cá voi minke"
     }
   ]
 }

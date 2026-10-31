@@ -89,44 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "健",
-      "reading": "けん",
-      "meaning": "sức khỏe"
-    },
-    {
-      "word": "健診",
-      "reading": "けんしん",
-      "meaning": "kiểm tra sức khỏe"
-    },
-    {
-      "word": "健側",
-      "reading": "けんそく",
-      "meaning": "phần cơ thể không bị liệt"
-    },
-    {
-      "word": "健気",
-      "reading": "けなげ",
-      "meaning": "dũng cảm"
-    },
-    {
       "word": "健康",
       "reading": "けんこう",
       "meaning": "khí huyết"
     },
     {
-      "word": "剛健",
-      "reading": "ごうけん",
+      "word": "保健",
+      "reading": "ほけん",
+      "meaning": "sự bảo vệ sức khỏe"
+    },
+    {
+      "word": "健全",
+      "reading": "けんぜん",
       "meaning": "khoẻ mạnh"
-    },
-    {
-      "word": "強健",
-      "reading": "きょうけん",
-      "meaning": "bạo quyền"
-    },
-    {
-      "word": "頑健",
-      "reading": "がんけん",
-      "meaning": "mạnh mẽ"
     },
     {
       "word": "健在",
@@ -134,9 +109,34 @@
       "meaning": "sức khoẻ tốt"
     },
     {
-      "word": "健脚",
-      "reading": "けんきゃく",
-      "meaning": "người làm hàng rào"
+      "word": "健康な",
+      "reading": "けんこうな",
+      "meaning": "béo tốt"
+    },
+    {
+      "word": "健康人",
+      "reading": "けんこうじん",
+      "meaning": "người khỏe mạnh"
+    },
+    {
+      "word": "健康的",
+      "reading": "けんこうてき",
+      "meaning": "vệ sinh"
+    },
+    {
+      "word": "健康者",
+      "reading": "けんこうしゃ",
+      "meaning": "người mạnh khoẻ"
+    },
+    {
+      "word": "健康地",
+      "reading": "けんこうち",
+      "meaning": "nơi lành mạnh"
+    },
+    {
+      "word": "健康美",
+      "reading": "けんこうび",
+      "meaning": "vẻ đẹp khỏe khoắn"
     }
   ]
 }

@@ -39,9 +39,24 @@
       "meaning": "nơi ẩn dật"
     },
     {
-      "word": "僧庵",
+      "word": "庵点",
+      "reading": "いおりてん",
+      "meaning": "ký hiệu chỉ báo những từ sau được cầm từ một bài hát hoặc người đó nói những từ đang cháy sém"
+    },
+    {
+      "word": "沢庵",
+      "reading": "たくあん",
+      "meaning": "dầm giấm củ cải daikon"
+    },
+    {
+      "word": "沢庵漬",
+      "reading": "たくあんづけ",
+      "meaning": "dầm giấm daikon"
+    },
+    {
+      "word": "草庵",
       "reading": "そうあん",
-      "meaning": "nơi ẩn dật của thầy tu"
+      "meaning": "lợp lá túp lều"
     },
     {
       "word": "庵室",
@@ -54,34 +69,19 @@
       "meaning": "chủ nhân một nơi ẩn dật"
     },
     {
-      "word": "桂庵",
-      "reading": "けいあん",
-      "meaning": "nơi đăng ký những người hầu"
-    },
-    {
-      "word": "草庵",
-      "reading": "そうあん",
-      "meaning": "lợp lá túp lều"
-    },
-    {
-      "word": "沢庵",
-      "reading": "たくあん",
-      "meaning": "dầm giấm củ cải daikon"
-    },
-    {
-      "word": "庵点",
-      "reading": "いおりてん",
-      "meaning": "ký hiệu chỉ báo những từ sau được cầm từ một bài hát hoặc người đó nói những từ đang cháy sém"
-    },
-    {
-      "word": "沢庵漬",
-      "reading": "たくあんづけ",
-      "meaning": "dầm giấm daikon"
-    },
-    {
       "word": "仮庵祭",
       "reading": "かりいおさい",
       "meaning": "lễ lều tạm của người do thái"
+    },
+    {
+      "word": "僧庵",
+      "reading": "そうあん",
+      "meaning": "nơi ẩn dật của thầy tu"
+    },
+    {
+      "word": "桂庵",
+      "reading": "けいあん",
+      "meaning": "nơi đăng ký những người hầu"
     }
   ]
 }

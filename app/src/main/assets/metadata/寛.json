@@ -90,39 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "寛容",
+      "reading": "かんよう",
+      "meaning": "bao dong"
+    },
+    {
       "word": "寛",
       "reading": "かん",
       "meaning": "khoan dung"
     },
     {
-      "word": "寛恕",
-      "reading": "かんじょ",
-      "meaning": "tính hào hiệp"
-    },
-    {
-      "word": "寛衣",
-      "reading": "かんい",
-      "meaning": "quần áo rộng rãi"
-    },
-    {
-      "word": "寛保",
-      "reading": "かんぽう",
-      "meaning": "kampou era"
-    },
-    {
-      "word": "寛骨",
-      "reading": "かんこつ",
-      "meaning": "xương chậu"
-    },
-    {
-      "word": "寛永",
-      "reading": "かんえい",
-      "meaning": "thời kanei"
-    },
-    {
-      "word": "寛和",
-      "reading": "かんな",
-      "meaning": "thời kanna"
+      "word": "寛元",
+      "reading": "かんげん",
+      "meaning": "kangen era"
     },
     {
       "word": "長寛",
@@ -130,14 +110,34 @@
       "meaning": "thời kỳ chokan"
     },
     {
-      "word": "寛文",
-      "reading": "かんぶん",
-      "meaning": "kambun era"
+      "word": "寛骨",
+      "reading": "かんこつ",
+      "meaning": "xương chậu"
     },
     {
-      "word": "寛弘",
-      "reading": "かんこう",
-      "meaning": "thời kankou"
+      "word": "寛正",
+      "reading": "かんしょう",
+      "meaning": "kanshou era"
+    },
+    {
+      "word": "寛保",
+      "reading": "かんぽう",
+      "meaning": "kampou era"
+    },
+    {
+      "word": "寛衣",
+      "reading": "かんい",
+      "meaning": "quần áo rộng rãi"
+    },
+    {
+      "word": "不寛容",
+      "reading": "ふかんよう",
+      "meaning": "sự không dung thứ"
+    },
+    {
+      "word": "寛徳",
+      "reading": "かんとく",
+      "meaning": "kantoku era"
     }
   ]
 }

@@ -105,34 +105,14 @@
   ],
   "vocabulary": [
     {
-      "word": "歴",
-      "reading": "れき",
+      "word": "歴史",
+      "reading": "れきし",
       "meaning": "lịch sử"
     },
     {
-      "word": "歴歴",
-      "reading": "れきれき",
-      "meaning": "notables"
-    },
-    {
-      "word": "お歴歴",
-      "reading": "おれきれき",
-      "meaning": "người quan trọng"
-    },
-    {
-      "word": "御歴歴",
-      "reading": "おれきれき",
-      "meaning": "vips"
-    },
-    {
-      "word": "歴歴たる",
-      "reading": "れきれきたる",
-      "meaning": "sạch"
-    },
-    {
-      "word": "薬歴",
-      "reading": "やくれき",
-      "meaning": "bản ghi lại các nội dung về cách pha chế và hướng dẫn dùng thuốc do dược sĩ đưa ra liên quan đến lịch sử sử dụng thuốc"
+      "word": "履歴",
+      "reading": "りれき",
+      "meaning": "lịch sử"
     },
     {
       "word": "経歴",
@@ -140,19 +120,39 @@
       "meaning": "lai lịch"
     },
     {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "trình độ học vấn"
+    },
+    {
+      "word": "歴史書",
+      "reading": "れきししょ",
+      "meaning": "sách về lịch sử"
+    },
+    {
+      "word": "歴",
+      "reading": "れき",
+      "meaning": "lịch sử"
+    },
+    {
+      "word": "歴日",
+      "reading": "れきじつ",
+      "meaning": "sự đi qua của năm tháng"
+    },
+    {
+      "word": "歴女",
+      "reading": "れきじょ",
+      "meaning": "phụ nữ có niềm yêu thích lịch sử"
+    },
+    {
       "word": "地歴",
       "reading": "ちれき",
       "meaning": "lịch sử và địa lý"
     },
     {
-      "word": "戦歴",
-      "reading": "せんれき",
-      "meaning": "quân dịch"
-    },
-    {
-      "word": "芸歴",
-      "reading": "げいれき",
-      "meaning": "sự nghiệp"
+      "word": "軍歴",
+      "reading": "ぐんれき",
+      "meaning": "hồ sơ nghĩa vụ quân sự"
     }
   ]
 }

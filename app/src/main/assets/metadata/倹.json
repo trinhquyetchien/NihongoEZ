@@ -86,14 +86,24 @@
   ],
   "vocabulary": [
     {
+      "word": "倹約",
+      "reading": "けんやく",
+      "meaning": "sự tiết kiệm"
+    },
+    {
+      "word": "倹約家",
+      "reading": "けんやくか",
+      "meaning": "người tiết kiệm"
+    },
+    {
       "word": "倹",
       "reading": "けん",
       "meaning": "kinh tế"
     },
     {
-      "word": "倹約",
-      "reading": "けんやく",
-      "meaning": "sự tiết kiệm"
+      "word": "倹しい",
+      "reading": "つましい",
+      "meaning": "tiết kiệm"
     },
     {
       "word": "勤倹",
@@ -121,19 +131,9 @@
       "meaning": "sự tôn trọng"
     },
     {
-      "word": "倹しい",
-      "reading": "つましい",
+      "word": "倹約する",
+      "reading": "けんやく",
       "meaning": "tiết kiệm"
-    },
-    {
-      "word": "倹約家",
-      "reading": "けんやくか",
-      "meaning": "người tiết kiệm"
-    },
-    {
-      "word": "勤倹貯蓄",
-      "reading": "きんけんちょちく",
-      "meaning": "chăm chỉ và tiết kiệm"
     }
   ]
 }

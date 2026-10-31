@@ -84,31 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "偵",
-      "reading": "てい",
-      "meaning": "gián điệp"
-    },
-    {
-      "word": "偵知",
-      "reading": "ていち",
-      "meaning": "sự do thám"
-    },
-    {
-      "word": "偵察",
-      "reading": "ていさつ",
-      "meaning": "trinh sát"
-    },
-    {
-      "word": "内偵",
-      "reading": "ないてい",
-      "meaning": "việc điều tra bí mật"
-    },
-    {
-      "word": "密偵",
-      "reading": "みってい",
-      "meaning": "mật thám"
-    },
-    {
       "word": "探偵",
       "reading": "たんてい",
       "meaning": "sự trinh thám"
@@ -119,19 +94,44 @@
       "meaning": "trinh thám lớn"
     },
     {
-      "word": "探偵団",
-      "reading": "たんていだん",
-      "meaning": "nhóm thám tử"
-    },
-    {
       "word": "探偵社",
       "reading": "たんていしゃ",
       "meaning": "văn phòng thám tử"
     },
     {
-      "word": "サイバー探偵",
-      "reading": "サイバーたんてい",
-      "meaning": "cybersleuth"
+      "word": "探偵団",
+      "reading": "たんていだん",
+      "meaning": "nhóm thám tử"
+    },
+    {
+      "word": "探偵業",
+      "reading": "たんていぎょう",
+      "meaning": "công việc thám tử"
+    },
+    {
+      "word": "偵察",
+      "reading": "ていさつ",
+      "meaning": "trinh sát"
+    },
+    {
+      "word": "偵察機",
+      "reading": "ていさつき",
+      "meaning": "máy bay do thám"
+    },
+    {
+      "word": "偵察員",
+      "reading": "ていさついん",
+      "meaning": "trinh thám"
+    },
+    {
+      "word": "偵察隊",
+      "reading": "ていさつたい",
+      "meaning": "đội thám thính"
+    },
+    {
+      "word": "迷探偵",
+      "reading": "めいたんてい",
+      "meaning": "thám tử bất tài"
     }
   ]
 }

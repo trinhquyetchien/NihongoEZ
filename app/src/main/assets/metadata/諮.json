@@ -90,9 +90,9 @@
       "meaning": "hỏi ý"
     },
     {
-      "word": "諮詢",
-      "reading": "しじゅん",
-      "meaning": "hỏi"
+      "word": "諮問",
+      "reading": "しもん",
+      "meaning": "yêu cầu"
     },
     {
       "word": "諮議",
@@ -100,9 +100,9 @@
       "meaning": "sự tham khảo"
     },
     {
-      "word": "諮問",
-      "reading": "しもん",
-      "meaning": "yêu cầu"
+      "word": "諮詢",
+      "reading": "しじゅん",
+      "meaning": "hỏi"
     },
     {
       "word": "諮問機関",
@@ -110,9 +110,9 @@
       "meaning": "công ty tư vấn"
     },
     {
-      "word": "諮詢機関",
-      "reading": "しじゅんきかん",
-      "meaning": "cơ quan tư vấn"
+      "word": "諮問委員会",
+      "reading": "しもんいいんかい",
+      "meaning": "ủy ban tư vấn"
     },
     {
       "word": "諮問事項",
@@ -120,19 +120,19 @@
       "meaning": "điều khoản tham chiếu"
     },
     {
-      "word": "諮問委員会",
-      "reading": "しもんいいんかい",
-      "meaning": "ủy ban tư vấn"
-    },
-    {
-      "word": "委員会に諮る",
-      "reading": "いいんかいにはかる",
-      "meaning": "đệ trình lên một ủy ban để xem xét"
+      "word": "諮詢機関",
+      "reading": "しじゅんきかん",
+      "meaning": "cơ quan tư vấn"
     },
     {
       "word": "経済諮問委員会",
       "reading": "けいざいしもんいいんかい",
       "meaning": "hội đồng tư vấn kinh tế"
+    },
+    {
+      "word": "国際無線通信諮問委員会",
+      "reading": "こくさいむせんつうしんしもんいいんかい",
+      "meaning": "ủy ban tư vấn quốc tế về rađiô"
     }
   ]
 }

@@ -112,54 +112,54 @@
   ],
   "vocabulary": [
     {
+      "word": "自分",
+      "reading": "じぶん",
+      "meaning": "bản thân mình"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "đầy đủ"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "tâm tình"
+    },
+    {
       "word": "分",
       "reading": "ぶん",
       "meaning": "địa vị"
     },
     {
-      "word": "部分積分",
-      "reading": "ぶぶんせきぶん",
-      "meaning": "tích phân một phần"
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "sự phân chia"
     },
     {
-      "word": "五分五分",
-      "reading": "ごぶごぶ",
-      "meaning": "ngang bằng nhau"
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "mấy phút"
     },
     {
-      "word": "自分の分",
-      "reading": "じぶんのぶん",
-      "meaning": "một có thị phần"
+      "word": "１０分",
+      "reading": "じっぷん",
+      "meaning": "10 phút"
     },
     {
-      "word": "七分三分",
-      "reading": "しちぶさんぶ",
-      "meaning": "sự chia theo tỉ lệ bảy - ba"
+      "word": "処分",
+      "reading": "しょぶん",
+      "meaning": "sự giải quyết"
     },
     {
-      "word": "分光分析",
-      "reading": "ぶんこうぶんせき",
-      "meaning": "sự phân tích bằng kính quang phổ"
+      "word": "分裂",
+      "reading": "ぶんれつ",
+      "meaning": "sự phân liệt"
     },
     {
-      "word": "分散分析",
-      "reading": "ぶんさんぶんせき",
-      "meaning": "phân tích phương sai"
-    },
-    {
-      "word": "分別分解",
-      "reading": "ぶんべつぶんかい",
-      "meaning": "tách phân đoạn"
-    },
-    {
-      "word": "部分分数",
-      "reading": "ぶぶんぶんすう",
-      "meaning": "phân thức đơn giản"
-    },
-    {
-      "word": "分泌成分",
-      "reading": "ぶんぴつせいぶん",
-      "meaning": "thành phần tiết"
+      "word": "数分",
+      "reading": "すうふん",
+      "meaning": "vài phút"
     }
   ]
 }

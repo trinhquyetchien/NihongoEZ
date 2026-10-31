@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "期",
-      "reading": "き",
-      "meaning": "kì"
-    },
-    {
-      "word": "無期延期",
-      "reading": "むきえんき",
-      "meaning": "sự kéo dài vô thời hạn"
-    },
-    {
-      "word": "無期限延期",
-      "reading": "むきげんえんき",
-      "meaning": "trì hoãn vô thời hạn"
-    },
-    {
-      "word": "初期故障期間",
-      "reading": "しょきこしょーきかん",
-      "meaning": "giai đoạn thất bại ban đầu"
-    },
-    {
       "word": "期待",
       "reading": "きたい",
       "meaning": "sự kỳ vọng"
     },
     {
-      "word": "同期",
-      "reading": "どうき",
-      "meaning": "cùng thời điểm"
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "học kỳ"
     },
     {
-      "word": "モテ期",
-      "reading": "モテき",
-      "meaning": "khoảng thời gian của cuộc sống"
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "đoản kỳ"
     },
     {
-      "word": "後期",
-      "reading": "こうき",
-      "meaning": "kỳ sau"
+      "word": "期",
+      "reading": "き",
+      "meaning": "kì"
     },
     {
-      "word": "初期",
-      "reading": "しょき",
-      "meaning": "ban sơ"
+      "word": "画期",
+      "reading": "かっき",
+      "meaning": "mở ra một kỷ nguyên"
     },
     {
-      "word": "死期",
-      "reading": "しき",
-      "meaning": "thời gian sự chết"
+      "word": "末期",
+      "reading": "まっき",
+      "meaning": "thời gian kết thúc của một khoảng thời gian giới hạn"
+    },
+    {
+      "word": "周期",
+      "reading": "しゅうき",
+      "meaning": "chu kì"
+    },
+    {
+      "word": "期日",
+      "reading": "きじつ",
+      "meaning": "ngày đã định"
+    },
+    {
+      "word": "一期",
+      "reading": "いちご",
+      "meaning": "cơ hội chỉ đến 1 lần trong đời"
+    },
+    {
+      "word": "新期",
+      "reading": "しんき",
+      "meaning": "mùa mới"
     }
   ]
 }

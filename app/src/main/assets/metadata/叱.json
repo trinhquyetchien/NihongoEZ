@@ -89,6 +89,31 @@
   ],
   "vocabulary": [
     {
+      "word": "叱る",
+      "reading": "しかる",
+      "meaning": "gắt"
+    },
+    {
+      "word": "叱り",
+      "reading": "しかり",
+      "meaning": "sự mắng mỏ"
+    },
+    {
+      "word": "お叱り",
+      "reading": "おしかり",
+      "meaning": "sự mắng"
+    },
+    {
+      "word": "叱責",
+      "reading": "しっせき",
+      "meaning": "lời khiển trách"
+    },
+    {
+      "word": "叱咤",
+      "reading": "しった",
+      "meaning": "sự quát mắng"
+    },
+    {
       "word": "叱",
       "reading": "しっ",
       "meaning": "suỵt"
@@ -99,44 +124,19 @@
       "meaning": "mắng mỏ"
     },
     {
-      "word": "叱責",
-      "reading": "しっせき",
-      "meaning": "lời khiển trách"
-    },
-    {
-      "word": "叱り",
-      "reading": "しかり",
-      "meaning": "sự mắng mỏ"
-    },
-    {
-      "word": "叱咤",
-      "reading": "しった",
-      "meaning": "sự quát mắng"
-    },
-    {
       "word": "叱正",
       "reading": "しっせい",
       "meaning": "chỉ ra những lỗi"
     },
     {
-      "word": "叱る",
-      "reading": "しかる",
-      "meaning": "gắt"
+      "word": "叱られる",
+      "reading": "しかられる",
+      "meaning": "bị trách mắng"
     },
     {
-      "word": "お叱り",
-      "reading": "おしかり",
-      "meaning": "sự mắng"
-    },
-    {
-      "word": "励声叱咤",
-      "reading": "れいせいしった",
-      "meaning": "lời động viên nhiệt huyết"
-    },
-    {
-      "word": "叱咤激励",
-      "reading": "しったげきれい",
-      "meaning": "khiển trách nhằm khích lệ"
+      "word": "叱責する",
+      "reading": "しっせきする",
+      "meaning": "trách cứ"
     }
   ]
 }

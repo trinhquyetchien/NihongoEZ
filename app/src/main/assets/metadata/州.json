@@ -95,34 +95,34 @@
       "meaning": "bang"
     },
     {
-      "word": "州州",
+      "word": "他州",
+      "reading": "たしゅう",
+      "meaning": "quốc gia khác"
+    },
+    {
+      "word": "州内",
+      "reading": "しゅうない",
+      "meaning": "trong tiểu bang"
+    },
+    {
+      "word": "州外",
+      "reading": "しゅうがい",
+      "meaning": "ngoại tỉnh"
+    },
+    {
+      "word": "全州",
+      "reading": "ぜんしゅう",
+      "meaning": "toàn bộ tỉnh"
+    },
+    {
+      "word": "州々",
       "reading": "しゅうしゅう",
       "meaning": "mỗi trạng thái"
     },
     {
-      "word": "氷州",
-      "reading": "ひょうしゅう",
-      "meaning": "nước iceland"
-    },
-    {
-      "word": "アメリカ州",
-      "reading": "アメリカしゅう",
-      "meaning": "châu mỹ"
-    },
-    {
-      "word": "広州",
-      "reading": "こうしゅう",
-      "meaning": "quảng châu"
-    },
-    {
-      "word": "九州",
-      "reading": "きゅうしゅう",
-      "meaning": "kyushyu"
-    },
-    {
-      "word": "州都",
-      "reading": "しゅうと",
-      "meaning": "thành phố của một bang"
+      "word": "州州",
+      "reading": "しゅうしゅう",
+      "meaning": "mỗi trạng thái"
     },
     {
       "word": "八州",
@@ -130,14 +130,14 @@
       "meaning": "bổ nhiệm) nhật bản"
     },
     {
-      "word": "米州",
-      "reading": "べいしゅう",
-      "meaning": "châu mỹ"
+      "word": "九州",
+      "reading": "きゅうしゅう",
+      "meaning": "kyushyu"
     },
     {
-      "word": "他州",
-      "reading": "たしゅう",
-      "meaning": "quốc gia khác"
+      "word": "氷州",
+      "reading": "ひょうしゅう",
+      "meaning": "nước iceland"
     }
   ]
 }

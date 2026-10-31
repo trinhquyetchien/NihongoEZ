@@ -37,9 +37,14 @@
       "meaning": "bà lão"
     },
     {
-      "word": "姥貝",
-      "reading": "うばがい",
-      "meaning": "sò đỏ"
+      "word": "姥魚",
+      "reading": "うばうお",
+      "meaning": "aspasma minima"
+    },
+    {
+      "word": "姥捨て",
+      "reading": "うばすて",
+      "meaning": "thực hành việc hủy bỏ những bà già"
     },
     {
       "word": "姥鮫",
@@ -47,19 +52,9 @@
       "meaning": "cá nhám phơi nắng"
     },
     {
-      "word": "姥桜",
-      "reading": "うばざくら",
-      "meaning": "người phụ nữ ở tuổi trung niên nhưng còn giữ được nét quyến rũ"
-    },
-    {
-      "word": "山姥",
-      "reading": "やまうば",
-      "meaning": "phù thủy núi"
-    },
-    {
-      "word": "姥魚",
-      "reading": "うばうお",
-      "meaning": "aspasma minima"
+      "word": "姥彼岸",
+      "reading": "うばひがん",
+      "meaning": "hoa anh đào rủ kép"
     },
     {
       "word": "姥目樫",
@@ -67,14 +62,19 @@
       "meaning": "quercus phillyreoides"
     },
     {
-      "word": "姥彼岸",
-      "reading": "うばひがん",
-      "meaning": "hoa anh đào rủ kép"
+      "word": "山姥",
+      "reading": "やまうば",
+      "meaning": "phù thủy núi"
     },
     {
-      "word": "姥捨て",
-      "reading": "うばすて",
-      "meaning": "thực hành việc hủy bỏ những bà già"
+      "word": "姥貝",
+      "reading": "うばがい",
+      "meaning": "sò đỏ"
+    },
+    {
+      "word": "姥桜",
+      "reading": "うばざくら",
+      "meaning": "người phụ nữ ở tuổi trung niên nhưng còn giữ được nét quyến rũ"
     },
     {
       "word": "姥捨て山",

@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "譲渡(譲渡書)",
-      "reading": "じょうと（じょうとしょ）",
-      "meaning": "chuyển nhượng"
-    },
-    {
-      "word": "譲渡（譲渡書）",
-      "reading": "じょうと(じょうとしょ)",
-      "meaning": "chuyển nhượng"
-    },
-    {
-      "word": "委譲",
-      "reading": "いじょう",
-      "meaning": "sự nhường"
-    },
-    {
       "word": "譲る",
       "reading": "ゆずる",
       "meaning": "bàn giao"
     },
     {
-      "word": "謙譲",
-      "reading": "けんじょう",
-      "meaning": "khiêm nhường"
-    },
-    {
-      "word": "譲与",
-      "reading": "じょうよ",
-      "meaning": "chuyển"
-    },
-    {
-      "word": "割譲",
-      "reading": "かつじょう",
-      "meaning": "hành động nhượng lại"
+      "word": "譲歩",
+      "reading": "じょうほ",
+      "meaning": "sự nhượng bộ"
     },
     {
       "word": "譲渡",
@@ -129,14 +104,39 @@
       "meaning": "chuyển giao"
     },
     {
+      "word": "譲渡人",
+      "reading": "じょうとにん",
+      "meaning": "người chuyển nhượng"
+    },
+    {
+      "word": "譲り",
+      "reading": "ゆずり",
+      "meaning": "nhường nhịn"
+    },
+    {
       "word": "分譲",
       "reading": "ぶんじょう",
       "meaning": "việc phân chia ra từng phần nhỏ để bán"
     },
     {
-      "word": "互譲",
-      "reading": "ごじょう",
-      "meaning": "sự nhượng bộ nhau"
+      "word": "分譲地",
+      "reading": "ぶんじょうち",
+      "meaning": "đất được phân lô để bán"
+    },
+    {
+      "word": "譲許表",
+      "reading": "じょうきょひょう",
+      "meaning": "chương trình những sự nhượng bộ"
+    },
+    {
+      "word": "辞譲",
+      "reading": "じじょう",
+      "meaning": "chiều theo khác"
+    },
+    {
+      "word": "移譲",
+      "reading": "いじょう",
+      "meaning": "chuyển"
     }
   ]
 }

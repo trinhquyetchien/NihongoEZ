@@ -91,34 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "踊る阿呆に見る阿呆",
-      "reading": "おどるあほうにみるあほう",
-      "meaning": "bạn là một kẻ ngốc nếu bạn nhảy"
+      "word": "阿代",
+      "reading": "あしろ",
+      "meaning": "ophidion asiro"
     },
     {
-      "word": "阿翁",
-      "reading": "あおう",
-      "meaning": "cha chồng"
+      "word": "阿母",
+      "reading": "あぼ",
+      "meaning": "mẹ"
     },
     {
-      "word": "四阿",
-      "reading": "あずまや",
-      "meaning": "ban công hình vuông nơi nghỉ chân trong công viên thuốc kích thích dùng cho ngựa như"
+      "word": "阿父",
+      "reading": "あふ",
+      "meaning": "bố"
     },
     {
-      "word": "阿吽",
-      "reading": "あうん",
-      "meaning": "vt của order of merit"
-    },
-    {
-      "word": "阿る",
-      "reading": "おもねる",
-      "meaning": "tâng bốc"
-    },
-    {
-      "word": "阿諛",
-      "reading": "あゆ",
-      "meaning": "sự tâng bốc"
+      "word": "南阿",
+      "reading": "なんア",
+      "meaning": "nam phi"
     },
     {
       "word": "阿兄",
@@ -131,14 +121,24 @@
       "meaning": "sự tâng bốc"
     },
     {
-      "word": "阿字",
-      "reading": "あじ",
-      "meaning": "mẫu tự thứ nhất của phạn ngữ"
+      "word": "阿比",
+      "reading": "あび",
+      "meaning": "chim bói cá"
     },
     {
-      "word": "阿漕",
-      "reading": "あこぎ",
-      "meaning": "tên một địa danh ở tỉnh mie hỗn xược trơ tráo tham lam không còn tình cảm dai dẳng"
+      "word": "阿亀",
+      "reading": "おかめ",
+      "meaning": "người phụ nữ có nhan sắc xấu"
+    },
+    {
+      "word": "阿ねる",
+      "reading": "おもねる",
+      "meaning": "tâng bốc"
+    },
+    {
+      "word": "阿多福",
+      "reading": "おたふく",
+      "meaning": "người phụ nữ có khuôn mặt tròn"
     }
   ]
 }

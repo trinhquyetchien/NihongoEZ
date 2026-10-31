@@ -90,9 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "不吉",
+      "reading": "ふきつ",
+      "meaning": "chẳng lành"
+    },
+    {
       "word": "吉",
       "reading": "きち",
       "meaning": "may mắn"
+    },
+    {
+      "word": "中吉",
+      "reading": "ちゅうきち",
+      "meaning": "trung cát - khá tốt"
+    },
+    {
+      "word": "吉書",
+      "reading": "きっしょ",
+      "meaning": "bài thư pháp đầu tiên của năm"
     },
     {
       "word": "土吉",
@@ -105,14 +120,9 @@
       "meaning": "yoshinoya"
     },
     {
-      "word": "中吉",
-      "reading": "ちゅうきち",
-      "meaning": "trung cát - khá tốt"
-    },
-    {
-      "word": "末吉",
-      "reading": "すえきち",
-      "meaning": "may mắn nhỏ"
+      "word": "吉祥寺",
+      "reading": "きちじょうじ",
+      "meaning": "tên một địa điểm ở nhật"
     },
     {
       "word": "諭吉",
@@ -120,24 +130,14 @@
       "meaning": "yuichi"
     },
     {
-      "word": "小吉",
-      "reading": "しょうきち",
-      "meaning": "may mắn nhỏ"
+      "word": "大吉",
+      "reading": "だいきち",
+      "meaning": "đạt cát"
     },
     {
-      "word": "嘉吉",
-      "reading": "かきつ",
-      "meaning": "thời kakitsu"
-    },
-    {
-      "word": "吉祥",
-      "reading": "きっしょう",
-      "meaning": "sự cát tường"
-    },
-    {
-      "word": "吉兆",
+      "word": "吉徴",
       "reading": "きっちょう",
-      "meaning": "điềm lành"
+      "meaning": "dấu hiệu tốt hoặc may mắn"
     }
   ]
 }

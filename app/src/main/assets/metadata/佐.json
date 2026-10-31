@@ -87,44 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "大佐賀",
+      "reading": "おおさが",
+      "meaning": "cá quân sebastes iracundus"
+    },
+    {
+      "word": "佐賀県",
+      "reading": "さがけん",
+      "meaning": "chức quận trưởng trên hòn đảo kyuushuu"
+    },
+    {
+      "word": "大佐",
+      "reading": "たいさ",
+      "meaning": "đại tá"
+    },
+    {
       "word": "佐",
       "reading": "さ",
       "meaning": "giúp đỡ"
-    },
-    {
-      "word": "少佐",
-      "reading": "しょうさ",
-      "meaning": "thiếu tá"
-    },
-    {
-      "word": "補佐",
-      "reading": "ほさ",
-      "meaning": "sự trợ lý"
-    },
-    {
-      "word": "三佐",
-      "reading": "さんさ",
-      "meaning": "chính"
-    },
-    {
-      "word": "中佐",
-      "reading": "ちゅうさ",
-      "meaning": "đại tá thiếu úy"
-    },
-    {
-      "word": "二佐",
-      "reading": "にさ",
-      "meaning": "đại tá thiếu úy"
-    },
-    {
-      "word": "佐幕",
-      "reading": "さばく",
-      "meaning": "sự trung thành với chế độ mạc phủ"
-    },
-    {
-      "word": "佐官",
-      "reading": "さかん",
-      "meaning": "sĩ quan cấp tá"
     },
     {
       "word": "一佐",
@@ -132,9 +112,29 @@
       "meaning": "đại tá"
     },
     {
+      "word": "二佐",
+      "reading": "にさ",
+      "meaning": "đại tá thiếu úy"
+    },
+    {
+      "word": "三佐",
+      "reading": "さんさ",
+      "meaning": "chính"
+    },
+    {
+      "word": "佐様",
+      "reading": "さよう",
+      "meaning": "such loại đó"
+    },
+    {
       "word": "空佐",
       "reading": "くうさ",
       "meaning": "đại tá"
+    },
+    {
+      "word": "少佐",
+      "reading": "しょうさ",
+      "meaning": "thiếu tá"
     }
   ]
 }

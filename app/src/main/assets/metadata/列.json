@@ -93,24 +93,9 @@
       "meaning": "hàng"
     },
     {
-      "word": "縦列反復配列",
-      "reading": "じゅーれつはんぷくはいれつ",
-      "meaning": "chuỗi lặp lại song song"
-    },
-    {
       "word": "列車",
       "reading": "れっしゃ",
       "meaning": "đoàn tàu"
-    },
-    {
-      "word": "コーシー列",
-      "reading": "コーシーれつ",
-      "meaning": "dãy côsi"
-    },
-    {
-      "word": "バイト列",
-      "reading": "バイトれつ",
-      "meaning": "chuỗi byte"
     },
     {
       "word": "行列",
@@ -118,24 +103,39 @@
       "meaning": "hàng người"
     },
     {
+      "word": "列島",
+      "reading": "れっとう",
+      "meaning": "quần đảo"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "mảng"
+    },
+    {
+      "word": "並列",
+      "reading": "へいれつ",
+      "meaning": "sự song song"
+    },
+    {
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "việc trưng bày"
+    },
+    {
       "word": "整列",
       "reading": "せいれつ",
       "meaning": "sự xếp thành hàng"
     },
     {
-      "word": "参列",
-      "reading": "さんれつ",
-      "meaning": "sự hiện diện"
+      "word": "一列",
+      "reading": "いちれつ",
+      "meaning": "một hàng"
     },
     {
-      "word": "歯列",
-      "reading": "しれつ",
-      "meaning": "hàm răng"
-    },
-    {
-      "word": "横列",
-      "reading": "おうれつ",
-      "meaning": "hàng ngang"
+      "word": "二列",
+      "reading": "にれつ",
+      "meaning": "hai hàng"
     }
   ]
 }

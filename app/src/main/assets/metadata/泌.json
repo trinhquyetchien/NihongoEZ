@@ -86,19 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "泌み泌み",
-      "reading": "",
-      "meaning": "sắc bén"
-    },
-    {
       "word": "分泌",
       "reading": "ぶんぴつ",
       "meaning": "sự bài tiết"
-    },
-    {
-      "word": "泌尿",
-      "reading": "ひにょう",
-      "meaning": "tiết niệu"
     },
     {
       "word": "分泌物",
@@ -111,9 +101,9 @@
       "meaning": "sự cất giấu ngoài"
     },
     {
-      "word": "内分泌",
-      "reading": "ないぶんぴつ",
-      "meaning": "nội tiết"
+      "word": "分泌量",
+      "reading": "ぶんぴつりょー",
+      "meaning": "lượng bài tiết"
     },
     {
       "word": "分泌液",
@@ -131,9 +121,19 @@
       "meaning": "cơ quan đường tiết niệu"
     },
     {
-      "word": "分泌量",
-      "reading": "ぶんぴつりょー",
-      "meaning": "lượng bài tiết"
+      "word": "内分泌",
+      "reading": "ないぶんぴつ",
+      "meaning": "nội tiết"
+    },
+    {
+      "word": "泌尿",
+      "reading": "ひにょう",
+      "meaning": "tiết niệu"
+    },
+    {
+      "word": "泌尿幾",
+      "reading": "",
+      "meaning": "những cơ quan cơ quan bài tiết"
     }
   ]
 }

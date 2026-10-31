@@ -88,14 +88,24 @@
   ],
   "vocabulary": [
     {
+      "word": "貰える",
+      "reading": "もらえる",
+      "meaning": "có thể nhận"
+    },
+    {
       "word": "貰う",
       "reading": "もらう",
       "meaning": "nhận"
     },
     {
-      "word": "貰える",
-      "reading": "もらえる",
-      "meaning": "có thể nhận"
+      "word": "貰い物",
+      "reading": "もらいもの",
+      "meaning": "quà tặng"
+    },
+    {
+      "word": "貰い手",
+      "reading": "もらいて",
+      "meaning": "cái máy thu"
     },
     {
       "word": "貰泣き",
@@ -108,11 +118,6 @@
       "meaning": "bà vú"
     },
     {
-      "word": "貰い物",
-      "reading": "もらいもの",
-      "meaning": "quà tặng"
-    },
-    {
       "word": "物貰い",
       "reading": "ものもらい",
       "meaning": "sự ăn xin"
@@ -121,11 +126,6 @@
       "word": "貰い子",
       "reading": "もらいご",
       "meaning": "sự nuôi con nuôi"
-    },
-    {
-      "word": "貰い手",
-      "reading": "もらいて",
-      "meaning": "cái máy thu"
     },
     {
       "word": "貰い受ける",

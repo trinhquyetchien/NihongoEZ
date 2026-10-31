@@ -89,19 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "打診",
-      "reading": "だしん",
-      "meaning": "hỏi dò"
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "sự khám bệnh"
     },
     {
-      "word": "健診",
-      "reading": "けんしん",
-      "meaning": "kiểm tra sức khỏe"
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "sự chẩn đoán"
     },
     {
-      "word": "誤診",
-      "reading": "ごしん",
-      "meaning": "sự chẩn đoán sai"
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "kiểm tra"
     },
     {
       "word": "診療",
@@ -109,34 +109,34 @@
       "meaning": "sự khám và chữa bệnh"
     },
     {
-      "word": "初診",
-      "reading": "しょしん",
-      "meaning": "khám lần đầu"
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "ống nghe"
     },
     {
-      "word": "休診",
-      "reading": "きゅうしん",
-      "meaning": "sự nghỉ khám bệnh"
+      "word": "打診器",
+      "reading": "だしんき",
+      "meaning": "búa gõ"
     },
     {
-      "word": "予診",
-      "reading": "よしん",
-      "meaning": "kiểm tra sơ bộ"
+      "word": "診断法",
+      "reading": "しんだんほう",
+      "meaning": "phương pháp chẩn đoán"
     },
     {
-      "word": "代診",
-      "reading": "だいしん",
-      "meaning": "người thay thế"
+      "word": "診断書",
+      "reading": "しんだんしょ",
+      "meaning": "bệnh án"
     },
     {
-      "word": "回診",
-      "reading": "かいしん",
-      "meaning": "sự đi vòng quanh chẩn đoán bệnh của bác sỹ"
+      "word": "診断薬",
+      "reading": "しんだんやく",
+      "meaning": "thuốc chẩn đoán"
     },
     {
-      "word": "内診",
-      "reading": "ないしん",
-      "meaning": "nội chẩn"
+      "word": "診断学",
+      "reading": "しんだんがく",
+      "meaning": "chẩn đoán học"
     }
   ]
 }

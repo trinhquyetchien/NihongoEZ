@@ -90,16 +90,6 @@
       "meaning": "vợ bé"
     },
     {
-      "word": "洋妾",
-      "reading": "ようしょう",
-      "meaning": "nhân tình của người phương tây"
-    },
-    {
-      "word": "蓄妾",
-      "reading": "ちくしょう",
-      "meaning": "nuôi thê thiếp"
-    },
-    {
       "word": "外妾",
       "reading": "がいしょう",
       "meaning": "tình nhân bên ngoài"
@@ -108,6 +98,21 @@
       "word": "愛妾",
       "reading": "あいしょう",
       "meaning": "ái thiếp"
+    },
+    {
+      "word": "妾腹",
+      "reading": "しょうふく",
+      "meaning": "không hợp pháp"
+    },
+    {
+      "word": "洋妾",
+      "reading": "ようしょう",
+      "meaning": "nhân tình của người phương tây"
+    },
+    {
+      "word": "蓄妾",
+      "reading": "ちくしょう",
+      "meaning": "nuôi thê thiếp"
     },
     {
       "word": "男妾",
@@ -123,11 +128,6 @@
       "word": "妾出",
       "reading": "しょうしゅつ",
       "meaning": "chửa hoang"
-    },
-    {
-      "word": "妾腹",
-      "reading": "しょうふく",
-      "meaning": "không hợp pháp"
     },
     {
       "word": "妻妾",

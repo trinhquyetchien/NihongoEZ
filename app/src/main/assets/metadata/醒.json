@@ -84,19 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "警醒",
-      "reading": "けいせい",
-      "meaning": "cảnh báo"
-    },
-    {
       "word": "覚醒",
       "reading": "かくせい",
       "meaning": "đánh thức"
     },
     {
-      "word": "醒覚",
-      "reading": "せいかく",
-      "meaning": "đánh thức"
+      "word": "覚醒剤",
+      "reading": "かくせいざい",
+      "meaning": "chất kích thích"
     },
     {
       "word": "醒める",
@@ -109,29 +104,34 @@
       "meaning": "giết - niềm vui"
     },
     {
+      "word": "警醒",
+      "reading": "けいせい",
+      "meaning": "cảnh báo"
+    },
+    {
+      "word": "醒覚",
+      "reading": "せいかく",
+      "meaning": "đánh thức"
+    },
+    {
       "word": "興醒し",
       "reading": "きょうざまし",
       "meaning": "giết - niềm vui"
     },
     {
-      "word": "覚醒剤",
-      "reading": "かくせいざい",
+      "word": "覚醒状態",
+      "reading": "かくせいじょうたい",
+      "meaning": "trạng thái tỉnh táo"
+    },
+    {
+      "word": "覚醒作用",
+      "reading": "かくせいさよう",
       "meaning": "chất kích thích"
     },
     {
-      "word": "興醒める",
-      "reading": "きょうざめる",
-      "meaning": "sự mất hứng thú"
-    },
-    {
-      "word": "寝醒める",
-      "reading": "ねざめる",
-      "meaning": "tỉnh dậy"
-    },
-    {
-      "word": "興醒まし",
-      "reading": "きょうざまし",
-      "meaning": "làm hỏng niềm vui"
+      "word": "覚醒水準",
+      "reading": "かくせいすいじゅん",
+      "meaning": "mức độ tỉnh táo"
     }
   ]
 }

@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "鍛冶",
-      "reading": "たんや",
-      "meaning": "thợ rèn"
+      "word": "鍛える",
+      "reading": "きたえる",
+      "meaning": "dạy dỗ"
     },
     {
       "word": "鍛え",
@@ -116,9 +116,14 @@
       "meaning": "khổ luyện"
     },
     {
-      "word": "鍛工",
-      "reading": "たんこう",
+      "word": "鍛冶",
+      "reading": "たんや",
       "meaning": "thợ rèn"
+    },
+    {
+      "word": "鍛冶場",
+      "reading": "かじば",
+      "meaning": "xưởng rèn"
     },
     {
       "word": "鍛錬",
@@ -126,34 +131,29 @@
       "meaning": "sự rèn luyện"
     },
     {
-      "word": "鍛成",
-      "reading": "たんせい",
-      "meaning": "sự trồng trọt"
-    },
-    {
-      "word": "鍛鉄",
-      "reading": "たんてつ",
-      "meaning": "luyện sắt"
-    },
-    {
       "word": "鍛造",
       "reading": "たんぞう",
       "meaning": "\u0010dập nóng"
     },
     {
-      "word": "鍛鋼",
-      "reading": "たんこう",
-      "meaning": "thép được tôi luyện"
+      "word": "型鍛造",
+      "reading": "かたたんぞう",
+      "meaning": "phương pháp rèn khuôn"
     },
     {
-      "word": "鍛接",
-      "reading": "たんせつ",
-      "meaning": "rèn sự hàn"
+      "word": "鍛造品",
+      "reading": "たんぞうひん",
+      "meaning": "sản phẩm rèn"
     },
     {
       "word": "鍛練",
       "reading": "たんれん",
       "meaning": "tôi luyện"
+    },
+    {
+      "word": "鍛冶屋",
+      "reading": "かじや",
+      "meaning": "thợ nguội"
     }
   ]
 }

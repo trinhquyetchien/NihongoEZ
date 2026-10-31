@@ -55,19 +55,14 @@
       "meaning": "kim đan"
     },
     {
-      "word": "錘状",
-      "reading": "すいじょう",
+      "word": "錘形",
+      "reading": "つむがた",
       "meaning": "có hình con suốt"
     },
     {
-      "word": "紡錘",
-      "reading": "ぼうすい",
-      "meaning": "con suốt xe chỉ"
-    },
-    {
-      "word": "休錘",
-      "reading": "きゅうすい",
-      "meaning": "nhàn rỗi mọc thẳng lên"
+      "word": "錘状",
+      "reading": "すいじょう",
+      "meaning": "có hình con suốt"
     },
     {
       "word": "鉛錘",
@@ -75,14 +70,9 @@
       "meaning": "hòn chì của dây dọi"
     },
     {
-      "word": "錘形",
-      "reading": "つむがた",
-      "meaning": "có hình con suốt"
-    },
-    {
-      "word": "落錘",
-      "reading": "らくすい",
-      "meaning": "giảm cân"
+      "word": "平衡錘",
+      "reading": "へいこうすい",
+      "meaning": "đối trọng"
     },
     {
       "word": "錘鰤",
@@ -90,14 +80,24 @@
       "meaning": "cá cam thoi"
     },
     {
+      "word": "紡錘",
+      "reading": "ぼうすい",
+      "meaning": "con suốt xe chỉ"
+    },
+    {
       "word": "筋紡錘",
       "reading": "きんぼうすい",
       "meaning": "thoi cơ"
     },
     {
-      "word": "平衡錘",
-      "reading": "へいこうすい",
-      "meaning": "đối trọng"
+      "word": "紡錘体",
+      "reading": "ぼうすいたい",
+      "meaning": "bộ máy trục chính"
+    },
+    {
+      "word": "紡錘車",
+      "reading": "ぼうすいしゃ",
+      "meaning": "bánh xe trục chính"
     }
   ]
 }

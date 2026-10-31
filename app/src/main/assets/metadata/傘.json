@@ -93,24 +93,14 @@
       "meaning": "cái ô"
     },
     {
-      "word": "傘袋",
-      "reading": "かさぶくろ",
-      "meaning": "túi bọc ô"
+      "word": "から傘",
+      "reading": "からかさ",
+      "meaning": "ô giấy dầu"
     },
     {
-      "word": "ビニール傘",
-      "reading": "ビニールがさ",
-      "meaning": "ô nhựa"
-    },
-    {
-      "word": "傘下",
-      "reading": "さんか",
-      "meaning": "dưới ô dù"
-    },
-    {
-      "word": "傘寿",
-      "reading": "さんじゅ",
-      "meaning": "sinh nhật mừng 80 tuổi"
+      "word": "傘屋",
+      "reading": "かさや",
+      "meaning": "cửa hàng ô"
     },
     {
       "word": "傘地",
@@ -118,24 +108,34 @@
       "meaning": "vải may ô"
     },
     {
+      "word": "長傘",
+      "reading": "なががさ",
+      "meaning": "ô có gân dài"
+    },
+    {
       "word": "主傘",
       "reading": "しゅさん",
       "meaning": "chính nhảy dù"
     },
     {
-      "word": "日傘",
-      "reading": "ひがさ",
-      "meaning": "cái dù"
+      "word": "傘持ち",
+      "reading": "かさもち",
+      "meaning": "người mang theo ô"
     },
     {
-      "word": "番傘",
-      "reading": "ばんがさ",
-      "meaning": "ô oilpaper thô"
+      "word": "傘紙",
+      "reading": "かさがみ",
+      "meaning": "giấy dầu dán vào cái ô"
     },
     {
-      "word": "傘屋",
-      "reading": "かさや",
-      "meaning": "cửa hàng ô"
+      "word": "傘立て",
+      "reading": "かさたて",
+      "meaning": "cái giá để ô"
+    },
+    {
+      "word": "和傘",
+      "reading": "わがさ",
+      "meaning": "ô nhật bản"
     }
   ]
 }

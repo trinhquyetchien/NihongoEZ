@@ -92,24 +92,39 @@
   ],
   "vocabulary": [
     {
-      "word": "憎憎しい",
-      "reading": "にくにくしい",
-      "meaning": "đầy căm thù"
+      "word": "憎い",
+      "reading": "にくい",
+      "meaning": "đáng ghét"
     },
     {
-      "word": "罪を憎んで人を憎まず",
-      "reading": "つみをにくんでひとをにくまず",
-      "meaning": "lên án hành vi phạm tội"
+      "word": "憎む",
+      "reading": "にくむ",
+      "meaning": "chán ghét"
     },
     {
-      "word": "坊主憎けりゃ袈裟まで憎い",
-      "reading": "ぼうずにくけりゃけさまでにくい",
-      "meaning": "đốt nóng mọi thứ về một người"
+      "word": "憎らしい",
+      "reading": "にくらしい",
+      "meaning": "đáng ghét"
+    },
+    {
+      "word": "憎しみ",
+      "reading": "にくしみ",
+      "meaning": "sự ghét"
     },
     {
       "word": "愛憎",
       "reading": "あいぞう",
       "meaning": "sự yêu ghét"
+    },
+    {
+      "word": "憎悪",
+      "reading": "ぞうお",
+      "meaning": "sự căm ghét"
+    },
+    {
+      "word": "生憎",
+      "reading": "あいにく",
+      "meaning": "không may"
     },
     {
       "word": "憎気",
@@ -122,24 +137,9 @@
       "meaning": "lòng căm ghét"
     },
     {
-      "word": "憎悪",
-      "reading": "ぞうお",
-      "meaning": "sự căm ghét"
-    },
-    {
-      "word": "憎む",
-      "reading": "にくむ",
-      "meaning": "chán ghét"
-    },
-    {
-      "word": "憎い",
-      "reading": "にくい",
-      "meaning": "đáng ghét"
-    },
-    {
-      "word": "生憎",
-      "reading": "あいにく",
-      "meaning": "không may"
+      "word": "心憎い",
+      "reading": "こころにくい",
+      "meaning": "tinh tế"
     }
   ]
 }

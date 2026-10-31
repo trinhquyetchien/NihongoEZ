@@ -92,14 +92,24 @@
       "meaning": "đũa"
     },
     {
-      "word": "箸筒",
-      "reading": "はしづつ",
-      "meaning": "hộp đựng đũa hình trụ"
+      "word": "箸立て",
+      "reading": "はしたて",
+      "meaning": "dụng cụ giữ đinh"
     },
     {
-      "word": "マイ箸",
-      "reading": "マイばし",
-      "meaning": "đũa của mình"
+      "word": "一本箸",
+      "reading": "いっぽんばし",
+      "meaning": "chiếc đũa cắm thẳng đứng vào bát cơm cho người đã khuất"
+    },
+    {
+      "word": "箸台",
+      "reading": "はしだい",
+      "meaning": "đế dựng đũa"
+    },
+    {
+      "word": "箸使い",
+      "reading": "はしづかい",
+      "meaning": "cách sử dụng đũa"
     },
     {
       "word": "空箸",
@@ -107,34 +117,24 @@
       "meaning": "việc chọc đũa vào một món ăn gì đó nhưng lại không gắp nó mà nhấc đũa ra"
     },
     {
-      "word": "涙箸",
-      "reading": "なみだばし",
-      "meaning": "việc để nước sốt hoặc nước cốt của món ăn nhỏ giọt trong lúc đưa vào đĩa hoặc miệng"
+      "word": "取り箸",
+      "reading": "とりばし",
+      "meaning": "đũa chung"
     },
     {
-      "word": "匕箸",
-      "reading": "ひちょ",
-      "meaning": "thìa và đũa"
+      "word": "箸紙",
+      "reading": "はしがみ",
+      "meaning": "bao giấy đựng đũa nhật"
     },
     {
-      "word": "箸袋",
-      "reading": "はしぶくろ",
-      "meaning": "giấy bọc đũa"
+      "word": "横箸",
+      "reading": "よこばし",
+      "meaning": "việc đặt hai đôi đũa song song lại với nhau và sử dụng như một chiếc thìa"
     },
     {
-      "word": "火箸",
-      "reading": "ひばし",
-      "meaning": "cái kẹp"
-    },
-    {
-      "word": "菜箸",
-      "reading": "さいばし",
-      "meaning": "đũa dùng nấu ăn hoặc gắp thức ăn"
-    },
-    {
-      "word": "杉箸",
-      "reading": "すぎばし",
-      "meaning": "những đũa làm cây thông tuyết"
+      "word": "箸初め",
+      "reading": "はしぞめ",
+      "meaning": "lễ cắt sữa"
     }
   ]
 }

@@ -93,39 +93,19 @@
       "meaning": "nghề nghiệp"
     },
     {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaning": "người lao động"
+    },
+    {
       "word": "職場",
       "reading": "しょくば",
       "meaning": "nơi làm việc"
     },
     {
-      "word": "組職",
-      "reading": "そしき",
-      "meaning": "sự tổ chức"
-    },
-    {
-      "word": "居職",
-      "reading": "いじょく",
-      "meaning": "cư trú"
-    },
-    {
-      "word": "現職",
-      "reading": "げんしょく",
-      "meaning": "chức vụ hiện nay"
-    },
-    {
-      "word": "公職",
-      "reading": "こうしょく",
-      "meaning": "danh xưng cho các chức vụ nhà nước"
-    },
-    {
-      "word": "失職",
-      "reading": "しっしょく",
-      "meaning": "sự mất việc"
-    },
-    {
-      "word": "職人",
-      "reading": "しょくにん",
-      "meaning": "người lao động"
+      "word": "前職",
+      "reading": "ぜんしょく",
+      "meaning": "công việc trước đây"
     },
     {
       "word": "軍職",
@@ -133,9 +113,29 @@
       "meaning": "quan chức trong quân đội"
     },
     {
-      "word": "在職",
-      "reading": "ざいしょく",
-      "meaning": "tại chức"
+      "word": "組職",
+      "reading": "そしき",
+      "meaning": "sự tổ chức"
+    },
+    {
+      "word": "職組",
+      "reading": "しょくそ",
+      "meaning": "liên hiệp những người làm thuê"
+    },
+    {
+      "word": "当職",
+      "reading": "とうしょく",
+      "meaning": "nhiệm vụ này"
+    },
+    {
+      "word": "職質",
+      "reading": "しょくしつ",
+      "meaning": "sự tra hỏi"
+    },
+    {
+      "word": "貴職",
+      "reading": "きしょく",
+      "meaning": "ngài"
     }
   ]
 }

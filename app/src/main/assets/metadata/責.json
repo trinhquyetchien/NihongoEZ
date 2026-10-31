@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "責",
-      "reading": "せき",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "trách"
+    },
+    {
+      "word": "責める",
+      "reading": "せめる",
+      "meaning": "kết tội"
+    },
+    {
+      "word": "責務",
+      "reading": "せきむ",
+      "meaning": "nhiệm vụ"
+    },
+    {
+      "word": "責任者",
+      "reading": "せきにんしゃ",
+      "meaning": "người phụ trách"
+    },
+    {
+      "word": "責任感",
+      "reading": "せきにんかん",
+      "meaning": "tinh thần trách nhiệm"
+    },
+    {
+      "word": "全責任",
+      "reading": "ぜんせきにん",
+      "meaning": "trách nhiệm đầy đủ"
+    },
+    {
+      "word": "無責任",
+      "reading": "むせきにん",
+      "meaning": "sự vô trách nhiệm"
+    },
+    {
+      "word": "責め",
+      "reading": "せめ",
       "meaning": "trách nhiệm"
     },
     {
-      "word": "督責",
-      "reading": "とくせき",
-      "meaning": "yêu cầu"
+      "word": "現責め",
+      "reading": "うつつぜめ",
+      "meaning": "phương pháp tra tấn bằng cách không cho người ngủ được thực hiện ở thời edo"
     },
     {
-      "word": "重責",
-      "reading": "じゅうせき",
-      "meaning": "trách nhiệm nặng nề"
-    },
-    {
-      "word": "叱責",
-      "reading": "しっせき",
-      "meaning": "lời khiển trách"
-    },
-    {
-      "word": "職責",
-      "reading": "しょくせき",
-      "meaning": "chức trách"
-    },
-    {
-      "word": "引責",
-      "reading": "いんせき",
-      "meaning": "sự nhận trách nhiệm"
-    },
-    {
-      "word": "勘責",
-      "reading": "かんせき",
-      "meaning": "mắng mỏ cho một lỗi"
-    },
-    {
-      "word": "賠責",
-      "reading": "ばいせき",
-      "meaning": "bảo hiểm tiền nợ"
-    },
-    {
-      "word": "文責",
-      "reading": "ぶんせき",
-      "meaning": "trách nhiệm cho cách viết một mục"
-    },
-    {
-      "word": "自責",
-      "reading": "じせき",
-      "meaning": "sự cắn rứt"
+      "word": "責め具",
+      "reading": "せめぐ",
+      "meaning": "dụng cụ tra tấn"
     }
   ]
 }

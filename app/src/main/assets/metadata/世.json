@@ -91,41 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "世",
-      "reading": "よ",
-      "meaning": "thế giới"
-    },
-    {
-      "word": "世世",
-      "reading": "よよ",
-      "meaning": "di truyền"
-    },
-    {
-      "word": "世が世なら",
-      "reading": "よがよなら",
-      "meaning": "nếu được sinh ra ở một thời đại tốt hơn"
-    },
-    {
-      "word": "世世限り無く",
-      "reading": "よよかぎりなく",
-      "meaning": "mãi mãi và bao giờ"
-    },
-    {
-      "word": "世界銀行（世銀）",
-      "reading": "せかいぎんこー（せぎん）",
-      "meaning": "ngân hàng thế giới"
-    },
-    {
-      "word": "世々",
-      "reading": "よよ",
-      "meaning": "di truyền"
-    },
-    {
-      "word": "後世",
-      "reading": "こうせい",
-      "meaning": "con cháu"
-    },
-    {
       "word": "世間",
       "reading": "せけん",
       "meaning": "thế giới"
@@ -136,9 +101,44 @@
       "meaning": "sự chăm sóc"
     },
     {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "thế giới"
+    },
+    {
+      "word": "出世",
+      "reading": "しゅっせ",
+      "meaning": "sự thăng tiến"
+    },
+    {
+      "word": "世論",
+      "reading": "よろん",
+      "meaning": "công luận"
+    },
+    {
       "word": "世辞",
       "reading": "せじ",
       "meaning": "sự tâng bốc"
+    },
+    {
+      "word": "三世",
+      "reading": "さんせい",
+      "meaning": "ba thế hệ"
+    },
+    {
+      "word": "百世",
+      "reading": "ひゃくせい",
+      "meaning": "trăm thế hệ"
+    },
+    {
+      "word": "世変",
+      "reading": "せいへん",
+      "meaning": "thay đổi thời báo"
+    },
+    {
+      "word": "世局",
+      "reading": "せいきょく",
+      "meaning": "thời thế"
     }
   ]
 }

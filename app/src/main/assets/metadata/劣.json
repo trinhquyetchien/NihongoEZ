@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "劣",
-      "reading": "れつ",
-      "meaning": "kém"
+      "word": "劣る",
+      "reading": "おとる",
+      "meaning": "kém hơn"
     },
     {
-      "word": "劣線がた",
-      "reading": "劣線型",
-      "meaning": "tuyến tính dưới"
+      "word": "劣化",
+      "reading": "れっか",
+      "meaning": "sự làm hư hỏng"
     },
     {
-      "word": "劣線がたの",
-      "reading": "劣線型の",
-      "meaning": "dưới tuyến tính"
+      "word": "劣等",
+      "reading": "れっとう",
+      "meaning": "hàng thấp kém"
     },
     {
-      "word": "愚劣",
-      "reading": "ぐれつ",
-      "meaning": "ngu ngốc"
+      "word": "劣等生",
+      "reading": "れっとうせい",
+      "meaning": "sinh viên yếu kém"
     },
     {
-      "word": "低劣",
-      "reading": "ていれつ",
-      "meaning": "vị trí ở dưới"
+      "word": "劣等感",
+      "reading": "れっとうかん",
+      "meaning": "cảm giác thấp kém"
     },
     {
-      "word": "鄙劣",
-      "reading": "ひれつ",
-      "meaning": "thấp kém"
-    },
-    {
-      "word": "拙劣",
-      "reading": "せつれつ",
-      "meaning": "sự vụng về"
-    },
-    {
-      "word": "陋劣",
-      "reading": "ろうれつ",
-      "meaning": "tính hèn hạ"
-    },
-    {
-      "word": "優劣",
-      "reading": "ゆうれつ",
-      "meaning": "tính ưu việt và không ưu việt"
+      "word": "劣等種",
+      "reading": "れっとうしゅ",
+      "meaning": "giống loài bậc thấp"
     },
     {
       "word": "卑劣",
       "reading": "ひれつ",
       "meaning": "bỉ ổi"
+    },
+    {
+      "word": "劣等財",
+      "reading": "れっとうざい",
+      "meaning": "hàng kém chất lượng"
+    },
+    {
+      "word": "卑劣漢",
+      "reading": "ひれつかん",
+      "meaning": "hạng người bỉ ổi"
+    },
+    {
+      "word": "劣悪",
+      "reading": "れつあく",
+      "meaning": "kém"
     }
   ]
 }

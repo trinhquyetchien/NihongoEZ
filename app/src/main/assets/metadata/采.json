@@ -84,9 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "采",
-      "reading": "さい",
-      "meaning": "xúc xắc"
+      "word": "喝采",
+      "reading": "かっさい",
+      "meaning": "sự hoan hô nhiệt liệt"
     },
     {
       "word": "采配",
@@ -94,9 +94,19 @@
       "meaning": "gậy chỉ huy"
     },
     {
-      "word": "納采",
-      "reading": "のうさい",
-      "meaning": "quà tặng hứa hôn"
+      "word": "采",
+      "reading": "さい",
+      "meaning": "xúc xắc"
+    },
+    {
+      "word": "神采",
+      "reading": "しんさい",
+      "meaning": "ngoại hình nổi trội"
+    },
+    {
+      "word": "采振木",
+      "reading": "ざいふりぼく",
+      "meaning": "amelanchier asiatica là loài thực vật có hoa trong họ hoa hồng"
     },
     {
       "word": "風采",
@@ -109,21 +119,6 @@
       "meaning": "người giúp việc"
     },
     {
-      "word": "神采",
-      "reading": "しんさい",
-      "meaning": "ngoại hình nổi trội"
-    },
-    {
-      "word": "喝采",
-      "reading": "かっさい",
-      "meaning": "sự hoan hô nhiệt liệt"
-    },
-    {
-      "word": "采振木",
-      "reading": "ざいふりぼく",
-      "meaning": "amelanchier asiatica là loài thực vật có hoa trong họ hoa hồng"
-    },
-    {
       "word": "采女司",
       "reading": "うねめのつかさ",
       "meaning": "cung nữ phục vụ công việc cá nhân cho hoàng đế và hoàng hậu"
@@ -132,6 +127,11 @@
       "word": "采女正",
       "reading": "うねめのかみ",
       "meaning": "giám đốc văn phòng phụ nữ tòa án"
+    },
+    {
+      "word": "采女佑",
+      "reading": "うねめのしょう",
+      "meaning": "nhân viên cấp cao trong văn phòng quý bà tòa án"
     }
   ]
 }

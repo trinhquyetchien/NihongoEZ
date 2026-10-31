@@ -103,24 +103,9 @@
   ],
   "vocabulary": [
     {
-      "word": "付",
-      "reading": "つき",
-      "meaning": "cho tới"
-    },
-    {
-      "word": "罫線付付箋",
-      "reading": "けいせんつきふせん",
-      "meaning": "giấy ghi chú có dòng kẻ"
-    },
-    {
-      "word": "給与と付加給付",
-      "reading": "きゅーよとふかきゅーふ",
-      "meaning": "tiền lương và các phúc lợi khác đi kèm"
-    },
-    {
-      "word": "紐付ける ひもづける",
-      "reading": "紐付ける",
-      "meaning": "kết hợp lại"
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "nhân viên thường trực"
     },
     {
       "word": "交付",
@@ -128,29 +113,44 @@
       "meaning": "sự cấp cho"
     },
     {
+      "word": "付",
+      "reading": "つき",
+      "meaning": "cho tới"
+    },
+    {
+      "word": "人付",
+      "reading": "ひとづき",
+      "meaning": "danh tiếng"
+    },
+    {
+      "word": "外付",
+      "reading": "そとづけ",
+      "meaning": "gán bên ngoài"
+    },
+    {
+      "word": "裏付",
+      "reading": "うらづけ",
+      "meaning": "lùi lại"
+    },
+    {
+      "word": "付馬",
+      "reading": "つけうま",
+      "meaning": "đệ trình người thu thập trò giải trí đêm"
+    },
+    {
+      "word": "付和",
+      "reading": "ふわ",
+      "meaning": "mù quáng đi theo những người khác"
+    },
+    {
+      "word": "付保",
+      "reading": "ふほ",
+      "meaning": "bảo hiểm"
+    },
+    {
       "word": "気付",
       "reading": "きづけ",
       "meaning": "xin gửi hộ"
-    },
-    {
-      "word": "受付",
-      "reading": "うけつけ",
-      "meaning": "nhân viên thường trực"
-    },
-    {
-      "word": "脇付",
-      "reading": "わきづけ",
-      "meaning": "kính ngữ đi kèm sau tên người nhận thư"
-    },
-    {
-      "word": "付す",
-      "reading": "ふす",
-      "meaning": "giao tay"
-    },
-    {
-      "word": "付嘱",
-      "reading": "ふしょく",
-      "meaning": "phụ lục"
     }
   ]
 }

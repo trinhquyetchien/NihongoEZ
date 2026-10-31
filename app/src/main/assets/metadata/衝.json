@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "衝",
-      "reading": "しょう",
-      "meaning": "xung đối"
+      "word": "衝突",
+      "reading": "しょうとつ",
+      "meaning": "sự xung khắc"
     },
     {
       "word": "衝撃",
@@ -99,44 +99,44 @@
       "meaning": "sự sốc"
     },
     {
+      "word": "耐衝撃",
+      "reading": "たいしょうげき",
+      "meaning": "chống sốc"
+    },
+    {
+      "word": "衝撃的",
+      "reading": "しょうげきてき",
+      "meaning": "đẩy tới"
+    },
+    {
+      "word": "衝突器",
+      "reading": "しょうとつき",
+      "meaning": "máy gia tốc hạt"
+    },
+    {
+      "word": "鳥衝突",
+      "reading": "とりしょうとつ",
+      "meaning": "sự tấn công của chim"
+    },
+    {
       "word": "衝動",
       "reading": "しょうどう",
       "meaning": "sự rung động"
     },
     {
-      "word": "衝突",
-      "reading": "しょうとつ",
-      "meaning": "sự xung khắc"
+      "word": "衝動的",
+      "reading": "しょうどうてき",
+      "meaning": "bốc đồng"
     },
     {
-      "word": "肩衝",
-      "reading": "かたつき",
-      "meaning": "bình trà có vai"
+      "word": "性衝動",
+      "reading": "せいしょうどう",
+      "meaning": "sự thúc giục tình dục"
     },
     {
-      "word": "刺衝",
-      "reading": "ししょう",
-      "meaning": "rất nhói và đột ngột như bị dao đâm"
-    },
-    {
-      "word": "緩衝",
-      "reading": "かんしょう",
-      "meaning": "giảm xóc"
-    },
-    {
-      "word": "衝天",
-      "reading": "しょうてん",
-      "meaning": "rượu cao"
-    },
-    {
-      "word": "衝心",
-      "reading": "しょうしん",
-      "meaning": "đau tim"
-    },
-    {
-      "word": "要衝",
-      "reading": "ようしょう",
-      "meaning": "quan trọng chỉ"
+      "word": "衝突痕",
+      "reading": "しょうとつこん",
+      "meaning": "vết đánh dấu sự tác động"
     }
   ]
 }

@@ -105,24 +105,19 @@
   ],
   "vocabulary": [
     {
+      "word": "不謹慎",
+      "reading": "ふきんしん",
+      "meaning": "không cẩn trọng"
+    },
+    {
       "word": "謹慎",
       "reading": "きんしん",
       "meaning": "sự quản thúc tại gia"
     },
     {
-      "word": "謹言",
-      "reading": "きんげん",
-      "meaning": "bạn chân thành của anh"
-    },
-    {
-      "word": "謹飭",
-      "reading": "きんちょく",
-      "meaning": "khiêm tốn"
-    },
-    {
-      "word": "謹呈",
-      "reading": "きんてい",
-      "meaning": "sự kính tặng"
+      "word": "重謹慎",
+      "reading": "じゅうきんしん",
+      "meaning": "đóng sự giam cầm ai đó)"
     },
     {
       "word": "謹製",
@@ -130,9 +125,14 @@
       "meaning": "chế tạo hết sức cẩn trọng"
     },
     {
-      "word": "謹啓",
-      "reading": "きんけい",
-      "meaning": "kính gửi"
+      "word": "謹んで",
+      "reading": "つつしんで",
+      "meaning": "hân hạnh"
+    },
+    {
+      "word": "謹賀",
+      "reading": "きんが",
+      "meaning": "chúc hạnh phúc"
     },
     {
       "word": "細謹",
@@ -140,19 +140,19 @@
       "meaning": "coi thường sự bất thường"
     },
     {
-      "word": "謹直",
-      "reading": "きんちょく",
-      "meaning": "có lương tâm"
+      "word": "謹厳",
+      "reading": "きんげん",
+      "meaning": "sự nghiêm khắc"
     },
     {
-      "word": "謹選",
-      "reading": "きんせん",
-      "meaning": "cẩn thận lựa chọn"
+      "word": "謹言",
+      "reading": "きんげん",
+      "meaning": "bạn chân thành của anh"
     },
     {
-      "word": "謹話",
-      "reading": "きんわ",
-      "meaning": "sự nói chuyện với sự kính trọng"
+      "word": "謹呈",
+      "reading": "きんてい",
+      "meaning": "sự kính tặng"
     }
   ]
 }

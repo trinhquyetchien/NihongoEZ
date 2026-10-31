@@ -90,39 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "近近",
-      "reading": "ちかぢか",
-      "meaning": "sự gần kề"
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "cận"
     },
     {
-      "word": "近郷近在",
-      "reading": "きんごうきんざい",
-      "meaning": "khu phố lân cận"
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "cận"
     },
     {
-      "word": "漸近近似",
-      "reading": "ぜんきんきんじ",
-      "meaning": "xấp xỉ tiệm cận"
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "gần đây"
     },
     {
-      "word": "近道",
-      "reading": "ちかみち",
-      "meaning": "đường tắt"
-    },
-    {
-      "word": "直近",
-      "reading": "ちょっきん",
-      "meaning": "gần đây nhất"
-    },
-    {
-      "word": "近鉄",
-      "reading": "きんてつ",
-      "meaning": "sự vững chắc"
-    },
-    {
-      "word": "手近",
-      "reading": "てぢか",
-      "meaning": "gần"
+      "word": "近頃",
+      "reading": "ちかごろ",
+      "meaning": "gần đây"
     },
     {
       "word": "身近",
@@ -130,14 +115,29 @@
       "meaning": "sự thân cận"
     },
     {
-      "word": "近畿",
-      "reading": "きんき",
-      "meaning": "vùng kinki"
+      "word": "手近",
+      "reading": "てぢか",
+      "meaning": "gần"
     },
     {
-      "word": "近い",
-      "reading": "ちかい",
-      "meaning": "cận"
+      "word": "近眼",
+      "reading": "きんがん",
+      "meaning": "sự cận thị"
+    },
+    {
+      "word": "近年",
+      "reading": "きんねん",
+      "meaning": "những năm gần đây"
+    },
+    {
+      "word": "近点",
+      "reading": "きんてん",
+      "meaning": "periapsis"
+    },
+    {
+      "word": "近場",
+      "reading": "ちかば",
+      "meaning": "khu vực lân cận"
     }
   ]
 }

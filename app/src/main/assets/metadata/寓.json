@@ -44,34 +44,14 @@
       "meaning": "truyện ngụ ngôn"
     },
     {
-      "word": "寓意",
-      "reading": "ぐうい",
+      "word": "寓する",
+      "reading": "ぐうする",
       "meaning": "ngụ ý"
     },
     {
-      "word": "仮寓",
-      "reading": "かぐう",
-      "meaning": "nơi ở tạm thời"
-    },
-    {
-      "word": "寄寓",
-      "reading": "きぐう",
-      "meaning": "tạm thời cư ngụ"
-    },
-    {
-      "word": "寓目",
-      "reading": "ぐうもく",
-      "meaning": "dán chặt mắt vào"
-    },
-    {
-      "word": "寓言",
-      "reading": "ぐうげん",
-      "meaning": "ngụ ngôn"
-    },
-    {
-      "word": "寓居",
-      "reading": "ぐうきょ",
-      "meaning": "nơi ở tạm thời"
+      "word": "寓意",
+      "reading": "ぐうい",
+      "meaning": "ngụ ý"
     },
     {
       "word": "寓意的",
@@ -84,9 +64,29 @@
       "meaning": "đạo đức chơi"
     },
     {
-      "word": "寓する",
-      "reading": "ぐうする",
-      "meaning": "ngụ ý"
+      "word": "寄寓",
+      "reading": "きぐう",
+      "meaning": "tạm thời cư ngụ"
+    },
+    {
+      "word": "寓居",
+      "reading": "ぐうきょ",
+      "meaning": "nơi ở tạm thời"
+    },
+    {
+      "word": "仮寓",
+      "reading": "かぐう",
+      "meaning": "nơi ở tạm thời"
+    },
+    {
+      "word": "寓目",
+      "reading": "ぐうもく",
+      "meaning": "dán chặt mắt vào"
+    },
+    {
+      "word": "寓言",
+      "reading": "ぐうげん",
+      "meaning": "ngụ ngôn"
     }
   ]
 }

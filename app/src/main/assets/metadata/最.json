@@ -108,24 +108,34 @@
   ],
   "vocabulary": [
     {
-      "word": "最",
-      "reading": "さい",
-      "meaning": "cực trị"
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "gần đây"
     },
     {
-      "word": "最後の最後に",
-      "reading": "さいごのさいごに",
-      "meaning": "váo thời điểm cuối cùng"
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "bét"
     },
     {
-      "word": "最大値・最小値",
-      "reading": "さいだいち・さいしょうち",
-      "meaning": "giá trị cực đại-giá trị cực tiểu"
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "đầu tiên"
     },
     {
-      "word": "最短",
-      "reading": "さいたん",
-      "meaning": "ngắn nhất"
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "cái cao nhất"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "sau cùng"
+    },
+    {
+      "word": "最も",
+      "reading": "もっとも",
+      "meaning": "vô cùng"
     },
     {
       "word": "最低",
@@ -133,29 +143,19 @@
       "meaning": "sự thấp nhất"
     },
     {
-      "word": "最新",
-      "reading": "さいしん",
-      "meaning": "sự tối tân"
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "trong lúc"
     },
     {
-      "word": "最大",
-      "reading": "さいだい",
-      "meaning": "sự lớn nhất"
+      "word": "最善",
+      "reading": "さいぜん",
+      "meaning": "cái tốt nhất"
     },
     {
-      "word": "最期",
-      "reading": "さいご",
-      "meaning": "khoảnh khắc cuối cùng của người chết"
-    },
-    {
-      "word": "最古",
-      "reading": "さいこ",
-      "meaning": "cũ nhất"
-    },
-    {
-      "word": "最強",
-      "reading": "さいきょう",
-      "meaning": "mạnh nhất"
+      "word": "最後に",
+      "reading": "さいごに",
+      "meaning": "rốt cuộc"
     }
   ]
 }

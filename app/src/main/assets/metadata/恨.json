@@ -94,14 +94,19 @@
       "meaning": "mối hận"
     },
     {
-      "word": "怨恨",
-      "reading": "えんこん",
-      "meaning": "sự ghen ghét"
+      "word": "恨む",
+      "reading": "うらむ",
+      "meaning": "hận"
     },
     {
-      "word": "宿恨",
-      "reading": "しゅくこん",
-      "meaning": "nỗi oán hận"
+      "word": "恨み節",
+      "reading": "うらみぶし",
+      "meaning": "lời oán trách"
+    },
+    {
+      "word": "逆恨み",
+      "reading": "さかうらみ",
+      "meaning": "trả đũa"
     },
     {
       "word": "痛恨",
@@ -109,34 +114,29 @@
       "meaning": "thống hận"
     },
     {
-      "word": "恨事",
-      "reading": "こんじ",
-      "meaning": "việc đáng ân hận"
-    },
-    {
-      "word": "旧恨",
-      "reading": "きゅうこん",
-      "meaning": "sự thù oán cũ"
-    },
-    {
-      "word": "私恨",
-      "reading": "しこん",
-      "meaning": "sự thù oán cá nhân"
-    },
-    {
-      "word": "多恨",
-      "reading": "たこん",
-      "meaning": "thù oán nhiều"
-    },
-    {
       "word": "遺恨",
       "reading": "いこん",
       "meaning": "mối di hận"
     },
     {
-      "word": "恨む",
-      "reading": "うらむ",
-      "meaning": "hận"
+      "word": "怨恨",
+      "reading": "えんこん",
+      "meaning": "sự ghen ghét"
+    },
+    {
+      "word": "悔恨",
+      "reading": "かいこん",
+      "meaning": "sự hối hận"
+    },
+    {
+      "word": "宿恨",
+      "reading": "しゅくこん",
+      "meaning": "nỗi oán hận"
+    },
+    {
+      "word": "旧恨",
+      "reading": "きゅうこん",
+      "meaning": "sự thù oán cũ"
     }
   ]
 }

@@ -89,19 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "郷里",
+      "reading": "きょうり",
+      "meaning": "quê"
+    },
+    {
       "word": "里",
       "reading": "さと",
       "meaning": "lý"
     },
     {
-      "word": "千里も一里",
-      "reading": "せんりもいちり",
-      "meaning": "hành trình ngàn dặm cũng chỉ như một dặm khi đến gặp người mình yêu"
+      "word": "方里",
+      "reading": "ほうり",
+      "meaning": "một ri vuông"
     },
     {
-      "word": "古里",
-      "reading": "ふるさと",
-      "meaning": "quê hương"
+      "word": "一里",
+      "reading": "いちり",
+      "meaning": "2.44 dặm"
+    },
+    {
+      "word": "里犬",
+      "reading": "さといぬ",
+      "meaning": "chó cưng"
+    },
+    {
+      "word": "親里",
+      "reading": "おやざと",
+      "meaning": "nhà một có cha mẹ"
+    },
+    {
+      "word": "里村",
+      "reading": "さとむら",
+      "meaning": "làng quê"
+    },
+    {
+      "word": "半里",
+      "reading": "はんり",
+      "meaning": "một nửa một ri"
     },
     {
       "word": "旧里",
@@ -112,31 +137,6 @@
       "word": "里桜",
       "reading": "さとざくら",
       "meaning": "bất kỳ loại cây anh đào phương đông nào có nguồn gốc từ anh đào oshima"
-    },
-    {
-      "word": "里山",
-      "reading": "さとやま",
-      "meaning": "ngọn núi gần nhà"
-    },
-    {
-      "word": "里子",
-      "reading": "さとご",
-      "meaning": "con nuôi"
-    },
-    {
-      "word": "里偏",
-      "reading": "さとへん",
-      "meaning": "bộ lý trong hán tự"
-    },
-    {
-      "word": "加里",
-      "reading": "カリ",
-      "meaning": "kali"
-    },
-    {
-      "word": "半里",
-      "reading": "はんり",
-      "meaning": "một nửa một ri"
     }
   ]
 }

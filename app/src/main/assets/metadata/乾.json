@@ -111,29 +111,9 @@
   ],
   "vocabulary": [
     {
-      "word": "乾",
-      "reading": "ほし",
-      "meaning": "khô"
-    },
-    {
-      "word": "乾燥台/乾燥棚",
-      "reading": "かんそうだい/かんそうたな",
-      "meaning": "đồ giữ lạnh"
-    },
-    {
-      "word": "乾す",
-      "reading": "ほす",
-      "meaning": "phơi"
-    },
-    {
-      "word": "乾魚",
-      "reading": "かんぎょ",
-      "meaning": "cá khô"
-    },
-    {
-      "word": "乾肉",
-      "reading": "ほしし",
-      "meaning": "thịt khô"
+      "word": "乾く",
+      "reading": "かわく",
+      "meaning": "cạn"
     },
     {
       "word": "乾杯",
@@ -141,9 +121,9 @@
       "meaning": "cạn cốc"
     },
     {
-      "word": "乾草",
-      "reading": "かんそう",
-      "meaning": "cỏ khô"
+      "word": "乾",
+      "reading": "ほし",
+      "meaning": "khô"
     },
     {
       "word": "乾位",
@@ -156,9 +136,29 @@
       "meaning": "kengen era"
     },
     {
-      "word": "乾球",
-      "reading": "かんきゅう",
-      "meaning": "dry-bulb"
+      "word": "乾場",
+      "reading": "ほしば",
+      "meaning": "bãi phơi hải sản"
+    },
+    {
+      "word": "乾風",
+      "reading": "からかぜ",
+      "meaning": "gió khô"
+    },
+    {
+      "word": "乾肉",
+      "reading": "ほしし",
+      "meaning": "thịt khô"
+    },
+    {
+      "word": "乾雪",
+      "reading": "かんせつ",
+      "meaning": "tuyết khô"
+    },
+    {
+      "word": "乾魚",
+      "reading": "かんぎょ",
+      "meaning": "cá khô"
     }
   ]
 }

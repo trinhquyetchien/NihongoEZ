@@ -105,24 +105,19 @@
   ],
   "vocabulary": [
     {
-      "word": "段",
-      "reading": "だん",
-      "meaning": "bước"
+      "word": "階段",
+      "reading": "かいだん",
+      "meaning": "cầu thang"
     },
     {
-      "word": "段段畠",
-      "reading": "だんだんばたけ",
-      "meaning": "ruộng bậc thang"
+      "word": "値段",
+      "reading": "ねだん",
+      "meaning": "giá cả"
     },
     {
-      "word": "段段畑",
-      "reading": "だんだんばたけ",
-      "meaning": "ruộng bậc thang"
-    },
-    {
-      "word": "ゴム段",
-      "reading": "ゴムだん",
-      "meaning": "nhảy dây kiểu trung quốc"
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "bình thường"
     },
     {
       "word": "手段",
@@ -130,29 +125,34 @@
       "meaning": "phương kế"
     },
     {
-      "word": "上段",
-      "reading": "じょうだん",
-      "meaning": "lớp phía trên"
+      "word": "段",
+      "reading": "だん",
+      "meaning": "bước"
     },
     {
-      "word": "段々",
-      "reading": "だんだん",
-      "meaning": "dần dần"
+      "word": "段階",
+      "reading": "だんかい",
+      "meaning": "cấp độ"
     },
     {
-      "word": "甍段",
-      "reading": "いらかだん",
-      "meaning": "các lớp ngói xếp chồng lên nhau"
+      "word": "一段",
+      "reading": "いちだん",
+      "meaning": "hơn rất nhiều"
+    },
+    {
+      "word": "い段",
+      "reading": "いだん",
+      "meaning": "hàng âm tiết tiếng nhật chứa nguyên âm \"i\""
+    },
+    {
+      "word": "う段",
+      "reading": "うだん",
+      "meaning": "hàng âm tiết trên bảng âm tiết tiếng nhật kết thúc bằng nguyên âm \"u\""
     },
     {
       "word": "お段",
       "reading": "おだん",
       "meaning": "bậc thấp nhất trong âm tiết chứa nguyên âm /o/ trong tiếng nhật"
-    },
-    {
-      "word": "あ段",
-      "reading": "あだん",
-      "meaning": "hàng âm tiết tiếng nhật kết thúc bằng nguyên âm \"a\""
     }
   ]
 }

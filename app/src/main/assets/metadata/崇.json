@@ -87,9 +87,34 @@
   ],
   "vocabulary": [
     {
+      "word": "崇拝",
+      "reading": "すうはい",
+      "meaning": "sự sùng bái"
+    },
+    {
+      "word": "崇拝者",
+      "reading": "すうはいしゃ",
+      "meaning": "người thờ cúng"
+    },
+    {
+      "word": "崇まふ",
+      "reading": "あがまう",
+      "meaning": "tôn trọng"
+    },
+    {
       "word": "崇高",
       "reading": "すうこう",
       "meaning": "sự tối cao"
+    },
+    {
+      "word": "崇高美",
+      "reading": "すうこうび",
+      "meaning": "sắc đẹp tuyệt trần"
+    },
+    {
+      "word": "崇める",
+      "reading": "あがめる",
+      "meaning": "tôn kính"
     },
     {
       "word": "崇敬",
@@ -102,39 +127,14 @@
       "meaning": "sự tôn kính"
     },
     {
-      "word": "崇拝",
-      "reading": "すうはい",
-      "meaning": "sự sùng bái"
+      "word": "崇拝する",
+      "reading": "すうはいする",
+      "meaning": "sùng bái"
     },
     {
-      "word": "崇まふ",
-      "reading": "あがまう",
-      "meaning": "tôn trọng"
-    },
-    {
-      "word": "崇拝者",
-      "reading": "すうはいしゃ",
-      "meaning": "người thờ cúng"
-    },
-    {
-      "word": "崇める",
-      "reading": "あがめる",
-      "meaning": "tôn kính"
-    },
-    {
-      "word": "崇高美",
-      "reading": "すうこうび",
-      "meaning": "sắc đẹp tuyệt trần"
-    },
-    {
-      "word": "樹木崇拝",
-      "reading": "じゅもくすうはい",
-      "meaning": "thờ cúng thiên nhiên"
-    },
-    {
-      "word": "黄金崇拝",
-      "reading": "おうごんすうはい",
-      "meaning": "mammon tôn kính"
+      "word": "個人崇拝",
+      "reading": "こじんすうはい",
+      "meaning": "tôn giáo cá nhân"
     }
   ]
 }

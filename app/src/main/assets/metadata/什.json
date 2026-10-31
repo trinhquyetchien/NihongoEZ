@@ -53,19 +53,24 @@
       "meaning": "10"
     },
     {
+      "word": "家什",
+      "reading": "かじゅう",
+      "meaning": "đồ đạc trong nhà"
+    },
+    {
       "word": "珍什",
       "reading": "ちんじゅう",
       "meaning": "mục hiếm có"
     },
     {
-      "word": "什宝",
-      "reading": "じゅうほう",
-      "meaning": "tích lũy mục"
-    },
-    {
       "word": "什器",
       "reading": "じゅうき",
       "meaning": "kệ để dụng cụ"
+    },
+    {
+      "word": "什宝",
+      "reading": "じゅうほう",
+      "meaning": "tích lũy mục"
     },
     {
       "word": "什物",
@@ -78,24 +83,19 @@
       "meaning": "thuế thập phân"
     },
     {
-      "word": "家什",
-      "reading": "かじゅう",
-      "meaning": "đồ đạc trong nhà"
-    },
-    {
       "word": "佳什",
       "reading": "かじゅう",
       "meaning": "bài thơ tuyệt vời"
     },
     {
-      "word": "ハンガー什器",
-      "reading": "ハンガーじゅうき",
-      "meaning": "trang thiết bị dùng để treo"
-    },
-    {
       "word": "ネット什器",
       "reading": "ネットじゅうき",
       "meaning": "thiết bị lưới an toàn"
+    },
+    {
+      "word": "店舗什器",
+      "reading": "てんぽじゅうき",
+      "meaning": "thiết bị cửa hàng"
     }
   ]
 }

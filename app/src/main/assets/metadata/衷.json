@@ -66,9 +66,29 @@
   ],
   "vocabulary": [
     {
+      "word": "折衷",
+      "reading": "せっちゅう",
+      "meaning": "sự pha tạp"
+    },
+    {
+      "word": "折衷案",
+      "reading": "せっちゅうあん",
+      "meaning": "thỏa hiệp đề nghị"
+    },
+    {
+      "word": "折衷尺",
+      "reading": "せっちゅうじゃく",
+      "meaning": "thước shaku điều chỉnh"
+    },
+    {
       "word": "衷心",
       "reading": "ちゅうしん",
       "meaning": "sự thật tâm"
+    },
+    {
+      "word": "苦衷",
+      "reading": "くちゅう",
+      "meaning": "sự đau lòng"
     },
     {
       "word": "衷情",
@@ -81,39 +101,19 @@
       "meaning": "một có những tư duy ở trong cùng"
     },
     {
-      "word": "苦衷",
-      "reading": "くちゅう",
-      "meaning": "sự đau lòng"
+      "word": "折衷主義",
+      "reading": "せっちゅうしゅぎ",
+      "meaning": "phép chiết trung"
     },
     {
-      "word": "折衷",
-      "reading": "せっちゅう",
-      "meaning": "sự pha tạp"
-    },
-    {
-      "word": "折衷尺",
-      "reading": "せっちゅうじゃく",
-      "meaning": "thước shaku điều chỉnh"
-    },
-    {
-      "word": "折衷案",
-      "reading": "せっちゅうあん",
-      "meaning": "thỏa hiệp đề nghị"
+      "word": "和洋折衷",
+      "reading": "わようせっちゅう",
+      "meaning": "sự hòa trộn giữa kiểu nhật và kiểu âu"
     },
     {
       "word": "雅俗折衷",
       "reading": "がぞくせっちゅう",
       "meaning": "phong cách kết hợp ngôn ngữ vừa thanh lịch vừa thông tục"
-    },
-    {
-      "word": "和衷協同",
-      "reading": "わちゅうきょうどう",
-      "meaning": "đồng tâm hiệp lực"
-    },
-    {
-      "word": "折衷主義",
-      "reading": "せっちゅうしゅぎ",
-      "meaning": "phép chiết trung"
     }
   ]
 }

@@ -85,54 +85,54 @@
   ],
   "vocabulary": [
     {
-      "word": "傍濾胞細胞",
-      "reading": "ぼうろほうさいぼう",
-      "meaning": "tế bào cận nang"
-    },
-    {
-      "word": "濾胞性嚢胞",
-      "reading": "ろほうせいのうほう",
-      "meaning": "u nang"
-    },
-    {
-      "word": "卵胞膜細胞",
-      "reading": "らんほうまくさいぼう",
-      "meaning": "tế bào màng nang trứng"
-    },
-    {
-      "word": "細胞質小胞",
-      "reading": "さいぼうしつしょうほう",
-      "meaning": "túi hình thành trong tế bào chất"
-    },
-    {
-      "word": "肺胞上皮細胞",
-      "reading": "はいほうじょうひさいぼう",
-      "meaning": "tế bào biểu mô phế nang"
-    },
-    {
-      "word": "経細胞細胞移動",
-      "reading": "きょうさいぼうさいぼういどう",
-      "meaning": "di chuyển tế bào xuyên tế bào"
-    },
-    {
       "word": "細胞",
       "reading": "さいぼう",
       "meaning": "tế bào"
     },
     {
-      "word": "胞胚",
-      "reading": "ほうはい",
-      "meaning": "phôi nang"
+      "word": "性細胞",
+      "reading": "せいさいぼう",
+      "meaning": "tế bào giới tính"
     },
     {
-      "word": "卵胞",
-      "reading": "らんぽう",
-      "meaning": "túi trứng"
+      "word": "細胞間",
+      "reading": "さいぼうかん",
+      "meaning": "gian tế bào"
     },
     {
-      "word": "小胞",
-      "reading": "しょうほう",
-      "meaning": "bọng"
+      "word": "Ｂ細胞",
+      "reading": "ビーさいぼう",
+      "meaning": "tế bào b"
+    },
+    {
+      "word": "細胞内",
+      "reading": "さいぼうない",
+      "meaning": "bên trong tế bào"
+    },
+    {
+      "word": "Ｔ細胞",
+      "reading": "ティーさいぼう",
+      "meaning": "tế bào lympho t"
+    },
+    {
+      "word": "体細胞",
+      "reading": "たいさいぼう",
+      "meaning": "tế bào soma"
+    },
+    {
+      "word": "娘細胞",
+      "reading": "じょうさいぼう",
+      "meaning": "tế bào con"
+    },
+    {
+      "word": "筋細胞",
+      "reading": "きんさいぼう",
+      "meaning": "muscle cell"
+    },
+    {
+      "word": "細胞質",
+      "reading": "さいぼうしつ",
+      "meaning": "tế bào chất"
     }
   ]
 }

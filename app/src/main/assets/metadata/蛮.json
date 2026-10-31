@@ -88,54 +88,54 @@
   ],
   "vocabulary": [
     {
-      "word": "蛮",
-      "reading": "ばん",
-      "meaning": "người dã man"
+      "word": "野蛮",
+      "reading": "やばん",
+      "meaning": "dã man"
     },
     {
-      "word": "綿蛮",
-      "reading": "めんばん",
-      "meaning": "tiếng hót ríu rít của chú chim nhỏ"
+      "word": "野蛮人",
+      "reading": "やばんじん",
+      "meaning": "người man di"
     },
     {
-      "word": "蛮的",
-      "reading": "ばんてき",
-      "meaning": "tấn công"
+      "word": "野蛮国",
+      "reading": "やばんこく",
+      "meaning": "đất nước không văn minh"
     },
     {
-      "word": "蛮習",
-      "reading": "ばんしゅう",
-      "meaning": "phong tục lạc hậu"
+      "word": "南蛮",
+      "reading": "なんばん",
+      "meaning": "từ để chỉ những thổ dân ở miền nam trung quốc thời cổ đại từ chung để chỉ những nước ở khu vực đông nam á. từ để chỉ người tây ban nha và bồ đào nha"
     },
     {
-      "word": "蛮勇",
-      "reading": "ばんゆう",
-      "meaning": "hữu dũng vô mưu"
+      "word": "南蛮人",
+      "reading": "なんばんじん",
+      "meaning": "từ để chỉ những người tây ban nha"
+    },
+    {
+      "word": "南蛮船",
+      "reading": "なんばんせん",
+      "meaning": "từ để chỉ thuyền buôn của người tây ban nha và bồ đào nha đến nhật bản trong khoảng thời gian từ thời muromachi đến edo"
+    },
+    {
+      "word": "南蛮煮",
+      "reading": "なんばんに",
+      "meaning": "món kho kiểu nam man"
+    },
+    {
+      "word": "鴨南蛮",
+      "reading": "かもなんばん",
+      "meaning": "soba hoặc udon nấu với thịt vịt"
+    },
+    {
+      "word": "蛮族",
+      "reading": "ばんぞく",
+      "meaning": "tấn công bộ lạc"
     },
     {
       "word": "蛮行",
       "reading": "ばんこう",
       "meaning": "hành động dã man"
-    },
-    {
-      "word": "蛮隷",
-      "reading": "ばんれい",
-      "meaning": "làm việc đầu tắt mặt tối những người man rợ"
-    },
-    {
-      "word": "蛮声",
-      "reading": "ばんせい",
-      "meaning": "xù lên tiếng nói"
-    },
-    {
-      "word": "蛮民",
-      "reading": "ばんみん",
-      "meaning": "tấn công những người"
-    },
-    {
-      "word": "蛮語",
-      "reading": "ばんご",
-      "meaning": "ngôn ngữ những người man rợ"
     }
   ]
 }

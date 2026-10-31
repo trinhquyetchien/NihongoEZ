@@ -91,39 +91,29 @@
       "meaning": "cây tuyết tùng nhật bản"
     },
     {
-      "word": "杉林",
-      "reading": "すぎばやし",
-      "meaning": "rừng cây tuyết tùng"
-    },
-    {
-      "word": "老杉",
-      "reading": "ろうさん",
-      "meaning": "cây tuyết tùng nhật già"
-    },
-    {
-      "word": "杉垣",
-      "reading": "すぎがき",
-      "meaning": "hàng rào cây tuyết tùng"
-    },
-    {
-      "word": "沼杉",
-      "reading": "ぬますぎ",
-      "meaning": "taxodium distichum"
-    },
-    {
       "word": "米杉",
       "reading": "べいすぎ",
       "meaning": "tuyết tùng đỏ"
     },
     {
-      "word": "杉叢",
-      "reading": "すぎむら",
-      "meaning": "rừng tuyết tùng"
+      "word": "杉石",
+      "reading": "すぎせき",
+      "meaning": "sugilite"
     },
     {
-      "word": "小杉",
-      "reading": "こすぎ",
-      "meaning": "cây tuyết tùng nhỏ"
+      "word": "赤杉",
+      "reading": "あかすぎ",
+      "meaning": "gỗ đỏ"
+    },
+    {
+      "word": "杉玉",
+      "reading": "すぎだま",
+      "meaning": "quả bóng tròn"
+    },
+    {
+      "word": "杉皮",
+      "reading": "すぎかわ",
+      "meaning": "cây thông tuyết sủa"
     },
     {
       "word": "杉材",
@@ -131,9 +121,19 @@
       "meaning": "cây gỗ thông tuyết"
     },
     {
-      "word": "糸杉",
-      "reading": "いとすぎ",
-      "meaning": "cây bách"
+      "word": "綾杉状",
+      "reading": "あやすぎじょう",
+      "meaning": "tuyết tùng xoắn"
+    },
+    {
+      "word": "老杉",
+      "reading": "ろうさん",
+      "meaning": "cây tuyết tùng nhật già"
+    },
+    {
+      "word": "沼杉",
+      "reading": "ぬますぎ",
+      "meaning": "taxodium distichum"
     }
   ]
 }

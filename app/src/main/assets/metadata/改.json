@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "改",
-      "reading": "かい",
-      "meaning": "xem xét lại"
-    },
-    {
-      "word": "改装",
-      "reading": "かいそう",
-      "meaning": "cải mả"
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "sự cải chính"
     },
     {
       "word": "改造",
@@ -105,39 +100,44 @@
       "meaning": "sự cải tạo"
     },
     {
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "sự soát vé"
+    },
+    {
       "word": "改革",
       "reading": "かいかく",
       "meaning": "cải cách"
     },
     {
-      "word": "改製",
-      "reading": "かいせい",
-      "meaning": "sự cải tạo"
+      "word": "改良",
+      "reading": "かいりょう",
+      "meaning": "sự cải thiện"
     },
     {
-      "word": "改案",
-      "reading": "かいあん",
-      "meaning": "đề án cải tạo"
+      "word": "改修",
+      "reading": "かいしゅう",
+      "meaning": "sự sửa chữa"
     },
     {
-      "word": "改ページ",
-      "reading": "かいページ",
-      "meaning": "sự ngắt trang"
+      "word": "改定",
+      "reading": "かいてい",
+      "meaning": "cải cách"
     },
     {
-      "word": "改頁",
-      "reading": "かいページ",
-      "meaning": "ngắt trang"
+      "word": "改訂",
+      "reading": "かいてい",
+      "meaning": "sự đính chính"
     },
     {
-      "word": "改新",
-      "reading": "かいしん",
-      "meaning": "sự cải cách"
+      "word": "改悪",
+      "reading": "かいあく",
+      "meaning": "làm cho mọi việc tồi tệ hơn"
     },
     {
-      "word": "改変",
-      "reading": "かいへん",
-      "meaning": "biến cải"
+      "word": "改",
+      "reading": "かい",
+      "meaning": "xem xét lại"
     }
   ]
 }

@@ -72,39 +72,14 @@
       "meaning": "sự đoán"
     },
     {
-      "word": "売卜",
-      "reading": "ばいぼく",
-      "meaning": "nghề bói toán"
-    },
-    {
-      "word": "占卜",
-      "reading": "せんぼく",
-      "meaning": "sự tiên tri"
-    },
-    {
       "word": "卜う",
       "reading": "うらなう",
       "meaning": "bói toán"
     },
     {
-      "word": "卜居",
-      "reading": "ぼっきょ",
-      "meaning": "chọn nơi xây nhà bằng bói toán"
-    },
-    {
-      "word": "卜筮",
-      "reading": "ぼくぜい",
-      "meaning": "sự bói toán"
-    },
-    {
-      "word": "卜占",
-      "reading": "ぼくせん",
-      "meaning": "sự bói toán"
-    },
-    {
-      "word": "卜者",
-      "reading": "ぼくしゃ",
-      "meaning": "thầy bói"
+      "word": "卜する",
+      "reading": "ぼくする",
+      "meaning": "bói toán"
     },
     {
       "word": "卜骨",
@@ -112,9 +87,34 @@
       "meaning": "những xương kể sử dụng động vật vận may"
     },
     {
-      "word": "卜書",
-      "reading": "うらぶみ",
-      "meaning": "sách bói toán"
+      "word": "亀卜",
+      "reading": "きぼく",
+      "meaning": "thuật bói toán bằng mu rùa"
+    },
+    {
+      "word": "占卜",
+      "reading": "せんぼく",
+      "meaning": "sự tiên tri"
+    },
+    {
+      "word": "卜占",
+      "reading": "ぼくせん",
+      "meaning": "sự bói toán"
+    },
+    {
+      "word": "卜伝流",
+      "reading": "ぼくでんりゅう",
+      "meaning": "trường phái bokuden"
+    },
+    {
+      "word": "売卜",
+      "reading": "ばいぼく",
+      "meaning": "nghề bói toán"
+    },
+    {
+      "word": "卜居",
+      "reading": "ぼっきょ",
+      "meaning": "chọn nơi xây nhà bằng bói toán"
     }
   ]
 }

@@ -88,11 +88,6 @@
       "meaning": "giày ống hoặc giày đi tuyết"
     },
     {
-      "word": "雑沓",
-      "reading": "ざっとう",
-      "meaning": "đám đông"
-    },
-    {
       "word": "浅沓",
       "reading": "あさぐつ",
       "meaning": "những cái còng quét sơn)"
@@ -103,24 +98,29 @@
       "meaning": "móng ngựa"
     },
     {
-      "word": "沓摺",
-      "reading": "くつずり",
-      "meaning": "phần khung bục dưới của cửa lối ra vào"
-    },
-    {
       "word": "沓手鳥",
       "reading": "くつてどり",
       "meaning": "tên khác của chim cu gáy nhỏ trong tiếng nhật"
     },
     {
-      "word": "沓脱ぎ",
-      "reading": "くつぬぎ",
-      "meaning": "cởi bỏ giày trước khi bước vào nhà"
-    },
-    {
       "word": "靴の沓",
       "reading": "かのくつ",
       "meaning": "giày bốt da bò sơn đen mũi cong"
+    },
+    {
+      "word": "沓摺",
+      "reading": "くつずり",
+      "meaning": "phần khung bục dưới của cửa lối ra vào"
+    },
+    {
+      "word": "雑沓",
+      "reading": "ざっとう",
+      "meaning": "đám đông"
+    },
+    {
+      "word": "沓脱ぎ",
+      "reading": "くつぬぎ",
+      "meaning": "cởi bỏ giày trước khi bước vào nhà"
     }
   ]
 }

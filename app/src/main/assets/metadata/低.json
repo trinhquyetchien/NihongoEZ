@@ -91,14 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "低次",
-      "reading": "ていじ",
-      "meaning": "thứ yếu"
-    },
-    {
-      "word": "低迷",
-      "reading": "ていめい",
-      "meaning": "sự mờ mịt"
+      "word": "低い",
+      "reading": "ひくい",
+      "meaning": "lè tè"
     },
     {
       "word": "最低",
@@ -106,39 +101,44 @@
       "meaning": "sự thấp nhất"
     },
     {
+      "word": "低下",
+      "reading": "ていか",
+      "meaning": "sự giảm"
+    },
+    {
+      "word": "中低",
+      "reading": "なかびく",
+      "meaning": "lõm"
+    },
+    {
+      "word": "低目",
+      "reading": "ひくめ",
+      "meaning": "quả bóng thấp"
+    },
+    {
+      "word": "低度",
+      "reading": "ていど",
+      "meaning": "bậc thấp"
+    },
+    {
+      "word": "低次",
+      "reading": "ていじ",
+      "meaning": "thứ yếu"
+    },
+    {
+      "word": "低声",
+      "reading": "ていせい",
+      "meaning": "giọng thấp"
+    },
+    {
       "word": "超低",
       "reading": "ちょうてい",
       "meaning": "siêu thấp"
     },
     {
-      "word": "低ニコチン",
-      "reading": "ていニコチン",
-      "meaning": "nicotin mức độ thấp"
-    },
-    {
-      "word": "低タール",
-      "reading": "ていタール",
-      "meaning": "hàm lượng tar thấp"
-    },
-    {
-      "word": "低コスト",
-      "reading": "ていコスト",
-      "meaning": "chi phí thấp"
-    },
-    {
-      "word": "高低",
-      "reading": "こうてい",
-      "meaning": "cao thấp"
-    },
-    {
-      "word": "低カロリー",
-      "reading": "ていカロリー",
-      "meaning": "lượng calo thấp"
-    },
-    {
-      "word": "低床",
-      "reading": "ていしょう",
-      "meaning": "hạ thấp"
+      "word": "低語",
+      "reading": "ていご",
+      "meaning": "tiếng thì thầm"
     }
   ]
 }

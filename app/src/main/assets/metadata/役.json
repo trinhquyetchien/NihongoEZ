@@ -110,14 +110,9 @@
       "meaning": "giá trị hoặc lợi ích"
     },
     {
-      "word": "役付取締役",
-      "reading": "やくつきとりしまりやく",
-      "meaning": "giám đốc điều hành"
-    },
-    {
-      "word": "使役",
-      "reading": "しえき",
-      "meaning": "thể sai khiến"
+      "word": "主役",
+      "reading": "しゅやく",
+      "meaning": "nhân vật chính"
     },
     {
       "word": "重役",
@@ -125,9 +120,9 @@
       "meaning": "vị trí có vai trò quan trọng"
     },
     {
-      "word": "現役",
-      "reading": "げんえき",
-      "meaning": "người được lên lớp"
+      "word": "役場",
+      "reading": "やくば",
+      "meaning": "tòa thị chính"
     },
     {
       "word": "二役",
@@ -135,24 +130,29 @@
       "meaning": "gấp đôi vai trò"
     },
     {
-      "word": "配役",
-      "reading": "はいやく",
-      "meaning": "sự phân vai"
+      "word": "手役",
+      "reading": "てやく",
+      "meaning": "trao những thẻ mà ghi điểm như nó"
     },
     {
-      "word": "苦役",
-      "reading": "くえき",
-      "meaning": "sự làm việc cực nhọc"
+      "word": "三役",
+      "reading": "さんやく",
+      "meaning": "võ sĩ ở 3 cấp hạng cao nhất"
     },
     {
-      "word": "雑役",
-      "reading": "ざつえき",
-      "meaning": "việc vặt"
+      "word": "先役",
+      "reading": "せんやく",
+      "meaning": "cựu cái trụ"
     },
     {
-      "word": "役場",
-      "reading": "やくば",
-      "meaning": "tòa thị chính"
+      "word": "娘役",
+      "reading": "むすめやく",
+      "meaning": "vai diễn con gái"
+    },
+    {
+      "word": "壁役",
+      "reading": "かべやく",
+      "meaning": "cầu thủ bắt bóng"
     }
   ]
 }

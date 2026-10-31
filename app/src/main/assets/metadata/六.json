@@ -98,9 +98,14 @@
       "meaning": "sáu"
     },
     {
-      "word": "六百六号",
-      "reading": "ろっぴゃくろくごう",
-      "meaning": "# 606"
+      "word": "六日",
+      "reading": "むいか",
+      "meaning": "ngày thứ sáu"
+    },
+    {
+      "word": "六つ",
+      "reading": "むっつ",
+      "meaning": "sáu"
     },
     {
       "word": "六時",
@@ -108,29 +113,9 @@
       "meaning": "6 giờ"
     },
     {
-      "word": "六十",
-      "reading": "ろくじゅう",
-      "meaning": "sáu mươi"
-    },
-    {
-      "word": "六朝",
-      "reading": "りくちょう",
-      "meaning": "sáu triều đại"
-    },
-    {
-      "word": "六体",
-      "reading": "りくたい",
-      "meaning": "6 hình thức trong thơ waka"
-    },
-    {
-      "word": "六百",
-      "reading": "ろっぴゃく",
-      "meaning": "sáu trăm"
-    },
-    {
-      "word": "六道",
-      "reading": "ろくどう",
-      "meaning": "sáu thế giới sau khi chết"
+      "word": "六気",
+      "reading": "ろっき",
+      "meaning": "6 hiện tượng thời tiết"
     },
     {
       "word": "六分",
@@ -138,9 +123,24 @@
       "meaning": "6 phút"
     },
     {
-      "word": "助六",
-      "reading": "すけろく",
-      "meaning": "sukeroku"
+      "word": "六大",
+      "reading": "ろくだい",
+      "meaning": "sáu nguyên tố của vạn vật"
+    },
+    {
+      "word": "六本",
+      "reading": "ろっぽん",
+      "meaning": "sáu"
+    },
+    {
+      "word": "第六",
+      "reading": "だいろく",
+      "meaning": "thứ sáu"
+    },
+    {
+      "word": "六国",
+      "reading": "りっこく",
+      "meaning": "6 nước chư hầu thời xuân thu chiến quốc"
     }
   ]
 }

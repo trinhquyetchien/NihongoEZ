@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "維納",
-      "reading": "ウィーン",
-      "meaning": "thủ đô nước áo"
-    },
-    {
-      "word": "維新",
-      "reading": "いしん",
-      "meaning": "duy tân"
-    },
-    {
-      "word": "線維",
-      "reading": "せんい",
-      "meaning": "chất xơ"
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "sự duy trì"
     },
     {
       "word": "繊維",
@@ -107,19 +97,24 @@
       "meaning": "sợi"
     },
     {
-      "word": "維那",
-      "reading": "いな",
-      "meaning": "một trong sáu người quản lý của một ngôi chùa thiền"
+      "word": "維持費",
+      "reading": "いじひ",
+      "meaning": "phí duy trì"
     },
     {
-      "word": "維持",
-      "reading": "いじ",
-      "meaning": "sự duy trì"
+      "word": "維新",
+      "reading": "いしん",
+      "meaning": "duy tân"
     },
     {
-      "word": "線維腫",
-      "reading": "せんいしゅ",
-      "meaning": "khối u lành tính fibroma"
+      "word": "繊維性",
+      "reading": "せんいせい",
+      "meaning": "có sợi"
+    },
+    {
+      "word": "繊維板",
+      "reading": "せんいばん",
+      "meaning": "tấm ván sợi"
     },
     {
       "word": "繊維質",
@@ -127,14 +122,19 @@
       "meaning": "chất xơ"
     },
     {
-      "word": "維吾爾",
-      "reading": "ウイグル",
-      "meaning": "người duy ngô nhĩ"
+      "word": "原繊維",
+      "reading": "げんせんい",
+      "meaning": "sợi thô"
     },
     {
-      "word": "維摩経",
-      "reading": "ゆいまきょう",
-      "meaning": "duy-ma kinh"
+      "word": "繊維束",
+      "reading": "せんいそく",
+      "meaning": "bó"
+    },
+    {
+      "word": "綿繊維",
+      "reading": "めんせんい",
+      "meaning": "xơ bông"
     }
   ]
 }

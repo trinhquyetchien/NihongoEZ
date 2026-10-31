@@ -50,8 +50,8 @@
   ],
   "vocabulary": [
     {
-      "word": "寵",
-      "reading": "ちょう",
+      "word": "寵愛",
+      "reading": "ちょうあい",
       "meaning": "sự sủng ái"
     },
     {
@@ -60,34 +60,19 @@
       "meaning": "ân sủng"
     },
     {
-      "word": "寵姫",
-      "reading": "ちょうき",
-      "meaning": "vợ yêu"
-    },
-    {
-      "word": "寵幸",
-      "reading": "ちょうこう",
-      "meaning": "sự trọng đãi"
-    },
-    {
-      "word": "君寵",
-      "reading": "くんちょう",
-      "meaning": "sự chiếu cố một có cái thước đo"
-    },
-    {
       "word": "寵児",
       "reading": "ちょうじ",
       "meaning": "con yêu"
     },
     {
-      "word": "寵臣",
-      "reading": "ちょうしん",
-      "meaning": "sủng thần"
+      "word": "寵",
+      "reading": "ちょう",
+      "meaning": "sự sủng ái"
     },
     {
-      "word": "寵愛",
-      "reading": "ちょうあい",
-      "meaning": "sự sủng ái"
+      "word": "寵幸",
+      "reading": "ちょうこう",
+      "meaning": "sự trọng đãi"
     },
     {
       "word": "寵物",
@@ -98,6 +83,21 @@
       "word": "愛寵",
       "reading": "あいちょう",
       "meaning": "cưng chiều"
+    },
+    {
+      "word": "寵姫",
+      "reading": "ちょうき",
+      "meaning": "vợ yêu"
+    },
+    {
+      "word": "寵臣",
+      "reading": "ちょうしん",
+      "meaning": "sủng thần"
+    },
+    {
+      "word": "君寵",
+      "reading": "くんちょう",
+      "meaning": "sự chiếu cố một có cái thước đo"
     }
   ]
 }

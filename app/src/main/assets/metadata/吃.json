@@ -66,9 +66,39 @@
   ],
   "vocabulary": [
     {
+      "word": "吃音",
+      "reading": "きつおん",
+      "meaning": "sự nói lắp"
+    },
+    {
+      "word": "吃音症",
+      "reading": "きつおんしょう",
+      "meaning": "nói lắp"
+    },
+    {
       "word": "吃",
       "reading": "チー",
       "meaning": "hành động lấy một quân bài đối thủ vừa đánh ra để tạo bộ ba quân liên tiếp"
+    },
+    {
+      "word": "吃逆",
+      "reading": "しゃっくり",
+      "meaning": "sự nấc cụt"
+    },
+    {
+      "word": "吃驚",
+      "reading": "びっくり",
+      "meaning": "ngạc nhiên"
+    },
+    {
+      "word": "吃緊",
+      "reading": "きっきん",
+      "meaning": "khẩn cấp và quan trọng"
+    },
+    {
+      "word": "吃水",
+      "reading": "きっすい",
+      "meaning": "khoảng cách từ mặt nước đến đáy thuyền"
     },
     {
       "word": "吃り",
@@ -81,39 +111,9 @@
       "meaning": "nói lắp"
     },
     {
-      "word": "吃音",
-      "reading": "きつおん",
-      "meaning": "sự nói lắp"
-    },
-    {
-      "word": "吃逆",
-      "reading": "しゃっくり",
-      "meaning": "sự nấc cụt"
-    },
-    {
-      "word": "吃水",
-      "reading": "きっすい",
-      "meaning": "khoảng cách từ mặt nước đến đáy thuyền"
-    },
-    {
-      "word": "吃緊",
-      "reading": "きっきん",
-      "meaning": "khẩn cấp và quan trọng"
-    },
-    {
-      "word": "吃驚",
-      "reading": "びっくり",
-      "meaning": "ngạc nhiên"
-    },
-    {
-      "word": "吃音症",
-      "reading": "きつおんしょう",
+      "word": "吃りながら",
+      "reading": "どもりながら",
       "meaning": "nói lắp"
-    },
-    {
-      "word": "載貨吃水",
-      "reading": "さいかきっすい",
-      "meaning": "mức cấn nước cho phép của tải trọng hàng hóa trên tàu thủy"
     }
   ]
 }

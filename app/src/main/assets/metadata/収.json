@@ -90,39 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "収益",
-      "reading": "しゅうえき",
-      "meaning": "doanh thu"
-    },
-    {
-      "word": "収納",
-      "reading": "しゅうのう",
-      "meaning": "thu hoạch"
-    },
-    {
-      "word": "収賄",
-      "reading": "しゅうわい",
-      "meaning": "nhận hối lộ"
-    },
-    {
-      "word": "収量",
-      "reading": "しゅうりょう",
-      "meaning": "lượng thu hoạch"
-    },
-    {
-      "word": "収支",
-      "reading": "しゅうし",
-      "meaning": "sự thu chi"
-    },
-    {
-      "word": "収束",
-      "reading": "しゅうそく",
-      "meaning": "sự hội tụ"
-    },
-    {
-      "word": "収縮",
-      "reading": "しゅうしゅく",
-      "meaning": "làm xẹp xuống"
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaning": "thu nhập"
     },
     {
       "word": "収穫",
@@ -130,14 +100,44 @@
       "meaning": "sự thu hoạch"
     },
     {
-      "word": "収録",
-      "reading": "しゅうろく",
-      "meaning": "biên dịch"
+      "word": "領収",
+      "reading": "りょうしゅう",
+      "meaning": "sự nhận"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "sự thu hồi"
+    },
+    {
+      "word": "収集",
+      "reading": "しゅうしゅう",
+      "meaning": "quơ"
     },
     {
       "word": "収容",
       "reading": "しゅうよう",
       "meaning": "sự chứa"
+    },
+    {
+      "word": "収益",
+      "reading": "しゅうえき",
+      "meaning": "doanh thu"
+    },
+    {
+      "word": "徴収",
+      "reading": "ちょうしゅう",
+      "meaning": "thu"
+    },
+    {
+      "word": "没収",
+      "reading": "ぼっしゅう",
+      "meaning": "sự tịch thu sung công"
+    },
+    {
+      "word": "収支",
+      "reading": "しゅうし",
+      "meaning": "sự thu chi"
     }
   ]
 }

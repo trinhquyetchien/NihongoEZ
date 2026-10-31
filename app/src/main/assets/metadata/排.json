@@ -87,9 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "排",
-      "reading": "はい",
-      "meaning": "anti-"
+      "word": "排除",
+      "reading": "はいじょ",
+      "meaning": "sự loại trừ"
+    },
+    {
+      "word": "排水",
+      "reading": "はいすい",
+      "meaning": "sự tiêu nước"
+    },
+    {
+      "word": "排出",
+      "reading": "はいしゅつ",
+      "meaning": "sự sơ tán"
+    },
+    {
+      "word": "排水口",
+      "reading": "はいすいこう",
+      "meaning": "cống thoát nước"
+    },
+    {
+      "word": "排水量",
+      "reading": "はいすいりょう",
+      "meaning": "trọng lượng nước rẽ của tàu"
     },
     {
       "word": "排気",
@@ -97,44 +117,24 @@
       "meaning": "thông hơi"
     },
     {
-      "word": "排ガス",
-      "reading": "はいガス",
-      "meaning": "khí thải"
+      "word": "排気口",
+      "reading": "はいきこう",
+      "meaning": "cửa thải"
     },
     {
-      "word": "排す",
-      "reading": "はいす",
-      "meaning": "loại bỏ"
+      "word": "排気量",
+      "reading": "はいきりょう",
+      "meaning": "lượng khí thải"
     },
     {
-      "word": "排列",
-      "reading": "はいれつ",
-      "meaning": "sự sắp đặt"
+      "word": "排水管",
+      "reading": "はいすいかん",
+      "meaning": "ống cống"
     },
     {
-      "word": "排日",
-      "reading": "はいにち",
-      "meaning": "sự chống nhật"
-    },
-    {
-      "word": "排液",
-      "reading": "はいえき",
-      "meaning": "hệ thống thoát nước"
-    },
-    {
-      "word": "排他",
-      "reading": "はいた",
-      "meaning": "sự loại trừ"
-    },
-    {
-      "word": "排泄",
-      "reading": "はいせつ",
-      "meaning": "sự bài tiết"
-    },
-    {
-      "word": "排撃",
-      "reading": "はいげき",
-      "meaning": "kịch sĩ"
+      "word": "排水路",
+      "reading": "はいすいろ",
+      "meaning": "kênh thoát nước"
     }
   ]
 }

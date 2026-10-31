@@ -90,16 +90,6 @@
   ],
   "vocabulary": [
     {
-      "word": "粛粛",
-      "reading": "しゅくしゅく",
-      "meaning": "yên lặng"
-    },
-    {
-      "word": "粛粛と",
-      "reading": "しゅくしゅくと",
-      "meaning": "êm ái"
-    },
-    {
       "word": "自粛",
       "reading": "じしゅく",
       "meaning": "sự giữ mình cẩn thận trong lời nói việc làm"
@@ -110,19 +100,24 @@
       "meaning": "sự thanh trừng"
     },
     {
+      "word": "静粛",
+      "reading": "せいしゅく",
+      "meaning": "sự yên lặng"
+    },
+    {
+      "word": "粛々と",
+      "reading": "しゅくしゅくと",
+      "meaning": "êm ái"
+    },
+    {
       "word": "厳粛",
       "reading": "げんしゅく",
       "meaning": "nghiêm trang"
     },
     {
-      "word": "粛然",
-      "reading": "しゅくぜん",
-      "meaning": "sự yên lặng"
-    },
-    {
-      "word": "粛啓",
-      "reading": "しゅくけい",
-      "meaning": "kính gửi"
+      "word": "粛正",
+      "reading": "しゅくせい",
+      "meaning": "sự quy định"
     },
     {
       "word": "振粛",
@@ -130,14 +125,19 @@
       "meaning": "sự cưỡng bức chính xác"
     },
     {
-      "word": "粛学",
-      "reading": "しゅくがく",
-      "meaning": "việc thanh lọc nhân sự và cơ cấu bên trong trường học"
+      "word": "粛然",
+      "reading": "しゅくぜん",
+      "meaning": "sự yên lặng"
     },
     {
-      "word": "粛軍",
-      "reading": "しゅくぐん",
-      "meaning": "sự làm sạch quân đội"
+      "word": "粛然と",
+      "reading": "しゅくぜんと",
+      "meaning": "êm ái"
+    },
+    {
+      "word": "粛粛",
+      "reading": "しゅくしゅく",
+      "meaning": "yên lặng"
     }
   ]
 }

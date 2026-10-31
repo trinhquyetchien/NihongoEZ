@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "履修",
-      "reading": "りしゅう",
-      "meaning": "sự tham gia học hành"
-    },
-    {
       "word": "履く",
       "reading": "はく",
       "meaning": "đi"
-    },
-    {
-      "word": "履帯",
-      "reading": "りたい",
-      "meaning": "loại bánh xích"
-    },
-    {
-      "word": "弊履",
-      "reading": "へいり",
-      "meaning": "giày dép rách"
     },
     {
       "word": "草履",
@@ -114,29 +99,44 @@
       "meaning": "dép bằng cỏ"
     },
     {
-      "word": "上履",
-      "reading": "うわばき",
-      "meaning": "dép lê"
-    },
-    {
-      "word": "木履",
-      "reading": "ぽっくり",
-      "meaning": "làm bằng gỗ quét sơn cô gái nghẹt"
-    },
-    {
-      "word": "履物",
-      "reading": "はきもの",
-      "meaning": "giày dép"
-    },
-    {
       "word": "履歴",
       "reading": "りれき",
       "meaning": "lịch sử"
     },
     {
+      "word": "履歴書",
+      "reading": "りれきしょ",
+      "meaning": "bản lý lịch"
+    },
+    {
+      "word": "外履き",
+      "reading": "そとばき",
+      "meaning": "giày dép đi ngoài trời"
+    },
+    {
+      "word": "履修",
+      "reading": "りしゅう",
+      "meaning": "sự tham gia học hành"
+    },
+    {
+      "word": "再履修",
+      "reading": "さいりしゅう",
+      "meaning": "học lại"
+    },
+    {
       "word": "履行",
       "reading": "りこう",
       "meaning": "sự thực hiện"
+    },
+    {
+      "word": "履行日",
+      "reading": "りこうび",
+      "meaning": "ngày thực hiện nghĩa vụ"
+    },
+    {
+      "word": "不履行",
+      "reading": "ふりこう",
+      "meaning": "việc không thực hiện"
     }
   ]
 }

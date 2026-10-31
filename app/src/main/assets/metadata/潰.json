@@ -103,44 +103,44 @@
   ],
   "vocabulary": [
     {
-      "word": "潰れ",
-      "reading": "つぶれ",
-      "meaning": "đổ vỡ"
-    },
-    {
-      "word": "潰滅",
-      "reading": "かいめつ",
-      "meaning": "sự phá hủy"
-    },
-    {
-      "word": "倒潰",
-      "reading": "とうかい",
-      "meaning": "sự phá hủy"
-    },
-    {
       "word": "潰す",
       "reading": "つぶす",
       "meaning": "nghiền"
     },
     {
-      "word": "全潰",
-      "reading": "ぜんかい",
-      "meaning": "phá hủy hoàn toàn"
+      "word": "潰れる",
+      "reading": "つぶれる",
+      "meaning": "bị nghiền nát"
     },
     {
-      "word": "潰乱",
-      "reading": "かいらん",
-      "meaning": "sự hối lộ"
+      "word": "潰し値",
+      "reading": "つぶしね",
+      "meaning": "thải ra giá trị"
     },
     {
-      "word": "崩潰",
-      "reading": "ほうかい",
-      "meaning": "sụp đổ"
+      "word": "着潰す",
+      "reading": "きつぶす",
+      "meaning": "làm mòn"
     },
     {
-      "word": "決潰",
-      "reading": "けっかい",
-      "meaning": "sự sụp đổ"
+      "word": "潰れ",
+      "reading": "つぶれ",
+      "meaning": "đổ vỡ"
+    },
+    {
+      "word": "半潰れ",
+      "reading": "はんつぶれ",
+      "meaning": "nửa được phá hủy"
+    },
+    {
+      "word": "鼻潰れ",
+      "reading": "はなつぶれ",
+      "meaning": "mũi tẹt"
+    },
+    {
+      "word": "潰し餡",
+      "reading": "つぶしあん",
+      "meaning": "đỗ đen nhuyễn"
     },
     {
       "word": "潰瘍",
@@ -148,9 +148,9 @@
       "meaning": "loét"
     },
     {
-      "word": "擂潰",
-      "reading": "らいかい",
-      "meaning": "sự nghiền nát"
+      "word": "暇潰し",
+      "reading": "ひまつぶし",
+      "meaning": "sự giết thời gian"
     }
   ]
 }

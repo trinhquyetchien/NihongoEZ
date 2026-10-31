@@ -90,34 +90,34 @@
       "meaning": "sự nếm"
     },
     {
-      "word": "吟詠",
-      "reading": "ぎんえい",
-      "meaning": "sự đọc thuộc lòng bài thơ"
+      "word": "再吟味",
+      "reading": "さいぎんみ",
+      "meaning": "sự xem xét lại"
     },
     {
-      "word": "偶吟",
-      "reading": "ぐうぎん",
-      "meaning": "bài thơ tùy hứng"
+      "word": "大吟醸",
+      "reading": "だいぎんじょう",
+      "meaning": "daiginjō"
     },
     {
-      "word": "吟唱",
-      "reading": "ぎんしょう",
-      "meaning": "sự kể lại"
+      "word": "吟醸酒",
+      "reading": "ぎんじょうしゅ",
+      "meaning": "gạo kiểu mục đích tập hợp bởi thấp sự lên men nhiệt độ từ nguyên liệu gồm có ít hơn 60 % đánh bóng trắng"
     },
     {
-      "word": "詩吟",
-      "reading": "しぎん",
-      "meaning": "việc ngâm thơ"
-    },
-    {
-      "word": "微吟",
-      "reading": "びぎん",
-      "meaning": "ngâm nga"
-    },
-    {
-      "word": "低吟",
-      "reading": "ていぎん",
+      "word": "口吟",
+      "reading": "こうぎん",
       "meaning": "sự ngâm nga"
+    },
+    {
+      "word": "病中吟",
+      "reading": "びょうちゅうぎん",
+      "meaning": "những bài thơ biên soạn vào một có sickbed"
+    },
+    {
+      "word": "口吟む",
+      "reading": "くちずさむ",
+      "meaning": "nói ấp úng"
     },
     {
       "word": "詠吟",
@@ -125,14 +125,14 @@
       "meaning": "sự ngâm thơ"
     },
     {
-      "word": "独吟",
-      "reading": "どくぎん",
-      "meaning": "sự độc diễn kịch nô"
+      "word": "詩吟",
+      "reading": "しぎん",
+      "meaning": "việc ngâm thơ"
     },
     {
-      "word": "吟誦",
-      "reading": "ぎんしょう",
-      "meaning": "sự kể lại"
+      "word": "吟詠",
+      "reading": "ぎんえい",
+      "meaning": "sự đọc thuộc lòng bài thơ"
     }
   ]
 }

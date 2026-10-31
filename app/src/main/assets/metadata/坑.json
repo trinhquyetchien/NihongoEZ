@@ -86,34 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "坑",
-      "reading": "こう",
-      "meaning": "hầm"
-    },
-    {
-      "word": "坑口",
-      "reading": "こうこう",
-      "meaning": "cửa lò"
-    },
-    {
-      "word": "坑内",
-      "reading": "こうない",
-      "meaning": "trong hầm hoặc lò"
-    },
-    {
       "word": "坑道",
       "reading": "こうどう",
       "meaning": "đường hầm"
     },
     {
-      "word": "坑底",
-      "reading": "こうてい",
-      "meaning": "đáy hầm"
-    },
-    {
-      "word": "鉱坑",
-      "reading": "こうこう",
-      "meaning": "lổ khoan để thăm đò tìm khoáng sản"
+      "word": "坑",
+      "reading": "こう",
+      "meaning": "hầm"
     },
     {
       "word": "坑外",
@@ -121,19 +101,39 @@
       "meaning": "ra khỏi cái hầm"
     },
     {
+      "word": "横坑",
+      "reading": "よここう",
+      "meaning": "đường vào"
+    },
+    {
+      "word": "立て坑",
+      "reading": "たてこう",
+      "meaning": "đường hầm đào thẳng xuống"
+    },
+    {
+      "word": "坑底",
+      "reading": "こうてい",
+      "meaning": "đáy hầm"
+    },
+    {
+      "word": "開坑",
+      "reading": "かいこう",
+      "meaning": "sự đào khai mỏ"
+    },
+    {
+      "word": "鉱坑",
+      "reading": "こうこう",
+      "meaning": "lổ khoan để thăm đò tìm khoáng sản"
+    },
+    {
+      "word": "炭坑",
+      "reading": "たんこう",
+      "meaning": "mỏ than"
+    },
+    {
       "word": "廃坑",
       "reading": "はいこう",
       "meaning": "mỏ bỏ hoang"
-    },
-    {
-      "word": "入坑",
-      "reading": "にゅうこう",
-      "meaning": "sự đi vào đường hầm"
-    },
-    {
-      "word": "坑夫",
-      "reading": "こうふ",
-      "meaning": "thợ mỏ"
     }
   ]
 }

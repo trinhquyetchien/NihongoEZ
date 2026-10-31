@@ -91,21 +91,6 @@
       "meaning": "hỏi giá phía trước những người khác"
     },
     {
-      "word": "魁偉",
-      "reading": "かいい",
-      "meaning": "khỏe mạnh"
-    },
-    {
-      "word": "渠魁",
-      "reading": "きょかい",
-      "meaning": "đầu sỏ"
-    },
-    {
-      "word": "巨魁",
-      "reading": "きょかい",
-      "meaning": "đầu sỏ"
-    },
-    {
       "word": "花魁",
       "reading": "おいらん",
       "meaning": "gái gọi hạng sang"
@@ -116,14 +101,29 @@
       "meaning": "người báo hiệu"
     },
     {
-      "word": "容貌魁偉",
-      "reading": "ようぼうかいい",
-      "meaning": "ngoại hình nổi bật"
+      "word": "巨魁",
+      "reading": "きょかい",
+      "meaning": "đầu sỏ"
+    },
+    {
+      "word": "魁偉",
+      "reading": "かいい",
+      "meaning": "khỏe mạnh"
+    },
+    {
+      "word": "渠魁",
+      "reading": "きょかい",
+      "meaning": "đầu sỏ"
     },
     {
       "word": "花魁道中",
       "reading": "おいらんどうちゅう",
       "meaning": "cuộc diễu hành của điếm hạng sang"
+    },
+    {
+      "word": "容貌魁偉",
+      "reading": "ようぼうかいい",
+      "meaning": "ngoại hình nổi bật"
     }
   ]
 }

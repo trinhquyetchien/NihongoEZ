@@ -92,9 +92,9 @@
       "meaning": "câu"
     },
     {
-      "word": "句句",
-      "reading": "くく",
-      "meaning": "mỗi mệnh đề"
+      "word": "佳句",
+      "reading": "かく",
+      "meaning": "câu"
     },
     {
       "word": "語句",
@@ -102,39 +102,39 @@
       "meaning": "cụm từ"
     },
     {
-      "word": "成句",
-      "reading": "せいく",
-      "meaning": "thành ngữ"
+      "word": "挙句",
+      "reading": "あげく",
+      "meaning": "sau"
     },
     {
-      "word": "句読",
-      "reading": "くとう",
-      "meaning": "sự chấm câu"
+      "word": "中句",
+      "reading": "ちゅうく",
+      "meaning": "giữa chia ra câu thơ"
     },
     {
-      "word": "句会",
-      "reading": "くかい",
-      "meaning": "hội sáng tác và bình phẩm thơ haiku"
+      "word": "上句",
+      "reading": "かみく",
+      "meaning": "bộ phận của một bài thơ đầu tiên hoặc câu thơ"
     },
     {
-      "word": "禁句",
-      "reading": "きんく",
-      "meaning": "từ cấm kỵ"
+      "word": "句心",
+      "reading": "くごころ",
+      "meaning": "bản năng thơ ca"
     },
     {
-      "word": "句義",
-      "reading": "くぎ",
-      "meaning": "nghĩa của một mệnh đề"
+      "word": "下句",
+      "reading": "しもく",
+      "meaning": "bộ phận của một bài thơ cuối cùng"
     },
     {
-      "word": "句作",
-      "reading": "くさく",
-      "meaning": "biên soạn những bài thơ haiku"
+      "word": "楽句",
+      "reading": "がっく",
+      "meaning": "mệnh đề"
     },
     {
-      "word": "句点",
-      "reading": "くてん",
-      "meaning": "dấu chấm câu"
+      "word": "半句",
+      "reading": "はんく",
+      "meaning": "từ rất ngắn gọn"
     }
   ]
 }

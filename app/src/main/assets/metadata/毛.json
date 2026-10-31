@@ -94,14 +94,19 @@
       "meaning": "lông"
     },
     {
-      "word": "絨毛膜絨毛",
-      "reading": "じゅうもうまくじゅうもう",
-      "meaning": "lông nhung màng đệm"
+      "word": "一毛",
+      "reading": "いちもう",
+      "meaning": "một phần của thứ mười một rin"
     },
     {
-      "word": "眉毛",
-      "reading": "まゆげ",
-      "meaning": "lông mày"
+      "word": "三毛",
+      "reading": "みけ",
+      "meaning": "con rùa - vỏ"
+    },
+    {
+      "word": "地毛",
+      "reading": "じげ",
+      "meaning": "tóc thật"
     },
     {
       "word": "線毛",
@@ -109,34 +114,29 @@
       "meaning": "độc lực"
     },
     {
+      "word": "発毛",
+      "reading": "はつもう",
+      "meaning": "sự mọc tóc"
+    },
+    {
       "word": "脱毛",
       "reading": "だつもう",
       "meaning": "rụng tóc"
     },
     {
-      "word": "増毛",
-      "reading": "ぞうもう",
-      "meaning": "mọc tóc"
+      "word": "獣毛",
+      "reading": "じゅうもう",
+      "meaning": "lông động vật"
     },
     {
-      "word": "立毛",
-      "reading": "りつもう",
-      "meaning": "sự dựng tóc"
+      "word": "アホ毛",
+      "reading": "あほげ",
+      "meaning": "tóc con"
     },
     {
-      "word": "純毛",
-      "reading": "じゅんもう",
-      "meaning": "bông nguyên chất"
-    },
-    {
-      "word": "栗毛",
-      "reading": "くりげ",
-      "meaning": "màu hạt dẻ"
-    },
-    {
-      "word": "産毛",
-      "reading": "うぶげ",
-      "meaning": "lông tơ"
+      "word": "反毛",
+      "reading": "はんもう",
+      "meaning": "cải tạo lông cừu"
     }
   ]
 }

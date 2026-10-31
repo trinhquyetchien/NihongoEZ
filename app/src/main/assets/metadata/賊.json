@@ -87,14 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "賊",
-      "reading": "ぞく",
-      "meaning": "quân làm loạn"
+      "word": "海賊",
+      "reading": "かいぞく",
+      "meaning": "đạo tặc"
     },
     {
-      "word": "国賊",
-      "reading": "こくぞく",
-      "meaning": "quốc tặc"
+      "word": "海賊王",
+      "reading": "かいぞくおう",
+      "meaning": "vua cướp biển"
+    },
+    {
+      "word": "海賊船",
+      "reading": "かいぞくせん",
+      "meaning": "tàu cướp biển"
+    },
+    {
+      "word": "海賊旗",
+      "reading": "かいぞくき",
+      "meaning": "cờ hải tặc"
+    },
+    {
+      "word": "盗賊",
+      "reading": "とうぞく",
+      "meaning": "kẻ trộm"
     },
     {
       "word": "山賊",
@@ -102,39 +117,24 @@
       "meaning": "sơn tặc"
     },
     {
-      "word": "余賊",
-      "reading": "よぞく",
-      "meaning": "còn lại những kẻ cướp"
+      "word": "海賊版",
+      "reading": "かいぞくばん",
+      "meaning": "bản copy lậu"
     },
     {
-      "word": "賊虐",
-      "reading": "ぞくぎゃく",
-      "meaning": "hư hại và sự ngược đãi"
+      "word": "賊",
+      "reading": "ぞく",
+      "meaning": "quân làm loạn"
     },
     {
-      "word": "馬賊",
-      "reading": "ばぞく",
-      "meaning": "lục lâm"
+      "word": "賊心",
+      "reading": "ぞくしん",
+      "meaning": "âm mưu phản loạn"
     },
     {
       "word": "空賊",
       "reading": "くうぞく",
       "meaning": "không tặc"
-    },
-    {
-      "word": "賊名",
-      "reading": "ぞくめい",
-      "meaning": "tên của kẻ phản loạn"
-    },
-    {
-      "word": "賊軍",
-      "reading": "ぞくぐん",
-      "meaning": "quân giặc"
-    },
-    {
-      "word": "鼠賊",
-      "reading": "そぞく",
-      "meaning": "kẻ ăn cắp vặt"
     }
   ]
 }

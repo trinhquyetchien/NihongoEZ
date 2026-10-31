@@ -104,29 +104,24 @@
   ],
   "vocabulary": [
     {
-      "word": "劇",
-      "reading": "げき",
-      "meaning": "kịch"
-    },
-    {
-      "word": "劇中劇",
-      "reading": "げきちゅうげき",
-      "meaning": "kịch trong kịch"
-    },
-    {
-      "word": "帝劇",
-      "reading": "ていげき",
-      "meaning": "theater đế quốc"
-    },
-    {
       "word": "劇場",
       "reading": "げきじょう",
       "meaning": "hí trường"
     },
     {
-      "word": "劇的",
-      "reading": "げきてき",
-      "meaning": "kịch tính"
+      "word": "劇",
+      "reading": "げき",
+      "meaning": "kịch"
+    },
+    {
+      "word": "悲劇",
+      "reading": "ひげき",
+      "meaning": "bi kịch"
+    },
+    {
+      "word": "演劇",
+      "reading": "えんげき",
+      "meaning": "diễn kịch"
     },
     {
       "word": "劇団",
@@ -134,24 +129,29 @@
       "meaning": "đoàn kịch"
     },
     {
+      "word": "喜劇",
+      "reading": "きげき",
+      "meaning": "hí kịch"
+    },
+    {
       "word": "劇中",
       "reading": "げきちゅう",
       "meaning": "trong vở kịch"
     },
     {
-      "word": "終劇",
-      "reading": "しゅうげき",
-      "meaning": "phần kết vở kịch"
+      "word": "劇物",
+      "reading": "げきぶつ",
+      "meaning": "chất độc hại"
     },
     {
-      "word": "劇談",
-      "reading": "げきだん",
-      "meaning": "lời thoại trong vở kịch"
+      "word": "劇道",
+      "reading": "げきどう",
+      "meaning": "kịch"
     },
     {
-      "word": "劇暑",
-      "reading": "げきしょ",
-      "meaning": "nóng gay gắt"
+      "word": "劇戦",
+      "reading": "げきせん",
+      "meaning": "cuộc chiến ác liệt"
     }
   ]
 }

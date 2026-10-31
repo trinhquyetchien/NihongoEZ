@@ -91,24 +91,29 @@
   ],
   "vocabulary": [
     {
-      "word": "活",
-      "reading": "かつ",
-      "meaning": "đời sống"
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "cuộc sống"
     },
     {
-      "word": "日常生活活動",
-      "reading": "にちじょーせーかつかつどー",
-      "meaning": "các hoạt động sống hàng ngày"
+      "word": "活動",
+      "reading": "かつどう",
+      "meaning": "hoạt động"
     },
     {
-      "word": "活字",
-      "reading": "かつじ",
-      "meaning": "chữ in"
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "sự hoạt dụng"
     },
     {
-      "word": "自活",
-      "reading": "じかつ",
-      "meaning": "cuộc sống độc lập"
+      "word": "活気",
+      "reading": "かっき",
+      "meaning": "sự hoạt bát"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaning": "việc tỏa sáng"
     },
     {
       "word": "活力",
@@ -116,29 +121,24 @@
       "meaning": "sức sống"
     },
     {
-      "word": "快活",
-      "reading": "かいかつ",
-      "meaning": "vui vẻ"
+      "word": "活字",
+      "reading": "かつじ",
+      "meaning": "chữ in"
     },
     {
-      "word": "就活",
-      "reading": "しゅうかつ",
-      "meaning": "tìm việc làm"
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "sự sống lại"
     },
     {
-      "word": "学活",
-      "reading": "がっかつ",
-      "meaning": "sinh hoạt lớp"
-    },
-    {
-      "word": "活溌",
+      "word": "活発",
       "reading": "かっぱつ",
-      "meaning": "sôi nổi"
+      "meaning": "hoạt bát"
     },
     {
-      "word": "活劇",
-      "reading": "かつげき",
-      "meaning": "kịch nói"
+      "word": "活",
+      "reading": "かつ",
+      "meaning": "đời sống"
     }
   ]
 }

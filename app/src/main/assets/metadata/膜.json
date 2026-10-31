@@ -92,39 +92,14 @@
       "meaning": "màng"
     },
     {
-      "word": "網膜前膜",
-      "reading": "もーまくぜんまく",
-      "meaning": "màng trước võng mạc"
+      "word": "膜性",
+      "reading": "まくせい",
+      "meaning": "màng"
     },
     {
-      "word": "絨毛膜羊膜炎",
-      "reading": "じゅうもうまくようまくえん",
-      "meaning": "nhiễm trùng màng nuôi"
-    },
-    {
-      "word": "腸管粘膜|腸粘膜",
-      "reading": "ちょーかんねんまく|ちょーねんまく",
-      "meaning": "niêm mạc ruột"
-    },
-    {
-      "word": "外膜",
-      "reading": "がいまく",
-      "meaning": "ngọai mạc"
-    },
-    {
-      "word": "滑膜",
-      "reading": "かつまく",
-      "meaning": "màng hoạt dịch"
-    },
-    {
-      "word": "塗膜",
-      "reading": "とまく",
-      "meaning": "màng sơn"
-    },
-    {
-      "word": "軟膜",
-      "reading": "なんまく",
-      "meaning": "màng mềm"
+      "word": "間膜",
+      "reading": "かんまく",
+      "meaning": "dây chằng"
     },
     {
       "word": "心膜",
@@ -132,9 +107,34 @@
       "meaning": "pericardium"
     },
     {
-      "word": "硬膜",
-      "reading": "こうまく",
+      "word": "内膜",
+      "reading": "ないまく",
+      "meaning": "màng trong"
+    },
+    {
+      "word": "外膜",
+      "reading": "がいまく",
+      "meaning": "ngọai mạc"
+    },
+    {
+      "word": "強膜",
+      "reading": "きょうまく",
       "meaning": "màng cứng"
+    },
+    {
+      "word": "筋膜",
+      "reading": "きんまく",
+      "meaning": "mạc"
+    },
+    {
+      "word": "膜状",
+      "reading": "まくじょう",
+      "meaning": "màng"
+    },
+    {
+      "word": "核膜",
+      "reading": "かくまく",
+      "meaning": "màng chứa nhân tế bào"
     }
   ]
 }

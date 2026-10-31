@@ -87,9 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "澄まし",
-      "reading": "すまし",
-      "meaning": "lạnh lùng"
+      "word": "澄む",
+      "reading": "すむ",
+      "meaning": "trong sạch"
+    },
+    {
+      "word": "澄ます",
+      "reading": "すます",
+      "meaning": "làm sạch"
+    },
+    {
+      "word": "明澄",
+      "reading": "めいちょう",
+      "meaning": "sáng sủa"
+    },
+    {
+      "word": "真澄鏡",
+      "reading": "まそかがみ",
+      "meaning": "gương trong suốt"
     },
     {
       "word": "清澄",
@@ -97,9 +112,14 @@
       "meaning": "sự thanh trừng"
     },
     {
-      "word": "明澄",
-      "reading": "めいちょう",
-      "meaning": "sáng sủa"
+      "word": "澄まし",
+      "reading": "すまし",
+      "meaning": "lạnh lùng"
+    },
+    {
+      "word": "上澄み",
+      "reading": "うわずみ",
+      "meaning": "bộ phận nổi lên trên"
     },
     {
       "word": "水澄",
@@ -112,29 +132,9 @@
       "meaning": "sạch sẽ và sáng sủa"
     },
     {
-      "word": "澄む",
-      "reading": "すむ",
-      "meaning": "trong sạch"
-    },
-    {
-      "word": "上澄み",
-      "reading": "うわずみ",
-      "meaning": "bộ phận nổi lên trên"
-    },
-    {
       "word": "澄し汁",
       "reading": "すましじる",
       "meaning": "làm sạch xúp"
-    },
-    {
-      "word": "澄ます",
-      "reading": "すます",
-      "meaning": "làm sạch"
-    },
-    {
-      "word": "真澄鏡",
-      "reading": "まそかがみ",
-      "meaning": "gương trong suốt"
     }
   ]
 }

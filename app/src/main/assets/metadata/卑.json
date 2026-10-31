@@ -91,29 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "下卑",
-      "reading": "げび",
-      "meaning": "thô tục"
+      "word": "卑怯",
+      "reading": "ひきょう",
+      "meaning": "bần tiện"
     },
     {
-      "word": "貴卑",
-      "reading": "きび",
-      "meaning": "tầng lớp cao và thấp"
+      "word": "卑しい",
+      "reading": "いやしい",
+      "meaning": "ti tiện"
     },
     {
-      "word": "鮮卑",
-      "reading": "せんぴ",
-      "meaning": "dân tộc tiên bi"
+      "word": "卑怯な",
+      "reading": "ひきょうな",
+      "meaning": "ươn"
     },
     {
-      "word": "尊卑",
-      "reading": "そんぴ",
-      "meaning": "thấp và cao"
-    },
-    {
-      "word": "卑言",
-      "reading": "ひげん",
-      "meaning": "ngôn từ thô tục"
+      "word": "卑怯者",
+      "reading": "ひきょうもの",
+      "meaning": "người hèn nhát"
     },
     {
       "word": "卑猥",
@@ -121,24 +116,29 @@
       "meaning": "sự tục tĩu"
     },
     {
-      "word": "卑賤",
-      "reading": "ひせん",
-      "meaning": "khiêm tốn"
+      "word": "卑劣",
+      "reading": "ひれつ",
+      "meaning": "bỉ ổi"
     },
     {
-      "word": "卑小",
-      "reading": "ひしょう",
-      "meaning": "nhỏ nhặt"
+      "word": "卑劣漢",
+      "reading": "ひれつかん",
+      "meaning": "hạng người bỉ ổi"
     },
     {
-      "word": "卑語",
-      "reading": "ひご",
-      "meaning": "ngôn ngữ thô tục"
+      "word": "卑屈",
+      "reading": "ひくつ",
+      "meaning": "bỉ ổi"
     },
     {
-      "word": "卑称",
-      "reading": "ひしょう",
-      "meaning": "người bất hạnh này"
+      "word": "卑下",
+      "reading": "ひげ",
+      "meaning": "sự tự hạ mình"
+    },
+    {
+      "word": "貴卑",
+      "reading": "きび",
+      "meaning": "tầng lớp cao và thấp"
     }
   ]
 }

@@ -104,54 +104,54 @@
   ],
   "vocabulary": [
     {
-      "word": "魔",
-      "reading": "ま",
-      "meaning": "quỷ"
-    },
-    {
       "word": "邪魔",
       "reading": "じゃま",
       "meaning": "sự quấy rầy"
     },
     {
-      "word": "魔族",
-      "reading": "まぞく",
-      "meaning": "ma tộc"
+      "word": "悪魔",
+      "reading": "あくま",
+      "meaning": "ác ma"
     },
     {
-      "word": "睡魔",
-      "reading": "すいま",
-      "meaning": "buồn ngủ rũ cả mắt"
+      "word": "魔法",
+      "reading": "まほう",
+      "meaning": "bùa"
     },
     {
-      "word": "魔睡",
-      "reading": "ますい",
-      "meaning": "sự mất cảm giác"
-    },
-    {
-      "word": "妖魔",
-      "reading": "ようま",
-      "meaning": "ma"
-    },
-    {
-      "word": "破魔",
-      "reading": "はま",
-      "meaning": "thanh tẩy"
-    },
-    {
-      "word": "魔酔",
-      "reading": "ますい",
-      "meaning": "say sưa với cái gì đó"
-    },
-    {
-      "word": "天魔",
-      "reading": "てんま",
+      "word": "魔",
+      "reading": "ま",
       "meaning": "quỷ"
     },
     {
-      "word": "色魔",
-      "reading": "しきま",
-      "meaning": "nữ sát thủ"
+      "word": "魔所",
+      "reading": "ましょ",
+      "meaning": "vị trí nơi một sinh vật kỳ diệu cư trú"
+    },
+    {
+      "word": "魔風",
+      "reading": "まかぜ",
+      "meaning": "đột kích gây ra bởi quỷ"
+    },
+    {
+      "word": "魔街",
+      "reading": "まがい",
+      "meaning": "nhà chứa"
+    },
+    {
+      "word": "四魔",
+      "reading": "しま",
+      "meaning": "bốn loại quỷ gây rắc rối cho chúng sinh"
+    },
+    {
+      "word": "魔弾",
+      "reading": "まだん",
+      "meaning": "ma thuật bullet"
+    },
+    {
+      "word": "魔器",
+      "reading": "まき",
+      "meaning": "vũ khí ma thuật"
     }
   ]
 }

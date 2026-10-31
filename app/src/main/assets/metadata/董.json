@@ -49,24 +49,14 @@
   ],
   "vocabulary": [
     {
-      "word": "骨董",
-      "reading": "こっとう",
-      "meaning": "đồ cổ"
-    },
-    {
       "word": "骨董品",
       "reading": "こっとうひん",
       "meaning": "vật hiếm có"
     },
     {
-      "word": "骨董屋",
-      "reading": "こっとうや",
-      "meaning": "quầy"
-    },
-    {
-      "word": "骨董店",
-      "reading": "こっとうてん",
-      "meaning": "cửa hàng bán đồ cổ"
+      "word": "骨董",
+      "reading": "こっとう",
+      "meaning": "đồ cổ"
     },
     {
       "word": "骨董市",
@@ -74,8 +64,18 @@
       "meaning": "chợ đồ cũ"
     },
     {
-      "word": "骨董品屋",
-      "reading": "こっとうひんや",
+      "word": "骨董店",
+      "reading": "こっとうてん",
+      "meaning": "cửa hàng bán đồ cổ"
+    },
+    {
+      "word": "骨董屋",
+      "reading": "こっとうや",
+      "meaning": "quầy"
+    },
+    {
+      "word": "骨董品店",
+      "reading": "こっとうひんてん",
       "meaning": "cửa hàng đồ cổ"
     },
     {
@@ -84,14 +84,14 @@
       "meaning": "nghề buôn bán đồ cổ"
     },
     {
+      "word": "骨董品屋",
+      "reading": "こっとうひんや",
+      "meaning": "cửa hàng đồ cổ"
+    },
+    {
       "word": "書画骨董",
       "reading": "しょがこっとう",
       "meaning": "nghệ thuật những vật hiếm và objets d"
-    },
-    {
-      "word": "骨董品店",
-      "reading": "こっとうひんてん",
-      "meaning": "cửa hàng đồ cổ"
     }
   ]
 }

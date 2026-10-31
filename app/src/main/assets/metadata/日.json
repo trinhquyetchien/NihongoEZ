@@ -109,19 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "日",
-      "reading": "ひ",
-      "meaning": "mặt trời"
+      "word": "三日",
+      "reading": "みっか",
+      "meaning": "ba ngày"
     },
     {
-      "word": "日日",
-      "reading": "ひび",
-      "meaning": "mỗi ngày"
-    },
-    {
-      "word": "今日日",
-      "reading": "きょうび",
-      "meaning": "những ngày gần đây"
+      "word": "四日",
+      "reading": "よっか",
+      "meaning": "bốn ngày"
     },
     {
       "word": "日曜日",
@@ -129,34 +124,39 @@
       "meaning": "chủ nhật"
     },
     {
-      "word": "日一日と",
-      "reading": "ひいちにちと",
-      "meaning": "ngày lại ngày"
+      "word": "日",
+      "reading": "ひ",
+      "meaning": "mặt trời"
     },
     {
-      "word": "昨日今日",
-      "reading": "きのうきょう",
-      "meaning": "hôm qua và hôm nay"
+      "word": "日光",
+      "reading": "にっこう",
+      "meaning": "ánh mặt trời"
     },
     {
-      "word": "今日明日",
-      "reading": "きょうあす",
-      "meaning": "hôm nay và ngày mai"
+      "word": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "ngày lễ"
     },
     {
-      "word": "毎日毎日",
-      "reading": "まいにちまいにち",
-      "meaning": "ngày qua ngày"
+      "word": "月日",
+      "reading": "つきひ",
+      "meaning": "ngày tháng"
     },
     {
-      "word": "一日二日",
-      "reading": "いちにちふつか",
-      "meaning": "một hoặc hai ngày"
+      "word": "祭日",
+      "reading": "さいじつ",
+      "meaning": "ngày lễ"
     },
     {
-      "word": "日日の糧",
-      "reading": "ひびのかて",
-      "meaning": "một có hàng ngày bánh mì"
+      "word": "日日",
+      "reading": "ひび",
+      "meaning": "mỗi ngày"
+    },
+    {
+      "word": "期日",
+      "reading": "きじつ",
+      "meaning": "ngày đã định"
     }
   ]
 }

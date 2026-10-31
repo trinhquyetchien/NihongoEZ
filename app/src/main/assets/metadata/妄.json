@@ -87,14 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "妄想",
+      "reading": "もうそう",
+      "meaning": "hư ảo"
+    },
+    {
+      "word": "妄想症",
+      "reading": "もうそうしょう",
+      "meaning": "paranoia"
+    },
+    {
+      "word": "妄想癖",
+      "reading": "もうそうへき",
+      "meaning": "ảo tưởng"
+    },
+    {
       "word": "妄言",
       "reading": "もうげん",
       "meaning": "nói tào lao"
-    },
-    {
-      "word": "妄心",
-      "reading": "もうしん",
-      "meaning": "một trái tim đã bị tổn thương bởi những ham muốn trần tục"
     },
     {
       "word": "妄執",
@@ -102,24 +112,14 @@
       "meaning": "một nỗi ám ảnh mà con người không thể hiểu được và vẫn còn mắc kẹt với sự do dự của trái tim"
     },
     {
-      "word": "妄用",
-      "reading": "ぼうよう",
-      "meaning": "sự sử dụng tùy tiện"
+      "word": "妄信",
+      "reading": "もうしん",
+      "meaning": "tính cả tin"
     },
     {
-      "word": "妄挙",
-      "reading": "ぼうきょ",
-      "meaning": "hành vi không phân biệt giữa thiện và ác. hành vi thiếu suy nghĩ"
-    },
-    {
-      "word": "妄念",
-      "reading": "もうねん",
-      "meaning": "làm xao lãng những ý tưởng"
-    },
-    {
-      "word": "迷妄",
-      "reading": "めいもう",
-      "meaning": "ảo tưởng"
+      "word": "せん妄",
+      "reading": "せんもう",
+      "meaning": "delirium"
     },
     {
       "word": "虚妄",
@@ -127,14 +127,14 @@
       "meaning": "không phải sự thật"
     },
     {
-      "word": "妄動",
-      "reading": "もうどう",
-      "meaning": "hành động mù quáng"
+      "word": "迷妄",
+      "reading": "めいもう",
+      "meaning": "ảo tưởng"
     },
     {
-      "word": "妄説",
-      "reading": "ぼうせつ",
-      "meaning": "ảo tưởng"
+      "word": "妄語",
+      "reading": "もうご",
+      "meaning": "nói dối"
     }
   ]
 }

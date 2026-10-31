@@ -92,9 +92,14 @@
       "meaning": "mâm"
     },
     {
-      "word": "膿盆",
-      "reading": "のうぼん",
-      "meaning": "chậu chứa mủ"
+      "word": "盆地",
+      "reading": "ぼんち",
+      "meaning": "bồn địa"
+    },
+    {
+      "word": "お盆",
+      "reading": "おぼん",
+      "meaning": "lễ obon"
     },
     {
       "word": "円盆",
@@ -102,39 +107,34 @@
       "meaning": "khay tròn"
     },
     {
-      "word": "盆石",
-      "reading": "ぼんせき",
-      "meaning": "đá nền tảng khay - phong cảnh"
+      "word": "風の盆",
+      "reading": "かぜのぼん",
+      "meaning": "kaze no bon"
     },
     {
-      "word": "盆景",
-      "reading": "ぼんけい",
-      "meaning": "vườn cây bon sai"
+      "word": "海盆",
+      "reading": "かいぼん",
+      "meaning": "chậu"
     },
     {
-      "word": "盆暮",
-      "reading": "ぼんくれ",
-      "meaning": "những liên hoan -e nd bon và năm"
+      "word": "電気盆",
+      "reading": "でんきぼん",
+      "meaning": "một thiết bị thu điện tích bằng cảm ứng tĩnh điện"
+    },
+    {
+      "word": "御盆",
+      "reading": "おぼん",
+      "meaning": "liên hoan đèn lồng"
+    },
+    {
+      "word": "盆休み",
+      "reading": "ぼんやすみ",
+      "meaning": "kì nghỉ bon"
     },
     {
       "word": "盆画",
       "reading": "ぼんが",
       "meaning": "phong cảnh khay"
-    },
-    {
-      "word": "旧盆",
-      "reading": "きゅうぼん",
-      "meaning": "lễ vu lan theo lịch âm"
-    },
-    {
-      "word": "角盆",
-      "reading": "かくぼん",
-      "meaning": "khay vuông"
-    },
-    {
-      "word": "盆暗",
-      "reading": "ぼんくら",
-      "meaning": "sự ngu ngốc"
     }
   ]
 }

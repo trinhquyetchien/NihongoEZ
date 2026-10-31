@@ -95,24 +95,9 @@
       "meaning": "màn"
     },
     {
-      "word": "ビニール幕/横幕",
-      "reading": "ビニールまく/よこまく",
-      "meaning": "màn nhựa pvc / màn ngang"
-    },
-    {
-      "word": "朝幕",
-      "reading": "ちょうばく",
-      "meaning": "chính quyền mạc phủ trong thời kỳ edo"
-    },
-    {
-      "word": "剣幕",
-      "reading": "けんまく",
-      "meaning": "thái độ đe dọa"
-    },
-    {
-      "word": "黒幕",
-      "reading": "くろまく",
-      "meaning": "rèm cửa màu đen"
+      "word": "開幕",
+      "reading": "かいまく",
+      "meaning": "khai mạc"
     },
     {
       "word": "字幕",
@@ -120,14 +105,19 @@
       "meaning": "phụ đề"
     },
     {
-      "word": "開幕",
-      "reading": "かいまく",
-      "meaning": "khai mạc"
+      "word": "本幕",
+      "reading": "ほんまく",
+      "meaning": "màn chính"
     },
     {
-      "word": "仏幕",
-      "reading": "ぶつまく",
-      "meaning": "màn thờ phật"
+      "word": "朝幕",
+      "reading": "ちょうばく",
+      "meaning": "chính quyền mạc phủ trong thời kỳ edo"
+    },
+    {
+      "word": "幕軍",
+      "reading": "ばくぐん",
+      "meaning": "quân đội shogunate"
     },
     {
       "word": "幕尻",
@@ -135,9 +125,19 @@
       "meaning": "đô vật xếp hạng thấp nhất trong bộ phận makuuchi"
     },
     {
-      "word": "銀幕",
-      "reading": "ぎんまく",
-      "meaning": "màn bạc"
+      "word": "幕電",
+      "reading": "まくでん",
+      "meaning": "sự chớp loé ra như một mảng ánh sáng rộng trên trời"
+    },
+    {
+      "word": "陣幕",
+      "reading": "じんまく",
+      "meaning": "màn vây xung quanh trại lính"
+    },
+    {
+      "word": "帳幕",
+      "reading": "ちょうばく",
+      "meaning": "lều trại"
     }
   ]
 }

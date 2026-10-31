@@ -107,39 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "示偏",
-      "reading": "しめすへん",
-      "meaning": "bộ thủ thị trong chữ hán"
-    },
-    {
-      "word": "道示",
-      "reading": "どうし",
-      "meaning": "viết tắt của từ 道路橋示方書同解説: tiêu chuẩn thiết kế cầu đường bộ của nhật bản"
-    },
-    {
-      "word": "誇示",
-      "reading": "こじ",
-      "meaning": "sự phô trương"
-    },
-    {
       "word": "示す",
       "reading": "しめす",
       "meaning": "biểu hiện ra"
-    },
-    {
-      "word": "示唆",
-      "reading": "しさ",
-      "meaning": "gợi ý"
-    },
-    {
-      "word": "教示",
-      "reading": "きょうじ",
-      "meaning": "chỉ giáo"
-    },
-    {
-      "word": "指示",
-      "reading": "しじ",
-      "meaning": "hướng dẫn"
     },
     {
       "word": "掲示",
@@ -147,14 +117,44 @@
       "meaning": "thông báo"
     },
     {
-      "word": "判示",
-      "reading": "はんじ",
-      "meaning": "phán xét"
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "sự trưng bày"
     },
     {
-      "word": "啓示",
-      "reading": "けいじ",
-      "meaning": "sự soi rạng"
+      "word": "指示",
+      "reading": "しじ",
+      "meaning": "hướng dẫn"
+    },
+    {
+      "word": "提示",
+      "reading": "ていじ",
+      "meaning": "sự biểu diễn"
+    },
+    {
+      "word": "暗示",
+      "reading": "あんじ",
+      "meaning": "sự ám thị"
+    },
+    {
+      "word": "表示",
+      "reading": "ひょうじ",
+      "meaning": "hiển thị"
+    },
+    {
+      "word": "示し",
+      "reading": "しめし",
+      "meaning": "khép vào kỷ luật"
+    },
+    {
+      "word": "展示場",
+      "reading": "てんじじょう",
+      "meaning": "quầy triển lãm"
+    },
+    {
+      "word": "指示子",
+      "reading": "しじし",
+      "meaning": "vật được chỉ thị tới"
     }
   ]
 }

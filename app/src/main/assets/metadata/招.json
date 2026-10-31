@@ -106,11 +106,6 @@
   ],
   "vocabulary": [
     {
-      "word": "招聘状",
-      "reading": "しょうへいじょう",
-      "meaning": "thư mời dùng khi xin visa nhật (招へい理由書）"
-    },
-    {
       "word": "招待",
       "reading": "しょうたい",
       "meaning": "buổi chiêu đãi"
@@ -121,39 +116,44 @@
       "meaning": "gọi"
     },
     {
+      "word": "招き",
+      "reading": "まねき",
+      "meaning": "sự mời"
+    },
+    {
+      "word": "招待日",
+      "reading": "しょうたいび",
+      "meaning": "ngày hoặc ngày tháng một sự mời"
+    },
+    {
+      "word": "招待席",
+      "reading": "しょうたいせき",
+      "meaning": "ngồi gìn giữ cho những khách"
+    },
+    {
+      "word": "招待券",
+      "reading": "しょうたいけん",
+      "meaning": "thiếp mời"
+    },
+    {
+      "word": "招待状",
+      "reading": "しょうたいじょう",
+      "meaning": "giấy mời"
+    },
+    {
+      "word": "手招く",
+      "reading": "てまねく",
+      "meaning": "vẫy tay ra hiệu"
+    },
+    {
+      "word": "潮招き",
+      "reading": "しおまねき",
+      "meaning": "người chơi viôlông chọc vào"
+    },
+    {
       "word": "招集",
       "reading": "しょうしゅう",
       "meaning": "gọi hoặc hội họp"
-    },
-    {
-      "word": "招福",
-      "reading": "しょうふく",
-      "meaning": "may mắn quyến rũ"
-    },
-    {
-      "word": "招致",
-      "reading": "しょうち",
-      "meaning": "sự mời"
-    },
-    {
-      "word": "招聘",
-      "reading": "しょうへい",
-      "meaning": "việc làm"
-    },
-    {
-      "word": "招請",
-      "reading": "しょうせい",
-      "meaning": "sự mời"
-    },
-    {
-      "word": "招魂",
-      "reading": "しょうこん",
-      "meaning": "sự cầu hồn"
-    },
-    {
-      "word": "招来",
-      "reading": "しょうらい",
-      "meaning": "lời mời"
     }
   ]
 }

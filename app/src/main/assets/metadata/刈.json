@@ -87,44 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "刈",
-      "reading": "かり",
-      "meaning": "cắt"
-    },
-    {
-      "word": "刈萱",
-      "reading": "かるかや",
-      "meaning": "cây cỏ tranh"
-    },
-    {
-      "word": "刈入",
-      "reading": "かりいれ",
-      "meaning": "gặt hái"
-    },
-    {
-      "word": "刈除",
-      "reading": "がいじょ",
-      "meaning": "loại bỏ"
-    },
-    {
-      "word": "刈穂",
-      "reading": "かりほ",
-      "meaning": "gặt hái hạt"
-    },
-    {
       "word": "刈る",
       "reading": "かる",
       "meaning": "gặt"
     },
     {
-      "word": "刈布",
-      "reading": "かりぬの",
-      "meaning": "khăn choàng cắt tóc"
+      "word": "刈払機",
+      "reading": "かりはらいき",
+      "meaning": "máy cắt cỏ"
     },
     {
-      "word": "芝刈り",
-      "reading": "しばかり",
-      "meaning": "cắt cỏ"
+      "word": "刈り手",
+      "reading": "かりて",
+      "meaning": "thợ gặt"
     },
     {
       "word": "下刈り",
@@ -132,9 +107,34 @@
       "meaning": "nhổ cỏ"
     },
     {
-      "word": "柴刈り",
+      "word": "刈り株",
+      "reading": "かりかぶ",
+      "meaning": "gốc rạ"
+    },
+    {
+      "word": "刈り跡",
+      "reading": "かりあと",
+      "meaning": "cắt - qua đất"
+    },
+    {
+      "word": "刈り根",
+      "reading": "かりね",
+      "meaning": "gốc rạ"
+    },
+    {
+      "word": "刈り田",
+      "reading": "かりた",
+      "meaning": "đồng lúa đã thu hoạch"
+    },
+    {
+      "word": "枝刈り",
+      "reading": "えだかり",
+      "meaning": "cắt tỉa kết nối dư thừa"
+    },
+    {
+      "word": "芝刈り",
       "reading": "しばかり",
-      "meaning": "sự thu nhặt củi"
+      "meaning": "cắt cỏ"
     }
   ]
 }

@@ -88,14 +88,29 @@
   ],
   "vocabulary": [
     {
+      "word": "大胆",
+      "reading": "だいたん",
+      "meaning": "bạo"
+    },
+    {
+      "word": "大胆な",
+      "reading": "だいたんな",
+      "meaning": "bạo dạn"
+    },
+    {
+      "word": "落胆",
+      "reading": "らくたん",
+      "meaning": "sự buồn nản"
+    },
+    {
       "word": "胆",
       "reading": "きも",
       "meaning": "mật"
     },
     {
-      "word": "胆汁酸と胆汁酸塩",
-      "reading": "たんじゅーさんとたんじゅーさんしお",
-      "meaning": "axit và muối axit của túi mật tiết ra"
+      "word": "胆気",
+      "reading": "たんき",
+      "meaning": "lòng dũng cảm"
     },
     {
       "word": "胆玉",
@@ -103,39 +118,24 @@
       "meaning": "sự can đảm"
     },
     {
-      "word": "心胆",
-      "reading": "しんたん",
-      "meaning": "tâm trí"
+      "word": "胆管",
+      "reading": "たんかん",
+      "meaning": "ống mật"
     },
     {
-      "word": "魂胆",
-      "reading": "こんたん",
-      "meaning": "ý đồ"
+      "word": "総胆管",
+      "reading": "そうたんかん",
+      "meaning": "ống mật chủ"
     },
     {
-      "word": "竜胆",
-      "reading": "りんどう",
-      "meaning": "long đởm"
+      "word": "胆管炎",
+      "reading": "たんかんえん",
+      "meaning": "viêm đường mật"
     },
     {
-      "word": "胆嚢",
-      "reading": "たんのう",
-      "meaning": "túi mật"
-    },
-    {
-      "word": "胆汁",
-      "reading": "たんじゅう",
-      "meaning": "mật"
-    },
-    {
-      "word": "豪胆",
-      "reading": "ごうたん",
-      "meaning": "tính dũng cảm"
-    },
-    {
-      "word": "肝胆",
-      "reading": "かんたん",
-      "meaning": "gan và túi mật"
+      "word": "利胆剤",
+      "reading": "りたんざい",
+      "meaning": "thuốc lợi mật"
     }
   ]
 }

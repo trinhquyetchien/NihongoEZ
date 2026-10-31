@@ -89,34 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "しんけーあつ挫",
-      "reading": "神経圧挫",
-      "meaning": "chèn ép dây thần kinh"
-    },
-    {
-      "word": "捻挫",
-      "reading": "ねんざ",
-      "meaning": "bệnh bong gân"
-    },
-    {
       "word": "挫折",
       "reading": "ざせつ",
       "meaning": "làm thất bại"
     },
     {
-      "word": "挫き",
-      "reading": "くじき",
-      "meaning": "sprain"
-    },
-    {
-      "word": "挫傷",
-      "reading": "ざしょう",
-      "meaning": "vết thâm tím"
-    },
-    {
-      "word": "挫く",
-      "reading": "くじく",
-      "meaning": "vẹo"
+      "word": "挫折感",
+      "reading": "ざせつかん",
+      "meaning": "cảm thấy làm thất bại"
     },
     {
       "word": "頓挫",
@@ -124,19 +104,39 @@
       "meaning": "sự thụt lùi"
     },
     {
-      "word": "挫滅",
-      "reading": "ざめつ",
-      "meaning": "chấn thương do đè bẹp"
+      "word": "捻挫",
+      "reading": "ねんざ",
+      "meaning": "bệnh bong gân"
     },
     {
-      "word": "挫創",
-      "reading": "ざそう",
-      "meaning": "vết thương dập"
+      "word": "骨捻挫",
+      "reading": "ほねねんざ",
+      "meaning": "bị trẹo xương"
     },
     {
-      "word": "挫骨",
-      "reading": "ざこつ",
-      "meaning": "gãy xương"
+      "word": "挫き",
+      "reading": "くじき",
+      "meaning": "sprain"
+    },
+    {
+      "word": "挫く",
+      "reading": "くじく",
+      "meaning": "vẹo"
+    },
+    {
+      "word": "挫傷",
+      "reading": "ざしょう",
+      "meaning": "vết thâm tím"
+    },
+    {
+      "word": "脳挫傷",
+      "reading": "のうざしょう",
+      "meaning": "sự giập xương não"
+    },
+    {
+      "word": "挫ける",
+      "reading": "くじける",
+      "meaning": "nản lòng"
     }
   ]
 }

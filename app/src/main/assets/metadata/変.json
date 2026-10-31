@@ -96,26 +96,6 @@
       "meaning": "lạ"
     },
     {
-      "word": "可変変圧器",
-      "reading": "かへんへんあつき",
-      "meaning": "máy biến thế biến"
-    },
-    {
-      "word": "変態",
-      "reading": "へんたい",
-      "meaning": "biến thái"
-    },
-    {
-      "word": "変な",
-      "reading": "へんな",
-      "meaning": "kỳ lạ"
-    },
-    {
-      "word": "違変",
-      "reading": "いへん",
-      "meaning": "phá vỡ"
-    },
-    {
       "word": "変動",
       "reading": "へんどう",
       "meaning": "sự biến động"
@@ -131,14 +111,34 @@
       "meaning": "thay đổi"
     },
     {
-      "word": "カ変",
-      "reading": "カへん",
-      "meaning": "một dạng chia động từ đặc biệt của động từ \"kuru\""
+      "word": "変な",
+      "reading": "へんな",
+      "meaning": "kỳ lạ"
     },
     {
-      "word": "ナ変",
-      "reading": "ナへん",
-      "meaning": "động từ bất quy tắc nhóm ナ"
+      "word": "機変",
+      "reading": "きへん",
+      "meaning": "thay đổi đột ngột"
+    },
+    {
+      "word": "変法",
+      "reading": "へんぽう",
+      "meaning": "sự duyệt lại pháp luật"
+    },
+    {
+      "word": "重変",
+      "reading": "じゅうへん",
+      "meaning": "dấu giáng kép"
+    },
+    {
+      "word": "変症",
+      "reading": "へんしょう",
+      "meaning": "cầm một sự quay"
+    },
+    {
+      "word": "変字",
+      "reading": "へんじ",
+      "meaning": "sự chuyển đổi"
     }
   ]
 }

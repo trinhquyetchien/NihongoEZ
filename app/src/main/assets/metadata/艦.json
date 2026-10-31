@@ -87,6 +87,11 @@
   ],
   "vocabulary": [
     {
+      "word": "軍艦",
+      "reading": "ぐんかん",
+      "meaning": "tàu chiến"
+    },
+    {
       "word": "艦",
       "reading": "かん",
       "meaning": "hạm"
@@ -97,29 +102,9 @@
       "meaning": "con tàu này"
     },
     {
-      "word": "艦長",
-      "reading": "かんちょう",
-      "meaning": "người chỉ huy một chiến hạm"
-    },
-    {
-      "word": "艦船",
-      "reading": "かんせん",
-      "meaning": "tàu chiến"
-    },
-    {
-      "word": "艦橋",
-      "reading": "かんきょう",
-      "meaning": "bắc cầu qua"
-    },
-    {
-      "word": "対艦",
-      "reading": "たいかん",
-      "meaning": "chống hạm"
-    },
-    {
-      "word": "イージス艦",
-      "reading": "イージスかん",
-      "meaning": "tàu tuần dương lớp aegis"
+      "word": "艦名",
+      "reading": "かんめい",
+      "meaning": "tên tàu chiến"
     },
     {
       "word": "代艦",
@@ -127,14 +112,29 @@
       "meaning": "chiến hạm thay thế"
     },
     {
-      "word": "艦上",
-      "reading": "かんじょう",
-      "meaning": "trên boong tàu chiến"
+      "word": "発艦",
+      "reading": "はっかん",
+      "meaning": "máy bay rời khỏi hàng không mẫu hạm"
     },
     {
-      "word": "乗艦",
-      "reading": "じょうかん",
-      "meaning": "lên tàu chiến"
+      "word": "艦首",
+      "reading": "かんしゅ",
+      "meaning": "mũi tàu chiến"
+    },
+    {
+      "word": "対艦",
+      "reading": "たいかん",
+      "meaning": "chống hạm"
+    },
+    {
+      "word": "艦隊",
+      "reading": "かんたい",
+      "meaning": "hạm đội"
+    },
+    {
+      "word": "敵艦隊",
+      "reading": "てきかんたい",
+      "meaning": "hạm đội địch"
     }
   ]
 }

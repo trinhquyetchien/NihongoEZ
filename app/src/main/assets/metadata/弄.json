@@ -89,6 +89,46 @@
   ],
   "vocabulary": [
     {
+      "word": "翻弄",
+      "reading": "ほんろう",
+      "meaning": "sự đùa cợt"
+    },
+    {
+      "word": "弄り",
+      "reading": "いじり",
+      "meaning": "sự xen vào việc người khác"
+    },
+    {
+      "word": "火弄り",
+      "reading": "ひいじり",
+      "meaning": "nghịch lửa"
+    },
+    {
+      "word": "土弄り",
+      "reading": "つちいじり",
+      "meaning": "việc làm vườn"
+    },
+    {
+      "word": "弄くる",
+      "reading": "いじくる",
+      "meaning": "mân mê"
+    },
+    {
+      "word": "弄する",
+      "reading": "ろうする",
+      "meaning": "sử dụng"
+    },
+    {
+      "word": "弄便",
+      "reading": "ろうべん",
+      "meaning": "ái phân"
+    },
+    {
+      "word": "弄る",
+      "reading": "いじる",
+      "meaning": "chạm"
+    },
+    {
       "word": "弄ぶ",
       "reading": "もてあそぶ",
       "meaning": "chơi với"
@@ -97,46 +137,6 @@
       "word": "愚弄",
       "reading": "ぐろう",
       "meaning": "sự chế nhạo"
-    },
-    {
-      "word": "玩弄",
-      "reading": "がんろう",
-      "meaning": "sự chế nhạo"
-    },
-    {
-      "word": "弄る",
-      "reading": "いじる",
-      "meaning": "chạm"
-    },
-    {
-      "word": "嘲弄",
-      "reading": "ちょうろう",
-      "meaning": "sự trào lộng"
-    },
-    {
-      "word": "翻弄",
-      "reading": "ほんろう",
-      "meaning": "sự đùa cợt"
-    },
-    {
-      "word": "戯弄",
-      "reading": "ぎろう",
-      "meaning": "sự đùa giỡn"
-    },
-    {
-      "word": "弄り",
-      "reading": "いじり",
-      "meaning": "sự xen vào việc người khác"
-    },
-    {
-      "word": "弄火",
-      "reading": "ろうか",
-      "meaning": "chơi với lửa"
-    },
-    {
-      "word": "弄花",
-      "reading": "ろうか",
-      "meaning": "chơi bài hanafuda"
     }
   ]
 }

@@ -94,14 +94,19 @@
       "meaning": "vai"
     },
     {
-      "word": "肩車",
-      "reading": "かたぐるま",
-      "meaning": "vác"
+      "word": "肩高",
+      "reading": "けんこう",
+      "meaning": "chiều cao ngang vai"
     },
     {
-      "word": "肩幅",
-      "reading": "かたはば",
-      "meaning": "bề ngang của vai"
+      "word": "肩部",
+      "reading": "けんぶ",
+      "meaning": "phần vai"
+    },
+    {
+      "word": "法肩",
+      "reading": "のりかた",
+      "meaning": "sườn dốc"
     },
     {
       "word": "地肩",
@@ -109,14 +114,9 @@
       "meaning": "sức mạnh bẩm sinh của vai"
     },
     {
-      "word": "肩ロース",
-      "reading": "かたロース",
-      "meaning": "thịt nạc vai"
-    },
-    {
-      "word": "右肩",
-      "reading": "みぎかた",
-      "meaning": "vai phải"
+      "word": "肩文字",
+      "reading": "かたもじ",
+      "meaning": "chỉ số trên"
     },
     {
       "word": "肩山",
@@ -124,19 +124,19 @@
       "meaning": "vai áo"
     },
     {
-      "word": "肩衝",
-      "reading": "かたつき",
-      "meaning": "bình trà có vai"
+      "word": "四十肩",
+      "reading": "しじゅうかた",
+      "meaning": "gánh vác sự đau"
     },
     {
-      "word": "肩口",
-      "reading": "かたぐち",
-      "meaning": "bả vai"
+      "word": "肩帯",
+      "reading": "けんたい",
+      "meaning": "dây đeo vai"
     },
     {
-      "word": "双肩",
-      "reading": "そうけん",
-      "meaning": "gánh vác"
+      "word": "両肩",
+      "reading": "りょうかた",
+      "meaning": "cả 2 vai"
     }
   ]
 }

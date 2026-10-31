@@ -113,9 +113,29 @@
       "meaning": "nghệ thuật chiến tranh"
     },
     {
-      "word": "武夫",
-      "reading": "ぶふ",
-      "meaning": "quân nhân"
+      "word": "武し",
+      "reading": "たけし",
+      "meaning": "người dũng cảm"
+    },
+    {
+      "word": "官武",
+      "reading": "かんぶ",
+      "meaning": "quan văn và quan võ"
+    },
+    {
+      "word": "武学",
+      "reading": "ぶがく",
+      "meaning": "khoa học quân sự"
+    },
+    {
+      "word": "武骨",
+      "reading": "ぶこつ",
+      "meaning": "quê mùa"
+    },
+    {
+      "word": "武教",
+      "reading": "ぶきょう",
+      "meaning": "dạy bushido"
     },
     {
       "word": "西武",
@@ -123,39 +143,19 @@
       "meaning": "quân đội phương tây"
     },
     {
-      "word": "勇武",
-      "reading": "ゆうぶ",
-      "meaning": "lòng can đảm"
+      "word": "武勇",
+      "reading": "ぶゆう",
+      "meaning": "sự dũng cảm"
     },
     {
-      "word": "雄武",
-      "reading": "ゆうぶ",
-      "meaning": "tính gan dạ"
+      "word": "武将",
+      "reading": "ぶしょう",
+      "meaning": "tướng"
     },
     {
-      "word": "建武",
-      "reading": "けんむ",
-      "meaning": "thời kemu"
-    },
-    {
-      "word": "玄武",
-      "reading": "げんぶ",
-      "meaning": "huyền vũ"
-    },
-    {
-      "word": "演武",
-      "reading": "えんぶ",
-      "meaning": "sự luyện tập võ thuật"
-    },
-    {
-      "word": "武門",
+      "word": "武問",
       "reading": "ぶもん",
-      "meaning": "gia đình võ sĩ"
-    },
-    {
-      "word": "武庫",
-      "reading": "ぶこ",
-      "meaning": "kho vũ khí"
+      "meaning": "samurai có dòng dõi"
     }
   ]
 }

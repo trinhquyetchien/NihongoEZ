@@ -109,44 +109,34 @@
   ],
   "vocabulary": [
     {
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "nhẫn nại"
+    },
+    {
+      "word": "我々",
+      "reading": "われわれ",
+      "meaning": "chúng mình"
+    },
+    {
+      "word": "自我",
+      "reading": "じが",
+      "meaning": "tự mình"
+    },
+    {
+      "word": "怪我",
+      "reading": "けが",
+      "meaning": "vết thương"
+    },
+    {
+      "word": "怪我人",
+      "reading": "けがにん",
+      "meaning": "người bị thương"
+    },
+    {
       "word": "我",
       "reading": "われ",
       "meaning": "chúng tôi"
-    },
-    {
-      "word": "我我",
-      "reading": "われわれ",
-      "meaning": "chúng tôi"
-    },
-    {
-      "word": "我利我利",
-      "reading": "がりがり",
-      "meaning": "tính ích kỷ"
-    },
-    {
-      "word": "我も我も",
-      "reading": "われもわれも",
-      "meaning": "ganh đua với nhau"
-    },
-    {
-      "word": "我利我利亡者",
-      "reading": "がりがりもうじゃ",
-      "meaning": "người tham lam ích kỷ"
-    },
-    {
-      "word": "我思う故に我あり",
-      "reading": "われおもうゆえにわれあり",
-      "meaning": "tôi tư duy nên tôi tồn tại"
-    },
-    {
-      "word": "我侭",
-      "reading": "わがまま",
-      "meaning": "tính ích kỷ"
-    },
-    {
-      "word": "我儘",
-      "reading": "わがまま",
-      "meaning": "cứng đầu"
     },
     {
       "word": "我れ",
@@ -154,9 +144,19 @@
       "meaning": "tôi"
     },
     {
-      "word": "自我",
-      "reading": "じが",
-      "meaning": "tự mình"
+      "word": "我方",
+      "reading": "わがほう",
+      "meaning": "chúng tôi"
+    },
+    {
+      "word": "我事",
+      "reading": "わこと",
+      "meaning": "việc riêng"
+    },
+    {
+      "word": "我物",
+      "reading": "わがもの",
+      "meaning": "đồ vật của tôi"
     }
   ]
 }

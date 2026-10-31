@@ -92,14 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "輩",
-      "reading": "やから",
-      "meaning": "đồng chí"
-    },
-    {
-      "word": "先輩後輩",
-      "reading": "せんぱいこうはい",
-      "meaning": "tiền bối và hậu bối"
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "tiền bối"
     },
     {
       "word": "後輩",
@@ -107,19 +102,34 @@
       "meaning": "người có bậc thấp hơn"
     },
     {
-      "word": "奴輩",
-      "reading": "どはい",
-      "meaning": "gã đó"
+      "word": "大先輩",
+      "reading": "だいせんぱい",
+      "meaning": "đàn anh"
     },
     {
-      "word": "俗輩",
-      "reading": "ぞくはい",
-      "meaning": "những người trần tục"
+      "word": "輩",
+      "reading": "やから",
+      "meaning": "đồng chí"
     },
     {
-      "word": "鼠輩",
-      "reading": "そはい",
-      "meaning": "cá nhỏ"
+      "word": "下輩",
+      "reading": "かはい",
+      "meaning": "người có địa vị thấp kém"
+    },
+    {
+      "word": "我が輩",
+      "reading": "わがはい",
+      "meaning": "đôi ta"
+    },
+    {
+      "word": "青年輩",
+      "reading": "せいねんはい",
+      "meaning": "người trẻ tuổi"
+    },
+    {
+      "word": "余輩",
+      "reading": "よはい",
+      "meaning": "chúng tôi"
     },
     {
       "word": "輩出",
@@ -127,19 +137,9 @@
       "meaning": "sự nảy nở"
     },
     {
-      "word": "年輩",
-      "reading": "ねんぱい",
-      "meaning": "có tuổi"
-    },
-    {
-      "word": "末輩",
-      "reading": "まっぱい",
-      "meaning": "bộ hạ"
-    },
-    {
-      "word": "朋輩",
-      "reading": "ほうばい",
-      "meaning": "đồng chí"
+      "word": "吾輩",
+      "reading": "わがはい",
+      "meaning": "đôi ta"
     }
   ]
 }

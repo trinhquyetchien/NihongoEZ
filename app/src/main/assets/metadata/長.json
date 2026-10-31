@@ -90,24 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "長",
-      "reading": "たけ",
-      "meaning": "dài"
+      "word": "身長",
+      "reading": "しんちょう",
+      "meaning": "chiều cao"
     },
     {
-      "word": "長長",
-      "reading": "ながなが",
-      "meaning": "dài"
-    },
-    {
-      "word": "長長しい",
-      "reading": "ながながしい",
-      "meaning": "dài"
-    },
-    {
-      "word": "係長",
-      "reading": "かかりちょう",
-      "meaning": "quản lý"
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chủ tịch"
     },
     {
       "word": "長男",
@@ -115,29 +105,39 @@
       "meaning": "cậu cả"
     },
     {
-      "word": "伸長",
-      "reading": "しんちょう",
-      "meaning": "sự mở rộng"
+      "word": "長",
+      "reading": "たけ",
+      "meaning": "dài"
     },
     {
-      "word": "身長",
-      "reading": "しんちょう",
-      "meaning": "chiều cao"
+      "word": "長々",
+      "reading": "ながなが",
+      "meaning": "dài"
     },
     {
-      "word": "所長",
-      "reading": "しょちょう",
-      "meaning": "trưởng phòng"
+      "word": "長元",
+      "reading": "ちょうげん",
+      "meaning": "chōgen"
     },
     {
-      "word": "機長",
-      "reading": "きちょう",
-      "meaning": "phi công"
+      "word": "足長",
+      "reading": "あしなが",
+      "meaning": "chiều dài từ đầu ngón chân dài nhất đến gót chân"
     },
     {
-      "word": "議長",
-      "reading": "ぎちょう",
-      "meaning": "chủ tịch"
+      "word": "軍長",
+      "reading": "ぐんちょう",
+      "meaning": "trung sĩ"
+    },
+    {
+      "word": "正長",
+      "reading": "しょうちょう",
+      "meaning": "thời shouchou"
+    },
+    {
+      "word": "長崎",
+      "reading": "ながさき",
+      "meaning": "thành phố nagasaki"
     }
   ]
 }

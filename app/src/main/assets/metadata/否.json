@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "否",
-      "reading": "いな",
+      "word": "否定",
+      "reading": "ひてい",
       "meaning": "sự phủ định"
     },
     {
-      "word": "否否",
-      "reading": "いやいや",
-      "meaning": "không"
+      "word": "拒否",
+      "reading": "きょひ",
+      "meaning": "sự cự tuyệt"
     },
     {
-      "word": "否否乍ら",
-      "reading": "いやいやながら",
-      "meaning": "miễn cưỡng"
+      "word": "否決",
+      "reading": "ひけつ",
+      "meaning": "sự phủ quyết"
     },
     {
-      "word": "否定の否定",
-      "reading": "ひていのひてい",
-      "meaning": "phủ định của phủ định"
+      "word": "否定的",
+      "reading": "ひていてき",
+      "meaning": "phủ định"
     },
     {
-      "word": "賛否",
-      "reading": "さんぴ",
-      "meaning": "sự tán thành và chống đối"
+      "word": "全否定",
+      "reading": "ぜんひてい",
+      "meaning": "phủ nhận hoàn toàn"
     },
     {
-      "word": "安否",
-      "reading": "あんぴ",
-      "meaning": "sự an nguy"
+      "word": "拒否る",
+      "reading": "きょひる",
+      "meaning": "từ chối"
     },
     {
-      "word": "合否",
-      "reading": "ごうひ",
-      "meaning": "thành công hoặc thất bại"
+      "word": "語否定",
+      "reading": "ごひてい",
+      "meaning": "phủ định từ"
     },
     {
-      "word": "成否",
-      "reading": "せいひ",
-      "meaning": "thành công hoặc sự thất bại"
+      "word": "否定語",
+      "reading": "ひていご",
+      "meaning": "phủ định từ"
     },
     {
-      "word": "臧否",
-      "reading": "ぞうひ",
-      "meaning": "tốt và xấu"
+      "word": "拒否権",
+      "reading": "きょひけん",
+      "meaning": "quyền phủ quyết"
     },
     {
-      "word": "適否",
-      "reading": "てきひ",
-      "meaning": "thiên hướng"
+      "word": "文否定",
+      "reading": "ぶんひてい",
+      "meaning": "câu phủ định"
     }
   ]
 }

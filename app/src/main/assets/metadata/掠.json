@@ -86,14 +86,24 @@
   ],
   "vocabulary": [
     {
-      "word": "掠る",
-      "reading": "かする",
-      "meaning": "sướt qua"
+      "word": "私掠船",
+      "reading": "しりゃくせん",
+      "meaning": "tàu lùng"
     },
     {
-      "word": "奪掠",
-      "reading": "だつりゃく",
+      "word": "掠奪",
+      "reading": "りゃくだつ",
       "meaning": "sự cướp bóc"
+    },
+    {
+      "word": "掠れ傷",
+      "reading": "かすれきず",
+      "meaning": "vết xước nhẹ"
+    },
+    {
+      "word": "掠める",
+      "reading": "かすめる",
+      "meaning": "đánh cắp"
     },
     {
       "word": "侵掠",
@@ -106,34 +116,24 @@
       "meaning": "ăn cỏ"
     },
     {
-      "word": "掠奪",
-      "reading": "りゃくだつ",
+      "word": "掠り傷",
+      "reading": "かすりきず",
+      "meaning": "làm xước"
+    },
+    {
+      "word": "掠る",
+      "reading": "かする",
+      "meaning": "sướt qua"
+    },
+    {
+      "word": "奪掠",
+      "reading": "だつりゃく",
       "meaning": "sự cướp bóc"
     },
     {
       "word": "劫掠",
       "reading": "きょうりゃく",
       "meaning": "sự cướp bóc"
-    },
-    {
-      "word": "焚掠",
-      "reading": "ふんりゃく",
-      "meaning": "cướp bóc và phóng hỏa"
-    },
-    {
-      "word": "掠り傷",
-      "reading": "かすりきず",
-      "meaning": "làm xước"
-    },
-    {
-      "word": "掠れる",
-      "reading": "かすれる",
-      "meaning": "bị mờ"
-    },
-    {
-      "word": "掠れ傷",
-      "reading": "かすれきず",
-      "meaning": "vết xước nhẹ"
     }
   ]
 }

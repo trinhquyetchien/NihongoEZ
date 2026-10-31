@@ -90,6 +90,21 @@
   ],
   "vocabulary": [
     {
+      "word": "弛緩",
+      "reading": "しかん",
+      "meaning": "sự nới lỏng"
+    },
+    {
+      "word": "筋弛緩",
+      "reading": "すじしかん",
+      "meaning": "sự giãn cơ"
+    },
+    {
+      "word": "弛まぬ",
+      "reading": "たゆまぬ",
+      "meaning": "ổn đinh"
+    },
+    {
       "word": "弛み",
       "reading": "ゆるみ",
       "meaning": "lỏng"
@@ -98,11 +113,6 @@
       "word": "弛む",
       "reading": "ゆるむ",
       "meaning": "lơi lỏng"
-    },
-    {
-      "word": "弛緩",
-      "reading": "しかん",
-      "meaning": "sự nới lỏng"
     },
     {
       "word": "中弛み",
@@ -115,29 +125,19 @@
       "meaning": "buông lỏng"
     },
     {
-      "word": "弛まぬ",
-      "reading": "たゆまぬ",
-      "meaning": "ổn đinh"
-    },
-    {
       "word": "腕弛い",
       "reading": "かいだるい",
       "meaning": "mệt"
     },
     {
-      "word": "筋弛緩",
-      "reading": "すじしかん",
-      "meaning": "sự giãn cơ"
+      "word": "筋弛緩剤",
+      "reading": "きんしかんざい",
+      "meaning": "thuốc giãn cơ"
     },
     {
-      "word": "軍紀弛緩",
-      "reading": "ぐんきちかん",
-      "meaning": "thiếu kỷ luật quân đội"
-    },
-    {
-      "word": "弛まない",
-      "reading": "たゆまない",
-      "meaning": "bền bỉ"
+      "word": "筋肉弛緩剤",
+      "reading": "きんにくしかんざい",
+      "meaning": "thuốc giãn cơ"
     }
   ]
 }

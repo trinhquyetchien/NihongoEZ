@@ -87,14 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "宝塚",
+      "reading": "たからづか",
+      "meaning": "cosplay"
+    },
+    {
+      "word": "塚本",
+      "reading": "つかもと",
+      "meaning": "trủng bản"
+    },
+    {
       "word": "塚",
       "reading": "つか",
       "meaning": "ụ"
-    },
-    {
-      "word": "首塚",
-      "reading": "くびづか",
-      "meaning": "gò đất chôn vùi cái cổ của kẻ bại trận và cái cổ của tội nhân"
     },
     {
       "word": "円塚",
@@ -102,39 +107,34 @@
       "meaning": "gò mộ tròn"
     },
     {
-      "word": "塵塚",
-      "reading": "ちりづか",
-      "meaning": "bãi rác"
-    },
-    {
-      "word": "宝塚",
-      "reading": "たからづか",
-      "meaning": "cosplay"
-    },
-    {
-      "word": "塚穴",
-      "reading": "つかあな",
-      "meaning": "khắc"
-    },
-    {
-      "word": "蟻塚",
-      "reading": "ありづか",
-      "meaning": "ụ kiến"
-    },
-    {
-      "word": "貝塚",
-      "reading": "かいづか",
-      "meaning": "đống rác bếp"
-    },
-    {
-      "word": "筆塚",
-      "reading": "ふでづか",
-      "meaning": "đống đất bao trùm cũ chôn tôn kính quét"
+      "word": "恋塚",
+      "reading": "こいづか",
+      "meaning": "gò mộ của người chết vì tình"
     },
     {
       "word": "耳塚",
       "reading": "みみづか",
       "meaning": "gò tai"
+    },
+    {
+      "word": "首塚",
+      "reading": "くびづか",
+      "meaning": "gò đất chôn vùi cái cổ của kẻ bại trận và cái cổ của tội nhân"
+    },
+    {
+      "word": "鼻塚",
+      "reading": "はなづか",
+      "meaning": "gò chôn cất mũi và tai bị cắt đứt"
+    },
+    {
+      "word": "飯塚",
+      "reading": "いいづか",
+      "meaning": "iizuka"
+    },
+    {
+      "word": "供養塚",
+      "reading": "くようづか",
+      "meaning": "người không biết có phần mộ"
     }
   ]
 }

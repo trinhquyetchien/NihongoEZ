@@ -57,24 +57,19 @@
       "meaning": "ngỗng trời"
     },
     {
-      "word": "雁骨",
-      "reading": "かりがねぼね",
-      "meaning": "/s'kæpjuli:/"
+      "word": "雁足",
+      "reading": "がんそく",
+      "meaning": "matteuccia struthiopteris"
     },
     {
-      "word": "雁木",
-      "reading": "がんぎ",
-      "meaning": "bước đi đê"
+      "word": "雁下",
+      "reading": "がんか",
+      "meaning": "vùng dưới cơ ngực"
     },
     {
-      "word": "雁爪",
-      "reading": "がんづめ",
-      "meaning": "một người nhật cào"
-    },
-    {
-      "word": "雁首",
-      "reading": "かりくび",
-      "meaning": "vật có hình dang như cổ con ngỗng"
+      "word": "白雁",
+      "reading": "はくがん",
+      "meaning": "ngỗng tuyết"
     },
     {
       "word": "真雁",
@@ -82,24 +77,29 @@
       "meaning": "ngỗng ngực trắng"
     },
     {
-      "word": "カナダ雁",
-      "reading": "カナダがん",
-      "meaning": "ngỗng canada"
+      "word": "雁の文",
+      "reading": "かりのふみ",
+      "meaning": "một bức thư"
     },
     {
-      "word": "ハワイ雁",
-      "reading": "ハワイがん",
-      "meaning": "ngỗng hawaii"
+      "word": "雁骨",
+      "reading": "かりがねぼね",
+      "meaning": "/s'kæpjuli:/"
     },
     {
-      "word": "雁足",
-      "reading": "がんそく",
-      "meaning": "matteuccia struthiopteris"
+      "word": "野雁",
+      "reading": "のがん",
+      "meaning": "ngỗng trời"
     },
     {
-      "word": "雁行",
-      "reading": "がんこう",
-      "meaning": "đội hình bay geese"
+      "word": "雁渡し",
+      "reading": "かりわたし",
+      "meaning": "gió bắc thổi từ đầu thu đến giữa thu"
+    },
+    {
+      "word": "雁爪",
+      "reading": "がんづめ",
+      "meaning": "một người nhật cào"
     }
   ]
 }

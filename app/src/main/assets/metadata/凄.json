@@ -92,9 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "凄",
-      "reading": "すご",
-      "meaning": "doạ"
+      "word": "凄い",
+      "reading": "すごい",
+      "meaning": "kinh khủng"
     },
     {
       "word": "凄く",
@@ -102,14 +102,29 @@
       "meaning": "hết sức"
     },
     {
-      "word": "凄惨",
-      "reading": "せいさん",
-      "meaning": "sự kinh dị"
+      "word": "凄",
+      "reading": "すご",
+      "meaning": "doạ"
     },
     {
-      "word": "凄味",
-      "reading": "すごみ",
-      "meaning": "tính siêu tự nhiên"
+      "word": "凄すぎ",
+      "reading": "すごすぎ",
+      "meaning": "quá tuyệt vời"
+    },
+    {
+      "word": "凄技",
+      "reading": "すごわざ",
+      "meaning": "kỹ năng vượt trội"
+    },
+    {
+      "word": "凄文句",
+      "reading": "すごもんく",
+      "meaning": "ngôn ngữ đáng sợ"
+    },
+    {
+      "word": "物凄い",
+      "reading": "ものすごい",
+      "meaning": "gây sửng sốt"
     },
     {
       "word": "凄艶",
@@ -117,29 +132,14 @@
       "meaning": "đẹp kỳ dị"
     },
     {
-      "word": "凄む",
-      "reading": "すごむ",
-      "meaning": "doạ"
-    },
-    {
-      "word": "凄み",
-      "reading": "すごみ",
-      "meaning": "sự khiếp sợ"
-    },
-    {
-      "word": "凄い",
-      "reading": "すごい",
-      "meaning": "kinh khủng"
+      "word": "凄じい",
+      "reading": "すさまじい",
+      "meaning": "dữ tợn"
     },
     {
       "word": "凄腕",
       "reading": "すごうで",
       "meaning": "người làm việc tích cực và khẩn trương"
-    },
-    {
-      "word": "凄烈",
-      "reading": "せいれつ",
-      "meaning": "hung dữ"
     }
   ]
 }

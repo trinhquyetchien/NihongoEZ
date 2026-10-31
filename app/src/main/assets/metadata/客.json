@@ -110,9 +110,19 @@
       "meaning": "người khách"
     },
     {
-      "word": "多客",
-      "reading": "たかく",
-      "meaning": "nhiều khách"
+      "word": "客観",
+      "reading": "きゃっかん",
+      "meaning": "khách quan"
+    },
+    {
+      "word": "客用",
+      "reading": "きゃくよう",
+      "meaning": "đồ dùng dành cho khách"
+    },
+    {
+      "word": "花客",
+      "reading": "かかく",
+      "meaning": "khách đi ngắm hoa đào"
     },
     {
       "word": "末客",
@@ -120,39 +130,29 @@
       "meaning": "vị khách cuối cùng"
     },
     {
-      "word": "客室",
-      "reading": "きゃくしつ",
-      "meaning": "buồng khách"
-    },
-    {
-      "word": "客観",
-      "reading": "きゃっかん",
-      "meaning": "khách quan"
-    },
-    {
-      "word": "客体",
-      "reading": "きゃくたい",
-      "meaning": "đối tượng của hành động hoặc nhận thức"
-    },
-    {
-      "word": "客車",
-      "reading": "きゃくしゃ",
-      "meaning": "xe khách"
-    },
-    {
       "word": "顧客",
       "reading": "こきゃく",
       "meaning": "bạn hàng"
     },
     {
-      "word": "船客",
-      "reading": "せんきゃく",
-      "meaning": "khách đi tàu"
+      "word": "雅客",
+      "reading": "がかく",
+      "meaning": "nhà văn"
     },
     {
-      "word": "集客",
-      "reading": "しゅうきゃく",
-      "meaning": "sự thu hút khách hàng"
+      "word": "佳客",
+      "reading": "かかく",
+      "meaning": "khách quý"
+    },
+    {
+      "word": "接客",
+      "reading": "せっきゃく",
+      "meaning": "tiếp khách"
+    },
+    {
+      "word": "客室",
+      "reading": "きゃくしつ",
+      "meaning": "buồng khách"
     }
   ]
 }

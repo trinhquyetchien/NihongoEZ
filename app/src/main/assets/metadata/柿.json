@@ -90,24 +90,19 @@
       "meaning": "quả hồng ngâm"
     },
     {
-      "word": "筆柿",
-      "reading": "ふでがき",
-      "meaning": "trái hồng"
+      "word": "柿の種",
+      "reading": "かきのたね",
+      "meaning": "bánh gạo hình hạt quả hồng"
     },
     {
-      "word": "渋柿",
-      "reading": "しぶがき",
-      "meaning": "quả hồng chát"
+      "word": "ころ柿",
+      "reading": "ころがき",
+      "meaning": "hồng phơi khô"
     },
     {
-      "word": "串柿",
-      "reading": "くしがき",
-      "meaning": "quả hồng khô xiên que"
-    },
-    {
-      "word": "柿色",
-      "reading": "かきいろ",
-      "meaning": "nâu hơi đỏ"
+      "word": "釣り柿",
+      "reading": "つりがき",
+      "meaning": "hồng treo gió"
     },
     {
       "word": "甘柿",
@@ -115,24 +110,29 @@
       "meaning": "quả hồng ngọt"
     },
     {
-      "word": "熟柿",
-      "reading": "じゅくし",
-      "meaning": "quả hồng chín"
+      "word": "筆柿",
+      "reading": "ふでがき",
+      "meaning": "trái hồng"
     },
     {
-      "word": "樽柿",
-      "reading": "たるがき",
-      "meaning": "quả hồng ngâm rượu cho ngọt"
-    },
-    {
-      "word": "柿渋",
-      "reading": "かきしぶ",
-      "meaning": "nước hồng ép"
+      "word": "次郎柿",
+      "reading": "じろうがき",
+      "meaning": "quả hồng jiro"
     },
     {
       "word": "ピー柿",
       "reading": "ピーかき",
       "meaning": "một loại đồ ăn vặt gồm đậu phộng và bánh gạo cay"
+    },
+    {
+      "word": "柿ピー",
+      "reading": "かきピー",
+      "meaning": "bánh gạo hình hạt"
+    },
+    {
+      "word": "柿落葉",
+      "reading": "かきおちば",
+      "meaning": "lá hồng rụng"
     }
   ]
 }

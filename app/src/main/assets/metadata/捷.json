@@ -84,9 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "簡捷",
-      "reading": "かんしょう",
-      "meaning": "mau lẹ"
+      "word": "敏捷",
+      "reading": "びんしょう",
+      "meaning": "sự lanh lợi"
+    },
+    {
+      "word": "敏捷性",
+      "reading": "びんしょうせい",
+      "meaning": "nhanh nhẹn"
     },
     {
       "word": "捷い",
@@ -94,9 +99,9 @@
       "meaning": "lanh lẹ"
     },
     {
-      "word": "敏捷",
-      "reading": "びんしょう",
-      "meaning": "sự lanh lợi"
+      "word": "簡捷",
+      "reading": "かんしょう",
+      "meaning": "mau lẹ"
     },
     {
       "word": "軽捷",
@@ -117,11 +122,6 @@
       "word": "捷報",
       "reading": "しょうほう",
       "meaning": "tin chiến thắng"
-    },
-    {
-      "word": "敏捷性",
-      "reading": "びんしょうせい",
-      "meaning": "nhanh nhẹn"
     }
   ]
 }

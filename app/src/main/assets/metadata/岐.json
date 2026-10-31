@@ -88,21 +88,6 @@
   ],
   "vocabulary": [
     {
-      "word": "多岐",
-      "reading": "たき",
-      "meaning": "nhiều nhánh"
-    },
-    {
-      "word": "岐路",
-      "reading": "きろ",
-      "meaning": "đường rẽ"
-    },
-    {
-      "word": "分岐",
-      "reading": "ぶんき",
-      "meaning": "sự chia nhánh"
-    },
-    {
       "word": "岐阜",
       "reading": "ぎふ",
       "meaning": "tỉnh gifu"
@@ -111,6 +96,11 @@
       "word": "岐阜県",
       "reading": "ぎふけん",
       "meaning": "tỉnh gifu nhật bản"
+    },
+    {
+      "word": "分岐",
+      "reading": "ぶんき",
+      "meaning": "sự chia nhánh"
     },
     {
       "word": "分岐点",
@@ -128,9 +118,19 @@
       "meaning": "hàng nhánh"
     },
     {
+      "word": "分岐学",
+      "reading": "ぶんきがく",
+      "meaning": "sự phát sinh chủng loại học"
+    },
+    {
       "word": "分岐器",
       "reading": "ぶんきき",
       "meaning": "dụng cụ phân nhánh"
+    },
+    {
+      "word": "多岐",
+      "reading": "たき",
+      "meaning": "nhiều nhánh"
     },
     {
       "word": "讃岐岩",

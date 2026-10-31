@@ -94,39 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "労",
-      "reading": "ろう",
-      "meaning": "sự lao động"
-    },
-    {
-      "word": "労労たる",
-      "reading": "ろうろうたる",
-      "meaning": "hoàn toàn kiệt sức"
-    },
-    {
-      "word": "労音",
-      "reading": "ろうおん",
-      "meaning": "hội đồng âm nhạc dành cho công nhân"
-    },
-    {
-      "word": "国労",
-      "reading": "こくろう",
-      "meaning": "liên hiệp những công nhân đường sắt quốc gia"
-    },
-    {
-      "word": "動労",
-      "reading": "どうろう",
-      "meaning": "liên hiệp sức mạnh động cơ đường sắt quốc gia"
-    },
-    {
-      "word": "炭労",
-      "reading": "たんろう",
-      "meaning": "nhật bản ¡n than liên hiệp những thợ mỏ"
-    },
-    {
-      "word": "就労",
-      "reading": "しゅうろう",
-      "meaning": "thực tế làm việc"
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "lao công"
     },
     {
       "word": "苦労",
@@ -134,14 +104,44 @@
       "meaning": "gian khổ"
     },
     {
-      "word": "労相",
-      "reading": "ろうしょう",
-      "meaning": "bộ trưởng bộ lao động"
+      "word": "疲労",
+      "reading": "ひろう",
+      "meaning": "sự mệt mỏi"
     },
     {
-      "word": "足労",
-      "reading": "そくろう",
-      "meaning": "lo lắng việc đi ở đâu đó"
+      "word": "労力",
+      "reading": "ろうりょく",
+      "meaning": "hơi sức"
+    },
+    {
+      "word": "過労",
+      "reading": "かろう",
+      "meaning": "sự lao động vất vả"
+    },
+    {
+      "word": "勤労",
+      "reading": "きんろう",
+      "meaning": "cần cán"
+    },
+    {
+      "word": "労",
+      "reading": "ろう",
+      "meaning": "sự lao động"
+    },
+    {
+      "word": "労き",
+      "reading": "いたずき",
+      "meaning": "sự lao nhọc"
+    },
+    {
+      "word": "労る",
+      "reading": "いたわる",
+      "meaning": "an ủi"
+    },
+    {
+      "word": "同労",
+      "reading": "どうろう",
+      "meaning": "sự làm việc cùng nhau"
     }
   ]
 }

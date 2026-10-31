@@ -89,6 +89,41 @@
   ],
   "vocabulary": [
     {
+      "word": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "đồng cỏ"
+    },
+    {
+      "word": "牧畜",
+      "reading": "ぼくちく",
+      "meaning": "sự chăn nuôi"
+    },
+    {
+      "word": "牧師",
+      "reading": "ぼくし",
+      "meaning": "linh mục"
+    },
+    {
+      "word": "遊牧",
+      "reading": "ゆうぼく",
+      "meaning": "du mục"
+    },
+    {
+      "word": "牧師館",
+      "reading": "ぼくしかん",
+      "meaning": "nhà của cha xứ"
+    },
+    {
+      "word": "牧場鳥",
+      "reading": "まきばどり",
+      "meaning": "chim đồng cỏ"
+    },
+    {
+      "word": "副牧師",
+      "reading": "ふくぼくし",
+      "meaning": "cha phó"
+    },
+    {
       "word": "牧",
       "reading": "まき",
       "meaning": "đồng cỏ"
@@ -97,41 +132,6 @@
       "word": "牧野",
       "reading": "ぼくや",
       "meaning": "trại nuôi súc vật"
-    },
-    {
-      "word": "牧人",
-      "reading": "ぼくじん",
-      "meaning": "mục đồng"
-    },
-    {
-      "word": "牧畜",
-      "reading": "ぼくちく",
-      "meaning": "sự chăn nuôi"
-    },
-    {
-      "word": "牧羊",
-      "reading": "ぼくよう",
-      "meaning": "sự chăn nuôi cừu"
-    },
-    {
-      "word": "牧舎",
-      "reading": "ぼくしゃ",
-      "meaning": "kho thóc"
-    },
-    {
-      "word": "牧牛",
-      "reading": "ぼくぎゅう",
-      "meaning": "chăn thú nuôi"
-    },
-    {
-      "word": "牧民",
-      "reading": "ぼくみん",
-      "meaning": "cầm quyền"
-    },
-    {
-      "word": "牧夫",
-      "reading": "ぼくふ",
-      "meaning": "người chăm sóc súc vật"
     },
     {
       "word": "牧地",

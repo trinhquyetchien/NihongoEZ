@@ -90,29 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "架空",
+      "reading": "かくう",
+      "meaning": "ở trên trời"
+    },
+    {
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "cái cáng"
+    },
+    {
       "word": "架",
       "reading": "たるき",
       "meaning": "giá treo đồ vật"
     },
     {
-      "word": "載架",
-      "reading": "さいか",
-      "meaning": "việc đặt ngang qua để tạo thành một cây cầu"
-    },
-    {
-      "word": "書架",
-      "reading": "しょか",
-      "meaning": "giá sách"
-    },
-    {
-      "word": "閉架",
-      "reading": "へいか",
-      "meaning": "chế độ ai muốn đọc sách gì thì đăng kí rồi được lấy cho chứ thư viện ko mở cho lấy tự do"
-    },
-    {
-      "word": "高架",
-      "reading": "こうか",
-      "meaning": "giao thông trên cao"
+      "word": "架上",
+      "reading": "かじょう",
+      "meaning": "trên giá"
     },
     {
       "word": "架間",
@@ -120,19 +115,24 @@
       "meaning": "giữa thiết bị"
     },
     {
-      "word": "懸架",
-      "reading": "けんか",
-      "meaning": "sự treo một xe ô tô)"
+      "word": "船架",
+      "reading": "せんか",
+      "meaning": "đường trượt"
     },
     {
-      "word": "架装",
-      "reading": "かそう",
-      "meaning": "phụ kiện ô tô được gắn trực tiếp tại dây chuyền sản xuất ô tô"
+      "word": "銃架",
+      "reading": "じゅうか",
+      "meaning": "giá súng"
     },
     {
       "word": "架電",
       "reading": "かでん",
       "meaning": "gọi điện thoại"
+    },
+    {
+      "word": "連架",
+      "reading": "れんか",
+      "meaning": "giá đỡ"
     },
     {
       "word": "刀架",

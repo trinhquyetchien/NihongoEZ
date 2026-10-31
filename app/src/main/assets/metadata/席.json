@@ -111,24 +111,9 @@
       "meaning": "chỗ ngồi"
     },
     {
-      "word": "配席",
-      "reading": "はいせき",
-      "meaning": "chỗ ngồi"
-    },
-    {
       "word": "出席",
       "reading": "しゅっせき",
       "meaning": "sự có mặt"
-    },
-    {
-      "word": "自席",
-      "reading": "じせき",
-      "meaning": "ghế riêng"
-    },
-    {
-      "word": "空席",
-      "reading": "くうせき",
-      "meaning": "ghế trống"
     },
     {
       "word": "座席",
@@ -136,24 +121,39 @@
       "meaning": "chỗ ngồi"
     },
     {
-      "word": "退席",
-      "reading": "たいせき",
-      "meaning": "rời bỏ một có cái ghế"
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "sự vắng mặt"
     },
     {
-      "word": "宴席",
-      "reading": "えんせき",
-      "meaning": "bữa tiệc"
+      "word": "客席",
+      "reading": "きゃくせき",
+      "meaning": "ghế của khách xem"
     },
     {
-      "word": "末席",
-      "reading": "ばっせき",
-      "meaning": "cái ghế thấp nhất"
+      "word": "着席",
+      "reading": "ちゃくせき",
+      "meaning": "sự ngồi"
     },
     {
-      "word": "碁席",
-      "reading": "ごせき",
-      "meaning": "đi là câu lạc bộ"
+      "word": "中席",
+      "reading": "なかせき",
+      "meaning": "chương trình tổ chức vào giữa tháng tại rạp hát"
+    },
+    {
+      "word": "昼席",
+      "reading": "ひるせき",
+      "meaning": "buổi biểu diễn ban chiều"
+    },
+    {
+      "word": "竹席",
+      "reading": "たかむしろ",
+      "meaning": "chiếu trúc"
+    },
+    {
+      "word": "残席",
+      "reading": "ざんせき",
+      "meaning": "ghế trống"
     }
   ]
 }

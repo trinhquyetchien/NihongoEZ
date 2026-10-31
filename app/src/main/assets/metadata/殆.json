@@ -86,24 +86,24 @@
   ],
   "vocabulary": [
     {
-      "word": "殆",
-      "reading": "ほとほと",
-      "meaning": "hoàn toàn"
-    },
-    {
-      "word": "危殆",
-      "reading": "きたい",
-      "meaning": "mối nguy hiểm"
-    },
-    {
       "word": "殆ど",
       "reading": "ほとんど",
       "meaning": "hầu hết"
     },
     {
+      "word": "殆",
+      "reading": "ほとほと",
+      "meaning": "hoàn toàn"
+    },
+    {
       "word": "殆んど",
       "reading": "ほとんど",
       "meaning": "hầu hết"
+    },
+    {
+      "word": "危殆",
+      "reading": "きたい",
+      "meaning": "mối nguy hiểm"
     },
     {
       "word": "危殆化",

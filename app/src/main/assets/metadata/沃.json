@@ -85,14 +85,34 @@
   ],
   "vocabulary": [
     {
-      "word": "沃度",
-      "reading": "ヨード",
-      "meaning": "iodine"
+      "word": "肥沃",
+      "reading": "ひよく",
+      "meaning": "phù sa"
+    },
+    {
+      "word": "肥沃な",
+      "reading": "ひよくな",
+      "meaning": "phì nhiêu"
     },
     {
       "word": "膏沃",
       "reading": "こうよく",
       "meaning": "đất đai màu mỡ"
+    },
+    {
+      "word": "沃野",
+      "reading": "よくや",
+      "meaning": "cánh đồng màu mỡ"
+    },
+    {
+      "word": "沃素",
+      "reading": "ようそ",
+      "meaning": "i-ốt"
+    },
+    {
+      "word": "沃度",
+      "reading": "ヨード",
+      "meaning": "iodine"
     },
     {
       "word": "沃田",
@@ -113,26 +133,6 @@
       "word": "沃土",
       "reading": "よくど",
       "meaning": "đất đai màu mỡ"
-    },
-    {
-      "word": "沃地",
-      "reading": "よくち",
-      "meaning": "ốc đảo"
-    },
-    {
-      "word": "沃野",
-      "reading": "よくや",
-      "meaning": "cánh đồng màu mỡ"
-    },
-    {
-      "word": "沃素",
-      "reading": "ようそ",
-      "meaning": "i-ốt"
-    },
-    {
-      "word": "肥沃",
-      "reading": "ひよく",
-      "meaning": "phù sa"
     }
   ]
 }

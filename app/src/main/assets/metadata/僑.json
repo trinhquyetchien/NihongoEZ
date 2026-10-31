@@ -83,14 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "僑",
-      "reading": "",
-      "meaning": "tạm thời về nhà"
-    },
-    {
       "word": "華僑",
       "reading": "かきょう",
       "meaning": "hoa kiều"
+    },
+    {
+      "word": "僑",
+      "reading": "",
+      "meaning": "tạm thời về nhà"
     },
     {
       "word": "和僑",

@@ -107,14 +107,29 @@
   ],
   "vocabulary": [
     {
+      "word": "超過",
+      "reading": "ちょうか",
+      "meaning": "sự vượt quá"
+    },
+    {
       "word": "超",
       "reading": "ちょう",
       "meaning": "siêu"
     },
     {
-      "word": "超硬",
+      "word": "超高",
       "reading": "ちょうこう",
-      "meaning": "siêu cứng"
+      "meaning": "quá cao"
+    },
+    {
+      "word": "超得",
+      "reading": "ちょうとく",
+      "meaning": "cực lời"
+    },
+    {
+      "word": "超音",
+      "reading": "ちょうおん",
+      "meaning": "siêu âm"
     },
     {
       "word": "超訳",
@@ -122,39 +137,24 @@
       "meaning": "làm cho dễ hiểu"
     },
     {
-      "word": "超然",
-      "reading": "ちょうぜん",
-      "meaning": "siêu nhiên"
+      "word": "超能力",
+      "reading": "ちょうのうりょく",
+      "meaning": "anh ngữ chuyên ngành"
+    },
+    {
+      "word": "超展開",
+      "reading": "ちょうてんかい",
+      "meaning": "thay đổi cốt truyện đột ngột"
+    },
+    {
+      "word": "超自然",
+      "reading": "ちょうしぜん",
+      "meaning": "sự siêu tự nhiên"
     },
     {
       "word": "超低",
       "reading": "ちょうてい",
       "meaning": "siêu thấp"
-    },
-    {
-      "word": "超ミニ",
-      "reading": "ちょうミニ",
-      "meaning": "rất ngắn"
-    },
-    {
-      "word": "超限",
-      "reading": "ちょうげん",
-      "meaning": "vô hạn"
-    },
-    {
-      "word": "超常",
-      "reading": "ちょうじょう",
-      "meaning": "huyền bí"
-    },
-    {
-      "word": "超す",
-      "reading": "こす",
-      "meaning": "làm cho vượt quá"
-    },
-    {
-      "word": "入超",
-      "reading": "にゅうちょう",
-      "meaning": "sự nhập siêu"
     }
   ]
 }

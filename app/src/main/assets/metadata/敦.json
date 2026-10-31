@@ -88,9 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "敦樸",
-      "reading": "とんぼく",
-      "meaning": "đơn giản"
+      "word": "敦厚",
+      "reading": "とんこう",
+      "meaning": "sự đôn hậu"
     },
     {
       "word": "敦朴",
@@ -98,19 +98,19 @@
       "meaning": "đơn giản"
     },
     {
-      "word": "倫敦",
-      "reading": "ロンドン",
-      "meaning": "london"
-    },
-    {
-      "word": "敦厚",
-      "reading": "とんこう",
-      "meaning": "sự đôn hậu"
-    },
-    {
       "word": "敦睦",
       "reading": "とんぼく",
       "meaning": "thân thiện và chân thành"
+    },
+    {
+      "word": "敦盛草",
+      "reading": "あつもりそう",
+      "meaning": "hoa lan giày nữ lớn"
+    },
+    {
+      "word": "倫敦",
+      "reading": "ロンドン",
+      "meaning": "london"
     },
     {
       "word": "敦煌",
@@ -118,9 +118,9 @@
       "meaning": "tính bình dị"
     },
     {
-      "word": "敦盛草",
-      "reading": "あつもりそう",
-      "meaning": "hoa lan giày nữ lớn"
+      "word": "敦樸",
+      "reading": "とんぼく",
+      "meaning": "đơn giản"
     }
   ]
 }

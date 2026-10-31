@@ -84,14 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "秩禄",
-      "reading": "ちつろく",
-      "meaning": "bổng lộc theo phẩm trật"
-    },
-    {
       "word": "秩序",
       "reading": "ちつじょ",
       "meaning": "trật tự"
+    },
+    {
+      "word": "秩序度",
+      "reading": "ちつじょど",
+      "meaning": "thông số trật tự"
     },
     {
       "word": "法秩序",
@@ -104,14 +104,9 @@
       "meaning": "sự vô trật tự"
     },
     {
-      "word": "秩序度",
-      "reading": "ちつじょど",
-      "meaning": "thông số trật tự"
-    },
-    {
-      "word": "秩序整然",
-      "reading": "ちつじょせいぜん",
-      "meaning": "việc đảm bảo mọi thứ theo đúng thứ tự"
+      "word": "秩禄",
+      "reading": "ちつろく",
+      "meaning": "bổng lộc theo phẩm trật"
     },
     {
       "word": "世界秩序",
@@ -119,19 +114,24 @@
       "meaning": "trật tự thế giới"
     },
     {
+      "word": "社会秩序",
+      "reading": "しゃかいちつじょ",
+      "meaning": "trật tự xã hội"
+    },
+    {
+      "word": "社会秩序部",
+      "reading": "しゃかいちつじょぶ",
+      "meaning": "bộ an ninh xã hội"
+    },
+    {
       "word": "国際秩序",
       "reading": "こくさいちつじょ",
       "meaning": "trật tự quốc tế"
     },
     {
-      "word": "安寧秩序",
-      "reading": "あんねいちつじょ",
-      "meaning": "trật tự xã hội"
-    },
-    {
-      "word": "秩父蝙蝠",
-      "reading": "ちちぶこうもり",
-      "meaning": "barbastella leucomelas"
+      "word": "秩序正しい",
+      "reading": "ちつじょただしい",
+      "meaning": "ngăn nắp"
     }
   ]
 }

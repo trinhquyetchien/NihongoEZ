@@ -92,19 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "悩殺",
-      "reading": "のうさつ",
-      "meaning": "sức mê hoặc"
-    },
-    {
-      "word": "懊悩",
-      "reading": "おうのう",
-      "meaning": "lo lắng"
-    },
-    {
-      "word": "悩乱",
-      "reading": "のうらん",
-      "meaning": "sự lo lắng"
+      "word": "悩む",
+      "reading": "なやむ",
+      "meaning": "khổ đau"
     },
     {
       "word": "悩み",
@@ -112,14 +102,19 @@
       "meaning": "bệnh tật"
     },
     {
-      "word": "煩悩",
-      "reading": "ぼんのう",
-      "meaning": "sự thèm muốn một cách trần tục"
+      "word": "悩ます",
+      "reading": "なやます",
+      "meaning": "bạc đãi"
     },
     {
-      "word": "悩む",
-      "reading": "なやむ",
-      "meaning": "khổ đau"
+      "word": "悩ましい",
+      "reading": "なやましい",
+      "meaning": "suy nghĩ"
+    },
+    {
+      "word": "悩み事",
+      "reading": "なやみごと",
+      "meaning": "việc lo âu"
     },
     {
       "word": "苦悩",
@@ -127,19 +122,24 @@
       "meaning": "sự khổ não"
     },
     {
+      "word": "煩悩",
+      "reading": "ぼんのう",
+      "meaning": "sự thèm muốn một cách trần tục"
+    },
+    {
+      "word": "煩悩魔",
+      "reading": "ぼんのうま",
+      "meaning": "con quỷ của những ham muốn xấu xa làm tổn thương cơ thể và tâm trí của một người"
+    },
+    {
+      "word": "悩殺",
+      "reading": "のうさつ",
+      "meaning": "sức mê hoặc"
+    },
+    {
       "word": "煩悩鷺",
       "reading": "ぼんのうさぎ",
       "meaning": "yellow bittern"
-    },
-    {
-      "word": "子煩悩",
-      "reading": "こぼんのう",
-      "meaning": "một cụm từ có nghĩa cha mẹ có vẻ rất cưng chiều con mình"
-    },
-    {
-      "word": "悩ます",
-      "reading": "なやます",
-      "meaning": "bạc đãi"
     }
   ]
 }

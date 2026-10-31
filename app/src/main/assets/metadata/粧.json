@@ -83,29 +83,44 @@
   ],
   "vocabulary": [
     {
-      "word": "粧す",
-      "reading": "めかす",
-      "meaning": "trang điểm"
-    },
-    {
-      "word": "仮粧",
-      "reading": "けしょう",
-      "meaning": "yêu tinh"
-    },
-    {
       "word": "化粧",
       "reading": "けしょう",
       "meaning": "hóa trang"
     },
     {
-      "word": "盛粧",
-      "reading": "せいそう",
-      "meaning": "ăn mặc đẹp đẽ sang trọng"
+      "word": "化粧代",
+      "reading": "けしょうだい",
+      "meaning": "chi phí cho mỹ phẩm"
     },
     {
-      "word": "美粧",
-      "reading": "びしょう",
-      "meaning": "sự trang điểm"
+      "word": "化粧水",
+      "reading": "けしょうすい",
+      "meaning": "nước hoa hồng"
+    },
+    {
+      "word": "化粧室",
+      "reading": "けしょうしつ",
+      "meaning": "phòng trang điểm"
+    },
+    {
+      "word": "戦化粧",
+      "reading": "いくさげしょう",
+      "meaning": "trang điểm"
+    },
+    {
+      "word": "化粧着",
+      "reading": "けしょうぎ",
+      "meaning": "mặc quần áo áo dài"
+    },
+    {
+      "word": "寝化粧",
+      "reading": "ねげしょう",
+      "meaning": "việc trang điểm nhẹ trước khi đi ngủ"
+    },
+    {
+      "word": "化粧台",
+      "reading": "けしょうだい",
+      "meaning": "bàn phấn"
     },
     {
       "word": "化粧品",
@@ -113,24 +128,9 @@
       "meaning": "hóa trang phẩm"
     },
     {
-      "word": "化粧鏡",
-      "reading": "けしょうかがみ",
-      "meaning": "gương trang điểm"
-    },
-    {
-      "word": "厚化粧",
-      "reading": "あつげしょう",
-      "meaning": "trang điểm bằng lớp phấn dày và loè loẹt"
-    },
-    {
-      "word": "雪化粧",
-      "reading": "ゆきげしょう",
-      "meaning": "sự bị che phủ trong màn tuyết tuyết trắng"
-    },
-    {
-      "word": "化粧着",
-      "reading": "けしょうぎ",
-      "meaning": "mặc quần áo áo dài"
+      "word": "化粧箱",
+      "reading": "けしょうばこ",
+      "meaning": "hộp đựng mỹ phẩm"
     }
   ]
 }

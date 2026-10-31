@@ -93,44 +93,44 @@
   ],
   "vocabulary": [
     {
-      "word": "創",
-      "reading": "きず",
-      "meaning": "bắt đầu"
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "chế tạo"
     },
     {
-      "word": "創生",
-      "reading": "そうせい",
-      "meaning": "khai sinh"
+      "word": "創造",
+      "reading": "そうぞう",
+      "meaning": "sự sáng tạo"
     },
     {
-      "word": "射創",
-      "reading": "しゃそう",
-      "meaning": "vết thương do đạn bắn"
+      "word": "創立",
+      "reading": "そうりつ",
+      "meaning": "sự thành lập"
     },
     {
-      "word": "銃創",
-      "reading": "じゅうそう",
-      "meaning": "phát súng làm bị thương"
+      "word": "創刊",
+      "reading": "そうかん",
+      "meaning": "sự xuất bản"
     },
     {
-      "word": "開創",
-      "reading": "かいそう",
-      "meaning": "việc mở"
+      "word": "独創",
+      "reading": "どくそう",
+      "meaning": "sự tự sáng tác"
     },
     {
-      "word": "創面",
-      "reading": "そうめん",
-      "meaning": "trang trí mặt ngoài một vết thương"
+      "word": "創作者",
+      "reading": "そうさくしゃ",
+      "meaning": "nhà văn"
     },
     {
-      "word": "創案",
-      "reading": "そうあん",
-      "meaning": "ý tưởng nguyên bản"
+      "word": "創作的",
+      "reading": "そうさくてき",
+      "meaning": "sáng tạo"
     },
     {
-      "word": "創見",
-      "reading": "そうけん",
-      "meaning": "sáng kiến"
+      "word": "創作権",
+      "reading": "そうさくけん",
+      "meaning": "ngay nghề viết văn"
     },
     {
       "word": "創業",
@@ -138,9 +138,9 @@
       "meaning": "sự thành lập"
     },
     {
-      "word": "創始",
-      "reading": "そうし",
-      "meaning": "sự sáng lập"
+      "word": "創造論",
+      "reading": "そうぞうろん",
+      "meaning": "thuyết sáng tạo"
     }
   ]
 }

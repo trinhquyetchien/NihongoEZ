@@ -87,34 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "衡量",
-      "reading": "こうりょう",
-      "meaning": "cân"
-    },
-    {
       "word": "均衡",
       "reading": "きんこう",
       "meaning": "cán cân"
     },
     {
-      "word": "連衡",
-      "reading": "れんこう",
-      "meaning": "liên minh lao động của nhật bản"
+      "word": "不均衡",
+      "reading": "ふきんこう",
+      "meaning": "sự không cân bằng"
     },
     {
-      "word": "斉衡",
-      "reading": "さいこう",
-      "meaning": "thời saikou"
+      "word": "平衡",
+      "reading": "へいこう",
+      "meaning": "sự bình hành"
     },
     {
-      "word": "トロイ衡",
-      "reading": "トロイこう",
-      "meaning": "trọng lượng troy"
+      "word": "非平衡",
+      "reading": "ひへーこー",
+      "meaning": "không cân bằng"
     },
     {
-      "word": "銓衡",
-      "reading": "せんこう",
-      "meaning": "suy nghĩ kỹ năng lực và tính cách để lựa chọn người phù hợp"
+      "word": "熱平衡",
+      "reading": "ねつへいこう",
+      "meaning": "sự cân bằng nhiệt"
     },
     {
       "word": "金衡",
@@ -122,19 +117,24 @@
       "meaning": "cân bằng troy"
     },
     {
-      "word": "権衡",
-      "reading": "けんこう",
-      "meaning": "sự cân bằng"
+      "word": "常衡",
+      "reading": "じょうこう",
+      "meaning": "hệ avoirdupois"
     },
     {
-      "word": "衡平",
-      "reading": "こうへい",
-      "meaning": "cân bằng"
+      "word": "斉衡",
+      "reading": "さいこう",
+      "meaning": "thời saikou"
     },
     {
-      "word": "衡器",
-      "reading": "こうき",
-      "meaning": "cái cân"
+      "word": "平衡錘",
+      "reading": "へいこうすい",
+      "meaning": "đối trọng"
+    },
+    {
+      "word": "衡量",
+      "reading": "こうりょう",
+      "meaning": "cân"
     }
   ]
 }

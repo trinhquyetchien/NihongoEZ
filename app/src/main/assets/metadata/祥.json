@@ -90,39 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "禎祥",
-      "reading": "ていしょう",
-      "meaning": "dấu hiệu tốt"
+      "word": "発祥",
+      "reading": "はっしょう",
+      "meaning": "bắt nguồn"
     },
     {
-      "word": "嘉祥",
-      "reading": "かしょう",
-      "meaning": "kashou era"
+      "word": "発祥地",
+      "reading": "はっしょうち",
+      "meaning": "nơi phát sinh"
     },
     {
-      "word": "多祥",
-      "reading": "たしょう",
-      "meaning": "nhiều hạnh phúc"
+      "word": "吉祥寺",
+      "reading": "きちじょうじ",
+      "meaning": "tên một địa điểm ở nhật"
     },
     {
-      "word": "清祥",
-      "reading": "せいしょう",
-      "meaning": "tinh thần"
-    },
-    {
-      "word": "不祥",
-      "reading": "ふしょう",
-      "meaning": "nhục nhã"
-    },
-    {
-      "word": "休祥",
-      "reading": "きゅうしょう",
-      "meaning": "điềm tốt"
-    },
-    {
-      "word": "吉祥",
-      "reading": "きっしょう",
-      "meaning": "sự cát tường"
+      "word": "不祥事",
+      "reading": "ふしょうじ",
+      "meaning": "việc không tốt đẹp"
     },
     {
       "word": "健祥",
@@ -130,14 +115,29 @@
       "meaning": "sức sống"
     },
     {
-      "word": "瑞祥",
-      "reading": "ずいしょう",
-      "meaning": "điềm lành ký tên"
+      "word": "祥雲",
+      "reading": "しょううん",
+      "meaning": "tường vân"
     },
     {
-      "word": "祥月",
-      "reading": "しょうつき",
-      "meaning": "tháng một người chết vào đúng tháng đó"
+      "word": "休祥",
+      "reading": "きゅうしょう",
+      "meaning": "điềm tốt"
+    },
+    {
+      "word": "嘉祥",
+      "reading": "かしょう",
+      "meaning": "kashou era"
+    },
+    {
+      "word": "禎祥",
+      "reading": "ていしょう",
+      "meaning": "dấu hiệu tốt"
+    },
+    {
+      "word": "吉祥",
+      "reading": "きっしょう",
+      "meaning": "sự cát tường"
     }
   ]
 }

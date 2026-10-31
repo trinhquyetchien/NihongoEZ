@@ -92,13 +92,8 @@
       "meaning": "ân"
     },
     {
-      "word": "恩賞",
-      "reading": "おんしょう",
-      "meaning": "giải thưởng"
-    },
-    {
-      "word": "恩徳",
-      "reading": "おんとく",
+      "word": "恩恵",
+      "reading": "おんけい",
       "meaning": "ân huệ"
     },
     {
@@ -107,34 +102,39 @@
       "meaning": "ơn huệ"
     },
     {
-      "word": "恩寵",
-      "reading": "おんちょう",
-      "meaning": "ân sủng"
+      "word": "大恩",
+      "reading": "だいおん",
+      "meaning": "đại ân"
     },
     {
-      "word": "恩借",
-      "reading": "おんしゃく",
-      "meaning": "cho vay mượn"
+      "word": "国恩",
+      "reading": "こくおん",
+      "meaning": "quốc ân"
     },
     {
-      "word": "恩沢",
-      "reading": "おんたく",
-      "meaning": "ưu đãi"
+      "word": "高恩",
+      "reading": "こうおん",
+      "meaning": "ơn nghĩa sâu nặng"
     },
     {
-      "word": "恩命",
-      "reading": "おんめい",
-      "meaning": "mệnh lệnh được ban xuống với lòng ân huệ"
+      "word": "神恩",
+      "reading": "しんおん",
+      "meaning": "ân huệ của thần"
     },
     {
-      "word": "恩愛",
-      "reading": "おんあい",
-      "meaning": "sự tử tế và sự yêu mến"
+      "word": "恩送り",
+      "reading": "おんおくり",
+      "meaning": "việc đền đáp ân huệ nhận được từ ai đó gián tiếp cho một người khác"
     },
     {
-      "word": "旧恩",
-      "reading": "きゅうおん",
-      "meaning": "ơn xưa"
+      "word": "恩幸",
+      "reading": "おんこう",
+      "meaning": "ân huệ"
+    },
+    {
+      "word": "少恩",
+      "reading": "しょうおん",
+      "meaning": "ân huệ nhỏ"
     }
   ]
 }

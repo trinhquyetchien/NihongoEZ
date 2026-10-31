@@ -125,24 +125,19 @@
   ],
   "vocabulary": [
     {
-      "word": "効",
-      "reading": "こう",
-      "meaning": "hiệu lực"
-    },
-    {
-      "word": "効き",
-      "reading": "きき",
-      "meaning": "hiệu lực những thuốc)"
-    },
-    {
-      "word": "効率",
-      "reading": "こうりつ",
-      "meaning": "hiệu suất"
-    },
-    {
       "word": "効果",
       "reading": "こうか",
       "meaning": "có hiệu quả"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaning": "hữu hiệu"
+    },
+    {
+      "word": "効く",
+      "reading": "きく",
+      "meaning": "có tác dụng"
     },
     {
       "word": "効力",
@@ -150,29 +145,34 @@
       "meaning": "hiệu lực"
     },
     {
-      "word": "効能",
-      "reading": "こうのう",
-      "meaning": "hiệu quả"
+      "word": "効率",
+      "reading": "こうりつ",
+      "meaning": "hiệu suất"
     },
     {
-      "word": "即効",
-      "reading": "そっこう",
-      "meaning": "hiệu ứng tức thời"
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "sự vô hiệu"
     },
     {
-      "word": "卓効",
-      "reading": "たっこう",
-      "meaning": "hiệu quả lớn"
+      "word": "効果的",
+      "reading": "こうかてき",
+      "meaning": "có hiệu quả"
     },
     {
-      "word": "発効",
-      "reading": "はっこう",
-      "meaning": "sự có hiệu lực"
+      "word": "効率的",
+      "reading": "こうりつてき",
+      "meaning": "mang tính hiệu suất"
     },
     {
-      "word": "失効",
-      "reading": "しっこう",
-      "meaning": "sự mất hiệu lực"
+      "word": "非効率",
+      "reading": "ひこうりつ",
+      "meaning": "không hiệu quả"
+    },
+    {
+      "word": "無効化",
+      "reading": "むこうか",
+      "meaning": "vô hiệu hóa"
     }
   ]
 }

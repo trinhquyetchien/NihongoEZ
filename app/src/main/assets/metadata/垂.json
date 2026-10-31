@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "垂範",
-      "reading": "すいはん",
-      "meaning": "đặt một ví dụ"
-    },
-    {
-      "word": "懸垂",
-      "reading": "けんすい",
-      "meaning": "sự buông người xuống rồi nâng người lên trong tập xà đơn"
-    },
-    {
-      "word": "垂水",
-      "reading": "たるみ",
-      "meaning": "thác nước"
-    },
-    {
-      "word": "虫垂",
-      "reading": "ちゅうすい",
-      "meaning": "ruột thừa"
-    },
-    {
-      "word": "垂準",
-      "reading": "すいじゅん",
-      "meaning": "dây dọi"
-    },
-    {
-      "word": "垂木",
-      "reading": "たるき",
-      "meaning": "rui"
-    },
-    {
-      "word": "下垂",
-      "reading": "かすい",
-      "meaning": "rơi xuống"
-    },
-    {
-      "word": "垂涎",
-      "reading": "すいぜん",
-      "meaning": "sự thèm chảy dãi"
-    },
-    {
-      "word": "垂示",
-      "reading": "すいし",
-      "meaning": "sự dạy"
+      "word": "垂直",
+      "reading": "すいちょく",
+      "meaning": "sự thẳng đứng"
     },
     {
       "word": "垂れ",
       "reading": "たれ",
       "meaning": "treo"
+    },
+    {
+      "word": "垂れ目",
+      "reading": "たれめ",
+      "meaning": "khoé mắt rũ xuống"
+    },
+    {
+      "word": "肉垂れ",
+      "reading": "にくだれ",
+      "meaning": "bộ phận da thừa ở cổ và má của chim"
+    },
+    {
+      "word": "垂れ壁",
+      "reading": "たれかべ",
+      "meaning": "vách ngăn hoặc tường ngăn gắn trần"
+    },
+    {
+      "word": "垂れ耳",
+      "reading": "たれみみ",
+      "meaning": "có tai thõng xuống"
+    },
+    {
+      "word": "病垂れ",
+      "reading": "やまいだれ",
+      "meaning": "căn bản bệnh"
+    },
+    {
+      "word": "糞垂れ",
+      "reading": "くそたれ",
+      "meaning": "đồ thối tha!"
+    },
+    {
+      "word": "戸垂れ",
+      "reading": "とだれ",
+      "meaning": "bộ thủ môn trong kanji"
+    },
+    {
+      "word": "垂髪",
+      "reading": "すべらかし",
+      "meaning": "dài chảy tóc"
     }
   ]
 }

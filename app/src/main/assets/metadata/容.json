@@ -89,9 +89,34 @@
   ],
   "vocabulary": [
     {
-      "word": "形容",
-      "reading": "けいよう",
-      "meaning": "hình dáng"
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "nội dung"
+    },
+    {
+      "word": "容易",
+      "reading": "ようい",
+      "meaning": "đơn giản"
+    },
+    {
+      "word": "美容",
+      "reading": "びよう",
+      "meaning": "vẻ đẹp"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "đồ đựng"
+    },
+    {
+      "word": "形容詞",
+      "reading": "けいようし",
+      "meaning": "tính từ"
+    },
+    {
+      "word": "容積",
+      "reading": "ようせき",
+      "meaning": "dung tích"
     },
     {
       "word": "収容",
@@ -104,39 +129,14 @@
       "meaning": "sự cho phép"
     },
     {
-      "word": "音容",
-      "reading": "おんよう",
-      "meaning": "mặt"
+      "word": "寛容",
+      "reading": "かんよう",
+      "meaning": "bao dong"
     },
     {
-      "word": "温容",
-      "reading": "おんよう",
-      "meaning": "mặt"
-    },
-    {
-      "word": "軍容",
-      "reading": "ぐんよう",
-      "meaning": "quân đội accouterments"
-    },
-    {
-      "word": "厳容",
-      "reading": "げんよう",
-      "meaning": "biểu thức nghiêm khắc"
-    },
-    {
-      "word": "容体",
-      "reading": "ようだい",
-      "meaning": "tình trạng cơ thể"
-    },
-    {
-      "word": "尊容",
-      "reading": "そんよう",
-      "meaning": "sắc diện bạn"
-    },
-    {
-      "word": "陣容",
-      "reading": "じんよう",
-      "meaning": "hàng ngũ chiến đấu"
+      "word": "内容語",
+      "reading": "ないようご",
+      "meaning": "thực từ"
     }
   ]
 }

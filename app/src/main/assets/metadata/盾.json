@@ -86,29 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "盾",
-      "reading": "たて",
-      "meaning": "cái khiên"
-    },
-    {
-      "word": "盾座",
-      "reading": "たてざ",
-      "meaning": "scutum"
-    },
-    {
       "word": "矛盾",
       "reading": "むじゅん",
       "meaning": "sự mâu thuẫn"
     },
     {
-      "word": "相矛盾",
-      "reading": "あいむじゅん",
-      "meaning": "mâu thuẫn"
-    },
-    {
-      "word": "矛盾データ",
-      "reading": "むじゅんデータ",
-      "meaning": "dữ liệu không nhất quán"
+      "word": "盾",
+      "reading": "たて",
+      "meaning": "cái khiên"
     },
     {
       "word": "後ろ盾",
@@ -116,9 +101,14 @@
       "meaning": "người ủng hộ"
     },
     {
-      "word": "盾突く",
-      "reading": "たてつく",
-      "meaning": "chống đối"
+      "word": "盾座",
+      "reading": "たてざ",
+      "meaning": "scutum"
+    },
+    {
+      "word": "相矛盾",
+      "reading": "あいむじゅん",
+      "meaning": "mâu thuẫn"
     },
     {
       "word": "矛盾律",
@@ -126,14 +116,24 @@
       "meaning": "luật mâu thuẫn"
     },
     {
-      "word": "矛盾撞着",
-      "reading": "むじゅんどうちゃく",
-      "meaning": "sự tự mâu thuẫn"
+      "word": "盾突く",
+      "reading": "たてつく",
+      "meaning": "chống đối"
     },
     {
-      "word": "形容矛盾",
-      "reading": "けいようむじゅん",
-      "meaning": "về mặt logic"
+      "word": "人間の盾",
+      "reading": "にんげんのたて",
+      "meaning": "human shield"
+    },
+    {
+      "word": "矛盾する",
+      "reading": "むじゅんする",
+      "meaning": "mâu thuẫn"
+    },
+    {
+      "word": "無矛盾性",
+      "reading": "むむじゅんせい",
+      "meaning": "tính nhất quán"
     }
   ]
 }

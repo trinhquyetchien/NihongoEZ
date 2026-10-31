@@ -85,29 +85,39 @@
   ],
   "vocabulary": [
     {
+      "word": "累計",
+      "reading": "るいけい",
+      "meaning": "lũy kế"
+    },
+    {
+      "word": "累積",
+      "reading": "るいせき",
+      "meaning": "lũy tích"
+    },
+    {
+      "word": "累積的",
+      "reading": "るいせきてき",
+      "meaning": "mang tính tích luỹ"
+    },
+    {
+      "word": "累積率",
+      "reading": "るいせきりつ",
+      "meaning": "tỉ lệ tích lũy"
+    },
+    {
+      "word": "累積和",
+      "reading": "るいせきわ",
+      "meaning": "tổng lũy tích"
+    },
+    {
       "word": "累",
       "reading": "るい",
       "meaning": "lo lắng"
     },
     {
-      "word": "累累",
-      "reading": "るいるい",
-      "meaning": "trong những đống"
-    },
-    {
-      "word": "累累たる",
-      "reading": "るいるいたる",
-      "meaning": "trong những đống"
-    },
-    {
-      "word": "累卵",
-      "reading": "るいらん",
-      "meaning": "chỉ trạng thái gặp nguy hiểm"
-    },
-    {
-      "word": "係累",
-      "reading": "けいるい",
-      "meaning": "sự ràng buộc"
+      "word": "累世",
+      "reading": "るいせい",
+      "meaning": "liên tiếp phát sinh"
     },
     {
       "word": "累損",
@@ -123,16 +133,6 @@
       "word": "俗累",
       "reading": "ぞくるい",
       "meaning": "tính chất trần tục"
-    },
-    {
-      "word": "繋累",
-      "reading": "けいるい",
-      "meaning": "dependents"
-    },
-    {
-      "word": "累年",
-      "reading": "るいねん",
-      "meaning": "năm liên tiếp"
     }
   ]
 }

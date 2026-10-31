@@ -87,19 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "系統",
+      "reading": "けいとう",
+      "meaning": "hệ thống"
+    },
+    {
+      "word": "体系",
+      "reading": "たいけい",
+      "meaning": "hệ thống"
+    },
+    {
       "word": "系",
       "reading": "けい",
       "meaning": "hệ quả"
-    },
-    {
-      "word": "せんいそよーかいけー|せん溶系",
-      "reading": "線維素溶解系|線溶系",
-      "meaning": "hệ thống tiêu sợi huyết"
-    },
-    {
-      "word": "系統連系",
-      "reading": "けいとうれんけい",
-      "meaning": "kết nối lưới điện"
     },
     {
       "word": "＠系",
@@ -107,24 +107,14 @@
       "meaning": "dạng @"
     },
     {
-      "word": "家系",
-      "reading": "かけい",
-      "meaning": "dòng"
+      "word": "Ａ系",
+      "reading": "エーけい",
+      "meaning": "hệ a"
     },
     {
-      "word": "系図",
-      "reading": "けいず",
-      "meaning": "dòng dõi"
-    },
-    {
-      "word": "区系",
-      "reading": "くけい",
-      "meaning": "ecozone"
-    },
-    {
-      "word": "ベータラクタム系",
-      "reading": "ベータラクタムけい",
-      "meaning": "nhóm β-lactam"
+      "word": "国系",
+      "reading": "こっけい",
+      "meaning": "thuộc quốc gia nào đó"
     },
     {
       "word": "Ｂ系",
@@ -132,9 +122,19 @@
       "meaning": "phong cách thời trang và văn hóa chịu ảnh hưởng từ hip-hop"
     },
     {
-      "word": "Ａ系",
-      "reading": "エーけい",
-      "meaning": "hệ a"
+      "word": "区系",
+      "reading": "くけい",
+      "meaning": "ecozone"
+    },
+    {
+      "word": "Ｖ系",
+      "reading": "ブイけい",
+      "meaning": "kí hiệu được sử dụng làm chữ viết tắt của \"v-system\""
+    },
+    {
+      "word": "星系",
+      "reading": "せいけい",
+      "meaning": "dải thiên hà"
     }
   ]
 }

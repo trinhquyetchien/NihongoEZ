@@ -110,44 +110,39 @@
   ],
   "vocabulary": [
     {
+      "word": "消化",
+      "reading": "しょうか",
+      "meaning": "sự tiêu hóa"
+    },
+    {
+      "word": "悪化",
+      "reading": "あっか",
+      "meaning": "sự trở nên xấu đi"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxy hóa"
+    },
+    {
+      "word": "化合",
+      "reading": "かごう",
+      "meaning": "liên kết hóa học"
+    },
+    {
       "word": "化",
       "reading": "か",
       "meaning": "hành động làm một cái gì đó"
     },
     {
-      "word": "化学変化",
-      "reading": "かがくへんか",
-      "meaning": "sự biến đổi hóa học"
+      "word": "化内",
+      "reading": "けない",
+      "meaning": "khu vực trong phạm vi cai quản"
     },
     {
-      "word": "化学進化",
-      "reading": "かがくしんか",
-      "meaning": "sự tiến hóa hóa học"
-    },
-    {
-      "word": "化学化石",
-      "reading": "かがくかせき",
-      "meaning": "hóa thạch hóa học"
-    },
-    {
-      "word": "化学的消化",
-      "reading": "かがくてきしょうか",
-      "meaning": "sự tiêu hóa hóa học"
-    },
-    {
-      "word": "文化的進化",
-      "reading": "ぶんかてきしんか",
-      "meaning": "tiến hóa văn minh"
-    },
-    {
-      "word": "酸化的同化",
-      "reading": "さんかてきどうか",
-      "meaning": "đồng hóa oxy hóa"
-    },
-    {
-      "word": "化骨",
-      "reading": "かこつ",
-      "meaning": "sự hoá xương"
+      "word": "物化",
+      "reading": "ぶっか",
+      "meaning": "sự thay đổi"
     },
     {
       "word": "化外",
@@ -155,9 +150,14 @@
       "meaning": "vùng đất nằm ngoài phạm vi cai trị"
     },
     {
-      "word": "化内",
-      "reading": "けない",
-      "meaning": "khu vực trong phạm vi cai quản"
+      "word": "光化",
+      "reading": "ひかりか",
+      "meaning": "quang hóa"
+    },
+    {
+      "word": "層化",
+      "reading": "そうか",
+      "meaning": "sự phân lớp"
     }
   ]
 }

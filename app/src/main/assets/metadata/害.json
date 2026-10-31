@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "害",
-      "reading": "がい",
-      "meaning": "hại"
-    },
-    {
-      "word": "公害",
-      "reading": "こうがい",
-      "meaning": "ô nhiễm do công nghiệp"
-    },
-    {
-      "word": "傷害",
-      "reading": "しょうがい",
-      "meaning": "thương hại"
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "thiệt hại"
     },
     {
       "word": "障害",
@@ -107,34 +97,44 @@
       "meaning": "trở ngại"
     },
     {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "phương hại"
+    },
+    {
+      "word": "害",
+      "reading": "がい",
+      "meaning": "hại"
+    },
+    {
+      "word": "利害",
+      "reading": "りがい",
+      "meaning": "lợi hại"
+    },
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "ô nhiễm do công nghiệp"
+    },
+    {
       "word": "災害",
       "reading": "さいがい",
       "meaning": "tai nạn"
     },
     {
+      "word": "妨害",
+      "reading": "ぼうがい",
+      "meaning": "sự phương hại"
+    },
+    {
+      "word": "迫害",
+      "reading": "はくがい",
+      "meaning": "sự đàn áp"
+    },
+    {
       "word": "殺害",
       "reading": "さつがい",
       "meaning": "sát hại"
-    },
-    {
-      "word": "害す",
-      "reading": "がいす",
-      "meaning": "làm tổn thương"
-    },
-    {
-      "word": "自害",
-      "reading": "じがい",
-      "meaning": "sự tự tử"
-    },
-    {
-      "word": "沮害",
-      "reading": "そがい",
-      "meaning": "sự kiểm tra"
-    },
-    {
-      "word": "害者",
-      "reading": "がいしゃ",
-      "meaning": "nạn nhân"
     }
   ]
 }

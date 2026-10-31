@@ -81,9 +81,9 @@
       "meaning": "tròn"
     },
     {
-      "word": "円盤(円の面)",
-      "reading": "えんばん(えんのめん)",
-      "meaning": "đĩa"
+      "word": "楕円",
+      "reading": "だえん",
+      "meaning": "hình bầu dục"
     },
     {
       "word": "円満",
@@ -91,14 +91,24 @@
       "meaning": "sự viên mãn"
     },
     {
+      "word": "円ら",
+      "reading": "つぶら",
+      "meaning": "vòng tròn"
+    },
+    {
+      "word": "円内",
+      "reading": "えんない",
+      "meaning": "bên trong vòng tròn"
+    },
+    {
+      "word": "円顔",
+      "reading": "まるがお",
+      "meaning": "khuôn mặt tròn"
+    },
+    {
       "word": "千円",
       "reading": "せんえん",
       "meaning": "1000 đồng yên"
-    },
-    {
-      "word": "円塚",
-      "reading": "まるづか",
-      "meaning": "gò mộ tròn"
     },
     {
       "word": "小円",
@@ -106,24 +116,14 @@
       "meaning": "vòng tròn nhỏ"
     },
     {
-      "word": "円背",
-      "reading": "えんぱい",
-      "meaning": "còng lưng"
+      "word": "黒円",
+      "reading": "くろまる",
+      "meaning": "đốm màu đen"
     },
     {
-      "word": "円か",
-      "reading": "まどか",
-      "meaning": "tròn"
-    },
-    {
-      "word": "円盆",
-      "reading": "まるぼん",
-      "meaning": "khay tròn"
-    },
-    {
-      "word": "円転",
-      "reading": "えんてん",
-      "meaning": "cầu"
+      "word": "円味",
+      "reading": "まるみ",
+      "meaning": "sự tròn"
     }
   ]
 }

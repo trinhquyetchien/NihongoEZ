@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "kim khí"
+    },
+    {
+      "word": "付属",
+      "reading": "ふぞく",
+      "meaning": "có gắn"
+    },
+    {
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "phận"
+    },
+    {
+      "word": "属性",
+      "reading": "ぞくせい",
+      "meaning": "thuộc tính"
+    },
+    {
+      "word": "専属",
+      "reading": "せんぞく",
+      "meaning": "chuyên mục"
+    },
+    {
+      "word": "配属",
+      "reading": "はいぞく",
+      "meaning": "sự phân phối"
+    },
+    {
       "word": "属",
       "reading": "ぞく",
       "meaning": "chi"
     },
     {
-      "word": "マイコプラズマ属（ミコプラズマ属）",
-      "reading": "マイコプラズマぞく（ミコプラズマぞく）",
-      "meaning": "mycoplasma"
+      "word": "属名",
+      "reading": "ぞくめい",
+      "meaning": "tên giống"
     },
     {
-      "word": "メタノサルキナ属（メタノサルシナ属）",
-      "reading": "メタノサルキナぞく（メタノサルシナぞく）",
-      "meaning": "methanosarcina"
+      "word": "部属",
+      "reading": "ぶぞく",
+      "meaning": "gán cho những mục"
     },
     {
-      "word": "サルシナ属（サルチナ属）",
-      "reading": "サルシナぞく（サルチナぞく）",
-      "meaning": "sarcina"
-    },
-    {
-      "word": "マイコバクテリウム属（ミコバクテリウム属）",
-      "reading": "マイコバクテリウムぞく（ミコバクテリウムぞく）",
-      "meaning": "mycobacterium"
-    },
-    {
-      "word": "ブラディリゾビウム属（ブラジリゾビウム属）",
-      "reading": "ブラディリゾビウムぞく（ブラジリゾビウムぞく）",
-      "meaning": "bradyrhizobium"
-    },
-    {
-      "word": "マイクロコッカス属（ミクロコッカス属）",
-      "reading": "マイクロコッカスぞく（ミクロコッカスぞく）",
-      "meaning": "micrococcus"
-    },
-    {
-      "word": "サウエラ属（タウエラ属）",
-      "reading": "サウエラぞく（タウエラぞく）",
-      "meaning": "thauera"
-    },
-    {
-      "word": "スルフォロブス属（サルフォロバス属）",
-      "reading": "スルフォロブスぞく（サルフォロバスぞく）",
-      "meaning": "sulfolobus"
-    },
-    {
-      "word": "メタノブレウィバクテル属（メタノブレビバクター属）",
-      "reading": "メタノブレウィバクテルぞく（メタノブレビバクターぞく）",
-      "meaning": "methanobrevibacter"
+      "word": "属差",
+      "reading": "ぞくさ",
+      "meaning": "sự khác nhau chung"
     }
   ]
 }

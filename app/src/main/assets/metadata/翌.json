@@ -87,34 +87,19 @@
   ],
   "vocabulary": [
     {
+      "word": "翌日",
+      "reading": "よくじつ",
+      "meaning": "bữa hôm sau"
+    },
+    {
+      "word": "翌日物",
+      "reading": "よくじつもの",
+      "meaning": "giao dịch qua đêm"
+    },
+    {
       "word": "翌",
       "reading": "よく",
       "meaning": "hôm sau"
-    },
-    {
-      "word": "翌翌",
-      "reading": "よくよく",
-      "meaning": "cái sau khi tiếp theo"
-    },
-    {
-      "word": "翌翌年",
-      "reading": "よくよくねん",
-      "meaning": "năm tới nữa"
-    },
-    {
-      "word": "翌翌日",
-      "reading": "よくよくじつ",
-      "meaning": "hai hôm sau"
-    },
-    {
-      "word": "翌朝",
-      "reading": "よくあさ",
-      "meaning": "sáng hôm sau"
-    },
-    {
-      "word": "翌檜",
-      "reading": "あすなろ",
-      "meaning": "cây tuyết tùng hiba"
     },
     {
       "word": "翌春",
@@ -122,19 +107,34 @@
       "meaning": "mùa xuân kế tiếp"
     },
     {
-      "word": "翌晩",
-      "reading": "よくばん",
-      "meaning": "buổi tối ngày hôm sau"
+      "word": "翌年",
+      "reading": "よくねん",
+      "meaning": "năm sau"
     },
     {
-      "word": "翌々",
+      "word": "翌翌",
       "reading": "よくよく",
       "meaning": "cái sau khi tiếp theo"
     },
     {
-      "word": "翌年",
-      "reading": "よくねん",
-      "meaning": "năm sau"
+      "word": "翌朝",
+      "reading": "よくあさ",
+      "meaning": "sáng hôm sau"
+    },
+    {
+      "word": "翌月",
+      "reading": "よくげつ",
+      "meaning": "tháng kế tiếp"
+    },
+    {
+      "word": "翌檜",
+      "reading": "あすなろ",
+      "meaning": "cây tuyết tùng hiba"
+    },
+    {
+      "word": "翌週",
+      "reading": "よくしゅう",
+      "meaning": "tuần tới"
     }
   ]
 }

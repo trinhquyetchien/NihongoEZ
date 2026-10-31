@@ -93,9 +93,14 @@
   ],
   "vocabulary": [
     {
-      "word": "鈍",
-      "reading": "どん",
-      "meaning": "người ngu ngốc"
+      "word": "鈍い",
+      "reading": "にぶい",
+      "meaning": "chậm chạp"
+    },
+    {
+      "word": "鈍感",
+      "reading": "どんかん",
+      "meaning": "đần độn"
     },
     {
       "word": "鈍る",
@@ -103,19 +108,24 @@
       "meaning": "cùn đi"
     },
     {
-      "word": "鈍い",
-      "reading": "にぶい",
-      "meaning": "chậm chạp"
+      "word": "鈍感な",
+      "reading": "どんかんな",
+      "meaning": "đần độn"
     },
     {
-      "word": "鈍甲",
-      "reading": "どんこ",
-      "meaning": "cá bống ngủ tối"
+      "word": "鈍い男",
+      "reading": "にぶいおとこ",
+      "meaning": "anh chàng chậm hiểu"
     },
     {
-      "word": "鈍ら",
-      "reading": "なまくら",
-      "meaning": "lười biếng"
+      "word": "鈍い音",
+      "reading": "にぶいおと",
+      "meaning": "âm thanh nghe không rõ"
+    },
+    {
+      "word": "鈍",
+      "reading": "どん",
+      "meaning": "người ngu ngốc"
     },
     {
       "word": "鈍間",
@@ -123,24 +133,14 @@
       "meaning": "chậm chạp"
     },
     {
-      "word": "鈍行",
-      "reading": "どんこう",
-      "meaning": "bình thường huấn luyện"
+      "word": "鈍頭",
+      "reading": "どんとう",
+      "meaning": "đầu cùn"
     },
     {
-      "word": "鈍重",
-      "reading": "どんじゅう",
-      "meaning": "ngu đần"
-    },
-    {
-      "word": "鈍器",
-      "reading": "どんき",
-      "meaning": "vật không nhọn"
-    },
-    {
-      "word": "鈍角",
-      "reading": "どんかく",
-      "meaning": "góc tù"
+      "word": "鈍足",
+      "reading": "どんそく",
+      "meaning": "tiến triển chậm"
     }
   ]
 }

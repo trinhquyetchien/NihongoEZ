@@ -124,54 +124,54 @@
   ],
   "vocabulary": [
     {
-      "word": "免",
-      "reading": "めん",
-      "meaning": "sự giải tán"
+      "word": "免許",
+      "reading": "めんきょ",
+      "meaning": "sự cho phép"
     },
     {
-      "word": "減免",
-      "reading": "げんめん",
-      "meaning": "sự miễn giảm"
+      "word": "免税",
+      "reading": "めんぜい",
+      "meaning": "sự miễn thuế"
     },
     {
-      "word": "赦免",
-      "reading": "しゃめん",
-      "meaning": "sự tha thứ"
+      "word": "免除",
+      "reading": "めんじょ",
+      "meaning": "sự miễn"
     },
     {
-      "word": "仮免",
-      "reading": "かりめん",
-      "meaning": "giấy phép tạm thời"
+      "word": "無免許",
+      "reading": "むめんきょ",
+      "meaning": "không được phép"
     },
     {
-      "word": "免震",
-      "reading": "めんしん",
-      "meaning": "sự chống rung"
+      "word": "免許状",
+      "reading": "めんきょじょう",
+      "meaning": "giấy phép"
     },
     {
-      "word": "普免",
-      "reading": "ふめん",
-      "meaning": "giấy phép lái xe thông thường"
+      "word": "免許証",
+      "reading": "めんきょしょう",
+      "meaning": "giấy phép"
     },
     {
-      "word": "免停",
-      "reading": "めんてい",
-      "meaning": "đình chỉ giấy phép lái xe"
+      "word": "免疫",
+      "reading": "めんえき",
+      "meaning": "sự miễn dịch"
     },
     {
-      "word": "全免",
-      "reading": "ぜんめん",
-      "meaning": "hoàn thành sự miễn"
+      "word": "免疫性",
+      "reading": "めんえきせい",
+      "meaning": "miễn dịch"
     },
     {
-      "word": "任免",
-      "reading": "にんめん",
-      "meaning": "sự bổ nhiệm và miễn nhiệm"
+      "word": "免疫系",
+      "reading": "めんえきけい",
+      "meaning": "hệ thống miễn dịch"
     },
     {
-      "word": "免黜",
-      "reading": "めんちゅつ",
-      "meaning": "sự giải tán"
+      "word": "免疫体",
+      "reading": "めんえきたい",
+      "meaning": "thể kháng"
     }
   ]
 }

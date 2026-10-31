@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "透け透け",
-      "reading": "すけすけ",
-      "meaning": "nhìn xuyên qua"
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "sự trong suốt"
     },
     {
-      "word": "透き",
-      "reading": "すき",
-      "meaning": "thử hoặc cơ hội"
+      "word": "透明性",
+      "reading": "とうめいせい",
+      "meaning": "tính minh bạch"
     },
     {
-      "word": "透り",
-      "reading": "とおり",
-      "meaning": "sự thâm nhập ánh sáng)"
+      "word": "透明度",
+      "reading": "とうめいど",
+      "meaning": "độ trong suốt"
     },
     {
-      "word": "透察",
-      "reading": "とうさつ",
-      "meaning": "sự hiểu thấu"
+      "word": "半透明",
+      "reading": "はんとうめい",
+      "meaning": "nửa trong suốt"
     },
     {
-      "word": "透す",
-      "reading": "とおす",
-      "meaning": "để cho đi qua"
+      "word": "透明質",
+      "reading": "とうめいしつ",
+      "meaning": "chất trong"
     },
     {
-      "word": "透過",
-      "reading": "とうか",
-      "meaning": "sự xuyên qua"
-    },
-    {
-      "word": "透視",
-      "reading": "とうし",
-      "meaning": "sự nhìn thấu"
-    },
-    {
-      "word": "透徹",
-      "reading": "とうてつ",
-      "meaning": "sự thấu triệt"
-    },
-    {
-      "word": "透く",
-      "reading": "すく",
-      "meaning": "hé"
-    },
-    {
-      "word": "滲透",
+      "word": "浸透",
       "reading": "しんとう",
-      "meaning": "sự thấm qua"
+      "meaning": "sự thẩm thấu"
+    },
+    {
+      "word": "浸透度",
+      "reading": "しんとうど",
+      "meaning": "độ thẩm thấu"
+    },
+    {
+      "word": "浸透印",
+      "reading": "しんとういん",
+      "meaning": "con dấu tự thấm mực"
+    },
+    {
+      "word": "浸透圧",
+      "reading": "しんとうあつ",
+      "meaning": "áp suất chênh lệch khi thấm lọc"
+    },
+    {
+      "word": "透光性",
+      "reading": "とうこうせい",
+      "meaning": "tính trong suốt"
     }
   ]
 }

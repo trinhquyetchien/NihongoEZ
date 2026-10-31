@@ -109,39 +109,14 @@
       "meaning": "thành tích"
     },
     {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "thành tích thực tế"
+    },
+    {
       "word": "功績",
       "reading": "こうせき",
       "meaning": "công tích"
-    },
-    {
-      "word": "紡績",
-      "reading": "ぼうせき",
-      "meaning": "dệt"
-    },
-    {
-      "word": "事績",
-      "reading": "じせき",
-      "meaning": "thành tựu"
-    },
-    {
-      "word": "偉績",
-      "reading": "いせき",
-      "meaning": "những thành tích vinh quang"
-    },
-    {
-      "word": "戦績",
-      "reading": "せんせき",
-      "meaning": "chiến tích"
-    },
-    {
-      "word": "治績",
-      "reading": "ちせき",
-      "meaning": "thành tích điều hành đất nước"
-    },
-    {
-      "word": "学績",
-      "reading": "がくせき",
-      "meaning": "thành tích học tập"
     },
     {
       "word": "業績",
@@ -149,9 +124,34 @@
       "meaning": "thành tích"
     },
     {
-      "word": "実績",
-      "reading": "じっせき",
-      "meaning": "thành tích thực tế"
+      "word": "紡績",
+      "reading": "ぼうせき",
+      "meaning": "dệt"
+    },
+    {
+      "word": "成績書",
+      "reading": "せいせきしょ",
+      "meaning": "bản thành tích"
+    },
+    {
+      "word": "成績表",
+      "reading": "せいせきひょう",
+      "meaning": "bảng thành tích"
+    },
+    {
+      "word": "好成績",
+      "reading": "こうせいせき",
+      "meaning": "thành tích tốt"
+    },
+    {
+      "word": "好業績",
+      "reading": "こうぎょうせき",
+      "meaning": "thành tích kinh doanh tốt"
+    },
+    {
+      "word": "戦績",
+      "reading": "せんせき",
+      "meaning": "chiến tích"
     }
   ]
 }

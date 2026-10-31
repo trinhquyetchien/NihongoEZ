@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "遺す",
-      "reading": "のこす",
-      "meaning": "để lại"
-    },
-    {
-      "word": "遺体",
-      "reading": "いたい",
-      "meaning": "di thể"
-    },
-    {
-      "word": "遺骨",
-      "reading": "いこつ",
-      "meaning": "tro cốt"
+      "word": "遺跡",
+      "reading": "いせき",
+      "meaning": "di tích"
     },
     {
       "word": "遺産",
@@ -110,19 +100,9 @@
       "meaning": "tài sản để lại"
     },
     {
-      "word": "遺憾",
-      "reading": "いかん",
-      "meaning": "đáng tiếc"
-    },
-    {
-      "word": "遺跡",
-      "reading": "いせき",
-      "meaning": "di tích"
-    },
-    {
-      "word": "遺族",
-      "reading": "いぞく",
-      "meaning": "gia quyến"
+      "word": "遺体",
+      "reading": "いたい",
+      "meaning": "di thể"
     },
     {
       "word": "遺伝",
@@ -130,14 +110,34 @@
       "meaning": "di truyền"
     },
     {
+      "word": "遺族",
+      "reading": "いぞく",
+      "meaning": "gia quyến"
+    },
+    {
+      "word": "遺物",
+      "reading": "いぶつ",
+      "meaning": "di vật"
+    },
+    {
+      "word": "遺骨",
+      "reading": "いこつ",
+      "meaning": "tro cốt"
+    },
+    {
       "word": "遺書",
       "reading": "いしょ",
       "meaning": "di thư"
     },
     {
-      "word": "遺灰",
-      "reading": "いはい",
-      "meaning": "tro cốt"
+      "word": "遺品",
+      "reading": "いひん",
+      "meaning": "đồ dùng cá nhân của người chết để lại"
+    },
+    {
+      "word": "遺憾",
+      "reading": "いかん",
+      "meaning": "đáng tiếc"
     }
   ]
 }

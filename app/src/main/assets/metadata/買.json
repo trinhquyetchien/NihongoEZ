@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "mua"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "món hàng mua được"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "buôn bán"
+    },
+    {
       "word": "購買",
       "reading": "こうばい",
       "meaning": "sự mua"
     },
     {
-      "word": "買春",
-      "reading": "ばいしゅん",
-      "meaning": "mua dâm"
+      "word": "買い",
+      "reading": "かい",
+      "meaning": "sự mua"
     },
     {
-      "word": "仲買",
-      "reading": "なかがい",
-      "meaning": "người môi giới"
+      "word": "人買い",
+      "reading": "ひとかい",
+      "meaning": "kẻ buôn người"
     },
     {
-      "word": "不買",
-      "reading": "ふばい",
-      "meaning": "sự không mua"
+      "word": "先買い",
+      "reading": "さきがい",
+      "meaning": "sự mua trước"
     },
     {
-      "word": "買取",
-      "reading": "かいとり",
-      "meaning": "việc mua lại"
+      "word": "小買い",
+      "reading": "こがい",
+      "meaning": "sự mua số lượng ít"
     },
     {
-      "word": "故買",
-      "reading": "こばい",
-      "meaning": "sự bán hay trao đổi hàng gian"
-    },
-    {
-      "word": "買物",
-      "reading": "かいもの",
-      "meaning": "món hàng mua được"
-    },
-    {
-      "word": "買主",
-      "reading": "かいぬし",
-      "meaning": "người mua"
-    },
-    {
-      "word": "買手",
-      "reading": "かいて",
-      "meaning": "người mua"
-    },
-    {
-      "word": "買値",
+      "word": "買い値",
       "reading": "かいね",
       "meaning": "giá mua"
+    },
+    {
+      "word": "買収",
+      "reading": "ばいしゅう",
+      "meaning": "mua"
     }
   ]
 }

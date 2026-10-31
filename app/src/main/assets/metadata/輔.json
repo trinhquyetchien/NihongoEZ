@@ -52,24 +52,24 @@
   ],
   "vocabulary": [
     {
-      "word": "輔星",
-      "reading": "ほせい",
-      "meaning": "sao alcor"
-    },
-    {
       "word": "輔導",
       "reading": "ほどう",
       "meaning": "sự phụ đạo"
     },
     {
-      "word": "輔翼",
-      "reading": "ほよく",
-      "meaning": "giúp đỡ"
-    },
-    {
       "word": "輔弼",
       "reading": "ほひつ",
       "meaning": "đưa cho cho hoàng đế lời khuyên trên những quan hệ trạng thái"
+    },
+    {
+      "word": "輔星",
+      "reading": "ほせい",
+      "meaning": "sao alcor"
+    },
+    {
+      "word": "輔翼",
+      "reading": "ほよく",
+      "meaning": "giúp đỡ"
     },
     {
       "word": "輔佐",

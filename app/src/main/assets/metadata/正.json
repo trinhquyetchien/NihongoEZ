@@ -93,39 +93,34 @@
   ],
   "vocabulary": [
     {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "trung thực"
+    },
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "sự tu sửa"
+    },
+    {
       "word": "正",
       "reading": "せい",
       "meaning": "sự đúng"
     },
     {
-      "word": "正正",
-      "reading": "せいせい",
-      "meaning": "đúng đắn"
+      "word": "正元",
+      "reading": "しょうげん",
+      "meaning": "thời shougen"
     },
     {
-      "word": "正正と",
-      "reading": "せいせいと",
-      "meaning": "đúng đắn"
+      "word": "正長",
+      "reading": "しょうちょう",
+      "meaning": "thời shouchou"
     },
     {
-      "word": "正正堂堂",
-      "reading": "せいせいどうどう",
-      "meaning": "thái độ tốt"
-    },
-    {
-      "word": "正真正銘",
-      "reading": "しょうしんしょうめい",
-      "meaning": "thật"
-    },
-    {
-      "word": "補正",
-      "reading": "ほせい",
-      "meaning": "sự bổ chính"
-    },
-    {
-      "word": "正転",
-      "reading": "せいてん",
-      "meaning": "quay thuận"
+      "word": "正身",
+      "reading": "そうじみ",
+      "meaning": "tự mình"
     },
     {
       "word": "非正",
@@ -133,14 +128,19 @@
       "meaning": "không dương"
     },
     {
-      "word": "正経",
-      "reading": "せいけい",
-      "meaning": "luật lệ kinh thánh"
+      "word": "正命",
+      "reading": "しょうみょう",
+      "meaning": "chân thành"
     },
     {
-      "word": "修正",
-      "reading": "しゅうせい",
-      "meaning": "sự tu sửa"
+      "word": "正悪",
+      "reading": "せいあく",
+      "meaning": "đúng và sai"
+    },
+    {
+      "word": "正相",
+      "reading": "せいそう",
+      "meaning": "in phase"
     }
   ]
 }

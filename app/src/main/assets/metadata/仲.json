@@ -89,29 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "仲",
-      "reading": "なか",
-      "meaning": "quan hệ"
-    },
-    {
-      "word": "仲秋",
-      "reading": "ちゅうしゅう",
-      "meaning": "trung thu"
-    },
-    {
       "word": "仲間",
       "reading": "なかま",
       "meaning": "bạn"
     },
     {
-      "word": "杜仲",
-      "reading": "とちゅう",
-      "meaning": "cây đỗ trọng"
+      "word": "仲",
+      "reading": "なか",
+      "meaning": "quan hệ"
     },
     {
-      "word": "仲値",
-      "reading": "なかね",
-      "meaning": "giá trung bình"
+      "word": "仲良し",
+      "reading": "なかよし",
+      "meaning": "bạn bè"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "sự hòa giải"
     },
     {
       "word": "仲人",
@@ -119,24 +114,29 @@
       "meaning": "người làm mối"
     },
     {
-      "word": "仲兄",
-      "reading": "ちゅうけい",
-      "meaning": "anh trai thứ hai"
+      "word": "僕仲間",
+      "reading": "ぼくなかま",
+      "meaning": "người hầu thành viên"
     },
     {
-      "word": "仲保",
-      "reading": "ちゅうほ",
-      "meaning": "sự điều đình"
+      "word": "仲いい",
+      "reading": "なかいい",
+      "meaning": "gần gũi"
     },
     {
-      "word": "仲居",
-      "reading": "なかい",
-      "meaning": "cô hầu bàn"
+      "word": "いい仲",
+      "reading": "いいなか",
+      "meaning": "mối quan hệ tốt"
     },
     {
-      "word": "仲買",
-      "reading": "なかがい",
-      "meaning": "người môi giới"
+      "word": "株仲間",
+      "reading": "かぶなかま",
+      "meaning": "hội thương nhân"
+    },
+    {
+      "word": "仲良く",
+      "reading": "なかよく",
+      "meaning": "quan hệ tốt"
     }
   ]
 }

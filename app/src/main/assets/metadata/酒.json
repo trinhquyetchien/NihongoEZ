@@ -107,39 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "酒",
-      "reading": "さけ",
-      "meaning": "rượu"
-    },
-    {
-      "word": "黒酒",
-      "reading": "くろき",
-      "meaning": "rượu đen trong các lễ hội như lễ tạ ơn mùa màng)"
-    },
-    {
-      "word": "菊酒",
-      "reading": "きくざけ",
-      "meaning": "rượu sake hoa cúc"
-    },
-    {
-      "word": "酒枡",
-      "reading": "さかます",
-      "meaning": "cốc rượu"
-    },
-    {
       "word": "お酒",
       "reading": "おさけ",
       "meaning": "rượu"
     },
     {
-      "word": "酒類",
-      "reading": "しゅるい",
+      "word": "酒",
+      "reading": "さけ",
       "meaning": "rượu"
-    },
-    {
-      "word": "酒造",
-      "reading": "しゅぞう",
-      "meaning": "sự chưng cất rượu"
     },
     {
       "word": "酒場",
@@ -147,14 +122,39 @@
       "meaning": "quán bar"
     },
     {
-      "word": "酒気",
-      "reading": "しゅき",
-      "meaning": "rượu có mùi"
+      "word": "大酒",
+      "reading": "おおざけ",
+      "meaning": "nặng nề uống"
     },
     {
-      "word": "酒屋",
-      "reading": "さかや",
-      "meaning": "quán rượu"
+      "word": "上酒",
+      "reading": "じょうしゅ",
+      "meaning": "rượu cao cấp"
+    },
+    {
+      "word": "夜酒",
+      "reading": "よざけ",
+      "meaning": "uống rượu ban đêm"
+    },
+    {
+      "word": "酒母",
+      "reading": "しゅぼ",
+      "meaning": "men nghiền"
+    },
+    {
+      "word": "良酒",
+      "reading": "りょうしゅ",
+      "meaning": "rượu ngon"
+    },
+    {
+      "word": "酒石",
+      "reading": "しゅせき",
+      "meaning": "cáu rượu"
+    },
+    {
+      "word": "安酒",
+      "reading": "やすざけ",
+      "meaning": "rượu rẻ tiền"
     }
   ]
 }

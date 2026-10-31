@@ -94,9 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "潮濡",
-      "reading": "しおぬれ",
-      "meaning": "hư hại do nước biển"
+      "word": "濡れる",
+      "reading": "ぬれる",
+      "meaning": "đằm"
     },
     {
       "word": "濡らす",
@@ -104,19 +104,14 @@
       "meaning": "dấn"
     },
     {
+      "word": "ずぶ濡れ",
+      "reading": "ずぶぬれ",
+      "meaning": "hoàn toàn ướt"
+    },
+    {
       "word": "濡れ性",
       "reading": "ぬれせい",
       "meaning": "tính ẩm ướt"
-    },
-    {
-      "word": "濡れる",
-      "reading": "ぬれる",
-      "meaning": "đằm"
-    },
-    {
-      "word": "濡れ色",
-      "reading": "ぬれいろ",
-      "meaning": "màu ướt"
     },
     {
       "word": "濡れ手",
@@ -124,24 +119,29 @@
       "meaning": "tay ướt"
     },
     {
-      "word": "濡れ衣",
-      "reading": "ぬれぎぬ",
-      "meaning": "quần áo ướt"
+      "word": "濡れ色",
+      "reading": "ぬれいろ",
+      "meaning": "màu ướt"
+    },
+    {
+      "word": "濡れ髪",
+      "reading": "ぬれがみ",
+      "meaning": "tóc mới gội"
+    },
+    {
+      "word": "濡れ損",
+      "reading": "ぬれそん",
+      "meaning": "hư hại do thấm nước"
+    },
+    {
+      "word": "濡れ荷",
+      "reading": "ぬれに",
+      "meaning": "hàng bị thấm"
     },
     {
       "word": "濡れ鼠",
       "reading": "ぬれねずみ",
       "meaning": "sự ướt như chuột lột"
-    },
-    {
-      "word": "濡れ場",
-      "reading": "ぬれば",
-      "meaning": "khung cảnh yêu đương trong kịch kabuki"
-    },
-    {
-      "word": "濡れ縁",
-      "reading": "ぬれえん",
-      "meaning": "mái hiên mở"
     }
   ]
 }

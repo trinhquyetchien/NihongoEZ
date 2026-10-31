@@ -86,14 +86,19 @@
       "meaning": "sự tuân thủ"
     },
     {
-      "word": "遵行",
-      "reading": "じゅんこう",
-      "meaning": "vâng lời"
-    },
-    {
       "word": "遵法",
       "reading": "じゅんぽう",
       "meaning": "tuân thủ luật pháp"
+    },
+    {
+      "word": "遵法者",
+      "reading": "じゅんぽうしゃ",
+      "meaning": "người tuân thủ pháp luật"
+    },
+    {
+      "word": "遵行",
+      "reading": "じゅんこう",
+      "meaning": "vâng lời"
     },
     {
       "word": "遵奉",
@@ -106,9 +111,9 @@
       "meaning": "người tuân giáo"
     },
     {
-      "word": "遵法者",
-      "reading": "じゅんぽうしゃ",
-      "meaning": "người tuân thủ pháp luật"
+      "word": "遵守する",
+      "reading": "じゅんしゅ",
+      "meaning": "tuân thủ"
     },
     {
       "word": "遵奉する",
@@ -116,19 +121,14 @@
       "meaning": "tuân thủ"
     },
     {
-      "word": "遵守する",
-      "reading": "じゅんしゅ",
-      "meaning": "tuân thủ"
+      "word": "事前指示書遵守",
+      "reading": "じぜんしじしょじゅんしゅ",
+      "meaning": "tuân thủ chỉ thị đề ra từ trước"
     },
     {
       "word": "ガイドラインの遵守",
       "reading": "ガイドラインのじゅんしゅ",
       "meaning": "tuân thủ các nguyên tắc"
-    },
-    {
-      "word": "事前指示書遵守",
-      "reading": "じぜんしじしょじゅんしゅ",
-      "meaning": "tuân thủ chỉ thị đề ra từ trước"
     }
   ]
 }

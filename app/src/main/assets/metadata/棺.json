@@ -89,14 +89,9 @@
       "meaning": "quan tài"
     },
     {
-      "word": "納棺",
-      "reading": "のうかん",
-      "meaning": "sự khâm liệm"
-    },
-    {
-      "word": "入棺",
-      "reading": "にゅうかん",
-      "meaning": "sự nhập quan"
+      "word": "棺桶",
+      "reading": "かんおけ",
+      "meaning": "quan tài"
     },
     {
       "word": "石棺",
@@ -104,14 +99,24 @@
       "meaning": "quan tài bằng đá"
     },
     {
+      "word": "甕棺",
+      "reading": "かめかん",
+      "meaning": "bình đựng tro cốt"
+    },
+    {
+      "word": "納棺",
+      "reading": "のうかん",
+      "meaning": "sự khâm liệm"
+    },
+    {
       "word": "出棺",
       "reading": "しゅっかん",
       "meaning": "việc đưa áo quan ra ngoài"
     },
     {
-      "word": "棺桶",
-      "reading": "かんおけ",
-      "meaning": "quan tài"
+      "word": "入棺",
+      "reading": "にゅうかん",
+      "meaning": "sự nhập quan"
     },
     {
       "word": "寝棺",
@@ -119,19 +124,14 @@
       "meaning": "quan tài"
     },
     {
-      "word": "甕棺",
-      "reading": "かめかん",
-      "meaning": "bình đựng tro cốt"
+      "word": "棺に入れる",
+      "reading": "ひつぎにいれる",
+      "meaning": "liệm"
     },
     {
       "word": "棺を覆う",
       "reading": "かんをおおう",
       "meaning": "chết"
-    },
-    {
-      "word": "棺を掩う",
-      "reading": "",
-      "meaning": "đóng nắp quan tài"
     }
   ]
 }

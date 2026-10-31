@@ -102,49 +102,49 @@
       "meaning": "số"
     },
     {
-      "word": "数数",
-      "reading": "しばしば",
-      "meaning": "nhiều"
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "chữ số"
     },
     {
-      "word": "数係数",
-      "reading": "すうけいすう",
-      "meaning": "hệ số"
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "số lần"
     },
     {
-      "word": "代数的数",
-      "reading": "だいすうてきすう",
-      "meaning": "số đại số"
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "phép toán"
     },
     {
-      "word": "数学関数",
-      "reading": "すうがくかんすう",
-      "meaning": "hàm số học"
+      "word": "偶数",
+      "reading": "ぐうすう",
+      "meaning": "số chẵn"
     },
     {
-      "word": "数字定数",
-      "reading": "すうじていすう",
-      "meaning": "trực kiện bằng số"
+      "word": "少数",
+      "reading": "しょうすう",
+      "meaning": "số thập phân"
     },
     {
-      "word": "数値変数",
-      "reading": "すうちへんすう",
-      "meaning": "biến kiểu số"
+      "word": "手数",
+      "reading": "てすう",
+      "meaning": "phiền phức"
     },
     {
-      "word": "代数関数",
-      "reading": "だいすうかんすう",
-      "meaning": "hàm đại số"
+      "word": "奇数",
+      "reading": "きすう",
+      "meaning": "số lẻ"
     },
     {
-      "word": "指数関数",
-      "reading": "しすうかんすう",
-      "meaning": "hàm cơ số mũ"
+      "word": "お数",
+      "reading": "おかず",
+      "meaning": "thức ăn kèm"
     },
     {
-      "word": "対数関数",
-      "reading": "たいすうかんすう",
-      "meaning": "một hàm số lô-ga"
+      "word": "数分",
+      "reading": "すうふん",
+      "meaning": "vài phút"
     }
   ]
 }

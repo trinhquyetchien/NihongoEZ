@@ -94,16 +94,6 @@
       "meaning": "bởi"
     },
     {
-      "word": "然迄",
-      "reading": "さまで",
-      "meaning": "như vậy nhiều"
-    },
-    {
-      "word": "今迄",
-      "reading": "いままで",
-      "meaning": "cho đến khi bây giờ"
-    },
-    {
       "word": "迄も",
       "reading": "までも",
       "meaning": "thậm chí"
@@ -114,14 +104,14 @@
       "meaning": "thế đấy"
     },
     {
-      "word": "飽く迄",
-      "reading": "あくまで",
-      "meaning": "kiên quyết tới cùng"
+      "word": "今迄",
+      "reading": "いままで",
+      "meaning": "cho đến khi bây giờ"
     },
     {
-      "word": "此れ迄",
-      "reading": "これまで",
-      "meaning": "cho đến bây giờ"
+      "word": "何処迄",
+      "reading": "どこまで",
+      "meaning": "bao xa"
     },
     {
       "word": "年末迄",
@@ -129,9 +119,19 @@
       "meaning": "trước khi kết thúc năm này"
     },
     {
-      "word": "何処迄",
-      "reading": "どこまで",
-      "meaning": "bao xa"
+      "word": "然迄",
+      "reading": "さまで",
+      "meaning": "như vậy nhiều"
+    },
+    {
+      "word": "此れ迄",
+      "reading": "これまで",
+      "meaning": "cho đến bây giờ"
+    },
+    {
+      "word": "飽く迄",
+      "reading": "あくまで",
+      "meaning": "kiên quyết tới cùng"
     }
   ]
 }

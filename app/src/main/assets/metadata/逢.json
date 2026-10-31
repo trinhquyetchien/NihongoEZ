@@ -92,14 +92,9 @@
       "meaning": "gặp gỡ"
     },
     {
-      "word": "逢着",
-      "reading": "ほうちゃく",
-      "meaning": "gặp"
-    },
-    {
-      "word": "逢引",
-      "reading": "あいびき",
-      "meaning": "hẹn hò lén lút của trai gái"
+      "word": "出逢う",
+      "reading": "であう",
+      "meaning": "tới sự gặp mặt bởi cơ hội"
     },
     {
       "word": "逢瀬",
@@ -107,14 +102,14 @@
       "meaning": "có dịp gặp nhau"
     },
     {
-      "word": "逢引き",
+      "word": "逢引",
       "reading": "あいびき",
       "meaning": "hẹn hò lén lút của trai gái"
     },
     {
-      "word": "出逢う",
-      "reading": "であう",
-      "meaning": "tới sự gặp mặt bởi cơ hội"
+      "word": "逢引き",
+      "reading": "あいびき",
+      "meaning": "hẹn hò lén lút của trai gái"
     },
     {
       "word": "愛逢月",
@@ -122,19 +117,24 @@
       "meaning": "tháng 7 âm lịch"
     },
     {
-      "word": "逢魔が時",
-      "reading": "おうまがとき",
-      "meaning": "chạng vạng"
-    },
-    {
-      "word": "巡り逢う",
-      "reading": "めぐりあう",
-      "meaning": "tình cờ gặp gỡ"
+      "word": "逢着",
+      "reading": "ほうちゃく",
+      "meaning": "gặp"
     },
     {
       "word": "逢い引き",
       "reading": "あいびき",
       "meaning": "hẹn hò lén lút của trai gái"
+    },
+    {
+      "word": "忍び逢い",
+      "reading": "しのびあい",
+      "meaning": "cuộc hẹn hò"
+    },
+    {
+      "word": "巡り逢う",
+      "reading": "めぐりあう",
+      "meaning": "tình cờ gặp gỡ"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "憂ふ",
-      "reading": "うれう",
-      "meaning": "lo lắng điều gì đó không tốt"
+      "word": "憂鬱",
+      "reading": "ゆううつ",
+      "meaning": "buồn rầu"
     },
     {
-      "word": "憂さ",
-      "reading": "うさ",
-      "meaning": "tối tăm"
+      "word": "憂鬱症",
+      "reading": "ゆううつしょう",
+      "meaning": "bệnh u sầu"
     },
     {
-      "word": "憂え",
-      "reading": "うれえ",
-      "meaning": "nỗi lo lắng"
+      "word": "憂鬱質",
+      "reading": "ゆううつしつ",
+      "meaning": "tính chất buồn chán"
     },
     {
-      "word": "憂世",
-      "reading": "ゆうせい",
-      "meaning": "lướt qua cuộc sống"
-    },
-    {
-      "word": "憂愁",
-      "reading": "ゆうしゅう",
-      "meaning": "sự u sầu"
-    },
-    {
-      "word": "憂憤",
-      "reading": "ゆうふん",
-      "meaning": "sự đau buồn và sự giận dữ"
-    },
-    {
-      "word": "憂苦",
-      "reading": "ゆうく",
-      "meaning": "lo lắng"
-    },
-    {
-      "word": "憂戚",
-      "reading": "ゆうせき",
+      "word": "憂い",
+      "reading": "うい",
       "meaning": "nỗi đau buồn"
     },
     {
-      "word": "憂虞",
-      "reading": "ゆうぐ",
-      "meaning": "mối lo"
+      "word": "憂い顔",
+      "reading": "うれいがお",
+      "meaning": "khuôn mặt u buồn"
     },
     {
-      "word": "内憂",
-      "reading": "ないゆう",
-      "meaning": "những vấn đề lo lắng nội bộ"
+      "word": "憂い事",
+      "reading": "うれいごと",
+      "meaning": "gắt trải qua"
+    },
+    {
+      "word": "憂事",
+      "reading": "うれいごと",
+      "meaning": "gắt trải qua"
+    },
+    {
+      "word": "憂目",
+      "reading": "うきめ",
+      "meaning": "cảnh khổ"
+    },
+    {
+      "word": "外憂",
+      "reading": "がいゆう",
+      "meaning": "mối lo lắng ở bên ngoài"
+    },
+    {
+      "word": "憂心",
+      "reading": "ゆうしん",
+      "meaning": "trái tim ưu phiền"
     }
   ]
 }

@@ -110,34 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "未払費用 みはらいひよう",
-      "reading": "未払費用",
-      "meaning": ".+ thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán"
+      "word": "払う",
+      "reading": "はらう",
+      "meaning": "biểu thị"
     },
     {
-      "word": "着払",
-      "reading": "ちゃくばらい",
-      "meaning": "thanh toán khi nhận hàng"
-    },
-    {
-      "word": "支払",
-      "reading": "しはらい",
-      "meaning": "sự chi trả"
-    },
-    {
-      "word": "払暁",
-      "reading": "ふつぎょう",
-      "meaning": "hửng sáng"
-    },
-    {
-      "word": "払拭",
-      "reading": "ふっしょく",
-      "meaning": "lau chùi ngoài"
-    },
-    {
-      "word": "払底",
-      "reading": "ふってい",
-      "meaning": "sự thiếu sót"
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaning": "chi trả"
     },
     {
       "word": "払い",
@@ -145,19 +125,39 @@
       "meaning": "việc trả tiền"
     },
     {
-      "word": "過払",
-      "reading": "かばらい",
-      "meaning": "trả dư"
+      "word": "年払い",
+      "reading": "ねんばらい",
+      "meaning": "thanh toán theo năm"
     },
     {
-      "word": "前払",
-      "reading": "まえばらい",
-      "meaning": "sự trả trước"
+      "word": "払い超",
+      "reading": "はらいちょう",
+      "meaning": "sự thiếu hụt trong vốn dài hạn"
     },
     {
-      "word": "払う",
-      "reading": "はらう",
-      "meaning": "biểu thị"
+      "word": "足払い",
+      "reading": "あしばらい",
+      "meaning": "kỹ thuật ngáng chân đối thủ trong nhu đạo"
+    },
+    {
+      "word": "右払い",
+      "reading": "みぎはらい",
+      "meaning": "kỹ thuật quét sang phải trong thư pháp"
+    },
+    {
+      "word": "左払い",
+      "reading": "ひだりはらい",
+      "meaning": "việc viết nét quét sang trái"
+    },
+    {
+      "word": "直払い",
+      "reading": "じきはらい",
+      "meaning": "đổi lấy tiền mặt sự thanh toán"
+    },
+    {
+      "word": "仮払い",
+      "reading": "かりばらい",
+      "meaning": "sự trả tiền tạm ứng trước"
     }
   ]
 }

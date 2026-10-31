@@ -92,14 +92,24 @@
   ],
   "vocabulary": [
     {
+      "word": "巻く",
+      "reading": "まく",
+      "meaning": "bện"
+    },
+    {
       "word": "巻",
       "reading": "まき",
       "meaning": "cuộn"
     },
     {
-      "word": "春巻",
-      "reading": "はるまき",
-      "meaning": "chả nem"
+      "word": "中巻",
+      "reading": "ちゅうかん",
+      "meaning": "quyển thứ hai"
+    },
+    {
+      "word": "一巻",
+      "reading": "いっかん",
+      "meaning": "một quyển"
     },
     {
       "word": "前巻",
@@ -107,9 +117,9 @@
       "meaning": "tập trước"
     },
     {
-      "word": "巻線",
-      "reading": "まきせん",
-      "meaning": "cuộn dây"
+      "word": "分巻",
+      "reading": "ぶんまき",
+      "meaning": "sự cuộn luân phiên - hiện thời"
     },
     {
       "word": "巻回",
@@ -117,19 +127,9 @@
       "meaning": "cuộn dây"
     },
     {
-      "word": "下巻",
-      "reading": "げかん",
-      "meaning": "tập cuối"
-    },
-    {
-      "word": "腰巻",
-      "reading": "こしまき",
-      "meaning": "đóng khố"
-    },
-    {
-      "word": "首巻",
-      "reading": "くびまき",
-      "meaning": "khăn quàng cổ"
+      "word": "万巻",
+      "reading": "まんがん",
+      "meaning": "nhiều cuộn sách"
     },
     {
       "word": "長巻",
@@ -137,9 +137,9 @@
       "meaning": "polearm với lưỡi thanh gươm"
     },
     {
-      "word": "中巻",
-      "reading": "ちゅうかん",
-      "meaning": "quyển thứ hai"
+      "word": "巻線",
+      "reading": "まきせん",
+      "meaning": "cuộn dây"
     }
   ]
 }

@@ -95,29 +95,19 @@
       "meaning": "sương"
     },
     {
-      "word": "露文",
-      "reading": "ろぶん",
-      "meaning": "văn học nga"
-    },
-    {
-      "word": "露地",
-      "reading": "ろじ",
-      "meaning": "trần trụị ở mặt đất"
-    },
-    {
-      "word": "香露",
-      "reading": "こうろ",
-      "meaning": "kouro mục đích)"
-    },
-    {
       "word": "暴露",
       "reading": "ばくろ",
       "meaning": "sự dầm mưa dãi nắng"
     },
     {
-      "word": "和露",
-      "reading": "わろ",
-      "meaning": "nhật bản và nga"
+      "word": "露骨",
+      "reading": "ろこつ",
+      "meaning": "sự thẳng thắn"
+    },
+    {
+      "word": "披露",
+      "reading": "ひろう",
+      "meaning": "sự công khai"
     },
     {
       "word": "露日",
@@ -125,19 +115,29 @@
       "meaning": "nga - nhật bản"
     },
     {
-      "word": "下露",
-      "reading": "したつゆ",
-      "meaning": "sương treo đầu ngọn cỏ"
+      "word": "日露",
+      "reading": "にちろ",
+      "meaning": "nhật bản và đế chế nga"
     },
     {
-      "word": "玉露",
-      "reading": "ぎょくろ",
-      "meaning": "một loại trà xanh cao cấp"
+      "word": "露国",
+      "reading": "ろこく",
+      "meaning": "nước nga"
     },
     {
-      "word": "露帝",
-      "reading": "ろてい",
-      "meaning": "vua nga"
+      "word": "露場",
+      "reading": "ろじょう",
+      "meaning": "dầm mưa dãi gió nhà ga phép đo"
+    },
+    {
+      "word": "露語",
+      "reading": "ろご",
+      "meaning": "ngôn ngữ tiếng nga"
+    },
+    {
+      "word": "露文",
+      "reading": "ろぶん",
+      "meaning": "văn học nga"
     }
   ]
 }

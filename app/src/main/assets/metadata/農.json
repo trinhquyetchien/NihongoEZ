@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaning": "ngành nông nghiệp"
+    },
+    {
+      "word": "農家",
+      "reading": "のうか",
+      "meaning": "nhà nông"
+    },
+    {
+      "word": "農民",
+      "reading": "のうみん",
+      "meaning": "dân cày"
+    },
+    {
+      "word": "農薬",
+      "reading": "のうやく",
+      "meaning": "hóa chất nông nghiệp"
+    },
+    {
+      "word": "農村",
+      "reading": "のうそん",
+      "meaning": "nông thôn"
+    },
+    {
+      "word": "農場",
+      "reading": "のうじょう",
+      "meaning": "nông trường"
+    },
+    {
+      "word": "農地",
+      "reading": "のうち",
+      "meaning": "đất cày cấy"
+    },
+    {
+      "word": "農耕",
+      "reading": "のうこう",
+      "meaning": "việc canh nông"
+    },
+    {
       "word": "農",
       "reading": "のう",
       "meaning": "nông nghiệp"
     },
     {
-      "word": "無農薬農法",
-      "reading": "むのうやくのうほう",
-      "meaning": "phương pháp nông nghiệp hữu cơ"
-    },
-    {
-      "word": "農業・農村開発省",
-      "reading": "",
-      "meaning": "bộ nông nghiệp và phát triển nông thôn"
-    },
-    {
-      "word": "農村発展及び農業省",
-      "reading": "のうそんはってんおよびのうぎょうしょう",
-      "meaning": "bộ nông nghiệp và phát triển nông thôn"
-    },
-    {
-      "word": "農水",
-      "reading": "のうすい",
-      "meaning": "nước nông nghiệp"
-    },
-    {
-      "word": "農博",
-      "reading": "のうはく",
-      "meaning": "tiến sĩ nông nghiệp"
-    },
-    {
-      "word": "農大",
-      "reading": "のうだい",
-      "meaning": "trường đại học nông nghiệp"
-    },
-    {
-      "word": "中農",
-      "reading": "ちゅうのう",
-      "meaning": "trung nông"
-    },
-    {
-      "word": "勧農",
-      "reading": "かんのう",
-      "meaning": "sự khuyến nông"
-    },
-    {
-      "word": "半農",
-      "reading": "はんのう",
-      "meaning": "bán nông nghiệp"
+      "word": "農会",
+      "reading": "のうかい",
+      "meaning": "hiệp hội nông nghiệp"
     }
   ]
 }

@@ -91,39 +91,9 @@
       "meaning": "hầu"
     },
     {
-      "word": "侯伯",
-      "reading": "こうはく",
-      "meaning": "người quý tộc"
-    },
-    {
       "word": "侯国",
       "reading": "こうこく",
       "meaning": "lãnh địa của hoàng thân"
-    },
-    {
-      "word": "侯爵",
-      "reading": "こうしゃく",
-      "meaning": "hầu tước"
-    },
-    {
-      "word": "公侯",
-      "reading": "こうこう",
-      "meaning": "công hầu"
-    },
-    {
-      "word": "列侯",
-      "reading": "れっこう",
-      "meaning": "nhiều lãnh chúa"
-    },
-    {
-      "word": "王侯",
-      "reading": "おうこう",
-      "meaning": "vương hầu"
-    },
-    {
-      "word": "藩侯",
-      "reading": "はんこう",
-      "meaning": "phiên hầu"
     },
     {
       "word": "土侯",
@@ -131,9 +101,39 @@
       "meaning": "hầu tước"
     },
     {
+      "word": "土侯国",
+      "reading": "どこうこく",
+      "meaning": "các quốc gia bản địa hoặc vương quốc phong kiến"
+    },
+    {
+      "word": "公侯",
+      "reading": "こうこう",
+      "meaning": "công hầu"
+    },
+    {
+      "word": "仙台侯",
+      "reading": "せんだいこう",
+      "meaning": "khống chế sendai"
+    },
+    {
       "word": "諸侯",
       "reading": "しょこう",
       "meaning": "hoàng tử"
+    },
+    {
+      "word": "侯爵",
+      "reading": "こうしゃく",
+      "meaning": "hầu tước"
+    },
+    {
+      "word": "侯伯",
+      "reading": "こうはく",
+      "meaning": "người quý tộc"
+    },
+    {
+      "word": "王侯",
+      "reading": "おうこう",
+      "meaning": "vương hầu"
     }
   ]
 }

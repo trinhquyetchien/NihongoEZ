@@ -67,6 +67,26 @@
   ],
   "vocabulary": [
     {
+      "word": "可憐",
+      "reading": "かれん",
+      "meaning": "đáng thương"
+    },
+    {
+      "word": "憐れみ",
+      "reading": "あわれみ",
+      "meaning": "thương xót"
+    },
+    {
+      "word": "憐憫",
+      "reading": "れんびん",
+      "meaning": "thương xót"
+    },
+    {
+      "word": "憐れむ",
+      "reading": "あわれむ",
+      "meaning": "thương xót"
+    },
+    {
       "word": "憐情",
       "reading": "れんじょう",
       "meaning": "lòng thương"
@@ -87,29 +107,9 @@
       "meaning": "sự thương xót"
     },
     {
-      "word": "可憐",
-      "reading": "かれん",
-      "meaning": "đáng thương"
-    },
-    {
-      "word": "憐憫",
-      "reading": "れんびん",
-      "meaning": "thương xót"
-    },
-    {
-      "word": "憐れむ",
-      "reading": "あわれむ",
-      "meaning": "thương xót"
-    },
-    {
-      "word": "憐れみ",
-      "reading": "あわれみ",
-      "meaning": "thương xót"
-    },
-    {
-      "word": "紅顔可憐",
-      "reading": "こうがんかれん",
-      "meaning": "ẩn dụ cho sự vô thường của dòng thời gian"
+      "word": "純情可憐",
+      "reading": "じゅんじょうかれん",
+      "meaning": "ngây thơ và xinh xắn"
     },
     {
       "word": "純真可憐",

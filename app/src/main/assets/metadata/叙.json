@@ -89,14 +89,34 @@
   ],
   "vocabulary": [
     {
+      "word": "叙情",
+      "reading": "じょじょう",
+      "meaning": "sự bày tỏ cảm xúc"
+    },
+    {
+      "word": "叙事詩",
+      "reading": "じょじし",
+      "meaning": "thiên anh hùng ca"
+    },
+    {
       "word": "叙",
       "reading": "じょ",
       "meaning": "sự kể lại"
     },
     {
-      "word": "叙位叙勲",
-      "reading": "じょいじょくん",
-      "meaning": "phong tặng cấp bậc"
+      "word": "叙文",
+      "reading": "じょぶん",
+      "meaning": "mở đầu"
+    },
+    {
+      "word": "叙品",
+      "reading": "じょひん",
+      "meaning": "sự phong chức"
+    },
+    {
+      "word": "叙階",
+      "reading": "じょかい",
+      "meaning": "phong chức"
     },
     {
       "word": "自叙",
@@ -104,39 +124,19 @@
       "meaning": "sự viết tự truyện"
     },
     {
-      "word": "叙法",
-      "reading": "じょほう",
-      "meaning": "modal"
-    },
-    {
-      "word": "叙位",
-      "reading": "じょい",
-      "meaning": "lễ phong chức"
-    },
-    {
-      "word": "叙爵",
-      "reading": "じょしゃく",
-      "meaning": "bàn bạc một quý tộc"
-    },
-    {
-      "word": "叙説",
-      "reading": "じょせつ",
-      "meaning": "giải thích"
-    },
-    {
-      "word": "叙賜",
-      "reading": "じょし",
-      "meaning": "phân phối những hàng dãy"
-    },
-    {
       "word": "叙述",
       "reading": "じょじゅつ",
       "meaning": "sự mô tả"
     },
     {
-      "word": "叙文",
-      "reading": "じょぶん",
-      "meaning": "mở đầu"
+      "word": "叙利亜",
+      "reading": "シリア",
+      "meaning": "syria"
+    },
+    {
+      "word": "自叙伝",
+      "reading": "じじょでん",
+      "meaning": "tự truyện"
     }
   ]
 }

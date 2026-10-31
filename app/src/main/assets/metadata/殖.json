@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "利殖",
-      "reading": "りしょく",
-      "meaning": "sự làm giàu"
+      "word": "繁殖",
+      "reading": "はんしょく",
+      "meaning": "sự sinh sôi"
     },
     {
-      "word": "養殖",
-      "reading": "ようしょく",
-      "meaning": "nuôi trồng thủy sản"
+      "word": "繁殖力",
+      "reading": "はんしょくりょく",
+      "meaning": "sự tốt"
     },
     {
-      "word": "拓殖",
-      "reading": "たくしょく",
-      "meaning": "sự khai thác"
+      "word": "繁殖地",
+      "reading": "はんしょくち",
+      "meaning": "gây giống những nền"
+    },
+    {
+      "word": "繁殖期",
+      "reading": "はんしょくき",
+      "meaning": "mùa sinh sản"
     },
     {
       "word": "増殖",
@@ -110,34 +115,29 @@
       "meaning": "sự tăng lên"
     },
     {
-      "word": "殖民",
-      "reading": "しょくみん",
-      "meaning": "thực dân"
-    },
-    {
-      "word": "貨殖",
-      "reading": "かしょく",
-      "meaning": "gia tăng tài sản"
-    },
-    {
-      "word": "学殖",
-      "reading": "がくしょく",
-      "meaning": "sự học rộng"
-    },
-    {
-      "word": "蕃殖",
-      "reading": "はんしょく",
-      "meaning": "sinh sản"
-    },
-    {
-      "word": "生殖",
-      "reading": "せいしょく",
+      "word": "増殖性",
+      "reading": "ぞうしょくせい",
       "meaning": "sự sinh sôi nảy nở"
     },
     {
-      "word": "殖財",
-      "reading": "しょくざい",
-      "meaning": "phần hợp thành"
+      "word": "増殖炉",
+      "reading": "ぞうしょくろ",
+      "meaning": "lò phản ứng hạt nhân nhanh"
+    },
+    {
+      "word": "増殖能",
+      "reading": "ぞーしょくのー",
+      "meaning": "khả năng tăng trưởng"
+    },
+    {
+      "word": "養殖",
+      "reading": "ようしょく",
+      "meaning": "nuôi trồng thủy sản"
+    },
+    {
+      "word": "養殖の",
+      "reading": "ようしょくの",
+      "meaning": "nuôi"
     }
   ]
 }

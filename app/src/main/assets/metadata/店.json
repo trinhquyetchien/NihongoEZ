@@ -95,24 +95,9 @@
       "meaning": "cửa hàng"
     },
     {
-      "word": "当店",
-      "reading": "とうてん",
-      "meaning": "kho này"
-    },
-    {
-      "word": "売店",
-      "reading": "ばいてん",
-      "meaning": "quầy bán hàng"
-    },
-    {
-      "word": "店内",
-      "reading": "てんない",
-      "meaning": "bên trong cửa hàng"
-    },
-    {
-      "word": "書店",
-      "reading": "しょてん",
-      "meaning": "cửa hàng sách"
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "người bán hàng"
     },
     {
       "word": "支店",
@@ -120,9 +105,24 @@
       "meaning": "công ty chi nhánh"
     },
     {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "cửa hàng sách"
+    },
+    {
       "word": "商店",
       "reading": "しょうてん",
       "meaning": "cửa hàng buôn bán"
+    },
+    {
+      "word": "売店",
+      "reading": "ばいてん",
+      "meaning": "quầy bán hàng"
+    },
+    {
+      "word": "店屋",
+      "reading": "みせや",
+      "meaning": "cửa hàng"
     },
     {
       "word": "お店",
@@ -130,14 +130,14 @@
       "meaning": "cửa hàng"
     },
     {
-      "word": "質店",
-      "reading": "しちてん",
-      "meaning": "tiệm cầm đồ"
+      "word": "分店",
+      "reading": "ぶんてん",
+      "meaning": "cửa hàng chi nhánh"
     },
     {
-      "word": "レコード店",
-      "reading": "レコードてん",
-      "meaning": "cửa hàng băng đĩa"
+      "word": "大店",
+      "reading": "おおだな",
+      "meaning": "cửa hàng lớn"
     }
   ]
 }

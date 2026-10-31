@@ -85,14 +85,19 @@
   ],
   "vocabulary": [
     {
-      "word": "魑魅",
-      "reading": "ちみ",
-      "meaning": "quỷ núi"
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaning": "ma lực"
     },
     {
-      "word": "魔魅",
-      "reading": "まみ",
-      "meaning": "lừa dối tinh thần"
+      "word": "魅力的",
+      "reading": "みりょくてき",
+      "meaning": "có sức quyến rũ"
+    },
+    {
+      "word": "魅了",
+      "reading": "みりょう",
+      "meaning": "sự mê hoặc"
     },
     {
       "word": "魅惑",
@@ -100,19 +105,9 @@
       "meaning": "sự quyến rũ"
     },
     {
-      "word": "魅す",
-      "reading": "ばかす",
-      "meaning": "làm say mê"
-    },
-    {
-      "word": "魅力",
-      "reading": "みりょく",
-      "meaning": "ma lực"
-    },
-    {
-      "word": "魅了",
-      "reading": "みりょう",
-      "meaning": "sự mê hoặc"
+      "word": "魅惑的",
+      "reading": "みわくてき",
+      "meaning": "mỵ"
     },
     {
       "word": "鬼魅",
@@ -125,14 +120,19 @@
       "meaning": "nguyền rủa"
     },
     {
-      "word": "魅する",
-      "reading": "みする",
-      "meaning": "mê hoặc"
+      "word": "魑魅",
+      "reading": "ちみ",
+      "meaning": "quỷ núi"
     },
     {
       "word": "魅入る",
       "reading": "みいる",
       "meaning": "để bị mê hoặc hoặc sở hữu"
+    },
+    {
+      "word": "魔魅",
+      "reading": "まみ",
+      "meaning": "lừa dối tinh thần"
     }
   ]
 }

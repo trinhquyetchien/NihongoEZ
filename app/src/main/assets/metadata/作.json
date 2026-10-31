@@ -92,29 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "作",
-      "reading": "さく",
-      "meaning": "công việc"
-    },
-    {
-      "word": "作詞作曲",
-      "reading": "さくしさっきょく",
-      "meaning": "việc viết lời và sáng tác nhạc"
-    },
-    {
-      "word": "作ら",
-      "reading": "つくら",
-      "meaning": "làm"
-    },
-    {
-      "word": "作命",
-      "reading": "さくめい",
-      "meaning": "lệnh hoạt động"
-    },
-    {
       "word": "作文",
       "reading": "さくぶん",
       "meaning": "sự đặt câu"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "bản đàn"
     },
     {
       "word": "作業",
@@ -122,9 +107,24 @@
       "meaning": "công việc"
     },
     {
-      "word": "耕作",
-      "reading": "こうさく",
-      "meaning": "canh tác"
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "người sáng tạo ra các tác phẩm nghệ thuật"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "sự sáng tác"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "thái độ"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "đặt ra"
     },
     {
       "word": "傑作",
@@ -132,14 +132,14 @@
       "meaning": "kiệt tác"
     },
     {
-      "word": "自作",
-      "reading": "じさく",
-      "meaning": "một có sở hữu làm việc"
+      "word": "作製",
+      "reading": "さくせい",
+      "meaning": "sự sản xuất"
     },
     {
-      "word": "凶作",
-      "reading": "きょうさく",
-      "meaning": "sự mất mùa"
+      "word": "作り",
+      "reading": "つくり",
+      "meaning": "đồ hoá trang"
     }
   ]
 }

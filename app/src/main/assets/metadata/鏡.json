@@ -90,6 +90,11 @@
   ],
   "vocabulary": [
     {
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "kính"
+    },
+    {
       "word": "鏡",
       "reading": "かがみ",
       "meaning": "cái gương"
@@ -100,44 +105,39 @@
       "meaning": "kính soi âm đạo"
     },
     {
-      "word": "鏡板",
-      "reading": "かがみいた",
-      "meaning": "tấm bảng"
+      "word": "円鏡",
+      "reading": "えんきょう",
+      "meaning": "gương tròn"
     },
     {
-      "word": "鏡面",
-      "reading": "きょうめん",
-      "meaning": "bề mặt gương"
-    },
-    {
-      "word": "鏡像",
-      "reading": "きょうぞう",
-      "meaning": "hình ảnh phản chiếu trong gương phẳng"
-    },
-    {
-      "word": "翼鏡",
-      "reading": "よくきょう",
-      "meaning": "gương cánh"
-    },
-    {
-      "word": "鏡藷",
-      "reading": "かがみいも",
-      "meaning": "metaplexis japonica"
-    },
-    {
-      "word": "鸞鏡",
-      "reading": "らんきょう",
-      "meaning": "gương với một con chim thần thoại trung quốc khắc vào phía sau"
-    },
-    {
-      "word": "鏡匣",
+      "word": "鏡高",
       "reading": "きょうこう",
-      "meaning": "hộp gương"
+      "meaning": "chiều cao một gương đứng"
     },
     {
-      "word": "鏡映",
-      "reading": "きょうえい",
-      "meaning": "sự phản chiếu"
+      "word": "主鏡",
+      "reading": "しゅきょう",
+      "meaning": "gương chính"
+    },
+    {
+      "word": "鏡割",
+      "reading": "かがみわり",
+      "meaning": "cạy một thùng mục đích nghi thức"
+    },
+    {
+      "word": "耳鏡",
+      "reading": "じきょう",
+      "meaning": "ống soi tai"
+    },
+    {
+      "word": "副鏡",
+      "reading": "ふくきょう",
+      "meaning": "gương phụ"
+    },
+    {
+      "word": "和鏡",
+      "reading": "わきょう",
+      "meaning": "gương kiểu nhật"
     }
   ]
 }

@@ -117,24 +117,39 @@
       "meaning": "sự đối"
     },
     {
-      "word": "一対一対応",
-      "reading": "いちたいいちたいおう",
-      "meaning": "sự tương ứng một một"
+      "word": "対処",
+      "reading": "たいしょ",
+      "meaning": "sự đối xử"
     },
     {
-      "word": "対角 / 対頂角",
-      "reading": "たいかく",
-      "meaning": "opposite angle"
+      "word": "対抗",
+      "reading": "たいこう",
+      "meaning": "sự đối kháng"
     },
     {
-      "word": "国対",
-      "reading": "こくたい",
-      "meaning": "ủy ban đối sách quốc hội"
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "tương đối"
     },
     {
-      "word": "一対一の対応",
-      "reading": "いちたいいちのたいおー",
-      "meaning": "tương ứng một đối một"
+      "word": "対中",
+      "reading": "たいちゅう",
+      "meaning": "quan hệ đối với trung quốc"
+    },
+    {
+      "word": "一対",
+      "reading": "いっつい",
+      "meaning": "một cặp tấm bình phong hoặc bình sứ...)"
+    },
+    {
+      "word": "対米",
+      "reading": "たいべい",
+      "meaning": "gắn liền với usa"
+    },
+    {
+      "word": "対艦",
+      "reading": "たいかん",
+      "meaning": "chống hạm"
     },
     {
       "word": "対合",
@@ -142,24 +157,9 @@
       "meaning": "ánh xạ đối hợp"
     },
     {
-      "word": "対す",
-      "reading": "たいす",
-      "meaning": "đối với"
-    },
-    {
-      "word": "対価",
-      "reading": "たいか",
-      "meaning": "sự bồi thường"
-    },
-    {
-      "word": "対イオン",
-      "reading": "たいイオン",
-      "meaning": "ion đối"
-    },
-    {
-      "word": "対聯",
-      "reading": "ついれん",
-      "meaning": "cặp câu"
+      "word": "対角",
+      "reading": "たいかく",
+      "meaning": "góc đối đỉnh"
     }
   ]
 }

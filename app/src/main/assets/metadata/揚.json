@@ -91,24 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "揚揚",
-      "reading": "ようよう",
-      "meaning": "sự xếp đặt"
-    },
-    {
-      "word": "意気揚揚",
-      "reading": "いきようよう",
-      "meaning": "dương dương tự đắc"
-    },
-    {
       "word": "揚げ",
       "reading": "あげ",
       "meaning": "đậu phụ rán"
     },
     {
-      "word": "揚羽",
-      "reading": "あげは",
-      "meaning": "loài bướm đuôi én"
+      "word": "内揚げ",
+      "reading": "うちあげ",
+      "meaning": "chiên ngập dầu"
+    },
+    {
+      "word": "揚げ床",
+      "reading": "あげどこ",
+      "meaning": "luống gieo hạt nâng cao"
+    },
+    {
+      "word": "厚揚げ",
+      "reading": "あつあげ",
+      "meaning": "miếng đậu phụ rán dầy"
+    },
+    {
+      "word": "薄揚げ",
+      "reading": "うすあげ",
+      "meaning": "đậu phụ xắt miếng mỏng và rán kỹ"
+    },
+    {
+      "word": "串揚げ",
+      "reading": "くしあげ",
+      "meaning": "xiên thịt và rau khi nướng"
+    },
+    {
+      "word": "胴揚げ",
+      "reading": "どうあげ",
+      "meaning": "sự tung người nào đó lên cao"
     },
     {
       "word": "高揚",
@@ -116,29 +131,14 @@
       "meaning": "sự khích lệ"
     },
     {
-      "word": "昂揚",
-      "reading": "こうよう",
-      "meaning": "sự tăng cao"
+      "word": "凧揚げ",
+      "reading": "たこあげ",
+      "meaning": "thả diều"
     },
     {
-      "word": "悠揚",
-      "reading": "ゆうよう",
-      "meaning": "bình tĩnh"
-    },
-    {
-      "word": "揚陸",
-      "reading": "ようりく",
-      "meaning": "sự đổ bộ"
-    },
-    {
-      "word": "浮揚",
-      "reading": "ふよう",
-      "meaning": "sự nổi"
-    },
-    {
-      "word": "掲揚",
-      "reading": "けいよう",
-      "meaning": "sự giương cờ"
+      "word": "大揚",
+      "reading": "おおよう",
+      "meaning": "largeheartedness"
     }
   ]
 }

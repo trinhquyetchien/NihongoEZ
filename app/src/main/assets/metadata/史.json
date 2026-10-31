@@ -104,8 +104,8 @@
   ],
   "vocabulary": [
     {
-      "word": "史",
-      "reading": "し",
+      "word": "歴史",
+      "reading": "れきし",
       "meaning": "lịch sử"
     },
     {
@@ -114,44 +114,44 @@
       "meaning": "bà"
     },
     {
-      "word": "史的",
-      "reading": "してき",
-      "meaning": "có tính chất lịch sử"
+      "word": "史",
+      "reading": "し",
+      "meaning": "lịch sử"
     },
     {
-      "word": "史学",
-      "reading": "しがく",
-      "meaning": "sử học"
+      "word": "全史",
+      "reading": "ぜんし",
+      "meaning": "hoàn thành lịch sử"
     },
     {
-      "word": "史書",
-      "reading": "ししょ",
-      "meaning": "sử sách"
+      "word": "社史",
+      "reading": "しゃし",
+      "meaning": "lịch sử hình thành và phát triển của công ty"
     },
     {
-      "word": "史家",
-      "reading": "しか",
-      "meaning": "nhà viết sử"
+      "word": "史上",
+      "reading": "しじょう",
+      "meaning": "xét về mặt lịch sử"
     },
     {
-      "word": "漁史",
-      "reading": "ぎょし",
-      "meaning": "hậu tố thường được thêm sau bút danh của nhà văn"
+      "word": "経史",
+      "reading": "けいし",
+      "meaning": "cổ điển tiếng trung hoa"
     },
     {
-      "word": "偽史",
-      "reading": "ぎし",
-      "meaning": "làm giả lịch sử"
-    },
-    {
-      "word": "史実",
-      "reading": "しじつ",
-      "meaning": "sự thực lịch sử"
-    },
-    {
-      "word": "史観",
-      "reading": "しかん",
+      "word": "史眼",
+      "reading": "しがん",
       "meaning": "quan điểm lịch sử"
+    },
+    {
+      "word": "史略",
+      "reading": "しりゃく",
+      "meaning": "sử lược"
+    },
+    {
+      "word": "略史",
+      "reading": "りゃくし",
+      "meaning": "lịch sử tóm tắt"
     }
   ]
 }

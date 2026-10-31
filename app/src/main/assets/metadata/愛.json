@@ -98,24 +98,39 @@
       "meaning": "tình yêu"
     },
     {
-      "word": "愛愛しい",
-      "reading": "あいあいしい",
-      "meaning": "đáng yêu"
-    },
-    {
-      "word": "愛し愛される",
-      "reading": "あいしあいされる",
-      "meaning": "yêu và được yêu"
-    },
-    {
       "word": "愛憎",
       "reading": "あいぞう",
       "meaning": "sự yêu ghét"
     },
     {
-      "word": "親愛",
-      "reading": "しんあい",
-      "meaning": "thân ái"
+      "word": "愛様",
+      "reading": "いとさん",
+      "meaning": "quý bà"
+    },
+    {
+      "word": "愛楽",
+      "reading": "あいぎょう",
+      "meaning": "tình yêu"
+    },
+    {
+      "word": "愛器",
+      "reading": "あいき",
+      "meaning": "các thiết bị mà chúng ta thích sử dụng và trân trọng"
+    },
+    {
+      "word": "愛液",
+      "reading": "あいえき",
+      "meaning": "tinh dịch"
+    },
+    {
+      "word": "切愛",
+      "reading": "せつあい",
+      "meaning": "tình yêu sâu đậm"
+    },
+    {
+      "word": "愛国",
+      "reading": "あいこく",
+      "meaning": "yêu nước"
     },
     {
       "word": "愛子",
@@ -123,24 +138,9 @@
       "meaning": "trẻ em thân mến được yêu mến"
     },
     {
-      "word": "敬愛",
-      "reading": "けいあい",
-      "meaning": "sự yêu mến và kính trọng"
-    },
-    {
-      "word": "慈愛",
-      "reading": "じあい",
-      "meaning": "sự âu yếm"
-    },
-    {
-      "word": "愛犬",
-      "reading": "あいけん",
-      "meaning": "con chó yêu"
-    },
-    {
-      "word": "愛国",
-      "reading": "あいこく",
-      "meaning": "yêu nước"
+      "word": "愛称",
+      "reading": "あいしょう",
+      "meaning": "tên gọi cho con vật cảnh"
     }
   ]
 }

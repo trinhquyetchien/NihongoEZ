@@ -94,39 +94,9 @@
       "meaning": "đèo ải"
     },
     {
-      "word": "渓水",
-      "reading": "けいすい",
-      "meaning": "nước suối"
-    },
-    {
-      "word": "渓壑",
-      "reading": "けいがく",
-      "meaning": "thung lũng sâu"
-    },
-    {
       "word": "渓声",
       "reading": "けいせい",
       "meaning": "kêu một dòng thung lũng"
-    },
-    {
-      "word": "渓泉",
-      "reading": "けいせん",
-      "meaning": "suối khe"
-    },
-    {
-      "word": "渓澗",
-      "reading": "けいかん",
-      "meaning": "thung lũng"
-    },
-    {
-      "word": "雪渓",
-      "reading": "せっけい",
-      "meaning": "thung lũng tuyết"
-    },
-    {
-      "word": "渓流",
-      "reading": "けいりゅう",
-      "meaning": "suối nước nguồn"
     },
     {
       "word": "渓間",
@@ -134,9 +104,39 @@
       "meaning": "khe núi"
     },
     {
+      "word": "渓水",
+      "reading": "けいすい",
+      "meaning": "nước suối"
+    },
+    {
+      "word": "渓泉",
+      "reading": "けいせん",
+      "meaning": "suối khe"
+    },
+    {
       "word": "厳美渓",
       "reading": "げんびけい",
       "meaning": "genbi ngốn"
+    },
+    {
+      "word": "渓流",
+      "reading": "けいりゅう",
+      "meaning": "suối nước nguồn"
+    },
+    {
+      "word": "雪渓",
+      "reading": "せっけい",
+      "meaning": "thung lũng tuyết"
+    },
+    {
+      "word": "渓澗",
+      "reading": "けいかん",
+      "meaning": "thung lũng"
+    },
+    {
+      "word": "渓壑",
+      "reading": "けいがく",
+      "meaning": "thung lũng sâu"
     }
   ]
 }

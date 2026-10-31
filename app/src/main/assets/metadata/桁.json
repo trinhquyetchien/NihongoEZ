@@ -88,21 +88,6 @@
       "meaning": "nhịp cầu"
     },
     {
-      "word": "主桁",
-      "reading": "しゅげた",
-      "meaning": "dầm chính"
-    },
-    {
-      "word": "四桁",
-      "reading": "よけた",
-      "meaning": "số bốn chữ số"
-    },
-    {
-      "word": "三桁",
-      "reading": "さんけた",
-      "meaning": "số ba chữ số"
-    },
-    {
       "word": "一桁",
       "reading": "ひとけた",
       "meaning": "một chữ số"
@@ -113,24 +98,39 @@
       "meaning": "số hai chữ số"
     },
     {
-      "word": "井桁",
-      "reading": "いげた",
-      "meaning": "thành giếng"
+      "word": "桁数",
+      "reading": "けたすう",
+      "meaning": "số chữ số"
     },
     {
-      "word": "衣桁",
-      "reading": "いこう",
-      "meaning": "giá treo kimono"
+      "word": "三桁",
+      "reading": "さんけた",
+      "meaning": "số ba chữ số"
     },
     {
-      "word": "五桁",
-      "reading": "ごけた",
-      "meaning": "số năm chữ số"
+      "word": "桁下",
+      "reading": "けたした",
+      "meaning": "khổ giới hạn của cầu"
     },
     {
-      "word": "桁橋",
-      "reading": "けたばし",
-      "meaning": "cầu có rầm bắt ngang qua"
+      "word": "側桁",
+      "reading": "がわげた",
+      "meaning": "dầm cầu thang"
+    },
+    {
+      "word": "下二桁",
+      "reading": "しもふたけた",
+      "meaning": "lần cuối hai xuất hiện một số"
+    },
+    {
+      "word": "主桁",
+      "reading": "しゅげた",
+      "meaning": "dầm chính"
+    },
+    {
+      "word": "桁落ち",
+      "reading": "けたおち",
+      "meaning": "mất chữ số"
     }
   ]
 }

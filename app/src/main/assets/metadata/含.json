@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "含む",
+      "reading": "ふくむ",
+      "meaning": "ngậm"
+    },
+    {
+      "word": "含める",
+      "reading": "ふくめる",
+      "meaning": "bao gồm"
+    },
+    {
+      "word": "含嗽",
+      "reading": "がんそう",
+      "meaning": "sự súc miệng"
+    },
+    {
+      "word": "含ます",
+      "reading": "ふくます",
+      "meaning": "ngâm"
+    },
+    {
+      "word": "含め煮",
+      "reading": "ふくめに",
+      "meaning": "thức ăn sôi trong xi rô đường"
+    },
+    {
       "word": "含み",
       "reading": "ふくみ",
       "meaning": "sự liên quan"
     },
     {
-      "word": "含水",
-      "reading": "がんすい",
-      "meaning": "có nước"
+      "word": "弱含み",
+      "reading": "よわふくみ",
+      "meaning": "dần dần yếu và giảm đi"
     },
     {
-      "word": "含糖",
-      "reading": "がんとう",
-      "meaning": "bọc đường nội dung"
+      "word": "利含み",
+      "reading": "りふくみ",
+      "meaning": "cộng dồn lãi"
     },
     {
-      "word": "含蓄",
-      "reading": "がんちく",
-      "meaning": "sự hàm súc"
+      "word": "含有",
+      "reading": "がんゆう",
+      "meaning": "sự chứa đựng"
     },
     {
-      "word": "含味",
-      "reading": "がんみ",
-      "meaning": "nếm mùi"
-    },
-    {
-      "word": "含油",
-      "reading": "がんゆ",
-      "meaning": "chứa dầu"
-    },
-    {
-      "word": "内含",
-      "reading": "ないがん",
-      "meaning": "sự ẩn ý"
-    },
-    {
-      "word": "含量",
-      "reading": "がんりょう",
-      "meaning": "bằng lòng"
-    },
-    {
-      "word": "含意",
-      "reading": "がんい",
-      "meaning": "sự liên quan"
-    },
-    {
-      "word": "含羞",
-      "reading": "がんしゅう",
-      "meaning": "tính nhút nhát"
+      "word": "含有率",
+      "reading": "がんゆうりつ",
+      "meaning": "nội dung bởi phần trăm"
     }
   ]
 }

@@ -87,44 +87,29 @@
   ],
   "vocabulary": [
     {
-      "word": "厄",
-      "reading": "やく",
-      "meaning": "điều bất hạnh"
+      "word": "厄介",
+      "reading": "やっかい",
+      "meaning": "phiền hà"
     },
     {
-      "word": "厄災",
-      "reading": "やくさい",
-      "meaning": "tai họa"
+      "word": "厄介な",
+      "reading": "やっかいな",
+      "meaning": "phiền hà"
     },
     {
-      "word": "苦厄",
-      "reading": "くやく",
-      "meaning": "khó khăn và bất hạnh"
+      "word": "厄介者",
+      "reading": "やっかいもの",
+      "meaning": "người phụ thuộc"
     },
     {
-      "word": "前厄",
-      "reading": "まえやく",
-      "meaning": "năm trước năm hạn"
+      "word": "厄介事",
+      "reading": "やっかいごと",
+      "meaning": "chuyện rắc rối"
     },
     {
-      "word": "厄日",
-      "reading": "やくび",
-      "meaning": "ngày đen đủi"
-    },
-    {
-      "word": "厄前",
-      "reading": "やくまえ",
-      "meaning": "năm trước năm hạn"
-    },
-    {
-      "word": "厄年",
-      "reading": "やくどし",
-      "meaning": "năm không may mắn"
-    },
-    {
-      "word": "厄難",
-      "reading": "やくなん",
-      "meaning": "tai họa"
+      "word": "厄介物",
+      "reading": "やっかいもの",
+      "meaning": "mối gây thiệt hại"
     },
     {
       "word": "災厄",
@@ -132,9 +117,24 @@
       "meaning": "việc rủi ro"
     },
     {
-      "word": "大厄",
-      "reading": "たいやく",
-      "meaning": "tai hoạ"
+      "word": "厄",
+      "reading": "やく",
+      "meaning": "điều bất hạnh"
+    },
+    {
+      "word": "本厄",
+      "reading": "ほんやく",
+      "meaning": "năm hạn"
+    },
+    {
+      "word": "厄負け",
+      "reading": "やくまけ",
+      "meaning": "là nạn nhân của một năm xấu"
+    },
+    {
+      "word": "苦厄",
+      "reading": "くやく",
+      "meaning": "khó khăn và bất hạnh"
     }
   ]
 }

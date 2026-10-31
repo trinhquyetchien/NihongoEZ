@@ -93,11 +93,6 @@
   ],
   "vocabulary": [
     {
-      "word": "寿",
-      "reading": "ことぶき",
-      "meaning": "lời chúc mừng"
-    },
-    {
       "word": "寿命",
       "reading": "じゅみょう",
       "meaning": "tuổi thọ"
@@ -108,39 +103,44 @@
       "meaning": "món ăn sushi của nhật"
     },
     {
-      "word": "寿福",
-      "reading": "じゅふく",
-      "meaning": "trường thọ và hạnh phúc"
+      "word": "巻寿司",
+      "reading": "まきずし",
+      "meaning": "cuộn sushi"
     },
     {
-      "word": "頌寿",
-      "reading": "しょうじゅ",
-      "meaning": "mừng thọ"
+      "word": "寿司飯",
+      "reading": "すしめし",
+      "meaning": "cơm để làm sushi"
     },
     {
-      "word": "喜寿",
-      "reading": "きじゅ",
-      "meaning": "mừng thọ lần thứ 77"
+      "word": "寿",
+      "reading": "ことぶき",
+      "meaning": "lời chúc mừng"
     },
     {
-      "word": "傘寿",
-      "reading": "さんじゅ",
-      "meaning": "sinh nhật mừng 80 tuổi"
+      "word": "寿名",
+      "reading": "じゅめい",
+      "meaning": "tuổi thọ"
     },
     {
-      "word": "仁寿",
-      "reading": "にんじゅ",
-      "meaning": "niên hiệu ninju của thiên hoàng montoku"
+      "word": "寿く",
+      "reading": "ことぶく",
+      "meaning": "chúc mừng"
     },
     {
-      "word": "寿永",
-      "reading": "じゅえい",
-      "meaning": "juei era"
+      "word": "星寿",
+      "reading": "せいじゅ",
+      "meaning": "sinh nhật lần thứ 90"
     },
     {
-      "word": "久寿",
-      "reading": "きゅうじゅ",
-      "meaning": "kyūju"
+      "word": "寿府",
+      "reading": "ジュネーブ",
+      "meaning": "thành phố genève"
+    },
+    {
+      "word": "寿教室",
+      "reading": "ことぶききょうしつ",
+      "meaning": "những hướng văn hóa cho người có tuổi"
     }
   ]
 }

@@ -86,14 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "些些たる",
-      "reading": "ささたる",
-      "meaning": "chuyện vụn vặt"
-    },
-    {
-      "word": "些か",
-      "reading": "いささか",
-      "meaning": "chút"
+      "word": "些事",
+      "reading": "さじ",
+      "meaning": "chuyện nhỏ"
     },
     {
       "word": "些細",
@@ -101,24 +96,14 @@
       "meaning": "chuyện vặt"
     },
     {
-      "word": "些少",
-      "reading": "さしょう",
-      "meaning": "chuyện vụn vặt"
+      "word": "些か",
+      "reading": "いささか",
+      "meaning": "chút"
     },
     {
       "word": "些と",
       "reading": "ちっと",
       "meaning": "một chút"
-    },
-    {
-      "word": "些事",
-      "reading": "さじ",
-      "meaning": "chuyện nhỏ"
-    },
-    {
-      "word": "些々",
-      "reading": "ささ",
-      "meaning": "nhỏ nhặt"
     },
     {
       "word": "些とも",
@@ -129,6 +114,21 @@
       "word": "些さか",
       "reading": "",
       "meaning": "một nhỏ bé"
+    },
+    {
+      "word": "些少",
+      "reading": "さしょう",
+      "meaning": "chuyện vụn vặt"
+    },
+    {
+      "word": "些々",
+      "reading": "ささ",
+      "meaning": "nhỏ nhặt"
+    },
+    {
+      "word": "些些たる",
+      "reading": "ささたる",
+      "meaning": "chuyện vụn vặt"
     },
     {
       "word": "些々たる",

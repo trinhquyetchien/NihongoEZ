@@ -90,39 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "売価（売値）",
-      "reading": "ばいか（うりね）",
-      "meaning": "giá bán"
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "bán"
     },
     {
-      "word": "売買販売契約",
-      "reading": "ばいばいはんばいけいやく",
-      "meaning": "hợp đồng bán"
-    },
-    {
-      "word": "米国小売売上高",
-      "reading": "べーこくこうりうりあげだか",
-      "meaning": "doanh số bán lẻ tại mỹ"
-    },
-    {
-      "word": "ながうれる 名が売れる",
-      "reading": "名が売れる",
-      "meaning": "danh tiếng được biết đến trên toàn thế giới"
-    },
-    {
-      "word": "売店",
-      "reading": "ばいてん",
-      "meaning": "quầy bán hàng"
-    },
-    {
-      "word": "売場",
-      "reading": "うりば",
-      "meaning": "quầy"
-    },
-    {
-      "word": "売上",
-      "reading": "うりあげ",
-      "meaning": "số thu nhập"
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "việc bán"
     },
     {
       "word": "商売",
@@ -130,14 +105,39 @@
       "meaning": "bán buôn"
     },
     {
-      "word": "完売",
-      "reading": "かんばい",
-      "meaning": "sự bán hết"
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "sự phát hành"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "buôn bán"
+    },
+    {
+      "word": "売店",
+      "reading": "ばいてん",
+      "meaning": "quầy bán hàng"
+    },
+    {
+      "word": "特売",
+      "reading": "とくばい",
+      "meaning": "sự bán rẻ"
     },
     {
       "word": "小売",
       "reading": "こうり",
       "meaning": "bán lẻ"
+    },
+    {
+      "word": "売り",
+      "reading": "うり",
+      "meaning": "sự bán"
+    },
+    {
+      "word": "売上",
+      "reading": "うりあげ",
+      "meaning": "số thu nhập"
     }
   ]
 }

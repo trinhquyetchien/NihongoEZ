@@ -57,14 +57,24 @@
   ],
   "vocabulary": [
     {
+      "word": "麻雀",
+      "reading": "マージャン",
+      "meaning": "mạt chược"
+    },
+    {
       "word": "雀",
       "reading": "すずめ",
       "meaning": "chim sẻ"
     },
     {
-      "word": "雀蜂",
-      "reading": "すずめばち",
-      "meaning": "ong bắp cày"
+      "word": "家雀",
+      "reading": "いえすずめ",
+      "meaning": "chim sẻ nhà"
+    },
+    {
+      "word": "雀頭",
+      "reading": "ジャントー",
+      "meaning": "đôi"
     },
     {
       "word": "海雀",
@@ -72,39 +82,29 @@
       "meaning": "synthliboramphus antiquus"
     },
     {
-      "word": "雀蛾",
-      "reading": "すずめが",
-      "meaning": "sphingidae"
+      "word": "雀士",
+      "reading": "ジャンし",
+      "meaning": "người chơi mạt chược"
     },
     {
-      "word": "燕雀",
-      "reading": "えんじゃく",
-      "meaning": "<tôn> cõi niết bàn"
+      "word": "川雀",
+      "reading": "かわすずめ",
+      "meaning": "cá cichlid"
     },
     {
-      "word": "群雀",
-      "reading": "むらすずめ",
-      "meaning": "bầy chim sẻ"
+      "word": "五十雀",
+      "reading": "ごじゅうから",
+      "meaning": "eurasian nuthatch"
     },
     {
-      "word": "雀羅",
-      "reading": "じゃくら",
-      "meaning": "lưới bắt chim sẻ"
+      "word": "雀鬼",
+      "reading": "ジャンき",
+      "meaning": "người chơi mạt chược có tay nghề"
     },
     {
-      "word": "雀卓",
-      "reading": "ジャンたく",
-      "meaning": "tấm bảng mahjong"
-    },
-    {
-      "word": "蜂雀",
-      "reading": "はちすずめ",
-      "meaning": "chim ruồi"
-    },
-    {
-      "word": "朱雀",
-      "reading": "すざく",
-      "meaning": "chu tước"
+      "word": "姫海雀",
+      "reading": "ひめうみすずめ",
+      "meaning": "alle alle"
     }
   ]
 }

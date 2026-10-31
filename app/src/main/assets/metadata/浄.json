@@ -91,24 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "浄書",
-      "reading": "じょうしょ",
-      "meaning": "sạch sẽ sao chép"
+      "word": "洗浄",
+      "reading": "せんじょう",
+      "meaning": "sự làm sạch"
     },
     {
-      "word": "浄土",
-      "reading": "じょうど",
-      "meaning": "tịnh độ"
-    },
-    {
-      "word": "不浄",
-      "reading": "ふじょう",
-      "meaning": "không sạch"
-    },
-    {
-      "word": "浄水",
-      "reading": "じょうすい",
-      "meaning": "làm sạch nước"
+      "word": "洗浄機",
+      "reading": "せんじょうき",
+      "meaning": "máy vệ sinh"
     },
     {
       "word": "浄化",
@@ -116,29 +106,39 @@
       "meaning": "việc làm sạch"
     },
     {
-      "word": "浄罪",
-      "reading": "じょうざい",
-      "meaning": "sự rửa sạch tội"
+      "word": "洗浄器",
+      "reading": "せんじょうき",
+      "meaning": "máy làm sạch"
     },
     {
-      "word": "浄財",
-      "reading": "じょうざい",
-      "meaning": "sự cúng tặng tiền cho chùa"
+      "word": "浄化機",
+      "reading": "じょうかき",
+      "meaning": "máy lọc không khí"
     },
     {
-      "word": "浄衣",
-      "reading": "じょうえ",
-      "meaning": "áo choàng trắng hoặc trang phục"
+      "word": "洗浄剤",
+      "reading": "せんじょうざい",
+      "meaning": "chất tẩy rửa"
     },
     {
-      "word": "自浄",
-      "reading": "じじょう",
-      "meaning": "sự tự làm sạch"
+      "word": "鼻洗浄",
+      "reading": "はなせんじょう",
+      "meaning": "vệ sinh mũi"
     },
     {
-      "word": "浄域",
-      "reading": "じょういき",
-      "meaning": "khu vực linh thiêng"
+      "word": "胃洗浄",
+      "reading": "いせんじょう",
+      "meaning": "sự rửa dạ dày"
+    },
+    {
+      "word": "洗浄瓶",
+      "reading": "せんじょうびん",
+      "meaning": "bình tia"
+    },
+    {
+      "word": "洗浄圧",
+      "reading": "せんじょーあつ",
+      "meaning": "áp suất rửa sạch vết thương"
     }
   ]
 }

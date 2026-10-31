@@ -104,39 +104,39 @@
   ],
   "vocabulary": [
     {
-      "word": "隊",
-      "reading": "たい",
-      "meaning": "đội"
-    },
-    {
       "word": "軍隊",
       "reading": "ぐんたい",
       "meaning": "binh"
     },
     {
-      "word": "レスキュー隊",
-      "reading": "レスキューたい",
-      "meaning": "cứu tổ"
+      "word": "兵隊",
+      "reading": "へいたい",
+      "meaning": "binh"
     },
     {
-      "word": "隊商",
-      "reading": "たいしょう",
-      "meaning": "đoàn người đi buôn"
+      "word": "隊",
+      "reading": "たい",
+      "meaning": "đội"
     },
     {
-      "word": "横隊",
-      "reading": "おうたい",
-      "meaning": "đội xếp hàng ngang"
+      "word": "一隊",
+      "reading": "いったい",
+      "meaning": "một phe"
     },
     {
-      "word": "原隊",
-      "reading": "げんたい",
-      "meaning": "đơn vị cũ"
+      "word": "全隊",
+      "reading": "ぜんたい",
+      "meaning": "toàn bộ lực lượng những người lính)"
     },
     {
-      "word": "枝隊",
-      "reading": "したい",
-      "meaning": "tách lực lượng"
+      "word": "撮影隊",
+      "reading": "さつえいたい",
+      "meaning": "đoàn quay phim"
+    },
+    {
+      "word": "部隊",
+      "reading": "ぶたい",
+      "meaning": "binh đội"
     },
     {
       "word": "隊士",
@@ -144,14 +144,14 @@
       "meaning": "lính trung đoàn"
     },
     {
-      "word": "大隊",
-      "reading": "だいたい",
-      "meaning": "đại đội"
+      "word": "艦隊",
+      "reading": "かんたい",
+      "meaning": "hạm đội"
     },
     {
-      "word": "戦隊",
-      "reading": "せんたい",
-      "meaning": "đoàn"
+      "word": "敵艦隊",
+      "reading": "てきかんたい",
+      "meaning": "hạm đội địch"
     }
   ]
 }

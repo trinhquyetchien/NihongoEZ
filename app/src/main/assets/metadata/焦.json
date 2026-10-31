@@ -94,34 +94,19 @@
   ],
   "vocabulary": [
     {
-      "word": "焦げ焦げ",
-      "reading": "こげこげ",
-      "meaning": "hết cách cứu vãn"
-    },
-    {
       "word": "焦点",
       "reading": "しょうてん",
       "meaning": "tiêu điểm"
     },
     {
-      "word": "焦げ",
-      "reading": "こげ",
-      "meaning": "đốt cháy"
+      "word": "焦げる",
+      "reading": "こげる",
+      "meaning": "bị cháy"
     },
     {
-      "word": "三焦",
-      "reading": "さんしょう",
-      "meaning": "tam tiêu"
-    },
-    {
-      "word": "焦燥",
-      "reading": "しょうそう",
-      "meaning": "nóng nảy"
-    },
-    {
-      "word": "焦躁",
-      "reading": "しょうそう",
-      "meaning": "sự nôn nóng"
+      "word": "焦がす",
+      "reading": "こがす",
+      "meaning": "làm cháy"
     },
     {
       "word": "焦る",
@@ -134,14 +119,29 @@
       "meaning": "sự bồn chồn"
     },
     {
-      "word": "焦心",
-      "reading": "しょうしん",
-      "meaning": "thiếu kiên nhẫn"
+      "word": "焦げ",
+      "reading": "こげ",
+      "meaning": "đốt cháy"
     },
     {
-      "word": "焦熱",
-      "reading": "しょうねつ",
-      "meaning": "cái nóng như thiêu đốt mọi thứ"
+      "word": "お焦げ",
+      "reading": "おこげ",
+      "meaning": "gạo cháy"
+    },
+    {
+      "word": "焦がし",
+      "reading": "こがし",
+      "meaning": "bột làm từ gạo khô hoặc lúa mạch"
+    },
+    {
+      "word": "三焦",
+      "reading": "さんしょう",
+      "meaning": "tam tiêu"
+    },
+    {
+      "word": "下焦",
+      "reading": "かしょう",
+      "meaning": "hạ tiêu"
     }
   ]
 }

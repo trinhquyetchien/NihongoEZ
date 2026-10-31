@@ -66,6 +66,11 @@
   ],
   "vocabulary": [
     {
+      "word": "凋落",
+      "reading": "ちょうらく",
+      "meaning": "suy sụp"
+    },
+    {
       "word": "凋む",
       "reading": "しぼむ",
       "meaning": "tàn"
@@ -79,11 +84,6 @@
       "word": "凋残",
       "reading": "ちょうざん",
       "meaning": "sự điêu tàn"
-    },
-    {
-      "word": "凋落",
-      "reading": "ちょうらく",
-      "meaning": "suy sụp"
     },
     {
       "word": "凋悴",

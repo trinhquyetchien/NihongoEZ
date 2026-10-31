@@ -111,9 +111,19 @@
       "meaning": "ngoài"
     },
     {
-      "word": "トゥクリップ他",
-      "reading": "トゥクリップほか",
-      "meaning": "sorry"
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "khách"
+    },
+    {
+      "word": "他方",
+      "reading": "たほう",
+      "meaning": "phương khác"
+    },
+    {
+      "word": "他意",
+      "reading": "たい",
+      "meaning": "ác ý"
     },
     {
       "word": "他の",
@@ -121,39 +131,29 @@
       "meaning": "khác"
     },
     {
-      "word": "他説",
-      "reading": "たせつ",
-      "meaning": "thuyết khác"
+      "word": "他県",
+      "reading": "たけん",
+      "meaning": "tỉnh khác"
     },
     {
-      "word": "他筆",
-      "reading": "たひつ",
-      "meaning": "chữ viết của người khác"
+      "word": "他車",
+      "reading": "たしゃ",
+      "meaning": "xe ô tô khác"
     },
     {
-      "word": "他動",
-      "reading": "たどう",
-      "meaning": "ngoại động từ"
+      "word": "他店",
+      "reading": "たてん",
+      "meaning": "cửa hàng khác"
     },
     {
-      "word": "他州",
-      "reading": "たしゅう",
-      "meaning": "quốc gia khác"
+      "word": "他山",
+      "reading": "たざん",
+      "meaning": "núi khác"
     },
     {
-      "word": "他励",
-      "reading": "たれい",
-      "meaning": "phân ra sự kích thích"
-    },
-    {
-      "word": "他党",
-      "reading": "たとう",
-      "meaning": "các đảng khác"
-    },
-    {
-      "word": "他愛",
-      "reading": "たあい",
-      "meaning": "chủ nghĩa vị tha"
+      "word": "他村",
+      "reading": "たそん",
+      "meaning": "làng khác"
     }
   ]
 }

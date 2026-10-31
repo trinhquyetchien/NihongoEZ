@@ -90,19 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "境",
-      "reading": "さかい",
-      "meaning": "ranh giới"
-    },
-    {
-      "word": "環境測定(自然環境/安全環境)",
-      "reading": "かんきょうそくてい(しぜんかんきょう/あんぜんかんきょう)",
-      "meaning": "đo môi trường"
-    },
-    {
-      "word": "見境",
-      "reading": "みさかい",
-      "meaning": "sự phân biệt"
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaning": "hoàn cảnh"
     },
     {
       "word": "国境",
@@ -110,34 +100,44 @@
       "meaning": "biên giới"
     },
     {
-      "word": "境涯",
-      "reading": "きょうがい",
-      "meaning": "tình huống"
-    },
-    {
-      "word": "県境",
-      "reading": "けんざかい",
-      "meaning": "ranh giới giữa hai tỉnh"
-    },
-    {
-      "word": "入境",
-      "reading": "にゅうきょう",
-      "meaning": "vượt biên"
-    },
-    {
-      "word": "磐境",
-      "reading": "いわさか",
-      "meaning": "đền thờ"
-    },
-    {
-      "word": "窮境",
-      "reading": "きゅうきょう",
-      "meaning": "cảnh quẫn bách"
+      "word": "境",
+      "reading": "さかい",
+      "meaning": "ranh giới"
     },
     {
       "word": "境界",
       "reading": "きょうかい",
       "meaning": "biên giới"
+    },
+    {
+      "word": "境遇",
+      "reading": "きょうぐう",
+      "meaning": "cảnh ngộ"
+    },
+    {
+      "word": "境界層",
+      "reading": "きょうかいそう",
+      "meaning": "lớp biên"
+    },
+    {
+      "word": "人境",
+      "reading": "じんきょう",
+      "meaning": "nơi con người sinh sống"
+    },
+    {
+      "word": "万境",
+      "reading": "ばんきょう",
+      "meaning": "mọi nơi"
+    },
+    {
+      "word": "神境",
+      "reading": "しんきょう",
+      "meaning": "khu vực linh thiêng trong đền thần đạo"
+    },
+    {
+      "word": "歌境",
+      "reading": "かきょう",
+      "meaning": "hứng thơ"
     }
   ]
 }

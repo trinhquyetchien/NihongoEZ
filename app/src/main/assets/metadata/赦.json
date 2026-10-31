@@ -86,9 +86,29 @@
   ],
   "vocabulary": [
     {
+      "word": "容赦",
+      "reading": "ようしゃ",
+      "meaning": "sự tha thứ"
+    },
+    {
+      "word": "恩赦",
+      "reading": "おんしゃ",
+      "meaning": "ân xá"
+    },
+    {
       "word": "赦免",
       "reading": "しゃめん",
       "meaning": "sự tha thứ"
+    },
+    {
+      "word": "赦免状",
+      "reading": "しゃめんじょう",
+      "meaning": "thư ân xá"
+    },
+    {
+      "word": "赦す",
+      "reading": "ゆるす",
+      "meaning": "xá"
     },
     {
       "word": "特赦",
@@ -101,29 +121,9 @@
       "meaning": "sự tha tội"
     },
     {
-      "word": "容赦",
-      "reading": "ようしゃ",
-      "meaning": "sự tha thứ"
-    },
-    {
-      "word": "恩赦",
-      "reading": "おんしゃ",
-      "meaning": "ân xá"
-    },
-    {
-      "word": "赦す",
-      "reading": "ゆるす",
-      "meaning": "xá"
-    },
-    {
       "word": "天赦日",
       "reading": "てんしゃにち",
       "meaning": "ngày thiên xá"
-    },
-    {
-      "word": "赦免状",
-      "reading": "しゃめんじょう",
-      "meaning": "thư ân xá"
     },
     {
       "word": "容赦なく",

@@ -104,14 +104,29 @@
   ],
   "vocabulary": [
     {
+      "word": "署名",
+      "reading": "しょめい",
+      "meaning": "bí danh"
+    },
+    {
+      "word": "消防署",
+      "reading": "しょうぼうしょ",
+      "meaning": "cục phòng cháy chữa cháy"
+    },
+    {
+      "word": "税務署",
+      "reading": "ぜいむしょ",
+      "meaning": "phòng thuế"
+    },
+    {
       "word": "署",
       "reading": "しょ",
       "meaning": "trạm"
     },
     {
-      "word": "署名",
-      "reading": "しょめい",
-      "meaning": "bí danh"
+      "word": "警察署",
+      "reading": "けいさつしょ",
+      "meaning": "sở cảnh sát"
     },
     {
       "word": "東署",
@@ -119,39 +134,24 @@
       "meaning": "eastern department"
     },
     {
-      "word": "同署",
-      "reading": "どうしょ",
-      "meaning": "giống bên trên"
+      "word": "署名な",
+      "reading": "しょめいな",
+      "meaning": "nổi danh"
     },
     {
-      "word": "代署",
-      "reading": "だいしょ",
-      "meaning": "ra hiệu cho khác"
+      "word": "署名国",
+      "reading": "しょめいこく",
+      "meaning": "các nước đã ký kết"
     },
     {
-      "word": "本署",
-      "reading": "ほんしょ",
-      "meaning": "giữ trật tự bộ chỉ huy"
+      "word": "署名式",
+      "reading": "しょめいしき",
+      "meaning": "ra hiệu nghi lễ"
     },
     {
-      "word": "副署",
-      "reading": "ふくしょ",
-      "meaning": "tín hiệu đáp lại"
-    },
-    {
-      "word": "分署",
-      "reading": "ぶんしょ",
-      "meaning": "ga xép"
-    },
-    {
-      "word": "公署",
-      "reading": "こうしょ",
-      "meaning": "văn phòng chính phủ"
-    },
-    {
-      "word": "支署",
-      "reading": "ししょ",
-      "meaning": "ga xép"
+      "word": "無署名",
+      "reading": "むしょめい",
+      "meaning": "sự chưa ký tên"
     }
   ]
 }

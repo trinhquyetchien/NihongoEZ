@@ -94,34 +94,9 @@
       "meaning": "ngà"
     },
     {
-      "word": "象牙",
-      "reading": "ぞうげ",
-      "meaning": "ngà"
-    },
-    {
       "word": "牙龍",
       "reading": "がりゅう",
       "meaning": "dragon's fang"
-    },
-    {
-      "word": "牙纛",
-      "reading": "がとう",
-      "meaning": "cờ chiến"
-    },
-    {
-      "word": "歯牙",
-      "reading": "しが",
-      "meaning": "không chú ý"
-    },
-    {
-      "word": "爪牙",
-      "reading": "そうが",
-      "meaning": "cánh tay phải"
-    },
-    {
-      "word": "毒牙",
-      "reading": "どくが",
-      "meaning": "răng nanh có độc"
     },
     {
       "word": "牙虫",
@@ -134,9 +109,34 @@
       "meaning": "răng của đức phật được giữ lại sau tro hỏa táng"
     },
     {
-      "word": "牙城",
-      "reading": "がじょう",
-      "meaning": "thành lũy"
+      "word": "西班牙",
+      "reading": "スペイン",
+      "meaning": "nước tây ban nha"
+    },
+    {
+      "word": "牙買加",
+      "reading": "ジャマイカ",
+      "meaning": "quốc gia jamaica"
+    },
+    {
+      "word": "葡萄牙",
+      "reading": "ポルトガル",
+      "meaning": "bồ đào nha"
+    },
+    {
+      "word": "象牙",
+      "reading": "ぞうげ",
+      "meaning": "ngà"
+    },
+    {
+      "word": "象牙色",
+      "reading": "ぞうげいろ",
+      "meaning": "trắng ngà"
+    },
+    {
+      "word": "象牙質",
+      "reading": "ぞうげしつ",
+      "meaning": "ngà răng"
     }
   ]
 }

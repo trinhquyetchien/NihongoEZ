@@ -97,54 +97,54 @@
   ],
   "vocabulary": [
     {
-      "word": "弾",
-      "reading": "たま",
-      "meaning": "viên đạn"
-    },
-    {
-      "word": "弾道弾",
-      "reading": "だんどうだん",
-      "meaning": "tên lửa đạn đạo"
-    },
-    {
-      "word": "対弾道弾",
-      "reading": "たいだんどうだん",
-      "meaning": "anti - đạn đạo"
-    },
-    {
-      "word": "弾道弾迎撃ミサイル",
-      "reading": "だんどうだんげいげきミサイル",
-      "meaning": "tên lửa chống tên lửa đạn đạo"
-    },
-    {
-      "word": "銃弾",
-      "reading": "じゅうだん",
-      "meaning": "viên đạn"
-    },
-    {
-      "word": "散弾",
-      "reading": "さんだん",
-      "meaning": "bắn"
-    },
-    {
-      "word": "弾き",
-      "reading": "はじき",
-      "meaning": "búng"
-    },
-    {
       "word": "弾く",
       "reading": "ひく",
       "meaning": "chơi"
     },
     {
-      "word": "着弾",
-      "reading": "ちゃくだん",
-      "meaning": "đụng chạm một vật phóng ra)"
+      "word": "爆弾",
+      "reading": "ばくだん",
+      "meaning": "bom"
     },
     {
-      "word": "弾発",
-      "reading": "だんぱつ",
-      "meaning": "đàn hồi"
+      "word": "弾力",
+      "reading": "だんりょく",
+      "meaning": "lực đàn hồi"
+    },
+    {
+      "word": "弾",
+      "reading": "たま",
+      "meaning": "viên đạn"
+    },
+    {
+      "word": "円弾",
+      "reading": "えんだん",
+      "meaning": "xung quanh bắn"
+    },
+    {
+      "word": "弾車",
+      "reading": "はずみぐるま",
+      "meaning": "bánh đà"
+    },
+    {
+      "word": "弾機",
+      "reading": "ばね",
+      "meaning": "nứt rạn"
+    },
+    {
+      "word": "弾音",
+      "reading": "はじきおん",
+      "meaning": "flap"
+    },
+    {
+      "word": "弾着",
+      "reading": "だんちゃく",
+      "meaning": "một cú đánh trúng đích"
+    },
+    {
+      "word": "敵弾",
+      "reading": "てきだん",
+      "meaning": "đạn địch"
     }
   ]
 }

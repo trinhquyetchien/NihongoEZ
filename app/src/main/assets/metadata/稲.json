@@ -96,34 +96,24 @@
       "meaning": "lúa"
     },
     {
-      "word": "稲荷",
-      "reading": "いなり",
-      "meaning": "thần nông"
+      "word": "稲光",
+      "reading": "いなびかり",
+      "meaning": "ánh chớp"
     },
     {
-      "word": "稲干し/稲掛け",
-      "reading": "いねほし/いなかけけ",
-      "meaning": "phơi lúa/ treo lúa"
+      "word": "稲田",
+      "reading": "いなだ",
+      "meaning": "ruộng lúa"
     },
     {
-      "word": "稲穂",
-      "reading": "いなほ",
-      "meaning": "bông lúa"
+      "word": "中稲",
+      "reading": "なかて",
+      "meaning": "chính vụ"
     },
     {
-      "word": "稲置",
-      "reading": "いなぎ",
-      "meaning": "quan chịu trách nhiệm kho thóc"
-    },
-    {
-      "word": "稲熱",
-      "reading": "いもち",
-      "meaning": "gạo làm hại"
-    },
-    {
-      "word": "稲門",
-      "reading": "とうもん",
-      "meaning": "trường đại học waseda"
+      "word": "早稲田",
+      "reading": "わせだ",
+      "meaning": "cánh đồng lúa nở sớm"
     },
     {
       "word": "稲魂",
@@ -131,14 +121,24 @@
       "meaning": "vị thần của lúa"
     },
     {
+      "word": "稲熱",
+      "reading": "いもち",
+      "meaning": "gạo làm hại"
+    },
+    {
       "word": "稲虫",
       "reading": "いなむし",
       "meaning": "sâu gạo"
     },
     {
-      "word": "中稲",
-      "reading": "なかて",
-      "meaning": "chính vụ"
+      "word": "稲荷",
+      "reading": "いなり",
+      "meaning": "thần nông"
+    },
+    {
+      "word": "稲門",
+      "reading": "とうもん",
+      "meaning": "trường đại học waseda"
     }
   ]
 }

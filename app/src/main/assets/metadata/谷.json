@@ -95,19 +95,9 @@
       "meaning": "khe"
     },
     {
-      "word": "渓谷",
-      "reading": "けいこく",
-      "meaning": "đèo ải"
-    },
-    {
-      "word": "谷蟆",
-      "reading": "たにぐく",
-      "meaning": "cóc nhật bản"
-    },
-    {
-      "word": "谷町",
-      "reading": "たにまち",
-      "meaning": "nhà tài trợ của các đô vật"
+      "word": "山と谷",
+      "reading": "やまとたに",
+      "meaning": "sơn cốc"
     },
     {
       "word": "圏谷",
@@ -115,29 +105,39 @@
       "meaning": "thung lũng hình vòng cung"
     },
     {
-      "word": "幽谷",
-      "reading": "ゆうこく",
-      "meaning": "hẻm núi sâu"
+      "word": "谷底",
+      "reading": "たにぞこ",
+      "meaning": "đáy khe"
     },
     {
-      "word": "谷水",
-      "reading": "たにみず",
-      "meaning": "dòng suối nhỏ"
+      "word": "姫谷焼",
+      "reading": "ひめややき",
+      "meaning": "himeya ware"
     },
     {
-      "word": "谷偏",
-      "reading": "たにへん",
-      "meaning": "bộ cốc trong hán tự"
+      "word": "海底谷",
+      "reading": "かいていこく",
+      "meaning": "thung lũng dưới mặt biển"
     },
     {
-      "word": "峡谷",
-      "reading": "きょうこく",
-      "meaning": "hẻm núi"
+      "word": "谷間",
+      "reading": "たにま",
+      "meaning": "thung lũng"
     },
     {
-      "word": "谷地",
-      "reading": "やち",
-      "meaning": "khu vực đầm lầy"
+      "word": "大谷渡",
+      "reading": "おおたにわたり",
+      "meaning": "lan tổ điểu"
+    },
+    {
+      "word": "渓谷",
+      "reading": "けいこく",
+      "meaning": "đèo ải"
+    },
+    {
+      "word": "谷の径",
+      "reading": "たにのこみち",
+      "meaning": "đường kính nhỏ"
     }
   ]
 }

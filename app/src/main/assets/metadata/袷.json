@@ -55,11 +55,6 @@
       "meaning": "trang phục có may lớp lót trong"
     },
     {
-      "word": "素袷",
-      "reading": "すあわせ",
-      "meaning": "mặc kimono mà không có lớp áo lót bên trong"
-    },
-    {
       "word": "初袷",
       "reading": "はつあわせ",
       "meaning": "bộ kimono lót đầu tiên được mặc trong năm"
@@ -68,6 +63,11 @@
       "word": "秋袷",
       "reading": "あきあわせ",
       "meaning": "awase được mặc vào mùa thu"
+    },
+    {
+      "word": "素袷",
+      "reading": "すあわせ",
+      "meaning": "mặc kimono mà không có lớp áo lót bên trong"
     }
   ]
 }

@@ -95,19 +95,19 @@
       "meaning": "ngôn ngữ"
     },
     {
-      "word": "一語一語",
-      "reading": "いちごいちご",
-      "meaning": "từng từ từng từ một"
-    },
-    {
-      "word": "口語英語",
-      "reading": "こうごえいご",
-      "meaning": "tiếng anh khẩu ngữ"
-    },
-    {
-      "word": "語学/言語",
-      "reading": "ごがく/げんご",
+      "word": "言語",
+      "reading": "げんご",
       "meaning": "ngôn ngữ"
+    },
+    {
+      "word": "語る",
+      "reading": "かたる",
+      "meaning": "kể chuyện"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "quốc âm"
     },
     {
       "word": "語学",
@@ -115,29 +115,29 @@
       "meaning": "ngôn ngữ học"
     },
     {
-      "word": "落語",
-      "reading": "らくご",
-      "meaning": "truyện cười"
+      "word": "敬語",
+      "reading": "けいご",
+      "meaning": "kính ngữ"
     },
     {
-      "word": "略語",
-      "reading": "りゃくご",
-      "meaning": "chữ viết tắt"
+      "word": "熟語",
+      "reading": "じゅくご",
+      "meaning": "cụm từ"
     },
     {
-      "word": "マドゥラ語",
-      "reading": "マドゥラご",
-      "meaning": "tiếng madura"
+      "word": "語彙",
+      "reading": "ごい",
+      "meaning": "từ vựng"
     },
     {
-      "word": "ヨルバ語",
-      "reading": "ヨルバご",
-      "meaning": "tiếng yoruba"
+      "word": "語源",
+      "reading": "ごげん",
+      "meaning": "nguồn gốc của từ"
     },
     {
-      "word": "ノルド語",
-      "reading": "ノルドご",
-      "meaning": "ngôn ngữ bắc âu"
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "cụm từ"
     }
   ]
 }

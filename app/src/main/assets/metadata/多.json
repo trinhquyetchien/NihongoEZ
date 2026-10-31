@@ -91,14 +91,44 @@
   ],
   "vocabulary": [
     {
+      "word": "過多",
+      "reading": "かた",
+      "meaning": "sự dư thừa"
+    },
+    {
+      "word": "幾多",
+      "reading": "いくた",
+      "meaning": "nhiều"
+    },
+    {
+      "word": "多く",
+      "reading": "おおく",
+      "meaning": "nhiều"
+    },
+    {
       "word": "多",
       "reading": "た",
       "meaning": "nhiều"
     },
     {
-      "word": "多多",
-      "reading": "たた",
-      "meaning": "rất nhiều"
+      "word": "多時",
+      "reading": "たじ",
+      "meaning": "nhiều thời gian"
+    },
+    {
+      "word": "多体",
+      "reading": "たたい",
+      "meaning": "đa thể"
+    },
+    {
+      "word": "多型",
+      "reading": "たけい",
+      "meaning": "đa hình"
+    },
+    {
+      "word": "多形",
+      "reading": "たけい",
+      "meaning": "nhiều hình"
     },
     {
       "word": "多対多",
@@ -106,39 +136,9 @@
       "meaning": "nhiều...&amp"
     },
     {
-      "word": "多岐多様",
-      "reading": "たきたよう",
-      "meaning": "phong phú đa dạng"
-    },
-    {
-      "word": "多情多感",
-      "reading": "たじょうたかん",
-      "meaning": "đa sầu đa cảm"
-    },
-    {
-      "word": "多種多面",
-      "reading": "たしゅためん",
-      "meaning": "đa chủng loại"
-    },
-    {
-      "word": "多事多端",
-      "reading": "たじたたん",
-      "meaning": "nhiều việc"
-    },
-    {
-      "word": "多事多難",
-      "reading": "たじたなん",
-      "meaning": "nhiều khó khăn"
-    },
-    {
-      "word": "多情多恨",
-      "reading": "たじょうたこん",
-      "meaning": "đa tình đa hận"
-    },
-    {
-      "word": "多種多様",
-      "reading": "たしゅたよう",
-      "meaning": "sự đa dạng và phong phú"
+      "word": "多め",
+      "reading": "おおめ",
+      "meaning": "nhiều hơn một chút"
     }
   ]
 }

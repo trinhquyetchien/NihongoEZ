@@ -108,29 +108,9 @@
       "meaning": "đào"
     },
     {
-      "word": "胡桃",
-      "reading": "くるみ",
-      "meaning": "cây óc chó"
-    },
-    {
-      "word": "蟠桃",
-      "reading": "ばんとう",
-      "meaning": "quả đào dẹt"
-    },
-    {
-      "word": "梅桃",
-      "reading": "ゆすらうめ",
-      "meaning": "anh đào nam kinh"
-    },
-    {
-      "word": "黄桃",
-      "reading": "おうとう",
-      "meaning": "nhuốm vàng quả đào"
-    },
-    {
-      "word": "桜桃",
-      "reading": "さくらんぼ",
-      "meaning": "quả anh đào"
+      "word": "月桃",
+      "reading": "げっとう",
+      "meaning": "shell ginger"
     },
     {
       "word": "桃花",
@@ -138,19 +118,39 @@
       "meaning": "sự trổ hoa đào"
     },
     {
-      "word": "桃園",
-      "reading": "ももぞの",
-      "meaning": "vườn đào"
+      "word": "桃の花",
+      "reading": "もものはな",
+      "meaning": "hoa đào"
     },
     {
-      "word": "山桃",
-      "reading": "やまもも",
-      "meaning": "quả thanh mai"
+      "word": "桃缶",
+      "reading": "ももかん",
+      "meaning": "đào đóng lon"
     },
     {
-      "word": "椿桃",
-      "reading": "つばいもも",
-      "meaning": "sen đá hồng mập"
+      "word": "桃林",
+      "reading": "とうりん",
+      "meaning": "rừng đào"
+    },
+    {
+      "word": "桃割れ",
+      "reading": "ももわれ",
+      "meaning": "kiểu tóc meiji và kỷ nguyên taisho"
+    },
+    {
+      "word": "唐桃",
+      "reading": "からもも",
+      "meaning": "cây mơ nhật bản"
+    },
+    {
+      "word": "黄桃",
+      "reading": "おうとう",
+      "meaning": "nhuốm vàng quả đào"
+    },
+    {
+      "word": "寿星桃",
+      "reading": "じゅせいとう",
+      "meaning": "đào thọ tinh"
     }
   ]
 }

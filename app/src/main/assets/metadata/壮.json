@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "壮",
-      "reading": "そう",
-      "meaning": "mạnh mẽ"
-    },
-    {
-      "word": "宏壮",
-      "reading": "こうそう",
-      "meaning": "hoành tráng"
-    },
-    {
-      "word": "豪壮",
-      "reading": "ごうそう",
-      "meaning": "sự xa hoa"
-    },
-    {
-      "word": "壮烈",
-      "reading": "そうれつ",
-      "meaning": "anh hùng"
+      "word": "壮大",
+      "reading": "そうだい",
+      "meaning": "sự tráng lệ"
     },
     {
       "word": "壮絶",
@@ -114,29 +99,44 @@
       "meaning": "chính"
     },
     {
-      "word": "壮語",
-      "reading": "そうご",
-      "meaning": "sự khoe khoang khoác lác"
+      "word": "壮",
+      "reading": "そう",
+      "meaning": "mạnh mẽ"
     },
     {
-      "word": "壮快",
-      "reading": "そうかい",
-      "meaning": "phấn khích"
-    },
-    {
-      "word": "壮健",
-      "reading": "そうけん",
-      "meaning": "khoẻ mạnh"
-    },
-    {
-      "word": "壮者",
-      "reading": "そうしゃ",
-      "meaning": "người đàn ông trong thời kỳ đầu tiên"
+      "word": "勇壮",
+      "reading": "ゆうそう",
+      "meaning": "hùng tráng"
     },
     {
       "word": "壮年",
       "reading": "そうねん",
       "meaning": "thời kỳ đầu tiên"
+    },
+    {
+      "word": "壮年期",
+      "reading": "そうねんき",
+      "meaning": "thời kỳ tráng niên"
+    },
+    {
+      "word": "壮観",
+      "reading": "そうかん",
+      "meaning": "cảnh tượng tráng lệ"
+    },
+    {
+      "word": "悲壮",
+      "reading": "ひそう",
+      "meaning": "bi tráng"
+    },
+    {
+      "word": "壮行",
+      "reading": "そうこう",
+      "meaning": "khích lệ mọi người tham gia các hoạt động như du lịch"
+    },
+    {
+      "word": "壮行式",
+      "reading": "そうこうしき",
+      "meaning": "lễ ra quân"
     }
   ]
 }

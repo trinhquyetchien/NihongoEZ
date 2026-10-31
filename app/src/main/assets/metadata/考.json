@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "考",
-      "reading": "こう",
-      "meaning": "suy nghĩ"
-    },
-    {
-      "word": "考えれば考えるほど",
-      "reading": "かんがえればかんがえるほど",
-      "meaning": "càng suy nghĩ thì càng"
-    },
-    {
-      "word": "思考",
-      "reading": "しこう",
-      "meaning": "sự suy nghĩ"
-    },
-    {
-      "word": "考案",
-      "reading": "こうあん",
-      "meaning": "sự tạo ra"
-    },
-    {
-      "word": "参考",
-      "reading": "さんこう",
-      "meaning": "sự tham khảo"
+      "word": "考える",
+      "reading": "かんがえる",
+      "meaning": "nghĩ suy"
     },
     {
       "word": "考え",
@@ -120,24 +100,44 @@
       "meaning": "suy nghĩ"
     },
     {
-      "word": "考察",
-      "reading": "こうさつ",
-      "meaning": "sự khảo sát"
+      "word": "参考",
+      "reading": "さんこう",
+      "meaning": "sự tham khảo"
     },
     {
-      "word": "考古",
-      "reading": "こうこ",
-      "meaning": "khảo cổ"
+      "word": "考慮",
+      "reading": "こうりょ",
+      "meaning": "sự xem xét"
     },
     {
-      "word": "考査",
-      "reading": "こうさ",
-      "meaning": "giám khảo"
+      "word": "思考",
+      "reading": "しこう",
+      "meaning": "sự suy nghĩ"
     },
     {
-      "word": "考課",
-      "reading": "こうか",
-      "meaning": "sự đánh giá"
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "sự lựa chọn"
+    },
+    {
+      "word": "考え中",
+      "reading": "かんがえちゅう",
+      "meaning": "đang suy nghĩ"
+    },
+    {
+      "word": "考え様",
+      "reading": "かんがえよう",
+      "meaning": "cách nghĩ"
+    },
+    {
+      "word": "参考人",
+      "reading": "さんこうにん",
+      "meaning": "nhân chứng"
+    },
+    {
+      "word": "参考本",
+      "reading": "さんこうぼん",
+      "meaning": "sách tham khảo"
     }
   ]
 }

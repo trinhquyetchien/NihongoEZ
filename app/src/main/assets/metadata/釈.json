@@ -92,9 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "会釈",
-      "reading": "えしゃく",
-      "meaning": "việc cúi chào nhẹ"
+      "word": "解釈",
+      "reading": "かいしゃく",
+      "meaning": "diễn nghĩa"
+    },
+    {
+      "word": "解釈学",
+      "reading": "かいしゃくがく",
+      "meaning": "khoa chú giải văn bản cổ"
     },
     {
       "word": "釈放",
@@ -102,29 +107,19 @@
       "meaning": "sự phóng thích"
     },
     {
-      "word": "釈迦",
-      "reading": "しゃか",
-      "meaning": "thích ca"
-    },
-    {
-      "word": "釈然",
-      "reading": "しゃくぜん",
-      "meaning": "thông suốt"
-    },
-    {
-      "word": "釈明",
-      "reading": "しゃくめい",
-      "meaning": "sự thuyết minh"
-    },
-    {
-      "word": "註釈",
+      "word": "注釈",
       "reading": "ちゅうしゃく",
       "meaning": "chú giải"
     },
     {
-      "word": "氷釈",
-      "reading": "ひょうしゃく",
-      "meaning": "sự tan chảy như nước đá"
+      "word": "注釈者",
+      "reading": "ちゅうしゃくしゃ",
+      "meaning": "người chú giải"
+    },
+    {
+      "word": "注釈書",
+      "reading": "ちゅうしゃくしょ",
+      "meaning": "bản chú thích"
     },
     {
       "word": "保釈",
@@ -132,14 +127,19 @@
       "meaning": "bảo lãnh"
     },
     {
-      "word": "釈義",
-      "reading": "しゃくぎ",
-      "meaning": "sự luận bình"
+      "word": "保釈中",
+      "reading": "ほしゃくちゅう",
+      "meaning": "ở ngoài trên quai"
     },
     {
-      "word": "語釈",
-      "reading": "ごしゃく",
-      "meaning": "sự giải thích nghĩa của từ"
+      "word": "保釈金",
+      "reading": "ほしゃくきん",
+      "meaning": "tát nước"
+    },
+    {
+      "word": "釈明",
+      "reading": "しゃくめい",
+      "meaning": "sự thuyết minh"
     }
   ]
 }

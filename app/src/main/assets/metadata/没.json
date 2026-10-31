@@ -92,9 +92,29 @@
   ],
   "vocabulary": [
     {
+      "word": "没収",
+      "reading": "ぼっしゅう",
+      "meaning": "sự tịch thu sung công"
+    },
+    {
+      "word": "沈没",
+      "reading": "ちんぼつ",
+      "meaning": "sự chìm xuống"
+    },
+    {
+      "word": "没落",
+      "reading": "ぼつらく",
+      "meaning": "sự đắm thuyền"
+    },
+    {
       "word": "没",
       "reading": "ぼつ",
       "meaning": "cái chết"
+    },
+    {
+      "word": "没地",
+      "reading": "ぼつち",
+      "meaning": "khu vực bị bỏ hoang"
     },
     {
       "word": "水没",
@@ -102,44 +122,24 @@
       "meaning": "dìm xuống nước"
     },
     {
+      "word": "沈没船",
+      "reading": "ちんぼつせん",
+      "meaning": "tàu đắm"
+    },
+    {
+      "word": "没個性",
+      "reading": "ぼつこせい",
+      "meaning": "không có cá tính"
+    },
+    {
+      "word": "没頭",
+      "reading": "ぼっとう",
+      "meaning": "sự vùi mình"
+    },
+    {
       "word": "出没",
       "reading": "しゅつぼつ",
       "meaning": "sự ẩn hiện"
-    },
-    {
-      "word": "没却",
-      "reading": "ぼっきゃく",
-      "meaning": "vứt bỏ và lờ đi"
-    },
-    {
-      "word": "戦没",
-      "reading": "せんぼつ",
-      "meaning": "sự chết trong chiến tranh"
-    },
-    {
-      "word": "没年",
-      "reading": "ぼつねん",
-      "meaning": "một có tuổi ở sự chết"
-    },
-    {
-      "word": "没入",
-      "reading": "ぼつにゅう",
-      "meaning": "sự chìm"
-    },
-    {
-      "word": "没書",
-      "reading": "ぼっしょ",
-      "meaning": "loại bỏ bản thảo"
-    },
-    {
-      "word": "収没",
-      "reading": "しゅうぼつ",
-      "meaning": "sự tịch thu những quyền sở hữu"
-    },
-    {
-      "word": "陥没",
-      "reading": "かんぼつ",
-      "meaning": "sụt lún"
     }
   ]
 }

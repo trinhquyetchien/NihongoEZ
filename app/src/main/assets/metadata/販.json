@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "市販",
-      "reading": "しはん",
-      "meaning": "marketting"
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "việc bán"
     },
     {
-      "word": "販促",
-      "reading": "はんそく",
-      "meaning": "khuyến mãi"
+      "word": "販売人",
+      "reading": "はんばいにん",
+      "meaning": "người bán"
     },
     {
-      "word": "通販",
-      "reading": "つうはん",
-      "meaning": "mua bán qua mạng"
+      "word": "販売者",
+      "reading": "はんばいしゃ",
+      "meaning": "người bán"
     },
     {
-      "word": "拡販",
-      "reading": "かくはん",
-      "meaning": "sự xúc tiến mở rộng bán hàng"
+      "word": "販売名",
+      "reading": "はんばいめい",
+      "meaning": "tên nhãn hàng"
     },
     {
-      "word": "窓販",
-      "reading": "まどはん",
-      "meaning": "bán hàng qua quầy"
+      "word": "販売店",
+      "reading": "はんばいてん",
+      "meaning": "cửa hàng"
     },
     {
-      "word": "再販",
-      "reading": "さいはん",
-      "meaning": "sự bán lại"
+      "word": "販売部",
+      "reading": "はんばいぶ",
+      "meaning": "phòng tiêu thụ sản phẩm"
     },
     {
-      "word": "製販",
-      "reading": "せいはん",
-      "meaning": "sự sản xuất và bán hàng"
+      "word": "販売機",
+      "reading": "はんばいき",
+      "meaning": "máy bán hàng tự động"
     },
     {
-      "word": "直販",
-      "reading": "ちょくはん",
-      "meaning": "bán trực tiếp"
+      "word": "販売員",
+      "reading": "はんばいいん",
+      "meaning": "nhân viên bán hàng"
     },
     {
-      "word": "物販",
-      "reading": "ぶっぱん",
-      "meaning": "bán hàng hóa"
+      "word": "再販売",
+      "reading": "さいはんばい",
+      "meaning": "bán lại"
     },
     {
-      "word": "信販",
-      "reading": "しんぱん",
-      "meaning": "những hàng bán trên sự gửi"
+      "word": "販売費",
+      "reading": "はんばいひ",
+      "meaning": "chi phí bán"
     }
   ]
 }

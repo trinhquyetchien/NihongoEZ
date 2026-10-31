@@ -50,36 +50,6 @@
   ],
   "vocabulary": [
     {
-      "word": "燭",
-      "reading": "しょく",
-      "meaning": "ngọn đèn"
-    },
-    {
-      "word": "南燭",
-      "reading": "しゃしゃんぼ",
-      "meaning": "sea bilberry"
-    },
-    {
-      "word": "華燭",
-      "reading": "かしょく",
-      "meaning": "lên đèn hoa chúc"
-    },
-    {
-      "word": "燭台",
-      "reading": "しょくだい",
-      "meaning": "cây đèn nến"
-    },
-    {
-      "word": "燭光",
-      "reading": "しょっこう",
-      "meaning": "nến"
-    },
-    {
-      "word": "手燭",
-      "reading": "てしょく",
-      "meaning": "chuyển chân nến"
-    },
-    {
       "word": "蝋燭",
       "reading": "ろうそく",
       "meaning": "cây nến"
@@ -95,9 +65,39 @@
       "meaning": "nến trần"
     },
     {
-      "word": "蝋燭の芯",
+      "word": "燭台",
+      "reading": "しょくだい",
+      "meaning": "cây đèn nến"
+    },
+    {
+      "word": "燭",
+      "reading": "しょく",
+      "meaning": "ngọn đèn"
+    },
+    {
+      "word": "南燭",
+      "reading": "しゃしゃんぼ",
+      "meaning": "sea bilberry"
+    },
+    {
+      "word": "華燭",
+      "reading": "かしょく",
+      "meaning": "lên đèn hoa chúc"
+    },
+    {
+      "word": "燭光",
+      "reading": "しょっこう",
+      "meaning": "nến"
+    },
+    {
+      "word": "手燭",
+      "reading": "てしょく",
+      "meaning": "chuyển chân nến"
+    },
+    {
+      "word": "蝋燭の心",
       "reading": "ろうそくのしん",
-      "meaning": "ngọn nến"
+      "meaning": "bấc của cây nến"
     }
   ]
 }

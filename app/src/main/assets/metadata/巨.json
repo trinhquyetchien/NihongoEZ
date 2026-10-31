@@ -87,24 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "巨",
-      "reading": "きょ",
-      "meaning": "sự rộng lớn"
-    },
-    {
       "word": "巨大",
       "reading": "きょだい",
       "meaning": "khổng lồ"
     },
     {
-      "word": "巨額",
-      "reading": "きょがく",
-      "meaning": "khoản tiền khổng lồ"
-    },
-    {
-      "word": "巨根",
-      "reading": "きょこん",
-      "meaning": "dương vật lớn"
+      "word": "巨人",
+      "reading": "きょじん",
+      "meaning": "người khổng lồ"
     },
     {
       "word": "巨乳",
@@ -112,19 +102,29 @@
       "meaning": "bộ ngực vĩ đại"
     },
     {
-      "word": "巨費",
-      "reading": "きょひ",
-      "meaning": "chi phí rất lớn"
+      "word": "巨額",
+      "reading": "きょがく",
+      "meaning": "khoản tiền khổng lồ"
     },
     {
-      "word": "巨象",
-      "reading": "きょぞう",
-      "meaning": "con voi khổng lồ"
+      "word": "巨匠",
+      "reading": "きょしょう",
+      "meaning": "giáo sư"
     },
     {
-      "word": "巨資",
-      "reading": "きょし",
-      "meaning": "vốn lớn"
+      "word": "巨根",
+      "reading": "きょこん",
+      "meaning": "dương vật lớn"
+    },
+    {
+      "word": "巨",
+      "reading": "きょ",
+      "meaning": "sự rộng lớn"
+    },
+    {
+      "word": "巨体",
+      "reading": "きょたい",
+      "meaning": "cơ thể to lớn khác thường"
     },
     {
       "word": "巨漢",
@@ -132,9 +132,9 @@
       "meaning": "sự khổng lồ"
     },
     {
-      "word": "巨賊",
-      "reading": "きょぞく",
-      "meaning": "kẻ cướp thời gian lớn"
+      "word": "巨峰",
+      "reading": "きょほう",
+      "meaning": "ngọn núi hùng vĩ"
     }
   ]
 }

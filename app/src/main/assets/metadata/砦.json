@@ -56,6 +56,11 @@
       "meaning": "khu thành"
     },
     {
+      "word": "城砦",
+      "reading": "じょうさい",
+      "meaning": "pháo đài"
+    },
+    {
       "word": "鹿砦",
       "reading": "ろくさい",
       "meaning": "đống cây chướng ngại"
@@ -66,19 +71,14 @@
       "meaning": "thành lũy núi"
     },
     {
-      "word": "城砦",
-      "reading": "じょうさい",
-      "meaning": "pháo đài"
+      "word": "砦を落とす",
+      "reading": "とりでをおとす",
+      "meaning": "chiếm được pháo đài"
     },
     {
       "word": "砦を築く",
       "reading": "とりでをきずく",
       "meaning": "để xây dựng một pháo đài"
-    },
-    {
-      "word": "砦を落とす",
-      "reading": "とりでをおとす",
-      "meaning": "chiếm được pháo đài"
     }
   ]
 }

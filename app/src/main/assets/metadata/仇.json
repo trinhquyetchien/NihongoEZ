@@ -77,29 +77,9 @@
       "meaning": "địch thủ"
     },
     {
-      "word": "仇讎",
-      "reading": "きゅうしゅう",
-      "meaning": "sự trả thù"
-    },
-    {
-      "word": "仇敵",
-      "reading": "きゅうてき",
-      "meaning": "kẻ thù gắt"
-    },
-    {
       "word": "恋仇",
       "reading": "こいがたき",
       "meaning": "tình địch"
-    },
-    {
-      "word": "復仇",
-      "reading": "ふっきゅう",
-      "meaning": "sự trả thù"
-    },
-    {
-      "word": "仇討ち",
-      "reading": "あだうち",
-      "meaning": "sự trả thù"
     },
     {
       "word": "仇同士",
@@ -112,14 +92,34 @@
       "meaning": "trả thù"
     },
     {
-      "word": "仇する",
-      "reading": "あだする",
-      "meaning": "trả thù"
+      "word": "仇討ち",
+      "reading": "あだうち",
+      "meaning": "sự trả thù"
     },
     {
       "word": "仇同氏",
       "reading": "きゅうどうし",
       "meaning": "kẻ thù"
+    },
+    {
+      "word": "仇敵",
+      "reading": "きゅうてき",
+      "meaning": "kẻ thù gắt"
+    },
+    {
+      "word": "仇讎",
+      "reading": "きゅうしゅう",
+      "meaning": "sự trả thù"
+    },
+    {
+      "word": "復仇",
+      "reading": "ふっきゅう",
+      "meaning": "sự trả thù"
+    },
+    {
+      "word": "仇する",
+      "reading": "あだする",
+      "meaning": "trả thù"
     }
   ]
 }

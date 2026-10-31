@@ -95,24 +95,29 @@
       "meaning": "linh hồn"
     },
     {
-      "word": "蜀魂",
-      "reading": "しょっこん",
-      "meaning": "chim cu gáy"
+      "word": "木魂",
+      "reading": "こだま",
+      "meaning": "vang lại"
     },
     {
-      "word": "魂魄",
-      "reading": "こんぱく",
-      "meaning": "linh hồn"
+      "word": "魂祭り",
+      "reading": "たままつり",
+      "meaning": "lễ tôn vinh linh hồn của tổ tiên"
     },
     {
-      "word": "精魂",
-      "reading": "せいこん",
-      "meaning": "linh hồn"
+      "word": "反魂",
+      "reading": "はんごん",
+      "meaning": "phục hồn"
     },
     {
-      "word": "魂胆",
-      "reading": "こんたん",
-      "meaning": "ý đồ"
+      "word": "英魂",
+      "reading": "えいこん",
+      "meaning": "linh hồn người chết"
+    },
+    {
+      "word": "詩魂",
+      "reading": "しこん",
+      "meaning": "cảm nghĩ về bài thơ"
     },
     {
       "word": "魂柱",
@@ -120,24 +125,19 @@
       "meaning": "kêu cái trụ"
     },
     {
-      "word": "心魂",
-      "reading": "しんこん",
-      "meaning": "tâm hồn"
-    },
-    {
-      "word": "稲魂",
-      "reading": "うかのみたま",
-      "meaning": "vị thần của lúa"
-    },
-    {
       "word": "脱魂",
       "reading": "だっこん",
       "meaning": "trạng thái xuất hồn"
     },
     {
-      "word": "鎮魂",
-      "reading": "ちんこん",
-      "meaning": "nghỉ ngơi những linh hồn"
+      "word": "幸御魂",
+      "reading": "さきみたま",
+      "meaning": "thần mang lại may mắn"
+    },
+    {
+      "word": "肝っ魂",
+      "reading": "きもったま",
+      "meaning": "gan"
     }
   ]
 }

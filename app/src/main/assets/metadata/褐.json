@@ -83,34 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "褐藻",
-      "reading": "かっそう",
-      "meaning": "các loại tảo nâu"
-    },
-    {
-      "word": "褐炭",
-      "reading": "かったん",
-      "meaning": "than bùn"
-    },
-    {
       "word": "褐色",
       "reading": "かっしょく",
       "meaning": "màu nâu"
     },
     {
-      "word": "青褐",
-      "reading": "あおかち",
-      "meaning": "màu chàm đậm nhuốm màu xanh lam sáng hơn"
-    },
-    {
-      "word": "褐変",
-      "reading": "かっぺん",
-      "meaning": "chuyển hóa thành màu nâu"
-    },
-    {
-      "word": "茶褐色",
-      "reading": "ちゃかっしょく",
-      "meaning": "màu nâu vàng"
+      "word": "紅褐色",
+      "reading": "こうかっしょく",
+      "meaning": "màu nâu đỏ"
     },
     {
       "word": "黄褐色",
@@ -118,9 +98,9 @@
       "meaning": "màu hạt dẻ"
     },
     {
-      "word": "暗褐色",
-      "reading": "あんかっしょく",
-      "meaning": "màu nâu đậm"
+      "word": "灰褐色",
+      "reading": "はいかっしょく",
+      "meaning": "màu nâu xám"
     },
     {
       "word": "濃褐色",
@@ -128,9 +108,29 @@
       "meaning": "màu thẫm"
     },
     {
+      "word": "暗褐色",
+      "reading": "あんかっしょく",
+      "meaning": "màu nâu đậm"
+    },
+    {
+      "word": "褐色斑",
+      "reading": "かっしょくはん",
+      "meaning": "chứng xám da"
+    },
+    {
+      "word": "淡褐色",
+      "reading": "たんかっしょく",
+      "meaning": "màu nâu nhạt"
+    },
+    {
       "word": "赤褐色",
       "reading": "せっかっしょく",
       "meaning": "sắc nâu đỏ"
+    },
+    {
+      "word": "茶褐色",
+      "reading": "ちゃかっしょく",
+      "meaning": "màu nâu vàng"
     }
   ]
 }

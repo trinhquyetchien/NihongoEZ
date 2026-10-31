@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "上昇",
+      "reading": "じょうしょう",
+      "meaning": "sự tăng lên cao"
+    },
+    {
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaning": "thăng tiến"
+    },
+    {
+      "word": "上昇率",
+      "reading": "じょうしょうりつ",
+      "meaning": "tỷ lệ tăng lên"
+    },
+    {
+      "word": "上昇線",
+      "reading": "じょうしょうせん",
+      "meaning": "tuyến trên"
+    },
+    {
+      "word": "上昇期",
+      "reading": "じょうしょうき",
+      "meaning": "thời kỳ tăng trưởng"
+    },
+    {
+      "word": "上昇調",
+      "reading": "じょうしょうちょう",
+      "meaning": "âm điệu tăng"
+    },
+    {
+      "word": "ご昇進",
+      "reading": "ごしょうしん",
+      "meaning": "thăng chức"
+    },
+    {
       "word": "昇格",
       "reading": "しょうかく",
       "meaning": "sự thăng cấp"
     },
     {
-      "word": "昇給",
-      "reading": "しょうきゅう",
-      "meaning": "sự tăng lương"
-    },
-    {
-      "word": "昇任",
-      "reading": "しょうにん",
-      "meaning": "sự thúc đẩy"
-    },
-    {
-      "word": "昇華",
-      "reading": "しょうか",
-      "meaning": "sự thăng hoa"
-    },
-    {
-      "word": "定昇",
-      "reading": "ていしょう",
-      "meaning": "sự tăng lương định kỳ"
-    },
-    {
-      "word": "昇順",
-      "reading": "しょうじゅん",
-      "meaning": "tăng lên - thứ tự"
+      "word": "急上昇",
+      "reading": "きゅうじょうしょう",
+      "meaning": "tăng cao đột ngột"
     },
     {
       "word": "昇天",
       "reading": "しょうてん",
       "meaning": "thăng thiên"
-    },
-    {
-      "word": "昇る",
-      "reading": "のぼる",
-      "meaning": "lên cao"
-    },
-    {
-      "word": "昇叙",
-      "reading": "しょうじょ",
-      "meaning": "sự thúc đẩy"
-    },
-    {
-      "word": "昇殿",
-      "reading": "しょうでん",
-      "meaning": "việc được lên thượng cung ở phía nam của hậu cung seiryoden trong triều đình nhật bản sau thời heian"
     }
   ]
 }

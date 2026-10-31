@@ -52,29 +52,9 @@
   ],
   "vocabulary": [
     {
-      "word": "捧ぐ",
-      "reading": "ささぐ",
-      "meaning": "nâng đỡ"
-    },
-    {
-      "word": "捧腹",
-      "reading": "ほうふく",
-      "meaning": "sự cười bể bụng"
-    },
-    {
-      "word": "捧持",
-      "reading": "ほうじ",
-      "meaning": "chịu"
-    },
-    {
-      "word": "捧物",
-      "reading": "ほうもつ",
-      "meaning": "lễ vật"
-    },
-    {
-      "word": "捧呈",
-      "reading": "ほうてい",
-      "meaning": "sự hiến dâng"
+      "word": "捧げる",
+      "reading": "ささげる",
+      "meaning": "giơ cao"
     },
     {
       "word": "捧げ物",
@@ -87,9 +67,29 @@
       "meaning": "chào súng"
     },
     {
-      "word": "捧げる",
-      "reading": "ささげる",
-      "meaning": "giơ cao"
+      "word": "捧ぐ",
+      "reading": "ささぐ",
+      "meaning": "nâng đỡ"
+    },
+    {
+      "word": "捧物",
+      "reading": "ほうもつ",
+      "meaning": "lễ vật"
+    },
+    {
+      "word": "捧呈",
+      "reading": "ほうてい",
+      "meaning": "sự hiến dâng"
+    },
+    {
+      "word": "捧腹",
+      "reading": "ほうふく",
+      "meaning": "sự cười bể bụng"
+    },
+    {
+      "word": "捧持",
+      "reading": "ほうじ",
+      "meaning": "chịu"
     },
     {
       "word": "捧げ持つ",
@@ -97,9 +97,9 @@
       "meaning": "nâng cao lên và giữ trong tay một cách trân trọng"
     },
     {
-      "word": "捧腹絶倒",
-      "reading": "ほうふくぜっとう",
-      "meaning": "chính buồn cười"
+      "word": "命を捧げる",
+      "reading": "いのちをささげる",
+      "meaning": "cống hiến hết mình"
     }
   ]
 }

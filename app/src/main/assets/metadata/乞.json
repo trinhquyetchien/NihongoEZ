@@ -91,24 +91,29 @@
   ],
   "vocabulary": [
     {
-      "word": "乞う",
-      "reading": "こう",
-      "meaning": "cầu xin"
-    },
-    {
-      "word": "行乞",
-      "reading": "ぎょうこつ",
-      "meaning": "hành khất"
-    },
-    {
       "word": "乞食",
       "reading": "こじき",
       "meaning": "khất thực"
     },
     {
-      "word": "乞士",
-      "reading": "こっし",
-      "meaning": "tỳ kheo"
+      "word": "乞う",
+      "reading": "こう",
+      "meaning": "cầu xin"
+    },
+    {
+      "word": "命乞い",
+      "reading": "いのちごい",
+      "meaning": "cầu xin cho một có cuộc sống"
+    },
+    {
+      "word": "物乞い",
+      "reading": "ものごい",
+      "meaning": "người ăn xin"
+    },
+    {
+      "word": "雨乞い",
+      "reading": "あまごい",
+      "meaning": "sự cầu nguyện cho mưa rơi"
     },
     {
       "word": "乞い",
@@ -116,14 +121,9 @@
       "meaning": "yêu cầu"
     },
     {
-      "word": "乞婿",
-      "reading": "こいむこ",
-      "meaning": "chú rể mà được yêu bởi cô dâu anh ấy"
-    },
-    {
-      "word": "乞丐",
-      "reading": "こつがい",
-      "meaning": "người ăn xin"
+      "word": "行乞",
+      "reading": "ぎょうこつ",
+      "meaning": "hành khất"
     },
     {
       "word": "物乞",
@@ -136,9 +136,9 @@
       "meaning": "cầu xin cứu mạng"
     },
     {
-      "word": "雨乞い",
-      "reading": "あまごい",
-      "meaning": "sự cầu nguyện cho mưa rơi"
+      "word": "暇乞い",
+      "reading": "いとまごい",
+      "meaning": "buổi tiễn đưa"
     }
   ]
 }

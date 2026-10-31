@@ -91,36 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "政",
-      "reading": "せい",
-      "meaning": "sự thống trị"
-    },
-    {
-      "word": "財政政策",
-      "reading": "ざいせいせいさく",
-      "meaning": "chính sách thuế khoá"
-    },
-    {
-      "word": "政党政治",
-      "reading": "せいとうせいじ",
-      "meaning": "hoạt động chính trị"
-    },
-    {
-      "word": "憲政",
-      "reading": "けんせい",
-      "meaning": "chính trị dựa theo hiến pháp"
-    },
-    {
-      "word": "市政",
-      "reading": "しせい",
-      "meaning": "chính quyền thành phố"
-    },
-    {
-      "word": "政敵",
-      "reading": "せいてき",
-      "meaning": "phe đối lập"
-    },
-    {
       "word": "政権",
       "reading": "せいけん",
       "meaning": "binh quyền"
@@ -131,14 +101,44 @@
       "meaning": "hành chính"
     },
     {
+      "word": "財政",
+      "reading": "ざいせい",
+      "meaning": "tài chính"
+    },
+    {
+      "word": "政",
+      "reading": "せい",
+      "meaning": "sự thống trị"
+    },
+    {
+      "word": "平政",
+      "reading": "ひらまさ",
+      "meaning": "nhuốm vàng đuôi amberjack"
+    },
+    {
+      "word": "政柄",
+      "reading": "せいへい",
+      "meaning": "sức mạnh chính trị"
+    },
+    {
+      "word": "国政",
+      "reading": "こくせい",
+      "meaning": "nghệ thuật quản lý nhà nước"
+    },
+    {
       "word": "家政",
       "reading": "かせい",
       "meaning": "tài chính gia đình"
     },
     {
-      "word": "王政",
-      "reading": "おうせい",
-      "meaning": "nền quân chủ"
+      "word": "郵政",
+      "reading": "ゆうせい",
+      "meaning": "bưu chính"
+    },
+    {
+      "word": "政令",
+      "reading": "せいれい",
+      "meaning": "nghị định"
     }
   ]
 }

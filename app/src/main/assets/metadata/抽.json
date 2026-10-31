@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "無作為抽出 / 任意抽出",
-      "reading": "むさくいちゅうしゅつ",
-      "meaning": "random sampling"
-    },
-    {
-      "word": "抽籤",
-      "reading": "ちゅうせん",
-      "meaning": "xổ số"
-    },
-    {
-      "word": "抽斗",
-      "reading": "ひきだし",
-      "meaning": "ngăn kéo"
+      "word": "抽象",
+      "reading": "ちゅうしょう",
+      "meaning": "sự trừu tượng"
     },
     {
       "word": "抽選",
@@ -107,9 +97,14 @@
       "meaning": "sự rút thăm"
     },
     {
-      "word": "抽象",
-      "reading": "ちゅうしょう",
-      "meaning": "sự trừu tượng"
+      "word": "抽選会",
+      "reading": "ちゅうせんかい",
+      "meaning": "buổi rút thăm trúng thưởng"
+    },
+    {
+      "word": "抽選券",
+      "reading": "ちゅうせんけん",
+      "meaning": "phiếu bốc thăm"
     },
     {
       "word": "抽出",
@@ -117,24 +112,29 @@
       "meaning": "trích ra"
     },
     {
-      "word": "抽せん",
-      "reading": "ちゅうせん",
-      "meaning": "sự quay số trúng thưởng"
+      "word": "抽出し",
+      "reading": "ひきだし",
+      "meaning": "ngăn kéo"
     },
     {
-      "word": "抽象的",
-      "reading": "ちゅうしょうてき",
-      "meaning": "một cách trừu tượng"
+      "word": "抽出性",
+      "reading": "ちゅうしゅつせい",
+      "meaning": "khả năng chiết xuất"
     },
     {
-      "word": "抽象画",
-      "reading": "ちゅうしょうが",
-      "meaning": "tranh trừu trượng"
+      "word": "抽出物",
+      "reading": "ちゅうしゅつぶつ",
+      "meaning": "đoạn trích"
     },
     {
-      "word": "抽出モード",
-      "reading": "ちゅうしゅつモード",
-      "meaning": "chế độ chọn lọc"
+      "word": "抽出法",
+      "reading": "ちゅうしゅつほう",
+      "meaning": "phương pháp trích xuất"
+    },
+    {
+      "word": "抽出器",
+      "reading": "ちゅうしゅつうつわ",
+      "meaning": "bình chiết xuất"
     }
   ]
 }

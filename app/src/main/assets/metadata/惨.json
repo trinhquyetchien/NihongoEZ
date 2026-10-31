@@ -97,29 +97,39 @@
       "meaning": "đáng thương"
     },
     {
+      "word": "悲惨",
+      "reading": "ひさん",
+      "meaning": "bi thảm"
+    },
+    {
+      "word": "悲惨な",
+      "reading": "ひさんな",
+      "meaning": "bần thần"
+    },
+    {
       "word": "惨事",
       "reading": "さんじ",
       "meaning": "thảm họa"
     },
     {
-      "word": "惨死",
-      "reading": "ざんし",
-      "meaning": "sự chết thảm"
+      "word": "大惨事",
+      "reading": "だいさんじ",
+      "meaning": "thảm họa lớn"
     },
     {
-      "word": "惨憺",
-      "reading": "さんたん",
-      "meaning": "cảm động"
+      "word": "惨敗",
+      "reading": "ざんぱい",
+      "meaning": "sự thảm bại"
     },
     {
-      "word": "惨酷",
-      "reading": "ざんこく",
-      "meaning": "sự tàn bạo"
+      "word": "惨劇",
+      "reading": "さんげき",
+      "meaning": "bi kịch"
     },
     {
-      "word": "惨禍",
-      "reading": "さんか",
-      "meaning": "thảm khốc"
+      "word": "惨状",
+      "reading": "さんじょう",
+      "meaning": "cảnh tượng thảm khốc"
     },
     {
       "word": "惨殺",
@@ -130,16 +140,6 @@
       "word": "凄惨",
       "reading": "せいさん",
       "meaning": "sự kinh dị"
-    },
-    {
-      "word": "陰惨",
-      "reading": "いんさん",
-      "meaning": "buồn bã và ảm đạm"
-    },
-    {
-      "word": "惨状",
-      "reading": "さんじょう",
-      "meaning": "cảnh tượng thảm khốc"
     }
   ]
 }

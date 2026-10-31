@@ -54,6 +54,16 @@
   ],
   "vocabulary": [
     {
+      "word": "白樺",
+      "reading": "しらかば",
+      "meaning": "cây phong trắng"
+    },
+    {
+      "word": "白樺油",
+      "reading": "しらかばゆ",
+      "meaning": "dầu cây bạch dương"
+    },
+    {
       "word": "樺",
       "reading": "かば",
       "meaning": "cây hương bồ"
@@ -74,14 +84,9 @@
       "meaning": "betula ermanii"
     },
     {
-      "word": "樺色",
-      "reading": "かばいろ",
-      "meaning": "màu nâu đỏ"
-    },
-    {
-      "word": "白樺",
-      "reading": "しらかば",
-      "meaning": "cây phong trắng"
+      "word": "樺太犬",
+      "reading": "からふとけん",
+      "meaning": "chó sakhalin husky"
     },
     {
       "word": "大樺斑",
@@ -89,14 +94,9 @@
       "meaning": "bướm vua"
     },
     {
-      "word": "白樺油",
-      "reading": "しらかばゆ",
-      "meaning": "dầu cây bạch dương"
-    },
-    {
-      "word": "樺の木",
-      "reading": "かばのき",
-      "meaning": "chi cáng lò"
+      "word": "樺太鷲",
+      "reading": "からふとわし",
+      "meaning": "đại bàng đen"
     },
     {
       "word": "樺太梟",

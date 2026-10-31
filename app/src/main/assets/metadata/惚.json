@@ -89,9 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "惚れ惚れ",
-      "reading": "ほれぼれ",
-      "meaning": "việc bị quyến rũ"
+      "word": "惚れ薬",
+      "reading": "ほれぐすり",
+      "meaning": "bùa mê"
+    },
+    {
+      "word": "相惚れ",
+      "reading": "あいぼれ",
+      "meaning": "tình yêu thương lẫn nhau"
+    },
+    {
+      "word": "傍惚れ",
+      "reading": "おかぼれ",
+      "meaning": "tình yêu không được đền đáp"
     },
     {
       "word": "恍惚",
@@ -99,19 +109,9 @@
       "meaning": "trạng thái mê ly"
     },
     {
-      "word": "惚気",
-      "reading": "のろけ",
-      "meaning": "nói âu yếm"
-    },
-    {
-      "word": "惚け",
-      "reading": "ぼけ",
-      "meaning": "sự lão suy"
-    },
-    {
-      "word": "岡惚",
-      "reading": "おかぼれ",
-      "meaning": "sự yêu thầm"
+      "word": "惚れる",
+      "reading": "ほれる",
+      "meaning": "phải lòng"
     },
     {
       "word": "自惚れ",
@@ -119,9 +119,9 @@
       "meaning": "sự tự mãn"
     },
     {
-      "word": "惚れる",
-      "reading": "ほれる",
-      "meaning": "phải lòng"
+      "word": "惚け",
+      "reading": "ぼけ",
+      "meaning": "sự lão suy"
     },
     {
       "word": "糞惚け",
@@ -129,14 +129,14 @@
       "meaning": "shit for brains"
     },
     {
-      "word": "惚気る",
-      "reading": "のろける",
-      "meaning": "nịnh đầm nói âu yếm"
+      "word": "お惚け",
+      "reading": "おとぼけ",
+      "meaning": "giả vờ ngu dốt"
     },
     {
-      "word": "惚ける",
-      "reading": "ぼける",
-      "meaning": "bị lão suy"
+      "word": "岡惚",
+      "reading": "おかぼれ",
+      "meaning": "sự yêu thầm"
     }
   ]
 }

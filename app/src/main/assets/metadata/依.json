@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "依",
-      "reading": "より",
-      "meaning": "tùy thuộc vào"
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "sự nhờ vả"
     },
     {
-      "word": "依る",
-      "reading": "よる",
-      "meaning": "phụ thuộc vào"
+      "word": "依存",
+      "reading": "いぞん",
+      "meaning": "sự phụ thuộc"
     },
     {
       "word": "依然",
@@ -105,39 +105,39 @@
       "meaning": "đã"
     },
     {
-      "word": "依頼",
-      "reading": "いらい",
-      "meaning": "sự nhờ vả"
+      "word": "依頼人",
+      "reading": "いらいにん",
+      "meaning": "khách hàng"
     },
     {
-      "word": "帰依",
-      "reading": "きえ",
-      "meaning": "sự quy y"
+      "word": "依頼者",
+      "reading": "いらいしゃ",
+      "meaning": "khách hàng"
     },
     {
-      "word": "依代",
-      "reading": "よりしろ",
-      "meaning": "vật chủ"
+      "word": "依頼書",
+      "reading": "いらいしょ",
+      "meaning": "bản yêu cầu"
     },
     {
-      "word": "依怙",
-      "reading": "えこ",
-      "meaning": "thiên vị"
+      "word": "依頼主",
+      "reading": "いらいぬし",
+      "meaning": "người yêu cầu"
     },
     {
-      "word": "依願",
-      "reading": "いがん",
-      "meaning": "theo nguyện vọng"
+      "word": "依頼料",
+      "reading": "いらいりょう",
+      "meaning": "phí yêu cầu"
     },
     {
-      "word": "依託",
-      "reading": "いたく",
-      "meaning": "sự uỷ thác"
+      "word": "依存性",
+      "reading": "いぞんせい",
+      "meaning": "sự phụ thuộc"
     },
     {
-      "word": "依嘱",
-      "reading": "いしょく",
-      "meaning": "giao cho ai chịu trách nhiệm về"
+      "word": "依存度",
+      "reading": "いぞんど",
+      "meaning": "mức độ phụ thuộc"
     }
   ]
 }

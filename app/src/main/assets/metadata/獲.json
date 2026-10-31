@@ -89,39 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "獲物",
-      "reading": "えもの",
-      "meaning": "con mồi"
-    },
-    {
-      "word": "漁獲",
-      "reading": "ぎょかく",
-      "meaning": "sự đánh bắt cá"
-    },
-    {
-      "word": "獲る",
-      "reading": "える",
-      "meaning": "bắt được"
-    },
-    {
-      "word": "獲麟",
-      "reading": "かくりん",
-      "meaning": "bút tích cuối cùng"
-    },
-    {
-      "word": "収獲",
-      "reading": "しゅうかく",
-      "meaning": "kết quả"
-    },
-    {
-      "word": "一獲",
-      "reading": "いっかく",
-      "meaning": "một chụp giật"
-    },
-    {
-      "word": "濫獲",
-      "reading": "らんかく",
-      "meaning": "săn bắt bừa bãi"
+      "word": "獲得",
+      "reading": "かくとく",
+      "meaning": "sự thu được"
     },
     {
       "word": "捕獲",
@@ -129,14 +99,44 @@
       "meaning": "sự bắt được"
     },
     {
-      "word": "混獲",
-      "reading": "こんかく",
-      "meaning": "bắt kịp"
+      "word": "獲物",
+      "reading": "えもの",
+      "meaning": "con mồi"
     },
     {
-      "word": "乱獲",
-      "reading": "らんかく",
-      "meaning": "khai thác"
+      "word": "捕獲船",
+      "reading": "ほかくふね",
+      "meaning": "nơi bắt giữ tàu"
+    },
+    {
+      "word": "捕獲器",
+      "reading": "ほかくうつわ",
+      "meaning": "dụng cụ săn bắt"
+    },
+    {
+      "word": "一獲",
+      "reading": "いっかく",
+      "meaning": "một chụp giật"
+    },
+    {
+      "word": "獲れる",
+      "reading": "とれる",
+      "meaning": "được đánh bắt"
+    },
+    {
+      "word": "漁獲",
+      "reading": "ぎょかく",
+      "meaning": "sự đánh bắt cá"
+    },
+    {
+      "word": "漁獲物",
+      "reading": "ぎょかくぶつ",
+      "meaning": "bắt con cá"
+    },
+    {
+      "word": "漁獲高",
+      "reading": "ぎょかくだか",
+      "meaning": "bắt con cá"
     }
   ]
 }

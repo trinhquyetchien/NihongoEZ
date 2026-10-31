@@ -93,39 +93,24 @@
       "meaning": "mực"
     },
     {
-      "word": "墨/墨汁",
-      "reading": "すみ/ぼくじゅう",
-      "meaning": "mực/ mực đen"
-    },
-    {
-      "word": "墨打器/墨差し",
-      "reading": "すみだうつわ/すみさし",
-      "meaning": "bút mực"
-    },
-    {
-      "word": "唐墨",
-      "reading": "からすみ",
-      "meaning": "mực tàu"
-    },
-    {
-      "word": "縄墨",
-      "reading": "じょうぼく",
-      "meaning": "tiêu chuẩn"
-    },
-    {
       "word": "日墨",
       "reading": "にちぼく",
       "meaning": "nhật bản và mehicô"
     },
     {
-      "word": "墨跡",
-      "reading": "ぼくせき",
-      "meaning": "lối viết"
+      "word": "中墨",
+      "reading": "なかずみ",
+      "meaning": "đường trung tâm"
     },
     {
-      "word": "イカ墨",
-      "reading": "いかすみ",
-      "meaning": "phần chất lỏng màu đen bên trong của con mực"
+      "word": "墨家",
+      "reading": "ぼっか",
+      "meaning": "mohist"
+    },
+    {
+      "word": "墨出し",
+      "reading": "すみだし",
+      "meaning": "bật mực"
     },
     {
       "word": "墨場",
@@ -133,9 +118,24 @@
       "meaning": "nơi gặp gỡ của các nhà thư pháp và họa sĩ"
     },
     {
-      "word": "白墨",
-      "reading": "はくぼく",
-      "meaning": "phấn viết"
+      "word": "赤墨",
+      "reading": "あかずみ",
+      "meaning": "mực màu đỏ"
+    },
+    {
+      "word": "雪と墨",
+      "reading": "ゆきとすみ",
+      "meaning": "tuyết và mực"
+    },
+    {
+      "word": "墨魚",
+      "reading": "ぼくぎょ",
+      "meaning": "con mực"
+    },
+    {
+      "word": "イカ墨",
+      "reading": "いかすみ",
+      "meaning": "phần chất lỏng màu đen bên trong của con mực"
     }
   ]
 }

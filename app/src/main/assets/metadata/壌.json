@@ -86,6 +86,26 @@
   ],
   "vocabulary": [
     {
+      "word": "土壌",
+      "reading": "どじょう",
+      "meaning": "đất cát"
+    },
+    {
+      "word": "土壌水",
+      "reading": "どじょうすい",
+      "meaning": "nước ngầm"
+    },
+    {
+      "word": "土壌学",
+      "reading": "どじょうがく",
+      "meaning": "khoa học đất"
+    },
+    {
+      "word": "平壌",
+      "reading": "ピョンヤン",
+      "meaning": "thủ đô bắc triều tiên"
+    },
+    {
       "word": "壌",
       "reading": "",
       "meaning": "10 ^ 28"
@@ -106,34 +126,14 @@
       "meaning": "mây và trái đất"
     },
     {
-      "word": "平壌",
-      "reading": "ピョンヤン",
-      "meaning": "thủ đô bắc triều tiên"
-    },
-    {
       "word": "霄壌",
       "reading": "しょうじょう",
       "meaning": "thiên đàng và trái đất"
     },
     {
-      "word": "土壌",
-      "reading": "どじょう",
-      "meaning": "đất cát"
-    },
-    {
       "word": "撃壌",
       "reading": "げきじょう",
       "meaning": "việc giậm chân xuống đất theo nhịp khi ca"
-    },
-    {
-      "word": "土壌学",
-      "reading": "どじょうがく",
-      "meaning": "khoa học đất"
-    },
-    {
-      "word": "土壌水",
-      "reading": "どじょうすい",
-      "meaning": "nước ngầm"
     }
   ]
 }

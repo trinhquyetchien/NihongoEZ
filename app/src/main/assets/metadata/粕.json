@@ -31,39 +31,24 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "粕",
-      "reading": "かす",
-      "meaning": "cặn bã、rác rưởi"
-    },
-    {
-      "word": "〆粕",
-      "reading": "しめかす",
-      "meaning": "bã cá"
-    },
-    {
-      "word": "豆粕",
-      "reading": "まめかす",
-      "meaning": "xác đậu nành sau khi vắt lấy dầu"
-    },
-    {
-      "word": "粕汁",
-      "reading": "かすじる",
-      "meaning": "xúp làm với mục đích những chỗ chắn gió"
-    },
-    {
-      "word": "油粕",
-      "reading": "あぶらかす",
-      "meaning": "bánh khô dầu"
-    },
-    {
       "word": "酒粕",
       "reading": "さけかす",
       "meaning": "bã rượu"
     },
     {
-      "word": "糟粕",
-      "reading": "そうはく",
-      "meaning": "cặn rượu sake"
+      "word": "粕",
+      "reading": "かす",
+      "meaning": "cặn bã、rác rưởi"
+    },
+    {
+      "word": "黒粕",
+      "reading": "くろかす",
+      "meaning": "rượu sake có đốm đen hoặc nâu"
+    },
+    {
+      "word": "魚粕",
+      "reading": "ぎょかす",
+      "meaning": "bột cá xay"
     },
     {
       "word": "荒粕",
@@ -71,14 +56,29 @@
       "meaning": "phân bón cho cá"
     },
     {
-      "word": "鰊粕",
-      "reading": "にしんかす",
-      "meaning": "cá trích luộc khô và ép"
+      "word": "飴粕",
+      "reading": "あめかす",
+      "meaning": "bã"
+    },
+    {
+      "word": "削り粕",
+      "reading": "けずりかす",
+      "meaning": "vỏ gọt"
+    },
+    {
+      "word": "〆粕",
+      "reading": "しめかす",
+      "meaning": "bã cá"
     },
     {
       "word": "甘粕",
       "reading": "あまかす",
       "meaning": "rượu sake đậm"
+    },
+    {
+      "word": "鰊粕",
+      "reading": "にしんかす",
+      "meaning": "cá trích luộc khô và ép"
     }
   ]
 }

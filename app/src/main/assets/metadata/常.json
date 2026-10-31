@@ -90,39 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "常",
-      "reading": "とこ",
-      "meaning": "tính vĩnh hằng"
-    },
-    {
-      "word": "常常",
-      "reading": "つねづね",
-      "meaning": "luôn luôn"
-    },
-    {
-      "word": "通常",
-      "reading": "つうじょう",
-      "meaning": "bình thường"
-    },
-    {
-      "word": "常夜",
-      "reading": "とこよ",
-      "meaning": "đêm vĩnh hằng"
-    },
-    {
-      "word": "常習",
-      "reading": "じょうしゅう",
-      "meaning": "thói quen thông thường"
-    },
-    {
-      "word": "常用",
-      "reading": "じょうよう",
-      "meaning": "thông dụng"
-    },
-    {
-      "word": "常務",
-      "reading": "じょうむ",
-      "meaning": "sự thông thường"
+      "word": "非常",
+      "reading": "ひじょう",
+      "meaning": "khẩn cấp"
     },
     {
       "word": "異常",
@@ -130,14 +100,44 @@
       "meaning": "không bình thường"
     },
     {
-      "word": "常人",
-      "reading": "じょうじん",
-      "meaning": "người bình thường"
+      "word": "通常",
+      "reading": "つうじょう",
+      "meaning": "bình thường"
     },
     {
-      "word": "常食",
-      "reading": "じょうしょく",
-      "meaning": "hàng ngày là thức ăn"
+      "word": "平常",
+      "reading": "へいじょう",
+      "meaning": "bình thường"
+    },
+    {
+      "word": "常",
+      "reading": "とこ",
+      "meaning": "tính vĩnh hằng"
+    },
+    {
+      "word": "常事",
+      "reading": "じょうじ",
+      "meaning": "thường thường"
+    },
+    {
+      "word": "家常",
+      "reading": "かじょう",
+      "meaning": "phong tục gia đình"
+    },
+    {
+      "word": "超常",
+      "reading": "ちょうじょう",
+      "meaning": "huyền bí"
+    },
+    {
+      "word": "常夜",
+      "reading": "とこよ",
+      "meaning": "đêm vĩnh hằng"
+    },
+    {
+      "word": "常歩",
+      "reading": "じょうほ",
+      "meaning": "nhịp bước thông thường"
     }
   ]
 }

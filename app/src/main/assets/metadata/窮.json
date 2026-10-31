@@ -93,9 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "困窮",
-      "reading": "こんきゅう",
-      "meaning": "sự khốn cùng"
+      "word": "窮屈",
+      "reading": "きゅうくつ",
+      "meaning": "chật"
     },
     {
       "word": "窮乏",
@@ -103,24 +103,34 @@
       "meaning": "sự cùng khốn"
     },
     {
-      "word": "窮境",
-      "reading": "きゅうきょう",
-      "meaning": "cảnh quẫn bách"
+      "word": "窮地",
+      "reading": "きゅうち",
+      "meaning": "tình thế tiến thoái lưỡng nan"
     },
     {
-      "word": "窮す",
-      "reading": "きゅうす",
-      "meaning": "gặp khó khăn"
+      "word": "困窮",
+      "reading": "こんきゅう",
+      "meaning": "sự khốn cùng"
     },
     {
-      "word": "窮迫",
-      "reading": "きゅうはく",
-      "meaning": "cảnh khốn cùng"
+      "word": "困窮者",
+      "reading": "こんきゅうしゃ",
+      "meaning": "người nghèo khó"
     },
     {
-      "word": "窮民",
-      "reading": "きゅうみん",
-      "meaning": "người dân có cuộc sống túng quẫn"
+      "word": "窮屈袋",
+      "reading": "きゅうくつぶくろ",
+      "meaning": "tên gọi khác của hakama"
+    },
+    {
+      "word": "春窮",
+      "reading": "しゅんきゅう",
+      "meaning": "sự thiếu hụt lương thực mùa xuân"
+    },
+    {
+      "word": "窮まる",
+      "reading": "きわまる",
+      "meaning": "cùng cực"
     },
     {
       "word": "窮状",
@@ -128,19 +138,9 @@
       "meaning": "cảnh khốn cùng"
     },
     {
-      "word": "窮極",
-      "reading": "きゅうきょく",
-      "meaning": "sự tột cùng"
-    },
-    {
-      "word": "窮理",
-      "reading": "きゅうり",
-      "meaning": "nghiên cứu các quy luật tự nhiên"
-    },
-    {
-      "word": "窮鳥",
-      "reading": "きゅうちょう",
-      "meaning": "chim bị dồn vào góc"
+      "word": "窮する",
+      "reading": "きゅうする",
+      "meaning": "bí từ"
     }
   ]
 }

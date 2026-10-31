@@ -93,44 +93,39 @@
   ],
   "vocabulary": [
     {
-      "word": "肥",
-      "reading": "こえ",
-      "meaning": "phân bón"
-    },
-    {
-      "word": "液肥",
-      "reading": "えきひ",
-      "meaning": "phân bón dạng lỏng"
-    },
-    {
       "word": "肥料",
       "reading": "ひりょう",
       "meaning": "phân bón"
     },
     {
-      "word": "肥厚",
-      "reading": "ひこう",
-      "meaning": "sự nở to"
+      "word": "肥満",
+      "reading": "ひまん",
+      "meaning": "béo"
     },
     {
-      "word": "求肥",
-      "reading": "ぎゅうひ",
-      "meaning": "kẹo dẻo nhật"
+      "word": "肥満性",
+      "reading": "ひまんしょう",
+      "meaning": "xu hướng béo phì"
     },
     {
-      "word": "肥馬",
-      "reading": "ひば",
-      "meaning": "ngựa béo"
+      "word": "肥満体",
+      "reading": "ひまんたい",
+      "meaning": "béo phì"
     },
     {
-      "word": "肥土",
-      "reading": "こえつち",
-      "meaning": "đất đai màu mỡ"
+      "word": "肥満症",
+      "reading": "ひまんしょう",
+      "meaning": "chứng béo phì"
     },
     {
-      "word": "肥る",
-      "reading": "ふとる",
-      "meaning": "để trồng béo"
+      "word": "肥大",
+      "reading": "ひだい",
+      "meaning": "sự mập mạp"
+    },
+    {
+      "word": "肥大化",
+      "reading": "ひだいか",
+      "meaning": "sự to lên"
     },
     {
       "word": "堆肥",
@@ -138,8 +133,13 @@
       "meaning": "phân trộn"
     },
     {
-      "word": "下肥",
-      "reading": "しもごえ",
+      "word": "堆肥化",
+      "reading": "たいひか",
+      "meaning": "sự ủ phân"
+    },
+    {
+      "word": "肥やし",
+      "reading": "こやし",
       "meaning": "phân bón"
     }
   ]

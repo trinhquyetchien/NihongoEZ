@@ -88,34 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "冴",
-      "reading": "さえ",
-      "meaning": "sáng sủa sáng sủa lạnh kỹ năng"
-    },
-    {
-      "word": "冴え冴え",
-      "reading": "さえざえ",
-      "meaning": "rõ ràng"
-    },
-    {
-      "word": "冴え冴えした",
-      "reading": "さえざえした",
-      "meaning": "vui vẻ"
-    },
-    {
-      "word": "冴え冴えとした",
-      "reading": "さえざえとした",
-      "meaning": "rạng rỡ"
-    },
-    {
-      "word": "冴え冴えした顔",
-      "reading": "さえざえしたかお",
-      "meaning": "vui vẻ nhìn"
-    },
-    {
-      "word": "冴え冴えとした顔",
-      "reading": "さえざえとしたかお",
-      "meaning": "gương mặt vui vẻ rạng rỡ"
+      "word": "冴える",
+      "reading": "さえる",
+      "meaning": "khéo léo"
     },
     {
       "word": "冴え",
@@ -123,19 +98,44 @@
       "meaning": "thậm chí"
     },
     {
+      "word": "冴",
+      "reading": "さえ",
+      "meaning": "sáng sủa sáng sủa lạnh kỹ năng"
+    },
+    {
       "word": "冴寒",
       "reading": "ごかん",
       "meaning": "lạnh tột bậc"
     },
     {
-      "word": "冴える",
-      "reading": "さえる",
-      "meaning": "khéo léo"
+      "word": "冴えない",
+      "reading": "さえない",
+      "meaning": "mờ nhạt"
     },
     {
       "word": "冴え行く",
       "reading": "さえゆく",
       "meaning": "dần dần lạnh hơn"
+    },
+    {
+      "word": "頭の冴え",
+      "reading": "あたまのさえ",
+      "meaning": "trí tuệ sáng sủa"
+    },
+    {
+      "word": "冴えた夜",
+      "reading": "さえたよる",
+      "meaning": "đêm lạnh"
+    },
+    {
+      "word": "冴えた色",
+      "reading": "さえたいろ",
+      "meaning": "sáng ngời có màu"
+    },
+    {
+      "word": "腕の冴え",
+      "reading": "うでのさえ",
+      "meaning": "sự khéo tay"
     }
   ]
 }

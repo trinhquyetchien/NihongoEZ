@@ -112,11 +112,6 @@
   ],
   "vocabulary": [
     {
-      "word": "伝",
-      "reading": "つて",
-      "meaning": "tiểu sử"
-    },
-    {
       "word": "伝説",
       "reading": "でんせつ",
       "meaning": "truyện ký"
@@ -127,39 +122,44 @@
       "meaning": "thông điệp"
     },
     {
-      "word": "自伝",
-      "reading": "じでん",
-      "meaning": "tự truyện"
+      "word": "伝",
+      "reading": "つて",
+      "meaning": "tiểu sử"
+    },
+    {
+      "word": "新伝",
+      "reading": "しんでん",
+      "meaning": "phong cách mới"
+    },
+    {
+      "word": "神伝",
+      "reading": "しんでん",
+      "meaning": "sự truyền dạy từ thần"
+    },
+    {
+      "word": "絵伝",
+      "reading": "えでん",
+      "meaning": "tranh kể về tiểu sư của nhà sư hoặc lịch sử ngôi chùa"
+    },
+    {
+      "word": "伝世",
+      "reading": "でんせい",
+      "meaning": "sự truyền từ đời này sang đời khác"
+    },
+    {
+      "word": "世伝",
+      "reading": "せいでん",
+      "meaning": "phòng khánh tiết"
+    },
+    {
+      "word": "聖伝",
+      "reading": "せいでん",
+      "meaning": "truyền thống"
     },
     {
       "word": "遺伝",
       "reading": "いでん",
       "meaning": "di truyền"
-    },
-    {
-      "word": "マタイ伝",
-      "reading": "マタイでん",
-      "meaning": "phúc âm theo thánh mát-thêu"
-    },
-    {
-      "word": "マルコ伝",
-      "reading": "マルコでん",
-      "meaning": "phúc âm theo mác-cô"
-    },
-    {
-      "word": "ヨハネ伝",
-      "reading": "ヨハネでん",
-      "meaning": "phúc âm gioan"
-    },
-    {
-      "word": "喧伝",
-      "reading": "けんでん",
-      "meaning": "được lan truyền khắp nơi"
-    },
-    {
-      "word": "師伝",
-      "reading": "しでん",
-      "meaning": "sự chỉ dẫn truyền dạy của người thầy"
     }
   ]
 }

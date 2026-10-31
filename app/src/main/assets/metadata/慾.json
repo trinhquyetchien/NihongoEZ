@@ -34,6 +34,31 @@
       "meaning": "sự khao khát"
     },
     {
+      "word": "禁慾",
+      "reading": "きんよく",
+      "meaning": "sự tiết dục"
+    },
+    {
+      "word": "獣慾",
+      "reading": "じゅうよく",
+      "meaning": "tham muốn"
+    },
+    {
+      "word": "名誉慾",
+      "reading": "めいよよく",
+      "meaning": "tình yêu thanh danh"
+    },
+    {
+      "word": "性慾",
+      "reading": "せいよく",
+      "meaning": "tình dục mong muốn"
+    },
+    {
+      "word": "愛慾",
+      "reading": "あいよく",
+      "meaning": "tình yêu tha thiết đối với vợ hoặc người khác phái"
+    },
+    {
       "word": "食慾",
       "reading": "しょくよく",
       "meaning": "sự ngon miệng"
@@ -49,34 +74,9 @@
       "meaning": "sự ít tham lam"
     },
     {
-      "word": "禁慾",
-      "reading": "きんよく",
-      "meaning": "sự tiết dục"
-    },
-    {
       "word": "色慾",
       "reading": "しきよく",
       "meaning": "tham muốn"
-    },
-    {
-      "word": "性慾",
-      "reading": "せいよく",
-      "meaning": "tình dục mong muốn"
-    },
-    {
-      "word": "物慾",
-      "reading": "ぶつよく",
-      "meaning": "tính tham lam"
-    },
-    {
-      "word": "無慾",
-      "reading": "むよく",
-      "meaning": "tự do từ tính hám lợi"
-    },
-    {
-      "word": "強慾",
-      "reading": "ごうよく",
-      "meaning": "tính tham lam"
     }
   ]
 }

@@ -86,39 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "醤",
-      "reading": "ひしお",
-      "meaning": "dán tương tự như miso làm từ nấm mốc koji và nước muối"
-    },
-    {
-      "word": "ＸＯ醤",
-      "reading": "エックスオージャン",
-      "meaning": "sốt xo"
-    },
-    {
-      "word": "魚醤",
-      "reading": "ぎょしょう",
-      "meaning": "nước mắm"
-    },
-    {
-      "word": "蒟醤",
-      "reading": "きんま",
-      "meaning": "cây trầu không"
-    },
-    {
-      "word": "醤蝦",
-      "reading": "あみ",
-      "meaning": "loài chân khớp giống tôm"
-    },
-    {
       "word": "醤油",
       "reading": "しょうゆ",
       "meaning": "xì dầu"
-    },
-    {
-      "word": "肉醤",
-      "reading": "ししびしお",
-      "meaning": "nước sốt thịt"
     },
     {
       "word": "魚醤油",
@@ -126,9 +96,39 @@
       "meaning": "nước mắm"
     },
     {
-      "word": "沖醤蝦",
-      "reading": "おきあみ",
-      "meaning": "tép riu"
+      "word": "醤油皿",
+      "reading": "しょうゆざら",
+      "meaning": "món xì dầu"
+    },
+    {
+      "word": "醤",
+      "reading": "ひしお",
+      "meaning": "dán tương tự như miso làm từ nấm mốc koji và nước muối"
+    },
+    {
+      "word": "肉醤",
+      "reading": "ししびしお",
+      "meaning": "nước sốt thịt"
+    },
+    {
+      "word": "魚醤",
+      "reading": "ぎょしょう",
+      "meaning": "nước mắm"
+    },
+    {
+      "word": "芝麻醤",
+      "reading": "チーマージャン",
+      "meaning": "bơ mè"
+    },
+    {
+      "word": "豆鼓醤",
+      "reading": "トウチジャン",
+      "meaning": "một loại gia vị của trung quốc"
+    },
+    {
+      "word": "ＸＯ醤",
+      "reading": "エックスオージャン",
+      "meaning": "sốt xo"
     },
     {
       "word": "豆板醤",

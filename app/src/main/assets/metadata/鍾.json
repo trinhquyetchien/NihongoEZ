@@ -69,14 +69,14 @@
   ],
   "vocabulary": [
     {
+      "word": "鍾乳洞",
+      "reading": "しょうにゅうどう",
+      "meaning": "động thạch nhũ"
+    },
+    {
       "word": "鍾",
       "reading": "しょう",
       "meaning": "thạp đồng tròn đựng rượu"
-    },
-    {
-      "word": "鍾馗",
-      "reading": "しょうき",
-      "meaning": "zhong kui"
     },
     {
       "word": "鍾き",
@@ -89,19 +89,19 @@
       "meaning": "thạch nhũ"
     },
     {
-      "word": "鍾乳洞",
-      "reading": "しょうにゅうどう",
-      "meaning": "động thạch nhũ"
-    },
-    {
-      "word": "鍾乳体",
-      "reading": "しょうにゅうたい",
-      "meaning": "sự phát triển của thành tế bào biểu bì"
+      "word": "鍾馗",
+      "reading": "しょうき",
+      "meaning": "zhong kui"
     },
     {
       "word": "鍾馗蘭",
       "reading": "しょうきらん",
       "meaning": "yoania japonica"
+    },
+    {
+      "word": "鍾乳体",
+      "reading": "しょうにゅうたい",
+      "meaning": "sự phát triển của thành tế bào biểu bì"
     },
     {
       "word": "鍾馗さん",

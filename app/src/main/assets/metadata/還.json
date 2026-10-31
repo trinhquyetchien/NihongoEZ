@@ -89,23 +89,13 @@
   ],
   "vocabulary": [
     {
-      "word": "還る",
-      "reading": "かえる",
-      "meaning": "quay trở lại nơi bạn đã bắt đầu hoặc nơi bạn đã ở"
+      "word": "還元",
+      "reading": "かんげん",
+      "meaning": "sự trả lại trạng thái nguyên cũ"
     },
     {
-      "word": "召還",
-      "reading": "しょうかん",
-      "meaning": "gọi về"
-    },
-    {
-      "word": "償還",
-      "reading": "しょうかん",
-      "meaning": "sự trả lại"
-    },
-    {
-      "word": "帰還",
-      "reading": "きかん",
+      "word": "返還",
+      "reading": "へんかん",
       "meaning": "sự trở về"
     },
     {
@@ -114,29 +104,39 @@
       "meaning": "hoa giáp"
     },
     {
-      "word": "饋還",
+      "word": "帰還",
       "reading": "きかん",
-      "meaning": "sự phản hồi"
+      "meaning": "sự trở về"
     },
     {
-      "word": "還水",
-      "reading": "かんすい",
-      "meaning": "sự hồi tụ hơi nước"
+      "word": "帰還者",
+      "reading": "きかんしゃ",
+      "meaning": "bộ đội phục viên"
     },
     {
-      "word": "送還",
-      "reading": "そうかん",
-      "meaning": "sự hồi hương"
+      "word": "光還元",
+      "reading": "ひかりかんげん",
+      "meaning": "sự quang khử"
     },
     {
-      "word": "奪還",
-      "reading": "だっかん",
-      "meaning": "sự lấy lại"
+      "word": "還元剤",
+      "reading": "かんげんざい",
+      "meaning": "chất khử"
     },
     {
-      "word": "往還",
-      "reading": "おうかん",
-      "meaning": "giao thông"
+      "word": "帰還兵",
+      "reading": "きかんへい",
+      "meaning": "người lính trở về từ chiến trường"
+    },
+    {
+      "word": "還元鉄",
+      "reading": "かんげんてつ",
+      "meaning": "giảm sắt"
+    },
+    {
+      "word": "還元糖",
+      "reading": "かんげんとう",
+      "meaning": "đường khử"
     }
   ]
 }

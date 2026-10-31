@@ -109,14 +109,39 @@
   ],
   "vocabulary": [
     {
-      "word": "震",
-      "reading": "しん",
-      "meaning": "zhen"
-    },
-    {
       "word": "地震",
       "reading": "じしん",
       "meaning": "động đất"
+    },
+    {
+      "word": "震える",
+      "reading": "ふるえる",
+      "meaning": "chấn"
+    },
+    {
+      "word": "大地震",
+      "reading": "だいじしん",
+      "meaning": "trận động đất lớn"
+    },
+    {
+      "word": "地震学",
+      "reading": "じしんがく",
+      "meaning": "địa chấn học"
+    },
+    {
+      "word": "地震帯",
+      "reading": "じしんたい",
+      "meaning": "khu vực động đất"
+    },
+    {
+      "word": "地震波",
+      "reading": "じしんは",
+      "meaning": "sóng địa chấn"
+    },
+    {
+      "word": "地震計",
+      "reading": "じしんけい",
+      "meaning": "máy ghi địa chấn"
     },
     {
       "word": "震え",
@@ -124,39 +149,14 @@
       "meaning": "run rẩy"
     },
     {
-      "word": "震災",
-      "reading": "しんさい",
+      "word": "震え声",
+      "reading": "ふるえごえ",
+      "meaning": "giọng nói run rẩy"
+    },
+    {
+      "word": "大震災",
+      "reading": "だいしんさい",
       "meaning": "thảm họa động đất"
-    },
-    {
-      "word": "予震",
-      "reading": "よしん",
-      "meaning": "sơ bộ rung chuyển"
-    },
-    {
-      "word": "免震",
-      "reading": "めんしん",
-      "meaning": "sự chống rung"
-    },
-    {
-      "word": "震害",
-      "reading": "しんがい",
-      "meaning": "thiệt hại do động đất"
-    },
-    {
-      "word": "制震",
-      "reading": "せいしん",
-      "meaning": "kiểm soát rung động"
-    },
-    {
-      "word": "耐震",
-      "reading": "たいしん",
-      "meaning": "chống lại sự động đất"
-    },
-    {
-      "word": "中震",
-      "reading": "ちゅうしん",
-      "meaning": "trung chấn"
     }
   ]
 }

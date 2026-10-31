@@ -88,39 +88,9 @@
       "meaning": "người ở tầng lớp thượng lưu"
     },
     {
-      "word": "縉紳",
-      "reading": "しんしん",
-      "meaning": "người có cấp bậc"
-    },
-    {
-      "word": "貴紳",
-      "reading": "きしん",
-      "meaning": "người quý phái"
-    },
-    {
-      "word": "紳商",
-      "reading": "しんしょう",
-      "meaning": "một buôn bán giàu"
-    },
-    {
-      "word": "田紳",
-      "reading": "でんしん",
-      "meaning": "phú ông"
-    },
-    {
       "word": "紳士的",
       "reading": "しんしてき",
       "meaning": "lịch sự"
-    },
-    {
-      "word": "紳士靴",
-      "reading": "しんしぐつ",
-      "meaning": "giày đàn ông"
-    },
-    {
-      "word": "紳士風",
-      "reading": "しんしふう",
-      "meaning": "phong cách lịnh lãm"
     },
     {
       "word": "紳士用",
@@ -128,9 +98,39 @@
       "meaning": "sự dùng cho đàn ông"
     },
     {
+      "word": "紳士風",
+      "reading": "しんしふう",
+      "meaning": "phong cách lịnh lãm"
+    },
+    {
+      "word": "紳士服",
+      "reading": "しんしふく",
+      "meaning": "quần áo đàn ông"
+    },
+    {
+      "word": "紳士靴",
+      "reading": "しんしぐつ",
+      "meaning": "giày đàn ông"
+    },
+    {
       "word": "老紳士",
       "reading": "ろうしんし",
       "meaning": "ông già"
+    },
+    {
+      "word": "紳士録",
+      "reading": "しんしろく",
+      "meaning": "thư mục"
+    },
+    {
+      "word": "田紳",
+      "reading": "でんしん",
+      "meaning": "phú ông"
+    },
+    {
+      "word": "縉紳",
+      "reading": "しんしん",
+      "meaning": "người có cấp bậc"
     }
   ]
 }

@@ -108,44 +108,24 @@
   ],
   "vocabulary": [
     {
-      "word": "暗暗裏",
-      "reading": "あんあんり",
+      "word": "暗い",
+      "reading": "くらい",
       "meaning": "tối tăm"
     },
     {
-      "word": "暗暗裡",
-      "reading": "あんあんり",
-      "meaning": "tối tăm"
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "sự ghi nhớ"
     },
     {
-      "word": "暗闇",
-      "reading": "くらやみ",
-      "meaning": "bóng tối"
+      "word": "暗殺",
+      "reading": "あんさつ",
+      "meaning": "sự ám sát"
     },
     {
-      "word": "暗者",
-      "reading": "くらもの",
-      "meaning": "kẻ mạo danh"
-    },
-    {
-      "word": "暗屋",
-      "reading": "くらや",
-      "meaning": "cửa hàng bí mật"
-    },
-    {
-      "word": "溶暗",
-      "reading": "ようあん",
-      "meaning": "bóng tối sau khi tắt đèn để xem phim"
-    },
-    {
-      "word": "暗礁",
-      "reading": "あんしょう",
-      "meaning": "đá ngầm"
-    },
-    {
-      "word": "暗証",
-      "reading": "あんしょう",
-      "meaning": "mật mã"
+      "word": "暗示",
+      "reading": "あんじ",
+      "meaning": "sự ám thị"
     },
     {
       "word": "暗算",
@@ -153,9 +133,29 @@
       "meaning": "sự tính nhẩm"
     },
     {
-      "word": "暗殺",
-      "reading": "あんさつ",
-      "meaning": "sự ám sát"
+      "word": "暗号",
+      "reading": "あんごう",
+      "meaning": "ám hiệu"
+    },
+    {
+      "word": "暗黒",
+      "reading": "あんこく",
+      "meaning": "tối"
+    },
+    {
+      "word": "暗さ",
+      "reading": "くらさ",
+      "meaning": "chỗ tối"
+    },
+    {
+      "word": "暗者",
+      "reading": "くらもの",
+      "meaning": "kẻ mạo danh"
+    },
+    {
+      "word": "夜暗",
+      "reading": "やあん",
+      "meaning": "dead of night"
     }
   ]
 }

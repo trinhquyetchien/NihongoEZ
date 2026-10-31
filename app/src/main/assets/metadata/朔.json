@@ -73,39 +73,14 @@
       "meaning": "ngày 1 của âm lịch"
     },
     {
-      "word": "朔望",
-      "reading": "さくぼう",
-      "meaning": "ngày mùng 1 và ngày rằm trong lịch âm"
-    },
-    {
-      "word": "朔日",
-      "reading": "ついたち",
-      "meaning": "ngày mùng 1 đầu tháng."
-    },
-    {
-      "word": "八朔",
-      "reading": "はっさく",
-      "meaning": "ngày sóc mùng một tháng tám trong lịch âm"
-    },
-    {
       "word": "正朔",
       "reading": "せいさく",
       "meaning": "bắt đầu tháng hoặc năm"
     },
     {
-      "word": "朔風",
-      "reading": "さくふう",
-      "meaning": "cơn gió bắc"
-    },
-    {
-      "word": "晦朔",
-      "reading": "かいさく",
-      "meaning": "hoàng hôn"
-    },
-    {
-      "word": "朔望月",
-      "reading": "さくぼうげつ",
-      "meaning": "tháng âm lịch"
+      "word": "朔望",
+      "reading": "さくぼう",
+      "meaning": "ngày mùng 1 và ngày rằm trong lịch âm"
     },
     {
       "word": "朔望潮",
@@ -113,9 +88,34 @@
       "meaning": "triều cường"
     },
     {
+      "word": "朔望月",
+      "reading": "さくぼうげつ",
+      "meaning": "tháng âm lịch"
+    },
+    {
       "word": "視告朔",
       "reading": "こうさく",
       "meaning": "nghi thức lễ ban sóc"
+    },
+    {
+      "word": "八朔",
+      "reading": "はっさく",
+      "meaning": "ngày sóc mùng một tháng tám trong lịch âm"
+    },
+    {
+      "word": "朔日",
+      "reading": "ついたち",
+      "meaning": "ngày mùng 1 đầu tháng"
+    },
+    {
+      "word": "初朔日",
+      "reading": "はつついたち",
+      "meaning": "ngày đầu tiên của năm mới"
+    },
+    {
+      "word": "晦朔",
+      "reading": "かいさく",
+      "meaning": "hoàng hôn"
     }
   ]
 }

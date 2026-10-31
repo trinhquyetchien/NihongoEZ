@@ -93,24 +93,24 @@
       "meaning": "đường đèo"
     },
     {
-      "word": "碓氷峠",
-      "reading": "うすいとうげ",
-      "meaning": "usui đi qua"
-    },
-    {
       "word": "峠越え",
       "reading": "とうげごえ",
       "meaning": "vượt đèo"
     },
     {
-      "word": "峠を越す",
-      "reading": "とうげをこす",
-      "meaning": "vượt qua"
+      "word": "碓氷峠",
+      "reading": "うすいとうげ",
+      "meaning": "usui đi qua"
     },
     {
       "word": "峠を越える",
       "reading": "とうげをこえる",
       "meaning": "vượt quà đèo"
+    },
+    {
+      "word": "峠を越す",
+      "reading": "とうげをこす",
+      "meaning": "vượt qua"
     }
   ]
 }

@@ -95,39 +95,9 @@
       "meaning": "trái tim"
     },
     {
-      "word": "心|心臓",
-      "reading": "こころ|しんぞう",
-      "meaning": "heart"
-    },
-    {
-      "word": "以心伝心",
-      "reading": "いしんでんしん",
-      "meaning": "thần giao cách cảm"
-    },
-    {
-      "word": "天心",
-      "reading": "てんしん",
-      "meaning": "ý trời"
-    },
-    {
-      "word": "いたわりの心",
-      "reading": "労わりの心",
-      "meaning": "quan tâm lo lắng"
-    },
-    {
-      "word": "細心",
-      "reading": "さいしん",
-      "meaning": "cẩn thận"
-    },
-    {
-      "word": "恣心",
-      "reading": "ししん",
-      "meaning": "sự tùy tiện"
-    },
-    {
-      "word": "核心",
-      "reading": "かくしん",
-      "meaning": "trọng tâm"
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "sự quan tâm"
     },
     {
       "word": "決心",
@@ -138,6 +108,36 @@
       "word": "都心",
       "reading": "としん",
       "meaning": "trung tâm thành phố"
+    },
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "meaning": "khó lòng"
+    },
+    {
+      "word": "心地",
+      "reading": "ここち",
+      "meaning": "tâm địa"
+    },
+    {
+      "word": "心中",
+      "reading": "しんじゅう",
+      "meaning": "động cơ thực sự"
+    },
+    {
+      "word": "観心",
+      "reading": "かんじん",
+      "meaning": "nội tâm"
+    },
+    {
+      "word": "御心",
+      "reading": "みこころ",
+      "meaning": "cách nói để bày tỏ sự tôn kính đối với cảm xúc"
+    },
+    {
+      "word": "心柱",
+      "reading": "しんばしら",
+      "meaning": "cột trụ trung tâm"
     }
   ]
 }

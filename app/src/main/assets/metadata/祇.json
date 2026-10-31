@@ -57,17 +57,22 @@
     {
       "word": "祇園",
       "reading": "ぎおん",
-      "meaning": ""
+      "meaning": "(khu trò giải trí trong kyoto)"
+    },
+    {
+      "word": "祇園会",
+      "reading": "ぎおんえ",
+      "meaning": "lễ hội gion"
+    },
+    {
+      "word": "祇園祭",
+      "reading": "ぎおんまつり",
+      "meaning": "lễ hội gion"
     },
     {
       "word": "神祇",
       "reading": "じんぎ",
       "meaning": "những vị thần của thiên đàng và trái đất"
-    },
-    {
-      "word": "地祇",
-      "reading": "くにつかみ",
-      "meaning": "những thần trái đất"
     },
     {
       "word": "神祇院",
@@ -80,19 +85,9 @@
       "meaning": "bộ thần thánh"
     },
     {
-      "word": "祇園会",
-      "reading": "ぎおんえ",
-      "meaning": "lễ hội gion"
-    },
-    {
-      "word": "阿僧祇",
-      "reading": "あそうぎ",
-      "meaning": "số không thể đếm được"
-    },
-    {
-      "word": "祇園祭",
-      "reading": "ぎおんまつり",
-      "meaning": "lễ hội gion"
+      "word": "神祇伯",
+      "reading": "じんぎはく",
+      "meaning": "trưởng ban thờ tự"
     },
     {
       "word": "神祇官",
@@ -100,9 +95,14 @@
       "meaning": "ủy viên shinto"
     },
     {
-      "word": "神祇伯",
-      "reading": "じんぎはく",
-      "meaning": "trưởng ban thờ tự"
+      "word": "地祇",
+      "reading": "くにつかみ",
+      "meaning": "những thần trái đất"
+    },
+    {
+      "word": "阿僧祇",
+      "reading": "あそうぎ",
+      "meaning": "số không thể đếm được"
     }
   ]
 }

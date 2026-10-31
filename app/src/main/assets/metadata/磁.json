@@ -87,11 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "電磁",
-      "reading": "でんじ",
-      "meaning": "điện từ"
-    },
-    {
       "word": "磁石",
       "reading": "じしゃく",
       "meaning": "đá nam châm"
@@ -102,34 +97,39 @@
       "meaning": "từ tính"
     },
     {
+      "word": "磁器",
+      "reading": "じき",
+      "meaning": "đồ gốm sứ"
+    },
+    {
+      "word": "電磁",
+      "reading": "でんじ",
+      "meaning": "điện từ"
+    },
+    {
+      "word": "電磁界",
+      "reading": "でんじかい",
+      "meaning": "trường điện từ"
+    },
+    {
+      "word": "電磁弁",
+      "reading": "でんじべん",
+      "meaning": "van điện từ"
+    },
+    {
+      "word": "磁場",
+      "reading": "じば",
+      "meaning": "từ trường"
+    },
+    {
       "word": "磁力",
       "reading": "じりょく",
       "meaning": "lực từ"
     },
     {
-      "word": "磁極",
-      "reading": "じきょく",
-      "meaning": "cực từ nam châm"
-    },
-    {
-      "word": "磁針",
-      "reading": "じしん",
-      "meaning": "kim nam châm"
-    },
-    {
-      "word": "脱磁",
-      "reading": "だつじ",
-      "meaning": "khử từ"
-    },
-    {
-      "word": "着磁",
-      "reading": "ちゃくじ",
-      "meaning": "từ hóa"
-    },
-    {
-      "word": "陶磁",
-      "reading": "とうじ",
-      "meaning": "đất sét"
+      "word": "磁力線",
+      "reading": "じりょくせん",
+      "meaning": "kẻ chất từ tính bắt buộc"
     },
     {
       "word": "磁性",

@@ -86,14 +86,39 @@
   ],
   "vocabulary": [
     {
+      "word": "洞窟",
+      "reading": "どうくつ",
+      "meaning": "hang động"
+    },
+    {
+      "word": "洞窟熊",
+      "reading": "ほらあなぐま",
+      "meaning": "gấu hang động"
+    },
+    {
       "word": "巣窟",
       "reading": "そうくつ",
       "meaning": "hang"
     },
     {
-      "word": "仙窟",
-      "reading": "せんくつ",
-      "meaning": "bỏ bùa hang"
+      "word": "石窟",
+      "reading": "せっくつ",
+      "meaning": "hang đá"
+    },
+    {
+      "word": "窟の中",
+      "reading": "いわやのなか",
+      "meaning": "ở trong một hang"
+    },
+    {
+      "word": "水琴窟",
+      "reading": "すいきんくつ",
+      "meaning": "suikinkutsu"
+    },
+    {
+      "word": "巌窟",
+      "reading": "がんくつ",
+      "meaning": "hang"
     },
     {
       "word": "魔窟",
@@ -106,34 +131,9 @@
       "meaning": "hang"
     },
     {
-      "word": "巌窟",
-      "reading": "がんくつ",
-      "meaning": "hang"
-    },
-    {
-      "word": "偏窟",
-      "reading": "へんくつ",
-      "meaning": "tính bướng bỉnh"
-    },
-    {
-      "word": "理窟",
-      "reading": "りくつ",
-      "meaning": "lý luận"
-    },
-    {
-      "word": "洞窟",
-      "reading": "どうくつ",
-      "meaning": "hang động"
-    },
-    {
-      "word": "石窟",
-      "reading": "せっくつ",
-      "meaning": "hang đá"
-    },
-    {
-      "word": "私娼窟",
-      "reading": "ししょうくつ",
-      "meaning": "nhà chứa"
+      "word": "貧民窟",
+      "reading": "ひんみんくつ",
+      "meaning": "khu nhà ổ chuột"
     }
   ]
 }

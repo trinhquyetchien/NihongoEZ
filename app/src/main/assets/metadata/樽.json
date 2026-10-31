@@ -90,39 +90,19 @@
       "meaning": "thùng"
     },
     {
-      "word": "柳樽",
-      "reading": "やなぎだる",
-      "meaning": "thùng làm bằng gỗ liễu"
-    },
-    {
-      "word": "ビヤ樽",
-      "reading": "ビヤだる",
-      "meaning": "thùng bia"
-    },
-    {
-      "word": "角樽",
-      "reading": "つのだる",
-      "meaning": "hai - điều khiển thùng"
-    },
-    {
-      "word": "樽俎",
-      "reading": "そんそ",
-      "meaning": "phe"
-    },
-    {
-      "word": "樽柿",
-      "reading": "たるがき",
-      "meaning": "quả hồng ngâm rượu cho ngọt"
-    },
-    {
-      "word": "酒樽",
-      "reading": "さかだる",
-      "meaning": "thùng rượu"
-    },
-    {
       "word": "樽酒",
       "reading": "たるざけ",
       "meaning": "rượu sake thùng"
+    },
+    {
+      "word": "木の樽",
+      "reading": "きのたる",
+      "meaning": "thùng gỗ"
+    },
+    {
+      "word": "樽の腹",
+      "reading": "たるのはら",
+      "meaning": "trung gian một thùng"
     },
     {
       "word": "油樽",
@@ -133,6 +113,26 @@
       "word": "柄樽",
       "reading": "えだる",
       "meaning": "thùng đựng rượu có tay cầm"
+    },
+    {
+      "word": "味噌樽",
+      "reading": "みそだる",
+      "meaning": "thùng miso"
+    },
+    {
+      "word": "漬物樽",
+      "reading": "つけものたる",
+      "meaning": "hộp"
+    },
+    {
+      "word": "酒樽",
+      "reading": "さかだる",
+      "meaning": "thùng rượu"
+    },
+    {
+      "word": "柳樽",
+      "reading": "やなぎだる",
+      "meaning": "thùng làm bằng gỗ liễu"
     }
   ]
 }

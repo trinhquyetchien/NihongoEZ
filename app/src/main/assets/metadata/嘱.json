@@ -87,6 +87,26 @@
   ],
   "vocabulary": [
     {
+      "word": "嘱託",
+      "reading": "しょくたく",
+      "meaning": "sự giao phó"
+    },
+    {
+      "word": "嘱託医",
+      "reading": "しょくたくい",
+      "meaning": "bác sĩ hợp đồng"
+    },
+    {
+      "word": "委嘱",
+      "reading": "いしょく",
+      "meaning": "sự dặn dò"
+    },
+    {
+      "word": "委嘱状",
+      "reading": "いしょくじょう",
+      "meaning": "thư ủy nhiệm"
+    },
+    {
       "word": "嘱望",
       "reading": "しょくぼう",
       "meaning": "sự kỳ vọng"
@@ -97,24 +117,9 @@
       "meaning": "phụ lục"
     },
     {
-      "word": "嘱託",
-      "reading": "しょくたく",
-      "meaning": "sự giao phó"
-    },
-    {
       "word": "依嘱",
       "reading": "いしょく",
       "meaning": "giao cho ai chịu trách nhiệm về"
-    },
-    {
-      "word": "嘱目",
-      "reading": "しょくもく",
-      "meaning": "chú ý đến"
-    },
-    {
-      "word": "委嘱",
-      "reading": "いしょく",
-      "meaning": "sự dặn dò"
     },
     {
       "word": "遺嘱",
@@ -122,19 +127,14 @@
       "meaning": "di chúc"
     },
     {
+      "word": "嘱目",
+      "reading": "しょくもく",
+      "meaning": "chú ý đến"
+    },
+    {
       "word": "受嘱",
       "reading": "じゅしょく",
       "meaning": "nhận ủy thác"
-    },
-    {
-      "word": "嘱する",
-      "reading": "しょくする",
-      "meaning": "giao phó"
-    },
-    {
-      "word": "委嘱状",
-      "reading": "いしょくじょう",
-      "meaning": "thư ủy nhiệm"
     }
   ]
 }

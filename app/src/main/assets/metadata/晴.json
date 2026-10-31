@@ -127,19 +127,19 @@
   ],
   "vocabulary": [
     {
-      "word": "晴れ晴れ",
-      "reading": "はればれ",
-      "meaning": "sáng sủa"
+      "word": "晴れ",
+      "reading": "はれ",
+      "meaning": "trời nắng"
     },
     {
-      "word": "晴れ晴れしい",
-      "reading": "はればれしい",
-      "meaning": "sạch"
+      "word": "晴れる",
+      "reading": "はれる",
+      "meaning": "nắng"
     },
     {
-      "word": "気が晴れ晴れする",
-      "reading": "きがはればれする",
-      "meaning": "mát lòng"
+      "word": "快晴",
+      "reading": "かいせい",
+      "meaning": "thời tiết đẹp"
     },
     {
       "word": "晴天",
@@ -147,34 +147,34 @@
       "meaning": "tạnh ráo"
     },
     {
-      "word": "晴雨",
-      "reading": "せいう",
-      "meaning": "nắng mưa"
+      "word": "見晴らし",
+      "reading": "みはらし",
+      "meaning": "tầm nhìn"
     },
     {
-      "word": "晴嵐",
-      "reading": "せいらん",
-      "meaning": "hơi nước núi"
+      "word": "晴れて",
+      "reading": "はれて",
+      "meaning": "công khai"
     },
     {
-      "word": "陰晴",
-      "reading": "いんせい",
-      "meaning": "có nắng và có nhiều mây"
+      "word": "晴れ男",
+      "reading": "はれおとこ",
+      "meaning": "người đàn ông khi xuất hiện thì sẽ có nắng"
     },
     {
-      "word": "晴夜",
-      "reading": "せいや",
-      "meaning": "buổi tối trời trong"
+      "word": "晴れ女",
+      "reading": "はれおんな",
+      "meaning": "cô gái nắng"
     },
     {
-      "word": "晴曇",
-      "reading": "せいどん",
-      "meaning": "trời nắng và có mây"
+      "word": "天晴れ",
+      "reading": "あっぱれ",
+      "meaning": "đẹp"
     },
     {
-      "word": "晴着",
-      "reading": "はれぎ",
-      "meaning": "quần áo đi xem hội"
+      "word": "雪晴れ",
+      "reading": "ゆきばれ",
+      "meaning": "trời quang đãng sau khi tuyết ngừng rơi"
     }
   ]
 }

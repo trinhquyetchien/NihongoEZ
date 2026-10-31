@@ -89,34 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "報",
-      "reading": "ほう",
-      "meaning": "báo cáo"
-    },
-    {
-      "word": "広報情報",
-      "reading": "こうほうじょうほう",
-      "meaning": "thông tin quảng cáo"
-    },
-    {
       "word": "電報",
       "reading": "でんぽう",
       "meaning": "điện báo"
-    },
-    {
-      "word": "報ゆ",
-      "reading": "むくゆ",
-      "meaning": "trả ơn"
-    },
-    {
-      "word": "月報",
-      "reading": "げっぽう",
-      "meaning": "hàng tháng báo cáo"
-    },
-    {
-      "word": "警報",
-      "reading": "けいほう",
-      "meaning": "sự báo động"
     },
     {
       "word": "情報",
@@ -124,19 +99,44 @@
       "meaning": "thông tin"
     },
     {
-      "word": "陽報",
-      "reading": "ようほう",
-      "meaning": "mở sự thưởng hội từ thiện)"
+      "word": "速報",
+      "reading": "そくほう",
+      "meaning": "sự đăng tin nhanh"
     },
     {
-      "word": "諜報",
-      "reading": "ちょうほう",
+      "word": "報",
+      "reading": "ほう",
+      "meaning": "báo cáo"
+    },
+    {
+      "word": "私報",
+      "reading": "しほう",
       "meaning": "thông tin bí mật"
     },
     {
-      "word": "報い",
-      "reading": "むくい",
-      "meaning": "thưởng"
+      "word": "内報",
+      "reading": "ないほう",
+      "meaning": "thông báo bí mật"
+    },
+    {
+      "word": "同報",
+      "reading": "どうほう",
+      "meaning": "gửi đồng loạt"
+    },
+    {
+      "word": "報身",
+      "reading": "ほうじん",
+      "meaning": "một trong ba vị phật"
+    },
+    {
+      "word": "学報",
+      "reading": "がくほう",
+      "meaning": "báo tường của trường"
+    },
+    {
+      "word": "警報",
+      "reading": "けいほう",
+      "meaning": "sự báo động"
     }
   ]
 }

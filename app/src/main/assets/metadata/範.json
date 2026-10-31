@@ -87,9 +87,34 @@
   ],
   "vocabulary": [
     {
-      "word": "範",
-      "reading": "はん",
-      "meaning": "ví dụ"
+      "word": "範囲",
+      "reading": "はんい",
+      "meaning": "tầm"
+    },
+    {
+      "word": "模範",
+      "reading": "もはん",
+      "meaning": "chuẩn mực"
+    },
+    {
+      "word": "軌範",
+      "reading": "きはん",
+      "meaning": "quy phạm"
+    },
+    {
+      "word": "範囲名",
+      "reading": "はんいめい",
+      "meaning": "tên dải"
+    },
+    {
+      "word": "範囲内",
+      "reading": "はんいない",
+      "meaning": "trong phạm vi"
+    },
+    {
+      "word": "広範囲",
+      "reading": "こうはんい",
+      "meaning": "phạm vi rộng lớn"
     },
     {
       "word": "規範",
@@ -97,44 +122,19 @@
       "meaning": "quy phạm"
     },
     {
-      "word": "垂範",
-      "reading": "すいはん",
-      "meaning": "đặt một ví dụ"
+      "word": "規範的",
+      "reading": "きはんてき",
+      "meaning": "tiêu chuẩn"
     },
     {
-      "word": "広範",
-      "reading": "こうはん",
-      "meaning": "phạm vi rộng"
+      "word": "法規範",
+      "reading": "ほうきはん",
+      "meaning": "quy phạm pháp luật"
     },
     {
-      "word": "典範",
-      "reading": "てんぱん",
-      "meaning": "làm mẫu"
-    },
-    {
-      "word": "範例",
-      "reading": "はんれい",
-      "meaning": "ví dụ"
-    },
-    {
-      "word": "師範",
-      "reading": "しはん",
-      "meaning": "sự phạm"
-    },
-    {
-      "word": "儀範",
-      "reading": "ぎはん",
-      "meaning": "tiền lệ"
-    },
-    {
-      "word": "教範",
-      "reading": "きょうはん",
-      "meaning": "tội a tòng"
-    },
-    {
-      "word": "文範",
-      "reading": "ぶんぱん",
-      "meaning": "bài văn mẫu"
+      "word": "模範的",
+      "reading": "もはんてき",
+      "meaning": "gương mẫu"
     }
   ]
 }

@@ -85,9 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "窄む",
-      "reading": "すぼむ",
-      "meaning": "thu hẹp lại"
+      "word": "狭窄",
+      "reading": "きょうさく",
+      "meaning": "chỗ nghẽn"
     },
     {
       "word": "乳窄",
@@ -95,9 +95,9 @@
       "meaning": "người vắt sữa"
     },
     {
-      "word": "狭窄",
-      "reading": "きょうさく",
-      "meaning": "chỗ nghẽn"
+      "word": "窄む",
+      "reading": "すぼむ",
+      "meaning": "thu hẹp lại"
     },
     {
       "word": "窄まる",
@@ -115,24 +115,24 @@
       "meaning": "thu hẹp"
     },
     {
-      "word": "ストーマ狭窄",
-      "reading": "ストーマきょうさく",
-      "meaning": "co hẹp lỗ khí"
-    },
-    {
       "word": "視野狭窄",
       "reading": "しやきょうさく",
       "meaning": "hẹp hòi"
     },
     {
-      "word": "幽門狭窄",
-      "reading": "ゆうもんきょうさく",
-      "meaning": "chứng hẹp môn vị"
+      "word": "血管狭窄",
+      "reading": "けっかんきょうさく",
+      "meaning": "chứng hẹp mạch"
     },
     {
-      "word": "尻窄まり",
-      "reading": "しりすぼまり",
-      "meaning": "sự suy giảm"
+      "word": "肛門狭窄症",
+      "reading": "こーもんきょーさくしょー",
+      "meaning": "chứng hẹp hậu môn"
+    },
+    {
+      "word": "食道狭窄",
+      "reading": "しょくどうきょうさく",
+      "meaning": "hẹp thực quản"
     }
   ]
 }

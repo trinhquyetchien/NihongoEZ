@@ -95,29 +95,9 @@
       "meaning": "âm lịch"
     },
     {
-      "word": "旧里",
-      "reading": "きゅうり",
-      "meaning": "nơi sinh"
-    },
-    {
-      "word": "旧車",
-      "reading": "きゅうしゃ",
-      "meaning": "xe cổ"
-    },
-    {
-      "word": "旧式",
-      "reading": "きゅうしき",
-      "meaning": "cổ hủ"
-    },
-    {
-      "word": "旧暦",
-      "reading": "きゅうれき",
-      "meaning": "âm lịch"
-    },
-    {
-      "word": "旧友",
-      "reading": "きゅうゆう",
-      "meaning": "cố nhân"
+      "word": "旧知",
+      "reading": "きゅうち",
+      "meaning": "bạn cũ"
     },
     {
       "word": "旧市",
@@ -125,19 +105,39 @@
       "meaning": "phố cổ"
     },
     {
-      "word": "旧恩",
-      "reading": "きゅうおん",
-      "meaning": "ơn xưa"
-    },
-    {
-      "word": "旧時",
-      "reading": "きゅうじ",
-      "meaning": "thời cổ"
+      "word": "旧車",
+      "reading": "きゅうしゃ",
+      "meaning": "xe cổ"
     },
     {
       "word": "旧夢",
       "reading": "きゅうむ",
       "meaning": "cổ xưa mơ"
+    },
+    {
+      "word": "旧風",
+      "reading": "きゅうふう",
+      "meaning": "những phong tục cũ"
+    },
+    {
+      "word": "旧敵",
+      "reading": "きゅうてき",
+      "meaning": "kẻ thù cũ"
+    },
+    {
+      "word": "旧官",
+      "reading": "きゅうかん",
+      "meaning": "cựu viên chức chính phủ"
+    },
+    {
+      "word": "旧字",
+      "reading": "きゅうじ",
+      "meaning": "chữ cổ"
+    },
+    {
+      "word": "旧盤",
+      "reading": "きゅうばん",
+      "meaning": "cái bát cũ"
     }
   ]
 }

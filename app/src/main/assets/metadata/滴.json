@@ -89,29 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "滴",
-      "reading": "しずく",
-      "meaning": "giọt"
-    },
-    {
-      "word": "滴滴",
-      "reading": "てきてき",
-      "meaning": "sự nhỏ giọt"
-    },
-    {
       "word": "水滴",
       "reading": "すいてき",
       "meaning": "giọt nước"
     },
     {
-      "word": "滴瓶",
-      "reading": "てきびん",
-      "meaning": "chai nhỏ giọt"
-    },
-    {
-      "word": "滴水",
-      "reading": "てきすい",
-      "meaning": "sự rỏ nước"
+      "word": "滴",
+      "reading": "しずく",
+      "meaning": "giọt"
     },
     {
       "word": "数滴",
@@ -119,24 +104,39 @@
       "meaning": "vài giọt"
     },
     {
+      "word": "涙滴型",
+      "reading": "るいてきがた",
+      "meaning": "hình giọt nước"
+    },
+    {
+      "word": "点滴",
+      "reading": "てんてき",
+      "meaning": "sự nhỏ giọt"
+    },
+    {
+      "word": "脂肪滴",
+      "reading": "しぼうてき",
+      "meaning": "giọt chất béo"
+    },
+    {
+      "word": "液滴",
+      "reading": "えきてき",
+      "meaning": "giọt chất lỏng"
+    },
+    {
+      "word": "点滴薬",
+      "reading": "てんてきやく",
+      "meaning": "thuốc giọt"
+    },
+    {
       "word": "滴定",
       "reading": "てきてい",
       "meaning": "chuẩn độ"
     },
     {
-      "word": "防滴",
-      "reading": "ぼうてき",
-      "meaning": "sự chống thấm nước"
-    },
-    {
-      "word": "滴る",
-      "reading": "したたる",
-      "meaning": "rỏ xuống"
-    },
-    {
-      "word": "雨滴",
-      "reading": "うてき",
-      "meaning": "giọt mưa"
+      "word": "点滴器",
+      "reading": "てんてきき",
+      "meaning": "ống nhỏ"
     }
   ]
 }

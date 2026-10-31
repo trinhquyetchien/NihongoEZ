@@ -90,19 +90,24 @@
       "meaning": "màu xanh sẫm"
     },
     {
-      "word": "紺色",
-      "reading": "こんいろ",
-      "meaning": "màu xanh đậm"
-    },
-    {
-      "word": "紫紺",
-      "reading": "しこん",
-      "meaning": "màu đỏ tía hơi xanh"
-    },
-    {
       "word": "紺ソ",
       "reading": "こんソ",
       "meaning": "vớ màu xanh nước biển"
+    },
+    {
+      "word": "紺珠",
+      "reading": "かんじゅ",
+      "meaning": "viên ngọc màu xanh đậm"
+    },
+    {
+      "word": "紺四郎",
+      "reading": "こんしろう",
+      "meaning": "lãnh sự"
+    },
+    {
+      "word": "紺色",
+      "reading": "こんいろ",
+      "meaning": "màu xanh đậm"
     },
     {
       "word": "紺ソク",
@@ -110,19 +115,9 @@
       "meaning": "tất xanh navy"
     },
     {
-      "word": "紺ハイソ",
-      "reading": "こんハイソ",
-      "meaning": "tất xanh navy"
-    },
-    {
-      "word": "紺地",
-      "reading": "こんじ",
-      "meaning": "xanh thẫm ở mặt đất"
-    },
-    {
-      "word": "紺青",
-      "reading": "こんじょう",
-      "meaning": "màu xanh nước biển"
+      "word": "濃紺",
+      "reading": "のうこん",
+      "meaning": "màu xanh thẫm"
     },
     {
       "word": "紺碧",
@@ -133,6 +128,11 @@
       "word": "紺屋",
       "reading": "こんや",
       "meaning": "hàng nhuộm"
+    },
+    {
+      "word": "紫紺",
+      "reading": "しこん",
+      "meaning": "màu đỏ tía hơi xanh"
     }
   ]
 }

@@ -95,34 +95,14 @@
       "meaning": "việc mang"
     },
     {
-      "word": "帯く",
-      "reading": "はく",
-      "meaning": "giắt"
+      "word": "包帯",
+      "reading": "ほうたい",
+      "meaning": "băng"
     },
     {
-      "word": "履帯",
-      "reading": "りたい",
-      "meaning": "loại bánh xích"
-    },
-    {
-      "word": "冷帯",
-      "reading": "れいたい",
-      "meaning": "đới lạnh"
-    },
-    {
-      "word": "靭帯",
-      "reading": "じんたい",
-      "meaning": "dây chằng"
-    },
-    {
-      "word": "所帯",
-      "reading": "しょたい",
-      "meaning": "gia sản"
-    },
-    {
-      "word": "小帯",
-      "reading": "しょうたい",
-      "meaning": "vòng"
+      "word": "寒帯",
+      "reading": "かんたい",
+      "meaning": "hàn đới"
     },
     {
       "word": "携帯",
@@ -130,14 +110,34 @@
       "meaning": "điện thoại di động"
     },
     {
-      "word": "包帯",
-      "reading": "ほうたい",
-      "meaning": "băng"
+      "word": "上帯",
+      "reading": "うわおび",
+      "meaning": "dây obi thắt ngoài áo kimônô"
     },
     {
-      "word": "帯状",
-      "reading": "おびじょう",
-      "meaning": "sọc"
+      "word": "女帯",
+      "reading": "おんなおび",
+      "meaning": "women's kimono sash"
+    },
+    {
+      "word": "帯心",
+      "reading": "おびしん",
+      "meaning": "thick obi sash"
+    },
+    {
+      "word": "帯下",
+      "reading": "たいげ",
+      "meaning": "bệnh bạch đái"
+    },
+    {
+      "word": "帯く",
+      "reading": "はく",
+      "meaning": "giắt"
+    },
+    {
+      "word": "風帯",
+      "reading": "ふうたい",
+      "meaning": "quả tua"
     }
   ]
 }

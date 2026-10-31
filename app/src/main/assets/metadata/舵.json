@@ -59,24 +59,34 @@
       "meaning": "bánh lái"
     },
     {
-      "word": "操舵",
-      "reading": "そうだ",
-      "meaning": "sự lái tàu"
+      "word": "舵面",
+      "reading": "だめん",
+      "meaning": "quản lý bề mặt"
     },
     {
-      "word": "面舵",
-      "reading": "おもかじ",
-      "meaning": "mạn phải"
+      "word": "方向舵",
+      "reading": "ほうこうだ",
+      "meaning": "bánh lái"
     },
     {
-      "word": "舵手",
-      "reading": "だしゅ",
-      "meaning": "người lái tàu"
+      "word": "舵付き",
+      "reading": "かじつき",
+      "meaning": "có bánh lái"
     },
     {
-      "word": "潜舵",
-      "reading": "せんだ",
-      "meaning": "cánh lặn"
+      "word": "取り舵",
+      "reading": "とりかじ",
+      "meaning": "chuyển một ship)"
+    },
+    {
+      "word": "舵無し",
+      "reading": "かじなし",
+      "meaning": "không có bánh lái"
+    },
+    {
+      "word": "白舵木",
+      "reading": "しろかじき",
+      "meaning": "cá cờ ấn độ"
     },
     {
       "word": "舵柄",
@@ -84,24 +94,14 @@
       "meaning": "tay bánh lái"
     },
     {
-      "word": "舵面",
-      "reading": "だめん",
-      "meaning": "quản lý bề mặt"
-    },
-    {
-      "word": "操舵手",
-      "reading": "そうだしゅ",
-      "meaning": "người lái tàu thuỷ"
+      "word": "潜舵",
+      "reading": "せんだ",
+      "meaning": "cánh lặn"
     },
     {
       "word": "昇降舵",
       "reading": "しょうこうだ",
       "meaning": "thang máy"
-    },
-    {
-      "word": "操舵室",
-      "reading": "そうだしつ",
-      "meaning": "buồng lái"
     }
   ]
 }

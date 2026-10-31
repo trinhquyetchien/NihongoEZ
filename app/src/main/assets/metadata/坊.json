@@ -88,9 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "坊",
-      "reading": "ぼう",
-      "meaning": "chùa"
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "em bé sơ sinh"
     },
     {
       "word": "寝坊",
@@ -98,44 +98,44 @@
       "meaning": "việc ngủ dậy muộn"
     },
     {
-      "word": "柚坊",
-      "reading": "ゆずぼう",
-      "meaning": "ấu trùng bướm phượng"
+      "word": "坊さん",
+      "reading": "ぼうさん",
+      "meaning": "hòa thượng"
     },
     {
-      "word": "瓜坊",
-      "reading": "うりぼう",
-      "meaning": "heo rừng"
+      "word": "坊や",
+      "reading": "ぼうや",
+      "meaning": "cậu bé"
     },
     {
-      "word": "坊ち",
-      "reading": "ぼんち",
-      "meaning": "young gentleman"
+      "word": "朝寝坊",
+      "reading": "あさねぼう",
+      "meaning": "dậy muộn"
     },
     {
-      "word": "春坊",
-      "reading": "とうぼう",
-      "meaning": "biệt danh cho những tên như haruo hoặc haruko"
+      "word": "坊主",
+      "reading": "ぼうず",
+      "meaning": "trụ trì"
+    },
+    {
+      "word": "坊主頭",
+      "reading": "ぼうずあたま",
+      "meaning": "đóng - tóc thu hoạch"
+    },
+    {
+      "word": "青坊主",
+      "reading": "あおぼうず",
+      "meaning": "aobōzu"
+    },
+    {
+      "word": "坊",
+      "reading": "ぼう",
+      "meaning": "chùa"
     },
     {
       "word": "中坊",
       "reading": "ちゅうぼう",
       "meaning": "trẻ trâu"
-    },
-    {
-      "word": "前坊",
-      "reading": "ぜんぼう",
-      "meaning": "cựu thái tử"
-    },
-    {
-      "word": "御坊",
-      "reading": "おんぼう",
-      "meaning": "đáng tôn kính"
-    },
-    {
-      "word": "隠坊",
-      "reading": "おんぼう",
-      "meaning": "bảo vệ nghĩa trang"
     }
   ]
 }

@@ -91,9 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "囲障",
-      "reading": "いしょう",
-      "meaning": "hàng rào"
+      "word": "雰囲気",
+      "reading": "ふんいき",
+      "meaning": "bầu không khí"
+    },
+    {
+      "word": "範囲",
+      "reading": "はんい",
+      "meaning": "tầm"
     },
     {
       "word": "周囲",
@@ -101,44 +106,39 @@
       "meaning": "chu vi"
     },
     {
-      "word": "囲い",
-      "reading": "かこい",
-      "meaning": "tường vây"
+      "word": "囲む",
+      "reading": "かこむ",
+      "meaning": "bao quanh"
     },
     {
-      "word": "腰囲",
-      "reading": "ようい",
-      "meaning": "phép đo hông"
+      "word": "範囲名",
+      "reading": "はんいめい",
+      "meaning": "tên dải"
     },
     {
-      "word": "外囲",
-      "reading": "がいい",
+      "word": "範囲内",
+      "reading": "はんいない",
+      "meaning": "trong phạm vi"
+    },
+    {
+      "word": "周囲長",
+      "reading": "しゅういちょう",
       "meaning": "chu vi"
     },
     {
-      "word": "囲碁",
-      "reading": "いご",
-      "meaning": "cờ vây"
+      "word": "鼻周囲",
+      "reading": "びしゅうい",
+      "meaning": "quanh mũi"
     },
     {
-      "word": "囲繞",
-      "reading": "いじょう",
-      "meaning": "sự bao quanh"
+      "word": "包囲",
+      "reading": "ほうい",
+      "meaning": "sự bao vây"
     },
     {
-      "word": "胸囲",
-      "reading": "きょうい",
-      "meaning": "vòng ngực"
-    },
-    {
-      "word": "四囲",
-      "reading": "しい",
-      "meaning": "vùng phụ cận"
-    },
-    {
-      "word": "頭囲",
-      "reading": "とうい",
-      "meaning": "chu vi đầu"
+      "word": "包囲圏",
+      "reading": "ほういけん",
+      "meaning": "vòng vây"
     }
   ]
 }

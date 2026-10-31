@@ -55,11 +55,6 @@
       "meaning": "cúc móng ngựa"
     },
     {
-      "word": "石蕗",
-      "reading": "つわぶき",
-      "meaning": "cúc tai voi"
-    },
-    {
       "word": "蕗草",
       "reading": "ろそう",
       "meaning": "cam thảo"
@@ -70,14 +65,19 @@
       "meaning": "cây bạc hà nhật bản hoang dã"
     },
     {
-      "word": "蕗の薹",
-      "reading": "ふきのとう",
-      "meaning": "chồi nụ hoa ăn được cây fuki"
-    },
-    {
       "word": "伽羅蕗",
       "reading": "きゃらぶき",
       "meaning": "thân cây cúc móng ngựa luộc nước tương"
+    },
+    {
+      "word": "石蕗",
+      "reading": "つわぶき",
+      "meaning": "cúc tai voi"
+    },
+    {
+      "word": "蕗の薹",
+      "reading": "ふきのとう",
+      "meaning": "chồi nụ hoa ăn được cây fuki"
     }
   ]
 }

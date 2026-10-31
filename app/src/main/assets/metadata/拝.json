@@ -90,39 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "拝",
-      "reading": "はい",
-      "meaning": "tôn kính"
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "xem"
     },
     {
-      "word": "三拝九拝",
-      "reading": "さんぱいきゅうはい",
-      "meaning": "làm lễ thể hiện sự tôn kính với ai đó"
+      "word": "拝む",
+      "reading": "おがむ",
+      "meaning": "chắp tay"
     },
     {
-      "word": "参拝",
-      "reading": "さんぱい",
-      "meaning": "sự thờ phụng"
+      "word": "崇拝",
+      "reading": "すうはい",
+      "meaning": "sự sùng bái"
     },
     {
-      "word": "拝す",
-      "reading": "はいす",
-      "meaning": "thờ cúng"
-    },
-    {
-      "word": "三拝",
-      "reading": "さんぱい",
-      "meaning": "ba lần làm lễ thể hiện sự tôn kính với ai đó"
-    },
-    {
-      "word": "巡拝",
-      "reading": "じゅんぱい",
-      "meaning": "mạch đi hành hương"
-    },
-    {
-      "word": "親拝",
-      "reading": "しんぱい",
-      "meaning": "tôn thờ"
+      "word": "拝借",
+      "reading": "はいしゃく",
+      "meaning": "mượn"
     },
     {
       "word": "拝啓",
@@ -130,14 +115,29 @@
       "meaning": "kính gửi"
     },
     {
-      "word": "拝聴",
-      "reading": "はいちょう",
-      "meaning": "nghe"
+      "word": "参拝",
+      "reading": "さんぱい",
+      "meaning": "sự thờ phụng"
     },
     {
-      "word": "九拝",
-      "reading": "きゅうはい",
-      "meaning": "cúi đầu nhiều lần"
+      "word": "参拝者",
+      "reading": "さんぱいしゃ",
+      "meaning": "người tham bái"
+    },
+    {
+      "word": "崇拝者",
+      "reading": "すうはいしゃ",
+      "meaning": "người thờ cúng"
+    },
+    {
+      "word": "礼拝",
+      "reading": "れいはい",
+      "meaning": "sự lễ bái"
+    },
+    {
+      "word": "礼拝所",
+      "reading": "れいはいしょ",
+      "meaning": "nơi thờ phụng"
     }
   ]
 }

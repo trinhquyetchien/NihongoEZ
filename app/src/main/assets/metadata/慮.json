@@ -90,34 +90,39 @@
   ],
   "vocabulary": [
     {
-      "word": "思慮",
-      "reading": "しりょ",
-      "meaning": "sự thận trọng"
-    },
-    {
-      "word": "熟慮",
-      "reading": "じゅくりょ",
-      "meaning": "sự suy nghĩ cân nhắc kỹ"
-    },
-    {
       "word": "遠慮",
       "reading": "えんりょ",
       "meaning": "khách khí"
     },
     {
-      "word": "尊慮",
-      "reading": "そんりょ",
-      "meaning": "bạn sẽ"
+      "word": "考慮",
+      "reading": "こうりょ",
+      "meaning": "sự xem xét"
     },
     {
-      "word": "叡慮",
-      "reading": "えいりょ",
-      "meaning": "ý nghĩ"
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaning": "sự quan tâm"
     },
     {
-      "word": "千慮",
-      "reading": "せんりょ",
-      "meaning": "suy nghĩ về nhiều thứ khác nhau"
+      "word": "再考慮",
+      "reading": "さいこうりょ",
+      "meaning": "sự xem xét lại"
+    },
+    {
+      "word": "無遠慮",
+      "reading": "ぶえんりょ",
+      "meaning": "thô"
+    },
+    {
+      "word": "思慮",
+      "reading": "しりょ",
+      "meaning": "sự thận trọng"
+    },
+    {
+      "word": "無思慮",
+      "reading": "むしりょ",
+      "meaning": "hành động vô ý"
     },
     {
       "word": "憂慮",
@@ -125,19 +130,14 @@
       "meaning": "sự lo lắng"
     },
     {
-      "word": "凡慮",
-      "reading": "ぼんりょ",
-      "meaning": "suy nghĩ bình thường"
+      "word": "熟慮",
+      "reading": "じゅくりょ",
+      "meaning": "sự suy nghĩ cân nhắc kỹ"
     },
     {
-      "word": "顧慮",
-      "reading": "こりょ",
-      "meaning": "sự cân nhắc"
-    },
-    {
-      "word": "慮る",
-      "reading": "おもんぱかる",
-      "meaning": "cân nhắc kĩ"
+      "word": "不慮",
+      "reading": "ふりょ",
+      "meaning": "không ngờ"
     }
   ]
 }

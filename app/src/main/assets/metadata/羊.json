@@ -106,34 +106,39 @@
   ],
   "vocabulary": [
     {
+      "word": "羊毛",
+      "reading": "ようもう",
+      "meaning": "len"
+    },
+    {
       "word": "羊",
       "reading": "ひつじ",
       "meaning": "con cừu"
     },
     {
-      "word": "羊偏",
-      "reading": "ひつじへん",
-      "meaning": "bộ “cừu” nằm bên trái trong một chữ hán"
+      "word": "小羊",
+      "reading": "こひつじ",
+      "meaning": "con cừu non"
     },
     {
-      "word": "山羊",
-      "reading": "やぎ",
-      "meaning": "dê"
+      "word": "羊肉",
+      "reading": "ようにく",
+      "meaning": "thịt cừu"
     },
     {
-      "word": "牡羊",
-      "reading": "おひつじ",
-      "meaning": "nhồi nhét"
+      "word": "羊乳",
+      "reading": "ようにゅう",
+      "meaning": "sữa cừu"
     },
     {
-      "word": "羊羹",
-      "reading": "ようかん",
-      "meaning": "mứt đậu ngọt"
+      "word": "群羊",
+      "reading": "ぐんよう",
+      "meaning": "đàn cừu"
     },
     {
-      "word": "羊雲",
-      "reading": "ひつじぐも",
-      "meaning": "cụm"
+      "word": "羊群",
+      "reading": "ようぐん",
+      "meaning": "đàn cừu"
     },
     {
       "word": "羊皮",
@@ -141,19 +146,14 @@
       "meaning": "da cừu"
     },
     {
-      "word": "羝羊",
-      "reading": "ていよう",
-      "meaning": "cừu đực"
+      "word": "白羊宮",
+      "reading": "はくようきゅう",
+      "meaning": "cung bạch dương"
     },
     {
-      "word": "羊蹄",
-      "reading": "ぎしぎし",
-      "meaning": "rumex japonicus"
-    },
-    {
-      "word": "牧羊",
-      "reading": "ぼくよう",
-      "meaning": "sự chăn nuôi cừu"
+      "word": "羊雲",
+      "reading": "ひつじぐも",
+      "meaning": "cụm"
     }
   ]
 }

@@ -88,14 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "天珠",
-      "reading": "てんじゅ",
-      "meaning": "thiên thạch"
-    },
-    {
-      "word": "宝珠",
-      "reading": "ほうじゅ",
-      "meaning": "quả cầu trang trí gắn trên đỉnh tháp"
+      "word": "真珠",
+      "reading": "しんじゅ",
+      "meaning": "châu"
     },
     {
       "word": "珠数",
@@ -103,39 +98,44 @@
       "meaning": "chuỗi tràng hạt"
     },
     {
-      "word": "念珠",
-      "reading": "ねんじゅ",
-      "meaning": "chuỗi tràng hạt"
+      "word": "珠心",
+      "reading": "しゅしん",
+      "meaning": "phôi tâm"
     },
     {
-      "word": "珠算",
-      "reading": "しゅざん",
-      "meaning": "sự tính bằng bàn tính"
+      "word": "耳珠",
+      "reading": "じじゅ",
+      "meaning": "nút tai nhỏ"
     },
     {
-      "word": "聯珠",
-      "reading": "れんじゅ",
-      "meaning": "cờ ca rô"
+      "word": "天珠",
+      "reading": "てんじゅ",
+      "meaning": "thiên thạch"
     },
     {
-      "word": "連珠",
-      "reading": "れんじゅ",
-      "meaning": "chơi kéo theo sự kết nối tương tự những viên colored"
+      "word": "雲珠",
+      "reading": "うず",
+      "meaning": "đồ trang trí"
     },
     {
-      "word": "胚珠",
-      "reading": "はいしゅ",
-      "meaning": "noãn"
+      "word": "真珠色",
+      "reading": "しんじゅいろ",
+      "meaning": "màu xám ngọc trai"
     },
     {
-      "word": "真珠",
-      "reading": "しんじゅ",
-      "meaning": "châu"
+      "word": "真珠光",
+      "reading": "しんじゅこう",
+      "meaning": "sự óng ánh ngọc trai"
     },
     {
-      "word": "数珠",
-      "reading": "じゅず",
-      "meaning": "tràng hạt"
+      "word": "真珠母",
+      "reading": "しんじゅぼ",
+      "meaning": "mẹ - - mò ngọc trai"
+    },
+    {
+      "word": "真珠層",
+      "reading": "しんじゅそう",
+      "meaning": "sinh thành - - mò ngọc trai"
     }
   ]
 }

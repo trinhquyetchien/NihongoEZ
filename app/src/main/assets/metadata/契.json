@@ -91,19 +91,9 @@
       "meaning": "giao kèo"
     },
     {
-      "word": "印契",
-      "reading": "いんげい",
-      "meaning": "thủ ấn"
-    },
-    {
-      "word": "契印",
-      "reading": "けいいん",
-      "meaning": "đóng dấu vào hai hợp đồng"
-    },
-    {
-      "word": "契り",
-      "reading": "ちぎり",
-      "meaning": "ước định"
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "thời cơ"
     },
     {
       "word": "契る",
@@ -111,29 +101,39 @@
       "meaning": "thề ước"
     },
     {
-      "word": "幽契",
-      "reading": "ゆうけい",
-      "meaning": "lời hứa bí mật"
+      "word": "契約日",
+      "reading": "けいやくび",
+      "meaning": "ngày ký kết hợp đồng"
     },
     {
-      "word": "契合",
-      "reading": "けいごう",
-      "meaning": "sự trùng hợp những quan điểm"
+      "word": "契約者",
+      "reading": "けいやくしゃ",
+      "meaning": "người ký kết hợp đồng"
     },
     {
-      "word": "黙契",
-      "reading": "もっけい",
-      "meaning": "thỏa thuận ẩn"
+      "word": "本契約",
+      "reading": "ほんけいやく",
+      "meaning": "hợp đồng hình thức"
     },
     {
-      "word": "契機",
-      "reading": "けいき",
-      "meaning": "thời cơ"
+      "word": "契約金",
+      "reading": "けいやくきん",
+      "meaning": "sự trả tiền cọc"
     },
     {
-      "word": "契丹",
-      "reading": "きったん",
-      "meaning": "người khitan"
+      "word": "契約法",
+      "reading": "けいやくほう",
+      "meaning": "luật hợp đồng"
+    },
+    {
+      "word": "契約書",
+      "reading": "けいやくしょ",
+      "meaning": "bản hợp đồng"
+    },
+    {
+      "word": "契約量",
+      "reading": "けいやくりょう",
+      "meaning": "số lượng hợp đồng"
     }
   ]
 }

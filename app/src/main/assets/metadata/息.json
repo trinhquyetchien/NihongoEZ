@@ -106,29 +106,29 @@
   ],
   "vocabulary": [
     {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "con trai"
+    },
+    {
       "word": "息",
       "reading": "いき",
       "meaning": "hơi"
     },
     {
-      "word": "青息吐息",
-      "reading": "あおいきといき",
-      "meaning": "sự thở dài một cách đau khổ"
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "nghỉ giải lao"
     },
     {
-      "word": "喘息",
-      "reading": "ぜんそく",
-      "meaning": "bệnh hen suyễn"
+      "word": "一息",
+      "reading": "ひといき",
+      "meaning": "hụt hơi"
     },
     {
-      "word": "溜息",
-      "reading": "ためいき",
-      "meaning": "sợ thở dài"
-    },
-    {
-      "word": "子息",
-      "reading": "しそく",
-      "meaning": "con trai"
+      "word": "窒息",
+      "reading": "ちっそく",
+      "meaning": "đứt hơi"
     },
     {
       "word": "消息",
@@ -136,24 +136,24 @@
       "meaning": "tin tức"
     },
     {
-      "word": "姑息",
-      "reading": "こそく",
-      "meaning": "giấu giếm"
+      "word": "子息",
+      "reading": "しそく",
+      "meaning": "con trai"
     },
     {
-      "word": "安息",
-      "reading": "あんそく",
-      "meaning": "nghỉ ngơi"
+      "word": "利息",
+      "reading": "りそく",
+      "meaning": "lãi"
     },
     {
-      "word": "愚息",
-      "reading": "ぐそく",
-      "meaning": "con trai tôi"
+      "word": "酒息",
+      "reading": "さかいき",
+      "meaning": "hơi thở nồng nặc mùi rượu"
     },
     {
-      "word": "息災",
-      "reading": "そくさい",
-      "meaning": "sức khỏe tốt"
+      "word": "息つく",
+      "reading": "いきつく",
+      "meaning": "thở"
     }
   ]
 }

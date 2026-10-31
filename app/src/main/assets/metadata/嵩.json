@@ -91,19 +91,9 @@
       "meaning": "khối lớn"
     },
     {
-      "word": "年嵩",
-      "reading": "としかさ",
-      "meaning": "bậc tiền bối"
-    },
-    {
-      "word": "嵩む",
-      "reading": "かさむ",
-      "meaning": "tăng lên"
-    },
-    {
-      "word": "水嵩",
-      "reading": "みずかさ",
-      "meaning": "thể tích nước"
+      "word": "気嵩",
+      "reading": "きがさ",
+      "meaning": "hiếu thắng"
     },
     {
       "word": "値嵩",
@@ -111,14 +101,9 @@
       "meaning": "đắt"
     },
     {
-      "word": "嵩高",
-      "reading": "かさだか",
-      "meaning": "to lớn"
-    },
-    {
-      "word": "気嵩",
-      "reading": "きがさ",
-      "meaning": "hiếu thắng"
+      "word": "嵩密度",
+      "reading": "かさみつど",
+      "meaning": "mật độ khối"
     },
     {
       "word": "嵩呼",
@@ -126,14 +111,29 @@
       "meaning": "hét dài sống hoàng đế"
     },
     {
-      "word": "荷嵩み",
-      "reading": "にがさみ",
-      "meaning": "sự thừa thãi"
+      "word": "嵩む",
+      "reading": "かさむ",
+      "meaning": "tăng lên"
+    },
+    {
+      "word": "嵩上げ",
+      "reading": "かさあげ",
+      "meaning": "sự đưa lên"
     },
     {
       "word": "嵩張る",
       "reading": "かさばる",
       "meaning": "cồng kềnh"
+    },
+    {
+      "word": "荷嵩み",
+      "reading": "にがさみ",
+      "meaning": "sự thừa thãi"
+    },
+    {
+      "word": "水嵩",
+      "reading": "みずかさ",
+      "meaning": "thể tích nước"
     }
   ]
 }

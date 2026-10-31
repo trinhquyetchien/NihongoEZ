@@ -32,14 +32,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "萱草",
-      "reading": "かんぞう",
-      "meaning": "hoa hiên"
-    },
-    {
-      "word": "刈萱",
-      "reading": "かるかや",
-      "meaning": "cây cỏ tranh"
+      "word": "萱堂",
+      "reading": "けんどう",
+      "meaning": "mẹ"
     },
     {
       "word": "萱鼠",
@@ -47,14 +42,24 @@
       "meaning": "chuột kayane"
     },
     {
-      "word": "萱堂",
-      "reading": "けんどう",
-      "meaning": "mẹ"
+      "word": "萱草",
+      "reading": "かんぞう",
+      "meaning": "hoa hiên"
     },
     {
       "word": "藪萱草",
       "reading": "やぶかんぞう",
       "meaning": "hoa hiên vàng da cam"
+    },
+    {
+      "word": "浜萱草",
+      "reading": "はまかんぞう",
+      "meaning": "daylily"
+    },
+    {
+      "word": "刈萱",
+      "reading": "かるかや",
+      "meaning": "cây cỏ tranh"
     },
     {
       "word": "雌刈萱",
@@ -70,11 +75,6 @@
       "word": "雄刈萱",
       "reading": "おがるかや",
       "meaning": "cymbopogon tortilis"
-    },
-    {
-      "word": "浜萱草",
-      "reading": "はまかんぞう",
-      "meaning": "daylily"
     }
   ]
 }

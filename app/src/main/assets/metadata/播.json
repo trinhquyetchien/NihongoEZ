@@ -72,19 +72,19 @@
   ],
   "vocabulary": [
     {
-      "word": "混播",
-      "reading": "こんぱ",
-      "meaning": "hạt giống hỗn hợp"
-    },
-    {
       "word": "伝播",
       "reading": "でんぱ",
       "meaning": "sự truyền"
     },
     {
-      "word": "点播",
-      "reading": "てんぱ",
-      "meaning": "sự tra hạt"
+      "word": "伝播側",
+      "reading": "でんぱんそく",
+      "meaning": "quy tắc truyền"
+    },
+    {
+      "word": "播種",
+      "reading": "はしゅ",
+      "meaning": "gieo hạt"
     },
     {
       "word": "播州",
@@ -92,9 +92,9 @@
       "meaning": "tên cũ của một phần tỉnh hyogo"
     },
     {
-      "word": "播種",
-      "reading": "はしゅ",
-      "meaning": "gieo hạt"
+      "word": "点播",
+      "reading": "てんぱ",
+      "meaning": "sự tra hạt"
     },
     {
       "word": "播但線",
@@ -107,11 +107,6 @@
       "meaning": "việc rải hạt giống"
     },
     {
-      "word": "伝播側",
-      "reading": "でんぱんそく",
-      "meaning": "quy tắc truyền"
-    },
-    {
       "word": "粗播き",
       "reading": "あらまき",
       "meaning": "gieo hạt thưa thớt"
@@ -120,6 +115,11 @@
       "word": "散播く",
       "reading": "ばらまく",
       "meaning": "gieo rắc"
+    },
+    {
+      "word": "混播",
+      "reading": "こんぱ",
+      "meaning": "hạt giống hỗn hợp"
     }
   ]
 }

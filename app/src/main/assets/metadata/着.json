@@ -110,39 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "着",
-      "reading": "ちゃく",
-      "meaning": "bộ"
-    },
-    {
-      "word": "着着",
-      "reading": "ちゃくちゃく",
-      "meaning": "đều đều"
-    },
-    {
       "word": "着る",
       "reading": "きる",
       "meaning": "mặc"
-    },
-    {
-      "word": "先着",
-      "reading": "せんちゃく",
-      "meaning": "sự đến trước"
-    },
-    {
-      "word": "着払",
-      "reading": "ちゃくばらい",
-      "meaning": "thanh toán khi nhận hàng"
-    },
-    {
-      "word": "古着",
-      "reading": "ふるぎ",
-      "meaning": "quần áo cũ"
-    },
-    {
-      "word": "新着",
-      "reading": "しんちゃく",
-      "meaning": "sự vừa mới được giao đến"
     },
     {
       "word": "下着",
@@ -150,14 +120,44 @@
       "meaning": "quần áo lót"
     },
     {
-      "word": "厚着",
-      "reading": "あつぎ",
-      "meaning": "quần áo dày"
+      "word": "着",
+      "reading": "ちゃく",
+      "meaning": "bộ"
     },
     {
-      "word": "着弾",
-      "reading": "ちゃくだん",
-      "meaning": "đụng chạm một vật phóng ra)"
+      "word": "先着",
+      "reading": "せんちゃく",
+      "meaning": "sự đến trước"
+    },
+    {
+      "word": "着色",
+      "reading": "ちゃくしょく",
+      "meaning": "sự tô màu"
+    },
+    {
+      "word": "着目",
+      "reading": "ちゃくもく",
+      "meaning": "quan tâm"
+    },
+    {
+      "word": "一着",
+      "reading": "いっちゃく",
+      "meaning": "sự đến nơi đầu tiên"
+    },
+    {
+      "word": "二着",
+      "reading": "にちゃく",
+      "meaning": "về đích ở vị trí thứ 2"
+    },
+    {
+      "word": "内着",
+      "reading": "うちぎ",
+      "meaning": "đồ lót"
+    },
+    {
+      "word": "顔着",
+      "reading": "がんちゃく",
+      "meaning": "mặt hạ cánh"
     }
   ]
 }

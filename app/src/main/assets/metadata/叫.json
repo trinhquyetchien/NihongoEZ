@@ -99,6 +99,21 @@
       "meaning": "sự kêu lên"
     },
     {
+      "word": "絶叫",
+      "reading": "ぜっきょう",
+      "meaning": "tiếng thét"
+    },
+    {
+      "word": "叫び声",
+      "reading": "さけびごえ",
+      "meaning": "tiếng kêu"
+    },
+    {
+      "word": "雄叫び",
+      "reading": "おたけび",
+      "meaning": "gào"
+    },
+    {
       "word": "叫く",
       "reading": "わめく",
       "meaning": "kêu"
@@ -119,24 +134,9 @@
       "meaning": "hét"
     },
     {
-      "word": "絶叫",
-      "reading": "ぜっきょう",
-      "meaning": "tiếng thét"
-    },
-    {
       "word": "哀叫",
       "reading": "あいきょう",
       "meaning": "than khóc thảm thiết"
-    },
-    {
-      "word": "叫び声",
-      "reading": "さけびごえ",
-      "meaning": "tiếng kêu"
-    },
-    {
-      "word": "絶叫マシン",
-      "reading": "ぜっきょうマシン",
-      "meaning": "tàu lượn siêu tốc"
     }
   ]
 }

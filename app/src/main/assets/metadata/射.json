@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "射",
-      "reading": "しゃ",
-      "meaning": "ánh xạ"
-    },
-    {
-      "word": "ふく射(放射)",
-      "reading": "ふくしゃ(ほーしゃ)",
-      "meaning": "sự bức xạ"
-    },
-    {
-      "word": "熱放射（ふく射）",
-      "reading": "ねつほーしゃ（ふくしゃ）",
-      "meaning": "bức xạ nhiệt"
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "sự tiêm"
     },
     {
       "word": "発射",
@@ -111,34 +101,44 @@
       "meaning": "sự bắn tên"
     },
     {
-      "word": "溶射",
-      "reading": "ようしゃ",
-      "meaning": "phun phủ"
+      "word": "射す",
+      "reading": "さす",
+      "meaning": "chích"
     },
     {
-      "word": "射殺",
-      "reading": "しゃさつ",
-      "meaning": "sự bắn chết"
+      "word": "放射",
+      "reading": "ほうしゃ",
+      "meaning": "phóng xạ"
     },
     {
-      "word": "射る",
-      "reading": "いる",
-      "meaning": "bắn trúng"
+      "word": "反射",
+      "reading": "はんしゃ",
+      "meaning": "phản xạ"
+    },
+    {
+      "word": "射精",
+      "reading": "しゃせい",
+      "meaning": "sự phóng tinh"
+    },
+    {
+      "word": "射撃",
+      "reading": "しゃげき",
+      "meaning": "bắn đạn từ súng và súng và nhắm vào mục tiêu"
+    },
+    {
+      "word": "射",
+      "reading": "しゃ",
+      "meaning": "ánh xạ"
+    },
+    {
+      "word": "的射",
+      "reading": "まとい",
+      "meaning": "nắn trúng mục tiêu"
     },
     {
       "word": "顔射",
       "reading": "がんしゃ",
       "meaning": "xuất tinh lên mặt của đối tác"
-    },
-    {
-      "word": "射創",
-      "reading": "しゃそう",
-      "meaning": "vết thương do đạn bắn"
-    },
-    {
-      "word": "無射",
-      "reading": "ぶえき",
-      "meaning": "một trong mười hai âm luật của âm nhạc trung quốc"
     }
   ]
 }

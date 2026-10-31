@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "功",
-      "reading": "こう",
-      "meaning": "thành công"
-    },
-    {
-      "word": "功名",
-      "reading": "こうみょう",
-      "meaning": "công danh"
+      "word": "成功",
+      "reading": "せいこう",
+      "meaning": "may phúc"
     },
     {
       "word": "功績",
@@ -105,39 +100,44 @@
       "meaning": "công tích"
     },
     {
-      "word": "勲功",
-      "reading": "くんこう",
-      "meaning": "sự ban chức tước"
+      "word": "成功者",
+      "reading": "せいこうしゃ",
+      "meaning": "người thành công"
     },
     {
-      "word": "軍功",
-      "reading": "ぐんこう",
-      "meaning": "dịch vụ chiến tranh xứng đáng"
+      "word": "ご成功",
+      "reading": "ごせいこう",
+      "meaning": "thành công bạn"
     },
     {
-      "word": "気功",
-      "reading": "きこう",
-      "meaning": "vận khí công"
+      "word": "大成功",
+      "reading": "だいせいこう",
+      "meaning": "thành công khổng lồ"
     },
     {
-      "word": "功夫",
-      "reading": "くふう",
-      "meaning": "kung fu"
+      "word": "成功度",
+      "reading": "せいこうど",
+      "meaning": "mức độ thành công"
     },
     {
-      "word": "有功",
-      "reading": "ゆうこう",
-      "meaning": "xứng đáng"
+      "word": "成功率",
+      "reading": "せいこうりつ",
+      "meaning": "tỉ lệ thành công"
     },
     {
-      "word": "即功",
-      "reading": "そっこう",
-      "meaning": "hiệu quả tức thời"
+      "word": "不成功",
+      "reading": "ふせいこう",
+      "meaning": "sự thất bại"
     },
     {
-      "word": "年功",
-      "reading": "ねんこう",
-      "meaning": "công lao nhiều năm công tác"
+      "word": "御成功",
+      "reading": "ごせいこう",
+      "meaning": "thành công bạn"
+    },
+    {
+      "word": "功",
+      "reading": "こう",
+      "meaning": "thành công"
     }
   ]
 }

@@ -91,9 +91,9 @@
       "meaning": "bao"
     },
     {
-      "word": "梱包",
-      "reading": "こんぽう",
-      "meaning": "đóng gói"
+      "word": "同梱",
+      "reading": "どうこん",
+      "meaning": "đính kèm"
     },
     {
       "word": "開梱",
@@ -101,19 +101,9 @@
       "meaning": "sự mở kiện"
     },
     {
-      "word": "同梱",
-      "reading": "どうこん",
-      "meaning": "đính kèm"
-    },
-    {
-      "word": "梱る",
-      "reading": "こうる",
+      "word": "梱包",
+      "reading": "こんぽう",
       "meaning": "đóng gói"
-    },
-    {
-      "word": "梱包材",
-      "reading": "こんぽうざい",
-      "meaning": "vật liệu đóng gói"
     },
     {
       "word": "梱包箱",
@@ -126,9 +116,19 @@
       "meaning": "chi phí đóng gói"
     },
     {
-      "word": "梱包用品",
-      "reading": "こんぽうようひん",
-      "meaning": "vật tư đóng gói"
+      "word": "梱包材",
+      "reading": "こんぽうざい",
+      "meaning": "vật liệu đóng gói"
+    },
+    {
+      "word": "梱る",
+      "reading": "こうる",
+      "meaning": "đóng gói"
+    },
+    {
+      "word": "自動梱包器",
+      "reading": "じどうこんぽうき",
+      "meaning": "máy đóng gói tự động"
     },
     {
       "word": "梱包機器",

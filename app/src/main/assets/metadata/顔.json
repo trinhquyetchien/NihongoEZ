@@ -106,29 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "顔",
-      "reading": "かお",
-      "meaning": "diện mạo"
-    },
-    {
-      "word": "顔色",
-      "reading": "かおいろ",
-      "meaning": "sắc diện"
-    },
-    {
-      "word": "塩顔",
-      "reading": "しおがお",
-      "meaning": "đẹp"
-    },
-    {
       "word": "笑顔",
       "reading": "えがお",
       "meaning": "khuôn mặt tươi cười"
     },
     {
-      "word": "新顔",
-      "reading": "しんがお",
-      "meaning": "khuôn mặt mới"
+      "word": "顔",
+      "reading": "かお",
+      "meaning": "diện mạo"
     },
     {
       "word": "お顔",
@@ -136,24 +121,39 @@
       "meaning": "mặt bạn"
     },
     {
-      "word": "顔射",
-      "reading": "がんしゃ",
-      "meaning": "xuất tinh lên mặt của đối tác"
+      "word": "円顔",
+      "reading": "まるがお",
+      "meaning": "khuôn mặt tròn"
     },
     {
-      "word": "夜顔",
-      "reading": "よるがお",
-      "meaning": "bìm trắng"
-    },
-    {
-      "word": "顔貌",
+      "word": "顔形",
       "reading": "かおかたち",
-      "meaning": "dung mạo khuôn mặt"
+      "meaning": "dung nhan"
     },
     {
-      "word": "汗顔",
-      "reading": "かんがん",
-      "meaning": "sự xấu hổ"
+      "word": "顔着",
+      "reading": "がんちゃく",
+      "meaning": "mặt hạ cánh"
+    },
+    {
+      "word": "台顔",
+      "reading": "たいがん",
+      "meaning": "khuôn mặt"
+    },
+    {
+      "word": "顔黒",
+      "reading": "がんぐろ",
+      "meaning": "bôi nhọ thân thể"
+    },
+    {
+      "word": "丸顔",
+      "reading": "まるがお",
+      "meaning": "xung quanh giáp mặt"
+    },
+    {
+      "word": "御顔",
+      "reading": "おかお",
+      "meaning": "khuôn mặt"
     }
   ]
 }

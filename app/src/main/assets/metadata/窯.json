@@ -91,24 +91,19 @@
       "meaning": "lò"
     },
     {
-      "word": "窯業",
-      "reading": "ようぎょう",
-      "meaning": "công nghiệp gốm"
+      "word": "窯出し",
+      "reading": "かまだし",
+      "meaning": "dỡ đồ gốm ra khỏi lò nung"
     },
     {
-      "word": "窯元",
-      "reading": "かまもと",
-      "meaning": "đồ gốm"
+      "word": "窯場",
+      "reading": "かまば",
+      "meaning": "xưởng gốm có lò nung"
     },
     {
-      "word": "窯印",
-      "reading": "かまじるし",
-      "meaning": "dấu hiệu riêng của thợ gốm"
-    },
-    {
-      "word": "炭窯",
-      "reading": "すみがま",
-      "meaning": "lò than củi"
+      "word": "窯変",
+      "reading": "ようへん",
+      "meaning": "sự biến đổi về màu sắc hay hình thái của đồ gốm trong khi nung"
     },
     {
       "word": "官窯",
@@ -121,19 +116,24 @@
       "meaning": "kiểu lò cổ xưa đào trong vách núi"
     },
     {
-      "word": "トンネル窯",
-      "reading": "トンネルがま",
-      "meaning": "lò đường hầm"
+      "word": "焼き窯",
+      "reading": "やきがま",
+      "meaning": "oven"
     },
     {
-      "word": "土窯",
-      "reading": "どがま",
-      "meaning": "lò đất"
+      "word": "窯印",
+      "reading": "かまじるし",
+      "meaning": "dấu hiệu riêng của thợ gốm"
     },
     {
-      "word": "窯変",
-      "reading": "ようへん",
-      "meaning": "sự biến đổi về màu sắc hay hình thái của đồ gốm trong khi nung"
+      "word": "窯炉",
+      "reading": "かまろ",
+      "meaning": "lò gốm"
+    },
+    {
+      "word": "石灰窯",
+      "reading": "いしばいかま",
+      "meaning": "lò vôi"
     }
   ]
 }

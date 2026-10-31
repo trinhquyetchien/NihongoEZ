@@ -92,9 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "言及",
-      "reading": "げんきゅう",
-      "meaning": "sự nhắc đến"
+      "word": "及ぼす",
+      "reading": "およぼす",
+      "meaning": "gây"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaning": "phổ cập"
     },
     {
       "word": "及び",
@@ -102,34 +107,9 @@
       "meaning": "và"
     },
     {
-      "word": "波及",
-      "reading": "はきゅう",
-      "meaning": "lan truyền"
-    },
-    {
-      "word": "及落",
-      "reading": "きゅうらく",
-      "meaning": "sự thành công hoặc thất bại"
-    },
-    {
-      "word": "企及",
-      "reading": "ききゅう",
-      "meaning": "cố gắng"
-    },
-    {
-      "word": "埃及",
-      "reading": "エジプト",
-      "meaning": "ai cập"
-    },
-    {
-      "word": "論及",
-      "reading": "ろんきゅう",
-      "meaning": "đề cập"
-    },
-    {
-      "word": "遡及",
-      "reading": "そきゅう",
-      "meaning": "tính có hiệu lực trở về trước"
+      "word": "及ぶ",
+      "reading": "およぶ",
+      "meaning": "bằng"
     },
     {
       "word": "追及",
@@ -137,9 +117,29 @@
       "meaning": "sự điều tra"
     },
     {
-      "word": "普及",
-      "reading": "ふきゅう",
-      "meaning": "phổ cập"
+      "word": "普及版",
+      "reading": "ふきゅうばん",
+      "meaning": "phiên bản phổ cập"
+    },
+    {
+      "word": "普及率",
+      "reading": "ふきゅうりつ",
+      "meaning": "tỷ lệ phổ cập"
+    },
+    {
+      "word": "言及",
+      "reading": "げんきゅう",
+      "meaning": "sự nhắc đến"
+    },
+    {
+      "word": "追及権",
+      "reading": "ついきゅうけん",
+      "meaning": "quyền theo đuổi"
+    },
+    {
+      "word": "波及",
+      "reading": "はきゅう",
+      "meaning": "lan truyền"
     }
   ]
 }

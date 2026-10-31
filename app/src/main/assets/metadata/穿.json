@@ -84,14 +84,44 @@
   ],
   "vocabulary": [
     {
-      "word": "穿口ふたるい",
-      "reading": "穿口蓋類",
-      "meaning": "lớp hyperotreti"
+      "word": "穿刺",
+      "reading": "せんし",
+      "meaning": "chọc dò"
     },
     {
-      "word": "せんとうじゅつ 穿頭じゅつ",
-      "reading": "穿頭術",
-      "meaning": "phẫu thuật khoan sọ"
+      "word": "穿刺針",
+      "reading": "せんしはり",
+      "meaning": "kim chọc dò"
+    },
+    {
+      "word": "穿孔",
+      "reading": "せんこう",
+      "meaning": "dùi lỗ"
+    },
+    {
+      "word": "穿孔部",
+      "reading": "せんこうぶ",
+      "meaning": "bộ phận bấm lỗ"
+    },
+    {
+      "word": "穿孔機",
+      "reading": "せんこうき",
+      "meaning": "máy khoan [còn đọc là さっこうき）"
+    },
+    {
+      "word": "胃穿孔",
+      "reading": "いせんこう",
+      "meaning": "chứng loét dạ dày"
+    },
+    {
+      "word": "腸穿孔",
+      "reading": "ちょうせんこう",
+      "meaning": "thủng ruột"
+    },
+    {
+      "word": "穿った",
+      "reading": "うがった",
+      "meaning": "đâm xuyên xuống"
     },
     {
       "word": "穿く",
@@ -102,36 +132,6 @@
       "word": "穿つ",
       "reading": "うがつ",
       "meaning": "khoan"
-    },
-    {
-      "word": "穿る",
-      "reading": "ほじる",
-      "meaning": "tìm kiếm"
-    },
-    {
-      "word": "穿通",
-      "reading": "せんつう",
-      "meaning": "sự thâm nhập"
-    },
-    {
-      "word": "穿刺",
-      "reading": "せんし",
-      "meaning": "chọc dò"
-    },
-    {
-      "word": "穿孔",
-      "reading": "せんこう",
-      "meaning": "dùi lỗ"
-    },
-    {
-      "word": "下穿",
-      "reading": "したばき",
-      "meaning": "quần đùi"
-    },
-    {
-      "word": "穿鑿",
-      "reading": "せんさく",
-      "meaning": "đào lỗ"
     }
   ]
 }

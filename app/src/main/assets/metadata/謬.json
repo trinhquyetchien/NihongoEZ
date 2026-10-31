@@ -68,39 +68,14 @@
   ],
   "vocabulary": [
     {
-      "word": "謬",
-      "reading": "あやまり",
-      "meaning": "sai lầm"
-    },
-    {
-      "word": "謬伝",
-      "reading": "びゅうでん",
-      "meaning": "báo cáo sai"
-    },
-    {
-      "word": "謬説",
-      "reading": "びゅうせつ",
-      "meaning": "học thuyết nguỵ biện"
-    },
-    {
-      "word": "謬見",
-      "reading": "びゅうけん",
-      "meaning": "ảo tưởng"
-    },
-    {
-      "word": "謬論",
-      "reading": "びゅうろん",
-      "meaning": "ảo tưởng"
-    },
-    {
       "word": "誤謬",
       "reading": "ごびゅう",
       "meaning": "sai lầm"
     },
     {
-      "word": "謬妄",
-      "reading": "びゅうもう",
-      "meaning": "ngụy biện"
+      "word": "謬",
+      "reading": "あやまり",
+      "meaning": "sai lầm"
     },
     {
       "word": "無謬",
@@ -108,14 +83,39 @@
       "meaning": "không thể sai lầm"
     },
     {
-      "word": "帰謬法",
-      "reading": "きびゅうほう",
-      "meaning": "phương pháp phản chứng"
-    },
-    {
       "word": "不謬性",
       "reading": "ふびゅうせい",
       "meaning": "tính không thể sai lầm được giáo hoàng"
+    },
+    {
+      "word": "謬説",
+      "reading": "びゅうせつ",
+      "meaning": "học thuyết nguỵ biện"
+    },
+    {
+      "word": "謬論",
+      "reading": "びゅうろん",
+      "meaning": "ảo tưởng"
+    },
+    {
+      "word": "謬伝",
+      "reading": "びゅうでん",
+      "meaning": "báo cáo sai"
+    },
+    {
+      "word": "謬見",
+      "reading": "びゅうけん",
+      "meaning": "ảo tưởng"
+    },
+    {
+      "word": "謬妄",
+      "reading": "びゅうもう",
+      "meaning": "ngụy biện"
+    },
+    {
+      "word": "帰謬法",
+      "reading": "きびゅうほう",
+      "meaning": "phương pháp phản chứng"
     }
   ]
 }

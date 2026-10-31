@@ -94,29 +94,29 @@
       "meaning": "rừng"
     },
     {
-      "word": "森森",
-      "reading": "しんしん",
-      "meaning": "rậm rạp"
-    },
-    {
       "word": "森林",
       "reading": "しんりん",
       "meaning": "rừng rú"
     },
     {
-      "word": "森厳",
-      "reading": "しんげん",
-      "meaning": "nghiêm túc"
+      "word": "山と森",
+      "reading": "やまともり",
+      "meaning": "rừng núi"
     },
     {
-      "word": "森閑",
-      "reading": "しんかん",
-      "meaning": "sự yên lặng"
+      "word": "森の都",
+      "reading": "もりのみやこ",
+      "meaning": "thành phố mặc cây"
     },
     {
-      "word": "森猪",
-      "reading": "もりいのしし",
-      "meaning": "lợn rừng lớn"
+      "word": "森の奥",
+      "reading": "もりのおく",
+      "meaning": "sâu trong rừng"
+    },
+    {
+      "word": "青森県",
+      "reading": "あおもりけん",
+      "meaning": "tỉnh aomori"
     },
     {
       "word": "森立",
@@ -124,19 +124,19 @@
       "meaning": "san sát"
     },
     {
-      "word": "森ガール",
-      "reading": "もりガール",
-      "meaning": "phong cách mori girl"
-    },
-    {
-      "word": "森薊",
-      "reading": "もりあざみ",
-      "meaning": "cirsium dipsacolepis"
+      "word": "森林法",
+      "reading": "しんりんほう",
+      "meaning": "luật bảo vệ rừng"
     },
     {
       "word": "森林地",
       "reading": "しんりんち",
       "meaning": "đất rừng"
+    },
+    {
+      "word": "森林率",
+      "reading": "しんりんりつ",
+      "meaning": "tỷ lệ phủ rừng"
     }
   ]
 }

@@ -89,44 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "堕",
-      "reading": "だ",
-      "meaning": "âm on đọc là だ"
-    },
-    {
-      "word": "堕罪",
-      "reading": "だざい",
-      "meaning": "sự chìm đắm vào trong tội lỗi"
-    },
-    {
-      "word": "堕胎",
-      "reading": "だたい",
-      "meaning": "sự phá thai"
-    },
-    {
       "word": "堕落",
       "reading": "だらく",
       "meaning": "sự suy thoái"
     },
     {
-      "word": "堕獄",
-      "reading": "だごく",
-      "meaning": "sự xuống địa ngục"
+      "word": "堕",
+      "reading": "だ",
+      "meaning": "âm on đọc là だ"
     },
     {
-      "word": "落堕",
-      "reading": "らくだ",
-      "meaning": "việc phá giới"
+      "word": "堕ろす",
+      "reading": "おろす",
+      "meaning": "phá thai"
     },
     {
-      "word": "堕す",
-      "reading": "だす",
-      "meaning": "sa ngã"
-    },
-    {
-      "word": "堕力",
-      "reading": "だりょく",
-      "meaning": "động lượng"
+      "word": "堕天使",
+      "reading": "だてんし",
+      "meaning": "thiên thần sa ngã"
     },
     {
       "word": "堕ちる",
@@ -134,9 +114,29 @@
       "meaning": "rơi"
     },
     {
-      "word": "堕ろす",
-      "reading": "おろす",
-      "meaning": "phá thai"
+      "word": "堕胎",
+      "reading": "だたい",
+      "meaning": "sự phá thai"
+    },
+    {
+      "word": "堕胎医",
+      "reading": "だたいい",
+      "meaning": "người phá thai"
+    },
+    {
+      "word": "堕胎罪",
+      "reading": "だたいざい",
+      "meaning": "tội ác phá thai bất hợp pháp"
+    },
+    {
+      "word": "堕胎剤",
+      "reading": "だたいざい",
+      "meaning": "tác nhân gây sẩy thai"
+    },
+    {
+      "word": "自堕落",
+      "reading": "じだらく",
+      "meaning": "nhếch nhác"
     }
   ]
 }

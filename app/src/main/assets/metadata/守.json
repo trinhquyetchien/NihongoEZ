@@ -111,29 +111,19 @@
   ],
   "vocabulary": [
     {
-      "word": "守",
-      "reading": "もり",
-      "meaning": "bảo mẫu"
+      "word": "留守",
+      "reading": "るす",
+      "meaning": "sự vắng nhà"
     },
     {
-      "word": "守破離",
-      "reading": "しゅはり",
-      "meaning": "là một phương pháp học"
+      "word": "守る",
+      "reading": "まもる",
+      "meaning": "bảo vệ"
     },
     {
-      "word": "遵守",
-      "reading": "じゅんしゅ",
-      "meaning": "sự tuân thủ"
-    },
-    {
-      "word": "順守",
-      "reading": "じゅんしゅ",
-      "meaning": "tuân theo"
-    },
-    {
-      "word": "守衛",
-      "reading": "しゅえい",
-      "meaning": "nhân viên bảo vệ"
+      "word": "保守",
+      "reading": "ほしゅ",
+      "meaning": "bảo thủ"
     },
     {
       "word": "守備",
@@ -141,9 +131,9 @@
       "meaning": "sự bảo vệ"
     },
     {
-      "word": "固守",
-      "reading": "こしゅ",
-      "meaning": "bó sát thân người"
+      "word": "守衛",
+      "reading": "しゅえい",
+      "meaning": "nhân viên bảo vệ"
     },
     {
       "word": "守り",
@@ -151,14 +141,24 @@
       "meaning": "thủ"
     },
     {
-      "word": "攻守",
-      "reading": "こうしゅ",
-      "meaning": "sự công thủ"
+      "word": "守",
+      "reading": "もり",
+      "meaning": "bảo mẫu"
     },
     {
-      "word": "好守",
-      "reading": "こうしゅ",
-      "meaning": "ném bóng và chặn bóng tốt"
+      "word": "守戦",
+      "reading": "しゅせん",
+      "meaning": "chiến tranh phòng thủ"
+    },
+    {
+      "word": "守護",
+      "reading": "しゅご",
+      "meaning": "sự bảo vệ"
+    },
+    {
+      "word": "お守り",
+      "reading": "おまもり",
+      "meaning": "bùa chú"
     }
   ]
 }

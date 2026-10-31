@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
-      "word": "噴く",
-      "reading": "ふく",
-      "meaning": "phun"
-    },
-    {
       "word": "噴火",
       "reading": "ふんか",
       "meaning": "sự phun lửa"
     },
     {
-      "word": "噴石",
-      "reading": "ふんせき",
-      "meaning": "dung nham"
-    },
-    {
-      "word": "噴飯",
-      "reading": "ふんぱん",
-      "meaning": "làm nổ ở ngoài cười"
-    },
-    {
-      "word": "噴流",
-      "reading": "ふんりゅう",
-      "meaning": "tia nước)"
-    },
-    {
-      "word": "噴煙",
-      "reading": "ふんえん",
-      "meaning": "khói phun lên"
-    },
-    {
-      "word": "噴泉",
-      "reading": "ふんせん",
-      "meaning": "suối"
-    },
-    {
-      "word": "噴気",
-      "reading": "ふんき",
-      "meaning": "sự xả hơi hoặc khí"
-    },
-    {
-      "word": "噴門",
-      "reading": "ふんもん",
-      "meaning": "thượng vị"
-    },
-    {
       "word": "噴水",
       "reading": "ふんすい",
       "meaning": "đài phun nước"
+    },
+    {
+      "word": "噴出",
+      "reading": "ふんしゅつ",
+      "meaning": "sự phun ra"
+    },
+    {
+      "word": "大噴火",
+      "reading": "だいふんか",
+      "meaning": "sự phun trào núi lửa lớn"
+    },
+    {
+      "word": "噴射",
+      "reading": "ふんしゃ",
+      "meaning": "sự phun ra"
+    },
+    {
+      "word": "噴射式",
+      "reading": "ふんしゃしき",
+      "meaning": "ống phun dầu"
+    },
+    {
+      "word": "逆噴射",
+      "reading": "ぎゃくふんしゃ",
+      "meaning": "đảo ngược đẩy"
+    },
+    {
+      "word": "直噴射",
+      "reading": "ちょくふんしゃ",
+      "meaning": "phun trực tiếp"
+    },
+    {
+      "word": "噴出岩",
+      "reading": "ふんしゅつがん",
+      "meaning": "đá phun trào"
+    },
+    {
+      "word": "噴水孔",
+      "reading": "ふんすいこう",
+      "meaning": "lỗ thở"
     }
   ]
 }

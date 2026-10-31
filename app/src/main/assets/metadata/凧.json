@@ -55,16 +55,6 @@
       "meaning": "cái diều"
     },
     {
-      "word": "凧糸",
-      "reading": "たこいと",
-      "meaning": "dây diều"
-    },
-    {
-      "word": "奴凧",
-      "reading": "やっこだこ",
-      "meaning": "bay lên như diều theo khuôn như một bộ binh"
-    },
-    {
       "word": "和凧",
       "reading": "わだこ",
       "meaning": "diều nhật bản"
@@ -75,14 +65,24 @@
       "meaning": "thả diều"
     },
     {
-      "word": "引っ張り凧",
-      "reading": "ひっぱりだこ",
-      "meaning": "rất đại chúng"
+      "word": "凧糸",
+      "reading": "たこいと",
+      "meaning": "dây diều"
+    },
+    {
+      "word": "奴凧",
+      "reading": "やっこだこ",
+      "meaning": "bay lên như diều theo khuôn như một bộ binh"
     },
     {
       "word": "凧をあげる",
       "reading": "たこをあげる",
       "meaning": "thả diều"
+    },
+    {
+      "word": "引っ張り凧",
+      "reading": "ひっぱりだこ",
+      "meaning": "rất đại chúng"
     }
   ]
 }

@@ -84,39 +84,39 @@
   ],
   "vocabulary": [
     {
-      "word": "弧",
-      "reading": "こ",
-      "meaning": "hình cung"
-    },
-    {
-      "word": "括弧（ ） （丸括弧）",
+      "word": "括弧",
       "reading": "かっこ",
       "meaning": "dấu ngoặc đơn"
     },
     {
-      "word": "括弧{ } （中括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc nhọn"
-    },
-    {
-      "word": "括弧[ ] （角括弧）",
-      "reading": "かっこ",
+      "word": "大括弧",
+      "reading": "だいかっこ",
       "meaning": "dấu ngoặc vuông"
     },
     {
-      "word": "括弧(( )) （二重括弧）",
-      "reading": "かっこ",
-      "meaning": "dấu ngoặc kép"
+      "word": "小括弧",
+      "reading": "しょうかっこ",
+      "meaning": "dấu ngoặc đơn"
     },
     {
-      "word": "励弧",
-      "reading": "れいこ",
-      "meaning": "sự kích thích"
+      "word": "中括弧",
+      "reading": "ちゅうかっこ",
+      "meaning": "dấu ngoặc nhọn"
     },
     {
-      "word": "優弧",
-      "reading": "ゆうこ",
-      "meaning": "cung lớn hơn trên nửa đường tròn"
+      "word": "丸括弧",
+      "reading": "まるかっこ",
+      "meaning": "dấu ngoặc đơn"
+    },
+    {
+      "word": "角括弧",
+      "reading": "かくかっこ",
+      "meaning": "dấu ngoặc vuông"
+    },
+    {
+      "word": "弧",
+      "reading": "こ",
+      "meaning": "hình cung"
     },
     {
       "word": "弧形",

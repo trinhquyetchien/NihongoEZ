@@ -123,29 +123,9 @@
   ],
   "vocabulary": [
     {
-      "word": "握雪おと",
-      "reading": "握雪音",
-      "meaning": "âm thanh tuyết rơi"
-    },
-    {
-      "word": "握把",
-      "reading": "あくは",
-      "meaning": "cầm"
-    },
-    {
-      "word": "掌握",
-      "reading": "しょうあく",
-      "meaning": "sự nắm giữ"
-    },
-    {
       "word": "握手",
       "reading": "あくしゅ",
       "meaning": "sự bắt tay"
-    },
-    {
-      "word": "握り",
-      "reading": "にぎり",
-      "meaning": "nắm"
     },
     {
       "word": "握る",
@@ -153,24 +133,44 @@
       "meaning": "bắt"
     },
     {
-      "word": "握斧",
-      "reading": "あくふ",
-      "meaning": "một loại rìu đẽo bằng tay của thời kỳ đồ đá"
-    },
-    {
       "word": "把握",
       "reading": "はあく",
       "meaning": "sự lĩnh hội"
     },
     {
-      "word": "一握",
-      "reading": "いちあく",
-      "meaning": "nhúm"
+      "word": "握手会",
+      "reading": "あくしゅかい",
+      "meaning": "sự kiện gặp gỡ"
     },
     {
-      "word": "握力",
-      "reading": "あくりょく",
-      "meaning": "lực nắm"
+      "word": "握り",
+      "reading": "にぎり",
+      "meaning": "nắm"
+    },
+    {
+      "word": "一握り",
+      "reading": "ひとにぎり",
+      "meaning": "một nắm nhỏ"
+    },
+    {
+      "word": "握り屋",
+      "reading": "にぎりや",
+      "meaning": "người keo kiệt"
+    },
+    {
+      "word": "御握り",
+      "reading": "おにぎり",
+      "meaning": "trao cho quấn từng cuốn sushi"
+    },
+    {
+      "word": "握り玉",
+      "reading": "にぎりだま",
+      "meaning": "tay nắm cửa"
+    },
+    {
+      "word": "掌握",
+      "reading": "しょうあく",
+      "meaning": "sự nắm giữ"
     }
   ]
 }

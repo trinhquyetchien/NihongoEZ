@@ -84,13 +84,18 @@
   ],
   "vocabulary": [
     {
-      "word": "侶",
-      "reading": "とも",
-      "meaning": "bạn"
+      "word": "僧侶",
+      "reading": "そうりょ",
+      "meaning": "tăng lữ"
     },
     {
-      "word": "侶伴",
-      "reading": "りょはん",
+      "word": "伴侶",
+      "reading": "はんりょ",
+      "meaning": "bầu bạn"
+    },
+    {
+      "word": "侶",
+      "reading": "とも",
       "meaning": "bạn"
     },
     {
@@ -99,14 +104,9 @@
       "meaning": "bạn"
     },
     {
-      "word": "伴侶",
-      "reading": "はんりょ",
-      "meaning": "bầu bạn"
-    },
-    {
-      "word": "僧侶",
-      "reading": "そうりょ",
-      "meaning": "tăng lữ"
+      "word": "侶伴",
+      "reading": "りょはん",
+      "meaning": "bạn"
     },
     {
       "word": "伴侶動物",

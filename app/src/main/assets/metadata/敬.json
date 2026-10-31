@@ -107,24 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "敬",
-      "reading": "けい",
-      "meaning": "sự kính trọng"
-    },
-    {
-      "word": "敬語",
-      "reading": "けいご",
-      "meaning": "kính ngữ"
-    },
-    {
-      "word": "敬愛",
-      "reading": "けいあい",
-      "meaning": "sự yêu mến và kính trọng"
-    },
-    {
-      "word": "敬称",
-      "reading": "けいしょう",
-      "meaning": "cách gọi tôn kính"
+      "word": "尊敬",
+      "reading": "そんけい",
+      "meaning": "sự tôn kính"
     },
     {
       "word": "敬意",
@@ -132,24 +117,39 @@
       "meaning": "khả kính"
     },
     {
-      "word": "崇敬",
-      "reading": "すうけい",
-      "meaning": "sự sùng kính"
+      "word": "敬語",
+      "reading": "けいご",
+      "meaning": "kính ngữ"
     },
     {
-      "word": "失敬",
-      "reading": "しっけい",
-      "meaning": "cầm trộm"
+      "word": "敬う",
+      "reading": "うやまう",
+      "meaning": "tôn kính"
     },
     {
-      "word": "愛敬",
-      "reading": "あいきょう",
-      "meaning": "yêu mến và kính trọng"
+      "word": "敬具",
+      "reading": "けいぐ",
+      "meaning": "kính thư"
     },
     {
-      "word": "畏敬",
-      "reading": "いけい",
-      "meaning": "sự tôn kính"
+      "word": "尊敬心",
+      "reading": "そんけいしん",
+      "meaning": "tôn trọng"
+    },
+    {
+      "word": "尊敬語",
+      "reading": "そんけいご",
+      "meaning": "tôn kính ngữ"
+    },
+    {
+      "word": "敬",
+      "reading": "けい",
+      "meaning": "sự kính trọng"
+    },
+    {
+      "word": "敬体",
+      "reading": "けいたい",
+      "meaning": "thể kính trọng"
     },
     {
       "word": "敬遠",

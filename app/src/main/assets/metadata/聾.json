@@ -51,39 +51,9 @@
   ],
   "vocabulary": [
     {
-      "word": "聾",
-      "reading": "つんぼ",
-      "meaning": "sự điếc"
-    },
-    {
-      "word": "盲聾",
-      "reading": "もうろう",
-      "meaning": "điếc-mù"
-    },
-    {
-      "word": "金聾",
-      "reading": "かなつんぼ",
-      "meaning": "điếc hoàn toàn"
-    },
-    {
       "word": "聾唖",
       "reading": "ろうあ",
       "meaning": "câm điếc"
-    },
-    {
-      "word": "聾者",
-      "reading": "ろうしゃ",
-      "meaning": "người điếc"
-    },
-    {
-      "word": "全聾",
-      "reading": "ぜんろう",
-      "meaning": "điếc hoàn toàn"
-    },
-    {
-      "word": "聾桟敷",
-      "reading": "つんぼさじき",
-      "meaning": "phòng triển lãm tranh trên"
     },
     {
       "word": "聾唖者",
@@ -91,9 +61,39 @@
       "meaning": "người điếc"
     },
     {
+      "word": "聾",
+      "reading": "つんぼ",
+      "meaning": "sự điếc"
+    },
+    {
+      "word": "全聾",
+      "reading": "ぜんろう",
+      "meaning": "điếc hoàn toàn"
+    },
+    {
       "word": "聾学校",
       "reading": "ろうがっこう",
       "meaning": "trường dành cho người điếc"
+    },
+    {
+      "word": "盲聾",
+      "reading": "もうろう",
+      "meaning": "điếc-mù"
+    },
+    {
+      "word": "聾者",
+      "reading": "ろうしゃ",
+      "meaning": "người điếc"
+    },
+    {
+      "word": "金聾",
+      "reading": "かなつんぼ",
+      "meaning": "điếc hoàn toàn"
+    },
+    {
+      "word": "聾桟敷",
+      "reading": "つんぼさじき",
+      "meaning": "phòng triển lãm tranh trên"
     },
     {
       "word": "聾する",

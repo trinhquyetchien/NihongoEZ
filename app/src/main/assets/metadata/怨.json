@@ -90,39 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "人を怨むより身を怨め",
-      "reading": "ひとをうらむよりみをうらめ",
-      "meaning": "trách mình trước khi trách người"
-    },
-    {
-      "word": "怨言",
-      "reading": "えんげん",
-      "meaning": "sự thù oán"
-    },
-    {
-      "word": "怨望",
-      "reading": "えんぼう",
-      "meaning": "sự tức giận"
-    },
-    {
-      "word": "怨恨",
-      "reading": "えんこん",
-      "meaning": "sự ghen ghét"
-    },
-    {
-      "word": "怨声",
-      "reading": "えんせい",
-      "meaning": "lời than phiền"
-    },
-    {
-      "word": "怨敵",
-      "reading": "おんてき",
-      "meaning": "kẻ không đội trời chung"
-    },
-    {
       "word": "怨念",
       "reading": "おんねん",
       "meaning": "sự thù oán"
+    },
+    {
+      "word": "怨み",
+      "reading": "うらみ",
+      "meaning": "oán thù"
     },
     {
       "word": "怨霊",
@@ -130,14 +105,39 @@
       "meaning": "hồn ma báo oán"
     },
     {
-      "word": "旧怨",
-      "reading": "きゅうえん",
-      "meaning": "sự thù oán trước đây"
+      "word": "怨ずる",
+      "reading": "えんずる",
+      "meaning": "oán giận"
     },
     {
-      "word": "怨み",
-      "reading": "うらみ",
-      "meaning": "oán thù"
+      "word": "怨恨",
+      "reading": "えんこん",
+      "meaning": "sự ghen ghét"
+    },
+    {
+      "word": "私怨",
+      "reading": "しえん",
+      "meaning": "sự thù oán cá nhân"
+    },
+    {
+      "word": "怨嗟",
+      "reading": "えんさ",
+      "meaning": "sụ phẫn uất"
+    },
+    {
+      "word": "怨敵",
+      "reading": "おんてき",
+      "meaning": "kẻ không đội trời chung"
+    },
+    {
+      "word": "怨む",
+      "reading": "うらむ",
+      "meaning": "hiềm"
+    },
+    {
+      "word": "怨言",
+      "reading": "えんげん",
+      "meaning": "sự thù oán"
     }
   ]
 }

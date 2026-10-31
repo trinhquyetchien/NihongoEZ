@@ -84,39 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "昆孫",
-      "reading": "こんそん",
-      "meaning": "chắt"
-    },
-    {
-      "word": "後昆",
-      "reading": "こうこん",
-      "meaning": "con cháu"
-    },
-    {
-      "word": "昆布",
-      "reading": "こんぶ",
-      "meaning": "tảo bẹ"
-    },
-    {
       "word": "昆虫",
       "reading": "こんちゅう",
       "meaning": "côn trùng"
-    },
-    {
-      "word": "昆布茶",
-      "reading": "こぶちゃ",
-      "meaning": "chè tảo bẹ"
-    },
-    {
-      "word": "昆布巻",
-      "reading": "こぶまき",
-      "meaning": "món ăn ngày tết"
-    },
-    {
-      "word": "昆虫ホルモン",
-      "reading": "こんちゅうホルモン",
-      "meaning": "hoóc môn côn trùng"
     },
     {
       "word": "昆虫学",
@@ -124,14 +94,44 @@
       "meaning": "côn trùng học"
     },
     {
-      "word": "朧昆布",
-      "reading": "おぼろこんぶ",
-      "meaning": "xé vụn sự rối loạn hoặc tảo bẹ"
-    },
-    {
       "word": "昆虫食",
       "reading": "こんちゅうしょく",
       "meaning": "món ăn côn trùng"
+    },
+    {
+      "word": "昆布",
+      "reading": "こんぶ",
+      "meaning": "tảo bẹ"
+    },
+    {
+      "word": "長昆布",
+      "reading": "ながこんぶ",
+      "meaning": "tảo bẹ laminaria longissima"
+    },
+    {
+      "word": "昆布巻",
+      "reading": "こぶまき",
+      "meaning": "món ăn ngày tết"
+    },
+    {
+      "word": "真昆布",
+      "reading": "まこんぶ",
+      "meaning": "tảo bẹ kombu"
+    },
+    {
+      "word": "塩昆布",
+      "reading": "しおこんぶ",
+      "meaning": "tảo bẹ muối"
+    },
+    {
+      "word": "昆布茶",
+      "reading": "こぶちゃ",
+      "meaning": "chè tảo bẹ"
+    },
+    {
+      "word": "酢昆布",
+      "reading": "すこんぶ",
+      "meaning": "tảo bẹ chua chế biến với giấm đen"
     }
   ]
 }

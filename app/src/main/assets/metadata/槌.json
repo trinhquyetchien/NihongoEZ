@@ -52,14 +52,9 @@
   ],
   "vocabulary": [
     {
-      "word": "槌",
-      "reading": "つち",
+      "word": "金槌",
+      "reading": "かなづち",
       "meaning": "búa"
-    },
-    {
-      "word": "相槌",
-      "reading": "あいづち",
-      "meaning": "sự hưởng ứng"
     },
     {
       "word": "鉄槌",
@@ -67,24 +62,19 @@
       "meaning": "búa sắt"
     },
     {
-      "word": "金槌",
-      "reading": "かなづち",
+      "word": "槌",
+      "reading": "つち",
       "meaning": "búa"
     },
     {
-      "word": "槌骨",
-      "reading": "つちこつ",
-      "meaning": "xương búa"
+      "word": "槌目",
+      "reading": "つちめ",
+      "meaning": "dấu vết của búa"
     },
     {
-      "word": "槌鯨",
-      "reading": "つちくじら",
-      "meaning": "cá voi mõm khoằm baird"
-    },
-    {
-      "word": "才槌",
-      "reading": "さいづち",
-      "meaning": "cái búa gỗ nhỏ"
+      "word": "槌の子",
+      "reading": "つちのこ",
+      "meaning": "sinh vật tsuchinoko"
     },
     {
       "word": "木槌",
@@ -92,14 +82,24 @@
       "meaning": "búa gỗ"
     },
     {
-      "word": "小槌",
-      "reading": "こづち",
-      "meaning": "cái chày"
+      "word": "石槌",
+      "reading": "いしづち",
+      "meaning": "búa đá"
     },
     {
-      "word": "槌目",
-      "reading": "つちめ",
-      "meaning": "dấu vết của búa"
+      "word": "槌骨",
+      "reading": "つちこつ",
+      "meaning": "xương búa"
+    },
+    {
+      "word": "相槌",
+      "reading": "あいづち",
+      "meaning": "sự hưởng ứng"
+    },
+    {
+      "word": "槌鯨",
+      "reading": "つちくじら",
+      "meaning": "cá voi mõm khoằm baird"
     }
   ]
 }

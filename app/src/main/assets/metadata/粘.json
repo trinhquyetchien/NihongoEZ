@@ -89,24 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "粘粘",
-      "reading": "ねばねば",
-      "meaning": "dính"
-    },
-    {
-      "word": "粘粘する",
-      "reading": "ねばねば",
-      "meaning": "dính"
-    },
-    {
-      "word": "腸管粘膜|腸粘膜",
-      "reading": "ちょーかんねんまく|ちょーねんまく",
-      "meaning": "niêm mạc ruột"
-    },
-    {
-      "word": "粘菌",
-      "reading": "ねんきん",
-      "meaning": "nấm nhầy"
+      "word": "粘り",
+      "reading": "ねばり",
+      "meaning": "tính chất dính"
     },
     {
       "word": "粘る",
@@ -114,29 +99,44 @@
       "meaning": "dính"
     },
     {
-      "word": "粘稠",
-      "reading": "ねんちゅう",
-      "meaning": "nhớt"
-    },
-    {
-      "word": "粘液",
-      "reading": "ねんえき",
-      "meaning": "keo dính"
-    },
-    {
-      "word": "粘性",
-      "reading": "ねんせい",
-      "meaning": "tính nhớt"
-    },
-    {
       "word": "粘着",
       "reading": "ねんちゃく",
       "meaning": "sư dính lại"
     },
     {
-      "word": "粘い",
-      "reading": "ねばい",
-      "meaning": "dẻo dính"
+      "word": "粘着性",
+      "reading": "ねんちゃくせい",
+      "meaning": "tính bám dính"
+    },
+    {
+      "word": "粘着力",
+      "reading": "ねんちゃくりょく",
+      "meaning": "lực dính"
+    },
+    {
+      "word": "粘着剤",
+      "reading": "ねんちゃくざい",
+      "meaning": "chất kết dính"
+    },
+    {
+      "word": "粘土",
+      "reading": "ねんど",
+      "meaning": "đất nặn hình"
+    },
+    {
+      "word": "白粘土",
+      "reading": "はくねんど",
+      "meaning": "đất sét trắng"
+    },
+    {
+      "word": "赤粘土",
+      "reading": "あかねんど",
+      "meaning": "đất sét đỏ"
+    },
+    {
+      "word": "紙粘土",
+      "reading": "かみねんど",
+      "meaning": "giấy bồi"
     }
   ]
 }

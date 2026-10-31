@@ -89,29 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "警戒警報",
-      "reading": "けいかいけいほう",
-      "meaning": "còi báo động không kích"
-    },
-    {
-      "word": "警備警察",
-      "reading": "けいびけいさつ",
-      "meaning": "cảnh sát an ninh"
-    },
-    {
-      "word": "警棒",
-      "reading": "けいぼう",
-      "meaning": "gậy"
-    },
-    {
-      "word": "警備",
-      "reading": "けいび",
-      "meaning": "canh gác"
-    },
-    {
-      "word": "警報",
-      "reading": "けいほう",
-      "meaning": "sự báo động"
+      "word": "警官",
+      "reading": "けいかん",
+      "meaning": "cánh sát"
     },
     {
       "word": "警察",
@@ -119,14 +99,14 @@
       "meaning": "cảnh sát"
     },
     {
-      "word": "警官",
-      "reading": "けいかん",
-      "meaning": "cánh sát"
-    },
-    {
       "word": "警告",
       "reading": "けいこく",
       "meaning": "sự cảnh cáo"
+    },
+    {
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "canh gác"
     },
     {
       "word": "警戒",
@@ -134,9 +114,29 @@
       "meaning": "canh phòng"
     },
     {
-      "word": "県警",
-      "reading": "けんけい",
-      "meaning": "cảnh sát tỉnh"
+      "word": "警部",
+      "reading": "けいぶ",
+      "meaning": "thanh tra cảnh sát"
+    },
+    {
+      "word": "警備員",
+      "reading": "けいびいん",
+      "meaning": "bảo vệ"
+    },
+    {
+      "word": "警察署",
+      "reading": "けいさつしょ",
+      "meaning": "sở cảnh sát"
+    },
+    {
+      "word": "警察官",
+      "reading": "けいさつかん",
+      "meaning": "cảnh sát"
+    },
+    {
+      "word": "警官隊",
+      "reading": "けいかんたい",
+      "meaning": "lực lượng cảnh sát"
     }
   ]
 }

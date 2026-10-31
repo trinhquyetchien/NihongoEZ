@@ -124,39 +124,24 @@
   ],
   "vocabulary": [
     {
-      "word": "直接接続",
-      "reading": "ちょくせつせつぞく",
-      "meaning": "làm cho một trực tiếp là kết nối"
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "trực tiếp"
     },
     {
-      "word": "直接接触",
-      "reading": "ちょくせつせっしょく",
-      "meaning": "sự tiếp xúc trực tiếp"
+      "word": "接続",
+      "reading": "せつぞく",
+      "meaning": "kế tiếp"
     },
     {
-      "word": "直接面接",
-      "reading": "ちょくせつめんせつ",
-      "meaning": "phỏng vấn trực tiếp"
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "sự phỏng vấn"
     },
     {
-      "word": "接ぐ",
-      "reading": "つぐ",
-      "meaning": "ghép hoặc ráp các mảnh lại với nhau"
-    },
-    {
-      "word": "近接",
-      "reading": "きんせつ",
-      "meaning": "tiếp cận"
-    },
-    {
-      "word": "接遇",
-      "reading": "せつぐう",
-      "meaning": "tiếp đón và phục vụ khách một cách lịch sự"
-    },
-    {
-      "word": "応接",
-      "reading": "おうせつ",
-      "meaning": "tiếp đãi"
+      "word": "接近",
+      "reading": "せっきん",
+      "meaning": "sự tiếp cận"
     },
     {
       "word": "間接",
@@ -164,14 +149,29 @@
       "meaning": "gián tiếp"
     },
     {
-      "word": "交接",
-      "reading": "こうせつ",
-      "meaning": "sự giao hợp"
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "tiếp đãi"
     },
     {
-      "word": "接助",
-      "reading": "せつじょ",
-      "meaning": "trợ từ liên kết"
+      "word": "接触",
+      "reading": "せっしょく",
+      "meaning": "sự tiếp xúc"
+    },
+    {
+      "word": "密接",
+      "reading": "みっせつ",
+      "meaning": "mật thiết"
+    },
+    {
+      "word": "接ぐ",
+      "reading": "つぐ",
+      "meaning": "ghép hoặc ráp các mảnh lại với nhau"
+    },
+    {
+      "word": "接種",
+      "reading": "せっしゅ",
+      "meaning": "tiêm chủng"
     }
   ]
 }

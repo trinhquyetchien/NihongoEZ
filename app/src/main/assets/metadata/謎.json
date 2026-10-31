@@ -91,9 +91,9 @@
       "meaning": "điều bí ẩn"
     },
     {
-      "word": "謎謎",
-      "reading": "なぞなぞ",
-      "meaning": "câu đố"
+      "word": "謎かけ",
+      "reading": "なぞかけ",
+      "meaning": "một loại câu đố đặc biệt"
     },
     {
       "word": "謎々",
@@ -101,9 +101,9 @@
       "meaning": "câu đố"
     },
     {
-      "word": "謎かけ",
-      "reading": "なぞかけ",
-      "meaning": "một loại câu đố đặc biệt"
+      "word": "謎解き",
+      "reading": "なぞとき",
+      "meaning": "lời giải đố"
     },
     {
       "word": "謎めく",
@@ -111,19 +111,19 @@
       "meaning": "bí ẩn hoặc khó hiểu"
     },
     {
-      "word": "謎解き",
-      "reading": "なぞとき",
-      "meaning": "lời giải đố"
-    },
-    {
-      "word": "謎を解く",
-      "reading": "なぞをとく",
-      "meaning": "hóa giải bí ẩn"
+      "word": "謎謎",
+      "reading": "なぞなぞ",
+      "meaning": "câu đố"
     },
     {
       "word": "謎を掛ける",
       "reading": "なぞをかける",
       "meaning": "đưa ra câu đố"
+    },
+    {
+      "word": "謎を解く",
+      "reading": "なぞをとく",
+      "meaning": "hóa giải bí ẩn"
     }
   ]
 }

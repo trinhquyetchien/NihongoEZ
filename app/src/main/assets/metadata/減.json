@@ -90,39 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "減",
-      "reading": "げん",
-      "meaning": "giảm"
-    },
-    {
-      "word": "減収減益",
-      "reading": "げんしゅうげんえき",
-      "meaning": "giảm doanh thu và lợi nhuận"
-    },
-    {
-      "word": "減便",
-      "reading": "げんびん",
-      "meaning": "giảm tuyến bay"
-    },
-    {
-      "word": "激減",
-      "reading": "げきげん",
-      "meaning": "sự rơi nhanh xuống"
-    },
-    {
       "word": "減る",
       "reading": "へる",
       "meaning": "giảm"
     },
     {
-      "word": "減免",
-      "reading": "げんめん",
-      "meaning": "sự miễn giảm"
-    },
-    {
-      "word": "減退",
-      "reading": "げんたい",
-      "meaning": "sự giảm sút"
+      "word": "増減",
+      "reading": "ぞうげん",
+      "meaning": "sự tăng giảm"
     },
     {
       "word": "減少",
@@ -130,14 +105,39 @@
       "meaning": "hao"
     },
     {
-      "word": "減速",
-      "reading": "げんそく",
-      "meaning": "sự giảm tốc"
+      "word": "軽減",
+      "reading": "けいげん",
+      "meaning": "sự giảm bớt"
     },
     {
-      "word": "減税",
-      "reading": "げんぜい",
-      "meaning": "hạ thuế"
+      "word": "減点",
+      "reading": "げんてん",
+      "meaning": "sự giảm trừ"
+    },
+    {
+      "word": "減",
+      "reading": "げん",
+      "meaning": "giảm"
+    },
+    {
+      "word": "減感",
+      "reading": "げんかん",
+      "meaning": "việc giảm cảm"
+    },
+    {
+      "word": "減等",
+      "reading": "げんとう",
+      "meaning": "hạ lớp"
+    },
+    {
+      "word": "減色",
+      "reading": "げんしょく",
+      "meaning": "việc giảm số lượng màu sắc"
+    },
+    {
+      "word": "減号",
+      "reading": "げんごう",
+      "meaning": "dấu trừ"
     }
   ]
 }

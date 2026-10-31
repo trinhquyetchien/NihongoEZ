@@ -87,44 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "錠",
-      "reading": "じょう",
-      "meaning": "khóa"
-    },
-    {
-      "word": "チェーン錠/ワイヤー錠",
-      "reading": "チェーンじょう/ワイヤーじょう",
-      "meaning": "khóa xích/khóa dây"
-    },
-    {
       "word": "手錠",
       "reading": "てじょう",
       "meaning": "xích tay"
     },
     {
-      "word": "施錠",
-      "reading": "せじょう",
-      "meaning": "sự khoá"
-    },
-    {
-      "word": "シリンダー錠",
-      "reading": "シリンダーじょう",
-      "meaning": "sự khóa hình trụ"
-    },
-    {
-      "word": "開錠",
-      "reading": "かいじょう",
-      "meaning": "sự mở khóa"
-    },
-    {
-      "word": "解錠",
-      "reading": "かいじょう",
-      "meaning": "mở khoá"
-    },
-    {
-      "word": "挿錠",
-      "reading": "さしじょう",
-      "meaning": "bolt"
+      "word": "錠",
+      "reading": "じょう",
+      "meaning": "khóa"
     },
     {
       "word": "一錠",
@@ -132,9 +102,39 @@
       "meaning": "một khay"
     },
     {
-      "word": "蝦錠",
-      "reading": "えびじょう",
-      "meaning": "cái khoá móc"
+      "word": "表示錠",
+      "reading": "ひょうじじょう",
+      "meaning": "khóa phòng vệ sinh"
+    },
+    {
+      "word": "PC錠",
+      "reading": "PCじょう",
+      "meaning": "khóa pc"
+    },
+    {
+      "word": "空錠",
+      "reading": "",
+      "meaning": "cửa không khóa"
+    },
+    {
+      "word": "電子錠",
+      "reading": "でんしじょう",
+      "meaning": "khóa điện tử"
+    },
+    {
+      "word": "箱型錠",
+      "reading": "はこがたじょう",
+      "meaning": "khóa hộp"
+    },
+    {
+      "word": "御錠口",
+      "reading": "おじょうぐち",
+      "meaning": "cánh cổng có khóa phân cách giữa thành nội và thành ngoại trong các lâu đài thời edo"
+    },
+    {
+      "word": "ドア錠",
+      "reading": "ドアじょう",
+      "meaning": "ổ khóa cửa"
     }
   ]
 }

@@ -49,14 +49,29 @@
   ],
   "vocabulary": [
     {
-      "word": "旧套",
-      "reading": "きゅうとう",
-      "meaning": "thuyết quy ước"
-    },
-    {
       "word": "外套",
       "reading": "がいとう",
       "meaning": "áo khoác ngoài"
+    },
+    {
+      "word": "春外套",
+      "reading": "はるがいとう",
+      "meaning": "áo khoác ngoài mùa xuân"
+    },
+    {
+      "word": "夏外套",
+      "reading": "なつがいとう",
+      "meaning": "áo khoác mùa hè"
+    },
+    {
+      "word": "外套眼",
+      "reading": "がいとうがん",
+      "meaning": "mắt áo choàng"
+    },
+    {
+      "word": "外套膜",
+      "reading": "がいとうまく",
+      "meaning": "áo choàng"
     },
     {
       "word": "常套",
@@ -74,29 +89,14 @@
       "meaning": "lời nói sáo rỗng"
     },
     {
-      "word": "外套膜",
-      "reading": "がいとうまく",
-      "meaning": "áo choàng"
+      "word": "旧套",
+      "reading": "きゅうとう",
+      "meaning": "thuyết quy ước"
     },
     {
-      "word": "外套眼",
-      "reading": "がいとうがん",
-      "meaning": "mắt áo choàng"
-    },
-    {
-      "word": "春外套",
-      "reading": "はるがいとう",
-      "meaning": "áo khoác ngoài mùa xuân"
-    },
-    {
-      "word": "夏外套",
-      "reading": "なつがいとう",
-      "meaning": "áo khoác mùa hè"
-    },
-    {
-      "word": "常套表現",
-      "reading": "じょうとうひょうげん",
-      "meaning": "biểu hiện thông thường"
+      "word": "外套細胞",
+      "reading": "がいとうさいぼう",
+      "meaning": "tế bào vệ tinh"
     }
   ]
 }

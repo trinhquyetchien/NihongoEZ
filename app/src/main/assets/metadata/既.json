@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "既女",
-      "reading": "きじょ",
-      "meaning": "người phụ nữ đã kết hôn"
+      "word": "既婚",
+      "reading": "きこん",
+      "meaning": "đã có gia đình"
     },
     {
       "word": "既に",
@@ -99,44 +99,44 @@
       "meaning": "đã"
     },
     {
-      "word": "既知",
-      "reading": "きち",
-      "meaning": "nổi tiếng"
-    },
-    {
       "word": "既存",
       "reading": "きそん",
       "meaning": "tồn tại"
     },
     {
-      "word": "既往",
-      "reading": "きおう",
-      "meaning": "quá khứ"
+      "word": "既の事",
+      "reading": "すんでのこと",
+      "meaning": "thứ đã xảy ra"
     },
     {
-      "word": "既製",
-      "reading": "きせい",
-      "meaning": "sự đã làm xong"
+      "word": "既男",
+      "reading": "きだん",
+      "meaning": "người đàn ông đã kết hôn"
     },
     {
-      "word": "既定",
-      "reading": "きてい",
-      "meaning": "mặc định"
+      "word": "既女",
+      "reading": "きじょ",
+      "meaning": "người phụ nữ đã kết hôn"
     },
     {
-      "word": "皆既",
-      "reading": "かいき",
-      "meaning": "toàn bộ"
+      "word": "既約",
+      "reading": "きやく",
+      "meaning": "bất khả quy"
     },
     {
-      "word": "既設",
-      "reading": "きせつ",
-      "meaning": "đã thiết lập"
+      "word": "既発表",
+      "reading": "きはっぴょう",
+      "meaning": "đã được xuất bản"
     },
     {
-      "word": "既得",
-      "reading": "きとく",
-      "meaning": "đã có được"
+      "word": "既製品",
+      "reading": "きせいひん",
+      "meaning": "hàng hóa làm sẵn"
+    },
+    {
+      "word": "既視感",
+      "reading": "きしかん",
+      "meaning": "cảm giác đã từng gặp rồi"
     }
   ]
 }

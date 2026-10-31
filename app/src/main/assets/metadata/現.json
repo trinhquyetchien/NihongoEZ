@@ -92,14 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "現",
-      "reading": "げん",
-      "meaning": "hiện tại"
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "sự biểu hiện"
     },
     {
-      "word": "現地",
-      "reading": "げんち",
-      "meaning": "tại chỗ"
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "hiện thực"
     },
     {
       "word": "現代",
@@ -107,24 +107,19 @@
       "meaning": "đời này"
     },
     {
-      "word": "現行",
-      "reading": "げんこう",
-      "meaning": "hiện hành"
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "thực"
+    },
+    {
+      "word": "現れ",
+      "reading": "あらわれ",
+      "meaning": "sự thể hiện"
     },
     {
       "word": "現状",
       "reading": "げんじょう",
       "meaning": "hiện trạng"
-    },
-    {
-      "word": "現職",
-      "reading": "げんしょく",
-      "meaning": "chức vụ hiện nay"
-    },
-    {
-      "word": "出現",
-      "reading": "しゅつげん",
-      "meaning": "xuất hiện"
     },
     {
       "word": "現象",
@@ -137,9 +132,14 @@
       "meaning": "tiền mặt"
     },
     {
-      "word": "現物",
-      "reading": "げんぶつ",
-      "meaning": "hàng thật"
+      "word": "現に",
+      "reading": "げんに",
+      "meaning": "thực sự là"
+    },
+    {
+      "word": "現地",
+      "reading": "げんち",
+      "meaning": "tại chỗ"
     }
   ]
 }

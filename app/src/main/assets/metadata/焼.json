@@ -110,44 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "焼き餅焼き",
-      "reading": "やきもちやき",
-      "meaning": "người hay ghen tuông"
-    },
-    {
-      "word": "煆焼",
-      "reading": "かしょう",
-      "meaning": "nung"
-    },
-    {
-      "word": "焼餅",
-      "reading": "やきもち",
-      "meaning": "lòng ghen tị"
-    },
-    {
-      "word": "焼土",
-      "reading": "しょうど",
-      "meaning": "đất sét nung"
-    },
-    {
       "word": "焼く",
       "reading": "やく",
       "meaning": "đốt cháy"
     },
     {
-      "word": "焼酎",
-      "reading": "しょうちゅう",
-      "meaning": "rượu hâm nóng"
-    },
-    {
-      "word": "焼肉",
-      "reading": "やきにく",
-      "meaning": "thịt quay"
-    },
-    {
-      "word": "焼失",
-      "reading": "しょうしつ",
-      "meaning": "sự bị cháy rụi"
+      "word": "燃焼",
+      "reading": "ねんしょう",
+      "meaning": "sự đốt cháy"
     },
     {
       "word": "焼き",
@@ -155,9 +125,39 @@
       "meaning": "nướng"
     },
     {
-      "word": "塩焼",
-      "reading": "しおやき",
-      "meaning": "sự nướng với muối"
+      "word": "日焼",
+      "reading": "ひやけ",
+      "meaning": "bị nắng ăn"
+    },
+    {
+      "word": "長焼",
+      "reading": "ながいしょう",
+      "meaning": "duy trì"
+    },
+    {
+      "word": "焼土",
+      "reading": "しょうど",
+      "meaning": "đất sét nung"
+    },
+    {
+      "word": "焼肉",
+      "reading": "やきにく",
+      "meaning": "thịt quay"
+    },
+    {
+      "word": "卵焼",
+      "reading": "たまごやき",
+      "meaning": "trứng tráng"
+    },
+    {
+      "word": "焼糞",
+      "reading": "やけくそ",
+      "meaning": "sự liều lĩnh tuyệt vọng"
+    },
+    {
+      "word": "焼酎",
+      "reading": "しょうちゅう",
+      "meaning": "rượu hâm nóng"
     }
   ]
 }

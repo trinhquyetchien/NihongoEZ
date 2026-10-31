@@ -90,6 +90,16 @@
   ],
   "vocabulary": [
     {
+      "word": "貧乏",
+      "reading": "びんぼう",
+      "meaning": "bần cùng"
+    },
+    {
+      "word": "乏しい",
+      "reading": "とぼしい",
+      "meaning": "cùng khốn"
+    },
+    {
       "word": "欠乏",
       "reading": "けつぼう",
       "meaning": "sự thiếu hụt"
@@ -100,34 +110,14 @@
       "meaning": "sự cùng khốn"
     },
     {
-      "word": "耐乏",
-      "reading": "たいぼう",
-      "meaning": "sự nhịn đói khát"
+      "word": "貧乏な",
+      "reading": "びんぼうな",
+      "meaning": "nghèo"
     },
     {
-      "word": "貧乏",
-      "reading": "びんぼう",
-      "meaning": "bần cùng"
-    },
-    {
-      "word": "乏尿",
-      "reading": "ぼうにょう",
-      "meaning": "oliguria"
-    },
-    {
-      "word": "乏しき",
-      "reading": "とぼしき",
-      "meaning": "sự nghèo khổ"
-    },
-    {
-      "word": "空乏層",
-      "reading": "くうぼうそう",
-      "meaning": "lớp suy giảm"
-    },
-    {
-      "word": "貧乏性",
-      "reading": "びんぼうしょう",
-      "meaning": "tính keo kiệt"
+      "word": "貧乏人",
+      "reading": "びんぼうにん",
+      "meaning": "người nghèo"
     },
     {
       "word": "貧乏神",
@@ -135,9 +125,19 @@
       "meaning": "thần đói nghèo"
     },
     {
-      "word": "貧乏籤",
-      "reading": "びんぼうくじ",
-      "meaning": "vẽ một để trống hoặc một lot không may"
+      "word": "欠乏症",
+      "reading": "けつぼうしょう",
+      "meaning": "bệnh thiếu vi-ta-min"
+    },
+    {
+      "word": "貧乏性",
+      "reading": "びんぼうしょう",
+      "meaning": "tính keo kiệt"
+    },
+    {
+      "word": "乏尿",
+      "reading": "ぼうにょう",
+      "meaning": "oliguria"
     }
   ]
 }

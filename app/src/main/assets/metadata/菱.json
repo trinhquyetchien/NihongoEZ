@@ -85,19 +85,14 @@
   ],
   "vocabulary": [
     {
-      "word": "菱",
-      "reading": "ひし",
-      "meaning": "trapa japonica"
-    },
-    {
       "word": "三菱",
       "reading": "みつびし",
       "meaning": "mitsubishi"
     },
     {
-      "word": "浜菱",
-      "reading": "はまびし",
-      "meaning": "cây củ ấu"
+      "word": "菱",
+      "reading": "ひし",
+      "meaning": "trapa japonica"
     },
     {
       "word": "菱脳",
@@ -110,19 +105,9 @@
       "meaning": "pha lê đỏ"
     },
     {
-      "word": "菱形",
-      "reading": "ひしがた",
-      "meaning": "hình thoi"
-    },
-    {
-      "word": "花菱",
-      "reading": "はなびし",
-      "meaning": "ra hoa - ngọn gia đình"
-    },
-    {
-      "word": "菱餅",
-      "reading": "ひしもち",
-      "meaning": "bánh lăng hình thoi dùng trong lễ hội tháng 3 ở nhật"
+      "word": "姫菱",
+      "reading": "ひめびし",
+      "meaning": "trapa incisa"
     },
     {
       "word": "鬼菱",
@@ -130,9 +115,24 @@
       "meaning": "cây củ ấu"
     },
     {
-      "word": "姫菱",
-      "reading": "ひめびし",
-      "meaning": "trapa incisa"
+      "word": "鉄菱",
+      "reading": "てつびし",
+      "meaning": "chông sắt"
+    },
+    {
+      "word": "浜菱",
+      "reading": "はまびし",
+      "meaning": "cây củ ấu"
+    },
+    {
+      "word": "撒き菱",
+      "reading": "まきびし",
+      "meaning": "gai nhọn"
+    },
+    {
+      "word": "菱形",
+      "reading": "ひしがた",
+      "meaning": "hình thoi"
     }
   ]
 }

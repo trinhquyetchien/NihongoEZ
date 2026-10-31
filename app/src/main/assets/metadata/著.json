@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "著",
-      "reading": "ちょ",
-      "meaning": "ngược cho những yêu cầu quần áo"
+      "word": "著者",
+      "reading": "ちょしゃ",
+      "meaning": "tác giả"
     },
     {
-      "word": "近著",
-      "reading": "きんちょ",
-      "meaning": "gần đây làm việc"
+      "word": "著す",
+      "reading": "あらわす",
+      "meaning": "viết"
     },
     {
-      "word": "著莪",
-      "reading": "しゃが",
-      "meaning": "đuôi diều"
+      "word": "著名",
+      "reading": "ちょめい",
+      "meaning": "sự trứ danh"
     },
     {
-      "word": "著聞",
-      "reading": "ちょぶん",
-      "meaning": "điều gì đó nổi tiếng khắp cả thế giới"
+      "word": "著書",
+      "reading": "ちょしょ",
+      "meaning": "tác phẩm"
     },
     {
-      "word": "遺著",
-      "reading": "いちょ",
-      "meaning": "tác phẩm xuất bản sua khi tác giả chết"
+      "word": "著しい",
+      "reading": "いちじるしい",
+      "meaning": "đáng kể"
     },
     {
-      "word": "拙著",
-      "reading": "せっちょ",
-      "meaning": "sự sản xuất tôi"
+      "word": "著作",
+      "reading": "ちょさく",
+      "meaning": "tác giả"
     },
     {
-      "word": "前著",
-      "reading": "ぜんちょ",
-      "meaning": "trong cùng chương này."
+      "word": "著作者",
+      "reading": "ちょさくしゃ",
+      "meaning": "nhà văn"
     },
     {
-      "word": "名著",
-      "reading": "めいちょ",
-      "meaning": "cuốn sách nổi tiếng"
+      "word": "著作家",
+      "reading": "ちょさくか",
+      "meaning": "nhà văn"
     },
     {
-      "word": "共著",
-      "reading": "きょうちょ",
-      "meaning": "sự cộng tác"
+      "word": "著作物",
+      "reading": "ちょさくぶつ",
+      "meaning": "sách"
     },
     {
-      "word": "原著",
-      "reading": "げんちょ",
-      "meaning": "bản chính làm việc"
+      "word": "著作権",
+      "reading": "ちょさくけん",
+      "meaning": "bản quyền"
     }
   ]
 }

@@ -97,21 +97,6 @@
       "meaning": "sự điều tra"
     },
     {
-      "word": "伺候",
-      "reading": "しこう",
-      "meaning": "đợi ở trên"
-    },
-    {
-      "word": "経伺",
-      "reading": "けいし",
-      "meaning": "xin ý kiến chỉ đạo"
-    },
-    {
-      "word": "奉伺",
-      "reading": "ほうし",
-      "meaning": "sự hỏi thăm sức khoẻ"
-    },
-    {
       "word": "お伺い",
       "reading": "おうかがい",
       "meaning": "thăm"
@@ -127,14 +112,29 @@
       "meaning": "tờ tường trình"
     },
     {
-      "word": "暑中伺い",
-      "reading": "しょちゅううかがい",
-      "meaning": "thực đơn mùa hè"
+      "word": "経伺",
+      "reading": "けいし",
+      "meaning": "xin ý kiến chỉ đạo"
     },
     {
-      "word": "進退伺い",
-      "reading": "しんたいうかがい",
-      "meaning": "sự từ chức không có nghi thức"
+      "word": "伺候",
+      "reading": "しこう",
+      "meaning": "đợi ở trên"
+    },
+    {
+      "word": "奉伺",
+      "reading": "ほうし",
+      "meaning": "sự hỏi thăm sức khoẻ"
+    },
+    {
+      "word": "伺い済み",
+      "reading": "うかがいずみ",
+      "meaning": "những chỉ dẫn nhận"
+    },
+    {
+      "word": "機嫌伺い",
+      "reading": "きげんうかがい",
+      "meaning": "dò ý"
     }
   ]
 }

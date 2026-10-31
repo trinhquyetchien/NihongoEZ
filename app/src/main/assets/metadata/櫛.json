@@ -91,9 +91,34 @@
       "meaning": "lược chải đầu"
     },
     {
+      "word": "櫛箱",
+      "reading": "くしばこ",
+      "meaning": "hộp lược"
+    },
+    {
+      "word": "櫛風",
+      "reading": "しっぷう",
+      "meaning": "cơn gió mạnh"
+    },
+    {
+      "word": "解き櫛",
+      "reading": "ときぐし",
+      "meaning": "cái lược răng thưa"
+    },
+    {
       "word": "櫛鱗",
       "reading": "しつりん",
       "meaning": "ctenoid scale"
+    },
+    {
+      "word": "櫛水母",
+      "reading": "くしくらげ",
+      "meaning": "sứa lược"
+    },
+    {
+      "word": "櫛目",
+      "reading": "くしめ",
+      "meaning": "vết lược"
     },
     {
       "word": "櫛比",
@@ -106,34 +131,9 @@
       "meaning": "giá đỡ lược"
     },
     {
-      "word": "櫛箱",
-      "reading": "くしばこ",
-      "meaning": "hộp lược"
-    },
-    {
-      "word": "櫛目",
-      "reading": "くしめ",
-      "meaning": "vết lược"
-    },
-    {
       "word": "馬櫛",
       "reading": "うまぐし",
       "meaning": "bàn chải ngựa"
-    },
-    {
-      "word": "櫛風",
-      "reading": "しっぷう",
-      "meaning": "cơn gió mạnh"
-    },
-    {
-      "word": "櫛水母",
-      "reading": "くしくらげ",
-      "meaning": "sứa lược"
-    },
-    {
-      "word": "解き櫛",
-      "reading": "ときぐし",
-      "meaning": "cái lược răng thưa"
     }
   ]
 }

@@ -92,29 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "打",
-      "reading": "だ",
+      "word": "打つ",
+      "reading": "うつ",
       "meaning": "đánh"
     },
     {
-      "word": "博打打ち",
-      "reading": "ばくちうち",
-      "meaning": "người đánh bạc"
-    },
-    {
-      "word": "打診",
-      "reading": "だしん",
-      "meaning": "hỏi dò"
-    },
-    {
-      "word": "打痕",
-      "reading": "だこん",
-      "meaning": "móp"
-    },
-    {
-      "word": "博打",
-      "reading": "ばくち",
-      "meaning": "trò cờ bạc"
+      "word": "打撃",
+      "reading": "だげき",
+      "meaning": "đòn đánh"
     },
     {
       "word": "打っ",
@@ -122,24 +107,39 @@
       "meaning": "mạnh mẽ"
     },
     {
-      "word": "打刻",
-      "reading": "だこく",
-      "meaning": "gây ấn tượng"
+      "word": "打",
+      "reading": "だ",
+      "meaning": "đánh"
     },
     {
-      "word": "打球",
-      "reading": "だきゅう",
-      "meaning": "đánh bóng"
+      "word": "一打",
+      "reading": "いちだ",
+      "meaning": "một cú đánh"
     },
     {
-      "word": "快打",
-      "reading": "かいだ",
-      "meaning": "cú đánh hay"
+      "word": "打法",
+      "reading": "だほう",
+      "meaning": "cách đánh"
     },
     {
-      "word": "塁打",
-      "reading": "るいだ",
-      "meaning": "cú đánh làm cho người đánh chạm được góc thứ nhất"
+      "word": "好打",
+      "reading": "こうだ",
+      "meaning": "cú đánh tốt"
+    },
+    {
+      "word": "痛打",
+      "reading": "つうだ",
+      "meaning": "khốc liệt tấn công"
+    },
+    {
+      "word": "安打",
+      "reading": "あんだ",
+      "meaning": "cú ném bóng an toàn"
+    },
+    {
+      "word": "短打",
+      "reading": "たんだ",
+      "meaning": "nảy bóng"
     }
   ]
 }

@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "距",
-      "reading": "けづめ",
-      "meaning": "phần lồi ra"
-    },
-    {
-      "word": "輪距",
-      "reading": "りんきょ",
-      "meaning": "đẩy vệt"
-    },
-    {
-      "word": "高距",
-      "reading": "こうきょ",
-      "meaning": "sự nâng cao"
-    },
-    {
-      "word": "距骨",
-      "reading": "きょこつ",
-      "meaning": "xương sên"
-    },
-    {
-      "word": "距爪",
-      "reading": "きょそう",
-      "meaning": "cựa gà"
-    },
-    {
-      "word": "角距",
-      "reading": "かっきょ",
-      "meaning": "cự ly góc"
-    },
-    {
       "word": "距離",
       "reading": "きょり",
       "meaning": "cách xa"
     },
     {
-      "word": "軸距",
-      "reading": "じくきょ",
-      "meaning": "khoảng cách giữa bánh trước và bánh sau của xe ô tô"
+      "word": "距離感",
+      "reading": "きょりかん",
+      "meaning": "cảm giác về khoảng cách"
+    },
+    {
+      "word": "角距離",
+      "reading": "かくきょり",
+      "meaning": "cự ly góc"
+    },
+    {
+      "word": "距離計",
+      "reading": "きょりけい",
+      "meaning": "dụng cụ đo cự ly"
+    },
+    {
+      "word": "極距離",
+      "reading": "きょくきょり",
+      "meaning": "cự ly cực"
+    },
+    {
+      "word": "飛距離",
+      "reading": "ひきょり",
+      "meaning": "khoảng cách bay"
+    },
+    {
+      "word": "長距離",
+      "reading": "ちょうきょり",
+      "meaning": "cự ly dài"
+    },
+    {
+      "word": "遠距離",
+      "reading": "えんきょり",
+      "meaning": "cự ly dài"
+    },
+    {
+      "word": "距離覚",
+      "reading": "きょりかく",
+      "meaning": "nhận thức chiều sâu"
     },
     {
       "word": "近距離",
       "reading": "きんきょり",
       "meaning": "khoảng cách gần"
-    },
-    {
-      "word": "中距離",
-      "reading": "ちゅうきょり",
-      "meaning": "cự ly trung bình"
     }
   ]
 }

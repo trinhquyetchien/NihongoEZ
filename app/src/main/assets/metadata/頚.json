@@ -34,9 +34,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "頚髄",
-      "reading": "けいずい",
-      "meaning": "tủy sống cổ"
+      "word": "頚椎",
+      "reading": "けいつい",
+      "meaning": "các đốt sống cổ"
     },
     {
       "word": "頚肉",
@@ -44,28 +44,8 @@
       "meaning": "cổ kích thích"
     },
     {
-      "word": "頚椎",
-      "reading": "けいつい",
-      "meaning": "các đốt sống cổ"
-    },
-    {
-      "word": "頚骨",
-      "reading": "けいこつ",
-      "meaning": "xương cổ"
-    },
-    {
-      "word": "頚部",
-      "reading": "けいぶ",
-      "meaning": "cổ"
-    },
-    {
-      "word": "刎頚",
-      "reading": "ふんけい",
-      "meaning": "sự chém đầu"
-    },
-    {
-      "word": "頚動脈",
-      "reading": "けいどうみゃく",
+      "word": "頚巻き",
+      "reading": "けいまき",
       "meaning": "động mạch động mạch cảnh"
     },
     {
@@ -74,14 +54,34 @@
       "meaning": "tĩnh mạch cổ"
     },
     {
-      "word": "頚巻き",
-      "reading": "けいまき",
+      "word": "頚髄",
+      "reading": "けいずい",
+      "meaning": "tủy sống cổ"
+    },
+    {
+      "word": "頚部",
+      "reading": "けいぶ",
+      "meaning": "cổ"
+    },
+    {
+      "word": "頚動脈",
+      "reading": "けいどうみゃく",
       "meaning": "động mạch động mạch cảnh"
     },
     {
-      "word": "刎頚の友",
-      "reading": "ふんけいのとも",
-      "meaning": "bạn thân thiết"
+      "word": "頚骨",
+      "reading": "けいこつ",
+      "meaning": "xương cổ"
+    },
+    {
+      "word": "刎頚",
+      "reading": "ふんけい",
+      "meaning": "sự chém đầu"
+    },
+    {
+      "word": "上頚神経節",
+      "reading": "じょうけいしんけいせつ",
+      "meaning": "hạch thần kinh cổ trên"
     }
   ]
 }

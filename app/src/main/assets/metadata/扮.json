@@ -35,14 +35,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "扮装",
-      "reading": "ふんそう",
-      "meaning": "làm - lên trên"
-    },
-    {
       "word": "扮する",
       "reading": "ふんする",
       "meaning": "đóng giả"
+    },
+    {
+      "word": "扮装",
+      "reading": "ふんそう",
+      "meaning": "làm - lên trên"
     }
   ]
 }

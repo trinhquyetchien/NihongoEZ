@@ -110,29 +110,14 @@
   ],
   "vocabulary": [
     {
-      "word": "建前",
-      "reading": "たてまえ",
-      "meaning": "sự nịnh bợ"
+      "word": "建物",
+      "reading": "たてもの",
+      "meaning": "tòa nhà"
     },
     {
-      "word": "再建",
-      "reading": "さいけん",
-      "meaning": "sự xây dựng lại"
-    },
-    {
-      "word": "建材",
-      "reading": "けんざい",
-      "meaning": "vật liệu xây dựng"
-    },
-    {
-      "word": "建立",
-      "reading": "こんりゅう",
-      "meaning": "sự xây dựng chùa chiền"
-    },
-    {
-      "word": "建築",
-      "reading": "けんちく",
-      "meaning": "kiến trúc"
+      "word": "建てる",
+      "reading": "たてる",
+      "meaning": "gây dựng"
     },
     {
       "word": "建設",
@@ -140,24 +125,39 @@
       "meaning": "sự kiến thiết"
     },
     {
-      "word": "建造",
-      "reading": "けんぞう",
-      "meaning": "xây dựng"
+      "word": "建築",
+      "reading": "けんちく",
+      "meaning": "kiến trúc"
     },
     {
-      "word": "建物",
-      "reading": "たてもの",
-      "meaning": "tòa nhà"
+      "word": "建つ",
+      "reading": "たつ",
+      "meaning": "được xây dựng"
     },
     {
-      "word": "建て",
-      "reading": "だて",
-      "meaning": "cho biết tầng"
+      "word": "再建",
+      "reading": "さいけん",
+      "meaning": "sự xây dựng lại"
     },
     {
-      "word": "宅建",
-      "reading": "たっけん",
-      "meaning": "môi giới bất động sản"
+      "word": "封建",
+      "reading": "ほうけん",
+      "meaning": "phong kiến"
+    },
+    {
+      "word": "建設的",
+      "reading": "けんせつてき",
+      "meaning": "có tính cách xây dựng"
+    },
+    {
+      "word": "建設者",
+      "reading": "けんせつしゃ",
+      "meaning": "kiến trúc sư"
+    },
+    {
+      "word": "建築家",
+      "reading": "けんちくか",
+      "meaning": "nhà kiến trúc"
     }
   ]
 }

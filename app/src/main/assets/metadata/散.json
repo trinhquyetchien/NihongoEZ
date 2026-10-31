@@ -96,24 +96,39 @@
   ],
   "vocabulary": [
     {
-      "word": "散",
-      "reading": "さん",
-      "meaning": "tàn"
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "sự tản bộ"
     },
     {
-      "word": "散散",
+      "word": "散る",
+      "reading": "ちる",
+      "meaning": "héo tàn"
+    },
+    {
+      "word": "拡散",
+      "reading": "かくさん",
+      "meaning": "sự khuyếch tán"
+    },
+    {
+      "word": "分散",
+      "reading": "ぶんさん",
+      "meaning": "sự phân tán"
+    },
+    {
+      "word": "散々",
       "reading": "さんざん",
-      "meaning": "trạng thái nổi bật của sự vật"
+      "meaning": "gay go"
     },
     {
-      "word": "散り散り",
-      "reading": "ちりぢり",
-      "meaning": "rải rác"
+      "word": "発散",
+      "reading": "はっさん",
+      "meaning": "sự phát tán"
     },
     {
-      "word": "散炭",
-      "reading": "ばらずみ",
-      "meaning": "than vụn"
+      "word": "散策",
+      "reading": "さんさく",
+      "meaning": "sự đi dạo"
     },
     {
       "word": "散布",
@@ -121,29 +136,14 @@
       "meaning": "sự gieo rắc"
     },
     {
-      "word": "散歩",
-      "reading": "さんぽ",
-      "meaning": "sự tản bộ"
+      "word": "散見",
+      "reading": "さんけん",
+      "meaning": "được nhìn thấy khắp đó đây"
     },
     {
-      "word": "散乱",
-      "reading": "さんらん",
-      "meaning": "sự tán sắc"
-    },
-    {
-      "word": "散髪",
-      "reading": "さんぱつ",
-      "meaning": "sự cắt tóc"
-    },
-    {
-      "word": "散在",
-      "reading": "さんざい",
-      "meaning": "sự rải rác"
-    },
-    {
-      "word": "散漫",
-      "reading": "さんまん",
-      "meaning": "sự tản mạn"
+      "word": "散",
+      "reading": "さん",
+      "meaning": "tàn"
     }
   ]
 }

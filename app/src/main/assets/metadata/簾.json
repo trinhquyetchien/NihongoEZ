@@ -67,29 +67,39 @@
   ],
   "vocabulary": [
     {
-      "word": "簾",
-      "reading": "すだれ",
-      "meaning": "màn ảnh tre"
-    },
-    {
       "word": "暖簾",
       "reading": "のれん",
       "meaning": "tấm rèm che trước cửa"
     },
     {
-      "word": "鋤簾",
-      "reading": "じょれん",
-      "meaning": "cây tre sàng lọc đã sàng trái đất hoặc cát"
+      "word": "珠暖簾",
+      "reading": "たまのれん",
+      "meaning": "màn cửa kết bằng các chuỗi hạt"
     },
     {
-      "word": "御簾",
-      "reading": "みす",
-      "meaning": "một cây tre làm mù"
+      "word": "簾",
+      "reading": "すだれ",
+      "meaning": "màn ảnh tre"
     },
     {
-      "word": "葦簾",
-      "reading": "よしず",
-      "meaning": "màn ảnh lau"
+      "word": "秋簾",
+      "reading": "あきすだれ",
+      "meaning": "rèm trúc mùa thu"
+    },
+    {
+      "word": "板簾",
+      "reading": "いたすだれ",
+      "meaning": "venetian blind"
+    },
+    {
+      "word": "緑簾石",
+      "reading": "りょくれんせき",
+      "meaning": "epidot"
+    },
+    {
+      "word": "巻き簾",
+      "reading": "まきす",
+      "meaning": "cái dùng để cuộn sushi"
     },
     {
       "word": "簾戸",
@@ -102,19 +112,9 @@
       "meaning": "sò"
     },
     {
-      "word": "秋簾",
-      "reading": "あきすだれ",
-      "meaning": "rèm trúc mùa thu"
-    },
-    {
-      "word": "簾コリメーター",
-      "reading": "すだれコリメーター",
-      "meaning": "một thiết bị quan sát tia x từ các thiên thể ở xa bằng cách bố trí hai rèm bằng kim loại mỏng xếp song song với nhau"
-    },
-    {
-      "word": "板簾",
-      "reading": "いたすだれ",
-      "meaning": "venetian blind"
+      "word": "灰簾石",
+      "reading": "かいれんせき",
+      "meaning": "zoisite"
     }
   ]
 }

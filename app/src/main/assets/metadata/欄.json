@@ -92,24 +92,34 @@
       "meaning": "cột"
     },
     {
-      "word": "空欄",
-      "reading": "くうらん",
-      "meaning": "cột trống"
+      "word": "上欄",
+      "reading": "じょうらん",
+      "meaning": "cột phía trên"
     },
     {
-      "word": "欄外",
-      "reading": "らんがい",
-      "meaning": "lề"
+      "word": "下欄",
+      "reading": "からん",
+      "meaning": "cột phía dưới"
     },
     {
-      "word": "テ欄",
-      "reading": "テらん",
-      "meaning": "những danh sách truyền hình"
+      "word": "経済欄",
+      "reading": "けいざいらん",
+      "meaning": "mục kinh tế"
     },
     {
-      "word": "コメント欄",
-      "reading": "コメントらん",
-      "meaning": "cột comment"
+      "word": "小欄",
+      "reading": "しょうらん",
+      "meaning": "cột nhỏ trên tờ báo"
+    },
+    {
+      "word": "運動欄",
+      "reading": "うんどうらん",
+      "meaning": "chuyên mục thể thao"
+    },
+    {
+      "word": "投稿欄",
+      "reading": "とうこうらん",
+      "meaning": "cột báo thư bạn đọc"
     },
     {
       "word": "不欄",
@@ -117,24 +127,14 @@
       "meaning": "không gian không có những cột"
     },
     {
-      "word": "上欄",
-      "reading": "じょうらん",
-      "meaning": "cột phía trên"
+      "word": "通信欄",
+      "reading": "つうしんらん",
+      "meaning": "cột bạn đọc"
     },
     {
-      "word": "欄間",
-      "reading": "らんま",
-      "meaning": "đố cửa"
-    },
-    {
-      "word": "ラ欄",
-      "reading": "ラらん",
-      "meaning": "truyền đi bằng rađiô những danh sách"
-    },
-    {
-      "word": "高欄",
-      "reading": "こうらん",
-      "meaning": "tay vịn"
+      "word": "広告欄",
+      "reading": "こうこくらん",
+      "meaning": "mục quảng cáo"
     }
   ]
 }

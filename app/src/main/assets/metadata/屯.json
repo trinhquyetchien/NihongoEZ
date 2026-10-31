@@ -86,6 +86,21 @@
   ],
   "vocabulary": [
     {
+      "word": "駐屯",
+      "reading": "ちゅうとん",
+      "meaning": "sự đồn trú"
+    },
+    {
+      "word": "駐屯所",
+      "reading": "ちゅうとんじょ",
+      "meaning": "đồn"
+    },
+    {
+      "word": "駐屯地",
+      "reading": "ちゅうとんち",
+      "meaning": "nơi đồn trú"
+    },
+    {
       "word": "屯",
       "reading": "たむろ",
       "meaning": "một tấn"
@@ -94,31 +109,6 @@
       "word": "英屯",
       "reading": "えいトン",
       "meaning": "ton"
-    },
-    {
-      "word": "屯す",
-      "reading": "たむろす",
-      "meaning": "tụ tập"
-    },
-    {
-      "word": "駐屯",
-      "reading": "ちゅうとん",
-      "meaning": "sự đồn trú"
-    },
-    {
-      "word": "屯所",
-      "reading": "とんしょ",
-      "meaning": "gửi bưu điện"
-    },
-    {
-      "word": "屯田",
-      "reading": "とんでん",
-      "meaning": "sự chiếm làm thuộc địa"
-    },
-    {
-      "word": "屯営",
-      "reading": "とんえい",
-      "meaning": "doanh trại bộ đội"
     },
     {
       "word": "屯う",
@@ -134,6 +124,16 @@
       "word": "屯する",
       "reading": "たむろする",
       "meaning": "tụ tập"
+    },
+    {
+      "word": "分屯地",
+      "reading": "ぶんとんち",
+      "meaning": "trại phó"
+    },
+    {
+      "word": "屯田",
+      "reading": "とんでん",
+      "meaning": "sự chiếm làm thuộc địa"
     }
   ]
 }

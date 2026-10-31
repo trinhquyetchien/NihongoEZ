@@ -111,19 +111,9 @@
       "meaning": "italy"
     },
     {
-      "word": "駐伊",
-      "reading": "ちゅうい",
-      "meaning": "đặt vào vị trí trong italy"
-    },
-    {
-      "word": "伊吹",
-      "reading": "いぶき",
-      "meaning": "cây bách xù trung quốc"
-    },
-    {
-      "word": "伊達",
-      "reading": "だて",
-      "meaning": "tính thích chưng diện"
+      "word": "日伊",
+      "reading": "にちい",
+      "meaning": "nhật bản và italy"
     },
     {
       "word": "伊語",
@@ -131,29 +121,39 @@
       "meaning": "ngôn ngữ tiếng ytalia"
     },
     {
+      "word": "伊達",
+      "reading": "だて",
+      "meaning": "tính thích chưng diện"
+    },
+    {
       "word": "伊艦",
       "reading": "いかん",
       "meaning": "chiến hạm của ý"
     },
     {
-      "word": "日伊",
-      "reading": "にちい",
-      "meaning": "nhật bản và italy"
+      "word": "伊達男",
+      "reading": "だておとこ",
+      "meaning": "người chưng diện"
     },
     {
-      "word": "刀伊",
-      "reading": "とい",
-      "meaning": "bộ tộc hải tặc nữ chân"
+      "word": "伊達女",
+      "reading": "だておんな",
+      "meaning": "vỉ ruồi"
     },
     {
-      "word": "渡伊",
-      "reading": "とい",
-      "meaning": "việc đến ý"
+      "word": "女伊達",
+      "reading": "おんなだて",
+      "meaning": "chivalrous female"
     },
     {
-      "word": "伊井",
-      "reading": "いい",
-      "meaning": "một"
+      "word": "伊達姿",
+      "reading": "だてすがた",
+      "meaning": "diện mạo hào nhoáng"
+    },
+    {
+      "word": "伊達着",
+      "reading": "だてぎ",
+      "meaning": "quần áo loè loẹt"
     }
   ]
 }

@@ -32,24 +32,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "輯録",
-      "reading": "しゅうろく",
-      "meaning": "biên soạn"
-    },
-    {
       "word": "集輯",
       "reading": "しゅうしゅう",
       "meaning": "tập hợp lại"
-    },
-    {
-      "word": "特輯",
-      "reading": "とくしゅう",
-      "meaning": "phiên bản đặc biệt"
-    },
-    {
-      "word": "編輯",
-      "reading": "へんしゅう",
-      "meaning": "sự biên soạn"
     },
     {
       "word": "収輯",
@@ -60,6 +45,21 @@
       "word": "第一輯",
       "reading": "だいいっしゅう",
       "meaning": "đợt đầu tiên"
+    },
+    {
+      "word": "編輯",
+      "reading": "へんしゅう",
+      "meaning": "sự biên soạn"
+    },
+    {
+      "word": "輯録",
+      "reading": "しゅうろく",
+      "meaning": "biên soạn"
+    },
+    {
+      "word": "特輯",
+      "reading": "とくしゅう",
+      "meaning": "phiên bản đặc biệt"
     }
   ]
 }

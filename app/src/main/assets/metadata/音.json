@@ -97,49 +97,49 @@
       "meaning": "âm thanh"
     },
     {
-      "word": "音節主音的子音",
-      "reading": "おんせつしゅおんてきしいん",
-      "meaning": "phụ âm âm tiết"
+      "word": "物音",
+      "reading": "ものおと",
+      "meaning": "âm thanh"
     },
     {
-      "word": "全音音階",
-      "reading": "ぜんおんおんかい",
-      "meaning": "thang âm toàn cung"
+      "word": "雑音",
+      "reading": "ざつおん",
+      "meaning": "tạp âm"
     },
     {
-      "word": "音節主音",
-      "reading": "おんせつしゅおん",
-      "meaning": "âm tiết"
+      "word": "音色",
+      "reading": "ねいろ",
+      "meaning": "âm sắc"
     },
     {
-      "word": "五音音階",
-      "reading": "ごおんおんかい",
-      "meaning": "pentatonic tróc vảy"
+      "word": "回音",
+      "reading": "かいおん",
+      "meaning": "âm vang"
     },
     {
-      "word": "構音",
+      "word": "音力",
+      "reading": "おんりょく",
+      "meaning": "sức mạnh tiếng nói"
+    },
+    {
+      "word": "口音",
       "reading": "こうおん",
-      "meaning": "cách phát âm rõ ràng"
+      "meaning": "phụ âm miệng"
     },
     {
-      "word": "労音",
-      "reading": "ろうおん",
-      "meaning": "hội đồng âm nhạc dành cho công nhân"
+      "word": "音形",
+      "reading": "おんけい",
+      "meaning": "mẫu âm thanh"
     },
     {
-      "word": "硬音",
-      "reading": "こうおん",
-      "meaning": "âm căng"
+      "word": "弾音",
+      "reading": "はじきおん",
+      "meaning": "flap"
     },
     {
-      "word": "野音",
-      "reading": "やおん",
-      "meaning": "buổi nhạc ngoài trời"
-    },
-    {
-      "word": "グル音",
-      "reading": "グルおん",
-      "meaning": "tiếng nhu động ruột"
+      "word": "合音",
+      "reading": "ごうおん",
+      "meaning": "âm kết hợp"
     }
   ]
 }

@@ -92,9 +92,34 @@
       "meaning": "bình minh"
     },
     {
-      "word": "暁天",
-      "reading": "ぎょうてん",
-      "meaning": "bình minh"
+      "word": "暁起き",
+      "reading": "あかつきおき",
+      "meaning": "thức dậy lúc bình minh"
+    },
+    {
+      "word": "暁の空",
+      "reading": "あかつきのそら",
+      "meaning": "bầu trời lúc rạng đông"
+    },
+    {
+      "word": "暁角",
+      "reading": "ぎょうかく",
+      "meaning": "tiếng tù và vào lúc bình minh"
+    },
+    {
+      "word": "暁新世",
+      "reading": "ぎょうしんせい",
+      "meaning": "paleocene epoch"
+    },
+    {
+      "word": "寒暁",
+      "reading": "かんぎょう",
+      "meaning": "bình minh mùa đông lạnh giá"
+    },
+    {
+      "word": "暁鴉",
+      "reading": "ぎょうあ",
+      "meaning": "tiếng quạ kêu vào buổi sáng sớm"
     },
     {
       "word": "暁星",
@@ -102,39 +127,14 @@
       "meaning": "sao buổi sáng"
     },
     {
-      "word": "今暁",
-      "reading": "こんぎょう",
-      "meaning": "sáng nay"
-    },
-    {
-      "word": "通暁",
-      "reading": "つうぎょう",
-      "meaning": "sự thức khuya"
-    },
-    {
-      "word": "払暁",
-      "reading": "ふつぎょう",
-      "meaning": "hửng sáng"
-    },
-    {
-      "word": "早暁",
-      "reading": "そうぎょう",
-      "meaning": "lúc rạng đông"
-    },
-    {
-      "word": "暁闇",
-      "reading": "あかつきやみ",
-      "meaning": "bình minh của đêm không trăng"
-    },
-    {
       "word": "暁光",
       "reading": "ぎょうこう",
       "meaning": "ánh sáng của bình minh"
     },
     {
-      "word": "昨暁",
-      "reading": "さくぎょう",
-      "meaning": "buổi sáng sớm ngày hôm qua"
+      "word": "通暁",
+      "reading": "つうぎょう",
+      "meaning": "sự thức khuya"
     }
   ]
 }

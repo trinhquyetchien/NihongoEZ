@@ -94,19 +94,9 @@
       "meaning": "cục"
     },
     {
-      "word": "塊炭",
-      "reading": "かいたん",
-      "meaning": "khối than"
-    },
-    {
-      "word": "酸塊",
-      "reading": "すぐり",
-      "meaning": "cây lý gai"
-    },
-    {
-      "word": "凝塊",
-      "reading": "ぎょうかい",
-      "meaning": "đóng cục"
+      "word": "一塊",
+      "reading": "いっかい",
+      "meaning": "một cục"
     },
     {
       "word": "地塊",
@@ -114,29 +104,39 @@
       "meaning": "landmass"
     },
     {
-      "word": "岩塊",
-      "reading": "がんかい",
-      "meaning": "đá tảng"
+      "word": "小塊",
+      "reading": "しょうかい",
+      "meaning": "cục u nhỏ"
     },
     {
-      "word": "塊然",
-      "reading": "かいぜん",
-      "meaning": "chắc chắn"
+      "word": "一塊り",
+      "reading": "ひとかたまり",
+      "meaning": "một vón thành cục"
     },
     {
-      "word": "松塊",
-      "reading": "まつほど",
-      "meaning": "nấm phục linh"
+      "word": "肉塊",
+      "reading": "にくかい",
+      "meaning": "miếng thịt"
     },
     {
-      "word": "鋳塊",
-      "reading": "ちゅうかい",
-      "meaning": "thỏi"
+      "word": "塊村",
+      "reading": "かいそん",
+      "meaning": "làng xóm tụ tập"
     },
     {
-      "word": "塊状",
-      "reading": "かいじょう",
-      "meaning": "dạng khối"
+      "word": "塊土",
+      "reading": "かいど",
+      "meaning": "cục đất"
+    },
+    {
+      "word": "食塊",
+      "reading": "しょっかい",
+      "meaning": "khối thức ăn lớn"
+    },
+    {
+      "word": "集塊",
+      "reading": "しゅうかい",
+      "meaning": "tập trung"
     }
   ]
 }

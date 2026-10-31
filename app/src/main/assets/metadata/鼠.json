@@ -90,9 +90,14 @@
       "meaning": "con chuột"
     },
     {
-      "word": "栗鼠",
-      "reading": "りす",
-      "meaning": "sóc"
+      "word": "米鼠",
+      "reading": "こめねずみ",
+      "meaning": "chuột gạo"
+    },
+    {
+      "word": "山鼠",
+      "reading": "やまね",
+      "meaning": "chuột sóc nhật bản"
     },
     {
       "word": "旅鼠",
@@ -100,39 +105,34 @@
       "meaning": "lemming"
     },
     {
-      "word": "砂鼠",
-      "reading": "すなねずみ",
-      "meaning": "chuột nhảy mông cổ"
+      "word": "赤鼠",
+      "reading": "あかねずみ",
+      "meaning": "apodemus speciosus"
     },
     {
-      "word": "熊鼠",
-      "reading": "くまねずみ",
-      "meaning": "chuột đen"
+      "word": "川鼠",
+      "reading": "かわねずみ",
+      "meaning": "chuột chù nước miền nam"
     },
     {
-      "word": "溝鼠",
-      "reading": "どぶねずみ",
-      "meaning": "màu nâu chuột"
+      "word": "姫鼠",
+      "reading": "ひめねずみ",
+      "meaning": "apodemus argenteus"
     },
     {
-      "word": "黒鼠",
-      "reading": "くろねずみ",
-      "meaning": "chuột đen"
+      "word": "袋鼠",
+      "reading": "ふくろねずみ",
+      "meaning": "thú có túi ôpốt"
     },
     {
-      "word": "野鼠",
-      "reading": "のねずみ",
-      "meaning": "chuột dại"
+      "word": "茶鼠",
+      "reading": "ちゃねずみ",
+      "meaning": "xám lông chuột"
     },
     {
-      "word": "鼠鮫",
-      "reading": "ねずみざめ",
-      "meaning": "cá nhám hồi"
-    },
-    {
-      "word": "臭鼠",
-      "reading": "においねずみ",
-      "meaning": "chuột xạ hương"
+      "word": "鼠族",
+      "reading": "そぞく",
+      "meaning": "loài gặm nhấm"
     }
   ]
 }

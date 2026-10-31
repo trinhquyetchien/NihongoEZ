@@ -106,34 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "抗",
-      "reading": "こう",
-      "meaning": "anti-"
+      "word": "抵抗",
+      "reading": "ていこう",
+      "meaning": "sự đề kháng"
     },
     {
-      "word": "抗原抗体反応",
-      "reading": "こうげんこうたいはんのう",
-      "meaning": "phản ứng kháng nguyên - kháng thể"
+      "word": "反抗",
+      "reading": "はんこう",
+      "meaning": "sự phản kháng"
     },
     {
-      "word": "抗原抗体検査",
-      "reading": "こうげんこうたいけんしゃ",
-      "meaning": "xét nghiệm kháng nguyên kháng thể để xác định có nhiễm virus hiv không"
-    },
-    {
-      "word": "抗原抗体複合体",
-      "reading": "こうげんこうたいふくごうたい",
-      "meaning": "phức hợp kháng nguyên-kháng thể"
-    },
-    {
-      "word": "抗原",
-      "reading": "こうげん",
-      "meaning": "sinh kháng thể"
-    },
-    {
-      "word": "抗体",
-      "reading": "こうたい",
-      "meaning": "kháng thể"
+      "word": "対抗",
+      "reading": "たいこう",
+      "meaning": "sự đối kháng"
     },
     {
       "word": "抗議",
@@ -141,19 +126,34 @@
       "meaning": "sự kháng nghị"
     },
     {
-      "word": "抗独",
-      "reading": "こうどく",
-      "meaning": "sự chống lại nước đức"
+      "word": "抗争",
+      "reading": "こうそう",
+      "meaning": "cuộc kháng chiến"
     },
     {
-      "word": "抗弁",
-      "reading": "こうべん",
-      "meaning": "phản đối"
+      "word": "抵抗力",
+      "reading": "ていこうりょく",
+      "meaning": "lực kháng trở"
     },
     {
-      "word": "抗菌",
-      "reading": "こうきん",
-      "meaning": "sự kháng khuẩn"
+      "word": "抵抗率",
+      "reading": "ていこうりつ",
+      "meaning": "điện trở suất"
+    },
+    {
+      "word": "抵抗線",
+      "reading": "ていこうせん",
+      "meaning": "đường kháng cự"
+    },
+    {
+      "word": "対抗馬",
+      "reading": "たいこうば",
+      "meaning": "một con ngựa địch thủ"
+    },
+    {
+      "word": "抗",
+      "reading": "こう",
+      "meaning": "anti-"
     }
   ]
 }

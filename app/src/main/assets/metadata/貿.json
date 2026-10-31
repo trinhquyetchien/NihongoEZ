@@ -105,29 +105,14 @@
       "meaning": "giao dịch"
     },
     {
-      "word": "貿易省",
-      "reading": "ぼうえきしょう",
-      "meaning": "bộ ngoại thương"
+      "word": "貿易上",
+      "reading": "ぼうえきじょう",
+      "meaning": "thương mại"
     },
     {
-      "word": "貿易商",
-      "reading": "ぼうえきしょう",
-      "meaning": "nhà buôn"
-    },
-    {
-      "word": "貿易量",
-      "reading": "ぼうえきりょう",
-      "meaning": "khối lượng thương mại"
-    },
-    {
-      "word": "貿易船",
-      "reading": "ぼうえきせん",
-      "meaning": "tàu thương mại"
-    },
-    {
-      "word": "貿易港",
-      "reading": "ぼうえきこう",
-      "meaning": "bến cảng thương mại"
+      "word": "貿易会",
+      "reading": "ぼうえきかい",
+      "meaning": "hội mậu dịch"
     },
     {
       "word": "貿易法",
@@ -135,19 +120,34 @@
       "meaning": "pháp luật thương mại"
     },
     {
+      "word": "貿易風",
+      "reading": "ぼうえきふう",
+      "meaning": "gió mậu dịch"
+    },
+    {
+      "word": "貿易量",
+      "reading": "ぼうえきりょう",
+      "meaning": "khối lượng thương mại"
+    },
+    {
       "word": "貿易品",
       "reading": "ぼうえきひん",
       "meaning": "hàng xuất nhập khẩu"
     },
     {
-      "word": "スイッチ貿易",
-      "reading": "スイッチぼうえき",
-      "meaning": "sự chuyển đổi buôn bán"
+      "word": "貿易船",
+      "reading": "ぼうえきせん",
+      "meaning": "tàu thương mại"
     },
     {
-      "word": "片貿易",
-      "reading": "かたぼうえき",
-      "meaning": "mậu dịch một phía"
+      "word": "貿易界",
+      "reading": "ぼうえきかい",
+      "meaning": "giới thương mại"
+    },
+    {
+      "word": "貿易業",
+      "reading": "ぼうえきぎょう",
+      "meaning": "ngành ngoại thương"
     }
   ]
 }

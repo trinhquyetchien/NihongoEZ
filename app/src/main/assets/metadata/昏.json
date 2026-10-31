@@ -84,29 +84,24 @@
   ],
   "vocabulary": [
     {
-      "word": "昏昏",
-      "reading": "こんこん",
-      "meaning": "trạng thái tối và không thể phân biệt được đồ vật"
+      "word": "黄昏",
+      "reading": "たそがれ",
+      "meaning": "hoàng hôn"
     },
     {
-      "word": "昏昏と眠っている",
-      "reading": "こんこんとねむっている",
-      "meaning": "ngủ như chết"
+      "word": "黄昏時",
+      "reading": "たそがれどき",
+      "meaning": "hoàng hôn"
+    },
+    {
+      "word": "黄昏鳥",
+      "reading": "たそがれどり",
+      "meaning": "chim cu cu nhỏ"
     },
     {
       "word": "昏睡",
       "reading": "こんすい",
       "meaning": "sự hôn mê"
-    },
-    {
-      "word": "昏迷",
-      "reading": "こんめい",
-      "meaning": "sự ngỡ ngàng"
-    },
-    {
-      "word": "昏冥",
-      "reading": "こんめい",
-      "meaning": "mờ mịt"
     },
     {
       "word": "昏い",
@@ -119,19 +114,24 @@
       "meaning": "sự ngất đi"
     },
     {
-      "word": "黄昏",
-      "reading": "たそがれ",
-      "meaning": "hoàng hôn"
+      "word": "昏迷",
+      "reading": "こんめい",
+      "meaning": "sự ngỡ ngàng"
     },
     {
-      "word": "黄昏鳥",
-      "reading": "たそがれどり",
-      "meaning": "chim cu cu nhỏ"
+      "word": "昏昏",
+      "reading": "こんこん",
+      "meaning": "trạng thái tối và không thể phân biệt được đồ vật"
     },
     {
-      "word": "黄昏時",
-      "reading": "たそがれどき",
-      "meaning": "hoàng hôn"
+      "word": "昏冥",
+      "reading": "こんめい",
+      "meaning": "mờ mịt"
+    },
+    {
+      "word": "昏睡状態",
+      "reading": "こんすいじょうたい",
+      "meaning": "trạng thái hôn mê"
     }
   ]
 }

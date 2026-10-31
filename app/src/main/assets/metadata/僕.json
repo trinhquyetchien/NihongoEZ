@@ -94,24 +94,19 @@
       "meaning": "tôi"
     },
     {
-      "word": "公僕",
-      "reading": "こうぼく",
-      "meaning": "người hầu công cộng"
+      "word": "僕たち",
+      "reading": "ぼくたち",
+      "meaning": "chúng tôi"
     },
     {
-      "word": "奴僕",
-      "reading": "ぬぼく",
-      "meaning": "người hầu"
+      "word": "僕女",
+      "reading": "ぼくおんな",
+      "meaning": "người phụ nữ sử dụng đại từ nhân xưng \"boku\" để tự xưng"
     },
     {
-      "word": "家僕",
-      "reading": "かぼく",
-      "meaning": "đầy tớ nam"
-    },
-    {
-      "word": "僕婢",
-      "reading": "ぼくひ",
-      "meaning": "những người hầu nữ và giống đực"
+      "word": "僕ん所",
+      "reading": "ぼくんとこ",
+      "meaning": "ở chỗ tôi"
     },
     {
       "word": "僕等",
@@ -119,24 +114,29 @@
       "meaning": "chúng ta"
     },
     {
-      "word": "従僕",
-      "reading": "じゅうぼく",
-      "meaning": "người hầu nam"
+      "word": "僕仲間",
+      "reading": "ぼくなかま",
+      "meaning": "người hầu thành viên"
     },
     {
-      "word": "老僕",
-      "reading": "ろうぼく",
-      "meaning": "lão bộc"
+      "word": "僕ら",
+      "reading": "ぼくら",
+      "meaning": "chúng tôi"
     },
     {
-      "word": "校僕",
+      "word": "僕達",
+      "reading": "ぼくたち",
+      "meaning": "chúng tôi"
+    },
+    {
+      "word": "下僕",
+      "reading": "げぼく",
+      "meaning": "người hầu"
+    },
+    {
+      "word": "公僕",
       "reading": "こうぼく",
-      "meaning": "sinh viên học và làm việc tại trường học"
-    },
-    {
-      "word": "忠僕",
-      "reading": "ちゅうぼく",
-      "meaning": "người hầu trung thành"
+      "meaning": "người hầu công cộng"
     }
   ]
 }

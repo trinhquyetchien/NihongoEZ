@@ -91,44 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "異",
-      "reading": "こと",
-      "meaning": "khác biệt"
+      "word": "異常",
+      "reading": "いじょう",
+      "meaning": "không bình thường"
     },
     {
-      "word": "異類異形",
-      "reading": "いるいいぎょう",
-      "meaning": "dị dạng"
-    },
-    {
-      "word": "異食",
-      "reading": "いしょく",
-      "meaning": "chứng ăn bậy"
-    },
-    {
-      "word": "異星",
+      "word": "異性",
       "reading": "いせい",
-      "meaning": "hành tinh khác"
-    },
-    {
-      "word": "差異",
-      "reading": "さい",
-      "meaning": "cách độ"
-    },
-    {
-      "word": "異様",
-      "reading": "いよう",
-      "meaning": "kỳ quái"
-    },
-    {
-      "word": "異色",
-      "reading": "いしょく",
-      "meaning": "sự khác màu"
-    },
-    {
-      "word": "異例",
-      "reading": "いれい",
-      "meaning": "ngoại lệ"
+      "meaning": "giới tính khác"
     },
     {
       "word": "驚異",
@@ -136,9 +106,39 @@
       "meaning": "điều kỳ diệu"
     },
     {
-      "word": "異性",
-      "reading": "いせい",
-      "meaning": "giới tính khác"
+      "word": "差異",
+      "reading": "さい",
+      "meaning": "cách độ"
+    },
+    {
+      "word": "異動",
+      "reading": "いどう",
+      "meaning": "sự thay đổi"
+    },
+    {
+      "word": "異論",
+      "reading": "いろん",
+      "meaning": "ý kiến và thảo luận khác với những ý kiến khác"
+    },
+    {
+      "word": "異見",
+      "reading": "いけん",
+      "meaning": "ý kiến hay suy nghĩ khác"
+    },
+    {
+      "word": "異",
+      "reading": "こと",
+      "meaning": "khác biệt"
+    },
+    {
+      "word": "異な",
+      "reading": "いな",
+      "meaning": "lạ"
+    },
+    {
+      "word": "異方",
+      "reading": "いほう",
+      "meaning": "anisotropic"
     }
   ]
 }

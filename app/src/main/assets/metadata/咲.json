@@ -88,39 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "一分咲き",
-      "reading": "いちぶざき",
-      "meaning": "nở được khoảng 10%. tương đương với nó 十 分咲き là nở 100%"
-    },
-    {
       "word": "咲く",
       "reading": "さく",
       "meaning": "nở"
-    },
-    {
-      "word": "花咲蟹",
-      "reading": "はなさきがに",
-      "meaning": "cua hanasaki"
-    },
-    {
-      "word": "遅咲き",
-      "reading": "おそざき",
-      "meaning": "sự nở muộn"
-    },
-    {
-      "word": "室咲き",
-      "reading": "むろざき",
-      "meaning": "sự trồng trọt hoa trong nhà kính"
-    },
-    {
-      "word": "返咲き",
-      "reading": "かえりざき",
-      "meaning": "sự quay trở lại"
-    },
-    {
-      "word": "早咲き",
-      "reading": "はやざき",
-      "meaning": "sự nở hoa sớm"
     },
     {
       "word": "花咲く",
@@ -133,9 +103,39 @@
       "meaning": "thi đỗ"
     },
     {
-      "word": "咲き出す",
-      "reading": "さきだす",
-      "meaning": "bắt đầu nở"
+      "word": "花咲蟹",
+      "reading": "はなさきがに",
+      "meaning": "cua hanasaki"
+    },
+    {
+      "word": "遅咲き",
+      "reading": "おそざき",
+      "meaning": "sự nở muộn"
+    },
+    {
+      "word": "早咲き",
+      "reading": "はやざき",
+      "meaning": "sự nở hoa sớm"
+    },
+    {
+      "word": "室咲き",
+      "reading": "むろざき",
+      "meaning": "sự trồng trọt hoa trong nhà kính"
+    },
+    {
+      "word": "返咲き",
+      "reading": "かえりざき",
+      "meaning": "sự quay trở lại"
+    },
+    {
+      "word": "花が咲く",
+      "reading": "はながさく",
+      "meaning": "hoa nở"
+    },
+    {
+      "word": "穂咲下野",
+      "reading": "ほざきしもつけ",
+      "meaning": "spiraea salicifolia"
     }
   ]
 }

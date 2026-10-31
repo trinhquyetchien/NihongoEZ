@@ -92,29 +92,29 @@
       "meaning": "nhà sư"
     },
     {
-      "word": "僧と尼僧",
-      "reading": "そうとにそう",
-      "meaning": "tăng ni"
-    },
-    {
       "word": "小僧",
       "reading": "こぞう",
       "meaning": "người học nghề"
     },
     {
-      "word": "薦僧",
-      "reading": "こもそう",
-      "meaning": "komusō"
+      "word": "代僧",
+      "reading": "だいそう",
+      "meaning": "thầy tu thay thế"
     },
     {
-      "word": "師僧",
-      "reading": "しそう",
-      "meaning": "sư tăng"
+      "word": "下僧",
+      "reading": "げそう",
+      "meaning": "thầy tu thấp"
     },
     {
-      "word": "僧供",
-      "reading": "そうぐ",
-      "meaning": "đồ cúng dường"
+      "word": "僧号",
+      "reading": "そうごう",
+      "meaning": "thầy tu có tên tôn giáo"
+    },
+    {
+      "word": "軍僧",
+      "reading": "ぐんそう",
+      "meaning": "linh mục hay sư thầy phụ trách giảng dạy đạo đức và tôn giáo trong quân đội"
     },
     {
       "word": "画僧",
@@ -127,14 +127,14 @@
       "meaning": "bản tăng"
     },
     {
-      "word": "拙僧",
-      "reading": "せっそう",
-      "meaning": "nhà sư vụng về"
+      "word": "僧寺",
+      "reading": "そうじ",
+      "meaning": "thầy tu tín đồ phật giáo"
     },
     {
-      "word": "僧正",
-      "reading": "そうじょう",
-      "meaning": "sư trụ trì"
+      "word": "仏僧",
+      "reading": "ぶっそう",
+      "meaning": "nhà sư"
     }
   ]
 }

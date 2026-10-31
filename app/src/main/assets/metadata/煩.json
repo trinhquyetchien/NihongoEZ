@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "煩",
-      "reading": "はん",
-      "meaning": "sự rắc rối"
-    },
-    {
-      "word": "煩う",
-      "reading": "わずらう",
-      "meaning": "khó.."
-    },
-    {
-      "word": "煩悶",
-      "reading": "はんもん",
-      "meaning": "đau đớn"
-    },
-    {
-      "word": "煩累",
-      "reading": "はんるい",
-      "meaning": "sự quấy rầy"
-    },
-    {
-      "word": "煩労",
-      "reading": "はんろう",
-      "meaning": "sự lo lắng"
-    },
-    {
-      "word": "煩瑣",
-      "reading": "はんさ",
-      "meaning": "phiền nhiễu"
-    },
-    {
-      "word": "煩多",
-      "reading": "はんた",
-      "meaning": "nhiều rắc rối"
-    },
-    {
-      "word": "煩型",
-      "reading": "うるさがた",
-      "meaning": "sự khó tính"
-    },
-    {
-      "word": "煩忙",
-      "reading": "はんぼう",
-      "meaning": "bận rộn"
+      "word": "煩わしい",
+      "reading": "わずらわしい",
+      "meaning": "phiền muộn"
     },
     {
       "word": "煩悩",
       "reading": "ぼんのう",
       "meaning": "sự thèm muốn một cách trần tục"
+    },
+    {
+      "word": "煩悩魔",
+      "reading": "ぼんのうま",
+      "meaning": "con quỷ của những ham muốn xấu xa làm tổn thương cơ thể và tâm trí của một người"
+    },
+    {
+      "word": "煩い",
+      "reading": "うるさい",
+      "meaning": "chán ghét"
+    },
+    {
+      "word": "気煩い",
+      "reading": "きわずらい",
+      "meaning": "suy nhược thần kinh"
+    },
+    {
+      "word": "煩雑",
+      "reading": "はんざつ",
+      "meaning": "gây bực mình"
+    },
+    {
+      "word": "煩雑な",
+      "reading": "はんざつな",
+      "meaning": "rộn rã"
+    },
+    {
+      "word": "煩悩鷺",
+      "reading": "ぼんのうさぎ",
+      "meaning": "yellow bittern"
+    },
+    {
+      "word": "煩",
+      "reading": "はん",
+      "meaning": "sự rắc rối"
+    },
+    {
+      "word": "煩型",
+      "reading": "うるさがた",
+      "meaning": "sự khó tính"
     }
   ]
 }

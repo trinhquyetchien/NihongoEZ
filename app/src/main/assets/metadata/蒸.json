@@ -92,29 +92,19 @@
   ],
   "vocabulary": [
     {
-      "word": "蒸し蒸し",
-      "reading": "むしむし",
-      "meaning": "ẩm ướt và nóng"
-    },
-    {
       "word": "蒸気",
       "reading": "じょうき",
       "meaning": "hơi nước"
     },
     {
-      "word": "蒸し",
-      "reading": "むし",
-      "meaning": "sự hấp"
+      "word": "蒸発",
+      "reading": "じょうはつ",
+      "meaning": "sự biến mất"
     },
     {
-      "word": "蒸民",
-      "reading": "じょうみん",
-      "meaning": "dân chúng"
-    },
-    {
-      "word": "蒸散",
-      "reading": "じょうさん",
-      "meaning": "sự làm bay hơi"
+      "word": "水蒸気",
+      "reading": "すいじょうき",
+      "meaning": "hơi nước"
     },
     {
       "word": "蒸す",
@@ -122,24 +112,34 @@
       "meaning": "chưng cách thủy"
     },
     {
-      "word": "蒸溜",
+      "word": "蒸留",
       "reading": "じょうりゅう",
       "meaning": "sự cất"
     },
     {
-      "word": "蒸着",
-      "reading": "じょうちゃく",
-      "meaning": "làm bay hơi một vật liệu kim loại hoặc phi kim loại trong chân không cao bằng cách nung nóng"
-    },
-    {
-      "word": "蒸器",
-      "reading": "むしき",
+      "word": "蒸気船",
+      "reading": "じょうきせん",
       "meaning": "tàu chạy bằng hơi nước"
     },
     {
-      "word": "蒸籠",
-      "reading": "せいろ",
-      "meaning": "xửng hấp bánh bao"
+      "word": "蒸し",
+      "reading": "むし",
+      "meaning": "sự hấp"
+    },
+    {
+      "word": "酒蒸し",
+      "reading": "さかむし",
+      "meaning": "sự hấp bằng rượu"
+    },
+    {
+      "word": "白蒸し",
+      "reading": "しらむし",
+      "meaning": "cơm nếp"
+    },
+    {
+      "word": "空蒸し",
+      "reading": "からむし",
+      "meaning": "hâm nóng"
     }
   ]
 }

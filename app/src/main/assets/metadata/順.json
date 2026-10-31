@@ -92,34 +92,14 @@
       "meaning": "trật tự"
     },
     {
-      "word": "順順",
-      "reading": "じゅんじゅん",
-      "meaning": "trong thứ tự"
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "thứ tự"
     },
     {
-      "word": "順順に",
-      "reading": "じゅんじゅんに",
-      "meaning": "theo thứ tự"
-    },
-    {
-      "word": "順位",
-      "reading": "じゅんい",
-      "meaning": "vị trí thứ tự"
-    },
-    {
-      "word": "順応",
-      "reading": "じゅんのう",
-      "meaning": "thông cảm"
-    },
-    {
-      "word": "順々",
-      "reading": "じゅんじゅん",
-      "meaning": "trong thứ tự"
-    },
-    {
-      "word": "順守",
-      "reading": "じゅんしゅ",
-      "meaning": "tuân theo"
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "sự thuận lợi"
     },
     {
       "word": "順序",
@@ -127,14 +107,34 @@
       "meaning": "sự theo thứ tự"
     },
     {
-      "word": "順に",
-      "reading": "じゅんに",
+      "word": "道順",
+      "reading": "みちじゅん",
+      "meaning": "đường dẫn đến"
+    },
+    {
+      "word": "順々",
+      "reading": "じゅんじゅん",
       "meaning": "trong thứ tự"
     },
     {
-      "word": "順調",
-      "reading": "じゅんちょう",
-      "meaning": "sự thuận lợi"
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "thứ tự"
+    },
+    {
+      "word": "不順",
+      "reading": "ふじゅん",
+      "meaning": "không thuận"
+    },
+    {
+      "word": "曲順",
+      "reading": "きょくじゅん",
+      "meaning": "thứ tự bài hát"
+    },
+    {
+      "word": "着順",
+      "reading": "ちゃくじゅん",
+      "meaning": "thứ tự đến"
     }
   ]
 }

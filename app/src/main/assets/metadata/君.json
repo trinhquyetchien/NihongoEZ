@@ -117,9 +117,34 @@
       "meaning": "các bạn"
     },
     {
-      "word": "細君",
-      "reading": "さいくん",
-      "meaning": "vợ"
+      "word": "君主",
+      "reading": "くんしゅ",
+      "meaning": "quân chủ"
+    },
+    {
+      "word": "二君",
+      "reading": "にくん",
+      "meaning": "hai người chủ"
+    },
+    {
+      "word": "君ら",
+      "reading": "きみら",
+      "meaning": "các cậu"
+    },
+    {
+      "word": "女君",
+      "reading": "めぎみ",
+      "meaning": "tiểu thư"
+    },
+    {
+      "word": "母君",
+      "reading": "ははぎみ",
+      "meaning": "mẹ"
+    },
+    {
+      "word": "美君",
+      "reading": "びくん",
+      "meaning": "phụ nữ đẹp"
     },
     {
       "word": "弟君",
@@ -127,34 +152,9 @@
       "meaning": "em trai"
     },
     {
-      "word": "ミツグ君",
-      "reading": "ミツグくん",
-      "meaning": "chàng trai hay chu cấp tiền bạc"
-    },
-    {
-      "word": "アッシー君",
-      "reading": "アッシーくん",
-      "meaning": "người đàn ông bị phụ nữ lợi dụng để chở đi chở về miễn phí"
-    },
-    {
-      "word": "君臣",
-      "reading": "くんしん",
-      "meaning": "chủ tớ"
-    },
-    {
       "word": "姉君",
       "reading": "あねぎみ",
       "meaning": "chị gái"
-    },
-    {
-      "word": "メッシー君",
-      "reading": "メッシーくん",
-      "meaning": "người đàn ông bị phụ nữ lợi dụng để trả tiền ăn uống"
-    },
-    {
-      "word": "檀君",
-      "reading": "だんくん",
-      "meaning": "thần thoại chìm korea"
     }
   ]
 }

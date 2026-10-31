@@ -84,6 +84,31 @@
   ],
   "vocabulary": [
     {
+      "word": "怠惰",
+      "reading": "たいだ",
+      "meaning": "lười biếng"
+    },
+    {
+      "word": "怠惰な",
+      "reading": "たいだな",
+      "meaning": "biếng"
+    },
+    {
+      "word": "惰性",
+      "reading": "だせい",
+      "meaning": "quán tính"
+    },
+    {
+      "word": "惰眠",
+      "reading": "だみん",
+      "meaning": "sự lười biếng"
+    },
+    {
+      "word": "惰弱",
+      "reading": "だじゃく",
+      "meaning": "không dám làm"
+    },
+    {
       "word": "勤惰",
       "reading": "きんだ",
       "meaning": "sự cần mẫn và sự lười biếng"
@@ -91,11 +116,6 @@
     {
       "word": "懶惰",
       "reading": "らんだ",
-      "meaning": "sự lười biếng"
-    },
-    {
-      "word": "惰眠",
-      "reading": "だみん",
       "meaning": "sự lười biếng"
     },
     {
@@ -112,26 +132,6 @@
       "word": "遊惰",
       "reading": "ゆうだ",
       "meaning": "sự lười biếng"
-    },
-    {
-      "word": "惰弱",
-      "reading": "だじゃく",
-      "meaning": "không dám làm"
-    },
-    {
-      "word": "怠惰",
-      "reading": "たいだ",
-      "meaning": "lười biếng"
-    },
-    {
-      "word": "惰性",
-      "reading": "だせい",
-      "meaning": "quán tính"
-    },
-    {
-      "word": "怠惰な",
-      "reading": "たいだな",
-      "meaning": "biếng"
     }
   ]
 }

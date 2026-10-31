@@ -49,9 +49,9 @@
   ],
   "vocabulary": [
     {
-      "word": "坦坦",
-      "reading": "たんたん",
-      "meaning": "bình lặng"
+      "word": "平坦",
+      "reading": "へいたん",
+      "meaning": "bằng phẳng"
     },
     {
       "word": "坦懐",
@@ -59,9 +59,14 @@
       "meaning": "tính ngay thật"
     },
     {
-      "word": "平坦",
-      "reading": "へいたん",
-      "meaning": "bằng phẳng"
+      "word": "坦坦",
+      "reading": "たんたん",
+      "meaning": "bình lặng"
+    },
+    {
+      "word": "平坦にする",
+      "reading": "へいたんにする",
+      "meaning": "bạt"
     },
     {
       "word": "リスク負坦",
@@ -74,19 +79,14 @@
       "meaning": "vô tư"
     },
     {
-      "word": "平坦型ストーマ",
-      "reading": "へいたんがたストーマ",
-      "meaning": "stoma ngang bề mặt da"
-    },
-    {
       "word": "亜富汗斯坦",
       "reading": "アフガニスタン",
       "meaning": "nước afghanistan"
     },
     {
-      "word": "平坦にする",
-      "reading": "へいたんにする",
-      "meaning": "bạt"
+      "word": "平坦型ストーマ",
+      "reading": "へいたんがたストーマ",
+      "meaning": "stoma ngang bề mặt da"
     }
   ]
 }

@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "貸借",
-      "reading": "たいしゃく",
-      "meaning": "cho vay và đi vay"
+      "word": "貸す",
+      "reading": "かす",
+      "meaning": "bán đợ"
     },
     {
-      "word": "貸室",
+      "word": "貸家",
+      "reading": "かしや",
+      "meaning": "nhà cho thuê"
+    },
+    {
+      "word": "貸間",
+      "reading": "かしま",
+      "meaning": "phòng cho thuê"
+    },
+    {
+      "word": "貸し",
+      "reading": "かし",
+      "meaning": "sự cho vay"
+    },
+    {
+      "word": "貸し家",
+      "reading": "かしや",
+      "meaning": "cái nhà cho sự thuê"
+    },
+    {
+      "word": "貸し室",
       "reading": "かししつ",
       "meaning": "phòng cho thuê"
     },
     {
-      "word": "貸株",
-      "reading": "かしかぶ",
-      "meaning": "cổ phiếu cho vay"
+      "word": "貸し席",
+      "reading": "かしせき",
+      "meaning": "phòng cho thuê"
     },
     {
-      "word": "貸倒",
-      "reading": "かしだおれ",
-      "meaning": "khoản cho vay không thu hồi được"
+      "word": "賃貸",
+      "reading": "ちんたい",
+      "meaning": "sự cho thuê"
     },
     {
-      "word": "貸方",
-      "reading": "かしかた",
-      "meaning": "người chủ nợ"
+      "word": "賃貸人",
+      "reading": "ちんたいにん",
+      "meaning": "chủ cho thuê"
     },
     {
-      "word": "借貸",
-      "reading": "しゃくたい",
-      "meaning": "cho vay"
-    },
-    {
-      "word": "貸賃",
-      "reading": "かしちん",
-      "meaning": "tiền thuê"
-    },
-    {
-      "word": "貸主",
-      "reading": "かしぬし",
-      "meaning": "chủ nợ"
-    },
-    {
-      "word": "貸越",
-      "reading": "かしこし",
-      "meaning": "sự rút quá số tiền gửi"
-    },
-    {
-      "word": "貸費",
-      "reading": "たいひ",
-      "meaning": "tiền vay"
+      "word": "賃貸料",
+      "reading": "ちんたいりょう",
+      "meaning": "thuê"
     }
   ]
 }

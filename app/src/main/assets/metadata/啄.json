@@ -54,9 +54,9 @@
   ],
   "vocabulary": [
     {
-      "word": "啄む",
-      "reading": "ついばむ",
-      "meaning": "mổ"
+      "word": "啄木",
+      "reading": "たくぼく",
+      "meaning": "chim gõ kiến"
     },
     {
       "word": "木啄",
@@ -64,19 +64,29 @@
       "meaning": "chim thuộc họ gõ kiến"
     },
     {
-      "word": "啄木",
-      "reading": "たくぼく",
-      "meaning": "chim gõ kiến"
-    },
-    {
       "word": "啄木鳥",
       "reading": "きつつき",
       "meaning": "chim gõ kiến"
     },
     {
+      "word": "啄む",
+      "reading": "ついばむ",
+      "meaning": "mổ"
+    },
+    {
       "word": "烏啄骨",
       "reading": "うたくこつ",
       "meaning": "xương mõm quạ"
+    },
+    {
+      "word": "緑啄木鳥",
+      "reading": "あおげら",
+      "meaning": "chim gõ kiến nhật"
+    },
+    {
+      "word": "野口啄木鳥",
+      "reading": "のぐちげら",
+      "meaning": "gõ kiến okinawa"
     },
     {
       "word": "熊啄木鳥",
@@ -92,16 +102,6 @@
       "word": "赤啄木鳥",
       "reading": "あかげら",
       "meaning": "chim gõ kiến"
-    },
-    {
-      "word": "緑啄木鳥",
-      "reading": "あおげら",
-      "meaning": "chim gõ kiến nhật"
-    },
-    {
-      "word": "汁吸啄木鳥",
-      "reading": "しるすいきつつき",
-      "meaning": "sphyrapicus varius"
     }
   ]
 }

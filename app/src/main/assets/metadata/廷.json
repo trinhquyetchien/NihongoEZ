@@ -87,9 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "出廷",
-      "reading": "しゅってい",
-      "meaning": "sự ra hầu toà"
+      "word": "法廷",
+      "reading": "ほうてい",
+      "meaning": "tòa án"
+    },
+    {
+      "word": "大法廷",
+      "reading": "だいほうてい",
+      "meaning": "toà án tối cao"
+    },
+    {
+      "word": "小法廷",
+      "reading": "しょうほうてい",
+      "meaning": "ghế dài nhỏ nhặt"
+    },
+    {
+      "word": "法廷画",
+      "reading": "ほうていが",
+      "meaning": "phác thảo phòng xử án"
     },
     {
       "word": "宮廷",
@@ -97,44 +112,29 @@
       "meaning": "đài các"
     },
     {
-      "word": "廷臣",
-      "reading": "ていしん",
-      "meaning": "quan cận thần"
-    },
-    {
       "word": "朝廷",
       "reading": "ちょうてい",
       "meaning": "triều đình"
     },
     {
-      "word": "内廷",
-      "reading": "ないてい",
-      "meaning": "khuê phòng"
+      "word": "出廷",
+      "reading": "しゅってい",
+      "meaning": "sự ra hầu toà"
     },
     {
-      "word": "入廷",
-      "reading": "にゅうてい",
-      "meaning": "sự vào phòng xử án"
+      "word": "出廷日",
+      "reading": "しゅっていび",
+      "meaning": "ngày sân"
     },
     {
-      "word": "休廷",
-      "reading": "きゅうてい",
-      "meaning": "phiên toà bị hoãn"
+      "word": "開廷",
+      "reading": "かいてい",
+      "meaning": "việc mở phiên toà"
     },
     {
-      "word": "廷丁",
-      "reading": "ていてい",
-      "meaning": "người phục vụ sân"
-    },
-    {
-      "word": "退廷",
-      "reading": "たいてい",
-      "meaning": "rời khỏi tòa án"
-    },
-    {
-      "word": "廷内",
-      "reading": "ていない",
-      "meaning": "bên trong tòa án"
+      "word": "閉廷",
+      "reading": "へいてい",
+      "meaning": "sự đóng cửa pháp đình"
     }
   ]
 }

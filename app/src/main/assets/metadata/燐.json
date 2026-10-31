@@ -52,14 +52,14 @@
       "meaning": "lân tinh"
     },
     {
-      "word": "黄燐",
-      "reading": "おうりん",
-      "meaning": "photpho vàng"
+      "word": "白燐",
+      "reading": "はくりん",
+      "meaning": "phốt pho trắng"
     },
     {
-      "word": "燐酸",
-      "reading": "りんさん",
-      "meaning": "lân tinh"
+      "word": "白燐弾",
+      "reading": "はくりんだん",
+      "meaning": "vũ khí phốt pho trắng"
     },
     {
       "word": "燐寸",
@@ -67,19 +67,24 @@
       "meaning": "hợp... vừa khớp với cái gì đó"
     },
     {
-      "word": "燐鉱",
-      "reading": "りんこう",
-      "meaning": "quặng chứa photpho"
-    },
-    {
       "word": "燐光",
       "reading": "りんこう",
       "meaning": "hiện tượng lân quang"
     },
     {
-      "word": "赤燐",
-      "reading": "せきりん",
-      "meaning": "phốt pho đỏ"
+      "word": "燐酸",
+      "reading": "りんさん",
+      "meaning": "lân tinh"
+    },
+    {
+      "word": "過燐酸",
+      "reading": "かりんさん",
+      "meaning": "superphosphate ₂)"
+    },
+    {
+      "word": "亜燐酸",
+      "reading": "ありんさん",
+      "meaning": "a-xít chứa chất lân tinh"
     },
     {
       "word": "燐火",
@@ -87,14 +92,9 @@
       "meaning": "ma trơi"
     },
     {
-      "word": "白燐",
-      "reading": "はくりん",
-      "meaning": "phốt pho trắng"
-    },
-    {
-      "word": "リン=燐",
-      "reading": "リン=りん",
-      "meaning": "phốt pho"
+      "word": "黄燐",
+      "reading": "おうりん",
+      "meaning": "photpho vàng"
     }
   ]
 }

@@ -69,29 +69,9 @@
   ],
   "vocabulary": [
     {
-      "word": "杓",
-      "reading": "ひしゃく",
-      "meaning": "cái môi"
-    },
-    {
-      "word": "杓鴫",
-      "reading": "しゃくしぎ",
-      "meaning": "chim choi choi mỏ cong"
-    },
-    {
-      "word": "茶杓",
-      "reading": "ちゃしゃく",
-      "meaning": "chè tre vuốt ve hôn hít để làm cho tiếng nhật là chè"
-    },
-    {
       "word": "杓子",
       "reading": "しゃくし",
       "meaning": "cây tre múc"
-    },
-    {
-      "word": "柄杓",
-      "reading": "ひしゃく",
-      "meaning": "muôi"
     },
     {
       "word": "飯杓子",
@@ -99,14 +79,34 @@
       "meaning": "thìa xới cơm"
     },
     {
-      "word": "大杓鷸",
-      "reading": "だいしゃくしぎ",
-      "meaning": "eurasian curlew"
+      "word": "網杓子",
+      "reading": "あみじゃくし",
+      "meaning": "cái vá lưới"
     },
     {
-      "word": "中杓鷸",
-      "reading": "ちゅうしゃくしぎ",
-      "meaning": "loài sếu whimbrel"
+      "word": "穴杓子",
+      "reading": "あなじゃくし",
+      "meaning": "đục lỗ cái gáo"
+    },
+    {
+      "word": "金杓子",
+      "reading": "かなじゃくし",
+      "meaning": "cái muỗng kim loại"
+    },
+    {
+      "word": "木杓子",
+      "reading": "しゃもじ",
+      "meaning": "vá muỗng gỗ sử dụng múc cơm"
+    },
+    {
+      "word": "柄杓",
+      "reading": "ひしゃく",
+      "meaning": "muôi"
+    },
+    {
+      "word": "杓",
+      "reading": "ひしゃく",
+      "meaning": "cái môi"
     },
     {
       "word": "杓れる",
@@ -114,9 +114,9 @@
       "meaning": "móm"
     },
     {
-      "word": "網杓子",
-      "reading": "あみじゃくし",
-      "meaning": "cái vá lưới"
+      "word": "茶杓",
+      "reading": "ちゃしゃく",
+      "meaning": "chè tre vuốt ve hôn hít để làm cho tiếng nhật là chè"
     }
   ]
 }

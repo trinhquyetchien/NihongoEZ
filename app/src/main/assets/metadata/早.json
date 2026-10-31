@@ -95,24 +95,19 @@
   ],
   "vocabulary": [
     {
-      "word": "早",
-      "reading": "はや",
-      "meaning": "đã"
-    },
-    {
-      "word": "早早",
-      "reading": "そうそう",
+      "word": "早い",
+      "reading": "はやい",
       "meaning": "sớm"
     },
     {
-      "word": "早早と",
-      "reading": "そうそうと",
-      "meaning": "sớm"
+      "word": "早速",
+      "reading": "さっそく",
+      "meaning": "ngay lập tức"
     },
     {
-      "word": "早寝早起き",
-      "reading": "はやねはやおき",
-      "meaning": "ngủ sớm dậy sớm"
+      "word": "早口",
+      "reading": "はやくち",
+      "meaning": "sự nhanh mồm"
     },
     {
       "word": "早急",
@@ -120,29 +115,34 @@
       "meaning": "sự khẩn cấp"
     },
     {
-      "word": "早大",
-      "reading": "そうだい",
-      "meaning": "trường đại học waseda"
+      "word": "早く",
+      "reading": "はやく",
+      "meaning": "sớm"
     },
     {
-      "word": "早産",
-      "reading": "そうざん",
-      "meaning": "sự đẻ non"
-    },
-    {
-      "word": "早飯",
-      "reading": "はやめし",
-      "meaning": "người ăn nhanh"
-    },
-    {
-      "word": "早婚",
-      "reading": "そうこん",
-      "meaning": "tảo hôn"
-    },
-    {
-      "word": "最早",
-      "reading": "もはや",
+      "word": "早",
+      "reading": "はや",
       "meaning": "đã"
+    },
+    {
+      "word": "早よ",
+      "reading": "はよ",
+      "meaning": "sớm"
+    },
+    {
+      "word": "早め",
+      "reading": "はやめ",
+      "meaning": "sớm"
+    },
+    {
+      "word": "早割",
+      "reading": "はやわり",
+      "meaning": "giảm giá cho khách đặt trước"
+    },
+    {
+      "word": "早技",
+      "reading": "はやわざ",
+      "meaning": "chiến công"
     }
   ]
 }

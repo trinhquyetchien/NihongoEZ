@@ -89,34 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "父",
-      "reading": "ちち",
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "ông"
+    },
+    {
+      "word": "父親",
+      "reading": "ちちおや",
       "meaning": "bố"
     },
     {
-      "word": "父の叔父",
-      "reading": "ちちのおじ",
-      "meaning": "cha chú"
+      "word": "父母",
+      "reading": "ふぼ",
+      "meaning": "bố mẹ"
     },
     {
-      "word": "父称",
-      "reading": "ふしょう",
-      "meaning": "tên đệm"
-    },
-    {
-      "word": "寮父",
-      "reading": "りょうふ",
-      "meaning": "người quản lý ký túc xá"
-    },
-    {
-      "word": "父馬",
-      "reading": "ちちうま",
-      "meaning": "ngựa đực giống"
-    },
-    {
-      "word": "小父",
-      "reading": "おじ",
-      "meaning": "chú"
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "bố"
     },
     {
       "word": "お父",
@@ -124,19 +114,29 @@
       "meaning": "chồng"
     },
     {
-      "word": "厳父",
-      "reading": "げんぷ",
-      "meaning": "cha honored bạn"
+      "word": "先父",
+      "reading": "せんぷ",
+      "meaning": "người cha quá cố"
     },
     {
-      "word": "師父",
-      "reading": "しふ",
-      "meaning": "sư phụ"
-    },
-    {
-      "word": "養父",
-      "reading": "ようふ",
+      "word": "代父",
+      "reading": "だいふ",
       "meaning": "cha đỡ đầu"
+    },
+    {
+      "word": "王父",
+      "reading": "おうふ",
+      "meaning": "phụ hoàng"
+    },
+    {
+      "word": "同父",
+      "reading": "どうふ",
+      "meaning": "cùng chung cha"
+    },
+    {
+      "word": "母父",
+      "reading": "あもしし",
+      "meaning": "bố mẹ"
     }
   ]
 }

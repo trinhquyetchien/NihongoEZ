@@ -85,6 +85,26 @@
   ],
   "vocabulary": [
     {
+      "word": "実践",
+      "reading": "じっせん",
+      "meaning": "thực tiễn"
+    },
+    {
+      "word": "実践的",
+      "reading": "じっせんてき",
+      "meaning": "mang tính thực tiễn"
+    },
+    {
+      "word": "実践者",
+      "reading": "じっせんしゃ",
+      "meaning": "người có kinh nghiệm"
+    },
+    {
+      "word": "実践家",
+      "reading": "じっせんか",
+      "meaning": "người thực hành"
+    },
+    {
       "word": "践祚",
       "reading": "せんそ",
       "meaning": "sự kế thừa ngai vàng"
@@ -100,39 +120,19 @@
       "meaning": "giẫm chân xuống"
     },
     {
-      "word": "実践",
-      "reading": "じっせん",
-      "meaning": "thực tiễn"
-    },
-    {
-      "word": "実践家",
-      "reading": "じっせんか",
-      "meaning": "người thực hành"
-    },
-    {
-      "word": "実践的",
-      "reading": "じっせんてき",
-      "meaning": "mang tính thực tiễn"
-    },
-    {
-      "word": "実践者",
-      "reading": "じっせんしゃ",
-      "meaning": "người có kinh nghiệm"
-    },
-    {
       "word": "実践する",
       "reading": "じっせんする",
       "meaning": "thực hành"
     },
     {
+      "word": "実践哲学",
+      "reading": "じっせんてつがく",
+      "meaning": "triết học thực hành"
+    },
+    {
       "word": "実践倫理",
       "reading": "じっせんりんり",
       "meaning": "đạo đức thực hành"
-    },
-    {
-      "word": "実践躬行",
-      "reading": "じっせんきゅうこう",
-      "meaning": "hành động theo nguyên tắc"
     }
   ]
 }

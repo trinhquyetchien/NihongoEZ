@@ -94,21 +94,6 @@
       "meaning": "ai"
     },
     {
-      "word": "誰誰",
-      "reading": "だれだれ",
-      "meaning": "ai? ai"
-    },
-    {
-      "word": "誰彼",
-      "reading": "だれかれ",
-      "meaning": "đây hoặc người đó"
-    },
-    {
-      "word": "誰某",
-      "reading": "だれそれ",
-      "meaning": "người nào đó"
-    },
-    {
       "word": "誰か",
       "reading": "だれか",
       "meaning": "ai đó"
@@ -119,9 +104,14 @@
       "meaning": "ai cũng"
     },
     {
-      "word": "誰何",
-      "reading": "すいか",
-      "meaning": "thách thức"
+      "word": "誰にも",
+      "reading": "だれにも",
+      "meaning": "bất kì ai"
+    },
+    {
+      "word": "誰でも",
+      "reading": "だれでも",
+      "meaning": "bất cứ ai"
     },
     {
       "word": "誰人",
@@ -129,14 +119,24 @@
       "meaning": "đại danh từ chỉ người không xác định"
     },
     {
-      "word": "誰得",
-      "reading": "だれとく",
-      "meaning": "vô nghĩa"
+      "word": "誰って",
+      "reading": "だれだって",
+      "meaning": "ai cũng vậy thôi"
+    },
+    {
+      "word": "誰それ",
+      "reading": "だれそれ",
+      "meaning": "ai đó"
     },
     {
       "word": "誰一人",
       "reading": "だれひとり",
       "meaning": "không ai"
+    },
+    {
+      "word": "誰誰",
+      "reading": "だれだれ",
+      "meaning": "ai? ai"
     }
   ]
 }

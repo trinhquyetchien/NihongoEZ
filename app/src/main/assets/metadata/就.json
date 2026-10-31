@@ -108,29 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "就寝",
-      "reading": "しゅうしん",
-      "meaning": "đi ngủ"
-    },
-    {
-      "word": "就労",
-      "reading": "しゅうろう",
-      "meaning": "thực tế làm việc"
-    },
-    {
-      "word": "成就",
-      "reading": "じょうじゅ",
-      "meaning": "thành tựu"
-    },
-    {
-      "word": "就任",
-      "reading": "しゅうにん",
-      "meaning": "sự nhậm chức"
-    },
-    {
-      "word": "就学",
-      "reading": "しゅうがく",
-      "meaning": "nhập học"
+      "word": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "nhận việc"
     },
     {
       "word": "就く",
@@ -138,24 +118,44 @@
       "meaning": "bắt tay vào làm"
     },
     {
-      "word": "就活",
-      "reading": "しゅうかつ",
-      "meaning": "tìm việc làm"
+      "word": "就任",
+      "reading": "しゅうにん",
+      "meaning": "sự nhậm chức"
     },
     {
-      "word": "就き",
-      "reading": "つき",
-      "meaning": "liên quan đến"
+      "word": "就業",
+      "reading": "しゅうぎょう",
+      "meaning": "sự làm công"
     },
     {
-      "word": "就眠",
-      "reading": "しゅうみん",
-      "meaning": "trạng thái đi vào giấc ngủ hoặc trạng thái đang ngủ"
+      "word": "就職者",
+      "reading": "しゅうしょくしゃ",
+      "meaning": "người có việc làm"
     },
     {
-      "word": "就中",
-      "reading": "なかんずく",
-      "meaning": "đặc biệt là"
+      "word": "就職時",
+      "reading": "しゅうしょくじ",
+      "meaning": "thời gian làm việc"
+    },
+    {
+      "word": "就職先",
+      "reading": "しゅうしょくさき",
+      "meaning": "nơi tìm việc"
+    },
+    {
+      "word": "就職口",
+      "reading": "しゅうしょくぐち",
+      "meaning": "định vị"
+    },
+    {
+      "word": "就職率",
+      "reading": "しゅうしょくりつ",
+      "meaning": "tỉ lệ có công ăn việc làm"
+    },
+    {
+      "word": "再就職",
+      "reading": "さいしゅうしょく",
+      "meaning": "đi làm trở lại"
     }
   ]
 }

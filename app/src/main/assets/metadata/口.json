@@ -78,34 +78,9 @@
       "meaning": "cửa"
     },
     {
-      "word": "口口",
-      "reading": "くちぐち",
-      "meaning": "từng cái làm say mê"
-    },
-    {
-      "word": "口口に",
-      "reading": "くちぐちに",
-      "meaning": "nhất trí"
-    },
-    {
-      "word": "くちばかり 口ばかり くちばっかり",
-      "reading": "口ばかり",
-      "meaning": "chỉ nói suông<br>"
-    },
-    {
-      "word": "穿口ふたるい",
-      "reading": "穿口蓋類",
-      "meaning": "lớp hyperotreti"
-    },
-    {
-      "word": "口癖",
-      "reading": "くちぐせ",
-      "meaning": "quen mồm"
-    },
-    {
-      "word": "手口",
-      "reading": "てぐち",
-      "meaning": "thủ đoạn"
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "cổng ra"
     },
     {
       "word": "悪口",
@@ -113,14 +88,39 @@
       "meaning": "nói xấu"
     },
     {
-      "word": "口臭",
-      "reading": "こうしゅう",
-      "meaning": "bệnh hôi miệng"
+      "word": "口実",
+      "reading": "こうじつ",
+      "meaning": "viện cớ"
+    },
+    {
+      "word": "口紅",
+      "reading": "くちべに",
+      "meaning": "ống son"
+    },
+    {
+      "word": "蛇口",
+      "reading": "じゃぐち",
+      "meaning": "rô-bi-nê"
+    },
+    {
+      "word": "口頭",
+      "reading": "こうとう",
+      "meaning": "sự thi nói"
+    },
+    {
+      "word": "口述",
+      "reading": "こうじゅつ",
+      "meaning": "sự trình bày bằng lời"
     },
     {
       "word": "海口",
       "reading": "かいこう",
       "meaning": "hải khẩu"
+    },
+    {
+      "word": "口座",
+      "reading": "こうざ",
+      "meaning": "ngân khoản"
     }
   ]
 }

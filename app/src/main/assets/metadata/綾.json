@@ -86,39 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "綾織",
-      "reading": "あやおり",
-      "meaning": "vải tréo"
+      "word": "目も綾",
+      "reading": "めもあや",
+      "meaning": "vẻ đẹp rực rỡ"
     },
     {
-      "word": "綾布",
-      "reading": "あやぬの",
-      "meaning": "vải đa mát và gấm thêu kim tuyến vải tréo"
-    },
-    {
-      "word": "綾錦",
-      "reading": "あやにしき",
-      "meaning": "gấm vóc thêu kim tuyến và lụa là"
-    },
-    {
-      "word": "綾糸",
-      "reading": "あやいと",
-      "meaning": "chỉ màu"
-    },
-    {
-      "word": "綾絹",
-      "reading": "あやぎぬ",
-      "meaning": "vải lụa dệt chéo"
-    },
-    {
-      "word": "綾取",
-      "reading": "あやとり",
-      "meaning": "con mèo có cái nôi"
-    },
-    {
-      "word": "綾子",
-      "reading": "りんず",
-      "meaning": "sa tanh in hoa"
+      "word": "綾押し",
+      "reading": "あやおし",
+      "meaning": "phục hồi tạm thời"
     },
     {
       "word": "亀綾",
@@ -126,14 +101,39 @@
       "meaning": "lụa habutai trắng bóng cao cấp"
     },
     {
-      "word": "透綾",
-      "reading": "すきや",
-      "meaning": "chất liệu lụa mỏng"
+      "word": "綾戻し",
+      "reading": "あやもどし",
+      "meaning": "thoái lui"
     },
     {
-      "word": "綾羅",
-      "reading": "りょうら",
-      "meaning": "vải mịn đẹp"
+      "word": "綾糸",
+      "reading": "あやいと",
+      "meaning": "chỉ màu"
+    },
+    {
+      "word": "綾布",
+      "reading": "あやぬの",
+      "meaning": "vải đa mát và gấm thêu kim tuyến vải tréo"
+    },
+    {
+      "word": "綾杉状",
+      "reading": "あやすぎじょう",
+      "meaning": "tuyết tùng xoắn"
+    },
+    {
+      "word": "綾錦",
+      "reading": "あやにしき",
+      "meaning": "gấm vóc thêu kim tuyến và lụa là"
+    },
+    {
+      "word": "綾子",
+      "reading": "りんず",
+      "meaning": "sa tanh in hoa"
+    },
+    {
+      "word": "綾絹",
+      "reading": "あやぎぬ",
+      "meaning": "vải lụa dệt chéo"
     }
   ]
 }

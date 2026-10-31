@@ -98,54 +98,54 @@
   ],
   "vocabulary": [
     {
-      "word": "悪",
-      "reading": "あく",
-      "meaning": "sự xấu"
-    },
-    {
-      "word": "悪悪戯",
-      "reading": "わるいたずら",
-      "meaning": "sự ranh mãnh"
-    },
-    {
-      "word": "悪因悪果",
-      "reading": "あくいんあっか",
-      "meaning": "ác nhân ác quả"
-    },
-    {
-      "word": "悪衣悪食",
-      "reading": "あくいあくしょく",
-      "meaning": "sự thiếu ăn thiếu mặc"
-    },
-    {
       "word": "悪口",
       "reading": "わるくち",
       "meaning": "nói xấu"
     },
     {
-      "word": "増悪",
-      "reading": "ぞうあく",
-      "meaning": "tình trạng trở nên xấu hơn"
+      "word": "悪",
+      "reading": "あく",
+      "meaning": "sự xấu"
     },
     {
-      "word": "嫌悪",
-      "reading": "けんお",
-      "meaning": "sự chán ghét"
+      "word": "悪化",
+      "reading": "あっか",
+      "meaning": "sự trở nên xấu đi"
     },
     {
-      "word": "醜悪",
-      "reading": "しゅうあく",
-      "meaning": "bần tiện"
+      "word": "改悪",
+      "reading": "かいあく",
+      "meaning": "làm cho mọi việc tồi tệ hơn"
     },
     {
-      "word": "険悪",
-      "reading": "けんあく",
-      "meaning": "khắt khe"
+      "word": "大悪",
+      "reading": "だいあく",
+      "meaning": "đại ác"
     },
     {
-      "word": "悪文",
-      "reading": "あくぶん",
-      "meaning": "văn phong không mạch lạc"
+      "word": "最悪",
+      "reading": "さいあく",
+      "meaning": "bét"
+    },
+    {
+      "word": "曲悪",
+      "reading": "きょくあく",
+      "meaning": "tính chất đồi bại"
+    },
+    {
+      "word": "悪訳",
+      "reading": "あくやく",
+      "meaning": "bản dịch xấu"
+    },
+    {
+      "word": "悪天",
+      "reading": "あくてん",
+      "meaning": "thời tiết xấu"
+    },
+    {
+      "word": "正悪",
+      "reading": "せいあく",
+      "meaning": "đúng và sai"
     }
   ]
 }

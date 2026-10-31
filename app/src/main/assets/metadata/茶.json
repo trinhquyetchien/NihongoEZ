@@ -105,54 +105,54 @@
   ],
   "vocabulary": [
     {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "chè đen"
+    },
+    {
       "word": "茶",
       "reading": "ちゃ",
       "meaning": "chè"
     },
     {
-      "word": "茶茶",
-      "reading": "ちゃちゃ",
-      "meaning": "gián đoạn"
+      "word": "名茶",
+      "reading": "めいちゃ",
+      "meaning": "trà nổi tiếng"
     },
     {
-      "word": "滅茶苦茶",
-      "reading": "めちゃくちゃ",
-      "meaning": "vô lý"
+      "word": "黒茶",
+      "reading": "くろちゃ",
+      "meaning": "màu nâu thẫm"
     },
     {
-      "word": "破茶目茶",
-      "reading": "はちゃめちゃ",
-      "meaning": "lộn xộn"
+      "word": "茶葉",
+      "reading": "ちゃば",
+      "meaning": "lá trà"
     },
     {
-      "word": "無茶苦茶",
-      "reading": "むちゃくちゃ",
-      "meaning": "lộn xộn"
+      "word": "塩茶",
+      "reading": "しおちゃ",
+      "meaning": "trà muối"
     },
     {
-      "word": "滅茶滅茶",
-      "reading": "めちゃめちゃ",
-      "meaning": "chứng phát ban"
+      "word": "茶トラ",
+      "reading": "ちゃトラ",
+      "meaning": "mèo mướp cam"
     },
     {
-      "word": "目茶苦茶",
-      "reading": "めちゃくちゃ",
-      "meaning": "bị hành hạ"
+      "word": "粉茶",
+      "reading": "こちゃ",
+      "meaning": "trà bột"
     },
     {
-      "word": "目茶目茶",
-      "reading": "めちゃめちゃ",
-      "meaning": "liều lĩnh"
+      "word": "抹茶",
+      "reading": "まっちゃ",
+      "meaning": "trà xanh dùng cho các nghi lễ"
     },
     {
-      "word": "紅茶茶葉",
-      "reading": "こうちゃちゃば",
-      "meaning": "lá trà đen"
-    },
-    {
-      "word": "茶飲み茶碗",
-      "reading": "ちゃのみぢゃわん",
-      "meaning": "tách uống trà"
+      "word": "濃茶",
+      "reading": "こいちゃ",
+      "meaning": "trà đặc"
     }
   ]
 }

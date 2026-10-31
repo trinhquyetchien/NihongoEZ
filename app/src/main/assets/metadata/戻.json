@@ -107,34 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "戻し",
-      "reading": "もどし",
-      "meaning": "sự điều hướng lại"
-    },
-    {
-      "word": "切戻",
-      "reading": "せつらい",
-      "meaning": "sau chuyển đổi sự dư thừa chuyển sự sửa chữa sau)"
-    },
-    {
-      "word": "戻入",
-      "reading": "れいにゅう",
-      "meaning": "sự hoàn nhập"
-    },
-    {
-      "word": "暴戻",
-      "reading": "ぼうれい",
-      "meaning": "chính sách chuyên quyền"
-    },
-    {
-      "word": "返戻",
-      "reading": "へんれい",
-      "meaning": "sự trả lại"
-    },
-    {
-      "word": "背戻",
-      "reading": "はいれい",
-      "meaning": "không tuân theo"
+      "word": "戻る",
+      "reading": "もどる",
+      "meaning": "quay lại"
     },
     {
       "word": "戻す",
@@ -142,9 +117,14 @@
       "meaning": "hoàn lại"
     },
     {
-      "word": "戻る",
-      "reading": "もどる",
-      "meaning": "quay lại"
+      "word": "払い戻す",
+      "reading": "はらいもどす",
+      "meaning": "trả lại"
+    },
+    {
+      "word": "取り戻す",
+      "reading": "とりもどす",
+      "meaning": "khôi phục"
     },
     {
       "word": "戻り",
@@ -152,9 +132,29 @@
       "meaning": "sự trả lại"
     },
     {
-      "word": "貪戻",
-      "reading": "たんれい",
-      "meaning": "tham lam và vô nhân đạo"
+      "word": "手戻り",
+      "reading": "てもどり",
+      "meaning": "làm sai"
+    },
+    {
+      "word": "戻り道",
+      "reading": "もどりみち",
+      "meaning": "đường về"
+    },
+    {
+      "word": "戻り足",
+      "reading": "もどりあし",
+      "meaning": "phục hồi giá về mức cũ"
+    },
+    {
+      "word": "小戻り",
+      "reading": "こもどり",
+      "meaning": "hơi ngoái đầu lại"
+    },
+    {
+      "word": "戻し",
+      "reading": "もどし",
+      "meaning": "sự điều hướng lại"
     }
   ]
 }

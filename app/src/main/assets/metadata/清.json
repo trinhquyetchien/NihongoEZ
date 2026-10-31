@@ -93,24 +93,19 @@
   ],
   "vocabulary": [
     {
-      "word": "清",
-      "reading": "しん",
-      "meaning": "qing"
+      "word": "清潔",
+      "reading": "せいけつ",
+      "meaning": "sự thanh khiết"
     },
     {
-      "word": "清清",
-      "reading": "せいせい",
-      "meaning": "cảm thấy làm mới lại"
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "viết lại bản nháp một cách sạch sẽ"
     },
     {
-      "word": "清清しい",
-      "reading": "すがすがしい",
-      "meaning": "làm tươi"
-    },
-    {
-      "word": "清一",
-      "reading": "チンイツ",
-      "meaning": "chinitsu"
+      "word": "清い",
+      "reading": "きよい",
+      "meaning": "quý tộc"
     },
     {
       "word": "清算",
@@ -118,29 +113,34 @@
       "meaning": "sự thanh toán"
     },
     {
-      "word": "清華",
-      "reading": "せいか",
-      "meaning": "thanh hoa"
+      "word": "清純",
+      "reading": "せいじゅん",
+      "meaning": "thanh khiết"
     },
     {
-      "word": "粛清",
-      "reading": "しゅくせい",
-      "meaning": "sự thanh trừng"
+      "word": "清濁",
+      "reading": "せいだく",
+      "meaning": "điều tốt đẹp và điều xấu xa"
     },
     {
-      "word": "清談",
-      "reading": "せいだん",
-      "meaning": "tao đàn"
+      "word": "清水",
+      "reading": "しみず",
+      "meaning": "nước sạch"
     },
     {
-      "word": "清楽",
-      "reading": "しんがく",
-      "meaning": "thanh nhạc"
+      "word": "清",
+      "reading": "しん",
+      "meaning": "qing"
     },
     {
-      "word": "清国",
-      "reading": "しんこく",
-      "meaning": "nhà thanh"
+      "word": "日清",
+      "reading": "にっしん",
+      "meaning": "chiến tranh nhật trung"
+    },
+    {
+      "word": "清々",
+      "reading": "せいせい",
+      "meaning": "cảm thấy làm mới lại"
     }
   ]
 }

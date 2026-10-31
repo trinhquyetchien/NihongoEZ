@@ -91,13 +91,13 @@
   ],
   "vocabulary": [
     {
-      "word": "飲",
-      "reading": "いん",
-      "meaning": "đồ uống"
+      "word": "飲む",
+      "reading": "のむ",
+      "meaning": "húp"
     },
     {
-      "word": "飲料",
-      "reading": "いんりょう",
+      "word": "飲み物",
+      "reading": "のみもの",
       "meaning": "đồ uống"
     },
     {
@@ -106,37 +106,37 @@
       "meaning": "uống"
     },
     {
-      "word": "試飲",
-      "reading": "しいん",
-      "meaning": "sự uống thử"
+      "word": "一飲み",
+      "reading": "ひとのみ",
+      "meaning": "uống một ngụm"
     },
     {
-      "word": "飲茶",
-      "reading": "ヤムチャ",
-      "meaning": "yum cha"
+      "word": "飲み方",
+      "reading": "のみかた",
+      "meaning": "cách uống"
     },
     {
-      "word": "完飲",
-      "reading": "かんいん",
-      "meaning": "uống hết"
+      "word": "飲み会",
+      "reading": "のみかい",
+      "meaning": "tiệc nhậu"
     },
     {
-      "word": "鯨飲",
-      "reading": "げいいん",
-      "meaning": "sự uống rượu ừng ực"
+      "word": "曲飲み",
+      "reading": "きょくのみ",
+      "meaning": "vừa uống vừa biểu diễn nhào lộn"
     },
     {
-      "word": "豪飲",
-      "reading": "ごういん",
-      "meaning": "sự uống rượu"
+      "word": "飲み水",
+      "reading": "のみみず",
+      "meaning": "nước uống"
     },
     {
-      "word": "痛飲",
-      "reading": "つういん",
-      "meaning": "sự nghiện nặng"
+      "word": "飲み口",
+      "reading": "のみくち",
+      "meaning": "vòi"
     },
     {
-      "word": "飲薬",
+      "word": "飲み薬",
       "reading": "のみぐすり",
       "meaning": "thuốc uống"
     }

@@ -90,18 +90,8 @@
   ],
   "vocabulary": [
     {
-      "word": "徴",
-      "reading": "しるし",
-      "meaning": "bằng chứng"
-    },
-    {
-      "word": "徴候",
-      "reading": "ちょうこう",
-      "meaning": "ký tên"
-    },
-    {
-      "word": "機徴",
-      "reading": "きちょう",
+      "word": "特徴",
+      "reading": "とくちょう",
       "meaning": "đặc trưng"
     },
     {
@@ -110,34 +100,44 @@
       "meaning": "biểu tượng"
     },
     {
-      "word": "徴表",
-      "reading": "ちょうひょう",
-      "meaning": "dấu để phân biệt"
-    },
-    {
-      "word": "徴税",
-      "reading": "ちょうぜい",
-      "meaning": "thu thuế"
-    },
-    {
       "word": "徴収",
       "reading": "ちょうしゅう",
       "meaning": "thu"
     },
     {
-      "word": "徴用",
-      "reading": "ちょうよう",
-      "meaning": "sự trưng dụng"
+      "word": "特徴的",
+      "reading": "とくちょうてき",
+      "meaning": "nét đặc trưng riêng"
     },
     {
-      "word": "追徴",
-      "reading": "ついちょう",
-      "meaning": "trưng thu bổ sung"
+      "word": "特徴量",
+      "reading": "とくちょうりょう",
+      "meaning": "giá trị đặc trưng"
     },
     {
-      "word": "標徴",
-      "reading": "ひょうちょう",
-      "meaning": "đặc trưng"
+      "word": "象徴的",
+      "reading": "しょうちょうてき",
+      "meaning": "tượng trưng"
+    },
+    {
+      "word": "象徴化",
+      "reading": "しょうちょうか",
+      "meaning": "tượng trưng hoá"
+    },
+    {
+      "word": "象徴派",
+      "reading": "しょうちょうは",
+      "meaning": "trường phái tượng trưng"
+    },
+    {
+      "word": "象徴詩",
+      "reading": "しょうちょうし",
+      "meaning": "nghệ thuật thơ người theo trường phái tượng trưng"
+    },
+    {
+      "word": "徴兵",
+      "reading": "ちょうへい",
+      "meaning": "sự tuyển quân"
     }
   ]
 }

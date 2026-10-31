@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "宇",
-      "reading": "のき",
-      "meaning": "đơn vị đếm tòa nhà"
-    },
-    {
-      "word": "宇賀の神",
-      "reading": "うかのかみ",
-      "meaning": "giống 宇賀神 - thần uga"
-    },
-    {
-      "word": "杜宇",
-      "reading": "とう",
-      "meaning": "chim cu gáy nhỏ"
-    },
-    {
       "word": "宇宙",
       "reading": "うちゅう",
       "meaning": "vòm trời"
     },
     {
-      "word": "宇内",
-      "reading": "うだい",
-      "meaning": "cả thế giới"
+      "word": "宇宙人",
+      "reading": "うちゅうじん",
+      "meaning": "người ngoài hành tinh"
     },
     {
-      "word": "眉宇",
-      "reading": "びう",
-      "meaning": "mày"
+      "word": "大宇宙",
+      "reading": "だいうちゅう",
+      "meaning": "vũ trụ"
     },
     {
-      "word": "殿宇",
-      "reading": "でんう",
-      "meaning": "tòa điện thờ"
+      "word": "外宇宙",
+      "reading": "がいうちゅう",
+      "meaning": "không gian bên ngoài"
     },
     {
-      "word": "航宇",
-      "reading": "こうう",
-      "meaning": "sân bay vũ trụ"
+      "word": "宇宙法",
+      "reading": "うちゅうほう",
+      "meaning": "luật vũ trụ"
     },
     {
-      "word": "羅宇",
-      "reading": "ラオス",
-      "meaning": "ống điếu"
+      "word": "全宇宙",
+      "reading": "ぜんうちゅう",
+      "meaning": "toàn bộ vũ trụ"
     },
     {
-      "word": "御宇",
-      "reading": "ぎょう",
-      "meaning": "đế quốc thống trị"
+      "word": "宇宙線",
+      "reading": "うちゅうせん",
+      "meaning": "tia vũ trụ"
+    },
+    {
+      "word": "宇宙服",
+      "reading": "うちゅうふく",
+      "meaning": "quần áo phi hành gia"
+    },
+    {
+      "word": "宇宙観",
+      "reading": "うちゅうかん",
+      "meaning": "vũ trụ quan"
+    },
+    {
+      "word": "島宇宙",
+      "reading": "しまうちゅう",
+      "meaning": "galaxy"
     }
   ]
 }

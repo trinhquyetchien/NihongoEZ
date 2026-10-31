@@ -92,39 +92,19 @@
       "meaning": "ngọn"
     },
     {
-      "word": "倶梨伽羅紋紋",
-      "reading": "くりからもんもん",
-      "meaning": "xăm"
-    },
-    {
       "word": "紋本",
       "reading": "もんぽん",
       "meaning": "sách gia phả"
     },
     {
-      "word": "砂紋",
-      "reading": "さもん",
-      "meaning": "sóng sỏi cào"
+      "word": "代紋",
+      "reading": "だいもん",
+      "meaning": "yakuza coat of arms"
     },
     {
-      "word": "衣紋",
-      "reading": "えもん",
-      "meaning": "quần áo"
-    },
-    {
-      "word": "渦紋",
-      "reading": "かもん",
-      "meaning": "hoa văn hình xoắn ốc"
-    },
-    {
-      "word": "掌紋",
-      "reading": "しょうもん",
-      "meaning": "thủ sự in"
-    },
-    {
-      "word": "声紋",
-      "reading": "せいもん",
-      "meaning": "bảng phân tích tín hiệu tân số âm thanh"
+      "word": "指紋",
+      "reading": "しもん",
+      "meaning": "dấu tay"
     },
     {
       "word": "花紋",
@@ -132,9 +112,29 @@
       "meaning": "hoa văn hình hoa"
     },
     {
-      "word": "家紋",
-      "reading": "かもん",
-      "meaning": "dấu ấn riêng của gia đình"
+      "word": "社紋",
+      "reading": "しゃもん",
+      "meaning": "biểu tượng đại diện cho một ngôi đền shinto"
+    },
+    {
+      "word": "水紋学",
+      "reading": "すいもんがく",
+      "meaning": "thuỷ học"
+    },
+    {
+      "word": "御紋",
+      "reading": "ごもん",
+      "meaning": "gia huy"
+    },
+    {
+      "word": "花紋板",
+      "reading": "かもんばん",
+      "meaning": "nơ hoa hồng"
+    },
+    {
+      "word": "横紋筋",
+      "reading": "おうもんきん",
+      "meaning": "cơ vân"
     }
   ]
 }

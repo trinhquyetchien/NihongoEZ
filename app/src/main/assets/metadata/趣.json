@@ -107,29 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "趣",
-      "reading": "おもむき",
-      "meaning": "dáng vẻ"
-    },
-    {
-      "word": "趣意",
-      "reading": "しゅい",
-      "meaning": "tôn chỉ"
-    },
-    {
-      "word": "郵趣",
-      "reading": "ゆうしゅ",
-      "meaning": "việc chơi tem"
-    },
-    {
       "word": "趣味",
       "reading": "しゅみ",
       "meaning": "cái thú vị"
-    },
-    {
-      "word": "趣き",
-      "reading": "おもむき",
-      "meaning": "dáng vẻ"
     },
     {
       "word": "趣旨",
@@ -137,24 +117,44 @@
       "meaning": "ý đồ"
     },
     {
-      "word": "帰趣",
-      "reading": "きしゅ",
-      "meaning": "phương hướng"
+      "word": "趣",
+      "reading": "おもむき",
+      "meaning": "dáng vẻ"
     },
     {
-      "word": "俗趣",
-      "reading": "ぞくしゅ",
-      "meaning": "thú vui thô tục"
+      "word": "趣味家",
+      "reading": "しゅみか",
+      "meaning": "người sành sỏi"
     },
     {
-      "word": "情趣",
-      "reading": "じょうしゅ",
-      "meaning": "tâm tính"
+      "word": "趣味性",
+      "reading": "しゅみせい",
+      "meaning": "sự quan tâm đặc biệt"
     },
     {
-      "word": "佳趣",
-      "reading": "かしゅ",
-      "meaning": "ấn tượng tốt"
+      "word": "無趣味",
+      "reading": "むしゅみ",
+      "meaning": "thiếu vị giác hoặc thính"
+    },
+    {
+      "word": "同趣味",
+      "reading": "どうしゅみ",
+      "meaning": "những cùng sự quan tâm đó"
+    },
+    {
+      "word": "悪趣味",
+      "reading": "あくしゅみ",
+      "meaning": "sở thích xấu"
+    },
+    {
+      "word": "趣向",
+      "reading": "しゅこう",
+      "meaning": "chí hướng"
+    },
+    {
+      "word": "別趣",
+      "reading": "べっしゅ",
+      "meaning": "sự quan tâm sâu sắc"
     }
   ]
 }

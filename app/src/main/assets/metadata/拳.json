@@ -94,19 +94,34 @@
       "meaning": "nắm đấm"
     },
     {
-      "word": "拳銃",
-      "reading": "けんじゅう",
-      "meaning": "súng lục"
-    },
-    {
-      "word": "拳固",
-      "reading": "げんこ",
-      "meaning": "nắm đấm"
-    },
-    {
       "word": "拳万",
       "reading": "げんまん",
       "meaning": "ngoắc ngón tay để xác nhận lời hứa"
+    },
+    {
+      "word": "力拳",
+      "reading": "ちからこぶし",
+      "meaning": "nắm đấm siết chặt"
+    },
+    {
+      "word": "て拳道",
+      "reading": "てこんどう",
+      "meaning": "môn võ taekondo"
+    },
+    {
+      "word": "裏拳",
+      "reading": "うらけん",
+      "meaning": "cú đấm bằng mu bàn tay"
+    },
+    {
+      "word": "野球拳",
+      "reading": "やきゅうけん",
+      "meaning": "trò oẳn tù tì cởi đồ"
+    },
+    {
+      "word": "五形拳",
+      "reading": "ごけいけん",
+      "meaning": "rồng"
     },
     {
       "word": "両拳",
@@ -114,29 +129,14 @@
       "meaning": "trò chơi oản tù tì"
     },
     {
-      "word": "拳闘",
-      "reading": "けんとう",
-      "meaning": "đấu võ"
-    },
-    {
-      "word": "酔拳",
-      "reading": "すいけん",
-      "meaning": "túy quyền"
-    },
-    {
       "word": "猿拳",
       "reading": "さるけん",
       "meaning": "kong fu"
     },
     {
-      "word": "拳法",
-      "reading": "けんぽう",
-      "meaning": "quyền pháp"
-    },
-    {
-      "word": "鉄拳",
-      "reading": "てっけん",
-      "meaning": "nắm đấm sắt"
+      "word": "八極拳",
+      "reading": "はっきょくけん",
+      "meaning": "môn võ bát cực quyền"
     }
   ]
 }

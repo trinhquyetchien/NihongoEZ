@@ -113,34 +113,9 @@
       "meaning": "hướng tây"
     },
     {
-      "word": "西南西",
-      "reading": "せいなんせい",
-      "meaning": "hướng tây - tây nam"
-    },
-    {
-      "word": "西北西",
-      "reading": "せいほくせい",
-      "meaning": "phía tây tây bắc"
-    },
-    {
-      "word": "東西東西",
-      "reading": "とうざいとうざい",
-      "meaning": "thưa quý vị!"
-    },
-    {
-      "word": "東は東西は西",
-      "reading": "ひがしはひがしにしはにし",
-      "meaning": "khác biệt đông - tây"
-    },
-    {
-      "word": "西武",
-      "reading": "せいぶ",
-      "meaning": "quân đội phương tây"
-    },
-    {
-      "word": "西藏",
-      "reading": "せいぞう",
-      "meaning": "tây tạng"
+      "word": "西洋",
+      "reading": "せいよう",
+      "meaning": "phương tây"
     },
     {
       "word": "関西",
@@ -148,14 +123,39 @@
       "meaning": "vùng kansai"
     },
     {
+      "word": "東西",
+      "reading": "とうざい",
+      "meaning": "cả đất nước"
+    },
+    {
+      "word": "西日",
+      "reading": "にしび",
+      "meaning": "mặt trời ở phía tây"
+    },
+    {
       "word": "日西",
       "reading": "にっせい",
       "meaning": "nhật bản - tây ban nha"
     },
     {
-      "word": "西戎",
-      "reading": "せいじゅう",
-      "meaning": "tây nhung"
+      "word": "西語",
+      "reading": "せいご",
+      "meaning": "tiếng tây ban nha"
+    },
+    {
+      "word": "西周",
+      "reading": "せいしゅう",
+      "meaning": "nước tây chu"
+    },
+    {
+      "word": "真西",
+      "reading": "まにし",
+      "meaning": "đúng hướng tây"
+    },
+    {
+      "word": "和西",
+      "reading": "わせい",
+      "meaning": "tiếng nhật - tiếng tây ban nha"
     }
   ]
 }

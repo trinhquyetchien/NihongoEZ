@@ -89,24 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "岡",
-      "reading": "おか",
-      "meaning": "đồi"
-    },
-    {
       "word": "福岡",
       "reading": "ふくおか",
       "meaning": "thành phố fukuoka"
     },
     {
-      "word": "岡引",
-      "reading": "おかっぴき",
-      "meaning": "một người trở thành tay sai của một quan chức trong thời kỳ edo và tham gia vào một cuộc điều tra tội phạm"
-    },
-    {
-      "word": "岡目",
-      "reading": "おかめ",
-      "meaning": "người ngoài cuộc"
+      "word": "福岡県",
+      "reading": "ふくおかけん",
+      "meaning": "tỉnh fukuoka"
     },
     {
       "word": "静岡",
@@ -114,9 +104,29 @@
       "meaning": "tỉnh shizuoka"
     },
     {
-      "word": "岡陵",
-      "reading": "こうりょう",
-      "meaning": "ngọn đồi"
+      "word": "静岡県",
+      "reading": "しずおかけん",
+      "meaning": "chức quận trưởng trong vùng chuubu"
+    },
+    {
+      "word": "岡山県",
+      "reading": "おかやまけん",
+      "meaning": "chức quận trưởng ở vùng chuugoku nước nhật"
+    },
+    {
+      "word": "静岡茶",
+      "reading": "しずおかちゃ",
+      "meaning": "shizuoka-cha"
+    },
+    {
+      "word": "岡",
+      "reading": "おか",
+      "meaning": "đồi"
+    },
+    {
+      "word": "岡持ち",
+      "reading": "おかもち",
+      "meaning": "hộp làm bằng gỗ để mang đồ ăn cho khách"
     },
     {
       "word": "岡辺",
@@ -124,19 +134,9 @@
       "meaning": "vùng lân cận một ngọn đồi"
     },
     {
-      "word": "岡惚",
-      "reading": "おかぼれ",
-      "meaning": "sự yêu thầm"
-    },
-    {
       "word": "岡湯",
       "reading": "おかゆ",
       "meaning": "thùng sạch rót nước"
-    },
-    {
-      "word": "岡山県",
-      "reading": "おかやまけん",
-      "meaning": "chức quận trưởng ở vùng chuugoku nước nhật"
     }
   ]
 }

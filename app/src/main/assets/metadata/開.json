@@ -94,14 +94,9 @@
   ],
   "vocabulary": [
     {
-      "word": "開花",
-      "reading": "かいか",
-      "meaning": "nở hoa"
-    },
-    {
-      "word": "開け",
-      "reading": "ひらけ",
-      "meaning": "sự bắt đầu"
+      "word": "開通",
+      "reading": "かいつう",
+      "meaning": "khai thông"
     },
     {
       "word": "公開",
@@ -109,19 +104,9 @@
       "meaning": "sự công khai"
     },
     {
-      "word": "再開",
-      "reading": "さいかい",
-      "meaning": "sự bắt đầu trở lại"
-    },
-    {
-      "word": "開通",
-      "reading": "かいつう",
-      "meaning": "khai thông"
-    },
-    {
-      "word": "開幕",
-      "reading": "かいまく",
-      "meaning": "khai mạc"
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "sự phát triển"
     },
     {
       "word": "開拓",
@@ -129,19 +114,34 @@
       "meaning": "sự khai thác"
     },
     {
-      "word": "開発",
-      "reading": "かいはつ",
-      "meaning": "sự phát triển"
+      "word": "開け",
+      "reading": "ひらけ",
+      "meaning": "sự bắt đầu"
     },
     {
-      "word": "開封",
-      "reading": "かいふう",
-      "meaning": "thư không niêm phong"
+      "word": "再開",
+      "reading": "さいかい",
+      "meaning": "sự bắt đầu trở lại"
+    },
+    {
+      "word": "開幕",
+      "reading": "かいまく",
+      "meaning": "khai mạc"
     },
     {
       "word": "開き",
       "reading": "ひらき",
       "meaning": "mở"
+    },
+    {
+      "word": "開方",
+      "reading": "かいほう",
+      "meaning": "sự trích ra những gốc"
+    },
+    {
+      "word": "開音",
+      "reading": "かいおん",
+      "meaning": "nguyên âm dài \"o\" phát sinh từ sự kết hợp của âm \"a\" và \"u\""
     }
   ]
 }

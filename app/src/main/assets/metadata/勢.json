@@ -91,19 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "勢",
-      "reading": "ぜい",
-      "meaning": "thế lực"
-    },
-    {
-      "word": "多勢に無勢",
-      "reading": "たぜいにぶぜい",
-      "meaning": "lấy ít địch nhiều"
-    },
-    {
-      "word": "形勢",
-      "reading": "けいせい",
-      "meaning": "tình trạng"
+      "word": "姿勢",
+      "reading": "しせい",
+      "meaning": "tư thế"
     },
     {
       "word": "勢力",
@@ -111,34 +101,44 @@
       "meaning": "thế lực"
     },
     {
-      "word": "虚勢",
-      "reading": "きょせい",
-      "meaning": "lừa gạt"
+      "word": "形勢",
+      "reading": "けいせい",
+      "meaning": "tình trạng"
     },
     {
-      "word": "軍勢",
-      "reading": "ぐんぜい",
-      "meaning": "sức mạnh quân đội"
+      "word": "勢",
+      "reading": "ぜい",
+      "meaning": "thế lực"
     },
     {
-      "word": "気勢",
-      "reading": "きせい",
-      "meaning": "khí thế"
-    },
-    {
-      "word": "時勢",
-      "reading": "じせい",
-      "meaning": "thời thế"
-    },
-    {
-      "word": "姿勢",
-      "reading": "しせい",
-      "meaning": "tư thế"
-    },
-    {
-      "word": "無勢",
+      "word": "不勢",
       "reading": "ぶぜい",
-      "meaning": "bị áp đảo do yếu thế"
+      "meaning": "ít"
+    },
+    {
+      "word": "強勢",
+      "reading": "きょうせい",
+      "meaning": "sự nhấn mạnh"
+    },
+    {
+      "word": "勢運",
+      "reading": "せいうん",
+      "meaning": "khuynh hướng"
+    },
+    {
+      "word": "勢門",
+      "reading": "せいもん",
+      "meaning": "gia đình"
+    },
+    {
+      "word": "動勢",
+      "reading": "どうせい",
+      "meaning": "những sự chuyển động"
+    },
+    {
+      "word": "均勢",
+      "reading": "きんせい",
+      "meaning": "đồng nhất"
     }
   ]
 }

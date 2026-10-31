@@ -104,54 +104,54 @@
   ],
   "vocabulary": [
     {
-      "word": "誌",
-      "reading": "し",
-      "meaning": "báo"
-    },
-    {
       "word": "雑誌",
       "reading": "ざっし",
       "meaning": "tạp chí"
     },
     {
-      "word": "会誌",
-      "reading": "かいし",
-      "meaning": "tạp chí phân phối thường xuyên cho các thành viên"
+      "word": "誌",
+      "reading": "し",
+      "meaning": "báo"
     },
     {
-      "word": "地誌",
-      "reading": "ちし",
-      "meaning": "địa chí"
+      "word": "情報誌",
+      "reading": "じょうほうし",
+      "meaning": "tạp chí thông tin"
     },
     {
-      "word": "同誌",
-      "reading": "どうし",
-      "meaning": "cùng tạp chí"
+      "word": "女性誌",
+      "reading": "じょせいし",
+      "meaning": "tạp chí phụ nữ"
     },
     {
-      "word": "日誌",
-      "reading": "にっし",
-      "meaning": "sổ nhật ký"
+      "word": "誌代",
+      "reading": "しだい",
+      "meaning": "tạp chí có giá"
     },
     {
-      "word": "書誌",
-      "reading": "しょし",
-      "meaning": "thư mục"
+      "word": "誌等で",
+      "reading": "しとうで",
+      "meaning": "trong những tạp chí thích ~"
     },
     {
-      "word": "墓誌",
-      "reading": "ぼし",
-      "meaning": "mộ chi"
+      "word": "部誌",
+      "reading": "ぶし",
+      "meaning": "nhật ký câu lạc bộ"
     },
     {
-      "word": "本誌",
-      "reading": "ほんし",
-      "meaning": "tạp chí này"
+      "word": "雑誌社",
+      "reading": "ざっししゃ",
+      "meaning": "công ty tạp chí"
     },
     {
-      "word": "誌上",
-      "reading": "しじょう",
-      "meaning": "trên tạp chí"
+      "word": "生活誌",
+      "reading": "せいかつし",
+      "meaning": "tạp chí cuộc sống"
+    },
+    {
+      "word": "活動誌",
+      "reading": "かつどうし",
+      "meaning": "tạp chí ngành chuyên môn"
     }
   ]
 }

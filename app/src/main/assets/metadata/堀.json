@@ -94,34 +94,19 @@
       "meaning": "hào"
     },
     {
-      "word": "根堀り葉堀り",
-      "reading": "ねほりはほり",
-      "meaning": "sự kỹ càng"
+      "word": "お堀",
+      "reading": "おほり",
+      "meaning": "kênh mương"
     },
     {
-      "word": "外堀",
-      "reading": "そとぼり",
-      "meaning": "hào bên ngoài thành"
+      "word": "穴堀り",
+      "reading": "あなほり",
+      "meaning": "đào hố"
     },
     {
-      "word": "堀川",
-      "reading": "ほりかわ",
-      "meaning": "kênh"
-    },
-    {
-      "word": "空堀",
-      "reading": "からぼり",
-      "meaning": "đường hào khô ráo"
-    },
-    {
-      "word": "内堀",
-      "reading": "うちぼり",
-      "meaning": "hào bên trong"
-    },
-    {
-      "word": "堀江",
-      "reading": "ほりえ",
-      "meaning": "kênh"
+      "word": "堀切り",
+      "reading": "ほりきり",
+      "meaning": "hào cắt"
     },
     {
       "word": "堀端",
@@ -129,14 +114,29 @@
       "meaning": "ủng hộ một hào"
     },
     {
-      "word": "釣堀",
-      "reading": "つりぼり",
-      "meaning": "ao cá"
+      "word": "堀割り",
+      "reading": "ほりわり",
+      "meaning": "kênh đào"
     },
     {
-      "word": "横堀",
-      "reading": "よこぼり",
-      "meaning": "hào ngang"
+      "word": "芋堀り",
+      "reading": "いもほり",
+      "meaning": "sự đào khoai"
+    },
+    {
+      "word": "堀江",
+      "reading": "ほりえ",
+      "meaning": "kênh"
+    },
+    {
+      "word": "堀川",
+      "reading": "ほりかわ",
+      "meaning": "kênh"
+    },
+    {
+      "word": "堀り鼠",
+      "reading": "ほりねずみ",
+      "meaning": "chuột túi"
     }
   ]
 }

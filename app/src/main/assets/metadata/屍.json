@@ -36,18 +36,13 @@
       "meaning": "xác chết"
     },
     {
-      "word": "屍体",
-      "reading": "したい",
-      "meaning": "xác chết"
-    },
-    {
       "word": "屍姦",
       "reading": "しかん",
       "meaning": "necrophilia"
     },
     {
-      "word": "屍骸",
-      "reading": "しがい",
+      "word": "屍体",
+      "reading": "したい",
       "meaning": "xác chết"
     },
     {
@@ -56,14 +51,19 @@
       "meaning": "xác chết"
     },
     {
-      "word": "屍蝋",
-      "reading": "しろう",
-      "meaning": "chất sáp mỡ"
-    },
-    {
       "word": "検屍",
       "reading": "けんし",
       "meaning": "khám nghiệm tử thi"
+    },
+    {
+      "word": "屍骸",
+      "reading": "しがい",
+      "meaning": "xác chết"
+    },
+    {
+      "word": "屍蝋",
+      "reading": "しろう",
+      "meaning": "chất sáp mỡ"
     },
     {
       "word": "僵屍",
@@ -76,9 +76,9 @@
       "meaning": "khiển trách ở giá những thứ cuộc sống"
     },
     {
-      "word": "死屍累々",
-      "reading": "ししるいるい",
-      "meaning": "nằm chết la liệt"
+      "word": "屍山血河",
+      "reading": "しざんけつが",
+      "meaning": "núi xác"
     }
   ]
 }

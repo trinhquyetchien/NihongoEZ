@@ -88,29 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "頓悟",
-      "reading": "とんご",
-      "meaning": "sự hiển linh"
-    },
-    {
-      "word": "頓と",
-      "reading": "ひたと",
-      "meaning": "hoàn toàn"
-    },
-    {
-      "word": "停頓",
-      "reading": "ていとん",
-      "meaning": "bế tắc"
-    },
-    {
-      "word": "頓死",
-      "reading": "とんし",
-      "meaning": "sự đột tử"
-    },
-    {
-      "word": "頓服",
-      "reading": "とんぷく",
-      "meaning": "sự uống thuốc một lần"
+      "word": "頓挫",
+      "reading": "とんざ",
+      "meaning": "sự thụt lùi"
     },
     {
       "word": "頓着",
@@ -118,24 +98,44 @@
       "meaning": "sự lưu ý"
     },
     {
-      "word": "頓知",
-      "reading": "とんち",
-      "meaning": "sự nhanh trí"
+      "word": "無頓着",
+      "reading": "むとんじゃく",
+      "meaning": "người thờ ơ"
     },
     {
-      "word": "頓狂",
-      "reading": "とんきょう",
-      "meaning": "hoang dã"
+      "word": "整頓",
+      "reading": "せいとん",
+      "meaning": "chỉnh đốn"
     },
     {
-      "word": "頓挫",
-      "reading": "とんざ",
-      "meaning": "sự thụt lùi"
+      "word": "頓と",
+      "reading": "ひたと",
+      "meaning": "hoàn toàn"
     },
     {
-      "word": "頓智",
-      "reading": "とんち",
-      "meaning": "sự nhanh trí"
+      "word": "頓的",
+      "reading": "とんてき",
+      "meaning": "người thiếu suy nghĩ"
+    },
+    {
+      "word": "頓馬",
+      "reading": "とんま",
+      "meaning": "thằng ngốc"
+    },
+    {
+      "word": "頓珍漢",
+      "reading": "とんちんかん",
+      "meaning": "sự vô lý"
+    },
+    {
+      "word": "頓服",
+      "reading": "とんぷく",
+      "meaning": "sự uống thuốc một lần"
+    },
+    {
+      "word": "頓服薬",
+      "reading": "とんぷくやく",
+      "meaning": "các loại thuốc tạo thành một gói duy nhất giảm các triệu chứng như giảm đau và sốt"
     }
   ]
 }

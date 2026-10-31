@@ -75,24 +75,9 @@
   ],
   "vocabulary": [
     {
-      "word": "使",
-      "reading": "し",
-      "meaning": "dùng"
-    },
-    {
-      "word": "使徒",
-      "reading": "しと",
-      "meaning": "môn đồ"
-    },
-    {
-      "word": "使者",
-      "reading": "ししゃ",
-      "meaning": "sứ giả"
-    },
-    {
-      "word": "使い",
-      "reading": "つかい",
-      "meaning": "cách sử dụng"
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "dụng"
     },
     {
       "word": "使用",
@@ -100,29 +85,44 @@
       "meaning": "sự sử dụng"
     },
     {
-      "word": "使う",
-      "reading": "つかう",
-      "meaning": "dụng"
+      "word": "大使",
+      "reading": "たいし",
+      "meaning": "đại sứ"
     },
     {
-      "word": "使役",
-      "reading": "しえき",
-      "meaning": "thể sai khiến"
+      "word": "使い",
+      "reading": "つかい",
+      "meaning": "cách sử dụng"
     },
     {
-      "word": "行使",
-      "reading": "こうし",
-      "meaning": "sự hành động"
-    },
-    {
-      "word": "駆使",
-      "reading": "くし",
-      "meaning": "tận dụng triệt để"
+      "word": "お使い",
+      "reading": "おつかい",
+      "meaning": "việc lặt vặt"
     },
     {
       "word": "使命",
       "reading": "しめい",
       "meaning": "sứ mạng"
+    },
+    {
+      "word": "使い道",
+      "reading": "つかいみち",
+      "meaning": "cách dùng"
+    },
+    {
+      "word": "使用人",
+      "reading": "しようにん",
+      "meaning": "người làm công"
+    },
+    {
+      "word": "使用上",
+      "reading": "しようじょう",
+      "meaning": "khi sử dụng"
+    },
+    {
+      "word": "使用感",
+      "reading": "しようかん",
+      "meaning": "cảm nhận sau khi sử dụng"
     }
   ]
 }

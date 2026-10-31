@@ -92,9 +92,19 @@
       "meaning": "liễu"
     },
     {
-      "word": "青柳",
-      "reading": "あおやぎ",
-      "meaning": "cây liễu xanh"
+      "word": "道柳",
+      "reading": "みちやなぎ",
+      "meaning": "cỏ nút"
+    },
+    {
+      "word": "柳に風",
+      "reading": "やなぎにかぜ",
+      "meaning": "ứng phó linh hoạt"
+    },
+    {
+      "word": "風に柳",
+      "reading": "かぜにやなぎ",
+      "meaning": "sử dụng một cách nhẹ nhàng tự nhiên"
     },
     {
       "word": "柳条",
@@ -102,39 +112,29 @@
       "meaning": "cành liễu"
     },
     {
-      "word": "柳樽",
-      "reading": "やなぎだる",
-      "meaning": "thùng làm bằng gỗ liễu"
+      "word": "化粧柳",
+      "reading": "けしょうやなぎ",
+      "meaning": "liễu salix arbutifolia"
     },
     {
-      "word": "蒲柳",
-      "reading": "ほりゅう",
-      "meaning": "cây liễu đỏ tía"
+      "word": "庭柳",
+      "reading": "にわやなぎ",
+      "meaning": "cỏ nút"
     },
     {
-      "word": "川柳",
-      "reading": "せんりゅう",
-      "meaning": "bài thơ hài hước viết ở thể loại haiku"
+      "word": "柳刃",
+      "reading": "やなぎば",
+      "meaning": "con dao nhà bếp dùng để xắt cá sống làm món sashimi"
     },
     {
-      "word": "柳腰",
-      "reading": "やなぎごし",
-      "meaning": "eo nhỏ"
-    },
-    {
-      "word": "楊柳",
-      "reading": "やなぎ",
-      "meaning": "dương liễu"
-    },
-    {
-      "word": "柳眉",
+      "word": "柳び",
       "reading": "りゅうび",
       "meaning": "lông mày là liễu"
     },
     {
-      "word": "猫柳",
-      "reading": "ねこやなぎ",
-      "meaning": "cây liễu tơ"
+      "word": "熊柳",
+      "reading": "くまやなぎ",
+      "meaning": "biệt sâm nhiều hoa"
     }
   ]
 }

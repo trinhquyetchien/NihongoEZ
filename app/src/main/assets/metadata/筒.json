@@ -89,29 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "封筒",
+      "reading": "ふうとう",
+      "meaning": "bao thư"
+    },
+    {
+      "word": "水筒",
+      "reading": "すいとう",
+      "meaning": "bi đông"
+    },
+    {
       "word": "筒",
       "reading": "つつ",
       "meaning": "ống"
     },
     {
-      "word": "筒井筒",
-      "reading": "つついづつ",
-      "meaning": "tốt kiềm chế một vòng tròn tốt"
-    },
-    {
-      "word": "封筒(クラフト封筒 等)",
-      "reading": "",
-      "meaning": "phong bì"
-    },
-    {
-      "word": "箸筒",
-      "reading": "はしづつ",
-      "meaning": "hộp đựng đũa hình trụ"
-    },
-    {
-      "word": "多筒",
-      "reading": "たとう",
-      "meaning": "sự nhiều ống"
+      "word": "筒子",
+      "reading": "ピンズ",
+      "meaning": "hoa văn ống tròn được khắc trên quân cờ mạt chược"
     },
     {
       "word": "筒型",
@@ -119,24 +114,29 @@
       "meaning": "hình trụ"
     },
     {
-      "word": "短筒",
-      "reading": "たんづつ",
-      "meaning": "súng lục"
-    },
-    {
       "word": "筒形",
       "reading": "つつがた",
       "meaning": "hình trụ"
     },
     {
-      "word": "単筒",
-      "reading": "たんとう",
-      "meaning": "ống đơn"
+      "word": "多筒",
+      "reading": "たとう",
+      "meaning": "sự nhiều ống"
     },
     {
-      "word": "筒子",
-      "reading": "ピンズ",
-      "meaning": "hoa văn ống tròn được khắc trên quân cờ mạt chược"
+      "word": "多筒式",
+      "reading": "たとうしき",
+      "meaning": "nhiều ống"
+    },
+    {
+      "word": "銃の筒",
+      "reading": "じゅうのつつ",
+      "meaning": "thùng một súng"
+    },
+    {
+      "word": "筒状",
+      "reading": "つつじょう",
+      "meaning": "hình ống"
     }
   ]
 }

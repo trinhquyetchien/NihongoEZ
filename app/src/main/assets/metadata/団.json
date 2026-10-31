@@ -91,19 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "団",
-      "reading": "だん",
-      "meaning": "toán"
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "nệm"
     },
     {
-      "word": "財団",
-      "reading": "ざいだん",
-      "meaning": "quỹ"
-    },
-    {
-      "word": "公団",
-      "reading": "こうだん",
-      "meaning": "công ty công cộng"
+      "word": "団体",
+      "reading": "だんたい",
+      "meaning": "đoàn thể"
     },
     {
       "word": "集団",
@@ -111,24 +106,9 @@
       "meaning": "tập thể"
     },
     {
-      "word": "軍団",
-      "reading": "ぐんだん",
-      "meaning": "đoàn quân"
-    },
-    {
-      "word": "教団",
-      "reading": "きょうだん",
-      "meaning": "tổ chức tôn giáo"
-    },
-    {
-      "word": "球団",
-      "reading": "きゅうだん",
-      "meaning": "đội bóng chày chuyên nghiệp"
-    },
-    {
-      "word": "楽団",
-      "reading": "がくだん",
-      "meaning": "dàn nhạc"
+      "word": "団地",
+      "reading": "だんち",
+      "meaning": "khu chung cư"
     },
     {
       "word": "劇団",
@@ -136,9 +116,29 @@
       "meaning": "đoàn kịch"
     },
     {
-      "word": "サーカス団",
-      "reading": "サーカスだん",
-      "meaning": "đoàn xiếc"
+      "word": "団結",
+      "reading": "だんけつ",
+      "meaning": "đoàn kết"
+    },
+    {
+      "word": "公団",
+      "reading": "こうだん",
+      "meaning": "công ty công cộng"
+    },
+    {
+      "word": "団",
+      "reading": "だん",
+      "meaning": "toán"
+    },
+    {
+      "word": "シ団",
+      "reading": "シだん",
+      "meaning": "công đoàn"
+    },
+    {
+      "word": "油団",
+      "reading": "ゆとん",
+      "meaning": "thảm giấy"
     }
   ]
 }

@@ -88,14 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "三曹",
-      "reading": "さんそう",
-      "meaning": "trung sĩ"
-    },
-    {
-      "word": "陸曹",
-      "reading": "りくそう",
-      "meaning": "hạ sĩ quan"
+      "word": "軍曹",
+      "reading": "ぐんそう",
+      "meaning": "trung sỹ"
     },
     {
       "word": "曹長",
@@ -103,24 +98,19 @@
       "meaning": "làm chủ hạ sĩ cảnh sát"
     },
     {
-      "word": "二曹",
-      "reading": "にそう",
-      "meaning": "hai pha"
+      "word": "曹長石",
+      "reading": "そうちょうせき",
+      "meaning": "albit"
     },
     {
-      "word": "児曹",
-      "reading": "じそう",
-      "meaning": "trẻ con"
+      "word": "御曹司",
+      "reading": "おんぞうし",
+      "meaning": "con trai của một gia đình"
     },
     {
-      "word": "曹司",
-      "reading": "ぞうし",
-      "meaning": "con thứ"
-    },
-    {
-      "word": "兵曹",
-      "reading": "へいそう",
-      "meaning": "bảo đảm đi lính"
+      "word": "重曹",
+      "reading": "じゅうそう",
+      "meaning": "thuốc muối"
     },
     {
       "word": "法曹",
@@ -128,14 +118,24 @@
       "meaning": "luật sư"
     },
     {
+      "word": "三曹",
+      "reading": "さんそう",
+      "meaning": "trung sĩ"
+    },
+    {
+      "word": "二曹",
+      "reading": "にそう",
+      "meaning": "hai pha"
+    },
+    {
       "word": "一曹",
       "reading": "いっそう",
       "meaning": "làm chủ hạ sĩ cảnh sát"
     },
     {
-      "word": "重曹",
-      "reading": "じゅうそう",
-      "meaning": "thuốc muối"
+      "word": "空曹",
+      "reading": "くうそう",
+      "meaning": "hạ sĩ quan thuộc lực lượng phòng thủ hàng không nhật bản"
     }
   ]
 }

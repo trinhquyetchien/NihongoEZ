@@ -94,24 +94,34 @@
       "meaning": "màu tím"
     },
     {
+      "word": "内紫",
+      "reading": "うちむらさき",
+      "meaning": "loài sò tím washington"
+    },
+    {
       "word": "紫外",
       "reading": "しがい",
       "meaning": "cực tím"
     },
     {
-      "word": "紫苑",
-      "reading": "しおん",
-      "meaning": "thạch thảo"
+      "word": "赤紫",
+      "reading": "あかむらさき",
+      "meaning": "màu đỏ sắc tía"
     },
     {
-      "word": "紫根",
-      "reading": "しこん",
-      "meaning": "lithospermum erythrorhizon"
+      "word": "青紫",
+      "reading": "あおむらさき",
+      "meaning": "xanh tím"
     },
     {
-      "word": "紫貝",
-      "reading": "むらさきがい",
-      "meaning": "trai địa trung hải"
+      "word": "深紫",
+      "reading": "ふかむらさき",
+      "meaning": "tím đậm"
+    },
+    {
+      "word": "藤紫",
+      "reading": "ふじむらさき",
+      "meaning": "tím hoa cà"
     },
     {
       "word": "紫微",
@@ -119,24 +129,14 @@
       "meaning": "tử vi"
     },
     {
-      "word": "大紫",
-      "reading": "おおむらさき",
-      "meaning": "bướm đại tử"
+      "word": "紫膜",
+      "reading": "むらさきまく",
+      "meaning": "màng tím"
     },
     {
-      "word": "紫色",
-      "reading": "むらさきいろ",
-      "meaning": "màu tía"
-    },
-    {
-      "word": "紫紺",
-      "reading": "しこん",
-      "meaning": "màu đỏ tía hơi xanh"
-    },
-    {
-      "word": "紫蘇",
-      "reading": "しそ",
-      "meaning": "cây tía tô"
+      "word": "紫芋",
+      "reading": "むらさきいも",
+      "meaning": "khoai môn"
     }
   ]
 }

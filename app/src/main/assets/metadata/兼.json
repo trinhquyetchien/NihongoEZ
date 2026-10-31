@@ -90,19 +90,39 @@
   ],
   "vocabulary": [
     {
+      "word": "兼用",
+      "reading": "けんよう",
+      "meaning": "sự sử dụng kết hợp"
+    },
+    {
+      "word": "気兼ね",
+      "reading": "きがね",
+      "meaning": "khách khí"
+    },
+    {
+      "word": "兼業",
+      "reading": "けんぎょう",
+      "meaning": "nghề kiêm nhiệm"
+    },
+    {
       "word": "兼",
       "reading": "けん",
       "meaning": "và"
     },
     {
-      "word": "兼ね兼ね",
-      "reading": "かねがね",
-      "meaning": "thường"
+      "word": "兼す",
+      "reading": "けんす",
+      "meaning": "kết hợp với"
     },
     {
-      "word": "兼用",
-      "reading": "けんよう",
-      "meaning": "sự sử dụng kết hợp"
+      "word": "兼ねて",
+      "reading": "かねて",
+      "meaning": "đồng thời"
+    },
+    {
+      "word": "兼ね役",
+      "reading": "かねやく",
+      "meaning": "kiêm thêm công việc nữa"
     },
     {
       "word": "兼任",
@@ -110,34 +130,14 @@
       "meaning": "sự kiêm nhiệm"
     },
     {
-      "word": "兼行",
-      "reading": "けんこう",
-      "meaning": "làm đồng thời"
+      "word": "兼務",
+      "reading": "けんむ",
+      "meaning": "kết hợp hai hoặc nhiều nhiệm vụ"
     },
     {
-      "word": "兼職",
-      "reading": "けんしょく",
-      "meaning": "kiêm chức"
-    },
-    {
-      "word": "兼営",
-      "reading": "けんえい",
-      "meaning": "việc đồng thời thực hiện nhiều công việc kinh doanh"
-    },
-    {
-      "word": "兼轄",
-      "reading": "けんかつ",
-      "meaning": "kiêm nhiệm"
-    },
-    {
-      "word": "兼官",
-      "reading": "けんかん",
-      "meaning": "đảm nhiệm thêm chức vụ khác"
-    },
-    {
-      "word": "兼修",
-      "reading": "けんしゅう",
-      "meaning": "học song song"
+      "word": "兼ねる",
+      "reading": "かねる",
+      "meaning": "gồm có"
     }
   ]
 }

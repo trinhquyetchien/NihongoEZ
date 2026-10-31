@@ -33,6 +33,16 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "箪笥",
+      "reading": "たんす",
+      "meaning": "tủ"
+    },
+    {
+      "word": "茶箪笥",
+      "reading": "ちゃだんす",
+      "meaning": "tủ búp phê"
+    },
+    {
       "word": "櫛笥",
       "reading": "くしげ",
       "meaning": "giá đỡ lược"
@@ -43,29 +53,14 @@
       "meaning": "tủ"
     },
     {
-      "word": "箪笥",
-      "reading": "たんす",
-      "meaning": "tủ"
-    },
-    {
       "word": "碁笥",
       "reading": "ごけ",
       "meaning": "đi - côngtenơ đá"
     },
     {
-      "word": "ベビー箪笥",
-      "reading": "ベビーだんす",
-      "meaning": "tủ đựng quần áo em bé"
-    },
-    {
       "word": "用箪笥",
       "reading": "ようだんす",
       "meaning": "tủ com"
-    },
-    {
-      "word": "茶箪笥",
-      "reading": "ちゃだんす",
-      "meaning": "tủ búp phê"
     },
     {
       "word": "衣装箪笥",
@@ -76,6 +71,11 @@
       "word": "洋服箪笥",
       "reading": "ようふくだんす",
       "meaning": "tủ áo quần"
+    },
+    {
+      "word": "ベビー箪笥",
+      "reading": "ベビーだんす",
+      "meaning": "tủ đựng quần áo em bé"
     },
     {
       "word": "衣類箪笥",

@@ -89,19 +89,14 @@
       "meaning": "sự tuần hoàn"
     },
     {
-      "word": "因循",
-      "reading": "いんじゅん",
-      "meaning": "sự do dự"
+      "word": "大循環",
+      "reading": "だいじゅんかん",
+      "meaning": "hệ tuần hoàn hệ thống"
     },
     {
-      "word": "循行",
-      "reading": "じゅんこう",
-      "meaning": "tuần hoàn"
-    },
-    {
-      "word": "再循環",
-      "reading": "さいじゅんかん",
-      "meaning": "tái sinh"
+      "word": "循環性",
+      "reading": "じゅんかんせい",
+      "meaning": "tính chất chu kỳ"
     },
     {
       "word": "循環系",
@@ -109,9 +104,9 @@
       "meaning": "hệ tuần hoàn"
     },
     {
-      "word": "好循環",
-      "reading": "こうじゅんかん",
-      "meaning": "vòng tuần hoàn tốt"
+      "word": "体循環",
+      "reading": "たいじゅんかん",
+      "meaning": "hệ tuần hoàn cơ thể"
     },
     {
       "word": "水循環",
@@ -119,19 +114,24 @@
       "meaning": "vòng tuần hoàn nước"
     },
     {
-      "word": "フェレル循環",
-      "reading": "フェレルじゅんかん",
-      "meaning": "hoàn lưu ferrel"
+      "word": "循環口",
+      "reading": "じゅんかんくち",
+      "meaning": "miệng lưu thông"
     },
     {
-      "word": "ハドレー循環",
-      "reading": "ハドレーじゅんかん",
-      "meaning": "hoàn lưu hadley"
+      "word": "循環線",
+      "reading": "じゅんかんせん",
+      "meaning": "uốn thành vòng hàng"
     },
     {
-      "word": "肺循環",
-      "reading": "はいじゅんかん",
-      "meaning": "tuần hoàn phổi"
+      "word": "再循環",
+      "reading": "さいじゅんかん",
+      "meaning": "tái sinh"
+    },
+    {
+      "word": "小循環",
+      "reading": "しょうじゅんかん",
+      "meaning": "tuần hòan phổi"
     }
   ]
 }

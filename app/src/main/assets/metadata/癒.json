@@ -90,44 +90,34 @@
   ],
   "vocabulary": [
     {
-      "word": "治癒",
-      "reading": "ちゆ",
-      "meaning": "sự điều trị"
-    },
-    {
       "word": "癒し",
       "reading": "いやし",
       "meaning": "chữa lành"
     },
     {
-      "word": "快癒",
-      "reading": "かいゆ",
-      "meaning": "sự bình phục"
+      "word": "癒し系",
+      "reading": "いやしけい",
+      "meaning": "phép chữa bệnh"
     },
     {
-      "word": "全癒",
-      "reading": "ぜんゆ",
-      "meaning": "sự lành hoàn toàn"
+      "word": "癒し犬",
+      "reading": "いやしけん",
+      "meaning": "chó hỗ trợ trị liệu"
     },
     {
-      "word": "平癒",
-      "reading": "へいゆ",
-      "meaning": "sự lại sức"
+      "word": "治癒",
+      "reading": "ちゆ",
+      "meaning": "sự điều trị"
     },
     {
-      "word": "癒合",
-      "reading": "ゆごう",
-      "meaning": "liền da"
+      "word": "癒る",
+      "reading": "いる",
+      "meaning": "bình tĩnh"
     },
     {
-      "word": "癒着",
-      "reading": "ゆちゃく",
-      "meaning": "tính dính chặt"
-    },
-    {
-      "word": "癒す",
-      "reading": "いやす",
-      "meaning": "chữa lành"
+      "word": "腹癒",
+      "reading": "はらいせ",
+      "meaning": "sự trả thù"
     },
     {
       "word": "癒ゆ",
@@ -135,9 +125,19 @@
       "meaning": "chữa lành"
     },
     {
-      "word": "癒る",
-      "reading": "いる",
-      "meaning": "bình tĩnh"
+      "word": "癒す",
+      "reading": "いやす",
+      "meaning": "chữa lành"
+    },
+    {
+      "word": "癒着",
+      "reading": "ゆちゃく",
+      "meaning": "tính dính chặt"
+    },
+    {
+      "word": "疎癒ゆ",
+      "reading": "おろいゆ",
+      "meaning": "trở nên tốt hơn"
     }
   ]
 }

@@ -95,39 +95,9 @@
       "meaning": "khuyết điểm"
     },
     {
-      "word": "陥落",
-      "reading": "かんらく",
-      "meaning": "sự bị thụt xuống"
-    },
-    {
-      "word": "陥穽",
-      "reading": "かんせい",
-      "meaning": "bẫy"
-    },
-    {
-      "word": "擠陥",
-      "reading": "せいかん",
-      "meaning": "quy tội"
-    },
-    {
-      "word": "失陥",
-      "reading": "しっかん",
-      "meaning": "dâng nộp"
-    },
-    {
-      "word": "陥没",
-      "reading": "かんぼつ",
-      "meaning": "sụt lún"
-    },
-    {
-      "word": "陥入",
-      "reading": "かんにゅう",
-      "meaning": "rơi vào"
-    },
-    {
-      "word": "陥る",
-      "reading": "おちいる",
-      "meaning": "rơi vào"
+      "word": "欠陥車",
+      "reading": "けっかんしゃ",
+      "meaning": "xe ô tô lỗi do nhà sản xuất"
     },
     {
       "word": "欠陥品",
@@ -135,9 +105,39 @@
       "meaning": "hàng hóa bị lỗi"
     },
     {
-      "word": "欠陥車",
-      "reading": "けっかんしゃ",
-      "meaning": "xe ô tô lỗi do nhà sản xuất"
+      "word": "陥る",
+      "reading": "おちいる",
+      "meaning": "rơi vào"
+    },
+    {
+      "word": "陥落",
+      "reading": "かんらく",
+      "meaning": "sự bị thụt xuống"
+    },
+    {
+      "word": "陥没",
+      "reading": "かんぼつ",
+      "meaning": "sụt lún"
+    },
+    {
+      "word": "陥没湖",
+      "reading": "かんぼつこ",
+      "meaning": "hồ nước thành hình trong hõm chảo trên miệng núi lửa"
+    },
+    {
+      "word": "陥れる",
+      "reading": "おとしいれる",
+      "meaning": "dụ dỗ"
+    },
+    {
+      "word": "陥せい",
+      "reading": "かんせい",
+      "meaning": "bẫy"
+    },
+    {
+      "word": "陥入",
+      "reading": "かんにゅう",
+      "meaning": "rơi vào"
     }
   ]
 }

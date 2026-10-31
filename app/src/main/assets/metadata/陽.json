@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "陽",
-      "reading": "よう",
-      "meaning": "mặt trời"
+      "word": "太陽",
+      "reading": "たいよう",
+      "meaning": "thái dương"
     },
     {
       "word": "陽気",
@@ -99,9 +99,29 @@
       "meaning": "thảnh thơi"
     },
     {
-      "word": "夕陽",
-      "reading": "ゆうひ",
-      "meaning": "mặt trời lặn"
+      "word": "太陽鳥",
+      "reading": "たいようちょう",
+      "meaning": "chim mặt trời"
+    },
+    {
+      "word": "陽",
+      "reading": "よう",
+      "meaning": "mặt trời"
+    },
+    {
+      "word": "陽に",
+      "reading": "ように",
+      "meaning": "rõ ràng"
+    },
+    {
+      "word": "陽的",
+      "reading": "ようてき",
+      "meaning": "hiện"
+    },
+    {
+      "word": "陽物",
+      "reading": "ようぶつ",
+      "meaning": "tượng dương vật"
     },
     {
       "word": "陽線",
@@ -109,34 +129,14 @@
       "meaning": "nến tăng"
     },
     {
-      "word": "斜陽",
-      "reading": "しゃよう",
-      "meaning": "mặt trời về chiều"
+      "word": "黒陽",
+      "reading": "くろひ",
+      "meaning": "tên 1 loại cà tím của nhật"
     },
     {
-      "word": "陽報",
-      "reading": "ようほう",
-      "meaning": "mở sự thưởng hội từ thiện)"
-    },
-    {
-      "word": "陽爻",
-      "reading": "ようこう",
-      "meaning": "yang yao"
-    },
-    {
-      "word": "陽イオン",
-      "reading": "ようイオン",
-      "meaning": "ion dương"
-    },
-    {
-      "word": "陽忍",
-      "reading": "ようにん",
-      "meaning": "ninja làm việc công khai"
-    },
-    {
-      "word": "陽動",
-      "reading": "ようどう",
-      "meaning": "sự đánh lạc hướng"
+      "word": "炎陽",
+      "reading": "えんよう",
+      "meaning": "nắng hè chói chang"
     }
   ]
 }

@@ -90,29 +90,39 @@
   ],
   "vocabulary": [
     {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "trường hợp"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "hội trường"
+    },
+    {
       "word": "場",
       "reading": "ば",
       "meaning": "địa điểm"
     },
     {
-      "word": "場外市場",
-      "reading": "じょうがいしじょう",
-      "meaning": "chợ ngoài trời"
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "thị trường"
     },
     {
-      "word": "場面場面",
-      "reading": "ばめんばめん",
-      "meaning": "cảnh này đến cảnh khác"
+      "word": "劇場",
+      "reading": "げきじょう",
+      "meaning": "hí trường"
     },
     {
-      "word": "市場相場",
-      "reading": "しじょうそうば",
-      "meaning": "bản yết giá"
+      "word": "広場",
+      "reading": "ひろば",
+      "meaning": "quảng trường"
     },
     {
-      "word": "職場",
-      "reading": "しょくば",
-      "meaning": "nơi làm việc"
+      "word": "酒場",
+      "reading": "さかば",
+      "meaning": "quán bar"
     },
     {
       "word": "本場",
@@ -120,24 +130,14 @@
       "meaning": "nhà"
     },
     {
-      "word": "売場",
-      "reading": "うりば",
-      "meaning": "quầy"
+      "word": "道場",
+      "reading": "どうじょう",
+      "meaning": "sàn đấu võ"
     },
     {
-      "word": "場況",
-      "reading": "ばきょう",
-      "meaning": "tình hình thị trường chứng khoán"
-    },
-    {
-      "word": "サッカー場",
-      "reading": "サッカーじょう",
-      "meaning": "sân banh"
-    },
-    {
-      "word": "砂場",
-      "reading": "すなば",
-      "meaning": "bãi cát"
+      "word": "役場",
+      "reading": "やくば",
+      "meaning": "tòa thị chính"
     }
   ]
 }

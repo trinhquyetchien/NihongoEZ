@@ -86,6 +86,21 @@
   ],
   "vocabulary": [
     {
+      "word": "頒布",
+      "reading": "はんぷ",
+      "meaning": "sự phân bố"
+    },
+    {
+      "word": "頒布会",
+      "reading": "はんぷかい",
+      "meaning": "câu lạc bộ mua hàng"
+    },
+    {
+      "word": "頒布権",
+      "reading": "はんぷけん",
+      "meaning": "quyền lợi phân phối"
+    },
+    {
       "word": "頒価",
       "reading": "はんか",
       "meaning": "giá phân phối"
@@ -101,24 +116,9 @@
       "meaning": "điểm bạc"
     },
     {
-      "word": "頒布",
-      "reading": "はんぷ",
-      "meaning": "sự phân bố"
-    },
-    {
       "word": "頒海",
       "reading": "はんはい",
       "meaning": "hải phận"
-    },
-    {
-      "word": "頒布権",
-      "reading": "はんぷけん",
-      "meaning": "quyền lợi phân phối"
-    },
-    {
-      "word": "頒布会",
-      "reading": "はんぷかい",
-      "meaning": "câu lạc bộ mua hàng"
     },
     {
       "word": "頒布する",

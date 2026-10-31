@@ -106,9 +106,34 @@
   ],
   "vocabulary": [
     {
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "bơi"
+    },
+    {
       "word": "水泳",
       "reading": "すいえい",
       "meaning": "lội"
+    },
+    {
+      "word": "泳ぎ方",
+      "reading": "およぎかた",
+      "meaning": "phương pháp bơi"
+    },
+    {
+      "word": "泳ぎ",
+      "reading": "およぎ",
+      "meaning": "sự bơi lội"
+    },
+    {
+      "word": "水泳者",
+      "reading": "すいえいしゃ",
+      "meaning": "người bơi"
+    },
+    {
+      "word": "水泳着",
+      "reading": "すいえいぎ",
+      "meaning": "quần áo bơi liền mảnh của phụ nữ"
     },
     {
       "word": "競泳",
@@ -116,44 +141,19 @@
       "meaning": "cuộc thi bơi"
     },
     {
-      "word": "泳法",
-      "reading": "えいほう",
-      "meaning": "cách bơi"
+      "word": "水泳帽",
+      "reading": "すいえいぼう",
+      "meaning": "bơi hoặc tắm mũ"
     },
     {
-      "word": "遠泳",
-      "reading": "えんえい",
-      "meaning": "sự bơi cự ly xa"
+      "word": "犬泳ぐ",
+      "reading": "いぬおよぐ",
+      "meaning": "bơi chó"
     },
     {
-      "word": "泳動",
-      "reading": "えいどう",
-      "meaning": "di cư"
-    },
-    {
-      "word": "側泳",
-      "reading": "そばえい",
-      "meaning": "đứng bên cú đánh"
-    },
-    {
-      "word": "継泳",
-      "reading": "けいえい",
-      "meaning": "thi bơi tiếp sức hỗn hợp"
-    },
-    {
-      "word": "独泳",
-      "reading": "どくえい",
-      "meaning": "sự bơi một mình"
-    },
-    {
-      "word": "胸泳",
-      "reading": "きょうえい",
-      "meaning": "bơi ếch"
-    },
-    {
-      "word": "游泳",
-      "reading": "ゆうえい",
-      "meaning": "sự bơi lội"
+      "word": "泳ぎ手",
+      "reading": "およぎて",
+      "meaning": "người bơi"
     }
   ]
 }

@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
-      "word": "灯",
-      "reading": "ひ",
-      "meaning": "cái đèn"
-    },
-    {
-      "word": "誘導灯/非常灯",
-      "reading": "ゆうどうともしび/ひじょうとう",
-      "meaning": "đèn chỉ dẫn / đèn khẩn cấp"
-    },
-    {
-      "word": "航海灯/標識灯",
-      "reading": "こうかいともしび/ひょうしきとう",
-      "meaning": "đèn hướng biển/đèn đánh dấu"
-    },
-    {
-      "word": "灯り",
-      "reading": "あかり",
-      "meaning": "cái đèn"
-    },
-    {
       "word": "電灯",
       "reading": "でんとう",
       "meaning": "đèn điện"
     },
     {
-      "word": "灯籠",
-      "reading": "とうろう",
-      "meaning": "đèn đá"
+      "word": "灯",
+      "reading": "ひ",
+      "meaning": "cái đèn"
     },
     {
-      "word": "灯す",
-      "reading": "ともす",
-      "meaning": "bật đèn"
+      "word": "灯台",
+      "reading": "とうだい",
+      "meaning": "đèn pha"
     },
     {
-      "word": "灯る",
-      "reading": "ともる",
-      "meaning": "được thắp sáng"
+      "word": "灯油",
+      "reading": "とうゆ",
+      "meaning": "dầu hoả"
     },
     {
-      "word": "洋灯",
-      "reading": "ようとう",
-      "meaning": "lamp"
+      "word": "万灯",
+      "reading": "まんどう",
+      "meaning": "liên hoan đèn lồng tín đồ phật giáo"
     },
     {
-      "word": "幻灯",
-      "reading": "げんとう",
-      "meaning": "đèn chiếu"
+      "word": "灯体",
+      "reading": "とうたい",
+      "meaning": "ánh sáng sân khấu"
+    },
+    {
+      "word": "無灯",
+      "reading": "むとう",
+      "meaning": "việc không có đèn"
+    },
+    {
+      "word": "春灯",
+      "reading": "しゅんとう",
+      "meaning": "đèn mùa xuân"
+    },
+    {
+      "word": "船灯",
+      "reading": "せんとう",
+      "meaning": "đèn của tàu"
+    },
+    {
+      "word": "火灯",
+      "reading": "かとう",
+      "meaning": "đèn lồng gốm"
     }
   ]
 }

@@ -31,9 +31,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "掩蓋",
-      "reading": "えんがい",
-      "meaning": "che dấu"
+      "word": "掩護",
+      "reading": "えんご",
+      "meaning": "sự yểm hộ"
     },
     {
       "word": "掩蔽",
@@ -41,24 +41,24 @@
       "meaning": "sự che lấp"
     },
     {
+      "word": "掩体壕",
+      "reading": "えんたいごう",
+      "meaning": "hố/hào quân sự trên chiến trường"
+    },
+    {
+      "word": "掩蓋",
+      "reading": "えんがい",
+      "meaning": "che dấu"
+    },
+    {
       "word": "掩壕",
       "reading": "えんごう",
       "meaning": "hào"
     },
     {
-      "word": "掩護",
-      "reading": "えんご",
-      "meaning": "sự yểm hộ"
-    },
-    {
       "word": "掩撃",
       "reading": "えんげき",
       "meaning": "việc phục kích"
-    },
-    {
-      "word": "掩体壕",
-      "reading": "えんたいごう",
-      "meaning": "hố/hào quân sự trên chiến trường"
     },
     {
       "word": "掩護射撃",

@@ -106,34 +106,29 @@
   ],
   "vocabulary": [
     {
+      "word": "灰皿",
+      "reading": "はいざら",
+      "meaning": "gạt tàn"
+    },
+    {
       "word": "灰",
       "reading": "はい",
       "meaning": "tro"
     },
     {
-      "word": "灰分測定用灰皿",
-      "reading": "かいぶんそくていようはいざら",
-      "meaning": "gạt tàn đo hàm lượng tro"
+      "word": "灰色",
+      "reading": "はいいろ",
+      "meaning": "màu xám"
     },
     {
-      "word": "石灰",
-      "reading": "せっかい",
-      "meaning": "vôi"
+      "word": "灰受け",
+      "reading": "はいうけ",
+      "meaning": "cái gạt tàn"
     },
     {
-      "word": "遺灰",
-      "reading": "いはい",
-      "meaning": "tro cốt"
-    },
-    {
-      "word": "死灰",
-      "reading": "しかい",
-      "meaning": "không có sức sống như tro tàn"
-    },
-    {
-      "word": "降灰",
-      "reading": "こうかい",
-      "meaning": "tro núi lửa"
+      "word": "灰猫",
+      "reading": "はいねこ",
+      "meaning": "mèo xám"
     },
     {
       "word": "灰白",
@@ -141,19 +136,24 @@
       "meaning": "màu xám"
     },
     {
-      "word": "灰殻",
-      "reading": "はいがら",
-      "meaning": "những tro"
+      "word": "重灰",
+      "reading": "じゅうかい",
+      "meaning": "tro dầy đặc"
     },
     {
-      "word": "灰分",
-      "reading": "かいぶん",
-      "meaning": "tro hoả táng"
+      "word": "灰器",
+      "reading": "はいき",
+      "meaning": "hộp đựng tro"
     },
     {
-      "word": "灰塵",
-      "reading": "かいじん",
-      "meaning": "những tro và bụi"
+      "word": "灰土",
+      "reading": "かいど",
+      "meaning": "những tro và trái đất"
+    },
+    {
+      "word": "灰押し",
+      "reading": "はいおし",
+      "meaning": "mức tro"
     }
   ]
 }

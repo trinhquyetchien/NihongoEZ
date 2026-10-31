@@ -111,19 +111,9 @@
       "meaning": "tích"
     },
     {
-      "word": "古跡",
-      "reading": "こせき",
-      "meaning": "cổ tích"
-    },
-    {
-      "word": "形跡",
-      "reading": "けいせき",
-      "meaning": "bút tích"
-    },
-    {
-      "word": "痕跡",
-      "reading": "こんせき",
-      "meaning": "dấu tích"
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "vết chân"
     },
     {
       "word": "遺跡",
@@ -131,9 +121,19 @@
       "meaning": "di tích"
     },
     {
-      "word": "跡形",
-      "reading": "あとかた",
-      "meaning": "đánh dấu"
+      "word": "追跡",
+      "reading": "ついせき",
+      "meaning": "sự truy đuổi"
+    },
+    {
+      "word": "奇跡",
+      "reading": "きせき",
+      "meaning": "kỳ tích"
+    },
+    {
+      "word": "奇跡的",
+      "reading": "きせきてき",
+      "meaning": "phép lạ"
     },
     {
       "word": "靴跡",
@@ -141,19 +141,19 @@
       "meaning": "dấu giày"
     },
     {
-      "word": "軌跡",
-      "reading": "きせき",
-      "meaning": "quỹ tích"
+      "word": "矢跡",
+      "reading": "やあと",
+      "meaning": "vết tên bắn"
     },
     {
-      "word": "航跡",
-      "reading": "こうせき",
-      "meaning": "thức giấc thuyền)"
+      "word": "臭跡",
+      "reading": "しゅうせき",
+      "meaning": "mùi hương"
     },
     {
-      "word": "墨跡",
-      "reading": "ぼくせき",
-      "meaning": "lối viết"
+      "word": "仏跡",
+      "reading": "ぶっせき",
+      "meaning": "di tích lịch sử liên quan đến phật giáo"
     }
   ]
 }

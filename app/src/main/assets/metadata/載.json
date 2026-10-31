@@ -107,34 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "載",
-      "reading": "さい",
-      "meaning": "một trong những đơn vị số trong lĩnh vực văn hóa chữ hán. số và chữ số được hiển thị khác nhau tùy thuộc vào thời đại và khu vực"
-    },
-    {
       "word": "載る",
       "reading": "のる",
       "meaning": "được đặt lên"
-    },
-    {
-      "word": "載せる",
-      "reading": "のせる",
-      "meaning": "chất lên"
-    },
-    {
-      "word": "載架",
-      "reading": "さいか",
-      "meaning": "việc đặt ngang qua để tạo thành một cây cầu"
-    },
-    {
-      "word": "千載",
-      "reading": "せんざい",
-      "meaning": "nghìn năm"
-    },
-    {
-      "word": "記載",
-      "reading": "きさい",
-      "meaning": "sự ghi chép"
     },
     {
       "word": "掲載",
@@ -142,19 +117,44 @@
       "meaning": "sự đăng bài lên báo chí"
     },
     {
+      "word": "記載",
+      "reading": "きさい",
+      "meaning": "sự ghi chép"
+    },
+    {
+      "word": "連載",
+      "reading": "れんさい",
+      "meaning": "sự phát hành theo kỳ"
+    },
+    {
+      "word": "搭載",
+      "reading": "とうさい",
+      "meaning": "sự trang bị"
+    },
+    {
+      "word": "満載",
+      "reading": "まんさい",
+      "meaning": "sự xếp đầy"
+    },
+    {
+      "word": "転載",
+      "reading": "てんさい",
+      "meaning": "sự in lại"
+    },
+    {
+      "word": "載せる",
+      "reading": "のせる",
+      "meaning": "chất lên"
+    },
+    {
+      "word": "禁転載",
+      "reading": "きんてんさい",
+      "meaning": "cấm sao chép"
+    },
+    {
       "word": "車載",
       "reading": "しゃさい",
       "meaning": "trên xe"
-    },
-    {
-      "word": "載積",
-      "reading": "さいせき",
-      "meaning": "sự chất hàng"
-    },
-    {
-      "word": "載炭",
-      "reading": "さいたん",
-      "meaning": "ăn than"
     }
   ]
 }

@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "受託",
-      "reading": "じゅたく",
-      "meaning": "hiện thân giao phó với"
-    },
-    {
-      "word": "神託",
-      "reading": "しんたく",
-      "meaning": "lời tiên tri"
-    },
-    {
       "word": "委託",
       "reading": "いたく",
       "meaning": "sự ủy thác"
     },
     {
+      "word": "委託者",
+      "reading": "いたくしゃ",
+      "meaning": "người ủy thác"
+    },
+    {
+      "word": "委託生",
+      "reading": "いたくせい",
+      "meaning": "sinh viên học bổng nhắn bởi văn phòng chính phủ hoặc doanh nghiệp"
+    },
+    {
+      "word": "再委託",
+      "reading": "さいいたく",
+      "meaning": "sự tái ủy thác"
+    },
+    {
+      "word": "信託",
+      "reading": "しんたく",
+      "meaning": "việc tín thác"
+    },
+    {
+      "word": "信託業",
+      "reading": "しんたくぎょう",
+      "meaning": "tin cậy doanh nghiệp"
+    },
+    {
+      "word": "受託",
+      "reading": "じゅたく",
+      "meaning": "hiện thân giao phó với"
+    },
+    {
+      "word": "受託者",
+      "reading": "じゅたくしゃ",
+      "meaning": "người nhận giữ"
+    },
+    {
+      "word": "受託人",
+      "reading": "じゅたくにん",
+      "meaning": "đại lý gửi bán"
+    },
+    {
       "word": "託す",
       "reading": "たくす",
       "meaning": "ủy thác"
-    },
-    {
-      "word": "託児",
-      "reading": "たくじ",
-      "meaning": "sự trông trẻ"
-    },
-    {
-      "word": "仮託",
-      "reading": "かたく",
-      "meaning": "viện cớ"
-    },
-    {
-      "word": "結託",
-      "reading": "けったく",
-      "meaning": "sự câu kết"
-    },
-    {
-      "word": "屈託",
-      "reading": "くったく",
-      "meaning": "lo lắng"
-    },
-    {
-      "word": "御託",
-      "reading": "ごたく",
-      "meaning": "chán ngắt nói"
-    },
-    {
-      "word": "託言",
-      "reading": "たくげん",
-      "meaning": "viện cớ"
     }
   ]
 }

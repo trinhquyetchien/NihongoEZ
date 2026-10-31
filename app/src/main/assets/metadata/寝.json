@@ -93,29 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "寝",
-      "reading": "ね",
-      "meaning": "sự ngủ"
-    },
-    {
-      "word": "寝巻",
-      "reading": "ねまき",
-      "meaning": "quần áo ngủ"
-    },
-    {
-      "word": "寝間着",
-      "reading": "ねまき",
-      "meaning": "quần áo ngủ"
-    },
-    {
-      "word": "ねタバコ 寝タバコ",
-      "reading": "寝タバコ",
-      "meaning": "hút thuốc lá xong ngủ quên"
-    },
-    {
-      "word": "就寝",
-      "reading": "しゅうしん",
-      "meaning": "đi ngủ"
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "đặt lưng"
     },
     {
       "word": "寝坊",
@@ -123,24 +103,44 @@
       "meaning": "việc ngủ dậy muộn"
     },
     {
-      "word": "寝具",
-      "reading": "しんぐ",
-      "meaning": "đồ ngủ"
+      "word": "昼寝",
+      "reading": "ひるね",
+      "meaning": "sự ngủ trưa"
     },
     {
-      "word": "寝食",
-      "reading": "しんしょく",
-      "meaning": "việc ăn và ngủ"
+      "word": "寝台",
+      "reading": "しんだい",
+      "meaning": "cái giường"
     },
     {
-      "word": "寝汗",
-      "reading": "ねあせ",
-      "meaning": "sự đổ mồ hôi khi đang ngủ"
+      "word": "寝",
+      "reading": "ね",
+      "meaning": "sự ngủ"
     },
     {
-      "word": "寝癖",
-      "reading": "ねぐせ",
-      "meaning": "sự xáo trộn của tóc hoặc chăn"
+      "word": "寝様",
+      "reading": "ねざま",
+      "meaning": "tư thế khi nằm ngủ"
+    },
+    {
+      "word": "外寝",
+      "reading": "そとね",
+      "meaning": "ngủ ngoài trời"
+    },
+    {
+      "word": "寝姿",
+      "reading": "ねすがた",
+      "meaning": "tư thế ngủ"
+    },
+    {
+      "word": "嘘寝",
+      "reading": "うそね",
+      "meaning": "giả vờ ngủ"
+    },
+    {
+      "word": "ガン寝",
+      "reading": "ガンね",
+      "meaning": "ngủ ngon"
     }
   ]
 }

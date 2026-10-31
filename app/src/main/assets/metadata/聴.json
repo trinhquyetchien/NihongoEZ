@@ -91,14 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "傾聴",
-      "reading": "けいちょう",
-      "meaning": "sự chú ý nghe"
+      "word": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "thính giác"
     },
     {
-      "word": "聴く",
-      "reading": "きく",
-      "meaning": "nghe"
+      "word": "聴講",
+      "reading": "ちょうこう",
+      "meaning": "sự nghe giảng"
     },
     {
       "word": "視聴",
@@ -106,39 +106,39 @@
       "meaning": "nhìn và nghe"
     },
     {
-      "word": "吹聴",
-      "reading": "ふいちょう",
-      "meaning": "làm quần chúng"
+      "word": "視聴者",
+      "reading": "しちょうしゃ",
+      "meaning": "khán giả"
     },
     {
-      "word": "聴聞",
-      "reading": "ちょうもん",
-      "meaning": "sự nghe"
+      "word": "視聴率",
+      "reading": "しちょうりつ",
+      "meaning": "tỷ lệ khán thính giả"
     },
     {
-      "word": "共聴",
-      "reading": "きょうちょう",
-      "meaning": "xem tivi chung"
-    },
-    {
-      "word": "来聴",
-      "reading": "らいちょう",
-      "meaning": "sự có mặt"
-    },
-    {
-      "word": "聴牌",
-      "reading": "テンパイ",
-      "meaning": "tenpai - trạng thái chờ đợi quân bất kì nào đó để hoàn thành bài"
-    },
-    {
-      "word": "色聴",
-      "reading": "しきちょう",
-      "meaning": "thính giác liên kết màu"
+      "word": "聴く",
+      "reading": "きく",
+      "meaning": "nghe"
     },
     {
       "word": "聴取",
       "reading": "ちょうしゅ",
       "meaning": "sự nghe"
+    },
+    {
+      "word": "聴取者",
+      "reading": "ちょうしゅしゃ",
+      "meaning": "người nghe đài"
+    },
+    {
+      "word": "盗聴",
+      "reading": "とうちょう",
+      "meaning": "sự nghe trộm"
+    },
+    {
+      "word": "難聴",
+      "reading": "なんちょう",
+      "meaning": "điếc"
     }
   ]
 }

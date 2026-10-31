@@ -90,24 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "業",
-      "reading": "ぎょう",
-      "meaning": "kỹ năng"
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "buổi học"
     },
     {
-      "word": "営業",
-      "reading": "えいぎょう",
-      "meaning": "doanh nghiệp"
-    },
-    {
-      "word": "企業業績",
-      "reading": "きぎょうぎょうせき",
-      "meaning": "lợi tức tập đoàn"
-    },
-    {
-      "word": "窯業",
-      "reading": "ようぎょう",
-      "meaning": "công nghiệp gốm"
+      "word": "産業",
+      "reading": "さんぎょう",
+      "meaning": "công nghiệp"
     },
     {
       "word": "工業",
@@ -115,9 +105,9 @@
       "meaning": "công nghiệp"
     },
     {
-      "word": "産業",
-      "reading": "さんぎょう",
-      "meaning": "công nghiệp"
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaning": "doanh nghiệp"
     },
     {
       "word": "作業",
@@ -130,14 +120,24 @@
       "meaning": "buôn bán"
     },
     {
-      "word": "残業",
-      "reading": "ざんぎょう",
-      "meaning": "sự làm thêm"
+      "word": "漁業",
+      "reading": "ぎょぎょう",
+      "meaning": "nghề chài lưới"
     },
     {
-      "word": "仕業",
-      "reading": "しわざ",
-      "meaning": "hành động"
+      "word": "事業",
+      "reading": "じぎょう",
+      "meaning": "công cuộc"
+    },
+    {
+      "word": "業務",
+      "reading": "ぎょうむ",
+      "meaning": "nhiệm vụ"
+    },
+    {
+      "word": "業",
+      "reading": "ぎょう",
+      "meaning": "kỹ năng"
     }
   ]
 }

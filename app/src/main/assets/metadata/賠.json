@@ -66,24 +66,9 @@
   ],
   "vocabulary": [
     {
-      "word": "賠責",
-      "reading": "ばいせき",
-      "meaning": "bảo hiểm tiền nợ"
-    },
-    {
       "word": "賠償",
       "reading": "ばいしょう",
       "meaning": "sự bồi thường"
-    },
-    {
-      "word": "損賠",
-      "reading": "そんばい",
-      "meaning": "sự bồi thường thiệt hại"
-    },
-    {
-      "word": "自賠責",
-      "reading": "じばいせき",
-      "meaning": "bảo hiểm xe"
     },
     {
       "word": "賠償金",
@@ -91,14 +76,29 @@
       "meaning": "tiền bồi thường"
     },
     {
+      "word": "自賠責",
+      "reading": "じばいせき",
+      "meaning": "bảo hiểm xe"
+    },
+    {
+      "word": "損賠",
+      "reading": "そんばい",
+      "meaning": "sự bồi thường thiệt hại"
+    },
+    {
       "word": "自賠法",
       "reading": "じばいほう",
       "meaning": "sự bồi thường sự cố xe ô tô hành động"
     },
     {
-      "word": "サービス賠償",
-      "reading": "さーびすばいしょう",
-      "meaning": "đền bù bằng dịch vụ"
+      "word": "賠責",
+      "reading": "ばいせき",
+      "meaning": "bảo hiểm tiền nợ"
+    },
+    {
+      "word": "賠償する",
+      "reading": "ばいしょうする",
+      "meaning": "báo đền"
     },
     {
       "word": "戦争賠償",
@@ -106,14 +106,14 @@
       "meaning": "bồi thường chiến tranh"
     },
     {
-      "word": "国家賠償",
-      "reading": "こっかばいしょう",
-      "meaning": "phát biểu những sửa chữa"
+      "word": "賠償程度",
+      "reading": "ばいしょうていど",
+      "meaning": "mức bồi thường"
     },
     {
-      "word": "役務賠償",
-      "reading": "えきむばいしょう",
-      "meaning": "đền bù bằng dịch vụ"
+      "word": "戦争賠償金",
+      "reading": "せんそうばいしょうきん",
+      "meaning": "sửa chữa chiến tranh"
     }
   ]
 }

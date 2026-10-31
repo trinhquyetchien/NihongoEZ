@@ -106,19 +106,19 @@
   ],
   "vocabulary": [
     {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "hành lý"
+    },
+    {
       "word": "荷",
       "reading": "に",
       "meaning": "chuyến hàng"
     },
     {
-      "word": "荷重負荷",
-      "reading": "かじゅーふか",
-      "meaning": "chịu sức nặng"
-    },
-    {
-      "word": "稲荷",
-      "reading": "いなり",
-      "meaning": "thần nông"
+      "word": "入荷",
+      "reading": "にゅうか",
+      "meaning": "sự nhập hàng"
     },
     {
       "word": "出荷",
@@ -126,19 +126,14 @@
       "meaning": "sự đưa hàng"
     },
     {
-      "word": "荷車",
-      "reading": "にぐるま",
-      "meaning": "xe kéo dùng để chở hàng"
+      "word": "負荷",
+      "reading": "ふか",
+      "meaning": "sự tiếp tục gánh vác trách nhiệm"
     },
     {
-      "word": "船荷",
-      "reading": "ふなに",
-      "meaning": "hàng hóa"
-    },
-    {
-      "word": "積荷",
-      "reading": "つみに",
-      "meaning": "bản lược khai"
+      "word": "一荷",
+      "reading": "いっか",
+      "meaning": "một chuyến tải hàng"
     },
     {
       "word": "分荷",
@@ -146,14 +141,19 @@
       "meaning": "việc phân phối hàng hóa"
     },
     {
-      "word": "荷葉",
-      "reading": "かよう",
-      "meaning": "lá sen"
+      "word": "上荷",
+      "reading": "うわに",
+      "meaning": "hàng hóa chất lên trên tàu xe"
     },
     {
-      "word": "装荷",
-      "reading": "そうか",
-      "meaning": "hàng chở"
+      "word": "荷室",
+      "reading": "にしつ",
+      "meaning": "phòng hành lý"
+    },
+    {
+      "word": "荷姿",
+      "reading": "にすがた",
+      "meaning": "kiểu cách đóng gói"
     }
   ]
 }

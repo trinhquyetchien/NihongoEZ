@@ -96,24 +96,34 @@
       "meaning": "tình yêu"
     },
     {
-      "word": "恋恋",
-      "reading": "れんれん",
-      "meaning": "sự lưu luyến"
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "người yêu"
     },
     {
-      "word": "恋恋として",
-      "reading": "れんれんとして",
-      "meaning": "trìu mến"
+      "word": "失恋",
+      "reading": "しつれん",
+      "meaning": "sự thất tình"
     },
     {
-      "word": "恋衣",
-      "reading": "こいごろも",
-      "meaning": "chiếc áo gắn liền với tình yêu"
+      "word": "恋しい",
+      "reading": "こいしい",
+      "meaning": "được yêu mến"
     },
     {
-      "word": "初恋",
-      "reading": "はつこい",
-      "meaning": "mối tình đầu"
+      "word": "恋愛",
+      "reading": "れんあい",
+      "meaning": "luyến ái"
+    },
+    {
+      "word": "恋する",
+      "reading": "こいする",
+      "meaning": "yêu"
+    },
+    {
+      "word": "恋水",
+      "reading": "こいみず",
+      "meaning": "nước mắt tình yêu"
     },
     {
       "word": "エロ恋",
@@ -121,24 +131,14 @@
       "meaning": "tình yêu thuần túy tình dục"
     },
     {
-      "word": "恋バナ",
-      "reading": "こいバナ",
-      "meaning": "chuyện tình"
+      "word": "恋猫",
+      "reading": "こいねこ",
+      "meaning": "mèo bên trong dạn dày"
     },
     {
-      "word": "悲恋",
-      "reading": "ひれん",
-      "meaning": "tình yêu mù quáng"
-    },
-    {
-      "word": "色恋",
-      "reading": "いろこい",
-      "meaning": "tình yêu thể xác"
-    },
-    {
-      "word": "恋歌",
-      "reading": "れんか",
-      "meaning": "bài hát tình yêu"
+      "word": "恋妻",
+      "reading": "こいづま",
+      "meaning": "vợ yêu"
     }
   ]
 }

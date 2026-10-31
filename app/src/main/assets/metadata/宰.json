@@ -89,9 +89,24 @@
       "meaning": "sự chủ tọa"
     },
     {
+      "word": "主宰者",
+      "reading": "しゅさいしゃ",
+      "meaning": "chủ tọa"
+    },
+    {
       "word": "宰相",
       "reading": "さいしょう",
       "meaning": "thủ tướng"
+    },
+    {
+      "word": "太宰府",
+      "reading": "だざいふ",
+      "meaning": "kyushu"
+    },
+    {
+      "word": "厨宰",
+      "reading": "ちゅうさい",
+      "meaning": "đầu bếp"
     },
     {
       "word": "冢宰",
@@ -104,29 +119,14 @@
       "meaning": "sự trông nom"
     },
     {
-      "word": "厨宰",
-      "reading": "ちゅうさい",
-      "meaning": "đầu bếp"
-    },
-    {
-      "word": "主宰者",
-      "reading": "しゅさいしゃ",
-      "meaning": "chủ tọa"
-    },
-    {
-      "word": "太宰府",
-      "reading": "だざいふ",
-      "meaning": "kyushu"
-    },
-    {
-      "word": "伴食宰相",
-      "reading": "ばんしょくさいしょう",
-      "meaning": "bộ trưởng bất tài"
-    },
-    {
       "word": "主宰する",
       "reading": "しゅさいする",
       "meaning": "chủ tọa"
+    },
+    {
+      "word": "総括主宰者",
+      "reading": "そうかつしゅさいしゃ",
+      "meaning": "người chỉ đạo chiến dịch tranh cử"
     },
     {
       "word": "宰相の器",

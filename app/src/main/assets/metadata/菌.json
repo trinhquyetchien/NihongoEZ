@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "菌",
-      "reading": "きん",
-      "meaning": "mầm"
-    },
-    {
-      "word": "斑点細菌病菌",
-      "reading": "はんてんさいきんびょうきん",
-      "meaning": "vi khuẩn xanthomonas vesicatoria"
-    },
-    {
-      "word": "セレウス菌",
-      "reading": "セレウスきん",
-      "meaning": "bacillus cereus"
-    },
-    {
-      "word": "黴菌",
-      "reading": "ばいきん",
-      "meaning": "vi khuẩn hình que"
-    },
-    {
-      "word": "菌根",
-      "reading": "きんこん",
-      "meaning": "nấm rễ cộng sinh"
-    },
-    {
       "word": "細菌",
       "reading": "さいきん",
       "meaning": "vi trùng"
     },
     {
-      "word": "コレラ菌",
-      "reading": "コレラきん",
-      "meaning": "vi khuẩn gây nên bệnh tả"
+      "word": "菌",
+      "reading": "きん",
+      "meaning": "mầm"
     },
     {
-      "word": "ペスト菌",
-      "reading": "ペストきん",
-      "meaning": "khuẩn que bệnh dịch"
+      "word": "生菌",
+      "reading": "せいきん",
+      "meaning": "vi khuẩn sống"
     },
     {
-      "word": "ピロリ菌",
-      "reading": "ピロリきん",
-      "meaning": "vi khuẩn helicobacter pylori"
+      "word": "菌種",
+      "reading": "きんしゅ",
+      "meaning": "chủng vi khuẩn"
+    },
+    {
+      "word": "真菌",
+      "reading": "しんきん",
+      "meaning": "nấm"
+    },
+    {
+      "word": "菌学",
+      "reading": "きんがく",
+      "meaning": "môn nấm học"
     },
     {
       "word": "食菌",
       "reading": "しょくきん",
       "meaning": "nấm ăn"
+    },
+    {
+      "word": "菌輪",
+      "reading": "きんりん",
+      "meaning": "vòng tròn nấm"
+    },
+    {
+      "word": "毒菌",
+      "reading": "どくきん",
+      "meaning": "vi khuẩn có độc"
+    },
+    {
+      "word": "菌毒",
+      "reading": "きんどく",
+      "meaning": "nấm độc"
     }
   ]
 }

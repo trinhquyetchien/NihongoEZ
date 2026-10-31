@@ -84,9 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "帥",
-      "reading": "そち",
-      "meaning": "thống đốc"
+      "word": "元帥",
+      "reading": "げんすい",
+      "meaning": "nguyên soái"
+    },
+    {
+      "word": "元帥府",
+      "reading": "げんすいふ",
+      "meaning": "phủ nguyên soái"
     },
     {
       "word": "総帥",
@@ -94,19 +99,9 @@
       "meaning": "người cầm đầu"
     },
     {
-      "word": "統帥",
-      "reading": "とうすい",
-      "meaning": "thống suý"
-    },
-    {
-      "word": "元帥",
-      "reading": "げんすい",
-      "meaning": "nguyên soái"
-    },
-    {
-      "word": "将帥",
-      "reading": "しょうすい",
-      "meaning": "tướng lãnh đạo và chỉ huy quân đội"
+      "word": "帥",
+      "reading": "そち",
+      "meaning": "thống đốc"
     },
     {
       "word": "帥先",
@@ -114,9 +109,9 @@
       "meaning": "cầm sáng kiến"
     },
     {
-      "word": "渠帥",
-      "reading": "きょすい",
-      "meaning": "tướng cướp"
+      "word": "志帥会",
+      "reading": "しすいかい",
+      "meaning": "nhóm chính trị trong đảng ldp"
     },
     {
       "word": "梟帥",
@@ -124,14 +119,19 @@
       "meaning": "chiến binh kiên cườg"
     },
     {
-      "word": "志帥会",
-      "reading": "しすいかい",
-      "meaning": "nhóm chính trị trong đảng ldp"
+      "word": "統帥",
+      "reading": "とうすい",
+      "meaning": "thống suý"
     },
     {
-      "word": "元帥府",
-      "reading": "げんすいふ",
-      "meaning": "phủ nguyên soái"
+      "word": "統帥権",
+      "reading": "とうすいけん",
+      "meaning": "quyền thống soái"
+    },
+    {
+      "word": "渠帥",
+      "reading": "きょすい",
+      "meaning": "tướng cướp"
     }
   ]
 }

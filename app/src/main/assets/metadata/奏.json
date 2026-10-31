@@ -89,24 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "合奏協奏曲",
-      "reading": "がっそうきょうそうきょく",
-      "meaning": "một thể barốc của concerto"
+      "word": "演奏",
+      "reading": "えんそう",
+      "meaning": "biểu diễn"
     },
     {
-      "word": "合奏",
-      "reading": "がっそう",
-      "meaning": "hợp tấu"
+      "word": "吹奏",
+      "reading": "すいそう",
+      "meaning": "chơi nhạc cụ bộ hơi"
     },
     {
-      "word": "奏法",
-      "reading": "そうほう",
-      "meaning": "cách diễn tấu"
+      "word": "演奏者",
+      "reading": "えんそうしゃ",
+      "meaning": "nhạc công"
     },
     {
-      "word": "直奏",
-      "reading": "じきそう",
-      "meaning": "báo cáo trực tiếp với thiên hoàng"
+      "word": "演奏家",
+      "reading": "えんそうか",
+      "meaning": "người biểu diễn nhạc cụ"
+    },
+    {
+      "word": "生演奏",
+      "reading": "なまえんそう",
+      "meaning": "buổi biểu diễn trực tiếp"
+    },
+    {
+      "word": "吹奏楽",
+      "reading": "すいそうがく",
+      "meaning": "nhạc hợp tấu của nhạc khí thổi và nhạc khí gõ"
+    },
+    {
+      "word": "奏曲",
+      "reading": "そうきょく",
+      "meaning": "bản xônat"
     },
     {
       "word": "通奏",
@@ -114,29 +129,14 @@
       "meaning": "chơi một toàn bộ sự hợp thành mà không có sự gãy"
     },
     {
-      "word": "劾奏",
-      "reading": "がいそう",
-      "meaning": "bản tấu tội của quan lại dâng lên vua"
+      "word": "進奏",
+      "reading": "しんそう",
+      "meaning": "báo cáo với hoàng đế"
     },
     {
-      "word": "伏奏",
-      "reading": "ふくそう",
-      "meaning": "sự hội tụ"
-    },
-    {
-      "word": "内奏",
-      "reading": "ないそう",
-      "meaning": "mật tấu"
-    },
-    {
-      "word": "伝奏",
-      "reading": "てんそう",
-      "meaning": "sự tấu truyền"
-    },
-    {
-      "word": "上奏",
-      "reading": "じょうそう",
-      "meaning": "thượng tấu"
+      "word": "奏者",
+      "reading": "そうしゃ",
+      "meaning": "nhạc công"
     }
   ]
 }

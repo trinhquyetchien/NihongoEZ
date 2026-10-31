@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "因",
-      "reading": "いん",
-      "meaning": "nguyên nhân"
+      "word": "原因",
+      "reading": "げんいん",
+      "meaning": "căn do"
     },
     {
-      "word": "因果因縁",
-      "reading": "いんがいんねん",
-      "meaning": "quan hệ nhân quả"
+      "word": "要因",
+      "reading": "よういん",
+      "meaning": "nguyên nhân chủ yếu"
     },
     {
       "word": "死因",
@@ -105,9 +105,29 @@
       "meaning": "nguyên nhân cái chết"
     },
     {
-      "word": "原因",
-      "reading": "げんいん",
-      "meaning": "căn do"
+      "word": "因みに",
+      "reading": "ちなみに",
+      "meaning": "ngẫu nhiên"
+    },
+    {
+      "word": "因果",
+      "reading": "いんが",
+      "meaning": "nhân quả"
+    },
+    {
+      "word": "因子",
+      "reading": "いんし",
+      "meaning": "yếu tố phân tử"
+    },
+    {
+      "word": "起因",
+      "reading": "きいん",
+      "meaning": "nguyên nhân"
+    },
+    {
+      "word": "因",
+      "reading": "いん",
+      "meaning": "nguyên nhân"
     },
     {
       "word": "一因",
@@ -115,29 +135,9 @@
       "meaning": "một nguyên nhân (trong số nhiều nguyên nhân"
     },
     {
-      "word": "因む",
-      "reading": "ちなむ",
-      "meaning": "được liên kết"
-    },
-    {
-      "word": "因由",
-      "reading": "いんゆ",
-      "meaning": "nguyên nhân"
-    },
-    {
-      "word": "遠因",
-      "reading": "えんいん",
-      "meaning": "nguyên nhân gián tiếp"
-    },
-    {
-      "word": "基因",
-      "reading": "きいん",
-      "meaning": "nguyên nhân khởi đầu"
-    },
-    {
-      "word": "誘因",
-      "reading": "ゆういん",
-      "meaning": "sự khuyến khích"
+      "word": "二因",
+      "reading": "にいん",
+      "meaning": "hai nguyên nhân"
     }
   ]
 }

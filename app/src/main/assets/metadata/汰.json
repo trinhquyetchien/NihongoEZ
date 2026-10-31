@@ -86,44 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "沙汰",
-      "reading": "さた",
-      "meaning": "hành vi"
-    },
-    {
-      "word": "淘汰",
-      "reading": "とうた",
-      "meaning": "sự chọn lọc"
-    },
-    {
-      "word": "糂汰",
-      "reading": "じんだ",
-      "meaning": "cám gạo muối dùng để chấm hoặc ướp các loại rau củ"
-    },
-    {
       "word": "無沙汰",
       "reading": "ぶさた",
       "meaning": "đã lâu không gặp"
     },
     {
-      "word": "性淘汰",
-      "reading": "せいとうた",
-      "meaning": "sự chọn lọc giới tính"
+      "word": "ご無沙汰",
+      "reading": "ごぶさた",
+      "meaning": "không thư từ liên lạc trong một thời gian"
     },
     {
-      "word": "内沙汰",
-      "reading": "うちざた",
-      "meaning": "doanh nghiệp chính phủ bí mật"
-    },
-    {
-      "word": "取沙汰",
-      "reading": "とりざた",
-      "meaning": "tin đồn hiện thời"
-    },
-    {
-      "word": "不沙汰",
-      "reading": "ぶさた",
-      "meaning": "sự yên lặng"
+      "word": "沙汰",
+      "reading": "さた",
+      "meaning": "hành vi"
     },
     {
       "word": "ご沙汰",
@@ -131,9 +106,34 @@
       "meaning": "tiếng nói"
     },
     {
-      "word": "御沙汰",
-      "reading": "ごさた",
-      "meaning": "những từ"
+      "word": "内沙汰",
+      "reading": "うちざた",
+      "meaning": "doanh nghiệp chính phủ bí mật"
+    },
+    {
+      "word": "不沙汰",
+      "reading": "ぶさた",
+      "meaning": "sự yên lặng"
+    },
+    {
+      "word": "淘汰",
+      "reading": "とうた",
+      "meaning": "sự chọn lọc"
+    },
+    {
+      "word": "性淘汰",
+      "reading": "せいとうた",
+      "meaning": "sự chọn lọc giới tính"
+    },
+    {
+      "word": "音沙汰",
+      "reading": "おとさた",
+      "meaning": "tin tức"
+    },
+    {
+      "word": "表沙汰",
+      "reading": "おもてざた",
+      "meaning": "tính công khai"
     }
   ]
 }

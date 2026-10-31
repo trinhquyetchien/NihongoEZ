@@ -89,29 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "天麩羅",
-      "reading": "てんぷら",
-      "meaning": "món tempura"
-    },
-    {
-      "word": "遍羅",
-      "reading": "べら",
-      "meaning": "cá bàng chài"
-    },
-    {
-      "word": "羅鱶",
-      "reading": "らぶか",
-      "meaning": "cá nhám mang xếp"
-    },
-    {
-      "word": "雀羅",
-      "reading": "じゃくら",
-      "meaning": "lưới bắt chim sẻ"
-    },
-    {
-      "word": "沙羅",
-      "reading": "しゃら",
-      "meaning": "cây sa la"
+      "word": "新羅",
+      "reading": "しらぎ",
+      "meaning": "vương quốc tiếng triều tiên cổ xưa"
     },
     {
       "word": "羅馬",
@@ -119,24 +99,44 @@
       "meaning": "roma"
     },
     {
-      "word": "羅刹",
-      "reading": "らせつ",
-      "meaning": "quỷ la sát"
-    },
-    {
       "word": "多羅",
       "reading": "たら",
       "meaning": "tara"
     },
     {
-      "word": "新羅",
-      "reading": "しらぎ",
-      "meaning": "vương quốc tiếng triều tiên cổ xưa"
+      "word": "羅北",
+      "reading": "らほく",
+      "meaning": "chỉ về hướng bắc"
     },
     {
-      "word": "甲羅",
-      "reading": "こうら",
-      "meaning": "vỏ"
+      "word": "羅和",
+      "reading": "らわ",
+      "meaning": "latin – nhật"
+    },
+    {
+      "word": "多羅葉",
+      "reading": "たらよう",
+      "meaning": "cây nhựa ruồi lá rộng"
+    },
+    {
+      "word": "天婦羅",
+      "reading": "てんぷら",
+      "meaning": "món tempura"
+    },
+    {
+      "word": "多羅樹",
+      "reading": "たらじゅ",
+      "meaning": "cây palmyra"
+    },
+    {
+      "word": "羅針",
+      "reading": "らしん",
+      "meaning": "kim la bàn"
+    },
+    {
+      "word": "紅羅雲",
+      "reading": "こうらうん",
+      "meaning": "chào mào"
     }
   ]
 }

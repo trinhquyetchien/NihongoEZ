@@ -87,16 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "挑撥",
-      "reading": "ちょうはつ",
-      "meaning": "khích động"
-    },
-    {
-      "word": "挑発",
-      "reading": "ちょうはつ",
-      "meaning": "sự khiêu khích"
-    },
-    {
       "word": "挑戦",
       "reading": "ちょうせん",
       "meaning": "thách thức"
@@ -112,14 +102,19 @@
       "meaning": "mang tính thử thách"
     },
     {
+      "word": "挑戦者",
+      "reading": "ちょうせんしゃ",
+      "meaning": "người khiêu chiến"
+    },
+    {
       "word": "初挑戦",
       "reading": "はつちょうせん",
       "meaning": "lần thử đầu"
     },
     {
-      "word": "挑発的",
-      "reading": "ちょうはつてき",
-      "meaning": "một cách khiêu khích"
+      "word": "挑戦権",
+      "reading": "ちょうせんけん",
+      "meaning": "quyền thách đấu"
     },
     {
       "word": "挑戦状",
@@ -127,14 +122,19 @@
       "meaning": "thư khiêu chiến"
     },
     {
-      "word": "挑戦者",
-      "reading": "ちょうせんしゃ",
-      "meaning": "người khiêu chiến"
+      "word": "挑発",
+      "reading": "ちょうはつ",
+      "meaning": "sự khiêu khích"
     },
     {
-      "word": "挑戦権",
-      "reading": "ちょうせんけん",
-      "meaning": "quyền thách đấu"
+      "word": "挑発的",
+      "reading": "ちょうはつてき",
+      "meaning": "một cách khiêu khích"
+    },
+    {
+      "word": "挑撥",
+      "reading": "ちょうはつ",
+      "meaning": "khích động"
     }
   ]
 }

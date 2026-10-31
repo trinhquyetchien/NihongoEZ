@@ -89,49 +89,49 @@
   ],
   "vocabulary": [
     {
+      "word": "非常",
+      "reading": "ひじょう",
+      "meaning": "khẩn cấp"
+    },
+    {
       "word": "非",
       "reading": "ひ",
       "meaning": "phi"
     },
     {
-      "word": "是非是非",
-      "reading": "ぜひぜひ",
-      "meaning": "chắc chắn"
+      "word": "非難",
+      "reading": "ひなん",
+      "meaning": "sự trách móc"
     },
     {
-      "word": "是是非非",
-      "reading": "ぜぜひひ",
-      "meaning": "rõ ràng"
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "hành vi không chính đáng"
     },
     {
-      "word": "是是非非主義",
-      "reading": "ぜぜひひしゅぎ",
-      "meaning": "nguyên lý việc rõ ràng và đúng"
+      "word": "非と",
+      "reading": "ひと",
+      "meaning": "tuyên cáo"
     },
     {
-      "word": "非正",
-      "reading": "ひせい",
-      "meaning": "không dương"
+      "word": "非ず",
+      "reading": "あらず",
+      "meaning": "không"
+    },
+    {
+      "word": "非数",
+      "reading": "ひすう",
+      "meaning": "không phải số"
+    },
+    {
+      "word": "非曲",
+      "reading": "ひきょく",
+      "meaning": "bi khúc"
     },
     {
       "word": "是非",
       "reading": "ぜひ",
       "meaning": "nhất định"
-    },
-    {
-      "word": "非モテ",
-      "reading": "ひモテ",
-      "meaning": "không phổ biến"
-    },
-    {
-      "word": "非婚",
-      "reading": "ひこん",
-      "meaning": "chưa lập gia đình"
-    },
-    {
-      "word": "非番",
-      "reading": "ひばん",
-      "meaning": "hết phiên trực"
     },
     {
       "word": "非文",

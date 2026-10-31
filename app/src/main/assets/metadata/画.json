@@ -96,44 +96,9 @@
   ],
   "vocabulary": [
     {
-      "word": "画",
-      "reading": "かく",
-      "meaning": "nét"
-    },
-    {
-      "word": "漫画映画",
-      "reading": "まんがえいが",
-      "meaning": "phim biếm họa"
-    },
-    {
-      "word": "南画",
-      "reading": "なんが",
-      "meaning": "viết tắt của cụm từ 南宗画（なんしゅうがい-nam tôn họa). đây là một trong hai trường học hội họa nổi tiếng ở trung quốc"
-    },
-    {
-      "word": "原画",
-      "reading": "げんが",
-      "meaning": "bức tranh nguyên bản"
-    },
-    {
-      "word": "戯画",
-      "reading": "ぎが",
-      "meaning": "tranh châm biếm"
-    },
-    {
-      "word": "一画",
-      "reading": "いっかく",
-      "meaning": "một nét"
-    },
-    {
       "word": "映画",
       "reading": "えいが",
       "meaning": "điện ảnh"
-    },
-    {
-      "word": "画布",
-      "reading": "がふ",
-      "meaning": "vải bạt"
     },
     {
       "word": "絵画",
@@ -141,9 +106,44 @@
       "meaning": "bức tranh"
     },
     {
-      "word": "自画",
-      "reading": "じが",
-      "meaning": "sự tự vẽ"
+      "word": "画",
+      "reading": "かく",
+      "meaning": "nét"
+    },
+    {
+      "word": "版画",
+      "reading": "はんが",
+      "meaning": "tranh khắc gỗ"
+    },
+    {
+      "word": "画人",
+      "reading": "がじん",
+      "meaning": "họa sỹ"
+    },
+    {
+      "word": "一画",
+      "reading": "いっかく",
+      "meaning": "một nét"
+    },
+    {
+      "word": "画本",
+      "reading": "がほん",
+      "meaning": "vẽ copybook"
+    },
+    {
+      "word": "画手",
+      "reading": "がしゅ",
+      "meaning": "họa sỹ"
+    },
+    {
+      "word": "画法",
+      "reading": "がほう",
+      "meaning": "nghệ thuật vẽ tranh"
+    },
+    {
+      "word": "音画",
+      "reading": "おんが",
+      "meaning": "âm nhạc hình ảnh"
     }
   ]
 }

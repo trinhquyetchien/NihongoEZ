@@ -112,49 +112,49 @@
       "meaning": "màu"
     },
     {
-      "word": "黄色色素",
-      "reading": "きいろしきそ",
-      "meaning": "hợp chất hóa học pigment yellow"
-    },
-    {
-      "word": "顔色",
-      "reading": "かおいろ",
-      "meaning": "sắc diện"
-    },
-    {
-      "word": "色盲",
-      "reading": "しきもう",
-      "meaning": "loạn sắc"
-    },
-    {
-      "word": "純色",
-      "reading": "じゅんしょく",
-      "meaning": "màu đơn sắc"
-    },
-    {
-      "word": "原色",
-      "reading": "げんしょく",
-      "meaning": "màu chính"
-    },
-    {
-      "word": "色素",
-      "reading": "しきそ",
-      "meaning": "sắc tố"
-    },
-    {
-      "word": "色調",
-      "reading": "しきちょう",
-      "meaning": "bản sắc"
-    },
-    {
-      "word": "血色",
-      "reading": "けっしょく",
-      "meaning": "nước da"
-    },
-    {
       "word": "景色",
       "reading": "けしき",
       "meaning": "cảnh"
+    },
+    {
+      "word": "音色",
+      "reading": "ねいろ",
+      "meaning": "âm sắc"
+    },
+    {
+      "word": "何色",
+      "reading": "なにいろ",
+      "meaning": "màu gì"
+    },
+    {
+      "word": "三色",
+      "reading": "さんしょく",
+      "meaning": "ba màu"
+    },
+    {
+      "word": "等色",
+      "reading": "とうしょく",
+      "meaning": "cùng màu"
+    },
+    {
+      "word": "体色",
+      "reading": "たいしょく",
+      "meaning": "màu sắc cơ thể"
+    },
+    {
+      "word": "色差",
+      "reading": "しきさ",
+      "meaning": "sự khác biệt về màu sắc"
+    },
+    {
+      "word": "色値",
+      "reading": "しきち",
+      "meaning": "giá trị màu"
+    },
+    {
+      "word": "色玉",
+      "reading": "いろだま",
+      "meaning": "bóng màu"
     }
   ]
 }

@@ -116,24 +116,9 @@
   ],
   "vocabulary": [
     {
-      "word": "多士済済",
-      "reading": "たしせいせい",
-      "meaning": "một thiên hà những người có khả năng"
-    },
-    {
-      "word": "一済",
-      "reading": "いっさい",
-      "meaning": "tất cả =全部"
-    },
-    {
       "word": "経済",
       "reading": "けいざい",
       "meaning": "nền kinh tế"
-    },
-    {
-      "word": "救済",
-      "reading": "きゅうさい",
-      "meaning": "sự cứu trợ"
     },
     {
       "word": "済む",
@@ -141,29 +126,44 @@
       "meaning": "kết thúc"
     },
     {
-      "word": "済印",
-      "reading": "すみいん",
-      "meaning": "dấu xác nhận"
+      "word": "救済",
+      "reading": "きゅうさい",
+      "meaning": "sự cứu trợ"
     },
     {
-      "word": "皆済",
-      "reading": "かいさい",
-      "meaning": "thanh toán đầy đủ"
+      "word": "返済",
+      "reading": "へんさい",
+      "meaning": "hoàn trả"
     },
     {
-      "word": "百済",
-      "reading": "くだら",
-      "meaning": "vương quốc triều tiên thời xưa"
+      "word": "済ます",
+      "reading": "すます",
+      "meaning": "kết thúc"
     },
     {
-      "word": "内済",
-      "reading": "ないさい",
-      "meaning": "giải quyết nội bộ"
+      "word": "経済人",
+      "reading": "けいざいじん",
+      "meaning": "con người kinh tế"
     },
     {
-      "word": "弁済",
-      "reading": "べんさい",
-      "meaning": "sự thanh toán"
+      "word": "経済的",
+      "reading": "けいざいてき",
+      "meaning": "thuộc về kinh tế"
+    },
+    {
+      "word": "経済家",
+      "reading": "けいざいか",
+      "meaning": "người có tính kinh tế"
+    },
+    {
+      "word": "経済性",
+      "reading": "けいざいせい",
+      "meaning": "tính kinh tế"
+    },
+    {
+      "word": "経済力",
+      "reading": "けいざいりょく",
+      "meaning": "sức mạnh kinh tế"
     }
   ]
 }

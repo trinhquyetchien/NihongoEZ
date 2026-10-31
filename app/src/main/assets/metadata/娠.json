@@ -88,24 +88,14 @@
       "meaning": "bụng phệ"
     },
     {
-      "word": "妊娠線",
-      "reading": "にんしんせん",
-      "meaning": "vết rạn bà bầu"
-    },
-    {
       "word": "妊娠時",
       "reading": "にんしんじ",
       "meaning": "thời kì mang thai"
     },
     {
-      "word": "偽妊娠",
-      "reading": "ぎにんしん",
-      "meaning": "tính thụ thai giả"
-    },
-    {
-      "word": "妊娠テスト",
-      "reading": "にんしんテスト",
-      "meaning": "khám thai"
+      "word": "妊娠線",
+      "reading": "にんしんせん",
+      "meaning": "vết rạn bà bầu"
     },
     {
       "word": "妊娠期",
@@ -113,24 +103,34 @@
       "meaning": "thời kỳ mang thai"
     },
     {
+      "word": "偽妊娠",
+      "reading": "ぎにんしん",
+      "meaning": "tính thụ thai giả"
+    },
+    {
       "word": "妊娠する",
       "reading": "にんしんする",
       "meaning": "mang thai"
     },
     {
-      "word": "多胎妊娠",
-      "reading": "たたいにんしん",
-      "meaning": "chữa nhiều thai"
+      "word": "妊娠管理",
+      "reading": "にんしんかんり",
+      "meaning": "chăm sóc khi mang thai"
     },
     {
-      "word": "妊娠検査",
-      "reading": "にんしんけんさ",
-      "meaning": "việc khám thai"
+      "word": "妊娠期間",
+      "reading": "にんしんきかん",
+      "meaning": "thời gian mang thai"
     },
     {
-      "word": "異常妊娠",
-      "reading": "いじょうにんしん",
-      "meaning": "hư thai"
+      "word": "妊娠前管理",
+      "reading": "にんしんまえかんり",
+      "meaning": "chăm sóc trước thai kì"
+    },
+    {
+      "word": "想像妊娠",
+      "reading": "そうぞうにんしん",
+      "meaning": "sự mang thai tưởng tượng"
     }
   ]
 }

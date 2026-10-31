@@ -110,44 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "戦",
-      "reading": "いくさ",
-      "meaning": "chiến"
-    },
-    {
-      "word": "戦戦栗栗",
-      "reading": "せんせんりつりつ",
-      "meaning": "run sợ với sự sợ hãi"
-    },
-    {
-      "word": "戦争戦略",
-      "reading": "せんそうせんりゃく",
-      "meaning": "chiến lược chiến tranh"
-    },
-    {
-      "word": "戦戦恐恐",
-      "reading": "せんせんきょうきょう",
-      "meaning": "run sợ với sự sợ hãi"
-    },
-    {
-      "word": "戦戦兢兢",
-      "reading": "せんせんきょうきょう",
-      "meaning": "run sợ với sự sợ hãi"
-    },
-    {
-      "word": "主戦闘戦車",
-      "reading": "しゅせんとうせんしゃ",
-      "meaning": "thùng trận đánh chính"
-    },
-    {
-      "word": "戦争挑戦国",
-      "reading": "せんそうちょうせんこく",
-      "meaning": "kẻ hiếu chiến"
-    },
-    {
-      "word": "戦犯",
-      "reading": "せんぱん",
-      "meaning": "tội phạm chiến tranh"
+      "word": "戦う",
+      "reading": "たたかう",
+      "meaning": "chiến đấu"
     },
     {
       "word": "大戦",
@@ -155,9 +120,44 @@
       "meaning": "đại chiến"
     },
     {
-      "word": "混戦",
-      "reading": "こんせん",
-      "meaning": "hỗn chiến"
+      "word": "戦",
+      "reading": "いくさ",
+      "meaning": "chiến"
+    },
+    {
+      "word": "休戦",
+      "reading": "きゅうせん",
+      "meaning": "hưu chiến"
+    },
+    {
+      "word": "戦災",
+      "reading": "せんさい",
+      "meaning": "thiệt hại do chiến tranh gây ra"
+    },
+    {
+      "word": "一戦",
+      "reading": "いっせん",
+      "meaning": "một trận đánh"
+    },
+    {
+      "word": "戦国",
+      "reading": "せんごく",
+      "meaning": "nước tham chiến"
+    },
+    {
+      "word": "合戦",
+      "reading": "かっせん",
+      "meaning": "giao chiến"
+    },
+    {
+      "word": "戦隊",
+      "reading": "せんたい",
+      "meaning": "đoàn"
+    },
+    {
+      "word": "戦記",
+      "reading": "せんき",
+      "meaning": "lịch sử quân đội"
     }
   ]
 }

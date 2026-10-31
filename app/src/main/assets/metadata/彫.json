@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "彫刻法と彫版",
-      "reading": "ちょーこくほーとほりばん",
-      "meaning": "phương pháp điêu khắc và khắc bản in"
-    },
-    {
-      "word": "彫り",
-      "reading": "ほり",
-      "meaning": "khắc"
-    },
-    {
-      "word": "彫琢",
-      "reading": "ちょうたく",
-      "meaning": "việc khắc và đánh bóng"
-    },
-    {
-      "word": "彫工",
-      "reading": "ちょうこう",
-      "meaning": "thợ khắc"
-    },
-    {
-      "word": "彫金",
-      "reading": "ちょうきん",
-      "meaning": "việc khắc kim loại"
-    },
-    {
-      "word": "彫塑",
-      "reading": "ちょうそ",
-      "meaning": "sự khắc và nặn."
-    },
-    {
-      "word": "木彫",
-      "reading": "もくちょう",
-      "meaning": "nghệ thuật chạm khắc trên gỗ"
-    },
-    {
-      "word": "浮彫",
-      "reading": "うきぼり",
-      "meaning": "sự giải tỏa"
-    },
-    {
-      "word": "彫物",
-      "reading": "ほりもの",
-      "meaning": "khắc"
+      "word": "彫刻",
+      "reading": "ちょうこく",
+      "meaning": "điêu khắc"
     },
     {
       "word": "彫る",
       "reading": "ほる",
       "meaning": "cẩn"
+    },
+    {
+      "word": "彫刻し",
+      "reading": "ちょうこくし",
+      "meaning": "thợ khắc"
+    },
+    {
+      "word": "彫刻家",
+      "reading": "ちょうこくか",
+      "meaning": "thợ khắc"
+    },
+    {
+      "word": "彫刻物",
+      "reading": "ちょうこくぶつ",
+      "meaning": "vật được chạm khắc"
+    },
+    {
+      "word": "彫刻版",
+      "reading": "ちょうこくばん",
+      "meaning": "bản khắc"
+    },
+    {
+      "word": "彫刻師",
+      "reading": "ちょうこくし",
+      "meaning": "thợ khắc"
+    },
+    {
+      "word": "彫刻界",
+      "reading": "ちょうこくかい",
+      "meaning": "giới điêu khắc"
+    },
+    {
+      "word": "彫刻術",
+      "reading": "ちょうこくじゅつ",
+      "meaning": "nghệ thuật điêu khắc"
+    },
+    {
+      "word": "彫刻刀",
+      "reading": "ちょうこくとう",
+      "meaning": "dao khắc"
     }
   ]
 }

@@ -90,11 +90,6 @@
       "meaning": "bến bờ"
     },
     {
-      "word": "汀渚",
-      "reading": "ていしょ",
-      "meaning": "đổ cát quán rượu"
-    },
-    {
       "word": "渚畔",
       "reading": "しょはん",
       "meaning": "cột trụ"
@@ -103,6 +98,11 @@
       "word": "渚伝い",
       "reading": "なぎさづたい",
       "meaning": "dọc theo mép"
+    },
+    {
+      "word": "汀渚",
+      "reading": "ていしょ",
+      "meaning": "đổ cát quán rượu"
     }
   ]
 }

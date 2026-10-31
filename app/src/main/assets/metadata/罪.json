@@ -89,29 +89,34 @@
   ],
   "vocabulary": [
     {
+      "word": "犯罪",
+      "reading": "はんざい",
+      "meaning": "can phạm"
+    },
+    {
       "word": "罪",
       "reading": "つみ",
       "meaning": "tội ác"
     },
     {
-      "word": "罪状",
-      "reading": "ざいじょう",
-      "meaning": "hỏi giá"
+      "word": "前罪",
+      "reading": "ぜんざい",
+      "meaning": "tiền án"
     },
     {
-      "word": "謝罪",
-      "reading": "しゃざい",
-      "meaning": "sự tạ tội"
+      "word": "罪数",
+      "reading": "ざいすう",
+      "meaning": "số lần phạm tội"
     },
     {
-      "word": "罪業",
-      "reading": "ざいごう",
-      "meaning": "nghiệp chướng"
+      "word": "罪体",
+      "reading": "ざいたい",
+      "meaning": "bản chất tội lỗi"
     },
     {
-      "word": "罪人",
-      "reading": "ざいにん",
-      "meaning": "tội phạm"
+      "word": "犯罪死",
+      "reading": "はんざいし",
+      "meaning": "chết oan"
     },
     {
       "word": "五罪",
@@ -119,24 +124,19 @@
       "meaning": "năm hình phạt do luật pháp nhật bản quy định"
     },
     {
-      "word": "滅罪",
-      "reading": "めつざい",
-      "meaning": "loại bỏ tội lỗi bằng cách làm việc thiện"
+      "word": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "sự tạ tội"
     },
     {
-      "word": "罪科",
-      "reading": "ざいか",
-      "meaning": "phạm tội"
+      "word": "罪源",
+      "reading": "ざいげん",
+      "meaning": "nguồn gốc của tội lỗi"
     },
     {
-      "word": "死罪",
-      "reading": "しざい",
-      "meaning": "tử tội"
-    },
-    {
-      "word": "罪数",
-      "reading": "ざいすう",
-      "meaning": "số lần phạm tội"
+      "word": "罪証",
+      "reading": "ざいしょう",
+      "meaning": "chứng cứ phạm tội"
     }
   ]
 }

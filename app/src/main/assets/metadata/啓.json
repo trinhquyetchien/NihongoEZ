@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "啓発",
-      "reading": "けいはつ",
-      "meaning": "sự mở mang tri thức để hiểu biết sâu rộng"
-    },
-    {
-      "word": "啓学",
-      "reading": "けいがく",
-      "meaning": "keigaku"
-    },
-    {
-      "word": "粛啓",
-      "reading": "しゅくけい",
-      "meaning": "kính gửi"
-    },
-    {
-      "word": "啓蒙",
-      "reading": "けいもう",
-      "meaning": "sự khai hóa"
-    },
-    {
-      "word": "啓示",
-      "reading": "けいじ",
-      "meaning": "sự soi rạng"
-    },
-    {
-      "word": "中啓",
-      "reading": "ちゅうけい",
-      "meaning": "cái quạt xếp dùng trong nghi thức"
-    },
-    {
       "word": "拝啓",
       "reading": "はいけい",
       "meaning": "kính gửi"
+    },
+    {
+      "word": "啓発",
+      "reading": "けいはつ",
+      "meaning": "sự mở mang tri thức để hiểu biết sâu rộng"
     },
     {
       "word": "啓く",
@@ -129,14 +104,39 @@
       "meaning": "để làm sáng tỏ"
     },
     {
-      "word": "啓蟄",
-      "reading": "けいちつ",
-      "meaning": "vòng quanh diễu hành 6"
+      "word": "啓学",
+      "reading": "けいがく",
+      "meaning": "keigaku"
     },
     {
-      "word": "謹啓",
-      "reading": "きんけい",
-      "meaning": "kính gửi"
+      "word": "略啓",
+      "reading": "りゃくけい",
+      "meaning": "thứ lỗi cho tôi vì đã bỏ qua phần mở đầu"
+    },
+    {
+      "word": "啓蒙",
+      "reading": "けいもう",
+      "meaning": "sự khai hóa"
+    },
+    {
+      "word": "啓蒙的",
+      "reading": "けいもうてき",
+      "meaning": "khai sáng"
+    },
+    {
+      "word": "啓蒙書",
+      "reading": "けいもうしょ",
+      "meaning": "sách khai trí"
+    },
+    {
+      "word": "啓示",
+      "reading": "けいじ",
+      "meaning": "sự soi rạng"
+    },
+    {
+      "word": "天啓",
+      "reading": "てんけい",
+      "meaning": "đền thờ linh thiêng"
     }
   ]
 }

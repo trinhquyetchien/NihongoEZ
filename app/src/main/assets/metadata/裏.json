@@ -94,19 +94,14 @@
       "meaning": "đảo ngược"
     },
     {
-      "word": "裏には裏がある",
-      "reading": "うらにはうらがある",
-      "meaning": "trong cái phức tạp lại có cái phức tạp hơn"
+      "word": "裏口",
+      "reading": "うらぐち",
+      "meaning": "cửa sau"
     },
     {
-      "word": "ひょうり おもてうら 表裏",
-      "reading": "表裏",
-      "meaning": "hai mặt"
-    },
-    {
-      "word": "木裏",
-      "reading": "きうら",
-      "meaning": "mặt trong của gỗ"
+      "word": "裏名",
+      "reading": "うらな",
+      "meaning": "tên bí mật"
     },
     {
       "word": "裏番",
@@ -114,9 +109,24 @@
       "meaning": "thủ lĩnh bí mật của một nhóm tội phạm vị thành niên"
     },
     {
-      "word": "裏帆",
-      "reading": "うらほ",
-      "meaning": "cánh buồm ngược hướng gió"
+      "word": "裏屋",
+      "reading": "うらや",
+      "meaning": "nhà hướng hẻm"
+    },
+    {
+      "word": "足裏",
+      "reading": "あしうら",
+      "meaning": "lòng bàn chân"
+    },
+    {
+      "word": "総裏",
+      "reading": "そううら",
+      "meaning": "lớp vải lót"
+    },
+    {
+      "word": "裏付",
+      "reading": "うらづけ",
+      "meaning": "lùi lại"
     },
     {
       "word": "裏板",
@@ -124,19 +134,9 @@
       "meaning": "tấm lợp mái"
     },
     {
-      "word": "裏屋",
-      "reading": "うらや",
-      "meaning": "nhà hướng hẻm"
-    },
-    {
-      "word": "裏門",
-      "reading": "うらもん",
-      "meaning": "cổng sau"
-    },
-    {
-      "word": "裏釘",
-      "reading": "うらくぎ",
-      "meaning": "cái đinh móc"
+      "word": "裏扉",
+      "reading": "うらとびら",
+      "meaning": "lùi lại lá cây"
     }
   ]
 }

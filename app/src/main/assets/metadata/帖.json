@@ -58,19 +58,24 @@
       "meaning": "gấp sách"
     },
     {
-      "word": "帖合",
-      "reading": "ちょうあい",
-      "meaning": "mô hình phân phối sách dựa trên tỷ lệ hoa hồng"
-    },
-    {
       "word": "一帖",
       "reading": "いちじょう",
       "meaning": "một xấp giấy giấy)"
     },
     {
-      "word": "画帖",
-      "reading": "がじょう",
-      "meaning": "vẽ album"
+      "word": "帖合",
+      "reading": "ちょうあい",
+      "meaning": "mô hình phân phối sách dựa trên tỷ lệ hoa hồng"
+    },
+    {
+      "word": "集印帖",
+      "reading": "しゅういんじょう",
+      "meaning": "bộ sưu tập tem"
+    },
+    {
+      "word": "手本帖",
+      "reading": "てほんちょう",
+      "meaning": "sách mẫu"
     },
     {
       "word": "手帖",
@@ -83,24 +88,19 @@
       "meaning": "cuốn sách in từ các tác phẩm của các bậc thầy thư pháp cũ"
     },
     {
-      "word": "手本帖",
-      "reading": "てほんちょう",
-      "meaning": "sách mẫu"
-    },
-    {
       "word": "写生帖",
       "reading": "しゃせいちょう",
       "meaning": "sổ phác thảo"
     },
     {
-      "word": "集印帖",
-      "reading": "しゅういんじょう",
-      "meaning": "bộ sưu tập tem"
-    },
-    {
       "word": "捕物帖",
       "reading": "とりものちょう",
       "meaning": "truyện trinh thám"
+    },
+    {
+      "word": "画帖",
+      "reading": "がじょう",
+      "meaning": "vẽ album"
     }
   ]
 }

@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "言",
-      "reading": "げん",
-      "meaning": "từ"
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "câu nói"
     },
     {
-      "word": "一言二言言う",
-      "reading": "ひとことふたこという",
-      "meaning": "nói một vài lời"
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "ngôn ngữ"
     },
     {
-      "word": "二言三言言う",
-      "reading": "ふたことみこという",
-      "meaning": "nói vài lời"
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "một lời"
     },
     {
-      "word": "言言",
-      "reading": "げんげん",
-      "meaning": "từng từ từng từ"
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "lời khai"
     },
     {
-      "word": "一言二言",
-      "reading": "ひとことふたこと",
-      "meaning": "một hai lời"
-    },
-    {
-      "word": "二言三言",
-      "reading": "ふたことみこと",
-      "meaning": "một vài từ"
-    },
-    {
-      "word": "宣言型言語",
-      "reading": "せんげんがたげんご",
-      "meaning": "ngôn ngữ khai báo"
-    },
-    {
-      "word": "宣言形言語",
-      "reading": "せんげんがたげんご",
-      "meaning": "ngôn ngữ khai báo"
-    },
-    {
-      "word": "寝言を言う",
-      "reading": "ねごとをいう",
-      "meaning": "nói mê"
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "lời tiên đoán"
     },
     {
       "word": "無言",
       "reading": "むごん",
       "meaning": "sự im lặng"
+    },
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "ngôn luận"
+    },
+    {
+      "word": "言伝",
+      "reading": "ことづて",
+      "meaning": "thông điệp"
+    },
+    {
+      "word": "言及",
+      "reading": "げんきゅう",
+      "meaning": "sự nhắc đến"
+    },
+    {
+      "word": "言",
+      "reading": "げん",
+      "meaning": "từ"
     }
   ]
 }

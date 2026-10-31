@@ -90,34 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "構造構文",
-      "reading": "こうぞうこうぶん",
-      "meaning": "cú pháp cấu trúc"
-    },
-    {
-      "word": "構成素構造",
-      "reading": "こうせいそこうぞう",
-      "meaning": "cấu trúc thành phần"
-    },
-    {
-      "word": "構造構成主義",
-      "reading": "こうぞうこうせいしゅぎ",
-      "meaning": "chủ nghĩa kiến tạo cấu trúc"
-    },
-    {
-      "word": "待ち構える",
-      "reading": "まちかまえる",
-      "meaning": "chờ đợi"
-    },
-    {
-      "word": "構音",
-      "reading": "こうおん",
-      "meaning": "cách phát âm rõ ràng"
-    },
-    {
-      "word": "仮構",
-      "reading": "かこう",
-      "meaning": "sự chế tạo"
+      "word": "結構",
+      "reading": "けっこう",
+      "meaning": "kết cấu"
     },
     {
       "word": "構成",
@@ -125,9 +100,9 @@
       "meaning": "cấu thành"
     },
     {
-      "word": "機構",
-      "reading": "きこう",
-      "meaning": "cơ cấu"
+      "word": "構う",
+      "reading": "かまう",
+      "meaning": "chăm sóc"
     },
     {
       "word": "構造",
@@ -135,9 +110,34 @@
       "meaning": "cấu trúc"
     },
     {
-      "word": "虚構",
-      "reading": "きょこう",
-      "meaning": "hư cấu"
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "cơ cấu"
+    },
+    {
+      "word": "構想",
+      "reading": "こうそう",
+      "meaning": "kế hoạch"
+    },
+    {
+      "word": "構え",
+      "reading": "かまえ",
+      "meaning": "dáng điệu"
+    },
+    {
+      "word": "構える",
+      "reading": "かまえる",
+      "meaning": "để vào vị trí"
+    },
+    {
+      "word": "構造的",
+      "reading": "こうぞうてき",
+      "meaning": "mang tính cấu trúc"
+    },
+    {
+      "word": "構造物",
+      "reading": "こうぞうぶつ",
+      "meaning": "công trình"
     }
   ]
 }

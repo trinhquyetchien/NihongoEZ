@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
-      "word": "葉",
-      "reading": "は",
-      "meaning": "lá cây"
-    },
-    {
-      "word": "紅葉葉楓",
-      "reading": "もみじばふう",
-      "meaning": "cây phong lá đỏ"
-    },
-    {
-      "word": "黄葉",
-      "reading": "もみじ",
-      "meaning": "lá vàng"
-    },
-    {
-      "word": "蓮葉",
-      "reading": "はすは",
-      "meaning": "lá sen"
-    },
-    {
-      "word": "杪葉",
-      "reading": "うれは",
-      "meaning": "chấm dứt bỏ đi"
-    },
-    {
       "word": "言葉",
       "reading": "ことば",
       "meaning": "câu nói"
     },
     {
-      "word": "門葉",
-      "reading": "もんよう",
-      "meaning": "gia tộc có quan hệ huyết thống"
+      "word": "葉",
+      "reading": "は",
+      "meaning": "lá cây"
     },
     {
-      "word": "病葉",
-      "reading": "わくらば",
-      "meaning": "lá bị bệnh"
+      "word": "一葉",
+      "reading": "いちよう",
+      "meaning": "một chiếc lá"
     },
     {
-      "word": "檜葉",
-      "reading": "ひば",
-      "meaning": "lá của cây bách"
+      "word": "前葉",
+      "reading": "ぜんよう",
+      "meaning": "trang trước"
     },
     {
-      "word": "桧葉",
-      "reading": "ひば",
-      "meaning": "cây hiba"
+      "word": "本葉",
+      "reading": "ほんば",
+      "meaning": "lá ở cây gần gốc hoặc thân cây"
+    },
+    {
+      "word": "千葉",
+      "reading": "ちば",
+      "meaning": "thành phố chiba"
+    },
+    {
+      "word": "間葉",
+      "reading": "かんよう",
+      "meaning": "trung mô"
+    },
+    {
+      "word": "初葉",
+      "reading": "しょよう",
+      "meaning": "đầu"
+    },
+    {
+      "word": "花葉",
+      "reading": "かよう",
+      "meaning": "lá hoa"
+    },
+    {
+      "word": "右葉",
+      "reading": "うよう",
+      "meaning": "thùy"
     }
   ]
 }

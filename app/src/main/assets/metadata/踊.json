@@ -106,19 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "民踊",
-      "reading": "みんよう",
-      "meaning": "dân vũ"
-    },
-    {
-      "word": "踊字",
-      "reading": "おどりじ",
-      "meaning": "sự lặp lại đặc tính trước đây"
-    },
-    {
-      "word": "踊躍",
-      "reading": "ようやく",
-      "meaning": "nhảy qua với niềm vui"
+      "word": "踊り",
+      "reading": "おどり",
+      "meaning": "sự nhảy múa"
     },
     {
       "word": "踊る",
@@ -126,24 +116,19 @@
       "meaning": "nhảy"
     },
     {
-      "word": "踊り",
-      "reading": "おどり",
-      "meaning": "sự nhảy múa"
+      "word": "踊り手",
+      "reading": "おどりて",
+      "meaning": "người nhảy múa"
     },
     {
-      "word": "舞踊",
-      "reading": "ぶよう",
-      "meaning": "vũ điệu"
+      "word": "手踊り",
+      "reading": "ておどり",
+      "meaning": "việc nhảy với những bàn tay và những cánh tay từ một vị trí ghế"
     },
     {
-      "word": "踊子",
-      "reading": "おどりこ",
-      "meaning": "vũ nữ"
-    },
-    {
-      "word": "辻踊",
-      "reading": "つじおどり",
-      "meaning": "nhảy múa trên một góc phố"
+      "word": "小踊り",
+      "reading": "こおどり",
+      "meaning": "nhảy hoặc nhảy cho niềm vui"
     },
     {
       "word": "踊り歌",
@@ -151,8 +136,23 @@
       "meaning": "bài hát khi nhảy"
     },
     {
-      "word": "踊り手",
-      "reading": "おどりて",
+      "word": "都踊り",
+      "reading": "みやこおどり",
+      "meaning": "buổi biểu diễn múa"
+    },
+    {
+      "word": "踊らす",
+      "reading": "おどらす",
+      "meaning": "để cho ai đó nhảy"
+    },
+    {
+      "word": "舞踊",
+      "reading": "ぶよう",
+      "meaning": "vũ điệu"
+    },
+    {
+      "word": "舞踊家",
+      "reading": "ぶようか",
       "meaning": "người nhảy múa"
     }
   ]

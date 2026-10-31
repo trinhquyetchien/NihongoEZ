@@ -86,14 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "勲",
-      "reading": "いさお",
+      "word": "勲章",
+      "reading": "くんしょう",
       "meaning": "huân chương"
     },
     {
-      "word": "勲功",
-      "reading": "くんこう",
-      "meaning": "sự ban chức tước"
+      "word": "勲",
+      "reading": "いさお",
+      "meaning": "huân chương"
     },
     {
       "word": "勲位",
@@ -106,14 +106,9 @@
       "meaning": "tước vị và huân chương"
     },
     {
-      "word": "勲記",
-      "reading": "くんき",
-      "meaning": "văn bằng trang trí"
-    },
-    {
-      "word": "勲爵",
-      "reading": "くんしゃく",
-      "meaning": "quý tộc và thứ tự tài trí"
+      "word": "大勲位",
+      "reading": "だいくんい",
+      "meaning": "thứ tự chính cúc vàng"
     },
     {
       "word": "武勲",
@@ -121,19 +116,24 @@
       "meaning": "chức danh hay huân chương anh dũng được dùng cho các binh sĩ"
     },
     {
+      "word": "叙勲",
+      "reading": "じょくん",
+      "meaning": "bàn bạc những sự trang trí"
+    },
+    {
       "word": "殊勲",
       "reading": "しゅくん",
       "meaning": "hành động đáng khen"
     },
     {
-      "word": "偉勲",
-      "reading": "いくん",
-      "meaning": "thành công vĩ đại"
+      "word": "勲功",
+      "reading": "くんこう",
+      "meaning": "sự ban chức tước"
     },
     {
-      "word": "元勲",
-      "reading": "げんくん",
-      "meaning": "người có công lớn đối với quốc gia"
+      "word": "勲一等",
+      "reading": "くんいっとう",
+      "meaning": "sắp đặt lớp 1"
     }
   ]
 }

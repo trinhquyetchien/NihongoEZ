@@ -107,9 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "格",
-      "reading": "かく",
-      "meaning": "trạng thái"
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "sự trúng tuyển"
     },
     {
       "word": "格別",
@@ -117,29 +117,9 @@
       "meaning": "khác biệt"
     },
     {
-      "word": "本格",
-      "reading": "ほんかく",
-      "meaning": "sự thích hợp"
-    },
-    {
-      "word": "格納",
-      "reading": "かくのう",
-      "meaning": "việc cất giữ"
-    },
-    {
-      "word": "格差",
-      "reading": "かくさ",
-      "meaning": "sự khác biệt"
-    },
-    {
-      "word": "骨格",
-      "reading": "こっかく",
-      "meaning": "bộ xương"
-    },
-    {
-      "word": "昇格",
-      "reading": "しょうかく",
-      "meaning": "sự thăng cấp"
+      "word": "同格",
+      "reading": "どうかく",
+      "meaning": "tính bằng"
     },
     {
       "word": "資格",
@@ -147,14 +127,34 @@
       "meaning": "bằng cấp"
     },
     {
-      "word": "厳格",
-      "reading": "げんかく",
-      "meaning": "cứng rắn"
+      "word": "本格",
+      "reading": "ほんかく",
+      "meaning": "sự thích hợp"
+    },
+    {
+      "word": "格",
+      "reading": "かく",
+      "meaning": "trạng thái"
+    },
+    {
+      "word": "規格",
+      "reading": "きかく",
+      "meaning": "khuôn khổ"
+    },
+    {
+      "word": "格差",
+      "reading": "かくさ",
+      "meaning": "sự khác biệt"
     },
     {
       "word": "失格",
       "reading": "しっかく",
       "meaning": "sự mất tư cách"
+    },
+    {
+      "word": "分格",
+      "reading": "ぶんかく",
+      "meaning": "phân chia"
     }
   ]
 }

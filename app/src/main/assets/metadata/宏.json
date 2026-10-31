@@ -49,6 +49,16 @@
   ],
   "vocabulary": [
     {
+      "word": "宏弁",
+      "reading": "こうべん",
+      "meaning": "sự trôi chảy"
+    },
+    {
+      "word": "宏大",
+      "reading": "こうだい",
+      "meaning": "rộng lớn"
+    },
+    {
       "word": "宏遠",
       "reading": "こうえん",
       "meaning": "tác dụng lớn và rộng lớn"
@@ -57,16 +67,6 @@
       "word": "宏壮",
       "reading": "こうそう",
       "meaning": "hoành tráng"
-    },
-    {
-      "word": "宏大",
-      "reading": "こうだい",
-      "meaning": "rộng lớn"
-    },
-    {
-      "word": "宏弁",
-      "reading": "こうべん",
-      "meaning": "sự trôi chảy"
     }
   ]
 }

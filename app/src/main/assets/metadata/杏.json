@@ -78,31 +78,6 @@
       "meaning": "cây hạnh"
     },
     {
-      "word": "杏林",
-      "reading": "きょうりん",
-      "meaning": "rừng mơ"
-    },
-    {
-      "word": "杏ジャム",
-      "reading": "あんずジャム",
-      "meaning": "mứt mơ"
-    },
-    {
-      "word": "杏仁",
-      "reading": "きょうにん",
-      "meaning": "nhân quả mơ"
-    },
-    {
-      "word": "杏茸",
-      "reading": "あんずたけ",
-      "meaning": "nấm hương"
-    },
-    {
-      "word": "銀杏",
-      "reading": "いちょう",
-      "meaning": "cái cây gingko"
-    },
-    {
       "word": "杏花",
       "reading": "きょうか",
       "meaning": "hoa mơ"
@@ -113,9 +88,34 @@
       "meaning": "rượu mơ"
     },
     {
+      "word": "銀杏",
+      "reading": "いちょう",
+      "meaning": "cái cây gingko"
+    },
+    {
       "word": "大銀杏",
       "reading": "おおいちょう",
       "meaning": "cây bạch quả lớn"
+    },
+    {
+      "word": "杏茸",
+      "reading": "あんずたけ",
+      "meaning": "nấm hương"
+    },
+    {
+      "word": "銀杏蟹",
+      "reading": "いちょうがに",
+      "meaning": "cua cancer japonicus"
+    },
+    {
+      "word": "杏仁",
+      "reading": "きょうにん",
+      "meaning": "nhân quả mơ"
+    },
+    {
+      "word": "杏林",
+      "reading": "きょうりん",
+      "meaning": "rừng mơ"
     },
     {
       "word": "巴旦杏",

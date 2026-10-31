@@ -87,19 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "評",
-      "reading": "ひょう",
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "phẩm bình"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
       "meaning": "bình luận"
     },
     {
-      "word": "書評",
-      "reading": "しょひょう",
-      "meaning": "bài phê bình sách"
+      "word": "批評",
+      "reading": "ひひょう",
+      "meaning": "sự bình luận"
     },
     {
-      "word": "悪評",
-      "reading": "あくひょう",
-      "meaning": "danh tiếng xấu"
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "sự bình luận"
     },
     {
       "word": "好評",
@@ -107,34 +112,29 @@
       "meaning": "đánh giá tốt"
     },
     {
-      "word": "評者",
-      "reading": "ひょうしゃ",
-      "meaning": "nhà phê bình"
+      "word": "書評",
+      "reading": "しょひょう",
+      "meaning": "bài phê bình sách"
     },
     {
-      "word": "短評",
-      "reading": "たんぴょう",
-      "meaning": "bình luận tóm tắt"
+      "word": "不評",
+      "reading": "ふひょう",
+      "meaning": "tai tiếng"
     },
     {
-      "word": "講評",
-      "reading": "こうひょう",
-      "meaning": "nhà phê bình"
+      "word": "評価値",
+      "reading": "ひょうかち",
+      "meaning": "giá trị ước tính"
     },
     {
-      "word": "酷評",
-      "reading": "こくひょう",
-      "meaning": "chỉ trích gay gắt"
+      "word": "前評判",
+      "reading": "まえひょうばん",
+      "meaning": "đánh giá trước"
     },
     {
-      "word": "合評",
-      "reading": "がっぴょう",
-      "meaning": "phê bình chung"
-    },
-    {
-      "word": "高評",
-      "reading": "こうひょう",
-      "meaning": "sự phê bình"
+      "word": "評議",
+      "reading": "ひょうぎ",
+      "meaning": "bình nghị"
     }
   ]
 }

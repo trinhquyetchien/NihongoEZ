@@ -92,34 +92,39 @@
   ],
   "vocabulary": [
     {
+      "word": "増減",
+      "reading": "ぞうげん",
+      "meaning": "sự tăng giảm"
+    },
+    {
+      "word": "激増",
+      "reading": "げきぞう",
+      "meaning": "sự đột ngột tăng thêm"
+    },
+    {
       "word": "増",
       "reading": "ぞう",
       "meaning": "tăng"
     },
     {
-      "word": "増収増益",
-      "reading": "ぞうしゅうぞうえき",
-      "meaning": "sự tăng thu nhập và lợi nhuận"
+      "word": "増感",
+      "reading": "ぞうかん",
+      "meaning": "sự tăng nhạy cảm"
     },
     {
-      "word": "増加量 / 増分",
-      "reading": "ぞうかりょう",
-      "meaning": "phần tăng"
+      "word": "増血",
+      "reading": "ぞうけつ",
+      "meaning": "tăng thêm máu"
     },
     {
-      "word": "割増",
-      "reading": "わりまし",
-      "meaning": "phụ thu"
+      "word": "増床",
+      "reading": "ぞうしょう",
+      "meaning": "sự mở rộng diện tích sàn"
     },
     {
-      "word": "増悪",
-      "reading": "ぞうあく",
-      "meaning": "tình trạng trở nên xấu hơn"
-    },
-    {
-      "word": "増毛",
-      "reading": "ぞうもう",
-      "meaning": "mọc tóc"
+      "word": "増殖",
+      "reading": "ぞうしょく",
+      "meaning": "sự tăng lên"
     },
     {
       "word": "急増",
@@ -127,19 +132,14 @@
       "meaning": "sự tăng thêm nhanh chóng"
     },
     {
-      "word": "増発",
-      "reading": "ぞうはつ",
-      "meaning": "tăng thêm chuyến"
+      "word": "増税",
+      "reading": "ぞうぜい",
+      "meaning": "sự tăng thuế"
     },
     {
-      "word": "増額",
-      "reading": "ぞうがく",
-      "meaning": "tăng thêm số lượng"
-    },
-    {
-      "word": "増配",
-      "reading": "ぞうはい",
-      "meaning": "tăng thêm khẩu phần"
+      "word": "倍増",
+      "reading": "ばいぞう",
+      "meaning": "bội tăng"
     }
   ]
 }

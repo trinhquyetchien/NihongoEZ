@@ -74,9 +74,9 @@
       "meaning": "đảo giữa đại dương"
     },
     {
-      "word": "濠洲",
-      "reading": "ごうしゅう",
-      "meaning": "australia"
+      "word": "出洲",
+      "reading": "でず",
+      "meaning": "dải đất hẹp nhô ra biển"
     },
     {
       "word": "川洲",
@@ -84,29 +84,19 @@
       "meaning": "bãi bồi"
     },
     {
-      "word": "中洲",
-      "reading": "なかす",
-      "meaning": "cồn cát"
+      "word": "八洲",
+      "reading": "やしま",
+      "meaning": "bổ nhiệm) nhật bản"
     },
     {
-      "word": "欧洲",
-      "reading": "おうしゅう",
-      "meaning": "châu âu"
+      "word": "大八洲",
+      "reading": "おおやしま",
+      "meaning": "japan"
     },
     {
-      "word": "満洲",
-      "reading": "まんしゅう",
-      "meaning": "manchuria"
-    },
-    {
-      "word": "砂洲",
-      "reading": "さす",
-      "meaning": "cồn cát"
-    },
-    {
-      "word": "白洲",
-      "reading": "しらす",
-      "meaning": "cát trắng"
+      "word": "八洲国",
+      "reading": "やしまくに",
+      "meaning": "japan"
     },
     {
       "word": "座洲",
@@ -114,9 +104,19 @@
       "meaning": "sự mắc cạn"
     },
     {
-      "word": "八洲",
-      "reading": "やしま",
-      "meaning": "bổ nhiệm) nhật bản"
+      "word": "洲鼻",
+      "reading": "すばな",
+      "meaning": "cờ lê"
+    },
+    {
+      "word": "満洲",
+      "reading": "まんしゅう",
+      "meaning": "manchuria"
+    },
+    {
+      "word": "洲走",
+      "reading": "すばしり",
+      "meaning": "young striped mullet"
     }
   ]
 }

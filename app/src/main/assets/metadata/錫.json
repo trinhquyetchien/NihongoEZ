@@ -63,24 +63,19 @@
       "meaning": "cassiterite"
     },
     {
-      "word": "錫杖",
-      "reading": "しゃくじょう",
-      "meaning": "thiếc lá"
+      "word": "錫製品",
+      "reading": "すずせいひん",
+      "meaning": "hàng thiếc"
     },
     {
-      "word": "巡錫",
-      "reading": "じゅんしゃく",
-      "meaning": "thuyết giáo đi du lịch"
+      "word": "錫婚式",
+      "reading": "すずこんしき",
+      "meaning": "kỉ niệm lễ cưới thiếc"
     },
     {
       "word": "錫蘭",
       "reading": "セイロン",
       "meaning": "sri lanka"
-    },
-    {
-      "word": "錫ペスト",
-      "reading": "すずペスト",
-      "meaning": "sâu bọ thiếc"
     },
     {
       "word": "脱錫",
@@ -98,9 +93,14 @@
       "meaning": "thiếc clo-rua"
     },
     {
-      "word": "錫製品",
-      "reading": "すずせいひん",
-      "meaning": "hàng thiếc"
+      "word": "錫杖",
+      "reading": "しゃくじょう",
+      "meaning": "thiếc lá"
+    },
+    {
+      "word": "錫杖草",
+      "reading": "しゃくじょうそう",
+      "meaning": "hypopitys americana"
     }
   ]
 }

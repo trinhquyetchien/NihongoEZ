@@ -57,19 +57,9 @@
       "meaning": "vẻ bề ngoài"
     },
     {
-      "word": "恰度",
-      "reading": "ちょうど",
-      "meaning": "đúng"
-    },
-    {
-      "word": "恰も",
-      "reading": "あたかも",
-      "meaning": "cứ như là"
-    },
-    {
-      "word": "恰幅",
-      "reading": "かっぷく",
-      "meaning": "cơ thể vóc người"
+      "word": "年恰好",
+      "reading": "としかっこう",
+      "meaning": "tuổi"
     },
     {
       "word": "不恰好",
@@ -77,19 +67,29 @@
       "meaning": "vụng về"
     },
     {
-      "word": "年恰好",
-      "reading": "としかっこう",
-      "meaning": "tuổi"
+      "word": "恰幅",
+      "reading": "かっぷく",
+      "meaning": "cơ thể vóc người"
     },
     {
-      "word": "恰も好し",
-      "reading": "あたかもよし",
-      "meaning": "may"
+      "word": "恰も",
+      "reading": "あたかも",
+      "meaning": "cứ như là"
+    },
+    {
+      "word": "恰度",
+      "reading": "ちょうど",
+      "meaning": "đúng"
     },
     {
       "word": "恰好付ける",
       "reading": "かっこうつける",
       "meaning": "tạo vẻ bề ngoại"
+    },
+    {
+      "word": "恰も好し",
+      "reading": "あたかもよし",
+      "meaning": "may"
     }
   ]
 }

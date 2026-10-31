@@ -95,14 +95,34 @@
       "meaning": "dây thừng"
     },
     {
-      "word": "沼縄",
-      "reading": "ぬなわ",
-      "meaning": "water shield"
+      "word": "沖縄",
+      "reading": "おきなわ",
+      "meaning": "tỉnh okinawa"
     },
     {
-      "word": "縄墨",
-      "reading": "じょうぼく",
-      "meaning": "tiêu chuẩn"
+      "word": "沖縄県",
+      "reading": "おきなわけん",
+      "meaning": "chức quận trưởng ở đảo okinawa nước nhật"
+    },
+    {
+      "word": "沖縄口",
+      "reading": "うちなあぐち",
+      "meaning": "phương ngữ vùng okinawa"
+    },
+    {
+      "word": "沖縄戦",
+      "reading": "おきなわせん",
+      "meaning": "trận okinawa"
+    },
+    {
+      "word": "沖縄学",
+      "reading": "おきなわがく",
+      "meaning": "okinawan studies"
+    },
+    {
+      "word": "お縄",
+      "reading": "おなわ",
+      "meaning": "dây trói tay"
     },
     {
       "word": "縄尻",
@@ -110,34 +130,14 @@
       "meaning": "đầu dây thừng"
     },
     {
-      "word": "緡縄",
-      "reading": "さしなわ",
-      "meaning": "dây thừng"
-    },
-    {
-      "word": "荷縄",
-      "reading": "になわ",
-      "meaning": "dây thừng dùng để đóng gói hàng"
+      "word": "投げ縄",
+      "reading": "なげなわ",
+      "meaning": "dây thòng lọng"
     },
     {
       "word": "縄文",
       "reading": "じょうもん",
       "meaning": "thời kỳ jomon"
-    },
-    {
-      "word": "準縄",
-      "reading": "じゅんじょう",
-      "meaning": "hạng a và đánh dấu mực chuỗi"
-    },
-    {
-      "word": "捕縄",
-      "reading": "とりなわ",
-      "meaning": "dây thừng của cảnh sát"
-    },
-    {
-      "word": "麻縄",
-      "reading": "あさなわ",
-      "meaning": "dây thừng bện bằng sợi gai"
     }
   ]
 }

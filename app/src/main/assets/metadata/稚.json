@@ -93,44 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "稚",
-      "reading": "わか",
-      "meaning": "em bé"
-    },
-    {
-      "word": "稚鮎",
-      "reading": "ちあゆ",
-      "meaning": "cá ayu con"
-    },
-    {
-      "word": "稚拙",
-      "reading": "ちせつ",
-      "meaning": "kém cỏi"
-    },
-    {
-      "word": "稚気",
-      "reading": "ちき",
-      "meaning": "sự ngây thơ"
-    },
-    {
-      "word": "稚魚",
-      "reading": "ちぎょ",
-      "meaning": "cá con"
-    },
-    {
-      "word": "丁稚",
-      "reading": "でっち",
-      "meaning": "dạy nghề"
-    },
-    {
-      "word": "稚児",
-      "reading": "ちご",
-      "meaning": "đứa trẻ"
-    },
-    {
-      "word": "稚鰤",
-      "reading": "わらさ",
-      "meaning": "middled - đo cỡ yellowtail"
+      "word": "幼稚園",
+      "reading": "ようちえん",
+      "meaning": "mẫu giáo"
     },
     {
       "word": "幼稚",
@@ -141,6 +106,41 @@
       "word": "稚内",
       "reading": "わっかない",
       "meaning": "tên địa danh nổi tiếng ở hokkaido"
+    },
+    {
+      "word": "稚魚",
+      "reading": "ちぎょ",
+      "meaning": "cá con"
+    },
+    {
+      "word": "稚拙",
+      "reading": "ちせつ",
+      "meaning": "kém cỏi"
+    },
+    {
+      "word": "稚",
+      "reading": "わか",
+      "meaning": "em bé"
+    },
+    {
+      "word": "稚鮎",
+      "reading": "ちあゆ",
+      "meaning": "cá ayu con"
+    },
+    {
+      "word": "丁稚",
+      "reading": "でっち",
+      "meaning": "dạy nghề"
+    },
+    {
+      "word": "稚鰤",
+      "reading": "わらさ",
+      "meaning": "middled - đo cỡ yellowtail"
+    },
+    {
+      "word": "稚児",
+      "reading": "ちご",
+      "meaning": "đứa trẻ"
     }
   ]
 }

@@ -99,29 +99,9 @@
       "meaning": "sự đăng bài lên báo chí"
     },
     {
-      "word": "再掲",
-      "reading": "さいけい",
-      "meaning": "tái sản xuất"
-    },
-    {
-      "word": "前掲",
-      "reading": "ぜんけい",
-      "meaning": "đã nói ở trên"
-    },
-    {
-      "word": "上掲",
-      "reading": "じょうけい",
-      "meaning": "nêu trên"
-    },
-    {
-      "word": "掲揚",
-      "reading": "けいよう",
-      "meaning": "sự giương cờ"
-    },
-    {
-      "word": "掲出",
-      "reading": "けいしゅつ",
-      "meaning": "đăng"
+      "word": "掲げる",
+      "reading": "かかげる",
+      "meaning": "treo vật bằng vật chất lên"
     },
     {
       "word": "掲示板",
@@ -129,14 +109,34 @@
       "meaning": "bản niêm yết các thông báo"
     },
     {
-      "word": "掲げる",
-      "reading": "かかげる",
-      "meaning": "treo vật bằng vật chất lên"
+      "word": "掲示表",
+      "reading": "けいじひょう",
+      "meaning": "bảng thông báo"
     },
     {
-      "word": "前掲書",
-      "reading": "ぜんけいしょ",
-      "meaning": "tác phẩm đã dẫn"
+      "word": "掲出",
+      "reading": "けいしゅつ",
+      "meaning": "đăng"
+    },
+    {
+      "word": "掲揚",
+      "reading": "けいよう",
+      "meaning": "sự giương cờ"
+    },
+    {
+      "word": "再掲",
+      "reading": "さいけい",
+      "meaning": "tái sản xuất"
+    },
+    {
+      "word": "上掲",
+      "reading": "じょうけい",
+      "meaning": "nêu trên"
+    },
+    {
+      "word": "前掲",
+      "reading": "ぜんけい",
+      "meaning": "đã nói ở trên"
     }
   ]
 }

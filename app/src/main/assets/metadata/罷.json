@@ -86,21 +86,6 @@
   ],
   "vocabulary": [
     {
-      "word": "罷官",
-      "reading": "ひかん",
-      "meaning": "việc dời đi"
-    },
-    {
-      "word": "罷業",
-      "reading": "ひぎょう",
-      "meaning": "đình công"
-    },
-    {
-      "word": "罷り",
-      "reading": "まかり",
-      "meaning": "tiền tố động từ nhấn mạnh"
-    },
-    {
       "word": "罷免",
       "reading": "ひめん",
       "meaning": "sự thải hồi"
@@ -109,6 +94,21 @@
       "word": "罷免権",
       "reading": "ひめんけん",
       "meaning": "quyền bãi nhiệm"
+    },
+    {
+      "word": "罷官",
+      "reading": "ひかん",
+      "meaning": "việc dời đi"
+    },
+    {
+      "word": "罷り",
+      "reading": "まかり",
+      "meaning": "tiền tố động từ nhấn mạnh"
+    },
+    {
+      "word": "罷業",
+      "reading": "ひぎょう",
+      "meaning": "đình công"
     },
     {
       "word": "身罷る",
@@ -121,14 +121,14 @@
       "meaning": "suộc tổng đình công"
     },
     {
-      "word": "同盟罷業",
-      "reading": "どうめいひぎょう",
-      "meaning": "đánh"
+      "word": "罷免する",
+      "reading": "ひめん",
+      "meaning": "thải hồi"
     },
     {
-      "word": "罷り越す",
-      "reading": "まかりこす",
-      "meaning": "viếng thăm"
+      "word": "罷り通る",
+      "reading": "まかりとおる",
+      "meaning": "đi qua"
     },
     {
       "word": "罷り出る",

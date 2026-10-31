@@ -93,6 +93,26 @@
   ],
   "vocabulary": [
     {
+      "word": "厳しい",
+      "reading": "きびしい",
+      "meaning": "hà khắc"
+    },
+    {
+      "word": "厳重",
+      "reading": "げんじゅう",
+      "meaning": "nghiêm ngặt"
+    },
+    {
+      "word": "厳密",
+      "reading": "げんみつ",
+      "meaning": "chặt chẽ"
+    },
+    {
+      "word": "厳か",
+      "reading": "おごそか",
+      "meaning": "sự uy nghiêm"
+    },
+    {
       "word": "厳",
       "reading": "げん",
       "meaning": "nghiêm khắc"
@@ -103,44 +123,24 @@
       "meaning": "khắc nghiệt"
     },
     {
-      "word": "厳禁",
-      "reading": "げんきん",
-      "meaning": "sự nghiêm cấm"
+      "word": "厳君",
+      "reading": "げんくん",
+      "meaning": "người cha đáng tôn kính của bạn"
     },
     {
-      "word": "厳密",
-      "reading": "げんみつ",
-      "meaning": "chặt chẽ"
+      "word": "厳選",
+      "reading": "げんせん",
+      "meaning": "tuyển chọn"
     },
     {
-      "word": "厳に",
-      "reading": "げんに",
-      "meaning": "chính xác"
+      "word": "厳正",
+      "reading": "げんせい",
+      "meaning": "nghiêm chỉnh"
     },
     {
-      "word": "厳重",
-      "reading": "げんじゅう",
-      "meaning": "nghiêm ngặt"
-    },
-    {
-      "word": "厳罰",
-      "reading": "げんばつ",
-      "meaning": "hình phạt nghiêm khắc"
-    },
-    {
-      "word": "厳格",
-      "reading": "げんかく",
-      "meaning": "cứng rắn"
-    },
-    {
-      "word": "威厳",
-      "reading": "いげん",
-      "meaning": "oai nghiêm"
-    },
-    {
-      "word": "厳粛",
-      "reading": "げんしゅく",
-      "meaning": "nghiêm trang"
+      "word": "厳旨",
+      "reading": "げんし",
+      "meaning": "thứ tự chính xác"
     }
   ]
 }

@@ -110,6 +110,21 @@
   ],
   "vocabulary": [
     {
+      "word": "起床",
+      "reading": "きしょう",
+      "meaning": "sự dậy"
+    },
+    {
+      "word": "起源",
+      "reading": "きげん",
+      "meaning": "bản"
+    },
+    {
+      "word": "起点",
+      "reading": "きてん",
+      "meaning": "điểm xuất phát"
+    },
+    {
       "word": "起伏",
       "reading": "きふく",
       "meaning": "nhấp nhô"
@@ -120,24 +135,19 @@
       "meaning": "sự khởi động"
     },
     {
-      "word": "不起",
-      "reading": "ふき",
-      "meaning": "bệnh tật không điều trị được"
+      "word": "勃起",
+      "reading": "ぼっき",
+      "meaning": "sự cương dương vật"
     },
     {
-      "word": "起す",
-      "reading": "おこす",
-      "meaning": "tới sự tăng"
+      "word": "起訴",
+      "reading": "きそ",
+      "meaning": "khởi tố"
     },
     {
-      "word": "起床",
-      "reading": "きしょう",
-      "meaning": "sự dậy"
-    },
-    {
-      "word": "再起",
-      "reading": "さいき",
-      "meaning": "sự quay lại"
+      "word": "起業",
+      "reading": "きぎょう",
+      "meaning": "khởi nghiệp"
     },
     {
       "word": "起用",
@@ -145,19 +155,9 @@
       "meaning": "sự chỉ định"
     },
     {
-      "word": "蜂起",
-      "reading": "ほうき",
-      "meaning": "sự nổi dậy"
-    },
-    {
-      "word": "起草",
-      "reading": "きそう",
-      "meaning": "môn vẽ kỹ thuật"
-    },
-    {
-      "word": "起案",
-      "reading": "きあん",
-      "meaning": "môn vẽ kỹ thuật"
+      "word": "不起",
+      "reading": "ふき",
+      "meaning": "bệnh tật không điều trị được"
     }
   ]
 }

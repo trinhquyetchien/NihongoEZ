@@ -89,24 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "態",
-      "reading": "たい",
-      "meaning": "trạng thái"
-    },
-    {
-      "word": "変態",
-      "reading": "へんたい",
-      "meaning": "biến thái"
-    },
-    {
-      "word": "実態",
-      "reading": "じったい",
-      "meaning": "tình hình thực tế"
-    },
-    {
       "word": "状態",
       "reading": "じょうたい",
       "meaning": "trạng thái"
+    },
+    {
+      "word": "事態",
+      "reading": "じたい",
+      "meaning": "tình hình"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "bộ dáng"
     },
     {
       "word": "形態",
@@ -114,29 +109,34 @@
       "meaning": "hình dạng"
     },
     {
-      "word": "業態",
-      "reading": "ぎょうたい",
-      "meaning": "phương thức kinh doanh"
+      "word": "実態",
+      "reading": "じったい",
+      "meaning": "tình hình thực tế"
     },
     {
-      "word": "姿態",
-      "reading": "したい",
-      "meaning": "dáng điệu"
+      "word": "態勢",
+      "reading": "たいせい",
+      "meaning": "thái độ"
     },
     {
-      "word": "痴態",
-      "reading": "ちたい",
-      "meaning": "sự ngu ngốc"
+      "word": "空状態",
+      "reading": "くうじょうたい",
+      "meaning": "trạng thái rỗng"
     },
     {
-      "word": "動態",
-      "reading": "どうたい",
-      "meaning": "trạng thái chuyển động"
+      "word": "変態",
+      "reading": "へんたい",
+      "meaning": "biến thái"
     },
     {
-      "word": "百態",
-      "reading": "ひゃくたい",
-      "meaning": "nhiều pha"
+      "word": "変態性",
+      "reading": "へんたいせい",
+      "meaning": "tính biến thái"
+    },
+    {
+      "word": "生態",
+      "reading": "せいたい",
+      "meaning": "sinh thái"
     }
   ]
 }

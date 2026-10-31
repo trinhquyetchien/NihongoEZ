@@ -88,14 +88,39 @@
   ],
   "vocabulary": [
     {
+      "word": "海峡",
+      "reading": "かいきょう",
+      "meaning": "eo biển"
+    },
+    {
+      "word": "峡谷",
+      "reading": "きょうこく",
+      "meaning": "hẻm núi"
+    },
+    {
+      "word": "峡谷風",
+      "reading": "きょうこくふう",
+      "meaning": "gió thổi trong hẻm núi"
+    },
+    {
       "word": "峡",
       "reading": "かい",
       "meaning": "hẻm núi"
     },
     {
-      "word": "海峡",
-      "reading": "かいきょう",
-      "meaning": "eo biển"
+      "word": "昇仙峡",
+      "reading": "しょうせんきょう",
+      "meaning": "cáp treo"
+    },
+    {
+      "word": "地峡",
+      "reading": "ちきょう",
+      "meaning": "eo đất"
+    },
+    {
+      "word": "山峡",
+      "reading": "さんきょう",
+      "meaning": "hẻm núi"
     },
     {
       "word": "峡湾",
@@ -108,34 +133,9 @@
       "meaning": "eo đất"
     },
     {
-      "word": "山峡",
-      "reading": "さんきょう",
-      "meaning": "hẻm núi"
-    },
-    {
-      "word": "峡谷",
-      "reading": "きょうこく",
-      "meaning": "hẻm núi"
-    },
-    {
       "word": "峡間",
       "reading": "きょうかん",
       "meaning": "khe núi"
-    },
-    {
-      "word": "地峡",
-      "reading": "ちきょう",
-      "meaning": "eo đất"
-    },
-    {
-      "word": "イギリス海峡",
-      "reading": "イギリスかいきょう",
-      "meaning": "kênh tiếng anh"
-    },
-    {
-      "word": "峡谷風",
-      "reading": "きょうこくふう",
-      "meaning": "gió thổi trong hẻm núi"
     }
   ]
 }

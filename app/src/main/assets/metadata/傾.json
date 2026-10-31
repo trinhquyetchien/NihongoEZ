@@ -110,54 +110,54 @@
   ],
   "vocabulary": [
     {
-      "word": "傾げる",
-      "reading": "かしげる",
-      "meaning": "cúi"
-    },
-    {
-      "word": "傾国傾城",
-      "reading": "けいこくけいせい",
-      "meaning": "nghiêng nước nghiêng thành"
-    },
-    {
-      "word": "傾城傾国",
-      "reading": "けいせいけいこく",
-      "meaning": "nghiêng nước nghiêng thành"
-    },
-    {
-      "word": "傾聴",
-      "reading": "けいちょう",
-      "meaning": "sự chú ý nghe"
-    },
-    {
       "word": "傾向",
       "reading": "けいこう",
       "meaning": "khuynh hướng"
     },
     {
-      "word": "傾注",
-      "reading": "けいちゅう",
-      "meaning": "sự cống hiến"
+      "word": "傾く",
+      "reading": "かたむく",
+      "meaning": "ẹo"
     },
     {
-      "word": "傾角",
-      "reading": "けいかく",
+      "word": "傾斜",
+      "reading": "けいしゃ",
+      "meaning": "sự nghiêng"
+    },
+    {
+      "word": "傾ける",
+      "reading": "かたむける",
+      "meaning": "khiến cho có khuynh hướng"
+    },
+    {
+      "word": "傾斜度",
+      "reading": "けいしゃど",
+      "meaning": "dốc"
+    },
+    {
+      "word": "傾斜面",
+      "reading": "けいしゃめん",
+      "meaning": "mặt nghiêng"
+    },
+    {
+      "word": "急傾斜",
+      "reading": "きゅうけいしゃ",
+      "meaning": "ngâm vào nước dốc"
+    },
+    {
+      "word": "傾斜角",
+      "reading": "けいしゃかく",
       "meaning": "góc nghiêng"
     },
     {
-      "word": "傾覆",
-      "reading": "けいふく",
-      "meaning": "úp mặt xuống"
+      "word": "傾いた",
+      "reading": "かたむいた",
+      "meaning": "lệch"
     },
     {
-      "word": "傾城",
-      "reading": "けいせい",
-      "meaning": "vẻ đẹp"
-    },
-    {
-      "word": "傾倒",
-      "reading": "けいとう",
-      "meaning": "sự cống hiến"
+      "word": "傾斜計",
+      "reading": "けいしゃけい",
+      "meaning": "câu mét"
     }
   ]
 }

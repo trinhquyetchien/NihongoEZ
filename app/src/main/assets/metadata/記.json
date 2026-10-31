@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "記",
-      "reading": "き",
-      "meaning": "ghi vào sử sách"
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "kí ức"
     },
     {
       "word": "記者",
@@ -116,24 +116,9 @@
       "meaning": "kí giả"
     },
     {
-      "word": "書記",
-      "reading": "しょき",
-      "meaning": "thư ký"
-    },
-    {
       "word": "記入",
       "reading": "きにゅう",
       "meaning": "sự ghi vào"
-    },
-    {
-      "word": "記述",
-      "reading": "きじゅつ",
-      "meaning": "sự ghi chép"
-    },
-    {
-      "word": "記憶",
-      "reading": "きおく",
-      "meaning": "kí ức"
     },
     {
       "word": "記載",
@@ -141,19 +126,34 @@
       "meaning": "sự ghi chép"
     },
     {
-      "word": "ヨブ記",
-      "reading": "ヨブき",
-      "meaning": "sách gióp"
+      "word": "記述",
+      "reading": "きじゅつ",
+      "meaning": "sự ghi chép"
     },
     {
-      "word": "誤記",
-      "reading": "ごき",
-      "meaning": "viết lỗi"
+      "word": "記",
+      "reading": "き",
+      "meaning": "ghi vào sử sách"
     },
     {
-      "word": "エステル記",
-      "reading": "エステルき",
-      "meaning": "sách esther"
+      "word": "頭記",
+      "reading": "とうき",
+      "meaning": "lời nói đầu"
+    },
+    {
+      "word": "首記",
+      "reading": "しゅき",
+      "meaning": "theo như nội dung tiêu đề"
+    },
+    {
+      "word": "戦記",
+      "reading": "せんき",
+      "meaning": "lịch sử quân đội"
+    },
+    {
+      "word": "追記",
+      "reading": "ついき",
+      "meaning": "tái bút"
     }
   ]
 }

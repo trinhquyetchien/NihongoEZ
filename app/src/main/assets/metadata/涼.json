@@ -111,14 +111,24 @@
   ],
   "vocabulary": [
     {
+      "word": "涼しい",
+      "reading": "すずしい",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "涼む",
+      "reading": "すずむ",
+      "meaning": "làm mát"
+    },
+    {
       "word": "涼",
       "reading": "りょう",
       "meaning": "tên nước của trung quốc"
     },
     {
-      "word": "秋涼",
-      "reading": "しゅうりょう",
-      "meaning": "sự mát mẻ của mùa thu"
+      "word": "夜涼",
+      "reading": "やりょう",
+      "meaning": "thời tiết mát mẻ vào ban đêm"
     },
     {
       "word": "朝涼",
@@ -126,39 +136,29 @@
       "meaning": "buổi sáng se lạnh"
     },
     {
+      "word": "晩涼",
+      "reading": "ばんりょう",
+      "meaning": "sự mát mẻ của buổi tối mùa hè"
+    },
+    {
+      "word": "後涼殿",
+      "reading": "こうろうでん",
+      "meaning": "hậu lương điện"
+    },
+    {
+      "word": "涼亭",
+      "reading": "りょうてい",
+      "meaning": "lương đình"
+    },
+    {
       "word": "清涼",
       "reading": "せいりょう",
       "meaning": "mát"
     },
     {
-      "word": "涼み",
-      "reading": "すずみ",
-      "meaning": "chính mình mát"
-    },
-    {
-      "word": "冷涼",
-      "reading": "れいりょう",
-      "meaning": "sự lãnh đạm"
-    },
-    {
-      "word": "涼感",
-      "reading": "りょうかん",
-      "meaning": "cảm thấy mát mẻ"
-    },
-    {
-      "word": "涼秋",
-      "reading": "りょうしゅう",
-      "meaning": "mùa thu mát mẻ"
-    },
-    {
-      "word": "涼雨",
-      "reading": "りょうう",
-      "meaning": "mưa nhẹ mát"
-    },
-    {
-      "word": "納涼",
-      "reading": "のうりょう",
-      "meaning": "thưởng thức buổi tối mát mẻ"
+      "word": "清涼剤",
+      "reading": "せいりょうざい",
+      "meaning": "chất làm lạnh"
     }
   ]
 }

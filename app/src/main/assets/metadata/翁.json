@@ -90,14 +90,9 @@
       "meaning": "ông già"
     },
     {
-      "word": "阿翁",
-      "reading": "あおう",
-      "meaning": "cha chồng"
-    },
-    {
-      "word": "仙翁",
-      "reading": "せんのう",
-      "meaning": "lychnis ssp"
+      "word": "翁の面",
+      "reading": "おきなのめん",
+      "meaning": "mặt nạ những ông già"
     },
     {
       "word": "村翁",
@@ -110,9 +105,19 @@
       "meaning": "vỏ đèn lồng"
     },
     {
-      "word": "玄翁",
-      "reading": "げんのう",
-      "meaning": "bushhammer"
+      "word": "阿翁",
+      "reading": "あおう",
+      "meaning": "cha chồng"
+    },
+    {
+      "word": "仙翁",
+      "reading": "せんのう",
+      "meaning": "lychnis ssp"
+    },
+    {
+      "word": "翁戎貝",
+      "reading": "おきなえびすがい",
+      "meaning": "ốc anh vũ"
     },
     {
       "word": "老翁",
@@ -120,19 +125,14 @@
       "meaning": "người đàn ông già cả"
     },
     {
-      "word": "白頭翁",
-      "reading": "はくとうおう",
-      "meaning": "ông già tóc bạc phơ"
+      "word": "信天翁",
+      "reading": "あほうどり",
+      "meaning": "chim hải âu lớn"
     },
     {
-      "word": "不倒翁",
-      "reading": "ふとうおう",
-      "meaning": "con lật đật"
-    },
-    {
-      "word": "翁の面",
-      "reading": "おきなのめん",
-      "meaning": "mặt nạ những ông già"
+      "word": "玄翁",
+      "reading": "げんのう",
+      "meaning": "bushhammer"
     }
   ]
 }

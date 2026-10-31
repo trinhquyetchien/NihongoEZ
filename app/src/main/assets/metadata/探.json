@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "探湯",
-      "reading": "くかたち",
-      "meaning": "thử thách với nước sôi"
+      "word": "探す",
+      "reading": "さがす",
+      "meaning": "kiếm"
     },
     {
-      "word": "独探",
-      "reading": "どくたん",
-      "meaning": "điệp viên đức"
+      "word": "探る",
+      "reading": "さぐる",
+      "meaning": "tìm kiếm những thứ mà mắt không thấy bằng cách dựa vào cảm giác của các chi hay tay chân"
     },
     {
-      "word": "探番",
-      "reading": "たんばん",
-      "meaning": "phân bổ một số thứ tự"
+      "word": "探検",
+      "reading": "たんけん",
+      "meaning": "sự thám hiểm"
     },
     {
-      "word": "探測",
-      "reading": "たんそく",
-      "meaning": "thăm dò"
+      "word": "探しに",
+      "reading": "さがしに",
+      "meaning": "để tìm kiếm"
     },
     {
-      "word": "探針",
-      "reading": "たんしん",
-      "meaning": "probe"
+      "word": "金探し",
+      "reading": "きんさがし",
+      "meaning": "tìm kiếm vàng"
     },
     {
-      "word": "探訪",
-      "reading": "たんぼう",
-      "meaning": "phóng sự điều tra"
+      "word": "職探し",
+      "reading": "しょくさがし",
+      "meaning": "làm việc đi săn"
     },
     {
-      "word": "探査",
-      "reading": "たんさ",
-      "meaning": "sự điều tra"
+      "word": "探偵",
+      "reading": "たんてい",
+      "meaning": "sự trinh thám"
     },
     {
-      "word": "探鉱",
-      "reading": "たんこう",
-      "meaning": "cuộc tìm kiếm khai thác khoáng sản"
+      "word": "名探偵",
+      "reading": "めいたんてい",
+      "meaning": "trinh thám lớn"
     },
     {
-      "word": "探知",
-      "reading": "たんち",
-      "meaning": "tìm kiếm"
+      "word": "探偵社",
+      "reading": "たんていしゃ",
+      "meaning": "văn phòng thám tử"
     },
     {
-      "word": "内探",
-      "reading": "ないたん",
-      "meaning": "sự điều tra bí mật"
+      "word": "探偵団",
+      "reading": "たんていだん",
+      "meaning": "nhóm thám tử"
     }
   ]
 }

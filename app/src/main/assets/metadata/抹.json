@@ -86,24 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "塗抹",
-      "reading": "とまつ",
-      "meaning": "làm mờ"
-    },
-    {
       "word": "抹茶",
       "reading": "まっちゃ",
       "meaning": "trà xanh dùng cho các nghi lễ"
     },
     {
-      "word": "抹香",
-      "reading": "まっこう",
-      "meaning": "một chất đốt tỏa ra mùi hương dễ chịu"
+      "word": "抹茶色",
+      "reading": "まっちゃいろ",
+      "meaning": "màu xanh matcha"
     },
     {
-      "word": "抹殺",
-      "reading": "まっさつ",
-      "meaning": "sự phớt lờ"
+      "word": "抹茶塩",
+      "reading": "まっちゃじお",
+      "meaning": "trà mát cha pha muối"
     },
     {
       "word": "抹消",
@@ -111,19 +106,19 @@
       "meaning": "sự xoá"
     },
     {
+      "word": "抹殺",
+      "reading": "まっさつ",
+      "meaning": "sự phớt lờ"
+    },
+    {
       "word": "一抹",
       "reading": "いちまつ",
       "meaning": "một chút"
     },
     {
-      "word": "丁抹",
-      "reading": "デンマーク",
-      "meaning": "đan mạch"
-    },
-    {
-      "word": "抹香鯨",
-      "reading": "まっこうくじら",
-      "meaning": "cá nhà táng"
+      "word": "抹香",
+      "reading": "まっこう",
+      "meaning": "một chất đốt tỏa ra mùi hương dễ chịu"
     },
     {
       "word": "小抹香",
@@ -131,9 +126,14 @@
       "meaning": "pygmy sperm whale"
     },
     {
-      "word": "抹茶塩",
-      "reading": "まっちゃじお",
-      "meaning": "trà mát cha pha muối"
+      "word": "塗抹",
+      "reading": "とまつ",
+      "meaning": "làm mờ"
+    },
+    {
+      "word": "丁抹",
+      "reading": "デンマーク",
+      "meaning": "đan mạch"
     }
   ]
 }

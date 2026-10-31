@@ -91,34 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "射精",
+      "reading": "しゃせい",
+      "meaning": "sự phóng tinh"
+    },
+    {
+      "word": "精子",
+      "reading": "せいし",
+      "meaning": "tinh dịch"
+    },
+    {
       "word": "精",
       "reading": "せい",
       "meaning": "tinh thần"
     },
     {
-      "word": "精精",
-      "reading": "せいぜい",
-      "meaning": "nhiều nhất"
-    },
-    {
-      "word": "不精不精",
-      "reading": "ふしょうぶしょう",
-      "meaning": "bất đắc dĩ"
-    },
-    {
-      "word": "精機",
-      "reading": "せいき",
-      "meaning": "viết tắt của"
-    },
-    {
-      "word": "精子受精能獲得",
-      "reading": "せいしじゅせいのうかくとく",
-      "meaning": "khả năng thụ thai của tinh trùng"
-    },
-    {
-      "word": "精管精管吻合術",
-      "reading": "せいかんせいかんふんごうじゅつ",
-      "meaning": "nối ống dẫn tinh"
+      "word": "水精",
+      "reading": "すいしょう",
+      "meaning": "thạch anh không màu"
     },
     {
       "word": "精々",
@@ -126,19 +116,29 @@
       "meaning": "tối đa"
     },
     {
-      "word": "精彩",
-      "reading": "せいさい",
-      "meaning": "sự sáng chói"
+      "word": "魚精",
+      "reading": "ぎょせい",
+      "meaning": "tinh dịch cá"
     },
     {
-      "word": "精魂",
-      "reading": "せいこん",
-      "meaning": "linh hồn"
+      "word": "精霊",
+      "reading": "せいれい",
+      "meaning": "linh hồn người chết"
     },
     {
-      "word": "受精",
-      "reading": "じゅせい",
-      "meaning": "làm màu mỡ"
+      "word": "精薄",
+      "reading": "せいはく",
+      "meaning": "sự chậm trễ tinh thần"
+    },
+    {
+      "word": "精粉",
+      "reading": "せいふん",
+      "meaning": "bột tinh luyện"
+    },
+    {
+      "word": "精鋭",
+      "reading": "せいえい",
+      "meaning": "sự tinh nhuệ"
     }
   ]
 }

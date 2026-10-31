@@ -89,14 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "必",
-      "reading": "ひつ",
-      "meaning": "tất yếu"
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "cấp thiết"
     },
     {
-      "word": "必ずしも市場にいる必要はない",
-      "reading": "かならずしもしじょーにいるひつよーはない",
-      "meaning": "lúc nào cũng có mặt trên thị trường là không cần thiết"
+      "word": "必ず",
+      "reading": "かならず",
+      "meaning": "nhất định"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "sự quyết tâm"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "mặt hàng nhu yếu"
     },
     {
       "word": "必然",
@@ -104,39 +114,29 @@
       "meaning": "tất nhiên"
     },
     {
-      "word": "必食",
-      "reading": "ひっしょく",
-      "meaning": "cần phải ăn"
+      "word": "必修",
+      "reading": "ひっしゅう",
+      "meaning": "sự cần phải học"
     },
     {
-      "word": "必達",
-      "reading": "ひったつ",
-      "meaning": "điều nhất định phải đạt được"
+      "word": "必要な",
+      "reading": "ひつような",
+      "meaning": "cần dùng"
     },
     {
-      "word": "必敗",
-      "reading": "ひっぱい",
-      "meaning": "sự thất bại chắc chắn"
+      "word": "必要事",
+      "reading": "ひつようじ",
+      "meaning": "những thứ cần thiết"
     },
     {
-      "word": "必読",
-      "reading": "ひつどく",
-      "meaning": "cái cần phải đọc"
+      "word": "必要性",
+      "reading": "ひつようせい",
+      "meaning": "tính tất yếu"
     },
     {
-      "word": "必治",
-      "reading": "ひっち",
-      "meaning": "nhất định điều trị"
-    },
-    {
-      "word": "必勝",
-      "reading": "ひっしょう",
-      "meaning": "quyết thắng"
-    },
-    {
-      "word": "必殺",
-      "reading": "ひっさつ",
-      "meaning": "nhất định giết"
+      "word": "必要物",
+      "reading": "ひつようぶつ",
+      "meaning": "những nhu cầu"
     }
   ]
 }

@@ -54,11 +54,6 @@
       "meaning": "canh"
     },
     {
-      "word": "庚申",
-      "reading": "かのえさる",
-      "meaning": "canh thân"
-    },
-    {
       "word": "庚寅",
       "reading": "かのえとら",
       "meaning": "năm canh dần"
@@ -69,14 +64,19 @@
       "meaning": "năm canh thìn"
     },
     {
-      "word": "庚午",
-      "reading": "かのえうま",
-      "meaning": "năm canh ngọ"
-    },
-    {
       "word": "庚戌",
       "reading": "かのえいぬ",
       "meaning": "năm canh tuất"
+    },
+    {
+      "word": "庚申",
+      "reading": "かのえさる",
+      "meaning": "canh thân"
+    },
+    {
+      "word": "庚午",
+      "reading": "かのえうま",
+      "meaning": "năm canh ngọ"
     },
     {
       "word": "庚申待",

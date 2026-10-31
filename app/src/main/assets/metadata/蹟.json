@@ -50,34 +50,24 @@
   ],
   "vocabulary": [
     {
-      "word": "古蹟",
-      "reading": "こせき",
-      "meaning": "lịch sử làm đổ nát"
-    },
-    {
       "word": "奇蹟",
       "reading": "きせき",
       "meaning": "sự kỳ diệu"
     },
     {
-      "word": "遺蹟",
-      "reading": "いせき",
-      "meaning": "tàn tích"
-    },
-    {
-      "word": "筆蹟",
-      "reading": "ひっせき",
-      "meaning": "bản viết tay"
-    },
-    {
-      "word": "手蹟",
-      "reading": "しゅせき",
-      "meaning": "hoàn toàn tự tay viết ra"
+      "word": "奇蹟的",
+      "reading": "きせきてき",
+      "meaning": "linh thiêng"
     },
     {
       "word": "聖蹟",
       "reading": "せいせき",
       "meaning": "vị trí thánh thần"
+    },
+    {
+      "word": "偉蹟",
+      "reading": "いせき",
+      "meaning": "việc còn lại làm việc"
     },
     {
       "word": "事蹟",
@@ -90,14 +80,24 @@
       "meaning": "giới hạn lịch sử"
     },
     {
-      "word": "偉蹟",
+      "word": "遺蹟",
       "reading": "いせき",
-      "meaning": "việc còn lại làm việc"
+      "meaning": "tàn tích"
     },
     {
-      "word": "真蹟",
-      "reading": "しんせき",
-      "meaning": "thật tự viết tay"
+      "word": "古蹟",
+      "reading": "こせき",
+      "meaning": "lịch sử làm đổ nát"
+    },
+    {
+      "word": "筆蹟",
+      "reading": "ひっせき",
+      "meaning": "bản viết tay"
+    },
+    {
+      "word": "手蹟",
+      "reading": "しゅせき",
+      "meaning": "hoàn toàn tự tay viết ra"
     }
   ]
 }

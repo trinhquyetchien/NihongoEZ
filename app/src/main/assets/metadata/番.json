@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "番",
-      "reading": "ばん",
-      "meaning": "đếm lượt order"
-    },
-    {
-      "word": "長蝶番(ピアノ蝶番)",
-      "reading": "ちょうちょうばん(ピアノちょうばん)",
-      "meaning": "bản lề dài"
-    },
-    {
-      "word": "長丁番/横長丁番",
-      "reading": "ちょうちょうばん/よこながちょうばん",
-      "meaning": "bản lề dài/bản lề ngang"
-    },
-    {
-      "word": "定番",
-      "reading": "ていばん",
-      "meaning": "sản phẩm cơ bản"
-    },
-    {
-      "word": "廃番",
-      "reading": "はいばん",
-      "meaning": "sự huỷ bỏ"
-    },
-    {
-      "word": "枝番",
-      "reading": "えだばん",
-      "meaning": "it: số phiên bản"
-    },
-    {
       "word": "交番",
       "reading": "こうばん",
       "meaning": "đồn cảnh sát"
+    },
+    {
+      "word": "番",
+      "reading": "ばん",
+      "meaning": "đếm lượt order"
     },
     {
       "word": "順番",
@@ -129,14 +104,39 @@
       "meaning": "thứ tự"
     },
     {
-      "word": "局番",
-      "reading": "きょくばん",
-      "meaning": "tổng đài"
+      "word": "下番",
+      "reading": "かばん",
+      "meaning": "giao ban"
+    },
+    {
+      "word": "番い",
+      "reading": "つがい",
+      "meaning": "cặp đôi"
+    },
+    {
+      "word": "番う",
+      "reading": "つがう",
+      "meaning": "ghép đôi"
     },
     {
       "word": "何番",
       "reading": "なんばん",
       "meaning": "số mấy"
+    },
+    {
+      "word": "手番",
+      "reading": "てつがい",
+      "meaning": "đến lượt mình"
+    },
+    {
+      "word": "番代",
+      "reading": "ばんだい",
+      "meaning": "thay phiên nhau"
+    },
+    {
+      "word": "黒番",
+      "reading": "くろばん",
+      "meaning": "màu đen để chơi"
     }
   ]
 }

@@ -94,34 +94,9 @@
       "meaning": "vợ"
     },
     {
-      "word": "駐妻",
-      "reading": "ちゅうつま",
-      "meaning": "những người vợ theo chồng sống ở nước ngoài"
-    },
-    {
-      "word": "妻子",
-      "reading": "さいし",
-      "meaning": "vợ con"
-    },
-    {
-      "word": "多妻",
-      "reading": "たさい",
-      "meaning": "chế độ nhiều vợ"
-    },
-    {
-      "word": "前妻",
-      "reading": "ぜんさい",
-      "meaning": "vợ cũ"
-    },
-    {
-      "word": "妻帯",
-      "reading": "さいたい",
-      "meaning": "sự kết hôn"
-    },
-    {
-      "word": "恐妻",
-      "reading": "きょうさい",
-      "meaning": "sợ vợ"
+      "word": "夫妻",
+      "reading": "ふさい",
+      "meaning": "vợ chồng"
     },
     {
       "word": "元妻",
@@ -129,14 +104,39 @@
       "meaning": "vợ cũ"
     },
     {
-      "word": "正妻",
-      "reading": "せいさい",
-      "meaning": "vợ hợp pháp"
+      "word": "恋妻",
+      "reading": "こいづま",
+      "meaning": "vợ yêu"
     },
     {
-      "word": "人妻",
-      "reading": "ひとづま",
-      "meaning": "vợ người"
+      "word": "妻の命",
+      "reading": "つまのみこと",
+      "meaning": "cách gọi đối phương"
+    },
+    {
+      "word": "妻壁",
+      "reading": "つまかべ",
+      "meaning": "tường đầu hồi"
+    },
+    {
+      "word": "旧妻",
+      "reading": "きゅうさい",
+      "meaning": "cựu vợ"
+    },
+    {
+      "word": "和妻",
+      "reading": "わづま",
+      "meaning": "nhánh của các trò ảo thuật nhật bản cổ đại được kế thừa chủ yếu từ truyền khẩu"
+    },
+    {
+      "word": "切り妻",
+      "reading": "きりづま",
+      "meaning": "đầu hồi"
+    },
+    {
+      "word": "我が妻",
+      "reading": "わがつま",
+      "meaning": "vợ của tôi"
     }
   ]
 }

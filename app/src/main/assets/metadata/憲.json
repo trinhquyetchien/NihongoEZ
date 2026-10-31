@@ -87,34 +87,44 @@
   ],
   "vocabulary": [
     {
-      "word": "立憲",
-      "reading": "りっけん",
-      "meaning": "lập hiến"
-    },
-    {
-      "word": "憲政",
-      "reading": "けんせい",
-      "meaning": "chính trị dựa theo hiến pháp"
-    },
-    {
       "word": "憲法",
       "reading": "けんぽう",
       "meaning": "hiến pháp"
     },
     {
-      "word": "憲章",
-      "reading": "けんしょう",
-      "meaning": "hiến chương"
+      "word": "憲法上",
+      "reading": "けんぽうじょう",
+      "meaning": "theo hiến pháp"
     },
     {
-      "word": "合憲",
-      "reading": "ごうけん",
-      "meaning": "sự hợp hiến"
+      "word": "新憲法",
+      "reading": "しんけんぽう",
+      "meaning": "hiến pháp mới"
     },
     {
-      "word": "官憲",
-      "reading": "かんけん",
-      "meaning": "quyền lực"
+      "word": "憲法学",
+      "reading": "けんぽうがく",
+      "meaning": "hiến pháp học"
+    },
+    {
+      "word": "旧憲法",
+      "reading": "きゅうけんぽう",
+      "meaning": "hiến pháp cũ"
+    },
+    {
+      "word": "立憲",
+      "reading": "りっけん",
+      "meaning": "lập hiến"
+    },
+    {
+      "word": "憲兵",
+      "reading": "けんぺい",
+      "meaning": "hiến binh"
+    },
+    {
+      "word": "憲兵隊",
+      "reading": "けんぺいたい",
+      "meaning": "trung đoàn những cảnh sát quân đội"
     },
     {
       "word": "改憲",
@@ -122,19 +132,9 @@
       "meaning": "sự sửa đổi hiến pháp"
     },
     {
-      "word": "護憲",
-      "reading": "ごけん",
-      "meaning": "bảo vệ hiến pháp"
-    },
-    {
-      "word": "家憲",
-      "reading": "かけん",
-      "meaning": "gia quy"
-    },
-    {
-      "word": "憲兵",
-      "reading": "けんぺい",
-      "meaning": "hiến binh"
+      "word": "改憲案",
+      "reading": "かいけんあん",
+      "meaning": "&amp"
     }
   ]
 }

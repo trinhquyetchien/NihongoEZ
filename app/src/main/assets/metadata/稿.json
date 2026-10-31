@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "稿",
-      "reading": "こう",
-      "meaning": "bản thảo"
-    },
-    {
       "word": "原稿",
       "reading": "げんこう",
       "meaning": "bản nháp"
     },
     {
-      "word": "入稿",
-      "reading": "にゅうこう",
-      "meaning": "gửi tài liệu để nhấn"
+      "word": "投稿",
+      "reading": "とうこう",
+      "meaning": "sự đóng góp"
     },
     {
-      "word": "稿人",
-      "reading": "こうじん",
-      "meaning": "hình nộm bằng rơm"
+      "word": "投稿者",
+      "reading": "とうこうしゃ",
+      "meaning": "người đóng góp vật chất viết)"
     },
     {
-      "word": "歌稿",
-      "reading": "かこう",
-      "meaning": "bản thảo bài thơ"
+      "word": "初投稿",
+      "reading": "はつとうこう",
+      "meaning": "đóng góp đầu tiên"
     },
     {
-      "word": "画稿",
-      "reading": "がこう",
-      "meaning": "hình phác họa"
+      "word": "再投稿",
+      "reading": "さいとうこう",
+      "meaning": "redraft"
     },
     {
-      "word": "本稿",
-      "reading": "ほんこう",
-      "meaning": "bản thảo này"
+      "word": "投稿文",
+      "reading": "とうこうぶん",
+      "meaning": "nội dung đăng tải"
     },
     {
-      "word": "遺稿",
-      "reading": "いこう",
-      "meaning": "bản thảo để lại sau khi chết"
+      "word": "投稿欄",
+      "reading": "とうこうらん",
+      "meaning": "cột báo thư bạn đọc"
     },
     {
-      "word": "稿料",
-      "reading": "こうりょう",
-      "meaning": "tiền bản thảo"
+      "word": "原稿台",
+      "reading": "げんこうだい",
+      "meaning": "giá để bản thảo"
     },
     {
-      "word": "稿本",
-      "reading": "こうほん",
-      "meaning": "bản viết tay"
+      "word": "原稿紙",
+      "reading": "げんこうし",
+      "meaning": "viết tay giấy"
+    },
+    {
+      "word": "原稿料",
+      "reading": "げんこうりょう",
+      "meaning": "nhuận bút"
     }
   ]
 }

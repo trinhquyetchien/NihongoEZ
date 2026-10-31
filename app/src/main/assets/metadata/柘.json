@@ -52,24 +52,24 @@
   ],
   "vocabulary": [
     {
-      "word": "柘",
-      "reading": "はりぐわ",
-      "meaning": "hoàng dương nhật bản"
-    },
-    {
       "word": "柘榴",
       "reading": "ざくろ",
       "meaning": "quả lựu"
     },
     {
-      "word": "鉄礬柘榴石",
-      "reading": "てつばんざくろいし",
-      "meaning": "almandine"
+      "word": "柘",
+      "reading": "はりぐわ",
+      "meaning": "hoàng dương nhật bản"
     },
     {
       "word": "灰鉄柘榴石",
       "reading": "かいてつざくろいし",
       "meaning": "andradite"
+    },
+    {
+      "word": "鉄礬柘榴石",
+      "reading": "てつばんざくろいし",
+      "meaning": "almandine"
     },
     {
       "word": "灰礬柘榴石",

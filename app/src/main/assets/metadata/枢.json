@@ -89,19 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "中枢",
+      "reading": "ちゅうすう",
+      "meaning": "trung khu"
+    },
+    {
+      "word": "中枢性",
+      "reading": "ちゅうすうせい",
+      "meaning": "trung tâm"
+    },
+    {
+      "word": "枢機卿",
+      "reading": "すうききょう",
+      "meaning": "hồng y giáo chủ"
+    },
+    {
       "word": "枢",
       "reading": "くるる",
       "meaning": "trục xoay cửa"
-    },
-    {
-      "word": "枢要",
-      "reading": "すうよう",
-      "meaning": "quan trọng"
-    },
-    {
-      "word": "枢戸",
-      "reading": "くるるど",
-      "meaning": "cửa"
     },
     {
       "word": "枢木",
@@ -109,34 +114,29 @@
       "meaning": "cây chốt cửa"
     },
     {
-      "word": "枢密",
-      "reading": "すうみつ",
-      "meaning": "bí mật quốc gia"
-    },
-    {
       "word": "枢軸",
       "reading": "すうじく",
       "meaning": "trục xe"
     },
     {
-      "word": "枢機",
-      "reading": "すうき",
-      "meaning": "quan trọng phát biểu những vấn đề"
+      "word": "枢軸国",
+      "reading": "すうじくこく",
+      "meaning": "các nứơc phe trục"
     },
     {
-      "word": "中枢",
-      "reading": "ちゅうすう",
-      "meaning": "trung khu"
+      "word": "枢戸",
+      "reading": "くるるど",
+      "meaning": "cửa"
     },
     {
-      "word": "ウェルニッケ中枢",
-      "reading": "ウェルニッケちゅうすう",
-      "meaning": "vùng wernicke"
+      "word": "枢密院",
+      "reading": "すうみついん",
+      "meaning": "hội đồng riêng tư"
     },
     {
-      "word": "中枢性",
-      "reading": "ちゅうすうせい",
-      "meaning": "trung tâm"
+      "word": "枢要",
+      "reading": "すうよう",
+      "meaning": "quan trọng"
     }
   ]
 }

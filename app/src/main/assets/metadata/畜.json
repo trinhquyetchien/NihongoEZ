@@ -87,34 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "畜",
-      "reading": "ちく",
-      "meaning": "cục đá lạnh trong tủ công ty yamato"
+      "word": "牧畜",
+      "reading": "ぼくちく",
+      "meaning": "sự chăn nuôi"
     },
     {
-      "word": "社畜",
-      "reading": "しゃちく",
-      "meaning": "nô lệ của công ty"
+      "word": "家畜",
+      "reading": "かちく",
+      "meaning": "gia súc"
     },
     {
-      "word": "畜力",
-      "reading": "ちくりょく",
-      "meaning": "sức kéo của gia súc"
-    },
-    {
-      "word": "患畜",
-      "reading": "かんちく",
-      "meaning": "động vật bị bệnh"
-    },
-    {
-      "word": "畜殺",
-      "reading": "ちくさつ",
-      "meaning": "giết mổ súc vật"
-    },
-    {
-      "word": "畜舎",
-      "reading": "ちくしゃ",
-      "meaning": "túp lều thú nuôi"
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "kẻ vũ phu"
     },
     {
       "word": "畜産",
@@ -122,19 +107,34 @@
       "meaning": "ngành chăn nuôi"
     },
     {
-      "word": "人畜",
-      "reading": "じんちく",
-      "meaning": "người và gia súc"
+      "word": "家畜化",
+      "reading": "かちくか",
+      "meaning": "sự thuần hoá"
     },
     {
-      "word": "牧畜",
-      "reading": "ぼくちく",
-      "meaning": "sự chăn nuôi"
+      "word": "家畜車",
+      "reading": "かちくしゃ",
+      "meaning": "toa chở gia súc"
     },
     {
       "word": "鬼畜",
       "reading": "きちく",
       "meaning": "cầm thú"
+    },
+    {
+      "word": "社畜",
+      "reading": "しゃちく",
+      "meaning": "nô lệ của công ty"
+    },
+    {
+      "word": "家畜商",
+      "reading": "かちくしょう",
+      "meaning": "người buôn bán gia súc"
+    },
+    {
+      "word": "畜生め",
+      "reading": "ちくしょうめ",
+      "meaning": "con trai - - một - cằn nhằn"
     }
   ]
 }

@@ -91,39 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "陰陰滅滅",
-      "reading": "いんいんめつめつ",
-      "meaning": "tối tăm"
+      "word": "絶滅",
+      "reading": "ぜつめつ",
+      "meaning": "diệt trừ"
     },
     {
-      "word": "滅茶滅茶",
-      "reading": "めちゃめちゃ",
-      "meaning": "chứng phát ban"
+      "word": "全滅",
+      "reading": "ぜんめつ",
+      "meaning": "sự tiêu diệt hoàn toàn"
     },
     {
-      "word": "生滅滅已",
-      "reading": "しょうめつめつい",
-      "meaning": "vượt qua ranh giới của sự sống và cái chết"
-    },
-    {
-      "word": "鬼滅",
-      "reading": "きめつ",
-      "meaning": "diệt quỷ"
-    },
-    {
-      "word": "尽滅",
-      "reading": "じんめつ",
+      "word": "滅亡",
+      "reading": "めつぼう",
       "meaning": "diệt vong"
-    },
-    {
-      "word": "燼滅",
-      "reading": "じんめつ",
-      "meaning": "sự thiêu hủy hoàn toàn"
-    },
-    {
-      "word": "幻滅",
-      "reading": "げんめつ",
-      "meaning": "sự vỡ mộng"
     },
     {
       "word": "消滅",
@@ -131,14 +111,34 @@
       "meaning": "sự tiêu diệt"
     },
     {
-      "word": "自滅",
-      "reading": "じめつ",
-      "meaning": "sự tự chuốc lấy diệt vong"
-    },
-    {
       "word": "壊滅",
       "reading": "かいめつ",
       "meaning": "sự hủy diệt"
+    },
+    {
+      "word": "破滅",
+      "reading": "はめつ",
+      "meaning": "sự phá hủy"
+    },
+    {
+      "word": "滅多",
+      "reading": "めった",
+      "meaning": "sự hiếm khi"
+    },
+    {
+      "word": "殲滅",
+      "reading": "せんめつ",
+      "meaning": "tiêu diệt hoàn toàn"
+    },
+    {
+      "word": "撲滅",
+      "reading": "ぼくめつ",
+      "meaning": "ngăn chặn"
+    },
+    {
+      "word": "自滅",
+      "reading": "じめつ",
+      "meaning": "sự tự chuốc lấy diệt vong"
     }
   ]
 }

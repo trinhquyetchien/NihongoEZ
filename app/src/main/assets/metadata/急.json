@@ -96,19 +96,24 @@
       "meaning": "hiểm trở"
     },
     {
-      "word": "急遽",
-      "reading": "きゅうきょ",
-      "meaning": "nhanh chóng"
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "sự nhanh đặc biệt"
     },
     {
-      "word": "早急",
-      "reading": "そうきゅう",
-      "meaning": "sự khẩn cấp"
+      "word": "急に",
+      "reading": "きゅうに",
+      "meaning": "bất thình lình"
     },
     {
-      "word": "急ブレーキ",
-      "reading": "きゅうブレーキ",
-      "meaning": "thắng gấp"
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaning": "cấp tốc"
+    },
+    {
+      "word": "急激",
+      "reading": "きゅうげき",
+      "meaning": "kịch liệt"
     },
     {
       "word": "至急",
@@ -116,29 +121,24 @@
       "meaning": "cấp tốc"
     },
     {
-      "word": "急死",
-      "reading": "きゅうし",
-      "meaning": "sự chết thình lình"
+      "word": "早急",
+      "reading": "そうきゅう",
+      "meaning": "sự khẩn cấp"
     },
     {
-      "word": "急送",
-      "reading": "きゅうそう",
-      "meaning": "gửi đi"
+      "word": "応急",
+      "reading": "おうきゅう",
+      "meaning": "sơ cứu"
     },
     {
-      "word": "急増",
-      "reading": "きゅうぞう",
-      "meaning": "sự tăng thêm nhanh chóng"
+      "word": "準急",
+      "reading": "じゅんきゅう",
+      "meaning": "tàu tốc hành thường"
     },
     {
-      "word": "急逝",
-      "reading": "きゅうせい",
-      "meaning": "sự chết đột tử"
-    },
-    {
-      "word": "急用",
-      "reading": "きゅうよう",
-      "meaning": "việc gấp"
+      "word": "急雨",
+      "reading": "きゅうう",
+      "meaning": "mưa rào"
     }
   ]
 }

@@ -86,39 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "痩る",
+      "word": "痩せる",
       "reading": "やせる",
-      "meaning": "gầy đi"
-    },
-    {
-      "word": "夏痩",
-      "reading": "なつやせ",
-      "meaning": "sự giảm cân trong mùa hè"
-    },
-    {
-      "word": "痩躯",
-      "reading": "そうく",
-      "meaning": "nghiêng"
-    },
-    {
-      "word": "痩身",
-      "reading": "そうしん",
-      "meaning": "cơ thể mảnh mai"
-    },
-    {
-      "word": "痩村",
-      "reading": "やせむら",
-      "meaning": "xóm nghèo"
-    },
-    {
-      "word": "痩猿",
-      "reading": "やせざる",
-      "meaning": "langur"
-    },
-    {
-      "word": "痩果",
-      "reading": "そうか",
-      "meaning": "achene"
+      "meaning": "ốm"
     },
     {
       "word": "痩せ",
@@ -131,9 +101,39 @@
       "meaning": "gầy"
     },
     {
-      "word": "痩ける",
-      "reading": "こける",
-      "meaning": "gầy lại"
+      "word": "痩せ男",
+      "reading": "やせおとこ",
+      "meaning": "đàn ông gầy gò"
+    },
+    {
+      "word": "痩せ型",
+      "reading": "やせがた",
+      "meaning": "hình dáng mảnh khảnh"
+    },
+    {
+      "word": "痩せ形",
+      "reading": "やせがた",
+      "meaning": "vóc dáng mảnh khảnh"
+    },
+    {
+      "word": "痩せ薬",
+      "reading": "やせぐすり",
+      "meaning": "thuốc sử dụng cho trọng lượng sự giảm"
+    },
+    {
+      "word": "痩せ馬",
+      "reading": "やせうま",
+      "meaning": "con ngựa gầy gò"
+    },
+    {
+      "word": "痩せ肉",
+      "reading": "やせじし",
+      "meaning": "sự tiều tụy"
+    },
+    {
+      "word": "痩せ土",
+      "reading": "やせつち",
+      "meaning": "cằn cỗi"
     }
   ]
 }

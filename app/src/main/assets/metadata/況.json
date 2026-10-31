@@ -91,9 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "場況",
-      "reading": "ばきょう",
-      "meaning": "tình hình thị trường chứng khoán"
+      "word": "状況",
+      "reading": "じょうきょう",
+      "meaning": "bối cảnh"
+    },
+    {
+      "word": "不況",
+      "reading": "ふきょう",
+      "meaning": "khủng hoảng kinh tế"
     },
     {
       "word": "好況",
@@ -101,44 +106,39 @@
       "meaning": "phồn vinh lộc phát"
     },
     {
-      "word": "戦況",
-      "reading": "せんきょう",
-      "meaning": "tình hình chiến sự"
-    },
-    {
-      "word": "業況",
-      "reading": "ぎょうきょう",
-      "meaning": "tình hình kinh doanh"
-    },
-    {
-      "word": "近況",
-      "reading": "きんきょう",
-      "meaning": "tình trạng gần đây"
-    },
-    {
-      "word": "情況",
-      "reading": "じょうきょう",
-      "meaning": "tình trạng"
-    },
-    {
-      "word": "概況",
-      "reading": "がいきょう",
-      "meaning": "cái nhìn bao quát"
-    },
-    {
-      "word": "市況",
-      "reading": "しきょう",
-      "meaning": "tình hình thị trường"
-    },
-    {
       "word": "実況",
       "reading": "じっきょう",
       "meaning": "tình hình thực tế"
     },
     {
-      "word": "現況",
-      "reading": "げんきょう",
-      "meaning": "tình hình hiện tại"
+      "word": "不況時",
+      "reading": "ふきょうじ",
+      "meaning": "thời khủng hoảng kinh tế"
+    },
+    {
+      "word": "大不況",
+      "reading": "だいふきょう",
+      "meaning": "khủng hoảng kinh tế lớn"
+    },
+    {
+      "word": "不況型",
+      "reading": "ふきょうがた",
+      "meaning": "do suy thoái kinh tế gây ra"
+    },
+    {
+      "word": "盛況",
+      "reading": "せいきょう",
+      "meaning": "sự thành công"
+    },
+    {
+      "word": "大盛況",
+      "reading": "だいせいきょう",
+      "meaning": "thành công lớn"
+    },
+    {
+      "word": "近況",
+      "reading": "きんきょう",
+      "meaning": "tình trạng gần đây"
     }
   ]
 }

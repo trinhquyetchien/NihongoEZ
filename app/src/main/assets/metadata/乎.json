@@ -94,6 +94,11 @@
       "meaning": "dấu hỏi"
     },
     {
+      "word": "凝乎と",
+      "reading": "じっと",
+      "meaning": "bất động"
+    },
+    {
       "word": "断乎",
       "reading": "だんこ",
       "meaning": "cương quyết"
@@ -114,13 +119,13 @@
       "meaning": "trong"
     },
     {
-      "word": "凝乎と",
-      "reading": "じっと",
-      "meaning": "bất động"
-    },
-    {
       "word": "断断乎",
       "reading": "だんだんこ",
+      "meaning": "chắc chắn"
+    },
+    {
+      "word": "断乎たる",
+      "reading": "だんこたる",
       "meaning": "chắc chắn"
     },
     {
@@ -132,11 +137,6 @@
       "word": "乎古止点",
       "reading": "をことてん",
       "meaning": "ký hiệu hỗ trợ việc đọc tiếng hán"
-    },
-    {
-      "word": "天爾乎波",
-      "reading": "てにをは",
-      "meaning": "hậu vị từ"
     }
   ]
 }

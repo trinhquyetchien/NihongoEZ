@@ -109,29 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "好",
-      "reading": "よしみ",
-      "meaning": "tốt"
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "sự thích"
     },
     {
-      "word": "好好爺",
-      "reading": "こうこうや",
-      "meaning": "cụ già vui vẻ tốt bụng"
-    },
-    {
-      "word": "好き好む",
-      "reading": "すきこのむ",
-      "meaning": "làm theo ý thích"
-    },
-    {
-      "word": "好き好き",
-      "reading": "すきずき",
+      "word": "好み",
+      "reading": "このみ",
       "meaning": "ý thích"
-    },
-    {
-      "word": "恰好",
-      "reading": "かっこう",
-      "meaning": "vẻ bề ngoài"
     },
     {
       "word": "好む",
@@ -139,14 +124,19 @@
       "meaning": "thích"
     },
     {
-      "word": "好機",
-      "reading": "こうき",
-      "meaning": "cơ hội tốt"
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "bạn"
     },
     {
-      "word": "好物",
-      "reading": "こうぶつ",
-      "meaning": "món ăn ưa thích"
+      "word": "好き好き",
+      "reading": "すきずき",
+      "meaning": "ý thích"
+    },
+    {
+      "word": "好評",
+      "reading": "こうひょう",
+      "meaning": "đánh giá tốt"
     },
     {
       "word": "好意",
@@ -154,9 +144,19 @@
       "meaning": "hữu ý"
     },
     {
-      "word": "好き",
-      "reading": "すき",
-      "meaning": "sự thích"
+      "word": "好調",
+      "reading": "こうちょう",
+      "meaning": "có trạng thái tốt"
+    },
+    {
+      "word": "好況",
+      "reading": "こうきょう",
+      "meaning": "phồn vinh lộc phát"
+    },
+    {
+      "word": "好",
+      "reading": "よしみ",
+      "meaning": "tốt"
     }
   ]
 }

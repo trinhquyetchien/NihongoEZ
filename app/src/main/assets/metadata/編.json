@@ -107,14 +107,34 @@
   ],
   "vocabulary": [
     {
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "sự biên tập"
+    },
+    {
+      "word": "短編",
+      "reading": "たんぺん",
+      "meaning": "truyện ngắn"
+    },
+    {
+      "word": "編む",
+      "reading": "あむ",
+      "meaning": "bện"
+    },
+    {
       "word": "編",
       "reading": "へん",
       "meaning": "sự biên soạn"
     },
     {
-      "word": "編み物/レース編みキット",
-      "reading": "あみもの/レースあみキット",
-      "meaning": "đồ thêu/ bộ dụng cụ thêu ren"
+      "word": "長編",
+      "reading": "ちょうへん",
+      "meaning": "tiểu thuyết dài"
+    },
+    {
+      "word": "編年",
+      "reading": "へんねん",
+      "meaning": "sự sắp xếp theo niên đại"
     },
     {
       "word": "一編",
@@ -122,14 +142,9 @@
       "meaning": "mảnh nghệ thuật thơ)"
     },
     {
-      "word": "編製",
-      "reading": "へんせい",
-      "meaning": "tạo danh sách"
-    },
-    {
-      "word": "本編",
-      "reading": "ほんぺん",
-      "meaning": "bản gốc"
+      "word": "上編",
+      "reading": "じょうへん",
+      "meaning": "phần đầu tiên của một cuốn sách chia làm 2 phần hoặc 3 phần"
     },
     {
       "word": "初編",
@@ -137,24 +152,9 @@
       "meaning": "quyển đầu"
     },
     {
-      "word": "食編",
-      "reading": "しょくへん",
-      "meaning": "bộ thực"
-    },
-    {
-      "word": "編鐘",
-      "reading": "へんしょう",
-      "meaning": "bộ chuông"
-    },
-    {
-      "word": "編木",
-      "reading": "びんざさら",
-      "meaning": "khung gỗ dùng để đan hoặc thiết bị hỗ trợ trong việc đan lưới"
-    },
-    {
-      "word": "改編",
-      "reading": "かいへん",
-      "meaning": "sự tổ chức lại"
+      "word": "編地",
+      "reading": "あみじ",
+      "meaning": "vải dệt kim"
     }
   ]
 }

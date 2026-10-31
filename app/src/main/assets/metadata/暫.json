@@ -88,9 +88,29 @@
   ],
   "vocabulary": [
     {
+      "word": "暫く",
+      "reading": "しばらく",
+      "meaning": "một lúc"
+    },
+    {
       "word": "暫定",
       "reading": "ざんてい",
       "meaning": "sự tạm thời"
+    },
+    {
+      "word": "暫定的",
+      "reading": "ざんていてき",
+      "meaning": "tạm thời"
+    },
+    {
+      "word": "暫定値",
+      "reading": "ざんていち",
+      "meaning": "giá trị tạm thời"
+    },
+    {
+      "word": "暫定案",
+      "reading": "ざんていあん",
+      "meaning": "kế hoạch tạm thời"
     },
     {
       "word": "暫し",
@@ -103,11 +123,6 @@
       "meaning": "một chút"
     },
     {
-      "word": "暫く",
-      "reading": "しばらく",
-      "meaning": "một lúc"
-    },
-    {
       "word": "暫且",
       "reading": "ざんしょ",
       "meaning": "trong chốc lát"
@@ -118,24 +133,9 @@
       "meaning": "tạm trú"
     },
     {
-      "word": "暫定的",
-      "reading": "ざんていてき",
-      "meaning": "tạm thời"
-    },
-    {
-      "word": "暫定案",
-      "reading": "ざんていあん",
-      "meaning": "kế hoạch tạm thời"
-    },
-    {
-      "word": "暫定値",
-      "reading": "ざんていち",
-      "meaning": "giá trị tạm thời"
-    },
-    {
-      "word": "暫く振り",
-      "reading": "しばらくぶり",
-      "meaning": "một khoảng thời gian dài"
+      "word": "暫くして",
+      "reading": "しばらくして",
+      "meaning": "sau một thời gian"
     }
   ]
 }

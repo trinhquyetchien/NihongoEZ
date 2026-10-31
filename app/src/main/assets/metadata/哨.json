@@ -39,39 +39,14 @@
       "meaning": "đi tuần tra"
     },
     {
-      "word": "哨吶",
-      "reading": "チャルメラ",
-      "meaning": "kèn ống thổi truyền thống"
+      "word": "哨戒機",
+      "reading": "しょうかいき",
+      "meaning": "đi tuần tra máy bay"
     },
     {
       "word": "前哨",
       "reading": "ぜんしょう",
       "meaning": "tiền đồn"
-    },
-    {
-      "word": "哨舎",
-      "reading": "しょうしゃ",
-      "meaning": "điếm canh"
-    },
-    {
-      "word": "哨兵",
-      "reading": "しょうへい",
-      "meaning": "lính gác"
-    },
-    {
-      "word": "歩哨",
-      "reading": "ほしょう",
-      "meaning": "sự canh gác"
-    },
-    {
-      "word": "哨吶草",
-      "reading": "チャルメルそう",
-      "meaning": "cây mitella stylosa"
-    },
-    {
-      "word": "前哨線",
-      "reading": "ぜんしょうせん",
-      "meaning": "do thám hàng"
     },
     {
       "word": "前哨地",
@@ -82,6 +57,31 @@
       "word": "前哨戦",
       "reading": "ぜんしょうせん",
       "meaning": "trận chiến nhỏ giữa các đơn vị tiền đồn trước trận chiến toàn diện chính"
+    },
+    {
+      "word": "前哨線",
+      "reading": "ぜんしょうせん",
+      "meaning": "do thám hàng"
+    },
+    {
+      "word": "哨戒艇",
+      "reading": "しょうかいてい",
+      "meaning": "đi tuần tra thuyền"
+    },
+    {
+      "word": "歩哨",
+      "reading": "ほしょう",
+      "meaning": "sự canh gác"
+    },
+    {
+      "word": "監視哨",
+      "reading": "かんししょう",
+      "meaning": "vọng gác"
+    },
+    {
+      "word": "哨吶",
+      "reading": "チャルメラ",
+      "meaning": "kèn ống thổi truyền thống"
     }
   ]
 }

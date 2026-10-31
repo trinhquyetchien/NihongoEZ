@@ -109,44 +109,44 @@
   ],
   "vocabulary": [
     {
+      "word": "細い",
+      "reading": "ほそい",
+      "meaning": "thon dài"
+    },
+    {
+      "word": "詳細",
+      "reading": "しょうさい",
+      "meaning": "một cách chi tiết"
+    },
+    {
+      "word": "細胞",
+      "reading": "さいぼう",
+      "meaning": "tế bào"
+    },
+    {
+      "word": "細菌",
+      "reading": "さいきん",
+      "meaning": "vi trùng"
+    },
+    {
+      "word": "細工",
+      "reading": "さいく",
+      "meaning": "tác phẩm"
+    },
+    {
       "word": "細",
       "reading": "さい",
       "meaning": "chi tiết"
     },
     {
-      "word": "細細",
-      "reading": "こまごま",
-      "meaning": "chi tiết"
+      "word": "口細",
+      "reading": "くちぼそ",
+      "meaning": "miệng nhỏ"
     },
     {
-      "word": "細細と",
-      "reading": "ほそぼそと",
-      "meaning": "chi tiết"
-    },
-    {
-      "word": "細細した",
-      "reading": "こまごました",
-      "meaning": "lặt vặt"
-    },
-    {
-      "word": "細細とした",
-      "reading": "こまごまとした",
-      "meaning": "lặt vặt"
-    },
-    {
-      "word": "細る",
-      "reading": "ほそる",
-      "meaning": "gầy đi"
-    },
-    {
-      "word": "経細胞細胞移動",
-      "reading": "きょうさいぼうさいぼういどう",
-      "meaning": "di chuyển tế bào xuyên tế bào"
-    },
-    {
-      "word": "細心",
-      "reading": "さいしん",
-      "meaning": "cẩn thận"
+      "word": "細形",
+      "reading": "ささらがた",
+      "meaning": "hoa văn tinh xảo"
     },
     {
       "word": "細く",
@@ -154,9 +154,9 @@
       "meaning": "làm mỏng"
     },
     {
-      "word": "細マッチョ",
-      "reading": "ほそマッチョ",
-      "meaning": "thân hình săn chắc"
+      "word": "脚細",
+      "reading": "あしぼそ",
+      "meaning": "microstegium vimineum"
     }
   ]
 }

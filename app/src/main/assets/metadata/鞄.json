@@ -90,34 +90,19 @@
       "meaning": "cặp"
     },
     {
-      "word": "鞄持",
-      "reading": "かばんもち",
-      "meaning": "thư ký riêng"
-    },
-    {
       "word": "小鞄",
       "reading": "こかばん",
       "meaning": "túi nhỏ"
     },
     {
-      "word": "鞄持ち",
-      "reading": "かばんもち",
-      "meaning": "ghuộm khoeo kẻ tôi tớ"
-    },
-    {
-      "word": "通学鞄",
-      "reading": "つうがくかばん",
-      "meaning": "cặp đi học"
-    },
-    {
-      "word": "折り鞄",
-      "reading": "おりかばん",
-      "meaning": "cái cặp để giấy tờ"
-    },
-    {
       "word": "学生鞄",
       "reading": "がくせいかばん",
       "meaning": "cặp học sinh"
+    },
+    {
+      "word": "鞄持ち",
+      "reading": "かばんもち",
+      "meaning": "ghuộm khoeo kẻ tôi tớ"
     },
     {
       "word": "旅行鞄",
@@ -128,6 +113,21 @@
       "word": "牛の鞄",
       "reading": "ぎゅうのかばん",
       "meaning": "cowhide phồng lên"
+    },
+    {
+      "word": "通学鞄",
+      "reading": "つうがくかばん",
+      "meaning": "cặp đi học"
+    },
+    {
+      "word": "鞄持",
+      "reading": "かばんもち",
+      "meaning": "thư ký riêng"
+    },
+    {
+      "word": "折り鞄",
+      "reading": "おりかばん",
+      "meaning": "cái cặp để giấy tờ"
     },
     {
       "word": "手提げ鞄",

@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "機敏",
-      "reading": "きびん",
-      "meaning": "nhanh nhẹn"
+      "word": "敏感",
+      "reading": "びんかん",
+      "meaning": "mẫn cảm"
+    },
+    {
+      "word": "敏感肌",
+      "reading": "びんかんはだ",
+      "meaning": "da nhạy cảm"
+    },
+    {
+      "word": "過敏",
+      "reading": "かびん",
+      "meaning": "nhạy cảm"
+    },
+    {
+      "word": "過敏症",
+      "reading": "かびんしょう",
+      "meaning": "<y> sự nhạy cảm với dược phẩm nào đó"
     },
     {
       "word": "聡敏",
@@ -99,29 +114,9 @@
       "meaning": "sự thông minh"
     },
     {
-      "word": "不敏",
-      "reading": "ふびん",
-      "meaning": "sự không có khả năng"
-    },
-    {
-      "word": "敏捷",
-      "reading": "びんしょう",
-      "meaning": "sự lanh lợi"
-    },
-    {
-      "word": "敏活",
-      "reading": "びんかつ",
-      "meaning": "sự hoạt bát"
-    },
-    {
-      "word": "敏速",
-      "reading": "びんそく",
-      "meaning": "sự tinh nhanh tháo vát"
-    },
-    {
-      "word": "明敏",
-      "reading": "めいびん",
-      "meaning": "trí tuệ"
+      "word": "俊敏",
+      "reading": "しゅんびん",
+      "meaning": "nhanh nhạy"
     },
     {
       "word": "敏腕",
@@ -129,14 +124,19 @@
       "meaning": "sự tài cán"
     },
     {
-      "word": "敏感",
-      "reading": "びんかん",
-      "meaning": "mẫn cảm"
+      "word": "敏腕家",
+      "reading": "びんわんか",
+      "meaning": "người có tay nghề"
     },
     {
-      "word": "過敏",
-      "reading": "かびん",
-      "meaning": "nhạy cảm"
+      "word": "機敏",
+      "reading": "きびん",
+      "meaning": "nhanh nhẹn"
+    },
+    {
+      "word": "敏捷",
+      "reading": "びんしょう",
+      "meaning": "sự lanh lợi"
     }
   ]
 }

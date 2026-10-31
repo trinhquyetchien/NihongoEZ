@@ -109,44 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "結末",
-      "reading": "けつまつ",
-      "meaning": "kết thúc"
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaning": "cưới xin"
     },
     {
-      "word": "結び",
-      "reading": "むすび",
-      "meaning": "một kiểu trang trí thắt nút đồ ăn"
-    },
-    {
-      "word": "結核",
-      "reading": "けっかく",
-      "meaning": "lao"
-    },
-    {
-      "word": "結う",
-      "reading": "ゆう",
-      "meaning": "nối"
-    },
-    {
-      "word": "終結",
-      "reading": "しゅうけつ",
-      "meaning": "chung kết"
-    },
-    {
-      "word": "結合",
-      "reading": "けつごう",
-      "meaning": "sự kết hợp"
-    },
-    {
-      "word": "結晶",
-      "reading": "けっしょう",
-      "meaning": "sự kết tinh"
-    },
-    {
-      "word": "結ぶ",
-      "reading": "むすぶ",
-      "meaning": "kết lại"
+      "word": "結構",
+      "reading": "けっこう",
+      "meaning": "kết cấu"
     },
     {
       "word": "結果",
@@ -154,9 +124,39 @@
       "meaning": "kết cuộc"
     },
     {
+      "word": "結ぶ",
+      "reading": "むすぶ",
+      "meaning": "kết lại"
+    },
+    {
       "word": "結成",
       "reading": "けっせい",
       "meaning": "sự kết thành"
+    },
+    {
+      "word": "結合",
+      "reading": "けつごう",
+      "meaning": "sự kết hợp"
+    },
+    {
+      "word": "結び",
+      "reading": "むすび",
+      "meaning": "một kiểu trang trí thắt nút đồ ăn"
+    },
+    {
+      "word": "結晶",
+      "reading": "けっしょう",
+      "meaning": "sự kết tinh"
+    },
+    {
+      "word": "結束",
+      "reading": "けっそく",
+      "meaning": "sự buộc"
+    },
+    {
+      "word": "結核",
+      "reading": "けっかく",
+      "meaning": "lao"
     }
   ]
 }

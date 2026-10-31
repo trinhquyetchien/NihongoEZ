@@ -90,24 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "斜",
-      "reading": "ななめ",
-      "meaning": "đường chéo"
-    },
-    {
-      "word": "斜視",
-      "reading": "しゃし",
-      "meaning": "tật lác mắt"
-    },
-    {
       "word": "斜め",
       "reading": "ななめ",
       "meaning": "sự nghiêng"
     },
     {
-      "word": "斜陽",
-      "reading": "しゃよう",
-      "meaning": "mặt trời về chiều"
+      "word": "斜",
+      "reading": "ななめ",
+      "meaning": "đường chéo"
+    },
+    {
+      "word": "傾斜",
+      "reading": "けいしゃ",
+      "meaning": "sự nghiêng"
     },
     {
       "word": "斜面",
@@ -115,29 +110,34 @@
       "meaning": "mặt nghiêng"
     },
     {
-      "word": "斜体",
-      "reading": "しゃたい",
-      "meaning": "in nghiêng"
+      "word": "斜めに",
+      "reading": "ななめに",
+      "meaning": "theo đường chéo"
     },
     {
-      "word": "斜線",
-      "reading": "しゃせん",
-      "meaning": "đường chéo"
+      "word": "斜め前",
+      "reading": "ななめまえ",
+      "meaning": "chéo phía trước"
     },
     {
-      "word": "偏斜",
-      "reading": "へんしゃ",
-      "meaning": "sự nghiêng"
+      "word": "傾斜度",
+      "reading": "けいしゃど",
+      "meaning": "dốc"
     },
     {
-      "word": "斜辺",
-      "reading": "しゃへん",
-      "meaning": "cạnh huyền của tam giác vuông"
+      "word": "傾斜面",
+      "reading": "けいしゃめん",
+      "meaning": "mặt nghiêng"
     },
     {
-      "word": "斜角",
-      "reading": "しゃかく",
-      "meaning": "góc xiên"
+      "word": "急傾斜",
+      "reading": "きゅうけいしゃ",
+      "meaning": "ngâm vào nước dốc"
+    },
+    {
+      "word": "傾斜角",
+      "reading": "けいしゃかく",
+      "meaning": "góc nghiêng"
     }
   ]
 }

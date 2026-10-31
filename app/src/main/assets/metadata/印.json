@@ -91,19 +91,14 @@
   ],
   "vocabulary": [
     {
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "ấn tượng"
+    },
+    {
       "word": "印",
       "reading": "しるし",
       "meaning": "dấu"
-    },
-    {
-      "word": "回転印/エンドレス印",
-      "reading": "かいてんいん/エンドレスいん",
-      "meaning": "in vietnamese"
-    },
-    {
-      "word": "捺印マット/印箱",
-      "reading": "なついんマット/いんばこ",
-      "meaning": "dập dấu thảm / hộp dập dấu"
     },
     {
       "word": "目印",
@@ -111,34 +106,39 @@
       "meaning": "mã hiệu"
     },
     {
-      "word": "印紙",
-      "reading": "いんし",
-      "meaning": "cái tem"
-    },
-    {
-      "word": "丸印",
-      "reading": "まるじるし",
-      "meaning": "đánh dấu tròn"
-    },
-    {
-      "word": "証印",
-      "reading": "しょういん",
+      "word": "お印",
+      "reading": "おしるし",
       "meaning": "con dấu"
     },
     {
-      "word": "押印",
-      "reading": "おういん",
-      "meaning": "đóng dấu"
+      "word": "き印",
+      "reading": "きじるし",
+      "meaning": "người điên"
     },
     {
-      "word": "印象",
-      "reading": "いんしょう",
-      "meaning": "ấn tượng"
+      "word": "印本",
+      "reading": "いんぽん",
+      "meaning": "sách được in"
+    },
+    {
+      "word": "金印",
+      "reading": "きんいん",
+      "meaning": "con dấu bằng vàng"
+    },
+    {
+      "word": "印書",
+      "reading": "いんしょ",
+      "meaning": "thuật đánh máy"
     },
     {
       "word": "星印",
       "reading": "ほしじるし",
       "meaning": "dấu sao trong sách"
+    },
+    {
+      "word": "木印",
+      "reading": "もくいん",
+      "meaning": "con dấu bằng gỗ"
     }
   ]
 }

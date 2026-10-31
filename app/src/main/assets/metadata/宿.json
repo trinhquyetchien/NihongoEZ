@@ -108,9 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "宿",
-      "reading": "やど",
-      "meaning": "chỗ trọ"
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "bài tập về nhà"
     },
     {
       "word": "下宿",
@@ -118,24 +118,9 @@
       "meaning": "nhà trọ"
     },
     {
-      "word": "宿直",
-      "reading": "しゅくちょく",
-      "meaning": "túc trực"
-    },
-    {
-      "word": "宿る",
-      "reading": "やどる",
-      "meaning": "ở trọ"
-    },
-    {
-      "word": "宿題",
-      "reading": "しゅくだい",
-      "meaning": "bài tập về nhà"
-    },
-    {
-      "word": "宿屋",
-      "reading": "やどや",
-      "meaning": "nhà trọ"
+      "word": "宿",
+      "reading": "やど",
+      "meaning": "chỗ trọ"
     },
     {
       "word": "宿泊",
@@ -148,14 +133,29 @@
       "meaning": "căn kiếp"
     },
     {
-      "word": "合宿",
-      "reading": "がっしゅく",
-      "meaning": "trại huấn luyện"
+      "word": "宿代",
+      "reading": "やどだい",
+      "meaning": "tiền nhà nghỉ"
     },
     {
-      "word": "宿り",
-      "reading": "やどり",
-      "meaning": "nơi nghỉ dọc đường"
+      "word": "鬼宿",
+      "reading": "きしゅく",
+      "meaning": "sao quỷ"
+    },
+    {
+      "word": "角宿",
+      "reading": "すぼし",
+      "meaning": "sao giác"
+    },
+    {
+      "word": "斗宿",
+      "reading": "ひきつぼし",
+      "meaning": "sao đẩu"
+    },
+    {
+      "word": "胃宿",
+      "reading": "えきえぼし",
+      "meaning": "sao vị"
     }
   ]
 }

@@ -83,54 +83,54 @@
   ],
   "vocabulary": [
     {
-      "word": "掻く",
-      "reading": "かく",
+      "word": "掻き回す",
+      "reading": "かきまわす",
+      "meaning": "khuấy động"
+    },
+    {
+      "word": "引っ掻く",
+      "reading": "ひっかく",
       "meaning": "cào"
     },
     {
-      "word": "掻痒",
-      "reading": "そうよう",
-      "meaning": "sự ngứa"
-    },
-    {
-      "word": "掻爬",
-      "reading": "そうは",
-      "meaning": "sự nạo thìa"
-    },
-    {
-      "word": "掻灯",
-      "reading": "かいともし",
-      "meaning": "đèn lồng treo dọc hành lang của đền"
-    },
-    {
-      "word": "掻玉",
-      "reading": "かきたま",
-      "meaning": "egg soup"
-    },
-    {
-      "word": "足掻く",
-      "reading": "あがく",
-      "meaning": "cào chân xuống đất"
-    },
-    {
-      "word": "犬掻き",
-      "reading": "いぬかき",
-      "meaning": "kiểu bơi chó"
-    },
-    {
-      "word": "笹掻き",
-      "reading": "ささがき",
-      "meaning": "cắt"
-    },
-    {
-      "word": "瘡掻き",
-      "reading": "かさかき",
-      "meaning": "chỉ người mắc bệnh da liễu"
+      "word": "火掻き",
+      "reading": "ひかき",
+      "meaning": "que cời lửa"
     },
     {
       "word": "掻き傷",
       "reading": "かききず",
       "meaning": "vết xước"
+    },
+    {
+      "word": "汗掻き",
+      "reading": "あせかき",
+      "meaning": "thể chất dễ đổ mồ hôi"
+    },
+    {
+      "word": "垢掻き",
+      "reading": "あかかき",
+      "meaning": "kì cọ"
+    },
+    {
+      "word": "掻き氷",
+      "reading": "かきごおり",
+      "meaning": "đá bào"
+    },
+    {
+      "word": "掻き具",
+      "reading": "かきぐ",
+      "meaning": "đồ gạt"
+    },
+    {
+      "word": "掻い巻",
+      "reading": "かいまき",
+      "meaning": "có tay áo may chần"
+    },
+    {
+      "word": "掻く",
+      "reading": "かく",
+      "meaning": "cào"
     }
   ]
 }

@@ -91,19 +91,9 @@
       "meaning": "đầu gối"
     },
     {
-      "word": "膝元",
-      "reading": "ひざもと",
-      "meaning": "gần đầu gối"
-    },
-    {
-      "word": "片膝",
-      "reading": "かたひざ",
-      "meaning": "một đầu gối"
-    },
-    {
-      "word": "両膝",
-      "reading": "りょうひざ",
-      "meaning": "cả 2 đầu gối"
+      "word": "後膝",
+      "reading": "あとひざ",
+      "meaning": "khuỷu chân sau"
     },
     {
       "word": "膝上",
@@ -111,29 +101,39 @@
       "meaning": "trên đầu gối"
     },
     {
-      "word": "膝行",
-      "reading": "しっこう",
-      "meaning": "di chuyển bằng đầu gối và hông"
+      "word": "膝用",
+      "reading": "ひざよう",
+      "meaning": "dành cho đầu gối"
     },
     {
-      "word": "膝下",
-      "reading": "ひざもと",
-      "meaning": "ở những đầu gối một có cha mẹ"
+      "word": "立て膝",
+      "reading": "たてひざ",
+      "meaning": "sự ngồi xổm"
     },
     {
-      "word": "膝掛",
-      "reading": "ひざかけ",
-      "meaning": "chăn phủ đầu gối"
+      "word": "膝胸位",
+      "reading": "しつきょーい",
+      "meaning": "tư thế qùy ngực chạm đùi"
     },
     {
-      "word": "小膝",
-      "reading": "こひざ",
-      "meaning": "bắt quỳ"
+      "word": "両膝",
+      "reading": "りょうひざ",
+      "meaning": "cả 2 đầu gối"
     },
     {
-      "word": "諸膝",
-      "reading": "もろひざ",
-      "meaning": "cả hai đầu gối"
+      "word": "膝隠し",
+      "reading": "ひざかくし",
+      "meaning": "tấm gỗ che chân người kể chuyện"
+    },
+    {
+      "word": "膝状体",
+      "reading": "ひざじょーたい",
+      "meaning": "thể gối"
+    },
+    {
+      "word": "内反膝",
+      "reading": "ないはんひざ",
+      "meaning": "khớp gối quay vào trong"
     }
   ]
 }

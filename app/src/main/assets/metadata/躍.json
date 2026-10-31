@@ -89,44 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "躍動",
-      "reading": "やくどう",
-      "meaning": "sự đập mạnh"
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaning": "việc tỏa sáng"
     },
     {
-      "word": "雀躍",
-      "reading": "じゃくやく",
-      "meaning": "nhảy qua cho niềm vui"
-    },
-    {
-      "word": "躍る",
-      "reading": "おどる",
-      "meaning": "nhảy"
-    },
-    {
-      "word": "勇躍",
-      "reading": "ゆうやく",
-      "meaning": "tinh thần phấn khích"
-    },
-    {
-      "word": "躍如",
-      "reading": "やくじょ",
-      "meaning": "sống động"
-    },
-    {
-      "word": "躍り",
-      "reading": "おどり",
-      "meaning": "nhảy múa"
-    },
-    {
-      "word": "踊躍",
-      "reading": "ようやく",
-      "meaning": "nhảy qua với niềm vui"
-    },
-    {
-      "word": "躍起",
-      "reading": "やっき",
-      "meaning": "sự liều lĩnh tuyệt vọng"
+      "word": "大活躍",
+      "reading": "だいかつやく",
+      "meaning": "năng động"
     },
     {
       "word": "飛躍",
@@ -134,9 +104,39 @@
       "meaning": "bước tiến xa"
     },
     {
-      "word": "跳躍",
-      "reading": "ちょうやく",
-      "meaning": "sự nhảy"
+      "word": "飛躍的",
+      "reading": "ひやくてき",
+      "meaning": "nhanh"
+    },
+    {
+      "word": "躍進",
+      "reading": "やくしん",
+      "meaning": "sự nhảy lên phía trước"
+    },
+    {
+      "word": "大躍進",
+      "reading": "だいやくしん",
+      "meaning": "đại nhảy vọt"
+    },
+    {
+      "word": "躍動",
+      "reading": "やくどう",
+      "meaning": "sự đập mạnh"
+    },
+    {
+      "word": "一躍",
+      "reading": "いちやく",
+      "meaning": "đột nhiên"
+    },
+    {
+      "word": "暗躍",
+      "reading": "あんやく",
+      "meaning": "sự hoạt động ngấm ngầm"
+    },
+    {
+      "word": "躍起",
+      "reading": "やっき",
+      "meaning": "sự liều lĩnh tuyệt vọng"
     }
   ]
 }

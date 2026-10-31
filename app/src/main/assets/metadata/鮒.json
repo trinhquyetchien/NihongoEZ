@@ -38,24 +38,9 @@
       "meaning": "cá giếc"
     },
     {
-      "word": "寒鮒",
-      "reading": "かんぶな",
-      "meaning": "giống cá chép bị bắt trong giữa mùa đông"
-    },
-    {
       "word": "金鮒",
       "reading": "きんぶな",
       "meaning": "carassius buergeri"
-    },
-    {
-      "word": "鮒侍",
-      "reading": "ふなざむらい",
-      "meaning": "samurai hèn nhát"
-    },
-    {
-      "word": "轍鮒",
-      "reading": "てっぷ",
-      "meaning": "đối với một con cá diếc có nguy cơ bị khô cạn trong vết xe trên đường"
     },
     {
       "word": "銀鮒",
@@ -68,14 +53,29 @@
       "meaning": "roundtail paradisefish"
     },
     {
+      "word": "鮒寿司",
+      "reading": "ふなずし",
+      "meaning": "món cá funazushi"
+    },
+    {
+      "word": "寒鮒",
+      "reading": "かんぶな",
+      "meaning": "giống cá chép bị bắt trong giữa mùa đông"
+    },
+    {
+      "word": "鮒侍",
+      "reading": "ふなざむらい",
+      "meaning": "samurai hèn nhát"
+    },
+    {
       "word": "煮頃鮒",
       "reading": "にごろぶな",
       "meaning": "cá diếc luộc"
     },
     {
-      "word": "鮒寿司",
-      "reading": "ふなずし",
-      "meaning": "món cá funazushi"
+      "word": "轍鮒",
+      "reading": "てっぷ",
+      "meaning": "đối với một con cá diếc có nguy cơ bị khô cạn trong vết xe trên đường"
     },
     {
       "word": "轍鮒の急",

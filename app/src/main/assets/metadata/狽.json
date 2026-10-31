@@ -54,6 +54,11 @@
       "meaning": "sự lẫn lộn"
     },
     {
+      "word": "狼狽する",
+      "reading": "ろうばいする",
+      "meaning": "sượng sùng"
+    },
+    {
       "word": "狼狽売り",
       "reading": "ろうばいうり",
       "meaning": "bán tháo ồ ạt"
@@ -64,19 +69,14 @@
       "meaning": "có vẻ bối rối"
     },
     {
-      "word": "周章狼狽",
-      "reading": "しゅうしょうろうばい",
-      "meaning": "sự kinh hoàng"
-    },
-    {
       "word": "狼狽える",
       "reading": "うろたえる",
       "meaning": "bối rối"
     },
     {
-      "word": "狼狽する",
-      "reading": "ろうばいする",
-      "meaning": "sượng sùng"
+      "word": "周章狼狽",
+      "reading": "しゅうしょうろうばい",
+      "meaning": "sự kinh hoàng"
     }
   ]
 }

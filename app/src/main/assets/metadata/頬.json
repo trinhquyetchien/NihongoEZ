@@ -91,14 +91,9 @@
       "meaning": "má"
     },
     {
-      "word": "猿頬",
-      "reading": "さるぼお",
-      "meaning": "má"
-    },
-    {
-      "word": "面頬",
-      "reading": "めんぽお",
-      "meaning": "lưới trai mũ"
+      "word": "頬側",
+      "reading": "きょうそく",
+      "meaning": "thuộc vùng miệng"
     },
     {
       "word": "頬筋",
@@ -106,34 +101,39 @@
       "meaning": "cơ mút"
     },
     {
+      "word": "赤い頬",
+      "reading": "あかいほお",
+      "meaning": "má đỏ"
+    },
+    {
+      "word": "猿頬",
+      "reading": "さるぼお",
+      "meaning": "má"
+    },
+    {
+      "word": "頬っぺ",
+      "reading": "ほっぺ",
+      "meaning": "vô lễ với"
+    },
+    {
+      "word": "猿頬貝",
+      "reading": "さるぼうがい",
+      "meaning": "sò lông"
+    },
+    {
+      "word": "双頬",
+      "reading": "そうきょう",
+      "meaning": "hai bên má"
+    },
+    {
+      "word": "頬笑み",
+      "reading": "ほほえみ",
+      "meaning": "một nụ cười"
+    },
+    {
       "word": "頬骨",
       "reading": "ほおぼね",
       "meaning": "xương gò má"
-    },
-    {
-      "word": "頬紅",
-      "reading": "ほおべに",
-      "meaning": "phấn má"
-    },
-    {
-      "word": "頬髭",
-      "reading": "ほおひげ",
-      "meaning": "râu"
-    },
-    {
-      "word": "頬桁",
-      "reading": "ほおげた",
-      "meaning": "xương gò má"
-    },
-    {
-      "word": "頬杖",
-      "reading": "ほおづえ",
-      "meaning": "chống cằm"
-    },
-    {
-      "word": "豊頬",
-      "reading": "ほうきょう",
-      "meaning": "đôi má phúng phính"
     }
   ]
 }

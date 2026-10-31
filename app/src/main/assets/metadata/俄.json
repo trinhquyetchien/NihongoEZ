@@ -83,6 +83,11 @@
   ],
   "vocabulary": [
     {
+      "word": "俄然",
+      "reading": "がぜん",
+      "meaning": "bất ngờ"
+    },
+    {
       "word": "俄",
       "reading": "にわか",
       "meaning": "bỗng nhiên"
@@ -91,11 +96,6 @@
       "word": "俄に",
       "reading": "にわかに",
       "meaning": "bỗng nhiên"
-    },
-    {
-      "word": "俄盲",
-      "reading": "にわかめくら",
-      "meaning": "sự mù thình lình"
     },
     {
       "word": "俄か",
@@ -113,24 +113,24 @@
       "meaning": "mưa rào"
     },
     {
-      "word": "俄然",
-      "reading": "がぜん",
-      "meaning": "bất ngờ"
-    },
-    {
       "word": "俄勉強",
       "reading": "にわかべんきょう",
       "meaning": "nhồi nhét"
     },
     {
-      "word": "俄分限",
-      "reading": "にわかぶげん",
-      "meaning": "sự đột ngột trở nên giàu có"
+      "word": "俄かに",
+      "reading": "にわかに",
+      "meaning": "đột nhiên"
     },
     {
-      "word": "俄造り",
+      "word": "俄作り",
       "reading": "にわかづくり",
-      "meaning": "cái thay thế tạm thời"
+      "meaning": "làm vội"
+    },
+    {
+      "word": "俄か雨",
+      "reading": "にわかあめ",
+      "meaning": "mưa rào"
     }
   ]
 }

@@ -100,29 +100,19 @@
       "meaning": "mép"
     },
     {
-      "word": "合縁奇縁",
-      "reading": "あいえんきえん",
-      "meaning": "mối quan hệ giữa vợ chồng"
+      "word": "縁談",
+      "reading": "えんだん",
+      "meaning": "bàn chuyện hôn nhân hay chuyện nhận con nuôi"
     },
     {
-      "word": "血縁",
-      "reading": "けつえん",
-      "meaning": "sự cùng dòng máu"
+      "word": "回縁",
+      "reading": "まわりぶち",
+      "meaning": "gờ"
     },
     {
-      "word": "近縁",
-      "reading": "きんえん",
-      "meaning": "quan hệ huyết thống gần"
-    },
-    {
-      "word": "縁石",
-      "reading": "えんせき",
-      "meaning": "rìa đá"
-    },
-    {
-      "word": "東縁",
-      "reading": "とうえん",
-      "meaning": "hiên"
+      "word": "右縁",
+      "reading": "うえん",
+      "meaning": "lề phải"
     },
     {
       "word": "西縁",
@@ -130,19 +120,29 @@
       "meaning": "rìa phía tây"
     },
     {
-      "word": "縁先",
-      "reading": "えんさき",
-      "meaning": "hè viền"
+      "word": "東縁",
+      "reading": "とうえん",
+      "meaning": "hiên"
     },
     {
-      "word": "縁家",
-      "reading": "えんか",
-      "meaning": "họ hàng"
+      "word": "近縁",
+      "reading": "きんえん",
+      "meaning": "quan hệ huyết thống gần"
     },
     {
-      "word": "縁故",
-      "reading": "えんこ",
-      "meaning": "duyên cớ"
+      "word": "畳縁",
+      "reading": "たたみべり",
+      "meaning": "phần cạnh của chiếu tatami"
+    },
+    {
+      "word": "縁籍",
+      "reading": "えんせき",
+      "meaning": "bà con thân thuộc"
+    },
+    {
+      "word": "復縁",
+      "reading": "ふくえん",
+      "meaning": "sự phục hồi lại mối quan hệ"
     }
   ]
 }

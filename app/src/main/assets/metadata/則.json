@@ -91,14 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "則",
-      "reading": "そく",
-      "meaning": "lượng từ để đếm quy tắc"
+      "word": "規則",
+      "reading": "きそく",
+      "meaning": "khuôn phép"
     },
     {
-      "word": "校則",
-      "reading": "こうそく",
-      "meaning": "quy tắc của trường học"
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "đạo luật"
+    },
+    {
+      "word": "不規則",
+      "reading": "ふきそく",
+      "meaning": "không có quy tắc"
     },
     {
       "word": "原則",
@@ -106,39 +111,34 @@
       "meaning": "nguyên tắc"
     },
     {
-      "word": "社則",
-      "reading": "しゃそく",
-      "meaning": "quy tắc luật lệ của công ty"
+      "word": "規則的",
+      "reading": "きそくてき",
+      "meaning": "có hệ thống"
     },
     {
-      "word": "夷則",
-      "reading": "いそく",
-      "meaning": "nốt thứ 9 trong hệ thống âm nhạc cổ trung quốc"
+      "word": "規則性",
+      "reading": "きそくせい",
+      "meaning": "tính quy tắc"
     },
     {
-      "word": "禁則",
-      "reading": "きんそく",
-      "meaning": "sự ngăn cấm"
+      "word": "規則書",
+      "reading": "きそくしょ",
+      "meaning": "sách quy tắc"
     },
     {
-      "word": "典則",
-      "reading": "てんそく",
-      "meaning": "quy tắc"
+      "word": "原則的",
+      "reading": "げんそくてき",
+      "meaning": "về nguyên tắc"
     },
     {
-      "word": "鉄則",
-      "reading": "てっそく",
-      "meaning": "kỷ luật thép"
+      "word": "大原則",
+      "reading": "だいげんそく",
+      "meaning": "nguyên tắc lớn"
     },
     {
-      "word": "天則",
-      "reading": "てんそく",
-      "meaning": "luật trời"
-    },
-    {
-      "word": "則る",
-      "reading": "のっとる",
-      "meaning": "tuân theo"
+      "word": "法則性",
+      "reading": "ほうそくせい",
+      "meaning": "tính quy tắc"
     }
   ]
 }

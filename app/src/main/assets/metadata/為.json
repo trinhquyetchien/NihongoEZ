@@ -95,9 +95,9 @@
   ],
   "vocabulary": [
     {
-      "word": "為",
-      "reading": "ため",
-      "meaning": "bởi vì"
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "hối đoái"
     },
     {
       "word": "行為",
@@ -105,44 +105,44 @@
       "meaning": "hành vi"
     },
     {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "bởi vì"
+    },
+    {
       "word": "為に",
       "reading": "ために",
       "meaning": "cho"
     },
     {
-      "word": "為す",
-      "reading": "なす",
-      "meaning": "làm"
-    },
-    {
-      "word": "天為",
-      "reading": "てんい",
-      "meaning": "do ý trời"
-    },
-    {
-      "word": "外為",
-      "reading": "がいため",
-      "meaning": "ngoại hối.+ tiền hoặc các trái phiếu sinh lời của một nước khác"
-    },
-    {
-      "word": "人為",
-      "reading": "じんい",
-      "meaning": "con người làm việc"
-    },
-    {
-      "word": "不為",
-      "reading": "ふため",
-      "meaning": "bất lợi"
-    },
-    {
-      "word": "作為",
-      "reading": "さくい",
-      "meaning": "tính chất nhân tạo"
-    },
-    {
       "word": "為人",
       "reading": "ひととなり",
       "meaning": "tính khí"
+    },
+    {
+      "word": "その為",
+      "reading": "そのため",
+      "meaning": "do đó"
+    },
+    {
+      "word": "為れる",
+      "reading": "される",
+      "meaning": "làm"
+    },
+    {
+      "word": "為所",
+      "reading": "しどころ",
+      "meaning": "thời gian thích hợp để làm điều gì đó"
+    },
+    {
+      "word": "為せる",
+      "reading": "なせる",
+      "meaning": "cho phép ai đó làm gì"
+    },
+    {
+      "word": "為悪い",
+      "reading": "しにくい",
+      "meaning": "cứng để làm"
     }
   ]
 }

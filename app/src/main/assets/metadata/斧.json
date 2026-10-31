@@ -54,36 +54,6 @@
       "meaning": "cái rìu"
     },
     {
-      "word": "斧鑿",
-      "reading": "ふさく",
-      "meaning": "sự cống hiến hết mình cho thơ văn"
-    },
-    {
-      "word": "握斧",
-      "reading": "あくふ",
-      "meaning": "một loại rìu đẽo bằng tay của thời kỳ đồ đá"
-    },
-    {
-      "word": "手斧",
-      "reading": "ておの",
-      "meaning": "rìu lưỡi vòm"
-    },
-    {
-      "word": "斧鉞",
-      "reading": "ふえつ",
-      "meaning": "cắt giảm mạnh"
-    },
-    {
-      "word": "斧正",
-      "reading": "ふせい",
-      "meaning": "sự sửa chữa"
-    },
-    {
-      "word": "石斧",
-      "reading": "せきふ",
-      "meaning": "rìu đá"
-    },
-    {
       "word": "斧頭",
       "reading": "ふとう",
       "meaning": "đầu rìu"
@@ -94,9 +64,39 @@
       "meaning": "battleaxe"
     },
     {
+      "word": "斧足類",
+      "reading": "ふそくるい",
+      "meaning": "lớp chân rìu"
+    },
+    {
+      "word": "鎌と斧",
+      "reading": "かまとおの",
+      "meaning": "búa liềm"
+    },
+    {
+      "word": "握斧",
+      "reading": "あくふ",
+      "meaning": "một loại rìu đẽo bằng tay của thời kỳ đồ đá"
+    },
+    {
       "word": "斧斤",
       "reading": "ふきん",
       "meaning": "cái rìu"
+    },
+    {
+      "word": "手斧",
+      "reading": "ておの",
+      "meaning": "rìu lưỡi vòm"
+    },
+    {
+      "word": "石斧",
+      "reading": "せきふ",
+      "meaning": "rìu đá"
+    },
+    {
+      "word": "斧鑿",
+      "reading": "ふさく",
+      "meaning": "sự cống hiến hết mình cho thơ văn"
     }
   ]
 }

@@ -94,24 +94,9 @@
       "meaning": "thịt"
     },
     {
-      "word": "肉月",
-      "reading": "にくづき",
-      "meaning": "nhục nguyệt khi đứng bên trái trong một hán tự như 肌"
-    },
-    {
-      "word": "肉体",
-      "reading": "にくたい",
-      "meaning": "cơ thể"
-    },
-    {
-      "word": "肉棒",
-      "reading": "にくぼう",
-      "meaning": "dick"
-    },
-    {
-      "word": "乾肉",
-      "reading": "ほしし",
-      "meaning": "thịt khô"
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "thịt bò"
     },
     {
       "word": "鶏肉",
@@ -119,24 +104,39 @@
       "meaning": "thịt gà"
     },
     {
+      "word": "肉体",
+      "reading": "にくたい",
+      "meaning": "cơ thể"
+    },
+    {
       "word": "人肉",
       "reading": "じんにく",
       "meaning": "thịt người"
     },
     {
-      "word": "朱肉",
-      "reading": "しゅにく",
-      "meaning": "hộp mực đỏ dùng cho dấu cao su"
+      "word": "肉月",
+      "reading": "にくづき",
+      "meaning": "nhục nguyệt khi đứng bên trái trong một hán tự như 肌"
     },
     {
-      "word": "牛肉",
-      "reading": "ぎゅうにく",
-      "meaning": "thịt bò"
+      "word": "黒肉",
+      "reading": "くろにく",
+      "meaning": "màu đen đóng dấu mực"
     },
     {
-      "word": "焼肉",
-      "reading": "やきにく",
-      "meaning": "thịt quay"
+      "word": "死肉",
+      "reading": "しにく",
+      "meaning": "thịt chết"
+    },
+    {
+      "word": "赤肉",
+      "reading": "あかにく",
+      "meaning": "thịt đỏ"
+    },
+    {
+      "word": "桜肉",
+      "reading": "さくらにく",
+      "meaning": "thịt ngựa"
     }
   ]
 }

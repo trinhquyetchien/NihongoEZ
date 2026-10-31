@@ -96,19 +96,9 @@
       "meaning": "băng qua"
     },
     {
-      "word": "跨る",
-      "reading": "またがる",
-      "meaning": "cưỡi"
-    },
-    {
       "word": "跨がる",
       "reading": "またがる",
       "meaning": "bắc qua"
-    },
-    {
-      "word": "跨線橋",
-      "reading": "こせんきょう",
-      "meaning": "cầu vượt qua đường sắt"
     },
     {
       "word": "跨道橋",
@@ -119,6 +109,16 @@
       "word": "跨座式",
       "reading": "こざしき",
       "meaning": "loại dầm ngang"
+    },
+    {
+      "word": "跨る",
+      "reading": "またがる",
+      "meaning": "cưỡi"
+    },
+    {
+      "word": "跨線橋",
+      "reading": "こせんきょう",
+      "meaning": "cầu vượt qua đường sắt"
     }
   ]
 }

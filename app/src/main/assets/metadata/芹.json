@@ -88,14 +88,9 @@
       "meaning": "rau cần nước"
     },
     {
-      "word": "オランダ芹",
-      "reading": "オランダぜり",
-      "meaning": "ngò tây"
-    },
-    {
-      "word": "浜芹",
-      "reading": "はまぜり",
-      "meaning": "cnidium japonicum"
+      "word": "三葉芹",
+      "reading": "みつばぜり",
+      "meaning": "rau mùi tây"
     },
     {
       "word": "毒芹",
@@ -103,9 +98,14 @@
       "meaning": "cicuta virosa"
     },
     {
-      "word": "三葉芹",
-      "reading": "みつばぜり",
-      "meaning": "rau mùi tây"
+      "word": "浜芹",
+      "reading": "はまぜり",
+      "meaning": "cnidium japonicum"
+    },
+    {
+      "word": "オランダ芹",
+      "reading": "オランダぜり",
+      "meaning": "ngò tây"
     }
   ]
 }

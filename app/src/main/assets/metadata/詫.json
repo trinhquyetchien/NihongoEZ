@@ -90,24 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "詫状",
-      "reading": "わびじょう",
-      "meaning": "thư xin lỗi"
+      "word": "詫びる",
+      "reading": "わびる",
+      "meaning": "xin lỗi"
     },
     {
       "word": "詫び",
       "reading": "わび",
       "meaning": "sự xin lỗi"
-    },
-    {
-      "word": "詫ぶ",
-      "reading": "わぶ",
-      "meaning": "xin lỗi"
-    },
-    {
-      "word": "詫る",
-      "reading": "わびる",
-      "meaning": "xin lỗi"
     },
     {
       "word": "お詫び",
@@ -120,24 +110,34 @@
       "meaning": "thư xin lỗi"
     },
     {
+      "word": "詫ぶ",
+      "reading": "わぶ",
+      "meaning": "xin lỗi"
+    },
+    {
+      "word": "詫る",
+      "reading": "わびる",
+      "meaning": "xin lỗi"
+    },
+    {
+      "word": "詫状",
+      "reading": "わびじょう",
+      "meaning": "thư xin lỗi"
+    },
+    {
       "word": "詫び言",
       "reading": "わびごと",
       "meaning": "lời xin lỗi"
     },
     {
-      "word": "詫びる",
-      "reading": "わびる",
-      "meaning": "xin lỗi"
+      "word": "待ち詫びる",
+      "reading": "まちわびる",
+      "meaning": "nôn nóng chờ đợi"
     },
     {
       "word": "詫び寂び",
       "reading": "わびさび",
       "meaning": "vẻ đẹp \"chưa hoàn hảo\""
-    },
-    {
-      "word": "詫び入る",
-      "reading": "わびいる",
-      "meaning": "xin lỗi chân thành"
     }
   ]
 }

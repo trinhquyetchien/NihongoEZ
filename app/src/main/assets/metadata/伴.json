@@ -90,9 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "伴",
-      "reading": "とも",
-      "meaning": "bạn"
+      "word": "伴う",
+      "reading": "ともなう",
+      "meaning": "dìu dắt"
+    },
+    {
+      "word": "と伴う",
+      "reading": "とともなう",
+      "meaning": "đi kèm với"
     },
     {
       "word": "伴い",
@@ -100,44 +105,39 @@
       "meaning": "đồng hành"
     },
     {
-      "word": "侶伴",
-      "reading": "りょはん",
-      "meaning": "bạn"
+      "word": "に伴い",
+      "reading": "にともない",
+      "meaning": "cùng với"
     },
     {
-      "word": "相伴",
-      "reading": "しょうばん",
-      "meaning": "đồng hành"
+      "word": "同伴",
+      "reading": "どうはん",
+      "meaning": "cùng với"
     },
     {
-      "word": "伴僧",
+      "word": "同伴者",
+      "reading": "どうはんしゃ",
+      "meaning": "bạn đường"
+    },
+    {
+      "word": "伴奏",
       "reading": "ばんそう",
-      "meaning": "những thầy tu tham gia một dịch vụ tín đồ phật giáo"
+      "meaning": "đệm nhạc"
     },
     {
-      "word": "伴食",
-      "reading": "ばんしょく",
-      "meaning": "ăn với một khách"
+      "word": "伴奏者",
+      "reading": "ばんそうしゃ",
+      "meaning": "người đệm"
     },
     {
-      "word": "接伴",
-      "reading": "せっぱん",
-      "meaning": "sự tiếp đãi"
+      "word": "伴奏部",
+      "reading": "ばんそうぶ",
+      "meaning": "vật phụ thuộc"
     },
     {
-      "word": "伴走",
-      "reading": "ばんそう",
-      "meaning": "sự chạy theo hộ tống"
-    },
-    {
-      "word": "伴星",
-      "reading": "ばんせい",
-      "meaning": "ngôi sao bạn"
-    },
-    {
-      "word": "随伴",
-      "reading": "ずいはん",
-      "meaning": "đi theo"
+      "word": "無伴奏",
+      "reading": "むばんそう",
+      "meaning": "nhạc hát chay"
     }
   ]
 }

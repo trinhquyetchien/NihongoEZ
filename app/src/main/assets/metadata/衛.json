@@ -88,14 +88,24 @@
   ],
   "vocabulary": [
     {
+      "word": "衛星",
+      "reading": "えいせい",
+      "meaning": "vệ tinh"
+    },
+    {
       "word": "自衛",
       "reading": "じえい",
       "meaning": "sự tự vệ"
     },
     {
-      "word": "守衛",
-      "reading": "しゅえい",
-      "meaning": "nhân viên bảo vệ"
+      "word": "防衛",
+      "reading": "ぼうえい",
+      "meaning": "sự bảo vệ"
+    },
+    {
+      "word": "衛生",
+      "reading": "えいせい",
+      "meaning": "sứ vệ sinh"
     },
     {
       "word": "護衛",
@@ -103,39 +113,29 @@
       "meaning": "hộ vệ"
     },
     {
-      "word": "衛士",
-      "reading": "えじ",
-      "meaning": "vệ sĩ"
+      "word": "守衛",
+      "reading": "しゅえい",
+      "meaning": "nhân viên bảo vệ"
     },
     {
-      "word": "警衛",
-      "reading": "けいえい",
-      "meaning": "cảnh vệ"
+      "word": "防衛力",
+      "reading": "ぼうえいりょく",
+      "meaning": "năng lực phòng vệ"
     },
     {
-      "word": "陛衛",
-      "reading": "へいえい",
-      "meaning": "đế quốc bảo vệ"
+      "word": "防衛軍",
+      "reading": "ぼうえいぐん",
+      "meaning": "bảo vệ quân"
     },
     {
-      "word": "親衛",
-      "reading": "しんえい",
-      "meaning": "cận vệ"
+      "word": "防衛戦",
+      "reading": "ぼうえいせん",
+      "meaning": "trận chiến phòng thủ"
     },
     {
-      "word": "衛兵",
-      "reading": "えいへい",
-      "meaning": "vệ binh"
-    },
-    {
-      "word": "衛視",
-      "reading": "えいし",
-      "meaning": "bảo vệ ở nghị viện"
-    },
-    {
-      "word": "衛所",
-      "reading": "えいしょ",
-      "meaning": "đồn trú"
+      "word": "防衛線",
+      "reading": "ぼうえいせん",
+      "meaning": "tuyến phòng thủ"
     }
   ]
 }

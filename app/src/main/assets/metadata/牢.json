@@ -77,9 +77,9 @@
       "meaning": "prison"
     },
     {
-      "word": "堅牢",
-      "reading": "けんろう",
-      "meaning": "chắc chắn"
+      "word": "女牢",
+      "reading": "おんなろう",
+      "meaning": "nhà tù dành cho phụ nữ"
     },
     {
       "word": "石牢",
@@ -87,39 +87,39 @@
       "meaning": "nhà tù đá"
     },
     {
+      "word": "地下牢",
+      "reading": "ちかろう",
+      "meaning": "ngục tối"
+    },
+    {
+      "word": "牢屋敷",
+      "reading": "ろうやしき",
+      "meaning": "nhà tù"
+    },
+    {
       "word": "永牢",
       "reading": "えいろう",
       "meaning": "án tù chung thân"
     },
     {
-      "word": "入牢",
-      "reading": "にゅうろう",
-      "meaning": "bị bỏ tù"
+      "word": "牢獄",
+      "reading": "ろうごく",
+      "meaning": "nhà tù"
     },
     {
-      "word": "牢死",
-      "reading": "ろうし",
-      "meaning": "sự chết trong tù"
+      "word": "牢屋",
+      "reading": "ろうや",
+      "meaning": "nhà tù"
     },
     {
-      "word": "牢番",
-      "reading": "ろうばん",
-      "meaning": "lính gác tù"
-    },
-    {
-      "word": "牢乎",
-      "reading": "ろうこ",
+      "word": "堅牢",
+      "reading": "けんろう",
       "meaning": "chắc chắn"
     },
     {
-      "word": "牢固",
-      "reading": "ろうこ",
-      "meaning": "chắc chắn"
-    },
-    {
-      "word": "破牢",
-      "reading": "はろう",
-      "meaning": "sự vượt ngục"
+      "word": "座敷牢",
+      "reading": "ざしきろう",
+      "meaning": "phòng giam những tội phạm chính trị hoặc những người mất trí"
     }
   ]
 }

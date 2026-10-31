@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "如",
-      "reading": "にょ",
-      "meaning": "bản chất tối thượng của vạn vật"
-    },
-    {
-      "word": "如露如電",
-      "reading": "にょろにょでん",
-      "meaning": "sự tồn tại như con người nhận thức được có thể thay đổi và thay đổi nhanh chóng"
-    },
-    {
-      "word": "如露亦如電",
-      "reading": "にょろやくにょでん",
-      "meaning": "sự mong manh và chóng tàn của đời sống như sương"
-    },
-    {
       "word": "突如",
       "reading": "とつじょ",
       "meaning": "đột nhiên"
-    },
-    {
-      "word": "欠如",
-      "reading": "けつじょ",
-      "meaning": "sự thiếu"
     },
     {
       "word": "如何",
@@ -120,9 +100,29 @@
       "meaning": "như thế nào"
     },
     {
-      "word": "如才",
-      "reading": "じょさい",
-      "meaning": "lịch sự"
+      "word": "如何な",
+      "reading": "いかな",
+      "meaning": "dù thế nào cũng…"
+    },
+    {
+      "word": "如く",
+      "reading": "ごとく",
+      "meaning": "giống như"
+    },
+    {
+      "word": "欠如",
+      "reading": "けつじょ",
+      "meaning": "sự thiếu"
+    },
+    {
+      "word": "如月",
+      "reading": "きさらぎ",
+      "meaning": "tháng 2 âm lịch"
+    },
+    {
+      "word": "如何許",
+      "reading": "いかばかり",
+      "meaning": "như thế nào nhiều"
     },
     {
       "word": "如き",
@@ -130,14 +130,14 @@
       "meaning": "like"
     },
     {
-      "word": "晏如",
-      "reading": "あんじょ",
-      "meaning": "bình tĩnh"
+      "word": "如来",
+      "reading": "にょらい",
+      "meaning": "như lai"
     },
     {
-      "word": "如是",
-      "reading": "にょぜ",
-      "meaning": "lời được viết ở đầu câu thánh thư: \"như vậy\""
+      "word": "如し",
+      "reading": "ごとし",
+      "meaning": "ví như"
     }
   ]
 }

@@ -87,24 +87,24 @@
   ],
   "vocabulary": [
     {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "sự tưởng tượng"
+    },
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaning": "hình ảnh"
+    },
+    {
       "word": "像",
       "reading": "ぞう",
       "meaning": "tượng"
     },
     {
-      "word": "(写像・関数の)像",
-      "reading": "(しゃぞう・かんすうの)ぞう",
-      "meaning": "hình ảnh"
-    },
-    {
-      "word": "画像/映像制作ソフト",
-      "reading": "がぞう/えいぞうせいさくソフト",
-      "meaning": "phần mềm sản xuất hình ảnh / video"
-    },
-    {
-      "word": "肖像",
-      "reading": "しょうぞう",
-      "meaning": "ảnh chân dung"
+      "word": "仏像",
+      "reading": "ぶつぞう",
+      "meaning": "tượng phật"
     },
     {
       "word": "現像",
@@ -112,29 +112,29 @@
       "meaning": "rửa ảnh"
     },
     {
-      "word": "裸像",
-      "reading": "らぞう",
-      "meaning": "tượng khỏa thân"
+      "word": "小像",
+      "reading": "しょうぞう",
+      "meaning": "tượng"
     },
     {
-      "word": "描像",
-      "reading": "びょうぞう",
-      "meaning": "việc mô tả"
-    },
-    {
-      "word": "音像",
-      "reading": "おんぞう",
-      "meaning": "hình ảnh âm thanh nổi"
-    },
-    {
-      "word": "群像",
-      "reading": "ぐんぞう",
-      "meaning": "quần tượng"
+      "word": "雪像",
+      "reading": "せつぞう",
+      "meaning": "tuyết rơi điêu khắc"
     },
     {
       "word": "鏡像",
       "reading": "きょうぞう",
       "meaning": "hình ảnh phản chiếu trong gương phẳng"
+    },
+    {
+      "word": "聖像",
+      "reading": "せいぞう",
+      "meaning": "biểu tượng thiêng liêng"
+    },
+    {
+      "word": "原像",
+      "reading": "げんぞう",
+      "meaning": "pho tượng nguyên bản"
     }
   ]
 }

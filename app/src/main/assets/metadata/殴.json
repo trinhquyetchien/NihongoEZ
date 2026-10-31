@@ -97,14 +97,24 @@
       "meaning": "đánh nhau"
     },
     {
+      "word": "横殴り",
+      "reading": "よこなぐり",
+      "meaning": "đánh trên cạnh"
+    },
+    {
       "word": "殴殺",
       "reading": "おうさつ",
       "meaning": "sự đánh đập tới sự chết"
     },
     {
-      "word": "横殴り",
-      "reading": "よこなぐり",
-      "meaning": "đánh trên cạnh"
+      "word": "殴り書き",
+      "reading": "なぐりがき",
+      "meaning": "chữ viết cẩu thả"
+    },
+    {
+      "word": "殴り合う",
+      "reading": "なぐりあう",
+      "meaning": "đánh nhau"
     },
     {
       "word": "殴り殺す",
@@ -112,29 +122,19 @@
       "meaning": "đánh chết"
     },
     {
+      "word": "顔を殴る",
+      "reading": "かおをなぐる",
+      "meaning": "đánh vào mặt"
+    },
+    {
       "word": "殴り倒す",
       "reading": "なぐりたおす",
       "meaning": "đánh gục"
     },
     {
-      "word": "棒で殴る",
-      "reading": "ぼうでなぐる",
-      "meaning": "đánh bằng gậy"
-    },
-    {
-      "word": "打ん殴る",
-      "reading": "ぶんなぐる",
-      "meaning": "đấm mạnh"
-    },
-    {
-      "word": "ぶん殴る",
-      "reading": "ぶんなぐる",
-      "meaning": "gõ"
-    },
-    {
-      "word": "殴り込み",
-      "reading": "なぐりこみ",
-      "meaning": "cuộc tấn công bất ngờ"
+      "word": "書き殴る",
+      "reading": "かきなぐる",
+      "meaning": "viết chữ cẩu thả"
     }
   ]
 }

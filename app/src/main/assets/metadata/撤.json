@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "撤兵",
-      "reading": "てっぺい",
-      "meaning": "sự lui binh"
-    },
-    {
-      "word": "撤収",
-      "reading": "てっしゅう",
-      "meaning": "sự rút khỏi"
-    },
-    {
-      "word": "撤廃",
-      "reading": "てっぱい",
-      "meaning": "sự hoàn toàn"
+      "word": "撤退",
+      "reading": "てったい",
+      "meaning": "sự rút lui"
     },
     {
       "word": "撤去",
@@ -107,29 +97,39 @@
       "meaning": "sự hủy bỏ"
     },
     {
-      "word": "撤退",
-      "reading": "てったい",
-      "meaning": "sự rút lui"
-    },
-    {
       "word": "撤回",
       "reading": "てっかい",
       "meaning": "sự hủy bỏ"
     },
     {
-      "word": "全面撤退",
-      "reading": "ぜんめんてったい",
-      "meaning": "rút lui hoàn toàn"
+      "word": "撤廃",
+      "reading": "てっぱい",
+      "meaning": "sự hoàn toàn"
     },
     {
-      "word": "軍備撤廃",
-      "reading": "ぐんびてっぱい",
-      "meaning": "hoàn thành giải trừ quân bị"
+      "word": "撤収",
+      "reading": "てっしゅう",
+      "meaning": "sự rút khỏi"
+    },
+    {
+      "word": "撤兵",
+      "reading": "てっぺい",
+      "meaning": "sự lui binh"
+    },
+    {
+      "word": "撤退する",
+      "reading": "てったいする",
+      "meaning": "rút lui"
     },
     {
       "word": "市場撤退",
       "reading": "しじょうてったい",
       "meaning": "rời khỏi thị trường"
+    },
+    {
+      "word": "全艦撤退",
+      "reading": "ぜんかんてったい",
+      "meaning": "toàn bộ tàu rút lui"
     },
     {
       "word": "部隊撤退",

@@ -107,29 +107,44 @@
   ],
   "vocabulary": [
     {
-      "word": "乳",
-      "reading": "ちち",
-      "meaning": "sữa"
-    },
-    {
-      "word": "乳児用調整乳",
-      "reading": "にゅーじよーちょーせーにゅー",
-      "meaning": "sữa dành cho trẻ sơ sinh"
-    },
-    {
-      "word": "乳び",
-      "reading": "にゅうび",
-      "meaning": "dưỡng trấp"
-    },
-    {
       "word": "牛乳",
       "reading": "ぎゅうにゅう",
       "meaning": "sữa"
     },
     {
-      "word": "貧乳",
-      "reading": "ひんにゅう",
-      "meaning": "ngực nhỏ"
+      "word": "乳",
+      "reading": "ちち",
+      "meaning": "sữa"
+    },
+    {
+      "word": "乳間",
+      "reading": "にゅうかん",
+      "meaning": "khoảng cách giữa hai núm vú"
+    },
+    {
+      "word": "外乳",
+      "reading": "がいにゅう",
+      "meaning": "ngoại nhũ"
+    },
+    {
+      "word": "乳色",
+      "reading": "にゅうしょく",
+      "meaning": "màu sữa"
+    },
+    {
+      "word": "初乳",
+      "reading": "しょにゅう",
+      "meaning": "sữa non"
+    },
+    {
+      "word": "全乳",
+      "reading": "ぜんにゅう",
+      "meaning": "toàn bộ sữa"
+    },
+    {
+      "word": "乳白",
+      "reading": "にゅうはく",
+      "meaning": "màu trắng sữa"
     },
     {
       "word": "巨乳",
@@ -137,24 +152,9 @@
       "meaning": "bộ ngực vĩ đại"
     },
     {
-      "word": "凝乳",
-      "reading": "ぎょうにゅう",
-      "meaning": "sữa đông"
-    },
-    {
-      "word": "搾乳",
-      "reading": "さくにゅう",
-      "meaning": "sự vắt sữa"
-    },
-    {
-      "word": "乳脂",
-      "reading": "にゅうし",
-      "meaning": "chất béo trong sữa"
-    },
-    {
-      "word": "乳価",
-      "reading": "にゅうか",
-      "meaning": "thể sữa"
+      "word": "美乳",
+      "reading": "びにゅう",
+      "meaning": "vòng 1 đẹp"
     }
   ]
 }

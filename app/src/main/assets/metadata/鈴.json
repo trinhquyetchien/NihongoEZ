@@ -97,34 +97,14 @@
       "meaning": "cái chuông lớn"
     },
     {
-      "word": "鈴鴨",
-      "reading": "すずがも",
-      "meaning": "loài vịt lặn"
-    },
-    {
-      "word": "亜鈴",
-      "reading": "あれい",
-      "meaning": "quả tạ"
-    },
-    {
-      "word": "唖鈴",
-      "reading": "あれい",
-      "meaning": "quả tạ"
-    },
-    {
-      "word": "電鈴",
-      "reading": "でんれい",
-      "meaning": "chuông điện"
-    },
-    {
-      "word": "振鈴",
-      "reading": "しんれい",
-      "meaning": "trao cái chuông"
-    },
-    {
       "word": "本鈴",
       "reading": "ほんれい",
       "meaning": "chuông chính thức"
+    },
+    {
+      "word": "鈴口",
+      "reading": "すずぐち",
+      "meaning": "ô cửa giữa ranh giới bên trong và bên ngoài của nơi ở của một lãnh chúa phong kiến. treo một cái chuông lớn và rung nó để vượt qua doanh nghiệp"
     },
     {
       "word": "土鈴",
@@ -135,6 +115,26 @@
       "word": "銀鈴",
       "reading": "ぎんれい",
       "meaning": "chuông bạc"
+    },
+    {
+      "word": "鈴東船",
+      "reading": "れいひがしせん",
+      "meaning": "tàu lạnh"
+    },
+    {
+      "word": "鈴鴨",
+      "reading": "すずがも",
+      "meaning": "loài vịt lặn"
+    },
+    {
+      "word": "鈴蛙",
+      "reading": "すずがえる",
+      "meaning": "cóc bụng lửa phương đông"
+    },
+    {
+      "word": "風鈴",
+      "reading": "ふうりん",
+      "meaning": "chuông gió"
     }
   ]
 }

@@ -87,39 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "騎",
-      "reading": "き",
-      "meaning": "việc cưỡi trên lưng ngựa và chạy"
-    },
-    {
       "word": "騎士",
       "reading": "きし",
       "meaning": "hiệp sĩ"
     },
     {
-      "word": "騎馬",
-      "reading": "きば",
-      "meaning": "sự đi ngựa"
+      "word": "騎士道",
+      "reading": "きしどう",
+      "meaning": "phong cách hiệp sĩ"
     },
     {
-      "word": "単騎",
-      "reading": "たんき",
-      "meaning": "sự cưỡi ngựa đơn"
-    },
-    {
-      "word": "騎行",
-      "reading": "きこう",
-      "meaning": "cưỡi trên lưng ngựa"
-    },
-    {
-      "word": "騎射",
-      "reading": "きしゃ",
-      "meaning": "đâm chồi trên lưng ngựa"
-    },
-    {
-      "word": "騎兵",
-      "reading": "きへい",
-      "meaning": "kị binh"
+      "word": "騎士団",
+      "reading": "きしだん",
+      "meaning": "quân đoàn hiệp sĩ"
     },
     {
       "word": "騎乗",
@@ -127,14 +107,34 @@
       "meaning": "sự cưỡi ngựa"
     },
     {
-      "word": "一騎",
-      "reading": "いっき",
-      "meaning": "một người cưỡi ngựa"
+      "word": "騎乗位",
+      "reading": "きじょうい",
+      "meaning": "tư thế cưỡi ngựa"
     },
     {
       "word": "騎手",
       "reading": "きしゅ",
       "meaning": "người cưỡi ngựa"
+    },
+    {
+      "word": "騎",
+      "reading": "き",
+      "meaning": "việc cưỡi trên lưng ngựa và chạy"
+    },
+    {
+      "word": "一騎",
+      "reading": "いっき",
+      "meaning": "một người cưỡi ngựa"
+    },
+    {
+      "word": "侍八騎",
+      "reading": "さむらいはっき",
+      "meaning": "tám samurai trên lưng ngựa"
+    },
+    {
+      "word": "一騎打",
+      "reading": "いっきうち",
+      "meaning": "cuộc chến một chọi một"
     }
   ]
 }

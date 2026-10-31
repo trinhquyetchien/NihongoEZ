@@ -87,24 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "妬む",
-      "reading": "ねたむ",
-      "meaning": "ấm ức"
-    },
-    {
-      "word": "妬く",
-      "reading": "やく",
-      "meaning": "ghen"
-    },
-    {
       "word": "嫉妬",
       "reading": "しっと",
       "meaning": "lòng ghen tị"
     },
     {
-      "word": "妬心",
-      "reading": "としん",
-      "meaning": "lòng ghen tị"
+      "word": "妬む",
+      "reading": "ねたむ",
+      "meaning": "ấm ức"
+    },
+    {
+      "word": "嫉妬心",
+      "reading": "しっとしん",
+      "meaning": "lòng đố kị"
     },
     {
       "word": "妬み",
@@ -112,9 +107,14 @@
       "meaning": "lòng ghen tị"
     },
     {
-      "word": "嫉妬心",
-      "reading": "しっとしん",
-      "meaning": "lòng đố kị"
+      "word": "妬く",
+      "reading": "やく",
+      "meaning": "ghen"
+    },
+    {
+      "word": "妬心",
+      "reading": "としん",
+      "meaning": "lòng ghen tị"
     },
     {
       "word": "嫉妬する",
@@ -132,9 +132,9 @@
       "meaning": "những ngọn lửa lòng ghen tị"
     },
     {
-      "word": "妬ましい",
-      "reading": "ねたましい",
-      "meaning": "ghen tị 彼女はねたましいくらい美人だ。cô ấy đẹp đến mức tôi phải ghen tị"
+      "word": "嫉妬に狂う",
+      "reading": "しっとにくるう",
+      "meaning": "điên cuồng vì ghen tị"
     }
   ]
 }

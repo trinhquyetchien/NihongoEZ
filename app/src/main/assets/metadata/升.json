@@ -96,29 +96,14 @@
       "meaning": "một thăng"
     },
     {
-      "word": "升形",
-      "reading": "ますがた",
-      "meaning": "làm vuông"
-    },
-    {
-      "word": "升目",
-      "reading": "ますめ",
-      "meaning": "đo"
-    },
-    {
-      "word": "升席",
-      "reading": "ますせき",
-      "meaning": "đánh bốc"
-    },
-    {
       "word": "升組",
       "reading": "ますぐみ",
       "meaning": "khung hình vuông"
     },
     {
-      "word": "升遷",
-      "reading": "しょうせん",
-      "meaning": "lên lên trên"
+      "word": "升席",
+      "reading": "ますせき",
+      "meaning": "đánh bốc"
     },
     {
       "word": "升売り",
@@ -129,6 +114,21 @@
       "word": "一升瓶",
       "reading": "いっしょうびん",
       "meaning": "bình một thăng"
+    },
+    {
+      "word": "升遷",
+      "reading": "しょうせん",
+      "meaning": "lên lên trên"
+    },
+    {
+      "word": "升目",
+      "reading": "ますめ",
+      "meaning": "đo"
+    },
+    {
+      "word": "升形",
+      "reading": "ますがた",
+      "meaning": "làm vuông"
     },
     {
       "word": "蓮華升麻",

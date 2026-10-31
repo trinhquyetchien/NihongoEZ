@@ -112,14 +112,14 @@
       "meaning": "đầu mút"
     },
     {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "giáo viên"
+    },
+    {
       "word": "先端",
       "reading": "せんたん",
       "meaning": "mũi nhọn"
-    },
-    {
-      "word": "先先",
-      "reading": "さきざき",
-      "meaning": "tương lai xa"
     },
     {
       "word": "先先週",
@@ -127,34 +127,34 @@
       "meaning": "tuần trước trước"
     },
     {
-      "word": "先先月",
-      "reading": "せんせんげつ",
-      "meaning": "hai tháng trước đây"
-    },
-    {
-      "word": "先ず先ず",
-      "reading": "まずまず",
-      "meaning": "trước hết"
-    },
-    {
-      "word": "行く先先",
-      "reading": "ゆくさきざき",
-      "meaning": "mọi nơi đi qua"
-    },
-    {
-      "word": "先入先出法",
-      "reading": "さきいれさきだしほう",
-      "meaning": "phương pháp để tổ chức thao tác với cấu trúc dữ liệu nơi mục nhập cũ nhất"
-    },
-    {
-      "word": "先導",
-      "reading": "せんどう",
-      "meaning": "sự chỉ đạo"
+      "word": "先に",
+      "reading": "さきに",
+      "meaning": "phía trước"
     },
     {
       "word": "先着",
       "reading": "せんちゃく",
       "meaning": "sự đến trước"
+    },
+    {
+      "word": "先代",
+      "reading": "せんだい",
+      "meaning": "người đi trước gia đình"
+    },
+    {
+      "word": "先出",
+      "reading": "せんしゅつ",
+      "meaning": "đã đề cập"
+    },
+    {
+      "word": "先回",
+      "reading": "せんかい",
+      "meaning": "trước"
+    },
+    {
+      "word": "先金",
+      "reading": "さきがね",
+      "meaning": "tiền trả trước"
     }
   ]
 }

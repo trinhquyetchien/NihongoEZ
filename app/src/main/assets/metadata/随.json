@@ -90,11 +90,6 @@
   ],
   "vocabulary": [
     {
-      "word": "随意",
-      "reading": "ずいい",
-      "meaning": "sự tùy ý"
-    },
-    {
       "word": "随筆",
       "reading": "ずいひつ",
       "meaning": "tùy bút"
@@ -105,29 +100,9 @@
       "meaning": "tương đối khá"
     },
     {
-      "word": "不随",
-      "reading": "ふずい",
-      "meaning": "chứng liệt"
-    },
-    {
-      "word": "随所",
-      "reading": "ずいしょ",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "随行",
-      "reading": "ずいこう",
-      "meaning": "người phục vụ"
-    },
-    {
-      "word": "随処",
-      "reading": "ずいしょ",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "附随",
-      "reading": "ふずい",
-      "meaning": "vật phụ thuộc"
+      "word": "随時",
+      "reading": "ずいじ",
+      "meaning": "vào bất kỳ thời gian nào"
     },
     {
       "word": "付随",
@@ -135,9 +110,34 @@
       "meaning": "mang theo"
     },
     {
-      "word": "随神",
-      "reading": "かんながら",
-      "meaning": "như xưa còn có một cách đọc nữa là \"kami nagara\""
+      "word": "追随",
+      "reading": "ついずい",
+      "meaning": "sự đi theo"
+    },
+    {
+      "word": "追随性",
+      "reading": "ついずいせい",
+      "meaning": "khả năng theo dõi"
+    },
+    {
+      "word": "追随者",
+      "reading": "ついずいしゃ",
+      "meaning": "người theo dõi"
+    },
+    {
+      "word": "随所",
+      "reading": "ずいしょ",
+      "meaning": "ở mọi nơi"
+    },
+    {
+      "word": "随一",
+      "reading": "ずいいち",
+      "meaning": "đệ nhất"
+    },
+    {
+      "word": "随伴",
+      "reading": "ずいはん",
+      "meaning": "đi theo"
     }
   ]
 }

@@ -98,24 +98,9 @@
       "meaning": "thoải mái"
     },
     {
-      "word": "楽楽",
-      "reading": "らくらく",
-      "meaning": "tiện lợi"
-    },
-    {
-      "word": "極楽極楽",
-      "reading": "ごくらくごくらく",
-      "meaning": "cảm giác cực kỳ dễ chịu"
-    },
-    {
-      "word": "楽市楽座",
-      "reading": "らくいちらくざ",
-      "meaning": "chính sách \"lạc thị - lạc tọa\""
-    },
-    {
-      "word": "楽な",
-      "reading": "らくな",
-      "meaning": "dễ chịu"
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "nhạc cụ"
     },
     {
       "word": "娯楽",
@@ -128,19 +113,34 @@
       "meaning": "nhẹ nhõm"
     },
     {
-      "word": "享楽",
-      "reading": "きょうらく",
-      "meaning": "sự hưởng lạc"
+      "word": "楽譜",
+      "reading": "がくふ",
+      "meaning": "bảng tổng phổ"
     },
     {
-      "word": "快楽",
-      "reading": "かいらく",
-      "meaning": "lạc thú"
+      "word": "極楽",
+      "reading": "ごくらく",
+      "meaning": "cõi cực lạc"
     },
     {
-      "word": "楽器",
-      "reading": "がっき",
-      "meaning": "nhạc cụ"
+      "word": "楽な",
+      "reading": "らくな",
+      "meaning": "dễ chịu"
+    },
+    {
+      "word": "楽部",
+      "reading": "がくぶ",
+      "meaning": "ban nhã nhạc hoàng gia nhật bản"
+    },
+    {
+      "word": "愛楽",
+      "reading": "あいぎょう",
+      "meaning": "tình yêu"
+    },
+    {
+      "word": "楽天",
+      "reading": "らくてん",
+      "meaning": "sự lạc quang"
     }
   ]
 }

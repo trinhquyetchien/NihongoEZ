@@ -90,9 +90,39 @@
   ],
   "vocabulary": [
     {
+      "word": "惜しい",
+      "reading": "おしい",
+      "meaning": "quý giá"
+    },
+    {
+      "word": "惜しむ",
+      "reading": "おしむ",
+      "meaning": "căn cơ"
+    },
+    {
+      "word": "惜し気",
+      "reading": "おしげ",
+      "meaning": "cảm giác hối hận"
+    },
+    {
       "word": "惜敗",
       "reading": "せきはい",
       "meaning": "thất bại đáng tiếc"
+    },
+    {
+      "word": "惜敗率",
+      "reading": "せきはいりつ",
+      "meaning": "tỉ lệ thất bại sát nút"
+    },
+    {
+      "word": "惜別",
+      "reading": "せきべつ",
+      "meaning": "sự lưu luyến không nỡ chia tay"
+    },
+    {
+      "word": "可惜",
+      "reading": "あたら",
+      "meaning": "chao ôi"
     },
     {
       "word": "哀惜",
@@ -105,39 +135,9 @@
       "meaning": "sự yêu quý"
     },
     {
-      "word": "惜別",
-      "reading": "せきべつ",
-      "meaning": "sự lưu luyến không nỡ chia tay"
-    },
-    {
       "word": "痛惜",
       "reading": "つうせき",
       "meaning": "sự đáng tiếc"
-    },
-    {
-      "word": "惜春",
-      "reading": "せきしゅん",
-      "meaning": "sự luyến tiếc mùa xuân trôi qua"
-    },
-    {
-      "word": "可惜",
-      "reading": "あたら",
-      "meaning": "chao ôi"
-    },
-    {
-      "word": "惜敗率",
-      "reading": "せきはいりつ",
-      "meaning": "tỉ lệ thất bại sát nút"
-    },
-    {
-      "word": "惜し気",
-      "reading": "おしげ",
-      "meaning": "cảm giác hối hận"
-    },
-    {
-      "word": "惜しい",
-      "reading": "おしい",
-      "meaning": "quý giá"
     }
   ]
 }

@@ -49,9 +49,9 @@
   ],
   "vocabulary": [
     {
-      "word": "甘薯",
-      "reading": "さつまいも",
-      "meaning": "cây khoai lang"
+      "word": "馬鈴薯",
+      "reading": "ばれいしょ",
+      "meaning": "khoai tây"
     },
     {
       "word": "真薯",
@@ -59,19 +59,9 @@
       "meaning": "bánh gồm có cá luộc và khoai tây ghém"
     },
     {
-      "word": "長薯",
-      "reading": "ながいも",
-      "meaning": "củ từ"
-    },
-    {
       "word": "唐薯",
       "reading": "からいも",
       "meaning": "cây khoai lang"
-    },
-    {
-      "word": "薯蕷",
-      "reading": "とろろ",
-      "meaning": "mài xát giống khoai lang"
     },
     {
       "word": "参薯",
@@ -89,14 +79,24 @@
       "meaning": "khoai mỡ"
     },
     {
-      "word": "馬鈴薯",
-      "reading": "ばれいしょ",
-      "meaning": "khoai tây"
-    },
-    {
       "word": "自然薯",
       "reading": "じねんじょ",
       "meaning": "giống khoai lang kiểu tiếng nhật"
+    },
+    {
+      "word": "薯蕷",
+      "reading": "とろろ",
+      "meaning": "mài xát giống khoai lang"
+    },
+    {
+      "word": "薯蕷汁",
+      "reading": "とろろじる",
+      "meaning": "súp khoai mỡ nghiền"
+    },
+    {
+      "word": "甘薯",
+      "reading": "さつまいも",
+      "meaning": "cây khoai lang"
     }
   ]
 }

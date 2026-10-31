@@ -93,49 +93,49 @@
       "meaning": "bi đông"
     },
     {
-      "word": "スプレー缶",
-      "reading": "スプレーかん",
-      "meaning": "bình xịt phun sơn"
+      "word": "缶詰",
+      "reading": "かんづめ",
+      "meaning": "đồ hộp"
     },
     {
-      "word": "缶ビール",
-      "reading": "かんビール",
-      "meaning": "bia đóng hộp"
+      "word": "吸収缶",
+      "reading": "きゅうしゅうかん",
+      "meaning": "phin lọc"
     },
     {
-      "word": "缶コーヒー",
-      "reading": "かんコーヒー",
-      "meaning": "cà phê lon"
+      "word": "携行缶",
+      "reading": "けいこうかん",
+      "meaning": "hộp"
     },
     {
-      "word": "缶偏",
-      "reading": "ほとぎへん",
-      "meaning": "bỗ \"phẫu\" trong kanji"
+      "word": "缶入り",
+      "reading": "かんいり",
+      "meaning": "đóng lon"
     },
     {
-      "word": "ボトル缶",
-      "reading": "ボトルかん",
-      "meaning": "lon chai"
-    },
-    {
-      "word": "スチール缶",
-      "reading": "スチールかん",
-      "meaning": "lon bằng sắt"
-    },
-    {
-      "word": "ペール缶",
-      "reading": "ペールかん",
-      "meaning": "thùng lớn có tay cầm"
-    },
-    {
-      "word": "缶ジュース",
-      "reading": "かんジュース",
-      "meaning": "nước trái cây đóng hộp"
+      "word": "猫缶",
+      "reading": "ねこかん",
+      "meaning": "đồ ăn đóng hộp cho mèo"
     },
     {
       "word": "製缶",
       "reading": "せいかん",
       "meaning": "sản xuất đồ hộp"
+    },
+    {
+      "word": "丸缶",
+      "reading": "まるかん",
+      "meaning": "hộp thiếc tròn"
+    },
+    {
+      "word": "食缶",
+      "reading": "しょっかん",
+      "meaning": "thùng đựng thực phẩm"
+    },
+    {
+      "word": "角缶",
+      "reading": "かくかん",
+      "meaning": "hộp thiếc vuông"
     }
   ]
 }

@@ -92,34 +92,24 @@
   ],
   "vocabulary": [
     {
-      "word": "緩緩",
-      "reading": "かんかん",
-      "meaning": "chậm chạp"
+      "word": "緩い",
+      "reading": "ゆるい",
+      "meaning": "lỏng"
     },
     {
-      "word": "緩み",
-      "reading": "ゆるみ",
-      "meaning": "sự thư giãn"
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "sự hòa hoãn"
     },
     {
-      "word": "緩行",
-      "reading": "かんこう",
-      "meaning": "đi chậm chạp"
+      "word": "緩やか",
+      "reading": "ゆるやか",
+      "meaning": "nhẹ nhàng"
     },
     {
-      "word": "緩速",
-      "reading": "かんそく",
-      "meaning": "tốc độ chậm"
-    },
-    {
-      "word": "緩手",
-      "reading": "かんしゅ",
-      "meaning": "nước cờ yếu"
-    },
-    {
-      "word": "緩り",
-      "reading": "ゆるり",
-      "meaning": "chậm rãi"
+      "word": "緩める",
+      "reading": "ゆるめる",
+      "meaning": "nới lỏng"
     },
     {
       "word": "緩む",
@@ -127,19 +117,29 @@
       "meaning": "lỏng lẻo"
     },
     {
-      "word": "緩衝",
-      "reading": "かんしょう",
-      "meaning": "giảm xóc"
+      "word": "緩和法",
+      "reading": "かんわほう",
+      "meaning": "phương pháp giảm dư"
     },
     {
-      "word": "緩々",
-      "reading": "ゆるゆる",
-      "meaning": "lỏng lẻo"
+      "word": "緩和策",
+      "reading": "かんわさく",
+      "meaning": "biện pháp giảm bớt"
     },
     {
-      "word": "緩徐",
-      "reading": "かんじょ",
-      "meaning": "sự yên tĩnh và dịu dàng"
+      "word": "緩手",
+      "reading": "かんしゅ",
+      "meaning": "nước cờ yếu"
+    },
+    {
+      "word": "緩目",
+      "reading": "ゆるめ",
+      "meaning": "có phần thả lỏng"
+    },
+    {
+      "word": "緩り",
+      "reading": "ゆるり",
+      "meaning": "chậm rãi"
     }
   ]
 }

@@ -96,24 +96,9 @@
       "meaning": "cơ sở"
     },
     {
-      "word": "出塁",
-      "reading": "しゅつるい",
-      "meaning": "trên cơ sở"
-    },
-    {
-      "word": "三塁",
-      "reading": "さんるい",
-      "meaning": "acids"
-    },
-    {
-      "word": "塁打",
-      "reading": "るいだ",
-      "meaning": "cú đánh làm cho người đánh chạm được góc thứ nhất"
-    },
-    {
-      "word": "堅塁",
-      "reading": "けんるい",
-      "meaning": "pháo đài"
+      "word": "石塁",
+      "reading": "せきるい",
+      "meaning": "pháo đài đá"
     },
     {
       "word": "土塁",
@@ -121,24 +106,39 @@
       "meaning": "công việc đào đắp"
     },
     {
-      "word": "敵塁",
-      "reading": "てきるい",
-      "meaning": "thành lũy của địch"
-    },
-    {
-      "word": "二塁",
-      "reading": "にるい",
-      "meaning": "căn cứ thứ 2"
-    },
-    {
-      "word": "本塁",
-      "reading": "ほんるい",
-      "meaning": "cơ sở"
-    },
-    {
       "word": "城塁",
       "reading": "じょうるい",
       "meaning": "pháo đài"
+    },
+    {
+      "word": "進塁",
+      "reading": "しんるい",
+      "meaning": "việc tiến đến căn cứ tiếp theo của vận động viên bóng chày"
+    },
+    {
+      "word": "走塁",
+      "reading": "そうるい",
+      "meaning": "một người chạy di chuyển từ cơ sở này sang cơ sở khác"
+    },
+    {
+      "word": "満塁",
+      "reading": "まんるい",
+      "meaning": "sự lấp đầy bốn góc"
+    },
+    {
+      "word": "本塁打",
+      "reading": "ほんるいだ",
+      "meaning": "cú đánh cực mạnh và cao khiến bóng bay ra khỏi cầu trường"
+    },
+    {
+      "word": "盗塁",
+      "reading": "とうるい",
+      "meaning": "sự ăn trộm"
+    },
+    {
+      "word": "出塁",
+      "reading": "しゅつるい",
+      "meaning": "trên cơ sở"
     }
   ]
 }

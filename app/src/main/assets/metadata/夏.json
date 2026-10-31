@@ -113,29 +113,34 @@
       "meaning": "mùa hè"
     },
     {
-      "word": "夏至点",
-      "reading": "げしてん",
-      "meaning": "điểm hạ chí"
+      "word": "夏日",
+      "reading": "なつび",
+      "meaning": "ngày hè"
     },
     {
-      "word": "夏バテ",
-      "reading": "なつばて",
-      "meaning": "mùa hè vất vả"
-    },
-    {
-      "word": "夏藤",
-      "reading": "なつふじ",
-      "meaning": "tử đằng"
-    },
-    {
-      "word": "真夏",
-      "reading": "まなつ",
+      "word": "中夏",
+      "reading": "ちゅうか",
       "meaning": "giữa mùa hè"
     },
     {
-      "word": "夏物",
-      "reading": "なつもの",
-      "meaning": "đồ dùng cho mùa hè"
+      "word": "夏時",
+      "reading": "かじ",
+      "meaning": "mùa hạ"
+    },
+    {
+      "word": "一夏",
+      "reading": "ひとなつ",
+      "meaning": "90 ngày khi một nhà sư ở trong phòng để tu luyện vào mùa hè"
+    },
+    {
+      "word": "夏着",
+      "reading": "なつぎ",
+      "meaning": "quần áo mùa hè"
+    },
+    {
+      "word": "夏官",
+      "reading": "かかん",
+      "meaning": "hạ quan"
     },
     {
       "word": "夏祭",
@@ -143,19 +148,14 @@
       "meaning": "lễ hội mùa hè"
     },
     {
-      "word": "冷夏",
-      "reading": "れいか",
-      "meaning": "mùa hè mát"
+      "word": "夏冬",
+      "reading": "かとう",
+      "meaning": "mùa hè với mùa đông"
     },
     {
-      "word": "九夏",
-      "reading": "きゅうか",
-      "meaning": "mùa hè"
-    },
-    {
-      "word": "有夏",
-      "reading": "ゆうか",
-      "meaning": "trung quốc đất liền"
+      "word": "夏鳥",
+      "reading": "なつどり",
+      "meaning": "loài chim di trú mùa hè"
     }
   ]
 }

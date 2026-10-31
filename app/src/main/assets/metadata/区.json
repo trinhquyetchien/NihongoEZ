@@ -106,34 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "区",
-      "reading": "く",
-      "meaning": "khu"
-    },
-    {
-      "word": "区区",
-      "reading": "くく",
-      "meaning": "khác nhau"
-    },
-    {
-      "word": "区区たり",
-      "reading": "くくたり",
-      "meaning": "nhiều thứ khác nhau"
-    },
-    {
-      "word": "区役所",
-      "reading": "くやくしょ",
-      "meaning": "trụ sở hành chính cấp 区"
-    },
-    {
       "word": "地区",
       "reading": "ちく",
       "meaning": "cõi"
-    },
-    {
-      "word": "区分",
-      "reading": "くぶん",
-      "meaning": "sự phân chia"
     },
     {
       "word": "区別",
@@ -146,14 +121,39 @@
       "meaning": "địa hạt"
     },
     {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "sự phân chia"
+    },
+    {
+      "word": "区切る",
+      "reading": "くぎる",
+      "meaning": "cắt bỏ"
+    },
+    {
+      "word": "区",
+      "reading": "く",
+      "meaning": "khu"
+    },
+    {
+      "word": "区画",
+      "reading": "くかく",
+      "meaning": "khu vực"
+    },
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "đoạn"
+    },
+    {
       "word": "一区",
       "reading": "いっく",
       "meaning": "một khu"
     },
     {
-      "word": "区系",
-      "reading": "くけい",
-      "meaning": "ecozone"
+      "word": "分区",
+      "reading": "ぶんく",
+      "meaning": "khu vực"
     }
   ]
 }

@@ -54,14 +54,9 @@
   ],
   "vocabulary": [
     {
-      "word": "微賎",
-      "reading": "びせん",
-      "meaning": "sự tối tăm"
-    },
-    {
-      "word": "卑賎",
-      "reading": "ひせん",
-      "meaning": "thấp phân loại"
+      "word": "貴賎",
+      "reading": "きせん",
+      "meaning": "thấp và cao"
     },
     {
       "word": "賎民",
@@ -74,6 +69,21 @@
       "meaning": "làm nhục sự sinh"
     },
     {
+      "word": "下賎な",
+      "reading": "げせんな",
+      "meaning": "đê tiện"
+    },
+    {
+      "word": "微賎",
+      "reading": "びせん",
+      "meaning": "sự tối tăm"
+    },
+    {
+      "word": "卑賎",
+      "reading": "ひせん",
+      "meaning": "thấp phân loại"
+    },
+    {
       "word": "貧賎",
       "reading": "ひんせん",
       "meaning": "khiêm tốn và nghèo"
@@ -84,19 +94,9 @@
       "meaning": "sự chiếm đóng thấp hoặc phương tiện"
     },
     {
-      "word": "貴賎",
-      "reading": "きせん",
-      "meaning": "thấp và cao"
-    },
-    {
       "word": "賎業婦",
       "reading": "せんぎょうふ",
       "meaning": "gái mại dâm"
-    },
-    {
-      "word": "下賎な",
-      "reading": "げせんな",
-      "meaning": "đê tiện"
     },
     {
       "word": "不可触賎民",

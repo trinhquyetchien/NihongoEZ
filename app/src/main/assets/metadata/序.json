@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "序",
-      "reading": "じょ",
-      "meaning": "lời nói đầu"
-    },
-    {
-      "word": "全順序集合=線形順序集合",
-      "reading": "ぜんじゅんじょしゅうごう=せんけいじゅんじょしゅうごう",
-      "meaning": "tập hợp được sắp toàn phần"
-    },
-    {
-      "word": "線形順序集合=全順序集合",
-      "reading": "せんけいじゅんじょしゅうごう=ぜんじゅんじょしゅうごう",
-      "meaning": "linearly ordered set"
-    },
-    {
-      "word": "序に",
-      "reading": "ついでに",
-      "meaning": "nhân tiện"
-    },
-    {
-      "word": "序章",
-      "reading": "じょしょう",
-      "meaning": "chương đầu"
-    },
-    {
       "word": "順序",
       "reading": "じゅんじょ",
       "meaning": "sự theo thứ tự"
     },
     {
-      "word": "序文",
-      "reading": "じょぶん",
-      "meaning": "lời nói đầu"
+      "word": "秩序",
+      "reading": "ちつじょ",
+      "meaning": "trật tự"
     },
     {
-      "word": "機序",
-      "reading": "きじょ",
-      "meaning": "cơ chế"
+      "word": "序盤",
+      "reading": "じょばん",
+      "meaning": "lượt chơi mở màn"
     },
     {
-      "word": "自序",
-      "reading": "じじょ",
-      "meaning": "lời nói đầu do chính tác giả viết"
+      "word": "序盤戦",
+      "reading": "じょばんせん",
+      "meaning": "sớm trình diễn một trò chơi)"
     },
     {
-      "word": "序次",
-      "reading": "じょじ",
-      "meaning": "sắp đặt"
+      "word": "秩序度",
+      "reading": "ちつじょど",
+      "meaning": "thông số trật tự"
+    },
+    {
+      "word": "法秩序",
+      "reading": "ほうちつじょ",
+      "meaning": "thứ tự hợp pháp"
+    },
+    {
+      "word": "順序数",
+      "reading": "じゅんじょすう",
+      "meaning": "số thứ tự"
+    },
+    {
+      "word": "順序性",
+      "reading": "じゅんじょせい",
+      "meaning": "tính tuần tự"
+    },
+    {
+      "word": "順序木",
+      "reading": "じゅんじょぎ",
+      "meaning": "cây được sắp thứ tự"
+    },
+    {
+      "word": "順序対",
+      "reading": "じゅんじょたい",
+      "meaning": "cặp có thứ tự"
     }
   ]
 }

@@ -91,29 +91,14 @@
       "meaning": "mùi thơm"
     },
     {
-      "word": "薫る",
-      "reading": "かおる",
-      "meaning": "tỏa hương"
-    },
-    {
-      "word": "薫製",
-      "reading": "くんせい",
-      "meaning": "món xông khói"
-    },
-    {
-      "word": "薫風",
-      "reading": "くんぷう",
-      "meaning": "gió mới của thời điểm đầu mùa hè"
-    },
-    {
-      "word": "薫香",
-      "reading": "くんこう",
-      "meaning": "hương thơm thoang thoảng"
-    },
-    {
       "word": "薫化",
       "reading": "くんか",
       "meaning": "ảnh hưởng đức tính của"
+    },
+    {
+      "word": "薫き物",
+      "reading": "たきもの",
+      "meaning": "hỗn hợp các loại gỗ thơm"
     },
     {
       "word": "薫く",
@@ -121,9 +106,14 @@
       "meaning": "đốt"
     },
     {
-      "word": "薫陶",
-      "reading": "くんとう",
-      "meaning": "sự cảm hoá"
+      "word": "空薫",
+      "reading": "そらだき",
+      "meaning": "hương nhan để trong khuôn"
+    },
+    {
+      "word": "薫じる",
+      "reading": "くんじる",
+      "meaning": "ngửi mùi hương"
     },
     {
       "word": "薫煙",
@@ -131,9 +121,19 @@
       "meaning": "thơm ngát hút thuốc"
     },
     {
-      "word": "薫育",
-      "reading": "くんいく",
-      "meaning": "ảnh hưởng đạo đức"
+      "word": "余薫",
+      "reading": "よくん",
+      "meaning": "chần chừ mùi"
+    },
+    {
+      "word": "薫る",
+      "reading": "かおる",
+      "meaning": "tỏa hương"
+    },
+    {
+      "word": "風薫る",
+      "reading": "かぜかおる",
+      "meaning": "gió hiu hiu nhẹ mát trong mùa hè sớm"
     }
   ]
 }

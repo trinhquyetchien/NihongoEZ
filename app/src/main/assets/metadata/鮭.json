@@ -76,39 +76,9 @@
       "meaning": "cá hồi"
     },
     {
-      "word": "江鮭",
-      "reading": "あめのうお",
-      "meaning": "cá hồi biwa"
-    },
-    {
-      "word": "塩鮭",
-      "reading": "しおざけ",
-      "meaning": "cá hồi ướp muối"
-    },
-    {
-      "word": "鮭漁",
-      "reading": "さけりょう",
-      "meaning": "sự câu cá hồi"
-    },
-    {
-      "word": "紅鮭",
-      "reading": "べにざけ",
-      "meaning": "cá hồi đỏ"
-    },
-    {
-      "word": "燻鮭",
-      "reading": "いぶしざけ",
-      "meaning": "cá hồi xông khói"
-    },
-    {
       "word": "生鮭",
       "reading": "なまざけ",
       "meaning": "cá hồi tươi"
-    },
-    {
-      "word": "乾鮭",
-      "reading": "からざけ",
-      "meaning": "cá hồi khô"
     },
     {
       "word": "白鮭",
@@ -119,6 +89,36 @@
       "word": "銀鮭",
       "reading": "ぎんざけ",
       "meaning": "cá hồi coho"
+    },
+    {
+      "word": "焼き鮭",
+      "reading": "やきしゃけ",
+      "meaning": "cá hồi nướng"
+    },
+    {
+      "word": "江鮭",
+      "reading": "あめのうお",
+      "meaning": "cá hồi biwa"
+    },
+    {
+      "word": "乾鮭",
+      "reading": "からざけ",
+      "meaning": "cá hồi khô"
+    },
+    {
+      "word": "鮭漁",
+      "reading": "さけりょう",
+      "meaning": "sự câu cá hồi"
+    },
+    {
+      "word": "燻鮭",
+      "reading": "いぶしざけ",
+      "meaning": "cá hồi xông khói"
+    },
+    {
+      "word": "紅鮭",
+      "reading": "べにざけ",
+      "meaning": "cá hồi đỏ"
     }
   ]
 }

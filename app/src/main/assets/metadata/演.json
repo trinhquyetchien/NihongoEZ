@@ -87,39 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "演台",
-      "reading": "えんだい",
-      "meaning": "bục phát biểu"
+      "word": "演奏",
+      "reading": "えんそう",
+      "meaning": "biểu diễn"
     },
     {
-      "word": "助演",
-      "reading": "じょえん",
-      "meaning": "người cùng đóng vai chính"
-    },
-    {
-      "word": "上演",
-      "reading": "じょうえん",
-      "meaning": "bản tưồng"
-    },
-    {
-      "word": "主演",
-      "reading": "しゅえん",
-      "meaning": "vai diễn"
-    },
-    {
-      "word": "出演",
-      "reading": "しゅつえん",
-      "meaning": "sự trình diễn"
-    },
-    {
-      "word": "終演",
-      "reading": "しゅうえん",
-      "meaning": "suất diễn cuối cùng"
-    },
-    {
-      "word": "公演",
-      "reading": "こうえん",
-      "meaning": "sự công diễn"
+      "word": "演技",
+      "reading": "えんぎ",
+      "meaning": "kỹ thuật trình diễn"
     },
     {
       "word": "講演",
@@ -127,14 +102,39 @@
       "meaning": "bài giảng"
     },
     {
-      "word": "実演",
-      "reading": "じつえん",
-      "meaning": "biểu diễn"
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "sự diễn thuyết"
     },
     {
-      "word": "力演",
-      "reading": "りきえん",
-      "meaning": "sự thực hiện nhiệt tình"
+      "word": "演劇",
+      "reading": "えんげき",
+      "meaning": "diễn kịch"
+    },
+    {
+      "word": "出演",
+      "reading": "しゅつえん",
+      "meaning": "sự trình diễn"
+    },
+    {
+      "word": "公演",
+      "reading": "こうえん",
+      "meaning": "sự công diễn"
+    },
+    {
+      "word": "演出",
+      "reading": "えんしゅつ",
+      "meaning": "bản tuồng"
+    },
+    {
+      "word": "主演",
+      "reading": "しゅえん",
+      "meaning": "vai diễn"
+    },
+    {
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "bản tưồng"
     }
   ]
 }

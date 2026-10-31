@@ -89,24 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "原因",
+      "reading": "げんいん",
+      "meaning": "căn do"
+    },
+    {
       "word": "原",
       "reading": "はら",
       "meaning": "cánh đồng"
     },
     {
-      "word": "桑原桑原",
-      "reading": "くわばらくわばら",
-      "meaning": "ối trời đất ơi!"
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "nguyên lý"
     },
     {
-      "word": "海原",
-      "reading": "うなばら",
-      "meaning": "đại dương"
+      "word": "原稿",
+      "reading": "げんこう",
+      "meaning": "bản nháp"
     },
     {
-      "word": "抗原",
-      "reading": "こうげん",
-      "meaning": "sinh kháng thể"
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "chất liệu"
     },
     {
       "word": "原始",
@@ -114,29 +119,24 @@
       "meaning": "thuở sơ khai"
     },
     {
-      "word": "原告",
-      "reading": "げんこく",
-      "meaning": "bên nguyên"
-    },
-    {
-      "word": "高原",
-      "reading": "こうげん",
-      "meaning": "cao nguyên"
-    },
-    {
-      "word": "原本",
-      "reading": "げんぽん",
+      "word": "原作",
+      "reading": "げんさく",
       "meaning": "nguyên bản"
     },
     {
-      "word": "原案",
-      "reading": "げんあん",
-      "meaning": "kế hoạch ban đầu"
+      "word": "原則",
+      "reading": "げんそく",
+      "meaning": "nguyên tắc"
     },
     {
-      "word": "原野",
-      "reading": "げんや",
-      "meaning": "đất hoang"
+      "word": "原子",
+      "reading": "げんし",
+      "meaning": "nguyên tử"
+    },
+    {
+      "word": "原爆",
+      "reading": "げんばく",
+      "meaning": "bom nguyên tử"
     }
   ]
 }

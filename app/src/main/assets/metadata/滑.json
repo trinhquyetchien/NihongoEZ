@@ -91,19 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "滑",
-      "reading": "なめ",
-      "meaning": "chỗ trống"
-    },
-    {
-      "word": "滑膜",
-      "reading": "かつまく",
-      "meaning": "màng hoạt dịch"
-    },
-    {
       "word": "滑る",
       "reading": "すべる",
       "meaning": "trơn"
+    },
+    {
+      "word": "滑稽",
+      "reading": "こっけい",
+      "meaning": "buồn cười"
+    },
+    {
+      "word": "円滑",
+      "reading": "えんかつ",
+      "meaning": "trôi chảy"
+    },
+    {
+      "word": "滑り",
+      "reading": "すべり",
+      "meaning": "sự trượt"
+    },
+    {
+      "word": "滑り目",
+      "reading": "すべりめ",
+      "meaning": "thả mũi khâu"
+    },
+    {
+      "word": "滑り車",
+      "reading": "すべりぐるま",
+      "meaning": "rulô khăn quàng vai"
     },
     {
       "word": "滑走",
@@ -111,34 +126,19 @@
       "meaning": "sự trượt"
     },
     {
-      "word": "滑剤",
-      "reading": "かつざい",
-      "meaning": "chất bôi trơn"
+      "word": "氷滑り",
+      "reading": "こおりすべり",
+      "meaning": "sự trượt băng"
     },
     {
-      "word": "滑舌",
-      "reading": "かつぜつ",
-      "meaning": "nói một cách trơn tru"
+      "word": "滑走路",
+      "reading": "かっそうろ",
+      "meaning": "đường băng"
     },
     {
-      "word": "砂滑",
-      "reading": "すなめり",
-      "meaning": "cá heo không vây cá đen"
-    },
-    {
-      "word": "滑々",
-      "reading": "すべすべ",
-      "meaning": "mịn"
-    },
-    {
-      "word": "滑莧",
-      "reading": "すべりひゆ",
-      "meaning": "cây rau sam"
-    },
-    {
-      "word": "滑席",
-      "reading": "かっせき",
-      "meaning": "ghế trượt"
+      "word": "滑り尺",
+      "reading": "すべりじゃく",
+      "meaning": "trượt quy tắc"
     }
   ]
 }

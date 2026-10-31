@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "叩き",
-      "reading": "たたき",
-      "meaning": "cái phất trần"
-    },
-    {
-      "word": "叩頭",
-      "reading": "こうとう",
-      "meaning": "cúi đầu thấp"
-    },
-    {
       "word": "叩く",
       "reading": "たたく",
       "meaning": "đánh"
     },
     {
-      "word": "叩首",
-      "reading": "こうしゅ",
-      "meaning": "việc cúi đầu"
-    },
-    {
-      "word": "叩き箸",
-      "reading": "たたきばし",
-      "meaning": "việc gõ đũa"
-    },
-    {
-      "word": "蝿叩き",
-      "reading": "はえたたき",
-      "meaning": "cây bắt ruồi"
-    },
-    {
-      "word": "袋叩き",
-      "reading": "ふくろだたき",
-      "meaning": "đập người nào đó lên trên bởi việc tiếp tục kéo bè kéo cánh"
+      "word": "叩き",
+      "reading": "たたき",
+      "meaning": "cái phất trần"
     },
     {
       "word": "口叩き",
@@ -129,14 +104,39 @@
       "meaning": "nói nhiều"
     },
     {
-      "word": "叩き台",
-      "reading": "たたきだい",
-      "meaning": "chặt khối"
-    },
-    {
       "word": "火叩き",
       "reading": "ひたたき",
       "meaning": "dụng cụ chữa cháy truyền thống của nhật bản"
+    },
+    {
+      "word": "総叩き",
+      "reading": "そうたたき",
+      "meaning": "việc đồng loạt chỉ trích"
+    },
+    {
+      "word": "尻叩き",
+      "reading": "しりたたき",
+      "meaning": "nghi lễ truyền thống khi cô dâu lần đầu tiên bước vào nhà"
+    },
+    {
+      "word": "肩叩き",
+      "reading": "かたたたき",
+      "meaning": "xoa bóp vai"
+    },
+    {
+      "word": "叩く音",
+      "reading": "たたくおと",
+      "meaning": "bịch"
+    },
+    {
+      "word": "直叩き",
+      "reading": "じかたたき",
+      "meaning": "lau chùi phần cứng trực tiếp"
+    },
+    {
+      "word": "枕叩き",
+      "reading": "まくらたたき",
+      "meaning": "đập gối"
     }
   ]
 }

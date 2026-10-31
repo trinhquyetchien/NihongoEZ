@@ -32,19 +32,19 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "瓢箪",
+      "reading": "ひょうたん",
+      "meaning": "bầu"
+    },
+    {
       "word": "瓢虫",
       "reading": "てんとうむし",
       "meaning": "con bọ rùa"
     },
     {
-      "word": "乾瓢",
-      "reading": "かんぴょう",
-      "meaning": "sợi bầu khô"
-    },
-    {
-      "word": "瓢箪",
-      "reading": "ひょうたん",
-      "meaning": "bầu"
+      "word": "偽瓢虫",
+      "reading": "てんとうむしだまし",
+      "meaning": "bọ cánh cứng nấm đẹp"
     },
     {
       "word": "干瓢",
@@ -52,14 +52,14 @@
       "meaning": "bầu khô"
     },
     {
+      "word": "乾瓢",
+      "reading": "かんぴょう",
+      "meaning": "sợi bầu khô"
+    },
+    {
       "word": "一瓢",
       "reading": "いっぴょう",
       "meaning": "một chiếc bầu"
-    },
-    {
-      "word": "偽瓢虫",
-      "reading": "てんとうむしだまし",
-      "meaning": "bọ cánh cứng nấm đẹp"
     },
     {
       "word": "瓢箪鯰",
@@ -72,14 +72,14 @@
       "meaning": "người ốm yếu"
     },
     {
-      "word": "千成瓢箪",
-      "reading": "せんなりびょうたん",
-      "meaning": "bầu hồ lô"
-    },
-    {
       "word": "瓢箪から駒",
       "reading": "ひょうたんからこま",
       "meaning": "một điều rất bất ngờ"
+    },
+    {
+      "word": "千成り瓢箪",
+      "reading": "せんなりびょうたん",
+      "meaning": "đóng chai quả bầu"
     }
   ]
 }

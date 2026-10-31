@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "礼儀",
+      "reading": "れいぎ",
+      "meaning": "lễ nghi"
+    },
+    {
+      "word": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "cách cư xử"
+    },
+    {
+      "word": "儀式",
+      "reading": "ぎしき",
+      "meaning": "nghi thức"
+    },
+    {
+      "word": "お辞儀",
+      "reading": "おじぎ",
+      "meaning": "sự cúi chào"
+    },
+    {
+      "word": "豪儀",
+      "reading": "ごうぎ",
+      "meaning": "vĩ đại"
+    },
+    {
+      "word": "葬儀",
+      "reading": "そうぎ",
+      "meaning": "hậu sự"
+    },
+    {
       "word": "儀",
       "reading": "ぎ",
       "meaning": "cai trị"
     },
     {
-      "word": "余儀",
-      "reading": "よぎ",
-      "meaning": "phương pháp khác"
+      "word": "一儀",
+      "reading": "いちぎ",
+      "meaning": "một biến cố"
     },
     {
-      "word": "大儀",
-      "reading": "たいぎ",
-      "meaning": "đại nghĩa"
+      "word": "儀型",
+      "reading": "ぎけい",
+      "meaning": "làm mẫu"
     },
     {
-      "word": "儀典",
-      "reading": "ぎてん",
-      "meaning": "nghi lễ"
-    },
-    {
-      "word": "儀礼",
-      "reading": "ぎれい",
-      "meaning": "lễ tiết"
-    },
-    {
-      "word": "婚儀",
-      "reading": "こんぎ",
-      "meaning": "nghi lễ hôn lễ"
-    },
-    {
-      "word": "仕儀",
-      "reading": "しぎ",
-      "meaning": "tình trạng"
-    },
-    {
-      "word": "私儀",
-      "reading": "わたくしぎ",
-      "meaning": "về phần tôi"
-    },
-    {
-      "word": "儀仗",
-      "reading": "ぎじょう",
-      "meaning": "đám rước lễ"
-    },
-    {
-      "word": "威儀",
-      "reading": "いぎ",
-      "meaning": "sự uy nghiêm"
+      "word": "儀形",
+      "reading": "ぎけい",
+      "meaning": "làm mẫu"
     }
   ]
 }

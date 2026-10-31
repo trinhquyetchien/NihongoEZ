@@ -90,6 +90,36 @@
   ],
   "vocabulary": [
     {
+      "word": "奈良県",
+      "reading": "ならけん",
+      "meaning": "tỉnh nara"
+    },
+    {
+      "word": "輪奈",
+      "reading": "わな",
+      "meaning": "loại vải dùng để làm khăn tắm"
+    },
+    {
+      "word": "眼仁奈",
+      "reading": "めじな",
+      "meaning": "cá girella punctata"
+    },
+    {
+      "word": "奈落",
+      "reading": "ならく",
+      "meaning": "tận cùng"
+    },
+    {
+      "word": "奈良漬",
+      "reading": "ならづけ",
+      "meaning": "dưa muối được ngâm bằng bã rượu"
+    },
+    {
+      "word": "京阪奈",
+      "reading": "けいはんな",
+      "meaning": "kyoto-osaka-nara"
+    },
+    {
       "word": "奈辺",
       "reading": "なへん",
       "meaning": "ở đâu"
@@ -100,31 +130,6 @@
       "meaning": "như thế nào"
     },
     {
-      "word": "輪奈",
-      "reading": "わな",
-      "meaning": "loại vải dùng để làm khăn tắm"
-    },
-    {
-      "word": "奈落",
-      "reading": "ならく",
-      "meaning": "tận cùng"
-    },
-    {
-      "word": "京阪奈",
-      "reading": "けいはんな",
-      "meaning": "kyoto-osaka-nara"
-    },
-    {
-      "word": "眼仁奈",
-      "reading": "めじな",
-      "meaning": "cá girella punctata"
-    },
-    {
-      "word": "奈良漬",
-      "reading": "ならづけ",
-      "meaning": "dưa muối được ngâm bằng bã rượu"
-    },
-    {
       "word": "巴奈馬",
       "reading": "パナマ",
       "meaning": "nước panama"
@@ -133,11 +138,6 @@
       "word": "加奈陀",
       "reading": "カナダ",
       "meaning": "canada"
-    },
-    {
-      "word": "奈良県",
-      "reading": "ならけん",
-      "meaning": "tỉnh nara"
     }
   ]
 }

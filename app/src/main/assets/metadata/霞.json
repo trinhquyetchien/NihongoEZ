@@ -95,14 +95,9 @@
       "meaning": "sương mù"
     },
     {
-      "word": "煙霞",
-      "reading": "えんか",
-      "meaning": "khói và sương mù"
-    },
-    {
-      "word": "朝霞",
-      "reading": "あさがすみ",
-      "meaning": "sương mù buổi sáng"
+      "word": "霞石",
+      "reading": "かすみいし",
+      "meaning": "hà thạch"
     },
     {
       "word": "霞桜",
@@ -110,34 +105,39 @@
       "meaning": "anh đào đồi hàn quốc"
     },
     {
-      "word": "霞む",
-      "reading": "かすむ",
-      "meaning": "mờ sương"
+      "word": "霞草",
+      "reading": "かすみそう",
+      "meaning": "cây hà thảo"
     },
     {
-      "word": "霞石",
-      "reading": "かすみいし",
-      "meaning": "hà thạch"
-    },
-    {
-      "word": "春霞",
-      "reading": "はるがすみ",
-      "meaning": "sương mù mùa xuân"
-    },
-    {
-      "word": "雲霞",
-      "reading": "うんか",
-      "meaning": "mây che và sương mù"
-    },
-    {
-      "word": "霞網",
-      "reading": "かすみあみ",
-      "meaning": "lưới bẫy chim"
+      "word": "紅霞",
+      "reading": "こうか",
+      "meaning": "sương mù đỏ"
     },
     {
       "word": "夕霞",
       "reading": "ゆうがすみ",
       "meaning": "sương vào lúc chiều tối"
+    },
+    {
+      "word": "朝霞",
+      "reading": "あさがすみ",
+      "meaning": "sương mù buổi sáng"
+    },
+    {
+      "word": "霞が関",
+      "reading": "かすみがせき",
+      "meaning": "tên gọi chung của chính quyền trung ương kiểm soát chính quyền"
+    },
+    {
+      "word": "霞ヶ関",
+      "reading": "かすみがせき",
+      "meaning": "bộ nước ngoài tiếng nhật"
+    },
+    {
+      "word": "霞む",
+      "reading": "かすむ",
+      "meaning": "mờ sương"
     }
   ]
 }

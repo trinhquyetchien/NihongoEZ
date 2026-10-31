@@ -84,11 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "陛衛",
-      "reading": "へいえい",
-      "meaning": "đế quốc bảo vệ"
-    },
-    {
       "word": "陛下",
       "reading": "へいか",
       "meaning": "bệ hạ"
@@ -99,19 +94,19 @@
       "meaning": "vua và hoàng hậu"
     },
     {
+      "word": "陛衛",
+      "reading": "へいえい",
+      "meaning": "đế quốc bảo vệ"
+    },
+    {
       "word": "女王陛下",
       "reading": "じょおうへいか",
       "meaning": "muôn tâu nữ hoàng"
     },
     {
-      "word": "皇后陛下",
-      "reading": "こうごうへいか",
-      "meaning": "hoàng hậu điện hạ"
-    },
-    {
-      "word": "王后陛下",
-      "reading": "おうこうへいか",
-      "meaning": "hoàng hậu nương nương"
+      "word": "国王陛下",
+      "reading": "こくおうへいか",
+      "meaning": "majesty anh ấy vua"
     },
     {
       "word": "天皇陛下",
@@ -119,14 +114,19 @@
       "meaning": "tâu thiên hoàng bệ hạ"
     },
     {
+      "word": "王后陛下",
+      "reading": "おうこうへいか",
+      "meaning": "hoàng hậu nương nương"
+    },
+    {
+      "word": "皇后陛下",
+      "reading": "こうごうへいか",
+      "meaning": "hoàng hậu điện hạ"
+    },
+    {
       "word": "今上陛下",
       "reading": "きんじょうへいか",
       "meaning": "hoàng đế đương thời"
-    },
-    {
-      "word": "国王陛下",
-      "reading": "こくおうへいか",
-      "meaning": "majesty anh ấy vua"
     }
   ]
 }

@@ -95,39 +95,29 @@
       "meaning": "bên trái"
     },
     {
-      "word": "左折",
-      "reading": "させつ",
-      "meaning": "quay sang trái"
+      "word": "左右",
+      "reading": "さゆう",
+      "meaning": "phải trái"
     },
     {
-      "word": "左翼",
-      "reading": "さよく",
-      "meaning": "cánh trái"
+      "word": "左方",
+      "reading": "さほう",
+      "meaning": "phía trái"
     },
     {
-      "word": "左上",
-      "reading": "ひだりうえ",
-      "meaning": "bên trái phía trên cùng"
+      "word": "左前",
+      "reading": "ひだりまえ",
+      "meaning": "việc mang một áo kimônô với cạnh phải gấp lại dưới trái"
     },
     {
-      "word": "左手",
-      "reading": "ひだりて",
-      "meaning": "tay trái"
+      "word": "上左",
+      "reading": "うえひだり",
+      "meaning": "trên cùng bên trái"
     },
     {
-      "word": "左派",
-      "reading": "さは",
-      "meaning": "cánh tả"
-    },
-    {
-      "word": "左目",
-      "reading": "ひだりめ",
-      "meaning": "mắt trái"
-    },
-    {
-      "word": "左足",
-      "reading": "ひだりあし",
-      "meaning": "chân trái"
+      "word": "下左",
+      "reading": "したひだり",
+      "meaning": "phía dưới bên trái"
     },
     {
       "word": "左耳",
@@ -135,9 +125,19 @@
       "meaning": "tai trái"
     },
     {
-      "word": "右左",
-      "reading": "みぎひだり",
-      "meaning": "phải trái"
+      "word": "左胸",
+      "reading": "ひだりむね",
+      "meaning": "ngực trái"
+    },
+    {
+      "word": "最左",
+      "reading": "さいさ",
+      "meaning": "bên cùng bên trái"
+    },
+    {
+      "word": "左表",
+      "reading": "さひょう",
+      "meaning": "biểu đồ bên trái"
     }
   ]
 }

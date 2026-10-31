@@ -90,39 +90,29 @@
   ],
   "vocabulary": [
     {
-      "word": "猟",
-      "reading": "りょう",
-      "meaning": "săn"
-    },
-    {
-      "word": "不猟",
-      "reading": "ふりょう",
-      "meaning": "nghèo bắt"
-    },
-    {
       "word": "狩猟",
       "reading": "しゅりょう",
       "meaning": "sự đi săn"
     },
     {
-      "word": "猟鳥",
-      "reading": "りょうちょう",
-      "meaning": "chim bị săn làm thịt"
+      "word": "狩猟期",
+      "reading": "しゅりょうき",
+      "meaning": "thời kì đi săn"
     },
     {
-      "word": "猟場",
-      "reading": "りょうば",
-      "meaning": "bãi săn bắn"
+      "word": "狩猟隊",
+      "reading": "しゅりょうたい",
+      "meaning": "bữa tiệc săn bắn"
     },
     {
-      "word": "禁猟",
-      "reading": "きんりょう",
-      "meaning": "cấm săn bắt"
+      "word": "猟",
+      "reading": "りょう",
+      "meaning": "săn"
     },
     {
-      "word": "休猟",
-      "reading": "きゅうりょう",
-      "meaning": "lệnh cấm săn bắn"
+      "word": "猟色",
+      "reading": "りょうしょく",
+      "meaning": "sự phóng đãng"
     },
     {
       "word": "猟友",
@@ -130,14 +120,24 @@
       "meaning": "bạn đồng hành săn bắn"
     },
     {
-      "word": "鴨猟",
-      "reading": "かもりょう",
-      "meaning": "đi săn vịt trời"
+      "word": "猟鳥",
+      "reading": "りょうちょう",
+      "meaning": "chim bị săn làm thịt"
     },
     {
-      "word": "出猟",
-      "reading": "しゅつりょう",
-      "meaning": "đi săn"
+      "word": "猟獣",
+      "reading": "りょうじゅう",
+      "meaning": "động vật săn bắn"
+    },
+    {
+      "word": "猟友会",
+      "reading": "りょうゆうかい",
+      "meaning": "hội săn bắt động vật"
+    },
+    {
+      "word": "猟奇",
+      "reading": "りょうき",
+      "meaning": "sự hiếu kỳ"
     }
   ]
 }

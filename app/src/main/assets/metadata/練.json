@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "sự luyện tập"
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaning": "sự huấn luyện"
+    },
+    {
       "word": "未練",
       "reading": "みれん",
       "meaning": "sự tiếc nuối"
     },
     {
-      "word": "練度",
-      "reading": "れんど",
-      "meaning": "kỹ năng"
+      "word": "練る",
+      "reading": "ねる",
+      "meaning": "gọt giũa"
     },
     {
-      "word": "熟練",
-      "reading": "じゅくれん",
-      "meaning": "kĩ năng"
+      "word": "練習会",
+      "reading": "れんしゅうかい",
+      "meaning": "cuộc họp luyện tập"
     },
     {
-      "word": "練熟",
-      "reading": "れんじゅく",
-      "meaning": "sự tài giỏi"
+      "word": "練習所",
+      "reading": "れんしゅうじょ",
+      "meaning": "huấn luyện trường học hoặc viện"
     },
     {
-      "word": "教練",
-      "reading": "きょうれん",
-      "meaning": "tập luyện"
+      "word": "練習生",
+      "reading": "れんしゅうせい",
+      "meaning": "học sinh"
     },
     {
-      "word": "練香",
-      "reading": "ねりこう",
-      "meaning": "viên nén trầm hương"
+      "word": "練習曲",
+      "reading": "れんしゅうきょく",
+      "meaning": "khúc luyện"
     },
     {
-      "word": "朝練",
-      "reading": "あされん",
-      "meaning": "luyện tập vào buổi sáng"
+      "word": "訓練生",
+      "reading": "くんれんせい",
+      "meaning": "võ sĩ trẻ đang tập dượt để lên đài"
     },
     {
-      "word": "練兵",
-      "reading": "れんぺい",
-      "meaning": "quân đội khoan"
-    },
-    {
-      "word": "練塀",
-      "reading": "ねりべい",
-      "meaning": "tường bằng đất và gạch với nóc lợp bằng gạch"
-    },
-    {
-      "word": "練り",
-      "reading": "ねり",
-      "meaning": "nhào trộn"
+      "word": "練習船",
+      "reading": "れんしゅうせん",
+      "meaning": "tàu huấn luyện"
     }
   ]
 }

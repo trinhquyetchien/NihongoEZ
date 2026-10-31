@@ -85,9 +85,19 @@
   ],
   "vocabulary": [
     {
-      "word": "原簿",
-      "reading": "げんぼ",
-      "meaning": "sổ cái"
+      "word": "名簿",
+      "reading": "めいぼ",
+      "meaning": "danh sách tên"
+    },
+    {
+      "word": "人名簿",
+      "reading": "じんめいぼ",
+      "meaning": "danh sách tên"
+    },
+    {
+      "word": "事件簿",
+      "reading": "じけんぼ",
+      "meaning": "hồ sơ vụ án"
     },
     {
       "word": "簿外",
@@ -95,24 +105,19 @@
       "meaning": "thiếu"
     },
     {
-      "word": "鹵簿",
-      "reading": "ろぼ",
-      "meaning": "đám rước lễ đế quốc"
+      "word": "登録簿",
+      "reading": "とうろくぼ",
+      "meaning": "sổ đăng ký"
     },
     {
-      "word": "簿記",
-      "reading": "ぼき",
-      "meaning": "kế toán"
+      "word": "通信簿",
+      "reading": "つうしんぼ",
+      "meaning": "cột bạn đọc"
     },
     {
-      "word": "名簿",
-      "reading": "めいぼ",
-      "meaning": "danh sách tên"
-    },
-    {
-      "word": "帳簿",
-      "reading": "ちょうぼ",
-      "meaning": "trương bạ"
+      "word": "計算簿",
+      "reading": "けいさんぼ",
+      "meaning": "sách tài khoản"
     },
     {
       "word": "公簿",
@@ -120,19 +125,14 @@
       "meaning": "sổ công khai"
     },
     {
-      "word": "簿価",
-      "reading": "ぼか",
-      "meaning": "giá trị sổ sách"
+      "word": "通知簿",
+      "reading": "つうちぼ",
+      "meaning": "báo cáo thẻ sách)"
     },
     {
-      "word": "裏帳簿",
-      "reading": "うらちょうぼ",
-      "meaning": "sổ cái quỹ đen"
-    },
-    {
-      "word": "登記簿",
-      "reading": "とうきぼ",
-      "meaning": "sổ đăng ký"
+      "word": "出席簿",
+      "reading": "しゅっせきぼ",
+      "meaning": "bảng điểm danh"
     }
   ]
 }

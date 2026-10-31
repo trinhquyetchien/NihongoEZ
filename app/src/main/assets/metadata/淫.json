@@ -87,24 +87,24 @@
   ],
   "vocabulary": [
     {
-      "word": "淫",
-      "reading": "いん",
-      "meaning": "dấu"
+      "word": "淫乱",
+      "reading": "いんらん",
+      "meaning": "dục vọng không thể kiềm chế được"
     },
     {
-      "word": "姦淫",
-      "reading": "かんいん",
-      "meaning": "tội ngoại tình"
+      "word": "淫夢",
+      "reading": "いんむ",
+      "meaning": "mộng tinh"
     },
     {
-      "word": "淫奔",
-      "reading": "いんぽん",
-      "meaning": "tính dâm dục"
+      "word": "淫ら",
+      "reading": "みだら",
+      "meaning": "tục tĩu"
     },
     {
-      "word": "強淫",
-      "reading": "ごういん",
-      "meaning": "cưỡng bức"
+      "word": "淫らな",
+      "reading": "みだらな",
+      "meaning": "dâm"
     },
     {
       "word": "淫語",
@@ -112,29 +112,29 @@
       "meaning": "lời nói tục tĩu"
     },
     {
-      "word": "淫画",
-      "reading": "いんが",
-      "meaning": "hình ảnh tục tĩu"
+      "word": "淫行",
+      "reading": "いんこう",
+      "meaning": "hành vi tình dục sai trái"
     },
     {
-      "word": "淫婦",
-      "reading": "いんぷ",
-      "meaning": "đĩ"
+      "word": "淫",
+      "reading": "いん",
+      "meaning": "dấu"
     },
     {
-      "word": "淫蕩",
-      "reading": "いんとう",
-      "meaning": "dậm dật"
+      "word": "口淫",
+      "reading": "こういん",
+      "meaning": "làm tình bằng miệng"
     },
     {
-      "word": "淫風",
-      "reading": "いんぷう",
-      "meaning": "sự trái đạo đức"
+      "word": "強淫",
+      "reading": "ごういん",
+      "meaning": "cưỡng bức"
     },
     {
-      "word": "淫靡",
-      "reading": "いんび",
-      "meaning": "sự dâm dục vô độ"
+      "word": "六淫",
+      "reading": "ろくいん",
+      "meaning": "sáu nguyên nhân bên ngoài gây bệnh trong y học cổ truyền trung quốc"
     }
   ]
 }

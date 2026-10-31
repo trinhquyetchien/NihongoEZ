@@ -92,19 +92,39 @@
       "meaning": "màu chàm"
     },
     {
-      "word": "青は藍より出でて藍より青し",
-      "reading": "あおはあいよりいでてあいよりあおし",
-      "meaning": "thuốc nhuộm màu xanh xuất phát từ cây chàm"
+      "word": "藍型",
+      "reading": "あいがた",
+      "meaning": "khuôn mẫu dùng để nhuộm màu chàm trong nghệ thuật nhuộm vải truyền thống của nhật bản"
     },
     {
-      "word": "芥藍",
-      "reading": "カイラン",
-      "meaning": "rau cải làn"
+      "word": "藍花",
+      "reading": "あいばな",
+      "meaning": "bọt nổi lên trong quá trình lên men chàm"
     },
     {
-      "word": "藍鮫",
-      "reading": "あいざめ",
-      "meaning": "cá mập da chàm"
+      "word": "藍絵",
+      "reading": "あいえ",
+      "meaning": "tranh ukiyo-e được in bằng nhiều sắc độ chàm"
+    },
+    {
+      "word": "木藍",
+      "reading": "きあい",
+      "meaning": "cây chàm anil"
+    },
+    {
+      "word": "山藍",
+      "reading": "やまあい",
+      "meaning": "cây chàm rừng"
+    },
+    {
+      "word": "藍方石",
+      "reading": "らんぽうせき",
+      "meaning": "hauynite"
+    },
+    {
+      "word": "藍紙",
+      "reading": "あいがみ",
+      "meaning": "giấy chàm"
     },
     {
       "word": "青藍",
@@ -112,29 +132,9 @@
       "meaning": "màu xanh chàm"
     },
     {
-      "word": "甘藍",
-      "reading": "かんらん",
-      "meaning": "bắp cải"
-    },
-    {
-      "word": "インド藍",
-      "reading": "インドあい",
-      "meaning": "cây chàm ấn độ"
-    },
-    {
-      "word": "藍子",
-      "reading": "あいご",
-      "meaning": "cá gai có đốm"
-    },
-    {
-      "word": "洋藍",
-      "reading": "ようらん",
-      "meaning": "indigo"
-    },
-    {
-      "word": "伽藍",
-      "reading": "がらん",
-      "meaning": "miếu"
+      "word": "玉藍",
+      "reading": "たまあい",
+      "meaning": "ball of dried"
     }
   ]
 }

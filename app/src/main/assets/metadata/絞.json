@@ -91,39 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "絞り",
-      "reading": "しぼり",
-      "meaning": "khẩu độ"
-    },
-    {
-      "word": "絞殺",
-      "reading": "こうさつ",
-      "meaning": "bóp cổ"
-    },
-    {
-      "word": "絞罪",
-      "reading": "こうざい",
-      "meaning": "sự hành hình bằng hình thức treo cổ"
-    },
-    {
-      "word": "絞刑",
-      "reading": "こうけい",
-      "meaning": "việc chết do treo cổ"
-    },
-    {
-      "word": "絞首",
-      "reading": "こうしゅ",
-      "meaning": "bóp cổ"
-    },
-    {
       "word": "絞る",
       "reading": "しぼる",
       "meaning": "vắt"
     },
     {
-      "word": "絞扼",
-      "reading": "こうやく",
-      "meaning": "bóp nghẹt"
+      "word": "絞り",
+      "reading": "しぼり",
+      "meaning": "khẩu độ"
+    },
+    {
+      "word": "絞り器",
+      "reading": "しぼりき",
+      "meaning": "máy vắt"
     },
     {
       "word": "御絞り",
@@ -131,14 +111,34 @@
       "meaning": "một nóng"
     },
     {
+      "word": "絞り袋",
+      "reading": "しぼりぶくろ",
+      "meaning": "túi bắt kem"
+    },
+    {
+      "word": "深絞り",
+      "reading": "ふかしぼり",
+      "meaning": "kĩ thuật dập vuốt"
+    },
+    {
+      "word": "絞り汁",
+      "reading": "しぼりじる",
+      "meaning": "nước ép"
+    },
+    {
       "word": "絞り弁",
       "reading": "しぼりべん",
       "meaning": "van tiết lưu"
     },
     {
-      "word": "絞り袋",
-      "reading": "しぼりぶくろ",
-      "meaning": "túi bắt kem"
+      "word": "裸絞め",
+      "reading": "はだかじめ",
+      "meaning": "bóp nghẹt đối thủ từ đằng sau"
+    },
+    {
+      "word": "絞める",
+      "reading": "しめる",
+      "meaning": "bóp nghẹt"
     }
   ]
 }

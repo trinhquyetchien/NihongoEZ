@@ -108,34 +108,24 @@
   ],
   "vocabulary": [
     {
-      "word": "丸",
-      "reading": "まる",
-      "meaning": "vòng tròn"
-    },
-    {
-      "word": "丸丸",
-      "reading": "まるまる",
-      "meaning": "hoàn toàn"
-    },
-    {
-      "word": "丸丸と",
-      "reading": "まるまると",
-      "meaning": "đoàn"
-    },
-    {
-      "word": "丸丸と太った",
-      "reading": "まるまるとふとった",
-      "meaning": "tròn trịa"
-    },
-    {
       "word": "丸い",
       "reading": "まるい",
       "meaning": "tròn"
     },
     {
-      "word": "丸印",
-      "reading": "まるじるし",
-      "meaning": "đánh dấu tròn"
+      "word": "丸",
+      "reading": "まる",
+      "meaning": "vòng tròn"
+    },
+    {
+      "word": "丸々",
+      "reading": "まるまる",
+      "meaning": "hoàn toàn"
+    },
+    {
+      "word": "丸で",
+      "reading": "まるで",
+      "meaning": "hoàn toàn"
     },
     {
       "word": "丸事",
@@ -143,19 +133,29 @@
       "meaning": "trong toàn bộ nó"
     },
     {
-      "word": "丸イス",
-      "reading": "まるいす",
-      "meaning": "ghế đẩu tròn"
+      "word": "丸顔",
+      "reading": "まるがお",
+      "meaning": "xung quanh giáp mặt"
     },
     {
-      "word": "丸く",
-      "reading": "まるく",
-      "meaning": "hình dạng vòng tròn"
+      "word": "丸十",
+      "reading": "まるじゅう",
+      "meaning": "chéo qua trong một vòng tròn"
     },
     {
-      "word": "丸穴",
-      "reading": "まるあな",
-      "meaning": "lỗ tròn"
+      "word": "丸型",
+      "reading": "まるがた",
+      "meaning": "xung quanh hình thành"
+    },
+    {
+      "word": "花丸",
+      "reading": "はなまる",
+      "meaning": "vòng hoa"
+    },
+    {
+      "word": "丸形",
+      "reading": "まるがた",
+      "meaning": "xung quanh hình thành"
     }
   ]
 }

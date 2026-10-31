@@ -94,24 +94,34 @@
       "meaning": "người"
     },
     {
-      "word": "小者小者",
-      "reading": "こもの",
-      "meaning": "người hầu"
-    },
-    {
-      "word": "患者面会者",
-      "reading": "かんじゃめんかいしゃ",
-      "meaning": "người thăm bệnh nhân"
-    },
-    {
       "word": "記者",
       "reading": "きしゃ",
       "meaning": "kí giả"
     },
     {
-      "word": "暗者",
-      "reading": "くらもの",
-      "meaning": "kẻ mạo danh"
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "hiền triết"
+    },
+    {
+      "word": "業者",
+      "reading": "ぎょうしゃ",
+      "meaning": "người buôn bán"
+    },
+    {
+      "word": "二者",
+      "reading": "にしゃ",
+      "meaning": "hai người"
+    },
+    {
+      "word": "兄者",
+      "reading": "あにじゃ",
+      "meaning": "anh trai"
+    },
+    {
+      "word": "術者",
+      "reading": "じゅつしゃ",
+      "meaning": "bác sĩ phẫu thuật"
     },
     {
       "word": "若者",
@@ -119,24 +129,14 @@
       "meaning": "chàng"
     },
     {
-      "word": "使者",
-      "reading": "ししゃ",
-      "meaning": "sứ giả"
+      "word": "健者",
+      "reading": "したたかもの",
+      "meaning": "tên vô lại"
     },
     {
-      "word": "死者",
-      "reading": "ししゃ",
-      "meaning": "người chết"
-    },
-    {
-      "word": "弱者",
-      "reading": "じゃくしゃ",
-      "meaning": "yếu"
-    },
-    {
-      "word": "勝者",
-      "reading": "しょうしゃ",
-      "meaning": "người chiến thắng"
+      "word": "優者",
+      "reading": "ゆうしゃ",
+      "meaning": "người ưu tú"
     }
   ]
 }

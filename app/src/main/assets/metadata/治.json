@@ -110,14 +110,14 @@
   ],
   "vocabulary": [
     {
+      "word": "治す",
+      "reading": "なおす",
+      "meaning": "chữa"
+    },
+    {
       "word": "自治",
       "reading": "じち",
       "meaning": "sự tự trị"
-    },
-    {
-      "word": "治癒",
-      "reading": "ちゆ",
-      "meaning": "sự điều trị"
     },
     {
       "word": "治療",
@@ -125,39 +125,39 @@
       "meaning": "trị liệu"
     },
     {
-      "word": "治世",
-      "reading": "ちせい",
-      "meaning": "sự trị vì"
+      "word": "統治",
+      "reading": "とうち",
+      "meaning": "sự thống trị"
     },
     {
-      "word": "治者",
-      "reading": "ちしゃ",
-      "meaning": "cái thước đo"
+      "word": "治安",
+      "reading": "ちあん",
+      "meaning": "trị an"
     },
     {
-      "word": "根治",
-      "reading": "こんじ",
-      "meaning": "hoàn thành điều trị"
+      "word": "退治",
+      "reading": "たいじ",
+      "meaning": "sự chinh phục"
     },
     {
-      "word": "治平",
-      "reading": "ちへい",
-      "meaning": "hoà bình và sự thanh bình"
+      "word": "内治",
+      "reading": "ないち",
+      "meaning": "chính trị trong nước"
     },
     {
-      "word": "治暦",
-      "reading": "じりゃく",
-      "meaning": "thời jiryaku"
+      "word": "官治",
+      "reading": "かんち",
+      "meaning": "dưới sự quản lý trực tiếp của chính phủ"
     },
     {
-      "word": "長治",
-      "reading": "ちょうじ",
-      "meaning": "thời chouji"
+      "word": "天治",
+      "reading": "てんじ",
+      "meaning": "thời tenji"
     },
     {
-      "word": "徳治",
-      "reading": "とくじ",
-      "meaning": "tokuji era"
+      "word": "治具",
+      "reading": "ジグ",
+      "meaning": "jig"
     }
   ]
 }

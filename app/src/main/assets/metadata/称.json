@@ -95,38 +95,8 @@
   ],
   "vocabulary": [
     {
-      "word": "称",
-      "reading": "しょう",
-      "meaning": "tên"
-    },
-    {
-      "word": "称賛",
-      "reading": "しょうさん",
-      "meaning": "khen ngợi"
-    },
-    {
-      "word": "略称",
-      "reading": "りゃくしょう",
-      "meaning": "cách gọi ngắn gọn khác không phải tên chính thức"
-    },
-    {
-      "word": "父称",
-      "reading": "ふしょう",
-      "meaning": "tên đệm"
-    },
-    {
-      "word": "呼称",
-      "reading": "こしょう",
-      "meaning": "gọi bằng tên"
-    },
-    {
-      "word": "敬称",
-      "reading": "けいしょう",
-      "meaning": "cách gọi tôn kính"
-    },
-    {
-      "word": "称号",
-      "reading": "しょうごう",
+      "word": "名称",
+      "reading": "めいしょう",
       "meaning": "danh hiệu"
     },
     {
@@ -135,14 +105,44 @@
       "meaning": "muốn trở thành"
     },
     {
+      "word": "通称",
+      "reading": "つうしょう",
+      "meaning": "tên thường gọi"
+    },
+    {
+      "word": "呼称",
+      "reading": "こしょう",
+      "meaning": "gọi bằng tên"
+    },
+    {
+      "word": "称賛",
+      "reading": "しょうさん",
+      "meaning": "khen ngợi"
+    },
+    {
+      "word": "称号",
+      "reading": "しょうごう",
+      "meaning": "danh hiệu"
+    },
+    {
       "word": "愛称",
       "reading": "あいしょう",
       "meaning": "tên gọi cho con vật cảnh"
     },
     {
-      "word": "全称",
-      "reading": "ぜんしょう",
-      "meaning": "phủ định toàn thể"
+      "word": "略称",
+      "reading": "りゃくしょう",
+      "meaning": "cách gọi ngắn gọn khác không phải tên chính thức"
+    },
+    {
+      "word": "総称",
+      "reading": "そうしょう",
+      "meaning": "sự gọi tên chung"
+    },
+    {
+      "word": "対称",
+      "reading": "たいしょう",
+      "meaning": "sự đối xứng"
     }
   ]
 }

@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "益",
-      "reading": "えき",
-      "meaning": "lợi ích"
-    },
-    {
-      "word": "益益",
-      "reading": "ますます",
-      "meaning": "ngày càng tăng"
+      "word": "利益",
+      "reading": "りえき",
+      "meaning": "ích"
     },
     {
       "word": "収益",
@@ -105,39 +100,44 @@
       "meaning": "doanh thu"
     },
     {
-      "word": "実益",
-      "reading": "じつえき",
-      "meaning": "lợi nhuận thực tế"
+      "word": "有益",
+      "reading": "ゆうえき",
+      "meaning": "hữu ích"
     },
     {
-      "word": "権益",
-      "reading": "けんえき",
-      "meaning": "quyền lợi"
+      "word": "高利益",
+      "reading": "こうりえき",
+      "meaning": "lợi nhuật cao"
     },
     {
-      "word": "国益",
-      "reading": "こくえき",
-      "meaning": "sự quan tâm quốc gia"
+      "word": "利益率",
+      "reading": "りえきりつ",
+      "meaning": "tỷ lệ lợi nhuận"
     },
     {
-      "word": "減益",
-      "reading": "げんえき",
-      "meaning": "sự giảm lợi nhuận"
+      "word": "純利益",
+      "reading": "じゅんりえき",
+      "meaning": "lãi ròng"
     },
     {
-      "word": "益人",
-      "reading": "ますひと",
-      "meaning": "người có ích"
+      "word": "利益幅",
+      "reading": "りえきはば",
+      "meaning": "chênh lệch lợi nhuận+ lợi nhuận của từng đơn vị sản lượng được biểu hiện dưới dạng một số phần trăm của giá"
     },
     {
-      "word": "裨益",
-      "reading": "ひえき",
-      "meaning": "lợi ích"
+      "word": "収益性",
+      "reading": "しゅうえきせい",
+      "meaning": "doanh lợi"
     },
     {
-      "word": "損益",
-      "reading": "そんえき",
-      "meaning": "lỗ lãi"
+      "word": "収益金",
+      "reading": "しゅうえききん",
+      "meaning": "số thu nhập"
+    },
+    {
+      "word": "収益率",
+      "reading": "しゅうえきりつ",
+      "meaning": "kiếm được nhịp độ"
     }
   ]
 }

@@ -107,44 +107,24 @@
   ],
   "vocabulary": [
     {
-      "word": "消え消え",
-      "reading": "きえぎえ",
-      "meaning": "sắp biến mất"
+      "word": "消す",
+      "reading": "けす",
+      "meaning": "dập"
     },
     {
-      "word": "消化薬∥a〉消化の",
-      "reading": "しょーかやく∥a〉しょーかの",
-      "meaning": "thuốc tiêu hóa"
+      "word": "消える",
+      "reading": "きえる",
+      "meaning": "biến mất"
     },
     {
-      "word": "消極",
-      "reading": "しょうきょく",
-      "meaning": "tiêu cực"
+      "word": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "tẩy"
     },
     {
-      "word": "取消",
-      "reading": "とりけし",
-      "meaning": "hủy"
-    },
-    {
-      "word": "消除",
-      "reading": "しょうじょ",
-      "meaning": "xóa bỏ"
-    },
-    {
-      "word": "消炎",
-      "reading": "しょうえん",
-      "meaning": "dập tắt lửa"
-    },
-    {
-      "word": "消化",
-      "reading": "しょうか",
-      "meaning": "sự tiêu hóa"
-    },
-    {
-      "word": "消滅",
-      "reading": "しょうめつ",
-      "meaning": "sự tiêu diệt"
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaning": "sự tiêu dùng"
     },
     {
       "word": "消防",
@@ -152,9 +132,29 @@
       "meaning": "sự cứu hoả"
     },
     {
-      "word": "消費",
-      "reading": "しょうひ",
-      "meaning": "sự tiêu dùng"
+      "word": "消化",
+      "reading": "しょうか",
+      "meaning": "sự tiêu hóa"
+    },
+    {
+      "word": "消耗",
+      "reading": "しょうもう",
+      "meaning": "sự tiêu thụ"
+    },
+    {
+      "word": "消毒",
+      "reading": "しょうどく",
+      "meaning": "sự tiêu độc"
+    },
+    {
+      "word": "消極的",
+      "reading": "しょうきょくてき",
+      "meaning": "có tính tiêu cực"
+    },
+    {
+      "word": "消防署",
+      "reading": "しょうぼうしょ",
+      "meaning": "cục phòng cháy chữa cháy"
     }
   ]
 }

@@ -94,34 +94,19 @@
   ],
   "vocabulary": [
     {
-      "word": "終",
-      "reading": "おわり",
-      "meaning": "kết thúc"
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "sau cùng"
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "sự kết thúc"
     },
     {
       "word": "終点",
       "reading": "しゅうてん",
       "meaning": "trạm cuối cùng"
-    },
-    {
-      "word": "終結",
-      "reading": "しゅうけつ",
-      "meaning": "chung kết"
-    },
-    {
-      "word": "終盤",
-      "reading": "しゅうばん",
-      "meaning": "endgame"
-    },
-    {
-      "word": "終戦",
-      "reading": "しゅうせん",
-      "meaning": "kết thúc chiến tranh"
-    },
-    {
-      "word": "終日",
-      "reading": "しゅうじつ",
-      "meaning": "cả ngày"
     },
     {
       "word": "始終",
@@ -134,14 +119,29 @@
       "meaning": "từ lúc bắt đầu đến khi kết thúc"
     },
     {
-      "word": "終演",
-      "reading": "しゅうえん",
-      "meaning": "suất diễn cuối cùng"
+      "word": "終日",
+      "reading": "しゅうじつ",
+      "meaning": "cả ngày"
     },
     {
-      "word": "終夜",
-      "reading": "しゅうや",
-      "meaning": "cả đêm"
+      "word": "終盤",
+      "reading": "しゅうばん",
+      "meaning": "endgame"
+    },
+    {
+      "word": "終",
+      "reading": "おわり",
+      "meaning": "kết thúc"
+    },
+    {
+      "word": "終ぞ",
+      "reading": "ついぞ",
+      "meaning": "không bao giờ"
+    },
+    {
+      "word": "無終",
+      "reading": "むしゅう",
+      "meaning": "vĩnh viễn"
     }
   ]
 }

@@ -87,21 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "凱",
-      "reading": "がい",
-      "meaning": "bài hát chiến thắng"
-    },
-    {
-      "word": "凱歌",
-      "reading": "がいか",
-      "meaning": "bài hát chiến thắng"
-    },
-    {
-      "word": "凱風",
-      "reading": "がいふう",
-      "meaning": "cơn gió dịu nhẹ thổi vào đầu hè"
-    },
-    {
       "word": "凱旋",
       "reading": "がいせん",
       "meaning": "sự khải hoàn"
@@ -115,6 +100,21 @@
       "word": "凱旋門",
       "reading": "がいせんもん",
       "meaning": "cửa hoàng môn"
+    },
+    {
+      "word": "凱",
+      "reading": "がい",
+      "meaning": "bài hát chiến thắng"
+    },
+    {
+      "word": "凱歌",
+      "reading": "がいか",
+      "meaning": "bài hát chiến thắng"
+    },
+    {
+      "word": "凱風",
+      "reading": "がいふう",
+      "meaning": "cơn gió dịu nhẹ thổi vào đầu hè"
     },
     {
       "word": "凱旋公演",

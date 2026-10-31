@@ -89,9 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "環",
-      "reading": "かん",
-      "meaning": "vòng"
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaning": "hoàn cảnh"
     },
     {
       "word": "循環",
@@ -99,44 +99,44 @@
       "meaning": "sự tuần hoàn"
     },
     {
-      "word": "ニュートン環",
-      "reading": "ニュートンかん",
-      "meaning": "các vòng newton"
+      "word": "環境光",
+      "reading": "かんきょうこう",
+      "meaning": "ánh sáng xhung quanh"
     },
     {
-      "word": "環礁",
-      "reading": "かんしょう",
-      "meaning": "đảo san hô vòng"
-    },
-    {
-      "word": "環濠",
-      "reading": "かんごう",
-      "meaning": "hào bao quanh"
-    },
-    {
-      "word": "指環",
-      "reading": "ゆびわ",
-      "meaning": "reo"
-    },
-    {
-      "word": "苧環",
-      "reading": "おだまき",
-      "meaning": "cây lâu năm thuộc họ buttercup. được trau dồi và cải tiến từ miyama aquilegia"
-    },
-    {
-      "word": "菌環",
-      "reading": "きんかん",
-      "meaning": "vòng thần tiên"
-    },
-    {
-      "word": "印環",
-      "reading": "いんかん",
-      "meaning": "dấu treo"
+      "word": "環",
+      "reading": "かん",
+      "meaning": "vòng"
     },
     {
       "word": "円環",
       "reading": "えんかん",
       "meaning": "một vòng tròn kết nối"
+    },
+    {
+      "word": "環化",
+      "reading": "かんか",
+      "meaning": "phản ứng đóng vòng"
+    },
+    {
+      "word": "D環",
+      "reading": "Dかん",
+      "meaning": "khóa chữ d"
+    },
+    {
+      "word": "外環",
+      "reading": "がいかん",
+      "meaning": "outer ring"
+    },
+    {
+      "word": "光環",
+      "reading": "こうかん",
+      "meaning": "vầng hào quang"
+    },
+    {
+      "word": "指環",
+      "reading": "ゆびわ",
+      "meaning": "reo"
     }
   ]
 }

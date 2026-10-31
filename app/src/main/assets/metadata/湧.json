@@ -90,24 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "湧水",
-      "reading": "ゆうすい",
-      "meaning": "phun ra nước"
-    },
-    {
-      "word": "湧出",
-      "reading": "ゆうしゅつ",
-      "meaning": "phun ra ngoài"
-    },
-    {
       "word": "湧く",
       "reading": "わく",
       "meaning": "nảy ra"
-    },
-    {
-      "word": "湧泉",
-      "reading": "ゆうせん",
-      "meaning": "mạch suối nước nóng phun trào"
     },
     {
       "word": "湧き",
@@ -115,9 +100,24 @@
       "meaning": "xuất hiện"
     },
     {
+      "word": "湧水",
+      "reading": "ゆうすい",
+      "meaning": "phun ra nước"
+    },
+    {
+      "word": "湧泉",
+      "reading": "ゆうせん",
+      "meaning": "mạch suối nước nóng phun trào"
+    },
+    {
       "word": "湧き水",
       "reading": "わきみず",
       "meaning": "nước nguồn"
+    },
+    {
+      "word": "湧出",
+      "reading": "ゆうしゅつ",
+      "meaning": "phun ra ngoài"
     },
     {
       "word": "湧出量",
@@ -130,14 +130,14 @@
       "meaning": "phun ra"
     },
     {
-      "word": "湧き出る",
-      "reading": "わきでる",
-      "meaning": "1. ..phun trào"
+      "word": "湧き起こる",
+      "reading": "わきおこる",
+      "meaning": "nổi lên"
     },
     {
-      "word": "湧き立つ",
-      "reading": "わきたつ",
-      "meaning": "xuất hiện đột ngột"
+      "word": "湧き上がる",
+      "reading": "わきあがる",
+      "meaning": "xuất hiện từ dưới và đi lên"
     }
   ]
 }

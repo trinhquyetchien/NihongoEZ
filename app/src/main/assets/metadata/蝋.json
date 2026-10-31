@@ -84,19 +84,24 @@
   ],
   "vocabulary": [
     {
+      "word": "蝋燭",
+      "reading": "ろうそく",
+      "meaning": "cây nến"
+    },
+    {
+      "word": "絵蝋燭",
+      "reading": "えろうそく",
+      "meaning": "nến màu có hình hoa lá"
+    },
+    {
+      "word": "裸蝋燭",
+      "reading": "はだかろうそく",
+      "meaning": "nến trần"
+    },
+    {
       "word": "蝋",
       "reading": "ろう",
       "meaning": "tròn dần"
-    },
-    {
-      "word": "水蝋蝋虫",
-      "reading": "いぼたろうむし",
-      "meaning": "côn trùng sáp nước"
-    },
-    {
-      "word": "鯨蝋",
-      "reading": "げいろう",
-      "meaning": "sáp cá nhà táng"
     },
     {
       "word": "生蝋",
@@ -104,34 +109,29 @@
       "meaning": "nhật bản thô tròn dần"
     },
     {
-      "word": "蝋膜",
-      "reading": "ろうまく",
-      "meaning": "màng sáp"
-    },
-    {
       "word": "白蝋",
       "reading": "はくろう",
       "meaning": "sắp trắng"
     },
     {
-      "word": "蜜蝋",
-      "reading": "みつろう",
-      "meaning": "sáp ong"
-    },
-    {
-      "word": "木蝋",
-      "reading": "もくろう",
-      "meaning": "mỡ thực vật"
-    },
-    {
-      "word": "蝋梅",
-      "reading": "ろうばい",
-      "meaning": "tiếng nhật allspice"
-    },
-    {
       "word": "蝋紙",
       "reading": "ろうがみ",
       "meaning": "giấy nến"
+    },
+    {
+      "word": "蝋引き",
+      "reading": "ろうびき",
+      "meaning": "quét sáp ong lên đồ vật để chống nước"
+    },
+    {
+      "word": "白蝋病",
+      "reading": "はくろうびょう",
+      "meaning": "bệnh sáp trắng"
+    },
+    {
+      "word": "蝋人形",
+      "reading": "ろうにんぎょう",
+      "meaning": "búp bê sáp"
     }
   ]
 }

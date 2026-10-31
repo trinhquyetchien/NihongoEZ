@@ -88,14 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "皇祖皇宗",
-      "reading": "こうそこうそう",
-      "meaning": "tổ tiên hoàng gia"
-    },
-    {
-      "word": "教皇",
-      "reading": "きょうこう",
-      "meaning": "đức giáo hoàng"
+      "word": "天皇",
+      "reading": "てんのう",
+      "meaning": "thiên hoàng"
     },
     {
       "word": "皇居",
@@ -108,14 +103,9 @@
       "meaning": "hoàng đế"
     },
     {
-      "word": "皇位",
-      "reading": "こうい",
-      "meaning": "ngôi hoàng đế"
-    },
-    {
-      "word": "皇霊",
-      "reading": "こうれい",
-      "meaning": "linh hồn của các vị thiên hoàng trong quá khứ"
+      "word": "女皇",
+      "reading": "じょこう",
+      "meaning": "nữ vương"
     },
     {
       "word": "皇別",
@@ -123,19 +113,29 @@
       "meaning": "gia tộc hậu duệ của thiên hoàng"
     },
     {
-      "word": "皇祚",
-      "reading": "こうそ",
-      "meaning": "ngai vàng"
-    },
-    {
-      "word": "皇女",
-      "reading": "こうじょ",
-      "meaning": "công chúa"
-    },
-    {
       "word": "皇道",
       "reading": "こうどう",
       "meaning": "sự cai trị của hoàng đế"
+    },
+    {
+      "word": "皇室",
+      "reading": "こうしつ",
+      "meaning": "hoàng thất"
+    },
+    {
+      "word": "皇親",
+      "reading": "こうしん",
+      "meaning": "gia đình hoàng tộc"
+    },
+    {
+      "word": "皇都",
+      "reading": "こうと",
+      "meaning": "kinh đô"
+    },
+    {
+      "word": "皇天",
+      "reading": "こうてん",
+      "meaning": "providence"
     }
   ]
 }

@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "双子",
+      "reading": "ふたご",
+      "meaning": "anh em sinh đôi"
+    },
+    {
+      "word": "双子座",
+      "reading": "ふたござ",
+      "meaning": "cung song tử"
+    },
+    {
+      "word": "双方",
+      "reading": "そうほう",
+      "meaning": "đôi bên"
+    },
+    {
+      "word": "無双",
+      "reading": "むそう",
+      "meaning": "vô song"
+    },
+    {
+      "word": "内無双",
+      "reading": "うちむそう",
+      "meaning": "kỹ thuật hất vào bên trong đầu gối của chân đối phương bằng kỹ năng của mình"
+    },
+    {
+      "word": "外無双",
+      "reading": "そとむそう",
+      "meaning": "xoay đùi ngoài-nghiêng xuống"
+    },
+    {
       "word": "双",
       "reading": "そう",
       "meaning": "đôi"
     },
     {
-      "word": "双樹",
-      "reading": "そうじゅ",
-      "meaning": "cây đôi"
+      "word": "双生",
+      "reading": "そうせい",
+      "meaning": "sự sinh đôi"
     },
     {
-      "word": "双手",
-      "reading": "もろて",
-      "meaning": "ra vẻ hài lòng"
+      "word": "双星",
+      "reading": "そうせい",
+      "meaning": "amphiaster"
     },
     {
-      "word": "双調",
-      "reading": "そうじょう",
-      "meaning": "âm điệu gần với âm g"
-    },
-    {
-      "word": "双児",
-      "reading": "そうじ",
-      "meaning": "cặp sinh đôi"
-    },
-    {
-      "word": "双紙",
-      "reading": "そうし",
-      "meaning": "sách"
-    },
-    {
-      "word": "双幅",
-      "reading": "そうふく",
-      "meaning": "ghép đôi việc treo cuộn"
-    },
-    {
-      "word": "双六",
-      "reading": "すごろく",
-      "meaning": "trò chơi xúc xắc của trẻ em"
-    },
-    {
-      "word": "双書",
-      "reading": "そうしょ",
-      "meaning": "đợt những sự công bố)"
-    },
-    {
-      "word": "双肩",
-      "reading": "そうけん",
-      "meaning": "gánh vác"
+      "word": "双安定",
+      "reading": "そうあんてい",
+      "meaning": "ổn định kép"
     }
   ]
 }

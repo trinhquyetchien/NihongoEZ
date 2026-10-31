@@ -108,24 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "届",
-      "reading": "とどけ",
-      "meaning": "giấy"
-    },
-    {
-      "word": "届出",
-      "reading": "とどけで",
-      "meaning": "báo cáo"
-    },
-    {
-      "word": "届書",
-      "reading": "とどけしょ",
-      "meaning": "báo cáo"
-    },
-    {
-      "word": "届け",
-      "reading": "とどけ",
-      "meaning": "giấy"
+      "word": "届ける",
+      "reading": "とどける",
+      "meaning": "đưa đến"
     },
     {
       "word": "届く",
@@ -133,29 +118,44 @@
       "meaning": "chu đáo"
     },
     {
-      "word": "分籍届",
-      "reading": "ぶんせきとどけ",
-      "meaning": "thông báo tách hộ khẩu"
+      "word": "届",
+      "reading": "とどけ",
+      "meaning": "giấy"
     },
     {
-      "word": "婚姻届",
-      "reading": "こんいんとどけ",
-      "meaning": "giấy hôn thú"
+      "word": "届け",
+      "reading": "とどけ",
+      "meaning": "giấy"
     },
     {
-      "word": "変更届",
-      "reading": "へんこうとどけ",
-      "meaning": "thông báo thay đổi"
+      "word": "届け物",
+      "reading": "とどけもの",
+      "meaning": "hàng được giao đến"
     },
     {
-      "word": "離婚届",
-      "reading": "りこんとどけ",
-      "meaning": "giấy đăng ký ly hôn chính thức"
+      "word": "無届け",
+      "reading": "むとどけ",
+      "meaning": "sự không báo trước"
     },
     {
-      "word": "公欠届",
-      "reading": "こうけつとどけ",
-      "meaning": "giấy phép vắng mặt"
+      "word": "届け書",
+      "reading": "とどけしょ",
+      "meaning": "báo cáo"
+    },
+    {
+      "word": "未届け",
+      "reading": "みとどけ",
+      "meaning": "không báo cáo"
+    },
+    {
+      "word": "結婚届",
+      "reading": "けっこんとどけ",
+      "meaning": "giấy đăng ký kết hôn"
+    },
+    {
+      "word": "届書",
+      "reading": "とどけしょ",
+      "meaning": "báo cáo"
     }
   ]
 }

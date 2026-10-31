@@ -81,28 +81,8 @@
   ],
   "vocabulary": [
     {
-      "word": "サル痘",
-      "reading": "さるとう",
-      "meaning": "bệnh đậu mùa khỉ"
-    },
-    {
-      "word": "痘痕",
-      "reading": "あばた",
-      "meaning": "sẹo đậu mùa"
-    },
-    {
-      "word": "痘苗",
-      "reading": "とうびょう",
-      "meaning": "vắc-xin"
-    },
-    {
-      "word": "仮痘",
-      "reading": "かとう",
-      "meaning": "bệnh đậu mùa nhẹ"
-    },
-    {
-      "word": "痘瘡",
-      "reading": "とうそう",
+      "word": "天然痘",
+      "reading": "てんねんとう",
       "meaning": "bệnh đậu mùa"
     },
     {
@@ -111,9 +91,9 @@
       "meaning": "bệnh thủy đậu"
     },
     {
-      "word": "牛痘",
-      "reading": "ぎゅうとう",
-      "meaning": "bệnh đậu bò"
+      "word": "サル痘",
+      "reading": "さるとう",
+      "meaning": "bệnh đậu mùa khỉ"
     },
     {
       "word": "種痘",
@@ -121,14 +101,34 @@
       "meaning": "sự chủng đậu"
     },
     {
-      "word": "痘痕面",
-      "reading": "あばたづら",
-      "meaning": "mặt pockmarked"
+      "word": "種痘疹",
+      "reading": "しゅとうしん",
+      "meaning": "bệnh đậu mùa"
     },
     {
-      "word": "天然痘",
-      "reading": "てんねんとう",
+      "word": "痘苗",
+      "reading": "とうびょう",
+      "meaning": "vắc-xin"
+    },
+    {
+      "word": "痘瘡",
+      "reading": "とうそう",
       "meaning": "bệnh đậu mùa"
+    },
+    {
+      "word": "牛痘",
+      "reading": "ぎゅうとう",
+      "meaning": "bệnh đậu bò"
+    },
+    {
+      "word": "痘痕",
+      "reading": "あばた",
+      "meaning": "sẹo đậu mùa"
+    },
+    {
+      "word": "仮痘",
+      "reading": "かとう",
+      "meaning": "bệnh đậu mùa nhẹ"
     }
   ]
 }

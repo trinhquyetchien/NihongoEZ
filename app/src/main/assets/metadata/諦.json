@@ -90,9 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "苦諦",
-      "reading": "くたい",
-      "meaning": "sự thật của đau khổ"
+      "word": "諦める",
+      "reading": "あきらめる",
+      "meaning": "từ bỏ"
+    },
+    {
+      "word": "諦め",
+      "reading": "あきらめ",
+      "meaning": "sự từ bỏ"
     },
     {
       "word": "中諦",
@@ -100,29 +105,9 @@
       "meaning": "thuyết giảng của tenzai"
     },
     {
-      "word": "滅諦",
-      "reading": "めったい",
-      "meaning": "sự thật về sự chấm dứt đau khổ"
-    },
-    {
       "word": "空諦",
       "reading": "くうたい",
       "meaning": "chân lý của sự trống rỗng"
-    },
-    {
-      "word": "四諦",
-      "reading": "したい",
-      "meaning": "tứ diệu đế"
-    },
-    {
-      "word": "諦念",
-      "reading": "ていねん",
-      "meaning": "sự đầu hàng"
-    },
-    {
-      "word": "仮諦",
-      "reading": "けたい",
-      "meaning": "mọi thứ đều không có cơ sở và tồn tại một cách dự kiến do một nguyên nhân nào đó"
     },
     {
       "word": "三諦",
@@ -133,6 +118,21 @@
       "word": "道諦",
       "reading": "どうたい",
       "meaning": "tứ diệu đế"
+    },
+    {
+      "word": "仮諦",
+      "reading": "けたい",
+      "meaning": "mọi thứ đều không có cơ sở và tồn tại một cách dự kiến do một nguyên nhân nào đó"
+    },
+    {
+      "word": "苦諦",
+      "reading": "くたい",
+      "meaning": "sự thật của đau khổ"
+    },
+    {
+      "word": "滅諦",
+      "reading": "めったい",
+      "meaning": "sự thật về sự chấm dứt đau khổ"
     },
     {
       "word": "諦観",

@@ -86,44 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "犠打",
-      "reading": "ぎだ",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
-      "word": "犠牛",
-      "reading": "ぎぎゅう",
-      "meaning": "bò thiến cúng thần"
-    },
-    {
-      "word": "供犠",
-      "reading": "くぎ",
-      "meaning": "hy sinh"
-    },
-    {
-      "word": "犠飛",
-      "reading": "ぎひ",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
       "word": "犠牲",
       "reading": "ぎせい",
       "meaning": "sự hy sinh"
-    },
-    {
-      "word": "犠牲バント",
-      "reading": "ぎせいバント",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
-      "word": "犠牲打",
-      "reading": "ぎせいだ",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
-      "word": "犠牲フライ",
-      "reading": "ぎせいフライ",
-      "meaning": "hy sinh cẩn thận"
     },
     {
       "word": "犠牲的",
@@ -134,6 +99,41 @@
       "word": "犠牲者",
       "reading": "ぎせいしゃ",
       "meaning": "nạn nhân"
+    },
+    {
+      "word": "犠牲打",
+      "reading": "ぎせいだ",
+      "meaning": "cú đánh hy sinh"
+    },
+    {
+      "word": "犠打",
+      "reading": "ぎだ",
+      "meaning": "cú đánh hy sinh"
+    },
+    {
+      "word": "犠飛",
+      "reading": "ぎひ",
+      "meaning": "cú đánh hy sinh"
+    },
+    {
+      "word": "供犠",
+      "reading": "くぎ",
+      "meaning": "hy sinh"
+    },
+    {
+      "word": "犠牛",
+      "reading": "ぎぎゅう",
+      "meaning": "bò thiến cúng thần"
+    },
+    {
+      "word": "犠牲になる",
+      "reading": "ぎせいになる",
+      "meaning": "hy sinh cho ai đó"
+    },
+    {
+      "word": "犠牲となる",
+      "reading": "ぎせいとなる",
+      "meaning": "hy sinh"
     }
   ]
 }

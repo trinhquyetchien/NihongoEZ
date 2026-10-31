@@ -95,34 +95,14 @@
       "meaning": "đặc biệt"
     },
     {
-      "word": "別別",
-      "reading": "べつべつ",
-      "meaning": "riêng biệt"
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "việc phân biệt"
     },
     {
-      "word": "別別に",
-      "reading": "べつべつに",
-      "meaning": "tách riêng"
-    },
-    {
-      "word": "別れ別れ",
-      "reading": "わかれわかれ",
-      "meaning": "tách ra"
-    },
-    {
-      "word": "個個別別",
-      "reading": "ここべつべつ",
-      "meaning": "mỗi một riêng rẽ"
-    },
-    {
-      "word": "個々別別",
-      "reading": "ここべつべつ",
-      "meaning": "mỗi một riêng rẽ"
-    },
-    {
-      "word": "別れ別れに",
-      "reading": "わかれわかれに",
-      "meaning": "riêng ra"
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "sự phân biệt"
     },
     {
       "word": "格別",
@@ -130,14 +110,34 @@
       "meaning": "khác biệt"
     },
     {
+      "word": "一別",
+      "reading": "いちべつ",
+      "meaning": "chia tay một lần"
+    },
+    {
+      "word": "個別",
+      "reading": "こべつ",
+      "meaning": "cá biệt"
+    },
+    {
       "word": "別の",
       "reading": "べつの",
       "meaning": "khác"
     },
     {
-      "word": "別ウィンドウ",
-      "reading": "べつウィンドウ",
-      "meaning": "cửa sổ khác"
+      "word": "国別",
+      "reading": "くにべつ",
+      "meaning": "theo quốc gia"
+    },
+    {
+      "word": "神別",
+      "reading": "しんべつ",
+      "meaning": "phân loại thần linh"
+    },
+    {
+      "word": "別体",
+      "reading": "べったい",
+      "meaning": "dị hình"
     }
   ]
 }

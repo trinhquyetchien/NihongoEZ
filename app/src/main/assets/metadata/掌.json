@@ -90,8 +90,18 @@
   ],
   "vocabulary": [
     {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "meaning": "người phục vụ"
+    },
+    {
       "word": "掌",
       "reading": "てのひら",
+      "meaning": "lòng bàn tay"
+    },
+    {
+      "word": "手掌",
+      "reading": "しゅしょう",
       "meaning": "lòng bàn tay"
     },
     {
@@ -100,44 +110,34 @@
       "meaning": "sự nắm giữ"
     },
     {
-      "word": "合掌",
-      "reading": "がっしょう",
-      "meaning": "chắp tay cầu nguyện"
-    },
-    {
       "word": "掌骨",
       "reading": "しょうこつ",
       "meaning": "xương bàn tay"
     },
     {
-      "word": "掌紋",
-      "reading": "しょうもん",
-      "meaning": "thủ sự in"
+      "word": "観掌術",
+      "reading": "かんしょうじゅつ",
+      "meaning": "thuật xem tướng tay"
     },
     {
-      "word": "掌中",
-      "reading": "しょうちゅう",
-      "meaning": "trong lòng bàn tay"
+      "word": "掌底",
+      "reading": "しょうてい",
+      "meaning": "tên của bộ phận được sử dụng cho kỹ thuật atemi trong judo"
     },
     {
-      "word": "分掌",
-      "reading": "ぶんしょう",
-      "meaning": "sự phân chia nhiệm vụ"
+      "word": "熊掌",
+      "reading": "ゆうしょう",
+      "meaning": "bàn tay gấu"
     },
     {
-      "word": "手掌",
-      "reading": "しゅしょう",
-      "meaning": "lòng bàn tay"
+      "word": "車掌車",
+      "reading": "しゃしょうしゃ",
+      "meaning": "ô tô của người soát vé"
     },
     {
-      "word": "管掌",
-      "reading": "かんしょう",
-      "meaning": "chịu trách nhiệm"
-    },
-    {
-      "word": "落掌",
-      "reading": "らくしょう",
-      "meaning": "nhận"
+      "word": "車掌区",
+      "reading": "しゃしょうく",
+      "meaning": "nhà ga những chất dẫn"
     }
   ]
 }

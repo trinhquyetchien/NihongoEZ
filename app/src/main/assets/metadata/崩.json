@@ -91,33 +91,18 @@
   ],
   "vocabulary": [
     {
+      "word": "崩れる",
+      "reading": "くずれる",
+      "meaning": "đổ nhào"
+    },
+    {
       "word": "崩す",
       "reading": "くずす",
       "meaning": "phá hủy"
     },
     {
-      "word": "崩潰",
-      "reading": "ほうかい",
-      "meaning": "sụp đổ"
-    },
-    {
-      "word": "崩御",
-      "reading": "ほうぎょ",
-      "meaning": "sự băng hà"
-    },
-    {
-      "word": "崩落",
-      "reading": "ほうらく",
-      "meaning": "sụp đổ"
-    },
-    {
       "word": "崩壊",
       "reading": "ほうかい",
-      "meaning": "sự sụp đổ"
-    },
-    {
-      "word": "崩れ",
-      "reading": "くずれ",
       "meaning": "sự sụp đổ"
     },
     {
@@ -126,19 +111,34 @@
       "meaning": "tuyết lở"
     },
     {
-      "word": "壊崩",
-      "reading": "かいほう",
+      "word": "壁崩壊",
+      "reading": "かべほうかい",
+      "meaning": "sự sụp đổ của bức tường"
+    },
+    {
+      "word": "崩壊熱",
+      "reading": "ほうかいねつ",
+      "meaning": "nhiệt lượng phân rã"
+    },
+    {
+      "word": "核崩壊",
+      "reading": "かくほうかい",
+      "meaning": "sự phân hủy hạt nhân"
+    },
+    {
+      "word": "崩れ",
+      "reading": "くずれ",
       "meaning": "sự sụp đổ"
     },
     {
-      "word": "崩解",
-      "reading": "ほうかい",
-      "meaning": "sự sụp đổ"
+      "word": "人崩れ",
+      "reading": "ひとくずれ",
+      "meaning": "đám đông chen chúc"
     },
     {
-      "word": "尿崩症",
-      "reading": "にょうほうしょう",
-      "meaning": "đái tháo nhạt"
+      "word": "型崩れ",
+      "reading": "かたくずれ",
+      "meaning": "mất hình dạng"
     }
   ]
 }

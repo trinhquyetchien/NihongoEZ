@@ -35,14 +35,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "逼塞",
-      "reading": "ひっそく",
-      "meaning": "bị tắc nghẽn"
-    },
-    {
       "word": "逼迫",
       "reading": "ひっぱく",
       "meaning": "bức bách"
+    },
+    {
+      "word": "逼塞",
+      "reading": "ひっそく",
+      "meaning": "bị tắc nghẽn"
     },
     {
       "word": "金融逼迫",

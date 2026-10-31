@@ -95,9 +95,14 @@
       "meaning": "thời gian rảnh rỗi"
     },
     {
-      "word": "暇暇",
-      "reading": "ひまひま",
-      "meaning": "thì giờ nhàn rỗi"
+      "word": "休暇",
+      "reading": "きゅうか",
+      "meaning": "kỳ nghỉ"
+    },
+    {
+      "word": "余暇",
+      "reading": "よか",
+      "meaning": "thời gian rỗi"
     },
     {
       "word": "暇な",
@@ -105,19 +110,24 @@
       "meaning": "rảnh"
     },
     {
-      "word": "休暇",
-      "reading": "きゅうか",
-      "meaning": "kỳ nghỉ"
+      "word": "お暇",
+      "reading": "おいとま",
+      "meaning": "về"
     },
     {
-      "word": "閑暇",
-      "reading": "かんか",
-      "meaning": "thì giờ rỗi rãi"
+      "word": "暇な時",
+      "reading": "ひまなとき",
+      "meaning": "lúc rỗi"
     },
     {
-      "word": "寸暇",
-      "reading": "すんか",
-      "meaning": "giây phút rảnh rỗi"
+      "word": "暇ネタ",
+      "reading": "ひまねた",
+      "meaning": "nội dung giải trí lúc rảnh rỗi"
+    },
+    {
+      "word": "暇取る",
+      "reading": "ひまどる",
+      "meaning": "mất thời gian"
     },
     {
       "word": "公暇",
@@ -125,19 +135,9 @@
       "meaning": "phép nghỉ"
     },
     {
-      "word": "賜暇",
-      "reading": "しか",
-      "meaning": "sự nghỉ phép"
-    },
-    {
-      "word": "暇人",
-      "reading": "ひまじん",
-      "meaning": "người ăn không ngồi rồi"
-    },
-    {
-      "word": "お暇",
-      "reading": "おいとま",
-      "meaning": "về"
+      "word": "手間暇",
+      "reading": "てまひま",
+      "meaning": "thời gian và công sức"
     }
   ]
 }

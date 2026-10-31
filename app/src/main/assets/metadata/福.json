@@ -87,14 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "福",
-      "reading": "ふく",
+      "word": "幸福",
+      "reading": "こうふく",
       "meaning": "hạnh phúc"
-    },
-    {
-      "word": "福福しい",
-      "reading": "ふくぶくしい",
-      "meaning": "hạnh phúc - cái nhìn"
     },
     {
       "word": "福祉",
@@ -102,39 +97,44 @@
       "meaning": "phúc lợi"
     },
     {
-      "word": "福木",
-      "reading": "ふくぎ",
-      "meaning": "garcinia subelliptica"
-    },
-    {
-      "word": "福司",
-      "reading": "ふくつかさ",
-      "meaning": "fukutsukasa"
-    },
-    {
-      "word": "祝福",
-      "reading": "しゅくふく",
-      "meaning": "sự chúc phúc"
-    },
-    {
-      "word": "至福",
-      "reading": "しふく",
-      "meaning": "phúc lớn"
-    },
-    {
-      "word": "幸福",
-      "reading": "こうふく",
+      "word": "福",
+      "reading": "ふく",
       "meaning": "hạnh phúc"
-    },
-    {
-      "word": "寿福",
-      "reading": "じゅふく",
-      "meaning": "trường thọ và hạnh phúc"
     },
     {
       "word": "福岡",
       "reading": "ふくおか",
       "meaning": "thành phố fukuoka"
+    },
+    {
+      "word": "幸福感",
+      "reading": "こうふくかん",
+      "meaning": "trạng thái phởn phơ"
+    },
+    {
+      "word": "来福",
+      "reading": "らいふく",
+      "meaning": "việc đến fukuoka"
+    },
+    {
+      "word": "福楽",
+      "reading": "ふくらく",
+      "meaning": "hạnh phúc và thoải mái"
+    },
+    {
+      "word": "不福",
+      "reading": "ふく",
+      "meaning": "vô phúc"
+    },
+    {
+      "word": "八福",
+      "reading": "はちふく",
+      "meaning": "phúc âm"
+    },
+    {
+      "word": "民福",
+      "reading": "みんぷく",
+      "meaning": "phúc lợi quốc gia"
     }
   ]
 }

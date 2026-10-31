@@ -103,34 +103,14 @@
   ],
   "vocabulary": [
     {
-      "word": "乾燥台/乾燥棚",
-      "reading": "かんそうだい/かんそうたな",
-      "meaning": "đồ giữ lạnh"
-    },
-    {
-      "word": "燥ぐ",
-      "reading": "はしゃぐ",
-      "meaning": "làm vui vẻ"
-    },
-    {
-      "word": "焦燥",
-      "reading": "しょうそう",
-      "meaning": "nóng nảy"
-    },
-    {
-      "word": "高燥",
-      "reading": "こうそう",
-      "meaning": "nơi cao ráo"
-    },
-    {
-      "word": "枯燥",
-      "reading": "こそう",
-      "meaning": "khổ cạn"
-    },
-    {
       "word": "乾燥",
       "reading": "かんそう",
       "meaning": "sự khô khan"
+    },
+    {
+      "word": "乾燥感",
+      "reading": "かんそうかん",
+      "meaning": "cảm giác khô"
     },
     {
       "word": "乾燥機",
@@ -138,19 +118,39 @@
       "meaning": "máy làm khô"
     },
     {
-      "word": "乾燥肌",
-      "reading": "かんそうはだ",
-      "meaning": "da khô"
+      "word": "乾燥地",
+      "reading": "かんそうち",
+      "meaning": "đất liền"
     },
     {
-      "word": "高燥地",
-      "reading": "こうそうち",
-      "meaning": "nơi khô ráo"
+      "word": "乾燥室",
+      "reading": "かんそうしつ",
+      "meaning": "phòng sấy khô"
+    },
+    {
+      "word": "乾燥期",
+      "reading": "かんそうき",
+      "meaning": "mùa khô"
+    },
+    {
+      "word": "乾燥台",
+      "reading": "かんそうだい",
+      "meaning": "máy sấy khô"
     },
     {
       "word": "乾燥器",
       "reading": "かんそうき",
       "meaning": "máy sấy khô"
+    },
+    {
+      "word": "半乾燥",
+      "reading": "はんかんそう",
+      "meaning": "nửa khô nửa ướt"
+    },
+    {
+      "word": "乾燥剤",
+      "reading": "かんそうざい",
+      "meaning": "chất hút ẩm"
     }
   ]
 }

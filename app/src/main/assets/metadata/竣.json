@@ -52,24 +52,24 @@
   ],
   "vocabulary": [
     {
-      "word": "竣功",
-      "reading": "しゅんこう",
-      "meaning": "xây dựng hoàn thành"
-    },
-    {
       "word": "竣工",
       "reading": "しゅんこう",
       "meaning": "việc xây dựng đã hoàn thành"
     },
     {
-      "word": "竣成",
-      "reading": "しゅんせい",
-      "meaning": "sự hoàn thành của tòa nhà"
-    },
-    {
       "word": "竣工式",
       "reading": "しゅんこうしき",
       "meaning": "nghi lễ để đánh dấu hoàn thành"
+    },
+    {
+      "word": "竣功",
+      "reading": "しゅんこう",
+      "meaning": "xây dựng hoàn thành"
+    },
+    {
+      "word": "竣成",
+      "reading": "しゅんせい",
+      "meaning": "sự hoàn thành của tòa nhà"
     }
   ]
 }

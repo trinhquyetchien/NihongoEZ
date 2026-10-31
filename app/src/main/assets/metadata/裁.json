@@ -124,34 +124,9 @@
   ],
   "vocabulary": [
     {
-      "word": "裁",
-      "reading": "さい",
-      "meaning": "xét đoán"
-    },
-    {
-      "word": "仲裁裁定",
-      "reading": "ちゅうさいさいてい",
-      "meaning": "sự giải quyết bởi trọng tài"
-    },
-    {
-      "word": "仲裁裁判",
-      "reading": "ちゅうさいさいばん",
-      "meaning": "sự phân xử"
-    },
-    {
-      "word": "仲裁裁判所",
-      "reading": "ちゅうさいさいばんしょ",
-      "meaning": "sân sự phân xử"
-    },
-    {
-      "word": "裁判官弾劾裁判所",
-      "reading": "さいばんかんだんがいさいばんしょ",
-      "meaning": "tòa án luận tội thẩm phán"
-    },
-    {
-      "word": "裁縫道具/裁縫用品",
-      "reading": "さいほうどうぐ/さいほうようひん",
-      "meaning": "dụng cụ may"
+      "word": "裁判",
+      "reading": "さいばん",
+      "meaning": "sự xét xử"
     },
     {
       "word": "裁縫",
@@ -159,19 +134,44 @@
       "meaning": "khâu vá"
     },
     {
-      "word": "裁ち",
-      "reading": "たち",
-      "meaning": "cắt"
+      "word": "独裁",
+      "reading": "どくさい",
+      "meaning": "chế độ độc tài"
     },
     {
-      "word": "裁決",
-      "reading": "さいけつ",
-      "meaning": "tài quyết"
+      "word": "制裁",
+      "reading": "せいさい",
+      "meaning": "chế tài"
+    },
+    {
+      "word": "体裁",
+      "reading": "ていさい",
+      "meaning": "khổ"
     },
     {
       "word": "裁く",
       "reading": "さばく",
       "meaning": "đánh giá"
+    },
+    {
+      "word": "裁判員",
+      "reading": "さいばんいん",
+      "meaning": "thẩm phán công dân"
+    },
+    {
+      "word": "裁判所",
+      "reading": "さいばんしょ",
+      "meaning": "pháp đình"
+    },
+    {
+      "word": "原裁判",
+      "reading": "げんさいばん",
+      "meaning": "sự phán xử nguyên bản"
+    },
+    {
+      "word": "裁判官",
+      "reading": "さいばんかん",
+      "meaning": "quan tòa"
     }
   ]
 }

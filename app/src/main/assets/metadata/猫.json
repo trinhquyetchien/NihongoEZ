@@ -94,9 +94,19 @@
       "meaning": "mèo"
     },
     {
-      "word": "黒猫",
-      "reading": "くろねこ",
-      "meaning": "con mèo đen"
+      "word": "男猫",
+      "reading": "おねこ",
+      "meaning": "con mèo đực"
+    },
+    {
+      "word": "愛猫",
+      "reading": "あいびょう",
+      "meaning": "con mèo cưng"
+    },
+    {
+      "word": "猫派",
+      "reading": "ねこは",
+      "meaning": "người yêu mèo"
     },
     {
       "word": "犬猫",
@@ -104,39 +114,29 @@
       "meaning": "chó mèo"
     },
     {
-      "word": "ペルシア猫",
-      "reading": "ペルシアねこ",
-      "meaning": "giống mèo thuần chủng có lông dài và mịn"
+      "word": "小猫",
+      "reading": "こねこ",
+      "meaning": "mèo con"
     },
     {
-      "word": "猫蚤",
-      "reading": "ねこのみ",
-      "meaning": "bọ chét mèo"
+      "word": "白猫",
+      "reading": "しろねこ",
+      "meaning": "mèo trắng"
     },
     {
-      "word": "熊猫",
-      "reading": "くまねこ",
-      "meaning": "gấu trúc"
+      "word": "黒猫",
+      "reading": "くろねこ",
+      "meaning": "con mèo đen"
     },
     {
-      "word": "猫又",
-      "reading": "ねこまた",
-      "meaning": "mèo hai đuôi"
+      "word": "恋猫",
+      "reading": "こいねこ",
+      "meaning": "mèo bên trong dạn dày"
     },
     {
-      "word": "猫鮫",
-      "reading": "ねこざめ",
-      "meaning": "cá mập đầu bò nhật bản"
-    },
-    {
-      "word": "猫額",
-      "reading": "びょうがく",
-      "meaning": "nhỏ như trán mèo"
-    },
-    {
-      "word": "リビア猫",
-      "reading": "リビアねこ",
-      "meaning": "mèo liberia"
+      "word": "猫耳",
+      "reading": "ねこみみ",
+      "meaning": "tai mèo"
     }
   ]
 }

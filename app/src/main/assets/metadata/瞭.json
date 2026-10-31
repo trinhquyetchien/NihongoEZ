@@ -83,11 +83,6 @@
   ],
   "vocabulary": [
     {
-      "word": "瞭然",
-      "reading": "りょうぜん",
-      "meaning": "rõ ràng"
-    },
-    {
       "word": "明瞭",
       "reading": "めいりょう",
       "meaning": "rõ ràng"
@@ -103,14 +98,9 @@
       "meaning": "sự không rõ ràng"
     },
     {
-      "word": "一目瞭然",
-      "reading": "いちもくりょうぜん",
-      "meaning": "hiển nhiên"
-    },
-    {
-      "word": "簡潔明瞭",
-      "reading": "かんけつめいりょう",
-      "meaning": "rõ ràng và súc tích"
+      "word": "瞭然",
+      "reading": "りょうぜん",
+      "meaning": "rõ ràng"
     },
     {
       "word": "簡単明瞭",
@@ -121,6 +111,16 @@
       "word": "発語明瞭度",
       "reading": "はつごめーりょーど",
       "meaning": "độ rõ tiếng"
+    },
+    {
+      "word": "簡潔明瞭",
+      "reading": "かんけつめいりょう",
+      "meaning": "rõ ràng và súc tích"
+    },
+    {
+      "word": "一目瞭然",
+      "reading": "いちもくりょうぜん",
+      "meaning": "hiển nhiên"
     }
   ]
 }

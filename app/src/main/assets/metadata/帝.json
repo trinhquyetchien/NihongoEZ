@@ -106,14 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "帝",
-      "reading": "みかど",
-      "meaning": "thiên hoàng"
+      "word": "帝国",
+      "reading": "ていこく",
+      "meaning": "đế quốc"
     },
     {
-      "word": "帝劇",
-      "reading": "ていげき",
-      "meaning": "theater đế quốc"
+      "word": "島帝国",
+      "reading": "とうていこく",
+      "meaning": "đế quốc hòn đảo"
+    },
+    {
+      "word": "帝国兵",
+      "reading": "ていこくへい",
+      "meaning": "lính hoàng gia"
     },
     {
       "word": "皇帝",
@@ -121,39 +126,34 @@
       "meaning": "hoàng đế"
     },
     {
-      "word": "露帝",
-      "reading": "ろてい",
-      "meaning": "vua nga"
+      "word": "帝",
+      "reading": "みかど",
+      "meaning": "thiên hoàng"
     },
     {
-      "word": "反帝",
-      "reading": "はんてい",
-      "meaning": "anti - chủ nghĩa đế quốc"
+      "word": "帝日",
+      "reading": "ていじつ",
+      "meaning": "ngày may mắn"
     },
     {
-      "word": "帝威",
-      "reading": "ていい",
-      "meaning": "majesty đế quốc"
+      "word": "日帝",
+      "reading": "にってい",
+      "meaning": "đế quốc nhật bản"
     },
     {
-      "word": "帝都",
-      "reading": "ていと",
-      "meaning": "đế đô"
+      "word": "時の帝",
+      "reading": "ときのみかど",
+      "meaning": "vua thời gian"
     },
     {
-      "word": "帝徳",
-      "reading": "ていとく",
-      "meaning": "đức độ của hoàng đế"
+      "word": "帝大",
+      "reading": "ていだい",
+      "meaning": "trường đại học hoàng gia"
     },
     {
-      "word": "帝座",
-      "reading": "ていざ",
-      "meaning": "ngai vàng"
-    },
-    {
-      "word": "帝土",
-      "reading": "ていど",
-      "meaning": "đất hoàng gia"
+      "word": "帝道",
+      "reading": "ていどう",
+      "meaning": "đường vua đi"
     }
   ]
 }

@@ -58,19 +58,14 @@
       "meaning": "đanh"
     },
     {
-      "word": "特殊釘その他釘",
-      "reading": "とくしゅくぎそのほかくぎ",
-      "meaning": "dựng cấp đặc biệt và các loại đinh khác"
+      "word": "釘頭",
+      "reading": "ていとう",
+      "meaning": "đầu đinh"
     },
     {
-      "word": "釘〆",
-      "reading": "くぎ〆",
-      "meaning": "this term is specific to the construction industry in japan and may not be commonly used in vietnamese construction industry)"
-    },
-    {
-      "word": "角釘",
-      "reading": "かくくぎ",
-      "meaning": "đinh vuông"
+      "word": "木釘",
+      "reading": "きくぎ",
+      "meaning": "đinh gỗ"
     },
     {
       "word": "裏釘",
@@ -78,29 +73,34 @@
       "meaning": "cái đinh móc"
     },
     {
-      "word": "釘頭",
-      "reading": "ていとう",
-      "meaning": "đầu đinh"
+      "word": "丸釘",
+      "reading": "",
+      "meaning": "đinh tròn"
     },
     {
-      "word": "犬釘",
-      "reading": "いぬくぎ",
-      "meaning": "đinh tà vẹt của đường ray"
+      "word": "掛け釘",
+      "reading": "かけくぎ",
+      "meaning": "peg"
     },
     {
-      "word": "釘隠",
-      "reading": "くぎかくし",
-      "meaning": "vật trang trí che đầu đinh"
+      "word": "角釘",
+      "reading": "かくくぎ",
+      "meaning": "đinh vuông"
     },
     {
-      "word": "目釘",
-      "reading": "めくぎ",
-      "meaning": "chú mục trên một chuôi kiếm thanh gươm"
+      "word": "釘袋",
+      "reading": "くぎぶくろ",
+      "meaning": "túi đựng đinh"
     },
     {
-      "word": "金釘",
-      "reading": "かなくぎ",
-      "meaning": "đinh kim loại"
+      "word": "切り釘",
+      "reading": "きりくぎ",
+      "meaning": "đinh nhỏ đầu"
+    },
+    {
+      "word": "バラ釘",
+      "reading": "バラくぎ",
+      "meaning": "đinh rời"
     }
   ]
 }

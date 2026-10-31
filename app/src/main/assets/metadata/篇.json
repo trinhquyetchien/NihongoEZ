@@ -52,14 +52,24 @@
   ],
   "vocabulary": [
     {
-      "word": "詩篇",
-      "reading": "しへん",
-      "meaning": "tập thơ"
+      "word": "一篇",
+      "reading": "いっぺん",
+      "meaning": "một thiên bài thơ)"
     },
     {
-      "word": "続篇",
-      "reading": "ぞくへん",
-      "meaning": "sự tiếp tục"
+      "word": "前篇",
+      "reading": "ぜんぺん",
+      "meaning": "trước hết chia ra"
+    },
+    {
+      "word": "後篇",
+      "reading": "こうへん",
+      "meaning": "phần sau"
+    },
+    {
+      "word": "下篇",
+      "reading": "げへん",
+      "meaning": "phần cuối"
     },
     {
       "word": "全篇",
@@ -72,34 +82,24 @@
       "meaning": "nhiều thể tích"
     },
     {
-      "word": "後篇",
-      "reading": "こうへん",
-      "meaning": "phần sau"
+      "word": "玉篇",
+      "reading": "ぎょくへん",
+      "meaning": "ngọc thiên"
     },
     {
-      "word": "一篇",
-      "reading": "いっぺん",
-      "meaning": "một thiên bài thơ)"
+      "word": "予告篇",
+      "reading": "よこくへん",
+      "meaning": "bản trailer"
     },
     {
-      "word": "巨篇",
-      "reading": "きょへん",
-      "meaning": "tác phẩm lớn"
+      "word": "単語篇",
+      "reading": "たんごへん",
+      "meaning": "bảng chú giải"
     },
     {
-      "word": "雄篇",
-      "reading": "ゆうへん",
-      "meaning": "kiệt tác"
-    },
-    {
-      "word": "前篇",
-      "reading": "ぜんぺん",
-      "meaning": "trước hết chia ra"
-    },
-    {
-      "word": "中篇",
-      "reading": "ちゅうへん",
-      "meaning": "ủng hộ phần"
+      "word": "佳篇",
+      "reading": "かへん",
+      "meaning": "tuyệt tác"
     }
   ]
 }

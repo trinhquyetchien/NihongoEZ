@@ -85,14 +85,19 @@
   ],
   "vocabulary": [
     {
-      "word": "嚇嚇",
-      "reading": "かくかく",
-      "meaning": "rực rỡ"
-    },
-    {
       "word": "威嚇",
       "reading": "いかく",
       "meaning": "dọa dẫm"
+    },
+    {
+      "word": "威嚇的",
+      "reading": "いかくてき",
+      "meaning": "sự đe doạ"
+    },
+    {
+      "word": "嚇嚇",
+      "reading": "かくかく",
+      "meaning": "rực rỡ"
     },
     {
       "word": "嚇す",
@@ -120,19 +125,14 @@
       "meaning": "sự đe doạ"
     },
     {
-      "word": "威嚇的",
-      "reading": "いかくてき",
-      "meaning": "sự đe doạ"
+      "word": "威嚇する",
+      "reading": "いかく",
+      "meaning": "dọa dẫm"
     },
     {
       "word": "威嚇射撃",
       "reading": "いかくしゃげき",
       "meaning": "cảnh báo bắn"
-    },
-    {
-      "word": "威嚇する",
-      "reading": "いかく",
-      "meaning": "dọa dẫm"
     }
   ]
 }

@@ -71,24 +71,9 @@
       "meaning": "nước thiên trúc"
     },
     {
-      "word": "竺学",
-      "reading": "じくがく",
-      "meaning": "người ấn độ học"
-    },
-    {
       "word": "天竺楽",
       "reading": "てんじくがく",
       "meaning": "âm nhạc thiên trúc"
-    },
-    {
-      "word": "天竺鼠",
-      "reading": "てんじくねずみ",
-      "meaning": "chuột lang"
-    },
-    {
-      "word": "天竺葵",
-      "reading": "てんじくあおい",
-      "meaning": "cây phong lữ thảo"
     },
     {
       "word": "唐天竺",
@@ -101,19 +86,34 @@
       "meaning": "cá hồng nhung"
     },
     {
+      "word": "天竺鼠",
+      "reading": "てんじくねずみ",
+      "meaning": "chuột lang"
+    },
+    {
+      "word": "竺学",
+      "reading": "じくがく",
+      "meaning": "người ấn độ học"
+    },
+    {
+      "word": "天竺葵",
+      "reading": "てんじくあおい",
+      "meaning": "cây phong lữ thảo"
+    },
+    {
+      "word": "天竺編み",
+      "reading": "てんじくあみ",
+      "meaning": "jersey stitch"
+    },
+    {
+      "word": "天竺木綿",
+      "reading": "てんじくもめん",
+      "meaning": "vải bông ấn độ"
+    },
+    {
       "word": "天竺牡丹",
       "reading": "てんじくぼたん",
       "meaning": "cây thược dược"
-    },
-    {
-      "word": "天竺浪人",
-      "reading": "てんじくろうにん",
-      "meaning": "samurai lang thang không có chủ"
-    },
-    {
-      "word": "アマゾン天竺鼠",
-      "reading": "アマゾンてんじくねずみ",
-      "meaning": "cavia fulgida"
     }
   ]
 }

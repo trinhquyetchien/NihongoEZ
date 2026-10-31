@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "屈葬",
-      "reading": "くっそう",
-      "meaning": "khuất táng"
+      "word": "葬式",
+      "reading": "そうしき",
+      "meaning": "đám ma"
     },
     {
-      "word": "仮葬",
-      "reading": "かそう",
+      "word": "葬る",
+      "reading": "ほうむる",
+      "meaning": "chôn cất"
+    },
+    {
+      "word": "葬儀",
+      "reading": "そうぎ",
+      "meaning": "hậu sự"
+    },
+    {
+      "word": "葬儀場",
+      "reading": "そうぎじょう",
+      "meaning": "tang lễ về nhà"
+    },
+    {
+      "word": "葬儀式",
+      "reading": "そうぎしき",
+      "meaning": "nghi thức tang lễ"
+    },
+    {
+      "word": "葬儀屋",
+      "reading": "そうぎや",
+      "meaning": "người nhận làm có"
+    },
+    {
+      "word": "葬儀社",
+      "reading": "そうぎしゃ",
+      "meaning": "công ty mai táng"
+    },
+    {
+      "word": "埋葬",
+      "reading": "まいそう",
+      "meaning": "mai táng"
+    },
+    {
+      "word": "埋葬虫",
+      "reading": "しでむし",
+      "meaning": "bọ mai táng"
+    },
+    {
+      "word": "仮埋葬",
+      "reading": "かりまいそう",
       "meaning": "việc chôn cất tạm thời"
-    },
-    {
-      "word": "国葬",
-      "reading": "こくそう",
-      "meaning": "quốc tang"
-    },
-    {
-      "word": "市葬",
-      "reading": "しそう",
-      "meaning": "tang lễ thành phố"
-    },
-    {
-      "word": "送葬",
-      "reading": "そうそう",
-      "meaning": "tang lễ"
-    },
-    {
-      "word": "葬送",
-      "reading": "そうそう",
-      "meaning": "sự có mặt ở một tang lễ"
-    },
-    {
-      "word": "葬列",
-      "reading": "そうれつ",
-      "meaning": "đoàn người đưa ma"
-    },
-    {
-      "word": "火葬",
-      "reading": "かそう",
-      "meaning": "sự hỏa thiêu"
-    },
-    {
-      "word": "改葬",
-      "reading": "かいそう",
-      "meaning": "sự cải táng"
-    },
-    {
-      "word": "仏葬",
-      "reading": "ぶっそう",
-      "meaning": "đám tang nhà phật"
     }
   ]
 }

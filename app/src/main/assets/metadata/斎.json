@@ -92,34 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "斎",
-      "reading": "いみ",
-      "meaning": "sự làm sạch tôn giáo"
-    },
-    {
-      "word": "斎行",
-      "reading": "さいこう",
-      "meaning": "mai táng"
-    },
-    {
       "word": "書斎",
       "reading": "しょさい",
       "meaning": "thư phòng"
     },
     {
-      "word": "斎む",
-      "reading": "いむ",
-      "meaning": "tránh"
-    },
-    {
-      "word": "斎宮",
-      "reading": "さいぐう",
-      "meaning": "những công chúa đế quốc cổ xưa phục vụ ở miếu thờ ise"
-    },
-    {
-      "word": "斎戒",
-      "reading": "さいかい",
-      "meaning": "sự rửa tội"
+      "word": "斎",
+      "reading": "いみ",
+      "meaning": "sự làm sạch tôn giáo"
     },
     {
       "word": "斎日",
@@ -127,19 +107,39 @@
       "meaning": "ngày nhanh"
     },
     {
-      "word": "斎主",
-      "reading": "さいしゅ",
-      "meaning": "làm chủ những nghi lễ tôn giáo"
+      "word": "斎み日",
+      "reading": "ときみび",
+      "meaning": "ngày không may"
     },
     {
-      "word": "斎服",
-      "reading": "さいふく",
-      "meaning": "những lễ phục của linh mục hay nhà sư"
+      "word": "斎部",
+      "reading": "いみべ",
+      "meaning": "linh mục shinto cổ xưa gia đình"
     },
     {
-      "word": "斎場",
-      "reading": "さいじょう",
-      "meaning": "nơi thờ cúng"
+      "word": "斎食",
+      "reading": "さいじき",
+      "meaning": "thức ăn chay"
+    },
+    {
+      "word": "斎行",
+      "reading": "さいこう",
+      "meaning": "mai táng"
+    },
+    {
+      "word": "揚げ斎",
+      "reading": "あげどき",
+      "meaning": "một buổi lễ tưởng niệm phật giáo đơn giản"
+    },
+    {
+      "word": "斎む",
+      "reading": "いむ",
+      "meaning": "tránh"
+    },
+    {
+      "word": "斎垣",
+      "reading": "いがき",
+      "meaning": "tránh né xung quanh một miếu thờ"
     }
   ]
 }

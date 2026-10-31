@@ -104,9 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "宅",
-      "reading": "たく",
-      "meaning": "nhà của ông bà"
+      "word": "お宅",
+      "reading": "おたく",
+      "meaning": "ông"
     },
     {
       "word": "住宅",
@@ -114,14 +114,24 @@
       "meaning": "nhà ở"
     },
     {
-      "word": "在宅",
-      "reading": "ざいたく",
-      "meaning": "hiện thân bên trong"
-    },
-    {
       "word": "帰宅",
       "reading": "きたく",
       "meaning": "việc về nhà"
+    },
+    {
+      "word": "宅",
+      "reading": "たく",
+      "meaning": "nhà của ông bà"
+    },
+    {
+      "word": "邸宅",
+      "reading": "ていたく",
+      "meaning": "tòa biệt thự"
+    },
+    {
+      "word": "社宅",
+      "reading": "しゃたく",
+      "meaning": "nhà ở"
     },
     {
       "word": "自宅",
@@ -129,29 +139,19 @@
       "meaning": "nhà mình"
     },
     {
-      "word": "居宅",
-      "reading": "きょたく",
-      "meaning": "tại nhà"
+      "word": "住宅用",
+      "reading": "じゅうたくよう",
+      "meaning": "sử dụng trong gia đình"
     },
     {
-      "word": "宅送",
-      "reading": "たくそう",
-      "meaning": "sự chuyển phát tận nhà"
+      "word": "住宅地",
+      "reading": "じゅうたくち",
+      "meaning": "địa hạt"
     },
     {
-      "word": "隠宅",
-      "reading": "いんたく",
-      "meaning": "nơi ở ẩn"
-    },
-    {
-      "word": "宅建",
-      "reading": "たっけん",
-      "meaning": "môi giới bất động sản"
-    },
-    {
-      "word": "宅電",
-      "reading": "たくでん",
-      "meaning": "điện thoại bàn"
+      "word": "住宅街",
+      "reading": "じゅうたくがい",
+      "meaning": "vùng nơi cư ngụ"
     }
   ]
 }

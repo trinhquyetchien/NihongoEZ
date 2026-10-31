@@ -95,39 +95,14 @@
       "meaning": "bảng"
     },
     {
-      "word": "天板/棚板",
-      "reading": "てんばん/たないた",
-      "meaning": "mặt bàn/ kệ"
-    },
-    {
-      "word": "トタン板",
-      "reading": "トタンいた",
-      "meaning": "tôn lợp mái"
-    },
-    {
-      "word": "棚板",
-      "reading": "たないた",
-      "meaning": "kệ sách"
-    },
-    {
-      "word": "矢板",
-      "reading": "やいた",
-      "meaning": "cọc ván thép/ ván cừ larsen"
-    },
-    {
-      "word": "板バネ",
-      "reading": "いたばね",
-      "meaning": "nhíp"
-    },
-    {
       "word": "黒板",
       "reading": "こくばん",
       "meaning": "bảng"
     },
     {
-      "word": "胸板",
-      "reading": "むないた",
-      "meaning": "đấu tranh"
+      "word": "前板",
+      "reading": "まえいた",
+      "meaning": "mảnh vải bịt ngang trán"
     },
     {
       "word": "外板",
@@ -135,9 +110,34 @@
       "meaning": "tấm vỏ ngoài"
     },
     {
-      "word": "帯板",
-      "reading": "おびいた",
-      "meaning": "tấm lót obi"
+      "word": "道板",
+      "reading": "みちいた",
+      "meaning": "có thể dời đi được dựng đứng lên cho những xe tải"
+    },
+    {
+      "word": "花板",
+      "reading": "はないた",
+      "meaning": "đầu bếp cao cấp"
+    },
+    {
+      "word": "板長",
+      "reading": "いたちょう",
+      "meaning": "bếp trưởng"
+    },
+    {
+      "word": "板絵",
+      "reading": "いたえ",
+      "meaning": "một bức tranh được vẽ trên một bảng gỗ"
+    },
+    {
+      "word": "木板",
+      "reading": "もくはん",
+      "meaning": "bảng gỗ"
+    },
+    {
+      "word": "裏板",
+      "reading": "うらいた",
+      "meaning": "tấm lợp mái"
     }
   ]
 }

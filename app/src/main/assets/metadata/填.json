@@ -88,9 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "填る",
-      "reading": "はまる",
-      "meaning": "vào trong"
+      "word": "装填",
+      "reading": "そうてん",
+      "meaning": "nạp"
+    },
+    {
+      "word": "充填",
+      "reading": "じゅうてん",
+      "meaning": "làm đầy"
+    },
+    {
+      "word": "充填剤",
+      "reading": "じゅうてんざい",
+      "meaning": "chất độn"
+    },
+    {
+      "word": "補填",
+      "reading": "ほてん",
+      "meaning": "đền bù hay giàn xếp"
     },
     {
       "word": "填料",
@@ -108,34 +123,19 @@
       "meaning": "ci"
     },
     {
-      "word": "装填",
-      "reading": "そうてん",
-      "meaning": "nạp"
-    },
-    {
-      "word": "充填",
-      "reading": "じゅうてん",
-      "meaning": "làm đầy"
-    },
-    {
-      "word": "填補",
-      "reading": "てんぽ",
-      "meaning": "sự bổ sung"
-    },
-    {
-      "word": "補填",
-      "reading": "ほてん",
-      "meaning": "đền bù hay giàn xếp"
-    },
-    {
       "word": "填星",
       "reading": "てんせい",
       "meaning": "sao thổ"
     },
     {
-      "word": "填める",
-      "reading": "うずめる",
-      "meaning": "chôn cất"
+      "word": "填まる",
+      "reading": "はまる",
+      "meaning": "vào trong"
+    },
+    {
+      "word": "填補",
+      "reading": "てんぽ",
+      "meaning": "sự bổ sung"
     }
   ]
 }

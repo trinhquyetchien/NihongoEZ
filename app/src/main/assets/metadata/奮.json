@@ -89,29 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "昂奮",
+      "word": "興奮",
       "reading": "こうふん",
-      "meaning": "sự kích động"
+      "meaning": "sự hưng phấn"
     },
     {
-      "word": "奮撃",
-      "reading": "ふんげき",
-      "meaning": "sự tấn công dữ tợn"
+      "word": "奮闘",
+      "reading": "ふんとう",
+      "meaning": "sự đấu tranh"
     },
     {
-      "word": "亢奮",
-      "reading": "こうふん",
-      "meaning": "sự kích động"
+      "word": "興奮性",
+      "reading": "こうふんせい",
+      "meaning": "hưng phấn"
     },
     {
-      "word": "奮迅",
-      "reading": "ふんじん",
-      "meaning": "phóng nhanh về phía trước"
+      "word": "興奮薬",
+      "reading": "こうふんやく",
+      "meaning": "thuốc hưng phấn"
     },
     {
-      "word": "奮う",
-      "reading": "ふるう",
-      "meaning": "cổ vũ"
+      "word": "興奮剤",
+      "reading": "こうふんざい",
+      "meaning": "chất kích thích"
     },
     {
       "word": "奮起",
@@ -119,24 +119,24 @@
       "meaning": "sự kích thích"
     },
     {
+      "word": "奮発",
+      "reading": "ふんぱつ",
+      "meaning": "sự cố gắng hết sức"
+    },
+    {
+      "word": "奮って",
+      "reading": "ふるって",
+      "meaning": "cố gắng"
+    },
+    {
       "word": "奮戦",
       "reading": "ふんせん",
       "meaning": "khó khăn đấu tranh"
     },
     {
-      "word": "感奮",
-      "reading": "かんぷん",
-      "meaning": "việc tràn đầy khí thế"
-    },
-    {
-      "word": "奮然",
-      "reading": "ふんぜん",
-      "meaning": "sự kiên quyết"
-    },
-    {
-      "word": "奮励",
-      "reading": "ふんれい",
-      "meaning": "những công sức hăm hở"
+      "word": "発奮",
+      "reading": "はっぷん",
+      "meaning": "khơi dậy tinh thần"
     }
   ]
 }

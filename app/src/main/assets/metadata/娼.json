@@ -51,44 +51,19 @@
   ],
   "vocabulary": [
     {
-      "word": "男娼",
-      "reading": "だんしょう",
-      "meaning": "đĩ đực"
-    },
-    {
-      "word": "街娼",
-      "reading": "がいしょう",
-      "meaning": "gái điếm"
-    },
-    {
-      "word": "娼妓",
-      "reading": "しょうぎ",
-      "meaning": "gái bán hoa"
-    },
-    {
-      "word": "公娼",
-      "reading": "こうしょう",
-      "meaning": "gái mại dâm có giấy phép hành nghề"
-    },
-    {
-      "word": "私娼",
-      "reading": "ししょう",
-      "meaning": "gái mại dâm không có giấy phép hành nghề"
-    },
-    {
-      "word": "娼家",
-      "reading": "しょうか",
-      "meaning": "nhà chứa"
-    },
-    {
       "word": "娼婦",
       "reading": "しょうふ",
       "meaning": "gái bán hoa"
     },
     {
-      "word": "娼楼",
-      "reading": "しょうろう",
-      "meaning": "nhà thổ"
+      "word": "娼館",
+      "reading": "しょうかん",
+      "meaning": "brothel"
+    },
+    {
+      "word": "男娼",
+      "reading": "だんしょう",
+      "meaning": "đĩ đực"
     },
     {
       "word": "廃娼",
@@ -96,9 +71,34 @@
       "meaning": "cấm mại dâm"
     },
     {
-      "word": "娼館",
-      "reading": "しょうかん",
-      "meaning": "brothel"
+      "word": "売娼",
+      "reading": "ばいしょう",
+      "meaning": "sự làm đĩ"
+    },
+    {
+      "word": "街娼",
+      "reading": "がいしょう",
+      "meaning": "gái điếm"
+    },
+    {
+      "word": "公娼",
+      "reading": "こうしょう",
+      "meaning": "gái mại dâm có giấy phép hành nghề"
+    },
+    {
+      "word": "娼家",
+      "reading": "しょうか",
+      "meaning": "nhà chứa"
+    },
+    {
+      "word": "娼妓",
+      "reading": "しょうぎ",
+      "meaning": "gái bán hoa"
+    },
+    {
+      "word": "芸娼妓",
+      "reading": "げいしょうぎ",
+      "meaning": "người làm nghệ thuật và gái mại dâm"
     }
   ]
 }

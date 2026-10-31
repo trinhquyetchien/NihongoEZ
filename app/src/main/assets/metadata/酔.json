@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "酔う",
+      "reading": "よう",
+      "meaning": "say"
+    },
+    {
+      "word": "麻酔",
+      "reading": "ますい",
+      "meaning": "thuốc mê"
+    },
+    {
+      "word": "麻酔薬",
+      "reading": "ますいやく",
+      "meaning": "thuốc mê"
+    },
+    {
+      "word": "麻酔学",
+      "reading": "ますいがく",
+      "meaning": "gây mê học"
+    },
+    {
+      "word": "麻酔剤",
+      "reading": "ますいざい",
+      "meaning": "/"
+    },
+    {
+      "word": "麻酔銃",
+      "reading": "ますいじゅう",
+      "meaning": "súng bắn thuốc mê"
+    },
+    {
+      "word": "麻酔医",
+      "reading": "ますいい",
+      "meaning": "bác sĩ gây mê"
+    },
+    {
       "word": "酔い",
       "reading": "よい",
       "meaning": "sự say rượu"
     },
     {
-      "word": "酔拳",
-      "reading": "すいけん",
-      "meaning": "túy quyền"
+      "word": "人酔い",
+      "reading": "ひとよい",
+      "meaning": "chứng sợ con người"
     },
     {
-      "word": "魔酔",
-      "reading": "ますい",
-      "meaning": "say sưa với cái gì đó"
-    },
-    {
-      "word": "陶酔",
-      "reading": "とうすい",
-      "meaning": "sự say sưa"
-    },
-    {
-      "word": "沈酔",
-      "reading": "ちんすい",
-      "meaning": "say bí tỉ"
-    },
-    {
-      "word": "大酔",
-      "reading": "たいすい",
-      "meaning": "say rượu kinh khủng"
-    },
-    {
-      "word": "乱酔",
-      "reading": "らんすい",
-      "meaning": "sự say khướt"
-    },
-    {
-      "word": "酔漢",
-      "reading": "すいかん",
-      "meaning": "người say rượu"
-    },
-    {
-      "word": "酔顔",
-      "reading": "すいがん",
-      "meaning": "vẻ mặt lờ đờ do say rượu"
-    },
-    {
-      "word": "酔余",
-      "reading": "すいよ",
-      "meaning": "say rượu"
+      "word": "車酔い",
+      "reading": "くるまよい",
+      "meaning": "sự say xe"
     }
   ]
 }

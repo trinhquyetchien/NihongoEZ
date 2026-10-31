@@ -108,49 +108,49 @@
   ],
   "vocabulary": [
     {
+      "word": "漏らす",
+      "reading": "もらす",
+      "meaning": "làm lộ"
+    },
+    {
+      "word": "漏れる",
+      "reading": "もれる",
+      "meaning": "lộ"
+    },
+    {
+      "word": "漏る",
+      "reading": "もる",
+      "meaning": "dột"
+    },
+    {
+      "word": "漏れ",
+      "reading": "もれ",
+      "meaning": "rò chảy"
+    },
+    {
+      "word": "水漏れ",
+      "reading": "みずもれ",
+      "meaning": "sự rỉ nước"
+    },
+    {
+      "word": "音漏れ",
+      "reading": "おともれ",
+      "meaning": "rò rỉ âm thanh"
+    },
+    {
+      "word": "油漏れ",
+      "reading": "あぶらもれ",
+      "meaning": "dầu bị rò rỉ"
+    },
+    {
+      "word": "漏れ損",
+      "reading": "もれぞん",
+      "meaning": "rủi ro rò chảy"
+    },
+    {
       "word": "漏洩",
       "reading": "ろうえい",
       "meaning": "sự tiết lộ"
-    },
-    {
-      "word": "遅漏",
-      "reading": "ちろう",
-      "meaning": "xuất tinh chậm"
-    },
-    {
-      "word": "粗漏",
-      "reading": "そろう",
-      "meaning": "sự thiếu thận trọng"
-    },
-    {
-      "word": "脱漏",
-      "reading": "だつろう",
-      "meaning": "sự rò rỉ"
-    },
-    {
-      "word": "疎漏",
-      "reading": "そろう",
-      "meaning": "sự cẩu thả"
-    },
-    {
-      "word": "遺漏",
-      "reading": "いろう",
-      "meaning": "bỏ quên"
-    },
-    {
-      "word": "杜漏",
-      "reading": "ずろう",
-      "meaning": "cẩu thả"
-    },
-    {
-      "word": "耳漏",
-      "reading": "じろう",
-      "meaning": "ráy tai"
-    },
-    {
-      "word": "漏刻",
-      "reading": "ろうこく",
-      "meaning": "tưới nước đồng hồ"
     },
     {
       "word": "早漏",

@@ -87,11 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "願ったり叶ったり",
-      "reading": "ねがったりかなったり",
-      "meaning": "mong ước thành hiện thực. vd: ちょうど風もやんで、願ったり叶ったりだ。gió đã ngừng thổi"
-    },
-    {
       "word": "叶う",
       "reading": "かなう",
       "meaning": "đáp ứng"
@@ -100,6 +95,11 @@
       "word": "叶える",
       "reading": "かなえる",
       "meaning": "đáp ứng đầy đủ các điều kiện"
+    },
+    {
+      "word": "願ったり叶ったり",
+      "reading": "ねがったりかなったり",
+      "meaning": "mong ước thành hiện thực. vd: ちょうど風もやんで、願ったり叶ったりだ。gió đã ngừng thổi"
     },
     {
       "word": "叶わぬ時の神頼み",

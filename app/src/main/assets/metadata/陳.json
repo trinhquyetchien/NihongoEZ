@@ -89,34 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "具陳",
-      "reading": "ぐちん",
-      "meaning": "báo cáo chi tiết"
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "việc trưng bày"
     },
     {
-      "word": "陳腐",
-      "reading": "ちんぷ",
-      "meaning": "lặp đi lặp lại"
+      "word": "陳朝",
+      "reading": "ちんちょう",
+      "meaning": "nhà trần"
     },
     {
-      "word": "陳謝",
-      "reading": "ちんしゃ",
-      "meaning": "lời xin lỗi"
+      "word": "陳列室",
+      "reading": "ちんれつしつ",
+      "meaning": "phòng trưng bầy"
     },
     {
-      "word": "前陳",
-      "reading": "ぜんちん",
-      "meaning": "nêu trên"
+      "word": "陳列品",
+      "reading": "ちんれつひん",
+      "meaning": "sản phẩm trưng bày"
     },
     {
-      "word": "出陳",
-      "reading": "しゅっちん",
-      "meaning": "đem ra triển lãm"
+      "word": "陳列台",
+      "reading": "ちんれつだい",
+      "meaning": "giá trưng bày"
     },
     {
-      "word": "陳弁",
-      "reading": "ちんべん",
-      "meaning": "sự phân trần"
+      "word": "陳列箱",
+      "reading": "ちんれつばこ",
+      "meaning": "hộp trưng bày"
+    },
+    {
+      "word": "陳列窓",
+      "reading": "ちんれつまど",
+      "meaning": "tủ kính bày hàng"
     },
     {
       "word": "陳皮",
@@ -124,19 +129,14 @@
       "meaning": "vỏ cam quýt"
     },
     {
-      "word": "開陳",
-      "reading": "かいちん",
-      "meaning": "bắt đầu phát biểu"
+      "word": "陳ねる",
+      "reading": "ひねる",
+      "meaning": "đến tuổi"
     },
     {
-      "word": "陳情",
-      "reading": "ちんじょう",
-      "meaning": "lời thỉnh cầu"
-    },
-    {
-      "word": "陳述",
-      "reading": "ちんじゅつ",
-      "meaning": "lời tuyên bố"
+      "word": "陳列棚",
+      "reading": "ちんれつだな",
+      "meaning": "kệ trưng bày"
     }
   ]
 }

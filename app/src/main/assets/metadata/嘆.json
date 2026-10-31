@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "嘆く",
+      "reading": "なげく",
+      "meaning": "thở dài"
+    },
+    {
       "word": "嘆",
       "reading": "たん",
       "meaning": "tiếng thở dài"
     },
     {
-      "word": "賛嘆",
-      "reading": "さんたん",
-      "meaning": "khen ngợi"
+      "word": "嘆き",
+      "reading": "なげき",
+      "meaning": "nỗi đau"
     },
     {
-      "word": "嘆声",
-      "reading": "たんせい",
-      "meaning": "nói trong tiếng thở dài sự hâm mộ hoặc sự than khóc)"
+      "word": "嘆願",
+      "reading": "たんがん",
+      "meaning": "sự thỉnh cầu"
     },
     {
-      "word": "三嘆",
-      "reading": "さんたん",
-      "meaning": "khen ngợi"
+      "word": "嘆願書",
+      "reading": "たんがんしょ",
+      "meaning": "thư kiến nghị"
     },
     {
-      "word": "傷嘆",
-      "reading": "しょうたん",
-      "meaning": "khóc trong sự đau"
+      "word": "感嘆",
+      "reading": "かんたん",
+      "meaning": "sự cảm thán"
     },
     {
-      "word": "嗟嘆",
-      "reading": "さたん",
-      "meaning": "sự than khóc"
+      "word": "感嘆文",
+      "reading": "かんたんぶん",
+      "meaning": "câu cảm thán"
     },
     {
-      "word": "長嘆",
-      "reading": "ちょうたん",
-      "meaning": "sự thở dài"
+      "word": "感嘆符",
+      "reading": "かんたんふ",
+      "meaning": "dấu chấm than"
     },
     {
-      "word": "嘆美",
-      "reading": "たんび",
-      "meaning": "sự hâm mộ"
+      "word": "感嘆詞",
+      "reading": "かんたんし",
+      "meaning": "chấm than"
     },
     {
-      "word": "嘆賞",
-      "reading": "たんしょう",
-      "meaning": "sự hâm mộ"
-    },
-    {
-      "word": "痛嘆",
-      "reading": "つうたん",
-      "meaning": "nỗi đau buồn"
+      "word": "驚嘆",
+      "reading": "きょうたん",
+      "meaning": "sự kinh ngạc"
     }
   ]
 }

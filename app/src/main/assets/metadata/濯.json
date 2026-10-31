@@ -103,19 +103,9 @@
   ],
   "vocabulary": [
     {
-      "word": "濯ぐ",
-      "reading": "すすぐ",
-      "meaning": "xả lại"
-    },
-    {
       "word": "洗濯",
       "reading": "せんたく",
       "meaning": "sự giặt giũ"
-    },
-    {
-      "word": "洗濯ハンガー",
-      "reading": "せんたくハンガー",
-      "meaning": "móc treo quần áo"
     },
     {
       "word": "洗濯物",
@@ -123,19 +113,24 @@
       "meaning": "quần áo để giặt giũ"
     },
     {
-      "word": "洗濯槽",
-      "reading": "せんたくそう",
-      "meaning": "bồn máy giặt"
+      "word": "洗濯用",
+      "reading": "せんたくよう",
+      "meaning": "bột giặt"
     },
     {
-      "word": "洗濯バサミ",
-      "reading": "せんたくバサミ",
-      "meaning": "cái kẹp quần áo"
+      "word": "洗濯代",
+      "reading": "せんたくだい",
+      "meaning": "những sự tích nạp hiệu giặt"
     },
     {
-      "word": "洗濯糊",
-      "reading": "せんたくのり",
-      "meaning": "hiệu giặt hồ"
+      "word": "洗濯機",
+      "reading": "せんたくき",
+      "meaning": "máy giặt"
+    },
+    {
+      "word": "洗濯場",
+      "reading": "せんたくば",
+      "meaning": "nơi giặt đồ"
     },
     {
       "word": "洗濯屋",
@@ -146,6 +141,11 @@
       "word": "洗濯板",
       "reading": "せんたくいた",
       "meaning": "tấm ván để giặt quần áo"
+    },
+    {
+      "word": "洗濯籠",
+      "reading": "せんたくかご",
+      "meaning": "túi rác trong máy giặc"
     },
     {
       "word": "洗濯粉",

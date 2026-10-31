@@ -59,19 +59,14 @@
       "meaning": "hầm hố"
     },
     {
-      "word": "掩壕",
-      "reading": "えんごう",
-      "meaning": "hào"
-    },
-    {
       "word": "内壕",
       "reading": "うちぼり",
       "meaning": "hào bên trong"
     },
     {
-      "word": "塹壕",
-      "reading": "ざんごう",
-      "meaning": "hào"
+      "word": "地下壕",
+      "reading": "ちかごう",
+      "meaning": "hầm"
     },
     {
       "word": "壕跡",
@@ -79,14 +74,9 @@
       "meaning": "tàn tích của chiến hào"
     },
     {
-      "word": "掩体壕",
-      "reading": "えんたいごう",
-      "meaning": "hố/hào quân sự trên chiến trường"
-    },
-    {
-      "word": "待避壕",
-      "reading": "たいひごう",
-      "meaning": "hầm trú ẩn"
+      "word": "塹壕",
+      "reading": "ざんごう",
+      "meaning": "hào"
     },
     {
       "word": "塹壕熱",
@@ -99,9 +89,19 @@
       "meaning": "hầm trú ẩn"
     },
     {
-      "word": "地下壕",
-      "reading": "ちかごう",
-      "meaning": "hầm"
+      "word": "待避壕",
+      "reading": "たいひごう",
+      "meaning": "hầm trú ẩn"
+    },
+    {
+      "word": "掩体壕",
+      "reading": "えんたいごう",
+      "meaning": "hố/hào quân sự trên chiến trường"
+    },
+    {
+      "word": "掩壕",
+      "reading": "えんごう",
+      "meaning": "hào"
     }
   ]
 }

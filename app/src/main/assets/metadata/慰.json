@@ -90,34 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "弔慰",
-      "reading": "ちょうい",
-      "meaning": "lời chia buồn"
-    },
-    {
-      "word": "慰み",
-      "reading": "なぐさみ",
-      "meaning": "sự an ủi"
-    },
-    {
-      "word": "慰問",
-      "reading": "いもん",
-      "meaning": "sự an ủi"
-    },
-    {
-      "word": "慰労",
-      "reading": "いろう",
-      "meaning": "việc thể hiện sự biết ơn của cấp trên đối với các nhân viên cấp dưới đã làm việc tận tụy"
-    },
-    {
-      "word": "慰む",
-      "reading": "なぐさむ",
+      "word": "慰める",
+      "reading": "なぐさめる",
       "meaning": "an ủi"
-    },
-    {
-      "word": "慰留",
-      "reading": "いりゅう",
-      "meaning": "sự khuyên can cấp dưới đừng từ chức"
     },
     {
       "word": "慰安",
@@ -125,19 +100,44 @@
       "meaning": "an ủi"
     },
     {
+      "word": "慰安者",
+      "reading": "いあんしゃ",
+      "meaning": "người an ủi"
+    },
+    {
+      "word": "慰安会",
+      "reading": "いあんかい",
+      "meaning": "cuộc tiêu khiển"
+    },
+    {
+      "word": "慰安所",
+      "reading": "いあんじょ",
+      "meaning": "nhà thổ"
+    },
+    {
+      "word": "慰安婦",
+      "reading": "いあんふ",
+      "meaning": "gái bán dâm mua vui cho quân lính"
+    },
+    {
+      "word": "慰め",
+      "reading": "なぐさめ",
+      "meaning": "an ủi"
+    },
+    {
+      "word": "恋慰め",
+      "reading": "こいなぐさめ",
+      "meaning": "an ủi người thất tình"
+    },
+    {
       "word": "自慰",
       "reading": "じい",
       "meaning": "sự tự an ủi"
     },
     {
-      "word": "慰撫",
-      "reading": "いぶ",
-      "meaning": "sự an ủi"
-    },
-    {
-      "word": "慰謝",
-      "reading": "いしゃ",
-      "meaning": "sự an ủi"
+      "word": "慰霊",
+      "reading": "いれい",
+      "meaning": "sự an ủi tinh thần người chết)"
     }
   ]
 }

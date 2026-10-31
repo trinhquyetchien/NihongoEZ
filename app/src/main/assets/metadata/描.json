@@ -90,44 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "描像",
-      "reading": "びょうぞう",
-      "meaning": "việc mô tả"
-    },
-    {
-      "word": "点描",
-      "reading": "てんびょう",
-      "meaning": "đánh dấu chấm"
-    },
-    {
-      "word": "描出",
-      "reading": "びょうしゅつ",
-      "meaning": "sự mô tả"
-    },
-    {
-      "word": "白描",
-      "reading": "はくびょう",
-      "meaning": "rõ ràng phác họa"
-    },
-    {
-      "word": "描法",
-      "reading": "びょうほう",
-      "meaning": "kỹ thuật vẽ"
-    },
-    {
-      "word": "描破",
-      "reading": "びょうは",
-      "meaning": "miêu tả kỹ lưỡng"
-    },
-    {
-      "word": "寸描",
-      "reading": "すんびょう",
-      "meaning": "thumbnail phác họa"
-    },
-    {
-      "word": "線描",
-      "reading": "せんびょう",
-      "meaning": "sự vẽ bằng đường kẻ"
+      "word": "描く",
+      "reading": "えがく",
+      "meaning": "chấm"
     },
     {
       "word": "描写",
@@ -135,9 +100,44 @@
       "meaning": "sự phác họa"
     },
     {
+      "word": "下描き",
+      "reading": "したがき",
+      "meaning": "phác thảo thô được sử dụng như một hướng dẫn cho một bức tranh"
+    },
+    {
+      "word": "描写力",
+      "reading": "びょうしゃりょく",
+      "meaning": "sức mạnh sự mô tả"
+    },
+    {
+      "word": "墨描き",
+      "reading": "すみがき",
+      "meaning": "đánh dấu mực những phác thảo một bức tranh"
+    },
+    {
+      "word": "絵描き",
+      "reading": "えかき",
+      "meaning": "họa sĩ"
+    },
+    {
       "word": "描画",
       "reading": "びょうが",
       "meaning": "sự vẽ"
+    },
+    {
+      "word": "再描画",
+      "reading": "さいびょうが",
+      "meaning": "vẽ lại"
+    },
+    {
+      "word": "描画像",
+      "reading": "びょうがぞう",
+      "meaning": "hình ảnh vẽ"
+    },
+    {
+      "word": "手描き",
+      "reading": "てがき",
+      "meaning": "sự vẽ tay"
     }
   ]
 }

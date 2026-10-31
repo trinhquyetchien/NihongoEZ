@@ -94,49 +94,49 @@
       "meaning": "hợp xướng"
     },
     {
-      "word": "暗唱",
-      "reading": "あんしょう",
-      "meaning": "đọc thuộc lòng"
+      "word": "唱える",
+      "reading": "となえる",
+      "meaning": "tụng"
     },
     {
-      "word": "三唱",
-      "reading": "さんしょう",
-      "meaning": "3 lần reo hò"
+      "word": "合唱曲",
+      "reading": "がっしょうきょく",
+      "meaning": "hợp xướng"
     },
     {
-      "word": "吟唱",
-      "reading": "ぎんしょう",
-      "meaning": "sự kể lại"
+      "word": "合唱隊",
+      "reading": "がっしょうたい",
+      "meaning": "đội hợp xướng"
     },
     {
-      "word": "高唱",
-      "reading": "こうしょう",
-      "meaning": "hát cao giọng"
+      "word": "合唱団",
+      "reading": "がっしょうだん",
+      "meaning": "dàn hợp xướng"
     },
     {
-      "word": "低唱",
+      "word": "歌唱",
+      "reading": "かしょう",
+      "meaning": "sự hát"
+    },
+    {
+      "word": "歌唱力",
+      "reading": "かしょうりょく",
+      "meaning": "kỹ năng ai đó như một ca sĩ"
+    },
+    {
+      "word": "提唱",
       "reading": "ていしょう",
-      "meaning": "sự hát thấp giọng"
+      "meaning": "sự đề xướng"
     },
     {
-      "word": "詠唱",
-      "reading": "えいしょう",
-      "meaning": "sự niệm chú"
+      "word": "提唱者",
+      "reading": "ていしょうしゃ",
+      "meaning": "người chủ xướng"
     },
     {
-      "word": "愛唱",
-      "reading": "あいしょう",
-      "meaning": "sự thích ca hát"
-    },
-    {
-      "word": "独唱",
-      "reading": "どくしょう",
-      "meaning": "độc ca"
-    },
-    {
-      "word": "唱道",
-      "reading": "しょうどう",
-      "meaning": "sự bào chữa"
+      "word": "熱唱",
+      "reading": "ねっしょう",
+      "meaning": "sự hát nhiệt tình"
     }
   ]
 }

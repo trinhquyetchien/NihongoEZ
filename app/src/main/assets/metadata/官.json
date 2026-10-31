@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "官",
-      "reading": "かん",
-      "meaning": "dịch vụ chính phủ"
-    },
-    {
-      "word": "官房長官",
-      "reading": "かんぼうちょうかん",
-      "meaning": "thư ký phòng chính"
-    },
-    {
-      "word": "官官接待",
-      "reading": "かんかんせったい",
-      "meaning": "việc quan chức nhà nước tiếp đãi lẫn nhau bằng công quỹ"
-    },
-    {
-      "word": "菅官房長官",
-      "reading": "かんかんぼうちょうかん",
-      "meaning": "bộ trưởng phòng thanh tra"
-    },
-    {
-      "word": "官爵",
-      "reading": "かんしゃく",
-      "meaning": "chức tước"
-    },
-    {
       "word": "警官",
       "reading": "けいかん",
       "meaning": "cánh sát"
     },
     {
-      "word": "仕官",
-      "reading": "しかん",
-      "meaning": "sự phục vụ chính phủ"
+      "word": "官庁",
+      "reading": "かんちょう",
+      "meaning": "cơ quan chính quyền"
     },
     {
-      "word": "将官",
-      "reading": "しょうかん",
-      "meaning": "chung"
+      "word": "官僚",
+      "reading": "かんりょう",
+      "meaning": "quan liêu"
     },
     {
-      "word": "教官",
-      "reading": "きょうかん",
-      "meaning": "giáo viên"
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "bộ máy"
     },
     {
-      "word": "高官",
-      "reading": "こうかん",
-      "meaning": "đại thần"
+      "word": "官",
+      "reading": "かん",
+      "meaning": "dịch vụ chính phủ"
+    },
+    {
+      "word": "官人",
+      "reading": "かんにん",
+      "meaning": "quan chức"
+    },
+    {
+      "word": "官事",
+      "reading": "かんじ",
+      "meaning": "việc công"
+    },
+    {
+      "word": "位官",
+      "reading": "いかん",
+      "meaning": "vị trí"
+    },
+    {
+      "word": "官用",
+      "reading": "かんよう",
+      "meaning": "do nhà nước sử dụng"
+    },
+    {
+      "word": "夏官",
+      "reading": "かかん",
+      "meaning": "hạ quan"
     }
   ]
 }

@@ -95,34 +95,19 @@
       "meaning": "khoảng"
     },
     {
-      "word": "気位",
-      "reading": "きぐらい",
-      "meaning": "lòng tự hào"
+      "word": "上位",
+      "reading": "じょうい",
+      "meaning": "máy chủ"
     },
     {
-      "word": "座位",
-      "reading": "ざい",
-      "meaning": "thế ngồi"
+      "word": "人位",
+      "reading": "じんい",
+      "meaning": "địa vị"
     },
     {
-      "word": "立位",
-      "reading": "りつい",
-      "meaning": "thế đứng"
-    },
-    {
-      "word": "肢位",
-      "reading": "しい",
-      "meaning": "góc độ của khớp"
-    },
-    {
-      "word": "順位",
-      "reading": "じゅんい",
-      "meaning": "vị trí thứ tự"
-    },
-    {
-      "word": "四位",
-      "reading": "しい",
-      "meaning": "vị trí thứ 4"
+      "word": "二位",
+      "reading": "にい",
+      "meaning": "vị trí thứ 2"
     },
     {
       "word": "位数",
@@ -130,14 +115,29 @@
       "meaning": "thứ tự"
     },
     {
-      "word": "臥位",
-      "reading": "がい",
-      "meaning": "nằn ngửa"
+      "word": "位次",
+      "reading": "いじ",
+      "meaning": "thứ tự chỗ ngồi xếp theo chức sắc"
     },
     {
-      "word": "上位",
-      "reading": "じょうい",
-      "meaning": "máy chủ"
+      "word": "位官",
+      "reading": "いかん",
+      "meaning": "vị trí"
+    },
+    {
+      "word": "階位",
+      "reading": "かいい",
+      "meaning": "thứ hạng"
+    },
+    {
+      "word": "四位",
+      "reading": "しい",
+      "meaning": "vị trí thứ 4"
+    },
+    {
+      "word": "天位",
+      "reading": "てんい",
+      "meaning": "ngôi hoàng đế"
     }
   ]
 }

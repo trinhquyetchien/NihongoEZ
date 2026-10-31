@@ -111,39 +111,24 @@
       "meaning": "hạt"
     },
     {
-      "word": "粒粒",
-      "reading": "つぶつぶ",
-      "meaning": "dạng vụn"
+      "word": "一粒",
+      "reading": "ひとつぶ",
+      "meaning": "một hạt"
     },
     {
-      "word": "粒粒辛苦",
-      "reading": "りゅうりゅうしんく",
-      "meaning": "siêng năng"
+      "word": "二粒",
+      "reading": "ふたつぶ",
+      "meaning": "hai viên"
     },
     {
-      "word": "穀粒",
-      "reading": "こくりゅう",
-      "meaning": "hạt ngũ cốc"
+      "word": "分粒",
+      "reading": "ぶんりゅう",
+      "meaning": "sự phân loại theo kích thước"
     },
     {
-      "word": "粒状",
-      "reading": "りゅうじょう",
-      "meaning": "có hình hột"
-    },
-    {
-      "word": "粒界",
-      "reading": "りゅうかい",
-      "meaning": "ranh giới hạt"
-    },
-    {
-      "word": "雨粒",
-      "reading": "あまつぶ",
-      "meaning": "giọt mưa"
-    },
-    {
-      "word": "米粒",
-      "reading": "こめつぶ",
-      "meaning": "hạt gạo"
+      "word": "粒度",
+      "reading": "りゅうど",
+      "meaning": "kích thước hạt"
     },
     {
       "word": "全粒",
@@ -151,9 +136,24 @@
       "meaning": "ngũ cốc nguyên cám"
     },
     {
-      "word": "粒食",
-      "reading": "りゅうしょく",
-      "meaning": "ăn cả hạt"
+      "word": "米粒",
+      "reading": "こめつぶ",
+      "meaning": "hạt gạo"
+    },
+    {
+      "word": "長粒米",
+      "reading": "ちょうりゅうまい",
+      "meaning": "hạt gạo dài"
+    },
+    {
+      "word": "粒界",
+      "reading": "りゅうかい",
+      "meaning": "ranh giới hạt"
+    },
+    {
+      "word": "粒子",
+      "reading": "りゅうし",
+      "meaning": "hạt"
     }
   ]
 }

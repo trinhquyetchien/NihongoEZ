@@ -89,29 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "教委",
-      "reading": "きょうい",
-      "meaning": "bộ giáo dục"
-    },
-    {
-      "word": "党委員会委員長",
-      "reading": "とういいんかいいいんちょう",
-      "meaning": "bí thư thành ủy"
-    },
-    {
-      "word": "国家公安委員会委員長",
-      "reading": "こっかこうあんいいんかいいいんちょう",
-      "meaning": "chủ tịch ủy ban an toàn công cộng quốc gia"
-    },
-    {
-      "word": "委譲",
-      "reading": "いじょう",
-      "meaning": "sự nhường"
-    },
-    {
-      "word": "委任",
-      "reading": "いにん",
-      "meaning": "sự ủy nhiệm"
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "ủy viên"
     },
     {
       "word": "委託",
@@ -119,14 +99,34 @@
       "meaning": "sự ủy thác"
     },
     {
-      "word": "委員",
-      "reading": "いいん",
-      "meaning": "ủy viên"
+      "word": "委員会",
+      "reading": "いいんかい",
+      "meaning": "ban"
     },
     {
-      "word": "委細",
-      "reading": "いさい",
-      "meaning": "chi tiết"
+      "word": "委員長",
+      "reading": "いいんちょう",
+      "meaning": "chủ tịch ủy ban"
+    },
+    {
+      "word": "委託者",
+      "reading": "いたくしゃ",
+      "meaning": "người ủy thác"
+    },
+    {
+      "word": "委託生",
+      "reading": "いたくせい",
+      "meaning": "sinh viên học bổng nhắn bởi văn phòng chính phủ hoặc doanh nghiệp"
+    },
+    {
+      "word": "再委託",
+      "reading": "さいいたく",
+      "meaning": "sự tái ủy thác"
+    },
+    {
+      "word": "特別委",
+      "reading": "とくべつい",
+      "meaning": "ủy ban đặc biệt"
     },
     {
       "word": "委付",
@@ -134,9 +134,9 @@
       "meaning": "sự từ bỏ"
     },
     {
-      "word": "委曲",
-      "reading": "いきょく",
-      "meaning": "chi tiết"
+      "word": "実行委",
+      "reading": "じっこうい",
+      "meaning": "ủy viên thực hiện"
     }
   ]
 }

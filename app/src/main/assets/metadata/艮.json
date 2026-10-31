@@ -89,11 +89,6 @@
       "meaning": "cấn"
     },
     {
-      "word": "艮下艮上",
-      "reading": "ごんかごんしょう",
-      "meaning": "một trong số 64 âm tiết"
-    },
-    {
       "word": "儒艮",
       "reading": "じゅごん",
       "meaning": "cá nược"
@@ -102,6 +97,11 @@
       "word": "艮の方角に",
       "reading": "うしとらのほうがくに",
       "meaning": "theo hướng đông bắc"
+    },
+    {
+      "word": "艮下艮上",
+      "reading": "ごんかごんしょう",
+      "meaning": "một trong số 64 âm tiết"
     }
   ]
 }

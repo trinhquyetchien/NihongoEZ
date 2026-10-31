@@ -109,29 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "教育/保育",
-      "reading": "きょういく/ほいく",
-      "meaning": "giáo dục/chăm sóc trẻ"
+      "word": "教育",
+      "reading": "きょういく",
+      "meaning": "giáo dục"
     },
     {
-      "word": "育む",
-      "reading": "はぐくむ",
-      "meaning": "ấp ủ"
-    },
-    {
-      "word": "不育",
-      "reading": "ふいく",
-      "meaning": "vô sinh nữ"
-    },
-    {
-      "word": "子育",
-      "reading": "こそだて",
-      "meaning": "chăm sóc con cái"
-    },
-    {
-      "word": "哺育",
-      "reading": "ほいく",
-      "meaning": "nuôi dưỡng và dạy dỗ"
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "môn thể dục"
     },
     {
       "word": "育つ",
@@ -139,9 +124,24 @@
       "meaning": "lớn lên"
     },
     {
-      "word": "育て",
-      "reading": "そだて",
-      "meaning": "sự đưa lên"
+      "word": "育児",
+      "reading": "いくじ",
+      "meaning": "sự chăm sóc trẻ"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "sự nuôi dưỡng"
+    },
+    {
+      "word": "保育",
+      "reading": "ほいく",
+      "meaning": "sự nuôi dạy"
+    },
+    {
+      "word": "育ち",
+      "reading": "そだち",
+      "meaning": "sự lớn lên"
     },
     {
       "word": "飼育",
@@ -149,14 +149,14 @@
       "meaning": "sự nuôi"
     },
     {
-      "word": "療育",
-      "reading": "りょういく",
-      "meaning": "phục hồi chức năng"
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "sự lớn lên"
     },
     {
-      "word": "化育",
-      "reading": "かいく",
-      "meaning": "việc tạo hoá tạo ra và nuôi sống vạn vật"
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "sự phát dục"
     }
   ]
 }

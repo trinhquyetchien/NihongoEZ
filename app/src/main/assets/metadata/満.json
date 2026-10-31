@@ -109,29 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "満",
-      "reading": "まん",
-      "meaning": "đầy đủ"
-    },
-    {
-      "word": "満満",
-      "reading": "まんまん",
-      "meaning": "đầy đủ"
-    },
-    {
-      "word": "闘志満満",
-      "reading": "とうしまんまん",
-      "meaning": "tràn ngập tinh thần chiến đấu"
-    },
-    {
-      "word": "自信満満",
-      "reading": "じしんまんまん",
-      "meaning": "đầy đủ sự tin cậy"
-    },
-    {
-      "word": "満ち満ちる",
-      "reading": "みちみちる",
-      "meaning": "đầy đủ"
+      "word": "満員",
+      "reading": "まんいん",
+      "meaning": "sự đông người"
     },
     {
       "word": "円満",
@@ -139,24 +119,44 @@
       "meaning": "sự viên mãn"
     },
     {
+      "word": "満",
+      "reading": "まん",
+      "meaning": "đầy đủ"
+    },
+    {
+      "word": "満俺",
+      "reading": "マンガン",
+      "meaning": "mangan"
+    },
+    {
+      "word": "満載",
+      "reading": "まんさい",
+      "meaning": "sự xếp đầy"
+    },
+    {
+      "word": "役満",
+      "reading": "やくマン",
+      "meaning": "bộ bài nhiều điểm"
+    },
+    {
+      "word": "北満",
+      "reading": "ほくまん",
+      "meaning": "phía bắc manchuria"
+    },
+    {
+      "word": "南満",
+      "reading": "なんまん",
+      "meaning": "phía nam manchuria"
+    },
+    {
+      "word": "満床",
+      "reading": "まんしょう",
+      "meaning": "hết giường bệnh"
+    },
+    {
       "word": "満鉄",
       "reading": "まんてつ",
       "meaning": "công ty đường sắt nam mãn châu"
-    },
-    {
-      "word": "充満",
-      "reading": "じゅうまん",
-      "meaning": "đầy rẫy"
-    },
-    {
-      "word": "干満",
-      "reading": "かんまん",
-      "meaning": "nước triều lên xuống"
-    },
-    {
-      "word": "満室",
-      "reading": "まんしつ",
-      "meaning": "không còn phòng trống !"
     }
   ]
 }

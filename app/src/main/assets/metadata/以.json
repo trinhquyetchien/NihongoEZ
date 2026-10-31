@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "以深",
-      "reading": "いしん",
-      "meaning": "sâu hơn"
+      "word": "以上",
+      "reading": "いじょう",
+      "meaning": "hơn"
+    },
+    {
+      "word": "以外",
+      "reading": "いがい",
+      "meaning": "ngoài ra"
     },
     {
       "word": "以下",
       "reading": "いか",
       "meaning": "dưới đây"
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "trong vòng"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "cách đây"
     },
     {
       "word": "以来",
@@ -109,34 +124,19 @@
       "meaning": "sau đó"
     },
     {
-      "word": "以て",
-      "reading": "もって",
-      "meaning": "có"
-    },
-    {
-      "word": "以内",
-      "reading": "いない",
-      "meaning": "trong vòng"
-    },
-    {
       "word": "以後",
       "reading": "いご",
       "meaning": "sau đó"
     },
     {
-      "word": "以遠",
-      "reading": "いえん",
-      "meaning": "bên ngoài"
+      "word": "中以上",
+      "reading": "ちゅういじょう",
+      "meaning": "trên trung bình"
     },
     {
-      "word": "以西",
-      "reading": "いせい",
-      "meaning": "phía tây"
-    },
-    {
-      "word": "所以",
-      "reading": "ゆえん",
-      "meaning": "suy luận"
+      "word": "以前に",
+      "reading": "いぜんに",
+      "meaning": "khi trước"
     }
   ]
 }

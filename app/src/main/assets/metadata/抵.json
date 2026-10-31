@@ -87,34 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "抵触",
-      "reading": "ていしょく",
-      "meaning": "sự va chạm"
-    },
-    {
-      "word": "抵当",
-      "reading": "ていとう",
-      "meaning": "cầm đồ"
-    },
-    {
       "word": "抵抗",
       "reading": "ていこう",
       "meaning": "sự đề kháng"
-    },
-    {
-      "word": "大抵",
-      "reading": "たいてい",
-      "meaning": "đại để"
-    },
-    {
-      "word": "抗抵",
-      "reading": "こうてい",
-      "meaning": "kháng cự"
-    },
-    {
-      "word": "抵抗線",
-      "reading": "ていこうせん",
-      "meaning": "đường kháng cự"
     },
     {
       "word": "抵抗力",
@@ -122,19 +97,44 @@
       "meaning": "lực kháng trở"
     },
     {
+      "word": "抵抗感",
+      "reading": "ていこうかん",
+      "meaning": "cảm giác ngại ngùng"
+    },
+    {
+      "word": "抵抗体",
+      "reading": "ていこうたい",
+      "meaning": "phần tử đề kháng"
+    },
+    {
+      "word": "無抵抗",
+      "reading": "むていこう",
+      "meaning": "không kháng cự"
+    },
+    {
       "word": "抵抗率",
       "reading": "ていこうりつ",
       "meaning": "điện trở suất"
     },
     {
-      "word": "チップ抵抗",
-      "reading": "チップていこう",
-      "meaning": "smt"
+      "word": "抵抗線",
+      "reading": "ていこうせん",
+      "meaning": "đường kháng cự"
     },
     {
-      "word": "プルアップ抵抗",
-      "reading": "プルアップていこう",
-      "meaning": "điện trở kéo lên"
+      "word": "抵抗器",
+      "reading": "ていこうき",
+      "meaning": "cái điện trở"
+    },
+    {
+      "word": "抵抗帯",
+      "reading": "ていこうたい",
+      "meaning": "phần giữa các nhịp trước của chỉ báo ichimoku kinko hyo"
+    },
+    {
+      "word": "比抵抗",
+      "reading": "ひていこう",
+      "meaning": "điện trở suất"
     }
   ]
 }

@@ -95,34 +95,9 @@
       "meaning": "kẹo viên"
     },
     {
-      "word": "飴坊",
-      "reading": "あめんぼ",
-      "meaning": "người trượt băng"
-    },
-    {
-      "word": "綿飴",
-      "reading": "わたあめ",
-      "meaning": "bông cô thành đường"
-    },
-    {
-      "word": "飴煮",
-      "reading": "あめに",
-      "meaning": "cho nước đường vào thức ăn"
-    },
-    {
-      "word": "飴色",
-      "reading": "あめいろ",
-      "meaning": "màu hổ phách"
-    },
-    {
-      "word": "水飴",
-      "reading": "みずあめ",
-      "meaning": "hồ xi rô"
-    },
-    {
-      "word": "飴湯",
-      "reading": "あめゆ",
-      "meaning": "hòa tan xi-rô tinh bột trong nước nóng và thêm một lượng nhỏ quế"
+      "word": "飴売り",
+      "reading": "あめうり",
+      "meaning": "hoạt động bán kẹo"
     },
     {
       "word": "棒飴",
@@ -130,9 +105,34 @@
       "meaning": "kẹo que"
     },
     {
-      "word": "飴粕",
-      "reading": "あめかす",
-      "meaning": "bã"
+      "word": "飴ん棒",
+      "reading": "あめんぼう",
+      "meaning": "kẹo que"
+    },
+    {
+      "word": "飴湯",
+      "reading": "あめゆ",
+      "meaning": "hòa tan xi-rô tinh bột trong nước nóng và thêm một lượng nhỏ quế"
+    },
+    {
+      "word": "晒し飴",
+      "reading": "さらしあめ",
+      "meaning": "mứt kẹo"
+    },
+    {
+      "word": "飴煮",
+      "reading": "あめに",
+      "meaning": "cho nước đường vào thức ăn"
+    },
+    {
+      "word": "熱中飴",
+      "reading": "ねっちゅうあめ",
+      "meaning": "kẹo chống say nắng"
+    },
+    {
+      "word": "飴坊",
+      "reading": "あめんぼ",
+      "meaning": "người trượt băng"
     }
   ]
 }

@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
-      "word": "捨てゼリフ",
-      "reading": "すてぜりふ",
-      "meaning": "１ 演劇、特に歌舞伎で、俳優が脚本に書いてないのにその場の雰囲気に応じて即興的に言う短いせりふ。 ２ 立ち去ろうとするとき、相手の返答を求めないで一方的に言い放つ言葉。捨て言葉。"
+      "word": "捨てる",
+      "reading": "すてる",
+      "meaning": "bỏ"
     },
     {
-      "word": "4捨5いり",
-      "reading": "4捨5入",
-      "meaning": "làm tròn"
+      "word": "四捨五入",
+      "reading": "ししゃごにゅう",
+      "meaning": "sự làm tròn số"
     },
     {
-      "word": "喜捨",
-      "reading": "きしゃ",
-      "meaning": "sự bố thí"
-    },
-    {
-      "word": "捨象",
-      "reading": "しゃしょう",
-      "meaning": "sự trừu tượng hóa"
-    },
-    {
-      "word": "取捨",
-      "reading": "しゅしゃ",
-      "meaning": "sự chọn lọc"
-    },
-    {
-      "word": "捨身",
-      "reading": "すてみ",
-      "meaning": "việc từ bỏ thịt để trở thành sư"
-    },
-    {
-      "word": "用捨",
-      "reading": "ようしゃ",
-      "meaning": "sự tiếp nhận hoặc rejection"
-    },
-    {
-      "word": "捨場",
+      "word": "捨て場",
       "reading": "すてば",
       "meaning": "đổ xuống nền"
     },
     {
-      "word": "捨鉢",
+      "word": "捨て犬",
+      "reading": "すていぬ",
+      "meaning": "con chó súc vật bị lạc"
+    },
+    {
+      "word": "捨て猫",
+      "reading": "すてねこ",
+      "meaning": "hủy bỏ con mèo"
+    },
+    {
+      "word": "捨て駒",
+      "reading": "すてごま",
+      "meaning": "con tốt thí"
+    },
+    {
+      "word": "捨て鉢",
       "reading": "すてばち",
       "meaning": "sự liều lĩnh tuyệt vọng"
     },
     {
-      "word": "捨子",
-      "reading": "すてご",
-      "meaning": "đứa trẻ bị bỏ rơi"
+      "word": "捨離",
+      "reading": "しゃり",
+      "meaning": "việc từ bỏ mọi ham muốn trần tục"
+    },
+    {
+      "word": "断捨離",
+      "reading": "だんしゃり",
+      "meaning": "bỏ sự tích tụ trong quá khứ"
+    },
+    {
+      "word": "捨て身",
+      "reading": "すてみ",
+      "meaning": "ở mạo hiểm một có cuộc sống"
     }
   ]
 }

@@ -91,6 +91,11 @@
   ],
   "vocabulary": [
     {
+      "word": "頼む",
+      "reading": "たのむ",
+      "meaning": "cậy"
+    },
+    {
       "word": "信頼",
       "reading": "しんらい",
       "meaning": "đức tin"
@@ -101,24 +106,14 @@
       "meaning": "sự nhờ vả"
     },
     {
-      "word": "無頼",
-      "reading": "ぶらい",
-      "meaning": "sự vô lại"
-    },
-    {
       "word": "頼る",
       "reading": "たよる",
       "meaning": "nhờ cậy"
     },
     {
-      "word": "頼り",
-      "reading": "たより",
-      "meaning": "sự tin cậy"
-    },
-    {
-      "word": "頼む",
-      "reading": "たのむ",
-      "meaning": "cậy"
+      "word": "頼もしい",
+      "reading": "たのもしい",
+      "meaning": "đáng tin"
     },
     {
       "word": "頼み",
@@ -126,19 +121,24 @@
       "meaning": "sự yêu cầu"
     },
     {
-      "word": "依頼料",
-      "reading": "いらいりょう",
-      "meaning": "phí yêu cầu"
+      "word": "信頼性",
+      "reading": "しんらいせい",
+      "meaning": "sự tín nhiệm"
+    },
+    {
+      "word": "信頼度",
+      "reading": "しんらいど",
+      "meaning": "độ tin cậy"
+    },
+    {
+      "word": "依頼人",
+      "reading": "いらいにん",
+      "meaning": "khách hàng"
     },
     {
       "word": "依頼者",
       "reading": "いらいしゃ",
       "meaning": "khách hàng"
-    },
-    {
-      "word": "神頼み",
-      "reading": "かみだのみ",
-      "meaning": "cầu chúa"
     }
   ]
 }

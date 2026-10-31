@@ -108,14 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "易",
-      "reading": "えき",
-      "meaning": "thiết lập"
+      "word": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "giao dịch"
     },
     {
-      "word": "易易",
-      "reading": "やすやす",
-      "meaning": "chính dễ"
+      "word": "容易",
+      "reading": "ようい",
+      "meaning": "đơn giản"
     },
     {
       "word": "安易",
@@ -123,24 +123,19 @@
       "meaning": "dễ dàng"
     },
     {
-      "word": "易簀",
-      "reading": "えきさく",
-      "meaning": "sự qua đời"
+      "word": "簡易",
+      "reading": "かんい",
+      "meaning": "giản dị"
     },
     {
-      "word": "三易",
-      "reading": "さんえき",
-      "meaning": "tam dịch"
+      "word": "交易",
+      "reading": "こうえき",
+      "meaning": "thương mại"
     },
     {
-      "word": "易経",
-      "reading": "えききょう",
-      "meaning": "tôi ching"
-    },
-    {
-      "word": "易学",
-      "reading": "えきがく",
-      "meaning": "dịch học"
+      "word": "辟易",
+      "reading": "へきえき",
+      "meaning": "phát ngán"
     },
     {
       "word": "難易",
@@ -148,14 +143,19 @@
       "meaning": "sự khó khăn"
     },
     {
-      "word": "不易",
-      "reading": "ふえき",
-      "meaning": "sự không thay đổi"
+      "word": "難易度",
+      "reading": "なんいど",
+      "meaning": "mức độ khó khăn"
     },
     {
-      "word": "周易",
-      "reading": "しゅうえき",
-      "meaning": "bói toán"
+      "word": "貿易法",
+      "reading": "ぼうえきほう",
+      "meaning": "pháp luật thương mại"
+    },
+    {
+      "word": "貿易風",
+      "reading": "ぼうえきふう",
+      "meaning": "gió mậu dịch"
     }
   ]
 }

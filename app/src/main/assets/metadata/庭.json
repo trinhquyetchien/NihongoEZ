@@ -89,6 +89,11 @@
   ],
   "vocabulary": [
     {
+      "word": "家庭",
+      "reading": "かてい",
+      "meaning": "gia đình"
+    },
+    {
       "word": "庭",
       "reading": "にわ",
       "meaning": "sân"
@@ -99,44 +104,39 @@
       "meaning": "sân trường"
     },
     {
-      "word": "庭火",
-      "reading": "にわび",
-      "meaning": "lửa đốt trong vườn"
+      "word": "家庭的",
+      "reading": "かていてき",
+      "meaning": "người trong gia đình"
     },
     {
-      "word": "庭景",
-      "reading": "ていけい",
-      "meaning": "phong cảnh ở vườn"
+      "word": "家庭内",
+      "reading": "かていない",
+      "meaning": "nội địa"
     },
     {
-      "word": "奥庭",
-      "reading": "おくにわ",
-      "meaning": "vườn bên trong"
+      "word": "庭内",
+      "reading": "ていない",
+      "meaning": "trong vườn"
     },
     {
-      "word": "市庭",
-      "reading": "いちば",
-      "meaning": "chợ"
+      "word": "庭番",
+      "reading": "にわばん",
+      "meaning": "người trông coi vườn"
     },
     {
-      "word": "庭訓",
-      "reading": "ていきん",
-      "meaning": "sự giáo dục ở nhà"
+      "word": "外庭",
+      "reading": "がいてい",
+      "meaning": "sân ở phía ngoài"
+    },
+    {
+      "word": "小庭",
+      "reading": "こにわ",
+      "meaning": "vườn nhỏ"
     },
     {
       "word": "作庭",
       "reading": "さくてい",
       "meaning": "việc làm vườn"
-    },
-    {
-      "word": "苔庭",
-      "reading": "こけにわ",
-      "meaning": "bãi cỏ rêu"
-    },
-    {
-      "word": "前庭",
-      "reading": "ぜんてい",
-      "meaning": "vườn trước"
     }
   ]
 }

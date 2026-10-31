@@ -92,19 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "径",
-      "reading": "けい",
+      "word": "直径",
+      "reading": "ちょっけい",
       "meaning": "đường kính"
     },
     {
-      "word": "直径半径",
-      "reading": "ちょっけーはんけー",
-      "meaning": "đường kính - bán kính"
-    },
-    {
-      "word": "小径",
-      "reading": "しょうけい",
-      "meaning": "đường"
+      "word": "半径",
+      "reading": "はんけい",
+      "meaning": "đường bán kính"
     },
     {
       "word": "口径",
@@ -112,29 +107,34 @@
       "meaning": "đường kính lỗ"
     },
     {
-      "word": "山径",
-      "reading": "さんけい",
-      "meaning": "đường nhỏ trên núi"
+      "word": "小口径",
+      "reading": "しょうこうけい",
+      "meaning": "cỡ nhỏ"
     },
     {
-      "word": "径間",
-      "reading": "けいかん",
-      "meaning": "khoảng cách giữa hai điểm"
+      "word": "口径食",
+      "reading": "こうけいしょく",
+      "meaning": "mờ viền"
     },
     {
-      "word": "線径",
-      "reading": "せんけい",
-      "meaning": "đường kính dây"
+      "word": "口径比",
+      "reading": "こうけいひ",
+      "meaning": "tỷ số khẩu độ"
     },
     {
-      "word": "コア径",
-      "reading": "コアけい",
-      "meaning": "đường kính lõi"
+      "word": "長半径",
+      "reading": "ちょうはんけい",
+      "meaning": "bán trục lớn của elip"
     },
     {
-      "word": "クラッド径",
-      "reading": "クラッドけい",
-      "meaning": "đường kính phủ"
+      "word": "径",
+      "reading": "けい",
+      "meaning": "đường kính"
+    },
+    {
+      "word": "極半径",
+      "reading": "きょくはんけい",
+      "meaning": "bán kính cực"
     },
     {
       "word": "外径",

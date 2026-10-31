@@ -97,44 +97,44 @@
       "meaning": "sự khắc phục"
     },
     {
-      "word": "式服",
-      "reading": "しきふく",
-      "meaning": "bộ lễ phục"
-    },
-    {
       "word": "衣服",
       "reading": "いふく",
       "meaning": "đồ mặc"
     },
     {
-      "word": "服忌",
-      "reading": "ぶっき",
-      "meaning": "tang"
-    },
-    {
-      "word": "降服",
-      "reading": "こうふく",
-      "meaning": "sự đầu hàng"
-    },
-    {
-      "word": "僧服",
-      "reading": "そうふく",
-      "meaning": "tăng phục"
-    },
-    {
-      "word": "畏服",
-      "reading": "いふく",
-      "meaning": "sự kính nể"
-    },
-    {
-      "word": "被服",
-      "reading": "ひふく",
-      "meaning": "quần áo"
-    },
-    {
       "word": "軍服",
       "reading": "ぐんぷく",
       "meaning": "quân phục"
+    },
+    {
+      "word": "上服",
+      "reading": "うわふく",
+      "meaning": "y phục ở phía ngoài"
+    },
+    {
+      "word": "美服",
+      "reading": "びふく",
+      "meaning": "quần áo đẹp"
+    },
+    {
+      "word": "冬服",
+      "reading": "ふゆふく",
+      "meaning": "quần áo mùa đông"
+    },
+    {
+      "word": "説服",
+      "reading": "せっぷく",
+      "meaning": "sự tin"
+    },
+    {
+      "word": "正服",
+      "reading": "せいふく",
+      "meaning": "đồng phục"
+    },
+    {
+      "word": "校服",
+      "reading": "こうふく",
+      "meaning": "giáo dục đồng phục"
     }
   ]
 }

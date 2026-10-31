@@ -89,34 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "瀬戸物",
+      "reading": "せともの",
+      "meaning": "đồ sứ"
+    },
+    {
       "word": "瀬",
       "reading": "せ",
       "meaning": "chỗ nông"
     },
     {
-      "word": "高瀬",
-      "reading": "たかせ",
-      "meaning": "cạn"
+      "word": "歳の瀬",
+      "reading": "としのせ",
+      "meaning": "cuối năm"
     },
     {
-      "word": "川瀬",
-      "reading": "かわせ",
-      "meaning": "thác ghềnh"
+      "word": "瀬取り",
+      "reading": "せどり",
+      "meaning": "chuyển hàng từ tàu này sang tàu khác"
     },
     {
-      "word": "早瀬",
-      "reading": "はやせ",
-      "meaning": "sự nhanh chóng"
-    },
-    {
-      "word": "潮瀬",
-      "reading": "しおせ",
-      "meaning": "hiện thời biển"
-    },
-    {
-      "word": "浅瀬",
-      "reading": "あさせ",
-      "meaning": "chỗ nông"
+      "word": "瀬病",
+      "reading": "せびょう",
+      "meaning": "bệnh hủi"
     },
     {
       "word": "瀬戸",
@@ -124,19 +119,24 @@
       "meaning": "eo biển"
     },
     {
+      "word": "高瀬",
+      "reading": "たかせ",
+      "meaning": "cạn"
+    },
+    {
+      "word": "浅瀬",
+      "reading": "あさせ",
+      "meaning": "chỗ nông"
+    },
+    {
       "word": "大瀬",
       "reading": "おおせ",
       "meaning": "cá mập thảm nhật bản"
     },
     {
-      "word": "逢瀬",
-      "reading": "おうせ",
-      "meaning": "có dịp gặp nhau"
-    },
-    {
-      "word": "瀬病",
-      "reading": "せびょう",
-      "meaning": "bệnh hủi"
+      "word": "瀬戸茅",
+      "reading": "せとがや",
+      "meaning": "alopecurus japonicus"
     }
   ]
 }

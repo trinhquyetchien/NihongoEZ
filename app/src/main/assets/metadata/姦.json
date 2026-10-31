@@ -69,19 +69,29 @@
   ],
   "vocabulary": [
     {
-      "word": "姦夫姦婦",
-      "reading": "かんぷかんぷ",
-      "meaning": "kẻ ngoại tình"
+      "word": "強姦",
+      "reading": "ごうかん",
+      "meaning": "cưỡng dâm"
     },
     {
-      "word": "姦淫",
-      "reading": "かんいん",
-      "meaning": "tội ngoại tình"
+      "word": "強姦罪",
+      "reading": "ごうかんざい",
+      "meaning": "tội cưỡng dâm"
     },
     {
-      "word": "青姦",
-      "reading": "あおかん",
-      "meaning": "quan hệ tình dục ngoài trời"
+      "word": "強姦魔",
+      "reading": "ごうかんま",
+      "meaning": "rapist"
+    },
+    {
+      "word": "強姦犯",
+      "reading": "ごうかんはん",
+      "meaning": "tội phạm hiếp dâm"
+    },
+    {
+      "word": "姦する",
+      "reading": "かんする",
+      "meaning": "cướp đoạt"
     },
     {
       "word": "姦人",
@@ -89,34 +99,24 @@
       "meaning": "côn đồ"
     },
     {
-      "word": "姦夫",
-      "reading": "かんぷ",
-      "meaning": "người đàn ông ngoại tình"
+      "word": "準強姦",
+      "reading": "じゅんごうかん",
+      "meaning": "hiếp dâm"
     },
     {
-      "word": "姦婦",
-      "reading": "かんぷ",
-      "meaning": "người đàn bà ngoại tình"
+      "word": "青姦",
+      "reading": "あおかん",
+      "meaning": "quan hệ tình dục ngoài trời"
     },
     {
-      "word": "強姦",
-      "reading": "ごうかん",
-      "meaning": "cưỡng dâm"
+      "word": "獣姦",
+      "reading": "じゅうかん",
+      "meaning": "thú tính"
     },
     {
-      "word": "屍姦",
+      "word": "視姦",
       "reading": "しかん",
-      "meaning": "necrophilia"
-    },
-    {
-      "word": "姦物",
-      "reading": "かんぶつ",
-      "meaning": "tên xảo quyệt"
-    },
-    {
-      "word": "姦悪",
-      "reading": "かんあく",
-      "meaning": "độc ác"
+      "meaning": "nhìn chằm chằm vào người khác giới với một cái nhìn ghê tởm"
     }
   ]
 }

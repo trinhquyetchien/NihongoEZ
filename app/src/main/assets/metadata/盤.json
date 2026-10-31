@@ -87,39 +87,34 @@
   ],
   "vocabulary": [
     {
+      "word": "基盤",
+      "reading": "きばん",
+      "meaning": "nền móng"
+    },
+    {
+      "word": "地盤",
+      "reading": "じばん",
+      "meaning": "nền đất"
+    },
+    {
+      "word": "碁盤",
+      "reading": "ごばん",
+      "meaning": "bàn cờ gô"
+    },
+    {
       "word": "盤",
       "reading": "ばん",
       "meaning": "đĩa"
     },
     {
-      "word": "旋盤/フライス盤",
-      "reading": "せんばん/フライスばん",
-      "meaning": "máy tiện / máy phay"
+      "word": "名盤",
+      "reading": "めいばん",
+      "meaning": "đĩa hát hay"
     },
     {
-      "word": "氷盤",
-      "reading": "ひょうばん",
-      "meaning": "tảng băng trôi"
-    },
-    {
-      "word": "シングル盤",
-      "reading": "シングルばん",
-      "meaning": "đĩa đơn"
-    },
-    {
-      "word": "ダライ盤",
-      "reading": "ダライばん",
-      "meaning": "bàn tiện mài"
-    },
-    {
-      "word": "ラップ盤",
-      "reading": "ラップばん",
-      "meaning": "máy mài nghiền"
-    },
-    {
-      "word": "ホブ盤",
-      "reading": "ホブばん",
-      "meaning": "máy tiện bánh răng là công cụ gia công cơ khí dùng để cắt gọt các sản phẩm như là bánh răng truyền động"
+      "word": "旧盤",
+      "reading": "きゅうばん",
+      "meaning": "cái bát cũ"
     },
     {
       "word": "香盤",
@@ -127,14 +122,19 @@
       "meaning": "mâm nhang"
     },
     {
-      "word": "鍵盤",
-      "reading": "けんばん",
-      "meaning": "bàn phím"
+      "word": "氷盤",
+      "reading": "ひょうばん",
+      "meaning": "tảng băng trôi"
     },
     {
-      "word": "終盤",
-      "reading": "しゅうばん",
-      "meaning": "endgame"
+      "word": "盤古",
+      "reading": "ばんこ",
+      "meaning": "bàn cổ"
+    },
+    {
+      "word": "序盤",
+      "reading": "じょばん",
+      "meaning": "lượt chơi mở màn"
     }
   ]
 }

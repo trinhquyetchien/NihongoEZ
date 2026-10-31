@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "等",
-      "reading": "とう",
-      "meaning": "vân vân"
-    },
-    {
-      "word": "等等",
-      "reading": "とうとう",
-      "meaning": "vân vân"
-    },
-    {
-      "word": "等辺等角",
-      "reading": "とーへんとーかく",
-      "meaning": "bằng cạnh và bằng góc"
-    },
-    {
-      "word": "等辺等角の",
-      "reading": "とうへんとうかくの",
-      "meaning": "regular"
-    },
-    {
-      "word": "汝等",
-      "reading": "うぬら",
-      "meaning": "danh từ thay thế người ngôi thứ 2"
-    },
-    {
       "word": "高等",
       "reading": "こうとう",
       "meaning": "cao đẳng"
     },
     {
-      "word": "均等",
-      "reading": "きんとう",
-      "meaning": "cân đối"
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "phần bằng nhau"
     },
     {
-      "word": "等質",
-      "reading": "とうしつ",
-      "meaning": "đồng nhất"
+      "word": "等",
+      "reading": "とう",
+      "meaning": "vân vân"
     },
     {
-      "word": "等式",
-      "reading": "とうしき",
-      "meaning": "đẳng thức"
+      "word": "同等",
+      "reading": "どうとう",
+      "meaning": "đồng đẳng"
     },
     {
-      "word": "等幅",
-      "reading": "とうはば",
-      "meaning": "chiều rộng cố định"
+      "word": "等級",
+      "reading": "とうきゅう",
+      "meaning": "bực"
+    },
+    {
+      "word": "等時",
+      "reading": "とうじ",
+      "meaning": "đẳng thời"
+    },
+    {
+      "word": "等方",
+      "reading": "とうほう",
+      "meaning": "đẳng hướng"
+    },
+    {
+      "word": "俺等",
+      "reading": "おれら",
+      "meaning": "chúng tôi"
+    },
+    {
+      "word": "二等",
+      "reading": "にとう",
+      "meaning": "tầng lớp thứ 2"
+    },
+    {
+      "word": "三等",
+      "reading": "さんとう",
+      "meaning": "hạng ba"
     }
   ]
 }

@@ -95,14 +95,9 @@
       "meaning": "năm con bò"
     },
     {
-      "word": "丑寅",
-      "reading": "うしとら",
-      "meaning": "hướng đông bắc"
-    },
-    {
-      "word": "癸丑",
-      "reading": "みずのとうし",
-      "meaning": "quý sửu"
+      "word": "丑の年",
+      "reading": "うしのとし",
+      "meaning": "năm con bò"
     },
     {
       "word": "丁丑",
@@ -125,14 +120,19 @@
       "meaning": "năm kỷ sửu"
     },
     {
-      "word": "丑の年",
-      "reading": "うしのとし",
-      "meaning": "năm con bò"
-    },
-    {
       "word": "丑の日",
       "reading": "うしのひ",
       "meaning": "ngày ăn lươn"
+    },
+    {
+      "word": "丑の刻",
+      "reading": "うしのこく",
+      "meaning": "giờ sửu"
+    },
+    {
+      "word": "癸丑",
+      "reading": "みずのとうし",
+      "meaning": "quý sửu"
     }
   ]
 }

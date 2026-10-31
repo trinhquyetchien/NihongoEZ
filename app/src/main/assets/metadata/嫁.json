@@ -102,9 +102,19 @@
       "meaning": "cô dâu"
     },
     {
-      "word": "兄嫁",
-      "reading": "あによめ",
-      "meaning": "chị dâu"
+      "word": "嫁する",
+      "reading": "かする",
+      "meaning": "cưới"
+    },
+    {
+      "word": "嫁が君",
+      "reading": "よめがきみ",
+      "meaning": "một cách nói uyển ngữ để chỉ \"chuột\" trong ba ngày đầu năm mới ở nhật bản"
+    },
+    {
+      "word": "新嫁",
+      "reading": "しんよめ",
+      "meaning": "cô dâu mới cưới"
     },
     {
       "word": "嫁す",
@@ -112,34 +122,24 @@
       "meaning": "cưới"
     },
     {
-      "word": "嫁菜",
-      "reading": "よめな",
-      "meaning": "cây cúc tây"
+      "word": "嫁入る",
+      "reading": "よめいる",
+      "meaning": "xuất giá"
     },
     {
-      "word": "再嫁",
-      "reading": "さいか",
-      "meaning": "sự kết hôn lại"
+      "word": "弟嫁",
+      "reading": "おとうとよめ",
+      "meaning": "em dâu"
     },
     {
-      "word": "惣嫁",
+      "word": "総嫁",
       "reading": "そうか",
       "meaning": "streetwalker"
     },
     {
-      "word": "降嫁",
-      "reading": "こうか",
-      "meaning": "sự kết hôn của công chúa với thường dân"
-    },
-    {
-      "word": "嫁御",
-      "reading": "よめご",
-      "meaning": "cô dâu"
-    },
-    {
-      "word": "許嫁",
-      "reading": "いいなずけ",
-      "meaning": "hôn thê hôn phu"
+      "word": "鬼嫁",
+      "reading": "おによめ",
+      "meaning": "người phụ nữ đáng sợ"
     }
   ]
 }

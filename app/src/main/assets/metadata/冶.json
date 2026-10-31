@@ -83,14 +83,44 @@
   ],
   "vocabulary": [
     {
+      "word": "鍛冶",
+      "reading": "たんや",
+      "meaning": "thợ rèn"
+    },
+    {
+      "word": "鍛冶場",
+      "reading": "かじば",
+      "meaning": "xưởng rèn"
+    },
+    {
+      "word": "鍛冶屋",
+      "reading": "かじや",
+      "meaning": "thợ nguội"
+    },
+    {
       "word": "冶",
       "reading": "や",
       "meaning": "sự nấu chảy"
     },
     {
-      "word": "鍛冶",
-      "reading": "たんや",
-      "meaning": "thợ rèn"
+      "word": "刀鍛冶",
+      "reading": "かたなかじ",
+      "meaning": "thợ rèn gươm"
+    },
+    {
+      "word": "冶金",
+      "reading": "やきん",
+      "meaning": "sự luyện kim"
+    },
+    {
+      "word": "冶金学",
+      "reading": "やきんがく",
+      "meaning": "ngành luyện kim"
+    },
+    {
+      "word": "陶冶",
+      "reading": "とうや",
+      "meaning": "huấn luyện"
     },
     {
       "word": "冶工",
@@ -101,36 +131,6 @@
       "word": "艷冶",
       "reading": "えんや",
       "meaning": "đẹp"
-    },
-    {
-      "word": "冶金",
-      "reading": "やきん",
-      "meaning": "sự luyện kim"
-    },
-    {
-      "word": "陶冶",
-      "reading": "とうや",
-      "meaning": "huấn luyện"
-    },
-    {
-      "word": "鍛冶屋",
-      "reading": "かじや",
-      "meaning": "thợ nguội"
-    },
-    {
-      "word": "遊冶郎",
-      "reading": "ゆうやろう",
-      "meaning": "kẻ ăn chơi trác tán"
-    },
-    {
-      "word": "刀鍛冶",
-      "reading": "かたなかじ",
-      "meaning": "thợ rèn gươm"
-    },
-    {
-      "word": "冶金学",
-      "reading": "やきんがく",
-      "meaning": "ngành luyện kim"
     }
   ]
 }

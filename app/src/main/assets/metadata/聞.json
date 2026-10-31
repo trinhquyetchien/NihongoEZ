@@ -108,14 +108,19 @@
   ],
   "vocabulary": [
     {
-      "word": "見聞",
-      "reading": "けんぶん",
-      "meaning": "kinh nghiệm"
+      "word": "聞く",
+      "reading": "きく",
+      "meaning": "nghe"
     },
     {
-      "word": "醜聞",
-      "reading": "しゅうぶん",
-      "meaning": "việc xấu"
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "báo"
+    },
+    {
+      "word": "新聞社",
+      "reading": "しんぶんしゃ",
+      "meaning": "tòa báo"
     },
     {
       "word": "聞き",
@@ -123,39 +128,34 @@
       "meaning": "điều nghe được"
     },
     {
-      "word": "聴聞",
-      "reading": "ちょうもん",
-      "meaning": "sự nghe"
+      "word": "聞こえ",
+      "reading": "きこえ",
+      "meaning": "danh tiếng"
     },
     {
-      "word": "余聞",
-      "reading": "よぶん",
-      "meaning": "ngồi lê mách lẻo"
+      "word": "聞き香",
+      "reading": "ききこう",
+      "meaning": "sự cảm nhận mùi hương"
     },
     {
-      "word": "著聞",
-      "reading": "ちょぶん",
-      "meaning": "điều gì đó nổi tiếng khắp cả thế giới"
+      "word": "古新聞",
+      "reading": "ふるしんぶん",
+      "meaning": "những tờ báo cũ"
     },
     {
-      "word": "声聞",
-      "reading": "しょうもん",
-      "meaning": "thanh danh"
-    },
-    {
-      "word": "聞法",
-      "reading": "もんぼう",
-      "meaning": "nghe lời dạy của đức phật"
-    },
-    {
-      "word": "他聞",
-      "reading": "たぶん",
-      "meaning": "có lẽ"
+      "word": "下聞",
+      "reading": "かぶん",
+      "meaning": "enquiring trước"
     },
     {
       "word": "天聞",
       "reading": "てんぶん",
       "meaning": "hoàng đế có kiến thức"
+    },
+    {
+      "word": "新聞紙",
+      "reading": "しんぶんし",
+      "meaning": "giấy in báo"
     }
   ]
 }

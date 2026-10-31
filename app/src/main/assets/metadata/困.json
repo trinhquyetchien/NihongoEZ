@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "困窮",
-      "reading": "こんきゅう",
-      "meaning": "sự khốn cùng"
+      "word": "困る",
+      "reading": "こまる",
+      "meaning": "bối rối"
     },
     {
       "word": "困難",
@@ -116,44 +116,44 @@
       "meaning": "gai góc"
     },
     {
-      "word": "困る",
-      "reading": "こまる",
-      "meaning": "bối rối"
-    },
-    {
-      "word": "困惑",
-      "reading": "こんわく",
-      "meaning": "sự bối rối"
-    },
-    {
-      "word": "困憊",
-      "reading": "こんぱい",
-      "meaning": "tình trạng kiệt sức"
-    },
-    {
-      "word": "困苦",
-      "reading": "こんく",
-      "meaning": "đói khó"
-    },
-    {
       "word": "貧困",
       "reading": "ひんこん",
       "meaning": "bần cùng"
     },
     {
-      "word": "困却",
-      "reading": "こんきゃく",
-      "meaning": "sự lúng túng"
+      "word": "困った",
+      "reading": "こまった",
+      "meaning": "khó khăn"
     },
     {
-      "word": "困厄",
-      "reading": "こんやく",
-      "meaning": "khổ sở"
+      "word": "困難な",
+      "reading": "こんなんな",
+      "meaning": "gay go"
+    },
+    {
+      "word": "貧困者",
+      "reading": "ひんこんしゃ",
+      "meaning": "người nghèo"
+    },
+    {
+      "word": "貧困化",
+      "reading": "ひんこんか",
+      "meaning": "bần cùng hóa"
+    },
+    {
+      "word": "貧困線",
+      "reading": "ひんこんせん",
+      "meaning": "mức sống tối thiểu"
     },
     {
       "word": "貧困層",
       "reading": "ひんこんそう",
       "meaning": "lớp dưới"
+    },
+    {
+      "word": "困り者",
+      "reading": "こまりもの",
+      "meaning": "vô dụng"
     }
   ]
 }

@@ -96,34 +96,39 @@
       "meaning": "phái thiền"
     },
     {
-      "word": "座禅",
-      "reading": "ざぜん",
-      "meaning": "tham thiền"
+      "word": "生禅",
+      "reading": "なまぜん",
+      "meaning": "thiền nửa vời"
     },
     {
-      "word": "坐禅",
-      "reading": "ざぜん",
-      "meaning": "sự tọa thiền"
+      "word": "禅法",
+      "reading": "ぜんぽう",
+      "meaning": "phương pháp nghiên cứu và thực hành phật giáo dựa trên sự tập trung thiền định"
     },
     {
-      "word": "参禅",
-      "reading": "さんぜん",
-      "meaning": "sự trầm ngâm zen"
+      "word": "禅道",
+      "reading": "ぜんどう",
+      "meaning": "thiền đường"
     },
     {
-      "word": "封禅",
-      "reading": "ほうぜん",
-      "meaning": "nghi thức cúng thần cổ xưa của trung hoa"
+      "word": "禅戦",
+      "reading": "ぜんいくさ",
+      "meaning": "thiện chiến"
     },
     {
-      "word": "禅師",
-      "reading": "ぜんじ",
-      "meaning": "thiền sư"
+      "word": "禅語",
+      "reading": "ぜんご",
+      "meaning": "thiền ngữ"
     },
     {
-      "word": "禅那",
-      "reading": "ぜんな",
-      "meaning": "thiền trong phật giáo"
+      "word": "禅画",
+      "reading": "ぜんが",
+      "meaning": "zen vẽ"
+    },
+    {
+      "word": "禅院",
+      "reading": "ぜんいん",
+      "meaning": "thiền tự"
     },
     {
       "word": "禅寺",
@@ -131,14 +136,9 @@
       "meaning": "chùa của phái thiền"
     },
     {
-      "word": "禅宗",
-      "reading": "ぜんしゅう",
-      "meaning": "phái thiền"
-    },
-    {
-      "word": "禅話",
-      "reading": "ぜんわ",
-      "meaning": "zen nói"
+      "word": "禅知",
+      "reading": "ぜんち",
+      "meaning": "trí tuệ của thiền"
     }
   ]
 }

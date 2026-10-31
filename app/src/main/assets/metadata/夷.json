@@ -61,9 +61,14 @@
       "meaning": "người man di"
     },
     {
-      "word": "夷則",
-      "reading": "いそく",
-      "meaning": "nốt thứ 9 trong hệ thống âm nhạc cổ trung quốc"
+      "word": "夷人",
+      "reading": "いじん",
+      "meaning": "người man rợ"
+    },
+    {
+      "word": "夷国",
+      "reading": "いこく",
+      "meaning": "quốc gia ngoại bang"
     },
     {
       "word": "四夷",
@@ -76,34 +81,29 @@
       "meaning": "thảo quyết minh"
     },
     {
+      "word": "華夷",
+      "reading": "かい",
+      "meaning": "trung quốc và nước ngoài"
+    },
+    {
       "word": "蝦夷",
       "reading": "えみし",
       "meaning": "tên&nbsp"
     },
     {
-      "word": "夷人",
-      "reading": "いじん",
-      "meaning": "người man rợ"
+      "word": "蝦夷地",
+      "reading": "えぞち",
+      "meaning": "ezo"
     },
     {
-      "word": "夷俗",
-      "reading": "いぞく",
-      "meaning": "những phong tục những người man rợ"
+      "word": "波羅夷",
+      "reading": "はらい",
+      "meaning": "các quy tắc yêu cầu trục xuất khỏi tăng đoàn suốt đời"
     },
     {
-      "word": "蕃夷",
-      "reading": "ばんい",
-      "meaning": "người tàn bạo"
-    },
-    {
-      "word": "蛮夷",
-      "reading": "ばんい",
-      "meaning": "hoang vu"
-    },
-    {
-      "word": "夷狄",
-      "reading": "いてき",
-      "meaning": "người tiền sử"
+      "word": "蝦夷狼",
+      "reading": "えぞおおかみ",
+      "meaning": "chó sói ezo ezo ōkami"
     }
   ]
 }

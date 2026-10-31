@@ -74,14 +74,9 @@
   ],
   "vocabulary": [
     {
-      "word": "山杜鵑",
-      "reading": "やまほととぎす",
-      "meaning": "chim cuốc rừng"
-    },
-    {
-      "word": "杜宇",
-      "reading": "とう",
-      "meaning": "chim cu gáy nhỏ"
+      "word": "杜父魚",
+      "reading": "かじか",
+      "meaning": "cá bống đá nhật bản"
     },
     {
       "word": "杜仲",
@@ -89,14 +84,19 @@
       "meaning": "cây đỗ trọng"
     },
     {
-      "word": "杜氏",
-      "reading": "とうじ",
-      "meaning": "người ủ rượu bia chính ở một nhà máy bia mục đích nhà phát minh viện dẫn mục đích)"
-    },
-    {
       "word": "杜松",
       "reading": "ねず",
       "meaning": "cây bách xù"
+    },
+    {
+      "word": "杜仲茶",
+      "reading": "とちゅうちゃ",
+      "meaning": "trà tochuu"
+    },
+    {
+      "word": "杜宇",
+      "reading": "とう",
+      "meaning": "chim cu gáy nhỏ"
     },
     {
       "word": "杜撰",
@@ -104,24 +104,24 @@
       "meaning": "không cẩn thận"
     },
     {
-      "word": "杜鵑",
-      "reading": "ほととぎす",
-      "meaning": "chim cu cu nhỏ"
-    },
-    {
-      "word": "杜漏",
-      "reading": "ずろう",
-      "meaning": "cẩu thả"
-    },
-    {
-      "word": "杜絶",
-      "reading": "とぜつ",
-      "meaning": "sự ngừng lại"
+      "word": "杜氏",
+      "reading": "とうじ",
+      "meaning": "người ủ rượu bia chính ở một nhà máy bia mục đích nhà phát minh viện dẫn mục đích)"
     },
     {
       "word": "杜若",
       "reading": "かきつばた",
       "meaning": "mống mắt"
+    },
+    {
+      "word": "山杜鵑",
+      "reading": "やまほととぎす",
+      "meaning": "chim cuốc rừng"
+    },
+    {
+      "word": "杜鵑",
+      "reading": "ほととぎす",
+      "meaning": "chim cu cu nhỏ"
     }
   ]
 }

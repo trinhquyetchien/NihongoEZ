@@ -116,9 +116,19 @@
       "meaning": "ngoài ra"
     },
     {
-      "word": "外傷",
-      "reading": "がいしょう",
-      "meaning": "chấn thương"
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "ngoại ô"
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "hải ngoại"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "ngạc nhiên"
     },
     {
       "word": "除外",
@@ -126,39 +136,29 @@
       "meaning": "sự ngoại trừ"
     },
     {
-      "word": "外膜",
-      "reading": "がいまく",
-      "meaning": "ngọai mạc"
-    },
-    {
       "word": "化外",
       "reading": "けがい",
       "meaning": "vùng đất nằm ngoài phạm vi cai trị"
     },
     {
-      "word": "郊外",
-      "reading": "こうがい",
-      "meaning": "ngoại ô"
+      "word": "県外",
+      "reading": "けんがい",
+      "meaning": "bên ngoài chức quận trưởng"
     },
     {
-      "word": "社外",
-      "reading": "しゃがい",
-      "meaning": "bên ngoài công ty"
+      "word": "外光",
+      "reading": "がいこう",
+      "meaning": "ánh sáng bên ngoài"
     },
     {
-      "word": "市外",
-      "reading": "しがい",
-      "meaning": "ngoại ô thành phố"
+      "word": "船外",
+      "reading": "せんがい",
+      "meaning": "bên ngoài tàu"
     },
     {
-      "word": "戸外",
-      "reading": "こがい",
-      "meaning": "ở ngoài trời"
-    },
-    {
-      "word": "口外",
-      "reading": "こうがい",
-      "meaning": "sự tiết lộ"
+      "word": "州外",
+      "reading": "しゅうがい",
+      "meaning": "ngoại tỉnh"
     }
   ]
 }

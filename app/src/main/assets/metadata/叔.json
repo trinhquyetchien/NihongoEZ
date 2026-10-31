@@ -86,29 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "叔母",
-      "reading": "おば",
-      "meaning": "dì"
-    },
-    {
-      "word": "伯叔",
-      "reading": "はくしゅく",
-      "meaning": "anh em"
-    },
-    {
-      "word": "叔世",
-      "reading": "しゅくせい",
-      "meaning": "già đi sự suy tàn (được nói một dân tộc)"
-    },
-    {
       "word": "叔父",
       "reading": "おじ",
       "meaning": "cậu"
-    },
-    {
-      "word": "阿叔",
-      "reading": "おとおじ",
-      "meaning": "chú"
     },
     {
       "word": "叔父貴",
@@ -116,9 +96,19 @@
       "meaning": "chú"
     },
     {
-      "word": "大叔母",
-      "reading": "おおおば",
-      "meaning": "bà bác"
+      "word": "叔母",
+      "reading": "おば",
+      "meaning": "dì"
+    },
+    {
+      "word": "阿叔",
+      "reading": "おとおじ",
+      "meaning": "chú"
+    },
+    {
+      "word": "伯叔",
+      "reading": "はくしゅく",
+      "meaning": "anh em"
     },
     {
       "word": "大叔父",
@@ -126,9 +116,19 @@
       "meaning": "ông chú"
     },
     {
-      "word": "叔母さん",
-      "reading": "おばさん",
-      "meaning": "cô"
+      "word": "大叔母",
+      "reading": "おおおば",
+      "meaning": "bà bác"
+    },
+    {
+      "word": "叔世",
+      "reading": "しゅくせい",
+      "meaning": "già đi sự suy tàn (được nói một dân tộc)"
+    },
+    {
+      "word": "父の叔父",
+      "reading": "ちちのおじ",
+      "meaning": "cha chú"
     },
     {
       "word": "叔父さん",

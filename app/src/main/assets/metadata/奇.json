@@ -92,34 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "奇",
-      "reading": "き",
-      "meaning": "kì lạ"
-    },
-    {
-      "word": "奇奇怪怪",
-      "reading": "ききかいかい",
-      "meaning": "kỳ quái"
-    },
-    {
       "word": "奇数",
       "reading": "きすう",
       "meaning": "số lẻ"
-    },
-    {
-      "word": "数奇",
-      "reading": "すうき",
-      "meaning": "khác nhau"
-    },
-    {
-      "word": "奇蹟",
-      "reading": "きせき",
-      "meaning": "sự kỳ diệu"
-    },
-    {
-      "word": "奇声",
-      "reading": "きせい",
-      "meaning": "giong nói chói tai"
     },
     {
       "word": "好奇",
@@ -127,9 +102,14 @@
       "meaning": "sự tò mò"
     },
     {
-      "word": "奇行",
-      "reading": "きこう",
-      "meaning": "tính lập dị"
+      "word": "奇",
+      "reading": "き",
+      "meaning": "kì lạ"
+    },
+    {
+      "word": "奇体",
+      "reading": "きたい",
+      "meaning": "kỳ dị"
     },
     {
       "word": "奇祭",
@@ -137,9 +117,29 @@
       "meaning": "lễ hội kỳ lạ"
     },
     {
-      "word": "奇特",
-      "reading": "きとく",
-      "meaning": "đáng khen ngời"
+      "word": "奇石",
+      "reading": "きせき",
+      "meaning": "đá kỳ lạ"
+    },
+    {
+      "word": "奇兵",
+      "reading": "きへい",
+      "meaning": "kỵ binh"
+    },
+    {
+      "word": "怪奇",
+      "reading": "かいき",
+      "meaning": "kì quái"
+    },
+    {
+      "word": "奇譚",
+      "reading": "きたん",
+      "meaning": "câu chuyện bí ẩn"
+    },
+    {
+      "word": "奇遇",
+      "reading": "きぐう",
+      "meaning": "kỳ ngộ"
     }
   ]
 }

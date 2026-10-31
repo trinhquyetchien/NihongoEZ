@@ -109,19 +109,14 @@
   ],
   "vocabulary": [
     {
-      "word": "良",
-      "reading": "りょう",
-      "meaning": "tốt"
+      "word": "不良",
+      "reading": "ふりょう",
+      "meaning": "bất hảo"
     },
     {
-      "word": "良知良能",
-      "reading": "りょうちりょうのう",
-      "meaning": "trí tuệ và tài năng thiên bẩm"
-    },
-    {
-      "word": "良く良く",
-      "reading": "よくよく",
-      "meaning": "vô cùng"
+      "word": "良心",
+      "reading": "りょうしん",
+      "meaning": "lương tâm"
     },
     {
       "word": "善良",
@@ -129,14 +124,9 @@
       "meaning": "hoàn hảo"
     },
     {
-      "word": "良き",
-      "reading": "よき",
-      "meaning": "tốt"
-    },
-    {
-      "word": "良酒",
-      "reading": "りょうしゅ",
-      "meaning": "rượu ngon"
+      "word": "良い",
+      "reading": "よい",
+      "meaning": "hay"
     },
     {
       "word": "良く",
@@ -144,19 +134,29 @@
       "meaning": "tuyệt diệu"
     },
     {
-      "word": "良い",
-      "reading": "よい",
-      "meaning": "hay"
+      "word": "良",
+      "reading": "りょう",
+      "meaning": "tốt"
     },
     {
-      "word": "良家",
-      "reading": "りょうけ",
-      "meaning": "gia đình giàu có và gia giáo"
+      "word": "良日",
+      "reading": "りょうじつ",
+      "meaning": "ngày tốt"
     },
     {
-      "word": "良書",
-      "reading": "りょうしょ",
-      "meaning": "sách quý"
+      "word": "良酒",
+      "reading": "りょうしゅ",
+      "meaning": "rượu ngon"
+    },
+    {
+      "word": "良師",
+      "reading": "りょうし",
+      "meaning": "giáo viên giỏi"
+    },
+    {
+      "word": "良馬",
+      "reading": "りょうば",
+      "meaning": "ngựa tốt"
     }
   ]
 }

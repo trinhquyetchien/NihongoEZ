@@ -92,19 +92,9 @@
       "meaning": "quả đồi"
     },
     {
-      "word": "沙丘",
-      "reading": "さきゅう",
-      "meaning": "đổ cát ngọn đồi"
-    },
-    {
-      "word": "砂丘",
-      "reading": "さきゅう",
-      "meaning": "cồn cát"
-    },
-    {
-      "word": "墳丘",
-      "reading": "ふんきゅう",
-      "meaning": "phần mộ"
+      "word": "丘陵",
+      "reading": "きゅうりょう",
+      "meaning": "đồi núi"
     },
     {
       "word": "円丘",
@@ -112,14 +102,24 @@
       "meaning": "gò đống"
     },
     {
-      "word": "丘上",
-      "reading": "きゅうじょう",
-      "meaning": "đỉnh đồi"
+      "word": "下丘",
+      "reading": "かきゅー",
+      "meaning": "não sinh tư dưới"
     },
     {
-      "word": "丘疹",
-      "reading": "きゅうしん",
-      "meaning": "mụn nhọt"
+      "word": "小丘",
+      "reading": "しょうきゅう",
+      "meaning": "đồi nhỏ"
+    },
+    {
+      "word": "丘辺",
+      "reading": "おかべ",
+      "meaning": "vùng lân cận một ngọn đồi"
+    },
+    {
+      "word": "氷丘",
+      "reading": "ひょうきゅう",
+      "meaning": "phần nổi của tảng băng"
     },
     {
       "word": "恥丘",
@@ -127,14 +127,14 @@
       "meaning": "mu"
     },
     {
-      "word": "段丘",
-      "reading": "だんきゅう",
-      "meaning": "đắp cao"
+      "word": "沙丘",
+      "reading": "さきゅう",
+      "meaning": "đổ cát ngọn đồi"
     },
     {
-      "word": "比丘",
-      "reading": "びく",
-      "meaning": "nhà sư"
+      "word": "氷丘脈",
+      "reading": "ひょうきゅうみゃく",
+      "meaning": "đỉnh áp lực"
     }
   ]
 }

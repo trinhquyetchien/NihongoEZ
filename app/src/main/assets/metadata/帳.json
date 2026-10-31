@@ -89,34 +89,44 @@
   ],
   "vocabulary": [
     {
+      "word": "手帳",
+      "reading": "てちょう",
+      "meaning": "sổ tay"
+    },
+    {
+      "word": "通帳",
+      "reading": "つうちょう",
+      "meaning": "sổ tài khoản"
+    },
+    {
       "word": "帳",
       "reading": "ちょう",
       "meaning": "màn"
     },
     {
-      "word": "帳簿/記録帳",
-      "reading": "ちょうぼ/きろくちょう",
-      "meaning": "sổ sách/kế toán sách"
+      "word": "名帳",
+      "reading": "めいちょう",
+      "meaning": "sổ tên"
     },
     {
-      "word": "クロッキー帳",
-      "reading": "クロッキーちょう",
-      "meaning": "nghệ sĩ"
+      "word": "写真帳",
+      "reading": "しゃしんちょう",
+      "meaning": "chụp ảnh album"
     },
     {
-      "word": "宿帳",
-      "reading": "やどちょう",
-      "meaning": "sổ đăng kí nghỉ trọ"
+      "word": "帳台",
+      "reading": "ちょうだい",
+      "meaning": "giường ngủ có rèm che trong dinh thự phong cách shinden"
     },
     {
-      "word": "帳票",
-      "reading": "ちょうひょう",
-      "meaning": "báo cáo"
+      "word": "変帳",
+      "reading": "",
+      "meaning": "đổi sổ"
     },
     {
-      "word": "蝿帳",
-      "reading": "はいちょう",
-      "meaning": "một ngăn tủ nhỏ đựng thức ăn có lưới an toàn để tránh ruồi bay vào"
+      "word": "番号帳",
+      "reading": "ばんごうちょう",
+      "meaning": "sổ tay ghi số điện thoại"
     },
     {
       "word": "帳表",
@@ -124,19 +134,9 @@
       "meaning": "biểu mẫu"
     },
     {
-      "word": "台帳",
-      "reading": "だいちょう",
-      "meaning": "sách tài khoản"
-    },
-    {
-      "word": "帳場",
-      "reading": "ちょうば",
-      "meaning": "sự tiếp nhận"
-    },
-    {
-      "word": "元帳",
-      "reading": "もとちょう",
-      "meaning": "sổ cái"
+      "word": "学習帳",
+      "reading": "がくしゅうちょう",
+      "meaning": "sổ"
     }
   ]
 }

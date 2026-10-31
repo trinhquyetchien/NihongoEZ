@@ -88,19 +88,19 @@
   ],
   "vocabulary": [
     {
-      "word": "緯度(緯線)",
-      "reading": "いど(いせん)",
-      "meaning": "độ vĩ"
+      "word": "緯度",
+      "reading": "いど",
+      "meaning": "vĩ độ"
     },
     {
-      "word": "赤緯",
-      "reading": "せきい",
-      "meaning": "xích vĩ hay xích vĩ độ"
+      "word": "経緯",
+      "reading": "けいい",
+      "meaning": "nguồn cơn"
     },
     {
-      "word": "南緯",
-      "reading": "なんい",
-      "meaning": "vỹ nam"
+      "word": "経緯儀",
+      "reading": "けいいぎ",
+      "meaning": "máy kinh vĩ"
     },
     {
       "word": "北緯",
@@ -108,19 +108,14 @@
       "meaning": "bắc vĩ tuyến"
     },
     {
-      "word": "緯度",
-      "reading": "いど",
-      "meaning": "vĩ độ"
+      "word": "中緯度",
+      "reading": "ちゅういど",
+      "meaning": "vĩ độ trung"
     },
     {
-      "word": "緯線",
-      "reading": "いせん",
-      "meaning": "đường song song"
-    },
-    {
-      "word": "経緯",
-      "reading": "けいい",
-      "meaning": "nguồn cơn"
+      "word": "赤緯",
+      "reading": "せきい",
+      "meaning": "xích vĩ hay xích vĩ độ"
     },
     {
       "word": "緯書",
@@ -133,9 +128,14 @@
       "meaning": "vĩ độ thiên cầu"
     },
     {
-      "word": "緯糸",
-      "reading": "よこいと",
-      "meaning": "sợi ngang"
+      "word": "南緯",
+      "reading": "なんい",
+      "meaning": "vỹ nam"
+    },
+    {
+      "word": "高緯度",
+      "reading": "こういど",
+      "meaning": "vĩ độ cao"
     }
   ]
 }

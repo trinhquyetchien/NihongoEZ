@@ -91,39 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "財",
-      "reading": "ざい",
-      "meaning": "tài sản"
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "bao tượng"
     },
     {
-      "word": "一財",
-      "reading": "いちざい",
-      "meaning": "một loại tài sản"
-    },
-    {
-      "word": "財団",
-      "reading": "ざいだん",
-      "meaning": "quỹ"
-    },
-    {
-      "word": "借財",
-      "reading": "しゃくざい",
-      "meaning": "sự vay tiền"
-    },
-    {
-      "word": "財宝",
-      "reading": "ざいほう",
-      "meaning": "kho báu"
-    },
-    {
-      "word": "財力",
-      "reading": "ざいりょく",
-      "meaning": "tài lực"
-    },
-    {
-      "word": "財界",
-      "reading": "ざいかい",
-      "meaning": "giới tài chính"
+      "word": "財産",
+      "reading": "ざいさん",
+      "meaning": "của"
     },
     {
       "word": "財政",
@@ -131,14 +106,39 @@
       "meaning": "tài chính"
     },
     {
+      "word": "財",
+      "reading": "ざい",
+      "meaning": "tài sản"
+    },
+    {
+      "word": "財源",
+      "reading": "ざいげん",
+      "meaning": "ngân quỹ"
+    },
+    {
+      "word": "全財産",
+      "reading": "ぜんざいさん",
+      "meaning": "toàn bộ tài sản"
+    },
+    {
+      "word": "財産権",
+      "reading": "ざいさんけん",
+      "meaning": "các quyền sở hữu tài sản.+ những quyền này nói đến việc cho phép sử dụng tài nguyên"
+    },
+    {
+      "word": "財政部",
+      "reading": "ざいせいぶ",
+      "meaning": "bộ tài chính"
+    },
+    {
       "word": "財務",
       "reading": "ざいむ",
       "meaning": "công việc tài chính"
     },
     {
-      "word": "散財",
-      "reading": "さんざい",
-      "meaning": "sự tiêu tiền"
+      "word": "財団",
+      "reading": "ざいだん",
+      "meaning": "quỹ"
     }
   ]
 }

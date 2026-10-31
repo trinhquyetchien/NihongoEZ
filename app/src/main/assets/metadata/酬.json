@@ -88,34 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "応酬",
-      "reading": "おうしゅう",
-      "meaning": "đáp trả"
-    },
-    {
-      "word": "献酬",
-      "reading": "けんしゅう",
-      "meaning": "trao đổi mục đích những cúp"
-    },
-    {
-      "word": "酬い",
-      "reading": "むくい",
-      "meaning": "trở lại"
-    },
-    {
       "word": "報酬",
       "reading": "ほうしゅう",
       "meaning": "trả công"
-    },
-    {
-      "word": "互酬",
-      "reading": "ごしゅう",
-      "meaning": "sự nhân nhượng"
-    },
-    {
-      "word": "貴酬",
-      "reading": "きしゅう",
-      "meaning": "trả lời"
     },
     {
       "word": "無報酬",
@@ -123,19 +98,44 @@
       "meaning": "sự miễn trách"
     },
     {
-      "word": "互酬性",
-      "reading": "ごしゅうせい",
-      "meaning": "có đi có lại"
-    },
-    {
       "word": "総報酬",
       "reading": "そうほうしゅう",
       "meaning": "tổng lương"
     },
     {
-      "word": "信託報酬",
-      "reading": "しんたくほうしゅう",
-      "meaning": "phí ủy thác"
+      "word": "応酬",
+      "reading": "おうしゅう",
+      "meaning": "đáp trả"
+    },
+    {
+      "word": "互酬",
+      "reading": "ごしゅう",
+      "meaning": "sự nhân nhượng"
+    },
+    {
+      "word": "互酬性",
+      "reading": "ごしゅうせい",
+      "meaning": "có đi có lại"
+    },
+    {
+      "word": "酬い",
+      "reading": "むくい",
+      "meaning": "trở lại"
+    },
+    {
+      "word": "献酬",
+      "reading": "けんしゅう",
+      "meaning": "trao đổi mục đích những cúp"
+    },
+    {
+      "word": "貴酬",
+      "reading": "きしゅう",
+      "meaning": "trả lời"
+    },
+    {
+      "word": "特別報酬",
+      "reading": "とくべつほうしゅう",
+      "meaning": "tiền thưởng đặc biệt"
     }
   ]
 }

@@ -91,14 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "抱き抱える",
-      "reading": "だきかかえる",
-      "meaning": "nắm giữ"
+      "word": "抱く",
+      "reading": "いだく",
+      "meaning": "bao trùm"
     },
     {
-      "word": "抱合",
-      "reading": "ほうごう",
-      "meaning": "sự liên kết"
+      "word": "抱える",
+      "reading": "かかえる",
+      "meaning": "ôm"
     },
     {
       "word": "辛抱",
@@ -106,14 +106,9 @@
       "meaning": "sự kiên nhẫn"
     },
     {
-      "word": "抱く",
-      "reading": "いだく",
-      "meaning": "bao trùm"
-    },
-    {
-      "word": "抱瓶",
-      "reading": "だちびん",
-      "meaning": "bình đựng rượu"
+      "word": "介抱",
+      "reading": "かいほう",
+      "meaning": "sự chăm sóc"
     },
     {
       "word": "抱え",
@@ -121,24 +116,29 @@
       "meaning": "ôm"
     },
     {
-      "word": "合抱",
-      "reading": "ごうほう",
+      "word": "抱え手",
+      "reading": "かかえて",
+      "meaning": "ấp ủ"
+    },
+    {
+      "word": "抱え主",
+      "reading": "かかえぬし",
+      "meaning": "chủ nhân"
+    },
+    {
+      "word": "石抱き",
+      "reading": "いしだき",
+      "meaning": "hình phạt vác đá trên nêm"
+    },
+    {
+      "word": "心抱く",
+      "reading": "こころをいだく",
       "meaning": "ôm"
     },
     {
-      "word": "懐抱",
-      "reading": "かいほう",
-      "meaning": "hoài bão"
-    },
-    {
-      "word": "抱卵",
-      "reading": "ほうらん",
-      "meaning": "sự ấp trứng"
-    },
-    {
-      "word": "抱負",
-      "reading": "ほうふ",
-      "meaning": "sư ôm ấp"
+      "word": "抱き癖",
+      "reading": "だきぐせ",
+      "meaning": "sự làm nũng"
     }
   ]
 }

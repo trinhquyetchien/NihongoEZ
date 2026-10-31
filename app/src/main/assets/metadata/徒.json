@@ -107,6 +107,36 @@
   ],
   "vocabulary": [
     {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "học sinh"
+    },
+    {
+      "word": "徒歩",
+      "reading": "とほ",
+      "meaning": "sự đi bộ"
+    },
+    {
+      "word": "教徒",
+      "reading": "きょうと",
+      "meaning": "tín đồ"
+    },
+    {
+      "word": "使徒",
+      "reading": "しと",
+      "meaning": "môn đồ"
+    },
+    {
+      "word": "暴徒",
+      "reading": "ぼうと",
+      "meaning": "người bạo động"
+    },
+    {
+      "word": "信徒",
+      "reading": "しんと",
+      "meaning": "giáo dân"
+    },
+    {
       "word": "徒",
       "reading": "かち",
       "meaning": "vô ích"
@@ -117,44 +147,14 @@
       "meaning": "lãng phí"
     },
     {
-      "word": "使徒",
-      "reading": "しと",
-      "meaning": "môn đồ"
+      "word": "徒心",
+      "reading": "あだごころ",
+      "meaning": "trái tim không chung thủy"
     },
     {
-      "word": "教徒",
-      "reading": "きょうと",
-      "meaning": "tín đồ"
-    },
-    {
-      "word": "門徒",
-      "reading": "もんと",
-      "meaning": "người theo"
-    },
-    {
-      "word": "徒言",
-      "reading": "ただごと",
-      "meaning": "lời nói vô nghĩa"
-    },
-    {
-      "word": "司徒",
-      "reading": "しと",
-      "meaning": "tư đồ"
-    },
-    {
-      "word": "徒手",
-      "reading": "としゅ",
-      "meaning": "hai bàn tay trắng"
-    },
-    {
-      "word": "徒労",
-      "reading": "とろう",
-      "meaning": "kế hoạch dang dở"
-    },
-    {
-      "word": "徒渉",
-      "reading": "としょう",
-      "meaning": "sự lội qua"
+      "word": "徒人",
+      "reading": "ただびと",
+      "meaning": "người thường"
     }
   ]
 }

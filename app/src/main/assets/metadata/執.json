@@ -90,19 +90,44 @@
   ],
   "vocabulary": [
     {
-      "word": "執",
-      "reading": "しゅう",
-      "meaning": "sự gắn bó"
-    },
-    {
       "word": "執筆",
       "reading": "しっぴつ",
       "meaning": "việc viết văn"
     },
     {
-      "word": "執拗",
-      "reading": "しつよう",
-      "meaning": "ngoan cố"
+      "word": "執着",
+      "reading": "しゅうちゃく",
+      "meaning": "không lúc nào quên"
+    },
+    {
+      "word": "執行",
+      "reading": "しっこう",
+      "meaning": "sự chấp hành"
+    },
+    {
+      "word": "代執行",
+      "reading": "だいしっこう",
+      "meaning": "thực hiện theo uỷ nhiệm"
+    },
+    {
+      "word": "執行部",
+      "reading": "しっこうぶ",
+      "meaning": "ban chấp hành"
+    },
+    {
+      "word": "執行役",
+      "reading": "しっこうやく",
+      "meaning": "cán sự điều hành"
+    },
+    {
+      "word": "執筆者",
+      "reading": "しっぴつしゃ",
+      "meaning": "tác giả"
+    },
+    {
+      "word": "仮執行",
+      "reading": "かりしっこう",
+      "meaning": "sự thực hiện tạm thời"
     },
     {
       "word": "執事",
@@ -110,34 +135,9 @@
       "meaning": "người phục vụ"
     },
     {
-      "word": "中執",
-      "reading": "ちゅうしつ",
-      "meaning": "ủy ban hành pháp trung tâm"
-    },
-    {
-      "word": "我執",
-      "reading": "がしゅう",
-      "meaning": "tính tự cao tự đại"
-    },
-    {
-      "word": "確執",
-      "reading": "かくしつ",
-      "meaning": "sự bất hòa"
-    },
-    {
-      "word": "執刀",
-      "reading": "しっとう",
-      "meaning": "thực hiện một thao tác phẫu thuật"
-    },
-    {
-      "word": "偏執",
-      "reading": "へんしゅう",
-      "meaning": "thiên lệch"
-    },
-    {
-      "word": "妄執",
-      "reading": "もうしゅう",
-      "meaning": "một nỗi ám ảnh mà con người không thể hiểu được và vẫn còn mắc kẹt với sự do dự của trái tim"
+      "word": "執拗",
+      "reading": "しつよう",
+      "meaning": "ngoan cố"
     }
   ]
 }

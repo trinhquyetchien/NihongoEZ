@@ -89,39 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "疑",
-      "reading": "ぎ",
-      "meaning": "mối nghi ngờ"
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "sự nghi vấn"
     },
     {
-      "word": "疑心",
-      "reading": "ぎしん",
-      "meaning": "sự nghi ngờ"
+      "word": "疑う",
+      "reading": "うたがう",
+      "meaning": "hiềm"
     },
     {
-      "word": "疑り",
-      "reading": "うたぐり",
-      "meaning": "sự nghi ngờ"
-    },
-    {
-      "word": "嫌疑",
-      "reading": "けんぎ",
-      "meaning": "sự hiềm nghi"
-    },
-    {
-      "word": "危疑",
-      "reading": "きぎ",
-      "meaning": "nỗi e sợ"
-    },
-    {
-      "word": "疑団",
-      "reading": "ぎだん",
-      "meaning": "nỗi nghi ngờ"
-    },
-    {
-      "word": "信疑",
-      "reading": "しんぎ",
-      "meaning": "tính đúng thật"
+      "word": "疑惑",
+      "reading": "ぎわく",
+      "meaning": "sự nghi hoặc"
     },
     {
       "word": "質疑",
@@ -129,14 +109,34 @@
       "meaning": "câu hỏi"
     },
     {
-      "word": "疑雲",
-      "reading": "ぎうん",
-      "meaning": "sự hoài nghi"
+      "word": "容疑",
+      "reading": "ようぎ",
+      "meaning": "nghi ngờ"
     },
     {
-      "word": "疑懼",
-      "reading": "ぎく",
-      "meaning": "sự nhận thức"
+      "word": "容疑者",
+      "reading": "ようぎしゃ",
+      "meaning": "người khả nghi"
+    },
+    {
+      "word": "疑問点",
+      "reading": "ぎもんてん",
+      "meaning": "điểm nghi vấn"
+    },
+    {
+      "word": "疑問文",
+      "reading": "ぎもんぶん",
+      "meaning": "câu nghi vấn"
+    },
+    {
+      "word": "疑い",
+      "reading": "うたがい",
+      "meaning": "sự nghi ngờ"
+    },
+    {
+      "word": "疑問視",
+      "reading": "ぎもんし",
+      "meaning": "đáng ngờ"
     }
   ]
 }

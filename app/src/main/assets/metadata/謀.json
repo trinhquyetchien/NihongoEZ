@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "謀",
-      "reading": "はかりごと",
-      "meaning": "mưu trí"
+      "word": "陰謀",
+      "reading": "いんぼう",
+      "meaning": "độc kế"
     },
     {
-      "word": "首謀",
-      "reading": "しゅぼう",
-      "meaning": "sự lập kế hoạch"
+      "word": "陰謀者",
+      "reading": "いんぼうしゃ",
+      "meaning": "kẻ âm mưu"
     },
     {
-      "word": "参謀",
-      "reading": "さんぼう",
-      "meaning": "tham mưu"
+      "word": "陰謀家",
+      "reading": "いんぼうか",
+      "meaning": "mưu sĩ"
     },
     {
-      "word": "権謀",
-      "reading": "けんぼう",
-      "meaning": "mưu kế"
+      "word": "陰謀論",
+      "reading": "いんぼうろん",
+      "meaning": "thuyết âm mưu"
     },
     {
-      "word": "遠謀",
-      "reading": "えんぼう",
-      "meaning": "sự thấy trước"
+      "word": "陰謀団",
+      "reading": "いんぼうだん",
+      "meaning": "bè đảng"
     },
     {
-      "word": "謀反",
-      "reading": "むほん",
-      "meaning": "cuộc nổi loạn"
-    },
-    {
-      "word": "謀略",
-      "reading": "ぼうりゃく",
-      "meaning": "mưu lược"
-    },
-    {
-      "word": "謀臣",
-      "reading": "ぼうしん",
-      "meaning": "nhà chiến lược"
-    },
-    {
-      "word": "謀叛",
-      "reading": "むほん",
-      "meaning": "sự phản bội"
+      "word": "陰謀説",
+      "reading": "いんぼうせつ",
+      "meaning": "lý thuyết âm mưu"
     },
     {
       "word": "共謀",
       "reading": "きょうぼう",
       "meaning": "đồng mưu"
+    },
+    {
+      "word": "共謀者",
+      "reading": "きょうぼうしゃ",
+      "meaning": "người âm mưu"
+    },
+    {
+      "word": "無謀",
+      "reading": "むぼう",
+      "meaning": "thiếu suy nghĩ"
+    },
+    {
+      "word": "参謀",
+      "reading": "さんぼう",
+      "meaning": "tham mưu"
     }
   ]
 }

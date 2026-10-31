@@ -106,29 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "稼業",
-      "reading": "かぎょう",
-      "meaning": "việc buôn bán"
-    },
-    {
-      "word": "稼働",
-      "reading": "かどう",
-      "meaning": "hoạt động"
-    },
-    {
-      "word": "稼動",
-      "reading": "かどう",
-      "meaning": "thao tác máy)"
-    },
-    {
       "word": "稼ぐ",
       "reading": "かせぐ",
       "meaning": "kiếm"
     },
     {
-      "word": "稼穡",
-      "reading": "かしょく",
-      "meaning": "thu hoạch"
+      "word": "共稼ぎ",
+      "reading": "ともかせぎ",
+      "meaning": "việc cùng nhau đi làm kiếm tiền"
     },
     {
       "word": "稼ぎ",
@@ -136,9 +121,9 @@
       "meaning": "tiền kiếm được"
     },
     {
-      "word": "荒稼ぎ",
-      "reading": "あらかせぎ",
-      "meaning": "kẻ đầu cơ trục lợi"
+      "word": "稼ぎ人",
+      "reading": "かせぎにん",
+      "meaning": "người làm việc chăm chỉ"
     },
     {
       "word": "稼ぎ時",
@@ -151,9 +136,24 @@
       "meaning": "phương thức kiếm tiền"
     },
     {
-      "word": "稼働中",
-      "reading": "かどうちゅう",
-      "meaning": "đang hoạt động"
+      "word": "一稼ぎ",
+      "reading": "ひとかせぎ",
+      "meaning": "một vụ kiếm chác"
+    },
+    {
+      "word": "稼ぎ手",
+      "reading": "かせぎて",
+      "meaning": "người kiếm tiền"
+    },
+    {
+      "word": "稼ぎ頭",
+      "reading": "かせぎがしら",
+      "meaning": "người có thu nhập cao nhất"
+    },
+    {
+      "word": "稼ぎ高",
+      "reading": "かせぎだか",
+      "meaning": "tiền kiếm được"
     }
   ]
 }

@@ -112,14 +112,9 @@
       "meaning": "cười"
     },
     {
-      "word": "笑うに笑えない",
-      "reading": "わらうにわらえない",
-      "meaning": "nhịn cười"
-    },
-    {
-      "word": "爆笑",
-      "reading": "ばくしょう",
-      "meaning": "sự cười rần lên"
+      "word": "笑顔",
+      "reading": "えがお",
+      "meaning": "khuôn mặt tươi cười"
     },
     {
       "word": "笑い",
@@ -127,34 +122,39 @@
       "meaning": "tiếng cười"
     },
     {
-      "word": "笑顔",
-      "reading": "えがお",
-      "meaning": "khuôn mặt tươi cười"
-    },
-    {
-      "word": "笑み",
-      "reading": "えみ",
+      "word": "微笑",
+      "reading": "びしょう",
       "meaning": "nụ cười mỉm"
     },
     {
-      "word": "笑納",
-      "reading": "しょうのう",
-      "meaning": "vui vẻ nhận"
+      "word": "大笑",
+      "reading": "たいしょう",
+      "meaning": "tiếng cười lớn"
     },
     {
-      "word": "苦笑",
-      "reading": "くしょう",
-      "meaning": "nụ cười cay đắng"
+      "word": "笑い者",
+      "reading": "わらいもの",
+      "meaning": "chú hề"
     },
     {
-      "word": "戯笑",
-      "reading": "ぎしょう",
-      "meaning": "tiếng cười tếu"
+      "word": "口可笑",
+      "reading": "くちおかし",
+      "meaning": "sự dí dỏm"
     },
     {
-      "word": "憫笑",
-      "reading": "びんしょう",
-      "meaning": "nụ cười thương xót"
+      "word": "笑門",
+      "reading": "しょうもん",
+      "meaning": "cười nhiều sẽ sung túc"
+    },
+    {
+      "word": "爆笑",
+      "reading": "ばくしょう",
+      "meaning": "sự cười rần lên"
+    },
+    {
+      "word": "笑談",
+      "reading": "しょうだん",
+      "meaning": "trò chuyện vui vẻ"
     }
   ]
 }

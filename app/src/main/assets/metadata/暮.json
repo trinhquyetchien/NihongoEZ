@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "暮れ暮れ",
-      "reading": "くれぐれ",
-      "meaning": "lúc mặt trời lặn"
+      "word": "暮れる",
+      "reading": "くれる",
+      "meaning": "lặn"
     },
     {
-      "word": "歳暮",
-      "reading": "せいぼ",
-      "meaning": "món quà cuối năm"
+      "word": "暮らし",
+      "reading": "くらし",
+      "meaning": "cuộc sống"
     },
     {
-      "word": "旦暮",
-      "reading": "たんぼ",
-      "meaning": "sáng chiều"
+      "word": "暮らす",
+      "reading": "くらす",
+      "meaning": "mưu sinh"
     },
     {
-      "word": "暮春",
-      "reading": "ぼしゅん",
-      "meaning": "cuối xuân"
+      "word": "暮れ",
+      "reading": "くれ",
+      "meaning": "lúc hoàng hôn"
     },
     {
-      "word": "盆暮",
-      "reading": "ぼんくれ",
-      "meaning": "những liên hoan -e nd bon và năm"
+      "word": "夕暮れ",
+      "reading": "ゆうぐれ",
+      "meaning": "chiều tối"
     },
     {
-      "word": "暮色",
-      "reading": "ぼしょく",
-      "meaning": "sắc màu hoàng hôn"
+      "word": "年暮れ",
+      "reading": "ねんくれ",
+      "meaning": "hết năm"
     },
     {
-      "word": "暮夜",
-      "reading": "ぼや",
-      "meaning": "buổi tối"
-    },
-    {
-      "word": "暮雪",
-      "reading": "ぼせつ",
-      "meaning": "tuyết rơi lúc trời chạng vạng"
-    },
-    {
-      "word": "暮鐘",
-      "reading": "ぼしょう",
-      "meaning": "chuông ngân lúc hoàng hôn"
-    },
-    {
-      "word": "暮方",
+      "word": "暮れ方",
       "reading": "くれがた",
       "meaning": "buổi chiều"
+    },
+    {
+      "word": "薄暮れ",
+      "reading": "うすぐれ",
+      "meaning": "chạng vạng"
+    },
+    {
+      "word": "暮の春",
+      "reading": "くれのはる",
+      "meaning": "cuối mùa thu"
+    },
+    {
+      "word": "春の暮",
+      "reading": "はるのくれ",
+      "meaning": "cuối xuân"
     }
   ]
 }

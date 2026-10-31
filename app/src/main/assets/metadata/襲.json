@@ -100,44 +100,44 @@
       "meaning": "công kích"
     },
     {
-      "word": "侵襲",
-      "reading": "しんしゅう",
-      "meaning": "sự xâm lược"
-    },
-    {
-      "word": "強襲",
-      "reading": "きょうしゅう",
-      "meaning": "cuộc tấn công"
-    },
-    {
-      "word": "来襲",
-      "reading": "らいしゅう",
-      "meaning": "sự tấn công"
-    },
-    {
-      "word": "襲歩",
-      "reading": "しゅうほ",
-      "meaning": "phi nước đại"
-    },
-    {
-      "word": "襲用",
-      "reading": "しゅうよう",
-      "meaning": "sự tiếp nhận"
-    },
-    {
-      "word": "襲名",
-      "reading": "しゅうめい",
-      "meaning": "kế thừa tên tuổi của người tiền nhiệm"
-    },
-    {
-      "word": "襲爵",
-      "reading": "しゅうしゃく",
-      "meaning": "sự kế vị chức tước quý tộc"
+      "word": "襲撃者",
+      "reading": "しゅうげきしゃ",
+      "meaning": "kẻ tấn công"
     },
     {
       "word": "襲来",
       "reading": "しゅうらい",
       "meaning": "xâm lược"
+    },
+    {
+      "word": "空襲",
+      "reading": "くうしゅう",
+      "meaning": "sự không kích"
+    },
+    {
+      "word": "大空襲",
+      "reading": "だいくうしゅう",
+      "meaning": "cuộc không kích lớn"
+    },
+    {
+      "word": "逆襲",
+      "reading": "ぎゃくしゅう",
+      "meaning": "phản kháng"
+    },
+    {
+      "word": "奇襲",
+      "reading": "きしゅう",
+      "meaning": "sự đột kích"
+    },
+    {
+      "word": "世襲",
+      "reading": "せしゅう",
+      "meaning": "sự di truyền"
+    },
+    {
+      "word": "踏襲",
+      "reading": "とうしゅう",
+      "meaning": "sự dựa theo"
     }
   ]
 }

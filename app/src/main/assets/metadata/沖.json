@@ -96,24 +96,39 @@
       "meaning": "biển khơi"
     },
     {
-      "word": "沖積",
-      "reading": "ちゅうせき",
-      "meaning": "bồi tích"
+      "word": "沖縄",
+      "reading": "おきなわ",
+      "meaning": "tỉnh okinawa"
     },
     {
-      "word": "沖天",
-      "reading": "ちゅうてん",
-      "meaning": "sự trèo lên trời cao"
+      "word": "沖縄県",
+      "reading": "おきなわけん",
+      "meaning": "chức quận trưởng ở đảo okinawa nước nhật"
     },
     {
-      "word": "沖釣",
-      "reading": "おきづり",
-      "meaning": "sự câu cá ngoài khơi"
+      "word": "沖縄口",
+      "reading": "うちなあぐち",
+      "meaning": "phương ngữ vùng okinawa"
     },
     {
-      "word": "沖合",
-      "reading": "おきあい",
-      "meaning": "ngoài khơi"
+      "word": "沖縄戦",
+      "reading": "おきなわせん",
+      "meaning": "trận okinawa"
+    },
+    {
+      "word": "沖縄学",
+      "reading": "おきなわがく",
+      "meaning": "okinawan studies"
+    },
+    {
+      "word": "沖する",
+      "reading": "ちゅうする",
+      "meaning": "bay lên cao"
+    },
+    {
+      "word": "沖言葉",
+      "reading": "おきことば",
+      "meaning": "từ kiêng kỵ của ngư dân"
     },
     {
       "word": "沖波",
@@ -121,24 +136,9 @@
       "meaning": "offing wave"
     },
     {
-      "word": "沖鱛",
-      "reading": "おきえそ",
-      "meaning": "trachinocephalus myops"
-    },
-    {
-      "word": "沖螺",
-      "reading": "おきにし",
-      "meaning": "warty frog shell"
-    },
-    {
-      "word": "沖縄",
-      "reading": "おきなわ",
-      "meaning": "tỉnh okinawa"
-    },
-    {
-      "word": "沖縄戦",
-      "reading": "おきなわせん",
-      "meaning": "trận okinawa"
+      "word": "沖釣り",
+      "reading": "おきづり",
+      "meaning": "sự câu cá ngoài khơi"
     }
   ]
 }

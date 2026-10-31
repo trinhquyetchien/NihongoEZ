@@ -93,9 +93,19 @@
       "meaning": "sự phồn thịnh"
     },
     {
+      "word": "福祉関係",
+      "reading": "ふくしかんけい",
+      "meaning": "phúc lợi xã hội"
+    },
+    {
       "word": "社会福祉",
       "reading": "しゃかいふくし",
       "meaning": "phúc lợi xã hội"
+    },
+    {
+      "word": "福祉電話",
+      "reading": "ふくしでんわ",
+      "meaning": "điện thoại phúc lợi"
     },
     {
       "word": "福祉事業",
@@ -103,14 +113,14 @@
       "meaning": "sự nghiệp phúc lợi"
     },
     {
-      "word": "福祉商法",
-      "reading": "ふくししょうほう",
-      "meaning": "lợi dụng từ thiện để trục lợi"
+      "word": "福祉施設",
+      "reading": "ふくししせつ",
+      "meaning": "tổ chức phúc lợi"
     },
     {
-      "word": "保健福祉",
-      "reading": "ほけんふくし",
-      "meaning": "sức khỏe và phúc lợi"
+      "word": "動物福祉",
+      "reading": "どうぶつふくし",
+      "meaning": "phúc lợi dành cho động vật"
     },
     {
       "word": "福祉国家",
@@ -118,19 +128,9 @@
       "meaning": "nhà nước mà ở đó việc phúc lợi được phát triển mạnh và do nhà nước thực hiện"
     },
     {
-      "word": "福祉機器",
-      "reading": "ふくしきき",
-      "meaning": "bộ máy phúc lợi"
-    },
-    {
-      "word": "児童福祉",
-      "reading": "じどうふくし",
-      "meaning": "phúc lợi trẻ em"
-    },
-    {
-      "word": "福祉車両",
-      "reading": "ふくししゃりょう",
-      "meaning": "xe cộ cho những người tàn tật"
+      "word": "健康福祉",
+      "reading": "けんこうふくし",
+      "meaning": "phúc lợi và sức khỏe"
     }
   ]
 }

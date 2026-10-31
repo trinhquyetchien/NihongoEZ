@@ -94,34 +94,39 @@
       "meaning": "chùa"
     },
     {
-      "word": "諸寺",
-      "reading": "しょじ",
-      "meaning": "nhiều đền"
-    },
-    {
       "word": "寺院",
       "reading": "じいん",
       "meaning": "chùa chiền"
     },
     {
-      "word": "お寺",
-      "reading": "おてら",
-      "meaning": "chùa"
+      "word": "私寺",
+      "reading": "しじ",
+      "meaning": "ngôi đền tư nhân"
     },
     {
-      "word": "寺格",
-      "reading": "じかく",
-      "meaning": "tình trạng một miếu tín đồ phật giáo"
+      "word": "氏寺",
+      "reading": "うじでら",
+      "meaning": "miếu thờ xây dựng cho một vị thần bảo vệ dòng họ"
     },
     {
-      "word": "寺中",
-      "reading": "じちゅう",
-      "meaning": "bên trong ngôi chùa"
+      "word": "官寺",
+      "reading": "かんじ",
+      "meaning": "chùa quốc gia"
     },
     {
-      "word": "脇寺",
-      "reading": "わきでら",
-      "meaning": "sub-temple"
+      "word": "当寺",
+      "reading": "とうじ",
+      "meaning": "ngôi đền này"
+    },
+    {
+      "word": "都寺",
+      "reading": "つうす",
+      "meaning": "một trong sáu người quản lý của một ngôi chùa zen"
+    },
+    {
+      "word": "副寺",
+      "reading": "ふうす",
+      "meaning": "phó tự"
     },
     {
       "word": "入寺",
@@ -129,14 +134,9 @@
       "meaning": "vào chùa"
     },
     {
-      "word": "寺号",
-      "reading": "じごう",
-      "meaning": "tên của ngôi chùa"
-    },
-    {
-      "word": "寺内",
-      "reading": "じない",
-      "meaning": "bên trong ngôi chùa"
+      "word": "諸寺",
+      "reading": "しょじ",
+      "meaning": "nhiều đền"
     }
   ]
 }

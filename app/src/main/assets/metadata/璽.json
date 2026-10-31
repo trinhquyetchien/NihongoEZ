@@ -96,21 +96,6 @@
       "meaning": "thanh gươm và ngọc tỷ của vua"
     },
     {
-      "word": "印璽",
-      "reading": "いんじ",
-      "meaning": "sao lại"
-    },
-    {
-      "word": "国璽",
-      "reading": "こくじ",
-      "meaning": "quốc tỷ"
-    },
-    {
-      "word": "璽書",
-      "reading": "じしょ",
-      "meaning": "văn kiện có đóng triện của vua"
-    },
-    {
       "word": "御璽",
       "reading": "ぎょじ",
       "meaning": "ấn triện"
@@ -121,14 +106,29 @@
       "meaning": "những đá quý thần thánh một trong số ba thần thánh tích lũy)"
     },
     {
-      "word": "璽符",
-      "reading": "じふ",
-      "meaning": "dấu ấn hoàng gia"
+      "word": "国璽",
+      "reading": "こくじ",
+      "meaning": "quốc tỷ"
     },
     {
       "word": "国璽書",
       "reading": "こくじしょ",
       "meaning": "ấn riêng của huân tước"
+    },
+    {
+      "word": "印璽",
+      "reading": "いんじ",
+      "meaning": "sao lại"
+    },
+    {
+      "word": "璽書",
+      "reading": "じしょ",
+      "meaning": "văn kiện có đóng triện của vua"
+    },
+    {
+      "word": "璽符",
+      "reading": "じふ",
+      "meaning": "dấu ấn hoàng gia"
     }
   ]
 }

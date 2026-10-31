@@ -59,11 +59,6 @@
       "meaning": "rượu táo"
     },
     {
-      "word": "和林檎",
-      "reading": "わりんご",
-      "meaning": "táo nhật"
-    },
-    {
       "word": "冬林檎",
       "reading": "ふゆりんご",
       "meaning": "táo mùa đông"
@@ -74,14 +69,9 @@
       "meaning": "vỗ - má"
     },
     {
-      "word": "竦林檎貝",
-      "reading": "すくみりんごがい",
-      "meaning": "ốc bươu"
-    },
-    {
-      "word": "西洋林檎",
-      "reading": "せいようりんご",
-      "meaning": "táo tây malus domestica"
+      "word": "和林檎",
+      "reading": "わりんご",
+      "meaning": "táo nhật"
     },
     {
       "word": "林檎の心",
@@ -89,9 +79,19 @@
       "meaning": "lõi quả táo"
     },
     {
+      "word": "西洋林檎",
+      "reading": "せいようりんご",
+      "meaning": "táo tây malus domestica"
+    },
+    {
       "word": "林檎の芯",
       "reading": "りんごのしん",
       "meaning": "lõi táo"
+    },
+    {
+      "word": "竦林檎貝",
+      "reading": "すくみりんごがい",
+      "meaning": "ốc bươu"
     }
   ]
 }

@@ -92,21 +92,6 @@
       "meaning": "con ngươi"
     },
     {
-      "word": "瞳子",
-      "reading": "どうし",
-      "meaning": "học sinh"
-    },
-    {
-      "word": "瞳孔",
-      "reading": "どうこう",
-      "meaning": "tròng đen"
-    },
-    {
-      "word": "縮瞳",
-      "reading": "しゅくどう",
-      "meaning": "co đồng tử"
-    },
-    {
       "word": "散瞳",
       "reading": "さんどう",
       "meaning": "giãn đồng tử"
@@ -122,19 +107,34 @@
       "meaning": "chất giãn đồng tử"
     },
     {
+      "word": "縮瞳",
+      "reading": "しゅくどう",
+      "meaning": "co đồng tử"
+    },
+    {
       "word": "縮瞳剤",
       "reading": "しゅくどーざい",
       "meaning": "co đồng tử"
     },
     {
-      "word": "瞳孔反射",
-      "reading": "どうこうはんしゃ",
-      "meaning": "phản xạ ánh sáng đồng tử"
+      "word": "瞳孔",
+      "reading": "どうこう",
+      "meaning": "tròng đen"
     },
     {
-      "word": "瞳孔散大",
-      "reading": "どうこうさんだい",
-      "meaning": "giãn đồng tử"
+      "word": "瞳子",
+      "reading": "どうし",
+      "meaning": "học sinh"
+    },
+    {
+      "word": "瞳孔障害",
+      "reading": "どーこーしょーがい",
+      "meaning": "rối loạn con ngươi"
+    },
+    {
+      "word": "瞳孔拡張",
+      "reading": "どうこうかくちょう",
+      "meaning": "sự làm giãn nở học sinh"
     }
   ]
 }

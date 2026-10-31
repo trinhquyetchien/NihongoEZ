@@ -111,19 +111,9 @@
       "meaning": "giải thưởng"
     },
     {
-      "word": "ノーベル賞受賞者",
-      "reading": "ノーベルしょうじゅしょうしゃ",
-      "meaning": "người được giải thưởng nobel"
-    },
-    {
-      "word": "恩賞",
-      "reading": "おんしょう",
-      "meaning": "giải thưởng"
-    },
-    {
-      "word": "賞状用紙/賞状筒",
-      "reading": "しょうじょうようし/しょうじょうつつ",
-      "meaning": "giấy chứng nhận / ống chứng nhận"
+      "word": "鑑賞",
+      "reading": "かんしょう",
+      "meaning": "sự đánh giá cao"
     },
     {
       "word": "賞金",
@@ -131,19 +121,29 @@
       "meaning": "tiền thưởng"
     },
     {
-      "word": "激賞",
-      "reading": "げきしょう",
-      "meaning": "sự khen thưởng nhiệt tình"
-    },
-    {
       "word": "賞品",
       "reading": "しょうひん",
       "meaning": "phần thưởng"
     },
     {
-      "word": "賞味",
-      "reading": "しょうみ",
-      "meaning": "thưởng thức"
+      "word": "入賞",
+      "reading": "にゅうしょう",
+      "meaning": "sự được thưởng"
+    },
+    {
+      "word": "懸賞",
+      "reading": "けんしょう",
+      "meaning": "giải thưởng"
+    },
+    {
+      "word": "三賞",
+      "reading": "さんしょう",
+      "meaning": "ba giải thưởng đặc biệt cho các đô vật khi kết thúc giải đấu"
+    },
+    {
+      "word": "重賞",
+      "reading": "じゅうしょう",
+      "meaning": "giải thưởng lớn"
     },
     {
       "word": "受賞",
@@ -151,9 +151,9 @@
       "meaning": "chiến thắng"
     },
     {
-      "word": "授賞",
-      "reading": "じゅしょう",
-      "meaning": "sự nhận phần thưởng"
+      "word": "大賞",
+      "reading": "たいしょう",
+      "meaning": "giải thưởng lớn"
     }
   ]
 }

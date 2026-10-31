@@ -115,49 +115,49 @@
       "meaning": "lỗ"
     },
     {
-      "word": "衰損",
-      "reading": "すいそん",
-      "meaning": "bị gãy"
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "phương hại"
     },
     {
-      "word": "折損",
-      "reading": "せっそん",
-      "meaning": "gẫy"
+      "word": "損得",
+      "reading": "そんとく",
+      "meaning": "sự lỗ lãi"
     },
     {
-      "word": "欠損",
-      "reading": "けっそん",
-      "meaning": "sự thiệt hại"
+      "word": "損失",
+      "reading": "そんしつ",
+      "meaning": "mất"
     },
     {
-      "word": "汚損",
-      "reading": "おそん",
-      "meaning": "bị bẩn và hư hỏng"
+      "word": "破損",
+      "reading": "はそん",
+      "meaning": "sự phá hỏng"
     },
     {
-      "word": "損流",
-      "reading": "そんりゅう",
-      "meaning": "sự mất mát hiện thời"
+      "word": "損う",
+      "reading": "そこなう",
+      "meaning": "làm hại"
     },
     {
-      "word": "焼損",
-      "reading": "しょうそん",
-      "meaning": "thiệt hại do cháy"
+      "word": "物損",
+      "reading": "ぶっそん",
+      "meaning": "thiệt hại vật chất"
     },
     {
-      "word": "累損",
-      "reading": "るいそん",
-      "meaning": "lỗ luỹ kế"
+      "word": "全損",
+      "reading": "ぜんそん",
+      "meaning": "mất toàn bộ"
     },
     {
-      "word": "損益",
-      "reading": "そんえき",
-      "meaning": "lỗ lãi"
+      "word": "損率",
+      "reading": "そんりつ",
+      "meaning": "nhân tố mất mát"
     },
     {
-      "word": "損保",
-      "reading": "そんぽ",
-      "meaning": "làm hư hại bảo hiểm"
+      "word": "損傷",
+      "reading": "そんしょう",
+      "meaning": "sự làm hư hại"
     }
   ]
 }

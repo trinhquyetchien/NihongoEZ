@@ -91,24 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "眼",
-      "reading": "まなこ",
-      "meaning": "con mắt"
-    },
-    {
       "word": "眼科",
       "reading": "がんか",
       "meaning": "khoa mắt"
     },
     {
-      "word": "邪眼",
-      "reading": "じゃがん",
-      "meaning": "ánh mắt xấu xa"
-    },
-    {
-      "word": "検眼",
-      "reading": "けんがん",
-      "meaning": "phép đo thị lực"
+      "word": "眼球",
+      "reading": "がんきゅう",
+      "meaning": "nhãn cầu"
     },
     {
       "word": "近眼",
@@ -116,29 +106,39 @@
       "meaning": "sự cận thị"
     },
     {
-      "word": "主眼",
-      "reading": "しゅがん",
-      "meaning": "chính chỉ"
+      "word": "眼",
+      "reading": "まなこ",
+      "meaning": "con mắt"
     },
     {
-      "word": "眼界",
-      "reading": "がんかい",
-      "meaning": "tầm nhìn"
+      "word": "眼点",
+      "reading": "がんてん",
+      "meaning": "đốm mắt"
     },
     {
-      "word": "眼下",
-      "reading": "がんか",
-      "meaning": "nơi nhìn xuống"
+      "word": "五眼",
+      "reading": "ごげん",
+      "meaning": "năm mắt"
     },
     {
-      "word": "眼前",
-      "reading": "がんぜん",
-      "meaning": "trước mắt"
+      "word": "眼病",
+      "reading": "がんびょう",
+      "meaning": "đau mắt"
     },
     {
-      "word": "眼窩",
-      "reading": "がんか",
-      "meaning": "hốc mắt"
+      "word": "史眼",
+      "reading": "しがん",
+      "meaning": "quan điểm lịch sử"
+    },
+    {
+      "word": "仏眼",
+      "reading": "ぶつげん",
+      "meaning": "mắt của phật"
+    },
+    {
+      "word": "片眼",
+      "reading": "かため",
+      "meaning": "một mắt"
     }
   ]
 }

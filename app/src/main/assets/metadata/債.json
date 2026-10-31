@@ -87,29 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "債",
-      "reading": "さい",
-      "meaning": "khoản nợ"
+      "word": "負債",
+      "reading": "ふさい",
+      "meaning": "sự mắc nợ"
     },
     {
-      "word": "公債",
-      "reading": "こうさい",
-      "meaning": "chứng khoán nhà nước"
-    },
-    {
-      "word": "債券",
-      "reading": "さいけん",
-      "meaning": "trái phiếu"
-    },
-    {
-      "word": "国債",
-      "reading": "こくさい",
-      "meaning": "chứng khoán nhà nước"
-    },
-    {
-      "word": "社債",
-      "reading": "しゃさい",
-      "meaning": "trái phiếu"
+      "word": "債務",
+      "reading": "さいむ",
+      "meaning": "món nợ"
     },
     {
       "word": "債権",
@@ -117,14 +102,24 @@
       "meaning": "tiền cho vay"
     },
     {
-      "word": "外債",
-      "reading": "がいさい",
-      "meaning": "tiền vay nước ngoài"
+      "word": "国債",
+      "reading": "こくさい",
+      "meaning": "chứng khoán nhà nước"
     },
     {
-      "word": "起債",
-      "reading": "きさい",
-      "meaning": "sự phát hành trái phiếu"
+      "word": "債",
+      "reading": "さい",
+      "meaning": "khoản nợ"
+    },
+    {
+      "word": "市債",
+      "reading": "しさい",
+      "meaning": "mối ràng buộc thành phố"
+    },
+    {
+      "word": "債主",
+      "reading": "さいしゅ",
+      "meaning": "người chủ nợ"
     },
     {
       "word": "学債",
@@ -132,9 +127,14 @@
       "meaning": "khoản vay sinh viên"
     },
     {
-      "word": "内債",
-      "reading": "ないさい",
-      "meaning": "hối phiếu trong nước"
+      "word": "新発債",
+      "reading": "しんぱつさい",
+      "meaning": "trái phiếu mới"
+    },
+    {
+      "word": "残債",
+      "reading": "ざんさい",
+      "meaning": "phí nợ còn lại"
     }
   ]
 }

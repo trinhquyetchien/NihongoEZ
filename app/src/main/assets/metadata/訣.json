@@ -67,6 +67,11 @@
   ],
   "vocabulary": [
     {
+      "word": "秘訣",
+      "reading": "ひけつ",
+      "meaning": "bí quyết"
+    },
+    {
       "word": "訣別",
       "reading": "けつべつ",
       "meaning": "sự phân chia rõ ràng"
@@ -79,11 +84,6 @@
     {
       "word": "要訣",
       "reading": "ようけつ",
-      "meaning": "bí quyết"
-    },
-    {
-      "word": "秘訣",
-      "reading": "ひけつ",
       "meaning": "bí quyết"
     },
     {

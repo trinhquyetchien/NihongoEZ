@@ -87,9 +87,34 @@
   ],
   "vocabulary": [
     {
+      "word": "壬生菜",
+      "reading": "みぶな",
+      "meaning": "rau mibu"
+    },
+    {
       "word": "壬",
       "reading": "じん",
       "meaning": "rậm rạp bên trong 9"
+    },
+    {
+      "word": "壬子",
+      "reading": "みずのえね",
+      "meaning": "năm nhâm tý"
+    },
+    {
+      "word": "壬申",
+      "reading": "みずのえさる",
+      "meaning": "năm nhâm thân"
+    },
+    {
+      "word": "壬寅",
+      "reading": "みずのえとら",
+      "meaning": "năm nhâm dần"
+    },
+    {
+      "word": "壬辰",
+      "reading": "みずのえたつ",
+      "meaning": "năm nhâm thìn"
     },
     {
       "word": "壬戌",
@@ -100,31 +125,6 @@
       "word": "壬午",
       "reading": "みずのえうま",
       "meaning": "năm nhâm ngọ"
-    },
-    {
-      "word": "壬辰",
-      "reading": "みずのえたつ",
-      "meaning": "năm nhâm thìn"
-    },
-    {
-      "word": "壬申",
-      "reading": "みずのえさる",
-      "meaning": "năm nhâm thân"
-    },
-    {
-      "word": "壬子",
-      "reading": "みずのえね",
-      "meaning": "năm nhâm tý"
-    },
-    {
-      "word": "壬寅",
-      "reading": "みずのえとら",
-      "meaning": "năm nhâm dần"
-    },
-    {
-      "word": "壬生菜",
-      "reading": "みぶな",
-      "meaning": "rau mibu"
     },
     {
       "word": "壬申の乱",

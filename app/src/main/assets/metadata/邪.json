@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "邪",
-      "reading": "よこしま",
-      "meaning": "xấu"
-    },
-    {
-      "word": "邪眼",
-      "reading": "じゃがん",
-      "meaning": "ánh mắt xấu xa"
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "bị cảm"
     },
     {
       "word": "邪魔",
@@ -104,39 +99,44 @@
       "meaning": "sự quấy rầy"
     },
     {
-      "word": "邪険",
-      "reading": "じゃけん",
-      "meaning": "tâm địa xấu"
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "ngây thơ"
     },
     {
-      "word": "邪悪",
-      "reading": "じゃあく",
-      "meaning": "xấu"
+      "word": "邪魔な",
+      "reading": "じゃまな",
+      "meaning": "cản trở"
     },
     {
-      "word": "邪心",
-      "reading": "じゃしん",
-      "meaning": "tâm hồn tội lỗi"
+      "word": "お邪魔",
+      "reading": "おじゃま",
+      "meaning": "cản trở"
     },
     {
-      "word": "邪飛",
-      "reading": "じゃひ",
-      "meaning": "bóng bay ngoài biên"
+      "word": "邪魔者",
+      "reading": "じゃまもの",
+      "meaning": "sự trở ngại"
     },
     {
-      "word": "邪慳",
-      "reading": "じゃけん",
-      "meaning": "sự độc ác"
+      "word": "邪魔物",
+      "reading": "じゃまもの",
+      "meaning": "vật chướng ngại"
     },
     {
-      "word": "邪推",
-      "reading": "じゃすい",
-      "meaning": "đoán chừng"
+      "word": "風邪気",
+      "reading": "かざけ",
+      "meaning": "cảm giác bị cảm"
     },
     {
-      "word": "邪鬼",
-      "reading": "じゃき",
-      "meaning": "ma quỷ"
+      "word": "夏風邪",
+      "reading": "なつかぜ",
+      "meaning": "bệnh cảm mùa hè"
+    },
+    {
+      "word": "風邪薬",
+      "reading": "かぜぐすり",
+      "meaning": "thuốc cảm"
     }
   ]
 }

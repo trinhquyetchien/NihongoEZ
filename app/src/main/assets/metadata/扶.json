@@ -86,19 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "扶育",
-      "reading": "ふいく",
-      "meaning": "việc nuôi dãy"
+      "word": "扶養",
+      "reading": "ふよう",
+      "meaning": "sự nuôi dưỡng"
     },
     {
-      "word": "家扶",
-      "reading": "かふ",
-      "meaning": "người phục vụ"
+      "word": "扶養者",
+      "reading": "ふようしゃ",
+      "meaning": "người chịu trách nhiệm nhiệm nuôi dưỡng"
     },
     {
-      "word": "扶持",
-      "reading": "ふち",
-      "meaning": "giúp đỡ"
+      "word": "扶養料",
+      "reading": "ふようりょう",
+      "meaning": "tiền cấp cho vợ sau khi vợ chồng li dị"
     },
     {
       "word": "扶桑",
@@ -106,14 +106,9 @@
       "meaning": "nhật bản"
     },
     {
-      "word": "扶植",
-      "reading": "ふしょく",
-      "meaning": "hỗ trợ"
-    },
-    {
-      "word": "扶翼",
-      "reading": "ふよく",
-      "meaning": "sự giúp đỡ"
+      "word": "扶桑教",
+      "reading": "ふそうきょう",
+      "meaning": "fusokyo"
     },
     {
       "word": "扶助",
@@ -121,19 +116,24 @@
       "meaning": "sự giúp đỡ"
     },
     {
-      "word": "扶養",
-      "reading": "ふよう",
-      "meaning": "sự nuôi dưỡng"
+      "word": "扶助料",
+      "reading": "ふじょりょう",
+      "meaning": "tiền cấp"
     },
     {
-      "word": "扶桑教",
-      "reading": "ふそうきょう",
-      "meaning": "fusokyo"
+      "word": "扶持",
+      "reading": "ふち",
+      "meaning": "giúp đỡ"
     },
     {
-      "word": "扶養料",
-      "reading": "ふようりょう",
-      "meaning": "tiền cấp cho vợ sau khi vợ chồng li dị"
+      "word": "扶持米",
+      "reading": "ふちまい",
+      "meaning": "thu nhập chính"
+    },
+    {
+      "word": "扶翼",
+      "reading": "ふよく",
+      "meaning": "sự giúp đỡ"
     }
   ]
 }

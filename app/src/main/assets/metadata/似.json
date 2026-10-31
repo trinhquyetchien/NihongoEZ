@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "似",
-      "reading": "に",
-      "meaning": ". ví dụ : 父親似の子供"
-    },
-    {
-      "word": "似ても似つかない",
-      "reading": "にてもにつかない",
-      "meaning": "hoàn toàn không giống nhau"
+      "word": "似る",
+      "reading": "にる",
+      "meaning": "giống"
     },
     {
       "word": "真似",
@@ -105,9 +100,34 @@
       "meaning": "sự bắt chước"
     },
     {
-      "word": "似鯨",
-      "reading": "にたりくじら",
-      "meaning": "bryde's whale"
+      "word": "真似る",
+      "reading": "まねる",
+      "meaning": "bắt chước"
+    },
+    {
+      "word": "類似",
+      "reading": "るいじ",
+      "meaning": "sự tương tự"
+    },
+    {
+      "word": "似",
+      "reading": "に",
+      "meaning": ". ví dụ : 父親似の子供"
+    },
+    {
+      "word": "に似て",
+      "reading": "ににて",
+      "meaning": "giống như"
+    },
+    {
+      "word": "似た者",
+      "reading": "にたもの",
+      "meaning": "người có tính cách giống nhau"
+    },
+    {
+      "word": "似たり",
+      "reading": "にたり",
+      "meaning": "đồ giả"
     },
     {
       "word": "似姿",
@@ -115,29 +135,9 @@
       "meaning": "mô phỏng"
     },
     {
-      "word": "似る",
-      "reading": "にる",
-      "meaning": "giống"
-    },
-    {
-      "word": "空似",
-      "reading": "そらに",
-      "meaning": "sự tình cờ giống nhau"
-    },
-    {
-      "word": "近似",
-      "reading": "きんじ",
-      "meaning": "xấp xỉ"
-    },
-    {
-      "word": "酷似",
-      "reading": "こくじ",
-      "meaning": "sự giống nhau"
-    },
-    {
-      "word": "相似",
-      "reading": "そうじ",
-      "meaning": "giống"
+      "word": "激似",
+      "reading": "げきに",
+      "meaning": "gần giống"
     }
   ]
 }

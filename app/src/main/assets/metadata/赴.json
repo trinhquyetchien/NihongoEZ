@@ -86,9 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "赴援",
-      "reading": "ふえん",
-      "meaning": "tăng cường"
+      "word": "赴任",
+      "reading": "ふにん",
+      "meaning": "việc nhận chức"
     },
     {
       "word": "赴く",
@@ -96,14 +96,19 @@
       "meaning": "tới"
     },
     {
-      "word": "赴任",
-      "reading": "ふにん",
-      "meaning": "việc nhận chức"
-    },
-    {
       "word": "赴任地",
       "reading": "ふにんち",
       "meaning": "nơi tới nhận chức"
+    },
+    {
+      "word": "赴援",
+      "reading": "ふえん",
+      "meaning": "tăng cường"
+    },
+    {
+      "word": "赴任する",
+      "reading": "ふにんする",
+      "meaning": "nhận chức"
     },
     {
       "word": "海外赴任",
@@ -114,11 +119,6 @@
       "word": "単身赴任",
       "reading": "たんしんふにん",
       "meaning": "sự ấn định điệu nhạc diễn đơn"
-    },
-    {
-      "word": "赴任する",
-      "reading": "ふにんする",
-      "meaning": "nhận chức"
     },
     {
       "word": "単身赴任者",

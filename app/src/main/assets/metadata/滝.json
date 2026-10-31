@@ -92,24 +92,14 @@
       "meaning": "thác nước"
     },
     {
-      "word": "枯滝",
-      "reading": "かれたき",
-      "meaning": "thác cạn"
-    },
-    {
-      "word": "滝壷",
-      "reading": "たきつぼ",
-      "meaning": "chân thác"
-    },
-    {
       "word": "滝壺",
       "reading": "たきつぼ",
       "meaning": "chậu một thác nước"
     },
     {
-      "word": "滝口",
-      "reading": "たきぐち",
-      "meaning": "đỉnh thác"
+      "word": "滝登り",
+      "reading": "たきのぼり",
+      "meaning": "sự bơi vượt thác"
     },
     {
       "word": "滝川",
@@ -117,24 +107,34 @@
       "meaning": "thác ghềnh"
     },
     {
+      "word": "滝口",
+      "reading": "たきぐち",
+      "meaning": "đỉnh thác"
+    },
+    {
       "word": "白滝",
       "reading": "しらたき",
       "meaning": "những mì sợi làm từ konnyaku"
     },
     {
-      "word": "男滝",
-      "reading": "おだき",
-      "meaning": "thác nước lớn hơn hai)"
+      "word": "小滝",
+      "reading": "こだき",
+      "meaning": "thác nước"
     },
     {
-      "word": "雌滝",
-      "reading": "めだき",
-      "meaning": "dòng thác nhỏ hơn"
+      "word": "滝つぼ",
+      "reading": "たきつぼ",
+      "meaning": "vùng nước sâu dưới chân thác nước"
     },
     {
       "word": "雄滝",
       "reading": "おだき",
       "meaning": "thác nước lớn hơn hai)"
+    },
+    {
+      "word": "滝壷",
+      "reading": "たきつぼ",
+      "meaning": "chân thác"
     }
   ]
 }

@@ -72,19 +72,9 @@
       "meaning": "như thế nào!"
     },
     {
-      "word": "善哉善哉",
-      "reading": "ぜんざいぜんざい",
-      "meaning": "tuyệt thay!"
-    },
-    {
-      "word": "悦哉",
-      "reading": "えっさい",
-      "meaning": "chim ưng nhật bản nhỏ"
-    },
-    {
-      "word": "快哉",
-      "reading": "かいさい",
-      "meaning": "niềm vui"
+      "word": "候哉",
+      "reading": "そうろうや",
+      "meaning": "tôi ngạc nhiên if"
     },
     {
       "word": "善哉",
@@ -92,14 +82,19 @@
       "meaning": "tốt lắm!"
     },
     {
+      "word": "快哉",
+      "reading": "かいさい",
+      "meaning": "niềm vui"
+    },
+    {
+      "word": "悦哉",
+      "reading": "えっさい",
+      "meaning": "chim ưng nhật bản nhỏ"
+    },
+    {
       "word": "哀哉",
       "reading": "かなしいかな",
       "meaning": "chao ôi"
-    },
-    {
-      "word": "候哉",
-      "reading": "そうろうや",
-      "meaning": "tôi ngạc nhiên if.."
     },
     {
       "word": "悲しい哉",
@@ -107,14 +102,19 @@
       "meaning": "chao ôi"
     },
     {
+      "word": "果たせる哉",
+      "reading": "はたせるかな",
+      "meaning": "hoàn thành như mong đợi"
+    },
+    {
       "word": "已んぬる哉",
       "reading": "やんぬるかな",
       "meaning": "tôi cho lên trên"
     },
     {
-      "word": "快哉を叫ぶ",
-      "reading": "かいさいをさけぶ",
-      "meaning": "hét lên sung sướng"
+      "word": "善哉善哉",
+      "reading": "ぜんざいぜんざい",
+      "meaning": "tuyệt thay!"
     }
   ]
 }

@@ -94,39 +94,9 @@
       "meaning": "cỏ tranh"
     },
     {
-      "word": "茅渟",
-      "reading": "ちぬ",
-      "meaning": "cá tráp đen"
-    },
-    {
-      "word": "茅潜",
-      "reading": "かやくぐり",
-      "meaning": "giọng nhật"
-    },
-    {
-      "word": "茅屋",
-      "reading": "ぼうおく",
-      "meaning": "mái che"
-    },
-    {
-      "word": "茅場",
-      "reading": "かやば",
-      "meaning": "đồng cỏ"
-    },
-    {
-      "word": "茅舎",
-      "reading": "ぼうしゃ",
-      "meaning": "mái che"
-    },
-    {
-      "word": "鴨茅",
-      "reading": "かもがや",
-      "meaning": "cây kamogaya"
-    },
-    {
-      "word": "浅茅",
-      "reading": "あさじ",
-      "meaning": "cỏ tranh"
+      "word": "茅台酒",
+      "reading": "マオタイしゅ",
+      "meaning": "rượu mao đài"
     },
     {
       "word": "茅門",
@@ -134,9 +104,39 @@
       "meaning": "cổng mái tranh"
     },
     {
+      "word": "瀬戸茅",
+      "reading": "せとがや",
+      "meaning": "alopecurus japonicus"
+    },
+    {
+      "word": "鴨茅",
+      "reading": "かもがや",
+      "meaning": "cây kamogaya"
+    },
+    {
+      "word": "茅潜",
+      "reading": "かやくぐり",
+      "meaning": "giọng nhật"
+    },
+    {
+      "word": "茅場",
+      "reading": "かやば",
+      "meaning": "đồng cỏ"
+    },
+    {
+      "word": "茅葺き",
+      "reading": "かやぶき",
+      "meaning": "mái tranh"
+    },
+    {
       "word": "茅の輪",
       "reading": "ちのわ",
       "meaning": "một chiếc nhẫn được dệt từ loại cỏ có tên là chigaya"
+    },
+    {
+      "word": "浅茅",
+      "reading": "あさじ",
+      "meaning": "cỏ tranh"
     }
   ]
 }

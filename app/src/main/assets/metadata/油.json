@@ -112,24 +112,34 @@
       "meaning": "dầu"
     },
     {
-      "word": "油圧作動油",
-      "reading": "ゆあつさどうゆ",
-      "meaning": "dầu thủy lực"
+      "word": "原油",
+      "reading": "げんゆ",
+      "meaning": "căn do"
     },
     {
-      "word": "油膜軸受油",
-      "reading": "ゆまくじくうけあぶら",
-      "meaning": "dầu bôi trơn cho ổ trục có màng dầu"
+      "word": "油子",
+      "reading": "あぶらこ",
+      "meaning": "cá ainame"
     },
     {
-      "word": "チョウジ油",
-      "reading": "ちょうじゆ",
-      "meaning": "tinh dầu đinh hương"
+      "word": "油女",
+      "reading": "あぶらめ",
+      "meaning": "cá aburame"
     },
     {
-      "word": "サラダ油",
-      "reading": "サラダゆ",
-      "meaning": "dầu xà lách"
+      "word": "油物",
+      "reading": "あぶらもの",
+      "meaning": "đồ chiên rán"
+    },
+    {
+      "word": "油汗",
+      "reading": "あぶらあせ",
+      "meaning": "trạng thái toát mồ hôi vì bệnh hoặc sợ"
+    },
+    {
+      "word": "正油",
+      "reading": "しょうゆ",
+      "meaning": "tương"
     },
     {
       "word": "加油",
@@ -137,24 +147,14 @@
       "meaning": "cố lên! hãy cố gắng! trong tiếng trung"
     },
     {
-      "word": "マー油",
-      "reading": "マーゆ",
-      "meaning": "dầu tỏi"
+      "word": "油密",
+      "reading": "ゆみつ",
+      "meaning": "kín dầu"
     },
     {
-      "word": "原油",
-      "reading": "げんゆ",
-      "meaning": "căn do"
-    },
-    {
-      "word": "給油",
-      "reading": "きゅうゆ",
-      "meaning": "cung cấp xăng dầu"
-    },
-    {
-      "word": "油分",
-      "reading": "ゆぶん",
-      "meaning": "có thành phần dầu"
+      "word": "油蟹",
+      "reading": "あぶらがに",
+      "meaning": "cua hoàng đế xanh"
     }
   ]
 }

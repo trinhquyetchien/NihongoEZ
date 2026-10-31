@@ -91,14 +91,34 @@
       "meaning": "nấm"
     },
     {
+      "word": "万年茸",
+      "reading": "まんねんたけ",
+      "meaning": "nấm linh chi"
+    },
+    {
+      "word": "海茸",
+      "reading": "うみたけ",
+      "meaning": "sò barnea dilatata"
+    },
+    {
+      "word": "作り茸",
+      "reading": "つくりたけ",
+      "meaning": "nấm mỡ"
+    },
+    {
+      "word": "耳茸",
+      "reading": "じじょう",
+      "meaning": "ear polyp"
+    },
+    {
+      "word": "毛茸",
+      "reading": "もうじょう",
+      "meaning": "tóc"
+    },
+    {
       "word": "茸飯",
       "reading": "きのこめし",
       "meaning": "cơm nấm"
-    },
-    {
-      "word": "松茸",
-      "reading": "まつたけ",
-      "meaning": "nấm matsutake"
     },
     {
       "word": "乳茸",
@@ -106,34 +126,14 @@
       "meaning": "nấm sữa"
     },
     {
-      "word": "榎茸",
-      "reading": "えのきたけ",
-      "meaning": "nấm kim châm"
+      "word": "涙茸",
+      "reading": "なみだたけ",
+      "meaning": "serpula lacrymans"
     },
     {
-      "word": "毒茸",
-      "reading": "どくきのこ",
-      "meaning": "nấm mũ độc"
-    },
-    {
-      "word": "舞茸",
-      "reading": "まいたけ",
-      "meaning": "quạt - tạo dáng kinoku với nhiều lớp"
-    },
-    {
-      "word": "杏茸",
-      "reading": "あんずたけ",
-      "meaning": "nấm hương"
-    },
-    {
-      "word": "原茸",
-      "reading": "はらたけ",
-      "meaning": "nấm nhung"
-    },
-    {
-      "word": "茸雲",
-      "reading": "きのこぐも",
-      "meaning": "cột mây hình nấm"
+      "word": "袋茸",
+      "reading": "ふくろたけ",
+      "meaning": "nấm rơm"
     }
   ]
 }

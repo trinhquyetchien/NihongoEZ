@@ -91,31 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "造る",
-      "reading": "つくる",
-      "meaning": "cắt tỉa"
-    },
-    {
-      "word": "造立",
-      "reading": "ぞうりゅう",
-      "meaning": "xây dựng"
-    },
-    {
-      "word": "転造",
-      "reading": "てんぞう",
-      "meaning": "sự lăn"
-    },
-    {
-      "word": "酒造",
-      "reading": "しゅぞう",
-      "meaning": "sự chưng cất rượu"
-    },
-    {
-      "word": "建造",
-      "reading": "けんぞう",
-      "meaning": "xây dựng"
-    },
-    {
       "word": "構造",
       "reading": "こうぞう",
       "meaning": "cấu trúc"
@@ -126,19 +101,44 @@
       "meaning": "sự cải tạo"
     },
     {
-      "word": "ＲＣ造",
-      "reading": "アールシーぞう",
-      "meaning": "kết cấu bê tông cốt thép"
+      "word": "人造",
+      "reading": "じんぞう",
+      "meaning": "sự nhân tạo"
     },
     {
-      "word": "石造",
-      "reading": "せきぞう",
-      "meaning": "được làm bằng đá"
+      "word": "造船",
+      "reading": "ぞうせん",
+      "meaning": "việc đóng thuyền"
     },
     {
-      "word": "造園",
-      "reading": "ぞうえん",
-      "meaning": "kiến trúc phong cảnh"
+      "word": "創造",
+      "reading": "そうぞう",
+      "meaning": "sự sáng tạo"
+    },
+    {
+      "word": "建造",
+      "reading": "けんぞう",
+      "meaning": "xây dựng"
+    },
+    {
+      "word": "造形",
+      "reading": "ぞうけい",
+      "meaning": "đúc"
+    },
+    {
+      "word": "木造",
+      "reading": "もくぞう",
+      "meaning": "sự làm bằng gỗ"
+    },
+    {
+      "word": "醸造",
+      "reading": "じょうぞう",
+      "meaning": "việc làm rượu bia"
+    },
+    {
+      "word": "Ｓ造",
+      "reading": "エスぞう",
+      "meaning": "thép xây dựng"
     }
   ]
 }

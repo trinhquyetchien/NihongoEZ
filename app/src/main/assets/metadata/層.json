@@ -104,9 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "層",
-      "reading": "そう",
-      "meaning": "tầng"
+      "word": "一層",
+      "reading": "いっそう",
+      "meaning": "hơn nhiều"
     },
     {
       "word": "高層",
@@ -114,9 +114,9 @@
       "meaning": "cao tầng"
     },
     {
-      "word": "一層",
-      "reading": "いっそう",
-      "meaning": "hơn nhiều"
+      "word": "層",
+      "reading": "そう",
+      "meaning": "tầng"
     },
     {
       "word": "前層",
@@ -124,34 +124,34 @@
       "meaning": "sơ bó"
     },
     {
-      "word": "層別",
-      "reading": "そうべつ",
-      "meaning": "phân tầng"
-    },
-    {
-      "word": "古層",
-      "reading": "こそう",
-      "meaning": "lớp lịch sử"
-    },
-    {
-      "word": "層群",
-      "reading": "そうぐん",
-      "meaning": "nhóm lại"
-    },
-    {
       "word": "層化",
       "reading": "そうか",
       "meaning": "sự phân lớp"
     },
     {
-      "word": "単層",
-      "reading": "たんそう",
-      "meaning": "lớp đơn"
+      "word": "層別",
+      "reading": "そうべつ",
+      "meaning": "phân tầng"
     },
     {
-      "word": "成層",
-      "reading": "せいそう",
-      "meaning": "sự phân tầng"
+      "word": "Ｆ層",
+      "reading": "エフそう",
+      "meaning": "tầng khí quyển f"
+    },
+    {
+      "word": "層相",
+      "reading": "そうそう",
+      "meaning": "mặt"
+    },
+    {
+      "word": "副層",
+      "reading": "ふくそう",
+      "meaning": "tầng con"
+    },
+    {
+      "word": "彩層",
+      "reading": "さいそう",
+      "meaning": "hiện tượng vòng tròn sáng nhiều màu bao xung quanh mặt trời"
     }
   ]
 }

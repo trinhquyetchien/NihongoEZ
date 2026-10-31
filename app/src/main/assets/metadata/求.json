@@ -90,14 +90,44 @@
   ],
   "vocabulary": [
     {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "sự yêu cầu"
+    },
+    {
+      "word": "求める",
+      "reading": "もとめる",
+      "meaning": "mong muốn"
+    },
+    {
+      "word": "請求",
+      "reading": "せいきゅう",
+      "meaning": "sự thỉnh cầu"
+    },
+    {
       "word": "求め",
       "reading": "もとめ",
       "meaning": "yêu cầu"
     },
     {
-      "word": "求む",
-      "reading": "もとむ",
-      "meaning": "muốn"
+      "word": "要求側",
+      "reading": "ようきゅうがわ",
+      "meaning": "bên yêu cầu"
+    },
+    {
+      "word": "副要求",
+      "reading": "ふくようきゅう",
+      "meaning": "yêu cầu phụ"
+    },
+    {
+      "word": "請求書",
+      "reading": "せいきゅうしょ",
+      "meaning": "hoá đơn"
+    },
+    {
+      "word": "請求権",
+      "reading": "せいきゅうけん",
+      "meaning": "quyền"
     },
     {
       "word": "求人",
@@ -105,39 +135,9 @@
       "meaning": "sự tuyển người làm việc"
     },
     {
-      "word": "求職",
-      "reading": "きゅうしょく",
-      "meaning": "sự tìm công ăn việc làm"
-    },
-    {
-      "word": "求婚",
-      "reading": "きゅうこん",
-      "meaning": "cầu hôn"
-    },
-    {
-      "word": "求肥",
-      "reading": "ぎゅうひ",
-      "meaning": "kẹo dẻo nhật"
-    },
-    {
-      "word": "求仙",
-      "reading": "きゅうせん",
-      "meaning": "cá halichoeres poecilopterus"
-    },
-    {
-      "word": "勤求",
-      "reading": "ごんぐ",
-      "meaning": "hỏi phật thích ca cách"
-    },
-    {
-      "word": "希求",
-      "reading": "ききゅう",
-      "meaning": "sự mong mỏi"
-    },
-    {
-      "word": "求償",
-      "reading": "きゅうしょう",
-      "meaning": "đòi bồi thường"
+      "word": "求人者",
+      "reading": "きゅうじんしゃ",
+      "meaning": "chủ"
     }
   ]
 }

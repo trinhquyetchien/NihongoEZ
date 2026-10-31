@@ -55,19 +55,24 @@
       "meaning": "cây phong lan"
     },
     {
-      "word": "愛蘭",
-      "reading": "アイルランド",
-      "meaning": "ai-len"
+      "word": "蘭人",
+      "reading": "らんじん",
+      "meaning": "người hà lan"
     },
     {
-      "word": "絹蘭",
-      "reading": "きぬらん",
-      "meaning": "cây hoa lan lụa"
+      "word": "蘭月",
+      "reading": "らんげつ",
+      "meaning": "tháng 7 âm lịch"
     },
     {
-      "word": "糸蘭",
-      "reading": "いとらん",
-      "meaning": "cây lan chỉ"
+      "word": "蘭国",
+      "reading": "らんこく",
+      "meaning": "vải lanh hà lan"
+    },
+    {
+      "word": "海蘭",
+      "reading": "うんらん",
+      "meaning": "linaria japonica"
     },
     {
       "word": "蘭語",
@@ -75,9 +80,14 @@
       "meaning": "tiếng hà lan"
     },
     {
-      "word": "芬蘭",
-      "reading": "フィンランド",
-      "meaning": "nước phần lan"
+      "word": "和蘭",
+      "reading": "オランダ",
+      "meaning": "hà lan"
+    },
+    {
+      "word": "蘭虫",
+      "reading": "らんちゅう",
+      "meaning": "một loại cá vàng"
     },
     {
       "word": "波蘭",
@@ -85,19 +95,9 @@
       "meaning": "nước ba lan"
     },
     {
-      "word": "葉蘭",
-      "reading": "はらん",
-      "meaning": "cây tỏi rừng"
-    },
-    {
-      "word": "洋蘭",
-      "reading": "ようらん",
-      "meaning": "cây phong lan gốc phương tây"
-    },
-    {
-      "word": "蘭鋳",
-      "reading": "らんちゅう",
-      "meaning": "cá vàng"
+      "word": "英蘭",
+      "reading": "イングランド",
+      "meaning": "vương quốc anh và hà lan"
     }
   ]
 }

@@ -84,44 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "嘉慶",
-      "reading": "かけい",
-      "meaning": "kakei"
-    },
-    {
-      "word": "嘉永",
-      "reading": "かえい",
-      "meaning": "thời kaei"
-    },
-    {
-      "word": "嘉吉",
-      "reading": "かきつ",
-      "meaning": "thời kakitsu"
-    },
-    {
-      "word": "嘉応",
-      "reading": "かおう",
-      "meaning": "thời kaou"
-    },
-    {
-      "word": "嘉承",
-      "reading": "かしょう",
-      "meaning": "thời kashou"
-    },
-    {
-      "word": "嘉禄",
-      "reading": "かろく",
-      "meaning": "thời karoku"
-    },
-    {
-      "word": "嘉暦",
-      "reading": "かりゃく",
-      "meaning": "thời karyaku"
-    },
-    {
-      "word": "嘉保",
-      "reading": "かほう",
-      "meaning": "thời kahou"
+      "word": "嘉月",
+      "reading": "かげつ",
+      "meaning": "tháng 3 âm lịch"
     },
     {
       "word": "嘉元",
@@ -129,9 +94,44 @@
       "meaning": "kagen era"
     },
     {
+      "word": "正嘉",
+      "reading": "しょうか",
+      "meaning": "thời shouka"
+    },
+    {
+      "word": "嘉保",
+      "reading": "かほう",
+      "meaning": "thời kahou"
+    },
+    {
+      "word": "嘉節",
+      "reading": "かせつ",
+      "meaning": "nguyên cớ điềm lành"
+    },
+    {
+      "word": "嘉永",
+      "reading": "かえい",
+      "meaning": "thời kaei"
+    },
+    {
+      "word": "嘉慶",
+      "reading": "かけい",
+      "meaning": "kakei"
+    },
+    {
+      "word": "嘉暦",
+      "reading": "かりゃく",
+      "meaning": "thời karyaku"
+    },
+    {
       "word": "嘉祥",
       "reading": "かしょう",
       "meaning": "kashou era"
+    },
+    {
+      "word": "嘉承",
+      "reading": "かしょう",
+      "meaning": "thời kashou"
     }
   ]
 }

@@ -93,24 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "食",
-      "reading": "しょく",
-      "meaning": "ăn"
-    },
-    {
-      "word": "飲食/軽食",
-      "reading": "いんしょく/けいしょく",
-      "meaning": "đồ ăn uống / đồ ăn nhẹ"
-    },
-    {
       "word": "昼食",
       "reading": "ちゅうしょく",
       "meaning": "bữa ăn trưa"
-    },
-    {
-      "word": "必食",
-      "reading": "ひっしょく",
-      "meaning": "cần phải ăn"
     },
     {
       "word": "食糧",
@@ -118,29 +103,44 @@
       "meaning": "lương thực"
     },
     {
-      "word": "共食",
-      "reading": "きょうしょく",
-      "meaning": "ăn chung"
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "bát đĩa"
     },
     {
-      "word": "採食",
-      "reading": "さいしょく",
-      "meaning": "thu thập thức ăn"
+      "word": "食塩",
+      "reading": "しょくえん",
+      "meaning": "muối ăn"
     },
     {
-      "word": "異食",
-      "reading": "いしょく",
-      "meaning": "chứng ăn bậy"
+      "word": "給食",
+      "reading": "きゅうしょく",
+      "meaning": "bữa cơm ở trường"
     },
     {
-      "word": "配食",
-      "reading": "はいしょく",
-      "meaning": "vận chuyển đồ ăn"
+      "word": "食",
+      "reading": "しょく",
+      "meaning": "ăn"
     },
     {
-      "word": "孤食",
-      "reading": "こしょく",
-      "meaning": "ăn một mình"
+      "word": "食性",
+      "reading": "しょくせい",
+      "meaning": "thuộc tính ăn"
+    },
+    {
+      "word": "三食",
+      "reading": "さんしょく",
+      "meaning": "ba bữa ăn"
+    },
+    {
+      "word": "学食",
+      "reading": "がくしょく",
+      "meaning": "căn tin trường"
+    },
+    {
+      "word": "パン食",
+      "reading": "パンしょく",
+      "meaning": "chế độ ăn mà thực phẩm chính là bánh mỳ"
     }
   ]
 }

@@ -88,19 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "拍",
-      "reading": "はく",
-      "meaning": "mora"
-    },
-    {
-      "word": "一拍",
-      "reading": "いっぱく",
-      "meaning": "vỗ tay 1 cái"
-    },
-    {
-      "word": "拍板",
-      "reading": "びんざさら",
-      "meaning": "việc đập bảng"
+      "word": "拍手",
+      "reading": "はくしゅ",
+      "meaning": "sự vỗ tay"
     },
     {
       "word": "心拍",
@@ -108,29 +98,39 @@
       "meaning": "nhịp tim"
     },
     {
-      "word": "拍数",
-      "reading": "はくすう",
-      "meaning": "đếm những tiếng đập trong âm nhạc"
-    },
-    {
-      "word": "拍動",
-      "reading": "はくどう",
-      "meaning": "chuyển động co bóp tuần hoàn của các cơ quan nội tạng"
-    },
-    {
       "word": "拍子",
       "reading": "ひょうし",
       "meaning": "nhịp"
     },
     {
-      "word": "拍手",
-      "reading": "はくしゅ",
-      "meaning": "sự vỗ tay"
+      "word": "何拍子",
+      "reading": "なんひょうし",
+      "meaning": "nhịp nào"
     },
     {
-      "word": "脈拍",
-      "reading": "みゃくはく",
-      "meaning": "sự đập của mạch"
+      "word": "二拍子",
+      "reading": "にびょうし",
+      "meaning": "nhịp hai"
+    },
+    {
+      "word": "心拍数",
+      "reading": "しんぱくすう",
+      "meaning": "một có nhịp độ trái tim"
+    },
+    {
+      "word": "小拍子",
+      "reading": "こびょうし",
+      "meaning": "cái gõ nhỏ"
+    },
+    {
+      "word": "変拍子",
+      "reading": "へんびょうし",
+      "meaning": "thay đổi nhịp điệu"
+    },
+    {
+      "word": "心拍計",
+      "reading": "しんぱくけい",
+      "meaning": "máy theo dõi nhịp tim"
     },
     {
       "word": "拍車",

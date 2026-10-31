@@ -86,24 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "匂う",
-      "reading": "におう",
-      "meaning": "cảm thấy mùi"
-    },
-    {
       "word": "匂い",
       "reading": "におい",
       "meaning": "hơi hám"
     },
     {
-      "word": "匂菫",
-      "reading": "においすみれ",
-      "meaning": "sweet violet"
+      "word": "匂う",
+      "reading": "におう",
+      "meaning": "cảm thấy mùi"
     },
     {
-      "word": "匂桜",
-      "reading": "においざくら",
-      "meaning": "hoa anh đào thơm"
+      "word": "匂い袋",
+      "reading": "においぶくろ",
+      "meaning": "túi bột thơm"
     },
     {
       "word": "匂い油",
@@ -111,9 +106,14 @@
       "meaning": "nước hoa"
     },
     {
-      "word": "匂い袋",
-      "reading": "においぶくろ",
-      "meaning": "túi bột thơm"
+      "word": "匂桜",
+      "reading": "においざくら",
+      "meaning": "hoa anh đào thơm"
+    },
+    {
+      "word": "匂菫",
+      "reading": "においすみれ",
+      "meaning": "sweet violet"
     },
     {
       "word": "匂わす",
@@ -126,14 +126,14 @@
       "meaning": "sweet-scented"
     },
     {
-      "word": "いい匂い",
-      "reading": "いいにおい",
-      "meaning": "mùi thơm"
+      "word": "匂いがする",
+      "reading": "においがする",
+      "meaning": "ngửi"
     },
     {
-      "word": "咲き匂う",
-      "reading": "さきにおう",
-      "meaning": "để đầy đủ nở hoa"
+      "word": "匂いがある",
+      "reading": "においがある",
+      "meaning": "có mùi"
     }
   ]
 }

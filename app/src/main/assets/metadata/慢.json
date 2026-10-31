@@ -104,9 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "慢慢的",
-      "reading": "マンマンデ",
-      "meaning": "thong thả"
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "nhẫn nại"
     },
     {
       "word": "自慢",
@@ -114,44 +114,44 @@
       "meaning": "tự hào"
     },
     {
-      "word": "我慢",
-      "reading": "がまん",
-      "meaning": "nhẫn nại"
+      "word": "怠慢",
+      "reading": "たいまん",
+      "meaning": "cẩu thả"
     },
     {
-      "word": "侮慢",
-      "reading": "ぶまん",
-      "meaning": "sự khinh thường"
+      "word": "自慢な",
+      "reading": "じまんな",
+      "meaning": "tự hào"
     },
     {
-      "word": "驕慢",
-      "reading": "きょうまん",
-      "meaning": "sự kiêu ngạo"
+      "word": "自慢気",
+      "reading": "じまんげ",
+      "meaning": "vẻ tự mãn"
     },
     {
-      "word": "暴慢",
-      "reading": "ぼうまん",
-      "meaning": "thô lỗ"
+      "word": "自慢話",
+      "reading": "じまんばなし",
+      "meaning": "lời nói thích khoe khoang"
     },
     {
-      "word": "慢心",
-      "reading": "まんしん",
-      "meaning": "tính tự phụ"
+      "word": "国自慢",
+      "reading": "くにじまん",
+      "meaning": "sự lấy làm kiêu hãnh về đất nước của mình"
     },
     {
-      "word": "慢性",
-      "reading": "まんせい",
-      "meaning": "mãn tính"
+      "word": "力自慢",
+      "reading": "ちからじまん",
+      "meaning": "khoe khoang sức mạnh"
     },
     {
-      "word": "傲慢",
-      "reading": "ごうまん",
-      "meaning": "lòng tự hào"
+      "word": "男自慢",
+      "reading": "おとこじまん",
+      "meaning": "việc một người đàn ông tự hào về chính mình"
     },
     {
-      "word": "高慢",
-      "reading": "こうまん",
-      "meaning": "cao ngạo"
+      "word": "女自慢",
+      "reading": "おんなじまん",
+      "meaning": "phụ nữ khoe khoang"
     }
   ]
 }

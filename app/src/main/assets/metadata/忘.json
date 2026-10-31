@@ -106,14 +106,34 @@
   ],
   "vocabulary": [
     {
-      "word": "備忘",
-      "reading": "びぼう",
-      "meaning": "cái nhắc nhở"
+      "word": "忘れる",
+      "reading": "わすれる",
+      "meaning": "bỏ lại"
     },
     {
-      "word": "忘年",
-      "reading": "ぼうねん",
-      "meaning": "quên những gian khổ năm cũ"
+      "word": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "đồ bị bỏ quên"
+    },
+    {
+      "word": "ど忘れ",
+      "reading": "どわすれ",
+      "meaning": "mất trí nhớ"
+    },
+    {
+      "word": "忘れ緒",
+      "reading": "わすれお",
+      "meaning": "dây lụa trang trí thắt lưng"
+    },
+    {
+      "word": "忘れ扇",
+      "reading": "わすれおうぎ",
+      "meaning": "chiếc quạt bị bỏ quên"
+    },
+    {
+      "word": "忘年会",
+      "reading": "ぼうねんかい",
+      "meaning": "hội cuối năm"
     },
     {
       "word": "忘却",
@@ -121,39 +141,19 @@
       "meaning": "sự lãng quên"
     },
     {
+      "word": "備忘録",
+      "reading": "びぼうろく",
+      "meaning": "sổ tay"
+    },
+    {
+      "word": "物忘れ",
+      "reading": "ものわすれ",
+      "meaning": "tính hay quên"
+    },
+    {
       "word": "忘る",
       "reading": "わする",
       "meaning": "cố quên đi"
-    },
-    {
-      "word": "健忘",
-      "reading": "けんぼう",
-      "meaning": "sự đãng trí"
-    },
-    {
-      "word": "忘失",
-      "reading": "ぼうしつ",
-      "meaning": "mất"
-    },
-    {
-      "word": "忘我",
-      "reading": "ぼうが",
-      "meaning": "bị cuốn theo vào cái gì đó quên mất bản thân"
-    },
-    {
-      "word": "忘恩",
-      "reading": "ぼうおん",
-      "meaning": "bội ơn"
-    },
-    {
-      "word": "両忘",
-      "reading": "りょうぼう",
-      "meaning": "tách rời khỏi sự khách quan và chủ quan"
-    },
-    {
-      "word": "都忘",
-      "reading": "みやこわすれ",
-      "meaning": "cây cúc tây trung quốc"
     }
   ]
 }

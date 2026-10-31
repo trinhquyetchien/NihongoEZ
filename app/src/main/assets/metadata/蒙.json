@@ -72,24 +72,24 @@
   ],
   "vocabulary": [
     {
-      "word": "蒙",
-      "reading": "もう",
-      "meaning": "sự không hiểu biết"
-    },
-    {
-      "word": "愚蒙",
-      "reading": "ぐもう",
-      "meaning": "ngu ngốc"
-    },
-    {
       "word": "啓蒙",
       "reading": "けいもう",
       "meaning": "sự khai hóa"
     },
     {
-      "word": "満蒙",
-      "reading": "まんもう",
-      "meaning": "mãn châu và mông cổ"
+      "word": "啓蒙的",
+      "reading": "けいもうてき",
+      "meaning": "khai sáng"
+    },
+    {
+      "word": "啓蒙書",
+      "reading": "けいもうしょ",
+      "meaning": "sách khai trí"
+    },
+    {
+      "word": "蒙",
+      "reading": "もう",
+      "meaning": "sự không hiểu biết"
     },
     {
       "word": "内蒙",
@@ -102,24 +102,24 @@
       "meaning": "mông cổ"
     },
     {
-      "word": "蒙昧",
-      "reading": "もうまい",
-      "meaning": "sự ngu dốt"
+      "word": "外蒙古",
+      "reading": "がいもうこ",
+      "meaning": "vùng ngoại mông"
     },
     {
-      "word": "蒙る",
-      "reading": "こうむる",
-      "meaning": "để nhận"
+      "word": "蒙古症",
+      "reading": "もうこしょう",
+      "meaning": "bệnh langdon down"
     },
     {
-      "word": "蒙塵",
-      "reading": "もうじん",
-      "meaning": "hoàng tộc tìm nơi ẩn náu bên ngoài cung điện hoặc thủ đô trong trường hợp khẩn cấp"
+      "word": "蒙古族",
+      "reading": "もうこぞく",
+      "meaning": "tộc người mông cổ"
     },
     {
-      "word": "啓蒙書",
-      "reading": "けいもうしょ",
-      "meaning": "sách khai trí"
+      "word": "愚蒙",
+      "reading": "ぐもう",
+      "meaning": "ngu ngốc"
     }
   ]
 }

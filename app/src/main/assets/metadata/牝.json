@@ -54,9 +54,9 @@
   ],
   "vocabulary": [
     {
-      "word": "牝鶏",
-      "reading": "ひんけい",
-      "meaning": "gà mái"
+      "word": "牝犬",
+      "reading": "めすいぬ",
+      "meaning": "chó cái"
     },
     {
       "word": "牝鳥",
@@ -74,17 +74,17 @@
       "meaning": "con nai cái"
     },
     {
-      "word": "牝犬",
-      "reading": "めすいぬ",
-      "meaning": "chó cái"
-    },
-    {
       "word": "牝馬",
       "reading": "ひんば",
       "meaning": "ngựa cái"
     },
     {
       "word": "牝鷄",
+      "reading": "ひんけい",
+      "meaning": "gà mái"
+    },
+    {
+      "word": "牝鶏",
       "reading": "ひんけい",
       "meaning": "gà mái"
     },

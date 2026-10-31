@@ -91,24 +91,19 @@
   ],
   "vocabulary": [
     {
-      "word": "暴",
-      "reading": "ぼう",
+      "word": "乱暴",
+      "reading": "らんぼう",
+      "meaning": "bạo loạn"
+    },
+    {
+      "word": "暴れる",
+      "reading": "あばれる",
+      "meaning": "nổi giận"
+    },
+    {
+      "word": "暴力",
+      "reading": "ぼうりょく",
       "meaning": "bạo lực"
-    },
-    {
-      "word": "暴飲暴食",
-      "reading": "ぼういんぼうしょく",
-      "meaning": "uống và ăn quá nhiều"
-    },
-    {
-      "word": "自暴",
-      "reading": "じぼう",
-      "meaning": "hết hy vọng"
-    },
-    {
-      "word": "横暴",
-      "reading": "おうぼう",
-      "meaning": "việc thực hiện các hành vi bất hợp pháp và bạo lực bằng quyền lực và sức mạnh"
     },
     {
       "word": "暴露",
@@ -116,29 +111,34 @@
       "meaning": "sự dầm mưa dãi nắng"
     },
     {
-      "word": "暴漢",
-      "reading": "ぼうかん",
-      "meaning": "lưu manh"
+      "word": "暴動",
+      "reading": "ぼうどう",
+      "meaning": "bạo động"
     },
     {
-      "word": "暴政",
-      "reading": "ぼうせい",
-      "meaning": "bạo chính"
+      "word": "暴風",
+      "reading": "ぼうふう",
+      "meaning": "bão gió"
     },
     {
-      "word": "暴投",
-      "reading": "ぼうとう",
-      "meaning": "cú ném hoang dã"
+      "word": "暴力的",
+      "reading": "ぼうりょくてき",
+      "meaning": "mang tính hung bạo"
     },
     {
-      "word": "暴く",
-      "reading": "あばく",
-      "meaning": "vạch trần"
+      "word": "非暴力",
+      "reading": "ひぼうりょく",
+      "meaning": "không bạo lực"
     },
     {
-      "word": "暴飲",
-      "reading": "ぼういん",
-      "meaning": "nặng nề uống"
+      "word": "暴走",
+      "reading": "ぼうそう",
+      "meaning": "vận động viên chạy một cách liều lĩnh"
+    },
+    {
+      "word": "暴れ者",
+      "reading": "あばれもの",
+      "meaning": "kẻ vô lại"
     }
   ]
 }

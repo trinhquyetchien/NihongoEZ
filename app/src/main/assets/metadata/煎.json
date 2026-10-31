@@ -89,44 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "煎",
-      "reading": "せん",
-      "meaning": "nướng"
-    },
-    {
-      "word": "焙煎",
-      "reading": "ばいせん",
-      "meaning": "rang"
-    },
-    {
-      "word": "煎薬",
-      "reading": "せんやく",
-      "meaning": "sự sắc thuốc"
-    },
-    {
-      "word": "煎剤",
-      "reading": "せんざい",
-      "meaning": "sự sắc"
-    },
-    {
       "word": "煎る",
       "reading": "いる",
       "meaning": "rang"
     },
     {
-      "word": "煎茶",
-      "reading": "せんちゃ",
-      "meaning": "chè xanh"
-    },
-    {
-      "word": "煎鍋",
-      "reading": "いりなべ",
-      "meaning": "nướng cái chảo"
-    },
-    {
-      "word": "湯煎",
-      "reading": "ゆせん",
-      "meaning": "sự làm nóng bằng cách cho vào nước sôi"
+      "word": "煎",
+      "reading": "せん",
+      "meaning": "nướng"
     },
     {
       "word": "煎餅",
@@ -134,9 +104,39 @@
       "meaning": "bánh chiên giòn"
     },
     {
-      "word": "香煎",
-      "reading": "こうせん",
-      "meaning": "bột lúa mạch rang"
+      "word": "煎れる",
+      "reading": "いれる",
+      "meaning": "rang"
+    },
+    {
+      "word": "御煎",
+      "reading": "おせん",
+      "meaning": "bánh gạo nhật"
+    },
+    {
+      "word": "塩煎餅",
+      "reading": "しおせんべい",
+      "meaning": "bánh gạo có vị nước tương nhật"
+    },
+    {
+      "word": "煎鍋",
+      "reading": "いりなべ",
+      "meaning": "nướng cái chảo"
+    },
+    {
+      "word": "鹿煎餅",
+      "reading": "しかせんべい",
+      "meaning": "bánh gạo để nuôi hươu"
+    },
+    {
+      "word": "煎玉子",
+      "reading": "いたまご",
+      "meaning": "bò những trứng"
+    },
+    {
+      "word": "煎ずる",
+      "reading": "せんずる",
+      "meaning": "đun sôi"
     }
   ]
 }

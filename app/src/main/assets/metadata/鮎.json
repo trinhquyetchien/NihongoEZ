@@ -58,19 +58,29 @@
       "meaning": "cá chẻm"
     },
     {
-      "word": "稚鮎",
-      "reading": "ちあゆ",
-      "meaning": "cá ayu con"
+      "word": "落ち鮎",
+      "reading": "おちあゆ",
+      "meaning": "cá nước ngọt bơi xuôi dòng để đẻ trứng"
     },
     {
-      "word": "若鮎",
-      "reading": "わかあゆ",
-      "meaning": "bánh cá"
+      "word": "鮎掛け",
+      "reading": "あゆかけ",
+      "meaning": "một loài cá nước ngọt thuộc họ sculpin"
     },
     {
-      "word": "鮎漁",
-      "reading": "あゆりょう",
-      "meaning": "câu cá ngọt"
+      "word": "鮎魚女",
+      "reading": "あいなめ",
+      "meaning": "một loài cá biển có màu vàng hoặc xanh"
+    },
+    {
+      "word": "鮎釣り",
+      "reading": "あゆつり",
+      "meaning": "câu cá ayu"
+    },
+    {
+      "word": "兵児鮎",
+      "reading": "へこあゆ",
+      "meaning": "cá razorfish"
     },
     {
       "word": "鮎並",
@@ -78,9 +88,9 @@
       "meaning": "greenling"
     },
     {
-      "word": "鮎擬",
-      "reading": "あゆもどき",
-      "meaning": "cá thơm ayu"
+      "word": "鮎並女",
+      "reading": "あいなめ",
+      "meaning": "greenling"
     },
     {
       "word": "琉球鮎",
@@ -88,19 +98,9 @@
       "meaning": "cá hương lưu cầu"
     },
     {
-      "word": "落ち鮎",
-      "reading": "おちあゆ",
-      "meaning": "cá nước ngọt bơi xuôi dòng để đẻ trứng"
-    },
-    {
-      "word": "鮎並女",
-      "reading": "あいなめ",
-      "meaning": "greenling"
-    },
-    {
-      "word": "鮎魚女",
-      "reading": "あいなめ",
-      "meaning": "một loài cá biển có màu vàng hoặc xanh"
+      "word": "鮎漁",
+      "reading": "あゆりょう",
+      "meaning": "câu cá ngọt"
     }
   ]
 }

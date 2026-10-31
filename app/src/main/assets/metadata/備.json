@@ -125,14 +125,14 @@
   ],
   "vocabulary": [
     {
-      "word": "ガレージ整備設備",
-      "reading": "ガレージせいびせつび",
-      "meaning": "trang thiết bị bảo dưỡng cho gara"
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "sự chuẩn bị"
     },
     {
-      "word": "警備",
-      "reading": "けいび",
-      "meaning": "canh gác"
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "sự trang bị"
     },
     {
       "word": "整備",
@@ -140,9 +140,19 @@
       "meaning": "sự bảo trì"
     },
     {
-      "word": "準備",
-      "reading": "じゅんび",
-      "meaning": "sự chuẩn bị"
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "canh gác"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "dự bị"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "thiết bị"
     },
     {
       "word": "守備",
@@ -150,29 +160,19 @@
       "meaning": "sự bảo vệ"
     },
     {
-      "word": "全備",
-      "reading": "ぜんび",
-      "meaning": "tính chất bổ sung"
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "binh bị"
     },
     {
-      "word": "完備",
-      "reading": "かんび",
-      "meaning": "được trang bị đầy đủ"
+      "word": "金準備",
+      "reading": "きんじゅんび",
+      "meaning": "dự trữ vàng"
     },
     {
-      "word": "備荒",
-      "reading": "びこう",
-      "meaning": "sự chuẩn bị cho nạn đói"
-    },
-    {
-      "word": "備考",
-      "reading": "びこう",
-      "meaning": "ghi chú"
-    },
-    {
-      "word": "備蓄",
-      "reading": "びちく",
-      "meaning": "sự tích trữ"
+      "word": "下準備",
+      "reading": "したじゅんび",
+      "meaning": "sự chuẩn bị trước"
     }
   ]
 }

@@ -92,44 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "戯",
-      "reading": "あじゃら",
-      "meaning": "sự chơi đùa"
-    },
-    {
-      "word": "戯画",
-      "reading": "ぎが",
-      "meaning": "tranh châm biếm"
-    },
-    {
-      "word": "戯れ",
-      "reading": "たわむれ",
-      "meaning": "trò chơi"
-    },
-    {
-      "word": "悪戯",
-      "reading": "いたずら",
-      "meaning": "nghịch ngợm"
-    },
-    {
-      "word": "戯文",
-      "reading": "ぎぶん",
-      "meaning": "văn hài hước"
-    },
-    {
-      "word": "戯笑",
-      "reading": "ぎしょう",
-      "meaning": "tiếng cười tếu"
-    },
-    {
-      "word": "戯書",
-      "reading": "ぎしょ",
-      "meaning": "sự giả mạo"
-    },
-    {
-      "word": "戯絵",
-      "reading": "ざれえ",
-      "meaning": "vẽ kiệt sức để cười"
+      "word": "戯曲",
+      "reading": "ぎきょく",
+      "meaning": "kịch"
     },
     {
       "word": "遊戯",
@@ -137,9 +102,44 @@
       "meaning": "trò chơi"
     },
     {
-      "word": "戯る",
-      "reading": "たわむる",
-      "meaning": "đùa giỡn"
+      "word": "遊戯的",
+      "reading": "ゆうぎてき",
+      "meaning": "ham vui đùa"
+    },
+    {
+      "word": "性遊戯",
+      "reading": "せいゆうぎ",
+      "meaning": "giới tính chơi"
+    },
+    {
+      "word": "遊戯場",
+      "reading": "ゆうぎじょう",
+      "meaning": "địa điểm vui chơi giải trí"
+    },
+    {
+      "word": "悪戯",
+      "reading": "いたずら",
+      "meaning": "nghịch ngợm"
+    },
+    {
+      "word": "悪戯者",
+      "reading": "いたずらもの",
+      "meaning": "thả lỏng phụ nữ"
+    },
+    {
+      "word": "悪戯子",
+      "reading": "いたずらっこ",
+      "meaning": "cậu bé tác hại"
+    },
+    {
+      "word": "悪戯着",
+      "reading": "いたずらぎ",
+      "meaning": "quần yếm"
+    },
+    {
+      "word": "悪戯書",
+      "reading": "いたずらがき",
+      "meaning": "chữ viết vội vàng"
     }
   ]
 }

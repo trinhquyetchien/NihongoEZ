@@ -107,19 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "掛絡",
-      "reading": "から",
-      "meaning": "áo khoác ngắn của nhà sư thiền tông"
-    },
-    {
-      "word": "頭絡",
-      "reading": "とうらく",
-      "meaning": "dây thòng lọng"
-    },
-    {
-      "word": "刺絡",
-      "reading": "しらく",
-      "meaning": "phương pháp trích huyết trị liệu"
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "giữ liên lạc"
     },
     {
       "word": "絡む",
@@ -127,34 +117,44 @@
       "meaning": "cản trở"
     },
     {
-      "word": "交絡",
-      "reading": "こうらく",
-      "meaning": "sự quan hệ lẫn nhau"
+      "word": "ご連絡",
+      "reading": "ごれんらく",
+      "meaning": "thông báo"
     },
     {
-      "word": "絡げ",
-      "reading": "からげ",
-      "meaning": "bó"
+      "word": "連絡会",
+      "reading": "れんらくかい",
+      "meaning": "nhóm liên lạc"
     },
     {
-      "word": "経絡",
-      "reading": "けいらく",
-      "meaning": "kinh mạch"
+      "word": "連絡先",
+      "reading": "れんらくさき",
+      "meaning": "địa chỉ liên lạc"
     },
     {
-      "word": "短絡",
-      "reading": "たんらく",
-      "meaning": "chập mạch điện"
+      "word": "連絡駅",
+      "reading": "れんらくえき",
+      "meaning": "trạm liên lạc"
     },
     {
-      "word": "脈絡",
-      "reading": "みゃくらく",
-      "meaning": "sự mạch lạc"
+      "word": "連絡員",
+      "reading": "れんらくいん",
+      "meaning": "người liên lạc"
     },
     {
-      "word": "絡み",
-      "reading": "からみ",
-      "meaning": "sự kết nối"
+      "word": "連絡線",
+      "reading": "れんらくせん",
+      "meaning": "đường dây liên lạc"
+    },
+    {
+      "word": "連絡船",
+      "reading": "れんらくせん",
+      "meaning": "phà"
+    },
+    {
+      "word": "御連絡",
+      "reading": "ごれんらく",
+      "meaning": "sự liên lạc"
     }
   ]
 }

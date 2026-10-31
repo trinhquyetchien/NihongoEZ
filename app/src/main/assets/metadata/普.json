@@ -90,34 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "普",
-      "reading": "ふ",
-      "meaning": "nói chung"
-    },
-    {
-      "word": "普免",
-      "reading": "ふめん",
-      "meaning": "giấy phép lái xe thông thường"
-    },
-    {
-      "word": "普請",
-      "reading": "ふしん",
-      "meaning": "kiến trúc"
-    },
-    {
-      "word": "普賢",
-      "reading": "ふげん",
-      "meaning": "samantabhadra"
-    },
-    {
-      "word": "普選",
-      "reading": "ふせん",
-      "meaning": "quyền bầu cử phổ thông"
-    },
-    {
-      "word": "普く",
-      "reading": "あまねく",
-      "meaning": "nhiều"
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "nôm na"
     },
     {
       "word": "普段",
@@ -125,9 +100,9 @@
       "meaning": "bình thường"
     },
     {
-      "word": "普通",
-      "reading": "ふつう",
-      "meaning": "nôm na"
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaning": "phổ cập"
     },
     {
       "word": "普遍",
@@ -135,9 +110,34 @@
       "meaning": "bất biến"
     },
     {
-      "word": "普及",
-      "reading": "ふきゅう",
-      "meaning": "phổ cập"
+      "word": "普通の",
+      "reading": "ふつうの",
+      "meaning": "thường"
+    },
+    {
+      "word": "普通人",
+      "reading": "ふつうじん",
+      "meaning": "người bình thường"
+    },
+    {
+      "word": "普通話",
+      "reading": "ふつうわ",
+      "meaning": "tiengs phổ thông"
+    },
+    {
+      "word": "普通車",
+      "reading": "ふつうしゃ",
+      "meaning": "xe ô tô phổ thông"
+    },
+    {
+      "word": "普通体",
+      "reading": "ふつうたい",
+      "meaning": "thể thông thường"
+    },
+    {
+      "word": "普通法",
+      "reading": "ふつうほう",
+      "meaning": "luật phổ thông"
     }
   ]
 }

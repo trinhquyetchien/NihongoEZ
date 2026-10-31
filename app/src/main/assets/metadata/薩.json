@@ -34,9 +34,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "薩埵",
-      "reading": "さった",
-      "meaning": "bodhisattva"
+      "word": "薩摩",
+      "reading": "さつま",
+      "meaning": "satsuma"
+    },
+    {
+      "word": "薩摩汁",
+      "reading": "さつまじる",
+      "meaning": "súp miso được làm bằng cách thêm củ cải"
     },
     {
       "word": "菩薩",
@@ -49,14 +54,9 @@
       "meaning": "satsuma và choshu"
     },
     {
-      "word": "薩摩",
-      "reading": "さつま",
-      "meaning": "satsuma"
-    },
-    {
-      "word": "仏菩薩",
-      "reading": "ぶつぼさつ",
-      "meaning": "chư phật và bồ tát"
+      "word": "薩摩閥",
+      "reading": "さつまばつ",
+      "meaning": "thị tộc satsuma"
     },
     {
       "word": "薩摩芋",
@@ -69,19 +69,19 @@
       "meaning": "đồ sứ vùng satsuma"
     },
     {
-      "word": "薩摩閥",
-      "reading": "さつまばつ",
-      "meaning": "thị tộc satsuma"
+      "word": "薩埵",
+      "reading": "さった",
+      "meaning": "bodhisattva"
+    },
+    {
+      "word": "仏菩薩",
+      "reading": "ぶつぼさつ",
+      "meaning": "chư phật và bồ tát"
     },
     {
       "word": "如菩薩",
       "reading": "にょぼさつ",
       "meaning": "giàu lòng thương"
-    },
-    {
-      "word": "薩摩スティック",
-      "reading": "さつまスティック",
-      "meaning": "khoai tây chiên"
     }
   ]
 }

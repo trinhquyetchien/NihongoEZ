@@ -109,39 +109,24 @@
       "meaning": "ga"
     },
     {
-      "word": "駅舎",
-      "reading": "えきしゃ",
-      "meaning": "trạm tàu"
-    },
-    {
-      "word": "廃駅",
-      "reading": "はいえき",
-      "meaning": "nhà ga bỏ hoang"
-    },
-    {
-      "word": "駅頭",
-      "reading": "えきとう",
-      "meaning": "gần nhà ga"
-    },
-    {
-      "word": "駅伝",
-      "reading": "えきでん",
-      "meaning": "xe ngựa chạy tuyến"
-    },
-    {
-      "word": "駅夫",
-      "reading": "えきふ",
+      "word": "駅子",
+      "reading": "えきし",
       "meaning": "nhân viên nhà ga"
     },
     {
-      "word": "駅名",
-      "reading": "えきめい",
-      "meaning": "tên ga tàu"
+      "word": "道の駅",
+      "reading": "みちのえき",
+      "meaning": "trạm nghỉ ngơi khi đi đường dài"
     },
     {
-      "word": "駅長",
-      "reading": "えきちょう",
-      "meaning": "trưởng ga"
+      "word": "駅馬",
+      "reading": "えきば",
+      "meaning": "ngựa trạm"
+    },
+    {
+      "word": "駅止め",
+      "reading": "えきどめ",
+      "meaning": "sự giao hàng chuyên chở tới một nhà ga"
     },
     {
       "word": "当駅",
@@ -149,9 +134,24 @@
       "meaning": "nhà ga này"
     },
     {
-      "word": "駅逓",
-      "reading": "えきてい",
-      "meaning": "sự giao hàng hoá"
+      "word": "発駅",
+      "reading": "はつえき",
+      "meaning": "ga đi"
+    },
+    {
+      "word": "駅夫",
+      "reading": "えきふ",
+      "meaning": "nhân viên nhà ga"
+    },
+    {
+      "word": "駅ビル",
+      "reading": "えきビル",
+      "meaning": "đặt vào vị trí tòa nhà"
+    },
+    {
+      "word": "到着駅",
+      "reading": "とうちゃくえき",
+      "meaning": "ga đến"
     }
   ]
 }

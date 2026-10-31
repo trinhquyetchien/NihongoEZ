@@ -87,8 +87,23 @@
   ],
   "vocabulary": [
     {
+      "word": "山梨",
+      "reading": "やまなし",
+      "meaning": "cây lê dại"
+    },
+    {
+      "word": "山梨県",
+      "reading": "やまなしけん",
+      "meaning": "tỉnh yamanashi của nhật bản"
+    },
+    {
       "word": "梨",
       "reading": "なし",
+      "meaning": "quả lê"
+    },
+    {
+      "word": "梨の実",
+      "reading": "なしのみ",
       "meaning": "quả lê"
     },
     {
@@ -97,14 +112,14 @@
       "meaning": "kiwi cứng"
     },
     {
-      "word": "梨園",
-      "reading": "りえん",
-      "meaning": "thế giới sân khấu"
+      "word": "梨状筋",
+      "reading": "りじょうきん",
+      "meaning": "cơ hình lê"
     },
     {
-      "word": "梨花",
+      "word": "梨果",
       "reading": "りか",
-      "meaning": "hoa lê"
+      "meaning": "dạng quả táo"
     },
     {
       "word": "鳳梨",
@@ -112,29 +127,14 @@
       "meaning": "trái dứa"
     },
     {
-      "word": "青梨",
-      "reading": "あおなし",
-      "meaning": "lê xanh"
+      "word": "梨花",
+      "reading": "りか",
+      "meaning": "hoa lê"
     },
     {
-      "word": "花梨",
-      "reading": "かりん",
-      "meaning": "mộc qua"
-    },
-    {
-      "word": "洋梨",
-      "reading": "ようなし",
-      "meaning": "qủa lê"
-    },
-    {
-      "word": "鰐梨",
-      "reading": "わになし",
-      "meaning": "quả bơ"
-    },
-    {
-      "word": "山梨",
-      "reading": "やまなし",
-      "meaning": "cây lê dại"
+      "word": "梨子地",
+      "reading": "なしじ",
+      "meaning": "kỹ thuật sơn mài vân lê"
     }
   ]
 }

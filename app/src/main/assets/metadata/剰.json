@@ -89,6 +89,41 @@
   ],
   "vocabulary": [
     {
+      "word": "過剰",
+      "reading": "かじょう",
+      "meaning": "sự vượt quá"
+    },
+    {
+      "word": "過剰虹",
+      "reading": "かじょうにじ",
+      "meaning": "cầu vồng thừa"
+    },
+    {
+      "word": "余剰",
+      "reading": "よじょう",
+      "meaning": "số dư"
+    },
+    {
+      "word": "剰余",
+      "reading": "じょうよ",
+      "meaning": "lượng dư"
+    },
+    {
+      "word": "剰余類",
+      "reading": "じょうよるい",
+      "meaning": "phần dư"
+    },
+    {
+      "word": "剰余金",
+      "reading": "じょうよきん",
+      "meaning": "số tiền thặng dư"
+    },
+    {
+      "word": "剰余系",
+      "reading": "じょーよけー",
+      "meaning": "hệ thống phần dư"
+    },
+    {
       "word": "剰",
       "reading": "あまつさえ",
       "meaning": "sự quá"
@@ -99,44 +134,9 @@
       "meaning": "những chi phí không cần thiết"
     },
     {
-      "word": "剰余",
-      "reading": "じょうよ",
-      "meaning": "lượng dư"
-    },
-    {
-      "word": "剰員",
-      "reading": "じょういん",
-      "meaning": "người thừa"
-    },
-    {
-      "word": "剰語",
-      "reading": "じょうご",
-      "meaning": "sự thừa"
-    },
-    {
-      "word": "剰え",
-      "reading": "あまつさえ",
-      "meaning": "ngoài ra"
-    },
-    {
-      "word": "余剰",
-      "reading": "よじょう",
-      "meaning": "số dư"
-    },
-    {
       "word": "剰銭",
       "reading": "じょうせん",
       "meaning": "tiền thừa"
-    },
-    {
-      "word": "過剰",
-      "reading": "かじょう",
-      "meaning": "sự vượt quá"
-    },
-    {
-      "word": "剰余類",
-      "reading": "じょうよるい",
-      "meaning": "phần dư"
     }
   ]
 }

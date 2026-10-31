@@ -90,39 +90,24 @@
   ],
   "vocabulary": [
     {
-      "word": "破砕",
-      "reading": "はさい",
-      "meaning": "làm tan nát"
-    },
-    {
       "word": "砕く",
       "reading": "くだく",
       "meaning": "đập nhỏ"
     },
     {
-      "word": "雑砕",
-      "reading": "チャプスイ",
-      "meaning": "thịt lợn"
+      "word": "砕ける",
+      "reading": "くだける",
+      "meaning": "bị vỡ"
     },
     {
-      "word": "砕片",
-      "reading": "さいへん",
-      "meaning": "mảnh vỡ"
+      "word": "粉砕",
+      "reading": "ふんさい",
+      "meaning": "sự đập nát"
     },
     {
-      "word": "砕石",
-      "reading": "さいせき",
-      "meaning": "đá dăm"
-    },
-    {
-      "word": "零砕",
-      "reading": "れいさい",
-      "meaning": "rất nhỏ"
-    },
-    {
-      "word": "爆砕",
-      "reading": "ばくさい",
-      "meaning": "sự làm nổ tung"
+      "word": "粉砕機",
+      "reading": "ふんさいき",
+      "meaning": "máy nghiền"
     },
     {
       "word": "砕け",
@@ -130,14 +115,29 @@
       "meaning": "quen thuộc lời nói gọi tên)"
     },
     {
-      "word": "撃砕",
-      "reading": "げきさい",
-      "meaning": "nát vụn"
+      "word": "砕けた",
+      "reading": "くだけた",
+      "meaning": "dễ dàng"
     },
     {
-      "word": "圧砕",
-      "reading": "あっさい",
+      "word": "砕け波",
+      "reading": "くだけなみ",
+      "meaning": "sóng vỡ"
+    },
+    {
+      "word": "破砕",
+      "reading": "はさい",
       "meaning": "làm tan nát"
+    },
+    {
+      "word": "玉砕",
+      "reading": "ぎょくさい",
+      "meaning": "sự hy sinh oanh liệt"
+    },
+    {
+      "word": "破砕性",
+      "reading": "はさいせい",
+      "meaning": "xem crush"
     }
   ]
 }

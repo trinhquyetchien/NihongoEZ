@@ -104,31 +104,6 @@
   ],
   "vocabulary": [
     {
-      "word": "テス勉",
-      "reading": "テスべん",
-      "meaning": "học cho kì kiểm tra . viết tắt của テスト勉強"
-    },
-    {
-      "word": "勉励",
-      "reading": "べんれい",
-      "meaning": "sự siêng năng"
-    },
-    {
-      "word": "猛勉",
-      "reading": "もうべん",
-      "meaning": "học tập chăm chỉ"
-    },
-    {
-      "word": "黽勉",
-      "reading": "びんべん",
-      "meaning": "sự cần mẫn"
-    },
-    {
-      "word": "勉学",
-      "reading": "べんがく",
-      "meaning": "siêng học"
-    },
-    {
       "word": "勉強",
       "reading": "べんきょう",
       "meaning": "việc học hành"
@@ -139,19 +114,44 @@
       "meaning": "cần cù"
     },
     {
-      "word": "ノー勉",
-      "reading": "ノーべん",
-      "meaning": "không học gì cả"
+      "word": "勉強中",
+      "reading": "べんきょうちゅう",
+      "meaning": "trong khi học"
     },
     {
-      "word": "無勉",
-      "reading": "むべん",
-      "meaning": "không học"
+      "word": "勉強家",
+      "reading": "べんきょうか",
+      "meaning": "người học hành chăm chỉ"
     },
     {
-      "word": "置き勉",
-      "reading": "おきべん",
-      "meaning": "để lại đồ dùng học tập"
+      "word": "勉強会",
+      "reading": "べんきょうかい",
+      "meaning": "việc học nhóm"
+    },
+    {
+      "word": "不勉強",
+      "reading": "ふべんきょう",
+      "meaning": "sự lười biếng học hành"
+    },
+    {
+      "word": "勉強運",
+      "reading": "べんきょううん",
+      "meaning": "may mắn về học tập"
+    },
+    {
+      "word": "糞勉強",
+      "reading": "くそべんきょう",
+      "meaning": "tập trung học"
+    },
+    {
+      "word": "勉強机",
+      "reading": "べんきょうづくえ",
+      "meaning": "bàn học"
+    },
+    {
+      "word": "猛勉強",
+      "reading": "もうべんきょう",
+      "meaning": "học thêm quá nhiều"
     }
   ]
 }

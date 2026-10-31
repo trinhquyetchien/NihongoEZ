@@ -92,19 +92,14 @@
       "meaning": "hình thức"
     },
     {
-      "word": "プロペラ式(ベーン式)",
-      "reading": "プロペラしき(ベーンしき)",
-      "meaning": "máy bơm kiểu cánh quạt"
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "công thức"
     },
     {
-      "word": "熱線式(ホットワイヤ式)",
-      "reading": "ねっせんしき(ホットワイヤしき)",
-      "meaning": "phương pháp dây nóng"
-    },
-    {
-      "word": "面積式(フロート式)",
-      "reading": "めんせきしき(フロートしき)",
-      "meaning": "diện tích"
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "hình thức"
     },
     {
       "word": "方式",
@@ -112,29 +107,34 @@
       "meaning": "cách thức"
     },
     {
+      "word": "式場",
+      "reading": "しきじょう",
+      "meaning": "phòng lớn nghi thức"
+    },
+    {
+      "word": "次式",
+      "reading": "じしき",
+      "meaning": "đi theo phương trình"
+    },
+    {
       "word": "彼式",
       "reading": "あれしき",
       "meaning": "cách làm đó"
     },
     {
-      "word": "書式",
-      "reading": "しょしき",
-      "meaning": "để trống mẫu"
+      "word": "式神",
+      "reading": "しきがみ",
+      "meaning": "quỷ thần"
     },
     {
-      "word": "公式",
-      "reading": "こうしき",
-      "meaning": "công thức"
+      "word": "昔式",
+      "reading": "むかししき",
+      "meaning": "cổ điển"
     },
     {
-      "word": "一式",
-      "reading": "いっしき",
-      "meaning": "mọi thứ"
-    },
-    {
-      "word": "旧式",
-      "reading": "きゅうしき",
-      "meaning": "cổ hủ"
+      "word": "合式",
+      "reading": "ごうしき",
+      "meaning": "hình thức"
     }
   ]
 }

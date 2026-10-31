@@ -84,14 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "捗",
-      "reading": "はか",
-      "meaning": "sự tiến triển"
-    },
-    {
-      "word": "捗捗しい",
-      "reading": "はかばかしい",
-      "meaning": "chim yến"
+      "word": "進捗",
+      "reading": "しんちょく",
+      "meaning": "tiến triển"
     },
     {
       "word": "捗る",
@@ -99,14 +94,19 @@
       "meaning": "tiến triển"
     },
     {
-      "word": "進捗",
-      "reading": "しんちょく",
-      "meaning": "tiến triển"
+      "word": "捗",
+      "reading": "はか",
+      "meaning": "sự tiến triển"
     },
     {
       "word": "進捗状況",
       "reading": "しんちょくじょうきょう",
       "meaning": "tình trạng tiến bộ"
+    },
+    {
+      "word": "捗捗しい",
+      "reading": "はかばかしい",
+      "meaning": "chim yến"
     },
     {
       "word": "捗々しい",

@@ -91,41 +91,6 @@
   ],
   "vocabulary": [
     {
-      "word": "休",
-      "reading": "きゅう",
-      "meaning": "nghỉ ngơi"
-    },
-    {
-      "word": "休み休み",
-      "reading": "やすみやすみ",
-      "meaning": "dựa vào đôi khi"
-    },
-    {
-      "word": "有休",
-      "reading": "ゆうきゅう",
-      "meaning": "nghỉ phép có lương"
-    },
-    {
-      "word": "休講",
-      "reading": "きゅうこう",
-      "meaning": "sự ngừng lên lớp"
-    },
-    {
-      "word": "産休",
-      "reading": "さんきゅう",
-      "meaning": "phép nghỉ đẻ"
-    },
-    {
-      "word": "休戦",
-      "reading": "きゅうせん",
-      "meaning": "hưu chiến"
-    },
-    {
-      "word": "休会",
-      "reading": "きゅうかい",
-      "meaning": "sự đình hoãn tạm một cuộc họp"
-    },
-    {
       "word": "休憩",
       "reading": "きゅうけい",
       "meaning": "sự nghỉ ngơi"
@@ -136,9 +101,44 @@
       "meaning": "kỳ nghỉ"
     },
     {
-      "word": "休校",
+      "word": "休講",
       "reading": "きゅうこう",
+      "meaning": "sự ngừng lên lớp"
+    },
+    {
+      "word": "連休",
+      "reading": "れんきゅう",
+      "meaning": "kỳ nghỉ"
+    },
+    {
+      "word": "休戦",
+      "reading": "きゅうせん",
+      "meaning": "hưu chiến"
+    },
+    {
+      "word": "産休",
+      "reading": "さんきゅう",
+      "meaning": "phép nghỉ đẻ"
+    },
+    {
+      "word": "休学",
+      "reading": "きゅうがく",
       "meaning": "sự nghỉ học"
+    },
+    {
+      "word": "休",
+      "reading": "きゅう",
+      "meaning": "nghỉ ngơi"
+    },
+    {
+      "word": "年休",
+      "reading": "ねんきゅう",
+      "meaning": "kỳ nghỉ phép hàng năm"
+    },
+    {
+      "word": "休出",
+      "reading": "きゅうしゅつ",
+      "meaning": "làm việc vào ngày nghỉ"
     }
   ]
 }

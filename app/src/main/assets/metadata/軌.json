@@ -91,39 +91,39 @@
       "meaning": "quĩ đạo"
     },
     {
-      "word": "軌跡",
-      "reading": "きせき",
-      "meaning": "quỹ tích"
-    },
-    {
-      "word": "広軌",
-      "reading": "こうき",
-      "meaning": "bề rộng của đường sắt lớn hơn mức chuẩn"
-    },
-    {
-      "word": "不軌",
-      "reading": "ふき",
-      "meaning": "tình trạng vô kỷ luật"
-    },
-    {
-      "word": "狭軌",
-      "reading": "きょうき",
-      "meaning": "khoảng cách đường ray hẹp"
-    },
-    {
       "word": "軌範",
       "reading": "きはん",
       "meaning": "quy phạm"
     },
     {
-      "word": "軌間",
-      "reading": "きかん",
-      "meaning": "khoảng cách đường ray"
+      "word": "中軌道",
+      "reading": "ちゅうきどう",
+      "meaning": "quỹ đạo tròn trung gian"
     },
     {
-      "word": "軌条",
-      "reading": "きじょう",
-      "meaning": "đường ray xe lửa"
+      "word": "軌道面",
+      "reading": "きどうめん",
+      "meaning": "bề mặt tiếp xúc các chi tiết xoay"
+    },
+    {
+      "word": "軌道船",
+      "reading": "きどうせん",
+      "meaning": "người/vật đi theo quỹ đạo"
+    },
+    {
+      "word": "低軌道",
+      "reading": "ていきどう",
+      "meaning": "quỹ đạo trái đất ở tầng thấp"
+    },
+    {
+      "word": "軌跡",
+      "reading": "きせき",
+      "meaning": "quỹ tích"
+    },
+    {
+      "word": "軌道敷",
+      "reading": "きどうしき",
+      "meaning": "đường ray"
     },
     {
       "word": "常軌",
@@ -131,9 +131,9 @@
       "meaning": "sự thông thường"
     },
     {
-      "word": "軌道船",
-      "reading": "きどうせん",
-      "meaning": "người/vật đi theo quỹ đạo"
+      "word": "無軌道",
+      "reading": "むきどう",
+      "meaning": "không có dấu vết"
     }
   ]
 }

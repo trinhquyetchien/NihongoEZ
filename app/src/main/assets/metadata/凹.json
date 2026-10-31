@@ -91,24 +91,24 @@
   ],
   "vocabulary": [
     {
-      "word": "凹",
-      "reading": "おう",
-      "meaning": "chỗ lõm"
+      "word": "凸凹",
+      "reading": "でこぼこ",
+      "meaning": "sự lồi lõm"
     },
     {
-      "word": "凹関数(下に凹)",
-      "reading": "おうかんすー(したにおう)",
-      "meaning": "hàm lõm"
+      "word": "凹む",
+      "reading": "へこむ",
+      "meaning": "lõm"
     },
     {
-      "word": "凹田",
-      "reading": "くぼた",
-      "meaning": "ruộng lúa"
+      "word": "凸凹紙",
+      "reading": "とつおうし",
+      "meaning": "làm nổi giấy"
     },
     {
-      "word": "凹眼",
-      "reading": "おうがん",
-      "meaning": "mắt sâu hoắm"
+      "word": "凹凸",
+      "reading": "おうとつ",
+      "meaning": "nhấp nhô"
     },
     {
       "word": "凹み",
@@ -116,29 +116,29 @@
       "meaning": "chỗ bị mẻ"
     },
     {
-      "word": "凹目",
-      "reading": "くぼめ",
-      "meaning": "mắt sâu hoắm"
+      "word": "凹",
+      "reading": "おう",
+      "meaning": "chỗ lõm"
+    },
+    {
+      "word": "凹の",
+      "reading": "おうの",
+      "meaning": "lõm"
+    },
+    {
+      "word": "穴凹",
+      "reading": "あなぼこ",
+      "meaning": "lỗ"
+    },
+    {
+      "word": "凹まる",
+      "reading": "くぼまる",
+      "meaning": "để thấp"
     },
     {
       "word": "肋凹",
       "reading": "ろくおう",
       "meaning": "hõm sườn"
-    },
-    {
-      "word": "凹レンズ",
-      "reading": "おうレンズ",
-      "meaning": "thấu kính lõm"
-    },
-    {
-      "word": "凹形",
-      "reading": "おうけい",
-      "meaning": "hình khắc lõm"
-    },
-    {
-      "word": "凹む",
-      "reading": "へこむ",
-      "meaning": "lõm"
     }
   ]
 }

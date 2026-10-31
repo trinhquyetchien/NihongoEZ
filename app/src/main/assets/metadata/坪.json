@@ -73,19 +73,9 @@
       "meaning": "đơn vị phép đo đất"
     },
     {
-      "word": "坪数",
-      "reading": "つぼすう",
-      "meaning": "diện tích tính bằng tsubo"
-    },
-    {
-      "word": "立坪",
-      "reading": "りゅうつぼ",
-      "meaning": "đơn vị đo thể tích"
-    },
-    {
-      "word": "地坪",
-      "reading": "じつぼ",
-      "meaning": "ở mặt đất hoặc hạ cánh vùng"
+      "word": "一坪",
+      "reading": "ひとつぼ・いちつぼ",
+      "meaning": "1 mét vuông"
     },
     {
       "word": "米坪",
@@ -93,14 +83,19 @@
       "meaning": "dán giấy trọng lượng trong gsm"
     },
     {
-      "word": "延坪",
-      "reading": "のべつぼ",
-      "meaning": "tổng diện tích sàn"
+      "word": "坪量",
+      "reading": "つぼりょう",
+      "meaning": "dán giấy trọng lượng trong gsm"
     },
     {
-      "word": "建坪",
+      "word": "立て坪",
       "reading": "たてつぼ",
-      "meaning": "mặt bằng sàn"
+      "meaning": "diện tích mặt bằng"
+    },
+    {
+      "word": "建て坪",
+      "reading": "たてつぼ",
+      "meaning": "lát sàn không gian"
     },
     {
       "word": "坪庭",
@@ -108,14 +103,19 @@
       "meaning": "vườn nhỏ bên trong nhà"
     },
     {
-      "word": "坪量",
-      "reading": "つぼりょう",
-      "meaning": "dán giấy trọng lượng trong gsm"
+      "word": "坪単価",
+      "reading": "つぼたんか",
+      "meaning": "giá theo diện tích"
     },
     {
-      "word": "一坪",
-      "reading": "ひとつぼ・いちつぼ",
-      "meaning": "1 mét vuông"
+      "word": "延べ坪",
+      "reading": "のべつぼ",
+      "meaning": "tổng diện tích kiến trúc"
+    },
+    {
+      "word": "建坪",
+      "reading": "たてつぼ",
+      "meaning": "mặt bằng sàn"
     }
   ]
 }

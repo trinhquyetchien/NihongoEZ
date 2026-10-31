@@ -74,34 +74,9 @@
       "meaning": "móng"
     },
     {
-      "word": "生爪",
-      "reading": "なまづめ",
-      "meaning": "móng tay"
-    },
-    {
-      "word": "鉤爪",
-      "reading": "かぎづめ",
-      "meaning": "móng vuốt"
-    },
-    {
-      "word": "雁爪",
-      "reading": "がんづめ",
-      "meaning": "một người nhật cào"
-    },
-    {
-      "word": "爪クラッチ",
-      "reading": "つめクラッチ",
-      "meaning": "côn kẹp"
-    },
-    {
-      "word": "爪ヤスリ",
-      "reading": "つめヤスリ",
-      "meaning": "dũa móng tay"
-    },
-    {
-      "word": "爪鑢",
-      "reading": "つめやすり",
-      "meaning": "cây dũa móng"
+      "word": "爪とぎ",
+      "reading": "つめとぎ",
+      "meaning": "cây cào móng"
     },
     {
       "word": "爪車",
@@ -109,14 +84,39 @@
       "meaning": "bánh răng"
     },
     {
-      "word": "爪痕",
-      "reading": "つめあと",
-      "meaning": "vết xây xát"
+      "word": "足の爪",
+      "reading": "あしのつめ",
+      "meaning": "móng chân"
     },
     {
-      "word": "爪跡",
-      "reading": "つめあと",
-      "meaning": "fingernail đánh dấu"
+      "word": "付け爪",
+      "reading": "つけづめ",
+      "meaning": "móng tay giả"
+    },
+    {
+      "word": "爪の垢",
+      "reading": "つめのあか",
+      "meaning": "vết móng tay"
+    },
+    {
+      "word": "爪切り",
+      "reading": "つめきり",
+      "meaning": "cái bấm móng tay"
+    },
+    {
+      "word": "爪糞",
+      "reading": "つめくそ",
+      "meaning": "cặn bẩn móng tay"
+    },
+    {
+      "word": "巻き爪",
+      "reading": "まきづめ",
+      "meaning": "móng chân mọc ngược vào trong"
+    },
+    {
+      "word": "糸爪",
+      "reading": "いとづめ",
+      "meaning": "cây mướp"
     }
   ]
 }

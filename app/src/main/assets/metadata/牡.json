@@ -74,39 +74,34 @@
   ],
   "vocabulary": [
     {
-      "word": "牡",
-      "reading": "おす",
-      "meaning": "con đực"
-    },
-    {
       "word": "牡蠣",
       "reading": "かき",
       "meaning": "con hàu"
     },
     {
-      "word": "牡丹",
-      "reading": "ぼたん",
-      "meaning": "mẫu đơn"
-    },
-    {
-      "word": "牡羊",
-      "reading": "おひつじ",
-      "meaning": "nhồi nhét"
-    },
-    {
-      "word": "牡馬",
-      "reading": "ぼば",
-      "meaning": "con ngựa đực"
-    },
-    {
-      "word": "牡鹿",
-      "reading": "おじか",
-      "meaning": "con hươu đực"
-    },
-    {
-      "word": "牡蛎",
-      "reading": "かき",
+      "word": "真牡蠣",
+      "reading": "まがき",
       "meaning": "con hàu"
+    },
+    {
+      "word": "牡蠣類",
+      "reading": "かきるい",
+      "meaning": "họ hàu"
+    },
+    {
+      "word": "牡蠣飯",
+      "reading": "かきめし",
+      "meaning": "cơm nấu với thịt hàu"
+    },
+    {
+      "word": "牡蠣油",
+      "reading": "かきあぶら",
+      "meaning": "nước xốt sò"
+    },
+    {
+      "word": "牡",
+      "reading": "おす",
+      "meaning": "con đực"
     },
     {
       "word": "牡猫",
@@ -114,14 +109,19 @@
       "meaning": "con mèo"
     },
     {
+      "word": "牡鳥",
+      "reading": "おんどり",
+      "meaning": "gà trống"
+    },
+    {
       "word": "牡牛",
       "reading": "おうし",
       "meaning": "bò đực"
     },
     {
-      "word": "牡鶏",
-      "reading": "おんどり",
-      "meaning": "gà trống"
+      "word": "牡子牛",
+      "reading": "おこうし",
+      "meaning": "bò con cái"
     }
   ]
 }

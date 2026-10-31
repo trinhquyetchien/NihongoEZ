@@ -88,39 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "外郭",
-      "reading": "がいかく",
-      "meaning": "thành bao bên ngoài"
+      "word": "輪郭",
+      "reading": "りんかく",
+      "meaning": "đường viền"
     },
     {
-      "word": "郭公",
-      "reading": "かっこう",
-      "meaning": "chim cúc cu"
+      "word": "輪郭線",
+      "reading": "りんかくせん",
+      "meaning": "phác thảo"
     },
     {
-      "word": "城郭",
-      "reading": "じょうかく",
-      "meaning": "tòa thành"
-    },
-    {
-      "word": "一郭",
-      "reading": "いっかく",
-      "meaning": "khu vực được bao quanh"
-    },
-    {
-      "word": "胸郭",
-      "reading": "きょうかく",
-      "meaning": "ngực"
+      "word": "郭言葉",
+      "reading": "くるわことば",
+      "meaning": "ngôn ngữ mà gái điếm hay gái mại dâm sử dụng ở khu phố đèn đỏ thời edo"
     },
     {
       "word": "郭清",
       "reading": "かくせい",
       "meaning": "làm sạch"
-    },
-    {
-      "word": "輪郭",
-      "reading": "りんかく",
-      "meaning": "đường viền"
     },
     {
       "word": "負郭",
@@ -133,9 +118,24 @@
       "meaning": "cây lan"
     },
     {
-      "word": "郭言葉",
-      "reading": "くるわことば",
-      "meaning": "ngôn ngữ mà gái điếm hay gái mại dâm sử dụng ở khu phố đèn đỏ thời edo"
+      "word": "城郭",
+      "reading": "じょうかく",
+      "meaning": "tòa thành"
+    },
+    {
+      "word": "五稜郭",
+      "reading": "ごりょうかく",
+      "meaning": "công sự năm mặt"
+    },
+    {
+      "word": "外郭",
+      "reading": "がいかく",
+      "meaning": "thành bao bên ngoài"
+    },
+    {
+      "word": "胸郭",
+      "reading": "きょうかく",
+      "meaning": "ngực"
     }
   ]
 }

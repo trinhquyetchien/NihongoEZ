@@ -36,14 +36,19 @@
       "meaning": "cám gạo"
     },
     {
+      "word": "糠子",
+      "reading": "ぬかご",
+      "meaning": "củ con của cây khoai núi"
+    },
+    {
       "word": "糠蚊",
       "reading": "ぬかか",
       "meaning": "muỗi chích nghiến"
     },
     {
-      "word": "糠子",
-      "reading": "ぬかご",
-      "meaning": "củ con của cây khoai núi"
+      "word": "糠に釘",
+      "reading": "ぬかにくぎ",
+      "meaning": "nước đổ lá khoai"
     },
     {
       "word": "糠蝿",
@@ -51,9 +56,14 @@
       "meaning": "ruồi cám"
     },
     {
-      "word": "糠雨",
-      "reading": "ぬかあめ",
-      "meaning": "mưa lất phất"
+      "word": "糠漬け",
+      "reading": "ぬかづけ",
+      "meaning": "đồ chua"
+    },
+    {
+      "word": "米糠",
+      "reading": "こめぬか",
+      "meaning": "cám gạo"
     },
     {
       "word": "糟糠",
@@ -61,24 +71,14 @@
       "meaning": "phàn nàn thức ăn"
     },
     {
-      "word": "糠油",
-      "reading": "ぬかあぶら",
-      "meaning": "loại dầu làm từ cám gạo"
+      "word": "粃糠",
+      "reading": "ひこう",
+      "meaning": "furfur"
     },
     {
-      "word": "粉糠",
-      "reading": "こぬか",
-      "meaning": "cám gạo"
-    },
-    {
-      "word": "小糠",
-      "reading": "こぬか",
-      "meaning": "cám gạo"
-    },
-    {
-      "word": "米糠",
-      "reading": "こめぬか",
-      "meaning": "cám gạo"
+      "word": "粃糠疹",
+      "reading": "ひこうしん",
+      "meaning": "bệnh vẩy phấn hồng"
     }
   ]
 }

@@ -89,39 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "喪失",
+      "reading": "そうしつ",
+      "meaning": "sự mất"
+    },
+    {
+      "word": "喪失感",
+      "reading": "そうしつかん",
+      "meaning": "cảm giác mất mát"
+    },
+    {
       "word": "喪",
       "reading": "も",
       "meaning": "quần áo tang"
     },
     {
-      "word": "大喪",
-      "reading": "たいそう",
-      "meaning": "đại tang"
+      "word": "喪男",
+      "reading": "もおとこ",
+      "meaning": "người đàn ông không được các cô gái yêu thích"
     },
     {
-      "word": "得喪",
-      "reading": "とくそう",
-      "meaning": "được và mất"
-    },
-    {
-      "word": "喪中",
-      "reading": "もちゅう",
-      "meaning": "đang có tang"
-    },
-    {
-      "word": "喪主",
-      "reading": "もしゅ",
-      "meaning": "chủ tang"
-    },
-    {
-      "word": "喪心",
-      "reading": "そうしん",
-      "meaning": "sự lơ đãng"
-    },
-    {
-      "word": "喪神",
-      "reading": "そうしん",
-      "meaning": "bất tỉnh"
+      "word": "喪女",
+      "reading": "もじょ",
+      "meaning": "người phụ nữ kém hấp dẫn"
     },
     {
       "word": "喪祭",
@@ -129,14 +119,24 @@
       "meaning": "những tang lễ và những liên hoan"
     },
     {
-      "word": "喪家",
-      "reading": "そうか",
-      "meaning": "không cửa không nhà"
+      "word": "喪服",
+      "reading": "もふく",
+      "meaning": "tang"
     },
     {
-      "word": "喪章",
-      "reading": "もしょう",
-      "meaning": "dấu hiệu có tang"
+      "word": "喪中",
+      "reading": "もちゅう",
+      "meaning": "đang có tang"
+    },
+    {
+      "word": "喪神",
+      "reading": "そうしん",
+      "meaning": "bất tỉnh"
+    },
+    {
+      "word": "付喪神",
+      "reading": "つくもがみ",
+      "meaning": "vật thành tinh"
     }
   ]
 }

@@ -89,9 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "繰越",
-      "reading": "くりこし",
-      "meaning": "phần kỳ trước chuyển sang"
+      "word": "繰り返す",
+      "reading": "くりかえす",
+      "meaning": "lặp lại"
+    },
+    {
+      "word": "座繰り",
+      "reading": "ざぐり",
+      "meaning": "quay cuồng bằng tay"
+    },
+    {
+      "word": "繰り綿",
+      "reading": "くりわた",
+      "meaning": "bông xe"
     },
     {
       "word": "繰入",
@@ -104,9 +114,9 @@
       "meaning": "chán ngắt nói"
     },
     {
-      "word": "繰る",
-      "reading": "くる",
-      "meaning": "quay"
+      "word": "絡繰り",
+      "reading": "からくり",
+      "meaning": "kỹ xảo"
     },
     {
       "word": "繰返し",
@@ -114,24 +124,14 @@
       "meaning": "sự lặp đi lặp lại"
     },
     {
-      "word": "絡繰り",
-      "reading": "からくり",
-      "meaning": "kỹ xảo"
+      "word": "繰越",
+      "reading": "くりこし",
+      "meaning": "phần kỳ trước chuyển sang"
     },
     {
-      "word": "座繰り",
-      "reading": "ざぐり",
-      "meaning": "quay cuồng bằng tay"
-    },
-    {
-      "word": "勘繰る",
-      "reading": "かんぐる",
-      "meaning": "sự nghi ngờ"
-    },
-    {
-      "word": "乳繰る",
-      "reading": "ちちくる",
-      "meaning": "có quan hệ bí mật"
+      "word": "手繰り",
+      "reading": "てぐり",
+      "meaning": "guồng quay"
     },
     {
       "word": "順繰り",

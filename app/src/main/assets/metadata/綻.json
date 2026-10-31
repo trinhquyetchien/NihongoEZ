@@ -83,14 +83,14 @@
   ],
   "vocabulary": [
     {
-      "word": "綻び",
-      "reading": "ほころび",
-      "meaning": "mở sự khâu"
-    },
-    {
       "word": "破綻",
       "reading": "はたん",
       "meaning": "sự mất hoàn toàn"
+    },
+    {
+      "word": "綻び",
+      "reading": "ほころび",
+      "meaning": "mở sự khâu"
     },
     {
       "word": "綻ぶ",
@@ -108,6 +108,11 @@
       "meaning": "tách ra"
     },
     {
+      "word": "経済破綻",
+      "reading": "けいざいはたん",
+      "meaning": "sự sụp đổ của nền kinh tế"
+    },
+    {
       "word": "経営破綻",
       "reading": "けいえいはたん",
       "meaning": "sự thất bại doanh nghiệp"
@@ -123,14 +128,9 @@
       "meaning": "kinh tế sụp đổ"
     },
     {
-      "word": "経済破綻",
-      "reading": "けいざいはたん",
-      "meaning": "sự sụp đổ của nền kinh tế"
-    },
-    {
-      "word": "破綻を来す",
-      "reading": "はたんをきたす",
-      "meaning": "bị phá sản"
+      "word": "金銭的破綻",
+      "reading": "きんせんてきはたん",
+      "meaning": "phá sản"
     }
   ]
 }

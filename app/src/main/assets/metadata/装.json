@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "装",
-      "reading": "そう",
-      "meaning": "quần áo"
-    },
-    {
       "word": "装置",
       "reading": "そうち",
       "meaning": "thiết bị"
     },
     {
-      "word": "改装",
-      "reading": "かいそう",
-      "meaning": "cải mả"
+      "word": "服装",
+      "reading": "ふくそう",
+      "meaning": "phục sức"
     },
     {
-      "word": "電装",
-      "reading": "でんそう",
-      "meaning": "thiết bị điện"
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "bao"
     },
     {
-      "word": "正装",
+      "word": "舗装",
+      "reading": "ほそう",
+      "meaning": "bề mặt cứng của một con đường"
+    },
+    {
+      "word": "盛装",
       "reading": "せいそう",
-      "meaning": "đồng phục"
+      "meaning": "được trang điểm"
     },
     {
-      "word": "女装",
-      "reading": "じょそう",
-      "meaning": "quần áo nữ"
+      "word": "実装",
+      "reading": "じっそう",
+      "meaning": "gói"
     },
     {
-      "word": "仮装",
-      "reading": "かそう",
-      "meaning": "sự cải trang"
+      "word": "塗装",
+      "reading": "とそう",
+      "meaning": "lớp sơn bên ngoài"
     },
     {
-      "word": "装い",
-      "reading": "よそおい",
-      "meaning": "mặc quần áo"
+      "word": "装着",
+      "reading": "そうちゃく",
+      "meaning": "trang bị"
     },
     {
-      "word": "扮装",
-      "reading": "ふんそう",
-      "meaning": "làm - lên trên"
+      "word": "偽装",
+      "reading": "ぎそう",
+      "meaning": "che giấu"
     },
     {
-      "word": "計装",
-      "reading": "けいそう",
-      "meaning": "sự trang bị máy móc đo đạc"
+      "word": "装",
+      "reading": "そう",
+      "meaning": "quần áo"
     }
   ]
 }

@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "髄",
-      "reading": "ずい",
-      "meaning": "tủy"
-    },
-    {
-      "word": "髄膜脊髄瘤",
-      "reading": "ずいまくせきずいりゅう",
-      "meaning": "thoát vị màng tủy"
-    },
-    {
-      "word": "骨髄異形成-骨髄増殖性疾患",
-      "reading": "こつずいいけいせい-こつずいぞうしょくせいしっかん",
-      "meaning": "nhóm bệnh tăng sinh tủy"
-    },
-    {
-      "word": "真髄",
-      "reading": "しんずい",
-      "meaning": "cốt tủy"
-    },
-    {
-      "word": "頚髄",
-      "reading": "けいずい",
-      "meaning": "tủy sống cổ"
-    },
-    {
-      "word": "延髄",
-      "reading": "えんずい",
-      "meaning": "hành tuỷ"
-    },
-    {
-      "word": "髄鞘",
-      "reading": "ずいしょう",
-      "meaning": "bao myelin"
-    },
-    {
-      "word": "脳髄",
-      "reading": "のうずい",
-      "meaning": "não"
-    },
-    {
       "word": "脊髄",
       "reading": "せきずい",
       "meaning": "các dây ở xương sống"
     },
     {
-      "word": "歯髄",
-      "reading": "しずい",
-      "meaning": "tủy răng"
+      "word": "脊髄炎",
+      "reading": "せきずいえん",
+      "meaning": "viêm tuỷ sống"
+    },
+    {
+      "word": "髄",
+      "reading": "ずい",
+      "meaning": "tủy"
+    },
+    {
+      "word": "髄脳",
+      "reading": "ずいのう",
+      "meaning": "myelencephalon"
+    },
+    {
+      "word": "髄虫",
+      "reading": "ずいむし",
+      "meaning": "sâu đục thân lúa"
+    },
+    {
+      "word": "胸髄症",
+      "reading": "きょうずいしょう",
+      "meaning": "bệnh lý tủy sống ngực"
+    },
+    {
+      "word": "髄液",
+      "reading": "ずいえき",
+      "meaning": "chất lỏng xương sống"
+    },
+    {
+      "word": "脱髄",
+      "reading": "だつずい",
+      "meaning": "demyelination"
+    },
+    {
+      "word": "髄膜",
+      "reading": "ずいまく",
+      "meaning": "màng não"
+    },
+    {
+      "word": "髄膜症",
+      "reading": "ずいまくしょう",
+      "meaning": "kích thích màng não"
     }
   ]
 }

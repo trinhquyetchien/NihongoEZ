@@ -90,39 +90,34 @@
   ],
   "vocabulary": [
     {
+      "word": "踏む",
+      "reading": "ふむ",
+      "meaning": "dẫm lên"
+    },
+    {
       "word": "踏切",
       "reading": "ふみきり",
       "meaning": "nơi chắn tàu"
     },
     {
-      "word": "踏鞴",
-      "reading": "たたら",
-      "meaning": "ống thổi chân"
+      "word": "踏み車",
+      "reading": "ふみぐるま",
+      "meaning": "một thuật ngữ chung cho các loại máy dùng chân để quay xe"
     },
     {
-      "word": "踏査",
-      "reading": "とうさ",
-      "meaning": "sự khảo sát"
+      "word": "踏み場",
+      "reading": "ふみば",
+      "meaning": "đặt đứng"
     },
     {
-      "word": "高踏",
-      "reading": "こうとう",
-      "meaning": "highbrow"
+      "word": "踏み面",
+      "reading": "ふみめん",
+      "meaning": "bước"
     },
     {
-      "word": "践踏",
-      "reading": "せんとう",
-      "meaning": "giẫm chân xuống"
-    },
-    {
-      "word": "踏破",
-      "reading": "とうは",
-      "meaning": "trải qua một chặng đường dài với nhiều khó khăn"
-    },
-    {
-      "word": "雪踏",
-      "reading": "せった",
-      "meaning": "những dép đóng đế giày da"
+      "word": "雪踏み",
+      "reading": "ゆきふみ",
+      "meaning": "kỹ thuật kiểm soát độ sâu đóng băng của đất"
     },
     {
       "word": "舞踏",
@@ -130,14 +125,19 @@
       "meaning": "sự nhảy múa"
     },
     {
-      "word": "踏む",
-      "reading": "ふむ",
-      "meaning": "dẫm lên"
+      "word": "舞踏会",
+      "reading": "ぶとうかい",
+      "meaning": "dạ hội khiêu vũ"
     },
     {
-      "word": "雑踏",
-      "reading": "ざっとう",
-      "meaning": "sự đông nghịt"
+      "word": "舞踏曲",
+      "reading": "ぶとうきょく",
+      "meaning": "nhạc khiêu vũ"
+    },
+    {
+      "word": "舞踏室",
+      "reading": "ぶとうしつ",
+      "meaning": "phòng khiêu vũ"
     }
   ]
 }

@@ -37,11 +37,6 @@
       "meaning": "cỏ lồng vực"
     },
     {
-      "word": "稗史",
-      "reading": "はいし",
-      "meaning": "sách lịch sử dân gian"
-    },
-    {
       "word": "稗官",
       "reading": "はいかん",
       "meaning": "thuộc hạ"
@@ -52,14 +47,19 @@
       "meaning": "cây kê chân vịt"
     },
     {
+      "word": "雀の稗",
+      "reading": "すずめのひえ",
+      "meaning": "cỏ paspalum nhật bản"
+    },
+    {
       "word": "唐人稗",
       "reading": "とうじんびえ",
       "meaning": "pennisetum glaucum"
     },
     {
-      "word": "雀の稗",
-      "reading": "すずめのひえ",
-      "meaning": "cỏ paspalum nhật bản"
+      "word": "稗史",
+      "reading": "はいし",
+      "meaning": "sách lịch sử dân gian"
     }
   ]
 }

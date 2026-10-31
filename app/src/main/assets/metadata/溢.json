@@ -88,19 +88,29 @@
   ],
   "vocabulary": [
     {
-      "word": "溢る",
-      "reading": "あふる",
-      "meaning": "tràn qua"
-    },
-    {
       "word": "溢れ",
       "reading": "あふれ",
       "meaning": "tràn qua"
     },
     {
-      "word": "溢流",
-      "reading": "いつりゅう",
-      "meaning": "sự tràn ra"
+      "word": "目溢れ",
+      "reading": "めこぼれ",
+      "meaning": "việc bỏ sót"
+    },
+    {
+      "word": "溢れる",
+      "reading": "あぶれる",
+      "meaning": "ngập"
+    },
+    {
+      "word": "脳溢血",
+      "reading": "のういっけつ",
+      "meaning": "bệnh trúng phong não"
+    },
+    {
+      "word": "溢る",
+      "reading": "あふる",
+      "meaning": "tràn qua"
     },
     {
       "word": "横溢",
@@ -113,29 +123,19 @@
       "meaning": "sự lụt lội"
     },
     {
-      "word": "溢血",
-      "reading": "いっけつ",
-      "meaning": "sự chảy máu"
-    },
-    {
-      "word": "溢乳",
-      "reading": "いつにゅう",
-      "meaning": "vú tiết sữa"
-    },
-    {
       "word": "充溢",
       "reading": "じゅういつ",
       "meaning": "tràn qua"
     },
     {
-      "word": "脳溢血",
-      "reading": "のういっけつ",
-      "meaning": "bệnh trúng phong não"
+      "word": "溢流",
+      "reading": "いつりゅう",
+      "meaning": "sự tràn ra"
     },
     {
-      "word": "溢れる",
-      "reading": "あぶれる",
-      "meaning": "ngập"
+      "word": "溢血",
+      "reading": "いっけつ",
+      "meaning": "sự chảy máu"
     }
   ]
 }

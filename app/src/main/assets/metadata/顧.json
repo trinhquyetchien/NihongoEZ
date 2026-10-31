@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "愛顧",
-      "reading": "あいこ",
-      "meaning": "sự bảo trợ"
-    },
-    {
-      "word": "回顧",
-      "reading": "かいこ",
-      "meaning": "sự hồi tưởng"
+      "word": "顧みる",
+      "reading": "かえりみる",
+      "meaning": "hồi tưởng lại"
     },
     {
       "word": "顧客",
@@ -104,29 +99,9 @@
       "meaning": "bạn hàng"
     },
     {
-      "word": "恩顧",
-      "reading": "おんこ",
-      "meaning": "sự ưu đãi"
-    },
-    {
-      "word": "一顧",
-      "reading": "いっこ",
-      "meaning": "chú ý"
-    },
-    {
-      "word": "後顧",
-      "reading": "こうこ",
-      "meaning": "nhìn lại"
-    },
-    {
-      "word": "顧慮",
-      "reading": "こりょ",
-      "meaning": "sự cân nhắc"
-    },
-    {
-      "word": "四顧",
-      "reading": "しこ",
-      "meaning": "nhìn khắp nơi"
+      "word": "顧客層",
+      "reading": "こきゃくそう",
+      "meaning": "phân loại khách hàng"
     },
     {
       "word": "顧問",
@@ -134,9 +109,34 @@
       "meaning": "sự cố vấn"
     },
     {
+      "word": "顧問官",
+      "reading": "こもんかん",
+      "meaning": "hội viên hội đồng"
+    },
+    {
+      "word": "顧問団",
+      "reading": "こもんだん",
+      "meaning": "đoàn cố vấn"
+    },
+    {
       "word": "顧み",
       "reading": "かえりみ",
       "meaning": "sự hồi tưởng lại"
+    },
+    {
+      "word": "回顧",
+      "reading": "かいこ",
+      "meaning": "sự hồi tưởng"
+    },
+    {
+      "word": "回顧的",
+      "reading": "かいこてき",
+      "meaning": "hồi tưởng quá khứ"
+    },
+    {
+      "word": "回顧展",
+      "reading": "かいこてん",
+      "meaning": "triển lãm hồi tưởng"
     }
   ]
 }

@@ -107,9 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "泊",
-      "reading": "はく",
-      "meaning": "việc ở lại"
+      "word": "泊まる",
+      "reading": "とまる",
+      "meaning": "dừng thuyền"
     },
     {
       "word": "宿泊",
@@ -117,44 +117,44 @@
       "meaning": "sự ngủ trọ"
     },
     {
-      "word": "延泊",
-      "reading": "えんぱく",
-      "meaning": "kéo dài thời gian lưu trú"
+      "word": "泊める",
+      "reading": "とめる",
+      "meaning": "dừng lại"
     },
     {
-      "word": "民泊",
-      "reading": "みんぱく",
-      "meaning": "sự trọ tại nhà dân"
+      "word": "泊",
+      "reading": "はく",
+      "meaning": "việc ở lại"
     },
     {
-      "word": "碇泊",
-      "reading": "ていはく",
-      "meaning": "sự thả neo"
+      "word": "宿泊人",
+      "reading": "しゅくはくにん",
+      "meaning": "trạm gác"
     },
     {
-      "word": "仮泊",
-      "reading": "かはく",
-      "meaning": "nghỉ ngơi tạm thời"
+      "word": "宿泊者",
+      "reading": "しゅくはくしゃ",
+      "meaning": "khách trọ"
     },
     {
-      "word": "夜泊",
-      "reading": "やはく",
-      "meaning": "sự neo buộc thuyền vào ban đêm"
+      "word": "宿泊数",
+      "reading": "しゅくはくすう",
+      "meaning": "số đêm thuê trọ"
     },
     {
-      "word": "錨泊",
-      "reading": "びょうはく",
-      "meaning": "sự thả neo"
+      "word": "宿泊所",
+      "reading": "しゅくはくじょ",
+      "meaning": "chỗ trọ"
     },
     {
-      "word": "泊地",
-      "reading": "はくち",
-      "meaning": "chỗ thả neo"
+      "word": "宿泊先",
+      "reading": "しゅくはくさき",
+      "meaning": "chỗ ở"
     },
     {
-      "word": "淡泊",
-      "reading": "たんぱく",
-      "meaning": "lãnh đạm"
+      "word": "前泊",
+      "reading": "ぜんぱく",
+      "meaning": "ở lại từ đêm hôm trước"
     }
   ]
 }

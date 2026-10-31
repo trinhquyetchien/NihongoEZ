@@ -106,39 +106,29 @@
   ],
   "vocabulary": [
     {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "sân bay"
+    },
+    {
       "word": "港",
       "reading": "みなと",
       "meaning": "cảng"
     },
     {
-      "word": "出港",
-      "reading": "しゅっこう",
-      "meaning": "sự xuất cảng"
+      "word": "空港駅",
+      "reading": "くうこうえき",
+      "meaning": "nhà ga"
     },
     {
-      "word": "香港",
-      "reading": "ホンコン",
-      "meaning": "hong kong"
+      "word": "港で",
+      "reading": "みなとで",
+      "meaning": "tại cảng"
     },
     {
-      "word": "港湾",
-      "reading": "こうわん",
-      "meaning": "cảng"
-    },
-    {
-      "word": "港区",
-      "reading": "みなとく",
-      "meaning": "khu vực cảng biển"
-    },
-    {
-      "word": "凍港",
-      "reading": "とうこう",
-      "meaning": "cảng đóng băng"
-    },
-    {
-      "word": "海港",
-      "reading": "かいこう",
-      "meaning": "hải cảng"
+      "word": "港市",
+      "reading": "こうし",
+      "meaning": "thành phố cảng"
     },
     {
       "word": "内港",
@@ -146,14 +136,24 @@
       "meaning": "khu vực trong cảng"
     },
     {
+      "word": "港区",
+      "reading": "みなとく",
+      "meaning": "khu vực cảng biển"
+    },
+    {
+      "word": "香港",
+      "reading": "ホンコン",
+      "meaning": "hong kong"
+    },
+    {
       "word": "美港",
       "reading": "びこう",
       "meaning": "cảng đẹp"
     },
     {
-      "word": "軍港",
-      "reading": "ぐんこう",
-      "meaning": "cảng biển quân sự"
+      "word": "港税",
+      "reading": "こうぜい",
+      "meaning": "cảng phí"
     }
   ]
 }

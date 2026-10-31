@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "隔",
-      "reading": "かく",
-      "meaning": "đặt một khoảng cách hoặc cản trở giữa"
+      "word": "間隔",
+      "reading": "かんかく",
+      "meaning": "cách quãng"
     },
     {
-      "word": "よこ隔神きょー",
-      "reading": "横隔神経",
-      "meaning": "dây thần kinh hoành"
+      "word": "隔てる",
+      "reading": "へだてる",
+      "meaning": "phân chia"
     },
     {
-      "word": "離隔",
-      "reading": "りかく",
-      "meaning": "cô lập"
+      "word": "隔週",
+      "reading": "かくしゅう",
+      "meaning": "cách mỗi tuần"
     },
     {
-      "word": "疎隔",
-      "reading": "そかく",
-      "meaning": "sự làm cho giận"
+      "word": "隔たる",
+      "reading": "へだたる",
+      "meaning": "cách biệt"
     },
     {
-      "word": "中隔",
-      "reading": "ちゅうかく",
-      "meaning": "vách ngăn"
+      "word": "隔離",
+      "reading": "かくり",
+      "meaning": "cách biệt"
     },
     {
-      "word": "隔壁",
-      "reading": "かくへき",
-      "meaning": "tường hàng rào"
+      "word": "遠隔",
+      "reading": "えんかく",
+      "meaning": "khoảng cách xa"
     },
     {
-      "word": "隔絶",
-      "reading": "かくぜつ",
-      "meaning": "sự cô lập"
+      "word": "遠隔性",
+      "reading": "えんかくせい",
+      "meaning": "từ xa"
     },
     {
-      "word": "隔月",
-      "reading": "かくげつ",
-      "meaning": "cách tháng"
+      "word": "遠隔地",
+      "reading": "えんかくち",
+      "meaning": "vùng đất xa xôi"
     },
     {
-      "word": "隔年",
-      "reading": "かくねん",
-      "meaning": "mỗi năm một khác"
+      "word": "線間隔",
+      "reading": "せんかんかく",
+      "meaning": "khoảng cách giữa các dòng"
     },
     {
-      "word": "隔て",
-      "reading": "へだて",
-      "meaning": "sự phân chia"
+      "word": "隔離説",
+      "reading": "かくりせつ",
+      "meaning": "lý thuyết nguyên nhân có sự phân hoá sinh vật là do sự cách biệt về địa lý"
     }
   ]
 }

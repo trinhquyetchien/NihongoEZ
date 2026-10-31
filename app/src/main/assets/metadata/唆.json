@@ -92,19 +92,9 @@
       "meaning": "gợi ý"
     },
     {
-      "word": "唆す",
-      "reading": "そそのかす",
-      "meaning": "xúc"
-    },
-    {
-      "word": "唆る",
-      "reading": "そそる",
-      "meaning": "khuyến khích"
-    },
-    {
-      "word": "唆し",
-      "reading": "そそのかし",
-      "meaning": "sự xúi giục"
+      "word": "示唆的",
+      "reading": "しさてき",
+      "meaning": "có tính gợi nhớ"
     },
     {
       "word": "教唆",
@@ -117,19 +107,29 @@
       "meaning": "tội xúi giục"
     },
     {
-      "word": "教唆犯",
-      "reading": "きょうさはん",
-      "meaning": "việc xúi gục người khác phạm tội"
-    },
-    {
       "word": "教唆者",
       "reading": "きょうさしゃ",
       "meaning": "kẻ xúi giục"
     },
     {
-      "word": "示唆的",
-      "reading": "しさてき",
-      "meaning": "có tính gợi nhớ"
+      "word": "教唆犯",
+      "reading": "きょうさはん",
+      "meaning": "việc xúi gục người khác phạm tội"
+    },
+    {
+      "word": "唆し",
+      "reading": "そそのかし",
+      "meaning": "sự xúi giục"
+    },
+    {
+      "word": "唆す",
+      "reading": "そそのかす",
+      "meaning": "xúc"
+    },
+    {
+      "word": "唆る",
+      "reading": "そそる",
+      "meaning": "khuyến khích"
     },
     {
       "word": "教唆扇動",

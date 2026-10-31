@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "請花",
-      "reading": "うけばな",
-      "meaning": "hoa văn trang trí trên các tháp của phật giáo"
+      "word": "請求",
+      "reading": "せいきゅう",
+      "meaning": "sự thỉnh cầu"
     },
     {
-      "word": "勧請",
-      "reading": "かんじょう",
-      "meaning": "việc thỉnh thần về để thờ cúng"
+      "word": "申請",
+      "reading": "しんせい",
+      "meaning": "sự thỉnh cầu"
     },
     {
-      "word": "起請",
-      "reading": "きしょう",
-      "meaning": "lời thề"
+      "word": "請う",
+      "reading": "こう",
+      "meaning": "hỏi"
     },
     {
-      "word": "普請",
-      "reading": "ふしん",
-      "meaning": "kiến trúc"
+      "word": "要請",
+      "reading": "ようせい",
+      "meaning": "sự yêu cầu"
     },
     {
-      "word": "請い",
-      "reading": "こい",
-      "meaning": "yêu cầu"
+      "word": "申請人",
+      "reading": "しんせいにん",
+      "meaning": "người nộp đơn"
     },
     {
-      "word": "懇請",
-      "reading": "こんせい",
-      "meaning": "lời kêu gọi"
+      "word": "申請者",
+      "reading": "しんせいしゃ",
+      "meaning": "người xin việc"
     },
     {
-      "word": "招請",
-      "reading": "しょうせい",
-      "meaning": "sự mời"
+      "word": "請求額",
+      "reading": "せいきゅうがく",
+      "meaning": "số lượng thông báo hoặc đòi hỏi"
     },
     {
-      "word": "電請",
-      "reading": "でんせい",
-      "meaning": "việc gửi điện tín xin những chỉ dẫn"
+      "word": "請求項",
+      "reading": "せいきゅうこう",
+      "meaning": "khoản yêu cầu"
     },
     {
-      "word": "祈請",
-      "reading": "きせい",
-      "meaning": "lời cầu xin"
+      "word": "請負",
+      "reading": "うけおい",
+      "meaning": "hợp đồng"
     },
     {
-      "word": "請謁",
-      "reading": "せいえつ",
-      "meaning": "cầu khẩn"
+      "word": "下請負",
+      "reading": "したうけおい",
+      "meaning": "hợp đồng phụ"
     }
   ]
 }

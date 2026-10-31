@@ -90,29 +90,19 @@
   ],
   "vocabulary": [
     {
-      "word": "有",
-      "reading": "ゆう",
-      "meaning": "quyền sở hữu"
+      "word": "有利",
+      "reading": "ゆうり",
+      "meaning": "hữu lợi"
     },
     {
-      "word": "有り有り",
-      "reading": "ありあり",
-      "meaning": "rõ ràng"
+      "word": "国有",
+      "reading": "こくゆう",
+      "meaning": "quốc hữu"
     },
     {
-      "word": "楽有れば苦有り",
-      "reading": "らくあればくあり",
-      "meaning": "sau điều thích thú đến là sự đau"
-    },
-    {
-      "word": "苦有れば楽有り",
-      "reading": "くあればらくあり",
-      "meaning": "có khổ rồi mới có sướng"
-    },
-    {
-      "word": "有休",
-      "reading": "ゆうきゅう",
-      "meaning": "nghỉ phép có lương"
+      "word": "固有",
+      "reading": "こゆう",
+      "meaning": "cái vốn có"
     },
     {
       "word": "有様",
@@ -120,9 +110,9 @@
       "meaning": "trạng thái"
     },
     {
-      "word": "固有",
-      "reading": "こゆう",
-      "meaning": "cái vốn có"
+      "word": "私有",
+      "reading": "しゆう",
+      "meaning": "tư hữu"
     },
     {
       "word": "所有",
@@ -135,9 +125,19 @@
       "meaning": "sự sở hữu công cộng"
     },
     {
-      "word": "享有",
-      "reading": "きょうゆう",
-      "meaning": "sự được hưởng"
+      "word": "有",
+      "reading": "ゆう",
+      "meaning": "quyền sở hữu"
+    },
+    {
+      "word": "県有",
+      "reading": "けんゆう",
+      "meaning": "sở hữu của huyện"
+    },
+    {
+      "word": "生有",
+      "reading": "しょうう",
+      "meaning": "khoảnh khắc khi chúng sinh được sinh ra ở một nơi nào đó"
     }
   ]
 }

@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "占める",
+      "reading": "しめる",
+      "meaning": "bao gồm"
+    },
+    {
       "word": "占う",
       "reading": "うらなう",
       "meaning": "chiêm nghiệm"
     },
     {
-      "word": "占用",
-      "reading": "せんよう",
-      "meaning": "sự chiếm dụng"
+      "word": "独占",
+      "reading": "どくせん",
+      "meaning": "độc chiếm"
     },
     {
-      "word": "複占",
-      "reading": "ふくせん",
-      "meaning": "lưỡng độc quyền bán"
+      "word": "占領",
+      "reading": "せんりょう",
+      "meaning": "sự bắt giữ"
     },
     {
-      "word": "太占",
-      "reading": "ふとまに",
-      "meaning": "một trong những cách xem bói của thời cổ đại"
+      "word": "独占的",
+      "reading": "どくせんてき",
+      "meaning": "người độc quyền"
     },
     {
-      "word": "占筮",
-      "reading": "せんぜい",
-      "meaning": "bói toán"
+      "word": "占い",
+      "reading": "うらない",
+      "meaning": "việc tiên đoán vận mệnh"
     },
     {
-      "word": "占術",
-      "reading": "せんじゅつ",
-      "meaning": "bói toán"
+      "word": "独占権",
+      "reading": "どくせんけん",
+      "meaning": "độc quyền"
     },
     {
-      "word": "占む",
-      "reading": "しむ",
-      "meaning": "chiếm"
+      "word": "夢占い",
+      "reading": "ゆめうらない",
+      "meaning": "thuật bói mộng"
     },
     {
-      "word": "占地",
-      "reading": "しめじ",
-      "meaning": "đánh máy nấm kinoku"
+      "word": "星占い",
+      "reading": "ほしうらない",
+      "meaning": "thuật chiêm tinh"
     },
     {
-      "word": "占卜",
-      "reading": "せんぼく",
-      "meaning": "sự tiên tri"
-    },
-    {
-      "word": "占算",
-      "reading": "うらさん",
-      "meaning": "người đoán"
+      "word": "恋占い",
+      "reading": "こいうらない",
+      "meaning": "bói tình yêu"
     }
   ]
 }

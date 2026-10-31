@@ -109,34 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "速",
-      "reading": "そく",
-      "meaning": "bánh răng"
-    },
-    {
-      "word": "速度 / 速さ",
-      "reading": "",
-      "meaning": "vận tốc"
-    },
-    {
-      "word": "速く",
-      "reading": "はやく",
-      "meaning": "mau"
-    },
-    {
-      "word": "速決",
-      "reading": "そっけつ",
-      "meaning": "nhắc quyết định"
-    },
-    {
-      "word": "減速",
-      "reading": "げんそく",
-      "meaning": "sự giảm tốc"
-    },
-    {
-      "word": "音速",
-      "reading": "おんそく",
-      "meaning": "vận tốc âm thanh"
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "cao tốc"
     },
     {
       "word": "時速",
@@ -144,19 +119,44 @@
       "meaning": "tốc độ tính theo giờ"
     },
     {
-      "word": "高速",
-      "reading": "こうそく",
-      "meaning": "cao tốc"
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaning": "giao gấp"
     },
     {
-      "word": "速読",
-      "reading": "そくどく",
-      "meaning": "đọc nhanh"
+      "word": "速力",
+      "reading": "そくりょく",
+      "meaning": "tốc lực"
     },
     {
-      "word": "速急",
-      "reading": "そっきゅう",
-      "meaning": "đột nhiên"
+      "word": "速",
+      "reading": "そく",
+      "meaning": "bánh răng"
+    },
+    {
+      "word": "速さ",
+      "reading": "はやさ",
+      "meaning": "sự nhanh chóng"
+    },
+    {
+      "word": "中速",
+      "reading": "ちゅうそく",
+      "meaning": "tốc độ trung bình"
+    },
+    {
+      "word": "分速",
+      "reading": "ふんそく",
+      "meaning": "vận tốc tính theo phút"
+    },
+    {
+      "word": "全速",
+      "reading": "ぜんそく",
+      "meaning": "hết tốc độ"
+    },
+    {
+      "word": "速口",
+      "reading": "はやくち",
+      "meaning": "nhanh nói"
     }
   ]
 }

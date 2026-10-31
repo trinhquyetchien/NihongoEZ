@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
+      "word": "西暦",
+      "reading": "せいれき",
+      "meaning": "kỷ nguyên thiên chúa"
+    },
+    {
       "word": "暦",
       "reading": "こよみ",
       "meaning": "niên lịch"
-    },
-    {
-      "word": "旧暦",
-      "reading": "きゅうれき",
-      "meaning": "âm lịch"
     },
     {
       "word": "還暦",
@@ -105,19 +105,24 @@
       "meaning": "hoa giáp"
     },
     {
-      "word": "治暦",
-      "reading": "じりゃく",
-      "meaning": "thời jiryaku"
+      "word": "暦月",
+      "reading": "れきげつ",
+      "meaning": "tháng"
     },
     {
-      "word": "正暦",
-      "reading": "しょうりゃく",
-      "meaning": "thời shouryaku"
+      "word": "元暦",
+      "reading": "げんりゃく",
+      "meaning": "genryaku era"
     },
     {
-      "word": "文暦",
-      "reading": "ぶんりゃく",
-      "meaning": "thời bunryaku"
+      "word": "暦道",
+      "reading": "れきどう",
+      "meaning": "lịch pháp"
+    },
+    {
+      "word": "長暦",
+      "reading": "ちょうりゃく",
+      "meaning": "thời chouryaku"
     },
     {
       "word": "天暦",
@@ -125,19 +130,14 @@
       "meaning": "tenryaku era"
     },
     {
-      "word": "延暦",
-      "reading": "えんりゃく",
-      "meaning": "thời enryaku"
+      "word": "文暦",
+      "reading": "ぶんりゃく",
+      "meaning": "thời bunryaku"
     },
     {
-      "word": "暦応",
-      "reading": "りゃくおう",
-      "meaning": "thời ryakuou"
-    },
-    {
-      "word": "元暦",
-      "reading": "げんりゃく",
-      "meaning": "genryaku era"
+      "word": "暦週",
+      "reading": "れきしゅう",
+      "meaning": "tuần lịch biểu"
     }
   ]
 }

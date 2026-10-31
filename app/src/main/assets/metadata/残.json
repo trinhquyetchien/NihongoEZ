@@ -110,34 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "残",
-      "reading": "ざん",
-      "meaning": "phần còn lại"
-    },
-    {
-      "word": "残暑",
-      "reading": "ざんしょ",
-      "meaning": "cái nóng còn sót lại của mùa hè"
-    },
-    {
-      "word": "残数",
-      "reading": "ざんすう",
-      "meaning": "số còn lại"
-    },
-    {
-      "word": "残差",
-      "reading": "ざんさ",
-      "meaning": "số dư"
-    },
-    {
-      "word": "残業",
-      "reading": "ざんぎょう",
-      "meaning": "sự làm thêm"
-    },
-    {
-      "word": "残飯",
-      "reading": "ざんぱん",
-      "meaning": "thức ăn thừa"
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "đáng tiếc"
     },
     {
       "word": "残る",
@@ -145,19 +120,44 @@
       "meaning": "còn lại"
     },
     {
-      "word": "残念",
-      "reading": "ざんねん",
-      "meaning": "đáng tiếc"
+      "word": "名残",
+      "reading": "なごり",
+      "meaning": "dấu vết"
     },
     {
-      "word": "残忍",
-      "reading": "ざんにん",
-      "meaning": "nhẫn tâm"
+      "word": "残金",
+      "reading": "ざんきん",
+      "meaning": "tiền dư"
     },
     {
-      "word": "残虐",
-      "reading": "ざんぎゃく",
-      "meaning": "bạo tàn"
+      "word": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "sự làm thêm"
+    },
+    {
+      "word": "残",
+      "reading": "ざん",
+      "meaning": "phần còn lại"
+    },
+    {
+      "word": "残数",
+      "reading": "ざんすう",
+      "meaning": "số còn lại"
+    },
+    {
+      "word": "生残",
+      "reading": "せいざん",
+      "meaning": "sự tồn tại"
+    },
+    {
+      "word": "残心",
+      "reading": "ざんしん",
+      "meaning": "dã tâm"
+    },
+    {
+      "word": "残機",
+      "reading": "ざんき",
+      "meaning": "mạng của nhân vật trong game"
     }
   ]
 }

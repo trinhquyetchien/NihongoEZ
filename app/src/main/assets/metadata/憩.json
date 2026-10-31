@@ -88,44 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "憩",
-      "reading": "いこい",
-      "meaning": "nghỉ ngơi"
-    },
-    {
       "word": "休憩",
       "reading": "きゅうけい",
       "meaning": "sự nghỉ ngơi"
-    },
-    {
-      "word": "憩う",
-      "reading": "いこう",
-      "meaning": "nghỉ ngơi"
-    },
-    {
-      "word": "憩い",
-      "reading": "いこい",
-      "meaning": "nghỉ ngơi"
-    },
-    {
-      "word": "憩室",
-      "reading": "けいしつ",
-      "meaning": "số nhiều diverticula"
-    },
-    {
-      "word": "小憩",
-      "reading": "しょうけい",
-      "meaning": "một sự gãy ngắn hoặc sự xả hơi"
-    },
-    {
-      "word": "少憩",
-      "reading": "しょうけい",
-      "meaning": "kỳ nghỉ ngắn"
-    },
-    {
-      "word": "憩室炎",
-      "reading": "けいしつえん",
-      "meaning": "viêm túi thừa"
     },
     {
       "word": "休憩所",
@@ -136,6 +101,41 @@
       "word": "休憩室",
       "reading": "きゅうけいしつ",
       "meaning": "phòng nghỉ ngơi"
+    },
+    {
+      "word": "憩い",
+      "reading": "いこい",
+      "meaning": "nghỉ ngơi"
+    },
+    {
+      "word": "憩",
+      "reading": "いこい",
+      "meaning": "nghỉ ngơi"
+    },
+    {
+      "word": "憩室",
+      "reading": "けいしつ",
+      "meaning": "số nhiều diverticula"
+    },
+    {
+      "word": "憩室炎",
+      "reading": "けいしつえん",
+      "meaning": "viêm túi thừa"
+    },
+    {
+      "word": "憩う",
+      "reading": "いこう",
+      "meaning": "nghỉ ngơi"
+    },
+    {
+      "word": "小憩",
+      "reading": "しょうけい",
+      "meaning": "một sự gãy ngắn hoặc sự xả hơi"
+    },
+    {
+      "word": "少憩",
+      "reading": "しょうけい",
+      "meaning": "kỳ nghỉ ngắn"
     }
   ]
 }

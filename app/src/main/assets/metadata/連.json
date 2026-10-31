@@ -109,24 +109,34 @@
   ],
   "vocabulary": [
     {
+      "word": "国連",
+      "reading": "こくれん",
+      "meaning": "liên hiệp quốc"
+    },
+    {
       "word": "連",
       "reading": "れん",
       "meaning": "nhóm"
     },
     {
-      "word": "連戦連敗",
-      "reading": "れんせんれんぱい",
-      "meaning": "sự kế tiếp những sự thất bại"
+      "word": "三連",
+      "reading": "さんれん",
+      "meaning": "ba - mắc cạn"
     },
     {
-      "word": "連戦連勝",
-      "reading": "れんせんれんしょう",
-      "meaning": "sự chiến thắng liên tiếp"
+      "word": "外連",
+      "reading": "けれん",
+      "meaning": "gian lận"
     },
     {
-      "word": "連日連夜",
-      "reading": "れんじつれんや",
-      "meaning": "mỗi ngày mỗi đêm"
+      "word": "連量",
+      "reading": "れんりょう",
+      "meaning": "trọng lượng 1000 tấm giấy"
+    },
+    {
+      "word": "連星",
+      "reading": "れんせい",
+      "meaning": "hai ngôi sao quay xung quanh một tâm"
     },
     {
       "word": "都連",
@@ -134,29 +144,19 @@
       "meaning": "là từ viết tắt của từ 東京都連合"
     },
     {
-      "word": "連勤",
-      "reading": "れんきん",
-      "meaning": "làm việc liên tục nhiều ngày không nghỉ&amp"
-    },
-    {
-      "word": "国連",
-      "reading": "こくれん",
-      "meaning": "liên hiệp quốc"
-    },
-    {
       "word": "連画",
       "reading": "れんが",
       "meaning": "nhiều bức ảnh liên tiếp"
     },
     {
-      "word": "県連",
-      "reading": "けんれん",
-      "meaning": "liên đoàn tỉnh"
+      "word": "連動",
+      "reading": "れんどう",
+      "meaning": "sự truyền động bánh răng"
     },
     {
-      "word": "連綿",
-      "reading": "れんめん",
-      "meaning": "không đứt quãng"
+      "word": "常連",
+      "reading": "じょうれん",
+      "meaning": "khách hàng thường xuyên"
     }
   ]
 }

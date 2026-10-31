@@ -93,24 +93,9 @@
       "meaning": "ống tay áo"
     },
     {
-      "word": "袖壁",
-      "reading": "そでかべ",
-      "meaning": "tường thòi"
-    },
-    {
-      "word": "振袖",
-      "reading": "ふりそで",
-      "meaning": "áo kimônô có tay áo kéo dài"
-    },
-    {
-      "word": "袖柱",
-      "reading": "そでばしら",
-      "meaning": "trụ nhỏ để gia cố bên trái và bên phải của trụ chính"
-    },
-    {
-      "word": "袖山",
-      "reading": "そでやま",
-      "meaning": "nếp gấp trên cùng của tay áo"
+      "word": "両袖机",
+      "reading": "りょうそでづくえ",
+      "meaning": "bàn làm việc có ngăn kéo cả 2 bên"
     },
     {
       "word": "袖下",
@@ -118,24 +103,39 @@
       "meaning": "tiền hối lộ"
     },
     {
-      "word": "袖口",
-      "reading": "そでぐち",
-      "meaning": "cổ tay áo"
+      "word": "袖なし",
+      "reading": "そでなし",
+      "meaning": "áo ba lỗ"
     },
     {
-      "word": "平袖",
-      "reading": "ひらそで",
-      "meaning": "tay áo rộng"
+      "word": "袖付け",
+      "reading": "そでつけ",
+      "meaning": "armhole một áo sơ mi)"
     },
     {
-      "word": "角袖",
-      "reading": "かくそで",
-      "meaning": "tay áo vuông"
+      "word": "袖裏",
+      "reading": "そでうら",
+      "meaning": "lót tay áo"
     },
     {
-      "word": "小袖",
-      "reading": "こそで",
-      "meaning": "những tay áo ngắn"
+      "word": "袖壁",
+      "reading": "そでかべ",
+      "meaning": "tường thòi"
+    },
+    {
+      "word": "袖無し",
+      "reading": "そでなし",
+      "meaning": "áo không có tay"
+    },
+    {
+      "word": "両袖",
+      "reading": "りょうそで",
+      "meaning": "hai tay áo"
+    },
+    {
+      "word": "七分袖",
+      "reading": "しちぶそで",
+      "meaning": "những tay áo ba quý"
     }
   ]
 }

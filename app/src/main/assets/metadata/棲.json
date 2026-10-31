@@ -66,6 +66,11 @@
   ],
   "vocabulary": [
     {
+      "word": "同棲",
+      "reading": "どうせい",
+      "meaning": "sự sống chung"
+    },
+    {
       "word": "棲む",
       "reading": "すむ",
       "meaning": "ở"
@@ -81,21 +86,6 @@
       "meaning": "sự sống trong nước"
     },
     {
-      "word": "共棲",
-      "reading": "きょうせい",
-      "meaning": "sự cộng sinh"
-    },
-    {
-      "word": "陸棲",
-      "reading": "りくせい",
-      "meaning": "sự sống trên mặt đất"
-    },
-    {
-      "word": "幽棲",
-      "reading": "ゆうせい",
-      "meaning": "sống ẩn dật"
-    },
-    {
       "word": "旧棲",
       "reading": "きゅうせい",
       "meaning": "nhà xưa"
@@ -106,14 +96,24 @@
       "meaning": "sự sống tách biệt với thế giới bên ngoài"
     },
     {
-      "word": "同棲",
-      "reading": "どうせい",
-      "meaning": "sự sống chung"
+      "word": "陸棲",
+      "reading": "りくせい",
+      "meaning": "sự sống trên mặt đất"
     },
     {
-      "word": "両棲",
-      "reading": "りょうせい",
-      "meaning": "lưỡng cư"
+      "word": "共棲",
+      "reading": "きょうせい",
+      "meaning": "sự cộng sinh"
+    },
+    {
+      "word": "群棲",
+      "reading": "ぐんせい",
+      "meaning": "sống tụ tập"
+    },
+    {
+      "word": "両棲類",
+      "reading": "りょうせいるい",
+      "meaning": "loài lưỡng cư"
     }
   ]
 }

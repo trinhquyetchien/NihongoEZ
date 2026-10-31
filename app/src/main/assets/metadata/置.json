@@ -124,14 +124,14 @@
   ],
   "vocabulary": [
     {
-      "word": "位置入力装置",
-      "reading": "いちにゅうりょくそうち",
-      "meaning": "thiết bị định vị"
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "bố trí"
     },
     {
-      "word": "物置組立設置サービス",
-      "reading": "ものおきくみたてせっちサービス",
-      "meaning": "dịch vụ lắp ráp và thiết lập kho chứa"
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "vị trí"
     },
     {
       "word": "装置",
@@ -139,9 +139,29 @@
       "meaning": "thiết bị"
     },
     {
-      "word": "蔵置",
-      "reading": "ぞうち",
-      "meaning": "lưu kho"
+      "word": "物置",
+      "reading": "ものおき",
+      "meaning": "kho cất đồ"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaning": "sự thành lập"
+    },
+    {
+      "word": "放置",
+      "reading": "ほうち",
+      "meaning": "đặt để tự do không để ý đến vị trí"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "bố cục"
+    },
+    {
+      "word": "措置",
+      "reading": "そち",
+      "meaning": "biện pháp"
     },
     {
       "word": "処置",
@@ -149,29 +169,9 @@
       "meaning": "sự xử trí"
     },
     {
-      "word": "拘置",
-      "reading": "こうち",
-      "meaning": "sự bắt giam"
-    },
-    {
-      "word": "稲置",
-      "reading": "いなぎ",
-      "meaning": "quan chịu trách nhiệm kho thóc"
-    },
-    {
-      "word": "碇置",
-      "reading": "ていち",
-      "meaning": "sự thả neo"
-    },
-    {
-      "word": "残置",
-      "reading": "ざんち",
-      "meaning": "bỏ lại phía sau"
-    },
-    {
-      "word": "転置",
-      "reading": "てんち",
-      "meaning": "sự chuyển vị trí"
+      "word": "正位置",
+      "reading": "せいいち",
+      "meaning": "vị trí thẳng đứng"
     }
   ]
 }

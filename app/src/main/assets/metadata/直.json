@@ -113,29 +113,24 @@
   ],
   "vocabulary": [
     {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "trung thực"
+    },
+    {
       "word": "直",
       "reading": "なお",
       "meaning": "trực tiếp"
     },
     {
-      "word": "直直",
-      "reading": "じきじき",
-      "meaning": "cá nhân"
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "điện một chiều"
     },
     {
-      "word": "直言直筆",
-      "reading": "ちょくげんちょくひつ",
-      "meaning": "chữ viết tay trực tiếp"
-    },
-    {
-      "word": "直目",
-      "reading": "ただめ",
-      "meaning": "nhìn trực tiếp"
-    },
-    {
-      "word": "直尺",
-      "reading": "ちょくじゃく",
-      "meaning": "thước thẳng"
+      "word": "直と",
+      "reading": "ひたと",
+      "meaning": "trực tiếp"
     },
     {
       "word": "見直",
@@ -143,24 +138,29 @@
       "meaning": "đánh giá"
     },
     {
-      "word": "直近",
-      "reading": "ちょっきん",
-      "meaning": "gần đây nhất"
+      "word": "直き",
+      "reading": "なおき",
+      "meaning": "thẳng tắp"
     },
     {
-      "word": "直リンク",
-      "reading": "じかリンク",
-      "meaning": "liên kết nội tuyến"
+      "word": "直目",
+      "reading": "ただめ",
+      "meaning": "nhìn trực tiếp"
     },
     {
-      "word": "宿直",
-      "reading": "しゅくちょく",
-      "meaning": "túc trực"
+      "word": "直火",
+      "reading": "じかび",
+      "meaning": "nấu nướng trực tiếp với lửa"
     },
     {
-      "word": "実直",
-      "reading": "じっちょく",
-      "meaning": "trung thực"
+      "word": "直値",
+      "reading": "ちょくち",
+      "meaning": "dữ liệu tức thì"
+    },
+    {
+      "word": "左直",
+      "reading": "さちょく",
+      "meaning": "rời bỏ hàng"
     }
   ]
 }

@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
+      "word": "眠る",
+      "reading": "ねむる",
+      "meaning": "giấc"
+    },
+    {
+      "word": "眠い",
+      "reading": "ねむい",
+      "meaning": "buồn ngủ"
+    },
+    {
       "word": "睡眠",
       "reading": "すいみん",
       "meaning": "việc ngủ"
     },
     {
-      "word": "催眠",
-      "reading": "さいみん",
-      "meaning": "sự thôi miên"
+      "word": "居眠り",
+      "reading": "いねむり",
+      "meaning": "sự ngủ gật"
     },
     {
-      "word": "眠剤",
-      "reading": "みんざい",
+      "word": "冬眠",
+      "reading": "とうみん",
+      "meaning": "sự ngủ đông"
+    },
+    {
+      "word": "眠たい",
+      "reading": "ねむたい",
+      "meaning": "buồn ngủ"
+    },
+    {
+      "word": "睡眠剤",
+      "reading": "すいみんざい",
       "meaning": "thuốc ngủ"
     },
     {
-      "word": "惰眠",
-      "reading": "だみん",
-      "meaning": "sự lười biếng"
+      "word": "睡眠病",
+      "reading": "すいみんびょう",
+      "meaning": "bệnh ngủ châu phi"
     },
     {
-      "word": "夏眠",
-      "reading": "かみん",
-      "meaning": "sự ngủ hè"
+      "word": "眠り",
+      "reading": "ねむり",
+      "meaning": "ngủ"
     },
     {
-      "word": "一眠",
-      "reading": "いちみん",
-      "meaning": "giấc ngủ đầu tiên silkworms)"
-    },
-    {
-      "word": "休眠",
-      "reading": "きゅうみん",
-      "meaning": "nhàn rỗi"
-    },
-    {
-      "word": "就眠",
-      "reading": "しゅうみん",
-      "meaning": "trạng thái đi vào giấc ngủ hoặc trạng thái đang ngủ"
-    },
-    {
-      "word": "安眠",
-      "reading": "あんみん",
-      "meaning": "giấc ngủ nhẹ nhàng"
-    },
-    {
-      "word": "嗜眠",
-      "reading": "しみん",
-      "meaning": "trạng thái lịm đi"
+      "word": "眠り人",
+      "reading": "ねぶりびと",
+      "meaning": "người ngủ nhiều"
     }
   ]
 }

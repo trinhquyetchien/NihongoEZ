@@ -89,39 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "視",
-      "reading": "し",
-      "meaning": "tầm nhìn"
-    },
-    {
-      "word": "視界",
-      "reading": "しかい",
-      "meaning": "tầm hiểu biết"
-    },
-    {
-      "word": "検視",
-      "reading": "けんし",
-      "meaning": "khám nghiệm"
-    },
-    {
-      "word": "老視",
-      "reading": "ろうし",
-      "meaning": "lão thị"
-    },
-    {
-      "word": "視力",
-      "reading": "しりょく",
-      "meaning": "nhãn lực"
-    },
-    {
-      "word": "視覚",
-      "reading": "しかく",
-      "meaning": "thị giác"
-    },
-    {
-      "word": "視点",
-      "reading": "してん",
-      "meaning": "điểm nhìn"
+      "word": "無視",
+      "reading": "むし",
+      "meaning": "sự xem thường"
     },
     {
       "word": "重視",
@@ -129,9 +99,39 @@
       "meaning": "chú trọng"
     },
     {
-      "word": "斜視",
-      "reading": "しゃし",
-      "meaning": "tật lác mắt"
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "điểm nhìn"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "thị giác"
+    },
+    {
+      "word": "視野",
+      "reading": "しや",
+      "meaning": "tầm mắt"
+    },
+    {
+      "word": "視聴",
+      "reading": "しちょう",
+      "meaning": "nhìn và nghe"
+    },
+    {
+      "word": "視",
+      "reading": "し",
+      "meaning": "tầm nhìn"
+    },
+    {
+      "word": "視度",
+      "reading": "しど",
+      "meaning": "tầm nhìn"
+    },
+    {
+      "word": "電視",
+      "reading": "でんし",
+      "meaning": "tivi"
     },
     {
       "word": "視線",

@@ -102,44 +102,44 @@
       "meaning": "đủ"
     },
     {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "loại tất có ngón của nhật"
+    },
+    {
       "word": "月足",
       "reading": "つきあし",
       "meaning": "biểu đồ hiển thị chuyển động thị trường hàng tháng"
     },
     {
-      "word": "尖足",
-      "reading": "せんそく",
-      "meaning": "bàn chân thuổng"
+      "word": "生足",
+      "reading": "なまあし",
+      "meaning": "chân trần"
     },
     {
-      "word": "ローソク足",
-      "reading": "ろうそくあし",
-      "meaning": "biểu đồ dạng hình nến"
+      "word": "足先",
+      "reading": "あしさき",
+      "meaning": "bàn chân"
+    },
+    {
+      "word": "足長",
+      "reading": "あしなが",
+      "meaning": "chiều dài từ đầu ngón chân dài nhất đến gót chân"
+    },
+    {
+      "word": "足裏",
+      "reading": "あしうら",
+      "meaning": "lòng bàn chân"
+    },
+    {
+      "word": "横足",
+      "reading": "よこあし",
+      "meaning": "bước ngang"
     },
     {
       "word": "週足",
       "reading": "しゅうあし",
       "meaning": "sự chuyển động giá hàng tuần"
-    },
-    {
-      "word": "充足",
-      "reading": "じゅうそく",
-      "meaning": "sự bổ sung"
-    },
-    {
-      "word": "手足",
-      "reading": "てあし",
-      "meaning": "chân tay"
-    },
-    {
-      "word": "出足",
-      "reading": "であし",
-      "meaning": "bước về phía đối thủ trong khi tấn công đối thủ"
-    },
-    {
-      "word": "右足",
-      "reading": "みぎあし",
-      "meaning": "chân phải"
     }
   ]
 }

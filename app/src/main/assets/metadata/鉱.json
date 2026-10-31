@@ -89,29 +89,34 @@
   ],
   "vocabulary": [
     {
-      "word": "鉱山",
-      "reading": "こうざん",
-      "meaning": "mỏ"
-    },
-    {
       "word": "鉱物",
       "reading": "こうぶつ",
       "meaning": "khoáng chất"
     },
     {
-      "word": "採鉱",
-      "reading": "さいこう",
-      "meaning": "sự khai mỏ"
+      "word": "炭鉱",
+      "reading": "たんこう",
+      "meaning": "mỏ than"
     },
     {
-      "word": "鉱床",
-      "reading": "こうしょう",
-      "meaning": "sàng quặng"
+      "word": "鉱山",
+      "reading": "こうざん",
+      "meaning": "mỏ"
     },
     {
-      "word": "鉱化",
-      "reading": "こうか",
-      "meaning": "khoáng hoá"
+      "word": "鉱業",
+      "reading": "こうぎょう",
+      "meaning": "ngành khai khoáng"
+    },
+    {
+      "word": "鉱山業",
+      "reading": "こうざんぎょう",
+      "meaning": "ngành công nghiệp mỏ"
+    },
+    {
+      "word": "鉱物学",
+      "reading": "こうぶつがく",
+      "meaning": "vật học"
     },
     {
       "word": "鉱石",
@@ -119,24 +124,19 @@
       "meaning": "khoáng thạch"
     },
     {
-      "word": "鉱質",
-      "reading": "こうしつ",
-      "meaning": "khoáng chất"
+      "word": "金鉱",
+      "reading": "きんこう",
+      "meaning": "mỏ vàng"
     },
     {
-      "word": "鉱坑",
-      "reading": "こうこう",
-      "meaning": "lổ khoan để thăm đò tìm khoáng sản"
+      "word": "金鉱地",
+      "reading": "きんこうち",
+      "meaning": "vàng giải quyết"
     },
     {
-      "word": "富鉱",
-      "reading": "ふこう",
-      "meaning": "quặng giàu"
-    },
-    {
-      "word": "鉱員",
-      "reading": "こういん",
-      "meaning": "công nhân mỏ"
+      "word": "鉱化",
+      "reading": "こうか",
+      "meaning": "khoáng hoá"
     }
   ]
 }

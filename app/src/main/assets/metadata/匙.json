@@ -93,21 +93,6 @@
       "meaning": "muỗng thuốc"
     },
     {
-      "word": "飯匙",
-      "reading": "いいがい",
-      "meaning": "thìa đơm cơm"
-    },
-    {
-      "word": "石匙",
-      "reading": "いしさじ",
-      "meaning": "dao đá"
-    },
-    {
-      "word": "茶匙",
-      "reading": "ちゃさじ",
-      "meaning": "muỗng trà"
-    },
-    {
       "word": "大匙",
       "reading": "おおさじ",
       "meaning": "muỗng canh"
@@ -116,6 +101,21 @@
       "word": "円匙",
       "reading": "えんぴ",
       "meaning": "xẻng nhỏ"
+    },
+    {
+      "word": "小匙",
+      "reading": "こさじ",
+      "meaning": "thìa cà phê"
+    },
+    {
+      "word": "石匙",
+      "reading": "いしさじ",
+      "meaning": "dao đá"
+    },
+    {
+      "word": "飯匙",
+      "reading": "いいがい",
+      "meaning": "thìa đơm cơm"
     },
     {
       "word": "輪匙",
@@ -128,9 +128,9 @@
       "meaning": "cái thìa để xúc hương"
     },
     {
-      "word": "小匙",
-      "reading": "こさじ",
-      "meaning": "thìa cà phê"
+      "word": "灰匙",
+      "reading": "はいさじ",
+      "meaning": "muỗng xúc tro"
     }
   ]
 }

@@ -88,44 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "唯",
-      "reading": "ただ",
-      "meaning": "chỉ"
-    },
-    {
-      "word": "唯唯",
-      "reading": "いい",
-      "meaning": "ngoan ngoãn"
-    },
-    {
-      "word": "唯唯諾諾",
-      "reading": "いいだくだく",
-      "meaning": "ngoan ngoãn"
-    },
-    {
-      "word": "唯唯諾諾として",
-      "reading": "いいだくだくとして",
-      "meaning": "sẵn sàng"
-    },
-    {
-      "word": "唯今",
-      "reading": "ただいま",
-      "meaning": "hiện tại"
-    },
-    {
-      "word": "唯識",
-      "reading": "ゆいしき",
-      "meaning": "duy thức tông"
-    },
-    {
-      "word": "唯々",
-      "reading": "ただただ",
-      "meaning": "tuyệt đối"
-    },
-    {
       "word": "唯一",
       "reading": "ゆいいつ",
       "meaning": "duy nhất"
+    },
+    {
+      "word": "唯",
+      "reading": "ただ",
+      "meaning": "chỉ"
     },
     {
       "word": "唯に",
@@ -133,9 +103,39 @@
       "meaning": "chỉ đơn giản là"
     },
     {
+      "word": "唯一度",
+      "reading": "ただいちど",
+      "meaning": "duy nhất một lần"
+    },
+    {
+      "word": "唯理論",
+      "reading": "ゆいりろん",
+      "meaning": "thuyết duy lý"
+    },
+    {
+      "word": "唯我論",
+      "reading": "ゆいがろん",
+      "meaning": "duy ngã"
+    },
+    {
       "word": "唯物",
       "reading": "ゆいぶつ",
       "meaning": "duy vật"
+    },
+    {
+      "word": "唯物論",
+      "reading": "ゆいぶつろん",
+      "meaning": "duy vật luận"
+    },
+    {
+      "word": "唯物的",
+      "reading": "ゆいぶつてき",
+      "meaning": "nặng về vật chất"
+    },
+    {
+      "word": "唯々",
+      "reading": "ただただ",
+      "meaning": "tuyệt đối"
     }
   ]
 }

@@ -116,29 +116,19 @@
   ],
   "vocabulary": [
     {
-      "word": "向き向き",
-      "reading": "むきむき",
-      "meaning": "sự thích hợp"
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "hướng"
     },
     {
-      "word": "向こう向き",
-      "reading": "むこうむき",
-      "meaning": "quay mặt đi"
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "khuynh hướng"
     },
     {
-      "word": "向き不向き",
-      "reading": "むきふむき",
-      "meaning": "phù hợp khác nhau"
-    },
-    {
-      "word": "向け",
-      "reading": "むけ",
-      "meaning": "dành cho"
-    },
-    {
-      "word": "出向",
-      "reading": "しゅっこう",
-      "meaning": "chuyển công tác"
+      "word": "向い",
+      "reading": "むかい",
+      "meaning": "giáp mặt"
     },
     {
       "word": "向く",
@@ -146,9 +136,9 @@
       "meaning": "đối diện với"
     },
     {
-      "word": "傾向",
-      "reading": "けいこう",
-      "meaning": "khuynh hướng"
+      "word": "向け",
+      "reading": "むけ",
+      "meaning": "dành cho"
     },
     {
       "word": "向上",
@@ -161,9 +151,19 @@
       "meaning": "chiều hướng"
     },
     {
-      "word": "向う",
-      "reading": "むかう",
-      "meaning": "hướng về"
+      "word": "意向",
+      "reading": "いこう",
+      "meaning": "chí hướng"
+    },
+    {
+      "word": "日向",
+      "reading": "ひなた",
+      "meaning": "ánh nắng"
+    },
+    {
+      "word": "動向",
+      "reading": "どうこう",
+      "meaning": "khuynh hướng"
     }
   ]
 }

@@ -85,9 +85,19 @@
   ],
   "vocabulary": [
     {
-      "word": "俳",
-      "reading": "はい",
-      "meaning": "diễn viên nam"
+      "word": "俳優",
+      "reading": "はいゆう",
+      "meaning": "diễn viên"
+    },
+    {
+      "word": "俳句",
+      "reading": "はいく",
+      "meaning": "bài cú"
+    },
+    {
+      "word": "俳句会",
+      "reading": "はいくかい",
+      "meaning": "hội người thích thơ haiku"
     },
     {
       "word": "俳人",
@@ -100,6 +110,21 @@
       "meaning": "haikai"
     },
     {
+      "word": "俳諧師",
+      "reading": "はいかいし",
+      "meaning": "nhà thơ haikai"
+    },
+    {
+      "word": "俳",
+      "reading": "はい",
+      "meaning": "diễn viên nam"
+    },
+    {
+      "word": "俳壇",
+      "reading": "はいだん",
+      "meaning": "thế giới của những người làm thơ haiku"
+    },
+    {
       "word": "俳画",
       "reading": "はいが",
       "meaning": "bức tranh minh họa một bài thơ haiku"
@@ -108,31 +133,6 @@
       "word": "俳号",
       "reading": "はいごう",
       "meaning": "bút danh của một nhà thơ haiku"
-    },
-    {
-      "word": "俳味",
-      "reading": "はいみ",
-      "meaning": "chinh phục nếm mùi"
-    },
-    {
-      "word": "俳聖",
-      "reading": "はいせい",
-      "meaning": "nhà thơ haiku nổi tiếng"
-    },
-    {
-      "word": "俳友",
-      "reading": "はいゆう",
-      "meaning": "bạn thơ"
-    },
-    {
-      "word": "俳文",
-      "reading": "はいぶん",
-      "meaning": "bài tản văn mang vẻ bài thơ haiku"
-    },
-    {
-      "word": "雑俳",
-      "reading": "ざっぱい",
-      "meaning": "bài thơ haiku sáng tác ngẫu hứng lúc đùa cợt"
     }
   ]
 }

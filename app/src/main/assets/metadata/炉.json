@@ -94,19 +94,34 @@
       "meaning": "lò"
     },
     {
+      "word": "地炉",
+      "reading": "じろ",
+      "meaning": "lò sưởi âm sàn"
+    },
+    {
+      "word": "炉火",
+      "reading": "ろか",
+      "meaning": "lò sưởi"
+    },
+    {
+      "word": "火炉",
+      "reading": "かろ",
+      "meaning": "lò"
+    },
+    {
+      "word": "電気炉",
+      "reading": "でんきろ",
+      "meaning": "lò điện"
+    },
+    {
       "word": "ガス炉",
       "reading": "ガスろ",
       "meaning": "lò hơi"
     },
     {
-      "word": "炉辺",
-      "reading": "ろへん",
-      "meaning": "chỗ bên lò sưởi"
-    },
-    {
-      "word": "香炉",
-      "reading": "こうろ",
-      "meaning": "bình hương"
+      "word": "太陽炉",
+      "reading": "たいようろ",
+      "meaning": "lò thuộc về mặt trời"
     },
     {
       "word": "炉床",
@@ -114,29 +129,14 @@
       "meaning": "nền lò"
     },
     {
-      "word": "電炉",
-      "reading": "でんろ",
-      "meaning": "lò sưởi điện"
+      "word": "転換炉",
+      "reading": "てんかんろ",
+      "meaning": "lò phản ứng"
     },
     {
-      "word": "煖炉",
-      "reading": "だんろ",
-      "meaning": "trồng cây trong nhà kính"
-    },
-    {
-      "word": "懐炉",
-      "reading": "かいろ",
-      "meaning": "túi sưởi"
-    },
-    {
-      "word": "アーク炉",
-      "reading": "アークろ",
-      "meaning": "lò hồ quang"
-    },
-    {
-      "word": "炉棚",
-      "reading": "ろだな",
-      "meaning": "mặt lò sưởi"
+      "word": "廃炉",
+      "reading": "はいろ",
+      "meaning": "ngừng hoạt động"
     }
   ]
 }

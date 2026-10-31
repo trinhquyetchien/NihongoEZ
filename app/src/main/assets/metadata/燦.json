@@ -52,13 +52,18 @@
   ],
   "vocabulary": [
     {
+      "word": "燦然",
+      "reading": "さんぜん",
+      "meaning": "chói lóa"
+    },
+    {
       "word": "燦",
       "reading": "さん",
       "meaning": "rực rỡ"
     },
     {
-      "word": "燦燦たる",
-      "reading": "さんさんたる",
+      "word": "燦々",
+      "reading": "さんさん",
       "meaning": "rực rỡ"
     },
     {
@@ -67,14 +72,9 @@
       "meaning": "xán lạn"
     },
     {
-      "word": "燦然",
-      "reading": "さんぜん",
-      "meaning": "chói lóa"
-    },
-    {
-      "word": "燦々",
-      "reading": "さんさん",
-      "meaning": "rực rỡ"
+      "word": "燦然と輝く",
+      "reading": "さんぜんとかがやく",
+      "meaning": "tỏa sáng rực rỡ"
     },
     {
       "word": "燦々たる",
@@ -82,14 +82,14 @@
       "meaning": "rực rỡ"
     },
     {
-      "word": "燦爛たる",
-      "reading": "さんらんたる",
+      "word": "燦燦たる",
+      "reading": "さんさんたる",
       "meaning": "rực rỡ"
     },
     {
-      "word": "燦然と輝く",
-      "reading": "さんぜんとかがやく",
-      "meaning": "tỏa sáng rực rỡ"
+      "word": "燦爛たる",
+      "reading": "さんらんたる",
+      "meaning": "rực rỡ"
     }
   ]
 }

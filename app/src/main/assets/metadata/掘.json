@@ -89,24 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "根掘り葉掘り",
-      "reading": "ねほりはほり",
-      "meaning": "dai dẳng"
-    },
-    {
-      "word": "洗掘",
-      "reading": "せんくつ",
-      "meaning": "xói lở"
-    },
-    {
-      "word": "試掘",
-      "reading": "しくつ",
-      "meaning": "sự đào thăm dò"
-    },
-    {
       "word": "掘る",
       "reading": "ほる",
       "meaning": "bới"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "sự khai thác"
     },
     {
       "word": "採掘",
@@ -114,27 +104,37 @@
       "meaning": "khai mỏ"
     },
     {
-      "word": "盗掘",
-      "reading": "とうくつ",
-      "meaning": "sự đào trộm"
+      "word": "発掘隊",
+      "reading": "はっくつたい",
+      "meaning": "nhóm khai quật"
     },
     {
-      "word": "乱掘",
-      "reading": "らんくつ",
-      "meaning": "sự đào bới khai thác bừa bãi"
+      "word": "生掘り",
+      "reading": "なまほり",
+      "meaning": "quan hệ tình dục đồng tính nam"
+    },
+    {
+      "word": "墓掘り",
+      "reading": "はかほり",
+      "meaning": "đào mộ"
+    },
+    {
+      "word": "採掘権",
+      "reading": "さいくつけん",
+      "meaning": "quyền được khai thác mỏ"
+    },
+    {
+      "word": "採掘師",
+      "reading": "さいくつし",
+      "meaning": "miner"
+    },
+    {
+      "word": "芋掘り",
+      "reading": "いもほり",
+      "meaning": "đào khoai"
     },
     {
       "word": "掘削",
-      "reading": "くっさく",
-      "meaning": "sự đào"
-    },
-    {
-      "word": "掘進",
-      "reading": "くっしん",
-      "meaning": "sự đào hầm"
-    },
-    {
-      "word": "掘鑿",
       "reading": "くっさく",
       "meaning": "sự đào"
     }

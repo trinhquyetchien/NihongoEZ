@@ -106,34 +106,14 @@
   ],
   "vocabulary": [
     {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "sự chiêu tập"
+    },
+    {
       "word": "応募",
       "reading": "おうぼ",
       "meaning": "đăng ký"
-    },
-    {
-      "word": "募債",
-      "reading": "ぼさい",
-      "meaning": "nâng một tiền vay"
-    },
-    {
-      "word": "急募",
-      "reading": "きゅうぼ",
-      "meaning": "sự tuyển gấp"
-    },
-    {
-      "word": "公募",
-      "reading": "こうぼ",
-      "meaning": "sự tuyển dụng"
-    },
-    {
-      "word": "募兵",
-      "reading": "ぼへい",
-      "meaning": "tuyển mộ binh lính"
-    },
-    {
-      "word": "徴募",
-      "reading": "ちょうぼ",
-      "meaning": "sự đăng lính"
     },
     {
       "word": "募金",
@@ -141,19 +121,39 @@
       "meaning": "sự quyên tiền"
     },
     {
+      "word": "公募",
+      "reading": "こうぼ",
+      "meaning": "sự tuyển dụng"
+    },
+    {
       "word": "募る",
       "reading": "つのる",
       "meaning": "chiêu mộ"
     },
     {
-      "word": "募集",
-      "reading": "ぼしゅう",
-      "meaning": "sự chiêu tập"
+      "word": "募集中",
+      "reading": "ぼしゅうちゅう",
+      "meaning": "đang tuyển"
     },
     {
-      "word": "召募",
-      "reading": "しょうぼ",
-      "meaning": "sự tuyển mộ"
+      "word": "大募集",
+      "reading": "だいぼしゅう",
+      "meaning": "tuyển dụng hàng loạt"
+    },
+    {
+      "word": "募集費",
+      "reading": "ぼしゅうひ",
+      "meaning": "chi phí tuyển mộ"
+    },
+    {
+      "word": "応募者",
+      "reading": "おうぼしゃ",
+      "meaning": "người đăng ký ứng tuyển"
+    },
+    {
+      "word": "応募先",
+      "reading": "おうぼさき",
+      "meaning": "nơi nhận đăng kí"
     }
   ]
 }

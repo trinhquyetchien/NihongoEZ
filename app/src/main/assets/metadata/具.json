@@ -107,34 +107,24 @@
   ],
   "vocabulary": [
     {
+      "word": "敬具",
+      "reading": "けいぐ",
+      "meaning": "kính thư"
+    },
+    {
       "word": "具",
       "reading": "ぐ",
       "meaning": "dụng cụ"
     },
     {
-      "word": "サロンかぐ サロン家具 サロンかぐ サロン家具",
-      "reading": "サロン家具",
-      "meaning": "nội thất salon"
+      "word": "一具",
+      "reading": "いちぐ",
+      "meaning": "một bộ"
     },
     {
-      "word": "照明器具用吊具",
-      "reading": "しょうめいきぐようつりぐ",
-      "meaning": "phụ kiện treo cho thiết bị chiếu sáng"
-    },
-    {
-      "word": "工具",
-      "reading": "こうぐ",
-      "meaning": "công cụ"
-    },
-    {
-      "word": "寝具",
-      "reading": "しんぐ",
-      "meaning": "đồ ngủ"
-    },
-    {
-      "word": "教具",
-      "reading": "きょうぐ",
-      "meaning": "đồ dùng dạy học"
+      "word": "性具",
+      "reading": "せいぐ",
+      "meaning": "đồ chơi tình dục"
     },
     {
       "word": "神具",
@@ -142,19 +132,29 @@
       "meaning": "đồ thờ được sử dụng trong nghi lễ thần đạo"
     },
     {
-      "word": "遊具",
-      "reading": "ゆうぐ",
-      "meaning": "dụng cụ vui chơi"
+      "word": "法具",
+      "reading": "ほうぐ",
+      "meaning": "nghi thức thực hiện"
     },
     {
-      "word": "具陳",
-      "reading": "ぐちん",
-      "meaning": "báo cáo chi tiết"
+      "word": "具格",
+      "reading": "ぐかく",
+      "meaning": "công cụ cách"
     },
     {
-      "word": "具有",
-      "reading": "ぐゆう",
-      "meaning": "sự chuẩn bị"
+      "word": "忍具",
+      "reading": "にんぐ",
+      "meaning": "công cụ và vũ khí mà ninja sử dụng"
+    },
+    {
+      "word": "弓具",
+      "reading": "きゅうぐ",
+      "meaning": "các thứ được sử dụng trong sự bắn cung"
+    },
+    {
+      "word": "刑具",
+      "reading": "けいぐ",
+      "meaning": "dụng cụ để hành hình hay tra tấn tội nhân"
     }
   ]
 }

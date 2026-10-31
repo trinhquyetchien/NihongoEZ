@@ -87,6 +87,26 @@
   ],
   "vocabulary": [
     {
+      "word": "特産",
+      "reading": "とくさん",
+      "meaning": "đặc sản"
+    },
+    {
+      "word": "特派",
+      "reading": "とくは",
+      "meaning": "đặc phái"
+    },
+    {
+      "word": "特上",
+      "reading": "とくじょう",
+      "meaning": "thượng hạng"
+    },
+    {
+      "word": "特割",
+      "reading": "とくわり",
+      "meaning": "giảm giá đặc biệt"
+    },
+    {
       "word": "特論",
       "reading": "とくろん",
       "meaning": "nghiên cứu tốt nghiệp"
@@ -97,44 +117,24 @@
       "meaning": "thực phẩm cho mục đích y tế"
     },
     {
+      "word": "特管",
+      "reading": "とっかん",
+      "meaning": "quản lý đặc biệt"
+    },
+    {
+      "word": "特装",
+      "reading": "とくそう",
+      "meaning": "sự trang bị đặc biệt"
+    },
+    {
       "word": "特番",
       "reading": "とくばん",
       "meaning": "chương trình đặc biệt"
     },
     {
-      "word": "奇特",
-      "reading": "きとく",
-      "meaning": "đáng khen ngời"
-    },
-    {
-      "word": "特快",
-      "reading": "とっかい",
-      "meaning": "đặc biệt nhanh huấn luyện"
-    },
-    {
-      "word": "特上",
-      "reading": "とくじょう",
-      "meaning": "thượng hạng"
-    },
-    {
-      "word": "特養",
-      "reading": "とくよう",
-      "meaning": "nơi chăm sóc đặc biệt cho người già"
-    },
-    {
-      "word": "特割",
-      "reading": "とくわり",
-      "meaning": "giảm giá đặc biệt"
-    },
-    {
-      "word": "特鰭",
-      "reading": "とくびれ",
-      "meaning": "cá vẩy gai tokubire"
-    },
-    {
-      "word": "特任",
-      "reading": "とくにん",
-      "meaning": "bổ nhiệm đặc biệt"
+      "word": "特撮",
+      "reading": "とくさつ",
+      "meaning": "những hiệu ứng đặc biệt"
     }
   ]
 }

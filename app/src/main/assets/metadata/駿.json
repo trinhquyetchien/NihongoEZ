@@ -50,9 +50,19 @@
   ],
   "vocabulary": [
     {
+      "word": "優駿",
+      "reading": "ゆうしゅん",
+      "meaning": "con ngựa tinh tế"
+    },
+    {
       "word": "駿馬",
       "reading": "しゅんば",
       "meaning": "con ngựa nhanh chóng"
+    },
+    {
+      "word": "優駿馬",
+      "reading": "ゆうしゅんば",
+      "meaning": "phạt tiền con ngựa"
     },
     {
       "word": "駿足",
@@ -63,16 +73,6 @@
       "word": "駿才",
       "reading": "しゅんさい",
       "meaning": "thiên tài"
-    },
-    {
-      "word": "優駿",
-      "reading": "ゆうしゅん",
-      "meaning": "con ngựa tinh tế"
-    },
-    {
-      "word": "優駿馬",
-      "reading": "ゆうしゅんば",
-      "meaning": "phạt tiền con ngựa"
     },
     {
       "word": "駿河問い",

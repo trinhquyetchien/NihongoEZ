@@ -109,9 +109,19 @@
   ],
   "vocabulary": [
     {
-      "word": "句読",
-      "reading": "くとう",
-      "meaning": "sự chấm câu"
+      "word": "読み",
+      "reading": "よみ",
+      "meaning": "sự đọc"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "đọc sách"
+    },
+    {
+      "word": "読者",
+      "reading": "どくしゃ",
+      "meaning": "bạn đọc"
     },
     {
       "word": "購読",
@@ -119,9 +129,14 @@
       "meaning": "việc đặt mua báo"
     },
     {
-      "word": "愛読",
-      "reading": "あいどく",
-      "meaning": "sự thích thú đọc sách"
+      "word": "講読",
+      "reading": "こうどく",
+      "meaning": "đọc và diễn giải"
+    },
+    {
+      "word": "読売",
+      "reading": "よみうり",
+      "meaning": "yomiuri"
     },
     {
       "word": "解読",
@@ -129,34 +144,19 @@
       "meaning": "sự giải mã"
     },
     {
-      "word": "読了",
-      "reading": "どくりょう",
-      "meaning": "sự đọc xong"
-    },
-    {
       "word": "速読",
       "reading": "そくどく",
       "meaning": "đọc nhanh"
     },
     {
-      "word": "閲読",
-      "reading": "えつどく",
-      "meaning": "sự đọc"
-    },
-    {
-      "word": "査読",
-      "reading": "さどく",
-      "meaning": "sự nghiên cứu"
-    },
-    {
-      "word": "誤読",
-      "reading": "ごどく",
-      "meaning": "sự nhầm lẫn trong việc dò lại chỉ số/độ số"
-    },
-    {
       "word": "既読",
       "reading": "きどく",
       "meaning": "đã đọc"
+    },
+    {
+      "word": "読解",
+      "reading": "どっかい",
+      "meaning": "đọc hiểu"
     }
   ]
 }

@@ -89,39 +89,9 @@
       "meaning": "kíp"
     },
     {
-      "word": "班田",
-      "reading": "はんでん",
-      "meaning": "sự phân công đất đai thời xưa theo chế độ \"ban điền\""
-    },
-    {
-      "word": "両班",
-      "reading": "りょうはん",
-      "meaning": "lưỡng ban"
-    },
-    {
-      "word": "首班",
-      "reading": "しゅはん",
-      "meaning": "thủ tướng"
-    },
-    {
-      "word": "主班",
-      "reading": "しゅはん",
-      "meaning": "đứng đầu vị trí"
-    },
-    {
-      "word": "班長",
-      "reading": "はんちょう",
-      "meaning": "lớp trưởng"
-    },
-    {
       "word": "一班",
       "reading": "いっぱん",
       "meaning": "một nhóm"
-    },
-    {
-      "word": "班員",
-      "reading": "はんいん",
-      "meaning": "thành viên trong nhóm"
     },
     {
       "word": "班次",
@@ -129,9 +99,39 @@
       "meaning": "quyền ưu tiên"
     },
     {
+      "word": "写真班",
+      "reading": "しゃしんはん",
+      "meaning": "cameramen"
+    },
+    {
+      "word": "班員",
+      "reading": "はんいん",
+      "meaning": "thành viên trong nhóm"
+    },
+    {
+      "word": "主班",
+      "reading": "しゅはん",
+      "meaning": "đứng đầu vị trí"
+    },
+    {
       "word": "作業班",
       "reading": "さぎょうはん",
       "meaning": "làm việc là phe"
+    },
+    {
+      "word": "両班",
+      "reading": "りょうはん",
+      "meaning": "lưỡng ban"
+    },
+    {
+      "word": "独立班",
+      "reading": "どくりつはん",
+      "meaning": "nhóm độc lập"
+    },
+    {
+      "word": "取材班",
+      "reading": "しゅざいはん",
+      "meaning": "dữ liệu tập hợp phe"
     }
   ]
 }

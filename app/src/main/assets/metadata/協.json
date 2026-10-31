@@ -104,14 +104,9 @@
   ],
   "vocabulary": [
     {
-      "word": "協",
-      "reading": "きょう",
-      "meaning": "hiệp"
-    },
-    {
-      "word": "体協",
-      "reading": "たいきょう",
-      "meaning": "tài tử nhật bản chưng diện hiệp hội"
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "chung sức"
     },
     {
       "word": "協会",
@@ -124,34 +119,39 @@
       "meaning": "hội nghị"
     },
     {
+      "word": "協定",
+      "reading": "きょうてい",
+      "meaning": "hiệp định"
+    },
+    {
+      "word": "妥協",
+      "reading": "だきょう",
+      "meaning": "sự thỏa hiệp"
+    },
+    {
       "word": "協調",
       "reading": "きょうちょう",
       "meaning": "sự hiệp lực"
     },
     {
-      "word": "協力",
-      "reading": "きょうりょく",
-      "meaning": "chung sức"
+      "word": "協力者",
+      "reading": "きょうりょくしゃ",
+      "meaning": "đồng sự"
     },
     {
-      "word": "協和",
-      "reading": "きょうわ",
-      "meaning": "hòa âm"
+      "word": "ご協力",
+      "reading": "ごきょうりょく",
+      "meaning": "sự cộng tác"
     },
     {
-      "word": "漁協",
-      "reading": "ぎょきょう",
-      "meaning": "nghiệp đoàn cá"
+      "word": "非協力",
+      "reading": "ひきょうりょく",
+      "meaning": "khônh hợp tác"
     },
     {
-      "word": "農協",
-      "reading": "のうきょう",
-      "meaning": "hợp tác xã nông nghiệp"
-    },
-    {
-      "word": "協業",
-      "reading": "きょうぎょう",
-      "meaning": "hợp tác xã"
+      "word": "御協力",
+      "reading": "ごきょうりょく",
+      "meaning": "sự hợp tác"
     }
   ]
 }

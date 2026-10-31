@@ -91,24 +91,19 @@
       "meaning": "con rể"
     },
     {
-      "word": "相婿",
-      "reading": "あいむこ",
-      "meaning": "anh/em rể"
-    },
-    {
-      "word": "女婿",
-      "reading": "じょせい",
+      "word": "娘婿",
+      "reading": "むすめむこ",
       "meaning": "con rể"
     },
     {
-      "word": "花婿",
-      "reading": "はなむこ",
-      "meaning": "chú rể"
+      "word": "王婿",
+      "reading": "おうせい",
+      "meaning": "vương tế"
     },
     {
-      "word": "乞婿",
-      "reading": "こいむこ",
-      "meaning": "chú rể mà được yêu bởi cô dâu anh ấy"
+      "word": "入り婿",
+      "reading": "いりむこ",
+      "meaning": "sự trở thành con rể của gia đình vợ"
     },
     {
       "word": "妹婿",
@@ -116,14 +111,14 @@
       "meaning": "em rể"
     },
     {
-      "word": "愛婿",
-      "reading": "あいせい",
-      "meaning": "con rể cưng"
+      "word": "姉婿",
+      "reading": "あねむこ",
+      "meaning": "anh rể"
     },
     {
-      "word": "入婿",
-      "reading": "いりむこ",
-      "meaning": "người đàn ông mà cầm vợ anh ấy có tên"
+      "word": "相婿",
+      "reading": "あいむこ",
+      "meaning": "anh/em rể"
     },
     {
       "word": "婿入",
@@ -131,9 +126,14 @@
       "meaning": "ở rể"
     },
     {
-      "word": "娘婿",
-      "reading": "むすめむこ",
-      "meaning": "con rể"
+      "word": "婿選び",
+      "reading": "むこえらび",
+      "meaning": "sự kén rể"
+    },
+    {
+      "word": "婿入婚",
+      "reading": "むこいりこん",
+      "meaning": "ở rể"
     }
   ]
 }

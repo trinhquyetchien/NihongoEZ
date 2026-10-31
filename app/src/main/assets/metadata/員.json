@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "員",
-      "reading": "いん",
-      "meaning": "nhân viên"
-    },
-    {
-      "word": "客員教員",
-      "reading": "かくいんきょういん",
-      "meaning": "giảng viên thỉnh giảng"
-    },
-    {
-      "word": "客員研究員",
-      "reading": "きゃくいんけんきゅういん",
-      "meaning": "nhà nghiên cứu du khách"
-    },
-    {
-      "word": "冗員",
-      "reading": "じょういん",
-      "meaning": "nhân viên dư thừa"
-    },
-    {
-      "word": "剰員",
-      "reading": "じょういん",
-      "meaning": "người thừa"
-    },
-    {
-      "word": "船員労働委員会",
-      "reading": "せんいんろうどういいんかい",
-      "meaning": "làm việc kỹ những quan hệ ủy nhiệm cho những thủy thủ"
-    },
-    {
-      "word": "党委員会委員長",
-      "reading": "とういいんかいいいんちょう",
-      "meaning": "bí thư thành ủy"
-    },
-    {
-      "word": "委員会会員資格",
-      "reading": "いいんかいかいいんしかく",
-      "meaning": "tư cách thành viên ủy ban"
-    },
-    {
-      "word": "ヒラ社員",
-      "reading": "ひらしゃいん",
-      "meaning": "平社員ーnhân viên quèn"
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "ủy viên"
     },
     {
       "word": "会員",
       "reading": "かいいん",
       "meaning": "hội viên"
+    },
+    {
+      "word": "工員",
+      "reading": "こういん",
+      "meaning": "công nhân"
+    },
+    {
+      "word": "員",
+      "reading": "いん",
+      "meaning": "nhân viên"
+    },
+    {
+      "word": "動員",
+      "reading": "どういん",
+      "meaning": "động viên"
+    },
+    {
+      "word": "行員",
+      "reading": "こういん",
+      "meaning": "nhân viên ngân hàng"
+    },
+    {
+      "word": "本員",
+      "reading": "ほんいん",
+      "meaning": "thành viên này một hội đồng)"
+    },
+    {
+      "word": "員名",
+      "reading": "いんめい",
+      "meaning": "tên thành viên"
+    },
+    {
+      "word": "代員",
+      "reading": "だいいん",
+      "meaning": "uỷ nhiệm"
+    },
+    {
+      "word": "社員",
+      "reading": "しゃいん",
+      "meaning": "nhân viên công ty"
     }
   ]
 }

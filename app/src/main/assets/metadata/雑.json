@@ -91,39 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "雑",
-      "reading": "ざつ",
-      "meaning": "sự tạp nham"
-    },
-    {
-      "word": "雑草",
-      "reading": "ざっそう",
-      "meaning": "cỏ dại"
-    },
-    {
-      "word": "雑種",
-      "reading": "ざっしゅ",
-      "meaning": "đa chủng loại"
-    },
-    {
-      "word": "雑魚",
-      "reading": "ざこ",
-      "meaning": "nhiều loại cá nhỏ trộn lẫn với nhau"
-    },
-    {
-      "word": "雑音",
-      "reading": "ざつおん",
-      "meaning": "tạp âm"
-    },
-    {
-      "word": "雑用",
-      "reading": "ざつよう",
-      "meaning": "vụn vặt"
-    },
-    {
-      "word": "雑言",
-      "reading": "ぞうごん",
-      "meaning": "ngôn ngữ ô uế"
+      "word": "雑誌",
+      "reading": "ざっし",
+      "meaning": "tạp chí"
     },
     {
       "word": "混雑",
@@ -131,14 +101,44 @@
       "meaning": "hỗn tạp"
     },
     {
+      "word": "雑音",
+      "reading": "ざつおん",
+      "meaning": "tạp âm"
+    },
+    {
+      "word": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "giẻ"
+    },
+    {
+      "word": "雑",
+      "reading": "ざつ",
+      "meaning": "sự tạp nham"
+    },
+    {
+      "word": "雑談",
+      "reading": "ざつだん",
+      "meaning": "sự nói chuyện phiếm"
+    },
+    {
       "word": "雑貨",
       "reading": "ざっか",
       "meaning": "hàng tạp hoá"
     },
     {
-      "word": "雑然",
-      "reading": "ざつぜん",
-      "meaning": "tình trạng hỗn độn"
+      "word": "雑木",
+      "reading": "ぞうき",
+      "meaning": "nhiều loại nhỏ bắt phải nấp trên cây"
+    },
+    {
+      "word": "雑物",
+      "reading": "ざつぶつ",
+      "meaning": "vụn vặt"
+    },
+    {
+      "word": "雑味",
+      "reading": "ざつみ",
+      "meaning": "mất hương vị"
     }
   ]
 }

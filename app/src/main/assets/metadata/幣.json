@@ -88,44 +88,29 @@
   ],
   "vocabulary": [
     {
-      "word": "幣",
-      "reading": "へい",
-      "meaning": "lễ vật cúng"
-    },
-    {
       "word": "紙幣",
       "reading": "しへい",
       "meaning": "giấy bạc"
     },
     {
-      "word": "幣殿",
-      "reading": "へいでん",
-      "meaning": "điện dâng lễ"
+      "word": "貨幣",
+      "reading": "かへい",
+      "meaning": "tiền tệ"
     },
     {
-      "word": "小幣",
-      "reading": "こぬさ",
-      "meaning": "gậy thanh tẩy nhỏ"
+      "word": "貨幣学",
+      "reading": "かへいがく",
+      "meaning": "sự nghiên cứu về tiền tệ"
     },
     {
-      "word": "幣貢",
-      "reading": "へいこう",
-      "meaning": "vật cống"
+      "word": "貨幣石",
+      "reading": "かへいせき",
+      "meaning": "nummulite"
     },
     {
-      "word": "幣串",
-      "reading": "へいぐし",
-      "meaning": "dụng cụ thanh tẩy trong thần đạo"
-    },
-    {
-      "word": "衰幣",
-      "reading": "すいへい",
-      "meaning": "suy sụp"
-    },
-    {
-      "word": "旧幣",
-      "reading": "きゅうへい",
-      "meaning": "đồng xu cũ"
+      "word": "幣",
+      "reading": "へい",
+      "meaning": "lễ vật cúng"
     },
     {
       "word": "ご幣",
@@ -133,9 +118,24 @@
       "meaning": "bố trí cán bộ với xếp nếp giấy những biểu ngữ sử dụng trong shinto"
     },
     {
-      "word": "御幣",
-      "reading": "ごへい",
-      "meaning": "xếp nếp giấy những biểu ngữ sử dụng trong shinto"
+      "word": "小幣",
+      "reading": "こぬさ",
+      "meaning": "gậy thanh tẩy nhỏ"
+    },
+    {
+      "word": "旧幣",
+      "reading": "きゅうへい",
+      "meaning": "đồng xu cũ"
+    },
+    {
+      "word": "切り幣",
+      "reading": "きりぬさ",
+      "meaning": "giấy và những nhánh sakaki thần thánh cắt và trộn đều với gạo để rải rắc trước những chúa trời"
+    },
+    {
+      "word": "幣殿",
+      "reading": "へいでん",
+      "meaning": "điện dâng lễ"
     }
   ]
 }

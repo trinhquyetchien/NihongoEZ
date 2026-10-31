@@ -91,29 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "太",
-      "reading": "ふと",
+      "word": "太い",
+      "reading": "ふとい",
       "meaning": "béo"
-    },
-    {
-      "word": "太皇太后",
-      "reading": "たいこうたいごう",
-      "meaning": "thái hoàng thái hậu"
-    },
-    {
-      "word": "太陰太陽暦",
-      "reading": "たいいんたいようれき",
-      "meaning": "lịch âm lịch"
-    },
-    {
-      "word": "根太ようせっちゃくざい",
-      "reading": "根太用接着剤",
-      "meaning": "keo dán dầm"
-    },
-    {
-      "word": "太郎",
-      "reading": "たろう",
-      "meaning": "tên gọi đàn ông nhật"
     },
     {
       "word": "太る",
@@ -121,19 +101,39 @@
       "meaning": "béo"
     },
     {
-      "word": "太監",
-      "reading": "たいかん",
-      "meaning": "grand eunuch"
+      "word": "太陽",
+      "reading": "たいよう",
+      "meaning": "thái dương"
     },
     {
-      "word": "太陰",
-      "reading": "たいいん",
-      "meaning": "mặt trăng"
+      "word": "太鼓",
+      "reading": "たいこ",
+      "meaning": "cái trống"
     },
     {
-      "word": "肉太",
-      "reading": "にくぶと",
-      "meaning": "kiểu chữ nét đậm"
+      "word": "太",
+      "reading": "ふと",
+      "meaning": "béo"
+    },
+    {
+      "word": "太郎",
+      "reading": "たろう",
+      "meaning": "tên gọi đàn ông nhật"
+    },
+    {
+      "word": "先太",
+      "reading": "さきぶと",
+      "meaning": "dạng chùy"
+    },
+    {
+      "word": "番太",
+      "reading": "ばんた",
+      "meaning": "người canh gác"
+    },
+    {
+      "word": "太巻",
+      "reading": "ふとまき",
+      "meaning": "sushi cuộn lớn"
     },
     {
       "word": "太枠",

@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "học bổng"
+    },
+    {
       "word": "奨励",
       "reading": "しょうれい",
       "meaning": "sự động viên"
-    },
-    {
-      "word": "勧奨",
-      "reading": "かんしょう",
-      "meaning": "sự khuyến khích"
     },
     {
       "word": "推奨",
@@ -105,9 +105,14 @@
       "meaning": "sự tán dương"
     },
     {
-      "word": "褒奨",
-      "reading": "ほうしょう",
-      "meaning": "sự bồi thường"
+      "word": "推奨量",
+      "reading": "すいしょうりょう",
+      "meaning": "nhu cầu dinh dưỡng khuyến nghị"
+    },
+    {
+      "word": "推奨株",
+      "reading": "すいしょうかぶ",
+      "meaning": "cổ phiếu khuyến nghị"
     },
     {
       "word": "奨学",
@@ -115,14 +120,14 @@
       "meaning": "encouragment để học"
     },
     {
-      "word": "選奨",
-      "reading": "せんしょう",
-      "meaning": "khuyến cáo"
+      "word": "奨励金",
+      "reading": "しょうれいきん",
+      "meaning": "tiền khích lệ"
     },
     {
-      "word": "報奨",
-      "reading": "ほうしょう",
-      "meaning": "tiền thưởng"
+      "word": "奨励賞",
+      "reading": "しょうれいしょう",
+      "meaning": "giải khuyến khích"
     },
     {
       "word": "お奨め",
@@ -130,14 +135,9 @@
       "meaning": "sự giới thiệu"
     },
     {
-      "word": "奨学金",
-      "reading": "しょうがくきん",
-      "meaning": "học bổng"
-    },
-    {
-      "word": "奨励賞",
-      "reading": "しょうれいしょう",
-      "meaning": "giải khuyến khích"
+      "word": "御奨め",
+      "reading": "おすすめ",
+      "meaning": "khuyến cáo"
     }
   ]
 }

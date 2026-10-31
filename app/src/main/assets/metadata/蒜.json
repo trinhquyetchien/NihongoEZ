@@ -33,11 +33,6 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "蒜",
-      "reading": "にんにく",
-      "meaning": "tỏi"
-    },
-    {
       "word": "大蒜",
       "reading": "にんにく",
       "meaning": "củ tỏi"
@@ -46,6 +41,11 @@
       "word": "野蒜",
       "reading": "のびる",
       "meaning": "cây hẹ"
+    },
+    {
+      "word": "蒜",
+      "reading": "にんにく",
+      "meaning": "tỏi"
     }
   ]
 }

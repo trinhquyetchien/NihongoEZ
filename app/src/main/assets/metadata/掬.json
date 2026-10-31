@@ -87,16 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "掬う",
-      "reading": "すくう",
-      "meaning": "bụm"
-    },
-    {
-      "word": "一掬",
-      "reading": "いっきく",
-      "meaning": "số lượng nhỏ"
-    },
-    {
       "word": "掬い",
       "reading": "すくい",
       "meaning": "múc"
@@ -107,24 +97,19 @@
       "meaning": "xúc mạng"
     },
     {
+      "word": "掬う",
+      "reading": "すくう",
+      "meaning": "bụm"
+    },
+    {
       "word": "掬する",
       "reading": "きくする",
       "meaning": "múc"
     },
     {
-      "word": "スーパーボール掬い",
-      "reading": "スーパーボールすくい",
-      "meaning": "trò vớt bóng siêu nảy"
-    },
-    {
-      "word": "キャラクター掬い",
-      "reading": "キャラクターすくい",
-      "meaning": "lựa chọn nhân vật"
-    },
-    {
-      "word": "金魚掬い",
-      "reading": "きんぎょすくい",
-      "meaning": "trò chơi vớt cá vàng"
+      "word": "一掬",
+      "reading": "いっきく",
+      "meaning": "số lượng nhỏ"
     },
     {
       "word": "掬い取る",
@@ -135,6 +120,21 @@
       "word": "掬い出す",
       "reading": "すくいだす",
       "meaning": "giải cứu"
+    },
+    {
+      "word": "掬い投げ",
+      "reading": "すくいなげ",
+      "meaning": "đòn ném ngã đối thủ"
+    },
+    {
+      "word": "掬い上げる",
+      "reading": "すくいあげる",
+      "meaning": "múc lên"
+    },
+    {
+      "word": "金魚掬い",
+      "reading": "きんぎょすくい",
+      "meaning": "trò chơi vớt cá vàng"
     }
   ]
 }

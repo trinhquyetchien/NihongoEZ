@@ -93,21 +93,6 @@
   ],
   "vocabulary": [
     {
-      "word": "児",
-      "reading": "じ",
-      "meaning": "trẻ nhỏ"
-    },
-    {
-      "word": "孤児",
-      "reading": "こじ",
-      "meaning": "mồ côi"
-    },
-    {
-      "word": "小児",
-      "reading": "しょうに",
-      "meaning": "trẻ em trẻ"
-    },
-    {
       "word": "児童",
       "reading": "じどう",
       "meaning": "nhi đồng"
@@ -118,29 +103,44 @@
       "meaning": "trẻ từ 1 tuổi đến khi bước vào trường tiểu học"
     },
     {
-      "word": "虎児",
+      "word": "育児",
+      "reading": "いくじ",
+      "meaning": "sự chăm sóc trẻ"
+    },
+    {
+      "word": "孤児",
       "reading": "こじ",
-      "meaning": "hổ con"
+      "meaning": "mồ côi"
     },
     {
-      "word": "双児",
-      "reading": "そうじ",
-      "meaning": "cặp sinh đôi"
+      "word": "児童会",
+      "reading": "じどうかい",
+      "meaning": "hội đồng học sinh cấp tiểu học"
     },
     {
-      "word": "託児",
-      "reading": "たくじ",
-      "meaning": "sự trông trẻ"
+      "word": "児",
+      "reading": "じ",
+      "meaning": "trẻ nhỏ"
     },
     {
-      "word": "園児",
-      "reading": "えんじ",
-      "meaning": "trẻ mẫu giáo"
+      "word": "児童書",
+      "reading": "じどうしょ",
+      "meaning": "sách thiếu nhi"
     },
     {
-      "word": "蚕児",
-      "reading": "さんじ",
-      "meaning": "con tằm"
+      "word": "児子",
+      "reading": "じし",
+      "meaning": "trẻ em"
+    },
+    {
+      "word": "天児",
+      "reading": "あまがつ",
+      "meaning": "búp bê hộ mệnh"
+    },
+    {
+      "word": "病児",
+      "reading": "びょうじ",
+      "meaning": "bệnh nhi"
     }
   ]
 }

@@ -87,44 +87,29 @@
   ],
   "vocabulary": [
     {
+      "word": "命令",
+      "reading": "めいれい",
+      "meaning": "mệnh lệnh"
+    },
+    {
+      "word": "指令",
+      "reading": "しれい",
+      "meaning": "chỉ thị"
+    },
+    {
+      "word": "司令",
+      "reading": "しれい",
+      "meaning": "tư lệnh"
+    },
+    {
       "word": "令",
       "reading": "れい",
       "meaning": "lệnh"
     },
     {
-      "word": "令和",
-      "reading": "れいわ",
-      "meaning": "thời kỳ lệnh hòa"
-    },
-    {
-      "word": "辞令",
-      "reading": "じれい",
-      "meaning": "chú ý sự thay đổi nhân sự"
-    },
-    {
-      "word": "令甥",
-      "reading": "れいせい",
-      "meaning": "cháu trai"
-    },
-    {
-      "word": "革令",
-      "reading": "かくれい",
-      "meaning": "năm đầu tiên của chu kỳ sinh dục"
-    },
-    {
-      "word": "禁令",
-      "reading": "きんれい",
-      "meaning": "sự ngăn cấm"
-    },
-    {
-      "word": "訓令",
-      "reading": "くんれい",
-      "meaning": "dụ"
-    },
-    {
-      "word": "令嗣",
-      "reading": "れいし",
-      "meaning": "người thừa kế"
+      "word": "令月",
+      "reading": "れいげつ",
+      "meaning": "tháng âm lịch"
     },
     {
       "word": "令法",
@@ -132,9 +117,24 @@
       "meaning": "cây clethra barbinervis"
     },
     {
-      "word": "伝令",
-      "reading": "でんれい",
-      "meaning": "sự truyền lệnh"
+      "word": "令娘",
+      "reading": "れいじょう",
+      "meaning": "con gái bạn"
+    },
+    {
+      "word": "悪令",
+      "reading": "あくれい",
+      "meaning": "sắc lệnh không phù hợp"
+    },
+    {
+      "word": "週令",
+      "reading": "しゅうれい",
+      "meaning": "một tuần nay"
+    },
+    {
+      "word": "令和",
+      "reading": "れいわ",
+      "meaning": "thời kỳ lệnh hòa"
     }
   ]
 }

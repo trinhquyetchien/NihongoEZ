@@ -94,39 +94,19 @@
       "meaning": "chiều rộng"
     },
     {
-      "word": "ダブル幅",
-      "reading": "ダブルはば",
-      "meaning": "chiều rộng gấp đôi"
+      "word": "大幅",
+      "reading": "おおはば",
+      "meaning": "khá"
     },
     {
-      "word": "シングル幅",
-      "reading": "シングルはば",
-      "meaning": "chiều rộng loại đơn"
+      "word": "一幅",
+      "reading": "いっぷく",
+      "meaning": "một sự cuộn"
     },
     {
-      "word": "振幅",
-      "reading": "しんぷく",
-      "meaning": "độ rộng"
-    },
-    {
-      "word": "肩幅",
-      "reading": "かたはば",
-      "meaning": "bề ngang của vai"
-    },
-    {
-      "word": "川幅",
-      "reading": "かわはば",
-      "meaning": "chiều rộng dòng sông"
-    },
-    {
-      "word": "道幅",
-      "reading": "みちはば",
-      "meaning": "chiều rộng của con đường"
-    },
-    {
-      "word": "半幅",
-      "reading": "はんはば",
-      "meaning": "một nửa chiều rộng"
+      "word": "出幅",
+      "reading": "でるはば",
+      "meaning": "khoảng hở"
     },
     {
       "word": "等幅",
@@ -134,9 +114,29 @@
       "meaning": "chiều rộng cố định"
     },
     {
-      "word": "紙幅",
-      "reading": "しふく",
-      "meaning": "để cách nhau gán cho cái gì đó trong tạp chí)"
+      "word": "バス幅",
+      "reading": "バスはば",
+      "meaning": "độ rộng bus"
+    },
+    {
+      "word": "幅木",
+      "reading": "はばき",
+      "meaning": "ván chân tường"
+    },
+    {
+      "word": "胸幅",
+      "reading": "むねはば",
+      "meaning": "bề rộng của ngực"
+    },
+    {
+      "word": "横幅",
+      "reading": "よこはば",
+      "meaning": "chiều ngang"
+    },
+    {
+      "word": "条幅",
+      "reading": "じょうふく",
+      "meaning": "bức tranh thư pháp"
     }
   ]
 }

@@ -87,29 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "日航",
-      "reading": "にっこう",
-      "meaning": "hãng hàng không nhật bản"
-    },
-    {
-      "word": "出航",
-      "reading": "しゅっこう",
-      "meaning": "sự khởi hành"
-    },
-    {
-      "word": "欠航",
-      "reading": "けっこう",
-      "meaning": "sự ngưng phục vụ"
-    },
-    {
-      "word": "航路",
-      "reading": "こうろ",
-      "meaning": "đường đi"
-    },
-    {
-      "word": "航行",
-      "reading": "こうこう",
-      "meaning": "tuần biển"
+      "word": "航空",
+      "reading": "こうくう",
+      "meaning": "hàng không"
     },
     {
       "word": "航海",
@@ -117,24 +97,44 @@
       "meaning": "chuyến đi bằng tàu thủy"
     },
     {
-      "word": "航空",
-      "reading": "こうくう",
-      "meaning": "hàng không"
+      "word": "航空便",
+      "reading": "こうくうびん",
+      "meaning": "thư máy bay"
     },
     {
-      "word": "往航",
-      "reading": "おうこう",
-      "meaning": "làm lảo đảo"
+      "word": "航空券",
+      "reading": "こうくうけん",
+      "meaning": "vé máy bay"
     },
     {
-      "word": "寄航",
-      "reading": "きこう",
-      "meaning": "ghé cảng"
+      "word": "航空機",
+      "reading": "こうくうき",
+      "meaning": "máy bay"
     },
     {
-      "word": "航程",
-      "reading": "こうてい",
-      "meaning": "quãng đường"
+      "word": "上航",
+      "reading": "じょうこう",
+      "meaning": "đi ngược dòng"
+    },
+    {
+      "word": "内航",
+      "reading": "ないこう",
+      "meaning": "đường cảng trong nước"
+    },
+    {
+      "word": "外航",
+      "reading": "がいこう",
+      "meaning": "hàng hải quốc tế"
+    },
+    {
+      "word": "北航",
+      "reading": "ほっこう",
+      "meaning": "đi thuyền buồm phía bắc"
+    },
+    {
+      "word": "南航",
+      "reading": "なんこう",
+      "meaning": "đi thuyền về phía nam"
     }
   ]
 }

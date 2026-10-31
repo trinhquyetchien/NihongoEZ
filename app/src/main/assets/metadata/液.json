@@ -87,31 +87,6 @@
   ],
   "vocabulary": [
     {
-      "word": "液",
-      "reading": "えき",
-      "meaning": "dịch thể"
-    },
-    {
-      "word": "液液抽出",
-      "reading": "えきえきちゅうしゅつ",
-      "meaning": "chiết xuất chất lỏng ra khỏi chất lỏng"
-    },
-    {
-      "word": "液肥",
-      "reading": "えきひ",
-      "meaning": "phân bón dạng lỏng"
-    },
-    {
-      "word": "標準液/校正液",
-      "reading": "ひょうじゅんえき/こうせいえき",
-      "meaning": "chất chuẩn/chất hiệu chuẩn"
-    },
-    {
-      "word": "滲出液と漏出液",
-      "reading": "しんしゅつえきとろうしゅつえき",
-      "meaning": "dịch tiết và dịch rò rỉ"
-    },
-    {
       "word": "血液",
       "reading": "けつえき",
       "meaning": "huyết"
@@ -122,19 +97,44 @@
       "meaning": "chất lỏng"
     },
     {
-      "word": "膵液",
-      "reading": "すいえき",
-      "meaning": "dịch tụy"
+      "word": "液",
+      "reading": "えき",
+      "meaning": "dịch thể"
     },
     {
-      "word": "膣液",
-      "reading": "ちつえき",
-      "meaning": "khí hư"
+      "word": "溶液",
+      "reading": "ようえき",
+      "meaning": "dung dịch"
     },
     {
-      "word": "液溜",
-      "reading": "えきだめ",
-      "meaning": "chỗ đọng chất lỏng"
+      "word": "液性",
+      "reading": "えきせい",
+      "meaning": "<y> dịch"
+    },
+    {
+      "word": "愛液",
+      "reading": "あいえき",
+      "meaning": "tinh dịch"
+    },
+    {
+      "word": "液量",
+      "reading": "えきりょう",
+      "meaning": "chất lỏng đo"
+    },
+    {
+      "word": "液面",
+      "reading": "えきめん",
+      "meaning": "bề mặt của chất lỏng"
+    },
+    {
+      "word": "重液",
+      "reading": "じゅうえき",
+      "meaning": "chất lỏng nặng"
+    },
+    {
+      "word": "液安",
+      "reading": "えきあん",
+      "meaning": "dung dịch amôniắc"
     }
   ]
 }

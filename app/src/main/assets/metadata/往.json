@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "往往",
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "sự khứ hồi"
+    },
+    {
+      "word": "往来",
+      "reading": "おうらい",
+      "meaning": "sự đi lại"
+    },
+    {
+      "word": "往来物",
+      "reading": "おうらいもの",
+      "meaning": "sách giáo khoa được sử dụng từ cuối thời heian đến đầu thời minh trị"
+    },
+    {
+      "word": "往年",
+      "reading": "おうねん",
+      "meaning": "năm xưa"
+    },
+    {
+      "word": "往々",
       "reading": "おうおう",
-      "meaning": "thường xuyên"
+      "meaning": "thường"
     },
     {
-      "word": "右往左往",
-      "reading": "うおうさおう",
-      "meaning": "đi ngược đi xuôi"
+      "word": "往生",
+      "reading": "おうじょう",
+      "meaning": "sự ra đi"
     },
     {
-      "word": "立往生",
-      "reading": "たちおうじょう",
-      "meaning": "sự đứng lại"
+      "word": "大往生",
+      "reading": "だいおうじょう",
+      "meaning": "cái chết thanh thản"
+    },
+    {
+      "word": "往路",
+      "reading": "おうろ",
+      "meaning": "hành trình trở ra"
+    },
+    {
+      "word": "往診",
+      "reading": "おうしん",
+      "meaning": "việc bác sĩ đến khám tận nhà"
     },
     {
       "word": "既往",
       "reading": "きおう",
       "meaning": "quá khứ"
-    },
-    {
-      "word": "往ぬ",
-      "reading": "いぬ",
-      "meaning": "đi mất"
-    },
-    {
-      "word": "往日",
-      "reading": "おうじつ",
-      "meaning": "thời báo cổ xưa"
-    },
-    {
-      "word": "往返",
-      "reading": "おうへん",
-      "meaning": "xung quanh đi nhẹ bước"
-    },
-    {
-      "word": "往航",
-      "reading": "おうこう",
-      "meaning": "làm lảo đảo"
-    },
-    {
-      "word": "往事",
-      "reading": "おうじ",
-      "meaning": "chuyện đã qua"
-    },
-    {
-      "word": "往代",
-      "reading": "おうだい",
-      "meaning": "thời xưa"
     }
   ]
 }

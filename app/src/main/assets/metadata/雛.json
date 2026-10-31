@@ -89,39 +89,39 @@
       "meaning": "búp bê nữ đại diện cho hoàng hậu trong bộ búp bê hina được trưng bày trong lễ hội hinamatsuri lễ hội búp bê ở nhật bản"
     },
     {
-      "word": "巣雛",
-      "reading": "すひな",
-      "meaning": "náu mình"
-    },
-    {
-      "word": "雛形",
-      "reading": "ひながた",
-      "meaning": "mẫu"
-    },
-    {
       "word": "雛型",
       "reading": "ひながた",
       "meaning": "mẫu"
     },
     {
-      "word": "雛鳥",
-      "reading": "ひなどり",
-      "meaning": "gà con"
+      "word": "雛祭り",
+      "reading": "ひなまつり",
+      "meaning": "lễ hội búp bê"
+    },
+    {
+      "word": "雛段",
+      "reading": "ひなだん",
+      "meaning": "những bước nhỏ"
+    },
+    {
+      "word": "流し雛",
+      "reading": "ながしびな",
+      "meaning": "búp bê giấy"
+    },
+    {
+      "word": "雛豆",
+      "reading": "ひよこまめ",
+      "meaning": "cây đậu xanh"
+    },
+    {
+      "word": "巣雛",
+      "reading": "すひな",
+      "meaning": "náu mình"
     },
     {
       "word": "育雛",
       "reading": "いくすう",
       "meaning": "sự ấp trứng"
-    },
-    {
-      "word": "雛妓",
-      "reading": "すうぎ",
-      "meaning": "geisha chưa chính thức"
-    },
-    {
-      "word": "雛僧",
-      "reading": "すうそう",
-      "meaning": "linh mục trẻ"
     }
   ]
 }

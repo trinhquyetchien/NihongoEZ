@@ -94,39 +94,24 @@
       "meaning": "góc"
     },
     {
-      "word": "隅隅",
-      "reading": "すみずみ",
-      "meaning": "mỗi xó xỉnh và góc"
-    },
-    {
-      "word": "片隅",
-      "reading": "かたすみ",
-      "meaning": "góc"
-    },
-    {
-      "word": "隅から隅まで",
-      "reading": "すみからすみまで",
-      "meaning": "mỗi xó xỉnh và góc"
-    },
-    {
-      "word": "隅棟",
-      "reading": "すみむね",
-      "meaning": "cạnh đỉnh hồi"
-    },
-    {
-      "word": "四隅",
-      "reading": "よすみ",
-      "meaning": "bốn góc"
-    },
-    {
-      "word": "隅木",
-      "reading": "すみき",
-      "meaning": "kèo góc"
-    },
-    {
       "word": "出隅",
       "reading": "ですみ",
       "meaning": "góc của hai bức tường"
+    },
+    {
+      "word": "隅々",
+      "reading": "すみずみ",
+      "meaning": "ngóc ngách xó xỉnh"
+    },
+    {
+      "word": "南隅",
+      "reading": "なんぐう",
+      "meaning": "góc phía nam"
+    },
+    {
+      "word": "隅切り",
+      "reading": "すみきり",
+      "meaning": "góc vát"
     },
     {
       "word": "入隅",
@@ -134,9 +119,24 @@
       "meaning": "góc trong"
     },
     {
-      "word": "南隅",
-      "reading": "なんぐう",
-      "meaning": "góc phía nam"
+      "word": "隅柱",
+      "reading": "すみばしら",
+      "meaning": "cây cột ở góc bên ngoài hoặc bên trong của một tòa nhà"
+    },
+    {
+      "word": "隅棟",
+      "reading": "すみむね",
+      "meaning": "cạnh đỉnh hồi"
+    },
+    {
+      "word": "片隅",
+      "reading": "かたすみ",
+      "meaning": "góc"
+    },
+    {
+      "word": "片隅に",
+      "reading": "かたすみに",
+      "meaning": "trong một góc"
     }
   ]
 }

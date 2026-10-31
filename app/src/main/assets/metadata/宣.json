@@ -106,54 +106,54 @@
   ],
   "vocabulary": [
     {
-      "word": "宣う",
-      "reading": "のたまう",
-      "meaning": "nói"
+      "word": "宣伝",
+      "reading": "せんでん",
+      "meaning": "sự tuyên truyền"
     },
     {
-      "word": "宣撫",
-      "reading": "せんぶ",
-      "meaning": "bình định"
-    },
-    {
-      "word": "口宣",
-      "reading": "こうせん",
-      "meaning": "sự phát biểu bằng miệng"
-    },
-    {
-      "word": "時宣",
-      "reading": "じせん",
-      "meaning": "việc thông báo đúng thời điểm"
-    },
-    {
-      "word": "宣ふ",
-      "reading": "のたまう",
-      "meaning": "để nói"
-    },
-    {
-      "word": "託宣",
-      "reading": "たくせん",
-      "meaning": "thần tiên báo mộng"
-    },
-    {
-      "word": "勅宣",
-      "reading": "ちょくせん",
-      "meaning": "sắc lệnh của thiên hoàng"
-    },
-    {
-      "word": "院宣",
-      "reading": "いんぜん",
-      "meaning": "lệnh đế quốc"
-    },
-    {
-      "word": "不宣",
-      "reading": "ふせん",
-      "meaning": "bạn chân thành!"
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "tuyên ngôn"
     },
     {
       "word": "宣教",
       "reading": "せんきょう",
       "meaning": "tuyên giáo"
+    },
+    {
+      "word": "宣伝部",
+      "reading": "せんでんぶ",
+      "meaning": "bộ phận tuyên truyền"
+    },
+    {
+      "word": "宣伝員",
+      "reading": "せんでんいん",
+      "meaning": "nhân viên tuyên truyền"
+    },
+    {
+      "word": "宣伝屋",
+      "reading": "せんでんや",
+      "meaning": "phòng tuyên truyền"
+    },
+    {
+      "word": "宣伝戦",
+      "reading": "せんでんせん",
+      "meaning": "chiến dịch quảng cáo"
+    },
+    {
+      "word": "逆宣伝",
+      "reading": "ぎゃくせんでん",
+      "meaning": "sự tuyên truyền chống đối"
+    },
+    {
+      "word": "宣言子",
+      "reading": "せんげんし",
+      "meaning": "bộ khai báo"
+    },
+    {
+      "word": "宣言書",
+      "reading": "せんげんしょ",
+      "meaning": "bản tuyên ngôn"
     }
   ]
 }

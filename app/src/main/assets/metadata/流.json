@@ -93,29 +93,19 @@
   ],
   "vocabulary": [
     {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "sự giao lưu"
+    },
+    {
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "điện một chiều"
+    },
+    {
       "word": "流",
       "reading": "りゅう",
       "meaning": "dòng"
-    },
-    {
-      "word": "流流",
-      "reading": "りゅうりゅう",
-      "meaning": "tài nghệ"
-    },
-    {
-      "word": "交流電流",
-      "reading": "こうりゅうでんりゅう",
-      "meaning": "dòng điện xoay chiều"
-    },
-    {
-      "word": "交流電流計",
-      "reading": "こうりゅうでんりゅうけい",
-      "meaning": "đồng hồ đo dòng điện xoay chiều"
-    },
-    {
-      "word": "直流電流計",
-      "reading": "ちょくりゅうでんりゅうけい",
-      "meaning": "đồng hồ đo dòng điện một chiều"
     },
     {
       "word": "流通",
@@ -123,24 +113,34 @@
       "meaning": "sự lưu thông"
     },
     {
-      "word": "流暢",
-      "reading": "りゅうちょう",
-      "meaning": "lưu loát"
+      "word": "気流",
+      "reading": "きりゅう",
+      "meaning": "luồng hơi"
     },
     {
-      "word": "限流",
-      "reading": "げんりゅう",
-      "meaning": "giới hạn dòng điện"
+      "word": "曲流",
+      "reading": "きょくりゅう",
+      "meaning": "dòng chảy uốn lượn"
     },
     {
-      "word": "流涎",
-      "reading": "りゅうぜん",
-      "meaning": "chảy dãi"
+      "word": "流音",
+      "reading": "りゅうおん",
+      "meaning": "âm nước"
     },
     {
-      "word": "交流",
-      "reading": "こうりゅう",
-      "meaning": "sự giao lưu"
+      "word": "流線",
+      "reading": "りゅうせん",
+      "meaning": "đường dòng"
+    },
+    {
+      "word": "台流",
+      "reading": "たいりゅう",
+      "meaning": "trào lưu văn hóa đài loan"
+    },
+    {
+      "word": "流石",
+      "reading": "さすが",
+      "meaning": "quả là"
     }
   ]
 }

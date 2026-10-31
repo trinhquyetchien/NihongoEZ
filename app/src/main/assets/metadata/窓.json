@@ -114,19 +114,19 @@
       "meaning": "cửa sổ"
     },
     {
+      "word": "窓口",
+      "reading": "まどぐち",
+      "meaning": "cửa bán vé"
+    },
+    {
       "word": "内窓",
       "reading": "うちまど",
       "meaning": "cửa sổ lùa"
     },
     {
-      "word": "出窓",
-      "reading": "でまど",
-      "meaning": "cửa sổ xây lồi ra ngoài"
-    },
-    {
-      "word": "窓側",
-      "reading": "まどがわ",
-      "meaning": "phía cửa sổ"
+      "word": "円窓",
+      "reading": "まるまど",
+      "meaning": "cửa sổ tròn"
     },
     {
       "word": "高窓",
@@ -134,29 +134,29 @@
       "meaning": "cửa sổ trên cao"
     },
     {
-      "word": "窓販",
-      "reading": "まどはん",
-      "meaning": "bán hàng qua quầy"
+      "word": "窓外",
+      "reading": "そうがい",
+      "meaning": "bên ngoài cửa sổ"
     },
     {
-      "word": "幽窓",
-      "reading": "ゆうそう",
-      "meaning": "làm yên cửa sổ"
+      "word": "窓台",
+      "reading": "まどだい",
+      "meaning": "khung dưới của cửa sổ"
     },
     {
-      "word": "窓辺",
-      "reading": "まどべ",
-      "meaning": "cạnh cửa sổ"
+      "word": "小窓",
+      "reading": "こまど",
+      "meaning": "cửa sổ nhỏ"
     },
     {
-      "word": "同窓",
-      "reading": "どうそう",
-      "meaning": "cùng trường học đó"
+      "word": "窓付き",
+      "reading": "まどつき",
+      "meaning": "có cửa sổ"
     },
     {
-      "word": "車窓",
-      "reading": "しゃそう",
-      "meaning": "cửa sổ xe"
+      "word": "二重窓",
+      "reading": "にじゅうまど",
+      "meaning": "cửa sổ đôi"
     }
   ]
 }

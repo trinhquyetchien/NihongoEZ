@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "戒",
-      "reading": "かい",
-      "meaning": "giới luật"
-    },
-    {
       "word": "警戒",
       "reading": "けいかい",
       "meaning": "canh phòng"
+    },
+    {
+      "word": "警戒感",
+      "reading": "けいかいかん",
+      "meaning": "cảnh giác"
+    },
+    {
+      "word": "警戒心",
+      "reading": "けいかいしん",
+      "meaning": "sự thận trọng"
+    },
+    {
+      "word": "警戒線",
+      "reading": "けいかいせん",
+      "meaning": "rào cảnh báo"
+    },
+    {
+      "word": "懲戒",
+      "reading": "ちょうかい",
+      "meaning": "sự phạt"
     },
     {
       "word": "戒め",
@@ -104,29 +119,9 @@
       "meaning": "lời cảnh báo"
     },
     {
-      "word": "戒厳",
-      "reading": "かいげん",
-      "meaning": "quân luật"
-    },
-    {
-      "word": "哨戒",
-      "reading": "しょうかい",
-      "meaning": "đi tuần tra"
-    },
-    {
-      "word": "訓戒",
-      "reading": "くんかい",
-      "meaning": "sự cảnh báo không nên làm gì"
-    },
-    {
-      "word": "戒心",
-      "reading": "かいしん",
-      "meaning": "cảnh giác"
-    },
-    {
-      "word": "戒飭",
-      "reading": "かいちょく",
-      "meaning": "nhắc nhở"
+      "word": "戒",
+      "reading": "かい",
+      "meaning": "giới luật"
     },
     {
       "word": "八戒",
@@ -134,9 +129,14 @@
       "meaning": "tám giới luật"
     },
     {
-      "word": "懲戒",
-      "reading": "ちょうかい",
-      "meaning": "sự phạt"
+      "word": "哨戒",
+      "reading": "しょうかい",
+      "meaning": "đi tuần tra"
+    },
+    {
+      "word": "哨戒機",
+      "reading": "しょうかいき",
+      "meaning": "đi tuần tra máy bay"
     }
   ]
 }

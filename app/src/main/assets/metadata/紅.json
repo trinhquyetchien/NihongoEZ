@@ -92,9 +92,14 @@
   ],
   "vocabulary": [
     {
-      "word": "紅",
-      "reading": "くれない",
-      "meaning": "đỏ thẫm"
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "chè đen"
+    },
+    {
+      "word": "紅葉",
+      "reading": "こうよう",
+      "meaning": "cây thích"
     },
     {
       "word": "口紅",
@@ -102,44 +107,39 @@
       "meaning": "ống son"
     },
     {
-      "word": "紅白",
-      "reading": "こうはく",
-      "meaning": "màu đỏ và trắng"
+      "word": "紅",
+      "reading": "くれない",
+      "meaning": "đỏ thẫm"
     },
     {
-      "word": "紅茶",
-      "reading": "こうちゃ",
-      "meaning": "chè đen"
+      "word": "紅中",
+      "reading": "ホンちゅう",
+      "meaning": "red dragon tile"
     },
     {
-      "word": "紅鶴",
-      "reading": "べにづる",
-      "meaning": "chim hồng hạc"
+      "word": "中紅",
+      "reading": "なかくれない",
+      "meaning": "màu hồng vừa"
     },
     {
-      "word": "紅鶸",
-      "reading": "べにひわ",
-      "meaning": "đại bàng đỏ"
+      "word": "紅組",
+      "reading": "あかぐみ",
+      "meaning": "đội đỏ"
     },
     {
-      "word": "紅唇",
-      "reading": "こうしん",
-      "meaning": "môi hồng"
+      "word": "紅学",
+      "reading": "こうがく",
+      "meaning": "hồng học"
     },
     {
-      "word": "紅藻",
-      "reading": "こうそう",
-      "meaning": "tảo đỏ"
+      "word": "紅炎",
+      "reading": "こうえん",
+      "meaning": "ngọn lửa hồng"
     },
     {
-      "word": "紅海",
-      "reading": "こうかい",
-      "meaning": "biển đỏ"
-    },
-    {
-      "word": "紅顔",
-      "reading": "こうがん",
-      "meaning": "hồng nhan"
+      "word": "紅旗",
+      "reading": "こうき",
+      "meaning": "cờ đỏ"
     }
   ]
 }

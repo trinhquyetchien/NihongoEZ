@@ -113,39 +113,14 @@
   ],
   "vocabulary": [
     {
-      "word": "解",
-      "reading": "かい",
-      "meaning": "phương pháp"
-    },
-    {
-      "word": "誤解を解く",
-      "reading": "ごかいをとく",
-      "meaning": "xóa bỏ sự hiểu lầm"
-    },
-    {
-      "word": "加水分解|水解",
-      "reading": "かすいぶんかい|みずかい",
-      "meaning": "thủy phân"
-    },
-    {
-      "word": "解ぐす",
-      "reading": "ほぐす",
-      "meaning": "mở"
-    },
-    {
-      "word": "解る",
-      "reading": "わかる",
-      "meaning": "hiểu"
-    },
-    {
-      "word": "重解",
-      "reading": "じゅうかい",
-      "meaning": "nghiệm bội"
-    },
-    {
       "word": "見解",
       "reading": "けんかい",
       "meaning": "cách nghĩ"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "chú văn"
     },
     {
       "word": "解放",
@@ -153,14 +128,39 @@
       "meaning": "giải cấp phát"
     },
     {
-      "word": "解読",
-      "reading": "かいどく",
-      "meaning": "sự giải mã"
-    },
-    {
       "word": "解析",
       "reading": "かいせき",
       "meaning": "sự phân tích"
+    },
+    {
+      "word": "解",
+      "reading": "かい",
+      "meaning": "phương pháp"
+    },
+    {
+      "word": "解版",
+      "reading": "かいはん",
+      "meaning": "tên một loại phân phối"
+    },
+    {
+      "word": "風解",
+      "reading": "ふうかい",
+      "meaning": "sự mất nước của sự kết tinh từ dạng muối ngậm nước hay sonvat vào khí quyển khi bị lộ ra ngoài không khí"
+    },
+    {
+      "word": "解式",
+      "reading": "かいしき",
+      "meaning": "quy tắc"
+    },
+    {
+      "word": "重解",
+      "reading": "じゅうかい",
+      "meaning": "nghiệm bội"
+    },
+    {
+      "word": "表解",
+      "reading": "ひょうかい",
+      "meaning": "minh họa bằng bảng"
     }
   ]
 }

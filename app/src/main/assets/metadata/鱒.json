@@ -58,11 +58,6 @@
       "meaning": "cá hồi"
     },
     {
-      "word": "塩鱒",
-      "reading": "しおます",
-      "meaning": "cá hồi muối"
-    },
-    {
       "word": "国鱒",
       "reading": "くにます",
       "meaning": "oncorhynchus kawamurae"
@@ -78,9 +73,14 @@
       "meaning": "cá hồi masu"
     },
     {
-      "word": "姫鱒",
-      "reading": "ひめます",
-      "meaning": "cá hồi đỏ"
+      "word": "塩鱒",
+      "reading": "しおます",
+      "meaning": "cá hồi muối"
+    },
+    {
+      "word": "鱒の介",
+      "reading": "ますのすけ",
+      "meaning": "cá hồi chinook"
     },
     {
       "word": "河鱒",
@@ -88,19 +88,19 @@
       "meaning": "cá hồi sống ở sông suối"
     },
     {
-      "word": "紅鱒",
-      "reading": "べにます",
-      "meaning": "cá hồi sockeye"
+      "word": "皐月鱒",
+      "reading": "さつきます",
+      "meaning": "cá hồi satsukimasu"
     },
     {
-      "word": "虹鱒",
-      "reading": "にじます",
-      "meaning": "loại cá hồi có đốm đen và hai vệt hơi đỏ kéo từ mõm đến đuôi"
+      "word": "小豆鱒",
+      "reading": "あずきます",
+      "meaning": "cá mú yên đen"
     },
     {
-      "word": "琵琶鱒",
-      "reading": "びわます",
-      "meaning": "cá hồi biwa"
+      "word": "樺太鱒",
+      "reading": "からふとます",
+      "meaning": "cá hồi hồng"
     }
   ]
 }

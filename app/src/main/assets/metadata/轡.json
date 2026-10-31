@@ -32,14 +32,19 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "猿轡",
+      "reading": "さるぐつわ",
+      "meaning": "cái khóa miệng"
+    },
+    {
       "word": "轡",
       "reading": "くつわ",
       "meaning": "một mẩu"
     },
     {
-      "word": "猿轡",
-      "reading": "さるぐつわ",
-      "meaning": "cái khóa miệng"
+      "word": "轡屋",
+      "reading": "くつわや",
+      "meaning": "nhà chứa"
     },
     {
       "word": "轡虫",
@@ -50,11 +55,6 @@
       "word": "金轡",
       "reading": "かなぐつわ",
       "meaning": "hàm thiếc"
-    },
-    {
-      "word": "轡屋",
-      "reading": "くつわや",
-      "meaning": "nhà chứa"
     }
   ]
 }

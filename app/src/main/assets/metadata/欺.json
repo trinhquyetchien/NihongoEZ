@@ -97,9 +97,34 @@
       "meaning": "đánh"
     },
     {
+      "word": "詐欺師",
+      "reading": "さぎし",
+      "meaning": "đại gian"
+    },
+    {
+      "word": "詐欺罪",
+      "reading": "さぎざい",
+      "meaning": "tội gian lận"
+    },
+    {
       "word": "欺瞞",
       "reading": "ぎまん",
       "meaning": "sự lường gạt"
+    },
+    {
+      "word": "欺瞞的",
+      "reading": "ぎまんてき",
+      "meaning": "mang tính lừa gạt"
+    },
+    {
+      "word": "欺瞞者",
+      "reading": "ぎまんしゃ",
+      "meaning": "kẻ lừa đảo"
+    },
+    {
+      "word": "欺罔",
+      "reading": "きもう",
+      "meaning": "lừa dối"
     },
     {
       "word": "欺騙",
@@ -110,31 +135,6 @@
       "word": "欺詐",
       "reading": "ぎさ",
       "meaning": "gian lận"
-    },
-    {
-      "word": "欺罔",
-      "reading": "きもう",
-      "meaning": "lừa dối"
-    },
-    {
-      "word": "詐欺師",
-      "reading": "さぎし",
-      "meaning": "đại gian"
-    },
-    {
-      "word": "ナイジェリア詐欺",
-      "reading": "ナイジェリアさぎ",
-      "meaning": "lừa đảo nigeria"
-    },
-    {
-      "word": "ワンクリック詐欺",
-      "reading": "ワンクリックさぎ",
-      "meaning": "lừa đảo bằng một cú nhấp chuột"
-    },
-    {
-      "word": "フィッシング詐欺",
-      "reading": "フィッシングさぎ",
-      "meaning": "tấn công giả mạo"
     }
   ]
 }

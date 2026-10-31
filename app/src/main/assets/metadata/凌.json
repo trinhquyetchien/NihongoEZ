@@ -70,9 +70,19 @@
   ],
   "vocabulary": [
     {
+      "word": "凌ぐ",
+      "reading": "しのぐ",
+      "meaning": "át hẳn"
+    },
+    {
       "word": "凌",
       "reading": "りょう",
       "meaning": "vượt qua"
+    },
+    {
+      "word": "凌波性",
+      "reading": "りょうはせい",
+      "meaning": "tình trạng có thể đi biển được"
     },
     {
       "word": "凌遅",
@@ -80,29 +90,9 @@
       "meaning": "lăng trì"
     },
     {
-      "word": "凌虐",
-      "reading": "りょうぎゃく",
-      "meaning": "sự làm nhục"
-    },
-    {
-      "word": "凌ぐ",
-      "reading": "しのぐ",
-      "meaning": "át hẳn"
-    },
-    {
-      "word": "凌雲",
-      "reading": "りょううん",
-      "meaning": "chọc trời"
-    },
-    {
-      "word": "凌ぎ",
-      "reading": "しのぎ",
-      "meaning": "việc vượt qua"
-    },
-    {
-      "word": "凌霄",
-      "reading": "りょうしょう",
-      "meaning": "cây đăng tiêu"
+      "word": "凌駕",
+      "reading": "りょうが",
+      "meaning": "xuất sắc"
     },
     {
       "word": "凌辱",
@@ -110,14 +100,24 @@
       "meaning": "sự lăng mạ"
     },
     {
-      "word": "凌駕",
-      "reading": "りょうが",
-      "meaning": "xuất sắc"
+      "word": "凌ぎ",
+      "reading": "しのぎ",
+      "meaning": "việc vượt qua"
     },
     {
-      "word": "凌霄花",
-      "reading": "のうぜんかずら",
-      "meaning": "hoa loa kèn"
+      "word": "凌ぎ場",
+      "reading": "しのぎば",
+      "meaning": "chỗ ẩn náu"
+    },
+    {
+      "word": "凌虐",
+      "reading": "りょうぎゃく",
+      "meaning": "sự làm nhục"
+    },
+    {
+      "word": "凌雲",
+      "reading": "りょううん",
+      "meaning": "chọc trời"
     }
   ]
 }

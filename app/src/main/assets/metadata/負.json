@@ -108,9 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "負",
-      "reading": "ふ",
-      "meaning": "phủ định"
+      "word": "負け",
+      "reading": "まけ",
+      "meaning": "sự thua"
     },
     {
       "word": "勝負",
@@ -118,44 +118,44 @@
       "meaning": "sự thắng hay thua"
     },
     {
-      "word": "負極",
-      "reading": "ふきょく",
-      "meaning": "cực âm"
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "sự gánh vác"
     },
     {
-      "word": "正負",
-      "reading": "せいふ",
-      "meaning": "ngược và dương tính"
+      "word": "負傷",
+      "reading": "ふしょう",
+      "meaning": "bị thương"
     },
     {
-      "word": "先負",
-      "reading": "せんぶ",
-      "meaning": "ngày may mắn nhưng không phải trong buổi sáng"
+      "word": "負う",
+      "reading": "おう",
+      "meaning": "mang"
     },
     {
-      "word": "負号",
-      "reading": "ふごう",
-      "meaning": "dấu âm"
+      "word": "負債",
+      "reading": "ふさい",
+      "meaning": "sự mắc nợ"
     },
     {
-      "word": "負性",
-      "reading": "ふせい",
-      "meaning": "phủ định những thuộc tính"
+      "word": "負け得",
+      "reading": "まけどく",
+      "meaning": "thua đô vật hạng thấp trong hiệp phụ thứ tám của giải đấu"
     },
     {
-      "word": "力負",
-      "reading": "ちからまけ",
-      "meaning": "sự thua do sử dụng sức mạnh sai cách hoặc cố gắng quá mức"
+      "word": "負け組",
+      "reading": "まけぐみ",
+      "meaning": "kẻ thua cuộc"
     },
     {
-      "word": "負数",
-      "reading": "ふすう",
-      "meaning": "số âm"
+      "word": "御負け",
+      "reading": "おまけ",
+      "meaning": "một chiết khấu"
     },
     {
-      "word": "請負",
-      "reading": "うけおい",
-      "meaning": "hợp đồng"
+      "word": "負担感",
+      "reading": "ふたんかん",
+      "meaning": "cảm thấy gánh nặng"
     }
   ]
 }

@@ -84,9 +84,24 @@
   ],
   "vocabulary": [
     {
-      "word": "嫡孫",
-      "reading": "ちゃくそん",
-      "meaning": "cháu đích tôn"
+      "word": "嫡男",
+      "reading": "ちゃくなん",
+      "meaning": "con trai trưởng"
+    },
+    {
+      "word": "嫡出",
+      "reading": "ちゃくしゅつ",
+      "meaning": "sự hợp pháp"
+    },
+    {
+      "word": "嫡出子",
+      "reading": "ちゃくしゅつし",
+      "meaning": "con do vợ cả sinh ra"
+    },
+    {
+      "word": "非嫡出",
+      "reading": "ひちゃくしゅつ",
+      "meaning": "sự không hợp pháp"
     },
     {
       "word": "嫡子",
@@ -99,9 +114,14 @@
       "meaning": "dòng con trưởng"
     },
     {
-      "word": "嫡男",
-      "reading": "ちゃくなん",
-      "meaning": "con trai trưởng"
+      "word": "廃嫡",
+      "reading": "はいちゃく",
+      "meaning": "sự tước quyền thừa kế"
+    },
+    {
+      "word": "嫡孫",
+      "reading": "ちゃくそん",
+      "meaning": "cháu đích tôn"
     },
     {
       "word": "嫡披",
@@ -112,26 +132,6 @@
       "word": "嫡嗣",
       "reading": "ちゃくし",
       "meaning": "đích tự"
-    },
-    {
-      "word": "廃嫡",
-      "reading": "はいちゃく",
-      "meaning": "sự tước quyền thừa kế"
-    },
-    {
-      "word": "嫡出",
-      "reading": "ちゃくしゅつ",
-      "meaning": "sự hợp pháp"
-    },
-    {
-      "word": "嫡妻",
-      "reading": "ちゃくさい",
-      "meaning": "vợ hợp pháp"
-    },
-    {
-      "word": "嫡室",
-      "reading": "ちゃくしつ",
-      "meaning": "một có vợ hợp pháp"
     }
   ]
 }

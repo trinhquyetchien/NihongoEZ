@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "遅遅",
-      "reading": "ちち",
-      "meaning": "chậm"
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "muộn màng"
     },
     {
-      "word": "遅遅たる",
-      "reading": "ちちたる",
-      "meaning": "đi chậm chạp"
+      "word": "遅れる",
+      "reading": "おくれる",
+      "meaning": "bê trệ"
     },
     {
-      "word": "遅達",
-      "reading": "ちたつ",
-      "meaning": "sự chuyển phát muộn"
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaning": "sự muộn"
     },
     {
-      "word": "遅霜",
-      "reading": "おそじも",
-      "meaning": "muộn nứt rạn sương giá"
+      "word": "遅れ",
+      "reading": "おくれ",
+      "meaning": "sự muộn"
     },
     {
-      "word": "遅番",
-      "reading": "おそばん",
-      "meaning": "ca chiều"
+      "word": "手遅れ",
+      "reading": "ておくれ",
+      "meaning": "sự muộn màng"
     },
     {
-      "word": "遅漏",
-      "reading": "ちろう",
-      "meaning": "xuất tinh chậm"
+      "word": "遅らす",
+      "reading": "おくらす",
+      "meaning": "làm cho muộn"
     },
     {
-      "word": "遅出",
-      "reading": "おそで",
-      "meaning": "vào ca làm muộn"
+      "word": "遅く",
+      "reading": "おそく",
+      "meaning": "trễ"
     },
     {
-      "word": "凌遅",
-      "reading": "りょうち",
-      "meaning": "lăng trì"
+      "word": "夜遅く",
+      "reading": "よるおそく",
+      "meaning": "muộn vào ban đêm"
     },
     {
-      "word": "遅滞",
-      "reading": "ちたい",
-      "meaning": "sự trì hoãn"
+      "word": "遅め",
+      "reading": "おそめ",
+      "meaning": "muộn"
     },
     {
-      "word": "遅配",
-      "reading": "ちはい",
-      "meaning": "sự chậm trễ"
+      "word": "遅着",
+      "reading": "ちちゃく",
+      "meaning": "sự đến muộn"
     }
   ]
 }

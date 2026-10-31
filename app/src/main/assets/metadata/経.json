@@ -112,29 +112,9 @@
   ],
   "vocabulary": [
     {
-      "word": "経",
-      "reading": "きょう",
-      "meaning": "sutra"
-    },
-    {
-      "word": "神経経路",
-      "reading": "しんけいけいろ",
-      "meaning": "đường đi của dây thần kinh"
-    },
-    {
-      "word": "自律神経経路",
-      "reading": "じりつしんけいけいろ",
-      "meaning": "hệ thần kinh tự chủ"
-    },
-    {
-      "word": "神経節神経腫",
-      "reading": "しんけいせつしんけいしゅ",
-      "meaning": "u hạch thần kinh"
-    },
-    {
-      "word": "正経",
-      "reading": "せいけい",
-      "meaning": "luật lệ kinh thánh"
+      "word": "経済",
+      "reading": "けいざい",
+      "meaning": "nền kinh tế"
     },
     {
       "word": "経験",
@@ -142,9 +122,29 @@
       "meaning": "kinh nghiệm"
     },
     {
-      "word": "経費",
-      "reading": "けいひ",
-      "meaning": "tiền chi tiêu"
+      "word": "経営",
+      "reading": "けいえい",
+      "meaning": "quản lý"
+    },
+    {
+      "word": "経由",
+      "reading": "けいゆ",
+      "meaning": "sự thông qua đường"
+    },
+    {
+      "word": "経つ",
+      "reading": "たつ",
+      "meaning": "đã"
+    },
+    {
+      "word": "経過",
+      "reading": "けいか",
+      "meaning": "kinh qua"
+    },
+    {
+      "word": "経緯",
+      "reading": "けいい",
+      "meaning": "nguồn cơn"
     },
     {
       "word": "経歴",
@@ -157,9 +157,9 @@
       "meaning": "đường đi"
     },
     {
-      "word": "経済",
-      "reading": "けいざい",
-      "meaning": "nền kinh tế"
+      "word": "経費",
+      "reading": "けいひ",
+      "meaning": "tiền chi tiêu"
     }
   ]
 }

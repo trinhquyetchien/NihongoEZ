@@ -111,19 +111,14 @@
   ],
   "vocabulary": [
     {
-      "word": "続",
-      "reading": "ぞく",
-      "meaning": "sự kế thừa"
+      "word": "続く",
+      "reading": "つづく",
+      "meaning": "lai rai"
     },
     {
-      "word": "続続",
-      "reading": "ぞくぞく",
-      "meaning": "liên tiếp"
-    },
-    {
-      "word": "縦続接続",
-      "reading": "じゅうぞくせつぞく",
-      "meaning": "kết nối nối tiếp"
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "liên tục"
     },
     {
       "word": "続き",
@@ -131,34 +126,39 @@
       "meaning": "sự tiếp tục"
     },
     {
-      "word": "後続",
-      "reading": "こうぞく",
-      "meaning": "thành công"
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "sự kế tiếp"
     },
     {
-      "word": "勤続",
-      "reading": "きんぞく",
-      "meaning": "sự phục vụ liên tục"
+      "word": "接続",
+      "reading": "せつぞく",
+      "meaning": "kế tiếp"
     },
     {
-      "word": "航続",
-      "reading": "こうぞく",
-      "meaning": "tuần biển"
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "kế tục"
     },
     {
-      "word": "縦続",
-      "reading": "じゅうぞく",
-      "meaning": "ghép"
+      "word": "続々",
+      "reading": "ぞくぞく",
+      "meaning": "sự liên tục"
     },
     {
-      "word": "続篇",
-      "reading": "ぞくへん",
-      "meaning": "sự tiếp tục"
+      "word": "持続",
+      "reading": "じぞく",
+      "meaning": "sự kéo dài"
     },
     {
-      "word": "続出",
-      "reading": "ぞくしゅつ",
-      "meaning": "sự nối tiếp"
+      "word": "存続",
+      "reading": "そんぞく",
+      "meaning": "khoảng thời gian mà một việc tồn tại"
+    },
+    {
+      "word": "連続性",
+      "reading": "れんぞくせい",
+      "meaning": "tính liên tục"
     }
   ]
 }

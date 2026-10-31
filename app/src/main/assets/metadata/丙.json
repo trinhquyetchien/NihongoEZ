@@ -88,39 +88,14 @@
       "meaning": "bính"
     },
     {
-      "word": "丙夜",
-      "reading": "へいや",
-      "meaning": "canh 3"
-    },
-    {
-      "word": "丙午",
-      "reading": "ひのえうま",
-      "meaning": "năm bính ngọ"
-    },
-    {
-      "word": "丙戌",
-      "reading": "ひのえいぬ",
-      "meaning": "bính tuất"
-    },
-    {
       "word": "丙子",
       "reading": "ひのえね",
       "meaning": "bính tý"
     },
     {
-      "word": "丙申",
-      "reading": "ひのえさる",
-      "meaning": "bính thân"
-    },
-    {
-      "word": "丙辰",
-      "reading": "ひのえたつ",
-      "meaning": "bính thìn"
-    },
-    {
-      "word": "丙寅",
-      "reading": "ひのえとら",
-      "meaning": "bính dần"
+      "word": "丙夜",
+      "reading": "へいや",
+      "meaning": "canh 3"
     },
     {
       "word": "丙種",
@@ -128,9 +103,34 @@
       "meaning": "hạng c"
     },
     {
+      "word": "丙申",
+      "reading": "ひのえさる",
+      "meaning": "bính thân"
+    },
+    {
+      "word": "丙寅",
+      "reading": "ひのえとら",
+      "meaning": "bính dần"
+    },
+    {
+      "word": "丙辰",
+      "reading": "ひのえたつ",
+      "meaning": "bính thìn"
+    },
+    {
+      "word": "丙戌",
+      "reading": "ひのえいぬ",
+      "meaning": "bính tuất"
+    },
+    {
       "word": "午丙",
       "reading": "ひのえうま",
       "meaning": "năm bính ngọ"
+    },
+    {
+      "word": "甲乙丙",
+      "reading": "こうおつへい",
+      "meaning": "sự so sánh"
     }
   ]
 }

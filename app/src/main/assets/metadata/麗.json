@@ -90,14 +90,34 @@
   ],
   "vocabulary": [
     {
-      "word": "麗麗しい",
-      "reading": "れいれいしい",
-      "meaning": "phô trương"
-    },
-    {
       "word": "綺麗",
       "reading": "きれい",
       "meaning": "đẹp"
+    },
+    {
+      "word": "綺麗な",
+      "reading": "きれいな",
+      "meaning": "đẹp"
+    },
+    {
+      "word": "手綺麗",
+      "reading": "てぎれい",
+      "meaning": "sạch sẽ hoặc thông minh làm"
+    },
+    {
+      "word": "身綺麗",
+      "reading": "みぎれい",
+      "meaning": "sự xuất hiện cá nhân nguyên chất"
+    },
+    {
+      "word": "華麗",
+      "reading": "かれい",
+      "meaning": "hoa lệ"
+    },
+    {
+      "word": "麗日",
+      "reading": "れいじつ",
+      "meaning": "ngày xuân vinh quang"
     },
     {
       "word": "高麗",
@@ -105,39 +125,19 @@
       "meaning": "vương quốc tiếng triều tiên cổ xưa"
     },
     {
-      "word": "典麗",
-      "reading": "てんれい",
-      "meaning": "duyên dáng"
-    },
-    {
-      "word": "端麗",
-      "reading": "たんれい",
-      "meaning": "đoan trang"
-    },
-    {
-      "word": "佳麗",
-      "reading": "かれい",
-      "meaning": "vẻ đẹp"
-    },
-    {
-      "word": "麗姿",
-      "reading": "れいし",
-      "meaning": "dáng vẻ đẹp"
-    },
-    {
-      "word": "麗句",
-      "reading": "れいく",
-      "meaning": "mệnh đề thanh lịch"
-    },
-    {
-      "word": "麗容",
-      "reading": "れいよう",
-      "meaning": "dáng đẹp"
-    },
-    {
       "word": "艶麗",
       "reading": "えんれい",
       "meaning": "diễm lệ"
+    },
+    {
+      "word": "麗景殿",
+      "reading": "れいけいでん",
+      "meaning": "gian hàng dành cho phụ nữ"
+    },
+    {
+      "word": "美麗",
+      "reading": "びれい",
+      "meaning": "đẹp rực rỡ"
     }
   ]
 }

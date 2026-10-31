@@ -89,26 +89,6 @@
   ],
   "vocabulary": [
     {
-      "word": "師",
-      "reading": "し",
-      "meaning": "giáo viên"
-    },
-    {
-      "word": "山師",
-      "reading": "やまし",
-      "meaning": "kẻ bịp bợm"
-    },
-    {
-      "word": "出師",
-      "reading": "すいし",
-      "meaning": "gửi đi quân đội"
-    },
-    {
-      "word": "講師",
-      "reading": "こうし",
-      "meaning": "giảng viên"
-    },
-    {
       "word": "教師",
       "reading": "きょうし",
       "meaning": "giáo sư"
@@ -119,19 +99,39 @@
       "meaning": "kỹ sư"
     },
     {
-      "word": "師匠",
-      "reading": "ししょう",
-      "meaning": "sự phụ"
+      "word": "講師",
+      "reading": "こうし",
+      "meaning": "giảng viên"
     },
     {
-      "word": "師弟",
-      "reading": "してい",
-      "meaning": "thầy trò"
+      "word": "師",
+      "reading": "し",
+      "meaning": "giáo viên"
     },
     {
-      "word": "尊師",
-      "reading": "そんし",
-      "meaning": "holy master"
+      "word": "師部",
+      "reading": "しぶ",
+      "meaning": "phloem"
+    },
+    {
+      "word": "良師",
+      "reading": "りょうし",
+      "meaning": "giáo viên giỏi"
+    },
+    {
+      "word": "士師",
+      "reading": "しし",
+      "meaning": "thẩm phán"
+    },
+    {
+      "word": "師説",
+      "reading": "しせつ",
+      "meaning": "giáo viên có lý thuyết"
+    },
+    {
+      "word": "経師",
+      "reading": "きょうじ",
+      "meaning": "thợ làm khung tranh"
     },
     {
       "word": "術師",

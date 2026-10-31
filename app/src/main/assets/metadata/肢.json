@@ -87,9 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "肢位",
-      "reading": "しい",
-      "meaning": "góc độ của khớp"
+      "word": "選択肢",
+      "reading": "せんたくし",
+      "meaning": "có lựa chọn"
+    },
+    {
+      "word": "四肢",
+      "reading": "しし",
+      "meaning": "tứ chi"
     },
     {
       "word": "肢体",
@@ -102,39 +107,34 @@
       "meaning": "chân"
     },
     {
-      "word": "四肢",
-      "reading": "しし",
-      "meaning": "tứ chi"
+      "word": "下肢帯",
+      "reading": "かしたい",
+      "meaning": "xương chậu"
     },
     {
-      "word": "幻肢",
-      "reading": "げんし",
-      "meaning": "chân tay ma"
+      "word": "肢位",
+      "reading": "しい",
+      "meaning": "góc độ của khớp"
     },
     {
-      "word": "触肢",
-      "reading": "しょくし",
-      "meaning": "pedipalp"
+      "word": "下肢骨",
+      "reading": "かしこつ",
+      "meaning": "xương chi dưới"
     },
     {
-      "word": "上肢",
-      "reading": "じょうし",
-      "meaning": "cánh tay"
+      "word": "腹肢",
+      "reading": "ふくし",
+      "meaning": "chân bụng"
     },
     {
-      "word": "後肢",
-      "reading": "こうし",
-      "meaning": "chân sau"
+      "word": "尾肢",
+      "reading": "びし",
+      "meaning": "uropod"
     },
     {
-      "word": "前肢",
-      "reading": "まえあし",
-      "meaning": "chân trước"
-    },
-    {
-      "word": "義肢",
-      "reading": "ぎし",
-      "meaning": "chân tay nhân tạo"
+      "word": "肢帯",
+      "reading": "したい",
+      "meaning": "đai thắt lưng"
     }
   ]
 }

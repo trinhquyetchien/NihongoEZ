@@ -107,34 +107,34 @@
       "meaning": "100 triệu"
     },
     {
-      "word": "十億",
-      "reading": "じゅうおく",
-      "meaning": "000"
-    },
-    {
       "word": "一億",
       "reading": "いちおく",
       "meaning": "một trăm triệu"
     },
     {
-      "word": "億ション",
-      "reading": "おくション",
-      "meaning": "căn hộ có giá trên 1 triệu yên"
+      "word": "億円",
+      "reading": "おくえん",
+      "meaning": "100"
     },
     {
-      "word": "億劫",
-      "reading": "おっくう",
-      "meaning": "sự khó khăn"
+      "word": "数億年",
+      "reading": "すうおくねん",
+      "meaning": "hàng trăm triệu năm"
     },
     {
-      "word": "億兆",
-      "reading": "おくちょう",
-      "meaning": "mọi người"
+      "word": "数億円",
+      "reading": "すうおくえん",
+      "meaning": "hàng trăm triệu yên"
     },
     {
-      "word": "百億",
-      "reading": "ひゃくおく",
-      "meaning": "mười tỷ"
+      "word": "10億",
+      "reading": "10おく",
+      "meaning": "hàng trăm triệu"
+    },
+    {
+      "word": "十億",
+      "reading": "じゅうおく",
+      "meaning": "000"
     },
     {
       "word": "千億",
@@ -142,14 +142,14 @@
       "meaning": "một trăm tỷ"
     },
     {
-      "word": "億万",
-      "reading": "おくまん",
-      "meaning": "triệu triệu"
+      "word": "百億",
+      "reading": "ひゃくおく",
+      "meaning": "mười tỷ"
     },
     {
-      "word": "巨億",
-      "reading": "きょおく",
-      "meaning": "hàng triệu"
+      "word": "億劫",
+      "reading": "おっくう",
+      "meaning": "sự khó khăn"
     }
   ]
 }

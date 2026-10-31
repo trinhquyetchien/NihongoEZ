@@ -40,24 +40,9 @@
       "meaning": "quan chức cao cấp"
     },
     {
-      "word": "九卿",
-      "reading": "きゅうけい",
-      "meaning": "chín quan chức cấp cao tham gia vào các vấn đề quốc gia"
-    },
-    {
-      "word": "卿相",
-      "reading": "けいしょう",
-      "meaning": "quốc vụ khanh"
-    },
-    {
       "word": "月卿",
       "reading": "げっけい",
       "meaning": "nguyệt khanh"
-    },
-    {
-      "word": "公卿",
-      "reading": "くぎょう",
-      "meaning": "quan lại"
     },
     {
       "word": "三卿",
@@ -65,14 +50,29 @@
       "meaning": "tam khánh"
     },
     {
+      "word": "御三卿",
+      "reading": "ごさんきょう",
+      "meaning": "ba nhà của dòng họ tokugawa"
+    },
+    {
+      "word": "卿相",
+      "reading": "けいしょう",
+      "meaning": "quốc vụ khanh"
+    },
+    {
+      "word": "九卿",
+      "reading": "きゅうけい",
+      "meaning": "chín quan chức cấp cao tham gia vào các vấn đề quốc gia"
+    },
+    {
       "word": "枢機卿",
       "reading": "すうききょう",
       "meaning": "hồng y giáo chủ"
     },
     {
-      "word": "御三卿",
-      "reading": "ごさんきょう",
-      "meaning": "ba nhà của dòng họ tokugawa"
+      "word": "公卿",
+      "reading": "くぎょう",
+      "meaning": "quan lại"
     },
     {
       "word": "月卿雲客",

@@ -91,14 +91,39 @@
   ],
   "vocabulary": [
     {
-      "word": "消沈",
-      "reading": "しょうちん",
-      "meaning": "trầm cảm"
+      "word": "沈む",
+      "reading": "しずむ",
+      "meaning": "buồn bã"
     },
     {
-      "word": "沈金",
-      "reading": "ちんきん",
-      "meaning": "kỹ thuật chạm khắc vàng"
+      "word": "沈黙",
+      "reading": "ちんもく",
+      "meaning": "sự im lặng"
+    },
+    {
+      "word": "沈没",
+      "reading": "ちんぼつ",
+      "meaning": "sự chìm xuống"
+    },
+    {
+      "word": "沈める",
+      "reading": "しずめる",
+      "meaning": "chìm"
+    },
+    {
+      "word": "沈澱",
+      "reading": "ちんでん",
+      "meaning": "sự kết tủa"
+    },
+    {
+      "word": "沈め",
+      "reading": "しずめ",
+      "meaning": "chìm"
+    },
+    {
+      "word": "沈没船",
+      "reading": "ちんぼつせん",
+      "meaning": "tàu đắm"
     },
     {
       "word": "撃沈",
@@ -106,39 +131,14 @@
       "meaning": "sự đánh đắm tàu"
     },
     {
+      "word": "沈着",
+      "reading": "ちんちゃく",
+      "meaning": "bình tĩnh"
+    },
+    {
       "word": "沈静",
       "reading": "ちんせい",
       "meaning": "sự trầm tĩnh"
-    },
-    {
-      "word": "沈渣",
-      "reading": "ちんさ",
-      "meaning": "chứng ứ máu chỗ thấp"
-    },
-    {
-      "word": "沈思",
-      "reading": "ちんし",
-      "meaning": "sự trầm tư"
-    },
-    {
-      "word": "沈酔",
-      "reading": "ちんすい",
-      "meaning": "say bí tỉ"
-    },
-    {
-      "word": "沈滞",
-      "reading": "ちんたい",
-      "meaning": "sự đình trệ"
-    },
-    {
-      "word": "沈痛",
-      "reading": "ちんつう",
-      "meaning": "sự trầm ngâm"
-    },
-    {
-      "word": "沈澱",
-      "reading": "ちんでん",
-      "meaning": "sự kết tủa"
     }
   ]
 }

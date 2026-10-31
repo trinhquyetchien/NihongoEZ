@@ -76,11 +76,6 @@
       "meaning": "một giây nhuận"
     },
     {
-      "word": "正閏",
-      "reading": "せいじゅん",
-      "meaning": "bước nhảy và bình thường"
-    },
-    {
       "word": "閏日",
       "reading": "うるうび",
       "meaning": "nhảy qua ngày"
@@ -94,6 +89,11 @@
       "word": "閏月",
       "reading": "うるうづき",
       "meaning": "tháng nhuận"
+    },
+    {
+      "word": "正閏",
+      "reading": "せいじゅん",
+      "meaning": "bước nhảy và bình thường"
     }
   ]
 }

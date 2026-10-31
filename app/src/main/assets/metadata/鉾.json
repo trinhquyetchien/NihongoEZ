@@ -34,16 +34,6 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "鉾",
-      "reading": "ほこ",
-      "meaning": "cây kích"
-    },
-    {
-      "word": "山鉾",
-      "reading": "やまぼこ",
-      "meaning": "liên hoan thả nổi được gắn vào với một cây kích trang trí"
-    },
-    {
       "word": "蒲鉾",
       "reading": "かまぼこ",
       "meaning": "một loại chả cá của nhật bản"
@@ -52,6 +42,16 @@
       "word": "筋蒲鉾",
       "reading": "すじかまぼこ",
       "meaning": "món chả cá kamaboko được làm bằng cách trộn cơ cá với thịt"
+    },
+    {
+      "word": "鉾",
+      "reading": "ほこ",
+      "meaning": "cây kích"
+    },
+    {
+      "word": "山鉾",
+      "reading": "やまぼこ",
+      "meaning": "liên hoan thả nổi được gắn vào với một cây kích trang trí"
     },
     {
       "word": "長刀鉾",

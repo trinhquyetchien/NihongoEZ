@@ -89,24 +89,19 @@
   ],
   "vocabulary": [
     {
-      "word": "導",
-      "reading": "しるべ",
-      "meaning": "sự chỉ đường"
-    },
-    {
-      "word": "先導",
-      "reading": "せんどう",
-      "meaning": "sự chỉ đạo"
-    },
-    {
-      "word": "導尿",
-      "reading": "どうにょう",
-      "meaning": "thông tiểu"
-    },
-    {
       "word": "指導",
       "reading": "しどう",
       "meaning": "hướng dẫn"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaning": "sự đưa vào"
+    },
+    {
+      "word": "誘導",
+      "reading": "ゆうどう",
+      "meaning": "sự dẫn"
     },
     {
       "word": "主導",
@@ -114,29 +109,34 @@
       "meaning": "chủ đạo"
     },
     {
-      "word": "導因",
-      "reading": "どういん",
-      "meaning": "nguyên nhân xui khiến"
+      "word": "導く",
+      "reading": "みちびく",
+      "meaning": "đạo"
     },
     {
-      "word": "導体",
-      "reading": "どうたい",
-      "meaning": "chất dẫn"
+      "word": "指導的",
+      "reading": "しどうてき",
+      "meaning": "tính chỉ đạo"
     },
     {
-      "word": "導電",
-      "reading": "どうでん",
-      "meaning": "sự dẫn"
+      "word": "指導者",
+      "reading": "しどうしゃ",
+      "meaning": "lãnh tụ"
     },
     {
-      "word": "引導",
-      "reading": "いんどう",
-      "meaning": "lễ cầu siêu"
+      "word": "指導力",
+      "reading": "しどうりょく",
+      "meaning": "một có sự dẫn đầu"
     },
     {
-      "word": "導出",
-      "reading": "どうしゅつ",
-      "meaning": "xuất xứ"
+      "word": "導入部",
+      "reading": "どうにゅうぶ",
+      "meaning": "mục ghi vào"
+    },
+    {
+      "word": "指導部",
+      "reading": "しどうぶ",
+      "meaning": "bộ phận lãnh đạo"
     }
   ]
 }

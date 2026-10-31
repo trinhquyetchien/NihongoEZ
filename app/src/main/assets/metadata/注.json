@@ -91,14 +91,34 @@
   ],
   "vocabulary": [
     {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "sự chú ý"
+    },
+    {
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "sự tiêm"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "sự chú ý"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "việc đặt hàng"
+    },
+    {
       "word": "注",
       "reading": "ちゅう",
       "meaning": "chú"
     },
     {
-      "word": "注意を注ぐ",
-      "reading": "ちゅういをそそぐ",
-      "meaning": "chú ý"
+      "word": "注ぐ",
+      "reading": "そそぐ",
+      "meaning": "chuốc"
     },
     {
       "word": "要注意",
@@ -106,39 +126,19 @@
       "meaning": "sự chú ý cần thiết"
     },
     {
-      "word": "らく せき注意",
-      "reading": "落石注意",
-      "meaning": "cảnh báo có đá lở"
+      "word": "分注",
+      "reading": "ぶんちゅう",
+      "meaning": "chia ra"
     },
     {
-      "word": "脚注",
-      "reading": "きゃくちゅう",
-      "meaning": "lời chú cuối trang"
-    },
-    {
-      "word": "傾注",
-      "reading": "けいちゅう",
-      "meaning": "sự cống hiến"
-    },
-    {
-      "word": "注視",
-      "reading": "ちゅうし",
-      "meaning": "sự chú ý"
+      "word": "水注",
+      "reading": "すいちゅう",
+      "meaning": "phun nước"
     },
     {
       "word": "再注",
       "reading": "さいちゅう",
       "meaning": "giữa"
-    },
-    {
-      "word": "注進",
-      "reading": "ちゅうしん",
-      "meaning": "việc nhanh chóng báo cáo sự việc với cấp trên"
-    },
-    {
-      "word": "注力",
-      "reading": "ちゅうりょく",
-      "meaning": "sự tập trung vào"
     }
   ]
 }

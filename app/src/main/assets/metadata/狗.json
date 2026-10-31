@@ -50,24 +50,9 @@
   ],
   "vocabulary": [
     {
-      "word": "狗肉",
-      "reading": "くにく",
-      "meaning": "thịt chó"
-    },
-    {
       "word": "天狗",
       "reading": "てんぐ",
       "meaning": "người khoác lác"
-    },
-    {
-      "word": "走狗",
-      "reading": "そうく",
-      "meaning": "săn bằng chó"
-    },
-    {
-      "word": "天狗風",
-      "reading": "てんぐかぜ",
-      "meaning": "cơn lốc thình lình"
     },
     {
       "word": "天狗話",
@@ -75,19 +60,24 @@
       "meaning": "câu chuyện khoác lác"
     },
     {
-      "word": "烏天狗",
-      "reading": "からすてんぐ",
-      "meaning": "yêu tinh mỏ quạ"
+      "word": "天狗風",
+      "reading": "てんぐかぜ",
+      "meaning": "cơn lốc thình lình"
     },
     {
-      "word": "天狗茸",
-      "reading": "てんぐたけ",
-      "meaning": "nấm amanit"
+      "word": "海天狗",
+      "reading": "うみてんぐ",
+      "meaning": "cá rồng thân to"
     },
     {
-      "word": "狗尾草",
-      "reading": "えのころぐさ",
-      "meaning": "cỏ đuôi chồn"
+      "word": "天狗猿",
+      "reading": "てんぐざる",
+      "meaning": "khỉ vòi"
+    },
+    {
+      "word": "狗肉",
+      "reading": "くにく",
+      "meaning": "thịt chó"
     },
     {
       "word": "狗母魚",
@@ -95,9 +85,19 @@
       "meaning": "cá mối"
     },
     {
-      "word": "天狗猿",
-      "reading": "てんぐざる",
-      "meaning": "khỉ vòi"
+      "word": "天狗茸",
+      "reading": "てんぐたけ",
+      "meaning": "nấm amanit"
+    },
+    {
+      "word": "走狗",
+      "reading": "そうく",
+      "meaning": "săn bằng chó"
+    },
+    {
+      "word": "烏天狗",
+      "reading": "からすてんぐ",
+      "meaning": "yêu tinh mỏ quạ"
     }
   ]
 }

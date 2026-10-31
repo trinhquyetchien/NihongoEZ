@@ -105,54 +105,54 @@
   ],
   "vocabulary": [
     {
-      "word": "個",
-      "reading": "こ",
-      "meaning": "cái"
-    },
-    {
-      "word": "個個",
-      "reading": "ここ",
-      "meaning": "cá nhân"
-    },
-    {
-      "word": "個個に",
-      "reading": "ここに",
-      "meaning": "cá nhân"
-    },
-    {
-      "word": "個個人",
-      "reading": "ここじん",
-      "meaning": "một cá nhân"
-    },
-    {
-      "word": "個人個人",
-      "reading": "こじんこじん",
-      "meaning": "cá nhân"
-    },
-    {
-      "word": "個個別別",
-      "reading": "ここべつべつ",
-      "meaning": "mỗi một riêng rẽ"
-    },
-    {
-      "word": "一個一個",
-      "reading": "いっこいっこ",
-      "meaning": "từng cái từng cái một"
-    },
-    {
-      "word": "個利個略",
-      "reading": "こりこりゃく",
-      "meaning": "lợi thế cá nhân"
-    },
-    {
       "word": "個人",
       "reading": "こじん",
       "meaning": "cá nhân"
     },
     {
-      "word": "個室",
-      "reading": "こしつ",
-      "meaning": "tư gia"
+      "word": "個体",
+      "reading": "こたい",
+      "meaning": "cá thể"
+    },
+    {
+      "word": "個別",
+      "reading": "こべつ",
+      "meaning": "cá biệt"
+    },
+    {
+      "word": "個性",
+      "reading": "こせい",
+      "meaning": "cá tính"
+    },
+    {
+      "word": "個々",
+      "reading": "ここ",
+      "meaning": "từng... một"
+    },
+    {
+      "word": "個人的",
+      "reading": "こじんてき",
+      "meaning": "có tính chất chủ nghĩa cá nhân"
+    },
+    {
+      "word": "個人性",
+      "reading": "こじんせい",
+      "meaning": "tính cá nhân"
+    },
+    {
+      "word": "個",
+      "reading": "こ",
+      "meaning": "cái"
+    },
+    {
+      "word": "個人間",
+      "reading": "こじんかん",
+      "meaning": "mối quan hệ giữa người với người"
+    },
+    {
+      "word": "個人名",
+      "reading": "こじんめい",
+      "meaning": "tên cá nhân"
     }
   ]
 }

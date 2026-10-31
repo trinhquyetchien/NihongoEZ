@@ -91,9 +91,34 @@
   ],
   "vocabulary": [
     {
-      "word": "胡",
-      "reading": "こ",
-      "meaning": "người hồ"
+      "word": "胡椒",
+      "reading": "こしょう",
+      "meaning": "hồ tiêu"
+    },
+    {
+      "word": "長胡椒",
+      "reading": "ながこしょう",
+      "meaning": "tiêu dôi"
+    },
+    {
+      "word": "黒胡椒",
+      "reading": "くろこしょう",
+      "meaning": "ớt đen"
+    },
+    {
+      "word": "胡椒草",
+      "reading": "こしょうそう",
+      "meaning": "lepidium sativum"
+    },
+    {
+      "word": "塩胡椒",
+      "reading": "しおこしょう",
+      "meaning": "muối tiêu"
+    },
+    {
+      "word": "胡椒鯛",
+      "reading": "こしょうだい",
+      "meaning": "một chi cá trong họ haemulidae"
     },
     {
       "word": "胡蝶",
@@ -101,34 +126,9 @@
       "meaning": "con bướm"
     },
     {
-      "word": "胡椒",
-      "reading": "こしょう",
-      "meaning": "hồ tiêu"
-    },
-    {
-      "word": "胡桃",
-      "reading": "くるみ",
-      "meaning": "cây óc chó"
-    },
-    {
-      "word": "胡散",
-      "reading": "うさん",
-      "meaning": "đáng ngờ"
-    },
-    {
-      "word": "五胡",
-      "reading": "ごこ",
-      "meaning": "năm nhóm dân tộc độc lập xâm lược hoa bắc từ cuối thời tây tấn ở trung quốc"
-    },
-    {
-      "word": "四胡",
-      "reading": "しこ",
-      "meaning": "tứ hồ"
-    },
-    {
-      "word": "胡琴",
-      "reading": "こきん",
-      "meaning": "hồ cầm"
+      "word": "胡",
+      "reading": "こ",
+      "meaning": "người hồ"
     },
     {
       "word": "二胡",
@@ -136,9 +136,9 @@
       "meaning": "đàn nhị"
     },
     {
-      "word": "胡粉",
-      "reading": "ごふん",
-      "meaning": "phấn"
+      "word": "胡国",
+      "reading": "ここく",
+      "meaning": "rợ hồ"
     }
   ]
 }

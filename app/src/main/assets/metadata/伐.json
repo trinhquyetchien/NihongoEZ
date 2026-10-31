@@ -94,39 +94,19 @@
   ],
   "vocabulary": [
     {
-      "word": "伐",
-      "reading": "ばつ",
-      "meaning": "sự tấn công"
-    },
-    {
-      "word": "伐る",
-      "reading": "きる",
-      "meaning": "cắt"
-    },
-    {
       "word": "討伐",
       "reading": "とうばつ",
       "meaning": "sự chinh phạt"
     },
     {
-      "word": "伐木",
-      "reading": "ばつぼく",
-      "meaning": "việc đốn gỗ"
+      "word": "討伐軍",
+      "reading": "とうばつぐん",
+      "meaning": "quân thảo phạt"
     },
     {
-      "word": "伐倒",
-      "reading": "ばっとう",
-      "meaning": "sự đốn hạ"
-    },
-    {
-      "word": "伐つ",
-      "reading": "うつ",
-      "meaning": "tấn công"
-    },
-    {
-      "word": "征伐",
-      "reading": "せいばつ",
-      "meaning": "sự chinh phạt"
+      "word": "伐採",
+      "reading": "ばっさい",
+      "meaning": "việc chặt"
     },
     {
       "word": "殺伐",
@@ -134,14 +114,34 @@
       "meaning": "khát máu"
     },
     {
-      "word": "盗伐",
-      "reading": "とうばつ",
-      "meaning": "sự chặt trộm"
+      "word": "征伐",
+      "reading": "せいばつ",
+      "meaning": "sự chinh phạt"
     },
     {
-      "word": "誅伐",
-      "reading": "ちゅうばつ",
-      "meaning": "sự tấn công tội phạm"
+      "word": "伐",
+      "reading": "ばつ",
+      "meaning": "sự tấn công"
+    },
+    {
+      "word": "皆伐",
+      "reading": "かいばつ",
+      "meaning": "khai phạt"
+    },
+    {
+      "word": "傘伐林",
+      "reading": "さんばつりん",
+      "meaning": "rừng shelterwood"
+    },
+    {
+      "word": "伐倒",
+      "reading": "ばっとう",
+      "meaning": "sự đốn hạ"
+    },
+    {
+      "word": "間伐",
+      "reading": "かんばつ",
+      "meaning": "tỉa thưa"
     }
   ]
 }

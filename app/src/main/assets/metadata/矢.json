@@ -106,14 +106,39 @@
   ],
   "vocabulary": [
     {
+      "word": "矢印",
+      "reading": "やじるし",
+      "meaning": "mũi tên chỉ hướng"
+    },
+    {
       "word": "矢",
       "reading": "や",
       "meaning": "mũi tên"
     },
     {
-      "word": "矢偏",
-      "reading": "やへん",
-      "meaning": "bộ thủ 矢 tri nằm bên trái các chữ triđoảnkiểu"
+      "word": "数矢",
+      "reading": "かずや",
+      "meaning": "số lượng mũi tên"
+    },
+    {
+      "word": "矢線",
+      "reading": "やせん",
+      "meaning": "đường mũi tên"
+    },
+    {
+      "word": "矢師",
+      "reading": "やし",
+      "meaning": "thợ rèn"
+    },
+    {
+      "word": "四矢",
+      "reading": "よつや",
+      "meaning": "bốn mũi tên"
+    },
+    {
+      "word": "矢石",
+      "reading": "しせき",
+      "meaning": "viên đá nhọn"
     },
     {
       "word": "矢状",
@@ -121,39 +146,14 @@
       "meaning": "dọc giữa"
     },
     {
-      "word": "矢板",
-      "reading": "やいた",
-      "meaning": "cọc ván thép/ ván cừ larsen"
-    },
-    {
-      "word": "遠矢",
-      "reading": "とおや",
-      "meaning": "sự bắn tên ra xa"
-    },
-    {
-      "word": "嚆矢",
-      "reading": "こうし",
-      "meaning": "sự khởi đầu"
-    },
-    {
-      "word": "矢車",
-      "reading": "やぐるま",
-      "meaning": "chong chóng gió"
-    },
-    {
       "word": "矢虫",
       "reading": "やむし",
       "meaning": "sâu róm"
     },
     {
-      "word": "矢竹",
-      "reading": "やだけ",
-      "meaning": "mũi tên tre"
-    },
-    {
-      "word": "矢鱈",
-      "reading": "やたら",
-      "meaning": "vô cùng"
+      "word": "矢羽",
+      "reading": "やばね",
+      "meaning": "những lông chim mũi tên"
     }
   ]
 }

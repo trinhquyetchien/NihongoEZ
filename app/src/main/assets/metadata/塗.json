@@ -91,24 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "塗膜",
-      "reading": "とまく",
-      "meaning": "màng sơn"
-    },
-    {
-      "word": "血塗",
-      "reading": "ちみどろ",
-      "meaning": "nhuốm máu"
-    },
-    {
       "word": "塗る",
       "reading": "ぬる",
       "meaning": "bôi"
-    },
-    {
-      "word": "塗れ",
-      "reading": "まみれ",
-      "meaning": "phủ đầy"
     },
     {
       "word": "塗り",
@@ -116,29 +101,44 @@
       "meaning": "phủ sơn"
     },
     {
-      "word": "塗工",
-      "reading": "とこう",
-      "meaning": "họa sĩ"
-    },
-    {
-      "word": "中塗",
+      "word": "中塗り",
       "reading": "なかぬり",
       "meaning": "sơn lớp giữa"
     },
     {
-      "word": "塗炭",
-      "reading": "とたん",
-      "meaning": "cảnh nghèo khổ"
+      "word": "地塗り",
+      "reading": "じぬり",
+      "meaning": "lớp sơn lót"
     },
     {
-      "word": "塗抹",
-      "reading": "とまつ",
-      "meaning": "làm mờ"
+      "word": "白塗り",
+      "reading": "しろぬり",
+      "meaning": "sơn màu trắng"
     },
     {
-      "word": "上塗",
-      "reading": "うわぬり",
-      "meaning": "lần cuối trát vữa áo choàng"
+      "word": "黒塗り",
+      "reading": "くろぬり",
+      "meaning": "sự làm đen"
+    },
+    {
+      "word": "塗り壁",
+      "reading": "ぬりかべ",
+      "meaning": "tường sơn"
+    },
+    {
+      "word": "壁塗り",
+      "reading": "かべぬり",
+      "meaning": "việc trát vữa"
+    },
+    {
+      "word": "塗装",
+      "reading": "とそう",
+      "meaning": "lớp sơn bên ngoài"
+    },
+    {
+      "word": "厚塗り",
+      "reading": "あつぬり",
+      "meaning": "lớp sơn dày"
     }
   ]
 }

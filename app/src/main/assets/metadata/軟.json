@@ -107,44 +107,29 @@
   ],
   "vocabulary": [
     {
-      "word": "軟",
-      "reading": "なん",
-      "meaning": "mềm mại"
-    },
-    {
-      "word": "膝蓋軟骨軟化症",
-      "reading": "しつがいなんこつなんかしょう",
-      "meaning": "bệnh chondromalacia patellae"
-    },
-    {
       "word": "柔軟",
       "reading": "じゅうなん",
       "meaning": "mềm dẻo"
     },
     {
-      "word": "軟木",
-      "reading": "なんぼく",
-      "meaning": "gỗ mềm"
+      "word": "柔軟性",
+      "reading": "じゅうなんせい",
+      "meaning": "tính mềm dẻo"
     },
     {
-      "word": "軟水",
-      "reading": "なんすい",
-      "meaning": "nước mềm"
+      "word": "柔軟剤",
+      "reading": "じゅうなんざい",
+      "meaning": "làm mềm vải"
     },
     {
-      "word": "軟膜",
-      "reading": "なんまく",
-      "meaning": "màng mềm"
+      "word": "軟式",
+      "reading": "なんしき",
+      "meaning": "sự chơi bằng bóng mềm"
     },
     {
-      "word": "軟条",
-      "reading": "なんじょう",
-      "meaning": "tia mềm"
-    },
-    {
-      "word": "軟玉",
-      "reading": "なんぎょく",
-      "meaning": "nefrit"
+      "word": "軟骨",
+      "reading": "なんこつ",
+      "meaning": "sụn"
     },
     {
       "word": "軟弱",
@@ -152,9 +137,24 @@
       "meaning": "mềm yếu"
     },
     {
-      "word": "軟式",
-      "reading": "なんしき",
-      "meaning": "sự chơi bằng bóng mềm"
+      "word": "軟膏",
+      "reading": "なんこう",
+      "meaning": "thuốc mỡ"
+    },
+    {
+      "word": "軟膏剤",
+      "reading": "なんこうざい",
+      "meaning": "thuốc mỡ"
+    },
+    {
+      "word": "眼軟膏",
+      "reading": "がんなんこう",
+      "meaning": "thuốc mỡ bôi mắt"
+    },
+    {
+      "word": "軟骨腫",
+      "reading": "なんこつしゅ",
+      "meaning": "chondroma"
     }
   ]
 }

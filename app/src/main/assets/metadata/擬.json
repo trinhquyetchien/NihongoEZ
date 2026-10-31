@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "擬",
-      "reading": "もどき",
-      "meaning": "nghi ngờ"
-    },
-    {
-      "word": "擬く",
-      "reading": "もどく",
-      "meaning": "chỉ trích"
-    },
-    {
       "word": "擬人",
       "reading": "ぎじん",
       "meaning": "sự hiện thân"
     },
     {
-      "word": "擬制",
-      "reading": "ぎせい",
-      "meaning": "điều tưởng tượng hợp pháp"
+      "word": "擬人化",
+      "reading": "ぎじんか",
+      "meaning": "sự nhân cách hoá"
     },
     {
-      "word": "擬き",
-      "reading": "もどき",
-      "meaning": "bắt chước"
+      "word": "擬人法",
+      "reading": "ぎしんほう",
+      "meaning": "sự nhân cách hoá"
     },
     {
-      "word": "擬餌",
+      "word": "模擬",
+      "reading": "もぎ",
+      "meaning": "sự giả vờ"
+    },
+    {
+      "word": "模擬店",
+      "reading": "もぎてん",
+      "meaning": "nơi bày bán các loại thực phẩm như ở trường học"
+    },
+    {
+      "word": "模擬戦",
+      "reading": "もぎせん",
+      "meaning": "giả bộ trận đánh"
+    },
+    {
+      "word": "擬似",
       "reading": "ぎじ",
-      "meaning": "mồi giả"
+      "meaning": "nghi ngờ"
     },
     {
-      "word": "擬娩",
-      "reading": "ぎべん",
-      "meaning": "hội chứng mang thai đồng cảm"
+      "word": "擬態",
+      "reading": "ぎたい",
+      "meaning": "sự ngụy trang"
     },
     {
-      "word": "蠍擬",
-      "reading": "さそりもどき",
-      "meaning": "̣bọ cạp"
+      "word": "擬音",
+      "reading": "ぎおん",
+      "meaning": "sự bắt chước âm thanh"
     },
     {
-      "word": "擬す",
-      "reading": "ぎす",
-      "meaning": "xem như"
-    },
-    {
-      "word": "擬い",
-      "reading": "まがい",
-      "meaning": "sự bắt chước"
+      "word": "擬音語",
+      "reading": "ぎおんご",
+      "meaning": "từ tượng thanh"
     }
   ]
 }

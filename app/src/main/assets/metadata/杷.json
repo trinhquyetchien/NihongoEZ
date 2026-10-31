@@ -36,11 +36,6 @@
       "meaning": "cây sơn trà nhật"
     },
     {
-      "word": "竹杷",
-      "reading": "さらい",
-      "meaning": "cái cào của nông dân"
-    },
-    {
       "word": "山枇杷",
       "reading": "やまびわ",
       "meaning": "một loài cây gỗ mọc ở vùng núi"
@@ -49,6 +44,11 @@
       "word": "犬枇杷",
       "reading": "いぬびわ",
       "meaning": "họ moraceae"
+    },
+    {
+      "word": "竹杷",
+      "reading": "さらい",
+      "meaning": "cái cào của nông dân"
     }
   ]
 }

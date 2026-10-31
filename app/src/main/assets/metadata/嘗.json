@@ -86,19 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "嘗め",
-      "reading": "なめ",
-      "meaning": "liếm"
-    },
-    {
       "word": "嘗て",
       "reading": "かつて",
       "meaning": "đã có một thời"
     },
     {
-      "word": "嘗糞",
-      "reading": "しょうふん",
-      "meaning": "sự nịnh nọt quá mức"
+      "word": "嘗め",
+      "reading": "なめ",
+      "meaning": "liếm"
     },
     {
       "word": "嘗める",
@@ -109,6 +104,11 @@
       "word": "神嘗祭",
       "reading": "かんなめさい",
       "meaning": "lễ tế thần"
+    },
+    {
+      "word": "嘗糞",
+      "reading": "しょうふん",
+      "meaning": "sự nịnh nọt quá mức"
     },
     {
       "word": "総嘗め",

@@ -86,29 +86,14 @@
   ],
   "vocabulary": [
     {
-      "word": "宙",
-      "reading": "ちゅう",
-      "meaning": "không trung"
-    },
-    {
       "word": "宇宙",
       "reading": "うちゅう",
       "meaning": "vòm trời"
     },
     {
-      "word": "航宙",
-      "reading": "こうちゅう",
-      "meaning": "sự bay vào vũ trụ"
-    },
-    {
-      "word": "バク宙",
-      "reading": "バクちゅう",
-      "meaning": "lộn ngược"
-    },
-    {
-      "word": "宙域",
-      "reading": "ちゅういき",
-      "meaning": "khu vực không gian"
+      "word": "宙返り",
+      "reading": "ちゅうがえり",
+      "meaning": "cú nhào lộn"
     },
     {
       "word": "宇宙人",
@@ -116,24 +101,39 @@
       "meaning": "người ngoài hành tinh"
     },
     {
-      "word": "宇宙ステーション",
-      "reading": "うちゅうステーション",
-      "meaning": "trạm không gian"
-    },
-    {
-      "word": "宇宙像",
-      "reading": "うちゅうぞう",
-      "meaning": "hình ảnh vũ trụ"
-    },
-    {
-      "word": "宇宙局",
-      "reading": "うちゅうきょく",
-      "meaning": "trạm vũ trụ"
-    },
-    {
       "word": "大宇宙",
       "reading": "だいうちゅう",
       "meaning": "vũ trụ"
+    },
+    {
+      "word": "外宇宙",
+      "reading": "がいうちゅう",
+      "meaning": "không gian bên ngoài"
+    },
+    {
+      "word": "宇宙法",
+      "reading": "うちゅうほう",
+      "meaning": "luật vũ trụ"
+    },
+    {
+      "word": "全宇宙",
+      "reading": "ぜんうちゅう",
+      "meaning": "toàn bộ vũ trụ"
+    },
+    {
+      "word": "宇宙線",
+      "reading": "うちゅうせん",
+      "meaning": "tia vũ trụ"
+    },
+    {
+      "word": "宇宙服",
+      "reading": "うちゅうふく",
+      "meaning": "quần áo phi hành gia"
+    },
+    {
+      "word": "宇宙観",
+      "reading": "うちゅうかん",
+      "meaning": "vũ trụ quan"
     }
   ]
 }

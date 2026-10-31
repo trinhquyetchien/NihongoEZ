@@ -107,19 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "整理整頓",
-      "reading": "せいりせいとん",
-      "meaning": "giữ mọi thứ gọn gàng và theo thứ tự"
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sự chỉnh lý"
     },
     {
-      "word": "整然",
-      "reading": "せいぜん",
-      "meaning": "ngăn nắp"
-    },
-    {
-      "word": "整列",
-      "reading": "せいれつ",
-      "meaning": "sự xếp thành hàng"
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "điều chỉnh"
     },
     {
       "word": "整備",
@@ -127,34 +122,39 @@
       "meaning": "sự bảo trì"
     },
     {
-      "word": "均整",
-      "reading": "きんせい",
-      "meaning": "sự cân xứng"
-    },
-    {
-      "word": "整体",
-      "reading": "せいたい",
-      "meaning": "sự chữa bệnh bằng phương pháp nắn khớp xương"
-    },
-    {
-      "word": "端整",
-      "reading": "たんせい",
-      "meaning": "đẹp"
-    },
-    {
-      "word": "整形",
-      "reading": "せいけい",
-      "meaning": "thuật chỉnh hình"
-    },
-    {
       "word": "整数",
       "reading": "せいすう",
       "meaning": "số nguyên"
     },
     {
-      "word": "整流",
-      "reading": "せいりゅう",
-      "meaning": "chỉnh lưu"
+      "word": "整う",
+      "reading": "ととのう",
+      "meaning": "được chuẩn bị"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "sự xếp thành hàng"
+    },
+    {
+      "word": "整然",
+      "reading": "せいぜん",
+      "meaning": "ngăn nắp"
+    },
+    {
+      "word": "整備性",
+      "reading": "せいびせい",
+      "meaning": "khả năng sửa chữa"
+    },
+    {
+      "word": "調整役",
+      "reading": "ちょうせいやく",
+      "meaning": "điều phối viên"
+    },
+    {
+      "word": "調整値",
+      "reading": "ちょうせいち",
+      "meaning": "giá đã điều chỉnh"
     }
   ]
 }

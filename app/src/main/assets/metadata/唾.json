@@ -90,39 +90,9 @@
       "meaning": "nước bọt"
     },
     {
-      "word": "眉唾",
-      "reading": "まゆつば",
-      "meaning": "không xác thực"
-    },
-    {
-      "word": "固唾",
-      "reading": "かたず",
-      "meaning": "nuốt nước bọt"
-    },
-    {
-      "word": "唾壷",
-      "reading": "だこ",
-      "meaning": "ống nhổ"
-    },
-    {
-      "word": "生唾",
-      "reading": "なまつば",
-      "meaning": "nước bọt"
-    },
-    {
-      "word": "唾棄",
-      "reading": "だき",
-      "meaning": "sự khạc nhổ"
-    },
-    {
-      "word": "唾液",
-      "reading": "だえき",
-      "meaning": "nước bọt"
-    },
-    {
-      "word": "唾腺",
-      "reading": "だせん",
-      "meaning": "tuyến nước bọt"
+      "word": "唾する",
+      "reading": "つばする",
+      "meaning": "nhổ nước bọt"
     },
     {
       "word": "唾く",
@@ -130,9 +100,39 @@
       "meaning": "khạc nhổ"
     },
     {
-      "word": "痰唾",
-      "reading": "たんつば",
-      "meaning": "đờm"
+      "word": "唾石",
+      "reading": "つばいし",
+      "meaning": "sỏi nước bọt"
+    },
+    {
+      "word": "唾液",
+      "reading": "だえき",
+      "meaning": "nước bọt"
+    },
+    {
+      "word": "全唾液",
+      "reading": "ぜんだえき",
+      "meaning": "toàn bộ nước bọt"
+    },
+    {
+      "word": "唾液管",
+      "reading": "だえきかん",
+      "meaning": "ống dẫn tuyến nước bọt"
+    },
+    {
+      "word": "眉唾",
+      "reading": "まゆつば",
+      "meaning": "không xác thực"
+    },
+    {
+      "word": "唾壷",
+      "reading": "だこ",
+      "meaning": "ống nhổ"
+    },
+    {
+      "word": "排唾管",
+      "reading": "はいだかん",
+      "meaning": "ống thoát nước"
     }
   ]
 }

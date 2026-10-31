@@ -125,24 +125,9 @@
   ],
   "vocabulary": [
     {
-      "word": "落",
-      "reading": "おち",
-      "meaning": "rơi"
-    },
-    {
-      "word": "落ち落ち",
-      "reading": "おちおち",
-      "meaning": "yên lặng"
-    },
-    {
-      "word": "落つ",
-      "reading": "おつ",
-      "meaning": "rơi xuống"
-    },
-    {
-      "word": "脱落",
-      "reading": "だつらく",
-      "meaning": "tụt lại"
+      "word": "洒落",
+      "reading": "しゃれ",
+      "meaning": "sự nói đùa"
     },
     {
       "word": "落第",
@@ -155,14 +140,19 @@
       "meaning": "truyện cười"
     },
     {
-      "word": "落屑",
-      "reading": "らくせつ",
-      "meaning": "sự tróc vảy"
-    },
-    {
       "word": "集落",
       "reading": "しゅうらく",
       "meaning": "làng"
+    },
+    {
+      "word": "脱落",
+      "reading": "だつらく",
+      "meaning": "tụt lại"
+    },
+    {
+      "word": "陥落",
+      "reading": "かんらく",
+      "meaning": "sự bị thụt xuống"
     },
     {
       "word": "欠落",
@@ -170,9 +160,19 @@
       "meaning": "thiếu một phần"
     },
     {
-      "word": "陥落",
-      "reading": "かんらく",
-      "meaning": "sự bị thụt xuống"
+      "word": "落",
+      "reading": "おち",
+      "meaning": "rơi"
+    },
+    {
+      "word": "耳落",
+      "reading": "みみおち",
+      "meaning": "cắt mép"
+    },
+    {
+      "word": "平落",
+      "reading": "ひらおち",
+      "meaning": "bánh đa"
     }
   ]
 }

@@ -85,24 +85,24 @@
   ],
   "vocabulary": [
     {
+      "word": "余韻",
+      "reading": "よいん",
+      "meaning": "dư âm"
+    },
+    {
       "word": "韻",
       "reading": "いん",
       "meaning": "vần điệu"
     },
     {
-      "word": "韻語",
-      "reading": "いんご",
-      "meaning": "vận ngữ"
+      "word": "韻母",
+      "reading": "いんぼ",
+      "meaning": "chung cuộc"
     },
     {
-      "word": "畳韻",
-      "reading": "じょういん",
-      "meaning": "lặp lại những vần"
-    },
-    {
-      "word": "切韻",
-      "reading": "せついん",
-      "meaning": "qieyun"
+      "word": "類韻",
+      "reading": "るいいん",
+      "meaning": "sự trùng âm"
     },
     {
       "word": "韻尾",
@@ -110,29 +110,29 @@
       "meaning": "yunwei"
     },
     {
-      "word": "韻字",
-      "reading": "いんじ",
-      "meaning": "những từ âm vần"
+      "word": "切韻",
+      "reading": "せついん",
+      "meaning": "qieyun"
     },
     {
-      "word": "韻脚",
-      "reading": "いんきゃく",
-      "meaning": "vần luật ở cuối câu"
-    },
-    {
-      "word": "押韻",
-      "reading": "おういん",
-      "meaning": "sự gieo vần"
-    },
-    {
-      "word": "韻事",
-      "reading": "いんじ",
-      "meaning": "sự theo đuổi nghệ thuật"
+      "word": "芳韻",
+      "reading": "ほういん",
+      "meaning": "bài thơ vần điệu trung quốc"
     },
     {
       "word": "音韻",
       "reading": "おんいん",
       "meaning": "âm vị"
+    },
+    {
+      "word": "音韻学",
+      "reading": "おんいんがく",
+      "meaning": "ngữ âm học"
+    },
+    {
+      "word": "音韻論",
+      "reading": "おんいんろん",
+      "meaning": "âm vị học"
     }
   ]
 }

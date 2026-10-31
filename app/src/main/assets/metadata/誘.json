@@ -90,39 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "誘発",
-      "reading": "ゆうはつ",
-      "meaning": "gây ra"
+      "word": "誘う",
+      "reading": "さそう",
+      "meaning": "dụ"
     },
     {
-      "word": "誘因",
-      "reading": "ゆういん",
-      "meaning": "sự khuyến khích"
-    },
-    {
-      "word": "誘致",
-      "reading": "ゆうち",
-      "meaning": "sự hấp dẫn"
-    },
-    {
-      "word": "誘爆",
-      "reading": "ゆうばく",
-      "meaning": "sự dẫn nổ"
-    },
-    {
-      "word": "誘引",
-      "reading": "ゆういん",
-      "meaning": "sự rủ rê"
-    },
-    {
-      "word": "誘殺",
-      "reading": "ゆうさつ",
-      "meaning": "sự rủ rê giết chóc"
-    },
-    {
-      "word": "誘電",
-      "reading": "ゆうでん",
-      "meaning": "điện môi"
+      "word": "誘導",
+      "reading": "ゆうどう",
+      "meaning": "sự dẫn"
     },
     {
       "word": "誘惑",
@@ -130,14 +105,39 @@
       "meaning": "sự quyến rũ"
     },
     {
-      "word": "誘う",
-      "reading": "さそう",
-      "meaning": "dụ"
+      "word": "勧誘",
+      "reading": "かんゆう",
+      "meaning": "sự khuyên bảo"
     },
     {
-      "word": "誘い",
-      "reading": "さそい",
-      "meaning": "sự mời"
+      "word": "誘導性",
+      "reading": "ゆうどうせい",
+      "meaning": "tính cảm ứng"
+    },
+    {
+      "word": "誘導子",
+      "reading": "ゆうどうし",
+      "meaning": "phần cảm điện"
+    },
+    {
+      "word": "誘導員",
+      "reading": "ゆうどういん",
+      "meaning": "người hướng dẫn giao thông"
+    },
+    {
+      "word": "誘導弾",
+      "reading": "ゆうどうだん",
+      "meaning": "tên lửa điều khiển"
+    },
+    {
+      "word": "誘惑的",
+      "reading": "ゆうわくてき",
+      "meaning": "lôi cuốn"
+    },
+    {
+      "word": "誘惑物",
+      "reading": "ゆうわくもの",
+      "meaning": "cò mồi"
     }
   ]
 }

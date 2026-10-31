@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "菓",
-      "reading": "か",
-      "meaning": "hoa quả"
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaning": "bánh kẹo"
     },
     {
-      "word": "糖菓",
-      "reading": "とうか",
-      "meaning": "bánh trái"
+      "word": "菓子",
+      "reading": "かし",
+      "meaning": "bánh kẹo"
     },
     {
-      "word": "米菓",
-      "reading": "べいか",
-      "meaning": "bánh gạo"
+      "word": "上菓子",
+      "reading": "じょうがし",
+      "meaning": "bánh kẹo thượng hạng"
     },
     {
-      "word": "茶菓",
-      "reading": "さか",
-      "meaning": "chè và hoa quả"
+      "word": "菓子屋",
+      "reading": "かしや",
+      "meaning": "cửa hàng bánh kẹo"
     },
     {
-      "word": "氷菓",
-      "reading": "ひょうか",
-      "meaning": "các món làm từ đá lạnh"
+      "word": "米菓子",
+      "reading": "こめがし",
+      "meaning": "các loại bánh kẹo làm từ gạo"
     },
     {
-      "word": "乳菓",
-      "reading": "にゅうか",
-      "meaning": "kẹo sữa"
+      "word": "主菓子",
+      "reading": "おもがし",
+      "meaning": "bánh kẹo dùng cùng với trà nhật"
     },
     {
-      "word": "製菓",
-      "reading": "せいか",
-      "meaning": "sản xuất bánh kẹo"
+      "word": "菓子器",
+      "reading": "かしき",
+      "meaning": "hộp đựng bánh kẹo"
     },
     {
-      "word": "粗菓",
-      "reading": "そか",
-      "meaning": "từ khiêm tốn khi tặng hoặc giới thiệu bánh kẹo cho người khác"
+      "word": "菓子箱",
+      "reading": "かしばこ",
+      "meaning": "hộp kẹo"
     },
     {
-      "word": "銘菓",
-      "reading": "めいか",
-      "meaning": "bánh ngọt cao cấp mang nhãn hiệu nổi tiếng"
+      "word": "御菓子",
+      "reading": "おかし",
+      "meaning": "bánh kẹo"
     },
     {
-      "word": "名菓",
-      "reading": "めいか",
-      "meaning": "bánh ngon nổi tiếng"
+      "word": "菓子袋",
+      "reading": "かしふくろ",
+      "meaning": "túi đựng đồ ngọt"
     }
   ]
 }

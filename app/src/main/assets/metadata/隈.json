@@ -54,19 +54,14 @@
   ],
   "vocabulary": [
     {
-      "word": "隈",
-      "reading": "くま",
-      "meaning": "quầng thâm"
-    },
-    {
       "word": "界隈",
       "reading": "かいわい",
       "meaning": "hàng xóm"
     },
     {
-      "word": "藍隈",
-      "reading": "あいぐま",
-      "meaning": "trang điểm màu xanh chàm được sử dụng trong nghệ thuật múa hát của nhật bản"
+      "word": "隈",
+      "reading": "くま",
+      "meaning": "quầng thâm"
     },
     {
       "word": "隈なく",
@@ -79,14 +74,19 @@
       "meaning": "để làm lên trên"
     },
     {
-      "word": "隈取り",
-      "reading": "くまどり",
-      "meaning": "cạo râu"
-    },
-    {
       "word": "隈無く",
       "reading": "くまなく",
       "meaning": "ở mọi nơi"
+    },
+    {
+      "word": "藍隈",
+      "reading": "あいぐま",
+      "meaning": "trang điểm màu xanh chàm được sử dụng trong nghệ thuật múa hát của nhật bản"
+    },
+    {
+      "word": "隈取り",
+      "reading": "くまどり",
+      "meaning": "cạo râu"
     }
   ]
 }

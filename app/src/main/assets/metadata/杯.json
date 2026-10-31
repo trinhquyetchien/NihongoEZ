@@ -106,31 +106,6 @@
   ],
   "vocabulary": [
     {
-      "word": "杯",
-      "reading": "さかずき",
-      "meaning": "cốc"
-    },
-    {
-      "word": "一杯一杯",
-      "reading": "いっぱいいっぱい",
-      "meaning": "giới hạn có thể thực hiện được"
-    },
-    {
-      "word": "Ｗ杯",
-      "reading": "ダブリューはい",
-      "meaning": "cúp thế giới"
-    },
-    {
-      "word": "アジア杯",
-      "reading": "アジアはい",
-      "meaning": "cúp châu á"
-    },
-    {
-      "word": "祝杯",
-      "reading": "しゅくはい",
-      "meaning": "chúc rượu"
-    },
-    {
       "word": "一杯",
       "reading": "いっぱい",
       "meaning": "đầy"
@@ -141,19 +116,44 @@
       "meaning": "cạn cốc"
     },
     {
-      "word": "苦杯",
-      "reading": "くはい",
-      "meaning": "kinh nghiệm cay đắng"
+      "word": "杯",
+      "reading": "さかずき",
+      "meaning": "cốc"
     },
     {
-      "word": "金杯",
-      "reading": "きんぱい",
-      "meaning": "cúp vàng"
+      "word": "杯分",
+      "reading": "はいぶん",
+      "meaning": "tô"
     },
     {
-      "word": "銀杯",
-      "reading": "ぎんぱい",
-      "meaning": "cúp bạc"
+      "word": "目一杯",
+      "reading": "めいっぱい",
+      "meaning": "với tất cả một có có thể"
+    },
+    {
+      "word": "Ｗ杯",
+      "reading": "ダブリューはい",
+      "meaning": "cúp thế giới"
+    },
+    {
+      "word": "w杯",
+      "reading": "ダブルはい",
+      "meaning": "cúp bóng đá thế giới"
+    },
+    {
+      "word": "三杯",
+      "reading": "さんばい",
+      "meaning": "3 ly/ chén"
+    },
+    {
+      "word": "薬杯",
+      "reading": "くすりはい",
+      "meaning": "cốc đong thuốc"
+    },
+    {
+      "word": "天杯",
+      "reading": "てんぱい",
+      "meaning": "cúp thưởng của thiên hoàng"
     }
   ]
 }

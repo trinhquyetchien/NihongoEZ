@@ -111,39 +111,19 @@
       "meaning": "ngao"
     },
     {
-      "word": "かいがら 貝殼",
-      "reading": "貝殼",
-      "meaning": "vỏ sò"
+      "word": "生貝",
+      "reading": "なまがい",
+      "meaning": "thịt tươi"
     },
     {
-      "word": "籬貝",
-      "reading": "まがきがい",
-      "meaning": "động vật có vỏ"
+      "word": "貝部",
+      "reading": "ばいぶ",
+      "meaning": "bộ vỏ"
     },
     {
-      "word": "ニタリ貝",
-      "reading": "ニタリがい",
-      "meaning": "trai hàn quốc"
-    },
-    {
-      "word": "貽貝",
-      "reading": "いがい",
-      "meaning": "con vẹm triều tiên"
-    },
-    {
-      "word": "笠貝",
-      "reading": "かさがい",
-      "meaning": "ốc nón"
-    },
-    {
-      "word": "紫貝",
-      "reading": "むらさきがい",
-      "meaning": "trai địa trung hải"
-    },
-    {
-      "word": "姥貝",
-      "reading": "うばがい",
-      "meaning": "sò đỏ"
+      "word": "花貝",
+      "reading": "はながい",
+      "meaning": "sò hoa"
     },
     {
       "word": "バカ貝",
@@ -151,9 +131,29 @@
       "meaning": "con nghêu"
     },
     {
+      "word": "貝割",
+      "reading": "かいわり",
+      "meaning": "mầm cây"
+    },
+    {
+      "word": "魚貝",
+      "reading": "ぎょかい",
+      "meaning": "câu cá và loài sò hến"
+    },
+    {
       "word": "鳥貝",
       "reading": "とりがい",
       "meaning": "một sò"
+    },
+    {
+      "word": "玉貝",
+      "reading": "たまがい",
+      "meaning": "ốc mặt trăng"
+    },
+    {
+      "word": "角貝",
+      "reading": "つのがい",
+      "meaning": "vỏ ngà voi"
     }
   ]
 }

@@ -95,14 +95,24 @@
       "meaning": "muông thú"
     },
     {
-      "word": "獣医",
-      "reading": "じゅうい",
-      "meaning": "thú y"
-    },
-    {
       "word": "怪獣",
       "reading": "かいじゅう",
       "meaning": "quái thú"
+    },
+    {
+      "word": "獣人",
+      "reading": "じゅうじん",
+      "meaning": "người thú"
+    },
+    {
+      "word": "人獣",
+      "reading": "じんじゅう",
+      "meaning": "nửa người nửa thú"
+    },
+    {
+      "word": "獣的",
+      "reading": "じゅうてき",
+      "meaning": "súc vật"
     },
     {
       "word": "神獣",
@@ -110,34 +120,24 @@
       "meaning": "thần thú"
     },
     {
-      "word": "獣性",
-      "reading": "じゅうせい",
-      "meaning": "thú tính"
+      "word": "獣道",
+      "reading": "けものみち",
+      "meaning": "đường mòn do động vật đi lại"
     },
     {
-      "word": "幻獣",
-      "reading": "げんじゅう",
-      "meaning": "sinh vật huyền bí"
+      "word": "四獣",
+      "reading": "しじゅう",
+      "meaning": "bốn con thú"
     },
     {
-      "word": "瑞獣",
-      "reading": "ずいじゅう",
-      "meaning": "thụy thú"
+      "word": "石獣",
+      "reading": "せきじゅう",
+      "meaning": "tượng đá hình thú"
     },
     {
-      "word": "聖獣",
-      "reading": "せいじゅう",
-      "meaning": "linh thú"
-    },
-    {
-      "word": "禽獣",
-      "reading": "きんじゅう",
-      "meaning": "chim thú"
-    },
-    {
-      "word": "獣毛",
-      "reading": "じゅうもう",
-      "meaning": "lông động vật"
+      "word": "半獣",
+      "reading": "はんじゅう",
+      "meaning": "nửa người nửa thú"
     }
   ]
 }

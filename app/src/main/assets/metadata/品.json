@@ -90,19 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "bản đàn"
+    },
+    {
       "word": "品",
       "reading": "ひん",
       "meaning": "phong độ"
     },
     {
-      "word": "品品",
-      "reading": "しなじな",
-      "meaning": "nhiều mục"
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaning": "hàng"
     },
     {
-      "word": "食品品質",
-      "reading": "しょくひんひんしつ",
-      "meaning": "chất lượng thực phẩm"
+      "word": "手品",
+      "reading": "てじな",
+      "meaning": "trò chơi"
     },
     {
       "word": "下品",
@@ -110,34 +115,29 @@
       "meaning": "sản phẩm kém chất lượng"
     },
     {
-      "word": "小品",
+      "word": "賞品",
       "reading": "しょうひん",
-      "meaning": "tác phẩm quy mô nhỏ như tranh vẽ"
+      "meaning": "phần thưởng"
     },
     {
-      "word": "シュリンク用品交換部品",
-      "reading": "シュリンクようひんこうかんぶひん",
-      "meaning": "bộ phận thay thế cho việc co nhiệt"
-    },
-    {
-      "word": "物品棚/収納用品",
-      "reading": "ぶっぴんたな/しゅうのうようひん",
-      "meaning": "kệ đồ/đồ dùng để lưu trữ"
-    },
-    {
-      "word": "補助用品関連品",
-      "reading": "ほじょようひんかんれんひん",
-      "meaning": "sản phẩm liên quan đến vật tư hỗ trợ"
-    },
-    {
-      "word": "アメリカ食品医薬品局",
-      "reading": "アメリカしょくひんいやくひんきょく",
-      "meaning": "cục quản lý thực phẩm và dược phẩm hoa kỳ"
+      "word": "出品",
+      "reading": "しゅっぴん",
+      "meaning": "sự trưng bày"
     },
     {
       "word": "品代",
       "reading": "しなだい",
       "meaning": "tiền hàng"
+    },
+    {
+      "word": "品形",
+      "reading": "しなかたち",
+      "meaning": "chất lượng và hình dạng"
+    },
+    {
+      "word": "品品",
+      "reading": "しなじな",
+      "meaning": "nhiều mục"
     }
   ]
 }

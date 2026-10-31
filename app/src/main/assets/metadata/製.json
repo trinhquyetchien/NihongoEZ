@@ -104,19 +104,14 @@
   ],
   "vocabulary": [
     {
+      "word": "作製",
+      "reading": "さくせい",
+      "meaning": "sự sản xuất"
+    },
+    {
       "word": "製",
       "reading": "せい",
       "meaning": "chế"
-    },
-    {
-      "word": "アルミ製",
-      "reading": "アルミせい",
-      "meaning": "bằng nhôm"
-    },
-    {
-      "word": "スチール製",
-      "reading": "スチールせい",
-      "meaning": "chế phẩm thép"
     },
     {
       "word": "内製",
@@ -124,34 +119,39 @@
       "meaning": "sự sản xuất nội bộ"
     },
     {
-      "word": "手製",
-      "reading": "てせい",
-      "meaning": "làm bằng tay"
+      "word": "製番",
+      "reading": "せいばん",
+      "meaning": "số sản phẩm"
     },
     {
-      "word": "プラスチック製",
-      "reading": "プラスチックせい",
-      "meaning": "nhựa"
+      "word": "旧製",
+      "reading": "きゅうせい",
+      "meaning": "sự sản xuất trước đây"
     },
     {
-      "word": "ビニール製",
-      "reading": "ビニールせい",
-      "meaning": "nhựa vinyl"
+      "word": "編製",
+      "reading": "へんせい",
+      "meaning": "tạo danh sách"
     },
     {
-      "word": "革製",
-      "reading": "かわせい",
-      "meaning": "da thuộc"
+      "word": "製袋",
+      "reading": "せいたい",
+      "meaning": "cái túi sản xuất"
     },
     {
-      "word": "鋼製",
-      "reading": "こうせい",
-      "meaning": "làm từ thép"
+      "word": "製缶",
+      "reading": "せいかん",
+      "meaning": "sản xuất đồ hộp"
     },
     {
-      "word": "極製",
-      "reading": "ごくせい",
-      "meaning": "chất lượng tốt nhất"
+      "word": "改製",
+      "reading": "かいせい",
+      "meaning": "sự cải tạo"
+    },
+    {
+      "word": "竹製",
+      "reading": "たけせい",
+      "meaning": "làm cây tre"
     }
   ]
 }

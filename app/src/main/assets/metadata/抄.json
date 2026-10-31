@@ -90,14 +90,9 @@
       "meaning": "trích"
     },
     {
-      "word": "詩抄",
-      "reading": "ししょう",
-      "meaning": "tuyển tập"
-    },
-    {
-      "word": "抄紙",
-      "reading": "しょうし",
-      "meaning": "máy làm giấy"
+      "word": "和名抄",
+      "reading": "わみょうしょう",
+      "meaning": "wamyoruijusho"
     },
     {
       "word": "抄訳",
@@ -105,24 +100,19 @@
       "meaning": "sự lược dịch"
     },
     {
-      "word": "抄本",
-      "reading": "しょうほん",
-      "meaning": "bản chép"
-    },
-    {
       "word": "抄録",
       "reading": "しょうろく",
       "meaning": "sự tóm lược"
     },
     {
-      "word": "手抄",
-      "reading": "しゅしょう",
-      "meaning": "việc sao chép từ sách vở ra bằng việc viết tay"
+      "word": "史記抄",
+      "reading": "しきしょう",
+      "meaning": "bình luận trên shiki"
     },
     {
-      "word": "抄物",
-      "reading": "しょうもの",
-      "meaning": "muromachi - thời kỳ những văn bản hoặc những chú giải những văn bản sử dụng trong zen thuyết trình"
+      "word": "抄本",
+      "reading": "しょうほん",
+      "meaning": "bản chép"
     },
     {
       "word": "抄出",
@@ -130,9 +120,19 @@
       "meaning": "cầm những trích đoạn"
     },
     {
-      "word": "抄造",
-      "reading": "しょうぞう",
-      "meaning": "làm giấy"
+      "word": "抄紙",
+      "reading": "しょうし",
+      "meaning": "máy làm giấy"
+    },
+    {
+      "word": "抄読会",
+      "reading": "しょうどくかい",
+      "meaning": "câu lạc bộ báo chí"
+    },
+    {
+      "word": "詩抄",
+      "reading": "ししょう",
+      "meaning": "tuyển tập"
     }
   ]
 }

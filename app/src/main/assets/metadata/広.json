@@ -93,29 +93,14 @@
   ],
   "vocabulary": [
     {
-      "word": "広広",
-      "reading": "ひろびろ",
-      "meaning": "rộng lớn"
+      "word": "広い",
+      "reading": "ひろい",
+      "meaning": "rộng"
     },
     {
-      "word": "広報広聴",
-      "reading": "こうほうこうちょう",
-      "meaning": "hoạt động truyền thông và thu thập ý kiến"
-    },
-    {
-      "word": "広報広聴課",
-      "reading": "こうほうこうちょうか",
-      "meaning": "phòng truyền thông và tuyên truyền"
-    },
-    {
-      "word": "広広とした",
-      "reading": "ひろびろとした",
-      "meaning": "mở"
-    },
-    {
-      "word": "広場",
-      "reading": "ひろば",
-      "meaning": "quảng trường"
+      "word": "背広",
+      "reading": "せびろ",
+      "meaning": "bộ com lê"
     },
     {
       "word": "広告",
@@ -128,19 +113,34 @@
       "meaning": "biên độ"
     },
     {
-      "word": "広州",
-      "reading": "こうしゅう",
-      "meaning": "quảng châu"
+      "word": "広場",
+      "reading": "ひろば",
+      "meaning": "quảng trường"
     },
     {
-      "word": "広い",
-      "reading": "ひろい",
-      "meaning": "rộng"
+      "word": "広げる",
+      "reading": "ひろげる",
+      "meaning": "bành"
     },
     {
-      "word": "広野",
-      "reading": "こうや",
-      "meaning": "đồng cỏ lớn"
+      "word": "広める",
+      "reading": "ひろめる",
+      "meaning": "loan tin"
+    },
+    {
+      "word": "広々",
+      "reading": "ひろびろ",
+      "meaning": "rộng lớn"
+    },
+    {
+      "word": "広島",
+      "reading": "ひろしま",
+      "meaning": "thành phố hiroshima"
+    },
+    {
+      "word": "広く",
+      "reading": "ひろく",
+      "meaning": "nhiều"
     }
   ]
 }

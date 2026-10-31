@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "酸素",
+      "reading": "さんそ",
+      "meaning": "dưỡng"
+    },
+    {
+      "word": "水素",
+      "reading": "すいそ",
+      "meaning": "hyđrô"
+    },
+    {
+      "word": "簡素",
+      "reading": "かんそ",
+      "meaning": "sự chất phác"
+    },
+    {
       "word": "素",
       "reading": "もと",
       "meaning": "tự nhiên"
     },
     {
-      "word": "窒素族元素",
-      "reading": "ちっそぞくげんそ",
-      "meaning": "nguyên tố nhóm nitơ"
+      "word": "素元",
+      "reading": "そげん",
+      "meaning": "phần tử nguyên tố"
     },
     {
-      "word": "酸素族元素",
-      "reading": "さんそぞくげんそ",
-      "meaning": "nhóm nguyên tố 16"
+      "word": "素体",
+      "reading": "そたい",
+      "meaning": "sửa soạn lĩnh vực"
     },
     {
-      "word": "脱水素酵素",
-      "reading": "だっすいそこうそ",
-      "meaning": "enzym dehydrogenase"
+      "word": "素線",
+      "reading": "そせん",
+      "meaning": "lõi của dây điện"
     },
     {
-      "word": "酸素添加酵素",
-      "reading": "さんそてんかこうそ",
-      "meaning": "oxygenase"
+      "word": "語素",
+      "reading": "ごそ",
+      "meaning": "từ gốc"
     },
     {
-      "word": "酵素と補酵素",
-      "reading": "こうそとおぎなえこうそ",
-      "meaning": "enzym và coenzyme"
+      "word": "酵素",
+      "reading": "こうそ",
+      "meaning": "enzim"
     },
     {
-      "word": "アセトイン脱水素酵素",
-      "reading": "アセトインだっすいそこうそ",
-      "meaning": "hợp chất hóa học acetoin dehydrogenase"
-    },
-    {
-      "word": "血中尿素窒素",
-      "reading": "けっちゅうにょうそちっそ",
-      "meaning": "mức nitơ urê máu"
-    },
-    {
-      "word": "アルデヒド脱水素酵素（アルデヒドデヒドロゲナーゼ）",
-      "reading": "アルデヒドだっすいそこーそ（アルデヒドデヒドロゲナーゼ）",
-      "meaning": "enzym aldehyde dehydrogenase"
-    },
-    {
-      "word": "乳酸脱水素酵素",
-      "reading": "にゅうさんだっすいそこうそ",
-      "meaning": "lactate dehydrogenase"
+      "word": "素片",
+      "reading": "そへん",
+      "meaning": "vỡ ra từng mảnh"
     }
   ]
 }

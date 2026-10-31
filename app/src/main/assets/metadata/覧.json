@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaning": "cuộc triển lãm"
+    },
+    {
+      "word": "閲覧",
+      "reading": "えつらん",
+      "meaning": "sự đọc"
+    },
+    {
+      "word": "観覧",
+      "reading": "かんらん",
+      "meaning": "sự tham quan"
+    },
+    {
+      "word": "回覧",
+      "reading": "かいらん",
+      "meaning": "chuyền tay"
+    },
+    {
+      "word": "一覧",
+      "reading": "いちらん",
+      "meaning": "nhìn thoáng qua"
+    },
+    {
+      "word": "閲覧者",
+      "reading": "えつらんしゃ",
+      "meaning": "người xem"
+    },
+    {
+      "word": "閲覧中",
+      "reading": "えつらんちゅう",
+      "meaning": "trong khi đang xem"
+    },
+    {
       "word": "ご覧",
       "reading": "ごらん",
       "meaning": "nhìn"
     },
     {
-      "word": "御覧",
-      "reading": "ごらん",
-      "meaning": "nhìn"
+      "word": "閲覧室",
+      "reading": "えつらんしつ",
+      "meaning": "phòng đọc sách"
     },
     {
-      "word": "台覧",
-      "reading": "たいらん",
-      "meaning": "cuộc nổi loạn"
-    },
-    {
-      "word": "総覧",
-      "reading": "そうらん",
-      "meaning": "sự giám sát"
-    },
-    {
-      "word": "綜覧",
-      "reading": "そうらん",
-      "meaning": "thư mục toàn diện"
-    },
-    {
-      "word": "天覧",
-      "reading": "てんらん",
-      "meaning": "kiểm tra đế quốc"
-    },
-    {
-      "word": "直覧",
-      "reading": "じきらん",
-      "meaning": "nhìn với vẻ kính trọng"
-    },
-    {
-      "word": "廻覧",
-      "reading": "かいらん",
-      "meaning": "sự truyền nhau xem"
-    },
-    {
-      "word": "叡覧",
-      "reading": "えいらん",
-      "meaning": "sự ngự lãm"
-    },
-    {
-      "word": "内覧",
-      "reading": "ないらん",
-      "meaning": "việc xem xét một cách bí mật"
+      "word": "一覧表",
+      "reading": "いちらんひょう",
+      "meaning": "bảng kê"
     }
   ]
 }

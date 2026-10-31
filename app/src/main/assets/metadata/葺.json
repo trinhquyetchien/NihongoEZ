@@ -56,26 +56,6 @@
       "meaning": "sự lợp mái tạm thời"
     },
     {
-      "word": "スレート葺",
-      "reading": "スレートぶき",
-      "meaning": "mái nhà bằng đá phiến"
-    },
-    {
-      "word": "瓦葺",
-      "reading": "かわらぶき",
-      "meaning": "lợp mái ngói"
-    },
-    {
-      "word": "葺く",
-      "reading": "ふく",
-      "meaning": "bao phủ"
-    },
-    {
-      "word": "藁葺",
-      "reading": "わらぶき",
-      "meaning": "mái tranh"
-    },
-    {
       "word": "葺き",
       "reading": "ぶき",
       "meaning": "mái nhà"
@@ -86,9 +66,29 @@
       "meaning": "mái tranh"
     },
     {
-      "word": "仮葺き",
-      "reading": "かりぶき",
-      "meaning": "sự lợp mái tạm thời"
+      "word": "瓦葺",
+      "reading": "かわらぶき",
+      "meaning": "lợp mái ngói"
+    },
+    {
+      "word": "瓦葺き",
+      "reading": "かわらぶき",
+      "meaning": "sự lợp ngói"
+    },
+    {
+      "word": "葺く",
+      "reading": "ふく",
+      "meaning": "bao phủ"
+    },
+    {
+      "word": "板葺き",
+      "reading": "いたぶき",
+      "meaning": "sự lợp mái shingle"
+    },
+    {
+      "word": "藁葺",
+      "reading": "わらぶき",
+      "meaning": "mái tranh"
     },
     {
       "word": "桧皮葺",
@@ -96,9 +96,9 @@
       "meaning": "cây bách làm trầy da mái nhà"
     },
     {
-      "word": "葺き板",
-      "reading": "ふきいた",
-      "meaning": "bệnh zona"
+      "word": "草葺き",
+      "reading": "くさぶき",
+      "meaning": "sự lợp lá"
     }
   ]
 }

@@ -108,19 +108,14 @@
   ],
   "vocabulary": [
     {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "chương trình tivi"
+    },
+    {
       "word": "組",
       "reading": "くみ",
       "meaning": "bộ"
-    },
-    {
-      "word": "取組",
-      "reading": "とりくみ",
-      "meaning": "nỗ lực"
-    },
-    {
-      "word": "白組",
-      "reading": "しろぐみ",
-      "meaning": "đội trắng"
     },
     {
       "word": "組織",
@@ -128,24 +123,19 @@
       "meaning": "tổ chức"
     },
     {
-      "word": "組職",
-      "reading": "そしき",
-      "meaning": "sự tổ chức"
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "sự ghép lại"
     },
     {
-      "word": "組み",
-      "reading": "くみ",
-      "meaning": "sự hợp thành"
+      "word": "組む",
+      "reading": "くむ",
+      "meaning": "lắp ghép"
     },
     {
-      "word": "青組",
-      "reading": "あおぐみ",
-      "meaning": "đội xanh là một đơn vị con chiến đấu trong sư đoàn spartan-ii lớn hơn của bộ chỉ huy tác chiến đặc biệt hải quân unsc"
-    },
-    {
-      "word": "黄組",
-      "reading": "きいぐみ",
-      "meaning": "lớp vàng"
+      "word": "一組",
+      "reading": "いちくみ",
+      "meaning": "một lớp"
     },
     {
       "word": "二組",
@@ -153,9 +143,19 @@
       "meaning": "hai nhóm"
     },
     {
-      "word": "一組",
-      "reading": "いちくみ",
-      "meaning": "một lớp"
+      "word": "組手",
+      "reading": "くみて",
+      "meaning": "làm bằng gỗ chắp nối"
+    },
+    {
+      "word": "三組",
+      "reading": "さんくみ",
+      "meaning": "tập hợp ba"
+    },
+    {
+      "word": "枚組",
+      "reading": "まいぐみ",
+      "meaning": "bộ đếm cho các bộ sưu tập hoặc cụm các đối tượng phẳng"
     }
   ]
 }

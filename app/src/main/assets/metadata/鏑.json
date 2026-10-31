@@ -33,14 +33,14 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "流鏑馬",
+      "reading": "やぶさめ",
+      "meaning": "sự bắn cung lưng ngựa"
+    },
+    {
       "word": "鏑",
       "reading": "かぶら",
       "meaning": "còi hình củ cải làm bằng gỗ khoét rỗng ruột hoặc sừng hươu"
-    },
-    {
-      "word": "鏑矢",
-      "reading": "かぶらや",
-      "meaning": "mũi tên có gắn một cái sáo nhỏ"
     },
     {
       "word": "八目鏑",
@@ -48,9 +48,9 @@
       "meaning": "mũi tên kaburaya có đục nhiều lỗ"
     },
     {
-      "word": "流鏑馬",
-      "reading": "やぶさめ",
-      "meaning": "sự bắn cung lưng ngựa"
+      "word": "鏑矢",
+      "reading": "かぶらや",
+      "meaning": "mũi tên có gắn một cái sáo nhỏ"
     }
   ]
 }

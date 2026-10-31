@@ -85,6 +85,11 @@
   ],
   "vocabulary": [
     {
+      "word": "歌舞伎",
+      "reading": "かぶき",
+      "meaning": "ca vũ kịch"
+    },
+    {
       "word": "伎",
       "reading": "わざ",
       "meaning": "chứng nhượng"
@@ -115,16 +120,6 @@
       "meaning": "chim tu hú châu á"
     },
     {
-      "word": "歌舞伎",
-      "reading": "かぶき",
-      "meaning": "ca vũ kịch"
-    },
-    {
-      "word": "歌舞伎座",
-      "reading": "かぶきざ",
-      "meaning": "đoàn kịch kabuki"
-    },
-    {
       "word": "歌舞伎者",
       "reading": "かぶきもの",
       "meaning": "một người có vẻ ngoài lộng lẫy lạ thường hoặc hành động kỳ lạ"
@@ -133,6 +128,11 @@
       "word": "女歌舞伎",
       "reading": "おんなかぶき",
       "meaning": "kịch kabuki với diễn viên toàn là nữ"
+    },
+    {
+      "word": "江戸歌舞伎",
+      "reading": "えどかぶき",
+      "meaning": "kịch kabuki của vùng edo"
     }
   ]
 }

@@ -66,24 +66,29 @@
   ],
   "vocabulary": [
     {
-      "word": "硬膏",
-      "reading": "こうこう",
-      "meaning": "thạch cao"
-    },
-    {
-      "word": "膏沃",
-      "reading": "こうよく",
-      "meaning": "đất đai màu mỡ"
-    },
-    {
-      "word": "膏腴",
-      "reading": "こうゆ",
-      "meaning": "đất đai màu mỡ"
-    },
-    {
       "word": "軟膏",
       "reading": "なんこう",
       "meaning": "thuốc mỡ"
+    },
+    {
+      "word": "軟膏剤",
+      "reading": "なんこうざい",
+      "meaning": "thuốc mỡ"
+    },
+    {
+      "word": "軟膏板",
+      "reading": "なんこうばん",
+      "meaning": "bàn trộn kem"
+    },
+    {
+      "word": "眼軟膏",
+      "reading": "がんなんこう",
+      "meaning": "thuốc mỡ bôi mắt"
+    },
+    {
+      "word": "軟膏瓶",
+      "reading": "なんこうかめ",
+      "meaning": "chai đựng thuốc mỡ"
     },
     {
       "word": "石膏",
@@ -91,29 +96,24 @@
       "meaning": "trát vữa"
     },
     {
-      "word": "膏薬",
-      "reading": "こうやく",
-      "meaning": "thuốc cao"
+      "word": "石膏像",
+      "reading": "せっこうぞう",
+      "meaning": "tượng thạch cao"
     },
     {
-      "word": "膏肓",
-      "reading": "こうこう",
-      "meaning": "bệnh không thể chữa được"
+      "word": "絆創膏",
+      "reading": "ばんそうこう",
+      "meaning": "băng gạc"
     },
     {
-      "word": "膏血",
-      "reading": "こうけつ",
-      "meaning": "mồ hôi và xương máu"
+      "word": "硬石膏",
+      "reading": "こうせっこう",
+      "meaning": "anhydride"
     },
     {
-      "word": "石膏ボード",
-      "reading": "せっこうボード",
-      "meaning": "tấm thạch cao"
-    },
-    {
-      "word": "眼軟膏",
-      "reading": "がんなんこう",
-      "meaning": "thuốc mỡ bôi mắt"
+      "word": "豚の膏",
+      "reading": "ぶたのあぶら",
+      "meaning": "mỡ lợn"
     }
   ]
 }

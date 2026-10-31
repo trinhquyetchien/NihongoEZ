@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "其",
-      "reading": "そ",
-      "meaning": "cái đó"
-    },
-    {
-      "word": "其其",
-      "reading": "そそ",
-      "meaning": "mỗi"
-    },
-    {
-      "word": "其れ其れ",
-      "reading": "それぞれ",
-      "meaning": "mỗi"
-    },
-    {
-      "word": "其れも其のはず",
-      "reading": "それもそのはず",
-      "meaning": "lẽ đương nhiên"
-    },
-    {
       "word": "其の",
       "reading": "その",
       "meaning": "cái đó"
     },
     {
-      "word": "其方",
-      "reading": "そちら",
-      "meaning": "nơi đó"
+      "word": "其の上",
+      "reading": "そのうえ",
+      "meaning": "hơn nữa"
     },
     {
-      "word": "其奴",
-      "reading": "そいつ",
-      "meaning": "người đó"
+      "word": "其の後",
+      "reading": "そのあと",
+      "meaning": "sau đó"
     },
     {
-      "word": "其処",
-      "reading": "そこ",
-      "meaning": "chỗ đó"
+      "word": "其の筈",
+      "reading": "そのはず",
+      "meaning": "dĩ nhiên"
     },
     {
-      "word": "其々",
-      "reading": "そそ",
-      "meaning": "mỗi"
+      "word": "其",
+      "reading": "そ",
+      "meaning": "cái đó"
     },
     {
       "word": "其れ",
       "reading": "それ",
       "meaning": "nó"
+    },
+    {
+      "word": "其れで",
+      "reading": "それで",
+      "meaning": "và"
+    },
+    {
+      "word": "其れに",
+      "reading": "それに",
+      "meaning": "bên cạnh đó"
+    },
+    {
+      "word": "其れと",
+      "reading": "それと",
+      "meaning": "thêm nữa"
+    },
+    {
+      "word": "其れ者",
+      "reading": "それしゃ",
+      "meaning": "chuyên gia"
     }
   ]
 }

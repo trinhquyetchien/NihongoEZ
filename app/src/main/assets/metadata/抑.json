@@ -89,29 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "抑",
-      "reading": "そもそも",
-      "meaning": "trước tiên"
-    },
-    {
-      "word": "抑え",
-      "reading": "おさえ",
-      "meaning": "làm nặng thêm"
-    },
-    {
-      "word": "抑止",
-      "reading": "よくし",
-      "meaning": "sự ngăn cản"
-    },
-    {
-      "word": "抑鬱",
-      "reading": "よくうつ",
-      "meaning": "thất vọng"
-    },
-    {
-      "word": "謙抑",
-      "reading": "けんよく",
-      "meaning": "sự hạ mình"
+      "word": "抑制",
+      "reading": "よくせい",
+      "meaning": "sự kìm hãm"
     },
     {
       "word": "抑圧",
@@ -119,24 +99,44 @@
       "meaning": "sự đàn áp"
     },
     {
-      "word": "抑揚",
-      "reading": "よくよう",
-      "meaning": "ngữ điệu"
+      "word": "抑え",
+      "reading": "おさえ",
+      "meaning": "làm nặng thêm"
     },
     {
-      "word": "抑制",
-      "reading": "よくせい",
-      "meaning": "sự kìm hãm"
+      "word": "抑制性",
+      "reading": "よくせいせい",
+      "meaning": "tính kìm hãm"
     },
     {
-      "word": "抑留",
-      "reading": "よくりゅう",
-      "meaning": "sự giam giữ"
+      "word": "抑制薬",
+      "reading": "よくせいやく",
+      "meaning": "thuốc ức chế"
     },
     {
-      "word": "抑草",
-      "reading": "よくそう",
-      "meaning": "kiểm soát"
+      "word": "抑制帯",
+      "reading": "よくせいたい",
+      "meaning": "dây đai cố định bệnh nhân"
+    },
+    {
+      "word": "抑える",
+      "reading": "おさえる",
+      "meaning": "kìm nén"
+    },
+    {
+      "word": "脱抑制",
+      "reading": "だつよくせい",
+      "meaning": "không kiềm chế được cảm xúc"
+    },
+    {
+      "word": "抑止",
+      "reading": "よくし",
+      "meaning": "sự ngăn cản"
+    },
+    {
+      "word": "抑止力",
+      "reading": "よくしりょく",
+      "meaning": "khả năng ngăn chặn"
     }
   ]
 }

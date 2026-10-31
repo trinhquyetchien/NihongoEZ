@@ -81,29 +81,19 @@
   ],
   "vocabulary": [
     {
-      "word": "謁す",
-      "reading": "えっす",
-      "meaning": "gặp"
-    },
-    {
       "word": "謁見",
       "reading": "えっけん",
       "meaning": "sự xem"
     },
     {
-      "word": "内謁",
-      "reading": "ないえつ",
-      "meaning": "cuộc gặp mặt không chính thức với người cấp trên"
-    },
-    {
-      "word": "請謁",
-      "reading": "せいえつ",
-      "meaning": "cầu khẩn"
-    },
-    {
       "word": "拝謁",
       "reading": "はいえつ",
       "meaning": "thính giả"
+    },
+    {
+      "word": "謁す",
+      "reading": "えっす",
+      "meaning": "gặp"
     },
     {
       "word": "来謁",
@@ -116,14 +106,24 @@
       "meaning": "xem"
     },
     {
-      "word": "拝謁する",
-      "reading": "はいえつする",
-      "meaning": "tiếp kiến"
+      "word": "内謁",
+      "reading": "ないえつ",
+      "meaning": "cuộc gặp mặt không chính thức với người cấp trên"
+    },
+    {
+      "word": "請謁",
+      "reading": "せいえつ",
+      "meaning": "cầu khẩn"
     },
     {
       "word": "謁見する",
       "reading": "えっけんする",
       "meaning": "yết kiến"
+    },
+    {
+      "word": "拝謁する",
+      "reading": "はいえつする",
+      "meaning": "tiếp kiến"
     },
     {
       "word": "謁を賜わる",

@@ -58,6 +58,11 @@
       "meaning": "hỏi"
     },
     {
+      "word": "訊ねる",
+      "reading": "たずねる",
+      "meaning": "hỏi thăm"
+    },
+    {
       "word": "訊問",
       "reading": "じんもん",
       "meaning": "kỳ thi kiểm tra chéo"
@@ -68,19 +73,14 @@
       "meaning": "tra tấn"
     },
     {
-      "word": "訊ねる",
-      "reading": "たずねる",
-      "meaning": "hỏi thăm"
+      "word": "道を訊く",
+      "reading": "みちをきく",
+      "meaning": "để hỏi cách"
     },
     {
       "word": "訊き返す",
       "reading": "ききかえす",
       "meaning": "nghe nhiều lần"
-    },
-    {
-      "word": "道を訊く",
-      "reading": "みちをきく",
-      "meaning": "để hỏi cách"
     },
     {
       "word": "反対訊問",

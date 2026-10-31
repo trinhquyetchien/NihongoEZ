@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
-      "word": "答",
-      "reading": "こたえ",
-      "meaning": "câu trả lời"
-    },
-    {
-      "word": "答ふ",
-      "reading": "こたう",
+      "word": "答える",
+      "reading": "こたえる",
       "meaning": "trả lời"
     },
     {
-      "word": "賢答",
-      "reading": "けんとう",
-      "meaning": "câu trả lời khôn ngoan"
+      "word": "答え",
+      "reading": "こたえ",
+      "meaning": "trả lời"
     },
     {
-      "word": "復答",
-      "reading": "ふくとう",
-      "meaning": "sự trả lời câu hỏi"
+      "word": "答案",
+      "reading": "とうあん",
+      "meaning": "giấy thi"
     },
     {
-      "word": "贈答",
-      "reading": "ぞうとう",
-      "meaning": "quà tặng"
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "đối đáp"
     },
     {
-      "word": "勅答",
-      "reading": "ちょくとう",
-      "meaning": "sự trả lời của hoàng đế"
-    },
-    {
-      "word": "確答",
-      "reading": "かくとう",
-      "meaning": "câu trả lời xác thực"
-    },
-    {
-      "word": "正答",
-      "reading": "せいとう",
-      "meaning": "sửa chữa trả lời"
-    },
-    {
-      "word": "奉答",
-      "reading": "ほうとう",
-      "meaning": "sự kính cẩn đáp lời người trên"
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "sự trả lời"
     },
     {
       "word": "問答",
       "reading": "もんどう",
       "meaning": "sự hỏi đáp"
+    },
+    {
+      "word": "返答",
+      "reading": "へんとう",
+      "meaning": "sự trả lời"
+    },
+    {
+      "word": "回答者",
+      "reading": "かいとうしゃ",
+      "meaning": "trả lời"
+    },
+    {
+      "word": "無回答",
+      "reading": "むかいとう",
+      "meaning": "không trả lời"
+    },
+    {
+      "word": "応答",
+      "reading": "おうとう",
+      "meaning": "đáp lại"
     }
   ]
 }

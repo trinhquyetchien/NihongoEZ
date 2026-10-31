@@ -111,14 +111,24 @@
       "meaning": "cổ"
     },
     {
-      "word": "首塚",
-      "reading": "くびづか",
-      "meaning": "gò đất chôn vùi cái cổ của kẻ bại trận và cái cổ của tội nhân"
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "thủ tướng"
     },
     {
-      "word": "首元",
-      "reading": "くびもと",
-      "meaning": "gáy"
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "kinh đô"
+    },
+    {
+      "word": "手首",
+      "reading": "てくび",
+      "meaning": "cổ tay"
+    },
+    {
+      "word": "部首",
+      "reading": "ぶしゅ",
+      "meaning": "bộ"
     },
     {
       "word": "首脳",
@@ -126,14 +136,9 @@
       "meaning": "não"
     },
     {
-      "word": "首謀",
-      "reading": "しゅぼう",
-      "meaning": "sự lập kế hoạch"
-    },
-    {
-      "word": "首相",
-      "reading": "しゅしょう",
-      "meaning": "thủ tướng"
+      "word": "首輪",
+      "reading": "くびわ",
+      "meaning": "vòng cổ"
     },
     {
       "word": "自首",
@@ -141,19 +146,14 @@
       "meaning": "sự tự khai"
     },
     {
-      "word": "首筋",
-      "reading": "くびすじ",
+      "word": "元首",
+      "reading": "げんしゅ",
+      "meaning": "nguyên thủ"
+    },
+    {
+      "word": "首元",
+      "reading": "くびもと",
       "meaning": "gáy"
-    },
-    {
-      "word": "首輪",
-      "reading": "くびわ",
-      "meaning": "vòng cổ"
-    },
-    {
-      "word": "首都",
-      "reading": "しゅと",
-      "meaning": "kinh đô"
     }
   ]
 }

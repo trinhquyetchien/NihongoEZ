@@ -95,34 +95,9 @@
       "meaning": "khoảnh khắc"
     },
     {
-      "word": "瞬時",
-      "reading": "しゅんじ",
-      "meaning": "khoảnh khắc"
-    },
-    {
       "word": "一瞬",
       "reading": "いっしゅん",
       "meaning": "chốc nữa"
-    },
-    {
-      "word": "瞬く",
-      "reading": "またたく",
-      "meaning": "nhấp nháy"
-    },
-    {
-      "word": "瞬ぐ",
-      "reading": "まじろぐ",
-      "meaning": "chớp mắt"
-    },
-    {
-      "word": "瞬断",
-      "reading": "しゅんだん",
-      "meaning": "giảm điện áp tức thời"
-    },
-    {
-      "word": "瞬刻",
-      "reading": "しゅんこく",
-      "meaning": "giây phút"
     },
     {
       "word": "瞬き",
@@ -130,14 +105,39 @@
       "meaning": "nháy mắt"
     },
     {
-      "word": "瞬膜",
-      "reading": "しゅんまく",
-      "meaning": "mí mắt thứ ba"
+      "word": "瞬間的",
+      "reading": "しゅんかんてき",
+      "meaning": "tạm thời"
+    },
+    {
+      "word": "一瞬間",
+      "reading": "いっしゅんかん",
+      "meaning": "một chốc lát"
     },
     {
       "word": "瞬速",
       "reading": "しゅんそく",
       "meaning": "tức thời"
+    },
+    {
+      "word": "瞬膜",
+      "reading": "しゅんまく",
+      "meaning": "mí mắt thứ ba"
+    },
+    {
+      "word": "瞬時",
+      "reading": "しゅんじ",
+      "meaning": "khoảnh khắc"
+    },
+    {
+      "word": "瞬殺",
+      "reading": "しゅんさつ",
+      "meaning": "đánh bại trong tích tắc"
+    },
+    {
+      "word": "瞬停",
+      "reading": "しゅんてい",
+      "meaning": "mất điện tạm thời"
     }
   ]
 }

@@ -108,14 +108,14 @@
   ],
   "vocabulary": [
     {
-      "word": "省",
-      "reading": "しょう",
-      "meaning": "bộ"
+      "word": "省く",
+      "reading": "はぶく",
+      "meaning": "loại bỏ"
     },
     {
-      "word": "省エネ",
-      "reading": "しょうエネ",
-      "meaning": "tiết kiệm năng lượng"
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "sự kiểm tra lại mình"
     },
     {
       "word": "省略",
@@ -123,19 +123,19 @@
       "meaning": "giản lược"
     },
     {
-      "word": "省く",
-      "reading": "はぶく",
-      "meaning": "loại bỏ"
+      "word": "省みる",
+      "reading": "かえりみる",
+      "meaning": "nhìn lại"
     },
     {
-      "word": "帰省",
-      "reading": "きせい",
-      "meaning": "sự về quê hương"
+      "word": "省",
+      "reading": "しょう",
+      "meaning": "bộ"
     },
     {
-      "word": "省エネルギー",
-      "reading": "しょうエネルギー",
-      "meaning": "sự tiết kiệm năng lượng"
+      "word": "文化省",
+      "reading": "ぶんかしょう",
+      "meaning": "bộ văn hóa"
     },
     {
       "word": "八省",
@@ -143,9 +143,9 @@
       "meaning": "8 cơ quan chính thuộc thái chính quan"
     },
     {
-      "word": "三省",
-      "reading": "さんせい",
-      "meaning": "thường xuyên suy ngẫm"
+      "word": "省字",
+      "reading": "しょうじ",
+      "meaning": "sự đơn giản hóa một kanji"
     },
     {
       "word": "府省",
@@ -153,9 +153,9 @@
       "meaning": "các ban"
     },
     {
-      "word": "省エネタップ",
-      "reading": "しょうエネタップ",
-      "meaning": "ổ cắm tiết kiệm điện"
+      "word": "某省",
+      "reading": "ぼうしょう",
+      "meaning": "một bộ nào đó trong chính phủ"
     }
   ]
 }

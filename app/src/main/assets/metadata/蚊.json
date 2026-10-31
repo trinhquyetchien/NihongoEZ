@@ -92,19 +92,9 @@
       "meaning": "con muỗi"
     },
     {
-      "word": "金蚊",
-      "reading": "かなぶん",
-      "meaning": "bọ cánh cứng"
-    },
-    {
-      "word": "蚊トンボ",
-      "reading": "かトンボ",
-      "meaning": "ruồi hạc"
-    },
-    {
-      "word": "薮蚊",
-      "reading": "やぶか",
-      "meaning": "muỗi vằn"
+      "word": "家蚊",
+      "reading": "いえか",
+      "meaning": "con muỗi và các loài muỗi thuộc họ muỗi vằn"
     },
     {
       "word": "大蚊",
@@ -112,29 +102,39 @@
       "meaning": "muỗi hạc"
     },
     {
-      "word": "糠蚊",
-      "reading": "ぬかか",
-      "meaning": "muỗi chích nghiến"
+      "word": "金蚊",
+      "reading": "かなぶん",
+      "meaning": "bọ cánh cứng"
     },
     {
-      "word": "蚊柱",
-      "reading": "かばしら",
-      "meaning": "đàn muỗi"
+      "word": "蚊火",
+      "reading": "かび",
+      "meaning": "nhang muỗi"
     },
     {
-      "word": "蚊燻",
-      "reading": "かやり",
-      "meaning": "ngoài trời nhắm vào với khói dầy đặc để khước từ muỗi"
+      "word": "蚊取り",
+      "reading": "かとり",
+      "meaning": "diệt côn trùng"
     },
     {
-      "word": "蚊鉤",
+      "word": "赤家蚊",
+      "reading": "あかいえか",
+      "meaning": "culex pipiens"
+    },
+    {
+      "word": "蚊の涙",
+      "reading": "かのなみだ",
+      "meaning": "thu hoạch ít ỏi"
+    },
+    {
+      "word": "蚊食鳥",
+      "reading": "かくいどり",
+      "meaning": "con dơi"
+    },
+    {
+      "word": "蚊針",
       "reading": "かばり",
-      "meaning": "câu cá bay"
-    },
-    {
-      "word": "マラリア蚊",
-      "reading": "マラリアか",
-      "meaning": "con muỗi bệnh sốt rét"
+      "meaning": "con ruồi"
     }
   ]
 }

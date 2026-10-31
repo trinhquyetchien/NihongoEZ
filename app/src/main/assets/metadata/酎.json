@@ -84,24 +84,14 @@
   ],
   "vocabulary": [
     {
-      "word": "酎",
-      "reading": "ちゅう",
-      "meaning": "mục đích"
-    },
-    {
       "word": "焼酎",
       "reading": "しょうちゅう",
       "meaning": "rượu hâm nóng"
     },
     {
-      "word": "酎ハイ",
-      "reading": "ちゅうハイ",
-      "meaning": "shouchuu với thuốc bổ rót nước"
-    },
-    {
-      "word": "焼酎ハイボール",
-      "reading": "しょうちゅうハイボール",
-      "meaning": "shochu high-ball"
+      "word": "芋焼酎",
+      "reading": "いもじょうちゅう",
+      "meaning": "rượu shochu khoai lang"
     },
     {
       "word": "麦焼酎",
@@ -109,9 +99,14 @@
       "meaning": "rượu shochu chưng cất từ lúa mạch"
     },
     {
-      "word": "芋焼酎",
-      "reading": "いもじょうちゅう",
-      "meaning": "rượu shochu khoai lang"
+      "word": "酎",
+      "reading": "ちゅう",
+      "meaning": "mục đích"
+    },
+    {
+      "word": "酎ハイ",
+      "reading": "ちゅうハイ",
+      "meaning": "shouchuu với thuốc bổ rót nước"
     },
     {
       "word": "焼酎漬け",
@@ -127,6 +122,11 @@
       "word": "粕取り焼酎",
       "reading": "かすとりしょうちゅう",
       "meaning": "rượu đế từ bã rượu"
+    },
+    {
+      "word": "焼酎ハイボール",
+      "reading": "しょうちゅうハイボール",
+      "meaning": "shochu high-ball"
     }
   ]
 }

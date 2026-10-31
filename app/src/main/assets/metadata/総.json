@@ -130,24 +130,14 @@
       "meaning": "tổng thể"
     },
     {
-      "word": "総理総裁",
-      "reading": "そうりそうさい",
-      "meaning": "thủ tướng đương nhiệm"
+      "word": "総会",
+      "reading": "そうかい",
+      "meaning": "cuộc tổng hội họp"
     },
     {
-      "word": "総計総局",
-      "reading": "そうけいそうきょく",
-      "meaning": "tổng cục thống kê"
-    },
-    {
-      "word": "のべ / 総数 / 総計",
-      "reading": "のべ",
-      "meaning": "tổng"
-    },
-    {
-      "word": "総理府総務長官",
-      "reading": "そうりふそうむちょうかん",
-      "meaning": "chung giám đốc bộ trưởng đầu tiên có văn phòng"
+      "word": "全総",
+      "reading": "ぜんそう",
+      "meaning": "kế hoạch phát triển toàn diện quốc gia"
     },
     {
       "word": "海総",
@@ -155,24 +145,34 @@
       "meaning": "rong biển"
     },
     {
-      "word": "総菜",
-      "reading": "そうざい",
-      "meaning": "món ăn kèm"
+      "word": "総裏",
+      "reading": "そううら",
+      "meaning": "lớp vải lót"
     },
     {
-      "word": "総て",
-      "reading": "すべて",
-      "meaning": "toàn bộ"
+      "word": "総嫁",
+      "reading": "そうか",
+      "meaning": "streetwalker"
     },
     {
-      "word": "総身",
-      "reading": "そうしん",
-      "meaning": "một có toàn bộ thân thể"
+      "word": "総務",
+      "reading": "そうむ",
+      "meaning": "giám đốc"
     },
     {
-      "word": "総出",
-      "reading": "そうで",
-      "meaning": "tất cả cùng nhau"
+      "word": "総督",
+      "reading": "そうとく",
+      "meaning": "tổng đốc"
+    },
+    {
+      "word": "総統",
+      "reading": "そうとう",
+      "meaning": "chủ tịch"
+    },
+    {
+      "word": "総括",
+      "reading": "そうかつ",
+      "meaning": "sự tổng hợp"
     }
   ]
 }

@@ -115,54 +115,54 @@
   ],
   "vocabulary": [
     {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "thời đại"
+    },
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "cán sự"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "đời này"
+    },
+    {
       "word": "代",
       "reading": "だい",
       "meaning": "thế giới"
     },
     {
-      "word": "代代",
-      "reading": "だいだい",
-      "meaning": "các thế hệ"
+      "word": "古代",
+      "reading": "こだい",
+      "meaning": "cổ"
     },
     {
-      "word": "親代代",
-      "reading": "おやだいだい",
-      "meaning": "sự thừa kế"
+      "word": "番代",
+      "reading": "ばんだい",
+      "meaning": "thay phiên nhau"
     },
     {
-      "word": "神代七代",
-      "reading": "かみよななよ",
-      "meaning": "bảy thế hệ của các vị thần"
+      "word": "20代",
+      "reading": "にじゅうだい",
+      "meaning": "20 tuổi"
     },
     {
-      "word": "千代万代",
-      "reading": "ちよよろずよ",
-      "meaning": "mãi mãi"
+      "word": "代員",
+      "reading": "だいいん",
+      "meaning": "uỷ nhiệm"
     },
     {
-      "word": "先祖代代",
-      "reading": "せんぞだいだい",
-      "meaning": "tổ tiên"
+      "word": "代父",
+      "reading": "だいふ",
+      "meaning": "cha đỡ đầu"
     },
     {
-      "word": "代り代り",
-      "reading": "かわりがわり",
-      "meaning": "lần lượt nhau"
-    },
-    {
-      "word": "代る代る",
-      "reading": "かわるがわる",
-      "meaning": "lần lượt nhau"
-    },
-    {
-      "word": "世代交代",
-      "reading": "せだいこうたい",
-      "meaning": "xen kẽ phát sinh"
-    },
-    {
-      "word": "代表代行",
-      "reading": "だいひょうだいこう",
-      "meaning": "quyền đại diện"
+      "word": "品代",
+      "reading": "しなだい",
+      "meaning": "tiền hàng"
     }
   ]
 }

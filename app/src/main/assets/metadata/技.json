@@ -106,29 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "技",
-      "reading": "わざ",
-      "meaning": "kỹ năng"
-    },
-    {
-      "word": "実技",
-      "reading": "じつぎ",
-      "meaning": "thực hành thành vấn đề"
-    },
-    {
-      "word": "性技",
-      "reading": "せいぎ",
-      "meaning": "kỹ năng làm tình"
-    },
-    {
-      "word": "技巧",
-      "reading": "ぎこう",
-      "meaning": "kỹ xảo"
-    },
-    {
-      "word": "技法",
-      "reading": "ぎほう",
-      "meaning": "kỹ xảo"
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "kỹ thuật"
     },
     {
       "word": "競技",
@@ -136,14 +116,9 @@
       "meaning": "cuộc thi đấu"
     },
     {
-      "word": "球技",
-      "reading": "きゅうぎ",
-      "meaning": "trò chơi bóng"
-    },
-    {
-      "word": "技能",
-      "reading": "ぎのう",
-      "meaning": "kỹ thuật"
+      "word": "演技",
+      "reading": "えんぎ",
+      "meaning": "kỹ thuật trình diễn"
     },
     {
       "word": "技師",
@@ -151,9 +126,34 @@
       "meaning": "kỹ sư"
     },
     {
-      "word": "拙技",
-      "reading": "せつぎ",
-      "meaning": "sự diễn xuất tệ"
+      "word": "技",
+      "reading": "わざ",
+      "meaning": "kỹ năng"
+    },
+    {
+      "word": "技能",
+      "reading": "ぎのう",
+      "meaning": "kỹ thuật"
+    },
+    {
+      "word": "特技",
+      "reading": "とくぎ",
+      "meaning": "kỹ thuật đặc biệt"
+    },
+    {
+      "word": "後技",
+      "reading": "うしろわざ",
+      "meaning": "thế phòng thủ phía sau"
+    },
+    {
+      "word": "性技",
+      "reading": "せいぎ",
+      "meaning": "kỹ năng làm tình"
+    },
+    {
+      "word": "生技",
+      "reading": "せいぎ",
+      "meaning": "kĩ thuật sản xuất"
     }
   ]
 }

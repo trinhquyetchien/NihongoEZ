@@ -85,24 +85,9 @@
   ],
   "vocabulary": [
     {
-      "word": "肯く",
-      "reading": "うなずく",
-      "meaning": "gật đầu"
-    },
-    {
       "word": "肯定",
       "reading": "こうてい",
       "meaning": "sự khẳng định"
-    },
-    {
-      "word": "首肯",
-      "reading": "しゅこう",
-      "meaning": "sự đồng ý"
-    },
-    {
-      "word": "肯綮",
-      "reading": "こうけい",
-      "meaning": "quan trọng chỉ"
     },
     {
       "word": "肯定的",
@@ -115,19 +100,34 @@
       "meaning": "câu khẳng định"
     },
     {
+      "word": "首肯",
+      "reading": "しゅこう",
+      "meaning": "sự đồng ý"
+    },
+    {
+      "word": "肯く",
+      "reading": "うなずく",
+      "meaning": "gật đầu"
+    },
+    {
+      "word": "肯綮",
+      "reading": "こうけい",
+      "meaning": "quan trọng chỉ"
+    },
+    {
       "word": "首肯く",
       "reading": "うなずく",
       "meaning": "tới cái gật"
     },
     {
+      "word": "肯定する",
+      "reading": "こうてい",
+      "meaning": "khẳng định"
+    },
+    {
       "word": "肯定応答",
       "reading": "こうていおうとう",
       "meaning": "báo nhận"
-    },
-    {
-      "word": "肯んずる",
-      "reading": "がえんずる",
-      "meaning": "đồng ý"
     },
     {
       "word": "肯定命題",

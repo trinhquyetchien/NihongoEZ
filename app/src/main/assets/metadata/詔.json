@@ -88,19 +88,9 @@
       "meaning": "chiếu chỉ"
     },
     {
-      "word": "大詔",
-      "reading": "たいしょう",
-      "meaning": "công bố chính thức của hoàng đế"
-    },
-    {
-      "word": "詔書",
-      "reading": "しょうしょ",
-      "meaning": "chiếu chỉ"
-    },
-    {
-      "word": "詔勅",
-      "reading": "しょうちょく",
-      "meaning": "chiếu chỉ"
+      "word": "詔命",
+      "reading": "しょうめい",
+      "meaning": "mệnh lệnh triều đình"
     },
     {
       "word": "詔令",
@@ -108,19 +98,29 @@
       "meaning": "sắc lệnh đế quốc"
     },
     {
-      "word": "詔命",
-      "reading": "しょうめい",
-      "meaning": "mệnh lệnh triều đình"
+      "word": "詔勅",
+      "reading": "しょうちょく",
+      "meaning": "chiếu chỉ"
     },
     {
-      "word": "大詔渙発",
-      "reading": "たいしょうかんぱつ",
-      "meaning": "chiếu chỉ của hoàng gia"
+      "word": "詔書",
+      "reading": "しょうしょ",
+      "meaning": "chiếu chỉ"
+    },
+    {
+      "word": "大詔",
+      "reading": "たいしょう",
+      "meaning": "công bố chính thức của hoàng đế"
     },
     {
       "word": "戊申詔書",
       "reading": "ぼしんしょうしょ",
       "meaning": "chiếu thư mậu thân năm 1908"
+    },
+    {
+      "word": "大詔渙発",
+      "reading": "たいしょうかんぱつ",
+      "meaning": "chiếu chỉ của hoàng gia"
     }
   ]
 }

@@ -68,14 +68,14 @@
   ],
   "vocabulary": [
     {
+      "word": "惇厚",
+      "reading": "とんこう",
+      "meaning": "sự đôn hậu"
+    },
+    {
       "word": "惇朴",
       "reading": "とんぼく",
       "meaning": "ở nhà và trung thực"
-    },
-    {
-      "word": "惇樸",
-      "reading": "とんぼく",
-      "meaning": "đơn giản"
     },
     {
       "word": "惇睦",
@@ -83,9 +83,9 @@
       "meaning": "thân thiện và chân thành"
     },
     {
-      "word": "惇厚",
-      "reading": "とんこう",
-      "meaning": "sự đôn hậu"
+      "word": "惇樸",
+      "reading": "とんぼく",
+      "meaning": "đơn giản"
     }
   ]
 }

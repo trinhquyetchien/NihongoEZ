@@ -90,24 +90,24 @@
   ],
   "vocabulary": [
     {
+      "word": "沸騰",
+      "reading": "ふっとう",
+      "meaning": "sắp sôi"
+    },
+    {
       "word": "高騰",
       "reading": "こうとう",
       "meaning": "sự tăng vọt"
     },
     {
-      "word": "続騰",
-      "reading": "ぞくとう",
-      "meaning": "tiếp tục leo thang"
+      "word": "沸騰点",
+      "reading": "ふっとうてん",
+      "meaning": "điểm sôi"
     },
     {
-      "word": "騰貴",
-      "reading": "とうき",
-      "meaning": "sự tăng giá"
-    },
-    {
-      "word": "反騰",
-      "reading": "はんとう",
-      "meaning": "giá phản động lên"
+      "word": "急騰",
+      "reading": "きゅうとう",
+      "meaning": "sự đột ngột tăng"
     },
     {
       "word": "上騰",
@@ -115,9 +115,9 @@
       "meaning": "sự tiến lên"
     },
     {
-      "word": "昂騰",
-      "reading": "こうとう",
-      "meaning": "giá thình lình nhảy vọt"
+      "word": "暴騰",
+      "reading": "ぼうとう",
+      "meaning": "sự bùng nổ"
     },
     {
       "word": "騰落",
@@ -125,19 +125,19 @@
       "meaning": "sự lên và xuống"
     },
     {
-      "word": "騰勢",
-      "reading": "とうせい",
-      "meaning": "khuynh hướng đi lên"
+      "word": "騰落率",
+      "reading": "とーらくりつ",
+      "meaning": "phần trăm thay đổi"
     },
     {
-      "word": "奔騰",
-      "reading": "ほんとう",
-      "meaning": "sự tăng vọt"
+      "word": "騰貴",
+      "reading": "とうき",
+      "meaning": "sự tăng giá"
     },
     {
-      "word": "暴騰",
-      "reading": "ぼうとう",
-      "meaning": "sự bùng nổ"
+      "word": "続騰",
+      "reading": "ぞくとう",
+      "meaning": "tiếp tục leo thang"
     }
   ]
 }

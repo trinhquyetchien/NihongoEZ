@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "偶",
-      "reading": "たまたま",
-      "meaning": "hiếm khi"
-    },
-    {
-      "word": "偶偶",
-      "reading": "たまたま",
-      "meaning": "tình cờ"
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "sự tình cờ"
     },
     {
       "word": "偶数",
@@ -104,39 +99,44 @@
       "meaning": "số chẵn"
     },
     {
-      "word": "偶然",
-      "reading": "ぐうぜん",
-      "meaning": "sự tình cờ"
+      "word": "配偶者",
+      "reading": "はいぐうしゃ",
+      "meaning": "người phối hợp thành đôi"
     },
     {
-      "word": "偶発",
-      "reading": "ぐうはつ",
-      "meaning": "sự bột phát"
+      "word": "偶然論",
+      "reading": "ぐうぜんろん",
+      "meaning": "thuyết ngẫu nhiên"
     },
     {
-      "word": "偶作",
-      "reading": "ぐうさく",
-      "meaning": "tác phẩm ngẫu hứng"
+      "word": "配偶",
+      "reading": "はいぐう",
+      "meaning": "sự phối ngẫu"
     },
     {
-      "word": "偶語",
-      "reading": "ぐうご",
-      "meaning": "cuộc nói chuyện"
+      "word": "配偶子",
+      "reading": "はいぐうし",
+      "meaning": "giao tử"
     },
     {
-      "word": "偶感",
-      "reading": "ぐうかん",
-      "meaning": "cảm tưởng ngẫu nhiên"
+      "word": "配偶体",
+      "reading": "はいぐうたい",
+      "meaning": "thể giao tử"
     },
     {
-      "word": "偶吟",
-      "reading": "ぐうぎん",
-      "meaning": "bài thơ tùy hứng"
+      "word": "偶像",
+      "reading": "ぐうぞう",
+      "meaning": "tượng"
     },
     {
-      "word": "偶詠",
-      "reading": "ぐうえい",
-      "meaning": "sự ngâm thơ ngẫu hứng"
+      "word": "偶像化",
+      "reading": "ぐうぞうか",
+      "meaning": "sự thần tượng"
+    },
+    {
+      "word": "偶像視",
+      "reading": "ぐうぞうし",
+      "meaning": "sự thần tượng hoá"
     }
   ]
 }

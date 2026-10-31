@@ -95,26 +95,6 @@
       "meaning": "giá trị"
     },
     {
-      "word": "絶対極値(極大値と極小値)",
-      "reading": "ぜったいきょくち(きょくだいちときょくしょうち)",
-      "meaning": "giá trị cực trị tuyệt đối"
-    },
-    {
-      "word": "最大値・最小値",
-      "reading": "さいだいち・さいしょうち",
-      "meaning": "giá trị cực đại-giá trị cực tiểu"
-    },
-    {
-      "word": "終値成立値幅",
-      "reading": "おわりねせいりつねはば",
-      "meaning": "phạm vi thiết lập giá đóng cửa"
-    },
-    {
-      "word": "ハッシュ値",
-      "reading": "ハッシュち",
-      "meaning": "giá trị băm"
-    },
-    {
       "word": "値上",
       "reading": "ねあげ",
       "meaning": "sự tăng giá"
@@ -125,14 +105,34 @@
       "meaning": "giá đã giảm"
     },
     {
+      "word": "色値",
+      "reading": "しきち",
+      "meaning": "giá trị màu"
+    },
+    {
+      "word": "値安",
+      "reading": "ねやす",
+      "meaning": "sự rẻ tiền"
+    },
+    {
+      "word": "仲値",
+      "reading": "なかね",
+      "meaning": "giá trung bình"
+    },
+    {
       "word": "極値",
       "reading": "きょくち",
       "meaning": "điểm cực trị"
     },
     {
-      "word": "終値",
-      "reading": "おわりね",
-      "meaning": "giá cuối ngày"
+      "word": "直値",
+      "reading": "ちょくち",
+      "meaning": "dữ liệu tức thì"
+    },
+    {
+      "word": "安値",
+      "reading": "やすね",
+      "meaning": "giá rẻ"
     },
     {
       "word": "高値",

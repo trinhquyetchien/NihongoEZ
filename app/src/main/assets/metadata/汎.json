@@ -92,6 +92,36 @@
   ],
   "vocabulary": [
     {
+      "word": "汎用",
+      "reading": "はんよう",
+      "meaning": "có đặc điểm chung của một giống loài"
+    },
+    {
+      "word": "汎用性",
+      "reading": "はんようせい",
+      "meaning": "tính linh hoạt"
+    },
+    {
+      "word": "汎用体",
+      "reading": "はんようたい",
+      "meaning": "đơn vị chung"
+    },
+    {
+      "word": "汎用機",
+      "reading": "はんようき",
+      "meaning": "máy đa dụng"
+    },
+    {
+      "word": "汎用品",
+      "reading": "はんようひん",
+      "meaning": "sản phẩm đa chức năng"
+    },
+    {
+      "word": "汎用油",
+      "reading": "はんようあぶら",
+      "meaning": "dầu đa dụng"
+    },
+    {
       "word": "汎",
       "reading": "はん",
       "meaning": "cái chảo -"
@@ -102,44 +132,14 @@
       "meaning": "phổ biến"
     },
     {
-      "word": "広汎",
-      "reading": "こうはん",
-      "meaning": "rộng"
-    },
-    {
-      "word": "汎愛",
-      "reading": "はんあい",
-      "meaning": "lòng bác ái"
-    },
-    {
-      "word": "汎称",
-      "reading": "はんしょう",
-      "meaning": "tên gọi chung"
-    },
-    {
-      "word": "汎用",
-      "reading": "はんよう",
-      "meaning": "có đặc điểm chung của một giống loài"
-    },
-    {
-      "word": "汎論",
-      "reading": "はんろん",
-      "meaning": "chung chung nhận xét"
-    },
-    {
       "word": "汎化",
       "reading": "はんか",
       "meaning": "sự tổng quát hoá"
     },
     {
-      "word": "汎用性",
-      "reading": "はんようせい",
-      "meaning": "tính linh hoạt"
-    },
-    {
-      "word": "汎用コンピュータ",
-      "reading": "はんようコンピュータ",
-      "meaning": "máy tính thông dụng"
+      "word": "汎心論",
+      "reading": "はんしんろん",
+      "meaning": "thuyết phiếm thần"
     }
   ]
 }

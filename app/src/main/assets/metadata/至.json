@@ -89,44 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "至",
+      "word": "至る",
       "reading": "いたる",
-      "meaning": "to.."
-    },
-    {
-      "word": "至純至精",
-      "reading": "しじゅんしせい",
-      "meaning": "vô cùng thuần khiết"
-    },
-    {
-      "word": "至公至平",
-      "reading": "しこうしへい",
-      "meaning": "rõ ràng hoàn toàn hoặc đúng"
-    },
-    {
-      "word": "至純至高",
-      "reading": "しじゅんしこう",
-      "meaning": "sự tinh khiết"
-    },
-    {
-      "word": "夏至点",
-      "reading": "げしてん",
-      "meaning": "điểm hạ chí"
-    },
-    {
-      "word": "至弱をもって至強にあたる",
-      "reading": "しじゃくをもってしきょうにあたる",
-      "meaning": "lấy yếu chống mạnh"
-    },
-    {
-      "word": "至福",
-      "reading": "しふく",
-      "meaning": "phúc lớn"
-    },
-    {
-      "word": "至極",
-      "reading": "しごく",
-      "meaning": "very"
+      "meaning": "đạt tới"
     },
     {
       "word": "至急",
@@ -134,9 +99,44 @@
       "meaning": "cấp tốc"
     },
     {
-      "word": "至る",
+      "word": "至って",
+      "reading": "いたって",
+      "meaning": "rất"
+    },
+    {
+      "word": "至",
       "reading": "いたる",
-      "meaning": "đạt tới"
+      "meaning": "to"
+    },
+    {
+      "word": "至日",
+      "reading": "しじつ",
+      "meaning": "ngày hạ chí"
+    },
+    {
+      "word": "二至",
+      "reading": "にし",
+      "meaning": "nhị chí"
+    },
+    {
+      "word": "至点",
+      "reading": "してん",
+      "meaning": "chí"
+    },
+    {
+      "word": "至東京",
+      "reading": "いたるとうきょう",
+      "meaning": "lên tokyo"
+    },
+    {
+      "word": "至高",
+      "reading": "しこう",
+      "meaning": "tối cao"
+    },
+    {
+      "word": "四至",
+      "reading": "しいし",
+      "meaning": "ranh giới bốn mặt"
     }
   ]
 }

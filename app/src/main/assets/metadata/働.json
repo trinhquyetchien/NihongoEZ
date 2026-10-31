@@ -89,46 +89,6 @@
   ],
   "vocabulary": [
     {
-      "word": "働",
-      "reading": "はたらき",
-      "meaning": "làm việc"
-    },
-    {
-      "word": "労働者として働く",
-      "reading": "ろうどうしゃとしてはたらく",
-      "meaning": "làm thợ"
-    },
-    {
-      "word": "老働",
-      "reading": "ろうどう",
-      "meaning": "sự làm việc sau độ tuổi nghỉ hưu"
-    },
-    {
-      "word": "共働",
-      "reading": "きょうどう",
-      "meaning": "tác động kép"
-    },
-    {
-      "word": "協働",
-      "reading": "きょうどう",
-      "meaning": "sự hợp tác"
-    },
-    {
-      "word": "稼働",
-      "reading": "かどう",
-      "meaning": "hoạt động"
-    },
-    {
-      "word": "実働",
-      "reading": "じつどう",
-      "meaning": "thực tế làm việc"
-    },
-    {
-      "word": "働き",
-      "reading": "はたらき",
-      "meaning": "công việc"
-    },
-    {
       "word": "働く",
       "reading": "はたらく",
       "meaning": "làm lụng"
@@ -137,6 +97,46 @@
       "word": "労働",
       "reading": "ろうどう",
       "meaning": "lao công"
+    },
+    {
+      "word": "働き",
+      "reading": "はたらき",
+      "meaning": "công việc"
+    },
+    {
+      "word": "共働き",
+      "reading": "ともばたらき",
+      "meaning": "cả hai vợ chồng đều đi làm"
+    },
+    {
+      "word": "労働日",
+      "reading": "ろうどうび",
+      "meaning": "ngày lao động"
+    },
+    {
+      "word": "労働者",
+      "reading": "ろうどうしゃ",
+      "meaning": "công nhân"
+    },
+    {
+      "word": "労働力",
+      "reading": "ろうどうりょく",
+      "meaning": "sức lao động"
+    },
+    {
+      "word": "労働部",
+      "reading": "ろうどうぶ",
+      "meaning": "bộ lễ"
+    },
+    {
+      "word": "労働法",
+      "reading": "ろうどうほう",
+      "meaning": "luật lao động"
+    },
+    {
+      "word": "労働量",
+      "reading": "ろーどーりょー",
+      "meaning": "khối lượng công việc"
     }
   ]
 }

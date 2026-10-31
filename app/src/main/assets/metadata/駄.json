@@ -88,29 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "駄",
-      "reading": "だ",
-      "meaning": "hàng hoá"
-    },
-    {
-      "word": "駄駄っ子",
-      "reading": "だだっこ",
-      "meaning": "trẻ em không thể quản lý được"
-    },
-    {
-      "word": "駄目駄目",
-      "reading": "だめだめ",
-      "meaning": "vô dụng"
-    },
-    {
-      "word": "駄駄を捏ねる",
-      "reading": "だだをこねる",
-      "meaning": "giãy nảy đòi cái gì đó"
-    },
-    {
-      "word": "間駄",
-      "reading": "まだ",
-      "meaning": "chưa"
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "sự vô ích"
     },
     {
       "word": "下駄",
@@ -118,24 +98,44 @@
       "meaning": "guốc"
     },
     {
-      "word": "駄津",
-      "reading": "だつ",
-      "meaning": "cá nhói"
+      "word": "駄作",
+      "reading": "ださく",
+      "meaning": "tác phẩm rẻ tiền"
     },
     {
-      "word": "駄弁",
-      "reading": "だべん",
-      "meaning": "lời nói vô lý"
+      "word": "無駄な",
+      "reading": "むだな",
+      "meaning": "hão"
     },
     {
-      "word": "足駄",
-      "reading": "あしだ",
-      "meaning": "guốc gỗ cao"
+      "word": "無駄話",
+      "reading": "むだばなし",
+      "meaning": "chuyện phiếm"
     },
     {
-      "word": "駄賃",
-      "reading": "だちん",
-      "meaning": "tiền thưởng"
+      "word": "無駄金",
+      "reading": "むだがね",
+      "meaning": "tiền lãng phí"
+    },
+    {
+      "word": "駄目",
+      "reading": "だめ",
+      "meaning": "sự vô dụng"
+    },
+    {
+      "word": "駄目元",
+      "reading": "だめもと",
+      "meaning": "muốn thử hơn là buộc phải làm"
+    },
+    {
+      "word": "無駄言",
+      "reading": "むだごと",
+      "meaning": "lời nói vô ích"
+    },
+    {
+      "word": "中下駄",
+      "reading": "ちゅうげた",
+      "meaning": "geta đế trung bình"
     }
   ]
 }

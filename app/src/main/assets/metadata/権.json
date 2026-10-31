@@ -97,11 +97,6 @@
       "meaning": "quyền"
     },
     {
-      "word": "権威",
-      "reading": "けんい",
-      "meaning": "khí thế"
-    },
-    {
       "word": "政権",
       "reading": "せいけん",
       "meaning": "binh quyền"
@@ -112,14 +107,19 @@
       "meaning": "khí thế"
     },
     {
+      "word": "権威",
+      "reading": "けんい",
+      "meaning": "khí thế"
+    },
+    {
+      "word": "特権",
+      "reading": "とっけん",
+      "meaning": "đặc quyền"
+    },
+    {
       "word": "主権",
       "reading": "しゅけん",
       "meaning": "chủ quyền"
-    },
-    {
-      "word": "債権",
-      "reading": "さいけん",
-      "meaning": "tiền cho vay"
     },
     {
       "word": "棄権",
@@ -127,19 +127,19 @@
       "meaning": "sự bỏ quyền"
     },
     {
-      "word": "権謀",
-      "reading": "けんぼう",
-      "meaning": "mưu kế"
+      "word": "権官",
+      "reading": "けんかん",
+      "meaning": "viên chức có quyền lực mạnh"
     },
     {
-      "word": "権原",
-      "reading": "けんげん",
-      "meaning": "gốc quyền lợi"
+      "word": "質権",
+      "reading": "しちけん",
+      "meaning": "quyền cầm cố"
     },
     {
-      "word": "権益",
-      "reading": "けんえき",
-      "meaning": "quyền lợi"
+      "word": "債権",
+      "reading": "さいけん",
+      "meaning": "tiền cho vay"
     }
   ]
 }

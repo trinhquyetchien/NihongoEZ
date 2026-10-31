@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
+      "word": "花瓶",
+      "reading": "かびん",
+      "meaning": "bình hoa"
+    },
+    {
       "word": "瓶",
       "reading": "びん",
       "meaning": "chai"
     },
     {
-      "word": "ネジ口瓶/スクリュー管瓶/軟膏瓶",
-      "reading": "ネジくちかめ/スクリューかんびん/なんこうかめ",
-      "meaning": "kệ cho phòng sạch"
+      "word": "中瓶",
+      "reading": "ちゅうびん",
+      "meaning": "chai môi trường"
     },
     {
-      "word": "滴瓶/スポイト瓶",
-      "reading": "しずくかめ/スポイトかめ",
-      "meaning": "bình đậy nắp"
+      "word": "一瓶",
+      "reading": "ひとびん",
+      "meaning": "1 chai"
     },
     {
-      "word": "標本瓶/種子瓶",
-      "reading": "ひょうほんびん/しゅしかめ",
-      "meaning": "lọ đựng thuốc"
+      "word": "酒瓶",
+      "reading": "さかびん",
+      "meaning": "chai rượu sake"
     },
     {
-      "word": "試薬瓶/共栓瓶",
-      "reading": "しやくかめ/ともせんかめ",
-      "meaning": "bình đựng đa năng"
+      "word": "薬瓶",
+      "reading": "くすりびん",
+      "meaning": "chai thuốc"
     },
     {
-      "word": "差込みキャップ瓶/サンプル瓶",
-      "reading": "さしこみみキャップかめ/サンプルかめ",
-      "meaning": "chai đựng thuốc mỡ"
+      "word": "空瓶",
+      "reading": "からびん",
+      "meaning": "cái chai rỗng"
     },
     {
-      "word": "バイアル瓶",
-      "reading": "バイアルびん",
-      "meaning": "lọ đựng thuốc"
+      "word": "角瓶",
+      "reading": "かくびん",
+      "meaning": "bình hình vuông"
     },
     {
-      "word": "滴瓶",
-      "reading": "てきびん",
-      "meaning": "chai nhỏ giọt"
+      "word": "宝瓶",
+      "reading": "ほうひん",
+      "meaning": "bình nước nghi lễ trong phật giáo mật tông"
     },
     {
-      "word": "ビール瓶",
-      "reading": "ビールびん",
-      "meaning": "chai bia"
-    },
-    {
-      "word": "尿瓶",
-      "reading": "しびん",
-      "meaning": "bình đựng nước tiểu"
+      "word": "宝瓶宮",
+      "reading": "ほうへいきゅう",
+      "meaning": "cung bảo bình"
     }
   ]
 }

@@ -96,39 +96,9 @@
   ],
   "vocabulary": [
     {
-      "word": "若",
-      "reading": "わか",
-      "meaning": "tuổi trẻ"
-    },
-    {
-      "word": "若若しい",
-      "reading": "わかわかしい",
-      "meaning": "trẻ trung"
-    },
-    {
       "word": "若い",
       "reading": "わかい",
       "meaning": "bé"
-    },
-    {
-      "word": "若鶏",
-      "reading": "わかどり",
-      "meaning": "gà tơ"
-    },
-    {
-      "word": "若者",
-      "reading": "わかもの",
-      "meaning": "chàng"
-    },
-    {
-      "word": "若手",
-      "reading": "わかて",
-      "meaning": "người tuổi trẻ sức lực cường tráng"
-    },
-    {
-      "word": "若人",
-      "reading": "わこうど",
-      "meaning": "người trẻ"
     },
     {
       "word": "若干",
@@ -136,14 +106,44 @@
       "meaning": "ít nhiều"
     },
     {
-      "word": "若き",
-      "reading": "わかき",
+      "word": "若者",
+      "reading": "わかもの",
+      "meaning": "chàng"
+    },
+    {
+      "word": "若",
+      "reading": "わか",
       "meaning": "tuổi trẻ"
     },
     {
-      "word": "若木",
-      "reading": "わかぎ",
-      "meaning": "cây non"
+      "word": "若さ",
+      "reading": "わかさ",
+      "meaning": "sự trẻ trung"
+    },
+    {
+      "word": "年若",
+      "reading": "としわか",
+      "meaning": "trẻ"
+    },
+    {
+      "word": "若頭",
+      "reading": "わかがしら",
+      "meaning": "lãnh đạo trẻ"
+    },
+    {
+      "word": "若番",
+      "reading": "わかばん",
+      "meaning": "số nhỏ hơn"
+    },
+    {
+      "word": "若道",
+      "reading": "にゃくどう",
+      "meaning": "tính tình dục đồng giới"
+    },
+    {
+      "word": "若鳥",
+      "reading": "わかどり",
+      "meaning": "gà con"
     }
   ]
 }

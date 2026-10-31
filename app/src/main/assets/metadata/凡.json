@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
+      "word": "平凡",
+      "reading": "へいぼん",
+      "meaning": "bình phàm"
+    },
+    {
+      "word": "平凡な",
+      "reading": "へいぼんな",
+      "meaning": "bình thường"
+    },
+    {
+      "word": "凡人",
+      "reading": "ぼんじん",
+      "meaning": "người tầm thường"
+    },
+    {
+      "word": "非凡人",
+      "reading": "ひぼんじん",
+      "meaning": "người phi thường"
+    },
+    {
       "word": "凡",
       "reading": "おおよそ",
       "meaning": "tính chất xoàng"
     },
     {
-      "word": "平平凡凡",
-      "reading": "へいへいぼんぼん",
+      "word": "不凡",
+      "reading": "ふぼん",
+      "meaning": "khác thường"
+    },
+    {
+      "word": "凡々",
+      "reading": "ぼんぼん",
       "meaning": "bình thường"
     },
     {
-      "word": "凡凡たる",
-      "reading": "",
-      "meaning": "bình thường"
+      "word": "凡試合",
+      "reading": "ぼんしあい",
+      "meaning": "trận đấu nhàm chán"
     },
     {
-      "word": "平平凡凡たる",
-      "reading": "へいへいぼんぼんたる",
-      "meaning": "bình thường"
+      "word": "凡ミス",
+      "reading": "ぼんミス",
+      "meaning": "lỗi vặt"
     },
     {
-      "word": "凡体",
-      "reading": "ぼんたい",
-      "meaning": "tầm thường"
-    },
-    {
-      "word": "大凡",
-      "reading": "おおよそ",
-      "meaning": "xấp xỉ"
-    },
-    {
-      "word": "凡愚",
-      "reading": "ぼんぐ",
-      "meaning": "người thường"
-    },
-    {
-      "word": "凡器",
-      "reading": "ぼんき",
-      "meaning": "người bình thường"
-    },
-    {
-      "word": "凡骨",
-      "reading": "ぼんこつ",
-      "meaning": "người bình thường"
-    },
-    {
-      "word": "凡手",
-      "reading": "ぼんしゅ",
-      "meaning": "ability tầm thường"
+      "word": "凡ゆる",
+      "reading": "あらゆる",
+      "meaning": "mọi thứ"
     }
   ]
 }

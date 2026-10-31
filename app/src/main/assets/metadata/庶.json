@@ -94,14 +94,29 @@
       "meaning": "tổng hợp"
     },
     {
-      "word": "庶事",
-      "reading": "しょじ",
-      "meaning": "các vấn đề khác nhau"
+      "word": "庶民的",
+      "reading": "しょみんてき",
+      "meaning": "thông thường"
     },
     {
-      "word": "凡庶",
-      "reading": "ぼんしょ",
-      "meaning": "người bình thường"
+      "word": "庶民性",
+      "reading": "しょみんせい",
+      "meaning": "bình thường"
+    },
+    {
+      "word": "庶民劇",
+      "reading": "しょみんげき",
+      "meaning": "kịch những người bình thường"
+    },
+    {
+      "word": "庶子",
+      "reading": "しょし",
+      "meaning": "con ngoài giá thú"
+    },
+    {
+      "word": "士庶",
+      "reading": "ししょ",
+      "meaning": "samurai và dân thường"
     },
     {
       "word": "衆庶",
@@ -109,29 +124,14 @@
       "meaning": "dân chúng"
     },
     {
+      "word": "庶務課",
+      "reading": "しょむか",
+      "meaning": "phòng quản trị tổng hợp"
+    },
+    {
       "word": "庶流",
       "reading": "しょりゅう",
       "meaning": "tuyên bố không hợp pháp dòng dõi gia đình"
-    },
-    {
-      "word": "庶出",
-      "reading": "しょしゅつ",
-      "meaning": "con ngoài giá thú"
-    },
-    {
-      "word": "庶幾",
-      "reading": "しょき",
-      "meaning": "mong muốn"
-    },
-    {
-      "word": "庶政",
-      "reading": "しょせい",
-      "meaning": "quan hệ chính trị"
-    },
-    {
-      "word": "庶子",
-      "reading": "しょし",
-      "meaning": "con ngoài giá thú"
     }
   ]
 }

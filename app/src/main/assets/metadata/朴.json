@@ -89,6 +89,11 @@
   ],
   "vocabulary": [
     {
+      "word": "素朴",
+      "reading": "そぼく",
+      "meaning": "mộc mạc"
+    },
+    {
       "word": "朴",
       "reading": "えのき",
       "meaning": "lá mộc lan"
@@ -99,34 +104,19 @@
       "meaning": "cây bạch phụ"
     },
     {
-      "word": "惇朴",
-      "reading": "とんぼく",
-      "meaning": "ở nhà và trung thực"
-    },
-    {
       "word": "敦朴",
       "reading": "とんぼく",
       "meaning": "đơn giản"
     },
     {
-      "word": "朴直",
-      "reading": "ぼくちょく",
-      "meaning": "bộc trực"
+      "word": "朴伴",
+      "reading": "ぼくはん",
+      "meaning": "hoa sơn trà nhật bản"
     },
     {
-      "word": "朴訥",
-      "reading": "ぼくとつ",
-      "meaning": "đơn giản"
-    },
-    {
-      "word": "質朴",
-      "reading": "しつぼく",
-      "meaning": "chất phác"
-    },
-    {
-      "word": "醇朴",
-      "reading": "じゅんぼく",
-      "meaning": "ngây thơ"
+      "word": "惇朴",
+      "reading": "とんぼく",
+      "meaning": "ở nhà và trung thực"
     },
     {
       "word": "純朴",
@@ -134,9 +124,19 @@
       "meaning": "chất phác"
     },
     {
-      "word": "淳朴",
-      "reading": "じゅんぼく",
-      "meaning": "ngây thơ"
+      "word": "純朴な",
+      "reading": "じゅんぼくな",
+      "meaning": "dại dột"
+    },
+    {
+      "word": "朴訥",
+      "reading": "ぼくとつ",
+      "meaning": "đơn giản"
+    },
+    {
+      "word": "朴念仁",
+      "reading": "ぼくねんじん",
+      "meaning": "người lạnh lùng và kiệm lời"
     }
   ]
 }

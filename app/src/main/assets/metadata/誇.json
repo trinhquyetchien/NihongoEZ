@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "誇示",
-      "reading": "こじ",
-      "meaning": "sự phô trương"
+      "word": "誇り",
+      "reading": "ほこり",
+      "meaning": "niềm tự hào"
     },
     {
       "word": "誇る",
@@ -121,24 +121,9 @@
       "meaning": "sự khoa trương"
     },
     {
-      "word": "誇大",
-      "reading": "こだい",
-      "meaning": "phóng đại"
-    },
-    {
-      "word": "誇称",
-      "reading": "こしょう",
-      "meaning": "sự thổi phồng"
-    },
-    {
-      "word": "誇色",
-      "reading": "こしょく",
-      "meaning": "vẻ mặt tự đắc"
-    },
-    {
-      "word": "誇り",
-      "reading": "ほこり",
-      "meaning": "niềm tự hào"
+      "word": "誇り顔",
+      "reading": "ほこりがお",
+      "meaning": "vẻ mặt đắc thắng"
     },
     {
       "word": "誇張法",
@@ -146,9 +131,24 @@
       "meaning": "phép ngoa dụ"
     },
     {
-      "word": "誇り顔",
-      "reading": "ほこりがお",
-      "meaning": "vẻ mặt đắc thắng"
+      "word": "誇示",
+      "reading": "こじ",
+      "meaning": "sự phô trương"
+    },
+    {
+      "word": "誇大",
+      "reading": "こだい",
+      "meaning": "phóng đại"
+    },
+    {
+      "word": "誇色",
+      "reading": "こしょく",
+      "meaning": "vẻ mặt tự đắc"
+    },
+    {
+      "word": "誇称",
+      "reading": "こしょう",
+      "meaning": "sự thổi phồng"
     },
     {
       "word": "誇らか",

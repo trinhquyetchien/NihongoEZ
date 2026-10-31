@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "放棄",
+      "reading": "ほうき",
+      "meaning": "sự vứt bỏ"
+    },
+    {
+      "word": "廃棄",
+      "reading": "はいき",
+      "meaning": "sự vứt bỏ"
+    },
+    {
+      "word": "破棄",
+      "reading": "はき",
+      "meaning": "sự hủy hoại"
+    },
+    {
       "word": "棄権",
       "reading": "きけん",
       "meaning": "sự bỏ quyền"
     },
     {
-      "word": "自棄",
-      "reading": "じき",
-      "meaning": "sự liều mạng vì tuyệt vọng"
+      "word": "廃棄物",
+      "reading": "はいきぶつ",
+      "meaning": "những thứ bỏ đi"
     },
     {
-      "word": "棄捐",
-      "reading": "きえん",
-      "meaning": "sự thiệt hại"
+      "word": "核廃棄",
+      "reading": "かくはいき",
+      "meaning": "chất thải hạt nhân"
     },
     {
-      "word": "棄却",
-      "reading": "ききゃく",
-      "meaning": "sự bác bỏ lời khởi tố"
+      "word": "棄権者",
+      "reading": "きけんしゃ",
+      "meaning": "không cử tri"
     },
     {
-      "word": "棄背",
-      "reading": "きはい",
-      "meaning": "sự bỏ và xoay lùi lại"
+      "word": "棄権率",
+      "reading": "きけんりつ",
+      "meaning": "tỷ lệ không tham gia bỏ phiếu"
     },
     {
-      "word": "棄老",
-      "reading": "きろう",
-      "meaning": "sự vứt bỏ người già"
+      "word": "遺棄",
+      "reading": "いき",
+      "meaning": "sự từ bỏ"
     },
     {
-      "word": "棄世",
-      "reading": "きせい",
-      "meaning": "sự chết"
-    },
-    {
-      "word": "棄教",
-      "reading": "ききょう",
-      "meaning": "việc bỏ đạo"
-    },
-    {
-      "word": "抛棄",
-      "reading": "ほうき",
-      "meaning": "sự từ chức"
-    },
-    {
-      "word": "棄市",
-      "reading": "きし",
-      "meaning": "xử tử công khai và bỏ xác ở chợ"
+      "word": "遺棄罪",
+      "reading": "いきざい",
+      "meaning": "tội không giúp đỡ người bị nạn"
     }
   ]
 }

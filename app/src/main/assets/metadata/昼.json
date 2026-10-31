@@ -94,24 +94,19 @@
       "meaning": "ban trưa"
     },
     {
-      "word": "昼食",
-      "reading": "ちゅうしょく",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
       "meaning": "bữa ăn trưa"
     },
     {
-      "word": "昼ドラ",
-      "reading": "ひるドラ",
-      "meaning": "phim truyện chiếu trên tv"
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "ban ngày"
     },
     {
-      "word": "昼餉",
-      "reading": "ひるげ",
-      "meaning": "bữa ăn trưa"
-    },
-    {
-      "word": "真昼",
-      "reading": "まひる",
-      "meaning": "trưa"
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "nghỉ trưa"
     },
     {
       "word": "お昼",
@@ -119,24 +114,29 @@
       "meaning": "buổi trưa"
     },
     {
-      "word": "夜昼",
-      "reading": "よるひる",
-      "meaning": "ngày đêm"
+      "word": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning": "bữa ăn trưa"
     },
     {
-      "word": "昼勤",
-      "reading": "ちゅうきん",
-      "meaning": "ca ngày"
+      "word": "昼寝",
+      "reading": "ひるね",
+      "meaning": "sự ngủ trưa"
     },
     {
-      "word": "昼礼",
-      "reading": "ちゅうれい",
-      "meaning": "buổi họp chiều"
+      "word": "昼飯",
+      "reading": "ひるめし",
+      "meaning": "bữa ăn trưa"
     },
     {
       "word": "昼時",
       "reading": "ひるどき",
       "meaning": "trưa"
+    },
+    {
+      "word": "昼三",
+      "reading": "ちゅうさん",
+      "meaning": "kỹ nữ có cấp bậc cao nhất trong khu phố đèn đỏ yoshiwara ở edo"
     }
   ]
 }

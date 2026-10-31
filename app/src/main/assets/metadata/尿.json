@@ -96,14 +96,24 @@
       "meaning": "nước đái"
     },
     {
-      "word": "尿尿",
-      "reading": "しいしい",
+      "word": "し尿",
+      "reading": "しにょう",
+      "meaning": "phân"
+    },
+    {
+      "word": "尿中",
+      "reading": "にょうちゅう",
       "meaning": "nước tiểu"
     },
     {
-      "word": "尿道外尿失禁",
-      "reading": "にょうどうがいにょうしっきん",
-      "meaning": "tiểu tiện ngoài niệu đạo"
+      "word": "無尿",
+      "reading": "むにょう",
+      "meaning": "anuria"
+    },
+    {
+      "word": "多尿",
+      "reading": "たにょう",
+      "meaning": "lợi tiểu"
     },
     {
       "word": "尿石",
@@ -111,29 +121,19 @@
       "meaning": "sỏi thận"
     },
     {
-      "word": "導尿",
-      "reading": "どうにょう",
-      "meaning": "thông tiểu"
+      "word": "尿器",
+      "reading": "にょうき",
+      "meaning": "cái bô"
     },
     {
-      "word": "尿閉",
-      "reading": "にょうへい",
-      "meaning": "cảm giác buồn tiểu nhưng ko tiểu dc"
+      "word": "尿袋",
+      "reading": "いばりぶくろ",
+      "meaning": "bàng quang"
     },
     {
-      "word": "アルブミン尿",
-      "reading": "アルブミンにょう",
-      "meaning": "albumin niệu"
-    },
-    {
-      "word": "検尿",
-      "reading": "けんにょう",
-      "meaning": "sự phân tích ure trong nước tiểu"
-    },
-    {
-      "word": "尿瓶",
-      "reading": "しびん",
-      "meaning": "bình đựng nước tiểu"
+      "word": "尿糞",
+      "reading": "ししばば",
+      "meaning": "chất bài tiết"
     },
     {
       "word": "尿酸",

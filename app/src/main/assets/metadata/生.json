@@ -107,54 +107,54 @@
   ],
   "vocabulary": [
     {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "giáo viên"
+    },
+    {
       "word": "生",
       "reading": "なま",
       "meaning": "bã"
     },
     {
-      "word": "生生",
-      "reading": "せいせい",
-      "meaning": "lớn lên"
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "bản mạng"
     },
     {
-      "word": "学生生活",
-      "reading": "がくせいせいかつ",
-      "meaning": "sinh viên cuộc sống"
-    },
-    {
-      "word": "原生生物",
-      "reading": "げんせいせいぶつ",
-      "meaning": "protist"
-    },
-    {
-      "word": "後生一生",
-      "reading": "ごしょういっしょう",
-      "meaning": "kiếp này chỉ có một lần"
-    },
-    {
-      "word": "共生生物",
-      "reading": "きょうせいせいぶつ",
-      "meaning": "vật cộng sinh"
-    },
-    {
-      "word": "野生生物",
-      "reading": "やせいせいぶつ",
-      "meaning": "động vật hoang dã"
-    },
-    {
-      "word": "寄生生物",
-      "reading": "きせいせいぶつ",
-      "meaning": "kẻ ăn bám"
-    },
-    {
-      "word": "生生しい",
-      "reading": "なまなましい",
-      "meaning": "mới"
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "bãi cỏ"
     },
     {
       "word": "生き生き",
       "reading": "いきいき",
       "meaning": "chói"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "sự tái sinh"
+    },
+    {
+      "word": "生む",
+      "reading": "うむ",
+      "meaning": "sanh"
+    },
+    {
+      "word": "生中",
+      "reading": "なまちゅう",
+      "meaning": "bia tươi"
+    },
+    {
+      "word": "同生",
+      "reading": "どうせい",
+      "meaning": "sinh ra từ cùng một cha mẹ"
+    },
+    {
+      "word": "産生",
+      "reading": "さんせい",
+      "meaning": "tạo ra"
     }
   ]
 }

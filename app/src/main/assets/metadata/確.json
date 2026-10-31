@@ -108,19 +108,9 @@
   ],
   "vocabulary": [
     {
-      "word": "確",
+      "word": "確か",
       "reading": "たしか",
-      "meaning": "nhất định"
-    },
-    {
-      "word": "確定",
-      "reading": "かくてい",
-      "meaning": "確定価格:giá cố định"
-    },
-    {
-      "word": "確実",
-      "reading": "かくじつ",
-      "meaning": "chính xác"
+      "meaning": "chắc là"
     },
     {
       "word": "確認",
@@ -128,34 +118,44 @@
       "meaning": "sự xác nhận"
     },
     {
-      "word": "確と",
-      "reading": "しかと",
-      "meaning": "chắc chắn"
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "chính xác"
     },
     {
-      "word": "適確",
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "chính xác"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "rõ ràng và chính xác"
+    },
+    {
+      "word": "確率",
+      "reading": "かくりつ",
+      "meaning": "xác suất"
+    },
+    {
+      "word": "的確",
       "reading": "てきかく",
       "meaning": "đích xác"
     },
     {
-      "word": "確報",
-      "reading": "かくほう",
-      "meaning": "báo cáo xác thực"
+      "word": "確保",
+      "reading": "かくほ",
+      "meaning": "sự bảo hộ"
     },
     {
-      "word": "確乎",
-      "reading": "かっこ",
-      "meaning": "chắc chắn"
+      "word": "確定",
+      "reading": "かくてい",
+      "meaning": "確定価格:giá cố định"
     },
     {
-      "word": "確答",
-      "reading": "かくとう",
-      "meaning": "câu trả lời xác thực"
-    },
-    {
-      "word": "確言",
-      "reading": "かくげん",
-      "meaning": "sự khẳng định"
+      "word": "確信",
+      "reading": "かくしん",
+      "meaning": "sự tin tưởng"
     }
   ]
 }

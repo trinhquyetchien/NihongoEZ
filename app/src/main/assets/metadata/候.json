@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "候",
-      "reading": "こう",
-      "meaning": "thời tiết"
+      "word": "候補",
+      "reading": "こうほ",
+      "meaning": "dự khuyết"
     },
     {
-      "word": "ツェルウェーガー症候群（ゼルウェーガー症候群）",
-      "reading": "ツェルウェーガーしょうこうぐん（ゼルウェーガーしょうこうぐん）",
-      "meaning": "hội chứng zellweger"
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "khí hậu"
     },
     {
       "word": "天候",
@@ -104,39 +104,39 @@
       "meaning": "thời tiết"
     },
     {
-      "word": "徴候",
-      "reading": "ちょうこう",
-      "meaning": "ký tên"
+      "word": "候補者",
+      "reading": "こうほしゃ",
+      "meaning": "người được đề cử"
     },
     {
-      "word": "候補",
-      "reading": "こうほ",
-      "meaning": "dự khuyết"
+      "word": "候補生",
+      "reading": "こうほせい",
+      "meaning": "thanh niên đang học tập để trở thành cảnh sát hoặc sĩ quan quân đội"
     },
     {
-      "word": "季候",
-      "reading": "きこう",
-      "meaning": "khí hậu"
+      "word": "全候補",
+      "reading": "ぜんこうほ",
+      "meaning": "tất cả các ứng cử viên"
     },
     {
-      "word": "伺候",
-      "reading": "しこう",
-      "meaning": "đợi ở trên"
+      "word": "候補地",
+      "reading": "こうほち",
+      "meaning": "nơi được chọn"
     },
     {
-      "word": "時候",
-      "reading": "じこう",
-      "meaning": "khí hậu"
+      "word": "症候群",
+      "reading": "しょうこうぐん",
+      "meaning": "hội chứng"
     },
     {
-      "word": "候調",
-      "reading": "そうろうちょう",
-      "meaning": "kiểu thư từ"
+      "word": "気候学",
+      "reading": "きこうがく",
+      "meaning": "khí hậu học"
     },
     {
-      "word": "又候",
-      "reading": "またぞろ",
-      "meaning": "lại một lần nữa"
+      "word": "立候補",
+      "reading": "りっこうほ",
+      "meaning": "sự ứng cử"
     }
   ]
 }

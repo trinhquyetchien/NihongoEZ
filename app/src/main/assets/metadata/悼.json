@@ -92,26 +92,6 @@
       "meaning": "sự truy điệu"
     },
     {
-      "word": "悼辞",
-      "reading": "とうじ",
-      "meaning": "lời chia buồn"
-    },
-    {
-      "word": "悼む",
-      "reading": "いたむ",
-      "meaning": "chia buồn"
-    },
-    {
-      "word": "哀悼",
-      "reading": "あいとう",
-      "meaning": "lời chia buồn"
-    },
-    {
-      "word": "追悼ミサ",
-      "reading": "ついとうミサ",
-      "meaning": "lễ tưởng niệm"
-    },
-    {
       "word": "追悼会",
       "reading": "ついとうかい",
       "meaning": "lễ truy điệu"
@@ -122,19 +102,39 @@
       "meaning": "lễ truy điệu"
     },
     {
-      "word": "追悼碑",
-      "reading": "ついとうひ",
-      "meaning": "cenotaph"
-    },
-    {
       "word": "追悼塔",
       "reading": "ついとうとう",
       "meaning": "đài tưởng niệm"
     },
     {
-      "word": "哀悼の意",
-      "reading": "あいとうのい",
+      "word": "追悼碑",
+      "reading": "ついとうひ",
+      "meaning": "cenotaph"
+    },
+    {
+      "word": "哀悼",
+      "reading": "あいとう",
+      "meaning": "lời chia buồn"
+    },
+    {
+      "word": "悼む",
+      "reading": "いたむ",
       "meaning": "chia buồn"
+    },
+    {
+      "word": "悼辞",
+      "reading": "とうじ",
+      "meaning": "lời chia buồn"
+    },
+    {
+      "word": "追悼施設",
+      "reading": "ついとうしせつ",
+      "meaning": "khu tưởng niệm"
+    },
+    {
+      "word": "追悼演説",
+      "reading": "ついとうえんぜつ",
+      "meaning": "diễn văn tưởng niệm"
     }
   ]
 }

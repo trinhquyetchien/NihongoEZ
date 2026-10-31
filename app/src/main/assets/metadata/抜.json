@@ -96,14 +96,14 @@
   ],
   "vocabulary": [
     {
-      "word": "抜け抜け",
-      "reading": "ぬけぬけ",
-      "meaning": "trắng trợn"
+      "word": "抜く",
+      "reading": "ぬく",
+      "meaning": "bạt"
     },
     {
-      "word": "抜きつ抜かれつ",
-      "reading": "ぬきつぬかれつ",
-      "meaning": "khi thì mình vượt qua người ta"
+      "word": "海抜",
+      "reading": "かいばつ",
+      "meaning": "chiều cao trên mặt nước biển"
     },
     {
       "word": "抜き",
@@ -111,39 +111,39 @@
       "meaning": "loại bỏ"
     },
     {
-      "word": "抜染",
-      "reading": "ぬきぞめ",
-      "meaning": "kỹ thuật tẩy màu"
+      "word": "中抜き",
+      "reading": "なかぬき",
+      "meaning": "vạch ra"
     },
     {
-      "word": "抜去",
-      "reading": "ばっきょ",
-      "meaning": "nhổ bỏ"
+      "word": "水抜き",
+      "reading": "みずぬき",
+      "meaning": "１．ống thoát nước nhỏ ２．việc thoát nước được tích lũy trong thời gian dài bằng thiết bị"
     },
     {
-      "word": "抜本",
-      "reading": "ばっぽん",
-      "meaning": "diệt trừ"
+      "word": "抜きる",
+      "reading": "ぬきる",
+      "meaning": "tháo ra"
     },
     {
-      "word": "目抜",
-      "reading": "めぬけ",
-      "meaning": "dùng để chỉ một nhóm các loài cá nước mặn lớn có màu đỏ thuộc họ cá mù làn"
+      "word": "歯抜け",
+      "reading": "はぬけ",
+      "meaning": "không có răng"
     },
     {
-      "word": "卓抜",
-      "reading": "たくばつ",
-      "meaning": "sự trội hơn"
+      "word": "抜群",
+      "reading": "ばつぐん",
+      "meaning": "sự xuất sắc"
     },
     {
-      "word": "不抜",
-      "reading": "ふばつ",
-      "meaning": "vô địch"
+      "word": "選抜",
+      "reading": "せんばつ",
+      "meaning": "sự chọn lọc"
     },
     {
-      "word": "抜糸",
-      "reading": "ばっし",
-      "meaning": "sự gỡ chỉ"
+      "word": "抜粋",
+      "reading": "ばっすい",
+      "meaning": "đoạn trích"
     }
   ]
 }

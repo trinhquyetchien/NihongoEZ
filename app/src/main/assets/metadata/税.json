@@ -109,19 +109,9 @@
       "meaning": "thuế"
     },
     {
-      "word": "所得税減税",
-      "reading": "しょとくぜいげんぜい",
-      "meaning": "giảm thuế thu nhập"
-    },
-    {
       "word": "税金",
       "reading": "ぜいきん",
       "meaning": "sắc thuế"
-    },
-    {
-      "word": "税込",
-      "reading": "ぜいこみ",
-      "meaning": "đã bao gồm thuế"
     },
     {
       "word": "税関",
@@ -129,14 +119,29 @@
       "meaning": "hải quan"
     },
     {
-      "word": "重税",
-      "reading": "じゅうぜい",
-      "meaning": "hệ thống thuế nặng"
+      "word": "免税",
+      "reading": "めんぜい",
+      "meaning": "sự miễn thuế"
     },
     {
-      "word": "減税",
-      "reading": "げんぜい",
-      "meaning": "hạ thuế"
+      "word": "年税",
+      "reading": "ねんぜい",
+      "meaning": "thuế hàng năm"
+    },
+    {
+      "word": "県税",
+      "reading": "けんぜい",
+      "meaning": "thuế ở tỉnh"
+    },
+    {
+      "word": "市税",
+      "reading": "しぜい",
+      "meaning": "thuế thành phố"
+    },
+    {
+      "word": "内税",
+      "reading": "うちぜい",
+      "meaning": "giá đã bao gồm cả thuế"
     },
     {
       "word": "外税",
@@ -144,14 +149,9 @@
       "meaning": "giá không bao gồm thuế"
     },
     {
-      "word": "酷税",
-      "reading": "こくぜい",
-      "meaning": "hệ thống thuế nặng"
-    },
-    {
-      "word": "国税",
-      "reading": "こくぜい",
-      "meaning": "thuế quốc gia"
+      "word": "地税",
+      "reading": "ちぜい",
+      "meaning": "thuế đất.+ một loại thuế đánh vào giá trị hoặc kích thước của mảnh đất"
     }
   ]
 }

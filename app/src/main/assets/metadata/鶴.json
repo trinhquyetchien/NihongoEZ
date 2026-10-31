@@ -90,9 +90,9 @@
       "meaning": "con sếu"
     },
     {
-      "word": "カナダ鶴",
-      "reading": "カナダづる",
-      "meaning": "sếu đồi cát"
+      "word": "鶴来る",
+      "reading": "つるきたる",
+      "meaning": "sự di cư của sếu đến nơi làm tổ của chúng"
     },
     {
       "word": "黒鶴",
@@ -100,29 +100,24 @@
       "meaning": "sếu cổ trắng"
     },
     {
-      "word": "紅鶴",
-      "reading": "べにづる",
-      "meaning": "chim hồng hạc"
-    },
-    {
-      "word": "鸛鶴",
-      "reading": "こうづる",
-      "meaning": "hạc trắng á đông"
-    },
-    {
       "word": "鶴科",
       "reading": "つるか",
       "meaning": "họ chim hạc"
     },
     {
-      "word": "鍋鶴",
-      "reading": "なべづる",
-      "meaning": "sếu mào"
+      "word": "鶴亀",
+      "reading": "つるかめ",
+      "meaning": "hạc và rùa"
     },
     {
-      "word": "鶴嘴",
-      "reading": "つるはし",
-      "meaning": "cuốc chim"
+      "word": "姉羽鶴",
+      "reading": "あねはづる",
+      "meaning": "sếu khuê tú"
+    },
+    {
+      "word": "紅鶴",
+      "reading": "べにづる",
+      "meaning": "chim hồng hạc"
     },
     {
       "word": "冠鶴",
@@ -133,6 +128,11 @@
       "word": "真鶴",
       "reading": "まなづる",
       "meaning": "sếu gáy trắng"
+    },
+    {
+      "word": "千羽鶴",
+      "reading": "せんばづる",
+      "meaning": "chuỗi 1000 con hạc gấp bằng giấy"
     }
   ]
 }

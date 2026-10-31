@@ -104,9 +104,24 @@
   ],
   "vocabulary": [
     {
-      "word": "察",
-      "reading": "さつ",
-      "meaning": "giữ trật tự"
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "cảnh sát"
+    },
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "sự quan sát"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "sự khám bệnh"
+    },
+    {
+      "word": "視察",
+      "reading": "しさつ",
+      "meaning": "sự thị sát"
     },
     {
       "word": "察する",
@@ -114,44 +129,29 @@
       "meaning": "cảm thấy"
     },
     {
-      "word": "警察",
-      "reading": "けいさつ",
-      "meaning": "cảnh sát"
+      "word": "警察力",
+      "reading": "けいさつりょく",
+      "meaning": "lực lượng cảnh sát"
     },
     {
-      "word": "推察",
-      "reading": "すいさつ",
-      "meaning": "suy xét"
+      "word": "州警察",
+      "reading": "しゅうけいさつ",
+      "meaning": "cảnh sát bang"
     },
     {
-      "word": "察し",
-      "reading": "さっし",
-      "meaning": "sự xem xét"
+      "word": "観察者",
+      "reading": "かんさつしゃ",
+      "meaning": "người theo dõi"
     },
     {
-      "word": "察知",
-      "reading": "さっち",
-      "meaning": "cảm thấy"
+      "word": "観察力",
+      "reading": "かんさつりょく",
+      "meaning": "khả năng quan sát"
     },
     {
-      "word": "考察",
-      "reading": "こうさつ",
-      "meaning": "sự khảo sát"
-    },
-    {
-      "word": "透察",
-      "reading": "とうさつ",
-      "meaning": "sự hiểu thấu"
-    },
-    {
-      "word": "詳察",
-      "reading": "しょうさつ",
-      "meaning": "pamfơlê"
-    },
-    {
-      "word": "偵察",
-      "reading": "ていさつ",
-      "meaning": "trinh sát"
+      "word": "警察署",
+      "reading": "けいさつしょ",
+      "meaning": "sở cảnh sát"
     }
   ]
 }

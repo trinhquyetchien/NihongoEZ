@@ -54,9 +54,9 @@
   ],
   "vocabulary": [
     {
-      "word": "芥藍",
-      "reading": "カイラン",
-      "meaning": "rau cải làn"
+      "word": "芥川賞",
+      "reading": "あくたがわしょう",
+      "meaning": "giải thưởng akutagawa"
     },
     {
       "word": "芥虫",
@@ -64,24 +64,9 @@
       "meaning": "bọ bụi"
     },
     {
-      "word": "芥子",
-      "reading": "からし",
-      "meaning": "cây cải"
-    },
-    {
-      "word": "塵芥",
-      "reading": "じんかい",
-      "meaning": "rác rưởi"
-    },
-    {
       "word": "芥箱",
       "reading": "ごみばこ",
       "meaning": "thùng rác"
-    },
-    {
-      "word": "厨芥",
-      "reading": "ちゅうかい",
-      "meaning": "rác thải nhà bếp"
     },
     {
       "word": "田芥",
@@ -89,19 +74,34 @@
       "meaning": "mao lương"
     },
     {
-      "word": "芥川賞",
-      "reading": "あくたがわしょう",
-      "meaning": "giải thưởng akutagawa"
+      "word": "芥藍",
+      "reading": "カイラン",
+      "meaning": "rau cải làn"
     },
     {
-      "word": "薊芥子",
-      "reading": "あざみげし",
-      "meaning": "cà dại hoa vàng"
+      "word": "芥子",
+      "reading": "からし",
+      "meaning": "cây cải"
     },
     {
       "word": "小芥子",
       "reading": "こけし",
       "meaning": "búp bê gỗ kokeshi"
+    },
+    {
+      "word": "洋芥子",
+      "reading": "ようがらし",
+      "meaning": "cây mù tạt"
+    },
+    {
+      "word": "芥子色",
+      "reading": "からしいろ",
+      "meaning": "màu vàng mù tạt"
+    },
+    {
+      "word": "芥子油",
+      "reading": "からしゆ",
+      "meaning": "dầu mù tạt"
     }
   ]
 }

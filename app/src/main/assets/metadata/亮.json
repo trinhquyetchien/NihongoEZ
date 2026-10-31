@@ -83,6 +83,11 @@
   ],
   "vocabulary": [
     {
+      "word": "亮月",
+      "reading": "りょうげつ",
+      "meaning": "ánh trăng sáng ngời"
+    },
+    {
       "word": "亮直",
       "reading": "りょうちょく",
       "meaning": "sự hợp pháp"
@@ -93,19 +98,14 @@
       "meaning": "lóng lánh"
     },
     {
-      "word": "亮察",
-      "reading": "りょうさつ",
-      "meaning": "sự thông cảm"
-    },
-    {
       "word": "亮然",
       "reading": "りょうぜん",
       "meaning": "rõ ràng"
     },
     {
-      "word": "亮月",
-      "reading": "りょうげつ",
-      "meaning": "ánh trăng sáng ngời"
+      "word": "亮察",
+      "reading": "りょうさつ",
+      "meaning": "sự thông cảm"
     },
     {
       "word": "亮然たる",

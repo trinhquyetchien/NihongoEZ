@@ -88,39 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "戴",
-      "reading": "",
-      "meaning": "được suy tôn với"
-    },
-    {
-      "word": "戴く",
-      "reading": "いただく",
-      "meaning": "ăn"
-    },
-    {
-      "word": "推戴",
-      "reading": "すいたい",
-      "meaning": "chỉ huy qua gần"
-    },
-    {
-      "word": "戴白",
-      "reading": "たいはく",
-      "meaning": "những người cũ"
-    },
-    {
-      "word": "菊戴",
-      "reading": "きくいただき",
-      "meaning": "chim mào vàng"
-    },
-    {
-      "word": "奉戴",
-      "reading": "ほうたい",
-      "meaning": "có một hoàng tử cho một chủ tịch"
-    },
-    {
       "word": "頂戴",
       "reading": "ちょうだい",
       "meaning": "nhận"
+    },
+    {
+      "word": "頂戴物",
+      "reading": "ちょうだいもの",
+      "meaning": "quà tặng"
     },
     {
       "word": "戴冠",
@@ -128,14 +103,39 @@
       "meaning": "sự lên ngôi"
     },
     {
-      "word": "戴勝",
-      "reading": "やつがしら",
-      "meaning": "chim đầu rìu"
-    },
-    {
       "word": "戴冠式",
       "reading": "たいかんしき",
       "meaning": "lễ lên ngôi"
+    },
+    {
+      "word": "戴き物",
+      "reading": "いただきもの",
+      "meaning": "tặng"
+    },
+    {
+      "word": "戴く",
+      "reading": "いただく",
+      "meaning": "ăn"
+    },
+    {
+      "word": "戴ける",
+      "reading": "いただける",
+      "meaning": "để nhận để khá tốt"
+    },
+    {
+      "word": "戴",
+      "reading": "",
+      "meaning": "được suy tôn với"
+    },
+    {
+      "word": "推戴",
+      "reading": "すいたい",
+      "meaning": "chỉ huy qua gần"
+    },
+    {
+      "word": "奉戴",
+      "reading": "ほうたい",
+      "meaning": "có một hoàng tử cho một chủ tịch"
     }
   ]
 }

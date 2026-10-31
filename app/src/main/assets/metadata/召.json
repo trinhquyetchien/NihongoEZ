@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "召",
-      "reading": "めす",
-      "meaning": "gọi"
-    },
-    {
-      "word": "召還",
-      "reading": "しょうかん",
-      "meaning": "gọi về"
+      "word": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "ăn"
     },
     {
       "word": "召す",
@@ -104,24 +99,24 @@
       "meaning": "ăn"
     },
     {
-      "word": "召集",
-      "reading": "しょうしゅう",
-      "meaning": "sự triệu tập"
-    },
-    {
       "word": "召喚",
       "reading": "しょうかん",
       "meaning": "lệnh triệu tập"
     },
     {
-      "word": "召天",
-      "reading": "しょうてん",
-      "meaning": "death"
+      "word": "召喚状",
+      "reading": "しょうかんじょう",
+      "meaning": "gọi"
     },
     {
-      "word": "召命",
-      "reading": "しょうめい",
-      "meaning": "gọi"
+      "word": "召集",
+      "reading": "しょうしゅう",
+      "meaning": "sự triệu tập"
+    },
+    {
+      "word": "召集者",
+      "reading": "しょうしゅうしゃ",
+      "meaning": "người triệu tập cuộc hội họp"
     },
     {
       "word": "召し",
@@ -129,14 +124,19 @@
       "meaning": "đòi ra hầu tòa"
     },
     {
-      "word": "召請",
-      "reading": "しょうせい",
-      "meaning": "gọi cùng nhau"
+      "word": "召還",
+      "reading": "しょうかん",
+      "meaning": "gọi về"
     },
     {
-      "word": "応召",
-      "reading": "おうしょう",
-      "meaning": "việc bị triệu tập"
+      "word": "お召し",
+      "reading": "おめし",
+      "meaning": "lệnh gọi ai đến"
+    },
+    {
+      "word": "召使",
+      "reading": "めしつかい",
+      "meaning": "người hầu"
     }
   ]
 }

@@ -85,39 +85,24 @@
   ],
   "vocabulary": [
     {
+      "word": "佳句",
+      "reading": "かく",
+      "meaning": "câu"
+    },
+    {
       "word": "佳",
       "reading": "か",
       "meaning": "đẹp"
     },
     {
-      "word": "佳景",
-      "reading": "かけい",
-      "meaning": "cảnh đẹp"
-    },
-    {
-      "word": "佳言",
-      "reading": "かげん",
-      "meaning": "những từ tốt"
-    },
-    {
-      "word": "佳宴",
-      "reading": "かえん",
-      "meaning": "yến tiệc vui nhộn"
-    },
-    {
-      "word": "佳醸",
-      "reading": "かじょう",
-      "meaning": "sake ngọt"
-    },
-    {
-      "word": "佳日",
-      "reading": "かじつ",
-      "meaning": "ngày tốt"
-    },
-    {
-      "word": "佳趣",
+      "word": "佳酒",
       "reading": "かしゅ",
-      "meaning": "ấn tượng tốt"
+      "meaning": "rượu ngon"
+    },
+    {
+      "word": "佳木",
+      "reading": "かぼく",
+      "meaning": "người thuê làm những công việc chung trong nhà hoặc khách sạn"
     },
     {
       "word": "佳味",
@@ -125,14 +110,29 @@
       "meaning": "vị hấp dẫn"
     },
     {
-      "word": "佳月",
-      "reading": "かげつ",
-      "meaning": "tháng tốt"
+      "word": "佳例",
+      "reading": "かれい",
+      "meaning": "ví dụ tốt"
     },
     {
-      "word": "佳肴",
-      "reading": "かこう",
-      "meaning": "ngon miệng"
+      "word": "佳客",
+      "reading": "かかく",
+      "meaning": "khách quý"
+    },
+    {
+      "word": "佳賞",
+      "reading": "かしょう",
+      "meaning": "sự khen ngợi"
+    },
+    {
+      "word": "佳編",
+      "reading": "かへん",
+      "meaning": "bài thơ nổi bật"
+    },
+    {
+      "word": "佳言",
+      "reading": "かげん",
+      "meaning": "những từ tốt"
     }
   ]
 }

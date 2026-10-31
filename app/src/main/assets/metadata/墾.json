@@ -84,16 +84,6 @@
   ],
   "vocabulary": [
     {
-      "word": "未墾",
-      "reading": "みこん",
-      "meaning": "bỏ hoang"
-    },
-    {
-      "word": "墾田",
-      "reading": "こんでん",
-      "meaning": "ruộng lúa mới"
-    },
-    {
       "word": "開墾",
       "reading": "かいこん",
       "meaning": "sự khai khẩn"
@@ -104,11 +94,6 @@
       "meaning": "đất khai khẩn"
     },
     {
-      "word": "未墾地",
-      "reading": "みこんち",
-      "meaning": "bỏ hoang hạ cánh"
-    },
-    {
       "word": "未開墾",
       "reading": "みかいこん",
       "meaning": "không cày cấy"
@@ -117,6 +102,21 @@
       "word": "開墾鍬",
       "reading": "かいこんくわ",
       "meaning": "cuốc hai lưỡi"
+    },
+    {
+      "word": "墾田",
+      "reading": "こんでん",
+      "meaning": "ruộng lúa mới"
+    },
+    {
+      "word": "未墾",
+      "reading": "みこん",
+      "meaning": "bỏ hoang"
+    },
+    {
+      "word": "未墾地",
+      "reading": "みこんち",
+      "meaning": "bỏ hoang hạ cánh"
     },
     {
       "word": "未開墾地",

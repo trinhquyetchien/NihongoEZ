@@ -94,54 +94,54 @@
   ],
   "vocabulary": [
     {
-      "word": "登り",
-      "reading": "のぼり",
-      "meaning": "sự đi lên"
+      "word": "登山",
+      "reading": "とざん",
+      "meaning": "sự leo núi"
     },
     {
-      "word": "先登",
-      "reading": "せんとう",
-      "meaning": "đứng đầu"
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaning": "lối vào"
     },
     {
-      "word": "登頂",
-      "reading": "とうちょう",
-      "meaning": "sự leo tới đỉnh núi"
+      "word": "登録",
+      "reading": "とうろく",
+      "meaning": "sự đăng ký"
     },
     {
-      "word": "登極",
-      "reading": "とうきょく",
-      "meaning": "sự thâm nhập"
+      "word": "登校",
+      "reading": "とうこう",
+      "meaning": "sự có mặt"
     },
     {
-      "word": "登科",
-      "reading": "とうか",
-      "meaning": "đi qua dân sự dịch vụ kỳ thi"
+      "word": "前登録",
+      "reading": "ぜんとうろく",
+      "meaning": "đăng ký trước"
     },
     {
-      "word": "登第",
-      "reading": "とうだい",
-      "meaning": "sự thi đỗ"
+      "word": "登場感",
+      "reading": "とうじょうかん",
+      "meaning": "ấn tượng ra mắt"
     },
     {
-      "word": "葦登",
-      "reading": "よしのぼり",
-      "meaning": "cá nước ngọt thuộc họ gobiidae"
+      "word": "登録機",
+      "reading": "とうろくき",
+      "meaning": "máy đăng kí"
     },
     {
-      "word": "登る",
-      "reading": "のぼる",
-      "meaning": "được đưa ra"
+      "word": "登録証",
+      "reading": "とうろくしょう",
+      "meaning": "thẻ đăng kí"
     },
     {
-      "word": "登庸",
-      "reading": "とうよう",
-      "meaning": "sự phân công"
+      "word": "登山者",
+      "reading": "とざんしゃ",
+      "meaning": "người leo núi"
     },
     {
-      "word": "登城",
-      "reading": "とじょう",
-      "meaning": "sự có mặt ở một lâu đài"
+      "word": "登山家",
+      "reading": "とざんか",
+      "meaning": "người leo núi"
     }
   ]
 }

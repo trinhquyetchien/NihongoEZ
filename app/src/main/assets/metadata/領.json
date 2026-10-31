@@ -106,19 +106,44 @@
   ],
   "vocabulary": [
     {
-      "word": "領",
-      "reading": "りょう",
-      "meaning": "lãnh thổ của"
+      "word": "要領",
+      "reading": "ようりょう",
+      "meaning": "nét phác thảo"
     },
     {
-      "word": "受領",
-      "reading": "じゅりょう",
+      "word": "領収",
+      "reading": "りょうしゅう",
       "meaning": "sự nhận"
     },
     {
-      "word": "横領",
-      "reading": "おうりょう",
-      "meaning": "sự tham ô"
+      "word": "領事",
+      "reading": "りょうじ",
+      "meaning": "lãnh sự"
+    },
+    {
+      "word": "領域",
+      "reading": "りょういき",
+      "meaning": "lãnh thổ"
+    },
+    {
+      "word": "占領",
+      "reading": "せんりょう",
+      "meaning": "sự bắt giữ"
+    },
+    {
+      "word": "領土",
+      "reading": "りょうど",
+      "meaning": "lãnh thổ"
+    },
+    {
+      "word": "領地",
+      "reading": "りょうち",
+      "meaning": "lãnh địa"
+    },
+    {
+      "word": "領海",
+      "reading": "りょうかい",
+      "meaning": "hải phận"
     },
     {
       "word": "領主",
@@ -126,34 +151,9 @@
       "meaning": "lãnh chúa"
     },
     {
-      "word": "領分",
-      "reading": "りょうぶん",
-      "meaning": "lãnh thổ"
-    },
-    {
-      "word": "綱領",
-      "reading": "こうりょう",
-      "meaning": "cương lĩnh"
-    },
-    {
-      "word": "御領",
-      "reading": "ごりょう",
-      "meaning": "lãnh địa của hoàng gia"
-    },
-    {
-      "word": "盤領",
-      "reading": "まるえり",
-      "meaning": "cổ áo tròn"
-    },
-    {
-      "word": "方領",
-      "reading": "ほうりょう",
-      "meaning": "cổ áo vuông"
-    },
-    {
-      "word": "ウェルニッケ領",
-      "reading": "ウェルニッケりょう",
-      "meaning": "vùng wernicke"
+      "word": "領",
+      "reading": "りょう",
+      "meaning": "lãnh thổ của"
     }
   ]
 }

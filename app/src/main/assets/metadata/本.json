@@ -94,34 +94,14 @@
       "meaning": "sách"
     },
     {
-      "word": "本本",
-      "reading": "もともと",
-      "meaning": "trước đấy"
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning": "giá sách"
     },
     {
-      "word": "本家本元",
-      "reading": "ほんけほんもと",
-      "meaning": "nơi sinh"
-    },
-    {
-      "word": "日本語教本",
-      "reading": "にほんごきょうほん",
-      "meaning": "sách giáo khoa tiếng nhật"
-    },
-    {
-      "word": "本人対本人",
-      "reading": "ほんにんたいほんにん",
-      "meaning": "giữa người ủy thác với người ủy thác"
-    },
-    {
-      "word": "本数",
-      "reading": "ほんすう",
-      "meaning": "số lượng"
-    },
-    {
-      "word": "絵本",
-      "reading": "えほん",
-      "meaning": "sách tranh"
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "kiểu mẫu"
     },
     {
       "word": "本格",
@@ -129,14 +109,34 @@
       "meaning": "sự thích hợp"
     },
     {
-      "word": "本館",
-      "reading": "ほんかん",
-      "meaning": "tòa nhà chính"
+      "word": "根本",
+      "reading": "こんぽん",
+      "meaning": "nguồn gốc"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "nguyên văn"
     },
     {
       "word": "本場",
       "reading": "ほんば",
       "meaning": "nhà"
+    },
+    {
+      "word": "手本",
+      "reading": "てほん",
+      "meaning": "chữ"
+    },
+    {
+      "word": "本館",
+      "reading": "ほんかん",
+      "meaning": "tòa nhà chính"
+    },
+    {
+      "word": "ご本",
+      "reading": "ごほん",
+      "meaning": "sách"
     }
   ]
 }

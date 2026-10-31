@@ -89,29 +89,39 @@
   ],
   "vocabulary": [
     {
-      "word": "垣",
-      "reading": "かき",
-      "meaning": "hàng rào"
-    },
-    {
       "word": "垣根",
       "reading": "かきね",
       "meaning": "hàng rào"
     },
     {
-      "word": "籬垣",
-      "reading": "ませがき",
+      "word": "石垣",
+      "reading": "いしがき",
+      "meaning": "tường đá"
+    },
+    {
+      "word": "石垣鯛",
+      "reading": "いしがきだい",
+      "meaning": "cá trác đá"
+    },
+    {
+      "word": "垣",
+      "reading": "かき",
       "meaning": "hàng rào"
     },
     {
-      "word": "垣牆",
-      "reading": "えんしょう",
-      "meaning": "rào đón"
+      "word": "垣間",
+      "reading": "かきま",
+      "meaning": "khe hở"
     },
     {
-      "word": "柴垣",
-      "reading": "しばがき",
-      "meaning": "hàng rào bằng cây gỗ tạp"
+      "word": "八重垣",
+      "reading": "やえがき",
+      "meaning": "hàng rào nhiều lớp"
+    },
+    {
+      "word": "鹿垣",
+      "reading": "ししがき",
+      "meaning": "hàng rào bằng cành cây xung quanh một cánh đồng để ngăn chặn lợn rừng và hươu nai"
     },
     {
       "word": "杉垣",
@@ -119,24 +129,14 @@
       "meaning": "hàng rào cây tuyết tùng"
     },
     {
-      "word": "中垣",
-      "reading": "なかがき",
-      "meaning": "hàng rào ở giữa"
+      "word": "紫微垣",
+      "reading": "しびえん",
+      "meaning": "tử vi viên"
     },
     {
-      "word": "竹垣",
-      "reading": "たけがき",
-      "meaning": "hàng rào tre"
-    },
-    {
-      "word": "友垣",
-      "reading": "ともがき",
-      "meaning": "người bạn"
-    },
-    {
-      "word": "忌垣",
-      "reading": "いがき",
-      "meaning": "tránh né xung quanh một miếu thờ"
+      "word": "築垣",
+      "reading": "ついがき",
+      "meaning": "tường đất"
     }
   ]
 }

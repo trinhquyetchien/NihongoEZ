@@ -109,14 +109,39 @@
   ],
   "vocabulary": [
     {
+      "word": "自己",
+      "reading": "じこ",
+      "meaning": "sự tự bản thân"
+    },
+    {
+      "word": "自己中",
+      "reading": "じこちゅう",
+      "meaning": "ích kỉ"
+    },
+    {
+      "word": "自己目",
+      "reading": "じこもく",
+      "meaning": "mục tiêu bản thân"
+    },
+    {
+      "word": "自己愛",
+      "reading": "じこあい",
+      "meaning": "tự kiêu"
+    },
+    {
+      "word": "非自己",
+      "reading": "ひじこ",
+      "meaning": "chất ngoài"
+    },
+    {
+      "word": "自己像",
+      "reading": "じこぞう",
+      "meaning": "sự tự cao"
+    },
+    {
       "word": "己",
       "reading": "おのれ",
       "meaning": "kỷ"
-    },
-    {
-      "word": "利己",
-      "reading": "りこ",
-      "meaning": "cái lợi riêng"
     },
     {
       "word": "己が",
@@ -124,39 +149,14 @@
       "meaning": "của chính mình"
     },
     {
-      "word": "克己",
-      "reading": "こっき",
-      "meaning": "khắc kỵ"
-    },
-    {
-      "word": "己巳",
-      "reading": "つちのとみ",
-      "meaning": "kỷ tỵ"
-    },
-    {
       "word": "己と",
       "reading": "おのれと",
       "meaning": "cái tôi"
     },
     {
-      "word": "一己",
-      "reading": "いっこ",
-      "meaning": "cá nhân"
-    },
-    {
-      "word": "自己",
-      "reading": "じこ",
-      "meaning": "sự tự bản thân"
-    },
-    {
-      "word": "知己",
-      "reading": "ちき",
-      "meaning": "bạn tri kỷ、bạn có thể hiểu được nình"
-    },
-    {
-      "word": "己未",
-      "reading": "つちのとひつじ",
-      "meaning": "năm kỷ mùi"
+      "word": "自己満",
+      "reading": "じこまん",
+      "meaning": "tự mãn"
     }
   ]
 }

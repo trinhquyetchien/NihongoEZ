@@ -104,14 +104,29 @@
   ],
   "vocabulary": [
     {
-      "word": "祖",
-      "reading": "そ",
-      "meaning": "tổ tiên"
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "ông"
     },
     {
-      "word": "祖父祖母",
-      "reading": "じじばば",
-      "meaning": "ông bà"
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "bà"
+    },
+    {
+      "word": "先祖",
+      "reading": "せんぞ",
+      "meaning": "gia tiên"
+    },
+    {
+      "word": "祖先",
+      "reading": "そせん",
+      "meaning": "ông tổ"
+    },
+    {
+      "word": "大祖父",
+      "reading": "おおおおじ",
+      "meaning": "cụ ông"
     },
     {
       "word": "元祖",
@@ -119,39 +134,24 @@
       "meaning": "tổ sư"
     },
     {
-      "word": "祖霊",
-      "reading": "それい",
-      "meaning": "linh hồn tổ tiên"
+      "word": "祖国",
+      "reading": "そこく",
+      "meaning": "đất nước mình"
     },
     {
-      "word": "初祖",
-      "reading": "しょそ",
-      "meaning": "tổ tiên đầu tiên"
+      "word": "祖国愛",
+      "reading": "そこくあい",
+      "meaning": "lòng yêu nước"
     },
     {
-      "word": "名祖",
-      "reading": "なおや",
-      "meaning": "ghép nhân danh"
+      "word": "祖父母",
+      "reading": "そふぼ",
+      "meaning": "ông bà"
     },
     {
-      "word": "同祖",
-      "reading": "どうそ",
-      "meaning": "sự có cùng tổ tiên"
-    },
-    {
-      "word": "太祖",
-      "reading": "たいそ",
-      "meaning": "người sáng lập"
-    },
-    {
-      "word": "祖型",
-      "reading": "そけい",
-      "meaning": "người đầu tiên"
-    },
-    {
-      "word": "天祖",
-      "reading": "てんそ",
-      "meaning": "nữ thần mặt trời tổ tiên"
+      "word": "祖",
+      "reading": "そ",
+      "meaning": "tổ tiên"
     }
   ]
 }

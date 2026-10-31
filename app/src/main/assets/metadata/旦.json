@@ -88,39 +88,19 @@
   ],
   "vocabulary": [
     {
-      "word": "月旦",
-      "reading": "げったん",
-      "meaning": "ngày đầu tiên của tháng giêng"
+      "word": "旦那",
+      "reading": "だんな",
+      "meaning": "ông chủ"
     },
     {
-      "word": "文旦",
-      "reading": "ぶんたん",
-      "meaning": "quả bưởi"
+      "word": "大旦那",
+      "reading": "おおだんな",
+      "meaning": "ông chủ"
     },
     {
-      "word": "旦暮",
-      "reading": "たんぼ",
-      "meaning": "sáng chiều"
-    },
-    {
-      "word": "震旦",
-      "reading": "しんたん",
-      "meaning": "trung quốc"
-    },
-    {
-      "word": "歳旦",
-      "reading": "さいたん",
-      "meaning": "năm mới có ngày"
-    },
-    {
-      "word": "旦夕",
-      "reading": "たんせき",
-      "meaning": "buổi sáng và buổi tối"
-    },
-    {
-      "word": "元旦",
-      "reading": "がんたん",
-      "meaning": "ngày mùng một tết"
+      "word": "旦那様",
+      "reading": "だんなさま",
+      "meaning": "người chồng"
     },
     {
       "word": "一旦",
@@ -128,14 +108,34 @@
       "meaning": "một khi"
     },
     {
-      "word": "旦那",
-      "reading": "だんな",
-      "meaning": "ông chủ"
+      "word": "旦那衆",
+      "reading": "だんなしゅう",
+      "meaning": "nhà vệ sinh đàn ông"
+    },
+    {
+      "word": "旦つく",
+      "reading": "だんつく",
+      "meaning": "người chồng"
     },
     {
       "word": "旦過",
       "reading": "たんが",
       "meaning": "việc nhà sư nghỉ lại qua đêm"
+    },
+    {
+      "word": "元旦",
+      "reading": "がんたん",
+      "meaning": "ngày mùng một tết"
+    },
+    {
+      "word": "大巴旦",
+      "reading": "おおばたん",
+      "meaning": "vẹt cacatua moluccensis"
+    },
+    {
+      "word": "小巴旦",
+      "reading": "こばたん",
+      "meaning": "vẹt mào vàng"
     }
   ]
 }

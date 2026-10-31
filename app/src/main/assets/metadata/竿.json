@@ -56,9 +56,9 @@
       "meaning": "cần"
     },
     {
-      "word": "竿竹",
-      "reading": "さおだけ",
-      "meaning": "sào"
+      "word": "一竿",
+      "reading": "いっかん",
+      "meaning": "một cây"
     },
     {
       "word": "三竿",
@@ -66,14 +66,29 @@
       "meaning": "ánh sáng ban ngày rộng"
     },
     {
-      "word": "殻竿",
-      "reading": "からざお",
-      "meaning": "cái néo"
+      "word": "つり竿",
+      "reading": "つりさお",
+      "meaning": "cần câu cá"
     },
     {
-      "word": "竿頭",
-      "reading": "かんとう",
-      "meaning": "đỉnh cây cột"
+      "word": "継ぎ竿",
+      "reading": "つぎざお",
+      "meaning": "cần câu xếp"
+    },
+    {
+      "word": "釣竿",
+      "reading": "つりざお",
+      "meaning": "cần câu"
+    },
+    {
+      "word": "釣り竿",
+      "reading": "つりざお",
+      "meaning": "cần câu"
+    },
+    {
+      "word": "干し竿",
+      "reading": "ほしざお",
+      "meaning": "dụng cụ treo quần áo"
     },
     {
       "word": "旗竿",
@@ -84,21 +99,6 @@
       "word": "竹竿",
       "reading": "たけざお",
       "meaning": "cực tre"
-    },
-    {
-      "word": "黐竿",
-      "reading": "もちざお",
-      "meaning": "ngâm nước vôi cái gậy cho những sâu bọ bắt"
-    },
-    {
-      "word": "釣竿",
-      "reading": "つりざお",
-      "meaning": "cần câu"
-    },
-    {
-      "word": "一竿",
-      "reading": "いっかん",
-      "meaning": "một cây"
     }
   ]
 }

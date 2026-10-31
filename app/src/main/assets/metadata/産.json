@@ -109,14 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "産",
-      "reading": "うぶ",
-      "meaning": "sinh nở"
-    },
-    {
-      "word": "産前産後",
-      "reading": "さんぜんさんご",
-      "meaning": "trước và sau khi sinh con"
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "sản xuất"
     },
     {
       "word": "産業",
@@ -124,19 +119,14 @@
       "meaning": "công nghiệp"
     },
     {
-      "word": "産婆",
-      "reading": "さんば",
-      "meaning": "bà đỡ"
+      "word": "産地",
+      "reading": "さんち",
+      "meaning": "nơi sản xuất"
     },
     {
-      "word": "出産",
-      "reading": "しゅっさん",
-      "meaning": "sinh đẻ"
-    },
-    {
-      "word": "所産",
-      "reading": "しょさん",
-      "meaning": "sản phẩm"
+      "word": "原産",
+      "reading": "げんさん",
+      "meaning": "nơi sản xuất"
     },
     {
       "word": "資産",
@@ -144,19 +134,29 @@
       "meaning": "tài sản"
     },
     {
+      "word": "出産",
+      "reading": "しゅっさん",
+      "meaning": "sinh đẻ"
+    },
+    {
+      "word": "国産",
+      "reading": "こくさん",
+      "meaning": "sự sản xuất trong nước"
+    },
+    {
       "word": "共産",
       "reading": "きょうさん",
       "meaning": "chủ nghĩa cộng sản"
     },
     {
+      "word": "特産",
+      "reading": "とくさん",
+      "meaning": "đặc sản"
+    },
+    {
       "word": "産物",
       "reading": "さんぶつ",
       "meaning": "sản phẩm"
-    },
-    {
-      "word": "産出",
-      "reading": "さんしゅつ",
-      "meaning": "sản xuất"
     }
   ]
 }

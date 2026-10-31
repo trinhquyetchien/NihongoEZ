@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
+      "word": "狂う",
+      "reading": "くるう",
+      "meaning": "điên"
+    },
+    {
+      "word": "狂った",
+      "reading": "くるった",
+      "meaning": "điên"
+    },
+    {
+      "word": "狂気",
+      "reading": "きょうき",
+      "meaning": "sự phát cuồng"
+    },
+    {
       "word": "狂",
       "reading": "きょう",
       "meaning": "cuồng"
     },
     {
-      "word": "狂人",
-      "reading": "きょうじん",
-      "meaning": "người mất trí"
+      "word": "物狂",
+      "reading": "ぶっきょう",
+      "meaning": "mad"
     },
     {
-      "word": "癲狂",
-      "reading": "てんきょう",
-      "meaning": "sự điên rồ"
+      "word": "映画狂",
+      "reading": "えいがきょう",
+      "meaning": "người hâm mộ điện ảnh"
     },
     {
-      "word": "偏狂",
-      "reading": "へんきょう",
-      "meaning": "độc tưởng"
+      "word": "狂熱",
+      "reading": "きょうねつ",
+      "meaning": "niềm đam mê cực đoan"
     },
     {
-      "word": "狂暴",
-      "reading": "きょうぼう",
-      "meaning": "cơn giận"
+      "word": "発狂",
+      "reading": "はっきょう",
+      "meaning": "sự phát điên"
     },
     {
-      "word": "狂乱",
-      "reading": "きょうらん",
-      "meaning": "sự mãnh liệt"
+      "word": "狂拳",
+      "reading": "きょうけん",
+      "meaning": "cú đấm cuồng nộ"
     },
     {
-      "word": "狂躁",
-      "reading": "きょうそう",
-      "meaning": "sự hưng cảm"
-    },
-    {
-      "word": "狂女",
-      "reading": "きょうじょ",
-      "meaning": "người đàn bà điên"
-    },
-    {
-      "word": "狂奔",
-      "reading": "きょうほん",
-      "meaning": "sự chạy điên cuồng"
-    },
-    {
-      "word": "狂騒",
-      "reading": "きょうそう",
-      "meaning": "hứng cảm"
+      "word": "熱狂",
+      "reading": "ねっきょう",
+      "meaning": "sự cuồng dại"
     }
   ]
 }

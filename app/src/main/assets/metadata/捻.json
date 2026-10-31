@@ -87,14 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "ほねご捻",
-      "reading": "骨後捻",
-      "meaning": "xương ngả ngược ra sau"
-    },
-    {
-      "word": "ほねまえ捻",
-      "reading": "骨前捻",
-      "meaning": "xương nghiêng trước"
+      "word": "捻出",
+      "reading": "ねんしゅつ",
+      "meaning": "xoay xở"
     },
     {
       "word": "捻挫",
@@ -102,39 +97,44 @@
       "meaning": "bệnh bong gân"
     },
     {
+      "word": "骨捻挫",
+      "reading": "ほねねんざ",
+      "meaning": "bị trẹo xương"
+    },
+    {
       "word": "捻り",
       "reading": "ひねり",
       "meaning": "kỹ thuật xoắn"
     },
     {
-      "word": "捻転",
-      "reading": "ねんてん",
-      "meaning": "sự vặn"
+      "word": "捻り手",
+      "reading": "ひねりて",
+      "meaning": "kỹ thuật xoắn"
     },
     {
-      "word": "捻る",
-      "reading": "ひねる",
-      "meaning": "đánh bại"
+      "word": "頭捻り",
+      "reading": "ずぶねり",
+      "meaning": "kỹ thuật đặt đầu vào ngực đối phương"
     },
     {
-      "word": "捻子",
-      "reading": "ねじ",
-      "meaning": "đinh ốc"
+      "word": "一捻り",
+      "reading": "ひとひねり",
+      "meaning": "một reworking"
     },
     {
-      "word": "捻出",
-      "reading": "ねんしゅつ",
-      "meaning": "xoay xở"
+      "word": "首捻り",
+      "reading": "くびひねり",
+      "meaning": "kỹ thuật một tay quấn cổ đối phương"
     },
     {
-      "word": "捻じる",
-      "reading": "ねじる",
-      "meaning": "vặn"
+      "word": "腕捻り",
+      "reading": "かいなひねり",
+      "meaning": "kỹ thuật xoay cánh tay bằng hai tay xuống dưới"
     },
     {
-      "word": "捻髪音",
-      "reading": "ねんぱつおん",
-      "meaning": "ran nổ"
+      "word": "御捻り",
+      "reading": "おひねり",
+      "meaning": "bao bọc sự đề nghị tiền)"
     }
   ]
 }

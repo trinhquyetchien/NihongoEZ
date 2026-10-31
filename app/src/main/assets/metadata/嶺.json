@@ -70,14 +70,19 @@
   ],
   "vocabulary": [
     {
-      "word": "海嶺",
-      "reading": "かいれい",
-      "meaning": "đỉnh núi"
+      "word": "青嶺",
+      "reading": "あおね",
+      "meaning": "núi tươi tốt"
     },
     {
-      "word": "雪嶺",
-      "reading": "せつれい",
-      "meaning": "tuyết rơi - đội mũ đỉnh"
+      "word": "高嶺",
+      "reading": "たかね",
+      "meaning": "giọng nữ cao"
+    },
+    {
+      "word": "高嶺桜",
+      "reading": "たかねざくら",
+      "meaning": "anh đào núi nhật bản"
     },
     {
       "word": "函嶺",
@@ -85,14 +90,9 @@
       "meaning": "dãy núi hakone"
     },
     {
-      "word": "北嶺",
-      "reading": "ほくれい",
-      "meaning": "núi bắc"
-    },
-    {
-      "word": "高嶺",
-      "reading": "たかね",
-      "meaning": "giọng nữ cao"
+      "word": "分水嶺",
+      "reading": "ぶんすいれい",
+      "meaning": "đường thủy phân"
     },
     {
       "word": "銀嶺",
@@ -105,19 +105,19 @@
       "meaning": "đỉnh núi"
     },
     {
-      "word": "峻嶺",
-      "reading": "しゅんれい",
-      "meaning": "ngâm vào nước đỉnh hoặc đỉnh"
-    },
-    {
-      "word": "青嶺",
-      "reading": "あおね",
-      "meaning": "núi tươi tốt"
+      "word": "海嶺",
+      "reading": "かいれい",
+      "meaning": "đỉnh núi"
     },
     {
       "word": "嶺颪",
       "reading": "ねおろし",
       "meaning": "gió thổi từ đỉnh núi"
+    },
+    {
+      "word": "北嶺",
+      "reading": "ほくれい",
+      "meaning": "núi bắc"
     }
   ]
 }

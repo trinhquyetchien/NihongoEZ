@@ -50,19 +50,19 @@
   ],
   "vocabulary": [
     {
-      "word": "唖",
-      "reading": "おし",
-      "meaning": "câm"
-    },
-    {
-      "word": "唖唖",
-      "reading": "ああ",
-      "meaning": "lặng đi"
-    },
-    {
       "word": "唖然",
       "reading": "あぜん",
       "meaning": "bàng hoàng"
+    },
+    {
+      "word": "唖然と",
+      "reading": "あぜんと",
+      "meaning": "kinh ngạc không thốt nên lời"
+    },
+    {
+      "word": "唖",
+      "reading": "おし",
+      "meaning": "câm"
     },
     {
       "word": "唖者",
@@ -75,16 +75,6 @@
       "meaning": "ve sầu câm"
     },
     {
-      "word": "唖鈴",
-      "reading": "あれい",
-      "meaning": "quả tạ"
-    },
-    {
-      "word": "盲唖",
-      "reading": "もうあ",
-      "meaning": "mù và câm"
-    },
-    {
       "word": "聾唖",
       "reading": "ろうあ",
       "meaning": "câm điếc"
@@ -95,9 +85,19 @@
       "meaning": "người điếc"
     },
     {
-      "word": "唖然と",
-      "reading": "あぜんと",
-      "meaning": "kinh ngạc không thốt nên lời"
+      "word": "唖唖",
+      "reading": "ああ",
+      "meaning": "lặng đi"
+    },
+    {
+      "word": "唖鈴",
+      "reading": "あれい",
+      "meaning": "quả tạ"
+    },
+    {
+      "word": "盲唖",
+      "reading": "もうあ",
+      "meaning": "mù và câm"
     }
   ]
 }

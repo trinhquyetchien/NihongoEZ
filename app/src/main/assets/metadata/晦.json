@@ -86,6 +86,31 @@
   ],
   "vocabulary": [
     {
+      "word": "大晦日",
+      "reading": "おおみそか",
+      "meaning": "đêm ba mươi"
+    },
+    {
+      "word": "晦日",
+      "reading": "みそか",
+      "meaning": "ngày cuối cùng của tháng"
+    },
+    {
+      "word": "晦朔",
+      "reading": "かいさく",
+      "meaning": "hoàng hôn"
+    },
+    {
+      "word": "晦渋",
+      "reading": "かいじゅう",
+      "meaning": "không rõ ràng"
+    },
+    {
+      "word": "韜晦",
+      "reading": "とうかい",
+      "meaning": "giấu đi"
+    },
+    {
       "word": "大晦",
       "reading": "おおつごもり",
       "meaning": "ngày cuối cùng của một năm"
@@ -94,31 +119,6 @@
       "word": "晦冥",
       "reading": "かいめい",
       "meaning": "bóng tối"
-    },
-    {
-      "word": "晦渋",
-      "reading": "かいじゅう",
-      "meaning": "không rõ ràng"
-    },
-    {
-      "word": "晦日",
-      "reading": "みそか",
-      "meaning": "ngày cuối cùng của tháng"
-    },
-    {
-      "word": "韜晦",
-      "reading": "とうかい",
-      "meaning": "giấu đi"
-    },
-    {
-      "word": "晦朔",
-      "reading": "かいさく",
-      "meaning": "hoàng hôn"
-    },
-    {
-      "word": "大晦日",
-      "reading": "おおみそか",
-      "meaning": "đêm ba mươi"
     },
     {
       "word": "韜晦趣味",

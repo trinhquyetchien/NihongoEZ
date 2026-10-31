@@ -51,39 +51,19 @@
   ],
   "vocabulary": [
     {
-      "word": "叉",
-      "reading": "また",
-      "meaning": "phân nhánh một con đường)"
-    },
-    {
-      "word": "音叉",
-      "reading": "おんさ",
-      "meaning": "âm thoa"
-    },
-    {
-      "word": "蹄叉",
-      "reading": "ていさ",
-      "meaning": "xương ức"
-    },
-    {
-      "word": "叉焼",
-      "reading": "チャーシュー",
-      "meaning": "xá xíu"
-    },
-    {
       "word": "夜叉",
       "reading": "やしゃ",
       "meaning": "quỷ nữ"
     },
     {
-      "word": "叉木",
-      "reading": "またぎ",
-      "meaning": "cây tẻ ra"
+      "word": "叉",
+      "reading": "また",
+      "meaning": "phân nhánh một con đường)"
     },
     {
-      "word": "交叉",
-      "reading": "こうさ",
-      "meaning": "sự giao thoa"
+      "word": "木の叉",
+      "reading": "きのまた",
+      "meaning": "chạc cây"
     },
     {
       "word": "叉銃",
@@ -91,14 +71,34 @@
       "meaning": "chồng lên những cánh tay"
     },
     {
-      "word": "角叉",
-      "reading": "つのまた",
-      "meaning": "tảo đỏ"
+      "word": "叉骨",
+      "reading": "さこつ",
+      "meaning": "wishbone"
     },
     {
-      "word": "轍叉",
-      "reading": "てっさ",
-      "meaning": "đường sắt frog"
+      "word": "叉焼",
+      "reading": "チャーシュー",
+      "meaning": "xá xíu"
+    },
+    {
+      "word": "三つ叉",
+      "reading": "みつまた",
+      "meaning": "cái nĩa"
+    },
+    {
+      "word": "五叉路",
+      "reading": "ごさろ",
+      "meaning": "ngã năm"
+    },
+    {
+      "word": "叉庫",
+      "reading": "またこ",
+      "meaning": "nhà kho gỗ thời xưa"
+    },
+    {
+      "word": "三仙叉",
+      "reading": "さんせんさ",
+      "meaning": "dao găm đinh ba"
     }
   ]
 }

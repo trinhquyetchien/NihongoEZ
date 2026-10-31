@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "祝賀",
+      "reading": "しゅくが",
+      "meaning": "chúc hạ"
+    },
+    {
+      "word": "大佐賀",
+      "reading": "おおさが",
+      "meaning": "cá quân sebastes iracundus"
+    },
+    {
+      "word": "佐賀県",
+      "reading": "さがけん",
+      "meaning": "chức quận trưởng trên hòn đảo kyuushuu"
+    },
+    {
+      "word": "滋賀県",
+      "reading": "しがけん",
+      "meaning": "tỉnh siga"
+    },
+    {
+      "word": "古賀派",
+      "reading": "こがは",
+      "meaning": "koga faction"
+    },
+    {
       "word": "賀",
       "reading": "が",
       "meaning": "lời chúc mừng"
     },
     {
-      "word": "宇賀の神",
-      "reading": "うかのかみ",
-      "meaning": "giống 宇賀神 - thần uga"
+      "word": "来賀",
+      "reading": "らいが",
+      "meaning": "sự đến chúc mừng"
     },
     {
-      "word": "賀状",
-      "reading": "がじょう",
-      "meaning": "thiệp chúc mừng năm mới"
+      "word": "賀表",
+      "reading": "がひょう",
+      "meaning": "thư chúc mừng"
     },
     {
-      "word": "算賀",
-      "reading": "さんが",
+      "word": "年賀状",
+      "reading": "ねんがじょう",
+      "meaning": "thiếp chúc tết"
+    },
+    {
+      "word": "賀の祝",
+      "reading": "がのいわい",
       "meaning": "lễ mừng thọ"
-    },
-    {
-      "word": "参賀",
-      "reading": "さんが",
-      "meaning": "tham gia sự kiện quan trọng liên quan đến hoàng gia nhật bản"
-    },
-    {
-      "word": "賀春",
-      "reading": "がしゅん",
-      "meaning": "lời chúc mừng năm mới"
-    },
-    {
-      "word": "賀正",
-      "reading": "がしょう",
-      "meaning": "chúc mừng năm mới !"
-    },
-    {
-      "word": "賀詞",
-      "reading": "がし",
-      "meaning": "sự chúc mừng"
-    },
-    {
-      "word": "賀宴",
-      "reading": "がえん",
-      "meaning": "tiệc lớn"
-    },
-    {
-      "word": "奉賀",
-      "reading": "ほうが",
-      "meaning": "những chúc mừng biết kính trọng"
     }
   ]
 }

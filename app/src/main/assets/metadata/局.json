@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "結局",
+      "reading": "けっきょく",
+      "meaning": "kết cục"
+    },
+    {
       "word": "局",
       "reading": "きょく",
       "meaning": "cục"
     },
     {
-      "word": "終局",
-      "reading": "しゅうきょく",
-      "meaning": "chấm dứt"
+      "word": "薬局",
+      "reading": "やっきょく",
+      "meaning": "tiệm thuốc"
     },
     {
-      "word": "局部",
-      "reading": "きょくぶ",
-      "meaning": "bộ phận"
+      "word": "局限",
+      "reading": "きょくげん",
+      "meaning": "sự giới hạn"
     },
     {
-      "word": "局番",
-      "reading": "きょくばん",
-      "meaning": "tổng đài"
+      "word": "一局",
+      "reading": "いっきょく",
+      "meaning": "một bàn"
     },
     {
-      "word": "局員",
-      "reading": "きょくいん",
-      "meaning": "nhân viên"
+      "word": "事局",
+      "reading": "じきょく",
+      "meaning": "những hoàn cảnh"
     },
     {
-      "word": "ラジオ局",
-      "reading": "ラジオきょく",
-      "meaning": "trạm vô tuyến"
-    },
-    {
-      "word": "閉局",
-      "reading": "へいきょく",
-      "meaning": "việc đình chỉ hoạt động của các cơ sở / tổ chức mang tên \"cục\" như đài phát thanh truyền hình"
-    },
-    {
-      "word": "御局",
-      "reading": "おつぼね",
-      "meaning": "nữ quan"
-    },
-    {
-      "word": "局地",
-      "reading": "きょくち",
-      "meaning": "thành phố"
+      "word": "分局",
+      "reading": "ぶんきょく",
+      "meaning": "văn phòng chi nhánh"
     },
     {
       "word": "子局",
       "reading": "こきょく",
       "meaning": "làm việc đầu tắt mặt tối nhà ga"
+    },
+    {
+      "word": "局名",
+      "reading": "きょくめい",
+      "meaning": "tên bộ phận"
+    },
+    {
+      "word": "主局",
+      "reading": "しゅきょく",
+      "meaning": "trạm chủ"
     }
   ]
 }

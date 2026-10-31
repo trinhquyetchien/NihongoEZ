@@ -51,14 +51,34 @@
   ],
   "vocabulary": [
     {
+      "word": "爪楊枝",
+      "reading": "つまようじ",
+      "meaning": "cái tăm"
+    },
+    {
+      "word": "楊枝",
+      "reading": "ようじ",
+      "meaning": "tăm"
+    },
+    {
+      "word": "糸楊枝",
+      "reading": "いとようじ",
+      "meaning": "chỉ nha khoa"
+    },
+    {
+      "word": "楊枝入",
+      "reading": "ようじにゅう",
+      "meaning": "hộp tăm"
+    },
+    {
+      "word": "房楊枝",
+      "reading": "ふさようじ",
+      "meaning": "tăm gỗ truyền thống nhật bản có tua rua ở đầu"
+    },
+    {
       "word": "楊",
       "reading": "やなぎ",
       "meaning": "cây liễu"
-    },
-    {
-      "word": "黄楊",
-      "reading": "つげ",
-      "meaning": "gỗ hoàng dương"
     },
     {
       "word": "垂楊",
@@ -71,34 +91,14 @@
       "meaning": "dương liễu"
     },
     {
-      "word": "楊子",
-      "reading": "ようじ",
-      "meaning": "tăm"
+      "word": "黄楊",
+      "reading": "つげ",
+      "meaning": "gỗ hoàng dương"
     },
     {
-      "word": "楊枝",
-      "reading": "ようじ",
-      "meaning": "tăm"
-    },
-    {
-      "word": "楊弓",
-      "reading": "ようきゅう",
-      "meaning": "cây cung đồ chơi nhỏ"
-    },
-    {
-      "word": "房楊枝",
-      "reading": "ふさようじ",
-      "meaning": "tăm gỗ truyền thống nhật bản có tua rua ở đầu"
-    },
-    {
-      "word": "胡楊樹",
-      "reading": "こようじゅ",
-      "meaning": "cây hoàng yến"
-    },
-    {
-      "word": "高楊子",
-      "reading": "たかようじ",
-      "meaning": "tăm xỉa răng"
+      "word": "犬黄楊",
+      "reading": "いぬつげ",
+      "meaning": "cây nhựa ruồi nhật"
     }
   ]
 }

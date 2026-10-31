@@ -90,14 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "任",
-      "reading": "にん",
-      "meaning": "nhiệm vụ"
-    },
-    {
-      "word": "任せ",
-      "reading": "まかせ",
-      "meaning": "phó thác"
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "trách"
     },
     {
       "word": "就任",
@@ -105,19 +100,9 @@
       "meaning": "sự nhậm chức"
     },
     {
-      "word": "昇任",
-      "reading": "しょうにん",
-      "meaning": "sự thúc đẩy"
-    },
-    {
-      "word": "後任",
-      "reading": "こうにん",
-      "meaning": "người kế nhiệm"
-    },
-    {
-      "word": "委任",
-      "reading": "いにん",
-      "meaning": "sự ủy nhiệm"
+      "word": "任務",
+      "reading": "にんむ",
+      "meaning": "nhiệm vụ"
     },
     {
       "word": "主任",
@@ -125,19 +110,34 @@
       "meaning": "chủ nhiệm"
     },
     {
-      "word": "兼任",
-      "reading": "けんにん",
-      "meaning": "sự kiêm nhiệm"
+      "word": "任命",
+      "reading": "にんめい",
+      "meaning": "sự chỉ định"
     },
     {
-      "word": "再任",
-      "reading": "さいにん",
-      "meaning": "sự phục hồi chức vị"
+      "word": "赴任",
+      "reading": "ふにん",
+      "meaning": "việc nhận chức"
     },
     {
-      "word": "自任",
-      "reading": "じにん",
-      "meaning": "ý muốn"
+      "word": "信任",
+      "reading": "しんにん",
+      "meaning": "sự tín nhiệm"
+    },
+    {
+      "word": "転任",
+      "reading": "てんにん",
+      "meaning": "sự chuyển vị trí công tác"
+    },
+    {
+      "word": "任す",
+      "reading": "まかす",
+      "meaning": "nghe theo"
+    },
+    {
+      "word": "任せ",
+      "reading": "まかせ",
+      "meaning": "phó thác"
     }
   ]
 }

@@ -95,29 +95,39 @@
       "meaning": "hiếm có"
     },
     {
-      "word": "稀少",
-      "reading": "きしょう",
-      "meaning": "khan hiếm"
+      "word": "稀人",
+      "reading": "まれびと",
+      "meaning": "người hiếm có"
     },
     {
-      "word": "稀世",
-      "reading": "きせい",
+      "word": "類稀",
+      "reading": "たぐいまれ",
+      "meaning": "độc đáo"
+    },
+    {
+      "word": "稀崩壊",
+      "reading": "きほうかい",
+      "meaning": "phân rã hiếm"
+    },
+    {
+      "word": "珍稀",
+      "reading": "ちんき",
       "meaning": "hiếm có"
     },
     {
-      "word": "稀釈",
-      "reading": "きしゃく",
-      "meaning": "sự pha loãng dung dịch bằng dung môi để giảm nồng độ"
-    },
-    {
-      "word": "稀薄",
-      "reading": "きはく",
-      "meaning": "mỏng ra"
+      "word": "稀硫酸",
+      "reading": "きりゅうさん",
+      "meaning": "pha loãng a-xít sulfuric"
     },
     {
       "word": "稀有",
       "reading": "けう",
       "meaning": "hy hữu"
+    },
+    {
+      "word": "稀少",
+      "reading": "きしょう",
+      "meaning": "khan hiếm"
     },
     {
       "word": "稀代",
@@ -128,16 +138,6 @@
       "word": "古稀",
       "reading": "こき",
       "meaning": "già đi bảy mươi"
-    },
-    {
-      "word": "類稀",
-      "reading": "たぐいまれ",
-      "meaning": "độc đáo"
-    },
-    {
-      "word": "稀書",
-      "reading": "きしょ",
-      "meaning": "sách hiếm có"
     }
   ]
 }

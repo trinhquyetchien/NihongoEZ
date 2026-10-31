@@ -101,9 +101,34 @@
   ],
   "vocabulary": [
     {
-      "word": "降誕",
-      "reading": "こうたん",
-      "meaning": "sự sinh đẻ"
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "ngày sinh"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "sự ra đời"
+    },
+    {
+      "word": "誕生会",
+      "reading": "たんじょうかい",
+      "meaning": "buổi tiệc sinh nhật"
+    },
+    {
+      "word": "初誕生",
+      "reading": "はつたんじょう",
+      "meaning": "ngày sinh đầu tiên"
+    },
+    {
+      "word": "誕生地",
+      "reading": "たんじょうち",
+      "meaning": "nơi sinh"
+    },
+    {
+      "word": "誕生仏",
+      "reading": "たんじょうぶつ",
+      "meaning": "phật đản"
     },
     {
       "word": "生誕",
@@ -116,39 +141,14 @@
       "meaning": "sự sống lại"
     },
     {
-      "word": "誕辰",
-      "reading": "たんしん",
-      "meaning": "ngày sinh"
-    },
-    {
-      "word": "虚誕",
-      "reading": "きょたん",
-      "meaning": "nói dối"
-    },
-    {
-      "word": "荒誕",
-      "reading": "こうたん",
-      "meaning": "buồn cười"
-    },
-    {
-      "word": "誕生",
-      "reading": "たんじょう",
-      "meaning": "sự ra đời"
-    },
-    {
       "word": "誕プレ",
       "reading": "たんプレ",
       "meaning": "quà sinh nhật"
     },
     {
-      "word": "誕生パーティー",
-      "reading": "たんじょうパーティー",
-      "meaning": "buổi tiệc sinh nhật"
-    },
-    {
-      "word": "降誕祭",
-      "reading": "こうたんさい",
-      "meaning": "ngày lễ giáng sinh"
+      "word": "誕生石",
+      "reading": "たんじょうせき",
+      "meaning": "viên đá quý gắn một cách tượng trưng với tháng sinh"
     }
   ]
 }

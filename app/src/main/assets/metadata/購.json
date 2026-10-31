@@ -85,11 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "購買",
-      "reading": "こうばい",
-      "meaning": "sự mua"
-    },
-    {
       "word": "購入",
       "reading": "こうにゅう",
       "meaning": "việc mua"
@@ -100,24 +95,34 @@
       "meaning": "việc đặt mua báo"
     },
     {
-      "word": "購求",
-      "reading": "こうきゅう",
+      "word": "購買",
+      "reading": "こうばい",
       "meaning": "sự mua"
     },
     {
-      "word": "購書",
-      "reading": "こうしょ",
-      "meaning": "những quyển sách đặt mua"
+      "word": "購入者",
+      "reading": "こうにゅうしゃ",
+      "meaning": "người mua"
     },
     {
-      "word": "グリーン購入",
-      "reading": "グリーンこうにゅう",
-      "meaning": "mua hàng xanh"
+      "word": "購入先",
+      "reading": "こうにゅうさき",
+      "meaning": "người bán lẻ"
+    },
+    {
+      "word": "購読者",
+      "reading": "こうどくしゃ",
+      "meaning": "người góp"
     },
     {
       "word": "購読料",
       "reading": "こうどくりょう",
       "meaning": "tiền mua báo dài hạn"
+    },
+    {
+      "word": "購買者",
+      "reading": "こうばいしゃ",
+      "meaning": "người mua"
     },
     {
       "word": "購買力",
@@ -128,11 +133,6 @@
       "word": "購買部",
       "reading": "こうばいぶ",
       "meaning": "bộ phận mua hàng"
-    },
-    {
-      "word": "購読者",
-      "reading": "こうどくしゃ",
-      "meaning": "người góp"
     }
   ]
 }

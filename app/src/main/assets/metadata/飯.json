@@ -89,9 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "cơm"
+    },
+    {
+      "word": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "bữa ăn chiều"
+    },
+    {
       "word": "飯",
       "reading": "めし",
       "meaning": "cơm"
+    },
+    {
+      "word": "昼飯",
+      "reading": "ひるめし",
+      "meaning": "bữa ăn trưa"
+    },
+    {
+      "word": "中飯",
+      "reading": "ちゅうはん",
+      "meaning": "bữa ăn giữa trưa"
+    },
+    {
+      "word": "一飯",
+      "reading": "いっぱん",
+      "meaning": "1 bữa"
+    },
+    {
+      "word": "水飯",
+      "reading": "すいはん",
+      "meaning": "món cơm ngâm nước"
     },
     {
       "word": "夜飯",
@@ -99,44 +129,14 @@
       "meaning": "bữa ăn tối"
     },
     {
-      "word": "茸飯",
-      "reading": "きのこめし",
-      "meaning": "cơm nấm"
+      "word": "猫飯",
+      "reading": "ねこまんま",
+      "meaning": "cơm mèo"
     },
     {
-      "word": "ご飯",
-      "reading": "ごはん",
-      "meaning": "cơm"
-    },
-    {
-      "word": "残飯",
-      "reading": "ざんぱん",
-      "meaning": "thức ăn thừa"
-    },
-    {
-      "word": "イタ飯",
-      "reading": "イタめし",
-      "meaning": "ẩm thực ý"
-    },
-    {
-      "word": "早飯",
-      "reading": "はやめし",
-      "meaning": "người ăn nhanh"
-    },
-    {
-      "word": "姫飯",
-      "reading": "ひめいい",
-      "meaning": "cơm dẻo"
-    },
-    {
-      "word": "飯匙",
-      "reading": "いいがい",
-      "meaning": "thìa đơm cơm"
-    },
-    {
-      "word": "水飯",
-      "reading": "すいはん",
-      "meaning": "món cơm ngâm nước"
+      "word": "白飯",
+      "reading": "はくはん",
+      "meaning": "cơm trắng"
     }
   ]
 }

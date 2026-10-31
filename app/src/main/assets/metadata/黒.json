@@ -96,24 +96,9 @@
       "meaning": "màu đen"
     },
     {
-      "word": "黒黒",
-      "reading": "くろぐろ",
-      "meaning": "màu đen thẫm"
-    },
-    {
-      "word": "黒闇",
-      "reading": "こくあん",
-      "meaning": "bóng tối"
-    },
-    {
-      "word": "黒鰱",
-      "reading": "こくれん",
-      "meaning": "cá mè hoa"
-    },
-    {
-      "word": "黒ゴキブリ",
-      "reading": "くろゴキブリ",
-      "meaning": "gián nâu"
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "đen"
     },
     {
       "word": "黒板",
@@ -121,24 +106,39 @@
       "meaning": "bảng"
     },
     {
-      "word": "黒い",
-      "reading": "くろい",
-      "meaning": "đen"
+      "word": "黒体",
+      "reading": "こくたい",
+      "meaning": "vật đen"
     },
     {
-      "word": "漆黒",
-      "reading": "しっこく",
-      "meaning": "đen nhánh"
+      "word": "黒番",
+      "reading": "くろばん",
+      "meaning": "màu đen để chơi"
     },
     {
-      "word": "黒幕",
-      "reading": "くろまく",
-      "meaning": "rèm cửa màu đen"
+      "word": "黒風",
+      "reading": "こくふう",
+      "meaning": "gió mạnh mang theo mây đen hay bụi mù"
     },
     {
-      "word": "黒色",
-      "reading": "くろいろ",
-      "meaning": "màu đen"
+      "word": "黒線",
+      "reading": "こくせん",
+      "meaning": "hàng đen"
+    },
+    {
+      "word": "黒猫",
+      "reading": "くろねこ",
+      "meaning": "con mèo đen"
+    },
+    {
+      "word": "黒黒",
+      "reading": "くろぐろ",
+      "meaning": "màu đen thẫm"
+    },
+    {
+      "word": "黒肉",
+      "reading": "くろにく",
+      "meaning": "màu đen đóng dấu mực"
     }
   ]
 }

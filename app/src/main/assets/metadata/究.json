@@ -90,14 +90,14 @@
   ],
   "vocabulary": [
     {
-      "word": "臨床研究･疫学研究",
-      "reading": "りんしょうけんきゅう･えきがくけんきゅう",
-      "meaning": "nghiên cứu lâm sàng･nghiên cứu dịch tễ học"
-    },
-    {
       "word": "研究",
       "reading": "けんきゅう",
       "meaning": "sự học tập"
+    },
+    {
+      "word": "研究室",
+      "reading": "けんきゅうしつ",
+      "meaning": "phòng nghiên cứu"
     },
     {
       "word": "究極",
@@ -105,39 +105,39 @@
       "meaning": "cùng cực"
     },
     {
-      "word": "究明",
-      "reading": "きゅうめい",
-      "meaning": "sự điều tra cho rõ ràng"
+      "word": "研究者",
+      "reading": "けんきゅうしゃ",
+      "meaning": "nhà nghiên cứu"
     },
     {
-      "word": "講究",
-      "reading": "こうきゅう",
-      "meaning": "sự nghiên cứu"
+      "word": "研究家",
+      "reading": "けんきゅうか",
+      "meaning": "nhà nghiên cứu"
     },
     {
-      "word": "攻究",
-      "reading": "こうきゅう",
-      "meaning": "sự chuyên tâm nghiên cứu"
+      "word": "研究会",
+      "reading": "けんきゅうかい",
+      "meaning": "hội nghiên cứu"
     },
     {
-      "word": "学究",
-      "reading": "がっきゅう",
-      "meaning": "sự học"
+      "word": "研究生",
+      "reading": "けんきゅうせい",
+      "meaning": "nghiên cứu sinh"
     },
     {
-      "word": "究理",
-      "reading": "きゅうり",
-      "meaning": "học những pháp luật tự nhiên"
+      "word": "研究心",
+      "reading": "けんきゅうしん",
+      "meaning": "tinh thần sự nghiên cứu"
     },
     {
-      "word": "討究",
-      "reading": "とうきゅう",
-      "meaning": "sự khảo sát"
+      "word": "研究部",
+      "reading": "けんきゅうぶ",
+      "meaning": "ban nghiên cứu"
     },
     {
-      "word": "究竟",
-      "reading": "くっきょう",
-      "meaning": "tuyệt diệu"
+      "word": "研究員",
+      "reading": "けんきゅういん",
+      "meaning": "nhà nghiên cứu"
     }
   ]
 }

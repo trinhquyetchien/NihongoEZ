@@ -95,14 +95,24 @@
       "meaning": "mây"
     },
     {
-      "word": "出雲",
-      "reading": "いずも",
-      "meaning": "tên 1 ngồi chùa"
+      "word": "雲高",
+      "reading": "うんこう",
+      "meaning": "độ cao của đám mây tính từ mặt đất"
     },
     {
-      "word": "笠雲",
-      "reading": "かさぐも",
-      "meaning": "hiện tượng mây phủ lên đỉnh núi tạo thành hình cái ô"
+      "word": "低雲",
+      "reading": "ていうん",
+      "meaning": "đám mây xà thấp"
+    },
+    {
+      "word": "天雲",
+      "reading": "あまくも",
+      "meaning": "mây che trong bầu trời"
+    },
+    {
+      "word": "雲影",
+      "reading": "うんえい",
+      "meaning": "hình dạng đám mây"
     },
     {
       "word": "雲孫",
@@ -110,34 +120,24 @@
       "meaning": "chắt"
     },
     {
-      "word": "雲高",
-      "reading": "うんこう",
-      "meaning": "độ cao của đám mây tính từ mặt đất"
-    },
-    {
-      "word": "鰯雲",
-      "reading": "いわしぐも",
-      "meaning": "mây ti tích"
-    },
-    {
       "word": "羊雲",
       "reading": "ひつじぐも",
       "meaning": "cụm"
     },
     {
-      "word": "瑞雲",
-      "reading": "ずいうん",
-      "meaning": "mây báo điềm lành"
-    },
-    {
-      "word": "水雲",
-      "reading": "もずく",
-      "meaning": "rong biển"
-    },
-    {
       "word": "飛雲",
       "reading": "ひうん",
       "meaning": "mây bay"
+    },
+    {
+      "word": "夕雲",
+      "reading": "ゆうぐも",
+      "meaning": "mây lúc chiều tối"
+    },
+    {
+      "word": "慶雲",
+      "reading": "けいうん",
+      "meaning": "keiun"
     }
   ]
 }

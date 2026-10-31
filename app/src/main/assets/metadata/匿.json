@@ -88,6 +88,36 @@
   ],
   "vocabulary": [
     {
+      "word": "匿名",
+      "reading": "とくめい",
+      "meaning": "sự nặc danh"
+    },
+    {
+      "word": "匿名性",
+      "reading": "とくめいせい",
+      "meaning": "nặc danh"
+    },
+    {
+      "word": "秘匿",
+      "reading": "ひとく",
+      "meaning": "nặc danh"
+    },
+    {
+      "word": "隠匿",
+      "reading": "いんとく",
+      "meaning": "ẩn trốn"
+    },
+    {
+      "word": "隠匿者",
+      "reading": "いんとくしゃ",
+      "meaning": "người đi trốn"
+    },
+    {
+      "word": "匿う",
+      "reading": "かくまう",
+      "meaning": "che chở"
+    },
+    {
       "word": "匿",
       "reading": "とく",
       "meaning": "shelter"
@@ -98,44 +128,14 @@
       "meaning": "ẩn nấp dưới lớp vỏ bọc"
     },
     {
-      "word": "隠匿",
-      "reading": "いんとく",
-      "meaning": "ẩn trốn"
-    },
-    {
-      "word": "秘匿",
-      "reading": "ひとく",
-      "meaning": "nặc danh"
-    },
-    {
-      "word": "匿う",
-      "reading": "かくまう",
-      "meaning": "che chở"
-    },
-    {
       "word": "蔵匿",
       "reading": "ぞうとく",
       "meaning": "sự giấu kín"
     },
     {
-      "word": "匿名",
-      "reading": "とくめい",
-      "meaning": "sự nặc danh"
-    },
-    {
-      "word": "匿名ＦＴＰ",
-      "reading": "とくめいエフティーピー",
-      "meaning": "ftp nặc danh"
-    },
-    {
-      "word": "隠匿者",
-      "reading": "いんとくしゃ",
-      "meaning": "người đi trốn"
-    },
-    {
-      "word": "匿名性",
-      "reading": "とくめいせい",
-      "meaning": "nặc danh"
+      "word": "匿名社員",
+      "reading": "とくめいしゃいん",
+      "meaning": "hội viên không hoạt động"
     }
   ]
 }

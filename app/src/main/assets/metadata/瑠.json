@@ -89,9 +89,39 @@
       "meaning": "đá da trời"
     },
     {
+      "word": "大瑠璃",
+      "reading": "おおるり",
+      "meaning": "chim sơn ca xanh nhật bản"
+    },
+    {
+      "word": "瑠璃色",
+      "reading": "るりいろ",
+      "meaning": "màu xanh lưu ly"
+    },
+    {
       "word": "小瑠璃",
       "reading": "こるり",
       "meaning": "chim oanh lưng xanh"
+    },
+    {
+      "word": "瑠璃貝",
+      "reading": "るりがい",
+      "meaning": "ốc biển tím"
+    },
+    {
+      "word": "瑠璃瓦",
+      "reading": "るりがわら",
+      "meaning": "ngói lưu ly"
+    },
+    {
+      "word": "浄瑠璃",
+      "reading": "じょうるり",
+      "meaning": "kịch ba-lat"
+    },
+    {
+      "word": "吠瑠璃",
+      "reading": "べいるり",
+      "meaning": "beryl"
     },
     {
       "word": "瑠璃鶲",
@@ -102,36 +132,6 @@
       "word": "瑠璃鶇",
       "reading": "るりつぐみ",
       "meaning": "sialia sialis"
-    },
-    {
-      "word": "吠瑠璃",
-      "reading": "べいるり",
-      "meaning": "beryl"
-    },
-    {
-      "word": "瑠璃鳥",
-      "reading": "るりちょう",
-      "meaning": "chim lam"
-    },
-    {
-      "word": "大瑠璃",
-      "reading": "おおるり",
-      "meaning": "chim sơn ca xanh nhật bản"
-    },
-    {
-      "word": "浄瑠璃",
-      "reading": "じょうるり",
-      "meaning": "kịch ba-lat"
-    },
-    {
-      "word": "瑠璃色",
-      "reading": "るりいろ",
-      "meaning": "màu xanh lưu ly"
-    },
-    {
-      "word": "瑠璃瓦",
-      "reading": "るりがわら",
-      "meaning": "ngói lưu ly"
     }
   ]
 }

@@ -90,29 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "水添",
-      "reading": "すいてん",
-      "meaning": "hydro hóa"
-    },
-    {
-      "word": "別添",
-      "reading": "べってん",
-      "meaning": "đính kèm riêng"
-    },
-    {
-      "word": "添加",
-      "reading": "てんか",
-      "meaning": "sự thêm vào"
-    },
-    {
-      "word": "添景",
-      "reading": "てんけい",
-      "meaning": "những người hoặc những động vật thêm vào một bức tranh"
-    },
-    {
-      "word": "添字",
-      "reading": "そえじ",
-      "meaning": "chỉ số dưới"
+      "word": "添える",
+      "reading": "そえる",
+      "meaning": "thêm vào"
     },
     {
       "word": "添う",
@@ -120,24 +100,44 @@
       "meaning": "đi cùng"
     },
     {
-      "word": "添附",
+      "word": "後添え",
+      "reading": "のちぞえ",
+      "meaning": "vợ thứ 2"
+    },
+    {
+      "word": "添え状",
+      "reading": "そえじょう",
+      "meaning": "hộ tống ghi chú"
+    },
+    {
+      "word": "添加",
+      "reading": "てんか",
+      "meaning": "sự thêm vào"
+    },
+    {
+      "word": "添付",
       "reading": "てんぷ",
-      "meaning": "đính kèm"
+      "meaning": "sự gắn thêm"
     },
     {
-      "word": "添水",
-      "reading": "そうず",
-      "meaning": "rót nước - filledbamboo đặt ống trong tiếng nhật làm vườn những tiếng lách cách nào chống lại một đá khi nào trở nên rỗng"
+      "word": "添加物",
+      "reading": "てんかぶつ",
+      "meaning": "chất phụ gia"
     },
     {
-      "word": "添乗",
-      "reading": "てんじょう",
-      "meaning": "hộ tống"
+      "word": "無添加",
+      "reading": "むてんか",
+      "meaning": "không có chất phụ gia"
     },
     {
-      "word": "添書",
-      "reading": "てんしょ",
-      "meaning": "tái bút"
+      "word": "添加剤",
+      "reading": "てんかざい",
+      "meaning": "thuốc phụ gia"
+    },
+    {
+      "word": "添削",
+      "reading": "てんさく",
+      "meaning": "sự sửa chữa"
     }
   ]
 }

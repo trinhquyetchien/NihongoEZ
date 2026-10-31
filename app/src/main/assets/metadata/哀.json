@@ -91,54 +91,54 @@
   ],
   "vocabulary": [
     {
-      "word": "哀調",
-      "reading": "あいちょう",
-      "meaning": "giai điệu tang tóc"
-    },
-    {
       "word": "哀れ",
       "reading": "あわれ",
       "meaning": "đáng thương"
     },
     {
-      "word": "哀詞",
-      "reading": "あいし",
+      "word": "可哀想",
+      "reading": "かわいそう",
+      "meaning": "tội nghiệp"
+    },
+    {
+      "word": "哀れ気",
+      "reading": "あわれげ",
+      "meaning": "buồn rầu"
+    },
+    {
+      "word": "物哀れ",
+      "reading": "ものあわれ",
+      "meaning": "niềm bi thương man mác"
+    },
+    {
+      "word": "哀愁",
+      "reading": "あいしゅう",
+      "meaning": "đau thương"
+    },
+    {
+      "word": "哀しい",
+      "reading": "かなしい",
+      "meaning": "buồn rầu"
+    },
+    {
+      "word": "哀しみ",
+      "reading": "かなしみ",
+      "meaning": "sự buồn bã"
+    },
+    {
+      "word": "悲哀",
+      "reading": "ひあい",
+      "meaning": "phiền muộn"
+    },
+    {
+      "word": "哀悼",
+      "reading": "あいとう",
       "meaning": "lời chia buồn"
     },
     {
-      "word": "哀弔",
-      "reading": "あいちょう",
-      "meaning": "điếu văn chia buồn"
-    },
-    {
-      "word": "哀歓",
-      "reading": "あいかん",
-      "meaning": "nỗi buồn và niềm vui"
-    },
-    {
-      "word": "哀音",
-      "reading": "あいおん",
-      "meaning": "âm thanh buồn"
-    },
-    {
-      "word": "哀訴",
-      "reading": "あいそ",
-      "meaning": "sự cầu khẩn"
-    },
-    {
-      "word": "哀歌",
-      "reading": "あいか",
-      "meaning": "bài hát buồn"
-    },
-    {
-      "word": "哀惜",
-      "reading": "あいせき",
-      "meaning": "sự đau buồn"
-    },
-    {
-      "word": "哀詩",
-      "reading": "あいし",
-      "meaning": "thơ buồn"
+      "word": "可哀相",
+      "reading": "かわいそう",
+      "meaning": "đáng thương"
     }
   ]
 }

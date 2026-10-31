@@ -67,54 +67,54 @@
   ],
   "vocabulary": [
     {
-      "word": "腎",
-      "reading": "じん",
-      "meaning": "thận"
-    },
-    {
-      "word": "腎盂腎炎",
-      "reading": "じんうじんえん",
-      "meaning": "viêm bể thận"
-    },
-    {
-      "word": "副腎",
-      "reading": "ふくじん",
-      "meaning": "tuyến thượng thận"
-    },
-    {
-      "word": "肝腎",
-      "reading": "かんじん",
-      "meaning": "quan trọng"
-    },
-    {
-      "word": "腎炎",
-      "reading": "じんえん",
-      "meaning": "viêm thận"
-    },
-    {
-      "word": "腎石",
-      "reading": "じんせき",
-      "meaning": "sỏi thận"
-    },
-    {
       "word": "腎臓",
       "reading": "じんぞう",
       "meaning": "thận"
     },
     {
-      "word": "腎症",
-      "reading": "じんしょう",
+      "word": "腎臓学",
+      "reading": "じんぞうがく",
+      "meaning": "thận học"
+    },
+    {
+      "word": "腎臓病",
+      "reading": "じんぞうびょう",
       "meaning": "bệnh thận"
     },
     {
-      "word": "腎盂",
-      "reading": "じんう",
-      "meaning": "pelvis thận"
+      "word": "腎臓癌",
+      "reading": "じんぞうがん",
+      "meaning": "bệnh ung thư thận"
+    },
+    {
+      "word": "腎",
+      "reading": "じん",
+      "meaning": "thận"
     },
     {
       "word": "前腎",
       "reading": "ぜんじん",
       "meaning": "tiền thận"
+    },
+    {
+      "word": "中腎",
+      "reading": "ちゅーじん",
+      "meaning": "trung thận"
+    },
+    {
+      "word": "頭腎",
+      "reading": "あたまじん",
+      "meaning": "tiền thận"
+    },
+    {
+      "word": "腎機能",
+      "reading": "じんきのう",
+      "meaning": "chức năng thận"
+    },
+    {
+      "word": "腎間体",
+      "reading": "じんかんからだ",
+      "meaning": "tuyến thượng thận"
     }
   ]
 }

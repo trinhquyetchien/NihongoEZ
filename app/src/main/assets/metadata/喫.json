@@ -106,44 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "漫喫",
-      "reading": "まんきつ",
-      "meaning": "quán cà phê manga"
-    },
-    {
-      "word": "喫す",
-      "reading": "きっす",
-      "meaning": "ăn"
-    },
-    {
-      "word": "喫う",
-      "reading": "すう",
-      "meaning": "hút thuốc"
-    },
-    {
-      "word": "喫驚",
-      "reading": "びっくり",
-      "meaning": "sự ngạc nhiên"
-    },
-    {
-      "word": "喫飯",
-      "reading": "きっぱん",
-      "meaning": "sự ăn"
-    },
-    {
-      "word": "喫水",
-      "reading": "きっすい",
-      "meaning": "bản thảo"
-    },
-    {
-      "word": "満喫",
-      "reading": "まんきつ",
-      "meaning": "sự tận hưởng"
-    },
-    {
-      "word": "喫煙",
-      "reading": "きつえん",
-      "meaning": "sự hút thuốc"
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "quán cà phê"
     },
     {
       "word": "喫茶",
@@ -151,9 +116,44 @@
       "meaning": "quán trà"
     },
     {
-      "word": "喫食",
-      "reading": "きっしょく",
-      "meaning": "ăn một cách vui vẻ và ngon miệng"
+      "word": "喫煙",
+      "reading": "きつえん",
+      "meaning": "sự hút thuốc"
+    },
+    {
+      "word": "喫煙者",
+      "reading": "きつえんしゃ",
+      "meaning": "người hút thuốc"
+    },
+    {
+      "word": "喫煙所",
+      "reading": "きつえんじょ",
+      "meaning": "khu vực hút thuốc"
+    },
+    {
+      "word": "喫煙車",
+      "reading": "きつえんしゃ",
+      "meaning": "xe được hút thuốc"
+    },
+    {
+      "word": "喫煙室",
+      "reading": "きつえんしつ",
+      "meaning": "phòng hút thuốc"
+    },
+    {
+      "word": "非喫煙",
+      "reading": "ひきつえん",
+      "meaning": "không hút thuốc"
+    },
+    {
+      "word": "喫煙席",
+      "reading": "きつえんせき",
+      "meaning": "chỗ ngồi được hút thuốc"
+    },
+    {
+      "word": "満喫",
+      "reading": "まんきつ",
+      "meaning": "sự tận hưởng"
     }
   ]
 }

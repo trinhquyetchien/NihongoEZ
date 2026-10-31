@@ -109,54 +109,54 @@
   ],
   "vocabulary": [
     {
+      "word": "余興",
+      "reading": "よきょう",
+      "meaning": "trò biểu diễn sau buổi tiệc"
+    },
+    {
       "word": "余",
       "reading": "よ",
       "meaning": "qua"
     },
     {
-      "word": "余所余所しい",
-      "reading": "よそよそしい",
-      "meaning": "xa"
+      "word": "年余",
+      "reading": "ねんよ",
+      "meaning": "hơn một năm"
     },
     {
-      "word": "目に余る",
-      "reading": "めにあまる",
-      "meaning": "để quá quắt hoặc không thể tha thứ"
+      "word": "余業",
+      "reading": "よぎょう",
+      "meaning": "công việc phụ"
     },
     {
-      "word": "余儀",
-      "reading": "よぎ",
-      "meaning": "phương pháp khác"
+      "word": "余党",
+      "reading": "よとう",
+      "meaning": "những tàn dư một phe hoặc một tốp"
     },
     {
-      "word": "余程",
-      "reading": "よほど",
-      "meaning": "nhiều"
+      "word": "余角",
+      "reading": "よかく",
+      "meaning": "góc bù"
     },
     {
-      "word": "刑余",
-      "reading": "けいよ",
-      "meaning": "tiền án"
+      "word": "余意",
+      "reading": "よい",
+      "meaning": "ngụ ý ý nghĩa"
     },
     {
-      "word": "余習",
-      "reading": "よしゅう",
-      "meaning": "những phong tục"
+      "word": "余切",
+      "reading": "よせつ",
+      "meaning": "cô tang"
     },
     {
-      "word": "余得",
-      "reading": "よとく",
-      "meaning": "thu nhập ngoài lương"
+      "word": "余薫",
+      "reading": "よくん",
+      "meaning": "chần chừ mùi"
     },
     {
-      "word": "余塵",
-      "reading": "よじん",
-      "meaning": "vệt bụi kéo sau xe"
-    },
-    {
-      "word": "余事",
-      "reading": "よじ",
-      "meaning": "việc khác"
+      "word": "余齢",
+      "reading": "よれい",
+      "meaning": "tuổi thọ trung bình"
     }
   ]
 }

@@ -84,6 +84,21 @@
   ],
   "vocabulary": [
     {
+      "word": "下痢",
+      "reading": "げり",
+      "meaning": "bệnh đi ỉa"
+    },
+    {
+      "word": "赤痢",
+      "reading": "せきり",
+      "meaning": "bệnh lỵ"
+    },
+    {
+      "word": "赤痢菌",
+      "reading": "せきりきん",
+      "meaning": "vi khuẩn gây bệnh kiết lỵ"
+    },
+    {
       "word": "痢",
       "reading": "り",
       "meaning": "bệnh ỉa chảy"
@@ -94,34 +109,19 @@
       "meaning": "bệnh lỵ của trẻ em"
     },
     {
-      "word": "赤痢",
-      "reading": "せきり",
-      "meaning": "bệnh lỵ"
-    },
-    {
-      "word": "下痢",
-      "reading": "げり",
-      "meaning": "bệnh đi ỉa"
-    },
-    {
-      "word": "アメーバ赤痢",
-      "reading": "アメーバせきり",
-      "meaning": "bệnh lỵ do amip gây nên"
-    },
-    {
-      "word": "赤痢菌",
-      "reading": "せきりきん",
-      "meaning": "vi khuẩn gây bệnh kiết lỵ"
-    },
-    {
-      "word": "赤痢アメーバ",
-      "reading": "せきりアメーバ",
-      "meaning": "trùng kiết lị"
-    },
-    {
       "word": "下痢止め",
       "reading": "げりどめ",
       "meaning": "thuốc tiêu chảy"
+    },
+    {
+      "word": "旅行者下痢",
+      "reading": "りょこうしゃげり",
+      "meaning": "tiêu chảy ở khách du lịch"
+    },
+    {
+      "word": "細菌性赤痢",
+      "reading": "さいきんせいせきり",
+      "meaning": "bệnh nhiễm khuẩn shigella"
     },
     {
       "word": "赤痢菌属",
@@ -129,9 +129,9 @@
       "meaning": "shigella"
     },
     {
-      "word": "細菌性赤痢",
-      "reading": "さいきんせいせきり",
-      "meaning": "bệnh nhiễm khuẩn shigella"
+      "word": "宿便性下痢",
+      "reading": "しゅくべんせーげり",
+      "meaning": "tiêu chảy do tích phân"
     }
   ]
 }

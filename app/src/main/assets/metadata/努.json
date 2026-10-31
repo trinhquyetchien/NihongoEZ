@@ -87,24 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "努",
-      "reading": "ゆめ",
-      "meaning": "nỗ lực"
-    },
-    {
-      "word": "努努",
-      "reading": "ゆめゆめ",
-      "meaning": "tuyệt đối"
-    },
-    {
       "word": "努力",
       "reading": "どりょく",
       "meaning": "chí tâm"
     },
     {
-      "word": "努力賞",
-      "reading": "どりょくしょう",
-      "meaning": "phần thưởng cho sự nỗ lực"
+      "word": "努める",
+      "reading": "つとめる",
+      "meaning": "cố gắng"
     },
     {
       "word": "努めて",
@@ -117,9 +107,19 @@
       "meaning": "người làm việc chăm chỉ"
     },
     {
-      "word": "努める",
-      "reading": "つとめる",
-      "meaning": "cố gắng"
+      "word": "努力賞",
+      "reading": "どりょくしょう",
+      "meaning": "phần thưởng cho sự nỗ lực"
+    },
+    {
+      "word": "努",
+      "reading": "ゆめ",
+      "meaning": "nỗ lực"
+    },
+    {
+      "word": "努努",
+      "reading": "ゆめゆめ",
+      "meaning": "tuyệt đối"
     },
     {
       "word": "努力する",
@@ -127,14 +127,14 @@
       "meaning": "chịu khó"
     },
     {
+      "word": "最後の努力",
+      "reading": "さいごのどりょく",
+      "meaning": "lâm chung"
+    },
+    {
       "word": "奮闘努力",
       "reading": "ふんとうどりょく",
       "meaning": "sự nỗ lực hết mình"
-    },
-    {
-      "word": "自助努力",
-      "reading": "じじょどりょく",
-      "meaning": "tự mình nỗ lực"
     }
   ]
 }

@@ -67,18 +67,8 @@
   ],
   "vocabulary": [
     {
-      "word": "撒く",
-      "reading": "まく",
-      "meaning": "rải"
-    },
-    {
-      "word": "撒布",
-      "reading": "さんぷ",
-      "meaning": "số lượng những thứ được tung rắc"
-    },
-    {
-      "word": "撒水",
-      "reading": "さんすい",
+      "word": "水撒き",
+      "reading": "みずまき",
       "meaning": "sự tưới nước"
     },
     {
@@ -87,24 +77,24 @@
       "meaning": "lễ ném muối trước trận đấu sumo"
     },
     {
+      "word": "撒く",
+      "reading": "まく",
+      "meaning": "rải"
+    },
+    {
       "word": "撒き菱",
       "reading": "まきびし",
       "meaning": "gai nhọn"
     },
     {
-      "word": "撒爾沙",
-      "reading": "さるさ",
-      "meaning": "sarsaparilla"
+      "word": "撒き餌",
+      "reading": "まきえ",
+      "meaning": "rải rắc động vật thanh toán"
     },
     {
-      "word": "豆撒き",
-      "reading": "まめまき",
-      "meaning": "rải rắc đậu"
-    },
-    {
-      "word": "水撒き",
-      "reading": "みずまき",
-      "meaning": "sự tưới nước"
+      "word": "撒布",
+      "reading": "さんぷ",
+      "meaning": "số lượng những thứ được tung rắc"
     },
     {
       "word": "撒布剤",
@@ -112,9 +102,19 @@
       "meaning": "thuốc chữa bệnh rắc khi dùng"
     },
     {
-      "word": "撒き餌",
-      "reading": "まきえ",
-      "meaning": "rải rắc động vật thanh toán"
+      "word": "豆撒き",
+      "reading": "まめまき",
+      "meaning": "rải rắc đậu"
+    },
+    {
+      "word": "撒水",
+      "reading": "さんすい",
+      "meaning": "sự tưới nước"
+    },
+    {
+      "word": "撒爾沙",
+      "reading": "さるさ",
+      "meaning": "sarsaparilla"
     }
   ]
 }

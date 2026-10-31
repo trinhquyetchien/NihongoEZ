@@ -90,44 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "声誉",
-      "reading": "せいよ",
-      "meaning": "danh tiếng"
-    },
-    {
-      "word": "誉望",
-      "reading": "よぼう",
-      "meaning": "danh dự"
-    },
-    {
-      "word": "毀誉",
-      "reading": "きよ",
-      "meaning": "khen ngợi"
-    },
-    {
       "word": "名誉",
       "reading": "めいよ",
       "meaning": "có danh dự"
-    },
-    {
-      "word": "誉れ",
-      "reading": "ほまれ",
-      "meaning": "danh dự"
-    },
-    {
-      "word": "栄誉",
-      "reading": "えいよ",
-      "meaning": "sự vinh dự"
-    },
-    {
-      "word": "誉める",
-      "reading": "ほめる",
-      "meaning": "khen"
-    },
-    {
-      "word": "名誉職",
-      "reading": "めいよしょく",
-      "meaning": "chức vụ danh dự"
     },
     {
       "word": "名誉心",
@@ -135,9 +100,44 @@
       "meaning": "sự ao ước muốn có danh tiếng"
     },
     {
+      "word": "名誉職",
+      "reading": "めいよしょく",
+      "meaning": "chức vụ danh dự"
+    },
+    {
+      "word": "栄誉",
+      "reading": "えいよ",
+      "meaning": "sự vinh dự"
+    },
+    {
+      "word": "栄誉賞",
+      "reading": "えいよしょう",
+      "meaning": "giải thưởng danh dự"
+    },
+    {
       "word": "栄誉礼",
       "reading": "えいよれい",
       "meaning": "lễ chào danh dự"
+    },
+    {
+      "word": "誉望",
+      "reading": "よぼう",
+      "meaning": "danh dự"
+    },
+    {
+      "word": "不名誉",
+      "reading": "ふめいよ",
+      "meaning": "sự mất danh dự"
+    },
+    {
+      "word": "誉れ",
+      "reading": "ほまれ",
+      "meaning": "danh dự"
+    },
+    {
+      "word": "誉める",
+      "reading": "ほめる",
+      "meaning": "khen"
     }
   ]
 }

@@ -110,29 +110,24 @@
   ],
   "vocabulary": [
     {
-      "word": "忙殺",
-      "reading": "ぼうさつ",
-      "meaning": "cực kỳ bận rộn"
-    },
-    {
-      "word": "忙中",
-      "reading": "ぼうちゅう",
-      "meaning": "lúc bận rộn nhất"
-    },
-    {
-      "word": "繁忙",
-      "reading": "はんぼう",
-      "meaning": "bận rộn"
-    },
-    {
-      "word": "煩忙",
-      "reading": "はんぼう",
-      "meaning": "bận rộn"
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaning": "bận"
     },
     {
       "word": "多忙",
       "reading": "たぼう",
       "meaning": "rất bận"
+    },
+    {
+      "word": "忙しげ",
+      "reading": "せわしげ",
+      "meaning": "trông không nghỉ"
+    },
+    {
+      "word": "繁忙",
+      "reading": "はんぼう",
+      "meaning": "bận rộn"
     },
     {
       "word": "繁忙期",
@@ -145,14 +140,19 @@
       "meaning": "vô cùng bận rộn"
     },
     {
-      "word": "忙しい",
-      "reading": "いそがしい",
-      "meaning": "bận"
+      "word": "忙殺",
+      "reading": "ぼうさつ",
+      "meaning": "cực kỳ bận rộn"
     },
     {
-      "word": "忙しげ",
-      "reading": "せわしげ",
-      "meaning": "trông không nghỉ"
+      "word": "煩忙",
+      "reading": "はんぼう",
+      "meaning": "bận rộn"
+    },
+    {
+      "word": "忙中",
+      "reading": "ぼうちゅう",
+      "meaning": "lúc bận rộn nhất"
     },
     {
       "word": "多忙中",

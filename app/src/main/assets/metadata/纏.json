@@ -88,24 +88,19 @@
   ],
   "vocabulary": [
     {
-      "word": "纏繞",
-      "reading": "てんじょう",
-      "meaning": "bọc"
+      "word": "纏め",
+      "reading": "まとめ",
+      "meaning": "kết luận"
     },
     {
-      "word": "纏る",
-      "reading": "まつわる",
-      "meaning": "khâu giấu chỉ bên trong nếp gấp một cách đều đặn"
+      "word": "纏め役",
+      "reading": "まとめやく",
+      "meaning": "người điều đình"
     },
     {
-      "word": "袢纏",
-      "reading": "はんてん",
-      "meaning": "kiểu áo khoác ngắn mặc bên ngoài áo kimono"
-    },
-    {
-      "word": "半纏",
-      "reading": "はんてん",
-      "meaning": "áo khoác ngắn tay"
+      "word": "足纏い",
+      "reading": "あしまとい",
+      "meaning": "ngáng chân"
     },
     {
       "word": "纏う",
@@ -113,9 +108,9 @@
       "meaning": "tổng hợp"
     },
     {
-      "word": "纏め",
-      "reading": "まとめ",
-      "meaning": "kết luận"
+      "word": "纏る",
+      "reading": "まつわる",
+      "meaning": "khâu giấu chỉ bên trong nếp gấp một cách đều đặn"
     },
     {
       "word": "纏頭",
@@ -123,19 +118,24 @@
       "meaning": "một mẹo nhỏ"
     },
     {
-      "word": "纏綿",
-      "reading": "てんめん",
-      "meaning": "vướng mắc"
-    },
-    {
-      "word": "纏足",
-      "reading": "てんそく",
-      "meaning": "quy luật tự nhiên.+ là một tập hợp các quy tắc tự nhiên đặt ra đối với con người và do đó không bao giờ thay đổi được"
-    },
-    {
       "word": "一纏",
       "reading": "ひとまとめ",
       "meaning": "đóng gói"
+    },
+    {
+      "word": "纏縛",
+      "reading": "てんばく",
+      "meaning": "ràng buộc"
+    },
+    {
+      "word": "纏める",
+      "reading": "まとめる",
+      "meaning": "đưa đến kết luận"
+    },
+    {
+      "word": "纏わる",
+      "reading": "まつわる",
+      "meaning": "về"
     }
   ]
 }

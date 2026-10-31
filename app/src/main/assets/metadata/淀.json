@@ -32,19 +32,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "淀み",
-      "reading": "よどみ",
-      "meaning": "sự ứ đọng"
-    },
-    {
-      "word": "淀む",
-      "reading": "よどむ",
-      "meaning": "ứ đọng"
-    },
-    {
       "word": "淀川",
       "reading": "よどがわ",
       "meaning": "sông yodo"
+    },
+    {
+      "word": "淀み",
+      "reading": "よどみ",
+      "meaning": "sự ứ đọng"
     },
     {
       "word": "淀木瓜",
@@ -52,9 +47,9 @@
       "meaning": "mộc qua"
     },
     {
-      "word": "言い淀む",
-      "reading": "いいよどむ",
-      "meaning": "để do dự để nói"
+      "word": "淀む",
+      "reading": "よどむ",
+      "meaning": "ứ đọng"
     },
     {
       "word": "淀み無い",
@@ -65,6 +60,11 @@
       "word": "淀み無く",
       "reading": "よどみなく",
       "meaning": "trôi chảy"
+    },
+    {
+      "word": "言い淀む",
+      "reading": "いいよどむ",
+      "meaning": "để do dự để nói"
     }
   ]
 }

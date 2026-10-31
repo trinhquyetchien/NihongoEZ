@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "挙筋",
-      "reading": "きょきん",
-      "meaning": "cơ nâng"
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "cuộc tuyển cử"
     },
     {
-      "word": "推挙",
-      "reading": "すいきょ",
-      "meaning": "khuyến cáo"
+      "word": "本選挙",
+      "reading": "ほんせんきょ",
+      "meaning": "cuộc bầu cử chính thức"
+    },
+    {
+      "word": "再選挙",
+      "reading": "さいせんきょ",
+      "meaning": "sự bầu lại"
+    },
+    {
+      "word": "選挙民",
+      "reading": "せんきょみん",
+      "meaning": "toàn bộ cử tri"
+    },
+    {
+      "word": "挙げて",
+      "reading": "あげて",
+      "meaning": "toàn bộ"
+    },
+    {
+      "word": "挙げる",
+      "reading": "あげる",
+      "meaning": "giơ lên"
+    },
+    {
+      "word": "挙句",
+      "reading": "あげく",
+      "meaning": "sau"
+    },
+    {
+      "word": "一挙",
+      "reading": "いっきょ",
+      "meaning": "một cố gắng"
+    },
+    {
+      "word": "挙動",
+      "reading": "きょどう",
+      "meaning": "cử động"
     },
     {
       "word": "検挙",
       "reading": "けんきょ",
       "meaning": "sự bắt giữ"
-    },
-    {
-      "word": "挙式",
-      "reading": "きょしき",
-      "meaning": "sự tổ chức nghi lễ"
-    },
-    {
-      "word": "愚挙",
-      "reading": "ぐきょ",
-      "meaning": "sự cố gắng ngu ngốc"
-    },
-    {
-      "word": "再挙",
-      "reading": "さいきょ",
-      "meaning": "sự thử lại"
-    },
-    {
-      "word": "挙る",
-      "reading": "こぞる",
-      "meaning": "để tập hợp mọi thứ cùng nhau"
-    },
-    {
-      "word": "吹挙",
-      "reading": "すいきょ",
-      "meaning": "sự tiến cử"
-    },
-    {
-      "word": "科挙",
-      "reading": "かきょ",
-      "meaning": "kỳ thi dành cho quan chức ở trung quốc"
-    },
-    {
-      "word": "快挙",
-      "reading": "かいきょ",
-      "meaning": "thành tích rực rỡ"
     }
   ]
 }

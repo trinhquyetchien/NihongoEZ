@@ -95,19 +95,14 @@
       "meaning": "sự thuận tiện"
     },
     {
-      "word": "便便と",
-      "reading": "べんべんと",
-      "meaning": "nhàn rỗi"
+      "word": "便り",
+      "reading": "たより",
+      "meaning": "thư"
     },
     {
-      "word": "便便たる",
-      "reading": "べんべんたる",
-      "meaning": "lồi lên"
-    },
-    {
-      "word": "摘便",
-      "reading": "てきべん",
-      "meaning": "thụt hậu môn"
+      "word": "小便",
+      "reading": "しょうべん",
+      "meaning": "đi tiểu"
     },
     {
       "word": "船便",
@@ -115,14 +110,14 @@
       "meaning": "gửi bằng đường tàu"
     },
     {
-      "word": "減便",
-      "reading": "げんびん",
-      "meaning": "giảm tuyến bay"
+      "word": "便宜",
+      "reading": "べんぎ",
+      "meaning": "sự tiện lợi"
     },
     {
-      "word": "検便",
-      "reading": "けんべん",
-      "meaning": "kiểm tra phân"
+      "word": "大便",
+      "reading": "だいべん",
+      "meaning": "sự đi đại tiện"
     },
     {
       "word": "便名",
@@ -130,14 +125,19 @@
       "meaning": "số hiệu chuyến bay"
     },
     {
-      "word": "チャーター便",
-      "reading": "チャーターびん",
-      "meaning": "điều lệ chuyến bay"
+      "word": "次便",
+      "reading": "じびん",
+      "meaning": "thư sau"
     },
     {
-      "word": "血便",
-      "reading": "けつべん",
-      "meaning": "nước tiểu hay phân có máu"
+      "word": "便管",
+      "reading": "べんかん",
+      "meaning": "cái ống cống nước"
+    },
+    {
+      "word": "便秘",
+      "reading": "べんぴ",
+      "meaning": "bí đại diện"
     }
   ]
 }

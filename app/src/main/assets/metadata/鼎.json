@@ -54,39 +54,9 @@
       "meaning": "ấm đun nước ba chân"
     },
     {
-      "word": "鼎革",
-      "reading": "ていかく",
-      "meaning": "sự thay đổi triều đại"
-    },
-    {
-      "word": "鼎立",
-      "reading": "ていりつ",
-      "meaning": "đỉnh tam giác"
-    },
-    {
-      "word": "鼎談",
-      "reading": "ていだん",
-      "meaning": "tay ba nói"
-    },
-    {
-      "word": "鼎坐",
-      "reading": "ていざ",
-      "meaning": "ngồi trong một hình tam giác"
-    },
-    {
       "word": "鼎座",
       "reading": "ていざ",
       "meaning": "ngồi trong một hình tam giác"
-    },
-    {
-      "word": "鐘鼎文",
-      "reading": "しょうていぶん",
-      "meaning": "chữ khắc trên bình và chuông bằng đồng"
-    },
-    {
-      "word": "鼎立戦",
-      "reading": "ていりつせん",
-      "meaning": "ba - cách tranh đua"
     },
     {
       "word": "三つ鼎",
@@ -94,9 +64,39 @@
       "meaning": "ba người ngồi theo hình tam giác"
     },
     {
+      "word": "鼎革",
+      "reading": "ていかく",
+      "meaning": "sự thay đổi triều đại"
+    },
+    {
+      "word": "鐘鼎文",
+      "reading": "しょうていぶん",
+      "meaning": "chữ khắc trên bình và chuông bằng đồng"
+    },
+    {
+      "word": "鼎談",
+      "reading": "ていだん",
+      "meaning": "tay ba nói"
+    },
+    {
       "word": "鼎談会",
       "reading": "ていだんかい",
       "meaning": "ba người đàn ông nói"
+    },
+    {
+      "word": "鼎立",
+      "reading": "ていりつ",
+      "meaning": "đỉnh tam giác"
+    },
+    {
+      "word": "鼎立戦",
+      "reading": "ていりつせん",
+      "meaning": "ba - cách tranh đua"
+    },
+    {
+      "word": "鼎坐",
+      "reading": "ていざ",
+      "meaning": "ngồi trong một hình tam giác"
     }
   ]
 }

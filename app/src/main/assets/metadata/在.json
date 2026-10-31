@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "在",
-      "reading": "ざい",
-      "meaning": "ở"
-    },
-    {
-      "word": "在る",
-      "reading": "ある",
-      "meaning": "có"
+      "word": "在庫",
+      "reading": "ざいこ",
+      "meaning": "lưu kho"
     },
     {
       "word": "所在",
@@ -104,19 +99,24 @@
       "meaning": "chỗ ở"
     },
     {
-      "word": "実在",
-      "reading": "じつざい",
-      "meaning": "sự tồn tại khách quan"
-    },
-    {
       "word": "自在",
       "reading": "じざい",
       "meaning": "tùy ý"
     },
     {
-      "word": "在宅",
-      "reading": "ざいたく",
-      "meaning": "hiện thân bên trong"
+      "word": "健在",
+      "reading": "けんざい",
+      "meaning": "sức khoẻ tốt"
+    },
+    {
+      "word": "在",
+      "reading": "ざい",
+      "meaning": "ở"
+    },
+    {
+      "word": "先在",
+      "reading": "せんざい",
+      "meaning": "kiếp trước"
     },
     {
       "word": "在住",
@@ -124,19 +124,19 @@
       "meaning": "sự cư trú"
     },
     {
-      "word": "在職",
-      "reading": "ざいしょく",
-      "meaning": "tại chức"
+      "word": "実在",
+      "reading": "じつざい",
+      "meaning": "sự tồn tại khách quan"
     },
     {
-      "word": "散在",
-      "reading": "さんざい",
-      "meaning": "sự rải rác"
+      "word": "表在",
+      "reading": "ひょうざい",
+      "meaning": "nông cạn"
     },
     {
-      "word": "在庫",
-      "reading": "ざいこ",
-      "meaning": "lưu kho"
+      "word": "在園",
+      "reading": "ざいえん",
+      "meaning": "đi học mẫu giáo"
     }
   ]
 }

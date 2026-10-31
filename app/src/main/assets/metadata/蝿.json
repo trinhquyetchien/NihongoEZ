@@ -89,24 +89,9 @@
       "meaning": "ruồi"
     },
     {
-      "word": "瓜蝿",
-      "reading": "うりばえ",
-      "meaning": "ruồi bầu"
-    },
-    {
       "word": "実蝿",
       "reading": "みばえ",
       "meaning": "ruồi đục quả"
-    },
-    {
-      "word": "蝿帳",
-      "reading": "はいちょう",
-      "meaning": "một ngăn tủ nhỏ đựng thức ăn có lưới an toàn để tránh ruồi bay vào"
-    },
-    {
-      "word": "刺蝿",
-      "reading": "さしばえ",
-      "meaning": "ruồi cắn"
     },
     {
       "word": "銀蝿",
@@ -114,9 +99,29 @@
       "meaning": "ruồi bạc lớn"
     },
     {
+      "word": "刺蝿",
+      "reading": "さしばえ",
+      "meaning": "ruồi cắn"
+    },
+    {
+      "word": "瓜蝿",
+      "reading": "うりばえ",
+      "meaning": "ruồi bầu"
+    },
+    {
       "word": "糠蝿",
       "reading": "ぬかばえ",
       "meaning": "ruồi cám"
+    },
+    {
+      "word": "蚤蝿",
+      "reading": "のみばえ",
+      "meaning": "ruồi lưng gù"
+    },
+    {
+      "word": "蝿帳",
+      "reading": "はいちょう",
+      "meaning": "một ngăn tủ nhỏ đựng thức ăn có lưới an toàn để tránh ruồi bay vào"
     },
     {
       "word": "糞蝿",
@@ -127,11 +132,6 @@
       "word": "青蝿",
       "reading": "きんばえ",
       "meaning": "con nhặng"
-    },
-    {
-      "word": "馬蝿",
-      "reading": "うまばえ",
-      "meaning": "ngựa botfly"
     }
   ]
 }

@@ -91,19 +91,24 @@
       "meaning": "bàn"
     },
     {
-      "word": "経机",
-      "reading": "きょうづくえ",
-      "meaning": "bàn đọc kinh"
+      "word": "両袖机",
+      "reading": "りょうそでづくえ",
+      "meaning": "bàn làm việc có ngăn kéo cả 2 bên"
     },
     {
-      "word": "脇机",
-      "reading": "わきづくえ",
-      "meaning": "bàn phụ"
-    },
-    {
-      "word": "机上",
-      "reading": "きじょう",
+      "word": "机の上",
+      "reading": "つくえのうえ",
       "meaning": "trên bàn"
+    },
+    {
+      "word": "子机",
+      "reading": "こつくえ",
+      "meaning": "bàn con"
+    },
+    {
+      "word": "机の下",
+      "reading": "つくえのした",
+      "meaning": "dưới bàn"
     },
     {
       "word": "長机",
@@ -111,29 +116,24 @@
       "meaning": "cái bàn dài"
     },
     {
-      "word": "机辺",
-      "reading": "きへん",
-      "meaning": "gần một cái bàn"
+      "word": "机の足",
+      "reading": "つくえのあし",
+      "meaning": "những chân một bảng"
     },
     {
-      "word": "床机",
-      "reading": "しょうぎ",
-      "meaning": "cắm trại ghế đẩu"
-    },
-    {
-      "word": "机下",
-      "reading": "きか",
-      "meaning": "từ trang trọng thêm vào tên người nhận thư"
-    },
-    {
-      "word": "文机",
-      "reading": "ふづくえ",
-      "meaning": "bàn đọc"
+      "word": "勉強机",
+      "reading": "べんきょうづくえ",
+      "meaning": "bàn học"
     },
     {
       "word": "和机",
       "reading": "わづくえ",
       "meaning": "bàn làm việc kiểu nhật"
+    },
+    {
+      "word": "学習机",
+      "reading": "がくしゅうづくえ",
+      "meaning": "bàn học"
     }
   ]
 }

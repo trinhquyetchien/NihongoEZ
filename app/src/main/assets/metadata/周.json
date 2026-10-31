@@ -106,19 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "周",
-      "reading": "しゅう",
+      "word": "周り",
+      "reading": "まわり",
       "meaning": "vùng xung quanh"
-    },
-    {
-      "word": "周年",
-      "reading": "しゅうねん",
-      "meaning": "ngày kỷ niệm"
-    },
-    {
-      "word": "周波",
-      "reading": "しゅうは",
-      "meaning": "chu trình"
     },
     {
       "word": "周囲",
@@ -126,13 +116,18 @@
       "meaning": "chu vi"
     },
     {
-      "word": "周知",
-      "reading": "しゅうち",
-      "meaning": "kiến thức chung"
-    },
-    {
       "word": "周辺",
       "reading": "しゅうへん",
+      "meaning": "vùng xung quanh"
+    },
+    {
+      "word": "円周",
+      "reading": "えんしゅう",
+      "meaning": "chu vi hình tròn"
+    },
+    {
+      "word": "周",
+      "reading": "しゅう",
       "meaning": "vùng xung quanh"
     },
     {
@@ -141,19 +136,24 @@
       "meaning": "chu kì"
     },
     {
-      "word": "西周",
-      "reading": "せいしゅう",
-      "meaning": "nước tây chu"
+      "word": "周年",
+      "reading": "しゅうねん",
+      "meaning": "ngày kỷ niệm"
     },
     {
-      "word": "周尺",
-      "reading": "しゅうしゃく",
-      "meaning": "thước nhật bản"
+      "word": "分周",
+      "reading": "ぶんしゅう",
+      "meaning": "bộ phận"
     },
     {
-      "word": "周天",
-      "reading": "しゅうてん",
-      "meaning": "một vòng quay của trái đất"
+      "word": "後周",
+      "reading": "こうしゅう",
+      "meaning": "nhà hậu chu"
+    },
+    {
+      "word": "周面",
+      "reading": "しゅうめん",
+      "meaning": "chu vi"
     }
   ]
 }

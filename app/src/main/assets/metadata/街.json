@@ -90,34 +90,19 @@
   ],
   "vocabulary": [
     {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "góc đường"
+    },
+    {
       "word": "街",
       "reading": "まち",
       "meaning": "phố phường"
     },
     {
-      "word": "ネオン街",
-      "reading": "ネオンまち",
-      "meaning": "phố đèn đỏ hay còn gọi là 歓楽街"
-    },
-    {
-      "word": "街中",
-      "reading": "まちなか",
-      "meaning": "trong khu phố"
-    },
-    {
-      "word": "レストラン街",
-      "reading": "レストランがい",
-      "meaning": "trung tâm ẩm thực"
-    },
-    {
-      "word": "ビジネス街",
-      "reading": "ビジネスがい",
-      "meaning": "khu phố kinh doanh"
-    },
-    {
-      "word": "市街",
-      "reading": "しがい",
-      "meaning": "nội thành"
+      "word": "街道",
+      "reading": "かいどう",
+      "meaning": "đường chính"
     },
     {
       "word": "街頭",
@@ -125,19 +110,34 @@
       "meaning": "trên phố"
     },
     {
-      "word": "ショッピング街",
-      "reading": "ショッピングがい",
-      "meaning": "phố mua sắm"
+      "word": "市街",
+      "reading": "しがい",
+      "meaning": "nội thành"
     },
     {
-      "word": "街々",
-      "reading": "まちまち",
-      "meaning": "đa dạn"
+      "word": "街中",
+      "reading": "まちなか",
+      "meaning": "trong khu phố"
     },
     {
       "word": "街金",
       "reading": "まちきん",
       "meaning": "cho vay nặng lãi"
+    },
+    {
+      "word": "街の女",
+      "reading": "まちのおんな",
+      "meaning": "gái giang hồ"
+    },
+    {
+      "word": "街区",
+      "reading": "がいく",
+      "meaning": "khu nhà"
+    },
+    {
+      "word": "街着",
+      "reading": "まちぎ",
+      "meaning": "quần áo mặc khi ra đường"
     }
   ]
 }

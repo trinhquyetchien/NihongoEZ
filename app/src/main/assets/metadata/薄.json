@@ -119,24 +119,14 @@
       "meaning": "ánh sáng"
     },
     {
-      "word": "薄薄",
-      "reading": "うすうす",
-      "meaning": "một cách thưa thớt"
+      "word": "薄ら",
+      "reading": "うっすら",
+      "meaning": "hơi"
     },
     {
-      "word": "軽薄",
-      "reading": "けいはく",
-      "meaning": "nông cạn"
-    },
-    {
-      "word": "薄命",
-      "reading": "はくめい",
-      "meaning": "sự bạc mệnh"
-    },
-    {
-      "word": "薄靄",
-      "reading": "うすもや",
-      "meaning": "sương mỏng"
+      "word": "薄光",
+      "reading": "はっこう",
+      "meaning": "ánh sáng nhạt nhoà"
     },
     {
       "word": "薄味",
@@ -144,14 +134,14 @@
       "meaning": "vị nhạt"
     },
     {
-      "word": "薄型",
-      "reading": "うすがた",
-      "meaning": "kiểu dáng mỏng"
+      "word": "薄雪",
+      "reading": "うすゆき",
+      "meaning": "ánh sáng snowfall"
     },
     {
-      "word": "お薄",
-      "reading": "おうす",
-      "meaning": "nhạt"
+      "word": "薄緑",
+      "reading": "うすみどり",
+      "meaning": "màu xanh lục nhẹ"
     },
     {
       "word": "極薄",
@@ -159,9 +149,19 @@
       "meaning": "cực mỏng"
     },
     {
-      "word": "薄紗",
-      "reading": "はくさ",
-      "meaning": "mỏng nhẹ như tơ"
+      "word": "薄雲",
+      "reading": "うすぐも",
+      "meaning": "đám mây mỏng"
+    },
+    {
+      "word": "厚薄",
+      "reading": "こうはく",
+      "meaning": "bề dày"
+    },
+    {
+      "word": "薄紅",
+      "reading": "うすべに",
+      "meaning": "màu hồng nhạt"
     }
   ]
 }

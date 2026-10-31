@@ -101,24 +101,19 @@
       "meaning": "ngày lễ"
     },
     {
-      "word": "祭壇",
-      "reading": "さいだん",
-      "meaning": "bệ thờ"
-    },
-    {
-      "word": "祭司",
-      "reading": "さいし",
-      "meaning": "một người chuyên thực hiện các nghi lễ tôn giáo"
-    },
-    {
       "word": "祭る",
       "reading": "まつる",
       "meaning": "thờ cúng"
     },
     {
-      "word": "祭典",
-      "reading": "さいてん",
-      "meaning": "ngày hội"
+      "word": "年祭",
+      "reading": "ねんさい",
+      "meaning": "ngày kỷ niệm"
+    },
+    {
+      "word": "本祭",
+      "reading": "ほんまつり",
+      "meaning": "lễ hội chính"
     },
     {
       "word": "夏祭",
@@ -126,19 +121,24 @@
       "meaning": "lễ hội mùa hè"
     },
     {
-      "word": "勅祭",
-      "reading": "ちょくさい",
-      "meaning": "lễ sắc tế tổ chức hoặc có sự tham gia chính thức.)"
+      "word": "祭官",
+      "reading": "さいかん",
+      "meaning": "tế quan"
     },
     {
-      "word": "奇祭",
-      "reading": "きさい",
-      "meaning": "lễ hội kỳ lạ"
+      "word": "祭り",
+      "reading": "まつり",
+      "meaning": "hội hè"
     },
     {
-      "word": "祭祀",
-      "reading": "さいし",
-      "meaning": "trình tự hành lễ"
+      "word": "合祭",
+      "reading": "ごうさい",
+      "meaning": "cất giữ thánh vật cùng nhau"
+    },
+    {
+      "word": "パリ祭",
+      "reading": "パリさい",
+      "meaning": "ngày bastille"
     }
   ]
 }

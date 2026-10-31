@@ -87,14 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "孤",
-      "reading": "こ",
-      "meaning": "mồ côi"
-    },
-    {
-      "word": "孤食",
-      "reading": "こしょく",
-      "meaning": "ăn một mình"
+      "word": "孤独",
+      "reading": "こどく",
+      "meaning": "cô đơn"
     },
     {
       "word": "孤立",
@@ -102,39 +97,44 @@
       "meaning": "sự cô lập"
     },
     {
-      "word": "孤独",
-      "reading": "こどく",
-      "meaning": "cô đơn"
-    },
-    {
       "word": "孤児",
       "reading": "こじ",
       "meaning": "mồ côi"
     },
     {
-      "word": "孤島",
-      "reading": "ことう",
-      "meaning": "hòn đảo chơ vơ"
+      "word": "孤独な",
+      "reading": "こどくな",
+      "meaning": "trơ trọi"
     },
     {
-      "word": "孤高",
-      "reading": "ここう",
-      "meaning": "ở xa"
+      "word": "孤独の",
+      "reading": "こどくの",
+      "meaning": "đơn thân"
     },
     {
-      "word": "孤猿",
-      "reading": "こえん",
-      "meaning": "con khỉ đơn độc"
+      "word": "孤独感",
+      "reading": "こどくかん",
+      "meaning": "cảm giác cô độc"
     },
     {
-      "word": "孤軍",
-      "reading": "こぐん",
-      "meaning": "đội quân bị cô lập"
+      "word": "孤独死",
+      "reading": "こどくし",
+      "meaning": "chết trong cô độc"
     },
     {
-      "word": "遺孤",
-      "reading": "いこ",
-      "meaning": "mồ côi"
+      "word": "孤立化",
+      "reading": "こりつか",
+      "meaning": "sự cô lập"
+    },
+    {
+      "word": "孤立感",
+      "reading": "こりつかん",
+      "meaning": "cảm giác bị cô lập"
+    },
+    {
+      "word": "孤立点",
+      "reading": "こりつてん",
+      "meaning": "điểm cô lập"
     }
   ]
 }

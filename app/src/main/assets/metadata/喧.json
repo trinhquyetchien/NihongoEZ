@@ -106,24 +106,19 @@
   ],
   "vocabulary": [
     {
-      "word": "喧喧囂囂",
-      "reading": "けんけんごうごう",
-      "meaning": "huyên náo"
-    },
-    {
-      "word": "喧喧たり",
-      "reading": "けんけんたり",
-      "meaning": "ồn ào"
-    },
-    {
       "word": "喧嘩",
       "reading": "けんか",
       "meaning": "cãi nhau"
     },
     {
-      "word": "喧騒",
-      "reading": "けんそう",
-      "meaning": "ồn ào"
+      "word": "大喧嘩",
+      "reading": "おおげんか",
+      "meaning": "cuộc cãi vã lớn"
+    },
+    {
+      "word": "水喧嘩",
+      "reading": "みずげんか",
+      "meaning": "tranh chấp về việc phân phối nước vào ruộng trong mùa hè"
     },
     {
       "word": "喧伝",
@@ -131,12 +126,12 @@
       "meaning": "được lan truyền khắp nơi"
     },
     {
-      "word": "喧然",
-      "reading": "けんぜん",
-      "meaning": "ồn ào"
+      "word": "口喧嘩",
+      "reading": "くちげんか",
+      "meaning": "cãi nhau"
     },
     {
-      "word": "喧噪",
+      "word": "喧騒",
       "reading": "けんそう",
       "meaning": "ồn ào"
     },
@@ -146,14 +141,19 @@
       "meaning": "tham chiến"
     },
     {
-      "word": "大喧嘩",
-      "reading": "おおげんか",
-      "meaning": "cuộc cãi vã lớn"
-    },
-    {
       "word": "喧しい",
       "reading": "やかましい",
       "meaning": "ầm ỹ"
+    },
+    {
+      "word": "喧噪",
+      "reading": "けんそう",
+      "meaning": "ồn ào"
+    },
+    {
+      "word": "喧然",
+      "reading": "けんぜん",
+      "meaning": "ồn ào"
     }
   ]
 }

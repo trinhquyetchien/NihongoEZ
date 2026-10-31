@@ -88,44 +88,19 @@
   ],
   "vocabulary": [
     {
-      "word": "醸母",
-      "reading": "じょうぼ",
-      "meaning": "men"
-    },
-    {
-      "word": "銘醸",
-      "reading": "めいじょう",
-      "meaning": "làm rượu bằng nguyên liệu đặc biệt"
-    },
-    {
-      "word": "佳醸",
-      "reading": "かじょう",
-      "meaning": "sake ngọt"
-    },
-    {
-      "word": "醸成",
-      "reading": "じょうせい",
-      "meaning": "việc lên men"
-    },
-    {
-      "word": "醸す",
-      "reading": "かもす",
-      "meaning": "làm lên men"
-    },
-    {
       "word": "醸造",
       "reading": "じょうぞう",
       "meaning": "việc làm rượu bia"
     },
     {
-      "word": "醸造酒",
-      "reading": "じょうぞうしゅ",
-      "meaning": "rượu chưng cất"
+      "word": "醸造家",
+      "reading": "じょうぞうか",
+      "meaning": "người ủ rượu bia"
     },
     {
-      "word": "醸造酢",
-      "reading": "じょうぞうす",
-      "meaning": "giấm"
+      "word": "本醸造",
+      "reading": "ほんじょうぞう",
+      "meaning": "rượu honjozo"
     },
     {
       "word": "醸造所",
@@ -133,9 +108,34 @@
       "meaning": "nơi ủ rượu"
     },
     {
+      "word": "醸造酒",
+      "reading": "じょうぞうしゅ",
+      "meaning": "rượu chưng cất"
+    },
+    {
       "word": "醸造学",
       "reading": "じょうぞうがく",
       "meaning": "khoa nghiên cứu sự lên men"
+    },
+    {
+      "word": "醸造業",
+      "reading": "じょうぞうぎょう",
+      "meaning": "ngành sản xuất lên men"
+    },
+    {
+      "word": "醸造酢",
+      "reading": "じょうぞうす",
+      "meaning": "giấm"
+    },
+    {
+      "word": "大吟醸",
+      "reading": "だいぎんじょう",
+      "meaning": "daiginjō"
+    },
+    {
+      "word": "吟醸酒",
+      "reading": "ぎんじょうしゅ",
+      "meaning": "gạo kiểu mục đích tập hợp bởi thấp sự lên men nhiệt độ từ nguyên liệu gồm có ít hơn 60 % đánh bóng trắng"
     }
   ]
 }

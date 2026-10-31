@@ -88,21 +88,6 @@
       "meaning": "sự hy sinh"
     },
     {
-      "word": "犠牲バント",
-      "reading": "ぎせいバント",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
-      "word": "犠牲打",
-      "reading": "ぎせいだ",
-      "meaning": "cú đánh hy sinh"
-    },
-    {
-      "word": "犠牲フライ",
-      "reading": "ぎせいフライ",
-      "meaning": "hy sinh cẩn thận"
-    },
-    {
       "word": "犠牲的",
       "reading": "ぎせいてき",
       "meaning": "hy sinh"
@@ -113,9 +98,19 @@
       "meaning": "nạn nhân"
     },
     {
-      "word": "自己犠牲",
-      "reading": "じこぎせい",
-      "meaning": "sự hy sinh"
+      "word": "犠牲打",
+      "reading": "ぎせいだ",
+      "meaning": "cú đánh hy sinh"
+    },
+    {
+      "word": "犠牲になる",
+      "reading": "ぎせいになる",
+      "meaning": "hy sinh cho ai đó"
+    },
+    {
+      "word": "犠牲となる",
+      "reading": "ぎせいとなる",
+      "meaning": "hy sinh"
     },
     {
       "word": "戦争犠牲者",
@@ -123,14 +118,19 @@
       "meaning": "nạn nhân chiến tranh"
     },
     {
+      "word": "自己犠牲",
+      "reading": "じこぎせい",
+      "meaning": "sự hy sinh"
+    },
+    {
       "word": "戦闘犠牲者",
       "reading": "せんとうぎせいしゃ",
       "meaning": "tổn thất"
     },
     {
-      "word": "原爆犠牲者",
-      "reading": "げんばくぎせいしゃ",
-      "meaning": "nạn nhân của bom nguyên tử"
+      "word": "犠牲を払う",
+      "reading": "ぎせいをはらう",
+      "meaning": "hy sinh"
     }
   ]
 }

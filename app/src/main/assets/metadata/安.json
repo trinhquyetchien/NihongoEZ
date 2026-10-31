@@ -92,54 +92,54 @@
   ],
   "vocabulary": [
     {
-      "word": "安",
-      "reading": "やす",
-      "meaning": "rẻ"
-    },
-    {
-      "word": "安安",
-      "reading": "やすやす",
-      "meaning": "chính hòa bình"
-    },
-    {
-      "word": "安安と",
-      "reading": "やすやすと",
-      "meaning": "dễ dàng"
-    },
-    {
-      "word": "安心安全",
-      "reading": "あんしんあんぜん",
-      "meaning": "an toàn và an tâm"
-    },
-    {
-      "word": "驚安",
-      "reading": "きょうやす",
-      "meaning": "hàng giá rẻ của chuỗi don quijote. dùng thay cho từhay gặp"
-    },
-    {
-      "word": "安否",
-      "reading": "あんぴ",
-      "meaning": "sự an nguy"
-    },
-    {
-      "word": "安堵",
-      "reading": "あんど",
-      "meaning": "sự giải tỏa"
-    },
-    {
-      "word": "安泰",
-      "reading": "あんたい",
-      "meaning": "hòa bình"
-    },
-    {
       "word": "安易",
       "reading": "あんい",
       "meaning": "dễ dàng"
     },
     {
-      "word": "安手",
-      "reading": "やすで",
-      "meaning": "loại rẻ"
+      "word": "目安",
+      "reading": "めやす",
+      "meaning": "mục tiêu"
+    },
+    {
+      "word": "治安",
+      "reading": "ちあん",
+      "meaning": "trị an"
+    },
+    {
+      "word": "安",
+      "reading": "やす",
+      "meaning": "rẻ"
+    },
+    {
+      "word": "安酒",
+      "reading": "やすざけ",
+      "meaning": "rượu rẻ tiền"
+    },
+    {
+      "word": "安く",
+      "reading": "やすく",
+      "meaning": "rẻ"
+    },
+    {
+      "word": "値安",
+      "reading": "ねやす",
+      "meaning": "sự rẻ tiền"
+    },
+    {
+      "word": "ドル安",
+      "reading": "ドルやす",
+      "meaning": "đô la rẻ"
+    },
+    {
+      "word": "食安",
+      "reading": "しょくあん",
+      "meaning": "an toàn thực phẩm"
+    },
+    {
+      "word": "天安",
+      "reading": "てんあん",
+      "meaning": "thời tenan"
     }
   ]
 }

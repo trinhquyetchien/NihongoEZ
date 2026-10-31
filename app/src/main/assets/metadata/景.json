@@ -104,14 +104,14 @@
   ],
   "vocabulary": [
     {
-      "word": "景",
-      "reading": "けい",
+      "word": "景色",
+      "reading": "けしき",
       "meaning": "cảnh"
     },
     {
-      "word": "景品",
-      "reading": "けいひん",
-      "meaning": "tặng"
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaning": "phong cảnh"
     },
     {
       "word": "光景",
@@ -124,34 +124,34 @@
       "meaning": "tình hình"
     },
     {
-      "word": "景勝",
-      "reading": "けいしょう",
-      "meaning": "thắng cảnh"
+      "word": "背景",
+      "reading": "はいけい",
+      "meaning": "bối cảnh"
     },
     {
-      "word": "景色",
-      "reading": "けしき",
+      "word": "風景画",
+      "reading": "ふうけいが",
+      "meaning": "tranh phong cảnh"
+    },
+    {
+      "word": "上景気",
+      "reading": "じょうけいき",
+      "meaning": "bùng nổ"
+    },
+    {
+      "word": "景品",
+      "reading": "けいひん",
+      "meaning": "tặng"
+    },
+    {
+      "word": "景",
+      "reading": "けい",
       "meaning": "cảnh"
     },
     {
-      "word": "絶景",
-      "reading": "ぜっけい",
-      "meaning": "cảnh quan tuyệt vời"
-    },
-    {
-      "word": "庭景",
-      "reading": "ていけい",
-      "meaning": "phong cảnh ở vườn"
-    },
-    {
-      "word": "借景",
-      "reading": "しゃっけい",
-      "meaning": "tận dụng cảnh quan xung quanh như một phần trong thiết kế của một khu vườn"
-    },
-    {
-      "word": "幽景",
-      "reading": "ゆうけい",
-      "meaning": "sự yên tĩnh cô lập cảnh"
+      "word": "中景",
+      "reading": "ちゅうけい",
+      "meaning": "cự ly trung bình"
     }
   ]
 }

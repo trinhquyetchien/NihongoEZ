@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "鉄砲",
+      "reading": "てっぽう",
+      "meaning": "cây cột dùng luyện tập trong đấu vật"
+    },
+    {
       "word": "砲",
       "reading": "ほう",
       "meaning": "súng thần công"
     },
     {
-      "word": "砲熕",
+      "word": "砲音",
+      "reading": "ほうおん",
+      "meaning": "tiếng súng"
+    },
+    {
+      "word": "砲口",
       "reading": "ほうこう",
-      "meaning": "pháo binh"
+      "meaning": "đầu ra đạn của súng"
     },
     {
-      "word": "空砲",
-      "reading": "くうほう",
-      "meaning": "súng bắn đạn giả"
+      "word": "艦砲",
+      "reading": "かんぽう",
+      "meaning": "pháo hạm"
     },
     {
-      "word": "礼砲",
-      "reading": "れいほう",
-      "meaning": "chào"
+      "word": "副砲",
+      "reading": "ふくほう",
+      "meaning": "pháo phụ"
     },
     {
-      "word": "キャノン砲",
-      "reading": "キャノンほう",
-      "meaning": "súng thần công"
+      "word": "砲列",
+      "reading": "ほうれつ",
+      "meaning": "nguồn pin"
     },
     {
-      "word": "弔砲",
-      "reading": "ちょうほう",
-      "meaning": "pháo bắn trong tang lễ"
+      "word": "砲架",
+      "reading": "ほうか",
+      "meaning": "bệ để gắn nòng súng"
     },
     {
-      "word": "臼砲",
-      "reading": "きゅうほう",
-      "meaning": "súng tầm ngắn với nòng ngắn và góc bắn lớn"
+      "word": "発砲",
+      "reading": "はっぽう",
+      "meaning": "nã đạn"
     },
     {
-      "word": "備砲",
-      "reading": "びほう",
-      "meaning": "các loại vũ khí"
-    },
-    {
-      "word": "砲煙",
-      "reading": "ほうえん",
-      "meaning": "khói thuốc súng"
-    },
-    {
-      "word": "砲手",
-      "reading": "ほうしゅ",
-      "meaning": "pháo thủ"
+      "word": "大砲",
+      "reading": "たいほう",
+      "meaning": "đại bác"
     }
   ]
 }

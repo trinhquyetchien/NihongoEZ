@@ -106,24 +106,14 @@
   ],
   "vocabulary": [
     {
-      "word": "類推推理",
-      "reading": "るいすいすいり",
-      "meaning": "lý luận bằng phép loại suy"
+      "word": "推薦",
+      "reading": "すいせん",
+      "meaning": "sự giới thiệu"
     },
     {
-      "word": "推し",
-      "reading": "おし",
-      "meaning": "fan của..."
-    },
-    {
-      "word": "推挙",
-      "reading": "すいきょ",
-      "meaning": "khuyến cáo"
-    },
-    {
-      "word": "推察",
-      "reading": "すいさつ",
-      "meaning": "suy xét"
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "sự ước tính"
     },
     {
       "word": "推進",
@@ -131,29 +121,39 @@
       "meaning": "đẩy mạnh"
     },
     {
-      "word": "推戴",
-      "reading": "すいたい",
-      "meaning": "chỉ huy qua gần"
+      "word": "推測",
+      "reading": "すいそく",
+      "meaning": "sự đoán"
     },
     {
-      "word": "推薬",
-      "reading": "すいやく",
-      "meaning": "chất nổ đẩy"
+      "word": "推理",
+      "reading": "すいり",
+      "meaning": "suy luận"
     },
     {
-      "word": "推計",
-      "reading": "すいけい",
-      "meaning": "đánh giá"
+      "word": "類推",
+      "reading": "るいすい",
+      "meaning": "suy đoán"
     },
     {
-      "word": "推奨",
-      "reading": "すいしょう",
-      "meaning": "sự tán dương"
+      "word": "推進者",
+      "reading": "すいしんしゃ",
+      "meaning": "người lãnh đạo"
     },
     {
-      "word": "推敲",
-      "reading": "すいこう",
-      "meaning": "sự sửa lại"
+      "word": "推進力",
+      "reading": "すいしんりょく",
+      "meaning": "lực truyền"
+    },
+    {
+      "word": "推進機",
+      "reading": "すいしんき",
+      "meaning": "cái đẩy đi"
+    },
+    {
+      "word": "推進器",
+      "reading": "すいしんき",
+      "meaning": "cái đẩy đi"
     }
   ]
 }

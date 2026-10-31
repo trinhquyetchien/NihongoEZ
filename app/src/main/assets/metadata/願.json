@@ -107,34 +107,9 @@
   ],
   "vocabulary": [
     {
-      "word": "願",
-      "reading": "ねがい",
-      "meaning": "sự cầu nguyện"
-    },
-    {
-      "word": "出願",
-      "reading": "しゅつがん",
-      "meaning": "việc làm đơn xin"
-    },
-    {
       "word": "願い",
       "reading": "ねがい",
       "meaning": "yêu cầu"
-    },
-    {
-      "word": "念願",
-      "reading": "ねんがん",
-      "meaning": "tâm niệm"
-    },
-    {
-      "word": "志願",
-      "reading": "しがん",
-      "meaning": "nguyện vọng"
-    },
-    {
-      "word": "懇願",
-      "reading": "こんがん",
-      "meaning": "sự khẩn cầu"
     },
     {
       "word": "願う",
@@ -142,19 +117,44 @@
       "meaning": "ao ước"
     },
     {
-      "word": "願面",
-      "reading": "がんめん",
-      "meaning": "trang mặt một ứng dụng để trống"
+      "word": "願書",
+      "reading": "がんしょ",
+      "meaning": "đơn"
     },
     {
-      "word": "願意",
-      "reading": "がんい",
-      "meaning": "ý nguyện"
+      "word": "お願い",
+      "reading": "おねがい",
+      "meaning": "yêu cầu"
     },
     {
-      "word": "願力",
-      "reading": "がんりき",
-      "meaning": "sự nhìn thấu được bên trong sự vật"
+      "word": "願望",
+      "reading": "がんぼう",
+      "meaning": "mong ước"
+    },
+    {
+      "word": "志願",
+      "reading": "しがん",
+      "meaning": "nguyện vọng"
+    },
+    {
+      "word": "志願者",
+      "reading": "しがんしゃ",
+      "meaning": "thí sinh"
+    },
+    {
+      "word": "志願兵",
+      "reading": "しがんへい",
+      "meaning": "lính tình nguyện"
+    },
+    {
+      "word": "願",
+      "reading": "ねがい",
+      "meaning": "sự cầu nguyện"
+    },
+    {
+      "word": "願酒",
+      "reading": "がんしゅ",
+      "meaning": "ung thư biểu bì"
     }
   ]
 }

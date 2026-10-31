@@ -94,39 +94,44 @@
   ],
   "vocabulary": [
     {
-      "word": "弁",
-      "reading": "べん",
-      "meaning": "van"
-    },
-    {
-      "word": "さん尖弁いつだつ",
-      "reading": "三尖弁逸脱",
-      "meaning": "sa van ba lá"
-    },
-    {
-      "word": "さん尖弁きょーさくしょー",
-      "reading": "三尖弁狭窄症",
-      "meaning": "hẹp van ba lá"
-    },
-    {
       "word": "勘弁",
       "reading": "かんべん",
       "meaning": "sự khoan dung"
     },
     {
-      "word": "思弁",
-      "reading": "しべん",
-      "meaning": "sự suy nghĩ nhận thức bằng tư duy logic thông thường"
+      "word": "弁論",
+      "reading": "べんろん",
+      "meaning": "sự biện luận"
     },
     {
-      "word": "抗弁",
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "biện giải"
+    },
+    {
+      "word": "弁償",
+      "reading": "べんしょう",
+      "meaning": "sự bồi thường"
+    },
+    {
+      "word": "弁",
+      "reading": "べん",
+      "meaning": "van"
+    },
+    {
+      "word": "弁者",
+      "reading": "べんしゃ",
+      "meaning": "người nói"
+    },
+    {
+      "word": "口弁",
       "reading": "こうべん",
-      "meaning": "phản đối"
+      "meaning": "tài hùng biện"
     },
     {
-      "word": "旗弁",
-      "reading": "きべん",
-      "meaning": "cánh cờ"
+      "word": "弁座",
+      "reading": "べんざ",
+      "meaning": "cái ghế van"
     },
     {
       "word": "羽弁",
@@ -134,14 +139,9 @@
       "meaning": "lông vũ"
     },
     {
-      "word": "単弁",
-      "reading": "たんべん",
-      "meaning": "một van"
-    },
-    {
-      "word": "駄弁",
-      "reading": "だべん",
-      "meaning": "lời nói vô lý"
+      "word": "弁証",
+      "reading": "べんしょう",
+      "meaning": "sự biện chứng"
     }
   ]
 }

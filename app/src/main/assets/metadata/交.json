@@ -115,29 +115,19 @@
   ],
   "vocabulary": [
     {
-      "word": "交交",
-      "reading": "こもごも",
-      "meaning": "lần lượt nhau"
-    },
-    {
-      "word": "悲喜交交",
-      "reading": "ひきこもごも",
-      "meaning": "niềm vui và nỗi đau đớn kế tiếp nhau"
-    },
-    {
-      "word": "外交交渉",
-      "reading": "がいこうこうしょう",
-      "meaning": "những sự điều đình ngoại giao"
-    },
-    {
-      "word": "交替",
-      "reading": "こうたい",
-      "meaning": "sự thay đổi"
-    },
-    {
       "word": "交番",
       "reading": "こうばん",
       "meaning": "đồn cảnh sát"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "giao thông"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "chuyển đổi"
     },
     {
       "word": "交際",
@@ -145,14 +135,14 @@
       "meaning": "mối quan hệ"
     },
     {
-      "word": "交戦",
-      "reading": "こうせん",
-      "meaning": "chiến trận"
-    },
-    {
       "word": "交流",
       "reading": "こうりゅう",
       "meaning": "sự giao lưu"
+    },
+    {
+      "word": "交差",
+      "reading": "こうさ",
+      "meaning": "sự giao nhau"
     },
     {
       "word": "交渉",
@@ -160,9 +150,19 @@
       "meaning": "sự đàm phán"
     },
     {
-      "word": "交差",
-      "reading": "こうさ",
-      "meaning": "sự giao nhau"
+      "word": "交付",
+      "reading": "こうふ",
+      "meaning": "sự cấp cho"
+    },
+    {
+      "word": "社交",
+      "reading": "しゃこう",
+      "meaning": "xã giao"
+    },
+    {
+      "word": "国交",
+      "reading": "こっこう",
+      "meaning": "bang giao"
     }
   ]
 }

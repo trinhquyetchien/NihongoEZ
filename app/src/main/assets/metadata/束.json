@@ -109,24 +109,14 @@
   ],
   "vocabulary": [
     {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "lời hứa"
+    },
+    {
       "word": "束",
       "reading": "たば",
       "meaning": "bó"
-    },
-    {
-      "word": "管束",
-      "reading": "かんそく",
-      "meaning": "bó mạch"
-    },
-    {
-      "word": "札束",
-      "reading": "さつたば",
-      "meaning": "cuộn tiền"
-    },
-    {
-      "word": "収束",
-      "reading": "しゅうそく",
-      "meaning": "sự hội tụ"
     },
     {
       "word": "拘束",
@@ -134,29 +124,39 @@
       "meaning": "sự câu thúc"
     },
     {
+      "word": "束縛",
+      "reading": "そくばく",
+      "meaning": "sự kiềm chế"
+    },
+    {
+      "word": "結束",
+      "reading": "けっそく",
+      "meaning": "sự buộc"
+    },
+    {
+      "word": "お約束",
+      "reading": "おやくそく",
+      "meaning": "lời hứa"
+    },
+    {
+      "word": "空約束",
+      "reading": "からやくそく",
+      "meaning": "lời hứa hão"
+    },
+    {
       "word": "一束",
       "reading": "ひとたば",
       "meaning": "một bó"
     },
     {
-      "word": "光束",
-      "reading": "こうそく",
-      "meaning": "chùm sáng"
-    },
-    {
-      "word": "束群",
-      "reading": "そくぐん",
-      "meaning": "nhóm mạng"
-    },
-    {
-      "word": "束子",
-      "reading": "たわし",
-      "meaning": "bàn chải chà"
-    },
-    {
       "word": "二束",
       "reading": "ふたたば",
       "meaning": "2 bó"
+    },
+    {
+      "word": "拘束圧",
+      "reading": "こうそくあつ",
+      "meaning": "giam hãm sức ép"
     }
   ]
 }

@@ -86,29 +86,19 @@
   ],
   "vocabulary": [
     {
-      "word": "廊",
-      "reading": "ろう",
+      "word": "廊下",
+      "reading": "ろうか",
       "meaning": "hành lang"
     },
     {
-      "word": "翼廊",
-      "reading": "よくろう",
-      "meaning": "cánh ngang"
+      "word": "中廊下",
+      "reading": "なかろうか",
+      "meaning": "hành lang trung tâm"
     },
     {
-      "word": "側廊",
-      "reading": "そくろう",
-      "meaning": "cánh"
-    },
-    {
-      "word": "身廊",
-      "reading": "しんろう",
-      "meaning": "gian giữa của giáo đường"
-    },
-    {
-      "word": "廻廊",
-      "reading": "かいろう",
-      "meaning": "hành lang"
+      "word": "画廊",
+      "reading": "がろう",
+      "meaning": "nhà triển lãm mỹ thuật"
     },
     {
       "word": "回廊",
@@ -116,24 +106,34 @@
       "meaning": "hành lang"
     },
     {
-      "word": "柱廊",
-      "reading": "ちゅうろう",
+      "word": "廊",
+      "reading": "ろう",
+      "meaning": "hành lang"
+    },
+    {
+      "word": "側廊",
+      "reading": "そくろう",
+      "meaning": "cánh"
+    },
+    {
+      "word": "前廊",
+      "reading": "ぜんろう",
+      "meaning": "hiên nhà"
+    },
+    {
+      "word": "身廊",
+      "reading": "しんろう",
+      "meaning": "gian giữa của giáo đường"
+    },
+    {
+      "word": "門廊",
+      "reading": "もんろう",
       "meaning": "mái hiên"
     },
     {
-      "word": "歩廊",
-      "reading": "ほろう",
-      "meaning": "hành lang"
-    },
-    {
-      "word": "廊下",
-      "reading": "ろうか",
-      "meaning": "hành lang"
-    },
-    {
-      "word": "画廊",
-      "reading": "がろう",
-      "meaning": "nhà triển lãm mỹ thuật"
+      "word": "翼廊",
+      "reading": "よくろう",
+      "meaning": "cánh ngang"
     }
   ]
 }

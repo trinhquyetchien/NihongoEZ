@@ -87,34 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "胎",
-      "reading": "はら",
-      "meaning": "dạ con"
-    },
-    {
-      "word": "多胎",
-      "reading": "たたい",
-      "meaning": "có thai sinh đôi trở lên"
-    },
-    {
-      "word": "胎蔵",
-      "reading": "たいぞう",
-      "meaning": "garbhadhatu"
-    },
-    {
-      "word": "胎便",
-      "reading": "たいべん",
-      "meaning": "phân su"
-    },
-    {
-      "word": "胎嚢",
-      "reading": "たいのう",
-      "meaning": "túi thai"
-    },
-    {
-      "word": "胎仔",
+      "word": "胎児",
       "reading": "たいじ",
-      "meaning": "thai nhi"
+      "meaning": "bào thai"
+    },
+    {
+      "word": "胎児血",
+      "reading": "たいじけつ",
+      "meaning": "máu bào thai"
+    },
+    {
+      "word": "胎児鏡",
+      "reading": "たいじきょう",
+      "meaning": "soi thai"
     },
     {
       "word": "胎内",
@@ -122,19 +107,34 @@
       "meaning": "trong tử cung"
     },
     {
-      "word": "堕胎",
-      "reading": "だたい",
-      "meaning": "sự phá thai"
-    },
-    {
-      "word": "胎生",
-      "reading": "たいせい",
-      "meaning": "sự thai nghén"
+      "word": "胎内仏",
+      "reading": "たいないぶつ",
+      "meaning": "những tượng phật được tạc vào hình dáng thai nhi trong bụng mẹ"
     },
     {
       "word": "胎盤",
       "reading": "たいばん",
       "meaning": "nhau thai"
+    },
+    {
+      "word": "堕胎",
+      "reading": "だたい",
+      "meaning": "sự phá thai"
+    },
+    {
+      "word": "堕胎医",
+      "reading": "だたいい",
+      "meaning": "người phá thai"
+    },
+    {
+      "word": "堕胎罪",
+      "reading": "だたいざい",
+      "meaning": "tội ác phá thai bất hợp pháp"
+    },
+    {
+      "word": "堕胎剤",
+      "reading": "だたいざい",
+      "meaning": "tác nhân gây sẩy thai"
     }
   ]
 }

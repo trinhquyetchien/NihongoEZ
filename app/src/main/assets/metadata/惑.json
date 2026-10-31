@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "思惑",
-      "reading": "おもわく",
-      "meaning": "đầu cơ"
+      "word": "迷惑",
+      "reading": "めいわく",
+      "meaning": "phiền"
     },
     {
-      "word": "困惑",
-      "reading": "こんわく",
-      "meaning": "sự bối rối"
+      "word": "惑星",
+      "reading": "わくせい",
+      "meaning": "hành tinh"
     },
     {
-      "word": "枉惑",
-      "reading": "おうわく",
-      "meaning": "thủ đoạn gian trá"
+      "word": "疑惑",
+      "reading": "ぎわく",
+      "meaning": "sự nghi hoặc"
     },
     {
-      "word": "不惑",
-      "reading": "ふわく",
-      "meaning": "đã qua bốn mươi"
-    },
-    {
-      "word": "魅惑",
-      "reading": "みわく",
+      "word": "誘惑",
+      "reading": "ゆうわく",
       "meaning": "sự quyến rũ"
     },
     {
-      "word": "幻惑",
-      "reading": "げんわく",
-      "meaning": "thôi miên"
+      "word": "迷惑な",
+      "reading": "めいわくな",
+      "meaning": "phiền phức"
     },
     {
-      "word": "惑い",
-      "reading": "まどい",
-      "meaning": "ảo tưởng"
+      "word": "ご迷惑",
+      "reading": "ごめいわく",
+      "meaning": "lo lắng"
     },
     {
-      "word": "惑乱",
-      "reading": "わくらん",
-      "meaning": "sự hỗn loạn"
+      "word": "大迷惑",
+      "reading": "だいめいわく",
+      "meaning": "sự bất tiện lớn"
     },
     {
-      "word": "蠱惑",
-      "reading": "こわく",
-      "meaning": "sự hấp dẫn"
+      "word": "御迷惑",
+      "reading": "ごめいわく",
+      "meaning": "lo lắng"
     },
     {
-      "word": "眩惑",
-      "reading": "げんわく",
-      "meaning": "sự huyễn hoặc"
+      "word": "惑星系",
+      "reading": "わくせいけい",
+      "meaning": "hệ hành tinh"
+    },
+    {
+      "word": "内惑星",
+      "reading": "ないわくせい",
+      "meaning": "nhóm hành tinh ở gần mặt trời"
     }
   ]
 }

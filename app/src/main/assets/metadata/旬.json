@@ -88,44 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "旬",
-      "reading": "しゅん",
-      "meaning": "tuần"
-    },
-    {
-      "word": "上旬",
-      "reading": "じょうじゅん",
-      "meaning": "thượng tuần"
-    },
-    {
       "word": "下旬",
       "reading": "げじゅん",
       "meaning": "hạ tuần"
-    },
-    {
-      "word": "一旬",
-      "reading": "いちじゅん",
-      "meaning": "mười ngày"
-    },
-    {
-      "word": "旬余",
-      "reading": "じゅんよ",
-      "meaning": "quá mười ngày"
-    },
-    {
-      "word": "旬月",
-      "reading": "じゅんげつ",
-      "meaning": "sự không làm việc cả ngày"
-    },
-    {
-      "word": "初旬",
-      "reading": "しょじゅん",
-      "meaning": "thượng tuần"
-    },
-    {
-      "word": "旬間",
-      "reading": "じゅんかん",
-      "meaning": "khoảng thời gian mười ngày"
     },
     {
       "word": "中旬",
@@ -133,9 +98,44 @@
       "meaning": "trung tuần"
     },
     {
-      "word": "旬日",
-      "reading": "じゅんじつ",
-      "meaning": "mười ngày"
+      "word": "上旬",
+      "reading": "じょうじゅん",
+      "meaning": "thượng tuần"
+    },
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "thượng tuần"
+    },
+    {
+      "word": "旬",
+      "reading": "しゅん",
+      "meaning": "tuần"
+    },
+    {
+      "word": "旬の魚",
+      "reading": "しゅんのさかな",
+      "meaning": "cá theo mùa"
+    },
+    {
+      "word": "波旬",
+      "reading": "はじゅん",
+      "meaning": "một ác quỷ cắt đứt cuộc sống con người và những gốc rễ tốt đẹp"
+    },
+    {
+      "word": "月中旬",
+      "reading": "げつちゅうじゅん",
+      "meaning": "giữa tháng"
+    },
+    {
+      "word": "旬外れ",
+      "reading": "じゅんはずれ",
+      "meaning": "mùa vãn khách"
+    },
+    {
+      "word": "四旬節",
+      "reading": "しじゅんせつ",
+      "meaning": "lent mùa chay"
     }
   ]
 }

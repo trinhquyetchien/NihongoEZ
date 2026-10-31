@@ -92,9 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "助",
-      "reading": "じょ",
-      "meaning": "giúp đỡ"
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "chi viện"
     },
     {
       "word": "助手",
@@ -102,24 +102,9 @@
       "meaning": "người hỗ trợ"
     },
     {
-      "word": "介助",
-      "reading": "かいじょ",
-      "meaning": "người giúp đỡ"
-    },
-    {
-      "word": "助剤",
-      "reading": "じょざい",
-      "meaning": "chất phụ trợ"
-    },
-    {
-      "word": "助演",
-      "reading": "じょえん",
-      "meaning": "người cùng đóng vai chính"
-    },
-    {
-      "word": "助詞",
-      "reading": "じょし",
-      "meaning": "trợ từ"
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "sự cứu trợ"
     },
     {
       "word": "助け",
@@ -127,19 +112,34 @@
       "meaning": "sự giúp đỡ"
     },
     {
-      "word": "助力",
-      "reading": "じょりょく",
-      "meaning": "lực hỗ trợ"
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaning": "sự bổ trợ"
     },
     {
-      "word": "助動",
-      "reading": "じょどう",
-      "meaning": "động từ bổ trợ"
-    },
-    {
-      "word": "助く",
-      "reading": "たすく",
+      "word": "助",
+      "reading": "じょ",
       "meaning": "giúp đỡ"
+    },
+    {
+      "word": "助言",
+      "reading": "じょげん",
+      "meaning": "lời khuyên"
+    },
+    {
+      "word": "助詞",
+      "reading": "じょし",
+      "meaning": "trợ từ"
+    },
+    {
+      "word": "パン助",
+      "reading": "パンすけ",
+      "meaning": "gái điếm"
+    },
+    {
+      "word": "助剤",
+      "reading": "じょざい",
+      "meaning": "chất phụ trợ"
     }
   ]
 }

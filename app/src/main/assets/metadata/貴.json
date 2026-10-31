@@ -92,19 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "貴",
-      "reading": "とうと",
-      "meaning": "kính ngữ"
-    },
-    {
-      "word": "兄貴",
-      "reading": "あにき",
-      "meaning": "sư huynh"
-    },
-    {
-      "word": "貴社",
-      "reading": "きしゃ",
-      "meaning": "quí công ty"
+      "word": "貴重",
+      "reading": "きちょう",
+      "meaning": "đắt đỏ"
     },
     {
       "word": "貴族",
@@ -112,19 +102,9 @@
       "meaning": "đài các"
     },
     {
-      "word": "貴重",
-      "reading": "きちょう",
-      "meaning": "đắt đỏ"
-    },
-    {
-      "word": "貴様",
-      "reading": "きさま",
-      "meaning": "tên khốn"
-    },
-    {
-      "word": "高貴",
-      "reading": "こうき",
-      "meaning": "cao quí"
+      "word": "貴ぶ",
+      "reading": "とうとぶ",
+      "meaning": "tôn kính"
     },
     {
       "word": "貴方",
@@ -132,14 +112,34 @@
       "meaning": "anh"
     },
     {
+      "word": "貴",
+      "reading": "とうと",
+      "meaning": "kính ngữ"
+    },
+    {
       "word": "貴見",
       "reading": "きけん",
       "meaning": "ý kiến của bạn"
     },
     {
+      "word": "貴名",
+      "reading": "きめい",
+      "meaning": "quí danh"
+    },
+    {
       "word": "貴風",
       "reading": "きふう",
       "meaning": "cỡ cây bonsai"
+    },
+    {
+      "word": "貴官",
+      "reading": "きかん",
+      "meaning": "danh xưng đối phương"
+    },
+    {
+      "word": "貴ガス",
+      "reading": "きガス",
+      "meaning": "<hóa> khí trơ"
     }
   ]
 }

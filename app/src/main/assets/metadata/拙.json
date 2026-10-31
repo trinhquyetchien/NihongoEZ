@@ -89,9 +89,24 @@
   ],
   "vocabulary": [
     {
+      "word": "拙者",
+      "reading": "せっしゃ",
+      "meaning": "tôi"
+    },
+    {
+      "word": "拙い",
+      "reading": "つたない",
+      "meaning": "vụng về"
+    },
+    {
       "word": "拙",
       "reading": "せつ",
       "meaning": "sự vụng về"
+    },
+    {
+      "word": "拙訳",
+      "reading": "せつやく",
+      "meaning": "bản dịch kém"
     },
     {
       "word": "拙技",
@@ -99,44 +114,29 @@
       "meaning": "sự diễn xuất tệ"
     },
     {
-      "word": "巧拙",
-      "reading": "こうせつ",
-      "meaning": "sự khéo léo"
-    },
-    {
-      "word": "拙論",
-      "reading": "せつろん",
-      "meaning": "luận văn khiêm tốn"
-    },
-    {
-      "word": "迂拙",
-      "reading": "うせつ",
-      "meaning": "dại dột"
-    },
-    {
-      "word": "拙僧",
-      "reading": "せっそう",
-      "meaning": "nhà sư vụng về"
-    },
-    {
       "word": "稚拙",
       "reading": "ちせつ",
       "meaning": "kém cỏi"
     },
     {
-      "word": "拙速",
-      "reading": "せっそく",
-      "meaning": "đơn giản"
+      "word": "拙守",
+      "reading": "せっしゅ",
+      "meaning": "sự phòng thủ nghèo"
     },
     {
-      "word": "拙著",
-      "reading": "せっちょ",
-      "meaning": "sự sản xuất tôi"
+      "word": "拙意",
+      "reading": "せつい",
+      "meaning": "suy nghĩ"
     },
     {
-      "word": "拙者",
-      "reading": "せっしゃ",
-      "meaning": "tôi"
+      "word": "拙句",
+      "reading": "せっく",
+      "meaning": "bài thơ haiku dở"
+    },
+    {
+      "word": "拙僧",
+      "reading": "せっそう",
+      "meaning": "nhà sư vụng về"
     }
   ]
 }

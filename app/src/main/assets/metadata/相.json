@@ -107,34 +107,14 @@
   ],
   "vocabulary": [
     {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "thủ tướng"
+    },
+    {
       "word": "相",
       "reading": "あい",
       "meaning": "dáng"
-    },
-    {
-      "word": "相互相関",
-      "reading": "そうごそうかん",
-      "meaning": "tương quan chéo"
-    },
-    {
-      "word": "相談相手",
-      "reading": "そうだんあいて",
-      "meaning": "cố vấn"
-    },
-    {
-      "word": "相思相愛",
-      "reading": "そうしそうあい",
-      "meaning": "tình yêu lẫn nhau"
-    },
-    {
-      "word": "相対位相",
-      "reading": "そうたいいそう",
-      "meaning": "tôpô cảm sinh"
-    },
-    {
-      "word": "首相兼外相",
-      "reading": "しゅしょうけんがいしょう",
-      "meaning": "thủ tướng kiêm bộ trưởng bộ ngoại giao"
     },
     {
       "word": "真相",
@@ -142,19 +122,39 @@
       "meaning": "chân tướng"
     },
     {
-      "word": "相槌",
-      "reading": "あいづち",
-      "meaning": "sự hưởng ứng"
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "bộ trưởng bộ tài chính"
     },
     {
-      "word": "相鉄",
-      "reading": "そうてつ",
-      "meaning": "đường sắt sagami"
+      "word": "気相",
+      "reading": "きそう",
+      "meaning": "pha khí"
     },
     {
-      "word": "相加",
-      "reading": "そうか",
-      "meaning": "bổ sung"
+      "word": "二相",
+      "reading": "にそう",
+      "meaning": "hai pha"
+    },
+    {
+      "word": "相同",
+      "reading": "そうどう",
+      "meaning": "tính tương đồng"
+    },
+    {
+      "word": "逆相",
+      "reading": "ぎゃくそう",
+      "meaning": "sự đối pha"
+    },
+    {
+      "word": "相星",
+      "reading": "あいぼし",
+      "meaning": "các đô vật có cùng thành tích thắng-thua khi kết thúc một giải đấu"
+    },
+    {
+      "word": "空相",
+      "reading": "くうそう",
+      "meaning": "bản chất trống rỗng của tất cả mọi thứ"
     }
   ]
 }

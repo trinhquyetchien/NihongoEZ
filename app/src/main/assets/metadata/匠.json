@@ -88,24 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "匠",
-      "reading": "たくみ",
-      "meaning": "công nhân"
-    },
-    {
       "word": "師匠",
       "reading": "ししょう",
       "meaning": "sự phụ"
     },
     {
-      "word": "名匠",
-      "reading": "めいしょう",
-      "meaning": "nghệ nhân"
+      "word": "匠",
+      "reading": "たくみ",
+      "meaning": "công nhân"
     },
     {
       "word": "酒匠",
       "reading": "さかしょう",
       "meaning": "bậc thầy về rượu"
+    },
+    {
+      "word": "石匠",
+      "reading": "せきしょう",
+      "meaning": "thợ đập đá"
     },
     {
       "word": "画匠",
@@ -118,24 +118,24 @@
       "meaning": "ý tưởng"
     },
     {
-      "word": "匠気",
-      "reading": "しょうき",
-      "meaning": "sự giả bộ"
+      "word": "意匠権",
+      "reading": "いしょうけん",
+      "meaning": "quyền thiết kế"
     },
     {
-      "word": "工匠",
-      "reading": "こうしょう",
-      "meaning": "thợ thủ công"
-    },
-    {
-      "word": "宗匠",
-      "reading": "そうしょう",
-      "meaning": "thầy giáo"
+      "word": "巨匠",
+      "reading": "きょしょう",
+      "meaning": "giáo sư"
     },
     {
       "word": "梓匠",
       "reading": "ししょう",
       "meaning": "thợ cưa"
+    },
+    {
+      "word": "鷹匠",
+      "reading": "たかじょう",
+      "meaning": "người nuôi chim ưng"
     }
   ]
 }

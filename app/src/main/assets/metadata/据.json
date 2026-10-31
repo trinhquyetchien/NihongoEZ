@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "拮据",
-      "reading": "きっきょ",
-      "meaning": "siêng năng"
+      "word": "据える",
+      "reading": "すえる",
+      "meaning": "đặt"
     },
     {
-      "word": "据わる",
-      "reading": "すわる",
-      "meaning": "ngồi xuống"
+      "word": "据え付ける",
+      "reading": "すえつける",
+      "meaning": "lắp đặt"
     },
     {
       "word": "据え物",
@@ -114,29 +114,29 @@
       "meaning": "nuôi tập hợp trước những sự tiến bộ một"
     },
     {
-      "word": "据える",
-      "reading": "すえる",
-      "meaning": "đặt"
+      "word": "据わる",
+      "reading": "すわる",
+      "meaning": "ngồi xuống"
     },
     {
-      "word": "見据える",
-      "reading": "みすえる",
-      "meaning": "nhìn về phía trước"
+      "word": "拮据",
+      "reading": "きっきょ",
+      "meaning": "siêng năng"
     },
     {
-      "word": "据え置く",
-      "reading": "すえおく",
-      "meaning": "đặt cố định một chỗ"
-    },
-    {
-      "word": "据置期間",
-      "reading": "すえおききかん",
-      "meaning": "thời gian ân hạn"
+      "word": "据え風呂",
+      "reading": "すえふろ",
+      "meaning": "bồn tắm cố định"
     },
     {
       "word": "据え置き",
       "reading": "すえおき",
       "meaning": "giữ nguyên giá hiện tại"
+    },
+    {
+      "word": "据え置き型",
+      "reading": "すえおきがた",
+      "meaning": "máy tính để bàn"
     }
   ]
 }

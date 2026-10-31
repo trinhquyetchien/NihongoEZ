@@ -96,9 +96,14 @@
       "meaning": "cạnh"
     },
     {
-      "word": "辺材",
-      "reading": "へんざい",
-      "meaning": "dác gỗ"
+      "word": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "vùng xung quanh"
+    },
+    {
+      "word": "一辺",
+      "reading": "いっぺん",
+      "meaning": "một cạnh một hình tam giác)"
     },
     {
       "word": "三辺",
@@ -106,9 +111,24 @@
       "meaning": "ba bên"
     },
     {
-      "word": "短辺",
-      "reading": "たんぺん",
-      "meaning": "chiều ngắn"
+      "word": "側辺",
+      "reading": "そくへん",
+      "meaning": "rẽ"
+    },
+    {
+      "word": "長辺",
+      "reading": "ちょうへん",
+      "meaning": "chiều dài của hình chữ nhật"
+    },
+    {
+      "word": "四辺",
+      "reading": "しへん",
+      "meaning": "4 bên"
+    },
+    {
+      "word": "御辺",
+      "reading": "ごへん",
+      "meaning": "ngài"
     },
     {
       "word": "隣辺",
@@ -116,29 +136,9 @@
       "meaning": "cạnh góc vuông"
     },
     {
-      "word": "周辺",
-      "reading": "しゅうへん",
-      "meaning": "vùng xung quanh"
-    },
-    {
-      "word": "底辺",
-      "reading": "ていへん",
-      "meaning": "cạnh đáy"
-    },
-    {
-      "word": "炉辺",
-      "reading": "ろへん",
-      "meaning": "chỗ bên lò sưởi"
-    },
-    {
-      "word": "水辺",
-      "reading": "みずべ",
-      "meaning": "bờ biển"
-    },
-    {
-      "word": "葦辺",
-      "reading": "あしべ",
-      "meaning": "lau sậy"
+      "word": "公辺",
+      "reading": "こうへん",
+      "meaning": "những nghi lễ công cộng"
     }
   ]
 }

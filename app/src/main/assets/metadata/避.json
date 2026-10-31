@@ -90,9 +90,34 @@
   ],
   "vocabulary": [
     {
-      "word": "避妊",
-      "reading": "ひにん",
-      "meaning": "sự tránh thai"
+      "word": "避ける",
+      "reading": "さける",
+      "meaning": "tránh"
+    },
+    {
+      "word": "避難",
+      "reading": "ひなん",
+      "meaning": "sự lánh nạn"
+    },
+    {
+      "word": "避難者",
+      "reading": "ひなんしゃ",
+      "meaning": "người sơ tán"
+    },
+    {
+      "word": "避難所",
+      "reading": "ひなんじょ",
+      "meaning": "nơi tỵ nạn"
+    },
+    {
+      "word": "避難場",
+      "reading": "ひなんば",
+      "meaning": "nơi tránh nạn"
+    },
+    {
+      "word": "避難口",
+      "reading": "ひなんぐち",
+      "meaning": "cửa thoát hiểm"
     },
     {
       "word": "回避",
@@ -100,44 +125,19 @@
       "meaning": "sự tránh"
     },
     {
-      "word": "避止",
-      "reading": "ひし",
-      "meaning": "tránh"
+      "word": "回避的",
+      "reading": "かいひてき",
+      "meaning": "tính né tránh"
     },
     {
-      "word": "待避",
-      "reading": "たいひ",
-      "meaning": "sự tạm thời lẩn tránh"
+      "word": "避難民",
+      "reading": "ひなんみん",
+      "meaning": "những nơi ẩn náu"
     },
     {
-      "word": "退避",
-      "reading": "たいひ",
-      "meaning": "sự di tản"
-    },
-    {
-      "word": "避暑",
-      "reading": "ひしょ",
-      "meaning": "sự tránh nóng"
-    },
-    {
-      "word": "避く",
-      "reading": "さく",
-      "meaning": "tránh"
-    },
-    {
-      "word": "忌避",
-      "reading": "きひ",
-      "meaning": "sự né tránh"
-    },
-    {
-      "word": "避寒",
-      "reading": "ひかん",
-      "meaning": "sự trú đông"
-    },
-    {
-      "word": "逃避",
-      "reading": "とうひ",
-      "meaning": "lẩn tránh"
+      "word": "避難港",
+      "reading": "ひなんこう",
+      "meaning": "cảng lánh nạn"
     }
   ]
 }

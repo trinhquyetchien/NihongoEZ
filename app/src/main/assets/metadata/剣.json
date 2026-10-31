@@ -89,14 +89,39 @@
   ],
   "vocabulary": [
     {
+      "word": "真剣",
+      "reading": "しんけん",
+      "meaning": "nghiêm trang"
+    },
+    {
       "word": "剣",
       "reading": "けん",
       "meaning": "kiếm"
     },
     {
-      "word": "利剣",
-      "reading": "りけん",
-      "meaning": "gươm sắc bén"
+      "word": "剣形",
+      "reading": "けんがた",
+      "meaning": "thanh gươm hình thành"
+    },
+    {
+      "word": "剣光",
+      "reading": "けんこう",
+      "meaning": "ánh sáng phát ra từ lưỡi kiếm"
+    },
+    {
+      "word": "剣石",
+      "reading": "けんいし",
+      "meaning": "đá hình lưỡi kiếm"
+    },
+    {
+      "word": "石剣",
+      "reading": "せっけん",
+      "meaning": "đá cổ"
+    },
+    {
+      "word": "剣帯",
+      "reading": "けんたい",
+      "meaning": "đai đeo gươm"
     },
     {
       "word": "剣鬼",
@@ -104,39 +129,14 @@
       "meaning": "người múa kiếm quái quỷ"
     },
     {
-      "word": "剣幕",
-      "reading": "けんまく",
-      "meaning": "thái độ đe dọa"
+      "word": "剣状",
+      "reading": "けんじょう",
+      "meaning": "tạo dáng thanh gươm"
     },
     {
-      "word": "真剣",
-      "reading": "しんけん",
-      "meaning": "nghiêm trang"
-    },
-    {
-      "word": "剣道",
-      "reading": "けんどう",
-      "meaning": "kiếm đạo"
-    },
-    {
-      "word": "長剣",
-      "reading": "ちょうけん",
-      "meaning": "trường kiếm"
-    },
-    {
-      "word": "剣突",
-      "reading": "けんつく",
-      "meaning": "sự khiển trách nghiêm khắc"
-    },
-    {
-      "word": "剣術",
-      "reading": "けんじゅつ",
-      "meaning": "kiếm thuật"
-    },
-    {
-      "word": "剣豪",
-      "reading": "けんごう",
-      "meaning": "người tinh thông kiếm thuật"
+      "word": "剣橋",
+      "reading": "ケンブリッジ",
+      "meaning": "cambridge"
     }
   ]
 }

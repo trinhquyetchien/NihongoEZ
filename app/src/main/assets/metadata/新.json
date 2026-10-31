@@ -75,19 +75,24 @@
   ],
   "vocabulary": [
     {
+      "word": "新た",
+      "reading": "あらた",
+      "meaning": "sự tươi"
+    },
+    {
+      "word": "新鮮",
+      "reading": "しんせん",
+      "meaning": "tươi"
+    },
+    {
       "word": "新",
       "reading": "しん",
       "meaning": "tân"
     },
     {
-      "word": "新郎新婦",
-      "reading": "しんろうしんぷ",
-      "meaning": "cô dâu và chú rể"
-    },
-    {
-      "word": "新潮",
-      "reading": "しんちょう",
-      "meaning": "shinchou"
+      "word": "新築",
+      "reading": "しんちく",
+      "meaning": "tòa nhà mới"
     },
     {
       "word": "新婚",
@@ -95,9 +100,9 @@
       "meaning": "sự mới kết hôn"
     },
     {
-      "word": "新律",
-      "reading": "しんりつ",
-      "meaning": "luật mới"
+      "word": "新期",
+      "reading": "しんき",
+      "meaning": "mùa mới"
     },
     {
       "word": "更新",
@@ -105,24 +110,19 @@
       "meaning": "gia hạn"
     },
     {
-      "word": "新着",
-      "reading": "しんちゃく",
-      "meaning": "sự vừa mới được giao đến"
+      "word": "最新",
+      "reading": "さいしん",
+      "meaning": "sự tối tân"
     },
     {
-      "word": "新た",
-      "reading": "あらた",
-      "meaning": "sự tươi"
+      "word": "新論",
+      "reading": "しんろん",
+      "meaning": "cuộc tranh luận mới"
     },
     {
-      "word": "新種",
-      "reading": "しんしゅ",
-      "meaning": "giống mới"
-    },
-    {
-      "word": "新党",
-      "reading": "しんとう",
-      "meaning": "phe mới"
+      "word": "新規",
+      "reading": "しんき",
+      "meaning": "mới lạ"
     }
   ]
 }

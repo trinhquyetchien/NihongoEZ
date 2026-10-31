@@ -107,24 +107,44 @@
   ],
   "vocabulary": [
     {
-      "word": "投",
-      "reading": "とう",
-      "meaning": "đơn vị đếm số lần ném"
+      "word": "投票",
+      "reading": "とうひょう",
+      "meaning": "bỏ phiếu"
     },
     {
-      "word": "累投型投資信託",
-      "reading": "るいとーがたとーししんたく",
-      "meaning": "lộ trình/khóa học tái đầu tư cổ tức"
+      "word": "投書",
+      "reading": "とうしょ",
+      "meaning": "thư bạn đọc"
     },
     {
-      "word": "投函",
-      "reading": "とうかん",
-      "meaning": "sự bỏ vào"
+      "word": "投資",
+      "reading": "とうし",
+      "meaning": "sự đầu tư"
     },
     {
-      "word": "投擲",
-      "reading": "とうてき",
-      "meaning": "ném"
+      "word": "投入",
+      "reading": "とうにゅう",
+      "meaning": "nhập"
+    },
+    {
+      "word": "投稿",
+      "reading": "とうこう",
+      "meaning": "sự đóng góp"
+    },
+    {
+      "word": "投げ",
+      "reading": "なげ",
+      "meaning": "cú ném"
+    },
+    {
+      "word": "投手",
+      "reading": "とうしゅ",
+      "meaning": "người ném bóng"
+    },
+    {
+      "word": "投下",
+      "reading": "とうか",
+      "meaning": "việc thả"
     },
     {
       "word": "投与",
@@ -132,29 +152,9 @@
       "meaning": "liều dùng"
     },
     {
-      "word": "健投",
-      "reading": "けんとう",
-      "meaning": "ném tốt"
-    },
-    {
-      "word": "好投",
-      "reading": "こうとう",
-      "meaning": "động tác ném đẹp"
-    },
-    {
-      "word": "投信",
-      "reading": "とうしん",
-      "meaning": "ủy thác đầu tư"
-    },
-    {
-      "word": "投飛",
-      "reading": "とうひ",
-      "meaning": "những đá lát đường bay"
-    },
-    {
-      "word": "暴投",
-      "reading": "ぼうとう",
-      "meaning": "cú ném hoang dã"
+      "word": "投",
+      "reading": "とう",
+      "meaning": "đơn vị đếm số lần ném"
     }
   ]
 }

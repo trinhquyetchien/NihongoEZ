@@ -41,19 +41,14 @@
       "meaning": "vảy"
     },
     {
-      "word": "硬鱗",
-      "reading": "こうりん",
-      "meaning": "ganoid scale"
+      "word": "円鱗",
+      "reading": "えんりん",
+      "meaning": "vảy tròn"
     },
     {
-      "word": "櫛鱗",
-      "reading": "しつりん",
-      "meaning": "ctenoid scale"
-    },
-    {
-      "word": "芽鱗",
-      "reading": "がりん",
-      "meaning": "vảy chồi"
+      "word": "鱗木",
+      "reading": "りんぼく",
+      "meaning": "chi lepidodendro"
     },
     {
       "word": "鱗葉",
@@ -61,9 +56,9 @@
       "meaning": "lá vảy"
     },
     {
-      "word": "楯鱗",
-      "reading": "じゅんりん",
-      "meaning": "vảy tấm"
+      "word": "鱗引き",
+      "reading": "うろこひき",
+      "meaning": "máy đánh vảy cá"
     },
     {
       "word": "鱗板",
@@ -71,19 +66,24 @@
       "meaning": "mai rùa"
     },
     {
-      "word": "円鱗",
-      "reading": "えんりん",
-      "meaning": "vảy tròn"
+      "word": "骨鱗",
+      "reading": "こつりん",
+      "meaning": "vảy xương"
     },
     {
-      "word": "逆鱗",
-      "reading": "げきりん",
-      "meaning": "sự giận dữ đế quốc"
+      "word": "有鱗目",
+      "reading": "ゆうりんもく",
+      "meaning": "bộ có vảy"
     },
     {
-      "word": "介鱗",
-      "reading": "かいりん",
-      "meaning": "con cá và loài sò hến"
+      "word": "鱗皮",
+      "reading": "りんぴ",
+      "meaning": "da có vảy"
+    },
+    {
+      "word": "鱗雲",
+      "reading": "うろこぐも",
+      "meaning": "đám mây quyền tích"
     }
   ]
 }

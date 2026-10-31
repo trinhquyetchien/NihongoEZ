@@ -67,14 +67,24 @@
   ],
   "vocabulary": [
     {
-      "word": "按針",
-      "reading": "あんじん",
-      "meaning": "hoa tiêu"
-    },
-    {
       "word": "按摩",
       "reading": "あんま",
       "meaning": "sự xoa bóp"
+    },
+    {
+      "word": "按摩師",
+      "reading": "あんまし",
+      "meaning": "chuyên viên mát xa"
+    },
+    {
+      "word": "按分",
+      "reading": "あんぶん",
+      "meaning": "sự phân chia hoặc phân phối cân xứng"
+    },
+    {
+      "word": "按摩膏",
+      "reading": "あんまこう",
+      "meaning": "xoa bóp thuốc cao"
     },
     {
       "word": "按手",
@@ -82,9 +92,19 @@
       "meaning": "việc đặt tay"
     },
     {
-      "word": "按分",
-      "reading": "あんぶん",
-      "meaning": "sự phân chia hoặc phân phối cân xứng"
+      "word": "按手礼",
+      "reading": "あんしゅれい",
+      "meaning": "lễ thụ chức"
+    },
+    {
+      "word": "按針",
+      "reading": "あんじん",
+      "meaning": "hoa tiêu"
+    },
+    {
+      "word": "按配",
+      "reading": "あんばい",
+      "meaning": "sự sắp đặt"
     },
     {
       "word": "按排",
@@ -95,26 +115,6 @@
       "word": "按腹",
       "reading": "あんぷく",
       "meaning": "sự xoa bóp ở bụng"
-    },
-    {
-      "word": "按配",
-      "reading": "あんばい",
-      "meaning": "sự sắp đặt"
-    },
-    {
-      "word": "按摩師",
-      "reading": "あんまし",
-      "meaning": "chuyên viên mát xa"
-    },
-    {
-      "word": "按摩膏",
-      "reading": "あんまこう",
-      "meaning": "xoa bóp thuốc cao"
-    },
-    {
-      "word": "按ずる",
-      "reading": "あんずる",
-      "meaning": "suy nghĩ"
     }
   ]
 }

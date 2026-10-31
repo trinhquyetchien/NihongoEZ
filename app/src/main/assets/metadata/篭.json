@@ -82,9 +82,24 @@
       "meaning": "đèn lồng đá"
     },
     {
-      "word": "鳥篭",
-      "reading": "とりかご",
-      "meaning": "lồng chim"
+      "word": "石灯篭",
+      "reading": "いしどうろう",
+      "meaning": "đèn đá"
+    },
+    {
+      "word": "揺篭",
+      "reading": "ゆりかご",
+      "meaning": "cái nôi"
+    },
+    {
+      "word": "引篭り",
+      "reading": "ひきこもり",
+      "meaning": "người suốt ngày chỉ ở lì trong nhà"
+    },
+    {
+      "word": "篭る",
+      "reading": "こもる",
+      "meaning": "để tách biệt chính mình"
     },
     {
       "word": "駕篭",
@@ -92,9 +107,9 @@
       "meaning": "kiệu"
     },
     {
-      "word": "篭る",
-      "reading": "こもる",
-      "meaning": "để tách biệt chính mình"
+      "word": "鳥篭",
+      "reading": "とりかご",
+      "meaning": "lồng chim"
     },
     {
       "word": "魚篭",
@@ -105,21 +120,6 @@
       "word": "花篭",
       "reading": "はなかご",
       "meaning": "giỏ hoa"
-    },
-    {
-      "word": "揺篭",
-      "reading": "ゆりかご",
-      "meaning": "cái nôi"
-    },
-    {
-      "word": "口篭る",
-      "reading": "くちごもる",
-      "meaning": "để do dự để nói"
-    },
-    {
-      "word": "冬篭り",
-      "reading": "ふゆごもり",
-      "meaning": "sự ngủ đông"
     }
   ]
 }

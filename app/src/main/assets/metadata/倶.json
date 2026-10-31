@@ -34,6 +34,16 @@
   "comments": [],
   "vocabulary": [
     {
+      "word": "倶楽部",
+      "reading": "クラブ",
+      "meaning": "câu lạc bộ"
+    },
+    {
+      "word": "倶舎宗",
+      "reading": "くしゃしゅう",
+      "meaning": "giáo phái kusha"
+    },
+    {
       "word": "倶発",
       "reading": "ぐはつ",
       "meaning": "sự xảy ra cùng lúc"
@@ -44,19 +54,9 @@
       "meaning": "giáo phái tín đồ phật giáo bắt nguồn vào thế kỷ bảy"
     },
     {
-      "word": "倶楽部",
-      "reading": "クラブ",
-      "meaning": "câu lạc bộ"
-    },
-    {
       "word": "倶伎羅",
       "reading": "くきら",
       "meaning": "chim tu hú châu á"
-    },
-    {
-      "word": "倶舎宗",
-      "reading": "くしゃしゅう",
-      "meaning": "giáo phái kusha"
     },
     {
       "word": "不倶戴天",
@@ -64,14 +64,14 @@
       "meaning": "không đội trời chung"
     },
     {
-      "word": "倶梨伽羅紋紋",
-      "reading": "くりからもんもん",
-      "meaning": "xăm"
-    },
-    {
       "word": "不倶戴天の敵",
       "reading": "ふぐたいてんのてき",
       "meaning": "kẻ thù không đội trời chung"
+    },
+    {
+      "word": "倶梨伽羅紋紋",
+      "reading": "くりからもんもん",
+      "meaning": "xăm"
     },
     {
       "word": "君父の讐は倶に天を戴かず",

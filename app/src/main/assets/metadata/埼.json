@@ -87,19 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "埼銀",
-      "reading": "さいぎん",
-      "meaning": "saitama đắp bờ"
-    },
-    {
       "word": "埼玉",
       "reading": "さいたま",
       "meaning": "saitama"
-    },
-    {
-      "word": "ダ埼玉",
-      "reading": "ダさいたま",
-      "meaning": "saitama quê mùa"
     },
     {
       "word": "埼玉県",
@@ -110,6 +100,16 @@
       "word": "埼玉勢",
       "reading": "さいたまぜい",
       "meaning": "nhóm saitama"
+    },
+    {
+      "word": "ダ埼玉",
+      "reading": "ダさいたま",
+      "meaning": "saitama quê mùa"
+    },
+    {
+      "word": "埼銀",
+      "reading": "さいぎん",
+      "meaning": "saitama đắp bờ"
     },
     {
       "word": "U-TOOLS (埼玉精機)(修理)",

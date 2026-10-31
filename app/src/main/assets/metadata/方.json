@@ -96,41 +96,6 @@
       "meaning": "phương diện"
     },
     {
-      "word": "方方",
-      "reading": "かたがた",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "貴方方",
-      "reading": "あなたがた",
-      "meaning": "quý vị"
-    },
-    {
-      "word": "彼方方",
-      "reading": "あなたがた",
-      "meaning": "phía bên đó"
-    },
-    {
-      "word": "四方八方",
-      "reading": "しほうはっぽう",
-      "meaning": "bốn phương tám hướng"
-    },
-    {
-      "word": "彼方此方",
-      "reading": "あちこち",
-      "meaning": "khắp nơi"
-    },
-    {
-      "word": "処処方方",
-      "reading": "しょしょほうぼう",
-      "meaning": "ở mọi nơi"
-    },
-    {
-      "word": "所所方方",
-      "reading": "しょしょほうぼう",
-      "meaning": "ở mọi nơi"
-    },
-    {
       "word": "両方",
       "reading": "りょうほう",
       "meaning": "hai bên"
@@ -139,6 +104,41 @@
       "word": "方式",
       "reading": "ほうしき",
       "meaning": "cách thức"
+    },
+    {
+      "word": "見方",
+      "reading": "みかた",
+      "meaning": "cách nhìn"
+    },
+    {
+      "word": "大方",
+      "reading": "おおかた",
+      "meaning": "đa phần"
+    },
+    {
+      "word": "二方",
+      "reading": "ふたかた",
+      "meaning": "cả hai người"
+    },
+    {
+      "word": "万方",
+      "reading": "ばんぽう",
+      "meaning": "nhiều đất"
+    },
+    {
+      "word": "等方",
+      "reading": "とうほう",
+      "meaning": "đẳng hướng"
+    },
+    {
+      "word": "外方",
+      "reading": "そっぽ",
+      "meaning": "nhìn cách khác"
+    },
+    {
+      "word": "右方",
+      "reading": "うほう",
+      "meaning": "bên phải"
     }
   ]
 }

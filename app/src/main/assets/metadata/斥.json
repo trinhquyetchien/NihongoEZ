@@ -85,39 +85,14 @@
   ],
   "vocabulary": [
     {
-      "word": "斥候",
-      "reading": "せっこう",
-      "meaning": "đi tuần tra"
-    },
-    {
-      "word": "斥力",
-      "reading": "せきりょく",
-      "meaning": "sự ghét"
-    },
-    {
-      "word": "斥く",
-      "reading": "しりぞく",
-      "meaning": "lùi lại"
-    },
-    {
-      "word": "除斥",
-      "reading": "じょせき",
-      "meaning": "sự loại trừ"
-    },
-    {
-      "word": "擯斥",
-      "reading": "ひんせき",
-      "meaning": "sự tẩy chay"
-    },
-    {
       "word": "排斥",
       "reading": "はいせき",
       "meaning": "sự bài trừ"
     },
     {
-      "word": "斥ける",
-      "reading": "しりぞける",
-      "meaning": "hạ về phía sau"
+      "word": "斥候",
+      "reading": "せっこう",
+      "meaning": "đi tuần tra"
     },
     {
       "word": "斥候兵",
@@ -130,9 +105,34 @@
       "meaning": "phe reconnoitering"
     },
     {
-      "word": "除斥期間",
-      "reading": "じょせききかん",
-      "meaning": "thời hiệu"
+      "word": "斥く",
+      "reading": "しりぞく",
+      "meaning": "lùi lại"
+    },
+    {
+      "word": "除斥",
+      "reading": "じょせき",
+      "meaning": "sự loại trừ"
+    },
+    {
+      "word": "斥力",
+      "reading": "せきりょく",
+      "meaning": "sự ghét"
+    },
+    {
+      "word": "擯斥",
+      "reading": "ひんせき",
+      "meaning": "sự tẩy chay"
+    },
+    {
+      "word": "斥ける",
+      "reading": "しりぞける",
+      "meaning": "hạ về phía sau"
+    },
+    {
+      "word": "排斥する",
+      "reading": "はいせきする",
+      "meaning": "chèn ép"
     }
   ]
 }

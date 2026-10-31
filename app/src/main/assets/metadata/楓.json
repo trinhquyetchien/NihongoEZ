@@ -71,29 +71,9 @@
       "meaning": "cây phong"
     },
     {
-      "word": "楓鳥",
-      "reading": "かえでちょう",
-      "meaning": "chim estrilda troglodytes"
-    },
-    {
-      "word": "唐楓",
-      "reading": "とうかえで",
-      "meaning": "phong đinh ba"
-    },
-    {
-      "word": "楓葉",
-      "reading": "ふうよう",
-      "meaning": "lá phong"
-    },
-    {
-      "word": "松楓",
-      "reading": "しょうふう",
-      "meaning": "cây thích"
-    },
-    {
-      "word": "楓糖",
-      "reading": "かえでとう",
-      "meaning": "gỗ thích bọc đường"
+      "word": "三手楓",
+      "reading": "みつでかえで",
+      "meaning": "cây phong lá thường xuân"
     },
     {
       "word": "観楓",
@@ -101,9 +81,29 @@
       "meaning": "việc ngắm lá đỏ"
     },
     {
-      "word": "楓属",
-      "reading": "ふうぞく",
-      "meaning": "giống liquidambar"
+      "word": "観楓会",
+      "reading": "かんぷうかい",
+      "meaning": "sự nhìn ngắm lá cây gỗ thích"
+    },
+    {
+      "word": "楓葉",
+      "reading": "ふうよう",
+      "meaning": "lá phong"
+    },
+    {
+      "word": "楓鳥",
+      "reading": "かえでちょう",
+      "meaning": "chim estrilda troglodytes"
+    },
+    {
+      "word": "松楓",
+      "reading": "しょうふう",
+      "meaning": "cây thích"
+    },
+    {
+      "word": "楓子香",
+      "reading": "ふうしこう",
+      "meaning": "galbanum"
     },
     {
       "word": "楓林",
@@ -111,9 +111,9 @@
       "meaning": "rừng cây thích"
     },
     {
-      "word": "三手楓",
-      "reading": "みつでかえで",
-      "meaning": "cây phong lá thường xuân"
+      "word": "砂糖楓",
+      "reading": "さとうかえで",
+      "meaning": "cây phong đường"
     }
   ]
 }

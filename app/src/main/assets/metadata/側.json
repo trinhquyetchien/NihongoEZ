@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "側",
-      "reading": "がわ",
-      "meaning": "phía"
-    },
-    {
       "word": "両側",
       "reading": "りょうがわ",
       "meaning": "hai bên"
     },
     {
-      "word": "右側",
-      "reading": "みぎがわ",
-      "meaning": "bên hữu"
+      "word": "側",
+      "reading": "がわ",
+      "meaning": "phía"
     },
     {
-      "word": "側溝",
-      "reading": "そっこう",
-      "meaning": "chảy"
+      "word": "側か",
+      "reading": "ほのか",
+      "meaning": "ngất"
     },
     {
-      "word": "お側",
-      "reading": "おそば",
-      "meaning": "gần"
-    },
-    {
-      "word": "健側",
-      "reading": "けんそく",
-      "meaning": "phần cơ thể không bị liệt"
-    },
-    {
-      "word": "逆側",
-      "reading": "ぎゃくがわ",
-      "meaning": "đối diện"
-    },
-    {
-      "word": "舌側",
-      "reading": "ぜっそく",
-      "meaning": "mặt bên trong của hàm dưới"
-    },
-    {
-      "word": "体側",
-      "reading": "たいそく",
-      "meaning": "một bên cơ thể"
+      "word": "出側",
+      "reading": "しゅつがわ",
+      "meaning": "phía đầu ra"
     },
     {
       "word": "後側",
       "reading": "うしろがわ",
       "meaning": "phía sau"
+    },
+    {
+      "word": "側ら",
+      "reading": "かたわら",
+      "meaning": "beside"
+    },
+    {
+      "word": "国側",
+      "reading": "くにがわ",
+      "meaning": "trạng thái"
+    },
+    {
+      "word": "側車",
+      "reading": "そくしゃ",
+      "meaning": "mô tô ba bánh"
+    },
+    {
+      "word": "側女",
+      "reading": "そばめ",
+      "meaning": "vợ lẽ"
+    },
+    {
+      "word": "米側",
+      "reading": "べいがわ",
+      "meaning": "lập trường của mỹ"
     }
   ]
 }

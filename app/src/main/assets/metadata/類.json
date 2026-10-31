@@ -89,19 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "類",
-      "reading": "るい",
-      "meaning": "loại"
-    },
-    {
-      "word": "蘚類つな",
-      "reading": "蘚類綱",
-      "meaning": "bryopsida"
-    },
-    {
-      "word": "酒類",
+      "word": "種類",
       "reading": "しゅるい",
-      "meaning": "rượu"
+      "meaning": "chủng loại"
     },
     {
       "word": "書類",
@@ -109,34 +99,44 @@
       "meaning": "chứng từ"
     },
     {
-      "word": "種類",
-      "reading": "しゅるい",
-      "meaning": "chủng loại"
+      "word": "類",
+      "reading": "るい",
+      "meaning": "loại"
     },
     {
-      "word": "穀類",
-      "reading": "こくるい",
-      "meaning": "ngũ cốc"
+      "word": "次類",
+      "reading": "じるい",
+      "meaning": "phân giống"
     },
     {
-      "word": "類型",
-      "reading": "るいけい",
-      "meaning": "kiểu giống nhau"
+      "word": "語類",
+      "reading": "ごるい",
+      "meaning": "chia ra lời nói"
     },
     {
-      "word": "カイアシ類",
-      "reading": "カイアシるい",
-      "meaning": "phân lớp giáp xác chân chèo"
+      "word": "類友",
+      "reading": "るいとも",
+      "meaning": "người bạn cùng sở thích"
+    },
+    {
+      "word": "虫類",
+      "reading": "ちゅうるい",
+      "meaning": "loài côn trùng"
+    },
+    {
+      "word": "類群",
+      "reading": "るいぐん",
+      "meaning": "nhóm lớp"
+    },
+    {
+      "word": "類稀",
+      "reading": "たぐいまれ",
+      "meaning": "độc đáo"
     },
     {
       "word": "麦類",
       "reading": "むぎるい",
       "meaning": "các loại lúa mạch"
-    },
-    {
-      "word": "ゴカイ類",
-      "reading": "ゴカイるい",
-      "meaning": "giun nhiều tơ"
     }
   ]
 }

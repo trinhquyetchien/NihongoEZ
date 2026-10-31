@@ -92,11 +92,6 @@
   ],
   "vocabulary": [
     {
-      "word": "競",
-      "reading": "けい",
-      "meaning": "cuộc thi đấu"
-    },
-    {
       "word": "競争",
       "reading": "きょうそう",
       "meaning": "sự cạnh tranh"
@@ -107,39 +102,44 @@
       "meaning": "cuộc thi đấu"
     },
     {
-      "word": "競合",
-      "reading": "きょうごう",
-      "meaning": "sự đua tài"
+      "word": "競馬",
+      "reading": "けいば",
+      "meaning": "cuộc đua ngựa"
     },
     {
-      "word": "競う",
-      "reading": "きそう",
-      "meaning": "cạnh tranh"
+      "word": "競技者",
+      "reading": "きょうぎしゃ",
+      "meaning": "người thi đấu"
     },
     {
-      "word": "競泳",
-      "reading": "きょうえい",
-      "meaning": "cuộc thi bơi"
+      "word": "競争者",
+      "reading": "きょうそうしゃ",
+      "meaning": "đối thủ cạnh tranh"
     },
     {
-      "word": "競る",
-      "reading": "せる",
-      "meaning": "ganh đua"
+      "word": "競技会",
+      "reading": "きょうぎかい",
+      "meaning": "hội thi đấu"
     },
     {
-      "word": "競作",
-      "reading": "きょうさく",
-      "meaning": "sự thi sáng tác"
+      "word": "大競争",
+      "reading": "だいきょうそう",
+      "meaning": "cuộc cạnh tranh lớn"
     },
     {
-      "word": "競漕",
-      "reading": "きょうそう",
-      "meaning": "cuộc đua thuyền"
+      "word": "競争力",
+      "reading": "きょうそうりょく",
+      "meaning": "sức cạnh tranh"
     },
     {
-      "word": "競歩",
-      "reading": "きょうほ",
-      "meaning": "sự đi bộ đua"
+      "word": "競技場",
+      "reading": "きょうぎじょう",
+      "meaning": "sân vận động"
+    },
+    {
+      "word": "競争率",
+      "reading": "きょうそうりつ",
+      "meaning": "tỉ lệ cạnh tranh"
     }
   ]
 }

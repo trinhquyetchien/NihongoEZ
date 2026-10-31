@@ -87,44 +87,14 @@
   ],
   "vocabulary": [
     {
-      "word": "びん培",
-      "reading": "便培",
-      "meaning": "cấy phân"
-    },
-    {
-      "word": "培地",
-      "reading": "ばいち",
-      "meaning": "dược"
-    },
-    {
-      "word": "培養",
-      "reading": "ばいよう",
-      "meaning": "sự bồi dưỡng"
-    },
-    {
-      "word": "培う",
-      "reading": "つちかう",
-      "meaning": "bồi dưỡng"
-    },
-    {
       "word": "栽培",
       "reading": "さいばい",
       "meaning": "sự trồng trọt"
     },
     {
-      "word": "培土",
-      "reading": "ばいど",
-      "meaning": "đất trồng cây"
-    },
-    {
-      "word": "培養液",
-      "reading": "ばいようえき",
-      "meaning": "dung dịch nuôi cấy"
-    },
-    {
-      "word": "栽培種",
-      "reading": "さいばいしゅ",
-      "meaning": "những tiền đồng nông nghiệp"
+      "word": "栽培家",
+      "reading": "さいばいか",
+      "meaning": "người trồng trọt"
     },
     {
       "word": "栽培所",
@@ -132,9 +102,39 @@
       "meaning": "nơi trồng trọt"
     },
     {
-      "word": "トンネル栽培",
-      "reading": "トンネルさいばい",
-      "meaning": "canh tác cây trồng theo hình đường hầm"
+      "word": "栽培種",
+      "reading": "さいばいしゅ",
+      "meaning": "những tiền đồng nông nghiệp"
+    },
+    {
+      "word": "培養",
+      "reading": "ばいよう",
+      "meaning": "sự bồi dưỡng"
+    },
+    {
+      "word": "培養土",
+      "reading": "ばいようど",
+      "meaning": "phân trộn"
+    },
+    {
+      "word": "培養液",
+      "reading": "ばいようえき",
+      "meaning": "dung dịch nuôi cấy"
+    },
+    {
+      "word": "培地",
+      "reading": "ばいち",
+      "meaning": "dược"
+    },
+    {
+      "word": "培う",
+      "reading": "つちかう",
+      "meaning": "bồi dưỡng"
+    },
+    {
+      "word": "びん培",
+      "reading": "便培",
+      "meaning": "cấy phân"
     }
   ]
 }

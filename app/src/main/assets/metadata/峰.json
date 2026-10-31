@@ -94,9 +94,29 @@
       "meaning": "chóp"
     },
     {
-      "word": "峰峰",
-      "reading": "みねみね",
-      "meaning": "các đỉnh núi"
+      "word": "名峰",
+      "reading": "めいほう",
+      "meaning": "ngọn núi nổi tiếng"
+    },
+    {
+      "word": "二峰性",
+      "reading": "にほうせい",
+      "meaning": "tính hai đỉnh"
+    },
+    {
+      "word": "峰頭",
+      "reading": "ほうとう",
+      "meaning": "thượng đỉnh một đỉnh"
+    },
+    {
+      "word": "多峰",
+      "reading": "たほう",
+      "meaning": "nhiều mốt"
+    },
+    {
+      "word": "多峰性",
+      "reading": "たほうせい",
+      "meaning": "đa chế độ"
     },
     {
       "word": "峰桜",
@@ -104,39 +124,19 @@
       "meaning": "loài hoa anh đào núi"
     },
     {
-      "word": "名峰",
-      "reading": "めいほう",
-      "meaning": "ngọn núi nổi tiếng"
+      "word": "峰続き",
+      "reading": "みねつづき",
+      "meaning": "những đỉnh núi nối tiếp nhau"
     },
     {
-      "word": "高峰",
-      "reading": "こうほう",
-      "meaning": "núi cao"
+      "word": "回峰行",
+      "reading": "かいほうぎょう",
+      "meaning": "đi bộ hàng nghìn ngày qua những ngọn núi từ hieizan đến cung điện hoàng gia cũ ở kyoto"
     },
     {
-      "word": "危峰",
-      "reading": "きほう",
-      "meaning": "đỉnh núi cao hiểm trở"
-    },
-    {
-      "word": "主峰",
-      "reading": "しゅほう",
-      "meaning": "kỹ xảo"
-    },
-    {
-      "word": "巨峰",
-      "reading": "きょほう",
-      "meaning": "ngọn núi hùng vĩ"
-    },
-    {
-      "word": "雄峰",
-      "reading": "ゆうほう",
-      "meaning": "ngọn núi hùng vĩ"
-    },
-    {
-      "word": "群峰",
-      "reading": "ぐんぽう",
-      "meaning": "quân pháp"
+      "word": "肩峰",
+      "reading": "けんぽう",
+      "meaning": "vai"
     }
   ]
 }

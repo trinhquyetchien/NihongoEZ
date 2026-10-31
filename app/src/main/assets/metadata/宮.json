@@ -92,14 +92,19 @@
   ],
   "vocabulary": [
     {
+      "word": "宮殿",
+      "reading": "きゅうでん",
+      "meaning": "bảo điện"
+    },
+    {
+      "word": "お宮",
+      "reading": "おみや",
+      "meaning": "miếu thờ thần của nhật bản"
+    },
+    {
       "word": "宮",
       "reading": "みや",
       "meaning": "cung điện"
-    },
-    {
-      "word": "子宮",
-      "reading": "しきゅう",
-      "meaning": "bào"
     },
     {
       "word": "月宮",
@@ -107,14 +112,14 @@
       "meaning": "cung trăng"
     },
     {
-      "word": "宮廷",
-      "reading": "きゅうてい",
-      "meaning": "đài các"
+      "word": "宮様",
+      "reading": "みやさま",
+      "meaning": "hoàng tử"
     },
     {
-      "word": "後宮",
-      "reading": "こうきゅう",
-      "meaning": "hậu cung"
+      "word": "宮城",
+      "reading": "きゅうじょう",
+      "meaning": "miyagi"
     },
     {
       "word": "枝宮",
@@ -122,24 +127,19 @@
       "meaning": "đền phụ"
     },
     {
-      "word": "今宮",
-      "reading": "いまみや",
-      "meaning": "hoàng tử mới sinh"
+      "word": "子宮",
+      "reading": "しきゅう",
+      "meaning": "bào"
     },
     {
-      "word": "別宮",
-      "reading": "べつぐう",
-      "meaning": "đền phụ"
+      "word": "二宮",
+      "reading": "にぐう",
+      "meaning": "cung hoàng hậu và cung thái tử"
     },
     {
-      "word": "仮宮",
-      "reading": "かりみや",
-      "meaning": "hành cung tạm thời cho vua ở khi vua đi đây đó"
-    },
-    {
-      "word": "斎宮",
-      "reading": "さいぐう",
-      "meaning": "những công chúa đế quốc cổ xưa phục vụ ở miếu thờ ise"
+      "word": "神宮",
+      "reading": "じんぐう",
+      "meaning": "miếu thờ"
     }
   ]
 }

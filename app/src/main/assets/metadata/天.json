@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "天",
-      "reading": "てん",
-      "meaning": "bầu trời"
-    },
-    {
-      "word": "天文天頂",
-      "reading": "てんもんてんちょう",
-      "meaning": "thiên đỉnh"
-    },
-    {
-      "word": "天一天上",
-      "reading": "てんいちてんじょう",
-      "meaning": "ngày thần thiên nhất lên trời"
-    },
-    {
-      "word": "天上天下",
-      "reading": "てんじょうてんげ",
-      "meaning": "cả thế giới"
-    },
-    {
-      "word": "天心",
-      "reading": "てんしん",
-      "meaning": "ý trời"
-    },
-    {
-      "word": "天水",
-      "reading": "てんすい",
-      "meaning": "nước mưa"
-    },
-    {
-      "word": "天主",
-      "reading": "てんしゅ",
-      "meaning": "chúa trời"
-    },
-    {
-      "word": "天竺",
-      "reading": "てんじく",
-      "meaning": "nước thiên trúc"
-    },
-    {
       "word": "天候",
       "reading": "てんこう",
       "meaning": "thời tiết"
     },
     {
-      "word": "仰天",
-      "reading": "ぎょうてん",
-      "meaning": "việc vô cùng kinh ngạc"
+      "word": "晴天",
+      "reading": "せいてん",
+      "meaning": "tạnh ráo"
+    },
+    {
+      "word": "雨天",
+      "reading": "うてん",
+      "meaning": "trời mưa"
+    },
+    {
+      "word": "天",
+      "reading": "てん",
+      "meaning": "bầu trời"
+    },
+    {
+      "word": "天の",
+      "reading": "あめの",
+      "meaning": "thiên đàng"
+    },
+    {
+      "word": "天長",
+      "reading": "てんちょう",
+      "meaning": "thời kỳ tencho"
+    },
+    {
+      "word": "周天",
+      "reading": "しゅうてん",
+      "meaning": "một vòng quay của trái đất"
+    },
+    {
+      "word": "天重",
+      "reading": "てんじゅう",
+      "meaning": "hộp ăn trưa có tempura"
+    },
+    {
+      "word": "天安",
+      "reading": "てんあん",
+      "meaning": "thời tenan"
+    },
+    {
+      "word": "悪天",
+      "reading": "あくてん",
+      "meaning": "thời tiết xấu"
     }
   ]
 }

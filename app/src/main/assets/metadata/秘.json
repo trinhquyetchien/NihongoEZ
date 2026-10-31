@@ -91,24 +91,29 @@
   ],
   "vocabulary": [
     {
-      "word": "秘中の秘",
-      "reading": "ひちゅうのひ",
-      "meaning": "bí mật tuyệt đối"
-    },
-    {
-      "word": "秘鑰",
-      "reading": "ひやく",
-      "meaning": "chìa khoá bí mật"
-    },
-    {
-      "word": "マル秘",
-      "reading": "まるひ",
+      "word": "秘密",
+      "reading": "ひみつ",
       "meaning": "bí mật"
     },
     {
-      "word": "秘裂",
-      "reading": "ひれつ",
-      "meaning": "cơ quan sinh dục nữ"
+      "word": "秘書",
+      "reading": "ひしょ",
+      "meaning": "bí thư"
+    },
+    {
+      "word": "神秘",
+      "reading": "しんぴ",
+      "meaning": "sự thần bí"
+    },
+    {
+      "word": "便秘",
+      "reading": "べんぴ",
+      "meaning": "bí đại diện"
+    },
+    {
+      "word": "秘所",
+      "reading": "ひしょ",
+      "meaning": "nơi bí mật"
     },
     {
       "word": "秘部",
@@ -116,29 +121,24 @@
       "meaning": "vùng kín"
     },
     {
-      "word": "秘説",
-      "reading": "ひせつ",
-      "meaning": "thuyết bí mật"
+      "word": "丸秘",
+      "reading": "まるひ",
+      "meaning": "tuyệt mật"
     },
     {
-      "word": "秘文",
-      "reading": "ひもん",
-      "meaning": "mật khẩu"
+      "word": "秘鍵",
+      "reading": "ひけん",
+      "meaning": "nguyên lý bí mật"
     },
     {
-      "word": "秘跡",
-      "reading": "ひせき",
-      "meaning": "bí tích"
+      "word": "秘訣",
+      "reading": "ひけつ",
+      "meaning": "bí quyết"
     },
     {
-      "word": "秘苑",
-      "reading": "ひえん",
-      "meaning": "khu vườn bí mật"
-    },
-    {
-      "word": "秘所",
-      "reading": "ひしょ",
-      "meaning": "nơi bí mật"
+      "word": "秘具",
+      "reading": "ひぐ",
+      "meaning": "công cụ bí mật"
     }
   ]
 }

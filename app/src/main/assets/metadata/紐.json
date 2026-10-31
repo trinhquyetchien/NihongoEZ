@@ -89,24 +89,9 @@
       "meaning": "dây"
     },
     {
-      "word": "ちりめん丸紐/和紐",
-      "reading": "ちりめんまるひも/わひも",
-      "meaning": "dây xoắn nhỏ / dây xoắn nhật bản"
-    },
-    {
-      "word": "綴紐(つづりひも)",
-      "reading": "とじひも(つづりひも)",
-      "meaning": "綴紐)"
-    },
-    {
-      "word": "紐付ける ひもづける",
-      "reading": "紐付ける",
-      "meaning": "kết hợp lại"
-    },
-    {
-      "word": "口紐",
-      "reading": "くちひも",
-      "meaning": "dây rút"
+      "word": "上紐",
+      "reading": "うわひも",
+      "meaning": "dây cột bên ngoài"
     },
     {
       "word": "下紐",
@@ -114,14 +99,19 @@
       "meaning": "vành đai"
     },
     {
-      "word": "靴紐",
-      "reading": "くつひも",
-      "meaning": "dây giày"
+      "word": "頭紐",
+      "reading": "あたまひも",
+      "meaning": "băng trán thể thao"
     },
     {
-      "word": "革紐",
-      "reading": "かわひも",
-      "meaning": "dây da"
+      "word": "口紐",
+      "reading": "くちひも",
+      "meaning": "dây rút"
+    },
+    {
+      "word": "紐付け",
+      "reading": "ひもづけ",
+      "meaning": "liên kết"
     },
     {
       "word": "小紐",
@@ -129,9 +119,19 @@
       "meaning": "dây buộc ở eo áo hanpi"
     },
     {
-      "word": "紐虫",
-      "reading": "ひもむし",
-      "meaning": "giun ruy băng"
+      "word": "紐パン",
+      "reading": "ひもパン",
+      "meaning": "string bikini"
+    },
+    {
+      "word": "引き紐",
+      "reading": "ひきひも",
+      "meaning": "dây kéo"
+    },
+    {
+      "word": "紐タイ",
+      "reading": "ひもタイ",
+      "meaning": "dây buộc"
     }
   ]
 }

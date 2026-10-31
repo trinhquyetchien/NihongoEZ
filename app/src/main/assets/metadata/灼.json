@@ -47,6 +47,16 @@
       "meaning": "đốt"
     },
     {
+      "word": "焼灼法",
+      "reading": "しょーしゃくほー",
+      "meaning": "phương pháp đốt"
+    },
+    {
+      "word": "灼ける",
+      "reading": "やける",
+      "meaning": "cháy"
+    },
+    {
       "word": "灼か",
       "reading": "あらたか",
       "meaning": "nổi bật"
@@ -60,16 +70,6 @@
       "word": "灼く",
       "reading": "やく",
       "meaning": "rám nắng"
-    },
-    {
-      "word": "灼ける",
-      "reading": "やける",
-      "meaning": "cháy"
-    },
-    {
-      "word": "焼灼法",
-      "reading": "しょーしゃくほー",
-      "meaning": "phương pháp đốt"
     }
   ]
 }

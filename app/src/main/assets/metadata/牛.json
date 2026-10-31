@@ -89,14 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "牛",
-      "reading": "うし",
-      "meaning": "con bò"
-    },
-    {
-      "word": "吉牛",
-      "reading": "よしぎゅう",
-      "meaning": "yoshinoya"
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "sữa"
     },
     {
       "word": "牛肉",
@@ -104,39 +99,44 @@
       "meaning": "thịt bò"
     },
     {
-      "word": "牛乳",
-      "reading": "ぎゅうにゅう",
-      "meaning": "sữa"
+      "word": "牛",
+      "reading": "うし",
+      "meaning": "con bò"
     },
     {
-      "word": "雌牛",
-      "reading": "めうし",
-      "meaning": "bò cái"
+      "word": "子牛",
+      "reading": "こうし",
+      "meaning": "bò con"
     },
     {
-      "word": "牛後",
-      "reading": "ぎゅうご",
-      "meaning": "mông bò"
+      "word": "天牛",
+      "reading": "かみきりむし",
+      "meaning": "con xén tóc"
     },
     {
-      "word": "牛鍋",
-      "reading": "ぎゅうなべ",
-      "meaning": "món lẩu thịt bò kiểu nhật"
+      "word": "角牛",
+      "reading": "かくぎゅう",
+      "meaning": "trận đấu bò"
     },
     {
-      "word": "牛虻",
-      "reading": "うしあぶ",
-      "meaning": "ruồi trâu"
+      "word": "牛角",
+      "reading": "ごかく",
+      "meaning": "sừng bò"
     },
     {
-      "word": "牛屋",
-      "reading": "うしや",
-      "meaning": "chuồng trâu chuồng bò"
+      "word": "原牛",
+      "reading": "げんぎゅう",
+      "meaning": "aurochs"
     },
     {
-      "word": "牝牛",
-      "reading": "めうし",
-      "meaning": "con bò cái"
+      "word": "牛缶",
+      "reading": "ぎゅうかん",
+      "meaning": "thịt bò đóng hộp"
+    },
+    {
+      "word": "牛丼",
+      "reading": "ぎゅうどん",
+      "meaning": "món ăn gồm cơm với thịt bò"
     }
   ]
 }

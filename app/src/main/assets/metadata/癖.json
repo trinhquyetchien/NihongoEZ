@@ -95,29 +95,14 @@
       "meaning": "thói quen"
     },
     {
-      "word": "一癖も二癖もある",
-      "reading": "ひとくせもふたくせもある",
-      "meaning": "cá tính mạnh mẽ"
+      "word": "癖に",
+      "reading": "くせに",
+      "meaning": "mặc dù"
     },
     {
-      "word": "口癖",
-      "reading": "くちぐせ",
-      "meaning": "quen mồm"
-    },
-    {
-      "word": "性癖",
-      "reading": "せいへき",
-      "meaning": "tâm tính"
-    },
-    {
-      "word": "寝癖",
-      "reading": "ねぐせ",
-      "meaning": "sự xáo trộn của tóc hoặc chăn"
-    },
-    {
-      "word": "潔癖",
-      "reading": "けっぺき",
-      "meaning": "sự ưa sạch sẽ"
+      "word": "その癖",
+      "reading": "そのくせ",
+      "meaning": "tật xấu đó"
     },
     {
       "word": "男癖",
@@ -125,19 +110,34 @@
       "meaning": "mê trai"
     },
     {
-      "word": "癖に",
-      "reading": "くせに",
-      "meaning": "mặc dù"
+      "word": "悪い癖",
+      "reading": "わるいくせ",
+      "meaning": "thói quen xấu"
     },
     {
-      "word": "嗜癖",
-      "reading": "しへき",
-      "meaning": "nghiện"
+      "word": "癖毛",
+      "reading": "くせげ",
+      "meaning": "tóc xoăn"
     },
     {
-      "word": "盗癖",
-      "reading": "とうへき",
-      "meaning": "thói ăn cắp vặt"
+      "word": "癖っ毛",
+      "reading": "くせっけ",
+      "meaning": "tóc xoăn tự nhiên"
+    },
+    {
+      "word": "妄想癖",
+      "reading": "もうそうへき",
+      "meaning": "ảo tưởng"
+    },
+    {
+      "word": "収集癖",
+      "reading": "しゅうしゅうへき",
+      "meaning": "thu thập"
+    },
+    {
+      "word": "自傷癖",
+      "reading": "じしょうくせ",
+      "meaning": "sự tự làm bị thương mình"
     }
   ]
 }

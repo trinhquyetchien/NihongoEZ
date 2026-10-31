@@ -93,19 +93,19 @@
       "meaning": "ban thưởng"
     },
     {
-      "word": "下賜",
-      "reading": "かし",
-      "meaning": "sự chuyển nhượng"
-    },
-    {
-      "word": "賜与",
-      "reading": "しよ",
-      "meaning": "tặng quà"
+      "word": "賜物",
+      "reading": "たまもの",
+      "meaning": "quà tặng"
     },
     {
       "word": "天賜",
       "reading": "てんし",
       "meaning": "sự ban thưởng của vua"
+    },
+    {
+      "word": "賜与",
+      "reading": "しよ",
+      "meaning": "tặng quà"
     },
     {
       "word": "恩賜",
@@ -118,9 +118,9 @@
       "meaning": "phân phối những hàng dãy"
     },
     {
-      "word": "賜暇",
-      "reading": "しか",
-      "meaning": "sự nghỉ phép"
+      "word": "下賜",
+      "reading": "かし",
+      "meaning": "sự chuyển nhượng"
     },
     {
       "word": "賜う",
@@ -128,14 +128,14 @@
       "meaning": "tặng"
     },
     {
-      "word": "賜金",
-      "reading": "しきん",
-      "meaning": "sự ban tặng tiền"
-    },
-    {
       "word": "賜杯",
       "reading": "しはい",
       "meaning": "hoàng đế có cúp"
+    },
+    {
+      "word": "賜り物",
+      "reading": "たまわりもの",
+      "meaning": "ân huệ"
     }
   ]
 }

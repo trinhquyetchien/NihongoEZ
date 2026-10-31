@@ -89,34 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "較正",
-      "reading": "こうせい",
-      "meaning": "hiệu chỉnh"
-    },
-    {
-      "word": "較量",
-      "reading": "こうりょう",
-      "meaning": "sự so sánh"
-    },
-    {
-      "word": "較差",
-      "reading": "かくさ",
-      "meaning": "thông thường"
-    },
-    {
       "word": "比較",
       "reading": "ひかく",
       "meaning": "sự so sánh"
     },
     {
-      "word": "較べる",
-      "reading": "くらべる",
-      "meaning": "so sánh"
-    },
-    {
-      "word": "比較ゲノミクス",
-      "reading": "ひかくゲノミクス",
-      "meaning": "so sánh các tính năng bộ gen của các sinh vật khác nhau"
+      "word": "比較的",
+      "reading": "ひかくてき",
+      "meaning": "có tính so sánh"
     },
     {
       "word": "比較式",
@@ -134,9 +114,29 @@
       "meaning": "cấp độ để so sánh"
     },
     {
-      "word": "比較的",
-      "reading": "ひかくてき",
-      "meaning": "có tính so sánh"
+      "word": "較正",
+      "reading": "こうせい",
+      "meaning": "hiệu chỉnh"
+    },
+    {
+      "word": "較べる",
+      "reading": "くらべる",
+      "meaning": "so sánh"
+    },
+    {
+      "word": "較差",
+      "reading": "かくさ",
+      "meaning": "thông thường"
+    },
+    {
+      "word": "較量",
+      "reading": "こうりょう",
+      "meaning": "sự so sánh"
+    },
+    {
+      "word": "比較する",
+      "reading": "ひかくする",
+      "meaning": "đọ"
     }
   ]
 }

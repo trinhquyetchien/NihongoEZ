@@ -50,6 +50,11 @@
   ],
   "vocabulary": [
     {
+      "word": "諌める",
+      "reading": "いさめる",
+      "meaning": "can gián"
+    },
+    {
       "word": "切諌",
       "reading": "せっかん",
       "meaning": "sự cảnh cáo"
@@ -78,11 +83,6 @@
       "word": "屍諌",
       "reading": "しかん",
       "meaning": "khiển trách ở giá những thứ cuộc sống"
-    },
-    {
-      "word": "諌める",
-      "reading": "いさめる",
-      "meaning": "can gián"
     }
   ]
 }

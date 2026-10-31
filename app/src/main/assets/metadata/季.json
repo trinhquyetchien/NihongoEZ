@@ -87,8 +87,8 @@
   ],
   "vocabulary": [
     {
-      "word": "季",
-      "reading": "き",
+      "word": "季節",
+      "reading": "きせつ",
       "meaning": "mùa"
     },
     {
@@ -97,44 +97,44 @@
       "meaning": "bốn mùa"
     },
     {
-      "word": "季候",
-      "reading": "きこう",
-      "meaning": "khí hậu"
+      "word": "季刊",
+      "reading": "きかん",
+      "meaning": "hàng quý"
     },
     {
-      "word": "季子",
-      "reading": "きし",
-      "meaning": "trẻ em cuối cùng"
+      "word": "季節的",
+      "reading": "きせつてき",
+      "meaning": "từng thời"
     },
     {
-      "word": "季夏",
-      "reading": "きか",
-      "meaning": "thời tiết cuối hè"
+      "word": "季節性",
+      "reading": "きせつせい",
+      "meaning": "thời vụ"
     },
     {
-      "word": "季冬",
-      "reading": "きとう",
-      "meaning": "cuối mùa đông"
+      "word": "季節感",
+      "reading": "きせつかん",
+      "meaning": "sự cảm nhận về các mùa xuân hạ thu đông"
     },
     {
-      "word": "季秋",
-      "reading": "きしゅう",
-      "meaning": "thời tiết cuối thu"
+      "word": "季節末",
+      "reading": "きせつすえ",
+      "meaning": "cuối mùa"
     },
     {
-      "word": "半季",
-      "reading": "はんき",
-      "meaning": "nửa năm"
+      "word": "季節柄",
+      "reading": "きせつがら",
+      "meaning": "tính chất thời tiết"
     },
     {
-      "word": "年季",
-      "reading": "ねんき",
-      "meaning": "sự học việc"
+      "word": "季節工",
+      "reading": "きせつこう",
+      "meaning": "công việc thời vụ"
     },
     {
-      "word": "季語",
-      "reading": "きご",
-      "meaning": "từ ngữ theo mùa"
+      "word": "今季",
+      "reading": "こんき",
+      "meaning": "mùa này"
     }
   ]
 }

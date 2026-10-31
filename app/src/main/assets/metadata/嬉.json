@@ -87,34 +87,9 @@
   ],
   "vocabulary": [
     {
-      "word": "嬉嬉として",
-      "reading": "ききとして",
-      "meaning": "hân hoan"
-    },
-    {
-      "word": "嬉笑",
-      "reading": "きしょう",
-      "meaning": "nụ cười hạnh phúc"
-    },
-    {
-      "word": "嬉々",
-      "reading": "きき",
-      "meaning": "vui mừng"
-    },
-    {
-      "word": "嬉戯",
-      "reading": "きぎ",
-      "meaning": "sự nghịch ngợm đùa vui"
-    },
-    {
       "word": "嬉しい",
       "reading": "うれしい",
       "meaning": "hân hoan"
-    },
-    {
-      "word": "嬉し涙",
-      "reading": "うれしなみだ",
-      "meaning": "nước mắt hạnh phúc"
     },
     {
       "word": "嬉しげ",
@@ -122,19 +97,44 @@
       "meaning": "có vẻ vui mừng"
     },
     {
-      "word": "嬉しがる",
-      "reading": "うれしがる",
+      "word": "嬉々",
+      "reading": "きき",
       "meaning": "vui mừng"
     },
     {
-      "word": "嬉し泣き",
-      "reading": "うれしなき",
-      "meaning": "khóc than cho niềm vui"
+      "word": "嬉笑",
+      "reading": "きしょう",
+      "meaning": "nụ cười hạnh phúc"
+    },
+    {
+      "word": "嬉し涙",
+      "reading": "うれしなみだ",
+      "meaning": "nước mắt hạnh phúc"
+    },
+    {
+      "word": "嬉戯",
+      "reading": "きぎ",
+      "meaning": "sự nghịch ngợm đùa vui"
     },
     {
       "word": "嬉しそう",
       "reading": "うれしそう",
       "meaning": "thích thú"
+    },
+    {
+      "word": "嬉しがる",
+      "reading": "うれしがる",
+      "meaning": "vui mừng"
+    },
+    {
+      "word": "嬉しい消息",
+      "reading": "うれしいしょうそく",
+      "meaning": "bao hỷ"
+    },
+    {
+      "word": "嬉々たり",
+      "reading": "ききたり",
+      "meaning": "hân hoan"
     }
   ]
 }

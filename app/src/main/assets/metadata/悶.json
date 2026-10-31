@@ -84,9 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "悶悶",
-      "reading": "もんもん",
-      "meaning": "lo lắng vĩnh viễn"
+      "word": "悶絶",
+      "reading": "もんぜつ",
+      "meaning": "ngất trong sự đau đớn"
     },
     {
       "word": "悶え",
@@ -94,8 +94,13 @@
       "meaning": "sự đau đớn"
     },
     {
-      "word": "煩悶",
-      "reading": "はんもん",
+      "word": "悶々",
+      "reading": "もんもん",
+      "meaning": "lo lắng vĩnh viễn"
+    },
+    {
+      "word": "悶える",
+      "reading": "もだえる",
       "meaning": "đau đớn"
     },
     {
@@ -104,14 +109,14 @@
       "meaning": "nỗi đau đớn"
     },
     {
-      "word": "悶死",
-      "reading": "もんし",
-      "meaning": "răng sữa"
+      "word": "悶着",
+      "reading": "もんちゃく",
+      "meaning": "phiền toái"
     },
     {
-      "word": "悶絶",
-      "reading": "もんぜつ",
-      "meaning": "ngất trong sự đau đớn"
+      "word": "煩悶",
+      "reading": "はんもん",
+      "meaning": "đau đớn"
     },
     {
       "word": "遣悶",
@@ -119,14 +124,9 @@
       "meaning": "sự xua đuổi nỗi phiền muộn"
     },
     {
-      "word": "悶々",
-      "reading": "もんもん",
-      "meaning": "lo lắng vĩnh viễn"
-    },
-    {
-      "word": "悶着",
-      "reading": "もんちゃく",
-      "meaning": "phiền toái"
+      "word": "身悶え",
+      "reading": "みもだえ",
+      "meaning": "sự lăn lộn"
     },
     {
       "word": "憤悶",

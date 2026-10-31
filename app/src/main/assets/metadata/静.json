@@ -93,34 +93,19 @@
   ],
   "vocabulary": [
     {
-      "word": "静",
-      "reading": "せい",
-      "meaning": "sự tĩnh lặng"
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "yên tĩnh"
     },
     {
-      "word": "静静",
-      "reading": "しずしず",
-      "meaning": "mọi hoạt dộng được thực hiện lặng lẽ và chậm rãi"
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "bình tĩnh"
     },
     {
-      "word": "静養",
-      "reading": "せいよう",
-      "meaning": "tĩnh dưỡng"
-    },
-    {
-      "word": "沈静",
-      "reading": "ちんせい",
-      "meaning": "sự trầm tĩnh"
-    },
-    {
-      "word": "静夜",
-      "reading": "せいや",
-      "meaning": "đêm tĩnh lặng"
-    },
-    {
-      "word": "静観",
-      "reading": "せいかん",
-      "meaning": "cảnh giác đợi"
+      "word": "静止",
+      "reading": "せいし",
+      "meaning": "sự yên lặng"
     },
     {
       "word": "静的",
@@ -128,19 +113,34 @@
       "meaning": "tính tĩnh"
     },
     {
-      "word": "静物",
-      "reading": "せいぶつ",
-      "meaning": "tĩnh vật"
-    },
-    {
-      "word": "静注",
-      "reading": "じょうちゅう",
-      "meaning": "sự tiêm vào tĩnh mạch"
-    },
-    {
       "word": "静岡",
       "reading": "しずおか",
       "meaning": "tỉnh shizuoka"
+    },
+    {
+      "word": "静かな",
+      "reading": "しずかな",
+      "meaning": "điềm tĩnh"
+    },
+    {
+      "word": "心静か",
+      "reading": "こころしずか",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "冷静な",
+      "reading": "れいせいな",
+      "meaning": "bình tĩnh"
+    },
+    {
+      "word": "静",
+      "reading": "せい",
+      "meaning": "sự tĩnh lặng"
+    },
+    {
+      "word": "静音",
+      "reading": "せいおん",
+      "meaning": "im lặng"
     }
   ]
 }

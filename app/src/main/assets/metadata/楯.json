@@ -36,19 +36,14 @@
       "meaning": "shield"
     },
     {
+      "word": "楯つく",
+      "reading": "たてつく",
+      "meaning": "chống đối"
+    },
+    {
       "word": "楯鱗",
       "reading": "じゅんりん",
       "meaning": "vảy tấm"
-    },
-    {
-      "word": "小楯",
-      "reading": "こだて",
-      "meaning": "shield nhỏ"
-    },
-    {
-      "word": "後ろ楯",
-      "reading": "うしろだて",
-      "meaning": "sự ủng hộ"
     },
     {
       "word": "楯突く",
@@ -56,19 +51,24 @@
       "meaning": "va chạm"
     },
     {
-      "word": "楯つく",
-      "reading": "たてつく",
-      "meaning": "chống đối"
+      "word": "後ろ楯",
+      "reading": "うしろだて",
+      "meaning": "sự ủng hộ"
     },
     {
-      "word": "醜の御楯",
-      "reading": "しこのみたて",
-      "meaning": "shield tầm thường tối cao chúng ta khống chế"
+      "word": "小楯",
+      "reading": "こだて",
+      "meaning": "shield nhỏ"
     },
     {
       "word": "楯状火山",
       "reading": "たてじょうかざん",
       "meaning": "núi lửa hình khiên"
+    },
+    {
+      "word": "醜の御楯",
+      "reading": "しこのみたて",
+      "meaning": "shield tầm thường tối cao chúng ta khống chế"
     }
   ]
 }

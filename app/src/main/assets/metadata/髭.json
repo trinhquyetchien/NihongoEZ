@@ -72,9 +72,14 @@
       "meaning": "râu"
     },
     {
-      "word": "口髭",
-      "reading": "くちひげ",
-      "meaning": "râu mép"
+      "word": "大髭",
+      "reading": "おおひげ",
+      "meaning": "bộ râu dài"
+    },
+    {
+      "word": "奴髭",
+      "reading": "やっこひげ",
+      "meaning": "ria mép hình lưỡi liềm"
     },
     {
       "word": "赤髭",
@@ -82,24 +87,19 @@
       "meaning": "râu màu đỏ"
     },
     {
-      "word": "カイゼル髭",
-      "reading": "カイゼルひげ",
-      "meaning": "bộ ria mép trên tay lái"
-    },
-    {
-      "word": "鎌髭",
-      "reading": "かまひげ",
-      "meaning": "ria mép hình lưỡi liềm"
-    },
-    {
       "word": "鼻髭",
       "reading": "はなひげ",
       "meaning": "râu mép"
     },
     {
-      "word": "頬髭",
-      "reading": "ほおひげ",
-      "meaning": "râu"
+      "word": "八字髭",
+      "reading": "はちじひげ",
+      "meaning": "râu mép tỉa gọn đẹp hình chữ \"bát\""
+    },
+    {
+      "word": "竜の髭",
+      "reading": "りゅうのひげ",
+      "meaning": "râu rồng"
     },
     {
       "word": "虎髭",
@@ -107,14 +107,14 @@
       "meaning": "râu ngắn"
     },
     {
-      "word": "顎髭",
-      "reading": "あごひげ",
-      "meaning": "râu cằm"
+      "word": "羊の髭",
+      "reading": "ひつじのひげ",
+      "meaning": "râu dê"
     },
     {
-      "word": "鯰髭",
-      "reading": "なまずひげ",
-      "meaning": "râu mép thon dài"
+      "word": "竜髭菜",
+      "reading": "アスパラガス",
+      "meaning": "măng tây"
     }
   ]
 }

@@ -96,29 +96,19 @@
   ],
   "vocabulary": [
     {
-      "word": "転",
-      "reading": "てん",
-      "meaning": "quay lại"
-    },
-    {
       "word": "回転",
       "reading": "かいてん",
       "meaning": "sự xoay chuyển"
     },
     {
-      "word": "転転",
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "di"
+    },
+    {
+      "word": "転々",
       "reading": "てんてん",
-      "meaning": "lăn quanh"
-    },
-    {
-      "word": "二転三転",
-      "reading": "にてんさんてん",
-      "meaning": "lẩn tránh vấn đề"
-    },
-    {
-      "word": "転倒･転落",
-      "reading": "てんとう･てんらく",
-      "meaning": "ngã"
+      "meaning": "cuộn quanh"
     },
     {
       "word": "逆転",
@@ -126,24 +116,34 @@
       "meaning": "sự xoay ngược"
     },
     {
-      "word": "正転",
-      "reading": "せいてん",
-      "meaning": "quay thuận"
+      "word": "転居",
+      "reading": "てんきょ",
+      "meaning": "chuyển chỗ ở"
     },
     {
-      "word": "後転",
-      "reading": "こうてん",
-      "meaning": "lộn ngược về sau"
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "sự quay"
     },
     {
-      "word": "転機",
-      "reading": "てんき",
-      "meaning": "điểm hoán chuyển"
+      "word": "転任",
+      "reading": "てんにん",
+      "meaning": "sự chuyển vị trí công tác"
     },
     {
-      "word": "転造",
-      "reading": "てんぞう",
-      "meaning": "sự lăn"
+      "word": "転売",
+      "reading": "てんばい",
+      "meaning": "bán lại"
+    },
+    {
+      "word": "転生",
+      "reading": "てんせい",
+      "meaning": "luân hồi"
+    },
+    {
+      "word": "転",
+      "reading": "てん",
+      "meaning": "quay lại"
     }
   ]
 }

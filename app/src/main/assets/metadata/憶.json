@@ -107,39 +107,9 @@
       "meaning": "kí ức"
     },
     {
-      "word": "追憶",
-      "reading": "ついおく",
-      "meaning": "sự nhớ lại"
-    },
-    {
-      "word": "憶説",
-      "reading": "おくせつ",
-      "meaning": "giả thuyết"
-    },
-    {
-      "word": "憶念",
-      "reading": "おくねん",
-      "meaning": "sự hoài niệm"
-    },
-    {
-      "word": "憶病",
-      "reading": "おくびょう",
-      "meaning": "tính rụt rè nhút nhát"
-    },
-    {
-      "word": "憶断",
-      "reading": "おくだん",
-      "meaning": "sự quyết định vội vàng chỉ là phỏng đoán mà không có căn cứ"
-    },
-    {
-      "word": "憶測",
-      "reading": "おくそく",
-      "meaning": "sự suy đoán"
-    },
-    {
-      "word": "憶える",
-      "reading": "おぼえる",
-      "meaning": "nhớ"
+      "word": "大記憶",
+      "reading": "だいきおく",
+      "meaning": "lưu trữ hàng loạt"
     },
     {
       "word": "記憶力",
@@ -150,6 +120,36 @@
       "word": "記憶部",
       "reading": "きおくぶ",
       "meaning": "bộ nhớ"
+    },
+    {
+      "word": "記憶法",
+      "reading": "きおくほう",
+      "meaning": "trí nhớ"
+    },
+    {
+      "word": "主記憶",
+      "reading": "しゅきおく",
+      "meaning": "kí ức chính"
+    },
+    {
+      "word": "実記憶",
+      "reading": "じつきおく",
+      "meaning": "bộ lưu trữ thực"
+    },
+    {
+      "word": "記憶術",
+      "reading": "きおくじゅつ",
+      "meaning": "kĩ thuật ghi nhớ"
+    },
+    {
+      "word": "記憶列",
+      "reading": "きおくれつ",
+      "meaning": "trình tự lưu trữ"
+    },
+    {
+      "word": "憶測",
+      "reading": "おくそく",
+      "meaning": "sự suy đoán"
     }
   ]
 }

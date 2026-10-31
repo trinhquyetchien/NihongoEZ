@@ -110,34 +110,9 @@
   ],
   "vocabulary": [
     {
-      "word": "平",
-      "reading": "ひら",
-      "meaning": "bằng"
-    },
-    {
-      "word": "平平",
-      "reading": "へいへい",
-      "meaning": "mức"
-    },
-    {
-      "word": "平平凡凡",
-      "reading": "へいへいぼんぼん",
-      "meaning": "bình thường"
-    },
-    {
-      "word": "平気の平左",
-      "reading": "へいきのへいざ",
-      "meaning": "bình tĩnh"
-    },
-    {
-      "word": "平城",
-      "reading": "ひらじろ",
-      "meaning": "kinh đô bằng phẳng"
-    },
-    {
-      "word": "平筆",
-      "reading": "ひらふで",
-      "meaning": "cọ vẽ dẹt"
+      "word": "公平",
+      "reading": "こうへい",
+      "meaning": "công bình"
     },
     {
       "word": "水平",
@@ -145,9 +120,29 @@
       "meaning": "cùng một mức"
     },
     {
-      "word": "公平",
-      "reading": "こうへい",
-      "meaning": "công bình"
+      "word": "平筆",
+      "reading": "ひらふで",
+      "meaning": "cọ vẽ dẹt"
+    },
+    {
+      "word": "平",
+      "reading": "ひら",
+      "meaning": "bằng"
+    },
+    {
+      "word": "平角",
+      "reading": "へいかく",
+      "meaning": "hai bên tạo thành một góc nằm trên cả hai mặt của đỉnh và tạo thành một đường thẳng"
+    },
+    {
+      "word": "平平",
+      "reading": "へいへい",
+      "meaning": "mức"
+    },
+    {
+      "word": "平庭",
+      "reading": "ひらにわ",
+      "meaning": "ngang mức làm vườn"
     },
     {
       "word": "平調",
@@ -155,9 +150,14 @@
       "meaning": "lưu ý thứ 3 của quy mô màu cổ"
     },
     {
-      "word": "甚平",
-      "reading": "じんべい",
-      "meaning": "trang phục mặc mùa hè cho đàn ông"
+      "word": "平政",
+      "reading": "ひらまさ",
+      "meaning": "nhuốm vàng đuôi amberjack"
+    },
+    {
+      "word": "平袖",
+      "reading": "ひらそで",
+      "meaning": "tay áo rộng"
     }
   ]
 }

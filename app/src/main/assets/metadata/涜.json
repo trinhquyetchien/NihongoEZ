@@ -52,13 +52,8 @@
   ],
   "vocabulary": [
     {
-      "word": "涜職",
-      "reading": "とくしょく",
-      "meaning": "sự mục nát"
-    },
-    {
-      "word": "涜神",
-      "reading": "とくしん",
+      "word": "冒涜",
+      "reading": "ぼうとく",
       "meaning": "lời báng bổ"
     },
     {
@@ -67,14 +62,19 @@
       "meaning": "sự thủ dâm"
     },
     {
-      "word": "冒涜",
-      "reading": "ぼうとく",
-      "meaning": "lời báng bổ"
-    },
-    {
       "word": "汚涜",
       "reading": "おとく",
       "meaning": "báng bổ"
+    },
+    {
+      "word": "涜職",
+      "reading": "とくしょく",
+      "meaning": "sự mục nát"
+    },
+    {
+      "word": "涜神",
+      "reading": "とくしん",
+      "meaning": "lời báng bổ"
     },
     {
       "word": "褻涜",

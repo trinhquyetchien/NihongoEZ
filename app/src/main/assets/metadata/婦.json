@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "婦",
-      "reading": "ふ",
-      "meaning": "người phụ nữ đã lập gia đình"
+      "word": "夫婦",
+      "reading": "ふうふ",
+      "meaning": "phu phụ"
     },
     {
       "word": "主婦",
@@ -116,29 +116,19 @@
       "meaning": "nội trợ"
     },
     {
-      "word": "婦徳",
-      "reading": "ふとく",
-      "meaning": "đức hạnh của phụ nữ"
+      "word": "婦人",
+      "reading": "ふじん",
+      "meaning": "người phụ nữ"
     },
     {
-      "word": "命婦",
-      "reading": "みょうぶ",
-      "meaning": "mệnh phụ"
+      "word": "婦",
+      "reading": "ふ",
+      "meaning": "người phụ nữ đã lập gia đình"
     },
     {
-      "word": "旧婦",
-      "reading": "きゅうふ",
-      "meaning": "cựu vợ"
-    },
-    {
-      "word": "裸婦",
-      "reading": "らふ",
-      "meaning": "phụ nữ khỏa thân"
-    },
-    {
-      "word": "春婦",
-      "reading": "しゅんぷ",
-      "meaning": "người phụ nữ bán dâm"
+      "word": "夫婦愛",
+      "reading": "ふうふあい",
+      "meaning": "tình cảm vợ chồng"
     },
     {
       "word": "前婦",
@@ -146,14 +136,24 @@
       "meaning": "vợ trước đây"
     },
     {
-      "word": "情婦",
-      "reading": "じょうふ",
-      "meaning": "bà chủ"
+      "word": "先婦",
+      "reading": "せんぷ",
+      "meaning": "vợ trước đây"
     },
     {
-      "word": "淫婦",
-      "reading": "いんぷ",
-      "meaning": "đĩ"
+      "word": "妹夫婦",
+      "reading": "いもうとふうふ",
+      "meaning": "vợ chồng em gái"
+    },
+    {
+      "word": "春婦",
+      "reading": "しゅんぷ",
+      "meaning": "người phụ nữ bán dâm"
+    },
+    {
+      "word": "旧婦",
+      "reading": "きゅうふ",
+      "meaning": "cựu vợ"
     }
   ]
 }

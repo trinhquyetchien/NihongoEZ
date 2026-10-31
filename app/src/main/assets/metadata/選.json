@@ -91,44 +91,24 @@
   ],
   "vocabulary": [
     {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "cuộc tuyển cử"
+    },
+    {
+      "word": "当選",
+      "reading": "とうせん",
+      "meaning": "việc trúng cử"
+    },
+    {
+      "word": "抽選",
+      "reading": "ちゅうせん",
+      "meaning": "sự rút thăm"
+    },
+    {
       "word": "選",
       "reading": "せん",
       "meaning": "sự chọn lọc"
-    },
-    {
-      "word": "選管",
-      "reading": "せんかん",
-      "meaning": "ủy ban bầu cử"
-    },
-    {
-      "word": "選りに選って",
-      "reading": "よりによって",
-      "meaning": "ít lựa chọn"
-    },
-    {
-      "word": "選び",
-      "reading": "えらび",
-      "meaning": "lựa chọn"
-    },
-    {
-      "word": "選時",
-      "reading": "せんじ",
-      "meaning": "thời gian bầu cử"
-    },
-    {
-      "word": "選言",
-      "reading": "せんげん",
-      "meaning": "sự phân tách"
-    },
-    {
-      "word": "三選",
-      "reading": "さんせん",
-      "meaning": "sự được bầu chọn ba lần"
-    },
-    {
-      "word": "補選",
-      "reading": "ほせん",
-      "meaning": "sự bầu cử bổ sung"
     },
     {
       "word": "選日",
@@ -136,9 +116,29 @@
       "meaning": "chọn một ngày tốt lành bằng cách xem thông tin chiêm tinh trên lịch"
     },
     {
-      "word": "勅選",
-      "reading": "ちょくせん",
-      "meaning": "sự chỉ định đế quốc"
+      "word": "選時",
+      "reading": "せんじ",
+      "meaning": "thời gian bầu cử"
+    },
+    {
+      "word": "三選",
+      "reading": "さんせん",
+      "meaning": "sự được bầu chọn ba lần"
+    },
+    {
+      "word": "百選",
+      "reading": "ひゃくせん",
+      "meaning": "một trăm thứ tốt nhất được chọn"
+    },
+    {
+      "word": "選局",
+      "reading": "せんきょく",
+      "meaning": "sự điều chỉnh sóng"
+    },
+    {
+      "word": "選球",
+      "reading": "せんきゅう",
+      "meaning": "đợi cú đánh chuẩn"
     }
   ]
 }

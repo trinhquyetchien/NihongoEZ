@@ -83,24 +83,9 @@
   ],
   "vocabulary": [
     {
-      "word": "後嗣",
-      "reading": "こうし",
-      "meaning": "con cháu"
-    },
-    {
-      "word": "令嗣",
-      "reading": "れいし",
-      "meaning": "người thừa kế"
-    },
-    {
       "word": "皇嗣",
       "reading": "こうし",
       "meaning": "hoàng thái tử"
-    },
-    {
-      "word": "嫡嗣",
-      "reading": "ちゃくし",
-      "meaning": "đích tự"
     },
     {
       "word": "嗣子",
@@ -118,17 +103,32 @@
       "meaning": "sự kế thừa sự nghiệp"
     },
     {
+      "word": "後嗣",
+      "reading": "こうし",
+      "meaning": "con cháu"
+    },
+    {
       "word": "養嗣子",
       "reading": "ようしし",
       "meaning": "người thừa kế là con nuôi"
     },
     {
-      "word": "天津日嗣",
-      "reading": "あまつひつぎ",
-      "meaning": "ngai vàng đế quốc"
+      "word": "令嗣",
+      "reading": "れいし",
+      "meaning": "người thừa kế"
     },
     {
-      "word": "天つ日嗣",
+      "word": "嫡嗣",
+      "reading": "ちゃくし",
+      "meaning": "đích tự"
+    },
+    {
+      "word": "皇帝の嗣",
+      "reading": "こうていのし",
+      "meaning": "hoàng đế có người thừa kế"
+    },
+    {
+      "word": "天津日嗣",
       "reading": "あまつひつぎ",
       "meaning": "ngai vàng đế quốc"
     }

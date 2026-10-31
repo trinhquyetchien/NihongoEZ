@@ -92,19 +92,9 @@
   ],
   "vocabulary": [
     {
-      "word": "衣",
-      "reading": "ころも",
-      "meaning": "trang phục"
-    },
-    {
-      "word": "上衣",
-      "reading": "うわぎ",
-      "meaning": "áo khoác"
-    },
-    {
-      "word": "恋衣",
-      "reading": "こいごろも",
-      "meaning": "chiếc áo gắn liền với tình yêu"
+      "word": "衣服",
+      "reading": "いふく",
+      "meaning": "đồ mặc"
     },
     {
       "word": "衣料",
@@ -112,34 +102,44 @@
       "meaning": "quần áo"
     },
     {
-      "word": "衣服",
-      "reading": "いふく",
-      "meaning": "đồ mặc"
+      "word": "衣",
+      "reading": "ころも",
+      "meaning": "trang phục"
     },
     {
-      "word": "布衣",
-      "reading": "ほい",
-      "meaning": "người dân thường"
+      "word": "外衣",
+      "reading": "がいい",
+      "meaning": "y phục ở phía ngoài"
     },
     {
-      "word": "狩衣",
-      "reading": "かりぎぬ",
-      "meaning": "kariginu"
-    },
-    {
-      "word": "衣虱",
-      "reading": "ころもじらみ",
-      "meaning": "chấy rận"
-    },
-    {
-      "word": "寛衣",
-      "reading": "かんい",
-      "meaning": "quần áo rộng rãi"
+      "word": "夏衣",
+      "reading": "なつごろも",
+      "meaning": "quần áo mùa hè"
     },
     {
       "word": "軍衣",
       "reading": "ぐんい",
       "meaning": "quần áo của binh lính trong quân đội"
+    },
+    {
+      "word": "寝衣",
+      "reading": "ねまき",
+      "meaning": "đồ ngủ"
+    },
+    {
+      "word": "恋衣",
+      "reading": "こいごろも",
+      "meaning": "chiếc áo gắn liền với tình yêu"
+    },
+    {
+      "word": "天衣",
+      "reading": "てんい",
+      "meaning": "y phục thiên đường"
+    },
+    {
+      "word": "旧衣",
+      "reading": "きゅうい",
+      "meaning": "mang - quần áo ngoài"
     }
   ]
 }

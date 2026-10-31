@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "臼",
-      "reading": "うす",
-      "meaning": "cối"
+      "word": "脱臼",
+      "reading": "だっきゅう",
+      "meaning": "trẹo"
     },
     {
-      "word": "臼砲",
-      "reading": "きゅうほう",
-      "meaning": "súng tầm ngắn với nòng ngắn và góc bắn lớn"
+      "word": "亜脱臼",
+      "reading": "あだっきゅう",
+      "meaning": "sai khớp xương"
     },
     {
       "word": "臼歯",
@@ -104,39 +104,39 @@
       "meaning": "răng hàm"
     },
     {
+      "word": "大臼歯",
+      "reading": "だいきゅうし",
+      "meaning": "răng hàm"
+    },
+    {
+      "word": "後臼歯",
+      "reading": "こうきゅうし",
+      "meaning": "molar"
+    },
+    {
+      "word": "前臼歯",
+      "reading": "ぜんきゅうし",
+      "meaning": "răng tiền hàm"
+    },
+    {
+      "word": "小臼歯",
+      "reading": "しょうきゅうし",
+      "meaning": "răng tiền hàm"
+    },
+    {
+      "word": "臼",
+      "reading": "うす",
+      "meaning": "cối"
+    },
+    {
       "word": "上臼",
       "reading": "うわうす",
       "meaning": "tảng đá cối xay ở bên trên"
     },
     {
-      "word": "石臼",
-      "reading": "いしうす",
-      "meaning": "cối đá"
-    },
-    {
-      "word": "平臼",
-      "reading": "ひらうす",
-      "meaning": "nằm ngang ném đá vào cối xay bàn tay"
-    },
-    {
-      "word": "厚臼",
-      "reading": "あつうす",
-      "meaning": "cối giã tay bằng đá dày"
-    },
-    {
-      "word": "唐臼",
-      "reading": "からうす",
-      "meaning": "cái cối giã thóc gạo"
-    },
-    {
-      "word": "茶臼",
-      "reading": "ちゃうす",
-      "meaning": "cái cối xay trà"
-    },
-    {
-      "word": "脱臼",
-      "reading": "だっきゅう",
-      "meaning": "trẹo"
+      "word": "下臼",
+      "reading": "したうす",
+      "meaning": "cối dưới"
     }
   ]
 }

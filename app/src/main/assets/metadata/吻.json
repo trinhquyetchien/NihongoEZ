@@ -51,6 +51,16 @@
   ],
   "vocabulary": [
     {
+      "word": "接吻",
+      "reading": "せっぷん",
+      "meaning": "sự hôn"
+    },
+    {
+      "word": "吻合",
+      "reading": "ふんごう",
+      "meaning": "sự trùng khớp"
+    },
+    {
       "word": "吻",
       "reading": "ふん",
       "meaning": "vòi đốt"
@@ -66,16 +76,6 @@
       "meaning": "sự báo cho biết"
     },
     {
-      "word": "吻合",
-      "reading": "ふんごう",
-      "meaning": "sự trùng khớp"
-    },
-    {
-      "word": "接吻",
-      "reading": "せっぷん",
-      "meaning": "sự hôn"
-    },
-    {
       "word": "有吻類",
       "reading": "ゆうふんるい",
       "meaning": "loài có mỏ"
@@ -86,19 +86,19 @@
       "meaning": "rostroconchia"
     },
     {
+      "word": "接吻する",
+      "reading": "せっぷんする",
+      "meaning": "hôn"
+    },
+    {
       "word": "端側吻合",
       "reading": "たんそくふんごう",
       "meaning": "nối tận-bên"
     },
     {
-      "word": "ルーワイ吻合術",
-      "reading": "ルーワイふんごうじゅつ",
-      "meaning": "phẫu thuật anastomosis roux-en-y"
-    },
-    {
-      "word": "接吻する",
-      "reading": "せっぷんする",
-      "meaning": "hôn"
+      "word": "胃腸吻合術",
+      "reading": "いちょうふんごうじゅつ",
+      "meaning": "gastroenterostomy"
     }
   ]
 }

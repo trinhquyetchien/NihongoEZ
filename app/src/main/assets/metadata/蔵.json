@@ -92,39 +92,29 @@
   ],
   "vocabulary": [
     {
+      "word": "貯蔵",
+      "reading": "ちょぞう",
+      "meaning": "dự trữ"
+    },
+    {
       "word": "蔵",
       "reading": "くら",
       "meaning": "nhà kho"
     },
     {
-      "word": "蔵置",
-      "reading": "ぞうち",
-      "meaning": "lưu kho"
+      "word": "埋蔵",
+      "reading": "まいぞう",
+      "meaning": "sự chôn giấu"
     },
     {
-      "word": "吸蔵",
-      "reading": "きゅうぞう",
-      "meaning": "hấp thụ"
+      "word": "冷蔵",
+      "reading": "れいぞう",
+      "meaning": "sự làm lạnh"
     },
     {
-      "word": "所蔵",
-      "reading": "しょぞう",
-      "meaning": "quyền sở hữu"
-    },
-    {
-      "word": "お蔵",
-      "reading": "おくら",
-      "meaning": "cái kho"
-    },
-    {
-      "word": "死蔵",
-      "reading": "しぞう",
-      "meaning": "tích trữ"
-    },
-    {
-      "word": "胎蔵",
-      "reading": "たいぞう",
-      "meaning": "garbhadhatu"
+      "word": "金蔵",
+      "reading": "かねぐら",
+      "meaning": "kho chứa của cải"
     },
     {
       "word": "蔵相",
@@ -132,14 +122,24 @@
       "meaning": "bộ trưởng bộ tài chính"
     },
     {
-      "word": "地蔵",
-      "reading": "じぞう",
-      "meaning": "ksitigarbha"
+      "word": "お蔵",
+      "reading": "おくら",
+      "meaning": "cái kho"
     },
     {
-      "word": "貯蔵",
-      "reading": "ちょぞう",
-      "meaning": "dự trữ"
+      "word": "内蔵",
+      "reading": "ないぞう",
+      "meaning": "sự lắp đặt bên trong"
+    },
+    {
+      "word": "道蔵",
+      "reading": "どうぞう",
+      "meaning": "bộ sưu tập các kinh sách đạo giáo"
+    },
+    {
+      "word": "蔵面",
+      "reading": "ぞうめん",
+      "meaning": "mặt nạ"
     }
   ]
 }

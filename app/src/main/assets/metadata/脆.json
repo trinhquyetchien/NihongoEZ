@@ -91,14 +91,14 @@
       "meaning": "mỏng manh"
     },
     {
+      "word": "脆弱性",
+      "reading": "ぜいじゃくせい",
+      "meaning": "tính chất có thể bị tổn thương"
+    },
+    {
       "word": "脆い",
       "reading": "もろい",
       "meaning": "giòn"
-    },
-    {
-      "word": "脆性",
-      "reading": "ぜいせい",
-      "meaning": "tính giòn"
     },
     {
       "word": "脆化",
@@ -111,9 +111,9 @@
       "meaning": "mỏng manh"
     },
     {
-      "word": "脆弱性",
-      "reading": "ぜいじゃくせい",
-      "meaning": "tính chất có thể bị tổn thương"
+      "word": "脆性",
+      "reading": "ぜいせい",
+      "meaning": "tính giòn"
     },
     {
       "word": "涙脆い",
@@ -121,19 +121,19 @@
       "meaning": "mau nước mắt"
     },
     {
-      "word": "ゼロデイ脆弱性",
-      "reading": "ゼロデイぜいじゃくせい",
-      "meaning": "một lỗ hổng phần mềm máy tính chưa được biết đến đối với những người cần quan tâm đến việc giảm thiểu nó"
-    },
-    {
       "word": "水素脆化",
       "reading": "すいそぜいか",
       "meaning": "làm giòn bằng hiđro"
     },
     {
-      "word": "脆弱性スキャナ",
-      "reading": "ぜーじゃくせースキャナ",
-      "meaning": "máy quét lỗ hổng"
+      "word": "共通脆弱性評価システム",
+      "reading": "きょーつーぜーじゃくせーひょーかシステム",
+      "meaning": "hệ thống chấm điểm dễ bị tổn thương chung"
+    },
+    {
+      "word": "脆弱X症候群",
+      "reading": "ぜいじゃくエックスしょうこうぐん",
+      "meaning": "hội chứng gãy nhiễm sắc thể x"
     }
   ]
 }

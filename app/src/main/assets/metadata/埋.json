@@ -111,14 +111,9 @@
   ],
   "vocabulary": [
     {
-      "word": "埋線",
-      "reading": "まいせん",
-      "meaning": "cáp ngầm"
-    },
-    {
-      "word": "埋骨",
-      "reading": "まいこつ",
-      "meaning": "sự chôn cất tro hỏa táng"
+      "word": "埋める",
+      "reading": "うめる",
+      "meaning": "chôn"
     },
     {
       "word": "埋蔵",
@@ -126,9 +121,34 @@
       "meaning": "sự chôn giấu"
     },
     {
-      "word": "埋没",
-      "reading": "まいぼつ",
-      "meaning": "sự được chôn cất"
+      "word": "埋まる",
+      "reading": "うまる",
+      "meaning": "được chôn cất"
+    },
+    {
+      "word": "埋め込む",
+      "reading": "うめこむ",
+      "meaning": "chôn cất"
+    },
+    {
+      "word": "埋め木",
+      "reading": "うめき",
+      "meaning": "chốt gỗ"
+    },
+    {
+      "word": "埋め字",
+      "reading": "うめじ",
+      "meaning": "ký tự điền đầy"
+    },
+    {
+      "word": "埋め草",
+      "reading": "うめくさ",
+      "meaning": "bài lấp đầy chỗ trống"
+    },
+    {
+      "word": "仮埋め",
+      "reading": "かりうめ",
+      "meaning": "việc chôn cất tạm thời"
     },
     {
       "word": "埋葬",
@@ -136,29 +156,9 @@
       "meaning": "mai táng"
     },
     {
-      "word": "埋伏",
-      "reading": "まいふく",
-      "meaning": "mai phục"
-    },
-    {
-      "word": "埋植",
-      "reading": "まいしょく",
-      "meaning": "sự đưa ngoại vật vào cơ thể"
-    },
-    {
-      "word": "埋設",
-      "reading": "まいせつ",
-      "meaning": "sự lắp đặt"
-    },
-    {
-      "word": "埋没毛",
-      "reading": "まいぼつもう",
-      "meaning": "tóc mọc ngược"
-    },
-    {
-      "word": "穴埋め",
-      "reading": "あなうめ",
-      "meaning": "điền vào những chỗ trống"
+      "word": "埋葬地",
+      "reading": "まいそうち",
+      "meaning": "chỗ việc chôn cất"
     }
   ]
 }

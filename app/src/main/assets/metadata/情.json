@@ -107,29 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "情",
-      "reading": "じょう",
-      "meaning": "cảm xúc"
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "thông tin"
     },
     {
-      "word": "有情無情",
-      "reading": "うじょうむじょう",
-      "meaning": "sinh vật có tri giác và vô tri"
-    },
-    {
-      "word": "誠情",
-      "reading": "せいじょう",
-      "meaning": "tính thành thật"
-    },
-    {
-      "word": "情緒",
-      "reading": "じょうちょ",
-      "meaning": "phong vị"
-    },
-    {
-      "word": "激情",
-      "reading": "げきじょう",
-      "meaning": "nỗi xúc động"
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "lí do"
     },
     {
       "word": "純情",
@@ -137,14 +122,19 @@
       "meaning": "thuần tính"
     },
     {
-      "word": "詩情",
-      "reading": "しじょう",
-      "meaning": "thi hứng"
+      "word": "情",
+      "reading": "じょう",
+      "meaning": "cảm xúc"
     },
     {
-      "word": "情欲",
-      "reading": "じょうよく",
-      "meaning": "những cảm xúc mạnh mẽ"
+      "word": "情緒",
+      "reading": "じょうちょ",
+      "meaning": "phong vị"
+    },
+    {
+      "word": "実情",
+      "reading": "じつじょう",
+      "meaning": "thực tình"
     },
     {
       "word": "情け",
@@ -152,9 +142,19 @@
       "meaning": "lòng trắc ẩn"
     },
     {
-      "word": "情報",
-      "reading": "じょうほう",
-      "meaning": "thông tin"
+      "word": "情機",
+      "reading": "じょうき",
+      "meaning": "những hệ thống thông tin"
+    },
+    {
+      "word": "軍情",
+      "reading": "ぐんじょう",
+      "meaning": "tình hình quân sự"
+    },
+    {
+      "word": "電情",
+      "reading": "でんじょう",
+      "meaning": "thông tin điện tử"
     }
   ]
 }

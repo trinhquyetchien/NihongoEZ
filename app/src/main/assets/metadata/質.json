@@ -94,19 +94,24 @@
   ],
   "vocabulary": [
     {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "câu hỏi"
+    },
+    {
       "word": "質",
       "reading": "しつ",
       "meaning": "chất lượng"
     },
     {
-      "word": "エナメル質タンパク質",
-      "reading": "エナメルしつタンパクしつ",
-      "meaning": "protein men răng"
+      "word": "実質",
+      "reading": "じっしつ",
+      "meaning": "thực chất"
     },
     {
-      "word": "細胞質基質",
-      "reading": "さいぼうしつきしつ",
-      "meaning": "chất lỏng nội bào"
+      "word": "質疑",
+      "reading": "しつぎ",
+      "meaning": "câu hỏi"
     },
     {
       "word": "タンパク質",
@@ -114,34 +119,29 @@
       "meaning": "chất đạm"
     },
     {
-      "word": "資質",
+      "word": "質的",
+      "reading": "しつてき",
+      "meaning": "chất"
+    },
+    {
+      "word": "雪質",
+      "reading": "ゆきしつ",
+      "meaning": "chất lượng của tuyết rơi"
+    },
+    {
+      "word": "職質",
+      "reading": "しょくしつ",
+      "meaning": "sự tra hỏi"
+    },
+    {
+      "word": "歯質",
       "reading": "ししつ",
-      "meaning": "bản tính"
+      "meaning": "chất lượng răng"
     },
     {
-      "word": "質屋",
-      "reading": "しちや",
-      "meaning": "tiệm cầm đồ"
-    },
-    {
-      "word": "質問",
-      "reading": "しつもん",
-      "meaning": "câu hỏi"
-    },
-    {
-      "word": "言質",
-      "reading": "げんち",
-      "meaning": "vật đặt cược hoặc lời hứa"
-    },
-    {
-      "word": "音質",
-      "reading": "おんしつ",
-      "meaning": "chất lượng âm thanh và giọng nói"
-    },
-    {
-      "word": "実質",
-      "reading": "じっしつ",
-      "meaning": "thực chất"
+      "word": "流質",
+      "reading": "りゅうしち",
+      "meaning": "phiếu cầm đồ"
     }
   ]
 }

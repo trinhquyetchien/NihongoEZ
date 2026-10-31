@@ -86,29 +86,9 @@
   ],
   "vocabulary": [
     {
-      "word": "陰欝",
-      "reading": "いんうつ",
-      "meaning": "tối tăm"
-    },
-    {
       "word": "気欝",
       "reading": "きうつ",
       "meaning": "tối tăm"
-    },
-    {
-      "word": "暗欝",
-      "reading": "あんうつ",
-      "meaning": "tối tăm"
-    },
-    {
-      "word": "欝憤",
-      "reading": "うっぷん",
-      "meaning": "phẫn uất"
-    },
-    {
-      "word": "欝蒼",
-      "reading": "うっそう",
-      "meaning": "rậm rạp"
     },
     {
       "word": "欝血",
@@ -116,7 +96,27 @@
       "meaning": "sự xung huyết"
     },
     {
-      "word": "憂欝",
+      "word": "気欝症",
+      "reading": "きうつしょう",
+      "meaning": "chứng nghi bệnh"
+    },
+    {
+      "word": "陰欝",
+      "reading": "いんうつ",
+      "meaning": "tối tăm"
+    },
+    {
+      "word": "欝蒼",
+      "reading": "うっそう",
+      "meaning": "rậm rạp"
+    },
+    {
+      "word": "暗欝",
+      "reading": "あんうつ",
+      "meaning": "tối tăm"
+    },
+    {
+      "word": "幽欝",
       "reading": "ゆううつ",
       "meaning": "sự buồn chán"
     },
@@ -126,14 +126,14 @@
       "meaning": "sự tắc nghẽn"
     },
     {
-      "word": "幽欝",
+      "word": "憂欝",
       "reading": "ゆううつ",
       "meaning": "sự buồn chán"
     },
     {
-      "word": "気欝症",
-      "reading": "きうつしょう",
-      "meaning": "chứng nghi bệnh"
+      "word": "憂欝症",
+      "reading": "ゆううつしょう",
+      "meaning": "bệnh u sầu"
     }
   ]
 }

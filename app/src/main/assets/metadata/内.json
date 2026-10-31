@@ -112,9 +112,9 @@
       "meaning": "bên trong"
     },
     {
-      "word": "内内",
-      "reading": "うちうち",
-      "meaning": "bên trong"
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "trong vòng"
     },
     {
       "word": "内臓",
@@ -122,19 +122,9 @@
       "meaning": "lòng"
     },
     {
-      "word": "都内",
-      "reading": "とない",
-      "meaning": "khu vực thủ đô"
-    },
-    {
-      "word": "化内",
-      "reading": "けない",
-      "meaning": "khu vực trong phạm vi cai quản"
-    },
-    {
-      "word": "店内",
-      "reading": "てんない",
-      "meaning": "bên trong cửa hàng"
+      "word": "内窓",
+      "reading": "うちまど",
+      "meaning": "cửa sổ lùa"
     },
     {
       "word": "内見",
@@ -142,19 +132,29 @@
       "meaning": "việc kiểm tra bên trong"
     },
     {
-      "word": "内証",
-      "reading": "ないしょ",
-      "meaning": "riêng tư"
+      "word": "化内",
+      "reading": "けない",
+      "meaning": "khu vực trong phạm vi cai quản"
     },
     {
-      "word": "内腿",
-      "reading": "うちもも",
-      "meaning": "bắp đùi bên trong"
+      "word": "内着",
+      "reading": "うちぎ",
+      "meaning": "đồ lót"
     },
     {
-      "word": "内窓",
-      "reading": "うちまど",
-      "meaning": "cửa sổ lùa"
+      "word": "内製",
+      "reading": "ないせい",
+      "meaning": "sự sản xuất nội bộ"
+    },
+    {
+      "word": "州内",
+      "reading": "しゅうない",
+      "meaning": "trong tiểu bang"
+    },
+    {
+      "word": "表内",
+      "reading": "ひょうない",
+      "meaning": "bên trong một bảng hoặc danh sách"
     }
   ]
 }

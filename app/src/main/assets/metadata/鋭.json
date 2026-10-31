@@ -106,9 +106,9 @@
   ],
   "vocabulary": [
     {
-      "word": "鋭",
-      "reading": "えい",
-      "meaning": "độ sắc nét"
+      "word": "鋭い",
+      "reading": "するどい",
+      "meaning": "sắc bén"
     },
     {
       "word": "精鋭",
@@ -116,29 +116,9 @@
       "meaning": "sự tinh nhuệ"
     },
     {
-      "word": "鋭感",
-      "reading": "えいかん",
-      "meaning": "tính có cảm giác"
-    },
-    {
-      "word": "鋭鋒",
-      "reading": "えいほう",
-      "meaning": "mũi nhọn của ngôn từ sắc bén"
-    },
-    {
-      "word": "鋭角",
-      "reading": "えいかく",
-      "meaning": "góc nhọn"
-    },
-    {
-      "word": "鋭意",
-      "reading": "えいい",
-      "meaning": "hăm hở"
-    },
-    {
-      "word": "鋭気",
-      "reading": "えいき",
-      "meaning": "nhuệ khí"
+      "word": "精鋭軍",
+      "reading": "せいえいぐん",
+      "meaning": "bộ đội tinh nhuệ"
     },
     {
       "word": "新鋭",
@@ -146,14 +126,34 @@
       "meaning": "sự tinh luyện mới"
     },
     {
-      "word": "鋭兵",
-      "reading": "えいへい",
-      "meaning": "quân lính hoặc đội quân tinh nhuệ"
+      "word": "最新鋭",
+      "reading": "さいしんえい",
+      "meaning": "mới nhất"
     },
     {
-      "word": "尖鋭",
+      "word": "鋭利",
+      "reading": "えいり",
+      "meaning": "sắc bén"
+    },
+    {
+      "word": "先鋭",
       "reading": "せんえい",
-      "meaning": "cấp tiến"
+      "meaning": "căn bản"
+    },
+    {
+      "word": "先鋭化",
+      "reading": "せんえいか",
+      "meaning": "căn bản hóa"
+    },
+    {
+      "word": "鋭",
+      "reading": "えい",
+      "meaning": "độ sắc nét"
+    },
+    {
+      "word": "鋭感",
+      "reading": "えいかん",
+      "meaning": "tính có cảm giác"
     }
   ]
 }

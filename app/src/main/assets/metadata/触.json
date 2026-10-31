@@ -108,54 +108,54 @@
   ],
   "vocabulary": [
     {
-      "word": "触",
-      "reading": "ふれ",
-      "meaning": "sự tiếp xúc"
-    },
-    {
       "word": "触る",
       "reading": "さわる",
       "meaning": "chạm vào"
     },
     {
-      "word": "触り",
-      "reading": "さわり",
-      "meaning": "chạm nhau"
+      "word": "触れる",
+      "reading": "ふれる",
+      "meaning": "chạm"
     },
     {
-      "word": "触鬚",
-      "reading": "しょくしゅ",
-      "meaning": "cá râu"
+      "word": "接触",
+      "reading": "せっしょく",
+      "meaning": "sự tiếp xúc"
     },
     {
-      "word": "触肢",
-      "reading": "しょくし",
-      "meaning": "pedipalp"
+      "word": "感触",
+      "reading": "かんしょく",
+      "meaning": "cảm xúc"
     },
     {
-      "word": "牴触",
-      "reading": "ていしょく",
-      "meaning": "sự mâu thuẫn"
+      "word": "触れ",
+      "reading": "ふれ",
+      "meaning": "sự thông báo chính thức"
     },
     {
-      "word": "觝触",
-      "reading": "ていしょく",
-      "meaning": "sự xung đột"
+      "word": "気触れ",
+      "reading": "かぶれ",
+      "meaning": "phát ban"
     },
     {
-      "word": "触手",
-      "reading": "しょくしゅ",
-      "meaning": "tua"
+      "word": "町触れ",
+      "reading": "まちふれ",
+      "meaning": "lệnh thị trấn"
     },
     {
-      "word": "触感",
-      "reading": "しょっかん",
-      "meaning": "cảm giác khi chạm vào vật gì"
+      "word": "接触式",
+      "reading": "せっしょくしき",
+      "meaning": "phương pháp đo bằng tiếp xúc"
     },
     {
-      "word": "触覚",
-      "reading": "しょっかく",
-      "meaning": "xúc giác"
+      "word": "接触線",
+      "reading": "せっしょくせん",
+      "meaning": "dòng tiếp xúc"
+    },
+    {
+      "word": "非接触",
+      "reading": "ひせっしょく",
+      "meaning": "ra khỏi tiếp xúc"
     }
   ]
 }

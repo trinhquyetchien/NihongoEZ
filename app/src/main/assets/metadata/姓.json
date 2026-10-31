@@ -93,6 +93,11 @@
       "meaning": "họ"
     },
     {
+      "word": "姓名",
+      "reading": "せいめい",
+      "meaning": "họ và tên"
+    },
+    {
       "word": "元姓",
       "reading": "げんせい",
       "meaning": "họ cũ"
@@ -103,39 +108,34 @@
       "meaning": "người sự sinh tầm thường"
     },
     {
+      "word": "外姓",
+      "reading": "がいせい",
+      "meaning": "họ mẹ"
+    },
+    {
       "word": "八姓",
       "reading": "はっせい",
       "meaning": "tám loại họ được quy định vào năm thứ 13 của thiên hoàng tenmu"
     },
     {
-      "word": "他姓",
-      "reading": "たせい",
-      "meaning": "họ khác"
+      "word": "中小姓",
+      "reading": "ちゅうごしょう",
+      "meaning": "samurai hộ vệ"
     },
     {
-      "word": "俗姓",
-      "reading": "ぞくしょう",
-      "meaning": "họ trường kỳ"
+      "word": "百姓",
+      "reading": "ひゃくしょう",
+      "meaning": "nông dân"
     },
     {
-      "word": "姓名",
-      "reading": "せいめい",
-      "meaning": "họ và tên"
+      "word": "百姓家",
+      "reading": "ひゃくしょうや",
+      "meaning": "nhà của nông dân"
     },
     {
       "word": "同姓",
       "reading": "どうせい",
       "meaning": "sự cùng họ"
-    },
-    {
-      "word": "姓氏",
-      "reading": "せいし",
-      "meaning": "họ"
-    },
-    {
-      "word": "素姓",
-      "reading": "すじょう",
-      "meaning": "dòng dõi"
     }
   ]
 }

@@ -64,14 +64,14 @@
   ],
   "vocabulary": [
     {
-      "word": "鋲",
-      "reading": "びょう",
-      "meaning": "đinh tán"
-    },
-    {
       "word": "画鋲",
       "reading": "がびょう",
       "meaning": "đinh rệp"
+    },
+    {
+      "word": "鋲",
+      "reading": "びょう",
+      "meaning": "đinh tán"
     },
     {
       "word": "乳鋲",
@@ -84,19 +84,9 @@
       "meaning": "đinh đầu to"
     },
     {
-      "word": "カシメ/鋲/スタッズ",
-      "reading": "カシメ/びょう/スタッズ",
-      "meaning": "đinh tán/đinh/đinh ốc"
-    },
-    {
       "word": "画鋲/ピン",
       "reading": "",
       "meaning": "đinh ghim"
-    },
-    {
-      "word": "鋲打ち銃",
-      "reading": "びょううちじゅう",
-      "meaning": "chú mục súng"
     },
     {
       "word": "鋲打ち機",
@@ -104,9 +94,19 @@
       "meaning": "đinh tán"
     },
     {
+      "word": "鋲打ち銃",
+      "reading": "びょううちじゅう",
+      "meaning": "chú mục súng"
+    },
+    {
       "word": "鋲締め機",
       "reading": "びょうじめき",
       "meaning": "máy tán đinh"
+    },
+    {
+      "word": "カシメ/鋲/スタッズ",
+      "reading": "カシメ/びょう/スタッズ",
+      "meaning": "đinh tán/đinh/đinh ốc"
     }
   ]
 }

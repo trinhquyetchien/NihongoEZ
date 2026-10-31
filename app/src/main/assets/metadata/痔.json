@@ -72,14 +72,39 @@
       "meaning": "bệnh trĩ"
     },
     {
-      "word": "痔瘻",
+      "word": "切れ痔",
+      "reading": "きれじ",
+      "meaning": "bệnh trĩ chảy máu"
+    },
+    {
+      "word": "痔ろう",
       "reading": "じろう",
       "meaning": "rò hậu môn"
+    },
+    {
+      "word": "裂れ痔",
+      "reading": "きれじ",
+      "meaning": "rò hậu môn"
+    },
+    {
+      "word": "いぼ痔",
+      "reading": "いぼじ",
+      "meaning": "bệnh trĩ"
     },
     {
       "word": "痔核",
       "reading": "じかく",
       "meaning": "bệnh trĩ hạch"
+    },
+    {
+      "word": "外痔核",
+      "reading": "がいじかく",
+      "meaning": "búi trĩ ngoài"
+    },
+    {
+      "word": "痔瘻",
+      "reading": "じろう",
+      "meaning": "rò hậu môn"
     },
     {
       "word": "痔疾",
@@ -90,31 +115,6 @@
       "word": "疣痔",
       "reading": "いぼじ",
       "meaning": "bệnh trĩ"
-    },
-    {
-      "word": "裂痔",
-      "reading": "きれじ",
-      "meaning": "rò hậu môn"
-    },
-    {
-      "word": "痔ろう",
-      "reading": "じろう",
-      "meaning": "rò hậu môn"
-    },
-    {
-      "word": "いぼ痔",
-      "reading": "いぼじ",
-      "meaning": "bệnh trĩ"
-    },
-    {
-      "word": "裂れ痔",
-      "reading": "きれじ",
-      "meaning": "rò hậu môn"
-    },
-    {
-      "word": "切れ痔",
-      "reading": "きれじ",
-      "meaning": "bệnh trĩ chảy máu"
     }
   ]
 }

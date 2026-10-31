@@ -89,9 +89,44 @@
   ],
   "vocabulary": [
     {
-      "word": "鼓",
-      "reading": "つづみ",
-      "meaning": "trống cơm"
+      "word": "太鼓",
+      "reading": "たいこ",
+      "meaning": "cái trống"
+    },
+    {
+      "word": "大太鼓",
+      "reading": "おおだいこ",
+      "meaning": "trống lớn"
+    },
+    {
+      "word": "太鼓台",
+      "reading": "たいこだい",
+      "meaning": "kiệu trống"
+    },
+    {
+      "word": "組太鼓",
+      "reading": "くみだいこ",
+      "meaning": "trống hợp tấu"
+    },
+    {
+      "word": "御太鼓",
+      "reading": "おたいこ",
+      "meaning": "cách thắt otaiko"
+    },
+    {
+      "word": "和太鼓",
+      "reading": "わだいこ",
+      "meaning": "trống nhật"
+    },
+    {
+      "word": "太鼓虫",
+      "reading": "たいこむし",
+      "meaning": "ấu trùng chuồn chuồn"
+    },
+    {
+      "word": "太鼓打",
+      "reading": "たいこうち",
+      "meaning": "bọ cạp nước laccotrephes japonensis"
     },
     {
       "word": "鼓動",
@@ -102,41 +137,6 @@
       "word": "鼓舞",
       "reading": "こぶ",
       "meaning": "sự cổ vũ"
-    },
-    {
-      "word": "三鼓",
-      "reading": "さんこ",
-      "meaning": "ba loại trống gagaku"
-    },
-    {
-      "word": "軍鼓",
-      "reading": "ぐんこ",
-      "meaning": "trống trận"
-    },
-    {
-      "word": "鼓室",
-      "reading": "こしつ",
-      "meaning": "màng nhự"
-    },
-    {
-      "word": "小鼓",
-      "reading": "こつづみ",
-      "meaning": "nhạc cụ gõ của noh"
-    },
-    {
-      "word": "鉦鼓",
-      "reading": "しょうこ",
-      "meaning": "chiêng nhỏ"
-    },
-    {
-      "word": "大鼓",
-      "reading": "おおつづみ",
-      "meaning": "rộng lớn trao cái trống"
-    },
-    {
-      "word": "一鼓",
-      "reading": "いっこ",
-      "meaning": "nhịp trống đầu tiên"
     }
   ]
 }

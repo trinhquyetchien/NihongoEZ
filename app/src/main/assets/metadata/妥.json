@@ -85,11 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "妥結",
-      "reading": "だけつ",
-      "meaning": "sự thỏa thuận"
-    },
-    {
       "word": "妥当",
       "reading": "だとう",
       "meaning": "hợp lý"
@@ -98,6 +93,16 @@
       "word": "妥協",
       "reading": "だきょう",
       "meaning": "sự thỏa hiệp"
+    },
+    {
+      "word": "妥結",
+      "reading": "だけつ",
+      "meaning": "sự thỏa thuận"
+    },
+    {
+      "word": "妥当性",
+      "reading": "だとうせい",
+      "meaning": "tính thích hợp"
     },
     {
       "word": "妥協点",
@@ -110,9 +115,14 @@
       "meaning": "bản thỏa hiệp"
     },
     {
-      "word": "妥当性",
-      "reading": "だとうせい",
-      "meaning": "tính thích hợp"
+      "word": "妥協する",
+      "reading": "だきょうする",
+      "meaning": "thỏa hợp"
+    },
+    {
+      "word": "妥協関税率",
+      "reading": "だきょうかんぜいりつ",
+      "meaning": "suất thuế thỏa hiệp"
     },
     {
       "word": "普遍妥当",
@@ -120,19 +130,9 @@
       "meaning": "tính phổ quát hợp lý"
     },
     {
-      "word": "妥協する",
-      "reading": "だきょうする",
-      "meaning": "thỏa hợp"
-    },
-    {
       "word": "普遍妥当性",
       "reading": "ふへんだとうせい",
       "meaning": "khả năng phù hợp với vào trong bất kỳ tình trạng nào"
-    },
-    {
-      "word": "妥協関税率",
-      "reading": "だきょうかんぜいりつ",
-      "meaning": "suất thuế thỏa hiệp"
     }
   ]
 }

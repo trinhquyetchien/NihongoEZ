@@ -86,19 +86,29 @@
   ],
   "vocabulary": [
     {
-      "word": "篤と",
-      "reading": "とくと",
-      "meaning": "triệt để"
+      "word": "重篤",
+      "reading": "じゅうとく",
+      "meaning": "tình trạng nặng"
     },
     {
-      "word": "篤学",
-      "reading": "とくがく",
-      "meaning": "siêng đọc sách"
-    },
-    {
-      "word": "篤行",
+      "word": "篤厚",
       "reading": "とっこう",
-      "meaning": "lòng tốt"
+      "meaning": "chân thành và tốt bụng"
+    },
+    {
+      "word": "危篤",
+      "reading": "きとく",
+      "meaning": "bệnh nguy hiểm"
+    },
+    {
+      "word": "篤志",
+      "reading": "とくし",
+      "meaning": "hội từ thiện"
+    },
+    {
+      "word": "篤志家",
+      "reading": "とくしか",
+      "meaning": "người tình nguyện"
     },
     {
       "word": "篤い",
@@ -106,9 +116,9 @@
       "meaning": "dày"
     },
     {
-      "word": "懇篤",
-      "reading": "こんとく",
-      "meaning": "thuốc bổ"
+      "word": "篤と",
+      "reading": "とくと",
+      "meaning": "triệt để"
     },
     {
       "word": "篤実",
@@ -121,19 +131,9 @@
       "meaning": "sự tận tâm"
     },
     {
-      "word": "篤農",
-      "reading": "とくのう",
-      "meaning": "nông dân gương mẫu"
-    },
-    {
-      "word": "危篤",
-      "reading": "きとく",
-      "meaning": "bệnh nguy hiểm"
-    },
-    {
-      "word": "篤厚",
-      "reading": "とっこう",
-      "meaning": "chân thành và tốt bụng"
+      "word": "篤学",
+      "reading": "とくがく",
+      "meaning": "siêng đọc sách"
     }
   ]
 }

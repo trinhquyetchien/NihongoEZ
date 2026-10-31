@@ -84,14 +84,9 @@
   ],
   "vocabulary": [
     {
-      "word": "僅",
-      "reading": "",
-      "meaning": "một nhỏ bé"
-    },
-    {
-      "word": "僅僅",
-      "reading": "きんきん",
-      "meaning": "chỉ"
+      "word": "僅少",
+      "reading": "きんしょう",
+      "meaning": "ít"
     },
     {
       "word": "僅か",
@@ -99,9 +94,9 @@
       "meaning": "chỉ một chút"
     },
     {
-      "word": "僅少",
-      "reading": "きんしょう",
-      "meaning": "ít"
+      "word": "僅かに",
+      "reading": "わずかに",
+      "meaning": "một ít"
     },
     {
       "word": "僅差",
@@ -109,19 +104,24 @@
       "meaning": "suýt"
     },
     {
-      "word": "僅々",
-      "reading": "きんきん",
-      "meaning": "đơn thuần"
-    },
-    {
       "word": "僅少差",
       "reading": "きんしょうさ",
       "meaning": "thu hẹp phần lớn"
     },
     {
-      "word": "僅かに",
-      "reading": "わずかに",
-      "meaning": "một ít"
+      "word": "僅",
+      "reading": "",
+      "meaning": "một nhỏ bé"
+    },
+    {
+      "word": "僅々",
+      "reading": "きんきん",
+      "meaning": "đơn thuần"
+    },
+    {
+      "word": "僅僅",
+      "reading": "きんきん",
+      "meaning": "chỉ"
     },
     {
       "word": "人生僅か五十年",

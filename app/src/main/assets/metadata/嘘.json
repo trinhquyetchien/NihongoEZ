@@ -93,29 +93,19 @@
       "meaning": "bịa chuyện"
     },
     {
+      "word": "嘘つき",
+      "reading": "うそつき",
+      "meaning": "kẻ nói dối"
+    },
+    {
       "word": "大嘘",
       "reading": "おおうそ",
       "meaning": "nói dối trắng trợn"
     },
     {
-      "word": "嘘字",
-      "reading": "うそじ",
-      "meaning": "chữ viết sai nét"
-    },
-    {
-      "word": "嘘寝",
-      "reading": "うそね",
-      "meaning": "giả vờ ngủ"
-    },
-    {
-      "word": "嘘言",
-      "reading": "おそごと",
-      "meaning": "lời nói dối"
-    },
-    {
-      "word": "嘘泣き",
-      "reading": "うそなき",
-      "meaning": "mít ướt"
+      "word": "嘘つけ",
+      "reading": "うそつけ",
+      "meaning": "chém gió"
     },
     {
       "word": "嘘っこ",
@@ -123,19 +113,29 @@
       "meaning": "đùa giỡn"
     },
     {
-      "word": "嘘吐き",
-      "reading": "うそつき",
-      "meaning": "người nói dối"
+      "word": "嘘寝",
+      "reading": "うそね",
+      "meaning": "giả vờ ngủ"
     },
     {
-      "word": "嘘八百",
-      "reading": "うそはっぴゃく",
-      "meaning": "toàn là dối trá"
+      "word": "嘘発見",
+      "reading": "うそはっけん",
+      "meaning": "sự phát hiện nói dối"
     },
     {
       "word": "嘘っ八",
       "reading": "うそっぱち",
       "meaning": "hoàn toàn nói dối"
+    },
+    {
+      "word": "嘘泣き",
+      "reading": "うそなき",
+      "meaning": "mít ướt"
+    },
+    {
+      "word": "嘘言",
+      "reading": "おそごと",
+      "meaning": "lời nói dối"
     }
   ]
 }

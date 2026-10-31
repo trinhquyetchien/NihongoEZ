@@ -88,39 +88,24 @@
   ],
   "vocabulary": [
     {
-      "word": "此",
-      "reading": "こん",
-      "meaning": "cái này"
-    },
-    {
-      "word": "此れ此れ",
-      "reading": "これこれ",
-      "meaning": "đây và cái đó"
-    },
-    {
-      "word": "此方",
-      "reading": "こちら",
-      "meaning": "hướng này"
-    },
-    {
-      "word": "此岸",
-      "reading": "しがん",
-      "meaning": "thế gian này"
-    },
-    {
-      "word": "此彼",
-      "reading": "これかれ",
-      "meaning": "cái này cái kia"
-    },
-    {
       "word": "此処",
       "reading": "ここ",
       "meaning": "đây"
     },
     {
-      "word": "此間",
-      "reading": "こないだ",
-      "meaning": "một ngày khác"
+      "word": "此処ぞ",
+      "reading": "ここぞ",
+      "meaning": "vào thời điểm quan trọng"
+    },
+    {
+      "word": "此処等",
+      "reading": "ここら",
+      "meaning": "quanh đây"
+    },
+    {
+      "word": "此",
+      "reading": "こん",
+      "meaning": "cái này"
     },
     {
       "word": "此れ",
@@ -128,14 +113,29 @@
       "meaning": "cái này"
     },
     {
-      "word": "此奴",
-      "reading": "こいつ",
-      "meaning": "gã này"
-    },
-    {
       "word": "此の",
       "reading": "この",
       "meaning": "này"
+    },
+    {
+      "word": "此の中",
+      "reading": "このうち",
+      "meaning": "gần đây"
+    },
+    {
+      "word": "此れは",
+      "reading": "これは",
+      "meaning": "đây là"
+    },
+    {
+      "word": "此の所",
+      "reading": "このところ",
+      "meaning": "cách đây không lâu"
+    },
+    {
+      "word": "此の上",
+      "reading": "このうえ",
+      "meaning": "hơn nữa"
     }
   ]
 }

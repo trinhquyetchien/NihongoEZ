@@ -89,14 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "血液疾患とリンパ疾患",
-      "reading": "けつえきしっかんとリンパしっかん",
-      "meaning": "bệnh lý về máu và bạch huyết"
+      "word": "患者",
+      "reading": "かんじゃ",
+      "meaning": "bệnh nhân"
     },
     {
-      "word": "患い",
-      "reading": "うれい",
-      "meaning": "bệnh"
+      "word": "患者様",
+      "reading": "かんじゃさま",
+      "meaning": "bệnh nhân"
     },
     {
       "word": "疾患",
@@ -104,39 +104,39 @@
       "meaning": "bệnh hoạn"
     },
     {
-      "word": "ペイ患",
-      "reading": "ペイかん",
-      "meaning": "người nghiện ma túy"
+      "word": "心疾患",
+      "reading": "しんしっかん",
+      "meaning": "bệnh tim mạch"
     },
     {
-      "word": "患畜",
-      "reading": "かんちく",
-      "meaning": "động vật bị bệnh"
+      "word": "患者衣",
+      "reading": "かんじゃころも",
+      "meaning": "áo bệnh nhân"
     },
     {
-      "word": "患難",
-      "reading": "かんなん",
-      "meaning": "sự lo lắng"
+      "word": "脳疾患",
+      "reading": "のうしっかん",
+      "meaning": "bệnh não"
     },
     {
-      "word": "患う",
-      "reading": "わずらう",
-      "meaning": "bị ốm"
+      "word": "耳疾患",
+      "reading": "じしっかん",
+      "meaning": "các bệnh về tai"
     },
     {
-      "word": "内患",
-      "reading": "ないかん",
-      "meaning": "các vấn đề nội bộ"
+      "word": "筋疾患",
+      "reading": "きんしっかん",
+      "meaning": "bệnh về cơ"
     },
     {
-      "word": "重患",
-      "reading": "じゅうかん",
-      "meaning": "thú tính"
+      "word": "鼻疾患",
+      "reading": "びしっかん",
+      "meaning": "bệnh về mũi"
     },
     {
-      "word": "新患",
-      "reading": "しんかん",
-      "meaning": "bệnh nhân mới"
+      "word": "骨疾患",
+      "reading": "こつしっかん",
+      "meaning": "bệnh về xương"
     }
   ]
 }

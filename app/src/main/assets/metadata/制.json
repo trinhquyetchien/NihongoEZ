@@ -87,39 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "制",
-      "reading": "せい",
-      "meaning": "chế"
-    },
-    {
-      "word": "制服制帽",
-      "reading": "せいふくせいぼう",
-      "meaning": "mũ và đồng phục"
-    },
-    {
-      "word": "統制",
-      "reading": "とうせい",
-      "meaning": "sự điều khiển"
-    },
-    {
-      "word": "制圧",
-      "reading": "せいあつ",
-      "meaning": "sự áp chế"
-    },
-    {
-      "word": "制約",
-      "reading": "せいやく",
-      "meaning": "điều kiện"
-    },
-    {
-      "word": "新制",
-      "reading": "しんせい",
-      "meaning": "hệ thống mới"
-    },
-    {
       "word": "制度",
       "reading": "せいど",
       "meaning": "chế độ"
+    },
+    {
+      "word": "専制",
+      "reading": "せんせい",
+      "meaning": "chế độ chuyên quyền"
+    },
+    {
+      "word": "制",
+      "reading": "せい",
+      "meaning": "chế"
     },
     {
       "word": "強制",
@@ -127,14 +107,34 @@
       "meaning": "sách nhiễu"
     },
     {
-      "word": "自制",
-      "reading": "じせい",
-      "meaning": "tự chế"
+      "word": "統制",
+      "reading": "とうせい",
+      "meaning": "sự điều khiển"
     },
     {
-      "word": "時制",
-      "reading": "じせい",
-      "meaning": "thì của động từ"
+      "word": "制約",
+      "reading": "せいやく",
+      "meaning": "điều kiện"
+    },
+    {
+      "word": "制空",
+      "reading": "せいくう",
+      "meaning": "quyền lực không khí"
+    },
+    {
+      "word": "郡制",
+      "reading": "ぐんせい",
+      "meaning": "hệ thống lãnh địa"
+    },
+    {
+      "word": "課制",
+      "reading": "かせい",
+      "meaning": "hệ thống phân lớp"
+    },
+    {
+      "word": "帝制",
+      "reading": "ていせい",
+      "meaning": "đế chế"
     }
   ]
 }

@@ -89,44 +89,9 @@
   ],
   "vocabulary": [
     {
-      "word": "慶大",
-      "reading": "けいだい",
-      "meaning": "trường đại học keio"
-    },
-    {
-      "word": "慶び",
-      "reading": "よろこび",
-      "meaning": "niềm vui"
-    },
-    {
-      "word": "慶弔",
-      "reading": "けいちょう",
-      "meaning": "hiếu hỷ"
-    },
-    {
-      "word": "慶ぶ",
-      "reading": "よろこぶ",
-      "meaning": "để vui vẻ"
-    },
-    {
-      "word": "余慶",
-      "reading": "よけい",
-      "meaning": "dư thừa"
-    },
-    {
       "word": "国慶",
       "reading": "こっけい",
       "meaning": "ngày quốc khánh trung quốc"
-    },
-    {
-      "word": "嘉慶",
-      "reading": "かけい",
-      "meaning": "kakei"
-    },
-    {
-      "word": "天慶",
-      "reading": "てんぎょう",
-      "meaning": "thời tengyou"
     },
     {
       "word": "元慶",
@@ -134,9 +99,44 @@
       "meaning": "gangyou era"
     },
     {
-      "word": "慶応",
-      "reading": "けいおう",
-      "meaning": "keiô era"
+      "word": "慶春",
+      "reading": "けいしゅん",
+      "meaning": "chúc mừng năm mới"
+    },
+    {
+      "word": "天慶",
+      "reading": "てんぎょう",
+      "meaning": "thời tengyou"
+    },
+    {
+      "word": "正慶",
+      "reading": "しょうきょう",
+      "meaning": "thời shoukei"
+    },
+    {
+      "word": "慶雲",
+      "reading": "けいうん",
+      "meaning": "keiun"
+    },
+    {
+      "word": "国慶節",
+      "reading": "こっけいせつ",
+      "meaning": "ngày lễ quốc khánh"
+    },
+    {
+      "word": "延慶",
+      "reading": "えんぎょう",
+      "meaning": "thời engyou"
+    },
+    {
+      "word": "嘉慶",
+      "reading": "かけい",
+      "meaning": "kakei"
+    },
+    {
+      "word": "賀慶",
+      "reading": "がけい",
+      "meaning": "lời khen ngợi"
     }
   ]
 }

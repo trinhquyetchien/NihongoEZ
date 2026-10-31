@@ -50,6 +50,11 @@
   ],
   "vocabulary": [
     {
+      "word": "托する",
+      "reading": "たくする",
+      "meaning": "giao"
+    },
+    {
       "word": "托子",
       "reading": "たくす",
       "meaning": "đĩa"
@@ -58,11 +63,6 @@
       "word": "托卵",
       "reading": "たくらん",
       "meaning": "ký sinh trùng bố mẹ"
-    },
-    {
-      "word": "托鉢",
-      "reading": "たくはつ",
-      "meaning": "việc các thầy tu cầm bình bát đi cầu thực"
     },
     {
       "word": "托葉",
@@ -75,19 +75,19 @@
       "meaning": "đài hoa"
     },
     {
-      "word": "茶托",
-      "reading": "ちゃたく",
-      "meaning": "đĩa để cốc chén teacup"
-    },
-    {
-      "word": "托する",
-      "reading": "たくする",
-      "meaning": "giao"
+      "word": "托鉢",
+      "reading": "たくはつ",
+      "meaning": "việc các thầy tu cầm bình bát đi cầu thực"
     },
     {
       "word": "托鉢僧",
       "reading": "たくはつそう",
       "meaning": "thầy tu ăn xin"
+    },
+    {
+      "word": "茶托",
+      "reading": "ちゃたく",
+      "meaning": "đĩa để cốc chén teacup"
     },
     {
       "word": "種間托卵",

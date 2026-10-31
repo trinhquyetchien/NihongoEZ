@@ -80,49 +80,49 @@
       "meaning": "cái gì"
     },
     {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "cái gì đó"
+    },
+    {
+      "word": "何々",
+      "reading": "なになに",
+      "meaning": "cái nào"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "mấy phút"
+    },
+    {
+      "word": "何卒",
+      "reading": "なにとぞ",
+      "meaning": "xin vui lòng"
+    },
+    {
+      "word": "何の",
+      "reading": "どの",
+      "meaning": "nào"
+    },
+    {
+      "word": "何人",
+      "reading": "なんにん",
+      "meaning": "mấy người"
+    },
+    {
+      "word": "何日",
+      "reading": "なんにち",
+      "meaning": "hôm nào"
+    },
+    {
+      "word": "何月",
+      "reading": "なんがつ",
+      "meaning": "tháng nào"
+    },
+    {
       "word": "何何",
       "reading": "なになに",
       "meaning": "cái nào cái nào"
-    },
-    {
-      "word": "何れ何れ",
-      "reading": "どれどれ",
-      "meaning": "đâu nào"
-    },
-    {
-      "word": "何時何時",
-      "reading": "いついつ",
-      "meaning": "không cùng nhau"
-    },
-    {
-      "word": "何月何日",
-      "reading": "なんがつなんにち",
-      "meaning": "ngày mấy tháng mấy"
-    },
-    {
-      "word": "何処何処",
-      "reading": "どこどこ",
-      "meaning": "chỗ nào đó"
-    },
-    {
-      "word": "何時何分",
-      "reading": "なんじなんぷん",
-      "meaning": "mấy giờ mấy phút"
-    },
-    {
-      "word": "何が何だか",
-      "reading": "なにがなんだか",
-      "meaning": "cái gì là cái gì"
-    },
-    {
-      "word": "何が何でも",
-      "reading": "なにがなんでも",
-      "meaning": "bằng mọi cách"
-    },
-    {
-      "word": "何から何まで",
-      "reading": "なにからなにまで",
-      "meaning": "bất cứ điều gì và mọi thứ"
     }
   ]
 }

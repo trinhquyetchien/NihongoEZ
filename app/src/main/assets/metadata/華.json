@@ -90,14 +90,34 @@
   ],
   "vocabulary": [
     {
+      "word": "豪華",
+      "reading": "ごうか",
+      "meaning": "hào nhoáng"
+    },
+    {
+      "word": "華奢",
+      "reading": "きゃしゃ",
+      "meaning": "vẻ ngoài và hình dáng mảnh mai và thanh lịch như có vẻ mỏng manh và yếu ớt"
+    },
+    {
+      "word": "華美",
+      "reading": "かび",
+      "meaning": "hoa mỹ"
+    },
+    {
       "word": "華",
       "reading": "はな",
       "meaning": "ra hoa"
     },
     {
-      "word": "華華しい",
-      "reading": "はなばなしい",
-      "meaning": "rực rỡ"
+      "word": "日華",
+      "reading": "にっか",
+      "meaning": "nhật bản và trung quốc"
+    },
+    {
+      "word": "華語",
+      "reading": "かご",
+      "meaning": "tiếng trung"
     },
     {
       "word": "中華",
@@ -105,39 +125,19 @@
       "meaning": "trung quốc"
     },
     {
-      "word": "華府",
-      "reading": "かふ",
-      "meaning": "washington"
-    },
-    {
-      "word": "華壇",
-      "reading": "かだん",
-      "meaning": "luống hoa"
-    },
-    {
-      "word": "清華",
+      "word": "青華",
       "reading": "せいか",
-      "meaning": "thanh hoa"
+      "meaning": "gốm sứ có hoa văn màu xanh trên nền trắng"
     },
     {
-      "word": "豪華",
-      "reading": "ごうか",
-      "meaning": "hào nhoáng"
+      "word": "華表",
+      "reading": "かひょう",
+      "meaning": "cột được đặt ở lối vào nghĩa trang hay lối vào kinh thành"
     },
     {
-      "word": "栄華",
-      "reading": "えいが",
-      "meaning": "vinh quang"
-    },
-    {
-      "word": "昇華",
-      "reading": "しょうか",
-      "meaning": "sự thăng hoa"
-    },
-    {
-      "word": "華氏",
-      "reading": "かし",
-      "meaning": "độ fahrenheit"
+      "word": "華字",
+      "reading": "かじ",
+      "meaning": "ký tự trung hoa"
     }
   ]
 }

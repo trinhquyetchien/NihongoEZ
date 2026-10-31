@@ -90,54 +90,54 @@
   ],
   "vocabulary": [
     {
-      "word": "衆",
-      "reading": "しゅう",
-      "meaning": "công chúng"
-    },
-    {
-      "word": "衆院",
-      "reading": "しゅういん",
-      "meaning": "hạ nghị viện"
-    },
-    {
       "word": "公衆",
       "reading": "こうしゅう",
       "meaning": "công chúng"
     },
     {
-      "word": "衆寡",
-      "reading": "しゅうか",
-      "meaning": "nhiều và ít"
+      "word": "大衆",
+      "reading": "たいしゅう",
+      "meaning": "đại chúng"
     },
     {
-      "word": "衆道",
-      "reading": "しゅうどう",
-      "meaning": "đồng tính luyến ái nam"
+      "word": "衆議院",
+      "reading": "しゅうぎいん",
+      "meaning": "hạ nghị viện"
     },
     {
-      "word": "有衆",
-      "reading": "ゆうしゅう",
-      "meaning": "những vô số"
+      "word": "衆",
+      "reading": "しゅう",
+      "meaning": "công chúng"
     },
     {
-      "word": "衆多",
-      "reading": "しゅうた",
-      "meaning": "vô số"
+      "word": "観衆",
+      "reading": "かんしゅう",
+      "meaning": "người xem"
     },
     {
-      "word": "衆説",
-      "reading": "しゅうせつ",
-      "meaning": "nhiều ý kiến"
+      "word": "大衆部",
+      "reading": "だいしゅぶ",
+      "meaning": "đại chúng bộ"
     },
     {
-      "word": "七衆",
-      "reading": "しちしゅ",
-      "meaning": "bảy chúng đệ tử của phật"
+      "word": "民衆",
+      "reading": "みんしゅう",
+      "meaning": "dân chúng"
     },
     {
-      "word": "四衆",
-      "reading": "ししゅ",
-      "meaning": "bốn hạng phật tử"
+      "word": "民衆駅",
+      "reading": "みんしゅうえき",
+      "meaning": "nhà ga đường sắt xây dựng với chính phủ và đại chúng hỗ trợ"
+    },
+    {
+      "word": "大衆魚",
+      "reading": "たいしゅうぎょ",
+      "meaning": "cá bình dân"
+    },
+    {
+      "word": "衆院",
+      "reading": "しゅういん",
+      "meaning": "hạ nghị viện"
     }
   ]
 }

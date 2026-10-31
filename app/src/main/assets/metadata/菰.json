@@ -32,14 +32,14 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "菰蓆",
-      "reading": "こもむしろ",
-      "meaning": "chiếu lá lúa"
-    },
-    {
       "word": "真菰",
       "reading": "まこも",
       "meaning": "một loại lúa nước"
+    },
+    {
+      "word": "菰蓆",
+      "reading": "こもむしろ",
+      "meaning": "chiếu lá lúa"
     }
   ]
 }

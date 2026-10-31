@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
-      "word": "監",
-      "reading": "げん",
-      "meaning": "đơn vị hành chính đặc biệt thời nara"
+      "word": "監督",
+      "reading": "かんとく",
+      "meaning": "đạo diễn"
     },
     {
-      "word": "監視総監",
-      "reading": "かんしそうかん",
-      "meaning": "tổng tư lệnh lực lượng cảnh sát"
+      "word": "監視",
+      "reading": "かんし",
+      "meaning": "sự giám thị"
     },
     {
-      "word": "太監",
-      "reading": "たいかん",
-      "meaning": "grand eunuch"
+      "word": "監視者",
+      "reading": "かんししゃ",
+      "meaning": "người bảo vệ"
     },
     {
-      "word": "監訳",
-      "reading": "かんやく",
-      "meaning": "giám thị bản dịch"
+      "word": "総監督",
+      "reading": "そうかんとく",
+      "meaning": "giám đốc chung"
     },
     {
-      "word": "監修",
-      "reading": "かんしゅう",
-      "meaning": "sự trông nom"
+      "word": "監視下",
+      "reading": "かんしか",
+      "meaning": "dưới sự giám sát"
     },
     {
-      "word": "総監",
-      "reading": "そうかん",
-      "meaning": "ủy viên hội đồng"
+      "word": "監視員",
+      "reading": "かんしいん",
+      "meaning": "người quan sát"
     },
     {
-      "word": "学監",
-      "reading": "がっかん",
-      "meaning": "chủ nhiệm khoa"
+      "word": "監視船",
+      "reading": "かんしせん",
+      "meaning": "đi tuần tra thuyền"
     },
     {
-      "word": "監房",
-      "reading": "かんぼう",
-      "meaning": "phòng giam"
+      "word": "監視局",
+      "reading": "かんしきょく",
+      "meaning": "bộ điều chỉnh"
     },
     {
-      "word": "入監",
-      "reading": "にゅうかん",
-      "meaning": "bị bỏ tù"
+      "word": "監視塔",
+      "reading": "かんしとう",
+      "meaning": "tháp canh"
     },
     {
-      "word": "出監",
-      "reading": "しゅっかん",
-      "meaning": "sự ra tù"
+      "word": "監査",
+      "reading": "かんさ",
+      "meaning": "sự tra xét"
     }
   ]
 }

@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
-      "word": "激",
-      "reading": "げき",
-      "meaning": "cực kì"
+      "word": "激しい",
+      "reading": "はげしい",
+      "meaning": "gắt"
     },
     {
-      "word": "げきこう 激昂 げっこう",
-      "reading": "激昂",
-      "meaning": "kích thích"
+      "word": "刺激",
+      "reading": "しげき",
+      "meaning": "sự kích thích"
+    },
+    {
+      "word": "急激",
+      "reading": "きゅうげき",
+      "meaning": "kịch liệt"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "cảm kích"
+    },
+    {
+      "word": "激増",
+      "reading": "げきぞう",
+      "meaning": "sự đột ngột tăng thêm"
     },
     {
       "word": "激励",
@@ -104,39 +119,24 @@
       "meaning": "khuyến khích"
     },
     {
-      "word": "激情",
-      "reading": "げきじょう",
-      "meaning": "nỗi xúc động"
+      "word": "激",
+      "reading": "げき",
+      "meaning": "cực kì"
     },
     {
-      "word": "激烈",
-      "reading": "げきれつ",
-      "meaning": "quyết liệt"
+      "word": "激する",
+      "reading": "げきする",
+      "meaning": "mãnh liệt"
     },
     {
-      "word": "激賞",
-      "reading": "げきしょう",
-      "meaning": "sự khen thưởng nhiệt tình"
+      "word": "激す",
+      "reading": "げきす",
+      "meaning": "làm tăng cao lên"
     },
     {
-      "word": "激減",
-      "reading": "げきげん",
-      "meaning": "sự rơi nhanh xuống"
-    },
-    {
-      "word": "激怒",
-      "reading": "げきど",
-      "meaning": "sự tức giận"
-    },
-    {
-      "word": "激突",
-      "reading": "げきとつ",
-      "meaning": "cú va chạm mạnh"
-    },
-    {
-      "word": "激戦",
-      "reading": "げきせん",
-      "meaning": "dữ tợn trận đánh"
+      "word": "激似",
+      "reading": "げきに",
+      "meaning": "gần giống"
     }
   ]
 }

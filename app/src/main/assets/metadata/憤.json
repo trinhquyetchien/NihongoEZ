@@ -89,24 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "憤慨",
+      "reading": "ふんがい",
+      "meaning": "sự phẫn uất"
+    },
+    {
       "word": "憤り",
       "reading": "いきどおり",
       "meaning": "sự phẫn uất"
     },
     {
-      "word": "憂憤",
-      "reading": "ゆうふん",
-      "meaning": "sự đau buồn và sự giận dữ"
+      "word": "憤怒",
+      "reading": "ふんぬ",
+      "meaning": "sự phẫn nộ"
     },
     {
-      "word": "痛憤",
-      "reading": "つうふん",
-      "meaning": "sự căm phẫn mạnh mẽ"
+      "word": "酢憤り",
+      "reading": "すむつかり",
+      "meaning": "món đầu cá hồi ninh với đậu nành"
     },
     {
-      "word": "憤激",
-      "reading": "ふんげき",
-      "meaning": "sự giận dữ điên cuồng"
+      "word": "鬱憤",
+      "reading": "うっぷん",
+      "meaning": "phẫn uất"
     },
     {
       "word": "憤る",
@@ -114,9 +119,9 @@
       "meaning": "phẫn uất"
     },
     {
-      "word": "公憤",
-      "reading": "こうふん",
-      "meaning": "sự công phẫn"
+      "word": "憤死",
+      "reading": "ふんし",
+      "meaning": "chết vì giận dữ"
     },
     {
       "word": "義憤",
@@ -124,19 +129,14 @@
       "meaning": "công phẫn"
     },
     {
-      "word": "私憤",
-      "reading": "しふん",
-      "meaning": "sự thù oán cá nhân"
+      "word": "憤激",
+      "reading": "ふんげき",
+      "meaning": "sự giận dữ điên cuồng"
     },
     {
-      "word": "激憤",
-      "reading": "げきふん",
-      "meaning": "sự phẫn uất"
-    },
-    {
-      "word": "憤然",
-      "reading": "ふんぜん",
-      "meaning": "chọc tức"
+      "word": "憤懣",
+      "reading": "ふんまん",
+      "meaning": "sự tức giận"
     }
   ]
 }

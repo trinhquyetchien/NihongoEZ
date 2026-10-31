@@ -126,9 +126,24 @@
       "meaning": "bản"
     },
     {
-      "word": "債券担保証券",
-      "reading": "さいけんたんぽしょうけん",
-      "meaning": "nghĩa vụ trái phiếu thế chấp"
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "cuốn sổ vé"
+    },
+    {
+      "word": "旅券",
+      "reading": "りょけん",
+      "meaning": "hộ chiếu"
+    },
+    {
+      "word": "万券",
+      "reading": "まんけん",
+      "meaning": "tờ tiền mệnh giá mười nghìn yên"
+    },
+    {
+      "word": "本券",
+      "reading": "ほんけん",
+      "meaning": "phiếu này"
     },
     {
       "word": "地券",
@@ -136,39 +151,24 @@
       "meaning": "giấy chứng nhận đất"
     },
     {
-      "word": "証券",
-      "reading": "しょうけん",
-      "meaning": "hối phiếu"
+      "word": "商品券",
+      "reading": "しょうひんけん",
+      "meaning": "phiếu mua hàng"
     },
     {
-      "word": "債券",
-      "reading": "さいけん",
-      "meaning": "trái phiếu"
+      "word": "予約券",
+      "reading": "よやくけん",
+      "meaning": "vé đặt trước"
     },
     {
-      "word": "株券",
-      "reading": "かぶけん",
-      "meaning": "cổ phiếu"
+      "word": "半券",
+      "reading": "はんけん",
+      "meaning": "cuống"
     },
     {
-      "word": "パーティー券",
-      "reading": "パーティーけん",
-      "meaning": "vé dự tiệc"
-    },
-    {
-      "word": "馬券",
-      "reading": "ばけん",
-      "meaning": "vé cá cược"
-    },
-    {
-      "word": "ギフト券",
-      "reading": "ギフトけん",
-      "meaning": "vé quà tặng"
-    },
-    {
-      "word": "万券",
-      "reading": "まんけん",
-      "meaning": "tờ tiền mệnh giá mười nghìn yên"
+      "word": "旅行券",
+      "reading": "りょこうけん",
+      "meaning": "vé du lịch"
     }
   ]
 }

@@ -95,24 +95,14 @@
       "meaning": "năm con hổ"
     },
     {
-      "word": "丑寅",
-      "reading": "うしとら",
-      "meaning": "hướng đông bắc"
-    },
-    {
-      "word": "戊寅",
-      "reading": "つちのえとら",
-      "meaning": "mậu dần"
-    },
-    {
       "word": "甲寅",
       "reading": "きのえとら",
       "meaning": "giáp dần"
     },
     {
-      "word": "庚寅",
-      "reading": "かのえとら",
-      "meaning": "năm canh dần"
+      "word": "寅の刻",
+      "reading": "とらのこく",
+      "meaning": "xung quanh bốn oclock vào buổi sáng"
     },
     {
       "word": "丙寅",
@@ -125,9 +115,19 @@
       "meaning": "năm nhâm dần"
     },
     {
-      "word": "寅の刻",
-      "reading": "とらのこく",
-      "meaning": "xung quanh bốn oclock vào buổi sáng"
+      "word": "戊寅",
+      "reading": "つちのえとら",
+      "meaning": "mậu dần"
+    },
+    {
+      "word": "庚寅",
+      "reading": "かのえとら",
+      "meaning": "năm canh dần"
+    },
+    {
+      "word": "丑寅",
+      "reading": "うしとら",
+      "meaning": "hướng đông bắc"
     }
   ]
 }

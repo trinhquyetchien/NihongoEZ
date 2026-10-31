@@ -91,44 +91,19 @@
   ],
   "vocabulary": [
     {
+      "word": "無沙汰",
+      "reading": "ぶさた",
+      "meaning": "đã lâu không gặp"
+    },
+    {
+      "word": "ご無沙汰",
+      "reading": "ごぶさた",
+      "meaning": "không thư từ liên lạc trong một thời gian"
+    },
+    {
       "word": "沙",
       "reading": "すな",
       "meaning": "một phần trăm triệu"
-    },
-    {
-      "word": "沙丘",
-      "reading": "さきゅう",
-      "meaning": "đổ cát ngọn đồi"
-    },
-    {
-      "word": "沙汰",
-      "reading": "さた",
-      "meaning": "hành vi"
-    },
-    {
-      "word": "沙門",
-      "reading": "しゃもん",
-      "meaning": "nhà sư lang thang"
-    },
-    {
-      "word": "沙弥",
-      "reading": "しゃみ",
-      "meaning": "người tập sự tín đồ phật giáo"
-    },
-    {
-      "word": "沙羅",
-      "reading": "しゃら",
-      "meaning": "cây sa la"
-    },
-    {
-      "word": "沙虫",
-      "reading": "いさごむし",
-      "meaning": "ấu trùng của trùng cánh lông"
-    },
-    {
-      "word": "沙穀",
-      "reading": "サゴ",
-      "meaning": "sago"
     },
     {
       "word": "秋沙",
@@ -136,9 +111,34 @@
       "meaning": "chim thuộc họ vịt"
     },
     {
-      "word": "沙蚕",
-      "reading": "ごかい",
-      "meaning": "giun cát"
+      "word": "海秋沙",
+      "reading": "うみあいさ",
+      "meaning": "loài vịt hoang có lông ngực màu đỏ sống ở ven biển"
+    },
+    {
+      "word": "沙虫",
+      "reading": "いさごむし",
+      "meaning": "ấu trùng của trùng cánh lông"
+    },
+    {
+      "word": "川秋沙",
+      "reading": "かわあいさ",
+      "meaning": "loài vịt ăn cá nói chung"
+    },
+    {
+      "word": "沙丘",
+      "reading": "さきゅう",
+      "meaning": "đổ cát ngọn đồi"
+    },
+    {
+      "word": "沙煙",
+      "reading": "さえん",
+      "meaning": "bão cát"
+    },
+    {
+      "word": "沙汰",
+      "reading": "さた",
+      "meaning": "hành vi"
     }
   ]
 }

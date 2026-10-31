@@ -90,14 +90,9 @@
       "meaning": "cầu vồng"
     },
     {
-      "word": "白虹",
-      "reading": "はっこう",
-      "meaning": "cầu vồng trắng"
-    },
-    {
-      "word": "虹霓",
-      "reading": "こうげい",
-      "meaning": "kỹ thuật công nghiệp"
+      "word": "月虹",
+      "reading": "げっこう",
+      "meaning": "một cầu vồng được tạo ra bởi ánh sáng của mặt trăng"
     },
     {
       "word": "虹色",
@@ -105,9 +100,9 @@
       "meaning": "màu cầu vồng"
     },
     {
-      "word": "虹彩",
-      "reading": "こうさい",
-      "meaning": "tròng đen"
+      "word": "主虹",
+      "reading": "しゅにじ",
+      "meaning": "cầu vồng sơ cấp"
     },
     {
       "word": "副虹",
@@ -115,9 +110,14 @@
       "meaning": "cầu vồng thứ nhì"
     },
     {
-      "word": "主虹",
-      "reading": "しゅにじ",
-      "meaning": "cầu vồng sơ cấp"
+      "word": "過剰虹",
+      "reading": "かじょうにじ",
+      "meaning": "cầu vồng thừa"
+    },
+    {
+      "word": "反射虹",
+      "reading": "はんしゃこう",
+      "meaning": "cầu vồng phản chiếu"
     },
     {
       "word": "霧虹",
@@ -125,14 +125,14 @@
       "meaning": "cầu vồng trắng"
     },
     {
-      "word": "月虹",
-      "reading": "げっこう",
-      "meaning": "một cầu vồng được tạo ra bởi ánh sáng của mặt trăng"
-    },
-    {
       "word": "虹梁",
       "reading": "こうりょう",
       "meaning": "dầm vòm dùng trong xây dựng đền chùa"
+    },
+    {
+      "word": "虹彩",
+      "reading": "こうさい",
+      "meaning": "tròng đen"
     }
   ]
 }

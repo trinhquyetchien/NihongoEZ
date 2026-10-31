@@ -74,34 +74,9 @@
       "meaning": "kẻ hoa"
     },
     {
-      "word": "縞柄",
-      "reading": "しまがら",
-      "meaning": "kiểu có sọc"
-    },
-    {
-      "word": "縞蠅",
-      "reading": "しまばえ",
-      "meaning": "ruồi sọc"
-    },
-    {
-      "word": "縞ワラビー",
-      "reading": "しまワラビー",
-      "meaning": "chuột túi wallaby"
-    },
-    {
-      "word": "盲縞",
-      "reading": "めくらじま",
-      "meaning": "plain blue cotton"
-    },
-    {
       "word": "水縞",
       "reading": "すいこう",
       "meaning": "mizu shima"
-    },
-    {
-      "word": "縞スカンク",
-      "reading": "しまスカンク",
-      "meaning": "chồn hôi sọc"
     },
     {
       "word": "縞味",
@@ -109,14 +84,39 @@
       "meaning": "mòng két mày trắng"
     },
     {
-      "word": "縞鰺",
-      "reading": "しまあじ",
-      "meaning": "cá háo sọc"
+      "word": "縞状",
+      "reading": "しまじょう",
+      "meaning": "lớp vằn của tầng địa chất 地層． xuất hiện ở các nơi lớp trầm tích lâu đời do quá trình phong hoá và xâm thực tạo nên"
     },
     {
-      "word": "横縞",
-      "reading": "よこじま",
-      "meaning": "ở bên tước bỏ"
+      "word": "縞模様",
+      "reading": "しまもよう",
+      "meaning": "hoạ tiết kẻ sọc"
+    },
+    {
+      "word": "鉄縞板",
+      "reading": "てつしまいた",
+      "meaning": "sắt gân"
+    },
+    {
+      "word": "干渉縞",
+      "reading": "かんしょうじま",
+      "meaning": "vân giao thoa"
+    },
+    {
+      "word": "鋼縞板",
+      "reading": "こうしまいた",
+      "meaning": "thép gân"
+    },
+    {
+      "word": "細縞",
+      "reading": "ほそじま",
+      "meaning": "sọc mỏng"
+    },
+    {
+      "word": "縞蠅",
+      "reading": "しまばえ",
+      "meaning": "ruồi sọc"
     }
   ]
 }

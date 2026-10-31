@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
-      "word": "豪",
-      "reading": "ごう",
-      "meaning": "ào ạt"
-    },
-    {
-      "word": "豪い",
-      "reading": "えらい",
-      "meaning": "kỷ niệm"
-    },
-    {
-      "word": "酒豪",
-      "reading": "しゅごう",
-      "meaning": "người uống nặng"
-    },
-    {
       "word": "豪華",
       "reading": "ごうか",
       "meaning": "hào nhoáng"
     },
     {
-      "word": "豪雪",
-      "reading": "ごうせつ",
-      "meaning": "tuyết rơi dữ dội"
+      "word": "富豪",
+      "reading": "ふごう",
+      "meaning": "phú ông"
     },
     {
-      "word": "剣豪",
-      "reading": "けんごう",
-      "meaning": "người tinh thông kiếm thuật"
+      "word": "豪儀",
+      "reading": "ごうぎ",
+      "meaning": "vĩ đại"
     },
     {
-      "word": "豪遊",
-      "reading": "ごうゆう",
-      "meaning": "ăn chơi xa xỉ"
+      "word": "豪華な",
+      "reading": "ごうかな",
+      "meaning": "sang trọng"
     },
     {
-      "word": "豪族",
-      "reading": "ごうぞく",
-      "meaning": "gia đình có thế lực"
+      "word": "豪華版",
+      "reading": "ごうかばん",
+      "meaning": "phiên bản sang trọng"
     },
     {
-      "word": "豪球",
-      "reading": "ごうきゅう",
-      "meaning": "bếp lò"
+      "word": "豪",
+      "reading": "ごう",
+      "meaning": "ào ạt"
     },
     {
-      "word": "豪商",
-      "reading": "ごうしょう",
-      "meaning": "người buôn bán giàu có"
+      "word": "日豪",
+      "reading": "にちごう",
+      "meaning": "nhật bản - australia"
+    },
+    {
+      "word": "豪日",
+      "reading": "ごうにち",
+      "meaning": "australia - nhật bản"
+    },
+    {
+      "word": "性豪",
+      "reading": "せいごう",
+      "meaning": "người có nhiều kinh nghiệm và tự tin trong chuyện giường chiếu"
+    },
+    {
+      "word": "全豪",
+      "reading": "ぜんごう",
+      "meaning": "giải quần vợt úc mở rộng australia open"
     }
   ]
 }

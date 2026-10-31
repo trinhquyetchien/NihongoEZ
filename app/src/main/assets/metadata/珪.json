@@ -49,8 +49,23 @@
   ],
   "vocabulary": [
     {
+      "word": "珪素",
+      "reading": "けいそ",
+      "meaning": "silic"
+    },
+    {
+      "word": "珪藻土",
+      "reading": "けいそうど",
+      "meaning": "đất có nhiều tảo cát"
+    },
+    {
       "word": "珪藻",
       "reading": "けいそう",
+      "meaning": "tảo cát"
+    },
+    {
+      "word": "珪藻類",
+      "reading": "けいそうるい",
       "meaning": "tảo cát"
     },
     {
@@ -69,34 +84,19 @@
       "meaning": "cát silic"
     },
     {
-      "word": "珪素",
-      "reading": "けいそ",
-      "meaning": "silic"
-    },
-    {
-      "word": "珪岩",
-      "reading": "けいがん",
-      "meaning": "quartzite"
-    },
-    {
-      "word": "珪質",
-      "reading": "けいしつ",
-      "meaning": "silicic"
-    },
-    {
-      "word": "珪肺",
-      "reading": "けいはい",
-      "meaning": "silicosis"
-    },
-    {
       "word": "鱗珪石",
       "reading": "りんけいせき",
       "meaning": "triđimit"
     },
     {
-      "word": "珪肺症",
-      "reading": "けいはいしょう",
-      "meaning": "bệnh bụi phổi silic"
+      "word": "珪化木",
+      "reading": "けいかぼく",
+      "meaning": "gỗ hóa đá"
+    },
+    {
+      "word": "珪化物",
+      "reading": "けいかぶつ",
+      "meaning": "silicide"
     }
   ]
 }

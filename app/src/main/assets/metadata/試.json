@@ -90,34 +90,9 @@
   ],
   "vocabulary": [
     {
-      "word": "試着用品/試着室",
-      "reading": "しちゃくようひん/しちゃくしつ",
-      "meaning": "試着用品` means \"đồ dùng thử đồ\" in vietnamese. `試着室` means \"phòng thử đồ\" in vietnamese"
-    },
-    {
-      "word": "試験室試験",
-      "reading": "しけんしつしけん",
-      "meaning": "kiểm tra trong phòng thí nghiệm"
-    },
-    {
-      "word": "大学入試センター試験",
-      "reading": "だいがくにゅうしセンターしけん",
-      "meaning": "kỳ thi tuyển sinh đại học quốc gia"
-    },
-    {
-      "word": "試み",
-      "reading": "こころみ",
-      "meaning": "việc thử"
-    },
-    {
       "word": "試合",
       "reading": "しあい",
       "meaning": "cuộc thi đấu"
-    },
-    {
-      "word": "試掘",
-      "reading": "しくつ",
-      "meaning": "sự đào thăm dò"
     },
     {
       "word": "試験",
@@ -125,19 +100,44 @@
       "meaning": "kỳ thi"
     },
     {
-      "word": "試す",
-      "reading": "ためす",
-      "meaning": "thử"
-    },
-    {
       "word": "試し",
       "reading": "ためし",
       "meaning": "việc nếm thử"
     },
     {
-      "word": "試飲",
-      "reading": "しいん",
-      "meaning": "sự uống thử"
+      "word": "試す",
+      "reading": "ためす",
+      "meaning": "thử"
+    },
+    {
+      "word": "試み",
+      "reading": "こころみ",
+      "meaning": "việc thử"
+    },
+    {
+      "word": "入試",
+      "reading": "にゅうし",
+      "meaning": "kỳ thi đầu vào"
+    },
+    {
+      "word": "試作",
+      "reading": "しさく",
+      "meaning": "việc thử chế tạo"
+    },
+    {
+      "word": "試練",
+      "reading": "しれん",
+      "meaning": "sự khảo nghiệm"
+    },
+    {
+      "word": "試行",
+      "reading": "しこう",
+      "meaning": "làm một sự thử"
+    },
+    {
+      "word": "試算",
+      "reading": "しさん",
+      "meaning": "sự tính toán thử"
     }
   ]
 }

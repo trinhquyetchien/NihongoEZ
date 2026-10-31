@@ -89,39 +89,24 @@
   ],
   "vocabulary": [
     {
-      "word": "宴",
-      "reading": "えん",
-      "meaning": "tiệc tùng"
-    },
-    {
-      "word": "祝宴",
-      "reading": "しゅくえん",
-      "meaning": "tiệc mừng"
-    },
-    {
-      "word": "宴遊",
-      "reading": "えんゆう",
-      "meaning": "tiệc mừng"
-    },
-    {
-      "word": "宴席",
-      "reading": "えんせき",
+      "word": "宴会",
+      "reading": "えんかい",
       "meaning": "bữa tiệc"
     },
     {
-      "word": "供宴",
-      "reading": "きょうえん",
-      "meaning": "tiệc lớn"
+      "word": "宴会場",
+      "reading": "えんかいじょう",
+      "meaning": "phòng lớn đại tiệc"
     },
     {
-      "word": "佳宴",
-      "reading": "かえん",
-      "meaning": "yến tiệc vui nhộn"
+      "word": "小宴会",
+      "reading": "しょうえんかい",
+      "meaning": "tiệc rượu"
     },
     {
-      "word": "賀宴",
-      "reading": "がえん",
-      "meaning": "tiệc lớn"
+      "word": "宴",
+      "reading": "えん",
+      "meaning": "tiệc tùng"
     },
     {
       "word": "内宴",
@@ -129,14 +114,29 @@
       "meaning": "bữa tiệc giữa những người thân trong cung điện"
     },
     {
-      "word": "饗宴",
-      "reading": "きょうえん",
-      "meaning": "bữa tiệc"
+      "word": "御宴",
+      "reading": "ぎょえん",
+      "meaning": "ngự yến"
     },
     {
-      "word": "別宴",
-      "reading": "べつえん",
-      "meaning": "bữa ăn tối chia tay"
+      "word": "歓迎宴",
+      "reading": "かんげいえん",
+      "meaning": "đón tiếp ân cần phe"
+    },
+    {
+      "word": "茶宴",
+      "reading": "さえん",
+      "meaning": "tiệc trà"
+    },
+    {
+      "word": "狂宴",
+      "reading": "きょうえん",
+      "meaning": "sự ăn chơi chè chén"
+    },
+    {
+      "word": "佳宴",
+      "reading": "かえん",
+      "meaning": "yến tiệc vui nhộn"
     }
   ]
 }

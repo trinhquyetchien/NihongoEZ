@@ -86,54 +86,54 @@
   ],
   "vocabulary": [
     {
-      "word": "晶出",
-      "reading": "しょうしゅつ",
-      "meaning": "sự kết tinh"
-    },
-    {
       "word": "結晶",
       "reading": "けっしょう",
       "meaning": "sự kết tinh"
     },
     {
-      "word": "晶光",
-      "reading": "しょうこう",
-      "meaning": "ánh sáng rực rỡ"
+      "word": "液晶",
+      "reading": "えきしょう",
+      "meaning": "tinh thể lỏng"
     },
     {
-      "word": "晶子",
-      "reading": "しょうし",
-      "meaning": "tinh thể"
+      "word": "結晶性",
+      "reading": "けっしょうせい",
+      "meaning": "kết tinh"
     },
     {
-      "word": "共晶",
-      "reading": "きょうしょう",
-      "meaning": "hỗn hợp eutectic"
+      "word": "結晶化",
+      "reading": "けっしょうか",
+      "meaning": "kết tinh"
     },
     {
-      "word": "晶析",
-      "reading": "しょうせき",
-      "meaning": "sự kết tinh"
+      "word": "結晶系",
+      "reading": "けっしょうけい",
+      "meaning": "hệ thống kết tinh"
     },
     {
-      "word": "晶洞",
-      "reading": "しょうどう",
-      "meaning": "tinh hốc"
+      "word": "結晶水",
+      "reading": "けっしょうすい",
+      "meaning": "nước kết tinh"
     },
     {
-      "word": "氷晶",
-      "reading": "ひょうしょう",
-      "meaning": "tinh thể nước đá"
+      "word": "再結晶",
+      "reading": "さいけっしょう",
+      "meaning": "kết tinh lại"
     },
     {
-      "word": "水晶",
-      "reading": "すいしょう",
-      "meaning": "pha lê"
+      "word": "結晶面",
+      "reading": "けっしょうめん",
+      "meaning": "bề mặt kết tinh"
     },
     {
-      "word": "晶化",
-      "reading": "しょうか",
-      "meaning": "sự kết tinh"
+      "word": "結晶学",
+      "reading": "けっしょうがく",
+      "meaning": "tinh thể học"
+    },
+    {
+      "word": "液晶盤",
+      "reading": "えきしょうばん",
+      "meaning": "tinh thể chất lỏng bảng"
     }
   ]
 }

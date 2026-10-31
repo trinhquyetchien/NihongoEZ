@@ -88,44 +88,9 @@
   ],
   "vocabulary": [
     {
-      "word": "曇",
-      "reading": "くもり",
-      "meaning": "trời đầy mây"
-    },
-    {
       "word": "曇り",
       "reading": "くもり",
       "meaning": "mờ"
-    },
-    {
-      "word": "悉曇",
-      "reading": "しったん",
-      "meaning": "chữ siddham"
-    },
-    {
-      "word": "曇度",
-      "reading": "くもりど",
-      "meaning": "opacity"
-    },
-    {
-      "word": "晴曇",
-      "reading": "せいどん",
-      "meaning": "trời nắng và có mây"
-    },
-    {
-      "word": "高曇",
-      "reading": "たかぐもり",
-      "meaning": "trời u ám cò nhiều mây che"
-    },
-    {
-      "word": "雨曇",
-      "reading": "あまぐもり",
-      "meaning": "mây giăng u ám"
-    },
-    {
-      "word": "曇天",
-      "reading": "どんてん",
-      "meaning": "tiết trời u ám"
     },
     {
       "word": "曇る",
@@ -133,9 +98,44 @@
       "meaning": "nỗi lòng buồn chán"
     },
     {
-      "word": "曇母",
-      "reading": "うんも",
-      "meaning": "mica"
+      "word": "本曇り",
+      "reading": "ほんぐもり",
+      "meaning": "u ám đám mây thấp"
+    },
+    {
+      "word": "曇り声",
+      "reading": "くもりごえ",
+      "meaning": "giọng nói nghẹn ngào"
+    },
+    {
+      "word": "朝曇り",
+      "reading": "あさぐもり",
+      "meaning": "buổi sáng nhiều mây"
+    },
+    {
+      "word": "雨曇り",
+      "reading": "あまぐもり",
+      "meaning": "thời tiết u ám"
+    },
+    {
+      "word": "雪曇り",
+      "reading": "ゆきぐもり",
+      "meaning": "bầu trời nhiều mây"
+    },
+    {
+      "word": "鳥曇り",
+      "reading": "とりぐもり",
+      "meaning": "bầu trời nhiều mây xuất hiện khi những con chim di cư ở lại mùa đông và mùa thu ở nhật bản rời đi về phía bắc"
+    },
+    {
+      "word": "曇",
+      "reading": "くもり",
+      "meaning": "trời đầy mây"
+    },
+    {
+      "word": "曇度",
+      "reading": "くもりど",
+      "meaning": "opacity"
     }
   ]
 }

@@ -66,11 +66,6 @@
   ],
   "vocabulary": [
     {
-      "word": "筑子",
-      "reading": "こきりこ",
-      "meaning": "dụng cụ người như clave"
-    },
-    {
       "word": "筑前",
       "reading": "ちくぜん",
       "meaning": "chikuzen"
@@ -84,6 +79,11 @@
       "word": "筑前煮",
       "reading": "ちくぜんに",
       "meaning": "món thịt gà nấu với khoai sọ"
+    },
+    {
+      "word": "筑子",
+      "reading": "こきりこ",
+      "meaning": "dụng cụ người như clave"
     },
     {
       "word": "肥筑方言",

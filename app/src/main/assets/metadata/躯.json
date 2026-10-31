@@ -65,29 +65,19 @@
       "meaning": "toàn bộ thân thể"
     },
     {
-      "word": "衰躯",
-      "reading": "すいく",
-      "meaning": "làm gầy mòn thân thể"
-    },
-    {
-      "word": "巨躯",
-      "reading": "きょく",
-      "meaning": "cơ thể cực lớn"
-    },
-    {
-      "word": "老躯",
-      "reading": "ろうく",
-      "meaning": "xương cốt tuổi già"
-    },
-    {
       "word": "長躯",
       "reading": "ちょうく",
       "meaning": "vóc dáng cao"
     },
     {
-      "word": "短躯",
-      "reading": "たんく",
-      "meaning": "tầm vóc ngắn"
+      "word": "体躯",
+      "reading": "たいく",
+      "meaning": "vóc dáng"
+    },
+    {
+      "word": "巨躯",
+      "reading": "きょく",
+      "meaning": "cơ thể cực lớn"
     },
     {
       "word": "痩躯",
@@ -98,6 +88,16 @@
       "word": "躯幹",
       "reading": "くかん",
       "meaning": "thân thể"
+    },
+    {
+      "word": "衰躯",
+      "reading": "すいく",
+      "meaning": "làm gầy mòn thân thể"
+    },
+    {
+      "word": "老躯",
+      "reading": "ろうく",
+      "meaning": "xương cốt tuổi già"
     }
   ]
 }

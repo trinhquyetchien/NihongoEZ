@@ -79,34 +79,14 @@
       "meaning": "hình vẽ minh họa"
     },
     {
-      "word": "図図しい",
-      "reading": "ずうずうしい",
-      "meaning": "trơ trẽn"
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "dấu hiệu"
     },
     {
-      "word": "愚図愚図",
-      "reading": "ぐずぐず",
-      "meaning": "chần chừ"
-    },
-    {
-      "word": "いけ図図しい",
-      "reading": "いけずうずうしい",
-      "meaning": "trơ trẽn"
-    },
-    {
-      "word": "回転図示断面図",
-      "reading": "かいてんずしだんめんず",
-      "meaning": "mặt cắt minh họa quay"
-    },
-    {
-      "word": "パレート図",
-      "reading": "パレートず",
-      "meaning": "biểu đồ pareto"
-    },
-    {
-      "word": "イメージ図",
-      "reading": "イメージず",
-      "meaning": "vẽ khái niệm"
+      "word": "図形",
+      "reading": "ずけい",
+      "meaning": "hình dáng con người"
     },
     {
       "word": "図表",
@@ -114,14 +94,34 @@
       "meaning": "biểu đồ"
     },
     {
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "ý đồ"
+    },
+    {
       "word": "指図",
       "reading": "さしず",
       "meaning": "dặn dò"
     },
     {
-      "word": "合図",
-      "reading": "あいず",
-      "meaning": "dấu hiệu"
+      "word": "出図",
+      "reading": "しゅつず",
+      "meaning": "phát hành bản vẽ"
+    },
+    {
+      "word": "上図",
+      "reading": "じょうず",
+      "meaning": "sơ đồ minh họa bên trên"
+    },
+    {
+      "word": "音図",
+      "reading": "おんず",
+      "meaning": "sơ đồ phát âm"
+    },
+    {
+      "word": "全図",
+      "reading": "ぜんず",
+      "meaning": "hoàn thành bản đồ"
     }
   ]
 }

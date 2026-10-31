@@ -111,29 +111,24 @@
   ],
   "vocabulary": [
     {
-      "word": "過",
-      "reading": "か",
-      "meaning": "thặng dư"
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "sự vượt qua"
     },
     {
-      "word": "身過ぎ世過ぎ",
-      "reading": "みすぎよすぎ",
-      "meaning": "cuộc sống của một người"
+      "word": "過程",
+      "reading": "かてい",
+      "meaning": "quá trình"
     },
     {
-      "word": "ろ過瓶/ろ過鐘",
-      "reading": "ろかかめ/ろかかね",
-      "meaning": "màng lọc"
+      "word": "過失",
+      "reading": "かしつ",
+      "meaning": "điều sai lầm"
     },
     {
-      "word": "擦過",
-      "reading": "さっか",
-      "meaning": "việc vắt kiệt"
-    },
-    {
-      "word": "過ぐ",
-      "reading": "すぐ",
-      "meaning": "vượt ra ngoài"
+      "word": "超過",
+      "reading": "ちょうか",
+      "meaning": "sự vượt quá"
     },
     {
       "word": "経過",
@@ -146,9 +141,9 @@
       "meaning": "lỗi lầm"
     },
     {
-      "word": "過度",
-      "reading": "かど",
-      "meaning": "quá độ"
+      "word": "過疎",
+      "reading": "かそ",
+      "meaning": "sự giảm dân số"
     },
     {
       "word": "過多",
@@ -156,9 +151,14 @@
       "meaning": "sự dư thừa"
     },
     {
-      "word": "過つ",
-      "reading": "あやまつ",
-      "meaning": "mắc lỗi"
+      "word": "過",
+      "reading": "か",
+      "meaning": "thặng dư"
+    },
+    {
+      "word": "過量",
+      "reading": "かりょう",
+      "meaning": "liều quá mức"
     }
   ]
 }

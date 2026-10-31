@@ -109,44 +109,9 @@
   ],
   "vocabulary": [
     {
-      "word": "歳",
-      "reading": "さい",
-      "meaning": "tuổi"
-    },
-    {
-      "word": "歳歳",
-      "reading": "さいさい",
-      "meaning": "hàng năm"
-    },
-    {
-      "word": "歳入歳出",
-      "reading": "さいにゅうさいしゅつ",
-      "meaning": "thu nhập và chi tiêu"
-    },
-    {
-      "word": "年年歳歳",
-      "reading": "ねんねんさいさい",
-      "meaning": "hàng năm"
-    },
-    {
-      "word": "千歳",
-      "reading": "ちとせ",
-      "meaning": "nghìn năm"
-    },
-    {
-      "word": "歳入",
-      "reading": "さいにゅう",
-      "meaning": "lợi tức hàng năm"
-    },
-    {
-      "word": "歳暮",
-      "reading": "せいぼ",
-      "meaning": "món quà cuối năm"
-    },
-    {
-      "word": "歳月",
-      "reading": "さいげつ",
-      "meaning": "tuế nguyệt"
+      "word": "二十歳",
+      "reading": "はたち",
+      "meaning": "đôi mươi"
     },
     {
       "word": "万歳",
@@ -154,9 +119,44 @@
       "meaning": "diễn viên hài đi biểu diễn rong"
     },
     {
-      "word": "歳差",
-      "reading": "さいさ",
-      "meaning": "sự tiến động của trục trái đất"
+      "word": "歳",
+      "reading": "さい",
+      "meaning": "tuổi"
+    },
+    {
+      "word": "何歳",
+      "reading": "なんさい",
+      "meaning": "mấy tuổi"
+    },
+    {
+      "word": "一歳",
+      "reading": "いっさい",
+      "meaning": "một tuổi"
+    },
+    {
+      "word": "歳代",
+      "reading": "さいだい",
+      "meaning": "thế hệ"
+    },
+    {
+      "word": "万万歳",
+      "reading": "ばんばんざい",
+      "meaning": "vạn vạn tuế"
+    },
+    {
+      "word": "百歳",
+      "reading": "ももとせ",
+      "meaning": "trăm tuổi"
+    },
+    {
+      "word": "歳星",
+      "reading": "さいせい",
+      "meaning": "sao mộc"
+    },
+    {
+      "word": "新千歳",
+      "reading": "しんちとせ",
+      "meaning": "sân bay shintose&amp"
     }
   ]
 }

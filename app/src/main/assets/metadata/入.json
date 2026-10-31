@@ -95,44 +95,9 @@
   ],
   "vocabulary": [
     {
-      "word": "入",
-      "reading": "いり",
+      "word": "入る",
+      "reading": "はいる",
       "meaning": "đi vào"
-    },
-    {
-      "word": "屑入投入口",
-      "reading": "くずにゅうとうにゅうぐち",
-      "meaning": "cửa xả rác"
-    },
-    {
-      "word": "しょうじ入れる しょうじいれる",
-      "reading": "招じ入れる",
-      "meaning": "mời người khác vào nhà"
-    },
-    {
-      "word": "押入",
-      "reading": "おしいれ",
-      "meaning": "tủ tường"
-    },
-    {
-      "word": "購入",
-      "reading": "こうにゅう",
-      "meaning": "việc mua"
-    },
-    {
-      "word": "出入",
-      "reading": "しゅつにゅう",
-      "meaning": "xuất nhập"
-    },
-    {
-      "word": "新入",
-      "reading": "しんにゅう",
-      "meaning": "sự mới đến"
-    },
-    {
-      "word": "進入",
-      "reading": "しんにゅう",
-      "meaning": "sự thâm nhập"
     },
     {
       "word": "収入",
@@ -140,9 +105,44 @@
       "meaning": "thu nhập"
     },
     {
-      "word": "歳入",
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "sự ghi vào"
+    },
+    {
+      "word": "購入",
+      "reading": "こうにゅう",
+      "meaning": "việc mua"
+    },
+    {
+      "word": "入",
+      "reading": "いり",
+      "meaning": "đi vào"
+    },
+    {
+      "word": "再入",
       "reading": "さいにゅう",
-      "meaning": "lợi tức hàng năm"
+      "meaning": "sự vào lại"
+    },
+    {
+      "word": "千入",
+      "reading": "ちしお",
+      "meaning": "chồng chất"
+    },
+    {
+      "word": "入刀",
+      "reading": "にゅうとう",
+      "meaning": "cắt bánh kem"
+    },
+    {
+      "word": "入格",
+      "reading": "にゅうかく",
+      "meaning": "đạt chuẩn"
+    },
+    {
+      "word": "入寺",
+      "reading": "にゅうじ",
+      "meaning": "vào chùa"
     }
   ]
 }

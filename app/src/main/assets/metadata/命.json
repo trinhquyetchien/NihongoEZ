@@ -95,24 +95,9 @@
       "meaning": "tính mạng"
     },
     {
-      "word": "作命",
-      "reading": "さくめい",
-      "meaning": "lệnh hoạt động"
-    },
-    {
       "word": "寿命",
       "reading": "じゅみょう",
       "meaning": "tuổi thọ"
-    },
-    {
-      "word": "宿命",
-      "reading": "しゅくめい",
-      "meaning": "căn kiếp"
-    },
-    {
-      "word": "救命",
-      "reading": "きゅうめい",
-      "meaning": "sự cứu mạng"
     },
     {
       "word": "使命",
@@ -120,24 +105,39 @@
       "meaning": "sứ mạng"
     },
     {
-      "word": "薄命",
-      "reading": "はくめい",
-      "meaning": "sự bạc mệnh"
+      "word": "命中",
+      "reading": "めいちゅう",
+      "meaning": "cú đánh"
     },
     {
-      "word": "身命",
-      "reading": "しんめい",
-      "meaning": "sinh mạng"
+      "word": "宿命",
+      "reading": "しゅくめい",
+      "meaning": "căn kiếp"
     },
     {
-      "word": "命婦",
-      "reading": "みょうぶ",
-      "meaning": "mệnh phụ"
+      "word": "官命",
+      "reading": "かんめい",
+      "meaning": "ngắn gọn"
     },
     {
-      "word": "恩命",
-      "reading": "おんめい",
-      "meaning": "mệnh lệnh được ban xuống với lòng ân huệ"
+      "word": "作命",
+      "reading": "さくめい",
+      "meaning": "lệnh hoạt động"
+    },
+    {
+      "word": "電命",
+      "reading": "でんめい",
+      "meaning": "đánh điện những chỉ dẫn"
+    },
+    {
+      "word": "正命",
+      "reading": "しょうみょう",
+      "meaning": "chân thành"
+    },
+    {
+      "word": "命根",
+      "reading": "めいこん",
+      "meaning": "cuộc sống"
     }
   ]
 }

@@ -107,14 +107,14 @@
   ],
   "vocabulary": [
     {
-      "word": "許",
-      "reading": "ばかり",
-      "meaning": "ở dưới"
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "sự cho phép"
     },
     {
-      "word": "特許使用免許",
-      "reading": "とっきょしようめんきょ",
-      "meaning": "giấy dùng sáng chế"
+      "word": "免許",
+      "reading": "めんきょ",
+      "meaning": "sự cho phép"
     },
     {
       "word": "許す",
@@ -122,9 +122,19 @@
       "meaning": "tha thứ"
     },
     {
+      "word": "特許",
+      "reading": "とっきょ",
+      "meaning": "sự cho phép đặc biệt"
+    },
+    {
       "word": "許容",
       "reading": "きょよう",
       "meaning": "sự cho phép"
+    },
+    {
+      "word": "許可者",
+      "reading": "きょかしゃ",
+      "meaning": "người cho phép"
     },
     {
       "word": "許し",
@@ -132,29 +142,19 @@
       "meaning": "sự cho phép"
     },
     {
-      "word": "口許",
-      "reading": "くちもと",
-      "meaning": "miệng"
+      "word": "不許可",
+      "reading": "ふきょか",
+      "meaning": "không được phép"
     },
     {
-      "word": "許り",
-      "reading": "ばかり",
-      "meaning": "xấp xỉ"
+      "word": "無免許",
+      "reading": "むめんきょ",
+      "meaning": "không được phép"
     },
     {
-      "word": "御許",
-      "reading": "みもと",
-      "meaning": "ở bên cạnh"
-    },
-    {
-      "word": "勅許",
-      "reading": "ちょっきょ",
-      "meaning": "sự phê chuẩn của vua"
-    },
-    {
-      "word": "允許",
-      "reading": "いんきょ",
-      "meaning": "sự cho phép"
+      "word": "許可証",
+      "reading": "きょかしょう",
+      "meaning": "cho phép"
     }
   ]
 }

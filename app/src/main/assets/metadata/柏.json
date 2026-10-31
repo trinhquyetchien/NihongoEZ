@@ -59,39 +59,9 @@
       "meaning": "cây sồi"
     },
     {
-      "word": "柏鵬",
-      "reading": "はくほう",
-      "meaning": "kỷ nguyên trong suốt những năm 1960 do các nhà vô địch lớn taiho và kashiwado thống trị"
-    },
-    {
       "word": "柏木",
       "reading": "かしわぎ",
       "meaning": "<thực> gỗ sồi"
-    },
-    {
-      "word": "柏手",
-      "reading": "かしわで",
-      "meaning": "vỗ hai bàn tay vào nhau tạo thành tiếng trước khi cầu nguyện trong đền thờ thần đạo"
-    },
-    {
-      "word": "柏餅",
-      "reading": "かしわもち",
-      "meaning": "một loại bánh làm bằng gạo sau đó được cuộn lại bằng lá sồi"
-    },
-    {
-      "word": "柏槙",
-      "reading": "びゃくしん",
-      "meaning": "cây cối"
-    },
-    {
-      "word": "松柏",
-      "reading": "しょうはく",
-      "meaning": "cây thường xanh"
-    },
-    {
-      "word": "赤芽柏",
-      "reading": "あかめがしわ",
-      "meaning": "mallotus japonicus"
     },
     {
       "word": "三角柏",
@@ -102,6 +72,36 @@
       "word": "御綱柏",
       "reading": "みつながしわ",
       "meaning": "lan tổ điểu"
+    },
+    {
+      "word": "柏鵬",
+      "reading": "はくほう",
+      "meaning": "kỷ nguyên trong suốt những năm 1960 do các nhà vô địch lớn taiho và kashiwado thống trị"
+    },
+    {
+      "word": "柏槙",
+      "reading": "びゃくしん",
+      "meaning": "cây cối"
+    },
+    {
+      "word": "柏餅",
+      "reading": "かしわもち",
+      "meaning": "một loại bánh làm bằng gạo sau đó được cuộn lại bằng lá sồi"
+    },
+    {
+      "word": "松柏",
+      "reading": "しょうはく",
+      "meaning": "cây thường xanh"
+    },
+    {
+      "word": "柏手",
+      "reading": "かしわで",
+      "meaning": "vỗ hai bàn tay vào nhau tạo thành tiếng trước khi cầu nguyện trong đền thờ thần đạo"
+    },
+    {
+      "word": "赤芽柏",
+      "reading": "あかめがしわ",
+      "meaning": "mallotus japonicus"
     }
   ]
 }

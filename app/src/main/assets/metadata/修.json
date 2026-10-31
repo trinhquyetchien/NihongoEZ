@@ -91,34 +91,14 @@
   ],
   "vocabulary": [
     {
-      "word": "修理サービスベッセル(修理)",
-      "reading": "しゅうりサービスベッセル(しゅうり)",
-      "meaning": "dịch vụ sửa chữa tàu"
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "sự tu sửa"
     },
     {
-      "word": "修正液/修正ペン",
-      "reading": "しゅうせいえき/しゅうせいペン",
-      "meaning": "sửa lỗi/ bút sửa lỗi"
-    },
-    {
-      "word": "歯科修復物補修",
-      "reading": "しかしゅうふくぶつほしゅう",
-      "meaning": "sửa chữa phục hồi lại răng"
-    },
-    {
-      "word": "修復",
-      "reading": "しゅうふく",
-      "meaning": "sửa chữa"
-    },
-    {
-      "word": "履修",
-      "reading": "りしゅう",
-      "meaning": "sự tham gia học hành"
-    },
-    {
-      "word": "修む",
-      "reading": "おさむ",
-      "meaning": "trau dồi"
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "sự chỉnh lí"
     },
     {
       "word": "研修",
@@ -126,19 +106,39 @@
       "meaning": "đào tạo"
     },
     {
-      "word": "修正",
-      "reading": "しゅうせい",
-      "meaning": "sự tu sửa"
+      "word": "修繕",
+      "reading": "しゅうぜん",
+      "meaning": "sửa chữa"
+    },
+    {
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "sự tu hành"
+    },
+    {
+      "word": "改修",
+      "reading": "かいしゅう",
+      "meaning": "sự sửa chữa"
+    },
+    {
+      "word": "修了",
+      "reading": "しゅうりょう",
+      "meaning": "sự hoàn thành"
+    },
+    {
+      "word": "修士",
+      "reading": "しゅうし",
+      "meaning": "chương trình đào tạo thạc sĩ"
+    },
+    {
+      "word": "必修",
+      "reading": "ひっしゅう",
+      "meaning": "sự cần phải học"
     },
     {
       "word": "修飾",
       "reading": "しゅうしょく",
       "meaning": "sự tô điểm"
-    },
-    {
-      "word": "修道",
-      "reading": "しゅうどう",
-      "meaning": "học"
     }
   ]
 }

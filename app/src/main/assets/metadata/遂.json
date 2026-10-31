@@ -90,9 +90,34 @@
   ],
   "vocabulary": [
     {
+      "word": "遂げる",
+      "reading": "とげる",
+      "meaning": "đạt tới"
+    },
+    {
+      "word": "やり遂げる",
+      "reading": "やりとげる",
+      "meaning": "hoàn thành trọn vẹn"
+    },
+    {
+      "word": "遂に",
+      "reading": "ついに",
+      "meaning": "cuối cùng"
+    },
+    {
       "word": "遂行",
       "reading": "すいこう",
       "meaning": "sự hoàn thành"
+    },
+    {
+      "word": "未遂",
+      "reading": "みすい",
+      "meaning": "sự chưa thành"
+    },
+    {
+      "word": "未遂罪",
+      "reading": "みすいざい",
+      "meaning": "tội ác chưa hoàn thành"
     },
     {
       "word": "完遂",
@@ -105,39 +130,14 @@
       "meaning": "đã gây ra tội"
     },
     {
-      "word": "未遂",
-      "reading": "みすい",
-      "meaning": "sự chưa thành"
+      "word": "遂行する",
+      "reading": "すいこうする",
+      "meaning": "thực hiện"
     },
     {
-      "word": "遂に",
-      "reading": "ついに",
-      "meaning": "cuối cùng"
-    },
-    {
-      "word": "未遂罪",
-      "reading": "みすいざい",
-      "meaning": "tội ác chưa hoàn thành"
-    },
-    {
-      "word": "遂げる",
-      "reading": "とげる",
-      "meaning": "đạt tới"
-    },
-    {
-      "word": "殺人未遂",
-      "reading": "さつじんみすい",
-      "meaning": "việc giết người chưa đạt"
-    },
-    {
-      "word": "暗殺未遂",
-      "reading": "あんさつみすい",
-      "meaning": "cố gắng vụ ám sát"
-    },
-    {
-      "word": "仕遂げる",
-      "reading": "しとげる",
-      "meaning": "hoàn thành"
+      "word": "遂行不安",
+      "reading": "すいこーふあん",
+      "meaning": "lo âu lúc biểu diễn"
     }
   ]
 }

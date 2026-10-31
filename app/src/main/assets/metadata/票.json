@@ -87,54 +87,54 @@
   ],
   "vocabulary": [
     {
+      "word": "投票",
+      "reading": "とうひょう",
+      "meaning": "bỏ phiếu"
+    },
+    {
       "word": "票",
       "reading": "ひょう",
       "meaning": "phiếu"
     },
     {
-      "word": "票数",
-      "reading": "ひょうすう",
-      "meaning": "số phiếu"
+      "word": "投票日",
+      "reading": "とうひょうび",
+      "meaning": "ngày bầu cử"
     },
     {
-      "word": "票差",
-      "reading": "ひょうさ",
-      "meaning": "chênh lệch số phiếu"
+      "word": "投票者",
+      "reading": "とうひょうしゃ",
+      "meaning": "cử tri"
     },
     {
-      "word": "帳票",
-      "reading": "ちょうひょう",
-      "meaning": "báo cáo"
+      "word": "投票数",
+      "reading": "とうひょうすう",
+      "meaning": "sắc thái những lá phiếu"
     },
     {
-      "word": "起票",
-      "reading": "きひょう",
-      "meaning": "vấn đề một chứng chỉ"
+      "word": "投票所",
+      "reading": "とうひょうしょ",
+      "meaning": "phòng bỏ phiếu"
     },
     {
-      "word": "単票",
-      "reading": "たんぴょう",
-      "meaning": "dạng cắt"
+      "word": "投票区",
+      "reading": "とうひょうく",
+      "meaning": "khu bỏ phiếu"
     },
     {
-      "word": "得票",
-      "reading": "とくひょう",
-      "meaning": "số phiếu"
+      "word": "投票率",
+      "reading": "とうひょうりつ",
+      "meaning": "tỷ lệ bỏ phiếu"
     },
     {
-      "word": "軍票",
-      "reading": "ぐんぴょう",
-      "meaning": "quân phiếu"
+      "word": "再投票",
+      "reading": "さいとうひょう",
+      "meaning": "bỏ phiếu lại"
     },
     {
-      "word": "原票",
-      "reading": "げんぴょう",
-      "meaning": "cuống vé"
-    },
-    {
-      "word": "死票",
-      "reading": "しひょう",
-      "meaning": "lá phiếu vô ích"
+      "word": "投票箱",
+      "reading": "とうひょうばこ",
+      "meaning": "hộp bỏ phiếu"
     }
   ]
 }

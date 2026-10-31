@@ -85,11 +85,6 @@
   ],
   "vocabulary": [
     {
-      "word": "押捺",
-      "reading": "おうなつ",
-      "meaning": "đóng dấu"
-    },
-    {
       "word": "捺印",
       "reading": "なついん",
       "meaning": "con dấu"
@@ -98,6 +93,11 @@
       "word": "捺染",
       "reading": "なっせん",
       "meaning": "nhuộm màu"
+    },
+    {
+      "word": "押捺",
+      "reading": "おうなつ",
+      "meaning": "đóng dấu"
     },
     {
       "word": "捺す",
@@ -110,9 +110,9 @@
       "meaning": "tăm bông con dấu"
     },
     {
-      "word": "指紋押捺",
-      "reading": "しもんおうなつ",
-      "meaning": "lăn dấu vân tay"
+      "word": "署名捺印",
+      "reading": "しょめいなついん",
+      "meaning": "sự ký tên và đóng dấu"
     },
     {
       "word": "転写捺染",
@@ -120,9 +120,9 @@
       "meaning": "chuyển sự in"
     },
     {
-      "word": "署名捺印",
-      "reading": "しょめいなついん",
-      "meaning": "sự ký tên và đóng dấu"
+      "word": "指紋押捺",
+      "reading": "しもんおうなつ",
+      "meaning": "lăn dấu vân tay"
     },
     {
       "word": "捺印マット/印箱",

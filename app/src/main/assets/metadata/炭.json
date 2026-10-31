@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "石炭",
+      "reading": "せきたん",
+      "meaning": "than đá"
+    },
+    {
+      "word": "炭鉱",
+      "reading": "たんこう",
+      "meaning": "mỏ than"
+    },
+    {
+      "word": "炭素",
+      "reading": "たんそ",
+      "meaning": "các bon"
+    },
+    {
+      "word": "炭酸",
+      "reading": "たんさん",
+      "meaning": "axít cácbonic"
+    },
+    {
       "word": "炭",
       "reading": "すみ",
       "meaning": "than"
     },
     {
-      "word": "塊炭",
-      "reading": "かいたん",
-      "meaning": "khối than"
+      "word": "小炭",
+      "reading": "こずみ",
+      "meaning": "than nhỏ"
     },
     {
-      "word": "菊炭",
-      "reading": "きくずみ",
-      "meaning": "than hoa cúc"
+      "word": "製炭",
+      "reading": "せいたん",
+      "meaning": "làm than"
     },
     {
-      "word": "散炭",
-      "reading": "ばらずみ",
-      "meaning": "than vụn"
-    },
-    {
-      "word": "炭労",
-      "reading": "たんろう",
-      "meaning": "nhật bản ¡n than liên hiệp những thợ mỏ"
-    },
-    {
-      "word": "炭カル",
-      "reading": "たんカル",
-      "meaning": "calci carbonat"
-    },
-    {
-      "word": "混炭",
-      "reading": "こんたん",
-      "meaning": "than hỗn hợp"
-    },
-    {
-      "word": "載炭",
-      "reading": "さいたん",
-      "meaning": "ăn than"
-    },
-    {
-      "word": "黒炭",
-      "reading": "こくたん",
-      "meaning": "gỗ mun"
+      "word": "獣炭",
+      "reading": "じゅうたん",
+      "meaning": "than động vật"
     },
     {
       "word": "炭柱",
       "reading": "たんちゅう",
       "meaning": "cột than"
+    },
+    {
+      "word": "竹炭",
+      "reading": "たけすみ",
+      "meaning": "than tre"
     }
   ]
 }

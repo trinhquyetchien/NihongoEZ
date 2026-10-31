@@ -96,39 +96,34 @@
       "meaning": "cá"
     },
     {
-      "word": "鰣魚",
-      "reading": "じぎょ",
-      "meaning": "cá cháy"
-    },
-    {
-      "word": "鰱魚",
-      "reading": "れんぎょ",
-      "meaning": "cá mè"
-    },
-    {
-      "word": "乾魚",
-      "reading": "かんぎょ",
-      "meaning": "cá khô"
-    },
-    {
-      "word": "雑魚",
-      "reading": "ざこ",
-      "meaning": "nhiều loại cá nhỏ trộn lẫn với nhau"
-    },
-    {
-      "word": "魚雷",
-      "reading": "ぎょらい",
-      "meaning": "thủy lôi"
-    },
-    {
-      "word": "魚屋",
-      "reading": "さかなや",
-      "meaning": "chợ cá"
-    },
-    {
       "word": "大魚",
       "reading": "たいぎょ",
       "meaning": "cá lớn"
+    },
+    {
+      "word": "海魚",
+      "reading": "かいぎょ",
+      "meaning": "cá biển"
+    },
+    {
+      "word": "赤魚",
+      "reading": "あかうお",
+      "meaning": "các loài cá có màu đỏ"
+    },
+    {
+      "word": "川魚",
+      "reading": "かわうお",
+      "meaning": "cá sông"
+    },
+    {
+      "word": "青魚",
+      "reading": "あおざかな",
+      "meaning": "cá trắm đen"
+    },
+    {
+      "word": "御魚",
+      "reading": "おとと",
+      "meaning": "cá"
     },
     {
       "word": "魚鳥",
@@ -136,9 +131,14 @@
       "meaning": "cá và chim"
     },
     {
-      "word": "河魚",
-      "reading": "かぎょ",
-      "meaning": "cá ở sông"
+      "word": "魚座",
+      "reading": "うおざ",
+      "meaning": "cung song ngư"
+    },
+    {
+      "word": "魚影",
+      "reading": "ぎょえい",
+      "meaning": "phác thảo của một con cá đơn độc"
     }
   ]
 }

@@ -66,34 +66,9 @@
   ],
   "vocabulary": [
     {
-      "word": "耽溺",
-      "reading": "たんでき",
-      "meaning": "sự đắm đuối"
-    },
-    {
-      "word": "耽る",
-      "reading": "ふける",
-      "meaning": "buông thả mình"
-    },
-    {
-      "word": "耽読",
-      "reading": "たんどく",
-      "meaning": "sự say mê đọc sách"
-    },
-    {
       "word": "耽美",
       "reading": "たんび",
       "meaning": "mỹ học"
-    },
-    {
-      "word": "耽楽",
-      "reading": "たんらく",
-      "meaning": "chìm đắm trong niềm vui"
-    },
-    {
-      "word": "耽ける",
-      "reading": "ふける",
-      "meaning": "chìm đắm vào"
     },
     {
       "word": "耽美的",
@@ -106,14 +81,39 @@
       "meaning": "trường học thẩm mỹ"
     },
     {
+      "word": "耽る",
+      "reading": "ふける",
+      "meaning": "buông thả mình"
+    },
+    {
+      "word": "耽溺",
+      "reading": "たんでき",
+      "meaning": "sự đắm đuối"
+    },
+    {
+      "word": "耽楽",
+      "reading": "たんらく",
+      "meaning": "chìm đắm trong niềm vui"
+    },
+    {
+      "word": "耽読",
+      "reading": "たんどく",
+      "meaning": "sự say mê đọc sách"
+    },
+    {
+      "word": "耽ける",
+      "reading": "ふける",
+      "meaning": "chìm đắm vào"
+    },
+    {
       "word": "耽美主義",
       "reading": "たんびしゅぎ",
       "meaning": "chủ nghĩa thẩm mĩ"
     },
     {
-      "word": "読み耽る",
-      "reading": "よみふける",
-      "meaning": "say mê đọc"
+      "word": "思い耽る",
+      "reading": "おもいふける",
+      "meaning": "đắm chìm trong suy nghĩ"
     }
   ]
 }

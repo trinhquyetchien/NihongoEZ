@@ -69,9 +69,19 @@
   ],
   "vocabulary": [
     {
+      "word": "琵琶湖",
+      "reading": "びわこ",
+      "meaning": "hồ biwa"
+    },
+    {
       "word": "琵琶",
       "reading": "びわ",
       "meaning": "đàn tỳ bà"
+    },
+    {
+      "word": "琵琶行",
+      "reading": "びわこう",
+      "meaning": "bài hát biwa"
     },
     {
       "word": "琵琶笛",
@@ -84,29 +94,9 @@
       "meaning": "cá hồi biwa"
     },
     {
-      "word": "琵琶行",
-      "reading": "びわこう",
-      "meaning": "bài hát biwa"
-    },
-    {
-      "word": "琵琶湖",
-      "reading": "びわこ",
-      "meaning": "hồ biwa"
-    },
-    {
       "word": "琵琶鰉",
       "reading": "びわひがい",
       "meaning": "cá chép biwa"
-    },
-    {
-      "word": "平家琵琶",
-      "reading": "へいけびわ",
-      "meaning": "đàn tì bà heike"
-    },
-    {
-      "word": "薩摩琵琶",
-      "reading": "さつまびわ",
-      "meaning": "đàn tát ma tì bà"
     },
     {
       "word": "琵琶の琴",
@@ -117,6 +107,16 @@
       "word": "琵琶湖大鯰",
       "reading": "びわこおおなまず",
       "meaning": "cá nheo khổng lồ hồ biwa"
+    },
+    {
+      "word": "薩摩琵琶",
+      "reading": "さつまびわ",
+      "meaning": "đàn tát ma tì bà"
+    },
+    {
+      "word": "平家琵琶",
+      "reading": "へいけびわ",
+      "meaning": "đàn tì bà heike"
     }
   ]
 }

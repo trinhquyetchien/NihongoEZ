@@ -89,9 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "酸素",
+      "reading": "さんそ",
+      "meaning": "dưỡng"
+    },
+    {
+      "word": "酸性",
+      "reading": "さんせい",
+      "meaning": "tính a xít"
+    },
+    {
       "word": "酸",
       "reading": "さん",
       "meaning": "a xít"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxy hóa"
+    },
+    {
+      "word": "炭酸",
+      "reading": "たんさん",
+      "meaning": "axít cácbonic"
     },
     {
       "word": "酸素酸",
@@ -99,44 +119,24 @@
       "meaning": "axit oxo"
     },
     {
-      "word": "酸性酸化物",
-      "reading": "さんせいさんかぶつ",
-      "meaning": "ôxit axit"
+      "word": "廃酸",
+      "reading": "はいさん",
+      "meaning": "chất thải axit"
     },
     {
-      "word": "システイン酸",
-      "reading": "システインさん",
-      "meaning": "axit cysteic còn được gọi là 3-sulfo-l-alanine"
+      "word": "酸塊",
+      "reading": "すぐり",
+      "meaning": "cây lý gai"
     },
     {
-      "word": "キノリン酸",
-      "reading": "キノリンさん",
-      "meaning": "axit quinolinic"
+      "word": "ケイ酸",
+      "reading": "けいさん",
+      "meaning": "axit silicic 4-2x]n)"
     },
     {
-      "word": "メチルマロン酸",
-      "reading": "メチルマロンさん",
-      "meaning": "axit metylmalonic"
-    },
-    {
-      "word": "フィタン酸",
-      "reading": "フィタンさん",
-      "meaning": "axit phytanic"
-    },
-    {
-      "word": "グリココール酸",
-      "reading": "グリココールさん",
-      "meaning": "axit glycocholic"
-    },
-    {
-      "word": "ノイラミン酸",
-      "reading": "ノイラミンさん",
-      "meaning": "axit neuraminic"
-    },
-    {
-      "word": "タウロコール酸",
-      "reading": "タウロコールさん",
-      "meaning": "axit taurocholic"
+      "word": "酸欠",
+      "reading": "さんけつ",
+      "meaning": "sự nghẹt thở"
     }
   ]
 }

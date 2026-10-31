@@ -89,39 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "社",
-      "reading": "しゃ",
-      "meaning": "đền thờ"
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "công ty"
     },
     {
-      "word": "支社後会社",
-      "reading": "ししゃごがいしゃ",
-      "meaning": "công ty con"
-    },
-    {
-      "word": "出社",
-      "reading": "しゅっしゃ",
-      "meaning": "sự đến nơi công việc"
-    },
-    {
-      "word": "当社",
-      "reading": "とうしゃ",
-      "meaning": "công ty này"
-    },
-    {
-      "word": "支社",
-      "reading": "ししゃ",
-      "meaning": "chi nhánh"
-    },
-    {
-      "word": "社地",
-      "reading": "しゃち",
-      "meaning": "khu vực mà đền thờ sở hữu"
-    },
-    {
-      "word": "御社",
-      "reading": "おんしゃ",
-      "meaning": "công ty quý ngài"
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "xã hội"
     },
     {
       "word": "商社",
@@ -129,9 +104,34 @@
       "meaning": "công ty thương mại"
     },
     {
-      "word": "社外",
-      "reading": "しゃがい",
-      "meaning": "bên ngoài công ty"
+      "word": "社",
+      "reading": "しゃ",
+      "meaning": "đền thờ"
+    },
+    {
+      "word": "社交",
+      "reading": "しゃこう",
+      "meaning": "xã giao"
+    },
+    {
+      "word": "出社",
+      "reading": "しゅっしゃ",
+      "meaning": "sự đến nơi công việc"
+    },
+    {
+      "word": "社宅",
+      "reading": "しゃたく",
+      "meaning": "nhà ở"
+    },
+    {
+      "word": "数社",
+      "reading": "すうしゃ",
+      "meaning": "một vài công ty"
+    },
+    {
+      "word": "県社",
+      "reading": "けんしゃ",
+      "meaning": "đền thờ tỉnh"
     },
     {
       "word": "社員",

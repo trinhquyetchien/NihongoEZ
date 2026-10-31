@@ -35,9 +35,9 @@
   "comments": [],
   "vocabulary": [
     {
-      "word": "澱",
-      "reading": "よどみ",
-      "meaning": "cặn"
+      "word": "沈澱",
+      "reading": "ちんでん",
+      "meaning": "sự kết tủa"
     },
     {
       "word": "澱粉",
@@ -45,23 +45,13 @@
       "meaning": "tinh bột"
     },
     {
-      "word": "沈澱",
-      "reading": "ちんでん",
-      "meaning": "sự kết tủa"
-    },
-    {
-      "word": "澱む",
-      "reading": "よどむ",
-      "meaning": "do dự"
-    },
-    {
       "word": "澱粉質",
       "reading": "でんぷんしつ",
       "meaning": "sự có hồ bột"
     },
     {
-      "word": "沈澱物",
-      "reading": "ちんでんぶつ",
+      "word": "澱",
+      "reading": "よどみ",
       "meaning": "cặn"
     },
     {
@@ -70,9 +60,19 @@
       "meaning": "cặn rượu"
     },
     {
+      "word": "沈澱物",
+      "reading": "ちんでんぶつ",
+      "meaning": "cặn"
+    },
+    {
       "word": "沈澱管",
       "reading": "ちんでんかん",
       "meaning": "ống ly tâm đáy nhọn"
+    },
+    {
+      "word": "澱む",
+      "reading": "よどむ",
+      "meaning": "do dự"
     },
     {
       "word": "加工澱粉",

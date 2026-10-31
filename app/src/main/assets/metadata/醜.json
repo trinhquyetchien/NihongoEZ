@@ -89,14 +89,29 @@
   ],
   "vocabulary": [
     {
+      "word": "醜い",
+      "reading": "みにくい",
+      "meaning": "xấu xí"
+    },
+    {
+      "word": "醜い女",
+      "reading": "みにくいおんな",
+      "meaning": "phụ nữ xấu dạng"
+    },
+    {
       "word": "醜",
       "reading": "しゅう",
       "meaning": "tính chất xấu"
     },
     {
-      "word": "醜い",
-      "reading": "みにくい",
-      "meaning": "xấu xí"
+      "word": "醜語",
+      "reading": "しゅうご",
+      "meaning": "từ ngữ tục tĩu"
+    },
+    {
+      "word": "醜と美",
+      "reading": "しゅうとび",
+      "meaning": "tính mặt mày xấu xí và vẻ đẹp"
     },
     {
       "word": "醜悪",
@@ -104,24 +119,9 @@
       "meaning": "bần tiện"
     },
     {
-      "word": "醜聞",
-      "reading": "しゅうぶん",
-      "meaning": "việc xấu"
-    },
-    {
-      "word": "醜貌",
-      "reading": "しゅうぼう",
-      "meaning": "khuôn mặt gớm ghiếc"
-    },
-    {
-      "word": "醜怪",
-      "reading": "しゅうかい",
-      "meaning": "xấu xí quái dị"
-    },
-    {
-      "word": "美醜",
-      "reading": "びしゅう",
-      "meaning": "sự đẹp xấu"
+      "word": "醜語症",
+      "reading": "しゅうごしょう",
+      "meaning": "coprolalia"
     },
     {
       "word": "醜態",
@@ -129,14 +129,14 @@
       "meaning": "thói xấu"
     },
     {
-      "word": "醜男",
-      "reading": "ぶおとこ",
-      "meaning": "người xấu trai"
+      "word": "醜怪",
+      "reading": "しゅうかい",
+      "meaning": "xấu xí quái dị"
     },
     {
-      "word": "醜状",
-      "reading": "しゅうじょう",
-      "meaning": "trạng thái nhục nhã những quan hệ"
+      "word": "醜聞",
+      "reading": "しゅうぶん",
+      "meaning": "việc xấu"
     }
   ]
 }

@@ -106,24 +106,34 @@
   ],
   "vocabulary": [
     {
-      "word": "比",
-      "reading": "ひ",
-      "meaning": "tỷ lệ"
-    },
-    {
-      "word": "正比例 / 比例",
-      "reading": "せいひれい",
-      "meaning": "direct proportion"
-    },
-    {
-      "word": "に比べ",
-      "reading": "にくらべ",
-      "meaning": "so sánh với"
-    },
-    {
       "word": "比べる",
       "reading": "くらべる",
       "meaning": "so sánh"
+    },
+    {
+      "word": "比較",
+      "reading": "ひかく",
+      "meaning": "sự so sánh"
+    },
+    {
+      "word": "比率",
+      "reading": "ひりつ",
+      "meaning": "tỉ suất"
+    },
+    {
+      "word": "比例",
+      "reading": "ひれい",
+      "meaning": "tỉ lệ"
+    },
+    {
+      "word": "対比",
+      "reading": "たいひ",
+      "meaning": "sự so sánh"
+    },
+    {
+      "word": "比重",
+      "reading": "ひじゅう",
+      "meaning": "tỉ trọng"
     },
     {
       "word": "比べ",
@@ -131,24 +141,14 @@
       "meaning": "cuộc thi"
     },
     {
-      "word": "比喩",
-      "reading": "ひゆ",
-      "meaning": "ẩn dụ"
+      "word": "に比べ",
+      "reading": "にくらべ",
+      "meaning": "so sánh với"
     },
     {
-      "word": "日比",
-      "reading": "にっぴ",
-      "meaning": "nhật bản và philippines"
-    },
-    {
-      "word": "櫛比",
-      "reading": "しっぴ",
-      "meaning": "kẻ lên trên"
-    },
-    {
-      "word": "比島",
-      "reading": "ひとう",
-      "meaning": "philippines"
+      "word": "比",
+      "reading": "ひ",
+      "meaning": "tỷ lệ"
     },
     {
       "word": "比日",

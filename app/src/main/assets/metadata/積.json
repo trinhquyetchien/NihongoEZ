@@ -109,29 +109,34 @@
   ],
   "vocabulary": [
     {
-      "word": "積",
-      "reading": "せき",
-      "meaning": "tích"
+      "word": "面積",
+      "reading": "めんせき",
+      "meaning": "diện tích"
     },
     {
-      "word": "テンソル積(Kronecker積)",
-      "reading": "テンソルせき(Kroneckerせき)",
-      "meaning": "tích tensor"
+      "word": "積む",
+      "reading": "つむ",
+      "meaning": "chất"
     },
     {
-      "word": "荷積み容積",
-      "reading": "につみようせき",
-      "meaning": "dung tích xếp hàng"
+      "word": "体積",
+      "reading": "たいせき",
+      "meaning": "thể tích"
     },
     {
-      "word": "積もり積もる",
-      "reading": "つもりつもる",
-      "meaning": "chồng chất lên"
+      "word": "容積",
+      "reading": "ようせき",
+      "meaning": "dung tích"
     },
     {
-      "word": "見積",
-      "reading": "みつもり",
-      "meaning": "báo giá"
+      "word": "蓄積",
+      "reading": "ちくせき",
+      "meaning": "sự tích lũy"
+    },
+    {
+      "word": "積極",
+      "reading": "せっきょく",
+      "meaning": "tích cực"
     },
     {
       "word": "集積",
@@ -139,24 +144,19 @@
       "meaning": "sự tích trữ"
     },
     {
-      "word": "積荷",
-      "reading": "つみに",
-      "meaning": "bản lược khai"
+      "word": "積",
+      "reading": "せき",
+      "meaning": "tích"
     },
     {
-      "word": "ベクトル積",
-      "reading": "ベクトルせき",
-      "meaning": "tích chéo"
+      "word": "積数",
+      "reading": "せきすう",
+      "meaning": "tích số"
     },
     {
-      "word": "外積",
-      "reading": "がいせき",
-      "meaning": "tích ngoài"
-    },
-    {
-      "word": "沖積",
-      "reading": "ちゅうせき",
-      "meaning": "bồi tích"
+      "word": "等積",
+      "reading": "とーせき",
+      "meaning": "đường đẳng cự"
     }
   ]
 }

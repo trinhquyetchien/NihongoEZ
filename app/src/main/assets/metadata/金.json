@@ -93,54 +93,54 @@
   ],
   "vocabulary": [
     {
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "tiền"
+    },
+    {
       "word": "金",
       "reading": "かね",
       "meaning": "tiền"
     },
     {
-      "word": "金鍍金",
-      "reading": "きんめっき",
-      "meaning": "mã vàng"
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "tiền mặt"
     },
     {
-      "word": "金地金",
-      "reading": "きんじがね",
-      "meaning": "vàng thỏi"
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "kim khí"
     },
     {
-      "word": "金合金",
-      "reading": "きんごーきん",
-      "meaning": "hợp kim vàng"
+      "word": "金額",
+      "reading": "きんがく",
+      "meaning": "số tiền"
     },
     {
-      "word": "年金基金",
-      "reading": "ねんきんききん",
-      "meaning": "quĩ lương hưu"
+      "word": "借金",
+      "reading": "しゃっきん",
+      "meaning": "khoản nợ"
     },
     {
-      "word": "金折り金物",
-      "reading": "きんおりかなものかなもの",
-      "meaning": "pát góc cạnh"
+      "word": "金曜",
+      "reading": "きんよう",
+      "meaning": "thứ sáu"
     },
     {
-      "word": "金属セラミック合金",
-      "reading": "きんぞくセラミックごーきん",
-      "meaning": "hợp kim gốm kim loại"
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaning": "sắc thuế"
     },
     {
-      "word": "金管",
-      "reading": "きんかん",
-      "meaning": "nhạc khí thổi bằng kim loại"
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "tiền thưởng"
     },
     {
-      "word": "金利",
-      "reading": "きんり",
-      "meaning": "lãi"
-    },
-    {
-      "word": "金貨",
-      "reading": "きんか",
-      "meaning": "đồng tiền vàng"
+      "word": "残金",
+      "reading": "ざんきん",
+      "meaning": "tiền dư"
     }
   ]
 }

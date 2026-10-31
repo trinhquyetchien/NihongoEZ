@@ -107,34 +107,19 @@
   ],
   "vocabulary": [
     {
+      "word": "零点",
+      "reading": "れいてん",
+      "meaning": "điểm không"
+    },
+    {
       "word": "零",
       "reading": "れい",
       "meaning": "số không"
     },
     {
-      "word": "零砕",
-      "reading": "れいさい",
-      "meaning": "rất nhỏ"
-    },
-    {
-      "word": "冪零",
-      "reading": "べきれい",
-      "meaning": "luỹ linh"
-    },
-    {
-      "word": "零し",
-      "reading": "こぼし",
-      "meaning": "thùng đựng nước thải"
-    },
-    {
-      "word": "零敗",
-      "reading": "れいはい",
-      "meaning": "thua mà không ghi được điểm nào"
-    },
-    {
-      "word": "零落",
-      "reading": "れいらく",
-      "meaning": "rơi vào trong tình trạng túng thiếu"
+      "word": "零時",
+      "reading": "れいじ",
+      "meaning": "không giờ"
     },
     {
       "word": "零度",
@@ -142,19 +127,34 @@
       "meaning": "không độ"
     },
     {
-      "word": "零細",
-      "reading": "れいさい",
-      "meaning": "không quan trọng"
+      "word": "零本",
+      "reading": "れいほん",
+      "meaning": "phần còn lại của một bộ lớn các tác phẩm"
     },
     {
-      "word": "零下",
-      "reading": "れいか",
-      "meaning": "dưới không"
+      "word": "零元",
+      "reading": "れいげん",
+      "meaning": "phần tử không"
     },
     {
-      "word": "零点",
-      "reading": "れいてん",
-      "meaning": "điểm không"
+      "word": "零戦",
+      "reading": "ゼロせん",
+      "meaning": "chiến sĩ zêrô bay"
+    },
+    {
+      "word": "非零",
+      "reading": "ひれい",
+      "meaning": "khác không"
+    },
+    {
+      "word": "零半",
+      "reading": "ゼロはん",
+      "meaning": "xe mô tô có phân khối 50cc"
+    },
+    {
+      "word": "零空間",
+      "reading": "ゼロくうかん",
+      "meaning": "không gian vô hiệu"
     }
   ]
 }

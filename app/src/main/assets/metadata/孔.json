@@ -94,24 +94,29 @@
       "meaning": "lỗ"
     },
     {
-      "word": "瘻孔",
-      "reading": "ろうこう",
-      "meaning": "lỗ rò"
+      "word": "人孔",
+      "reading": "じんこう",
+      "meaning": "miệng cống"
     },
     {
-      "word": "針孔",
-      "reading": "めど",
-      "meaning": "mắt kim"
+      "word": "耳孔",
+      "reading": "じこう",
+      "meaning": "lỗ tai"
     },
     {
-      "word": "気孔",
-      "reading": "きこう",
-      "meaning": "lỗ thông hơi"
+      "word": "孔壁",
+      "reading": "こうへき",
+      "meaning": "lớp đất bao quanh thành cọc khi khoan nhồi"
     },
     {
-      "word": "細孔",
-      "reading": "さいこう",
-      "meaning": "lỗ"
+      "word": "空気孔",
+      "reading": "くうきこう",
+      "meaning": "túi không khí"
+    },
+    {
+      "word": "有孔",
+      "reading": "ゆうこう",
+      "meaning": "có lỗ"
     },
     {
       "word": "正孔",
@@ -119,24 +124,19 @@
       "meaning": "điện tích dương"
     },
     {
-      "word": "鰓孔",
-      "reading": "えらあな",
-      "meaning": "khe mang"
+      "word": "送り孔",
+      "reading": "おくりこう",
+      "meaning": "lỗ hổng"
     },
     {
-      "word": "孔パターン",
-      "reading": "こうパターン",
-      "meaning": "mẫu lỗ đục"
+      "word": "孔門",
+      "reading": "こうもん",
+      "meaning": "môn đệ confucius"
     },
     {
-      "word": "瞳孔",
-      "reading": "どうこう",
-      "meaning": "tròng đen"
-    },
-    {
-      "word": "多孔",
-      "reading": "たこう",
-      "meaning": "nhiều hang động"
+      "word": "呼吸孔",
+      "reading": "こきゅうこう",
+      "meaning": "lỗ thở"
     }
   ]
 }

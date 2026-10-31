@@ -89,54 +89,54 @@
   ],
   "vocabulary": [
     {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "mũ"
+    },
+    {
+      "word": "高帽子",
+      "reading": "たかぼうし",
+      "meaning": "mũ chóp cao"
+    },
+    {
+      "word": "帽子屋",
+      "reading": "ぼうしや",
+      "meaning": "cái mũ đi mua hàng"
+    },
+    {
+      "word": "夏帽子",
+      "reading": "なつぼうし",
+      "meaning": "mũ mùa hè"
+    },
+    {
+      "word": "和帽子",
+      "reading": "わぼうし",
+      "meaning": "mũ bếp kiểu nhật"
+    },
+    {
       "word": "帽",
       "reading": "ぼう",
       "meaning": "hat"
     },
     {
-      "word": "ベレーぼう ベレー帽",
-      "reading": "ベレー帽",
-      "meaning": "chiếc mũ nồi"
-    },
-    {
-      "word": "氷帽",
-      "reading": "ひょうぼう",
-      "meaning": "chỏm băng"
-    },
-    {
-      "word": "フェルト帽",
-      "reading": "フェルトぼう",
-      "meaning": "mũ phớt"
-    },
-    {
-      "word": "軍帽",
-      "reading": "ぐんぼう",
-      "meaning": "mũ đội của quân nhân"
-    },
-    {
-      "word": "学帽",
-      "reading": "がくぼう",
-      "meaning": "giáo dục mũ"
-    },
-    {
-      "word": "ハンチング帽",
-      "reading": "ハンチングぼう",
-      "meaning": "mũ phẳng"
-    },
-    {
-      "word": "ニット帽",
-      "reading": "ニットぼう",
-      "meaning": "mũ dệt kim"
-    },
-    {
-      "word": "鉄帽",
-      "reading": "てつぼう",
-      "meaning": "mũ sắt"
-    },
-    {
       "word": "中帽",
       "reading": "なかぼう",
       "meaning": "hàng mũ sắt"
+    },
+    {
+      "word": "無帽",
+      "reading": "むぼう",
+      "meaning": "đầu trần"
+    },
+    {
+      "word": "安全帽",
+      "reading": "あんぜんぼう",
+      "meaning": "mũ nón an toàn"
+    },
+    {
+      "word": "着帽",
+      "reading": "ちゃくぼう",
+      "meaning": "đội mũ"
     }
   ]
 }

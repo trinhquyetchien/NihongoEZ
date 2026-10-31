@@ -94,39 +94,9 @@
       "meaning": "đường dây"
     },
     {
-      "word": "バインド線線 バインドせん",
-      "reading": "バインド線",
-      "meaning": "thép buộc có vỏ bọc"
-    },
-    {
-      "word": "単線式回線",
-      "reading": "たんせんしきかいせん",
-      "meaning": "dây dẫn đơn"
-    },
-    {
-      "word": "接線（曲線の…）",
-      "reading": "せっせん（きょくせんの…）",
-      "meaning": "tiếp tuyến"
-    },
-    {
-      "word": "劣線がた",
-      "reading": "劣線型",
-      "meaning": "tuyến tính dưới"
-    },
-    {
-      "word": "杆線むし",
-      "reading": "杆線虫",
-      "meaning": "giun rhabditoidea"
-    },
-    {
-      "word": "劣線がたの",
-      "reading": "劣線型の",
-      "meaning": "dưới tuyến tính"
-    },
-    {
-      "word": "杆線むしめ",
-      "reading": "杆線虫目",
-      "meaning": "bộ giun tròn rhabditida"
+      "word": "曲線",
+      "reading": "きょくせん",
+      "meaning": "đường gấp khúc"
     },
     {
       "word": "光線",
@@ -134,9 +104,39 @@
       "meaning": "nắng"
     },
     {
-      "word": "目線",
-      "reading": "めせん",
-      "meaning": "quan điểm"
+      "word": "中線",
+      "reading": "ちゅうせん",
+      "meaning": "đường trung tuyến"
+    },
+    {
+      "word": "三線",
+      "reading": "さんしん",
+      "meaning": "đàn 3 dây của okinawa"
+    },
+    {
+      "word": "黒線",
+      "reading": "こくせん",
+      "meaning": "hàng đen"
+    },
+    {
+      "word": "巻線",
+      "reading": "まきせん",
+      "meaning": "cuộn dây"
+    },
+    {
+      "word": "線種",
+      "reading": "せんしゅ",
+      "meaning": "các loại đường"
+    },
+    {
+      "word": "枠線",
+      "reading": "わくせん",
+      "meaning": "lưới - hàng"
+    },
+    {
+      "word": "線毛",
+      "reading": "せんもう",
+      "meaning": "độc lực"
     }
   ]
 }

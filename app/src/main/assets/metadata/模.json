@@ -105,39 +105,14 @@
   ],
   "vocabulary": [
     {
-      "word": "模試",
-      "reading": "もし",
-      "meaning": "giả bộ kỳ thi"
-    },
-    {
-      "word": "模索",
-      "reading": "もさく",
-      "meaning": "tìm kiếm bằng tay"
-    },
-    {
-      "word": "酸模",
-      "reading": "すかんぽ",
-      "meaning": "vườn nâu đỏ"
-    },
-    {
-      "word": "模糊",
-      "reading": "もこ",
-      "meaning": "sự không rõ"
-    },
-    {
-      "word": "模本",
-      "reading": "もほん",
-      "meaning": "sao chép một bản thảo nguyên bản"
-    },
-    {
       "word": "模様",
       "reading": "もよう",
       "meaning": "hoa văn"
     },
     {
-      "word": "模倣",
-      "reading": "もほう",
-      "meaning": "sự bắt chước"
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "qui mô"
     },
     {
       "word": "模型",
@@ -145,14 +120,39 @@
       "meaning": "khuôn"
     },
     {
-      "word": "模造",
-      "reading": "もぞう",
-      "meaning": "sự chế tạo theo mẫu"
+      "word": "模索",
+      "reading": "もさく",
+      "meaning": "tìm kiếm bằng tay"
+    },
+    {
+      "word": "模倣",
+      "reading": "もほう",
+      "meaning": "sự bắt chước"
     },
     {
       "word": "模範",
       "reading": "もはん",
       "meaning": "chuẩn mực"
+    },
+    {
+      "word": "大規模",
+      "reading": "だいきぼ",
+      "meaning": "quy mô lớn"
+    },
+    {
+      "word": "色模様",
+      "reading": "いろもよう",
+      "meaning": "mẫu hoa văn có màu sắc"
+    },
+    {
+      "word": "花模様",
+      "reading": "はなもよう",
+      "meaning": "mẫu hoa"
+    },
+    {
+      "word": "絵模様",
+      "reading": "えもよう",
+      "meaning": "thiết kế sinh động"
     }
   ]
 }

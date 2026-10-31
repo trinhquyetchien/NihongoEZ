@@ -90,39 +90,19 @@
       "meaning": "thuyền"
     },
     {
-      "word": "艇庫",
-      "reading": "ていこ",
-      "meaning": "kho đặt trên tàu"
+      "word": "艇体",
+      "reading": "ていたい",
+      "meaning": "thân tàu"
     },
     {
-      "word": "漕艇",
-      "reading": "そうてい",
-      "meaning": "sự chèo thuyền"
+      "word": "艇長",
+      "reading": "ていちょう",
+      "meaning": "chỉ huy"
     },
     {
-      "word": "舟艇",
-      "reading": "しゅうてい",
-      "meaning": "tàu nhỏ"
-    },
-    {
-      "word": "艦艇",
-      "reading": "かんてい",
-      "meaning": "đoàn xe"
-    },
-    {
-      "word": "競艇",
-      "reading": "きょうてい",
-      "meaning": "cuộc đua thuyền máy"
-    },
-    {
-      "word": "汽艇",
-      "reading": "きてい",
-      "meaning": "sự hạ thuỷ"
-    },
-    {
-      "word": "短艇",
-      "reading": "たんてい",
-      "meaning": "tàu thuyền"
+      "word": "船艇",
+      "reading": "せんてい",
+      "meaning": "bình"
     },
     {
       "word": "艇首",
@@ -130,9 +110,29 @@
       "meaning": "mũi thuyền"
     },
     {
-      "word": "艇身",
-      "reading": "ていしん",
-      "meaning": "chiều dài của tàu"
+      "word": "飛行艇",
+      "reading": "ひこうてい",
+      "meaning": "máy bay đổ xuống nước được"
+    },
+    {
+      "word": "警備艇",
+      "reading": "けいびてい",
+      "meaning": "tàu bảo vệ cảng"
+    },
+    {
+      "word": "救助艇",
+      "reading": "きゅうじょてい",
+      "meaning": "tàu"
+    },
+    {
+      "word": "消防艇",
+      "reading": "しょうぼうてい",
+      "meaning": "tàu chữa cháy"
+    },
+    {
+      "word": "飛空艇",
+      "reading": "ひくうてい",
+      "meaning": "siêu du thuyền bay"
     }
   ]
 }

@@ -55,19 +55,14 @@
       "meaning": "diều hâu"
     },
     {
-      "word": "ミシシッピー鳶",
-      "reading": "ミシシッピーとび",
-      "meaning": "ictinia mississippiensis"
+      "word": "鳶子",
+      "reading": "とびこ",
+      "meaning": "thợ cầu tàu"
     },
     {
-      "word": "鳶尾",
-      "reading": "いちはつ",
-      "meaning": "hoa đuôi diều"
-    },
-    {
-      "word": "鳶ズボン",
-      "reading": "とびズボン",
-      "meaning": "quần baggy công nhân xây dựng"
+      "word": "鳶足",
+      "reading": "とんびあし",
+      "meaning": "kiểu ngồi chân gập ra sau"
     },
     {
       "word": "糞鳶",
@@ -75,29 +70,34 @@
       "meaning": "common buzzard"
     },
     {
-      "word": "鳶子",
-      "reading": "とびこ",
-      "meaning": "thợ cầu tàu"
+      "word": "鳶工",
+      "reading": "とびこう",
+      "meaning": "công nhân xây dựng làm việc trên giàn giáo"
     },
     {
-      "word": "昼鳶",
-      "reading": "ひるとんび",
-      "meaning": "kẻ trộm ngày"
+      "word": "燕鳶",
+      "reading": "つばめとび",
+      "meaning": "tổ yến"
     },
     {
-      "word": "鳶色",
-      "reading": "とびいろ",
-      "meaning": "màu nâu hơi đỏ"
-    },
-    {
-      "word": "鳶口",
-      "reading": "とびぐち",
-      "meaning": "họng chữa cháy"
+      "word": "鳶合羽",
+      "reading": "とんびがっぱ",
+      "meaning": "inverness cape"
     },
     {
       "word": "鳶職",
       "reading": "とびしょく",
       "meaning": "công nhân xây dựng"
+    },
+    {
+      "word": "鳶職人",
+      "reading": "とびしょくにん",
+      "meaning": "công nhân xây dựng"
+    },
+    {
+      "word": "鳶色",
+      "reading": "とびいろ",
+      "meaning": "màu nâu hơi đỏ"
     }
   ]
 }

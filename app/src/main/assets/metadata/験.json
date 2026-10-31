@@ -93,19 +93,9 @@
   ],
   "vocabulary": [
     {
-      "word": "験",
-      "reading": "げん",
-      "meaning": "đánh dấu"
-    },
-    {
-      "word": "試験室試験",
-      "reading": "しけんしつしけん",
-      "meaning": "kiểm tra trong phòng thí nghiệm"
-    },
-    {
-      "word": "被験",
-      "reading": "ひけん",
-      "meaning": "bị kiểm tra"
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "kỳ thi"
     },
     {
       "word": "経験",
@@ -113,34 +103,44 @@
       "meaning": "kinh nghiệm"
     },
     {
-      "word": "受験",
-      "reading": "じゅけん",
-      "meaning": "sự tham gia kì thi"
-    },
-    {
-      "word": "試験",
-      "reading": "しけん",
-      "meaning": "kỳ thi"
-    },
-    {
       "word": "実験",
       "reading": "じっけん",
       "meaning": "thí nghiệm"
     },
     {
-      "word": "効験",
-      "reading": "こうけん",
-      "meaning": "hiệu lực"
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaning": "sự tham gia kì thi"
     },
     {
-      "word": "験算",
-      "reading": "けんざん",
-      "meaning": "sự xác minh những tài khoản"
+      "word": "体験",
+      "reading": "たいけん",
+      "meaning": "sự trải nghiệm"
     },
     {
-      "word": "霊験",
-      "reading": "れいげん",
-      "meaning": "sự linh nghiệm"
+      "word": "経験的",
+      "reading": "けいけんてき",
+      "meaning": "dựa trên kinh nghiệm"
+    },
+    {
+      "word": "性体験",
+      "reading": "せいたいけん",
+      "meaning": "trải nghiệm tình dục"
+    },
+    {
+      "word": "実験的",
+      "reading": "じっけんてき",
+      "meaning": "dựa trên thí nghiệm"
+    },
+    {
+      "word": "本試験",
+      "reading": "ほんしけん",
+      "meaning": "kỳ thi chung cuộc"
+    },
+    {
+      "word": "新体験",
+      "reading": "しんたいけん",
+      "meaning": "trải nghiệm mới"
     }
   ]
 }

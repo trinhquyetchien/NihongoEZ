@@ -36,6 +36,11 @@
       "meaning": "lá kim loại mỏng"
     },
     {
+      "word": "箔力粉",
+      "reading": "はくりょくこ",
+      "meaning": "đóng bánh bột"
+    },
+    {
       "word": "銅箔",
       "reading": "どうはく",
       "meaning": "sự tương phản đồng"
@@ -46,19 +51,9 @@
       "meaning": "vàng lá"
     },
     {
-      "word": "アルミ箔",
-      "reading": "アルミはく",
-      "meaning": "lá nhôm"
-    },
-    {
-      "word": "銀箔",
-      "reading": "ぎんぱく",
-      "meaning": "lá bạc mỏng"
-    },
-    {
-      "word": "摺箔",
-      "reading": "すりはく",
-      "meaning": "kỹ thuật dán vàng bạc lá lên vải"
+      "word": "縫い箔",
+      "reading": "ぬいはく",
+      "meaning": "nghề thêu và sự tương phản hoặc mạ vàng"
     },
     {
       "word": "箔押し",
@@ -66,19 +61,24 @@
       "meaning": "vàng hoặc mạ dát mỏng như chiếc lá"
     },
     {
-      "word": "縫い箔",
-      "reading": "ぬいはく",
-      "meaning": "nghề thêu và sự tương phản hoặc mạ vàng"
+      "word": "摺箔",
+      "reading": "すりはく",
+      "meaning": "kỹ thuật dán vàng bạc lá lên vải"
     },
     {
-      "word": "アルミ箔/フィルム",
-      "reading": "アルミはく/フィルム",
-      "meaning": "giá đỡ bình khí trong thí nghiệm"
+      "word": "銀箔",
+      "reading": "ぎんぱく",
+      "meaning": "lá bạc mỏng"
     },
     {
-      "word": "箔力粉",
-      "reading": "はくりょくこ",
-      "meaning": "đóng bánh bột"
+      "word": "箔を付ける",
+      "reading": "はくをつける",
+      "meaning": "xem trọng"
+    },
+    {
+      "word": "箔が付く",
+      "reading": "はくがつく",
+      "meaning": "làm tăng địa vị"
     }
   ]
 }

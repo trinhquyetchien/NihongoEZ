@@ -89,44 +89,44 @@
   ],
   "vocabulary": [
     {
-      "word": "併",
-      "reading": "へい",
-      "meaning": "có cùng nhau"
+      "word": "合併",
+      "reading": "がっぺい",
+      "meaning": "sát nhập"
     },
     {
-      "word": "併し",
-      "reading": "しかし",
-      "meaning": "tuy nhiên"
+      "word": "併せて",
+      "reading": "あわせて",
+      "meaning": "tập hợp"
     },
     {
-      "word": "併催",
-      "reading": "へいさい",
-      "meaning": "việc tổ chức đồng thời"
+      "word": "併用",
+      "reading": "へいよう",
+      "meaning": "sự cùng sử dụng"
     },
     {
-      "word": "併有",
-      "reading": "へいゆう",
-      "meaning": "đồng sở hữu"
+      "word": "併設",
+      "reading": "へいせつ",
+      "meaning": "sự thành lập"
     },
     {
-      "word": "併進",
-      "reading": "へいしん",
-      "meaning": "sự phát triển đồng thời"
+      "word": "併合",
+      "reading": "へいごう",
+      "meaning": "sự hòa nhập"
     },
     {
-      "word": "併読",
-      "reading": "へいどく",
-      "meaning": "đọc một lúc hai tờ báo hay tiểu thuyết trở lên"
+      "word": "併合罪",
+      "reading": "へいごうざい",
+      "meaning": "những phạm tội trùng hợp"
     },
     {
-      "word": "併起",
+      "word": "併記",
       "reading": "へいき",
-      "meaning": "xuất hiện đồng thời"
+      "meaning": "sự viết sát vào với nhau"
     },
     {
-      "word": "併称",
-      "reading": "へいしょう",
-      "meaning": "phân loại cùng nhau"
+      "word": "合併症",
+      "reading": "がっぺいしょう",
+      "meaning": "biến chứng"
     },
     {
       "word": "併殺",
@@ -134,9 +134,9 @@
       "meaning": "loại cùng lúc hai người"
     },
     {
-      "word": "併行",
-      "reading": "へいこう",
-      "meaning": "đặt song song"
+      "word": "併発",
+      "reading": "へいはつ",
+      "meaning": "sự cùng xảy ra"
     }
   ]
 }

@@ -85,14 +85,14 @@
   ],
   "vocabulary": [
     {
+      "word": "勃起",
+      "reading": "ぼっき",
+      "meaning": "sự cương dương vật"
+    },
+    {
       "word": "勃",
       "reading": "ぼつ",
       "meaning": "bất thình lình lên"
-    },
-    {
-      "word": "勃勃たる",
-      "reading": "ぼつぼつたる",
-      "meaning": "sinh động lên"
     },
     {
       "word": "勃つ",
@@ -100,9 +100,9 @@
       "meaning": "sự cương cứng"
     },
     {
-      "word": "勃起",
-      "reading": "ぼっき",
-      "meaning": "sự cương dương vật"
+      "word": "勃発",
+      "reading": "ぼっぱつ",
+      "meaning": "đột khởi"
     },
     {
       "word": "勃興",
@@ -125,14 +125,14 @@
       "meaning": "tinh thần"
     },
     {
-      "word": "勃発",
-      "reading": "ぼっぱつ",
-      "meaning": "đột khởi"
-    },
-    {
       "word": "勃牙利",
       "reading": "ブルガリア",
       "meaning": "bulgaria"
+    },
+    {
+      "word": "勃然と",
+      "reading": "ぼつぜんと",
+      "meaning": "thình lình"
     }
   ]
 }

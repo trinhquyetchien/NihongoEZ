@@ -91,19 +91,39 @@
   ],
   "vocabulary": [
     {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "có thể"
+    },
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "sự cho phép"
+    },
+    {
       "word": "可",
       "reading": "か",
       "meaning": "có thể"
     },
     {
-      "word": "不可説不可説転",
-      "reading": "ふかせつふかせつてん",
-      "meaning": "số lớn"
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "không kịp"
     },
     {
-      "word": "可分",
-      "reading": "かぶん",
-      "meaning": "có thể chia được"
+      "word": "可決",
+      "reading": "かけつ",
+      "meaning": "sự chấp nhận"
+    },
+    {
+      "word": "許可者",
+      "reading": "きょかしゃ",
+      "meaning": "người cho phép"
+    },
+    {
+      "word": "不可能",
+      "reading": "ふかのう",
+      "meaning": "bất khả kháng"
     },
     {
       "word": "可し",
@@ -111,34 +131,14 @@
       "meaning": "nên"
     },
     {
-      "word": "可算",
-      "reading": "かさん",
-      "meaning": "việc có thể đếm được"
+      "word": "可い",
+      "reading": "べい",
+      "meaning": "từ được sử dụng ở cuối câu để biểu thị sự suy đoán"
     },
     {
-      "word": "印可",
-      "reading": "いんか",
-      "meaning": "việc cấp chứng chỉ"
-    },
-    {
-      "word": "可祝",
-      "reading": "かしく",
-      "meaning": "kính thư"
-    },
-    {
-      "word": "サプレス可",
-      "reading": "サプレスか",
-      "meaning": "có thể chặn được"
-    },
-    {
-      "word": "可燃",
-      "reading": "かねん",
-      "meaning": "dễ cháy"
-    },
-    {
-      "word": "可逆",
-      "reading": "かぎゃく",
-      "meaning": "có thể đảo ngược"
+      "word": "可き",
+      "reading": "べき",
+      "meaning": "nên"
     }
   ]
 }

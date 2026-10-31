@@ -80,6 +80,36 @@
       "meaning": "xương lá mía"
     },
     {
+      "word": "雪鋤",
+      "reading": "ゆきすき",
+      "meaning": "công cụ dọn tuyết"
+    },
+    {
+      "word": "鋤返す",
+      "reading": "すきかえす",
+      "meaning": "cày lên"
+    },
+    {
+      "word": "鋤鼻器",
+      "reading": "じょびき",
+      "meaning": "khứu giác phụ trợ"
+    },
+    {
+      "word": "鋤足蛙",
+      "reading": "すきあしがえる",
+      "meaning": "họ cóc chân xẻng"
+    },
+    {
+      "word": "鋤鍬",
+      "reading": "すきくわ",
+      "meaning": "nông cụ"
+    },
+    {
+      "word": "饂飩鋤",
+      "reading": "うどんすき",
+      "meaning": "lẩu nấu theo kiểu sukiyaki có thêm udon"
+    },
+    {
       "word": "唐鋤",
       "reading": "からすき",
       "meaning": "cái cày"
@@ -88,36 +118,6 @@
       "word": "鋤簾",
       "reading": "じょれん",
       "meaning": "cây tre sàng lọc đã sàng trái đất hoặc cát"
-    },
-    {
-      "word": "鋤鍬",
-      "reading": "すきくわ",
-      "meaning": "nông cụ"
-    },
-    {
-      "word": "鋤く",
-      "reading": "すく",
-      "meaning": "cày"
-    },
-    {
-      "word": "雪鋤",
-      "reading": "ゆきすき",
-      "meaning": "công cụ dọn tuyết"
-    },
-    {
-      "word": "饂飩鋤",
-      "reading": "うどんすき",
-      "meaning": "lẩu nấu theo kiểu sukiyaki có thêm udon"
-    },
-    {
-      "word": "唐鋤星",
-      "reading": "からすきぼし",
-      "meaning": "chòm sao \"tam tinh\" của trung quốc"
-    },
-    {
-      "word": "鋤焼き",
-      "reading": "すきやき",
-      "meaning": "món sukiyaki"
     }
   ]
 }

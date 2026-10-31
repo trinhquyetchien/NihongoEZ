@@ -87,39 +87,19 @@
   ],
   "vocabulary": [
     {
-      "word": "撫でブラシ/撫で刷毛",
-      "reading": "なでブラシ/なではけ",
-      "meaning": "bàn chải vuốt"
+      "word": "撫でる",
+      "reading": "なでる",
+      "meaning": "xoa"
     },
     {
-      "word": "宣撫",
-      "reading": "せんぶ",
-      "meaning": "bình định"
+      "word": "一撫で",
+      "reading": "ひとなで",
+      "meaning": "vuốt nhẹ một lần"
     },
     {
-      "word": "綏撫",
-      "reading": "すいぶ",
-      "meaning": "vuốt ve"
-    },
-    {
-      "word": "撫育",
-      "reading": "ぶいく",
-      "meaning": "sự nuôi nấng kỹ lưỡng"
-    },
-    {
-      "word": "慰撫",
-      "reading": "いぶ",
-      "meaning": "sự an ủi"
-    },
-    {
-      "word": "撫子",
-      "reading": "なでしこ",
-      "meaning": "hoa cẩm chướng"
-    },
-    {
-      "word": "鎮撫",
-      "reading": "ちんぶ",
-      "meaning": "sự bình định"
+      "word": "磯撫で",
+      "reading": "いそなで",
+      "meaning": "quái vật biển huyền thoại"
     },
     {
       "word": "愛撫",
@@ -127,14 +107,34 @@
       "meaning": "sự vuốt ve"
     },
     {
-      "word": "撫でる",
-      "reading": "なでる",
-      "meaning": "xoa"
+      "word": "撫子",
+      "reading": "なでしこ",
+      "meaning": "hoa cẩm chướng"
     },
     {
       "word": "唐撫子",
       "reading": "からなでしこ",
       "meaning": "cẩm chướng gấm"
+    },
+    {
+      "word": "藤撫子",
+      "reading": "ふじなでしこ",
+      "meaning": "dianthus japonicus"
+    },
+    {
+      "word": "浜撫子",
+      "reading": "はまなでしこ",
+      "meaning": "dianthus japonicus"
+    },
+    {
+      "word": "逆撫で",
+      "reading": "さかなで",
+      "meaning": "nói điều gì hoặc làm gì đụng chạm tới người khác"
+    },
+    {
+      "word": "撫切り",
+      "reading": "なでぎり",
+      "meaning": "sạch sẽ quét"
     }
   ]
 }

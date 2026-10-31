@@ -89,44 +89,14 @@
   ],
   "vocabulary": [
     {
-      "word": "がいそく 概測",
-      "reading": "概測",
-      "meaning": "đo đạc sơ bộ"
+      "word": "概論",
+      "reading": "がいろん",
+      "meaning": "khái luận"
     },
     {
-      "word": "概しゅーそくする",
-      "reading": "概収束する",
-      "meaning": "hội tụ gần đúng"
-    },
-    {
-      "word": "概ね",
-      "reading": "おおむね",
-      "meaning": "phần lớn"
-    },
-    {
-      "word": "概形",
-      "reading": "がいけい",
-      "meaning": "hình dạng khái quát"
-    },
-    {
-      "word": "概説",
-      "reading": "がいせつ",
-      "meaning": "sự phác thảo"
-    },
-    {
-      "word": "概要",
-      "reading": "がいよう",
-      "meaning": "phác thảo"
-    },
-    {
-      "word": "概略",
-      "reading": "がいりゃく",
-      "meaning": "khái lược"
-    },
-    {
-      "word": "梗概",
-      "reading": "こうがい",
-      "meaning": "phác thảo"
+      "word": "概念",
+      "reading": "がいねん",
+      "meaning": "khái niệm"
     },
     {
       "word": "大概",
@@ -134,9 +104,39 @@
       "meaning": "sự bao quát"
     },
     {
-      "word": "概況",
-      "reading": "がいきょう",
-      "meaning": "cái nhìn bao quát"
+      "word": "概略",
+      "reading": "がいりゃく",
+      "meaning": "khái lược"
+    },
+    {
+      "word": "一概に",
+      "reading": "いちがいに",
+      "meaning": "cứ"
+    },
+    {
+      "word": "概説",
+      "reading": "がいせつ",
+      "meaning": "sự phác thảo"
+    },
+    {
+      "word": "概念化",
+      "reading": "がいねんか",
+      "meaning": "sự khái niệm hóa"
+    },
+    {
+      "word": "新概念",
+      "reading": "しんがいねん",
+      "meaning": "khái niệm mới"
+    },
+    {
+      "word": "種概念",
+      "reading": "しゅがいねん",
+      "meaning": "những tiền đồng lôgic"
+    },
+    {
+      "word": "概念論",
+      "reading": "がいねんろん",
+      "meaning": "thuyết khái niệm"
     }
   ]
 }

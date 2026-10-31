@@ -91,14 +91,9 @@
   ],
   "vocabulary": [
     {
-      "word": "幾",
-      "reading": "いく",
-      "meaning": "bao nhiêu"
-    },
-    {
-      "word": "幾日も幾日も",
-      "reading": "いくにちもいくにちも",
-      "meaning": "ngày này qua ngày khác"
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "một chút"
     },
     {
       "word": "幾多",
@@ -106,24 +101,24 @@
       "meaning": "nhiều"
     },
     {
-      "word": "幾度",
-      "reading": "いくど",
-      "meaning": "bao nhiêu lần"
-    },
-    {
-      "word": "幾夜",
-      "reading": "いくよ",
-      "meaning": "bao nhiêu đêm"
-    },
-    {
       "word": "幾つ",
       "reading": "いくつ",
       "meaning": "bao nhiêu"
     },
     {
-      "word": "幾日",
-      "reading": "いくにち",
-      "meaning": "bao nhiêu ngày"
+      "word": "幾つも",
+      "reading": "いくつも",
+      "meaning": "nhiều"
+    },
+    {
+      "word": "幾つか",
+      "reading": "いくつか",
+      "meaning": "một ít"
+    },
+    {
+      "word": "お幾つ",
+      "reading": "おいくつ",
+      "meaning": "bao nhiêu tuổi"
     },
     {
       "word": "幾ら",
@@ -131,14 +126,19 @@
       "meaning": "bao nhiêu"
     },
     {
-      "word": "幾世",
-      "reading": "いくよ",
-      "meaning": "rất nhiều năm"
+      "word": "幾らも",
+      "reading": "いくらも",
+      "meaning": "nhiều"
     },
     {
-      "word": "幾重",
-      "reading": "いくえ",
-      "meaning": "nhiều lần nhắc đi nhắc lại"
+      "word": "幾",
+      "reading": "いく",
+      "meaning": "bao nhiêu"
+    },
+    {
+      "word": "幾人",
+      "reading": "いくにん",
+      "meaning": "số người"
     }
   ]
 }

@@ -88,34 +88,14 @@
   ],
   "vocabulary": [
     {
-      "word": "吊具用洋灯吊",
-      "reading": "つりぐようようとうつり",
-      "meaning": "móc treo đèn gắn trần"
-    },
-    {
-      "word": "吊す",
-      "reading": "つるす",
-      "meaning": "để treo"
-    },
-    {
-      "word": "吊虻",
-      "reading": "つりあぶ",
-      "meaning": "ruồi ong"
-    },
-    {
-      "word": "吊花",
-      "reading": "つりばな",
-      "meaning": "euonymus oxyphyllus"
-    },
-    {
       "word": "吊る",
       "reading": "つる",
       "meaning": "treo màn"
     },
     {
-      "word": "吊し",
-      "reading": "つるし",
-      "meaning": "quần áo làm sẵn"
+      "word": "吊るす",
+      "reading": "つるす",
+      "meaning": "để treo"
     },
     {
       "word": "吊り",
@@ -123,19 +103,39 @@
       "meaning": "tải trọng cần cẩu"
     },
     {
-      "word": "懸吊",
-      "reading": "けんちょう",
-      "meaning": "sự treo"
+      "word": "中吊り",
+      "reading": "なかづり",
+      "meaning": "quảng cáo treo trong tàu hỏa"
     },
     {
-      "word": "吊革",
-      "reading": "つりかわ",
-      "meaning": "cái để nắm tay treo ở tàu"
+      "word": "吊り目",
+      "reading": "つりめ",
+      "meaning": "mắt xếch"
     },
     {
-      "word": "吊橋",
-      "reading": "つりばし",
-      "meaning": "cầu treo"
+      "word": "吊り手",
+      "reading": "つりて",
+      "meaning": "túm cổ áo đối phương trong judo"
+    },
+    {
+      "word": "吊り車",
+      "reading": "つりくるま",
+      "meaning": "bánh lăn cửa trượt"
+    },
+    {
+      "word": "雪吊り",
+      "reading": "ゆきづり",
+      "meaning": "việc giăng mùng tránh tuyết cho cây"
+    },
+    {
+      "word": "吊り床",
+      "reading": "つりどこ",
+      "meaning": "cái võng"
+    },
+    {
+      "word": "吊り輪",
+      "reading": "つりわ",
+      "meaning": "reo"
     }
   ]
 }

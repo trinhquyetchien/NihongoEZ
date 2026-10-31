@@ -92,34 +92,34 @@
   ],
   "vocabulary": [
     {
+      "word": "群れ",
+      "reading": "むれ",
+      "meaning": "tốp"
+    },
+    {
       "word": "群",
       "reading": "ぐん",
       "meaning": "nhóm"
     },
     {
-      "word": "蜂群崩壊症候群",
-      "reading": "ほうぐんほうかいしょうこうぐん",
-      "meaning": "chứng rối loạn sụt giảm bầy đàn"
+      "word": "群集",
+      "reading": "ぐんしゅう",
+      "meaning": "đám đông"
     },
     {
-      "word": "半群",
-      "reading": "はんぐん",
-      "meaning": "nửa nhóm"
+      "word": "出群",
+      "reading": "しゅつぐん",
+      "meaning": "sự xuất sắc"
     },
     {
-      "word": "群生",
-      "reading": "ぐんせい",
-      "meaning": "nhiều người"
+      "word": "群部",
+      "reading": "ぐんぶ",
+      "meaning": "các huyện ngoại thành"
     },
     {
-      "word": "一群",
-      "reading": "いちぐん",
-      "meaning": "nhóm"
-    },
-    {
-      "word": "加群",
-      "reading": "かぐん",
-      "meaning": "nhóm cộng"
+      "word": "群体",
+      "reading": "ぐんたい",
+      "meaning": "tập thể"
     },
     {
       "word": "群書",
@@ -127,19 +127,19 @@
       "meaning": "nhiều sách"
     },
     {
-      "word": "群像",
-      "reading": "ぐんぞう",
-      "meaning": "quần tượng"
+      "word": "語群",
+      "reading": "ごぐん",
+      "meaning": "nhóm ngôn ngữ"
     },
     {
-      "word": "群島",
-      "reading": "ぐんとう",
-      "meaning": "quần đảo"
+      "word": "星群",
+      "reading": "せいぐん",
+      "meaning": "mô hình các ngôi sao"
     },
     {
-      "word": "群体",
-      "reading": "ぐんたい",
-      "meaning": "tập thể"
+      "word": "半群",
+      "reading": "はんぐん",
+      "meaning": "nửa nhóm"
     }
   ]
 }

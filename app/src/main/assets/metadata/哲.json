@@ -89,6 +89,41 @@
   ],
   "vocabulary": [
     {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "triết"
+    },
+    {
+      "word": "哲学か",
+      "reading": "てつがくか",
+      "meaning": "nhà triết học"
+    },
+    {
+      "word": "哲学的",
+      "reading": "てつがくてき",
+      "meaning": "mang tính triết học"
+    },
+    {
+      "word": "哲学者",
+      "reading": "てつがくしゃ",
+      "meaning": "triết gia"
+    },
+    {
+      "word": "法哲学",
+      "reading": "ほうてつがく",
+      "meaning": "triết học về luật"
+    },
+    {
+      "word": "哲学書",
+      "reading": "てつがくしょ",
+      "meaning": "sách triết học"
+    },
+    {
+      "word": "哲学史",
+      "reading": "てつがくし",
+      "meaning": "lịch sử triết học"
+    },
+    {
       "word": "哲",
       "reading": "あきら",
       "meaning": "hiền nhân"
@@ -99,44 +134,9 @@
       "meaning": "triết học trung hoa"
     },
     {
-      "word": "哲人",
-      "reading": "てつじん",
-      "meaning": "nhà thông thái"
-    },
-    {
       "word": "前哲",
       "reading": "ぜんてつ",
       "meaning": "những cựu người đàn ông tính khôn ngoan và sự trinh tiết"
-    },
-    {
-      "word": "先哲",
-      "reading": "せんてつ",
-      "meaning": "nhà hiền triết cổ đại"
-    },
-    {
-      "word": "賢哲",
-      "reading": "けんてつ",
-      "meaning": "nhà hiền triết"
-    },
-    {
-      "word": "印哲",
-      "reading": "いんてつ",
-      "meaning": "triết học ấn độ"
-    },
-    {
-      "word": "西哲",
-      "reading": "せいてつ",
-      "meaning": "triết học phương tây"
-    },
-    {
-      "word": "聖哲",
-      "reading": "せいてつ",
-      "meaning": "người đàn ông khôn ngoan"
-    },
-    {
-      "word": "変哲",
-      "reading": "へんてつ",
-      "meaning": "sự bất thường"
     }
   ]
 }
