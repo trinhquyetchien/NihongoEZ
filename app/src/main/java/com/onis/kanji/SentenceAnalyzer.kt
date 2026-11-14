@@ -16,6 +16,7 @@ data class TokenAnalysis(
     val surface: String,
     val baseForm: String,
     val reading: String,
+    val romaji: String = "",
     val partOfSpeech: String,
     val partOfSpeechVi: String = "",
     val partOfSpeechEn: String = "",
@@ -93,6 +94,7 @@ class SentenceAnalyzer(private val context: Context) {
     init {
         loadGrammarRules()
         loadCompactDictionary()
+        loadEnglishDictionary()
     }
 
     private fun loadCompactDictionary() {
@@ -109,6 +111,20 @@ class SentenceAnalyzer(private val context: Context) {
         }
     }
 
+    private fun loadEnglishDictionary() {
+        try {
+            val jsonStr = context.assets.open("dictionary_en.json").bufferedReader().use { it.readText() }
+            val obj = JSONObject(jsonStr)
+            val keys = obj.keys()
+            while (keys.hasNext()) {
+                val key = keys.next()
+                vocabCacheEn[key] = obj.getString(key)
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
+
     private fun loadGrammarRules() {
         try {
             val jsonStr = context.assets.open("grammar_rules.json").bufferedReader().use { it.readText() }
@@ -117,8 +133,8 @@ class SentenceAnalyzer(private val context: Context) {
                 val obj = arr.getJSONObject(i)
                 val pattern = obj.getString("pattern")
                 val regexStr = obj.optString("regex", pattern)
-                val meaningVi = obj.getString("meaning")
-                val meaningEn = obj.optString("meaning_en", meaningVi)
+                val meaningVi = obj.optString("meaningVi", obj.optString("meaning", ""))
+                val meaningEn = obj.optString("meaningEn", obj.optString("meaning_en", meaningVi))
                 val level = obj.optString("level", "JLPT")
                 val g = GrammarMatch(pattern, meaningVi, meaningEn, level)
                 grammarList.add(g)
@@ -203,20 +219,30 @@ class SentenceAnalyzer(private val context: Context) {
                 rawTokens.map { token ->
                     val surface = token.surface
                     val baseForm = if (token.baseForm != "*") token.baseForm else surface
-                    val reading = if (token.reading != "*") katakanaToHiragana(token.reading) else ""
-                    val rawPos = token.partOfSpeechLevel1
                     val hasKanji = containsKanji(surface)
+                    val reading = if (token.reading != "*") katakanaToHiragana(token.reading) else {
+                        if (!hasKanji) katakanaToHiragana(surface) else ""
+                    }
+                    val romaji = toRomaji(if (reading.isNotBlank()) reading else surface)
+                    val rawPos = token.partOfSpeechLevel1
 
                     val posVi = mapPosToVietnamese(rawPos)
                     val posEn = mapPosToEnglish(rawPos)
 
-                    val (meaningVi, meaningEn, amHan) = lookupMeanings(surface, baseForm)
+                    var (meaningVi, meaningEn, amHan) = lookupMeanings(surface, baseForm)
+                    if (meaningVi.isNullOrBlank()) {
+                        meaningVi = posVi
+                    }
+                    if (meaningEn.isNullOrBlank()) {
+                        meaningEn = posEn
+                    }
                     val (usageVi, usageEn, examples) = lookupWordExtraInfo(surface, baseForm, rawPos, meaningVi)
 
                     TokenAnalysis(
                         surface = surface,
                         baseForm = baseForm,
                         reading = reading,
+                        romaji = romaji,
                         partOfSpeech = rawPos,
                         partOfSpeechVi = posVi,
                         partOfSpeechEn = posEn,
@@ -258,25 +284,56 @@ class SentenceAnalyzer(private val context: Context) {
     ): String {
         if (tokens.isEmpty()) return sentence
 
-        // Phân loại thành phần câu tiếng Nhật (SOV)
-        // Chủ ngữ (Topic / Subject): đi liền trước は hoặc が
+        // 1. Nhận diện các liên từ mở đầu (ví dụ: そして, しかし, だから, でも...)
+        val firstToken = tokens.firstOrNull()
+        var leadingConnector: String? = null
+        val contentTokens = tokens.toMutableList()
+        if (firstToken != null) {
+            val s = firstToken.surface
+            when (s) {
+                "そして" -> { leadingConnector = if (isEnglish) "And then," else "Và rồi,"; contentTokens.removeAt(0) }
+                "しかし", "でも" -> { leadingConnector = if (isEnglish) "However," else "Tuy nhiên,"; contentTokens.removeAt(0) }
+                "だから", "ですから" -> { leadingConnector = if (isEnglish) "Therefore," else "Vì vậy,"; contentTokens.removeAt(0) }
+                "また" -> { leadingConnector = if (isEnglish) "Also," else "Hơn nữa,"; contentTokens.removeAt(0) }
+                "たとえば" -> { leadingConnector = if (isEnglish) "For example," else "Ví dụ như,"; contentTokens.removeAt(0) }
+            }
+        }
+
+        // 2. Phân loại thành phần câu tiếng Nhật (SOV sang SVO)
+        val timeTokens = mutableListOf<String>()
         val topicTokens = mutableListOf<String>()
         val objectTokens = mutableListOf<String>()
-        val locationOrTimeTokens = mutableListOf<String>()
+        val partnerTokens = mutableListOf<String>()
+        val locationOrDestTokens = mutableListOf<String>()
         val verbOrAdjTokens = mutableListOf<String>()
         val otherTokens = mutableListOf<String>()
 
+        val timeWords = setOf(
+            "今日", "きょう", "明日", "あした", "あす", "昨日", "きのう",
+            "毎日", "まいにち", "今", "いま", "朝", "あさ", "今朝", "けさ",
+            "昼", "ひる", "夜", "よる", "今夜", "こんや", "毎晩", "まいばん",
+            "先週", "せんしゅう", "今週", "こんしゅう", "来週", "らいしゅう",
+            "先月", "せんげつ", "今月", "こんげつ", "来月", "らいげつ",
+            "去年", "きょねん", "今年", "ことし", "来年", "らいねん",
+            "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "日曜日",
+            "いつも", "時々", "ときどき", "たまに", "よく", "最近", "さいきん"
+        )
+
         var pendingTokens = mutableListOf<TokenAnalysis>()
 
-        for (i in tokens.indices) {
-            val token = tokens[i]
+        for (i in contentTokens.indices) {
+            val token = contentTokens[i]
             val surface = token.surface
+            val baseForm = token.baseForm
             val pos = token.partOfSpeech
 
             when (surface) {
                 "は" -> {
+                    val isTime = pendingTokens.any { it.surface in timeWords || it.baseForm in timeWords }
                     val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
-                    if (phrase.isNotBlank()) topicTokens.add(phrase)
+                    if (phrase.isNotBlank()) {
+                        if (isTime) timeTokens.add(phrase) else topicTokens.add(phrase)
+                    }
                     pendingTokens.clear()
                 }
                 "が" -> {
@@ -289,15 +346,33 @@ class SentenceAnalyzer(private val context: Context) {
                     if (phrase.isNotBlank()) objectTokens.add(phrase)
                     pendingTokens.clear()
                 }
-                "に", "で", "へ" -> {
+                "に" -> {
+                    val isTime = pendingTokens.any { it.surface in timeWords || it.baseForm in timeWords }
                     val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
                     if (phrase.isNotBlank()) {
-                        val prep = if (isEnglish) {
-                            if (surface == "で") "at/by" else if (surface == "へ") "to" else "in/at"
+                        if (isTime) {
+                            val prep = if (isEnglish) "at/on" else "vào lúc"
+                            timeTokens.add("$prep $phrase")
                         } else {
-                            if (surface == "で") "ở/bằng" else if (surface == "へ") "đến" else "vào/ở"
+                            val prep = if (isEnglish) "at/to" else "ở/đến"
+                            locationOrDestTokens.add("$prep $phrase")
                         }
-                        locationOrTimeTokens.add("$prep $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "で" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val prep = if (isEnglish) "at/by" else "ở/bằng"
+                        locationOrDestTokens.add("$prep $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "へ" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val prep = if (isEnglish) "to" else "đến"
+                        locationOrDestTokens.add("$prep $phrase")
                     }
                     pendingTokens.clear()
                 }
@@ -305,7 +380,7 @@ class SentenceAnalyzer(private val context: Context) {
                     val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
                     if (phrase.isNotBlank()) {
                         val prep = if (isEnglish) "from" else "từ"
-                        locationOrTimeTokens.add("$prep $phrase")
+                        locationOrDestTokens.add("$prep $phrase")
                     }
                     pendingTokens.clear()
                 }
@@ -313,26 +388,52 @@ class SentenceAnalyzer(private val context: Context) {
                     val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
                     if (phrase.isNotBlank()) {
                         val prep = if (isEnglish) "until/to" else "đến"
-                        locationOrTimeTokens.add("$prep $phrase")
+                        locationOrDestTokens.add("$prep $phrase")
                     }
                     pendingTokens.clear()
                 }
                 "と" -> {
                     val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
                     if (phrase.isNotBlank()) {
-                        val conj = if (isEnglish) "and/with" else "và/cùng"
-                        otherTokens.add("$conj $phrase")
+                        val conj = if (isEnglish) "with" else "cùng"
+                        partnerTokens.add("$conj $phrase")
+                    }
+                    pendingTokens.clear()
+                }
+                "も" -> {
+                    val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                    if (phrase.isNotBlank()) {
+                        val also = if (isEnglish) "also $phrase" else "cũng $phrase"
+                        if (topicTokens.isEmpty()) topicTokens.add(also) else objectTokens.add(also)
                     }
                     pendingTokens.clear()
                 }
                 else -> {
                     if (pos in listOf("動詞", "形容詞", "形容動詞")) {
+                        // Nếu có pendingTokens trước động từ mà chưa có trợ từ
+                        if (pendingTokens.isNotEmpty()) {
+                            val phrase = pendingTokens.mapNotNull { cleanFirstMeaning(it, isEnglish) }.joinToString(" ")
+                            if (phrase.isNotBlank()) {
+                                val isTime = pendingTokens.any { it.surface in timeWords || it.baseForm in timeWords }
+                                if (isTime) timeTokens.add(phrase)
+                                else if (topicTokens.isEmpty()) topicTokens.add(phrase)
+                                else objectTokens.add(phrase)
+                            }
+                            pendingTokens.clear()
+                        }
                         val vMeaning = cleanFirstMeaning(token, isEnglish)
                         if (!vMeaning.isNullOrBlank()) {
                             verbOrAdjTokens.add(vMeaning)
                         }
                     } else if (pos in listOf("名詞", "副詞", "連体詞", "感動詞")) {
-                        pendingTokens.add(token)
+                        if (surface in timeWords || baseForm in timeWords) {
+                            val timePhrase = cleanFirstMeaning(token, isEnglish)
+                            if (!timePhrase.isNullOrBlank()) {
+                                timeTokens.add(timePhrase)
+                            }
+                        } else {
+                            pendingTokens.add(token)
+                        }
                     }
                 }
             }
@@ -347,40 +448,73 @@ class SentenceAnalyzer(private val context: Context) {
             }
         }
 
-        // Kiểm tra thì/thể ngữ pháp đặc biệt
-        val sentenceStr = sentence
+        // 3. Xử lý thì/thể và thái độ động từ (De-inflection Aspect/Mood)
         var aspectPrefix = ""
         var aspectSuffix = ""
+        val s = sentence
+
         if (!isEnglish) {
             when {
-                sentenceStr.contains("ています") || sentenceStr.contains("ている") -> aspectPrefix = "đang "
-                sentenceStr.contains("てください") -> aspectPrefix = "xin hãy "
-                sentenceStr.contains("たい") -> aspectPrefix = "muốn "
-                sentenceStr.contains("なければならない") -> aspectPrefix = "phải "
-                sentenceStr.contains("ことができる") -> aspectPrefix = "có thể "
-                sentenceStr.contains("たことがある") -> aspectPrefix = "đã từng "
-                sentenceStr.contains("ました") || sentenceStr.contains("た") -> aspectPrefix = "đã "
-                sentenceStr.contains("ない") || sentenceStr.contains("ません") -> aspectPrefix = "không "
+                s.contains("てはいけない") || s.contains("ちゃいけない") -> aspectPrefix = "không được "
+                s.contains("てもいい") || s.contains("てもよい") -> aspectPrefix = "có thể "
+                s.contains("てください") || s.contains("てくれ") -> aspectPrefix = "xin hãy "
+                s.contains("ないでください") -> aspectPrefix = "xin đừng "
+                s.contains("たい") || s.contains("たくない") -> {
+                    aspectPrefix = if (s.contains("たくない")) "không muốn " else "muốn "
+                }
+                s.contains("たことがある") -> aspectPrefix = "đã từng "
+                s.contains("たことがない") -> aspectPrefix = "chưa từng "
+                s.contains("ることができる") || s.contains("ことができる") || s.contains("ことができます") -> aspectPrefix = "có thể "
+                s.contains("ことができない") || s.contains("ことができません") -> aspectPrefix = "không thể "
+                s.contains("ほうがいい") -> aspectPrefix = "nên "
+                s.contains("つもり") -> aspectPrefix = "dự định "
+                s.contains("やすい") -> aspectSuffix = " dễ dàng"
+                s.contains("にくい") -> aspectSuffix = " khó khăn"
+                s.contains("すぎる") || s.contains("すぎます") || s.contains("すぎた") -> aspectSuffix = " quá mức"
+                s.contains("ている") || s.contains("ています") -> aspectPrefix = "đang "
+                s.contains("てしまう") || s.contains("てしまった") || s.contains("ちゃった") -> aspectPrefix = "lỡ "
+                s.contains("てみる") || s.contains("てみます") -> aspectPrefix = "thử "
+                s.contains("かもしれない") || s.contains("かもしれません") -> aspectSuffix = " có lẽ"
+                s.contains("はずだ") || s.contains("はずです") -> aspectPrefix = "chắc chắn "
+                s.contains("わけがない") -> aspectPrefix = "tuyệt đối không thể "
+                s.contains("なければならない") || s.contains("なくてはいけない") || s.contains("なきゃ") -> aspectPrefix = "phải "
+                s.contains("ました") || s.contains("だった") || s.contains("でした") -> aspectPrefix = "đã "
+                s.contains("ない") || s.contains("ません") -> aspectPrefix = "không "
             }
         } else {
             when {
-                sentenceStr.contains("てください") -> aspectPrefix = "please "
-                sentenceStr.contains("たい") -> aspectPrefix = "want to "
-                sentenceStr.contains("なければならない") -> aspectPrefix = "must "
-                sentenceStr.contains("ことができる") -> aspectPrefix = "can "
-                sentenceStr.contains("たことがある") -> aspectPrefix = "have experienced "
-                sentenceStr.contains("ません") || sentenceStr.contains("ない") -> aspectPrefix = "do not "
+                s.contains("てはいけない") -> aspectPrefix = "must not "
+                s.contains("てもいい") -> aspectPrefix = "may "
+                s.contains("てください") -> aspectPrefix = "please "
+                s.contains("ないでください") -> aspectPrefix = "please do not "
+                s.contains("たい") -> aspectPrefix = if (s.contains("たくない")) "do not want to " else "want to "
+                s.contains("たことがある") -> aspectPrefix = "have experienced "
+                s.contains("たことがない") -> aspectPrefix = "have never "
+                s.contains("ることができる") || s.contains("ことができる") -> aspectPrefix = "can "
+                s.contains("ほうがいい") -> aspectPrefix = "had better "
+                s.contains("つもり") -> aspectPrefix = "plan to "
+                s.contains("ている") || s.contains("ています") -> aspectPrefix = "is/are currently "
+                s.contains("なければならない") -> aspectPrefix = "must "
+                s.contains("ない") || s.contains("ません") -> aspectPrefix = "do not "
             }
         }
 
         val resultParts = mutableListOf<String>()
+        if (!leadingConnector.isNullOrBlank()) {
+            resultParts.add(leadingConnector)
+        }
 
-        // 1. Chủ ngữ (S)
+        // 1. Trạng ngữ thời gian (đầu câu)
+        if (timeTokens.isNotEmpty()) {
+            resultParts.add(timeTokens.joinToString(", "))
+        }
+
+        // 2. Chủ ngữ (S)
         if (topicTokens.isNotEmpty()) {
             resultParts.add(topicTokens.joinToString(", "))
         }
 
-        // 2. Vị ngữ / Động từ (V) theo cấu trúc ngữ pháp Việt Nam: S + V + O
+        // 3. Vị ngữ / Động từ (V) theo cấu trúc ngữ pháp Việt Nam: S + V + O
         val verbString = verbOrAdjTokens.joinToString(", ")
         if (verbString.isNotBlank()) {
             resultParts.add("$aspectPrefix$verbString$aspectSuffix".trim())
@@ -388,17 +522,22 @@ class SentenceAnalyzer(private val context: Context) {
             resultParts.add(aspectPrefix.trim())
         }
 
-        // 3. Tân ngữ (O)
+        // 4. Tân ngữ (O)
         if (objectTokens.isNotEmpty()) {
             resultParts.add(objectTokens.joinToString(", "))
         }
 
-        // 4. Trạng ngữ thời gian/địa điểm
-        if (locationOrTimeTokens.isNotEmpty()) {
-            resultParts.add(locationOrTimeTokens.joinToString(", "))
+        // 5. Bạn đồng hành ("với / cùng ...")
+        if (partnerTokens.isNotEmpty()) {
+            resultParts.add(partnerTokens.joinToString(", "))
         }
 
-        // 5. Thành phần bổ sung
+        // 6. Trạng ngữ nơi chốn / phương tiện / đích đến
+        if (locationOrDestTokens.isNotEmpty()) {
+            resultParts.add(locationOrDestTokens.joinToString(", "))
+        }
+
+        // 7. Thành phần bổ sung
         if (otherTokens.isNotEmpty()) {
             resultParts.add(otherTokens.joinToString(", "))
         }
@@ -429,14 +568,21 @@ class SentenceAnalyzer(private val context: Context) {
         return sentence.map { ch ->
             val s = ch.toString()
             val hasK = isKanjiChar(ch)
-            val (meaningVi, meaningEn, amHan) = lookupMeanings(s, s)
+            val reading = if (!hasK) katakanaToHiragana(s) else ""
+            val romaji = toRomaji(if (reading.isNotBlank()) reading else s)
+            var (meaningVi, meaningEn, amHan) = lookupMeanings(s, s)
+            val posVi = if (hasK) "Danh từ" else "Ký hiệu"
+            val posEn = if (hasK) "Noun" else "Symbol"
+            if (meaningVi.isNullOrBlank()) meaningVi = posVi
+            if (meaningEn.isNullOrBlank()) meaningEn = posEn
             TokenAnalysis(
                 surface = s,
                 baseForm = s,
-                reading = "",
+                reading = reading,
+                romaji = romaji,
                 partOfSpeech = if (hasK) "名詞" else "記号",
-                partOfSpeechVi = if (hasK) "Danh từ" else "Ký hiệu",
-                partOfSpeechEn = if (hasK) "Noun" else "Symbol",
+                partOfSpeechVi = posVi,
+                partOfSpeechEn = posEn,
                 meaningVi = meaningVi,
                 meaningEn = meaningEn,
                 hasKanji = hasK,
@@ -675,6 +821,74 @@ class SentenceAnalyzer(private val context: Context) {
             } else {
                 sb.append(c)
             }
+        }
+        return sb.toString()
+    }
+
+    fun toRomaji(kana: String): String {
+        if (kana.isBlank()) return ""
+        val hira = katakanaToHiragana(kana)
+        val sb = StringBuilder()
+        var i = 0
+        val n = hira.length
+
+        val multiMap = mapOf(
+            "きゃ" to "kya", "きゅ" to "kyu", "きょ" to "kyo",
+            "しゃ" to "sha", "しゅ" to "shu", "しょ" to "sho",
+            "ちゃ" to "cha", "ちゅ" to "chu", "ちょ" to "cho",
+            "にゃ" to "nya", "にゅ" to "nyu", "にょ" to "nyo",
+            "ひゃ" to "hya", "ひゅ" to "hyu", "ひょ" to "hyo",
+            "みゃ" to "mya", "みゅ" to "myu", "みょ" to "myo",
+            "りゃ" to "rya", "りゅ" to "ryu", "りょ" to "ryo",
+            "ぎゃ" to "gya", "ぎゅ" to "gyu", "ぎょ" to "gyo",
+            "じゃ" to "ja", "じゅ" to "ju", "じょ" to "jo",
+            "びゃ" to "bya", "びゅ" to "byu", "びょ" to "byo",
+            "ぴゃ" to "pya", "ぴゅ" to "pyu", "ぴょ" to "pyo"
+        )
+
+        val singleMap = mapOf(
+            'あ' to "a", 'い' to "i", 'う' to "u", 'え' to "e", 'お' to "o",
+            'か' to "ka", 'き' to "ki", 'く' to "ku", 'け' to "ke", 'こ' to "ko",
+            'さ' to "sa", 'し' to "shi", 'す' to "su", 'せ' to "se", 'そ' to "so",
+            'た' to "ta", 'ち' to "chi", 'つ' to "tsu", 'て' to "te", 'と' to "to",
+            'な' to "na", 'に' to "ni", 'ぬ' to "nu", 'ね' to "ne", 'の' to "no",
+            'は' to "ha", 'ひ' to "hi", 'ふ' to "fu", 'へ' to "he", 'ほ' to "ho",
+            'ま' to "ma", 'み' to "mi", 'む' to "mu", 'め' to "me", 'も' to "mo",
+            'や' to "ya", 'ゆ' to "yu", 'よ' to "yo",
+            'ら' to "ra", 'り' to "ri", 'る' to "ru", 'れ' to "re", 'ろ' to "ro",
+            'わ' to "wa", 'を' to "wo", 'ん' to "n",
+            'が' to "ga", 'ぎ' to "gi", 'ぐ' to "gu", 'げ' to "ge", 'ご' to "go",
+            'ざ' to "za", 'じ' to "ji", 'ず' to "zu", 'ぜ' to "ze", 'ぞ' to "zo",
+            'だ' to "da", 'ぢ' to "ji", 'づ' to "zu", 'で' to "de", 'ど' to "do",
+            'ば' to "ba", 'び' to "bi", 'ぶ' to "bu", 'べ' to "be", 'ぼ' to "bo",
+            'ぱ' to "pa", 'ぴ' to "pi", 'ぷ' to "pu", 'ぺ' to "pe", 'ぽ' to "po"
+        )
+
+        while (i < n) {
+            if (i + 1 < n) {
+                val pair = hira.substring(i, i + 2)
+                if (multiMap.containsKey(pair)) {
+                    sb.append(multiMap[pair])
+                    i += 2
+                    continue
+                }
+            }
+            val c = hira[i]
+            if (c == 'っ' && i + 1 < n) {
+                val nextPair = if (i + 2 < n) hira.substring(i + 1, i + 3) else ""
+                val nextR = multiMap[nextPair] ?: singleMap[hira[i + 1]] ?: ""
+                if (nextR.isNotEmpty()) {
+                    sb.append(nextR[0])
+                }
+                i++
+                continue
+            }
+            if (singleMap.containsKey(c)) {
+                sb.append(singleMap[c])
+            } else {
+                sb.append(c)
+            }
+            i++
         }
         return sb.toString()
     }

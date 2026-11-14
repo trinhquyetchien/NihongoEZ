@@ -302,13 +302,17 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
 
         item {
             // Canvas Area
+            val canvasBg = MaterialTheme.colorScheme.surface
+            val strokeColor = MaterialTheme.colorScheme.onSurface
+            val gridColor = MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f)
+
             Surface(
                 modifier = Modifier
                     .fillMaxWidth()
                     .aspectRatio(1f)
                     .shadow(8.dp, RoundedCornerShape(24.dp)),
                 shape = RoundedCornerShape(24.dp),
-                color = Color.White,
+                color = canvasBg,
             ) {
                 Canvas(
                     modifier = Modifier
@@ -332,7 +336,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                         }
                 ) {
                     val gridPaint = androidx.compose.ui.graphics.Paint().apply {
-                        color = Color(0xFFE0E0E0)
+                        color = gridColor
                         strokeWidth = 3f
                         pathEffect = androidx.compose.ui.graphics.PathEffect.dashPathEffect(floatArrayOf(20f, 20f), 0f)
                     }
@@ -342,7 +346,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                     val drawStroke = { stroke: List<Offset> ->
                         if (stroke.size == 1) {
                             drawCircle(
-                                color = Color.Black,
+                                color = strokeColor,
                                 radius = KANJI_CANVAS_STROKE_WIDTH / 2f,
                                 center = stroke.first()
                             )
@@ -354,7 +358,7 @@ fun DrawKanjiScreen(viewModel: KanjiViewModel, recognizer: KanjiRecognizer) {
                             }
                             drawPath(
                                 path,
-                                Color.Black,
+                                strokeColor,
                                 style = Stroke(
                                     width = KANJI_CANVAS_STROKE_WIDTH,
                                     cap = StrokeCap.Round,
@@ -965,12 +969,16 @@ fun TranslateAnalyzeScreen(
             title = { Text(AppStrings.drawDialogTitle(lang)) },
             text = {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    val dialogCanvasBg = MaterialTheme.colorScheme.surface
+                    val dialogStrokeColor = MaterialTheme.colorScheme.onSurface
+                    val dialogGridColor = MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f)
+
                     Surface(
                         modifier = Modifier
                             .size(240.dp)
                             .shadow(4.dp, RoundedCornerShape(16.dp)),
                         shape = RoundedCornerShape(16.dp),
-                        color = Color.White
+                        color = dialogCanvasBg
                     ) {
                         Canvas(
                             modifier = Modifier
@@ -993,18 +1001,13 @@ fun TranslateAnalyzeScreen(
                                     )
                                 }
                         ) {
-                            val gridPaint = androidx.compose.ui.graphics.Paint().apply {
-                                color = Color(0xFFE0E0E0)
-                                strokeWidth = 2f
-                                pathEffect = androidx.compose.ui.graphics.PathEffect.dashPathEffect(floatArrayOf(15f, 15f), 0f)
-                            }
-                            drawLine(Color(0xFFE0E0E0), Offset(size.width / 2, 0f), Offset(size.width / 2, size.height), strokeWidth = 2f)
-                            drawLine(Color(0xFFE0E0E0), Offset(0f, size.height / 2), Offset(size.width, size.height / 2), strokeWidth = 2f)
+                            drawLine(dialogGridColor, Offset(size.width / 2, 0f), Offset(size.width / 2, size.height), strokeWidth = 2f)
+                            drawLine(dialogGridColor, Offset(0f, size.height / 2), Offset(size.width, size.height / 2), strokeWidth = 2f)
 
                             val drawStroke = { stroke: List<Offset> ->
                                 if (stroke.size == 1) {
                                     drawCircle(
-                                        color = Color.Black,
+                                        color = dialogStrokeColor,
                                         radius = KANJI_CANVAS_STROKE_WIDTH / 2f,
                                         center = stroke.first()
                                     )
@@ -1016,7 +1019,7 @@ fun TranslateAnalyzeScreen(
                                     }
                                     drawPath(
                                         path,
-                                        Color.Black,
+                                        dialogStrokeColor,
                                         style = Stroke(width = KANJI_CANVAS_STROKE_WIDTH, cap = StrokeCap.Round, join = StrokeJoin.Round)
                                     )
                                 }
@@ -1154,6 +1157,15 @@ fun SingleLineTokenCard(
                             style = MaterialTheme.typography.bodyMedium,
                             fontWeight = FontWeight.Medium,
                             color = MaterialTheme.colorScheme.primary
+                        )
+                    }
+                    if (token.romaji.isNotBlank() && token.romaji != token.surface) {
+                        Spacer(Modifier.width(6.dp))
+                        Text(
+                            "/${token.romaji}/",
+                            style = MaterialTheme.typography.bodySmall,
+                            fontWeight = FontWeight.Normal,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.8f)
                         )
                     }
                     if (!token.amHan.isNullOrBlank()) {
