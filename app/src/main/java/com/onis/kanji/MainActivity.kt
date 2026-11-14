@@ -13,6 +13,7 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -1348,13 +1349,18 @@ fun renderStrokesToBitmap(strokes: List<List<Offset>>): Bitmap {
 
 @Composable
 fun KanjiCandidateCard(kanji: String, confidence: Float, meaning: String, selected: Boolean, onClick: () -> Unit) {
+    val cardBg = if (selected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surface
+    val contentColor = if (selected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface
+    val subColor = if (selected) MaterialTheme.colorScheme.onPrimary.copy(alpha = 0.8f) else MaterialTheme.colorScheme.onSurfaceVariant
+    val borderColor = if (selected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.outlineVariant
+
     Surface(
         modifier = Modifier
             .size(80.dp, 90.dp)
             .clickable { onClick() },
         shape = RoundedCornerShape(16.dp),
-        color = if (selected) MaterialTheme.colorScheme.primary else Color.White,
-        border = BorderStroke(1.dp, if (selected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.outlineVariant)
+        color = cardBg,
+        border = BorderStroke(1.dp, borderColor)
     ) {
         Column(
             modifier = Modifier.fillMaxSize().padding(4.dp),
@@ -1365,12 +1371,12 @@ fun KanjiCandidateCard(kanji: String, confidence: Float, meaning: String, select
                 kanji,
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Bold,
-                color = if (selected) Color.White else MaterialTheme.colorScheme.onSurface
+                color = contentColor
             )
             Text(
                 if (meaning.isNotBlank()) meaning.take(8) else "${(confidence * 100).toInt()}%",
                 style = MaterialTheme.typography.bodySmall,
-                color = if (selected) Color.White.copy(alpha = 0.8f) else MaterialTheme.colorScheme.onSurfaceVariant,
+                color = subColor,
                 maxLines = 1
             )
         }
@@ -1547,7 +1553,8 @@ fun KanjiDetailsSection(candidate: KanjiPrediction, lang: AppLanguage = AppLangu
                         modifier = Modifier
                             .fillMaxWidth()
                             .clip(RoundedCornerShape(18.dp))
-                            .background(Color.White),
+                            .background(MaterialTheme.colorScheme.surface)
+                            .border(1.dp, MaterialTheme.colorScheme.outlineVariant, RoundedCornerShape(18.dp)),
                         contentScale = ContentScale.FillWidth
                     )
                 }
@@ -1558,8 +1565,11 @@ fun KanjiDetailsSection(candidate: KanjiPrediction, lang: AppLanguage = AppLangu
 
 @Composable
 fun AnimatedKanjiSvg(svgUrl: String?, modifier: Modifier = Modifier) {
+    val isDark = isSystemInDarkTheme()
+    val placeholderBg = MaterialTheme.colorScheme.surface
+
     if (svgUrl == null) {
-        Box(modifier = modifier.background(Color.White), contentAlignment = Alignment.Center) {
+        Box(modifier = modifier.background(placeholderBg), contentAlignment = Alignment.Center) {
             Text("SVG not available", color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
         return
@@ -1573,17 +1583,26 @@ fun AnimatedKanjiSvg(svgUrl: String?, modifier: Modifier = Modifier) {
             .build()
     }
 
-    var svgData by remember { mutableStateOf<ByteArray?>(null) }
-    var svgError by remember { mutableStateOf<String?>(null) }
+    var svgData by remember(svgUrl, isDark) { mutableStateOf<ByteArray?>(null) }
+    var svgError by remember(svgUrl, isDark) { mutableStateOf<String?>(null) }
 
-    LaunchedEffect(svgUrl) {
+    LaunchedEffect(svgUrl, isDark) {
         if (!svgUrl.isNullOrBlank()) {
             try {
                 svgData = withContext(Dispatchers.IO) {
                     val rawSvg = String(context.assets.open(svgUrl).readBytes(), Charsets.UTF_8)
-                    val fixedSvg = if (!rawSvg.contains("xmlns:kvg")) {
+                    var fixedSvg = if (!rawSvg.contains("xmlns:kvg")) {
                         rawSvg.replaceFirst("<svg ", "<svg xmlns:kvg=\"http://kanjivg.tagaini.net\" ")
                     } else rawSvg
+
+                    // Khi ở theme Dark Mode, chỉnh stroke màu đen/tối thành sáng để hiển thị rõ trên nền tối
+                    if (isDark) {
+                        fixedSvg = fixedSvg.replace("stroke:#000000", "stroke:#E0E0E0")
+                            .replace("stroke: #000000", "stroke: #E0E0E0")
+                            .replace("stroke:#000", "stroke:#E0E0E0")
+                            .replace("fill:#808080", "fill:#A0A0A0")
+                    }
+
                     fixedSvg.toByteArray(Charsets.UTF_8)
                 }
             } catch (e: Exception) {
@@ -1594,12 +1613,12 @@ fun AnimatedKanjiSvg(svgUrl: String?, modifier: Modifier = Modifier) {
     }
 
     if (svgError != null) {
-        Box(modifier = modifier.background(Color.White), contentAlignment = Alignment.Center) {
-            Text("Lỗi: $svgError", color = Color.Red, modifier = Modifier.padding(8.dp))
+        Box(modifier = modifier.background(placeholderBg), contentAlignment = Alignment.Center) {
+            Text("Lỗi: $svgError", color = MaterialTheme.colorScheme.error, modifier = Modifier.padding(8.dp))
         }
     } else if (svgData == null) {
-        Box(modifier = Modifier.fillMaxSize().background(Color.White), contentAlignment = Alignment.Center) {
-            CircularProgressIndicator()
+        Box(modifier = modifier.background(placeholderBg), contentAlignment = Alignment.Center) {
+            CircularProgressIndicator(color = MaterialTheme.colorScheme.primary)
         }
     } else {
         SubcomposeAsyncImage(
@@ -1609,18 +1628,18 @@ fun AnimatedKanjiSvg(svgUrl: String?, modifier: Modifier = Modifier) {
                 .crossfade(false)
                 .build(),
             contentDescription = "Stroke order SVG",
-            modifier = modifier.background(Color.White),
+            modifier = modifier.background(placeholderBg),
             contentScale = ContentScale.Fit,
             loading = {
-                Box(modifier = Modifier.fillMaxSize().background(Color.White), contentAlignment = Alignment.Center) {
-                    CircularProgressIndicator()
+                Box(modifier = Modifier.fillMaxSize().background(placeholderBg), contentAlignment = Alignment.Center) {
+                    CircularProgressIndicator(color = MaterialTheme.colorScheme.primary)
                 }
             },
             error = { state ->
                 val err = state.result.throwable.message ?: "Unknown Coil Error"
                 android.util.Log.e("AnimatedKanjiSvg", "Coil error: $err", state.result.throwable)
-                Box(modifier = Modifier.fillMaxSize().background(Color.White), contentAlignment = Alignment.Center) {
-                    Text("Không hiển thị được thứ tự nét: $err", color = Color.Red, modifier = Modifier.padding(8.dp))
+                Box(modifier = Modifier.fillMaxSize().background(placeholderBg), contentAlignment = Alignment.Center) {
+                    Text("Không hiển thị được thứ tự nét: $err", color = MaterialTheme.colorScheme.error, modifier = Modifier.padding(8.dp))
                 }
             }
         )
