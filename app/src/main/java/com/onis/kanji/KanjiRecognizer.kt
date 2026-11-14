@@ -3,6 +3,7 @@ package com.onis.kanji
 import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.Color
+import androidx.core.content.edit
 import org.pytorch.IValue
 import org.pytorch.LiteModuleLoader
 import org.pytorch.Module
@@ -110,7 +111,7 @@ class KanjiRecognizer(private val context: Context) {
                         outputStream.flush()
                     }
                 }
-                prefs.edit().putInt("model_version", currentVersion).apply()
+                prefs.edit { putInt("model_version", currentVersion) }
             } catch (e: Exception) {
                 e.printStackTrace()
             }
@@ -138,7 +139,7 @@ class KanjiRecognizer(private val context: Context) {
 
         // 2. Dummy stroke features tensor (1x24 zeros)
         val inputTensor = Tensor.fromBlob(floatArray, longArrayOf(1, 1, 128, 128))
-        val strokeFeatures = Tensor.fromBlob(FloatArray(24) { 0f }, longArrayOf(1, 24))
+        val strokeFeatures = Tensor.fromBlob(FloatArray(24), longArrayOf(1, 24))
 
         // 3. Inference
         val output = model.forward(IValue.from(inputTensor), IValue.from(strokeFeatures)).toTensor()

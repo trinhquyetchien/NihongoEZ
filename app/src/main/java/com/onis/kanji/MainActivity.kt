@@ -4,6 +4,7 @@ import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.Paint
 import android.os.Bundle
+import androidx.core.graphics.createBitmap
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.BorderStroke
@@ -88,7 +89,7 @@ class KanjiViewModel : ViewModel() {
     var fullResult by mutableStateOf<FullAnalysisResult?>(null)
     var isAnalyzing by mutableStateOf(false)
     var viewMode by mutableStateOf(AnalysisViewMode.ALL)
-    var selectedSentenceIndex by mutableStateOf(0)
+    var selectedSentenceIndex by mutableIntStateOf(0)
 
     // Drawing Dialog for Input Bar
     var showDrawDialog by mutableStateOf(false)
@@ -1286,7 +1287,7 @@ fun SingleLineTokenCard(
 // REUSABLE COMPONENTS & UTILS
 // -------------------------------------------------------------------------
 fun renderStrokesToBitmap(strokes: List<List<Offset>>): Bitmap {
-    val bmp = Bitmap.createBitmap(KANJI_EXPORT_SIZE, KANJI_EXPORT_SIZE, Bitmap.Config.ARGB_8888)
+    val bmp = createBitmap(KANJI_EXPORT_SIZE, KANJI_EXPORT_SIZE, Bitmap.Config.ARGB_8888)
     val canvas = android.graphics.Canvas(bmp)
     canvas.drawColor(android.graphics.Color.WHITE)
     val paint = Paint().apply {
