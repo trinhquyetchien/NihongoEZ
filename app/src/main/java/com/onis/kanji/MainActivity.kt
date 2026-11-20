@@ -86,6 +86,7 @@ class KanjiViewModel : ViewModel() {
     var selectedKanji by mutableStateOf<String?>(null)
 
     // Translate & Sentence Analyzer State
+    var translationDirection by mutableStateOf(TranslationDirection.JA_TO_TARGET)
     var inputText by mutableStateOf("")
     var fullResult by mutableStateOf<FullAnalysisResult?>(null)
     var isAnalyzing by mutableStateOf(false)
@@ -541,23 +542,106 @@ fun TranslateAnalyzeScreen(
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.primary
             )
+            Spacer(Modifier.height(10.dp))
+        }
+
+        // Thanh chuyển đổi chiều dịch: Nhật -> Việt/Anh  ⇄  Việt/Anh -> Nhật
+        item {
+            Surface(
+                shape = RoundedCornerShape(12.dp),
+                color = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.7f),
+                border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f)),
+                modifier = Modifier.fillMaxWidth()
+            ) {
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(4.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    val isJaToTarget = viewModel.translationDirection == TranslationDirection.JA_TO_TARGET
+
+                    // Button 1: Nhật -> Đích
+                    Surface(
+                        modifier = Modifier
+                            .weight(1f)
+                            .clip(RoundedCornerShape(8.dp))
+                            .clickable {
+                                if (!isJaToTarget) {
+                                    viewModel.translationDirection = TranslationDirection.JA_TO_TARGET
+                                    viewModel.inputText = ""
+                                    viewModel.fullResult = null
+                                }
+                            },
+                        color = if (isJaToTarget) MaterialTheme.colorScheme.primary else Color.Transparent,
+                        shadowElevation = if (isJaToTarget) 2.dp else 0.dp
+                    ) {
+                        Box(
+                            contentAlignment = Alignment.Center,
+                            modifier = Modifier.padding(vertical = 8.dp, horizontal = 4.dp)
+                        ) {
+                            Text(
+                                AppStrings.directionJaToTarget(lang),
+                                style = MaterialTheme.typography.labelMedium,
+                                fontWeight = if (isJaToTarget) FontWeight.Bold else FontWeight.Medium,
+                                color = if (isJaToTarget) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                    }
+
+                    Spacer(Modifier.width(4.dp))
+
+                    // Button 2: Đích -> Nhật (Dịch ngược)
+                    Surface(
+                        modifier = Modifier
+                            .weight(1f)
+                            .clip(RoundedCornerShape(8.dp))
+                            .clickable {
+                                if (isJaToTarget) {
+                                    viewModel.translationDirection = TranslationDirection.TARGET_TO_JA
+                                    viewModel.inputText = ""
+                                    viewModel.fullResult = null
+                                }
+                            },
+                        color = if (!isJaToTarget) MaterialTheme.colorScheme.primary else Color.Transparent,
+                        shadowElevation = if (!isJaToTarget) 2.dp else 0.dp
+                    ) {
+                        Box(
+                            contentAlignment = Alignment.Center,
+                            modifier = Modifier.padding(vertical = 8.dp, horizontal = 4.dp)
+                        ) {
+                            Text(
+                                AppStrings.directionTargetToJa(lang),
+                                style = MaterialTheme.typography.labelMedium,
+                                fontWeight = if (!isJaToTarget) FontWeight.Bold else FontWeight.Medium,
+                                color = if (!isJaToTarget) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                    }
+                }
+            }
             Spacer(Modifier.height(12.dp))
         }
 
         item {
-            // Thanh nhập văn bản có nút Vẽ Kanji
+            val isReverse = viewModel.translationDirection == TranslationDirection.TARGET_TO_JA
+            // Thanh nhập văn bản có nút Vẽ Kanji (chỉ hiện vẽ khi chiều là Nhật -> Đích)
             OutlinedTextField(
                 value = viewModel.inputText,
                 onValueChange = { viewModel.inputText = it },
-                label = { Text(AppStrings.inputLabel(lang)) },
+                label = {
+                    Text(if (isReverse) AppStrings.inputLabelReverse(lang) else AppStrings.inputLabel(lang))
+                },
                 modifier = Modifier.fillMaxWidth(),
                 trailingIcon = {
-                    IconButton(onClick = {
-                        viewModel.dialogPoints = emptyList()
-                        viewModel.dialogPredictions = emptyList()
-                        viewModel.showDrawDialog = true
-                    }) {
-                        Icon(Icons.Default.Create, contentDescription = AppStrings.drawDialogTitle(lang), tint = MaterialTheme.colorScheme.primary)
+                    if (!isReverse) {
+                        IconButton(onClick = {
+                            viewModel.dialogPoints = emptyList()
+                            viewModel.dialogPredictions = emptyList()
+                            viewModel.showDrawDialog = true
+                        }) {
+                            Icon(Icons.Default.Create, contentDescription = AppStrings.drawDialogTitle(lang), tint = MaterialTheme.colorScheme.primary)
+                        }
                     }
                 },
                 shape = RoundedCornerShape(16.dp)
@@ -585,7 +669,11 @@ fun TranslateAnalyzeScreen(
                         coroutineScope.launch {
                             try {
                                 val res = withContext(Dispatchers.Default) {
-                                    analyzer.analyzeFull(viewModel.inputText)
+                                    if (viewModel.translationDirection == TranslationDirection.TARGET_TO_JA) {
+                                        analyzer.translateTargetToJapanese(viewModel.inputText, lang)
+                                    } else {
+                                        analyzer.analyzeFull(viewModel.inputText)
+                                    }
                                 }
                                 viewModel.fullResult = res
                                 viewModel.selectedSentenceIndex = 0
@@ -703,7 +791,11 @@ fun TranslateAnalyzeScreen(
                     ) {
                         Column(modifier = Modifier.padding(16.dp)) {
                             Text(
-                                AppStrings.originalWithFurigana(lang),
+                                if (viewModel.translationDirection == TranslationDirection.TARGET_TO_JA) {
+                                    AppStrings.reverseResultHeader(lang)
+                                } else {
+                                    AppStrings.originalWithFurigana(lang)
+                                },
                                 style = MaterialTheme.typography.labelMedium,
                                 color = MaterialTheme.colorScheme.primary,
                                 fontWeight = FontWeight.Bold

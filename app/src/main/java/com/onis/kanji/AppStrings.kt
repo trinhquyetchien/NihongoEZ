@@ -5,6 +5,11 @@ enum class AppLanguage {
     ENGLISH
 }
 
+enum class TranslationDirection {
+    JA_TO_TARGET, // Tiếng Nhật -> Tiếng Việt/Anh
+    TARGET_TO_JA  // Tiếng Việt/Anh -> Tiếng Nhật
+}
+
 object AppStrings {
     fun appTitle(lang: AppLanguage) = when (lang) {
         AppLanguage.VIETNAMESE -> "Onis Kanji"
@@ -29,6 +34,26 @@ object AppStrings {
     fun inputLabel(lang: AppLanguage) = when (lang) {
         AppLanguage.VIETNAMESE -> "Nhập câu hoặc văn bản tiếng Nhật"
         AppLanguage.ENGLISH -> "Enter Japanese text or sentence"
+    }
+
+    fun inputLabelReverse(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Nhập câu tiếng Việt (ví dụ: Tôi ăn táo, Hôm nay tôi đi trường...)"
+        AppLanguage.ENGLISH -> "Enter English sentence (e.g. I eat apples, Today I go to school...)"
+    }
+
+    fun directionJaToTarget(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "🇯🇵 Nhật ➔ 🇻🇳 Việt"
+        AppLanguage.ENGLISH -> "🇯🇵 JA ➔ 🇬🇧 EN"
+    }
+
+    fun directionTargetToJa(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "🇻🇳 Việt ➔ 🇯🇵 Nhật"
+        AppLanguage.ENGLISH -> "🇬🇧 EN ➔ 🇯🇵 JA"
+    }
+
+    fun reverseResultHeader(lang: AppLanguage) = when (lang) {
+        AppLanguage.VIETNAMESE -> "Bản dịch tiếng Nhật (Kèm phân tích cú pháp SOV):"
+        AppLanguage.ENGLISH -> "Japanese Translation (with SOV syntax breakdown):"
     }
 
     fun clearBtn(lang: AppLanguage) = when (lang) {

@@ -90,6 +90,7 @@ class SentenceAnalyzer(private val context: Context) {
     private val grammarRegexes = mutableListOf<Pair<Regex, GrammarMatch>>()
     private val vocabCacheVi = mutableMapOf<String, String>()
     private val vocabCacheEn = mutableMapOf<String, String>()
+    private val reverseDictVi = mutableMapOf<String, MutableList<String>>()
 
     init {
         loadGrammarRules()
@@ -102,9 +103,24 @@ class SentenceAnalyzer(private val context: Context) {
             val jsonStr = context.assets.open("dictionary_compact.json").bufferedReader().use { it.readText() }
             val obj = JSONObject(jsonStr)
             val keys = obj.keys()
+            val nonAlphaRegex = Regex("[^\\p{L}\\p{Nd}\\s]")
             while (keys.hasNext()) {
                 val key = keys.next()
-                vocabCacheVi[key] = obj.getString(key)
+                val value = obj.getString(key)
+                vocabCacheVi[key] = value
+
+                // Xây dựng reverse dictionary cho dịch ngược
+                val meaning = if (value.contains(':')) value.substringAfter(':').trim() else value
+                val parts = meaning.replace(';', ',').split(',')
+                for (p in parts) {
+                    val clean = p.lowercase().replace(nonAlphaRegex, "").trim()
+                    if (clean.length >= 2) {
+                        val list = reverseDictVi.getOrPut(clean) { mutableListOf() }
+                        if (!list.contains(key)) {
+                            list.add(key)
+                        }
+                    }
+                }
             }
         } catch (e: Exception) {
             e.printStackTrace()
@@ -891,5 +907,337 @@ class SentenceAnalyzer(private val context: Context) {
             i++
         }
         return sb.toString()
+    }
+
+    // -------------------------------------------------------------------------
+    // REVERSE TRANSLATION: VIETNAMESE / ENGLISH -> JAPANESE
+    // -------------------------------------------------------------------------
+
+    private val highPriorityWordsVi = mapOf(
+        "tôi" to "私", "mình" to "私", "bạn" to "あなた", "anh ấy" to "彼", "cô ấy" to "彼女",
+        "chúng tôi" to "私たち", "chúng ta" to "私たち", "các bạn" to "あなたたち", "họ" to "彼ら",
+        "người" to "人", "thầy giáo" to "先生", "cô giáo" to "先生", "học sinh" to "学生", "bác sĩ" to "医者",
+        "bố" to "父", "ba" to "父", "cha" to "父", "mẹ" to "母", "anh trai" to "兄", "chị gái" to "姉",
+        "em trai" to "弟", "em gái" to "妹", "bạn bè" to "友達",
+        // Thời gian
+        "hôm nay" to "今日", "ngày mai" to "明日", "hôm qua" to "昨日", "bây giờ" to "今", "hiện tại" to "今",
+        "mỗi ngày" to "毎日", "buổi sáng" to "朝", "buổi trưa" to "昼", "buổi tối" to "夜",
+        "năm nay" to "今年", "năm sau" to "来年", "năm ngoái" to "去年",
+        // Địa điểm
+        "nhà" to "家", "trường học" to "学校", "trường" to "学校", "công ty" to "会社", "bệnh viện" to "病院",
+        "ngân hàng" to "銀行", "nhà ga" to "駅", "ga" to "駅", "cửa hàng" to "店", "siêu thị" to "スーパー",
+        "nhà hàng" to "レストラン", "quán ăn" to "食堂", "phòng" to "部屋", "công viên" to "公園",
+        // Danh từ / Đồ vật
+        "sách" to "本", "bút" to "ペン", "nước" to "水", "trà" to "お茶", "cà phê" to "コーヒー",
+        "cơm" to "ご飯", "bánh mì" to "パン", "thịt" to "肉", "cá" to "魚", "táo" to "りんご",
+        "hoa quả" to "果物", "trái cây" to "果物", "tiếng nhật" to "日本語", "tiếng việt" to "ベトナム語",
+        "tiếng anh" to "英語", "xe hơi" to "車", "ô tô" to "車", "xe máy" to "バイク", "xe đạp" to "自転車",
+        "phim" to "映画", "nhạc" to "音楽", "thư" to "手紙", "ảnh" to "写真", "tiền" to "お金",
+        // Động từ
+        "ăn" to "食べる", "uống" to "飲む", "đi" to "行く", "đến" to "来る", "về" to "帰る",
+        "mua" to "買う", "bán" to "売る", "đọc" to "読む", "viết" to "書く", "nghe" to "聞く",
+        "nói" to "話す", "xem" to "見る", "nhìn" to "見る", "học" to "勉強する", "làm" to "する",
+        "ngủ" to "寝る", "thức dậy" to "起きる", "gặp" to "会う", "chơi" to "遊ぶ", "chờ" to "待つ",
+        "chụp" to "撮る", "ở" to "いる",
+        // Tính từ
+        "đẹp" to "綺麗", "xinh" to "綺麗", "tốt" to "良い", "ngon" to "美味しい", "dở" to "まずい",
+        "lớn" to "大きい", "to" to "大きい", "nhỏ" to "小さい", "bận" to "忙しい", "rảnh" to "暇",
+        "nóng" to "暑い", "lạnh" to "寒い", "thích" to "好き", "ghét" to "嫌い", "mới" to "新しい", "cũ" to "古い"
+    )
+
+    private val timeVi = setOf(
+        "hôm nay", "ngày mai", "hôm qua", "bây giờ", "hiện tại", "mỗi ngày", "buổi sáng", "buổi trưa", "buổi tối", "năm nay", "năm sau", "năm ngoái"
+    )
+
+    private val placeVi = setOf(
+        "nhà", "trường học", "trường", "công ty", "bệnh viện", "ngân hàng", "nhà ga", "ga", "cửa hàng", "siêu thị", "nhà hàng", "quán ăn", "phòng", "công viên"
+    )
+
+    private val subjectVi = setOf(
+        "tôi", "mình", "bạn", "anh ấy", "cô ấy", "chúng tôi", "chúng ta", "các bạn", "họ", "học sinh", "thầy giáo", "cô giáo", "bác sĩ", "bố", "ba", "cha", "mẹ", "anh trai", "chị gái", "em trai", "em gái", "người"
+    )
+
+    private val motionVerbsVi = setOf("đi", "đến", "về")
+    private val transitiveVerbsVi = setOf("ăn", "uống", "mua", "bán", "đọc", "viết", "nghe", "nói", "xem", "nhìn", "học", "làm", "gặp", "chờ", "chụp")
+    private val adjVi = setOf("đẹp", "xinh", "tốt", "ngon", "dở", "lớn", "to", "nhỏ", "bận", "rảnh", "nóng", "lạnh", "thích", "ghét", "mới", "cũ")
+
+    // Mapping tiếng Anh cho chiều dịch EN -> JA
+    private val highPriorityWordsEn = mapOf(
+        "i" to "私", "me" to "私", "you" to "あなた", "he" to "彼", "she" to "彼女", "we" to "私たち", "they" to "彼ら",
+        "today" to "今日", "tomorrow" to "明日", "yesterday" to "昨日", "now" to "今", "every day" to "毎日",
+        "school" to "学校", "home" to "家", "house" to "家", "company" to "会社", "hospital" to "病院",
+        "station" to "駅", "restaurant" to "レストラン", "room" to "部屋", "park" to "公園",
+        "book" to "本", "water" to "水", "tea" to "お茶", "coffee" to "コーヒー", "rice" to "ご飯",
+        "bread" to "パン", "apple" to "りんご", "meat" to "肉", "fish" to "魚", "movie" to "映画",
+        "music" to "音楽", "letter" to "手紙", "photo" to "写真", "money" to "お金",
+        "eat" to "食べる", "drink" to "飲む", "go" to "行く", "come" to "来る", "return" to "帰る",
+        "buy" to "買う", "sell" to "売る", "read" to "読む", "write" to "書く", "listen" to "聞く",
+        "speak" to "話す", "watch" to "見る", "see" to "見る", "study" to "勉強する", "do" to "する",
+        "sleep" to "寝る", "wake up" to "起きる", "meet" to "会う",
+        "beautiful" to "綺麗", "good" to "良い", "delicious" to "美味しい", "big" to "大きい",
+        "small" to "小さい", "busy" to "忙しい", "free" to "暇", "hot" to "暑い", "cold" to "寒い",
+        "like" to "好き", "hate" to "嫌い", "new" to "新しい", "old" to "古い"
+    )
+
+    private val politeVerbForms = mapOf(
+        "食べる" to mapOf("pres" to "食べます", "past" to "食べました", "neg" to "食べません", "past_neg" to "食べませんでした", "want" to "食べたいです", "req" to "食べてください", "ing" to "食べています", "can" to "食べられます", "must" to "食べなければなりません"),
+        "飲む" to mapOf("pres" to "飲みます", "past" to "飲みました", "neg" to "飲みません", "past_neg" to "飲みませんでした", "want" to "飲みたいです", "req" to "飲んでください", "ing" to "飲んでいます", "can" to "飲めます", "must" to "飲まなければなりません"),
+        "行く" to mapOf("pres" to "行きます", "past" to "行きました", "neg" to "行きません", "past_neg" to "行きませんでした", "want" to "行きたいです", "req" to "行ってください", "ing" to "行っています", "can" to "行けます", "must" to "行かなければなりません"),
+        "来る" to mapOf("pres" to "来ます", "past" to "来ました", "neg" to "来ません", "past_neg" to "来ませんでした", "want" to "来たいです", "req" to "来てください", "ing" to "来ています", "can" to "来られます", "must" to "来なければなりません"),
+        "帰る" to mapOf("pres" to "帰ります", "past" to "帰りました", "neg" to "帰りません", "past_neg" to "帰りませんでした", "want" to "帰りたいです", "req" to "帰ってください", "ing" to "帰っています", "can" to "帰れます", "must" to "帰らなければなりません"),
+        "買う" to mapOf("pres" to "買います", "past" to "買いました", "neg" to "買いません", "past_neg" to "買いませんでした", "want" to "買いたいです", "req" to "買ってください", "ing" to "買っています", "can" to "買えます", "must" to "買わなければなりません"),
+        "読む" to mapOf("pres" to "読みます", "past" to "読みました", "neg" to "読みません", "past_neg" to "読みませんでした", "want" to "読みたいです", "req" to "読んでください", "ing" to "読んでいます", "can" to "読めます", "must" to "読まなければなりません"),
+        "書く" to mapOf("pres" to "書きます", "past" to "書きました", "neg" to "書きません", "past_neg" to "書きませんでした", "want" to "書きたいです", "req" to "書いてください", "ing" to "書いています", "can" to "書けます", "must" to "書かなければなりません"),
+        "聞く" to mapOf("pres" to "聞きます", "past" to "聞きました", "neg" to "聞きません", "past_neg" to "聞きませんでした", "want" to "聞きたいです", "req" to "聞いてください", "ing" to "聞いています", "can" to "聞けます", "must" to "聞かなければなりません"),
+        "話す" to mapOf("pres" to "話します", "past" to "話しました", "neg" to "話しません", "past_neg" to "話しませんでした", "want" to "話したいです", "req" to "話してください", "ing" to "話しています", "can" to "話せます", "must" to "話さなければなりません"),
+        "見る" to mapOf("pres" to "見ます", "past" to "見ました", "neg" to "見ません", "past_neg" to "見ませんでした", "want" to "見たいです", "req" to "見てください", "ing" to "見ています", "can" to "見られます", "must" to "見なければなりません"),
+        "する" to mapOf("pres" to "します", "past" to "しました", "neg" to "しません", "past_neg" to "しませんでした", "want" to "したいです", "req" to "してください", "ing" to "しています", "can" to "できます", "must" to "しなければなりません"),
+        "勉強する" to mapOf("pres" to "勉強します", "past" to "勉強しました", "neg" to "勉強しません", "past_neg" to "勉強しませんでした", "want" to "勉強したいです", "req" to "勉強してください", "ing" to "勉強しています", "can" to "勉強できます", "must" to "勉強しなければなりません"),
+        "寝る" to mapOf("pres" to "寝ます", "past" to "寝ました", "neg" to "寝ません", "past_neg" to "寝ませんでした", "want" to "寝たいです", "req" to "寝てください", "ing" to "寝ています", "can" to "寝られます", "must" to "寝なければなりません"),
+        "起きる" to mapOf("pres" to "起きます", "past" to "起きました", "neg" to "起きません", "past_neg" to "起きませんでした", "want" to "起きたいです", "req" to "起きてください", "ing" to "起きています", "can" to "起きられます", "must" to "起きなければなりません"),
+        "会う" to mapOf("pres" to "会います", "past" to "会いました", "neg" to "会いません", "past_neg" to "会いませんでした", "want" to "会いたいです", "req" to "会ってください", "ing" to "会っています", "can" to "会えます", "must" to "会わなければなりません"),
+        "待つ" to mapOf("pres" to "待ちます", "past" to "待ちました", "neg" to "待ちません", "past_neg" to "待ちませんでした", "want" to "待ちたいです", "req" to "待ってください", "ing" to "待っています", "can" to "待てます", "must" to "待たなければなりません")
+    )
+
+    fun translateTargetToJapanese(input: String, lang: AppLanguage): FullAnalysisResult {
+        val trimmed = input.trim()
+        if (trimmed.isEmpty()) {
+            return FullAnalysisResult(input, emptyList(), emptyList(), emptyList(), "", "")
+        }
+
+        val rawSentences = trimmed.split(Regex("(?<=[.!?\n])")).map { it.trim() }.filter { it.isNotEmpty() }
+        val sentenceList = if (rawSentences.isEmpty()) listOf(trimmed) else rawSentences
+
+        val japaneseSentences = mutableListOf<String>()
+        for (s in sentenceList) {
+            val jaSentence = if (lang == AppLanguage.VIETNAMESE) {
+                translateSingleSentenceViToJa(s)
+            } else {
+                translateSingleSentenceEnToJa(s)
+            }
+            if (jaSentence.isNotBlank()) {
+                japaneseSentences.add(jaSentence)
+            }
+        }
+
+        val fullJapaneseText = japaneseSentences.joinToString(" ")
+        // Đưa câu tiếng Nhật thu được qua bộ phân tích câu đầy đủ (Kuromoji + Grammar)
+        val analysis = analyzeFull(fullJapaneseText)
+
+        // Cập nhật câu gốc hiển thị là câu ban đầu của người dùng
+        return analysis.copy(
+            fullText = fullJapaneseText,
+            fullTranslationVi = if (lang == AppLanguage.VIETNAMESE) trimmed else analysis.fullTranslationVi,
+            fullTranslationEn = if (lang == AppLanguage.ENGLISH) trimmed else analysis.fullTranslationEn
+        )
+    }
+
+    private fun translateSingleSentenceViToJa(sentence: String): String {
+        val text = sentence.lowercase().trim()
+        if (text.isEmpty()) return ""
+
+        // 1. Nhận diện thể / thì (Aspect / Mood)
+        var aspect = "pres"
+        when {
+            text.contains("xin hãy") || text.contains("hãy") || text.contains("làm ơn") -> aspect = "req"
+            text.contains("muốn") -> aspect = "want"
+            text.contains("không được") || text.contains("phải") -> aspect = "must"
+            text.contains("có thể") -> aspect = "can"
+            text.contains("đang") -> aspect = "ing"
+            text.contains("đã") || text.contains("rồi") -> {
+                aspect = if (text.contains("không") || text.contains("chưa")) "past_neg" else "past"
+            }
+            text.contains("không") || text.contains("chưa") -> aspect = "neg"
+        }
+
+        // Loại bỏ các từ chỉ thể / thì để bóc tách từ vựng chính xác
+        val aspectKeywords = listOf(
+            "chưa từng", "đã từng", "xin hãy", "không được", "có thể",
+            "hãy", "làm ơn", "muốn", "phải", "đang", "không", "chưa", "đã", "rồi", "sẽ",
+            "đến", "ở tại", "ở"
+        )
+        var cleaned = text
+        for (kw in aspectKeywords) {
+            cleaned = cleaned.replace(Regex("\\b$kw\\b"), " ")
+        }
+        val nonAlpha = Regex("[^\\p{L}\\p{Nd}\\s]")
+        cleaned = cleaned.replace(nonAlpha, " ").replace(Regex("\\s+"), " ").trim()
+
+        // 2. Longest-match segmentation từ vựng
+        val words = cleaned.split(" ").filter { it.isNotBlank() }
+        val n = words.size
+        var i = 0
+        val extractedTokens = mutableListOf<String>()
+
+        while (i < n) {
+            var matched = false
+            val maxLen = minOf(4, n - i)
+            for (l in maxLen downTo 1) {
+                val phrase = words.subList(i, i + l).joinToString(" ")
+                if (highPriorityWordsVi.containsKey(phrase)) {
+                    extractedTokens.add(phrase)
+                    i += l
+                    matched = true
+                    break
+                }
+            }
+            if (!matched) {
+                // Thử tra cứu từ điển mở rộng reverseDictVi
+                for (l in maxLen downTo 1) {
+                    val phrase = words.subList(i, i + l).joinToString(" ")
+                    val foundList = reverseDictVi[phrase]
+                    if (!foundList.isNullOrEmpty()) {
+                        extractedTokens.add(phrase)
+                        i += l
+                        matched = true
+                        break
+                    }
+                }
+            }
+            if (!matched) {
+                i++
+            }
+        }
+
+        // 3. Phân loại thành phần cú pháp SOV
+        var timePart: String? = null
+        var subjectPart: String? = null
+        var placePart: String? = null
+        var verbKey: String? = null
+        var objectPart: String? = null
+        var adjPart: String? = null
+
+        for (phrase in extractedTokens) {
+            val jaVal = highPriorityWordsVi[phrase] ?: reverseDictVi[phrase]?.firstOrNull() ?: continue
+            when {
+                phrase in timeVi && timePart == null -> timePart = jaVal
+                phrase in subjectVi && subjectPart == null -> subjectPart = jaVal
+                phrase in placeVi && placePart == null -> placePart = jaVal
+                (phrase in transitiveVerbsVi || phrase in motionVerbsVi) && verbKey == null -> verbKey = phrase
+                phrase in adjVi && adjPart == null -> adjPart = jaVal
+                else -> {
+                    if (objectPart == null && phrase !in subjectVi && phrase !in timeVi && phrase !in placeVi) {
+                        objectPart = jaVal
+                    }
+                }
+            }
+        }
+
+        // 4. Ghép câu theo trật tự SOV tiếng Nhật
+        val parts = mutableListOf<String>()
+        if (timePart != null) {
+            parts.add(timePart)
+        }
+        if (subjectPart != null) {
+            parts.add("${subjectPart}は")
+        }
+        if (placePart != null) {
+            if (verbKey in motionVerbsVi) {
+                parts.add("${placePart}へ")
+            } else {
+                parts.add("${placePart}で")
+            }
+        }
+        if (objectPart != null) {
+            if (verbKey == "gặp") {
+                parts.add("${objectPart}に")
+            } else {
+                parts.add("${objectPart}を")
+            }
+        }
+
+        if (verbKey != null) {
+            val baseJa = highPriorityWordsVi[verbKey] ?: reverseDictVi[verbKey]?.firstOrNull() ?: verbKey
+            val conjugated = politeVerbForms[baseJa]?.get(aspect)
+                ?: if (baseJa.endsWith("する")) {
+                    val stem = baseJa.dropLast(2)
+                    stem + (politeVerbForms["する"]?.get(aspect) ?: "します")
+                } else {
+                    "${baseJa}ます"
+                }
+            parts.add(conjugated)
+        } else if (adjPart != null) {
+            parts.add("${adjPart}です")
+        } else if (parts.isEmpty() && extractedTokens.isNotEmpty()) {
+            // Trường hợp tra từ đơn lẻ
+            val firstWord = extractedTokens.first()
+            val ja = highPriorityWordsVi[firstWord] ?: reverseDictVi[firstWord]?.firstOrNull() ?: firstWord
+            parts.add(ja)
+        }
+
+        val result = parts.joinToString("")
+        return if (result.isNotBlank()) "$result。" else ""
+    }
+
+    private fun translateSingleSentenceEnToJa(sentence: String): String {
+        val text = sentence.lowercase().trim()
+        if (text.isEmpty()) return ""
+
+        var aspect = "pres"
+        when {
+            text.contains("please") -> aspect = "req"
+            text.contains("want to") -> aspect = "want"
+            text.contains("must") || text.contains("have to") -> aspect = "must"
+            text.contains("can") -> aspect = "can"
+            text.contains("is ") || text.contains("are ") || text.contains("ing") -> aspect = "ing"
+            text.contains("did not") || text.contains("didn't") -> aspect = "past_neg"
+            text.contains("do not") || text.contains("don't") -> aspect = "neg"
+            text.contains("did") || text.contains("ed ") -> aspect = "past"
+        }
+
+        val words = text.replace(Regex("[^a-zA-Z\\s]"), " ").split(" ").filter { it.isNotBlank() }
+        val extractedTokens = mutableListOf<String>()
+        var i = 0
+        while (i < words.size) {
+            var matched = false
+            val maxLen = minOf(3, words.size - i)
+            for (l in maxLen downTo 1) {
+                val phrase = words.subList(i, i + l).joinToString(" ")
+                if (highPriorityWordsEn.containsKey(phrase)) {
+                    extractedTokens.add(phrase)
+                    i += l
+                    matched = true
+                    break
+                }
+            }
+            if (!matched) i++
+        }
+
+        var timePart: String? = null
+        var subjectPart: String? = null
+        var placePart: String? = null
+        var verbPart: String? = null
+        var objectPart: String? = null
+        var adjPart: String? = null
+
+        for (w in extractedTokens) {
+            val ja = highPriorityWordsEn[w] ?: continue
+            when (w) {
+                "today", "tomorrow", "yesterday", "now", "every day" -> if (timePart == null) timePart = ja
+                "i", "me", "you", "he", "she", "we", "they" -> if (subjectPart == null) subjectPart = ja
+                "school", "home", "house", "company", "hospital", "station", "restaurant", "room", "park" -> if (placePart == null) placePart = ja
+                "eat", "drink", "go", "come", "return", "buy", "sell", "read", "write", "listen", "speak", "watch", "see", "study", "do", "sleep", "wake up", "meet" -> if (verbPart == null) verbPart = ja
+                "beautiful", "good", "delicious", "big", "small", "busy", "free", "hot", "cold", "like", "hate", "new", "old" -> if (adjPart == null) adjPart = ja
+                else -> if (objectPart == null) objectPart = ja
+            }
+        }
+
+        val parts = mutableListOf<String>()
+        if (timePart != null) parts.add(timePart)
+        if (subjectPart != null) parts.add("${subjectPart}は")
+        if (placePart != null) {
+            if (verbPart in listOf("行く", "来る", "帰る")) parts.add("${placePart}へ")
+            else parts.add("${placePart}で")
+        }
+        if (objectPart != null) parts.add("${objectPart}を")
+        if (verbPart != null) {
+            val conj = politeVerbForms[verbPart]?.get(aspect) ?: "${verbPart}ます"
+            parts.add(conj)
+        } else if (adjPart != null) {
+            parts.add("${adjPart}です")
+        }
+
+        val res = parts.joinToString("")
+        return if (res.isNotBlank()) "$res。" else ""
     }
 }
