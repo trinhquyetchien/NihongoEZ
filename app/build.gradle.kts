@@ -7,12 +7,38 @@ android {
     namespace = "com.onis.kanji"
     compileSdk = 37
 
+    // Release signing is opt-in. CI/local builds without all values use the
+    // debug key instead of relying on credentials committed to the repository.
+    val releaseKeystorePath = providers.environmentVariable("RELEASE_KEYSTORE_PATH")
+        .orElse(providers.gradleProperty("RELEASE_KEYSTORE_PATH"))
+        .orNull
+    val releaseStorePassword = providers.environmentVariable("RELEASE_STORE_PASSWORD")
+        .orElse(providers.gradleProperty("RELEASE_STORE_PASSWORD"))
+        .orNull
+    val releaseKeyAlias = providers.environmentVariable("RELEASE_KEY_ALIAS")
+        .orElse(providers.gradleProperty("RELEASE_KEY_ALIAS"))
+        .orNull
+    val releaseKeyPassword = providers.environmentVariable("RELEASE_KEY_PASSWORD")
+        .orElse(providers.gradleProperty("RELEASE_KEY_PASSWORD"))
+        .orNull
+    val releaseKeystoreFile = releaseKeystorePath?.let(::file)
+    val hasReleaseSigning = releaseKeystoreFile?.isFile == true &&
+        !releaseStorePassword.isNullOrBlank() &&
+        !releaseKeyAlias.isNullOrBlank() &&
+        !releaseKeyPassword.isNullOrBlank()
+
     defaultConfig {
         applicationId = "com.onis.kanji"
         minSdk = 24
         targetSdk = 37
-        versionCode = 8
-        versionName = "1.0.7"
+        versionCode = 9
+        versionName = "1.0.8"
+
+        // Release only phone ABIs. x86/x86_64 are emulator targets and add
+        // roughly 116 MiB of PyTorch native binaries to a universal APK.
+        ndk {
+            abiFilters += listOf("arm64-v8a", "armeabi-v7a")
+        }
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -25,11 +51,15 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-            signingConfig = signingConfigs.create("release") {
-                storeFile = file("release-keystore.jks")
-                storePassword = "oniskanji123"
-                keyAlias = "my-key-alias"
-                keyPassword = "oniskanji123"
+            signingConfig = if (hasReleaseSigning) {
+                signingConfigs.create("release") {
+                    storeFile = releaseKeystoreFile
+                    storePassword = releaseStorePassword
+                    keyAlias = releaseKeyAlias
+                    keyPassword = releaseKeyPassword
+                }
+            } else {
+                signingConfigs.getByName("debug")
             }
         }
     }
