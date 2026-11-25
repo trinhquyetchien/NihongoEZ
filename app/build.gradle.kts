@@ -34,10 +34,10 @@ android {
         versionCode = 9
         versionName = "1.0.8"
 
-        // Release only phone ABIs. x86/x86_64 are emulator targets and add
-        // roughly 116 MiB of PyTorch native binaries to a universal APK.
+        // Release only the current 64-bit ARM phone ABI. Older 32-bit ARM
+        // devices and x86/x86_64 emulators are excluded from phone releases.
         ndk {
-            abiFilters += listOf("arm64-v8a", "armeabi-v7a")
+            abiFilters += listOf("arm64-v8a")
         }
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
